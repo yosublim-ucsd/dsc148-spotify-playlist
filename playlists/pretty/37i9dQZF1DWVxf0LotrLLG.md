@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,243 likes - 207 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,289 likes - 207 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 206 | [Nicotina](https://open.spotify.com/track/5qqLUk39VlGb3EiwImpM1h) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 3:13 |
 | 207 | [Se Siente Así](https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 2:29 |
 
-Snapshot ID: `MCxkOTMxNmY4ODE4NDUxNmU1MTY4MWNjYjUwMzliNWJiYzg1MDdlNzYx`
+Snapshot ID: `MCwwY2ViYjgzOWEwMmNjNGRhYWRmNWQzMDFhMWE4OWY3NmYwNzA5NzQ4`

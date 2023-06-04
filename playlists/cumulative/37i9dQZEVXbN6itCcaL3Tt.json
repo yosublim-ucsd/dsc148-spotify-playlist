@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
@@ -5810,7 +5810,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 193333,
       "name": "Discopolo",
       "url": "https://open.spotify.com/track/09m29we7x9tgxyo6f3OQ87"
@@ -6308,7 +6308,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "dres",
       "url": "https://open.spotify.com/track/6t2QcPF3STBCrqjOW7VECE"
@@ -9140,7 +9140,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 155954,
       "name": "Hotline",
       "url": "https://open.spotify.com/track/4II2mvGJcwuiXJe4CvLUIe"
@@ -9500,7 +9500,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -12910,7 +12910,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 186761,
       "name": "Lottery (feat. LU KALA)",
       "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
@@ -18669,6 +18669,32 @@
     },
     {
       "album": {
+        "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
+        "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna)",
+      "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
+    },
+    {
+      "album": {
         "name": "Poranna Rosa",
         "url": "https://open.spotify.com/album/2trJcFsqYgD6WUulg49RXO"
       },
@@ -19814,7 +19840,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 151048,
       "name": "Rarara",
       "url": "https://open.spotify.com/track/1VEzvYlDWGz3KhxGg73jHG"
@@ -21363,6 +21389,52 @@
     },
     {
       "album": {
+        "name": "SQNHEAD",
+        "url": "https://open.spotify.com/album/4zWkYzMYNwvCwFAVloExPA"
+      },
+      "artists": [
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb"
+        },
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "TomB",
+          "url": "https://open.spotify.com/artist/1Fr0Md8mOOg75V07Awv1G5"
+        },
+        {
+          "name": "Lanek",
+          "url": "https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153746,
+      "name": "SQNHEAD",
+      "url": "https://open.spotify.com/track/6kdAn7zMHOp57RlOgDel4j"
+    },
+    {
+      "album": {
         "name": "St. Tropez",
         "url": "https://open.spotify.com/album/6gALH2yehmTZDKwqSWG1vh"
       },
@@ -22258,7 +22330,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 181200,
       "name": "Ta Noc",
       "url": "https://open.spotify.com/track/7ADOC6GgrL0WlJEQ0ERKru"
@@ -22878,7 +22950,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 215453,
       "name": "To co masz Ty!",
       "url": "https://open.spotify.com/track/5GdFPcbGDQqtbVO2jl6Ez5"
@@ -24786,6 +24858,28 @@
     {
       "album": {
         "name": "Kr\u00f3l Albanii",
+        "url": "https://open.spotify.com/album/0Xnfexjtl2QEKhZUncNWDO"
+      },
+      "artists": [
+        {
+          "name": "Popek",
+          "url": "https://open.spotify.com/artist/4NtiLs5NpjgZDHNBEMbjKz"
+        },
+        {
+          "name": "Matheo",
+          "url": "https://open.spotify.com/artist/6YFFJXCSmDv4SJEi0JSp2S"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Wodospady",
+      "url": "https://open.spotify.com/track/1JTj0IjftS6uwwl92T7tRa"
+    },
+    {
+      "album": {
+        "name": "Kr\u00f3l Albanii",
         "url": "https://open.spotify.com/album/2FWl9XKJCblwqgxFedAGyV"
       },
       "artists": [
@@ -24800,7 +24894,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 182000,
       "name": "Wodospady",
       "url": "https://open.spotify.com/track/1mgtLt6PfNvYCmYQAiOzI5"
@@ -26258,6 +26352,24 @@
       "duration_ms": 227538,
       "name": "Zygzak",
       "url": "https://open.spotify.com/track/3rIdqj3VcQ78Szji5UKSuR"
+    },
+    {
+      "album": {
+        "name": "Z\u0142amane serce jest OK",
+        "url": "https://open.spotify.com/album/10S1H2U0D4zCBMzGp2ZN0O"
+      },
+      "artists": [
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199038,
+      "name": "Z\u0142amane serce jest OK",
+      "url": "https://open.spotify.com/track/2oKlfdH7fCAe8z747g4nB1"
     },
     {
       "album": {

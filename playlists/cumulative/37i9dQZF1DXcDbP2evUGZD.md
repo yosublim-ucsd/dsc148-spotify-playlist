@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2022</a>! Meet them first at the MU:CON 2022 official playlist\. \(뮤콘 2022 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-132 songs - 8 hr 51 min
+134 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Return](https://open.spotify.com/track/1Cc0qT3PT4uUaq5yDY5SOG) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Return](https://open.spotify.com/album/1uCKVS95jFfKuR1vUAvoxr) | 3:27 | 2022-09-27 |  |
 | [reyn \- KR version](https://open.spotify.com/track/5qTwTJu5yGjomZF68WgCmP) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Name of The Seasons](https://open.spotify.com/album/1PtJ3s9wuWD2WjtYV2BG1e) | 4:36 | 2022-09-27 |  |
 | [RUN](https://open.spotify.com/track/5EI1PqfGKGTk746tL2rqft) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [RUN](https://open.spotify.com/album/1A4uz12sqJwbiAOSyiKMVz) | 2:56 | 2022-09-27 | 2022-10-18 |
-| [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 | 2022-09-27 |  |
+| [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 | 2022-09-27 | 2023-06-04 |
+| [Running](https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6S327htVJnBi9GGZjUInui) | 3:29 | 2022-10-22 |  |
 | [Sae Byeol Oreum](https://open.spotify.com/track/7b5S1ZaWlbLtAXwSPFahLa) | [Tasty Shop](https://open.spotify.com/artist/7k7nMvpCsouxOy1U4XIGr3) | [2022 Jeju fire festival](https://open.spotify.com/album/3XA9bLdOZs7ttgCFPhu9Kl) | 3:35 | 2022-09-27 |  |
 | [Saffron](https://open.spotify.com/track/24pF9xmXQHOaN6NT4LIYVF) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Soldout smile](https://open.spotify.com/album/2gJG5yvDgCTpoP1WIMoYeB) | 3:47 | 2022-09-27 |  |
 | [SATURN](https://open.spotify.com/track/0Y3HMB9SilcStmngwA0wMt) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l), [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF) | [COSMOS Pt\. 2](https://open.spotify.com/album/3wU6x1PQpHxoTRZQir4IhG) | 4:54 | 2022-09-27 |  |
@@ -136,7 +137,8 @@
 | [나란바다 My Ocean](https://open.spotify.com/track/61wYlf38rsIiuwho8HAv0Y) | [SESANG](https://open.spotify.com/artist/5HhKUpoirT4YAwh6REQO03) | [나란바다 My Ocean](https://open.spotify.com/album/6UAJ6V6s3FhNyujlFeD0uY) | 4:18 | 2022-10-22 |  |
 | [눈이 내린다 It's Snowing \(feat\. Earip\)](https://open.spotify.com/track/1vf4FWtwAk47SWqD55osz1) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n), [earip](https://open.spotify.com/artist/0fYzE4pnLJxBOx7MsMXtAU) | [발라드 Ballad](https://open.spotify.com/album/4f28918eMeOEGiJNoR2yEk) | 5:39 | 2022-10-22 |  |
 | [새가 재처럼 날고 Birds Fly Like Ashes](https://open.spotify.com/track/1ORCzWPGXlWm6zBX37HVHT) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [이주영 Lee Joo Young](https://open.spotify.com/album/4ly25Ewq1QKLykA56eiS3M) | 5:53 | 2022-10-22 |  |
-| [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-09-27 |  |
+| [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-09-27 | 2023-06-04 |
+| [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 | 2022-10-22 |  |
 | [여름놀이 Summer Game](https://open.spotify.com/track/7qrOo0Hzv2qa9FllU4eyP3) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [But, All The Shining Things Are](https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg) | 4:15 | 2022-10-22 |  |
 | [오후에 Heart](https://open.spotify.com/track/15IPM2Wpw0RXuqSs0sYrgd) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [이주영 Lee Joo Young](https://open.spotify.com/album/4ly25Ewq1QKLykA56eiS3M) | 7:10 | 2022-10-22 |  |
 | [혼](https://open.spotify.com/track/63fnEF2CXivwsI11SDzx3u) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [틈](https://open.spotify.com/album/1yX7JNKgiXKbbrKVQ1Y1ks) | 6:39 | 2022-09-27 |  |

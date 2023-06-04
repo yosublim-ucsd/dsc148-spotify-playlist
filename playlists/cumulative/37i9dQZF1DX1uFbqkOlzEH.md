@@ -4,7 +4,7 @@
 
 > Crush on Crush's K\-R&B and musics.
 
-184 songs - 11 hr 5 min
+185 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Nighty Night \(feat\. Zion.T\)](https://open.spotify.com/track/4UW2LiHJa6nsazFCc8p8OH) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [From Midnight To Sunrise](https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h) | 3:43 | 2020-12-27 |  |
 | [Nighty Night 잘자 \(Feat\. Zion.T\)](https://open.spotify.com/track/27lq49cT4kZPmP1yEmBdbh) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [From Midnight To Sunrise](https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8) | 3:43 | 2020-12-27 | 2022-07-29 |
 | [NO SENSE \(Feat\. Crush\)](https://open.spotify.com/track/39EXwHjKDUVjvBu6Pv5SiH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 3:39 | 2020-12-27 |  |
-| [No Words](https://open.spotify.com/track/7swBBMpW5XH6M3NTklhvUX) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/3sW5PYJ95dBTCl1ozYPPAl) | 4:31 | 2020-12-27 |  |
+| [No Words](https://open.spotify.com/track/7swBBMpW5XH6M3NTklhvUX) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/3sW5PYJ95dBTCl1ozYPPAl) | 4:31 | 2020-12-27 | 2023-06-04 |
 | [No.5](https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Garden](https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR) | 3:09 | 2020-12-27 |  |
 | [none](https://open.spotify.com/track/0qVmnY53N0Qkb9YdOy4owI) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [none](https://open.spotify.com/album/2Cdj6ueAoLmNgI9AH5j5NF) | 3:39 | 2020-12-27 | 2022-07-29 |
 | [none](https://open.spotify.com/track/4wfIo76rs0RYlbgAX0FPIt) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [none](https://open.spotify.com/album/5keHOA8Q1rS1VIao9fQIs4) | 3:39 | 2020-12-27 |  |
@@ -192,5 +192,6 @@
 | [나빠](https://open.spotify.com/track/0iMGUZgpleuOUgZffF3ni2) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [나빠](https://open.spotify.com/album/0N2V8U3Xiu4nh5GNpFZXMe) | 3:14 | 2020-12-27 |  |
 | [놀면 뭐해?](https://open.spotify.com/track/1HNMxlYsCrpS7sLq3SnUq0) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua), [GRAY](https://open.spotify.com/artist/6LMcmmQS5He6ostugaq6Fv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [유플래쉬](https://open.spotify.com/album/7dtLwIwPbLtiUuM58dG5Z7) | 3:51 | 2020-12-27 | 2022-07-29 |
 | [놀면 뭐해?](https://open.spotify.com/track/54BUmWA6AIml1x6EiSgkTf) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua), [GRAY](https://open.spotify.com/artist/6LMcmmQS5He6ostugaq6Fv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [유플래쉬](https://open.spotify.com/album/3gBVwZjW9Db4zUN8HQI8qn) | 3:51 | 2020-12-27 |  |
+| [어떤 말도](https://open.spotify.com/track/2oadBiiGJRLD2RhOH5JSPz) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/6vo9lyFUD4THs2xFr3hj3c) | 4:31 | 2022-09-29 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

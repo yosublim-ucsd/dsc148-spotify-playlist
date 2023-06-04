@@ -4,7 +4,7 @@
 
 > 
 
-1,763 songs - 3 day 23 hr 30 min
+1,764 songs - 3 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1152,7 +1152,7 @@
 | [ordinary](https://open.spotify.com/track/15ZJyIXyoCARHV60eprsoE) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [yes & no](https://open.spotify.com/album/7oq0WKmeG97JxVBn3ggwp4) | 3:17 | 2021-08-05 |  |
 | [Oulala](https://open.spotify.com/track/499SvLeXfMRLhi6BSrPU3Y) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 4:24 | 2021-12-30 |  |
 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 | 2021-08-05 |  |
-| [Out of My Mood](https://open.spotify.com/track/63qSlpq5oOEl2OdAopqpRh) | [gate 문](https://open.spotify.com/artist/2RjaudCh2POfwdtuezLOlf) | [Out of My Mood](https://open.spotify.com/album/4ljnVdgaHEuGxwsdjEtgLj) | 4:22 | 2021-08-05 |  |
+| [Out of My Mood](https://open.spotify.com/track/63qSlpq5oOEl2OdAopqpRh) | [gate 문](https://open.spotify.com/artist/2RjaudCh2POfwdtuezLOlf), [brian mantra](https://open.spotify.com/artist/6HxsYKIz2g6hdn3gfdQRjt) | [Out of My Mood](https://open.spotify.com/album/4ljnVdgaHEuGxwsdjEtgLj) | 4:22 | 2021-08-05 |  |
 | [Out of Time](https://open.spotify.com/track/174NyAwu4bUBZs74OjRCSB) | [Harley Reid](https://open.spotify.com/artist/0TqMevMNn4lKNsqkqjCMB2), [líue](https://open.spotify.com/artist/3xFXCUS8RN65oCwsO4PJRI) | [Out of Time](https://open.spotify.com/album/2bVtVkN6zFthtbfTssS3jZ) | 2:03 | 2021-08-05 |  |
 | [OUTSIDE](https://open.spotify.com/track/193WM8SfGp3y5ZQjD0qSOD) | [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR) | [BEST HOUSE ON A BAD BLOCK](https://open.spotify.com/album/20S2pxu7617ZzH7lJA4kKL) | 2:32 | 2021-08-05 |  |
 | [Outside](https://open.spotify.com/track/0wv8dVb5uaLUdVrTSMbEpw) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Time 'n' Place](https://open.spotify.com/album/5Az98PddCKwVoorl9pK6U7) | 1:51 | 2022-04-05 |  |
@@ -1179,6 +1179,7 @@
 | [People](https://open.spotify.com/track/3S4oipK5JuTgMbawPUMphp) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 1:33 | 2022-04-09 |  |
 | [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 | 2022-12-30 |  |
 | [Peppermint](https://open.spotify.com/track/6pqsSDGg7akpAMXLSkRL00) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Micropop](https://open.spotify.com/album/1yY9R0IjLXGhf3aPb6Y63k) | 0:33 | 2021-08-05 |  |
+| [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 | 2023-06-04 |  |
 | [Pepsi/Coke Suicide](https://open.spotify.com/track/3w01niC4srlJrD3THYX3AB) | [Elvis Depressedly](https://open.spotify.com/artist/5a31Ij1sTxY9LUYVwgBp8m) | [Holo Pleasures / California Dreamin'](https://open.spotify.com/album/63TGL3uDNMNYEMnyDPiSsx) | 2:33 | 2022-04-09 |  |
 | [Perfect](https://open.spotify.com/track/2dzvnp3krOYOErUbsfBJrk) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Only The Beginning](https://open.spotify.com/album/6z1qeT7vI9YUsCHqufGWJy) | 2:41 | 2021-08-05 |  |
 | [Peroxide](https://open.spotify.com/track/5r0nz4nalNOBQAPKchQKRY) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb) | 3:34 | 2022-02-18 |  |

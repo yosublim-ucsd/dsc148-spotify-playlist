@@ -1596,6 +1596,24 @@
     {
       "album": {
         "name": "Que no me encuentre",
+        "url": "https://open.spotify.com/album/3gaiLCpJWQkxWLJ42NGvz8"
+      },
+      "artists": [
+        {
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186748,
+      "name": "Que no me encuentre",
+      "url": "https://open.spotify.com/track/0OUmcCghWzjfuaEo6kzUiJ"
+    },
+    {
+      "album": {
+        "name": "Que no me encuentre",
         "url": "https://open.spotify.com/album/0C0K2Mf3DyY7cgJoPgI5eH"
       },
       "artists": [
@@ -2332,7 +2350,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 233370,
       "name": "Yaya",
       "url": "https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs"

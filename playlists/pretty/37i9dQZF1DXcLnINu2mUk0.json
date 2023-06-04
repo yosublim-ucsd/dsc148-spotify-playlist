@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 33790,
+  "num_followers": 33842,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGM0M2EwMzVmMmZkYmU5M2JlOTE1MGY5ODFlMDRiYzEwOWUyYmQz",
+  "snapshot_id": "MCxjZTcxODgzNTVkZDdmMDRkYjE3NzM0M2RhNGVkODgyNWI4NTNiY2Vk",
   "tracks": [
     {
       "added_at": "2023-06-01 23:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
         "name": "19.2k",
         "url": "https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 193200,
       "name": "Ride (feat. B\u00e1rbara Bandeira)",
       "url": "https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
+        "name": "Lisabonna",
+        "url": "https://open.spotify.com/album/5oaOm217eIXa1xnPHaAN2a"
+      },
+      "artists": [
+        {
+          "name": "Florito",
+          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lisabonna",
+      "url": "https://open.spotify.com/track/4WvxDVwMqaqdwDrSSy7Vb6"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
         "name": "PRA MIM",
         "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 219968,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
-        "name": "Lisabonna",
-        "url": "https://open.spotify.com/album/5oaOm217eIXa1xnPHaAN2a"
-      },
-      "artists": [
-        {
-          "name": "Florito",
-          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lisabonna",
-      "url": "https://open.spotify.com/track/4WvxDVwMqaqdwDrSSy7Vb6"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
         "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
         "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 314009,
       "name": "Conversas",
       "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf"
+      },
+      "artists": [
+        {
+          "name": "Cairo",
+          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
         "name": "Acabar Na Cama",
         "url": "https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ"
       },
@@ -1199,6 +1215,22 @@
       "duration_ms": 156534,
       "name": "Acabar Na Cama",
       "url": "https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/0D8CRbaOwXs9QBcwXNFdGc"
+      },
+      "artists": [
+        {
+          "name": "Rita Laranjeira",
+          "url": "https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b"
+        }
+      ],
+      "duration_ms": 217714,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/2Fcc9TGfcw6BQbScMxWeua"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -1239,42 +1271,6 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "So In Love",
-        "url": "https://open.spotify.com/album/5xb7REvTxublNuPzzat1Fz"
-      },
-      "artists": [
-        {
-          "name": "Also",
-          "url": "https://open.spotify.com/artist/2nmwVsly6vXKUSKy6MW0Xm"
-        },
-        {
-          "name": "Lu\u00eds Braz Teixeira",
-          "url": "https://open.spotify.com/artist/6kjqZjez1wv0g2s2BiE0Z4"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/2Nc8rUi8Hqnfnqr1FtCR9y"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf"
-      },
-      "artists": [
-        {
-          "name": "Cairo",
-          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
         "name": "Estic\u00e3o",
         "url": "https://open.spotify.com/album/5N5dlHwrT4sV0s1a6ubUWd"
       },
@@ -1295,6 +1291,26 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
+        "name": "So In Love",
+        "url": "https://open.spotify.com/album/5xb7REvTxublNuPzzat1Fz"
+      },
+      "artists": [
+        {
+          "name": "Also",
+          "url": "https://open.spotify.com/artist/2nmwVsly6vXKUSKy6MW0Xm"
+        },
+        {
+          "name": "Lu\u00eds Braz Teixeira",
+          "url": "https://open.spotify.com/artist/6kjqZjez1wv0g2s2BiE0Z4"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/2Nc8rUi8Hqnfnqr1FtCR9y"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
         "name": "Faltou Mais Amor",
         "url": "https://open.spotify.com/album/6OqWMI2Y7hTpeCrsJVqTAY"
       },
@@ -1311,26 +1327,6 @@
       "duration_ms": 184505,
       "name": "Faltou Mais Amor",
       "url": "https://open.spotify.com/track/3Q38gjfJGqWMh792iL6Owg"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
-        "name": "\u00c0s Vezes",
-        "url": "https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3"
-      },
-      "artists": [
-        {
-          "name": "Sien Flamuri",
-          "url": "https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD"
-        },
-        {
-          "name": "mizt",
-          "url": "https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc"
-        }
-      ],
-      "duration_ms": 163061,
-      "name": "\u00c0s Vezes",
-      "url": "https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5"
     },
     {
       "added_at": "2023-06-01 23:00:00",

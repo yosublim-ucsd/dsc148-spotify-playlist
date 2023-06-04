@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks of today ft. Metro Boomin, Nicki Minaj, Lil Uzi Vert and more",
-  "num_followers": 2223762,
+  "num_followers": 2223605,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmJjOGFhOWQ1NjhjYzU3ZjgzZjNkNGUzYzFlMGMyODRmOWIxZTc0",
+  "snapshot_id": "MCxlMTNmNDQxYjY4MDJhZTFkZmYyZjAzNmY1ODIzZGE0NWRjMDA2ODE4",
   "tracks": [
     {
       "added_at": "2023-06-02 12:48:16",
@@ -75,6 +75,26 @@
       "duration_ms": 172035,
       "name": "I'm Geekin (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i"
+    },
+    {
+      "added_at": "2023-06-04 00:24:49",
+      "album": {
+        "name": "Put It On Da Floor Again (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "Put It On Da Floor Again (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
       "added_at": "2023-06-02 12:48:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Tigercub
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,636 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,779 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 111 | [Chasing Stars](https://open.spotify.com/track/5uWWDJfWRHtd3F5tAMgqyp) | [Royal Bliss](https://open.spotify.com/artist/2DntubHirEICSdXa23WNpV) | [Survival](https://open.spotify.com/album/20nHfQZxWN5YHRVRzMGVyL) | 3:12 |
 | 112 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 |
 | 113 | [S.H.T](https://open.spotify.com/track/2nzWTaexL4lGqHLSAyQvYU) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [S.H.T](https://open.spotify.com/album/2ZhEq7niZx07CQkh2x5qbL) | 3:07 |
-| 114 | [Missile](https://open.spotify.com/track/7tk7GTuflatSdYiJW97Itc) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Missile](https://open.spotify.com/album/4WArPDAzvEWVt99SwPqfQ5) | 2:19 |
+| 114 | [Missile](https://open.spotify.com/track/1LNE7fC5D7fjipwng8IXGu) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [NIGHTVISION](https://open.spotify.com/album/04Wf69y2V5QM4dl5XKTT7Q) | 2:19 |
 | 115 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF) | 3:06 |
 | 116 | [Another Way](https://open.spotify.com/track/2F0nY9fBUjceQEhH7L48zK) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Another Way](https://open.spotify.com/album/6V7n8Wl01gSsYOAlZwudcq) | 3:37 |
 | 117 | [Good Time](https://open.spotify.com/track/52mt7K5dPckj5TD2XzZwj2) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Good Time](https://open.spotify.com/album/3GMKkw7aQfIO3lGFg6jK76) | 2:52 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 149 | [Foregone, Pt\. 2](https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 4:30 |
 | 150 | [One More Day](https://open.spotify.com/track/4x9A6Ymy2u6FfoE4ba4iP3) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 4:28 |
 
-Snapshot ID: `MCw2YWU4ZjZhODNkOTNhNzJlNmFlMDgyYjVmMjUyZGI1MDNkY2FjOGNl`
+Snapshot ID: `MCw2ZDllM2VhZTQ2YTU5OTc0Y2M2OWM2YmFmMGIyYzNjNDI3NmI0Yjk0`

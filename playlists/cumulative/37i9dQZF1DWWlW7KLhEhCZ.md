@@ -673,6 +673,6 @@
 | [Ópera](https://open.spotify.com/track/5Y5nAka7nWX2teJkh6oK5y) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [4LIFE Collective](https://open.spotify.com/artist/5b0GvhvDm06xgOF2AuOyVn) | [Ópera](https://open.spotify.com/album/4x4EmEYwiLyKdJ3xnc7wrd) | 2:26 | 2023-01-13 | 2023-03-04 |
 | [Ô Mãe](https://open.spotify.com/track/37A1beEC95fCBRge23pSFT) | [Aleck Johnson](https://open.spotify.com/artist/4OFzvi3IhVihDXIEo6T5QA) | [Ô Mãe](https://open.spotify.com/album/45bkXD1V749cJEXenlh6fU) | 2:12 | 2022-05-08 | 2022-05-28 |
 | [Última Noite](https://open.spotify.com/track/6jmSTtldKhEMkZWq6XZRAb) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [Última Noite](https://open.spotify.com/album/3L4JBtJOVODvgC9C7GD1I2) | 2:47 | 2023-02-10 | 2023-03-11 |
-| [Única](https://open.spotify.com/track/23gS3XhYzBDccQQguKfH5k) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Taurus](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 1:53 | 2023-06-02 |  |
+| [Única](https://open.spotify.com/track/23gS3XhYzBDccQQguKfH5k) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 1:53 | 2023-06-02 |  |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

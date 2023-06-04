@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 61548,
+  "num_followers": 61569,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzBhODc2NzMwZTE3MmUxZDgxZWU3NWU2YjZkNmY0ZjI5OWUwYTVm",
+  "snapshot_id": "MCwyNjNjNWQ4YWMxYjgyNGU1NjVkNjMzOTgwYzA4ZTQwNGU3ZDk0Mjg3",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "III\u00b7I",
-        "url": "https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r"
-      },
-      "artists": [
-        {
-          "name": "Barney Gombo",
-          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
-        }
-      ],
-      "duration_ms": 191346,
-      "name": "Lav\u00e1ntula",
-      "url": "https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "No Digas Lo Siento",
         "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 234773,
       "name": "Escribe Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Un Poco de Ti",
+        "url": "https://open.spotify.com/album/5rlV10enxQTX6glKaLgRei"
+      },
+      "artists": [
+        {
+          "name": "Abril 88",
+          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
+        }
+      ],
+      "duration_ms": 191043,
+      "name": "Nunca Estar\u00e1 Bien",
+      "url": "https://open.spotify.com/track/1Ify2EL1uHvYRuA6yXzVEV"
     },
     {
       "added_at": "2023-05-19 06:00:00",

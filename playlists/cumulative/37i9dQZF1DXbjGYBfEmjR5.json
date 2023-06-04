@@ -6986,10 +6986,32 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 285698,
       "name": "So Shine",
       "url": "https://open.spotify.com/track/3JSpcP0lrONHMgJ10gDLA3"
+    },
+    {
+      "album": {
+        "name": "So Shine",
+        "url": "https://open.spotify.com/album/08IS1InlosyXzpDpnsqv1s"
+      },
+      "artists": [
+        {
+          "name": "yuugen",
+          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
+        },
+        {
+          "name": "Cabro Artico",
+          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285721,
+      "name": "So Shine",
+      "url": "https://open.spotify.com/track/1Zk5sQZtwvmfCdVRe5NNVx"
     },
     {
       "album": {

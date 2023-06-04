@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDA3ZGYwN2Q1ZWQ0MzM0ZDUzN2UzZDA1MmY2NDhmNGE3OTliODZi",
+  "snapshot_id": "MCwwNmNmOTdlZjlhYTExZWUxYjY5NjQ2Yzk4OTU2OTM1Y2U5NGQ2YjMw",
   "tracks": [
     {
       "added_at": "2023-01-27 10:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-01-27 10:00:00",
       "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "duration_ms": 145240,
+      "name": "It's Peppa Pig",
+      "url": "https://open.spotify.com/track/3XKXa1U5reVWFTvGlBbJ7B"
+    },
+    {
+      "added_at": "2023-01-27 10:00:00",
+      "album": {
         "name": "Dance Mode",
         "url": "https://open.spotify.com/album/7EAVXGDsBOO7PTBE782Pyk"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 118893,
       "name": "Dance Mode",
       "url": "https://open.spotify.com/track/5lXGkq8j4FpQ5SKL4YG4rS"
-    },
-    {
-      "added_at": "2023-01-27 10:00:00",
-      "album": {
-        "name": "My First Album",
-        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
-      },
-      "artists": [
-        {
-          "name": "Peppa Pig",
-          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
-        }
-      ],
-      "duration_ms": 145240,
-      "name": "It's Peppa Pig",
-      "url": "https://open.spotify.com/track/3XKXa1U5reVWFTvGlBbJ7B"
     },
     {
       "added_at": "2023-01-27 10:00:00",
@@ -367,6 +367,38 @@
     {
       "added_at": "2023-01-27 10:00:00",
       "album": {
+        "name": "Teen Titans Go! To The Movies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0JjBO2WnSE6pjK4TC9Jci2"
+      },
+      "artists": [
+        {
+          "name": "Greg Cipes",
+          "url": "https://open.spotify.com/artist/6L3vVRDyG1FxVkpfkY27oH"
+        },
+        {
+          "name": "Scott Menville",
+          "url": "https://open.spotify.com/artist/7JrGE2z9m0yDVXELO7o9jB"
+        },
+        {
+          "name": "Khary Payton",
+          "url": "https://open.spotify.com/artist/6NhL2mZ0OKFLvYIeyi5rd0"
+        },
+        {
+          "name": "Tara Strong",
+          "url": "https://open.spotify.com/artist/4CN7jn6DiWNaDnaJdhBMKp"
+        },
+        {
+          "name": "Hynden Walch",
+          "url": "https://open.spotify.com/artist/4yPSwzNyZhysv1v9FlV5jj"
+        }
+      ],
+      "duration_ms": 97973,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/4AORpy9kuI37FvgTF3BWrd"
+    },
+    {
+      "added_at": "2023-01-27 10:00:00",
+      "album": {
         "name": "Disney Junior Music: T.O.T.S. (Vol. 1)",
         "url": "https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG"
       },
@@ -419,38 +451,6 @@
     {
       "added_at": "2023-01-27 10:00:00",
       "album": {
-        "name": "Teen Titans Go! To The Movies (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0JjBO2WnSE6pjK4TC9Jci2"
-      },
-      "artists": [
-        {
-          "name": "Greg Cipes",
-          "url": "https://open.spotify.com/artist/6L3vVRDyG1FxVkpfkY27oH"
-        },
-        {
-          "name": "Scott Menville",
-          "url": "https://open.spotify.com/artist/7JrGE2z9m0yDVXELO7o9jB"
-        },
-        {
-          "name": "Khary Payton",
-          "url": "https://open.spotify.com/artist/6NhL2mZ0OKFLvYIeyi5rd0"
-        },
-        {
-          "name": "Tara Strong",
-          "url": "https://open.spotify.com/artist/4CN7jn6DiWNaDnaJdhBMKp"
-        },
-        {
-          "name": "Hynden Walch",
-          "url": "https://open.spotify.com/artist/4yPSwzNyZhysv1v9FlV5jj"
-        }
-      ],
-      "duration_ms": 97973,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/4AORpy9kuI37FvgTF3BWrd"
-    },
-    {
-      "added_at": "2023-01-27 10:00:00",
-      "album": {
         "name": "DreamWorks Trolls - The Beat Goes On!",
         "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-01-27 10:00:00",
       "album": {
-        "name": "Disney Junior Music: T.O.T.S. (Vol. 1)",
-        "url": "https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG"
-      },
-      "artists": [
-        {
-          "name": "T.O.T.S. - Cast",
-          "url": "https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4"
-        }
-      ],
-      "duration_ms": 49902,
-      "name": "Bringing This Baby Home",
-      "url": "https://open.spotify.com/track/4cPjIkxqw7KKVkPe6i8lBf"
-    },
-    {
-      "added_at": "2023-01-27 10:00:00",
-      "album": {
         "name": "Disney Junior Music: Fancy Nancy",
         "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
       },
@@ -515,22 +499,6 @@
       "duration_ms": 53568,
       "name": "Add a Little Fancy (Fancy Nancy Main Title)",
       "url": "https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3"
-    },
-    {
-      "added_at": "2023-01-27 10:00:00",
-      "album": {
-        "name": "Shake It Up (From \"Shake It Up\")",
-        "url": "https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 180826,
-      "name": "Shake It Up - From \"Shake It Up\"",
-      "url": "https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi"
     },
     {
       "added_at": "2023-01-27 10:00:00",
@@ -551,6 +519,38 @@
       "duration_ms": 84826,
       "name": "F.U.N. Song",
       "url": "https://open.spotify.com/track/0gdLTqxAY4DDUQxXzmwj1z"
+    },
+    {
+      "added_at": "2023-01-27 10:00:00",
+      "album": {
+        "name": "Disney Junior Music: T.O.T.S. (Vol. 1)",
+        "url": "https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG"
+      },
+      "artists": [
+        {
+          "name": "T.O.T.S. - Cast",
+          "url": "https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4"
+        }
+      ],
+      "duration_ms": 49902,
+      "name": "Bringing This Baby Home",
+      "url": "https://open.spotify.com/track/4cPjIkxqw7KKVkPe6i8lBf"
+    },
+    {
+      "added_at": "2023-01-27 10:00:00",
+      "album": {
+        "name": "Shake It Up (From \"Shake It Up\")",
+        "url": "https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Shake It Up - From \"Shake It Up\"",
+      "url": "https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi"
     },
     {
       "added_at": "2023-01-27 10:00:00",

@@ -1580,10 +1580,28 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 234103,
       "name": "P.S. I Love You",
       "url": "https://open.spotify.com/track/2lMPtp9AVY3LkKreXg38gm"
+    },
+    {
+      "album": {
+        "name": "Piece / 1\uc9d1",
+        "url": "https://open.spotify.com/album/0XMpFHpJUmTJ2boT5MseZT"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234004,
+      "name": "P.S.I LOVE YOU",
+      "url": "https://open.spotify.com/track/1T1QoOL9HT3DA68kIh17xL"
     },
     {
       "album": {
@@ -2114,7 +2132,7 @@
     {
       "album": {
         "name": "Mask Singer 14th (Live Version)",
-        "url": "https://open.spotify.com/album/0rJFjRJkxSp4SBlldulQnp"
+        "url": "https://open.spotify.com/album/7ASCzTIuaYbAsZjIGh09wh"
       },
       "artists": [
         {
@@ -2125,6 +2143,24 @@
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236879,
+      "name": "\uac00\uc9c8 \uc218 \uc5c6\ub294 \ub108 (\ud654\uc0dd\ubc29\uc2e4 \ud074\ub808\uc624\ud30c\ud2b8\ub77c) (Bonus Track)",
+      "url": "https://open.spotify.com/track/36WthxpEXVwtEhJQ64iryj"
+    },
+    {
+      "album": {
+        "name": "Mask Singer 14th (Live Version)",
+        "url": "https://open.spotify.com/album/0rJFjRJkxSp4SBlldulQnp"
+      },
+      "artists": [
+        {
+          "name": "Kim Yeon Woo",
+          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
       "duration_ms": 236881,
       "name": "\uac00\uc9c8 \uc218 \uc5c6\ub294 \ub108 (\ud654\uc0dd\ubc29\uc2e4 \ud074\ub808\uc624\ud30c\ud2b8\ub77c) Bonus Track Version",
       "url": "https://open.spotify.com/track/3dWa7UqLOWwew2zuPmdXoe"
@@ -2293,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "Kim Hyung Joong 1",
+        "url": "https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyung Joong",
+          "url": "https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269872,
+      "name": "\uadf8\ub7ac\ub098\ubd10",
+      "url": "https://open.spotify.com/track/4bDrbZHIKab9oKdEmkO4TU"
+    },
+    {
+      "album": {
         "name": "Kim Hyung Joong",
         "url": "https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN"
       },
@@ -2304,7 +2358,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 269832,
       "name": "\uadf8\ub7ac\ub098\ubd10",
       "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
@@ -2815,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "\uc784\uc7ac\ubc94 II / 2\uc9d1",
+        "url": "https://open.spotify.com/album/1cLD9RhI7VomKeQcbBpxvu"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269976,
+      "name": "\ube44\uc0c1",
+      "url": "https://open.spotify.com/track/29acMabyXUwGFEvfqLJM7a"
+    },
+    {
+      "album": {
         "name": "Desire To Fly",
         "url": "https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3"
       },
@@ -2826,7 +2898,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 270001,
       "name": "\ube44\uc0c1",
       "url": "https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM"
@@ -2880,7 +2952,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 261479,
       "name": "\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740 \uc0c1\ucc98",
       "url": "https://open.spotify.com/track/6gAnaNgYUXcFXIfFrV88p7"
@@ -2905,6 +2977,28 @@
     },
     {
       "album": {
+        "name": "Piece / 1\uc9d1",
+        "url": "https://open.spotify.com/album/0XMpFHpJUmTJ2boT5MseZT"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        },
+        {
+          "name": "\uc784\uc7ac\ubc94",
+          "url": "https://open.spotify.com/artist/0xTmPgGPMEHIYuRiu5J7CD"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261381,
+      "name": "\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740\uc0c1\ucc98 (DUET WITH \uc784\uc7ac\ubc94)",
+      "url": "https://open.spotify.com/track/6NPtRKUzSeGccAxOSUMuMI"
+    },
+    {
+      "album": {
         "name": "\ub098\ub294 \uac00\uc218\ub2e4 2 2012 \uac00\uc655\uc804 \uac1c\ub9c9\uc81c",
         "url": "https://open.spotify.com/album/2Wz7LaK00NEFJBIu6GZTBM"
       },
@@ -2923,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "K\ud31d \uc2a4\ud0c0 \uc2dc\uc98c4 '\uc0ac\ub791\uc5d0 \ube60\uc9c0\uace0 \uc2f6\ub2e4'",
+        "url": "https://open.spotify.com/album/3OX8ZkRAD8JffqLs7p8zo1"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145294,
+      "name": "\uc0ac\ub791\uc5d0 \ube60\uc9c0\uace0 \uc2f6\ub2e4",
+      "url": "https://open.spotify.com/track/5QxIGFY3RWXRp1KoqgcoWj"
+    },
+    {
+      "album": {
         "name": "K\ud31d \uc2a4\ud0c0 \uc2dc\uc98c4 \uc0ac\ub791\uc5d0 \ube60\uc9c0\uace0 \uc2f6\ub2e4",
         "url": "https://open.spotify.com/album/1m6rKT2P71vlSPQ3zCZgUk"
       },
@@ -2934,7 +3046,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 145333,
       "name": "\uc0ac\ub791\uc5d0 \ube60\uc9c0\uace0 \uc2f6\ub2e4",
       "url": "https://open.spotify.com/track/2e460Sd7WZ6BQTNuzK3FwE"
@@ -3032,7 +3144,7 @@
     {
       "album": {
         "name": "Mask Singer 106th (Live Version)",
-        "url": "https://open.spotify.com/album/5ve1qRKiahwjoK4kzwtiUv"
+        "url": "https://open.spotify.com/album/5Z6fk6ub401w3XKHSU5iMx"
       },
       "artists": [
         {
@@ -3043,6 +3155,24 @@
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 271622,
+      "name": "\uc11c\ucabd\ud558\ub298 (\uc5ec\uc2ec\ub3c4\ub451 \uad34\ub3c4\ub8e8\ud321)",
+      "url": "https://open.spotify.com/track/0snkHIizkj5tRDAzQndDnS"
+    },
+    {
+      "album": {
+        "name": "Mask Singer 106th (Live Version)",
+        "url": "https://open.spotify.com/album/5ve1qRKiahwjoK4kzwtiUv"
+      },
+      "artists": [
+        {
+          "name": "LEE HONG GI",
+          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
       "duration_ms": 271676,
       "name": "\uc11c\ucabd\ud558\ub298 (\uc5ec\uc2ec\ub3c4\ub451 \uad34\ub3c4\ub8e8\ud321)",
       "url": "https://open.spotify.com/track/7A51xRwUHXZDuOx7O7MjIg"

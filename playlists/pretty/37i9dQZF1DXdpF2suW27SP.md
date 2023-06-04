@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,367 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,391 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Quando Quiseres](https://open.spotify.com/track/5MGLrlZlzfCuosuAR6Q0xJ) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Mr\. Marley](https://open.spotify.com/artist/1IFNNxxrEmMT7e5H9ioRSB) | [Quando Quiseres](https://open.spotify.com/album/7zBnYqXux65VVgVWoo1V9B) | 2:58 |
 | 75 | [Impressionanti](https://open.spotify.com/track/0yiExFdxS1wafmmTcKdEHA) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Nu Ta Combina](https://open.spotify.com/album/0HrHUZGAPxXZtenHkbPczt) | 3:20 |
 
-Snapshot ID: `MCxmZGFkZjdjYjc3NTQ3YWFkMTAzNzUwOGViYWQ4ZjY2MDM2NWI5MzIx`
+Snapshot ID: `MCxmZDY0YzllMjEwOGI0ODgwMmU2Nzg5MGQ1ZDA0OGJjMDY2MzIyOTBm`

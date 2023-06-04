@@ -1,12 +1,12 @@
 {
   "description": "Today's biggest Dance hits! Cover: Odd Mobb",
-  "num_followers": 404003,
+  "num_followers": 404089,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmU5NDU1NTNiNjQxMWY3NzUwMDM1ZTIzMmRhMjZmOGYwNjFhMWRj",
+  "snapshot_id": "MCw4YzhlYzdkMDdiY2E2NzNjNmFhYjAxYThmNzM4ZGU1YWMzNmYwMmRi",
   "tracks": [
     {
       "added_at": "2023-06-01 14:00:00",
@@ -775,8 +775,8 @@
     {
       "added_at": "2023-06-01 14:00:00",
       "album": {
-        "name": "All Eyez On Me (Gangsta Remix)",
-        "url": "https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS"
+        "name": "All Eyez on Me (Slowed Version Instrumental) [feat. Dndm & Shahlo Ahmedova]",
+        "url": "https://open.spotify.com/album/471eYkSDB1MkcS4izdsibh"
       },
       "artists": [
         {
@@ -786,11 +786,15 @@
         {
           "name": "DNDM",
           "url": "https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA"
+        },
+        {
+          "name": "Shahlo Ahmedova",
+          "url": "https://open.spotify.com/artist/2zBy4hr2CXGCAiQFv38Xwf"
         }
       ],
       "duration_ms": 165557,
-      "name": "All Eyez On Me - Gangsta Remix",
-      "url": "https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc"
+      "name": "All Eyez on Me (Slowed Version Instrumental) [feat. Dndm & Shahlo Ahmedova]",
+      "url": "https://open.spotify.com/track/14HjSoZazqde5E418vViOo"
     },
     {
       "added_at": "2023-06-01 14:00:00",

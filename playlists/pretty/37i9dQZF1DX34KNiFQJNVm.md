@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Hariel, The Weeknd com Playboi Carti e Madonna, Iguinho e Lulinha, Mc Pedrinho, Michel Teló com Clayton & Romário e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,876,637 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,876,977 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 36 | [Deus Me Honrou](https://open.spotify.com/track/08Am9M1y1BuHKTnbFpJ24n) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY) | [Deus Me Honrou](https://open.spotify.com/album/0su5yhshNigVS4TjopIAq6) | 2:06 |
 | 37 | [Macumbinha](https://open.spotify.com/track/5pY7pYPhDq7gMyAb4WPYOA) | [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv), [DJ Seduty](https://open.spotify.com/artist/5UmXYUwWfD7eeTj1gPT7yg), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Macumbinha](https://open.spotify.com/album/20bJzcTlglTjwbQigHshnQ) | 2:32 |
 | 38 | [Seu Namorado é Playboy](https://open.spotify.com/track/73JahDSn0kwEHFZtJzYXf0) | [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Nord Gang](https://open.spotify.com/artist/5i1hyePuUBJf1Yxv5V5WqA) | [Seu Namorado é Playboy](https://open.spotify.com/album/57bzWfU1i2nCCEzAord7Kz) | 2:39 |
-| 39 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Ths](https://open.spotify.com/artist/5dT6kOihM0CeJJ8O4JR5sh) | [Taurus](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
+| 39 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Ths](https://open.spotify.com/artist/5dT6kOihM0CeJJ8O4JR5sh) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
 | 40 | [Bom Malandro](https://open.spotify.com/track/6SVzTUMPTde6IPmV9h9DMk) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT) | [Bom Malandro](https://open.spotify.com/album/6I7152NeA4322oACHy16Kh) | 3:43 |
 | 41 | [Pai de Moleque](https://open.spotify.com/track/6sGK0gtDBCsLXqoy4EpTCt) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [DJ Dan Tá Ligado](https://open.spotify.com/artist/3mzo8dpOOwDvtPm2s2SNM3) | [Pai de Moleque](https://open.spotify.com/album/0WajGiBMWn7cMHgSjn5Zi6) | 2:15 |
 | 42 | [Plexo Solar](https://open.spotify.com/track/10Sqffs1pz1d6OvH0uxgHj) | [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Dassalu](https://open.spotify.com/album/6x8n0iGSeiG79InFBDmVpt) | 3:06 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 57 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 |
 | 58 | [Dentro Da Evoque](https://open.spotify.com/track/3Kk8jhhS1FG4LHZbIpoaOA) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm) | [Dentro Da Evoque](https://open.spotify.com/album/1121pX0ezDwcssziW7BDVW) | 2:11 |
 | 59 | [O Nosso Amor na Multidão](https://open.spotify.com/track/6dmLMfloBvA185zo0JCNNr) | [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [O Nosso Amor Na Multidão](https://open.spotify.com/album/11yEVzvaRNoT4944FpirGv) | 2:47 |
-| 60 | [dez coisas](https://open.spotify.com/track/5GaOi48vnvl7uz7qvbC2mX) | [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [dez coisas](https://open.spotify.com/album/2pAb1LrtxpGhJrnRWOyo9s) | 3:20 |
+| 60 | [dez coisas \(feat\. Nairo\)](https://open.spotify.com/track/5GaOi48vnvl7uz7qvbC2mX) | [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [dez coisas \(feat\. Nairo\)](https://open.spotify.com/album/2pAb1LrtxpGhJrnRWOyo9s) | 3:20 |
 | 61 | [Que Sorte](https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Gente](https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z) | 3:16 |
 | 62 | [Don't Give It Away \(with Chris Brown\)](https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Don't Give It Away](https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA) | 3:26 |
 | 63 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/3kH94a1MQM7YrpsZRWuXrh) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Keep It Low \(feat\. Future\)](https://open.spotify.com/album/30XjUCo4sqJqNuYuJdYAFu) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Daydream](https://open.spotify.com/track/6JukP705SOkqUR8lvtFu0F) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [I Got My Eyes Fixed](https://open.spotify.com/album/2aig0xx4sYdxXSydJfX4j6) | 2:36 |
 | 100 | [Triptamina](https://open.spotify.com/track/0X8Hlp5uBjxnKHchFD8W6A) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [Triptamina](https://open.spotify.com/album/3vrmD0UDdhvUuwV5N3foZi) | 2:55 |
 
-Snapshot ID: `MCxjZDFkMmFlMjY5MjlkNDYxOWNhMzAwMDU1YTM4ZjJjOTQxY2I3YTIw`
+Snapshot ID: `MCw3Yjg3MTNkYTMyMWY1YWQxMjUzZTBhOTdlMzIwMzYzNGU2YWIyNmYz`

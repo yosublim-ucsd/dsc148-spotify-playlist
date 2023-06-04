@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023\. Arlo Parks drops her sophomore album.
 
-1,607 songs - 4 day 0 hr 24 min
+1,608 songs - 4 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1435,7 +1435,7 @@
 | [Together](https://open.spotify.com/track/0QSPFCvGJlu0xR51gXG70M) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:20 | 2020-10-29 | 2020-12-04 |
 | [Together](https://open.spotify.com/track/105X09ekRhUsv8R9VryTn0) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Together](https://open.spotify.com/album/7jk3Pne5tqyyLWWKqJ1Orf) | 3:20 | 2020-12-04 | 2021-08-01 |
 | [Tokyo](https://open.spotify.com/track/6fqVZogOXWFBuMEP4hfDLh) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Tokyo](https://open.spotify.com/album/03WRNnP9QvdNViaJwnZFLV) | 3:43 | 2019-10-25 | 2020-03-14 |
-| [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 | 2023-04-28 |  |
+| [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 | 2023-04-28 | 2023-06-04 |
 | [Tombstone Grey](https://open.spotify.com/track/6CVBXF8MOp8nLqnAnsPyNg) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [The Story Of Hugo](https://open.spotify.com/album/7bdEP7J8ePNrO9tdENVJIZ) | 2:48 | 2021-07-19 | 2022-04-04 |
 | [Tomcat Disposables](https://open.spotify.com/track/3Co6zjPlUCDgm8jDOhG5EE) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Tomcat Disposables](https://open.spotify.com/album/46PVFb16arY86SVnnRmzET) | 5:58 | 2022-05-06 | 2022-05-14 |
 | [Tommy](https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Tommy](https://open.spotify.com/album/5BjjgpESJZDI1ievIXFVsu) | 3:33 | 2021-11-19 | 2022-03-11 |
@@ -1454,6 +1454,7 @@
 | [Touch](https://open.spotify.com/track/3A1kkAIXl4IPxeJRCCF4Bc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:52 | 2019-11-01 | 2020-05-15 |
 | [Tough Love](https://open.spotify.com/track/7LwBvdSDLkoZpqvDCkBqQ7) | [ALASKALASKA](https://open.spotify.com/artist/78CgVNlDQMvOVDIrRL84tJ) | [The Dots](https://open.spotify.com/album/6BZUUowpkP5kvdNTZzvk1h) | 3:12 | 2019-05-26\* | 2019-08-13 |
 | [Treat You Right](https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Treat You Right](https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2) | 4:21 | 2020-05-15 | 2020-09-04 |
+| [Triumph](https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [More Photographs \(A Continuum\)](https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl) | 4:13 | 2023-06-02 |  |
 | [Trophy](https://open.spotify.com/track/4zBc604ytzPmwin9VbsvUd) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Trophy](https://open.spotify.com/album/1EYaUyZIpJVEVvmJKQ5b6n) | 3:12 | 2021-04-20 | 2022-04-05 |
 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 | 2023-01-20 | 2023-04-12 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-15 | 2022-04-08 |

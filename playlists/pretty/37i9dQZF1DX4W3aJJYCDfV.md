@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dave + Central Cee \(pictured\), Burna Boy, CMAT and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,585 likes - 133 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,633 likes - 133 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 27 | [Voices \(feat\. Kylie Minogue\)](https://open.spotify.com/track/4dZ6T0on5EctKPKjgcOzrY) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Last Man Dancing](https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2) | 4:26 |
 | 28 | [Happiness](https://open.spotify.com/track/5MhJbPH4kC3gnb8uHycV55) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Happiness](https://open.spotify.com/album/5lq9upCwDod0UuxXrtHmrn) | 3:06 |
 | 29 | [New Religion](https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [New Religion](https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1) | 2:33 |
-| 30 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
+| 30 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
 | 31 | [Sold Out](https://open.spotify.com/track/0tsSie4eHruN6tUQglEG6q) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Sold Out](https://open.spotify.com/album/0gDYh5i1zgV8JLvXe5YvJr) | 1:46 |
 | 32 | [Carnavoyeur](https://open.spotify.com/track/11VOYtYJ0Bstb7QOCDDs5e) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Carnavoyeur](https://open.spotify.com/album/2UB1sEIK8wEhikbkcsIcIn) | 3:56 |
 | 33 | [Got To Be Good](https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Got To Be Good](https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e) | 2:39 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 94 | [Goodbye](https://open.spotify.com/track/54IhAHgzoUaADixfSNZGrD) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [GSPR](https://open.spotify.com/artist/1899F4ojFEHeMOWyXhnPje), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Goodbye](https://open.spotify.com/album/2N3fJRbQdO8bSRiGykOGoO) | 3:03 |
 | 95 | [Daylight Robbery](https://open.spotify.com/track/3AGK83gJkmyS1OMsgIwaWb) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Daylight Robbery](https://open.spotify.com/album/6e5PR89BmRFeV2a9Aqjwds) | 3:14 |
 | 96 | [Lost In The Function](https://open.spotify.com/track/30bTFyhJaeyEaU1D6E0UKI) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Maxwell Owin](https://open.spotify.com/artist/1BY3jPCSTYtgNJoqSnxt3f) | [Lost In The Function](https://open.spotify.com/album/6AnFkAOuQC9qtbUr3WMG2J) | 4:37 |
-| 97 | [Easier Pretending Your Dead](https://open.spotify.com/track/3LYxokIgbOHcNcZqRXS1DY) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Easier Pretending You’re Dead](https://open.spotify.com/album/3vfftk8vpcbY0bfzuEurVS) | 2:50 |
+| 97 | [Easier Pretending You're Dead](https://open.spotify.com/track/3LYxokIgbOHcNcZqRXS1DY) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Easier Pretending You’re Dead](https://open.spotify.com/album/3vfftk8vpcbY0bfzuEurVS) | 2:50 |
 | 98 | [Sirens](https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Sirens](https://open.spotify.com/album/3V9jj4WpTyl4N4hc5o3DO4) | 2:15 |
 | 99 | [Through the Storm](https://open.spotify.com/track/7IprZJoAjHxqWTqxwl36IO) | [Smilez](https://open.spotify.com/artist/6a6XQx0GYcdhqqy2zskc5E), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Skripteh](https://open.spotify.com/artist/22OFTl77fgQxCtRZV6rBoG) | [Council Estate Dreams](https://open.spotify.com/album/6oVLe7XKIFOAGI4gGF541P) | 3:55 |
 | 100 | [Deeper Love](https://open.spotify.com/track/2LgCE2RDlkqxXmJzdJx6lw) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [Valntna](https://open.spotify.com/artist/2MRXJHWrV72Bd35kawjirn) | [Deeper Love](https://open.spotify.com/album/3xXEPcM9asl2xphtVKiDKa) | 2:15 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 132 | [Runner Up](https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62) | [Tejy](https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk) | [Runner Up](https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg) | 2:52 |
 | 133 | [Be Who You Are \(Real Magic\) \(feat\. JID, NewJeans & Camilo\)](https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Be Who You Are \(Real Magic\)](https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5) | 3:09 |
 
-Snapshot ID: `MCw5YTg1ZDA2ZGRkOGEwZmNhOWNmYjBhOTVlMGQyMmE1NDk3OTc5YmMz`
+Snapshot ID: `MCxjZjIxZGY5NmFlOGUyODVkMmIyYmEyZWQyMzUxNDhkODQ3ZjU0Y2Jm`

@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Daddy Yankee & Omar Courtz
 
-286 songs - 14 hr 49 min
+287 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 | 2022-09-06 | 2023-05-13 |
 | [Debo Entender](https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Debo Entender](https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8) | 3:58 | 2022-03-21 | 2022-05-17 |
 | [Demasiado Bueno](https://open.spotify.com/track/1fSMeXMW5SroNe3sWJY641) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Demasiado Bueno](https://open.spotify.com/album/68AuP2wn7UsQilOkovf6eN) | 2:46 | 2022-03-25 | 2022-09-07 |
-| [Deseo](https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Nothing Much Has Changed, I Don't Feel The Same](https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1) | 2:04 | 2022-09-06 |  |
+| [Deseo](https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Nothing Much Has Changed, I Don't Feel The Same](https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1) | 2:04 | 2022-09-06 | 2023-06-04 |
 | [diablo](https://open.spotify.com/track/0lU75AvCnRHRFvmby7UrYf) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [diablo](https://open.spotify.com/album/7D8EJStZyNPOVdjExSuf5H) | 3:29 | 2022-07-26 | 2022-09-07 |
 | [DIABLO](https://open.spotify.com/track/4QlMiL1BPCBzLfn1XbSkpg) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:45 | 2022-03-21 | 2022-05-10 |
 | [DIADREAMER](https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:04 | 2022-04-01 | 2022-09-07 |
@@ -268,6 +268,7 @@
 | [Torero](https://open.spotify.com/track/2LXUg5dCkY9UCzoypbaaH3) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [Torero](https://open.spotify.com/album/766RXg8hOYak8eKMeZu5o7) | 3:00 | 2022-03-21 | 2022-09-07 |
 | [TRATO](https://open.spotify.com/track/4W2p5xqBjV8xAlFNsbrJS5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [TRATO](https://open.spotify.com/album/3oUnBsatAFgBW0uRYysmys) | 2:48 | 2023-04-09 | 2023-05-02 |
 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 | 2022-03-21 | 2022-09-07 |
+| [Tu](https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM) | [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Tu](https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH) | 3:21 | 2023-06-02 |  |
 | [Tu Castigo](https://open.spotify.com/track/5ZhNFzInNjdqmdIglUpidB) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 3:47 | 2022-09-06 | 2023-05-06 |
 | [Tu Fanático \- Remix](https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tu Fanático \(Remix\)](https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM) | 3:34 | 2022-09-06 |  |
 | [Tu No Me Amas](https://open.spotify.com/track/2uyJGVcniKrNpt2ZSIGOqg) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz), [Paradize](https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4) | [Tu No Me Amas](https://open.spotify.com/album/4MKwAPEjNQ7Vsv0mhDxXgh) | 2:34 | 2023-05-01 |  |

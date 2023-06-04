@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Club Angel & Becca Hatch
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,911 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,931 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 5 | [Karma](https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Karma](https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l) | 2:49 |
 | 6 | [Promised Me](https://open.spotify.com/track/2MbzsssE2t4wfFNnNPniUr) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Promised Me](https://open.spotify.com/album/7I4BjrZd0p8iR7EdapCoGx) | 2:54 |
 | 7 | [Yesterday](https://open.spotify.com/track/7ar5VLrVTyXPmJpyfzzAa6) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Yesterday](https://open.spotify.com/album/7013wm9XVP8PgvytXjKRug) | 2:20 |
-| 8 | [GOTTA GET THRU THIS](https://open.spotify.com/track/0btCtiRbKxfoSeXweQMcHr) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [GOTTA GET THRU THIS \(Cover\)](https://open.spotify.com/album/2uQFYWvVDvDSjBnIM526DM) | 2:52 |
-| 9 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
+| 8 | [GOTTA GET THRU THIS](https://open.spotify.com/track/0btCtiRbKxfoSeXweQMcHr) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [GOTTA GET THRU THIS](https://open.spotify.com/album/2uQFYWvVDvDSjBnIM526DM) | 2:52 |
+| 9 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
 | 10 | [Ride For Me](https://open.spotify.com/track/7FqFB8cdeF0OLxK13fBnui) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj), [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Ride For Me](https://open.spotify.com/album/3EJyCfiZvfwzbWYyVhVCoa) | 2:54 |
 | 11 | [Without You](https://open.spotify.com/track/4NH496Sf2JEOvDRxEuIBc4) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Without You](https://open.spotify.com/album/1QmznZxsQ9lUSEYO8KK58j) | 2:23 |
 | 12 | [Night Rides](https://open.spotify.com/track/3tN8LD5PN1i2Ql5Tmb5ZFO) | [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Night Rides](https://open.spotify.com/album/4PV68EsAFU8IzM2KIOAcNG) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Eucharist](https://open.spotify.com/track/4xjDHLjV7TQDKoCISQbmQr) | [Tyson O'brien](https://open.spotify.com/artist/0ipSB6Z9hk2SLLh07tLYNL) | [Eucharist](https://open.spotify.com/album/2zdt55b4pymPDAv6sHw9DA) | 3:58 |
 | 100 | [Feel So Right](https://open.spotify.com/track/413ohAXKzfLwQk5UWlOTH9) | [Borj.](https://open.spotify.com/artist/3O7bD1NOJOWs4cokNjNcEr) | [Feel So Right](https://open.spotify.com/album/7Gl2PcRu0ckytidELBgfCU) | 2:09 |
 
-Snapshot ID: `MCxlOWU1MjIyYjVjNzA3NTg3Y2FiZTgzM2I1ZGRlYzM4YzY3ZTg4ZTJm`
+Snapshot ID: `MCwwNjIyMTFjNmUxMTdkN2YyNzg4ZGM3ZDIwMDc1ZDFlNGY4ZTQ4YjAz`

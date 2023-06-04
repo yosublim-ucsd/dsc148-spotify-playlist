@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 176579,
       "name": "Dance The Night (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
@@ -6994,7 +6994,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 218602,
       "name": "\u4e00\u624b\u9020\u6210",
       "url": "https://open.spotify.com/track/7D0xhG1kyWghQgAbtHXoN4"
@@ -8102,7 +8102,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 185485,
       "name": "\u540c\u5c45\u964c\u751f\u4eba (ViuTV\u5287\u96c6: \u767e\u842c\u540c\u5c45\u8a08\u5283\u6b4c\u66f2)",
       "url": "https://open.spotify.com/track/5L3pDOYct21zjioooK0IqX"
@@ -9250,7 +9250,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH"
@@ -9762,6 +9762,24 @@
       "duration_ms": 198000,
       "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
       "url": "https://open.spotify.com/track/1VU4roZEde9uI25e4rUOuU"
+    },
+    {
+      "album": {
+        "name": "Cleanse",
+        "url": "https://open.spotify.com/album/34T3MdB25TSeAooi2QxCRz"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231355,
+      "name": "\u6d17\u9762",
+      "url": "https://open.spotify.com/track/3a9EtOIDDtBel1IEXf6fYl"
     },
     {
       "album": {

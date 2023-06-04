@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Phabo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,938 likes - 150 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,156 likes - 150 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 55 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 |
 | 56 | [Old Thang Back](https://open.spotify.com/track/1jihXYhPvm3hIxwfvdfvRv) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Swayvo Twain](https://open.spotify.com/artist/6CyEvfJ8PILH1PxdfQtaFr) | [Love Language](https://open.spotify.com/album/5mBIU2o4sxDhbSfxuInbh7) | 3:28 |
 | 57 | [radio silence](https://open.spotify.com/track/2bn8pNyHOK0rzna5FfDhbO) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [radio silence](https://open.spotify.com/album/3nXkQxkAvtVVoTuERk0bGs) | 2:11 |
-| 58 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
+| 58 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx), [PRETTIE$T J](https://open.spotify.com/artist/15GUTlHGIgqti3o1WBWdd1) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
 | 59 | [We Keep On](https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:00 |
 | 60 | [Leave it Behind](https://open.spotify.com/track/0AleScLkrP6aQcJPBBzPPK) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Leave It Behind](https://open.spotify.com/album/15OP5lGJB4ra76N5qGT9ua) | 2:51 |
 | 61 | [False Prophet](https://open.spotify.com/track/6J0ia5zOw32TpE6lC3E43T) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [False Prophet](https://open.spotify.com/album/6CDxvkmt69PIesDH2TLtfF) | 2:49 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 149 | [Worked Up](https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Forgotten Flowers](https://open.spotify.com/album/1fqJVOKRj2A4nBmVAoDFLK) | 3:10 |
 | 150 | [Before the World Ends](https://open.spotify.com/track/75PPriKhCpWpwxlT77byRK) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Before the World Ends](https://open.spotify.com/album/4j0ZjGoCDfC3SpTrOhZRbf) | 3:00 |
 
-Snapshot ID: `MCwwYjg1ZGZiYzk1YWU2ZmY4Mjc3MmZmNmUzMzViZjMyZjQ1MDk5OGJh`
+Snapshot ID: `MCxjYmM5MWMyNjAyNTA0ZjM3NDQ4MTM4NTZiOTJlZjdlZDA3Mjc5OTEz`

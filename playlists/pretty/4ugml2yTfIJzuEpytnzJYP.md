@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Deep Bass \- Melodic Bass
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,176 likes - 18 songs - 1 hr 14 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,176 likes - 20 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,5 +26,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 16 | [Strike](https://open.spotify.com/track/7c1g5JmXVlH0NFdXzAZeJx) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Strike](https://open.spotify.com/album/1zvylBQuZ66vc6TFB32cJL) | 5:37 |
 | 17 | [Starseed 47 \- VIP Mix](https://open.spotify.com/track/4dDUGzPZifKdH97ecN9V9W) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Return to Taygeta](https://open.spotify.com/album/3vn29spZzdHiGqBIusy2Qh) | 3:59 |
 | 18 | [Mirage](https://open.spotify.com/track/0g7aGbgUSeZhe1OUFnS1BB) | [Kwizma](https://open.spotify.com/artist/1m7dukoGV16L1hVKHcX5CZ) | [Mirage EP](https://open.spotify.com/album/2oElQy6V66TWhl5CXhc0pE) | 5:34 |
+| 19 | [The Last Lotus](https://open.spotify.com/track/0ckyGinZxwo5wnEPDBhQaJ) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [The Last Lotus EP](https://open.spotify.com/album/01LyeW8mTLceCdqcQTeBRx) | 4:39 |
+| 20 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 |
 
-Snapshot ID: `MjIxMyxiNjU5MDNiOGQzNGRlYjAzMjJjOTc2MjM0ZmY3OGQ1ZmMwYmNlZDhi`
+Snapshot ID: `MjIxNixiZTJlYWQ2ZmY3ZmEwYTA2OTZlNTk2NTFmMTllNzdkZDdlY2YxNGQw`

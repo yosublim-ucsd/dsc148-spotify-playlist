@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-303 songs - 19 hr 6 min
+304 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,9 +165,10 @@
 | [Long Black Electric Cadillac](https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:25 | 2021-12-17 |  |
 | [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2021-12-17 | 2022-07-29 |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-01-28 |  |
-| [Love Again](https://open.spotify.com/track/0hu3XEEvcVN5Gsn28x5xXU) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/6nmAKBKRYD7NjTJZSmWM9j) | 3:43 | 2022-01-28 |  |
+| [Love Again](https://open.spotify.com/track/0hu3XEEvcVN5Gsn28x5xXU) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/6nmAKBKRYD7NjTJZSmWM9j) | 3:43 | 2022-01-28 | 2023-06-04 |
 | [Love Again](https://open.spotify.com/track/3OKBGV9o5uVZ5Z8BZUkznb) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Love Again](https://open.spotify.com/album/54pG43tDpcI7ViKYSKSuPk) | 3:43 | 2021-12-17 | 2022-07-25 |
 | [Love Again](https://open.spotify.com/track/4eqO4esVROJogbHufw59o6) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/1dwdMLgBkMqwaSbYeb2DzL) | 3:43 | 2022-01-28 | 2023-04-30 |
+| [Love Again](https://open.spotify.com/track/7EVUpwSsr1saF9Vc3lrvYY) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/7HHCXEXhlxETfoWhxlXpBW) | 3:43 | 2022-01-28 |  |
 | [Love in the Lead](https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa) | [Ivan Hartle](https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6) | [Love in the Lead](https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN) | 3:15 | 2023-05-19 |  |
 | [Love Like There's No Tomorrow](https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 2:24 | 2021-12-17 | 2023-02-25 |
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2022-09-30 | 2023-02-25 |

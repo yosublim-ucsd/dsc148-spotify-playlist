@@ -1897,6 +1897,28 @@
     },
     {
       "album": {
+        "name": "ANTONIO: Lotti - Caldara - Vivaldi",
+        "url": "https://open.spotify.com/album/4p8NCMVfjHF7UmoVf0gy8x"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "La Festa Musicale",
+          "url": "https://open.spotify.com/artist/3zyStC3QoWVfuL07xXHWq4"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105530,
+      "name": "Concerto in G Minor, RV 157: I. Allegro",
+      "url": "https://open.spotify.com/track/2WdIitSFbB7Er3y5PPh9xf"
+    },
+    {
+      "album": {
         "name": "Vivaldi: Concerto in G Minor, RV 157: I. Allegro",
         "url": "https://open.spotify.com/album/2xT1g2s0DRZiqEpDQFI5s0"
       },
@@ -1912,7 +1934,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 105530,
       "name": "Concerto in G Minor, RV 157: I. Allegro",
       "url": "https://open.spotify.com/track/6zYMmgMN98HRTlkFTXNb2p"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Workout songs to get your mental right and blood pumping.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 88,507 likes - 51 songs - 2 hr 31 min
+[Digster](https://open.spotify.com/user/digster.fm) - 88,503 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

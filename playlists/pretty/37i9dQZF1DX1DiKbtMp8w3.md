@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,171 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,180 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 94 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 |
 | 95 | [MINSU\(민수\) \- Stage Comment 6](https://open.spotify.com/track/35tTCKVGjzTfUjYUyRIa81) | [MINSU](https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:29 |
 | 96 | [I Like Me \- Instrumental](https://open.spotify.com/track/0Oh2AkCB68jE8I0d3FS0b3) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [minsu X innisfree I Like Me](https://open.spotify.com/album/39ZMi8KIbJ4tFBAaXkcXHW) | 3:12 |
-| 97 | [Sister](https://open.spotify.com/track/7b0138EzonYCs1Ytsk6SvQ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 5:21 |
-| 98 | [Everybody Does](https://open.spotify.com/track/7s5Ow4bsVkU0eUlp71o8yn) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 4:54 |
+| 97 | [Sister](https://open.spotify.com/track/06XETZ9NFvss5kKpyG8O5P) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/2gli6cmeeDbvLcUpxIaH02) | 5:21 |
+| 98 | [Everybody Does](https://open.spotify.com/track/4s9F3KkDe07ulNTXKjTQwU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/2gli6cmeeDbvLcUpxIaH02) | 4:54 |
 | 99 | [실리카겔\(Silica Gel\) \- Stage Comment 1](https://open.spotify.com/track/4DdrNOYcdjRI7J8naGp99n) | [실리카겔](https://open.spotify.com/artist/5b8FRX78ua1KgccYUyGhkI) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 2:16 |
 | 100 | [NEO SOUL](https://open.spotify.com/track/4TOPopoEnEtI2n6t8smIj3) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [SiO2.nH2O](https://open.spotify.com/album/44j8NM9cjlwh1kHfWafmHj) | 4:19 |
 | 101 | [I'MMORTAL \(feat\. sogumm\)](https://open.spotify.com/track/7lNm1tvWp2EEKE6293Iuj8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [I'MMORTAL](https://open.spotify.com/album/6yuKLd2o2NAdlHe7EIRiiM) | 3:55 |
@@ -218,7 +218,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 208 | [Dive Baby, Dive](https://open.spotify.com/track/36AbmT9YujrUsNvHpqRNgI) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Dive Baby, Dive](https://open.spotify.com/album/32kZ9wnIIZuwOqK4CV39nO) | 3:23 |
 | 209 | [4ever](https://open.spotify.com/track/4RruzeifOuoFvZwziK2EuR) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [4ever](https://open.spotify.com/album/2fU7ZbfCCwb77CVsGwhECU) | 3:32 |
 | 210 | [Oh Yeah!](https://open.spotify.com/track/4BfmJnaP3Ghu4W7JmMHamO) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [개구쟁이 Naughty Boy](https://open.spotify.com/album/0xWooj0tF8YM8CEGIuq0J2) | 3:35 |
-| 211 | [9](https://open.spotify.com/track/2giPJrNbuvd5aJkLnMrcrv) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 4:05 |
+| 211 | [9](https://open.spotify.com/track/7vDj50kWLQMdfvca7xhCeO) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/2gli6cmeeDbvLcUpxIaH02) | 4:05 |
 | 212 | [Malibu](https://open.spotify.com/track/1xXV2P8QUyRo84zevha4HJ) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [BAT YAM](https://open.spotify.com/album/35wu0lTtX9QrtBoYcl88mZ) | 4:15 |
 | 213 | [Lifestyle](https://open.spotify.com/track/2Od2vma6qhjUTpWdfa701R) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [BAT YAM](https://open.spotify.com/album/35wu0lTtX9QrtBoYcl88mZ) | 3:40 |
 | 214 | [Ice Cream](https://open.spotify.com/track/5ltjohuiVnUZragBIIkWGV) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [Ice Cream](https://open.spotify.com/album/1ENCa2OXJkr562zKFWWO4A) | 5:37 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MCxjYWI3ZWMxNDhhN2MwYzYzOThmZjk3ZTg0MThmZTM5OTkzNTViZTlk`
+Snapshot ID: `MCw0Mzk0ZDZiNWFjYTRlODVlYzU2MTFhZTcyNTQzMjk5ZDFjOGIyNTc4`

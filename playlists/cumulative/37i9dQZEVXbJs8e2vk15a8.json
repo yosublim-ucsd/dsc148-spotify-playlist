@@ -9336,7 +9336,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -10872,6 +10872,36 @@
       "duration_ms": 236066,
       "name": "Me Gusta el Vino",
       "url": "https://open.spotify.com/track/4phiyACOmjHDWImFfi99Fi"
+    },
+    {
+      "album": {
+        "name": "Me la Busque",
+        "url": "https://open.spotify.com/album/01wvFSf1WXtmQaAZAp5Vz2"
+      },
+      "artists": [
+        {
+          "name": "Jay-D & Jeampy",
+          "url": "https://open.spotify.com/artist/1wWgMNi43wkG6uOBBMh73j"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407149,
+      "name": "Me la Busque",
+      "url": "https://open.spotify.com/track/6CImHL67kzmiQaQpaY5G8l"
     },
     {
       "album": {
@@ -14322,7 +14352,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 82514,
       "name": "PHONKGASKAR",
       "url": "https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"
@@ -14820,7 +14850,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 149250,
       "name": "Por Verte Feliz",
       "url": "https://open.spotify.com/track/6dI0iFnBCj9YkcWgXeoRkx"
@@ -18636,7 +18666,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 192839,
       "name": "Todo Mentira",
       "url": "https://open.spotify.com/track/5xiJDUW4WvM7FpYkq40d4s"
@@ -19822,7 +19852,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 249518,
       "name": "Unx de nosotrxs (feat. Javiera Mena)",
       "url": "https://open.spotify.com/track/06ldAehGd8O1r51LTJaMDG"
@@ -20641,6 +20671,24 @@
     },
     {
       "album": {
+        "name": "Without Lies",
+        "url": "https://open.spotify.com/album/4rhg9CZOsq6GV8F6j4q48x"
+      },
+      "artists": [
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184649,
+      "name": "Without Lies",
+      "url": "https://open.spotify.com/track/2k8g9ufzi4v4Vx681WbXmY"
+    },
+    {
+      "album": {
         "name": "World Cup",
         "url": "https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE"
       },
@@ -20838,7 +20886,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 200073,
       "name": "XQ TAN SOLA?",
       "url": "https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi"

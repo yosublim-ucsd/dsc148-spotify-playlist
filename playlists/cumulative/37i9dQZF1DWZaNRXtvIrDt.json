@@ -1408,6 +1408,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
       "date_added": "2023-06-01",
@@ -4157,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "Scars (lau.ra Remix)",
+        "url": "https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178746,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch"
+    },
+    {
+      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS"
       },
@@ -4168,7 +4190,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 178746,
       "name": "Scars",
       "url": "https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4"

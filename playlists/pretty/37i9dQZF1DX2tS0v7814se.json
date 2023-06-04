@@ -1,12 +1,12 @@
 {
   "description": "Disfruta con los dulces y tradicionales sonidos de la marimba.",
-  "num_followers": 23096,
+  "num_followers": 23112,
   "original_name": "Marimba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjdlYjM2NDk4Mjg0MDEzMWNjMTVkNWExNWZhMTA2OGM4MjhiZWRm",
+  "snapshot_id": "MCxmZTI1MzM2MWU5ZDlmODViM2QyZTFmOWFkOTAwYzBhODkyODE0ZjRh",
   "tracks": [
     {
       "added_at": "2021-12-29 23:25:31",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Boleros en Marimba",
-        "url": "https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4"
-      },
-      "artists": [
-        {
-          "name": "Marimba Usula Internacional",
-          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Hasta Que Te Conoc\u00ed (Bolero en Marimba)",
-      "url": "https://open.spotify.com/track/4padF9yf3v1UzuqTkwIuzC"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "Danzones Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/4cMoH0T5ErUfWa4DDwIqsG"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 187628,
       "name": "Nereidas",
       "url": "https://open.spotify.com/track/5UGhFOtbHc7TKkskPrwS6n"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Boleros en Marimba",
+        "url": "https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4"
+      },
+      "artists": [
+        {
+          "name": "Marimba Usula Internacional",
+          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Hasta Que Te Conoc\u00ed (Bolero en Marimba)",
+      "url": "https://open.spotify.com/track/4padF9yf3v1UzuqTkwIuzC"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "World Music Guatemala, Danzas Mayas, Mayan Dances",
-        "url": "https://open.spotify.com/album/0dKCmV0ACWcV5JqebK6ibq"
+        "name": "20 Exitos Con Marimba Vol.1",
+        "url": "https://open.spotify.com/album/42rrNP7c27cAXPyA09DJPO"
       },
       "artists": [
         {
-          "name": "Maderas Chapinas",
-          "url": "https://open.spotify.com/artist/4aOdzq55jxQd2Oxdg7fNo2"
+          "name": "20 Super Exitos De",
+          "url": "https://open.spotify.com/artist/7bp4w5sBExrir8EIXFha0u"
         }
       ],
-      "duration_ms": 139533,
-      "name": "Rabin Ajau, Marimba de Guatemala",
-      "url": "https://open.spotify.com/track/7sxGGYL3FpktgNWlyTQyTc"
+      "duration_ms": 136720,
+      "name": "Salon Mexico",
+      "url": "https://open.spotify.com/track/0jWzNJtTTalwqAjf3J42jb"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "World Music Guatemala, Danzas Mayas, Mayan Dances",
+        "url": "https://open.spotify.com/album/0dKCmV0ACWcV5JqebK6ibq"
+      },
+      "artists": [
+        {
+          "name": "Maderas Chapinas",
+          "url": "https://open.spotify.com/artist/4aOdzq55jxQd2Oxdg7fNo2"
+        }
+      ],
+      "duration_ms": 139533,
+      "name": "Rabin Ajau, Marimba de Guatemala",
+      "url": "https://open.spotify.com/track/7sxGGYL3FpktgNWlyTQyTc"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
         "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
       },
@@ -691,24 +707,8 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "20 Exitos Con Marimba Vol.1",
-        "url": "https://open.spotify.com/album/42rrNP7c27cAXPyA09DJPO"
-      },
-      "artists": [
-        {
-          "name": "20 Super Exitos De",
-          "url": "https://open.spotify.com/artist/7bp4w5sBExrir8EIXFha0u"
-        }
-      ],
-      "duration_ms": 136720,
-      "name": "Salon Mexico",
-      "url": "https://open.spotify.com/track/0jWzNJtTTalwqAjf3J42jb"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "Nuestro Mexico",
-        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
+        "name": "Marimba Alma de Chiapas de Juan Palacios",
+        "url": "https://open.spotify.com/album/27owIuyxZgBgWnVQdxBaOz"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
         }
       ],
-      "duration_ms": 231053,
-      "name": "S\u00f3lo Veracruz Es Bello-El Balaj\u00fa-El Col\u00e1s-La Bamba-El Tilingo Lingo",
-      "url": "https://open.spotify.com/track/5DIbHrgGpkESK5V1wgq01q"
+      "duration_ms": 158426,
+      "name": "El Piri",
+      "url": "https://open.spotify.com/track/6F70XslxkKzqr6P0Eo7vox"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Boleros en Marimba",
-        "url": "https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4"
-      },
-      "artists": [
-        {
-          "name": "Marimba Usula Internacional",
-          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
-        }
-      ],
-      "duration_ms": 300466,
-      "name": "Un Viejo Amor (Bolero en Marimba)",
-      "url": "https://open.spotify.com/track/286pe3S2UB3LEGCYV8lz2o"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "La Insuperable",
         "url": "https://open.spotify.com/album/20xGy8ClUAVJBDzYoAfuru"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 189492,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/4LLsfocxtvO5ak9y7ffPKW"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Boleros en Marimba",
+        "url": "https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4"
+      },
+      "artists": [
+        {
+          "name": "Marimba Usula Internacional",
+          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
+        }
+      ],
+      "duration_ms": 300466,
+      "name": "Un Viejo Amor (Bolero en Marimba)",
+      "url": "https://open.spotify.com/track/286pe3S2UB3LEGCYV8lz2o"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -811,8 +811,8 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Marimba Alma de Chiapas de Juan Palacios",
-        "url": "https://open.spotify.com/album/27owIuyxZgBgWnVQdxBaOz"
+        "name": "Nuestro Mexico",
+        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
         }
       ],
-      "duration_ms": 158426,
-      "name": "El Piri",
-      "url": "https://open.spotify.com/track/6F70XslxkKzqr6P0Eo7vox"
+      "duration_ms": 231053,
+      "name": "S\u00f3lo Veracruz Es Bello-El Balaj\u00fa-El Col\u00e1s-La Bamba-El Tilingo Lingo",
+      "url": "https://open.spotify.com/track/5DIbHrgGpkESK5V1wgq01q"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Exitos y Ritmos Vol. 9",
-        "url": "https://open.spotify.com/album/6gLVHmJsg0G8jOfYtnQz5T"
-      },
-      "artists": [
-        {
-          "name": "Marimba Usula Internacional",
-          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
-        }
-      ],
-      "duration_ms": 169227,
-      "name": "Muri\u00f3 la Flor",
-      "url": "https://open.spotify.com/track/2ym23q1gPhVfEcsaWJy1FX"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "Danzones Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/4cMoH0T5ErUfWa4DDwIqsG"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "A Nuestro Estilo. M\u00fasica de Guatemala para los Latinos",
-        "url": "https://open.spotify.com/album/64rtxgs5otTtlQao2alrfY"
+        "name": "Exitos y Ritmos Vol. 9",
+        "url": "https://open.spotify.com/album/6gLVHmJsg0G8jOfYtnQz5T"
       },
       "artists": [
         {
-          "name": "Marimba Sonora Ideal",
-          "url": "https://open.spotify.com/artist/3D7Sm0ChnKWC6XyA7VjCwX"
+          "name": "Marimba Usula Internacional",
+          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
         }
       ],
-      "duration_ms": 199026,
-      "name": "Al Partir",
-      "url": "https://open.spotify.com/track/5zfGySDgKJhu7HX1us2JV3"
+      "duration_ms": 169227,
+      "name": "Muri\u00f3 la Flor",
+      "url": "https://open.spotify.com/track/2ym23q1gPhVfEcsaWJy1FX"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -919,6 +903,22 @@
       "duration_ms": 192560,
       "name": "Dandole Sabor al Caldo",
       "url": "https://open.spotify.com/track/3Rsqt2Xp7uKDmEKddvQPu6"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "A Nuestro Estilo. M\u00fasica de Guatemala para los Latinos",
+        "url": "https://open.spotify.com/album/64rtxgs5otTtlQao2alrfY"
+      },
+      "artists": [
+        {
+          "name": "Marimba Sonora Ideal",
+          "url": "https://open.spotify.com/artist/3D7Sm0ChnKWC6XyA7VjCwX"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Al Partir",
+      "url": "https://open.spotify.com/track/5zfGySDgKJhu7HX1us2JV3"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Danzones, Mambos y Cha Cha Chas",
-        "url": "https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL"
-      },
-      "artists": [
-        {
-          "name": "Marimba Nandayapa",
-          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Mambo No. 5",
-      "url": "https://open.spotify.com/track/2SxY5ATUpTUSowmQclPhTm"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "...un poco mas.",
         "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 370613,
       "name": "Al son de la marimba",
       "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Danzones, Mambos y Cha Cha Chas",
+        "url": "https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL"
+      },
+      "artists": [
+        {
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Mambo No. 5",
+      "url": "https://open.spotify.com/track/2SxY5ATUpTUSowmQclPhTm"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "M\u00fasica de Guatemala en Marimba",
-        "url": "https://open.spotify.com/album/4jJIhOVAFGrbpnyb4SYBVC"
-      },
-      "artists": [
-        {
-          "name": "Marimba de Concierto de Chichicastenango",
-          "url": "https://open.spotify.com/artist/4RLtu3vMR2RJi4OGXV7ABV"
-        }
-      ],
-      "duration_ms": 444557,
-      "name": "Obertura indigena (Marimba version)",
-      "url": "https://open.spotify.com/track/2m3b8k1jZSPQgWsXn9ltUw"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/2lfTr5gFbW8j6PzZUXa3nw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 539506,
       "name": "Huapango",
       "url": "https://open.spotify.com/track/65bgM1R5qZeiQwnUOFcSf9"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "M\u00fasica de Guatemala en Marimba",
+        "url": "https://open.spotify.com/album/4jJIhOVAFGrbpnyb4SYBVC"
+      },
+      "artists": [
+        {
+          "name": "Marimba de Concierto de Chichicastenango",
+          "url": "https://open.spotify.com/artist/4RLtu3vMR2RJi4OGXV7ABV"
+        }
+      ],
+      "duration_ms": 444557,
+      "name": "Obertura indigena (Marimba version)",
+      "url": "https://open.spotify.com/track/2m3b8k1jZSPQgWsXn9ltUw"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "Chapinlandia - Marimba Music of Guatemala",
+        "url": "https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chapinlandia",
+          "url": "https://open.spotify.com/artist/4QPuhZw8xXaXXvFMmpzV5S"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Mi Lorena linda",
+      "url": "https://open.spotify.com/track/4H4fQ7dOq4VB34rCX0Jn5o"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "Marimbas Clasicas",
         "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 145005,
       "name": "La Bamba Marimba",
       "url": "https://open.spotify.com/track/4EAZKc4d2wDGJtLZgZ8LBi"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "Chapinlandia - Marimba Music of Guatemala",
-        "url": "https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG"
-      },
-      "artists": [
-        {
-          "name": "Marimba Chapinlandia",
-          "url": "https://open.spotify.com/artist/4QPuhZw8xXaXXvFMmpzV5S"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Mi Lorena linda",
-      "url": "https://open.spotify.com/track/4H4fQ7dOq4VB34rCX0Jn5o"
     },
     {
       "added_at": "2021-12-29 23:25:31",

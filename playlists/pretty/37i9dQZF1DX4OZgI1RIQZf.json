@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 29440,
+  "num_followers": 29570,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDFmZjIyM2MwMjc4NjM3MWE1YTVlNmI4NWRkZTNkODQ0YjI2MzU3",
+  "snapshot_id": "MCwxOWZhOWRkMmIxNGQ2Yzk3Y2U0NjQwOTA5ZjAzZmQwNTU3MjgyOTFm",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Let's Have A Satanic Orgy",
-        "url": "https://open.spotify.com/album/6wKzNT7iuR06KiXJBTpkuV"
-      },
-      "artists": [
-        {
-          "name": "Twin Temple",
-          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
-        }
-      ],
-      "duration_ms": 244035,
-      "name": "Let's Have A Satanic Orgy",
-      "url": "https://open.spotify.com/track/1wJCQOm2LmQVTfO0d2Ax87"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Let's Have A Satanic Orgy",
+        "url": "https://open.spotify.com/album/6wKzNT7iuR06KiXJBTpkuV"
+      },
+      "artists": [
+        {
+          "name": "Twin Temple",
+          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
+        }
+      ],
+      "duration_ms": 244035,
+      "name": "Let's Have A Satanic Orgy",
+      "url": "https://open.spotify.com/track/1wJCQOm2LmQVTfO0d2Ax87"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "A Girl Like You",
-        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
-      },
-      "artists": [
-        {
-          "name": "Anna B Savage",
-          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Zombie Prom (Hallowe'en At Home Edition)",
         "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 218693,
       "name": "Zombie Prom",
       "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "A Girl Like You",
+        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
+      },
+      "artists": [
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
     },
     {
       "added_at": "2023-02-09 23:00:00",

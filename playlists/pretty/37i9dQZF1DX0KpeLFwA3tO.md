@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,550 likes - 125 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,608 likes - 125 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [New American](https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 2:37 |
 | 2 | [$wing](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$wing](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 |
-| 3 | [Cigarettes \(feat\. Travis Barker\)](https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Cigarettes \(feat\. Travis Barker\)](https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H) | 2:36 |
+| 3 | [Cigarettes](https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Cigarettes](https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H) | 2:36 |
 | 4 | [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 |
 | 5 | [Wishful Thinking \(feat\. Kxllswxtch\)](https://open.spotify.com/track/3kKOD21AksqysNQuxfNSmJ) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [Wishful Thinking \(feat\. Kxllswxtch\)](https://open.spotify.com/album/0VxEsIsqp7qa1UNAq7T3rF) | 2:02 |
 | 6 | [All I Do](https://open.spotify.com/track/67wOIdJG6ErtSqsJ6gSvnN) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 3:41 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [PTS.DUP](https://open.spotify.com/track/3jRS2ItbdoucLPNWFbvr0E) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [PTS.DUP](https://open.spotify.com/album/4z6M5jHJyrSGpHZxbCTHii) | 2:30 |
 | 125 | [Bullet](https://open.spotify.com/track/2ctGYwu2wHsfDHWPvmKWbw) | [Split System](https://open.spotify.com/artist/37jDGGhU8pF8nOMBhodmxW) | [SPLIIT SYSTEM](https://open.spotify.com/album/3oh8hFPyPHAMH25keYm6CH) | 2:49 |
 
-Snapshot ID: `MCw3MmQ1NzIyYTY5ZjBlZTkyNjE5YzZjNzkyODRjMmMwYzA3MzVkNDkz`
+Snapshot ID: `MCw1MDE0NTlhMjc5MDY1MDAwYjIxZDdiY2EzYmRlOGVmZTU5MjExMjhh`

@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Ana Vilela",
-  "num_followers": 339916,
+  "num_followers": 339958,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjNmNGE5ODcwZDRlMzZlODRiYTBjYWExMTFjMDM4ZTM5NWE2MTE1",
+  "snapshot_id": "MCw5NjA5ZDhiNDlmZGQzZmVhZDNkNjFkZDc0ZGRkY2RiZTQxOTFlZGQ4",
   "tracks": [
     {
       "added_at": "2023-06-02 03:39:33",
@@ -211,26 +211,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Cinco",
-        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 302706,
-      "name": "Soprou",
-      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Deixa Vir Do Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 204007,
       "name": "Outono",
       "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 302706,
+      "name": "Soprou",
+      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "Ana Ca\u00f1as Canta Belchior",
+        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 322543,
+      "name": "Cora\u00e7\u00e3o Selvagem",
+      "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "Tarde Em Itapu\u00e3",
         "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
-        "name": "Ana Ca\u00f1as Canta Belchior",
-        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 322543,
-      "name": "Cora\u00e7\u00e3o Selvagem",
-      "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "ARRISCA",
-        "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 213513,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/6b9uUnrmLrzrMkaTts77GO"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Esse Amor Chegou",
         "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 152801,
       "name": "Esse Amor Chegou",
       "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "ARRISCA",
+        "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 213513,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/6b9uUnrmLrzrMkaTts77GO"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1047,6 +1047,22 @@
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Acabou",
+        "url": "https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "duration_ms": 178416,
+      "name": "Acabou",
+      "url": "https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1083,22 +1099,6 @@
       "duration_ms": 166565,
       "name": "Voz do Destino",
       "url": "https://open.spotify.com/track/7Iec2eWfv49sfUzOmIOc8z"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
-        "name": "Acabou",
-        "url": "https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        }
-      ],
-      "duration_ms": 178416,
-      "name": "Acabou",
-      "url": "https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1239,18 +1239,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
+        "name": "Olho de Peixe",
+        "url": "https://open.spotify.com/album/4Qo5awa7oJiARMUs7tHsb8"
       },
       "artists": [
         {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Marcos Suzano",
+          "url": "https://open.spotify.com/artist/7eoxe0CyQFAF2xpYYvstkp"
         }
       ],
-      "duration_ms": 210030,
-      "name": "Rota\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
+      "duration_ms": 198800,
+      "name": "Le\u00e3o do Norte",
+      "url": "https://open.spotify.com/track/0OuAp3mPhm8gtCF6fqqyYL"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1271,22 +1275,18 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Olho de Peixe",
-        "url": "https://open.spotify.com/album/4Qo5awa7oJiARMUs7tHsb8"
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
       },
       "artists": [
         {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        },
-        {
-          "name": "Marcos Suzano",
-          "url": "https://open.spotify.com/artist/7eoxe0CyQFAF2xpYYvstkp"
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 198800,
-      "name": "Le\u00e3o do Norte",
-      "url": "https://open.spotify.com/track/0OuAp3mPhm8gtCF6fqqyYL"
+      "duration_ms": 210030,
+      "name": "Rota\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "Seu Anjo",
+        "url": "https://open.spotify.com/album/6kd1kQHUp1gACNL05u6jez"
+      },
+      "artists": [
+        {
+          "name": "Sarah Renata",
+          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
+        }
+      ],
+      "duration_ms": 195056,
+      "name": "Seu Anjo",
+      "url": "https://open.spotify.com/track/2DngmDYImzKt5C3l72IBuI"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "Ostra",
         "url": "https://open.spotify.com/album/7ieLZ0KFk0dyAvtxrZbtS3"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Seu Anjo",
-        "url": "https://open.spotify.com/album/6kd1kQHUp1gACNL05u6jez"
+        "name": "Mo\u00e7o",
+        "url": "https://open.spotify.com/album/1jkJEFhHM2zjCT9QFDpiXs"
       },
       "artists": [
         {
-          "name": "Sarah Renata",
-          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
         }
       ],
-      "duration_ms": 195056,
-      "name": "Seu Anjo",
-      "url": "https://open.spotify.com/track/2DngmDYImzKt5C3l72IBuI"
+      "duration_ms": 267890,
+      "name": "Mo\u00e7o",
+      "url": "https://open.spotify.com/track/547mtUkBn129AOO8hc0xBE"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1795,22 +1811,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Mo\u00e7o",
-        "url": "https://open.spotify.com/album/1jkJEFhHM2zjCT9QFDpiXs"
-      },
-      "artists": [
-        {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
-        }
-      ],
-      "duration_ms": 267890,
-      "name": "Mo\u00e7o",
-      "url": "https://open.spotify.com/track/547mtUkBn129AOO8hc0xBE"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "SOLAR",
         "url": "https://open.spotify.com/album/5bCIg0ZHl5Tx6cr90tdlXS"
       },
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Doce Carnaval",
-        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
-      },
-      "artists": [
-        {
-          "name": "Alexia Bomtempo",
-          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "Mal Acostumada",
-      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "De Longe Toda Serra \u00c9 Azul",
         "url": "https://open.spotify.com/album/03GfLlRj4Ni6dzy7M3cHgA"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 177825,
       "name": "De Longe Toda Serra \u00c9 Azul",
       "url": "https://open.spotify.com/track/6dLdOv1iSkJ4Ub9cq5roVM"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Doce Carnaval",
+        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
+      },
+      "artists": [
+        {
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "Mal Acostumada",
+      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
     },
     {
       "added_at": "2023-06-02 03:39:33",

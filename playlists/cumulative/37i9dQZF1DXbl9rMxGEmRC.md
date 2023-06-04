@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-407 songs - 1 day 11 hr 9 min
+408 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Prism](https://open.spotify.com/track/21Atks7bDN6e7RYQe7Ctax) | [Anachronism](https://open.spotify.com/artist/6PEBIPKi5TvTrCoyDsRDTh) | [Meanders](https://open.spotify.com/album/5uZNpFKELGKlq5iJkVlIuF) | 4:04 | 2023-02-15 | 2023-02-24 |
 | [Profetens Åpenbaring](https://open.spotify.com/track/1pNqnj1ympoWWNR1qEpHKo) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3GBpagKDLL4cRseF5yxKVV) | 5:20 | 2022-07-13 | 2022-07-29 |
 | [Profetens Åpenbaring](https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY) | 5:20 | 2022-07-13 |  |
+| [Purified by Vengeance \(feat\. Mark Holcomb, Periphery & Mick Gordon\)](https://open.spotify.com/track/0cDD2tuTX0DTEXtHot0VfO) | [Dååth](https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN), [Mark Holcomb](https://open.spotify.com/artist/04RVlXizrnATIdNw4tRywd), [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Purified by Vengeance \(feat\. Mark Holcomb, Periphery & Mick Gordon\)](https://open.spotify.com/album/0q7kWUZW4yuPaAZ5OttXzn) | 4:28 | 2023-06-02 |  |
 | [Puritania](https://open.spotify.com/track/0bKs1y9PTFBddM9qj0JGvb) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia](https://open.spotify.com/album/6sDdbLoIOzGwR61lL2jGN2) | 3:06 | 2022-07-13 |  |
 | [Puritania \- The Kolbotn Tapes](https://open.spotify.com/track/69vWSqVEctJbTKD3qKaAnD) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritania \(The Kolbotn Tapes\)](https://open.spotify.com/album/2zOvw7u5XelDbYsxQMPQDI) | 2:49 | 2022-08-12 | 2022-11-13 |
 | [Quintessence](https://open.spotify.com/track/0h2KyPkIISeMMkA2X0eXU5) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Panzerfaust](https://open.spotify.com/album/1WVwSy7kIQ5AmkVa1tPppg) | 7:36 | 2022-07-13 |  |
@@ -326,7 +327,7 @@
 | [Spores of Gnosis](https://open.spotify.com/track/6mINTISPFFdQgHufJ4zzCu) | [Nordjevel](https://open.spotify.com/artist/3Pfim1uupYVYG87GDtdw8r) | [Spores of Gnosis](https://open.spotify.com/album/08i20ClwOx3a6RCbGGTk0L) | 6:12 | 2022-06-10 | 2022-07-26 |
 | [Stained In Rot](https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Stained In Rot](https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu) | 4:14 | 2022-10-27 |  |
 | [Stone That Burns](https://open.spotify.com/track/5TX941hWLDj4ru5N2xbJti) | [Anima Hereticae](https://open.spotify.com/artist/539bg8trpgvFICGqp2VIUd) | [Ov Behest](https://open.spotify.com/album/1zIKlDMfUjGuYZttGLJwTt) | 7:04 | 2021-12-17 | 2022-05-14 |
-| [Strategies of Manipulation](https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Strategies of Manipulation \- EP](https://open.spotify.com/album/20WJWz0leX9XBqh9Nx6kdP) | 2:04 | 2023-04-28 |  |
+| [Strategies of Manipulation](https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Strategies of Manipulation \- EP](https://open.spotify.com/album/20WJWz0leX9XBqh9Nx6kdP) | 2:04 | 2023-04-28 | 2023-06-04 |
 | [Strepitus Mundi](https://open.spotify.com/track/3f9GL4zy4NfKhIFePXofP0) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Strepitus Mundi](https://open.spotify.com/album/2gTBYf4PyYXYOqYpXXzrgF) | 8:04 | 2022-04-08 | 2022-07-23 |
 | [Svart Industriell Olycka](https://open.spotify.com/track/4eDKFcJDDoUcUYlK2cdemJ) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III : Angst](https://open.spotify.com/album/7EkBKDQY4vPdkoEiW0fFUv) | 8:05 | 2022-07-13 | 2022-07-29 |
 | [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 | 2022-09-16 | 2023-02-11 |

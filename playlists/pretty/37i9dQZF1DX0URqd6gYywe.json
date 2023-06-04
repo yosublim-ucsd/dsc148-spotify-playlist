@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Mat\u00f3 a un Polic\u00eda Motorizado",
-  "num_followers": 78841,
+  "num_followers": 78899,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGUwNmJkNmZlYjEzYzMwZDg0NDAzNjI2ZjQ1MTg3MWY4ZjIzZTI3",
+  "snapshot_id": "MCwwMzU5NzJlZmNlMzJkZDk5MWNiNzVkZmI2NThkZWY2MjQ0NmZhYmIz",
   "tracks": [
     {
       "added_at": "2023-06-02 17:44:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-06-02 17:44:00",
       "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 254546,
+      "name": "Basta de Llamarme As\u00ed",
+      "url": "https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0"
+    },
+    {
+      "added_at": "2023-06-02 17:44:00",
+      "album": {
         "name": "Guerras (Un Viaje en el Tiempo)",
         "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 269011,
       "name": "Fuiste lo mejor",
       "url": "https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk"
-    },
-    {
-      "added_at": "2023-06-02 17:44:00",
-      "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 254546,
-      "name": "Basta de Llamarme As\u00ed",
-      "url": "https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0"
     },
     {
       "added_at": "2023-06-02 17:44:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-02 17:44:00",
       "album": {
-        "name": "Los A\u00f1os Salvajes",
-        "url": "https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Encuentros Cercanos",
-      "url": "https://open.spotify.com/track/2Yqe9TulIPXUESIoMTr3pX"
-    },
-    {
-      "added_at": "2023-06-02 17:44:00",
-      "album": {
         "name": "En La Vereda del Sol",
         "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 173746,
       "name": "Inconsciente Colectivo",
       "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
+    },
+    {
+      "added_at": "2023-06-02 17:44:00",
+      "album": {
+        "name": "Los A\u00f1os Salvajes",
+        "url": "https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Encuentros Cercanos",
+      "url": "https://open.spotify.com/track/2Yqe9TulIPXUESIoMTr3pX"
     },
     {
       "added_at": "2023-06-02 17:44:00",

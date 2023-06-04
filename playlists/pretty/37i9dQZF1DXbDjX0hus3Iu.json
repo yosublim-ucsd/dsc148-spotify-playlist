@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 476812,
+  "num_followers": 476938,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDNhNjZkMDkzYjUzNGMyZTRkOWFkMzlkZmI5ODI1Y2I5NmQyNjE5",
+  "snapshot_id": "MCxhY2UyZWZjMWE0MDRhNTdjOTllNDgxM2Y0NTMxNGJkZGUyNzQ5ZjUx",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "The Johnny Van Zant Collection",
-        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
-      },
-      "artists": [
-        {
-          "name": "Johnny Van Zant Band",
-          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Snake in the Grass",
         "url": "https://open.spotify.com/album/22q4E2pBBit8i66rRml0l0"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 243453,
       "name": "Come On",
       "url": "https://open.spotify.com/track/1hMRwlLk8GqPx5yo6n3QZS"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "The Johnny Van Zant Collection",
+        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
+      },
+      "artists": [
+        {
+          "name": "Johnny Van Zant Band",
+          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
     },
     {
       "added_at": "2023-01-18 21:52:55",

@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-494 songs - 1 day 14 hr 15 min
+495 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Farewell Farewell](https://open.spotify.com/track/16ZGpsR577U0BD8nTdENL9) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [A Brand New Silver Dollar](https://open.spotify.com/album/5PenfsMGMK0o9L7kNHqW8G) | 5:43 | 2022-09-29 | 2023-05-13 |
 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-02-09 |  |
 | [Find The Way](https://open.spotify.com/track/2sKg6jqljgKwOetEUJPaJX) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Find The Way](https://open.spotify.com/album/2yRchatpprc3DnmCqL4Ybl) | 5:58 | 2022-02-10 | 2022-11-09 |
+| [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 | 2023-06-01 |  |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-11-12 |  |
 | [First Song](https://open.spotify.com/track/3PsEztkJz9a5NsIgqzl3wd) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [First Song](https://open.spotify.com/album/1gdQmvCLSFSHvwA5NcjYgj) | 6:53 | 2023-03-10 | 2023-04-16 |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-17 |  |
@@ -487,7 +488,7 @@
 | [Winding Down](https://open.spotify.com/track/0spxhxF0OCUwlAJsq70CoS) | [Xavier Davis](https://open.spotify.com/artist/2LiJegzrWFHatDw2kFLsc7) | [Winding Down](https://open.spotify.com/album/3Md83NJiHkmdiDk7Tqpxi3) | 8:15 | 2022-03-25 |  |
 | [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 | 2022-11-12 |  |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-11-12 | 2023-03-25 |
-| [Words of Hope](https://open.spotify.com/track/22ANqZfFu8nHuTSWtmBq7s) | [Steve Boudreau](https://open.spotify.com/artist/0tNCJZ0QjXhJKfKSbcQF9i) | [Cherished Possessions](https://open.spotify.com/album/6wEknkvTqiYMD0Kkr4fRwh) | 5:26 | 2022-04-07 |  |
+| [Words of Hope](https://open.spotify.com/track/22ANqZfFu8nHuTSWtmBq7s) | [Steve Boudreau](https://open.spotify.com/artist/0tNCJZ0QjXhJKfKSbcQF9i) | [Cherished Possessions](https://open.spotify.com/album/6wEknkvTqiYMD0Kkr4fRwh) | 5:26 | 2022-04-07 | 2023-06-04 |
 | [Yesterdays \- Live](https://open.spotify.com/track/19x3hs8m84gCkXnxhSJLQu) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Yesterdays](https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX) | 8:55 | 2022-02-10 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/6Ybo0q6qQkKOZ3zRN59GnM) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm) | [You Don't Know What Love Is](https://open.spotify.com/album/42jzQMDBQFqwr245siPsBH) | 4:45 | 2023-05-25 |  |
 | [You Don't Know What Love Is \- Live \- Instrumental](https://open.spotify.com/track/3Yb8sBtpeVTLSWWRzZvcOh) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [Night And The City](https://open.spotify.com/album/0M21M9hddiB5bqM2KinY9Q) | 7:00 | 2022-02-10 |  |

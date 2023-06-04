@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 
 > Feed your focus with restaurant ambience from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,731 likes - 93 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,744 likes - 93 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 | 92 | [Outdoors Slurpin' \- Seamless](https://open.spotify.com/track/4eYjmny0b1bfMmyFMXGqRf) | [Joshua Tree Hikers](https://open.spotify.com/artist/5zM9amH96d8tNGX5mEFllS) | [Outdoors Slurpin'](https://open.spotify.com/album/1181bpxgjJxflOM50DLLks) | 2:26 |
 | 93 | [De Tamarindo](https://open.spotify.com/track/6SkGKLhfOQ4tTwYQc2geoV) | [Comer Para Vivir](https://open.spotify.com/artist/4ZSY2phizCjuJH6jwz2wJ7) | [Tacos Playa Del Carmen](https://open.spotify.com/album/5rYIusX5CIIYAnAUbkjQKQ) | 3:23 |
 
-Snapshot ID: `MCw0NmE3MzI2MDdjNmRjZmI4YWJmMjg0MzhlOTNhNGU3ZTUyMjdlM2Ew`
+Snapshot ID: `MCxiZGYzMTMyNGExZTU3YWNkNWUyZjc5ZTYwMjZkOWE3OGI5YjFkMWI2`

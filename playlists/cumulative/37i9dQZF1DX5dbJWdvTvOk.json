@@ -4284,28 +4284,10 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 140771,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/3oni7vtcnPPUWvnT4zRfQF"
-    },
-    {
-      "album": {
-        "name": "The Lighthouse",
-        "url": "https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ"
-      },
-      "artists": [
-        {
-          "name": "Kim Rodgers",
-          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
-        }
-      ],
-      "date_added": "2023-04-21",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
-      "duration_ms": 140771,
-      "name": "Intertwined",
-      "url": "https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M"
     },
     {
       "album": {
@@ -8718,6 +8700,24 @@
       "duration_ms": 134930,
       "name": "The Hourglass",
       "url": "https://open.spotify.com/track/4ZKXTmQ9vGQG4QJEZjhm8u"
+    },
+    {
+      "album": {
+        "name": "The Lighthouse",
+        "url": "https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140771,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M"
     },
     {
       "album": {

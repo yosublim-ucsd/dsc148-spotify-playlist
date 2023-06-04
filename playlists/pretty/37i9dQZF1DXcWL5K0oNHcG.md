@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Benjamin Jephta Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,003 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,072 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 58 | [Distracted](https://open.spotify.com/track/3DxZNgpKQvUFQ29s9soRUz) | [Madhi](https://open.spotify.com/artist/0rlSST73sjgmQfdXxB0vW0) | [A Place to Be](https://open.spotify.com/album/4XgtUwd8rlGlG0SljOdsX9) | 3:04 |
 | 59 | [Ballade](https://open.spotify.com/track/1jsvElBBPNPlTHR4RDi1Tj) | [Flash Pig](https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4) | [Ballade](https://open.spotify.com/album/3RSKY05f7foURdIh9uLcxA) | 3:02 |
 | 60 | [Quarter Tone Starlings](https://open.spotify.com/track/4Kou33jl3KK0KrpPN2hQ94) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Speech of Species](https://open.spotify.com/album/2tAb4BGrTnwx8i3SJnhucF) | 3:51 |
-| 61 | [Off Grid](https://open.spotify.com/track/5Gk7boQO9K8W1H5PcihMCv) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr) | [Off Grid](https://open.spotify.com/album/3fOPwWW5utf84jllgGDZWU) | 4:37 |
+| 61 | [Off Grid](https://open.spotify.com/track/6jjUY3vpy2wyPIThJ4HzsC) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr) | [Empire](https://open.spotify.com/album/6IAyGefMvGp3j9NgkRM8SI) | 4:37 |
 | 62 | [Osmosis Chapter Ii](https://open.spotify.com/track/3hIlZwM1hQ3vK840qjxNr2) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Osmosis Chapter Ii](https://open.spotify.com/album/0yDJyNCGV05aqK4zHHLbK0) | 3:00 |
 | 63 | [Glass Prism](https://open.spotify.com/track/6iRtb1c4RfkXsKZxxn9EIR) | [BZ3 Organ Trio](https://open.spotify.com/artist/29ff6FFH474l5fJyepuOLr) | [Glass Prism](https://open.spotify.com/album/02WW1Jg6qkgmybkMWVuGyy) | 5:17 |
 | 64 | [Stank Face Patrol](https://open.spotify.com/track/6atptFSO0uK34oWZB9sevI) | [Jeremy Talon](https://open.spotify.com/artist/3ZCxlp3z1vzDcPN3kgPwcJ) | [Stank Face Patrol](https://open.spotify.com/album/60KAKPSwkb7PN98c7iQkdh) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Bakeren](https://open.spotify.com/track/1tl99aJBxyHmTomw8WHhCY) | [Espen Horne](https://open.spotify.com/artist/7hpcUZfbdKYP4JMC1zNaYW), [Faye Houston](https://open.spotify.com/artist/5062CWWnt9yuyESJ5uKrIB) | [Bakeren](https://open.spotify.com/album/29vxqC6XoqZkfCB0O5j0Xv) | 4:53 |
 | 75 | [Spooki \- Ash Walker Dub](https://open.spotify.com/track/5agzILYRN43kgVHhGzIftY) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Ugh \(Bonus Edition\)](https://open.spotify.com/album/0jVCHki8NXJ2nK22ZDGDhO) | 3:22 |
 
-Snapshot ID: `MCxiMGNkNTVjYjQ5Y2JjOTUxNmM1ZGQ0MmIyNWQ0OGY5NTQ0YTRmOGM1`
+Snapshot ID: `MCw5OGJhZWIwYTU1OGQxYmVjMzM4NjE4YzUxMWQzMmI5ZGE4MzZlZmJj`

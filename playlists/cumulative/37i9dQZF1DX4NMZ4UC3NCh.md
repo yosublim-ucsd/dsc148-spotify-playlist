@@ -4,7 +4,7 @@
 
 > Happiness! This is Red Velvet! Red Velvet wants everyone to have a Beautiful Christmas!
 
-138 songs - 8 hr 3 min
+140 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-22 |  |
 | [Fool](https://open.spotify.com/track/21C7B7PWYDW00czamOjleO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:53 | 2022-03-22 |  |
 | [Fool](https://open.spotify.com/track/7kedMPEnyRksvUqGeFhY9D) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/2pBrB5hW9CjLWWZGqrET2g) | 3:53 | 2022-03-22 | 2022-07-29 |
-| [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2022-03-22 |  |
+| [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2022-03-22 | 2023-06-04 |
 | [Good, Bad, Ugly](https://open.spotify.com/track/1DX08glq6CBGBA0N6uL3JV) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:01 | 2022-03-22 |  |
 | [Happily Ever After](https://open.spotify.com/track/7H1ly0lZJ9ebnci5B9t7Nh) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) | 3:21 | 2022-03-22 |  |
 | [Happily Ever After](https://open.spotify.com/track/7fMlxVFAUsUilPFQnlX6kR) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/01n9lwCLSigXsuY0AdFS9O) | 3:21 | 2022-03-22 | 2022-07-29 |
@@ -128,7 +128,7 @@
 | [Time Slip](https://open.spotify.com/track/68uR6PcA8q1tBM44ZaFv9u) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/56L226pRT1sHo2vgoJy5IB) | 3:39 | 2022-03-22 | 2022-07-29 |
 | [Time Slip](https://open.spotify.com/track/7q2qLI13TejYkBr4A5ZhEJ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 3:39 | 2022-03-22 |  |
 | [Time To Love](https://open.spotify.com/track/6AdhHZfTC4ep1b2v7L0Hfl) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:15 | 2022-03-22 |  |
-| [Two Words](https://open.spotify.com/track/18htZlHsq2suy0AR1juUgV) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [START\-UP \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/2UBD6fWbilJZvENLUXFCUn) | 3:59 | 2022-03-22 |  |
+| [Two Words](https://open.spotify.com/track/18htZlHsq2suy0AR1juUgV) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [START\-UP \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/2UBD6fWbilJZvENLUXFCUn) | 3:59 | 2022-03-22 | 2023-06-04 |
 | [Umpah Umpah](https://open.spotify.com/track/0HFa5Rr2x5iwqIvGTMqif6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:40 | 2022-03-22 |  |
 | [Would U](https://open.spotify.com/track/1rL3u6JsjQT9Cxg1oHTJEK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Would U \- SM STATION](https://open.spotify.com/album/55Pg6r2oJfQaVm3yzhgZsG) | 3:23 | 2022-03-22 |  |
 | [Written In The Stars](https://open.spotify.com/track/6SLMyJPRTh2zCX9SJJHTZQ) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Written In The Stars](https://open.spotify.com/album/08z3DsL7P6RpBR3FgNMSvN) | 3:51 | 2022-03-22 |  |
@@ -138,8 +138,10 @@
 | [Zimzalabim](https://open.spotify.com/track/2cvi3IRTibXzmAm4f8P2HP) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:10 | 2022-03-22 |  |
 | [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 | 2022-03-22 |  |
 | [ZOOM](https://open.spotify.com/track/18OjYSOz2ryc2vLmAeG2de) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:04 | 2022-11-28 |  |
+| [두 글자](https://open.spotify.com/track/0RmDq47ZpG5wIKDM0f0nDA) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [START\-UP \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/3G5kDIO4kKC58Hf6beFEnE) | 3:59 | 2022-11-28 |  |
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 | 2022-03-22 |  |
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/7AvXrOVEVRcfXxme2wo6Im) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/2pBrB5hW9CjLWWZGqrET2g) | 3:31 | 2022-03-22 | 2022-07-29 |
+| [미래](https://open.spotify.com/track/1HZR7A1UE9vBu24j9bZNN7) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0Cp4RcGMELipXIAye8AxFN) | 3:35 | 2022-11-28 |  |
 | [사탕 \(Candy\)](https://open.spotify.com/track/1KXNWNBTmdKB97kdo6vI4i) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Mini Album ‘Ice Cream Cake’](https://open.spotify.com/album/6eS6pnhJWgYL0A74Mp3RPc) | 4:22 | 2022-03-22 | 2022-07-29 |
 | [사탕 \(Candy\)](https://open.spotify.com/track/6z1ycVYyjuc6DsnDe9SKBW) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Ice Cream Cake \- The 1st Mini Album](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) | 4:22 | 2022-03-22 |  |
 | [처음인가요 First Time](https://open.spotify.com/track/0LOPFlsWqlqPpr0ICwMVcK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/3ZkPccW7mkSC7BCulcPFJs) | 4:02 | 2022-03-22 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 305,967 likes - 46 songs - 2 hr 45 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 305,962 likes - 46 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 38 | [Waiting](https://open.spotify.com/track/2nO2t7fWqWGXkiBbLLc7u3) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [The Sign / Waiting](https://open.spotify.com/album/1BrB24YpSwGCcMZBU0i42s) | 3:32 |
 | 39 | [Everything Changes But Us](https://open.spotify.com/track/1ASSOK89dWkRbMNIbNgIT8) | [Lindja](https://open.spotify.com/artist/12FS78q2foxDejKiUm1BgD), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Everything Changes But Us](https://open.spotify.com/album/2l1U2LgHNCi1aVxE8HaKxw) | 3:52 |
 | 40 | [Rate of Change](https://open.spotify.com/track/31Z6oopR2V09l58hw4Jna1) | [MUUI](https://open.spotify.com/artist/4uprJRAH1f3978H1YMzqWY) | [Last Looks / Rate of Change](https://open.spotify.com/album/5C3NWeXlblyD5klhS4msfL) | 4:24 |
-| 41 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
+| 41 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
 | 42 | [Flashdance \(feat\. Man Parrish\)](https://open.spotify.com/track/4o7tPk11jkPTwWiOwfaXbf) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Flashdance \(feat\. Man Parrish\)](https://open.spotify.com/album/2yn9CpgGe6NJGKTkPrVQR8) | 2:45 |
 | 43 | [BRING BACK THE COLOR \(feat\. AURORA\)](https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [BRING BACK THE COLOR \(feat\. AURORA\)](https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo) | 2:48 |
 | 44 | [Dance All Night \(feat\. Sara Sukkha\)](https://open.spotify.com/track/4zGKAfTBKPFEbuiRJkcod9) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Sara Sukkha](https://open.spotify.com/artist/2Y4pAOwOKFzMBHwM3ubW2g) | [Dance All Night \(feat\. Sara Sukkha\)](https://open.spotify.com/album/4aVAiadvoAFe5zAiXpQTfB) | 3:22 |

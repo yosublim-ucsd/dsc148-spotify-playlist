@@ -1,12 +1,12 @@
 {
   "description": "What in the stutter/rainy/tremolo house list did I just create??",
-  "num_followers": 12299,
+  "num_followers": 12344,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGM1YTlhYjg3ZDQ4OWU1MGRkODYyZTZhMmE3YjNkN2M1NjRkMDAy",
+  "snapshot_id": "MCxjOTUyNTkzMzZlNDc1MjE2MTM5ZTdjNjgxNGUwMzBlNTE2MWI3M2Ri",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -567,30 +567,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Right Before Our Eyes",
-        "url": "https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 184335,
-      "name": "Right Before Our Eyes",
-      "url": "https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Something Stronger",
         "url": "https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 127530,
       "name": "Something Stronger",
       "url": "https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Right Before Our Eyes",
+        "url": "https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 184335,
+      "name": "Right Before Our Eyes",
+      "url": "https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -831,18 +831,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "My Mistake",
-        "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
+        "name": "Daybreak (with Zachary Knowles)",
+        "url": "https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm"
       },
       "artists": [
         {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Zachary Knowles",
+          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
         }
       ],
-      "duration_ms": 195757,
-      "name": "My Mistake",
-      "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
+      "duration_ms": 140666,
+      "name": "Daybreak (with Zachary Knowles)",
+      "url": "https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -863,6 +867,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "My Mistake",
+        "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
+      },
+      "artists": [
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 195757,
+      "name": "My Mistake",
+      "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Say It To Me",
         "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 242076,
       "name": "Say It To Me",
       "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Daybreak (with Zachary Knowles)",
-        "url": "https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "Zachary Knowles",
-          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "Daybreak (with Zachary Knowles)",
-      "url": "https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Glow / Void",
+        "url": "https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Run Till Dark (with Now United) (Arcando Remix)",
         "url": "https://open.spotify.com/album/3CndXGZ1kldW1imbZb3NAG"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 150000,
       "name": "Kratos (A Little Closer)",
       "url": "https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Glow / Void",
-        "url": "https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "There's Another Life 4 U / So Long",
-        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Origami Human",
-          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
-        }
-      ],
-      "duration_ms": 227624,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Show My Love (Icarus Remix)",
         "url": "https://open.spotify.com/album/1VR5TzwsFklJulE2k6e6in"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 190000,
       "name": "Show My Love - Icarus Remix",
       "url": "https://open.spotify.com/track/5HIaLjWKI0ziKDmOLw7R2A"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "There's Another Life 4 U / So Long",
+        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Origami Human",
+          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
+        }
+      ],
+      "duration_ms": 227624,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Silence In The Hollow",
-        "url": "https://open.spotify.com/album/6Vdy9cA047Y1a0AbDSQjGQ"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Silence In The Hollow",
-      "url": "https://open.spotify.com/track/3NGe0uPXUFfutwKaskELsQ"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "See This Through",
         "url": "https://open.spotify.com/album/3mr6nOha9myNvBwMEMAA4y"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 283408,
       "name": "See This Through",
       "url": "https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Silence In The Hollow",
+        "url": "https://open.spotify.com/album/6Vdy9cA047Y1a0AbDSQjGQ"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Silence In The Hollow",
+      "url": "https://open.spotify.com/track/3NGe0uPXUFfutwKaskELsQ"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1763,6 +1763,38 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Find Love",
+        "url": "https://open.spotify.com/album/7rgzTxxUqi2hgXNntYcJCn"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 216168,
+      "name": "Find Love",
+      "url": "https://open.spotify.com/track/0RSeZsQ2AwR6FSidj6G6QN"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "REGULARITY",
+        "url": "https://open.spotify.com/album/6r9yhMag0DL9ScLGhyFV5S"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "TAKE ME HIGHER",
+      "url": "https://open.spotify.com/track/10CW1gteP9joEzoxfpL3Zd"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "feelslikewerefalling",
         "url": "https://open.spotify.com/album/0n8vdluADIPcKgDqKihrns"
       },
@@ -1779,22 +1811,6 @@
       "duration_ms": 192000,
       "name": "feelslikewerefalling",
       "url": "https://open.spotify.com/track/5AQTaXJSHYCBnqDXcX0Qpu"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Find Love",
-        "url": "https://open.spotify.com/album/7rgzTxxUqi2hgXNntYcJCn"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 216168,
-      "name": "Find Love",
-      "url": "https://open.spotify.com/track/0RSeZsQ2AwR6FSidj6G6QN"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1831,22 +1847,6 @@
       "duration_ms": 244673,
       "name": "Isolate - Jacana People Remix",
       "url": "https://open.spotify.com/track/4gaVbud6ZqzIgse5t5kzYw"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Lose It",
-        "url": "https://open.spotify.com/album/7GMeqHwUzlZ6zoR61YICom"
-      },
-      "artists": [
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
-        }
-      ],
-      "duration_ms": 291818,
-      "name": "Lose It",
-      "url": "https://open.spotify.com/track/2BvqUVpsRPqg9U7cPS7W2N"
     }
   ],
   "unique_name": "Emotional Dance",

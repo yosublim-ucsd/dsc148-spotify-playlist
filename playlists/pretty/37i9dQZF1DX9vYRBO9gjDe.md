@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。6月1日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,839 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,919 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [BOY](https://open.spotify.com/track/0t1ipXkHAdsAHnGWE2An95) | [SOUTH BLUE](https://open.spotify.com/artist/2Y4BqFtHihCI2CazDTKkjI) | [S](https://open.spotify.com/album/02BVA1M0IgtIWBxc9CBulB) | 3:03 |
 | 50 | [大切なもの](https://open.spotify.com/track/4QMLig3qhuUz4KYqsGE4Ov) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 3:10 |
 
-Snapshot ID: `MCw4ZTFiZTdiYmU2MzQ2ZmRmNTQyOTdmODFjYjgwZjVkN2E5MjRkMGNk`
+Snapshot ID: `MCw1ZWJiMTA2Njc0YjhlY2M0MDJkYTdmM2RjMTU5MDkxMGMyMmU3ZGI4`

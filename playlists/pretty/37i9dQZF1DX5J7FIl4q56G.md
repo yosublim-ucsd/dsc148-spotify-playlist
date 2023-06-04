@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Pupil Slicer
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,414 likes - 54 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,534 likes - 54 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 53 | [Solar Witch](https://open.spotify.com/track/59tgpJap3pxVGFKeJcm843) | [Thantifaxath](https://open.spotify.com/artist/7DcSKG8ruWMgHsUh1rqZFh) | [Hive Mind Necrosis](https://open.spotify.com/album/33j7lFZ3OdXerDKwdVHLJf) | 6:01 |
 | 54 | [From the Rafters](https://open.spotify.com/track/5ulRodnS24iqppMEZQQa53) | [Death Ray Vision](https://open.spotify.com/artist/3W8CcPW3tnk7aCxruUEFx2) | [From the Rafters](https://open.spotify.com/album/65cIOtNeHasQRWPb2cRYIg) | 2:27 |
 
-Snapshot ID: `MCw2YjExNjBkMmEyNzYxODBiODdmNTYzN2Y1MGIyYTNlZWViOGI4ZjAw`
+Snapshot ID: `MCxkNWU1YTZhYzJiZmNiYTM1MDUyODllOWIyMDQ5YTQ5NzRkMWU1NzUy`

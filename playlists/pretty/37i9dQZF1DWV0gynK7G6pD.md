@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Lavinia Meijer
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,970 likes - 51 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,023 likes - 51 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 50 | [Romanze for Violin and Piano, H\. 45](https://open.spotify.com/track/2eka655XvAWJ2X0zpg9IJy) | [Frank Bridge](https://open.spotify.com/artist/7rj5B6cNPEJhWLnZAPSw9c), [Alessandro Clerici](https://open.spotify.com/artist/7gBswR78hwtmGBQyG5ipUE), [Elena Brunello](https://open.spotify.com/artist/4ffwblf3u3mGKc81rh8HgK) | [Romanze for Violin and Piano, H\. 45](https://open.spotify.com/album/0N9lC39TA9hWeeeJw8YZPf) | 4:49 |
 | 51 | [Symphony No\. 9, Op\. 125: III\. Adagio molto e cantabile \- Andante moderato \- Adagio \(Arr\. By Hans Sitt\)](https://open.spotify.com/track/57ZlFd3ZWWjfBX0rBhlQOZ) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Mauro Loguercio](https://open.spotify.com/artist/21oSJUaw7ESADBnS8I93yK), [Emanuela Piemonti](https://open.spotify.com/artist/2d3IJhVfMOS9MoUWOpiNqf) | [Beethoven: 9th Symphony, Op\. 125, Transcription for Violin and Piano by Hans Sitt](https://open.spotify.com/album/1zofJpgw1Eg4BFazBysHA9) | 14:02 |
 
-Snapshot ID: `MCxkNzJlM2Q1OTUwZmU1ZDBkZTBiYmY0YmI3NmE1NWYxZWVlZTg2NWUx`
+Snapshot ID: `MCxlN2M5MDAzODA4ZGQ0ODU1ZTA5NDY1YTM1NDc3NjE2Y2EwZTY0YWZk`

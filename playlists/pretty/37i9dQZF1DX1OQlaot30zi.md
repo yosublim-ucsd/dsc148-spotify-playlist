@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tedua, Ensi e Nerone, Salmo e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,503 likes - 85 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,529 likes - 85 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 28 | [Tony Montana \(feat\. Guè\)](https://open.spotify.com/track/201JJbyPScX7NO7DnjhNnD) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 2:27 |
 | 29 | [ON FIRE \- paid in full](https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:56 |
 | 30 | [90](https://open.spotify.com/track/0rD8H43oOmGqkSPIZVw3QF) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Sacrosanto](https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1) | 2:43 |
-| 31 | [Coco Chanel \(feat\. Oriana\)](https://open.spotify.com/track/5X8BjBDSovGDQdl4gtmZVl) | [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Coco Chanel \(feat\. Oriana\)](https://open.spotify.com/album/7gnrJwRpOQaPtkHBORdaZO) | 2:44 |
+| 31 | [Coco Chanel \(feat\. Oriana\)](https://open.spotify.com/track/5X8BjBDSovGDQdl4gtmZVl) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Coco Chanel \(feat\. Oriana\)](https://open.spotify.com/album/7gnrJwRpOQaPtkHBORdaZO) | 2:44 |
 | 32 | [Facendo Faccende](https://open.spotify.com/track/34CdlNxyjJZxXM4sXhAMbP) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG) | [Facendo Faccende](https://open.spotify.com/album/3VmtySjQrfflccXajzDArW) | 2:08 |
 | 33 | [4LIFE](https://open.spotify.com/track/5DnrCph0cmu2eVZMmzsE1w) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [4LIFE](https://open.spotify.com/album/6cBDkNIuMXeRVGOQIKzluw) | 1:56 |
 | 34 | [Così Ghiacciato Tony](https://open.spotify.com/track/72GnOgY8IYhPJD2PBSNcUL) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Così Ghiacciato Tony](https://open.spotify.com/album/3N93FlcPvFKrGhQx81K5Uh) | 2:53 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [Maradona \(feat\. Freek\)](https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Maradona \(feat\. Freek\)](https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep) | 2:57 |
 | 85 | [TN NOIR](https://open.spotify.com/track/7FgP6zMPt73AFMy5GBq1GJ) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [TN NOIR](https://open.spotify.com/album/2juH2yKkzcQWvzRBdsIizH) | 2:40 |
 
-Snapshot ID: `MCxjNDY0ODhlYjg0NmNhMTljZDcxYTkzYzQ5NDIxOTMyYmI3ZTE4MThl`
+Snapshot ID: `MCxkYzk3YjljOWNmMzcyOTNjZDkxNWNmZWQ4MmU3ZDVkMTYxMTUzYjIw`

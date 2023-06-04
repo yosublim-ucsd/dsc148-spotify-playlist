@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 99895,
+  "num_followers": 99919,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmUzYjk2YWI2MTM3ODYyY2I4ZDE4MmE5YTMwZjM0Y2EyMjYzNTdh",
+  "snapshot_id": "MCw0ODVjM2QxOTNhNWFiYTQwYTE5NWU0ZjcxMmE3ZTcwNGVlNjA0OGI1",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Diary of a Princess",
-        "url": "https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe"
-      },
-      "artists": [
-        {
-          "name": "Princess Nyah",
-          "url": "https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh"
-        }
-      ],
-      "duration_ms": 235275,
-      "name": "Frontline",
-      "url": "https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "What You Do (Hottest By Far)",
         "url": "https://open.spotify.com/album/5rCXzdvDDWsCzfarkeKbZK"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 285750,
       "name": "What You Do (Hottest By Far)",
       "url": "https://open.spotify.com/track/5VbB0e2Sv6vxWLmroz1Vem"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Diary of a Princess",
+        "url": "https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe"
+      },
+      "artists": [
+        {
+          "name": "Princess Nyah",
+          "url": "https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh"
+        }
+      ],
+      "duration_ms": 235275,
+      "name": "Frontline",
+      "url": "https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Make Money",
-        "url": "https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv"
-        },
-        {
-          "name": "Bryte",
-          "url": "https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi"
-        }
-      ],
-      "duration_ms": 197072,
-      "name": "Make Money",
-      "url": "https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Bayeke (Prace Remix)",
         "url": "https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 354244,
       "name": "Bayeke - Prace Remix",
       "url": "https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Make Money",
+        "url": "https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv"
+        },
+        {
+          "name": "Bryte",
+          "url": "https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi"
+        }
+      ],
+      "duration_ms": 197072,
+      "name": "Make Money",
+      "url": "https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "T-Shirt (UK remixes)",
-        "url": "https://open.spotify.com/album/7yqRpx812OgyuspBHWbPzn"
-      },
-      "artists": [
-        {
-          "name": "Shontelle",
-          "url": "https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc"
-        }
-      ],
-      "duration_ms": 335306,
-      "name": "T-Shirt - Crazy Cousinz Vocal Remix",
-      "url": "https://open.spotify.com/track/5skRvPNGdQMBORLv1UTt0c"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Gallium",
         "url": "https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 456201,
       "name": "Galiium",
       "url": "https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "T-Shirt (UK remixes)",
+        "url": "https://open.spotify.com/album/7yqRpx812OgyuspBHWbPzn"
+      },
+      "artists": [
+        {
+          "name": "Shontelle",
+          "url": "https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc"
+        }
+      ],
+      "duration_ms": 335306,
+      "name": "T-Shirt - Crazy Cousinz Vocal Remix",
+      "url": "https://open.spotify.com/track/5skRvPNGdQMBORLv1UTt0c"
     },
     {
       "added_at": "2022-04-13 15:03:02",

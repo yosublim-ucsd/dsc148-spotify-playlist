@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-378 songs - 23 hr 7 min
+379 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Freedom](https://open.spotify.com/track/5wnhj7LmjbArwChkJKcPx7) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/21MyZpqv4kjKulBfxKnVq9) | 4:28 | 2021-03-05 | 2022-07-29 |
 | [Freight train](https://open.spotify.com/track/5UlokrsKgBObpODBXwTW0B) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 2:46 | 2021-03-05 |  |
 | [From Me To You](https://open.spotify.com/track/6h57O3JjjlkEvoC4PQTdvd) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Between The Lines](https://open.spotify.com/album/0bRlXo4f7P0gF30G3RACTN) | 3:17 | 2021-03-05 | 2022-07-29 |
-| [Game To Lose](https://open.spotify.com/track/6hRmSHcTdXbIp66h9Aj8Mc) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:45 | 2021-03-05 |  |
+| [Game To Lose](https://open.spotify.com/track/6hRmSHcTdXbIp66h9Aj8Mc) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:45 | 2021-03-05 | 2023-06-04 |
 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 | 2021-03-05 |  |
 | [Gold Hills](https://open.spotify.com/track/2rBp6v1PkDP2GWg625RrCz) | [Muireann Nic Amhlaoibh](https://open.spotify.com/artist/0kmDsPHHxquChPOywNcoF3) | [Ar Uair Bhig An Lae \- The Small Hours](https://open.spotify.com/album/7MuIL1yaYFof17gjVzPr8T) | 3:51 | 2021-03-05 | 2022-07-27 |
 | [Good Fight](https://open.spotify.com/track/7GjuCYAw1uU2cWC3NnB42q) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Good Fight](https://open.spotify.com/album/5pVjHc7xmTOz0jmSAz6Auh) | 3:18 | 2021-03-05 | 2022-07-29 |
@@ -167,6 +167,7 @@
 | [Hurricane](https://open.spotify.com/track/5K9CN4zd8jPy5QyuNiv08s) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hurricane](https://open.spotify.com/album/651WqryyYBaP5DloPK8lHv) | 3:34 | 2022-10-14 | 2022-10-26 |
 | [I Remember You](https://open.spotify.com/track/37s7Dw5G0Cm8xnimvCLGVh) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Queen Of The Minor Key](https://open.spotify.com/album/4KlIDBQ3Xzom8PCCyKiGOL) | 3:51 | 2021-03-05 | 2022-07-26 |
 | [I Remember You](https://open.spotify.com/track/6U7ZRYMJ2zIO1oe4YoK6pU) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Queen of the Minor Key](https://open.spotify.com/album/0zgwXcmqZV91rLsGgkwtuF) | 3:51 | 2021-03-05 |  |
+| [I've Got That Old Feeling](https://open.spotify.com/track/3W8299AD4n4LAgIr5VGY3X) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [I've Got That Old Feeling](https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7) | 2:56 | 2023-03-08 |  |
 | [I've Got That Old Feeling](https://open.spotify.com/track/6fbv23ifAnjGbjvSDIwhma) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [I've Got That Old Feeling](https://open.spotify.com/album/7vrtcZNg6n074ZNGZWlbeO) | 2:56 | 2021-03-05 | 2022-07-29 |
 | [If Ever \(with Jack Johnson & Ben Harper\)](https://open.spotify.com/track/3lQY1TrOzBKG9c83ALIX77) | [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Rain On Sunday](https://open.spotify.com/album/2VGzHqnVWTiMlKfnCoXU0U) | 3:35 | 2022-03-08 |  |
 | [If I Could Make You My Own](https://open.spotify.com/track/0Tw3Nvsz2giFeemz30HRXA) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [If I Could Make You My Own](https://open.spotify.com/album/7rAsIsm5WbH1wYQuZjl5rz) | 3:22 | 2021-03-05 | 2022-03-09 |

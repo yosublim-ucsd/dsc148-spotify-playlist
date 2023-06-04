@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Benjamin Jephta Artwork: Joy Yamusangie
 
-1,140 songs - 3 day 19 hr 13 min
+1,141 songs - 3 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,7 +677,8 @@
 | [Oceans](https://open.spotify.com/track/5e7GecsmwEYPnxRVODhfF6) | [Soundscape Orchestra](https://open.spotify.com/artist/3YnBDgy1QEbGQhYAbwjvsg) | [Oceans](https://open.spotify.com/album/6wQeXa6C2ZdK5gXrpbZdSf) | 7:26 | 2022-03-02 | 2022-04-07 |
 | [Ode to Europe](https://open.spotify.com/track/4JUMQpi7O1azMkVJjT6Vl2) | [Matt Anderson Quartet](https://open.spotify.com/artist/7bIhgczU76C2iclrh7MKKN) | [The Town and the City](https://open.spotify.com/album/5smQKkZKie7KBLiuRS2sql) | 8:22 | 2022-07-06 | 2022-08-04 |
 | [Ode to Zawi \(Dedicated to Joe Zawinul\)](https://open.spotify.com/track/1ozKTUdhxmqhRqRF0UU5oP) | [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Ode to Zawi \(Dedicated to Joe Zawinul\)](https://open.spotify.com/album/5U37BPunKOXRB5tAUdUgVF) | 3:04 | 2022-10-26 | 2023-02-16 |
-| [Off Grid](https://open.spotify.com/track/5Gk7boQO9K8W1H5PcihMCv) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr) | [Off Grid](https://open.spotify.com/album/3fOPwWW5utf84jllgGDZWU) | 4:37 | 2023-05-10 |  |
+| [Off Grid](https://open.spotify.com/track/5Gk7boQO9K8W1H5PcihMCv) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr) | [Off Grid](https://open.spotify.com/album/3fOPwWW5utf84jllgGDZWU) | 4:37 | 2023-05-10 | 2023-06-04 |
+| [Off Grid](https://open.spotify.com/track/6jjUY3vpy2wyPIThJ4HzsC) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr) | [Empire](https://open.spotify.com/album/6IAyGefMvGp3j9NgkRM8SI) | 4:37 | 2023-05-10 |  |
 | [Off The Wall](https://open.spotify.com/track/6qUpHqV6aHTSZRDjcYSoUV) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:11 | 2023-03-22 |  |
 | [offshore](https://open.spotify.com/track/6sXJHN2YrlEtmhgXyjDp7u) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [offshore](https://open.spotify.com/album/2FYMP9FOs7du0tHHFFpwyt) | 8:04 | 2023-01-18 | 2023-03-29 |
 | [Old Habits Die Hard 2](https://open.spotify.com/track/4WlduU5JLnQtSZKHWdTaVH) | [Dynamic Dynamic](https://open.spotify.com/artist/0zj1eZZdo7x3QfeID5TDCd) | [Bloom](https://open.spotify.com/album/03P2WIHSYKBjZyWXs2Vm8b) | 4:49 | 2022-05-11 | 2022-05-26 |

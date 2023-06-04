@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass
 
-211 songs - 13 hr 23 min
+213 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Compass](https://open.spotify.com/track/61u2a1VcmmUoI9jOHdSWN5) | [DMVU](https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6) | [Tools For Those Who've Lost Their Way](https://open.spotify.com/album/7N3wsrHIFKe3J8BqHdVU2H) | 3:22 | 2022-04-15 | 2022-08-23 |
 | [Connected Illusions](https://open.spotify.com/track/6hsklmT7gmue5XjeALOCYD) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Connected Illusions](https://open.spotify.com/album/78UEzphMC0BLrGDUyLUTsv) | 4:21 | 2022-10-15 |  |
 | [Cosmos](https://open.spotify.com/track/34KsxA9KlUo7DqENzW9l2Y) | [Teffa](https://open.spotify.com/artist/3w8EiOMwnAuuWfPmX5kRqb) | [Cosmos](https://open.spotify.com/album/0KgmLt015HgyQQmHR2WlxI) | 3:46 | 2022-04-26 | 2022-09-17 |
+| [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-06-03 |  |
 | [CREATE](https://open.spotify.com/track/6pQeuElje6CepCLUSTTs1o) | [TR!P HVZVRD](https://open.spotify.com/artist/5Lx937tgItqFWdlOoyATpC), [OTATOP](https://open.spotify.com/artist/4kMFIAZUbaMvqb7cJjvtRj) | [CREATE](https://open.spotify.com/album/1yAyjHimE6Iandit8s0Ki3) | 3:05 | 2022-01-17 | 2022-02-18 |
 | [Cruise Control](https://open.spotify.com/track/1SAv0E7nYW6hnP13HRWIFF) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [The Power of Sound EP](https://open.spotify.com/album/5g3x8ghArJk8epL0R5NWj4) | 4:06 | 2022-08-18 | 2022-10-16 |
 | [Daisy](https://open.spotify.com/track/6r5HkXJGRfCrbcdYMxGZhM) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Daisy](https://open.spotify.com/album/3oZ61a5CcnPYLkMFzCPKPO) | 3:13 | 2022-09-17 | 2022-10-17 |
@@ -195,6 +196,7 @@
 | [The Eightfold Path](https://open.spotify.com/track/44RsnczsfE0fMty7UATC3z) | [Zen Selekta](https://open.spotify.com/artist/35U1RcBFdxNezzySMgVVd3), [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [IKIGAI](https://open.spotify.com/album/0X6ob5EVI8yI9tBMKE5byR) | 5:07 | 2023-02-20 | 2023-05-27 |
 | [The Jungle](https://open.spotify.com/track/5MxkPvXIWfywZZ5USYa9js) | [Josh Teed](https://open.spotify.com/artist/0m5NlhNMYQc0gUmvmRmVUS) | [The Jungle](https://open.spotify.com/album/2pur66tVtmzJrXIrTkhSn0) | 3:35 | 2022-04-15 | 2022-09-17 |
 | [The Last Judgement](https://open.spotify.com/track/0fs2L8OS0Jgc2Qy7aZsbIK) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [MC GQ](https://open.spotify.com/artist/28aPVWC88rDADOQBZNEgIs) | [The Dance Of Death](https://open.spotify.com/album/1w7u33Vp72rY6hnOspQ5cs) | 2:51 | 2021-10-23 | 2022-02-28 |
+| [The Last Lotus](https://open.spotify.com/track/0ckyGinZxwo5wnEPDBhQaJ) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [The Last Lotus EP](https://open.spotify.com/album/01LyeW8mTLceCdqcQTeBRx) | 4:39 | 2023-06-03 |  |
 | [The Owl Song](https://open.spotify.com/track/7CdcnX9m1wI8sIlQGLd0Un) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [The Owl Song](https://open.spotify.com/album/38EVhFxJ7NEkFHFzUxXQNo) | 3:12 | 2022-04-25 | 2022-08-23 |
 | [TO FIND LOVE IS TO SEEK THE END \- Ivy Lab Remix](https://open.spotify.com/track/0c2NAdPReN7SUNR809lkVR) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [TO FIND LOVE IS TO SEEK THE END \(Ivy Lab Remix\)](https://open.spotify.com/album/6G9cHPZ03iG8q1749C4PJt) | 3:42 | 2022-04-15 | 2022-08-23 |
 | [Trooper's Clash](https://open.spotify.com/track/6WhCzDmXwkGloyUYPkw4hK) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Feels Like Home EP](https://open.spotify.com/album/1QRustkabNUNqbDBnD56gC) | 5:01 | 2022-09-17 | 2022-10-17 |

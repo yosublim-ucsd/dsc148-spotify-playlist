@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,864 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,081 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 34 | [Hole in My Pocket](https://open.spotify.com/track/3m9RcdyMk4KoppIdAYUo46) | [Purple Tears](https://open.spotify.com/artist/6rlWf1GiPgR0mfeFbJzoJi) | [Hole in My Pocket](https://open.spotify.com/album/0RWp78xmyuPx9gLClAHpBP) | 3:38 |
 | 35 | [SPILL](https://open.spotify.com/track/2KGG4wCYyILicxRazWpFTK) | [STACY OUTRAGEOUS](https://open.spotify.com/artist/2SCaiLKNpndcf4FYvoortL) | [SPILL](https://open.spotify.com/album/5b6XhNME9lNAQiT2NrZzJU) | 2:20 |
 | 36 | [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 |
-| 37 | [tattletale](https://open.spotify.com/track/1oG97U59L8fVYrVByMCtNI) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove](https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71) | 3:19 |
+| 37 | [tattletale](https://open.spotify.com/track/1oG97U59L8fVYrVByMCtNI) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \- EP](https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71) | 3:19 |
 | 38 | [carole king](https://open.spotify.com/track/4VdYhyqZCi3BbeFiGdzTo1) | [PISSKISS](https://open.spotify.com/artist/0SeXCXXWOD0Fld3oHvdyyL) | [carole king](https://open.spotify.com/album/4QcMtvtV3lNSXEpirqXjHa) | 3:51 |
 | 39 | [free](https://open.spotify.com/track/7bVTZawHTGmJo2dVJ6y65a) | [vinnie](https://open.spotify.com/artist/49gybyXyHSReIroJ8CpriJ) | [free](https://open.spotify.com/album/7hR2rKt5IBVMhecfhJqI9z) | 1:50 |
 | 40 | [TheBestVersionOfMyself](https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 99 | [time and space](https://open.spotify.com/track/6ASZIbWiYI84peOV3kFlAh) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [surfgoth](https://open.spotify.com/artist/5bOnGY1cTwZxkhK4JFLtKK) | [time and space](https://open.spotify.com/album/4cHY0W0XPI7gNInlQJOees) | 3:00 |
 | 100 | [Paradise Is Mine](https://open.spotify.com/track/2bywSV7Z2yjC0JlP79sZC8) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Paradise Is Mine](https://open.spotify.com/album/2o8zkys1fG1bnev4a3qW1T) | 9:23 |
 
-Snapshot ID: `MCw2NDIyNjM4MWFlMDY4Y2JkNmUxOTY3NjdkYzQ0NjAwNDAxZTE4OTlm`
+Snapshot ID: `MCw2ODBkODUwYTI3NjNlYWNmYjIwMTMzN2NmODM3OGJjODIwNzRmM2U2`

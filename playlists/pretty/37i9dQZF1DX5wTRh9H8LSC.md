@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 
 > Listen Heroine's music 24 Hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,584 likes - 36 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,603 likes - 36 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 | 19 | [Siren](https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 3:19 |
 | 20 | [Noir](https://open.spotify.com/track/1KCXYoPIpvafzaAGtiRjci) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Noir](https://open.spotify.com/album/1EBhkTQyICi50mKuybqDp9) | 3:29 |
 | 21 | [LALALAY](https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [LALALAY](https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5) | 2:54 |
-| 22 | [Gotta Go](https://open.spotify.com/track/6fYDnLnVFV0n3FMxgEnIcg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [XX \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4qneAGjgqL6nMSVY8J2OCD) | 2:59 |
+| 22 | [가라고 \(Gotta Go\)](https://open.spotify.com/track/7xY4ZyZ8v7Crjtu3Esmnql) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [XX \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0ftTaGQKUoSrBKH4ZqWIxq) | 2:59 |
 | 23 | [Black Pearl](https://open.spotify.com/track/5SEh5ElnuNTz6zn8Th5pP9) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 3:19 |
 | 24 | [Heroine](https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heroine](https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2) | 3:15 |
 | 25 | [24시간이 모자라](https://open.spotify.com/track/1KvMjr7Yx2WKl5WV4YCj9Y) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [24시간이 모자라](https://open.spotify.com/album/6DlHIJKs51neBto8JtrcMC) | 3:21 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 | 35 | [멈춰버린 시간](https://open.spotify.com/track/4AgEO6iy3fsyLbpjAdt42g) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 4:38 |
 | 36 | [그게 너라면](https://open.spotify.com/track/5ISTy9kctyjm2zNW9TeZqI) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:47 |
 
-Snapshot ID: `MCw3YTFlZmFhMDE2NjU5MDBlMDNlNTYwNDJkMTQ1MzQ1Y2FkNDkxMDIx`
+Snapshot ID: `MCxjZTU0NjllMjkzYjk4ZDk1NTI3NmM1M2RmOTZlNGViMjQ3ZjNiMWRl`

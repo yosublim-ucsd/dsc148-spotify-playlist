@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: The Criticals
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,528 likes - 105 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,595 likes - 105 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 35 | [Head Check](https://open.spotify.com/track/23bLpENwYDBoQRIpOu9wni) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Head Check](https://open.spotify.com/album/4nMvAAFwuCQSW8GcqGmoto) | 2:43 |
 | 36 | [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 |
 | 37 | [IDC AT ALL](https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [IDC AT ALL](https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo) | 3:21 |
-| 38 | [Cigarettes \(feat\. Travis Barker\)](https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Cigarettes \(feat\. Travis Barker\)](https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H) | 2:36 |
+| 38 | [Cigarettes](https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Cigarettes](https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H) | 2:36 |
 | 39 | [THAT SUCKS!](https://open.spotify.com/track/3sXTe7czYwJXo8QsPifBzz) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [THAT SUCKS!](https://open.spotify.com/album/2CZCt0OJnQXrwFcWRRrje4) | 2:24 |
 | 40 | [Dodging Sunshine \(Fever Dreams\)](https://open.spotify.com/track/1ln5j3zS7KDa4IYHJb2HyN) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC) | [Dodging Sunshine \(Fever Dreams\)](https://open.spotify.com/album/44WZJyA2WFQyFoXvczQXGc) | 3:36 |
 | 41 | [Manic](https://open.spotify.com/track/2ezTz7Az0j90HjRS4vlogZ) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Manic](https://open.spotify.com/album/3CGo2Y2wCqaSoOUCY06fWg) | 2:41 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 104 | [Phone Booth](https://open.spotify.com/track/221dIk4DHWGGLNzlQmmOwG) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Phone Booth](https://open.spotify.com/album/1L3cueTE6Y6YkxHW2K5e4r) | 3:01 |
 | 105 | [Temporary](https://open.spotify.com/track/1eOnnKaZZhlQ0l1a6TcDCW) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Temporary](https://open.spotify.com/album/7fNhocF8oOVLtOd2Qcmcki) | 2:37 |
 
-Snapshot ID: `MCw2OTg2NzgzZDE4MmM3Y2ZjZTgxMGRjZmI3MzVlNzM3NzQyMDMxNTdm`
+Snapshot ID: `MCwzZDc3NTdlZWJjZjVmMzc5YWQ4MjIyYmQ5NGVjNDM2YzM1ZjBlMGJm`

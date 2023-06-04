@@ -384,7 +384,7 @@
     {
       "album": {
         "name": "Return To The Rock",
-        "url": "https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB"
+        "url": "https://open.spotify.com/album/6xBBPD2xe2FeVfyZcfyGyV"
       },
       "artists": [
         {
@@ -395,6 +395,24 @@
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 300148,
+      "name": "\uace0\ud574",
+      "url": "https://open.spotify.com/track/1ZWVTJbm5XCJEBn4jrcER6"
+    },
+    {
+      "album": {
+        "name": "Return To The Rock",
+        "url": "https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
       "duration_ms": 302001,
       "name": "\uace0\ud574",
       "url": "https://open.spotify.com/track/1cEODRpsqyAvzQvYJnDcGu"
@@ -689,6 +707,24 @@
     },
     {
       "album": {
+        "name": "\uc784\uc7ac\ubc94 II / 2\uc9d1",
+        "url": "https://open.spotify.com/album/1cLD9RhI7VomKeQcbBpxvu"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269976,
+      "name": "\ube44\uc0c1",
+      "url": "https://open.spotify.com/track/29acMabyXUwGFEvfqLJM7a"
+    },
+    {
+      "album": {
         "name": "Desire To Fly",
         "url": "https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3"
       },
@@ -700,7 +736,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 270001,
       "name": "\ube44\uc0c1",
       "url": "https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM"

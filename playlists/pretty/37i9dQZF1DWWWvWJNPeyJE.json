@@ -1,12 +1,12 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 214688,
+  "num_followers": 214840,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODJjODMzN2JiMTcyMTYwYTE4MDA4Y2E1NjVlZWQ1YjllN2RlNmM0",
+  "snapshot_id": "MCxhZTk1YzZhY2FkNWU0OWJiMWY0Y2VkZDg4ZmMzNzVjOTUyMmQ2MzY2",
   "tracks": [
     {
       "added_at": "2023-03-03 13:37:54",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "The Answers",
-        "url": "https://open.spotify.com/album/0xU39IVVOseJrIHwSGJvBI"
-      },
-      "artists": [
-        {
-          "name": "SoMo",
-          "url": "https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "First",
-      "url": "https://open.spotify.com/track/64ZUFfGyxeHvfQ1EHJf3Pp"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 303720,
       "name": "Skin",
       "url": "https://open.spotify.com/track/62YAKv9ak7mxrNRdhe7Pe9"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "The Answers",
+        "url": "https://open.spotify.com/album/0xU39IVVOseJrIHwSGJvBI"
+      },
+      "artists": [
+        {
+          "name": "SoMo",
+          "url": "https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "First",
+      "url": "https://open.spotify.com/track/64ZUFfGyxeHvfQ1EHJf3Pp"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 155156,
-      "name": "Run My Mouth",
-      "url": "https://open.spotify.com/track/3gfIiIN9ZrFgfI9eZDI831"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "Pain & Pleasure",
         "url": "https://open.spotify.com/album/3OEWHfyh0pbFuTJp144pXJ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 246360,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/3UVVNiFBnYuORmpaYifi6q"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 155156,
+      "name": "Run My Mouth",
+      "url": "https://open.spotify.com/track/3gfIiIN9ZrFgfI9eZDI831"
     },
     {
       "added_at": "2023-03-03 13:37:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Katherine Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,017 likes - 78 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,006 likes - 78 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,26 +44,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [Whatever's Inconvenient](https://open.spotify.com/track/20edSD8oKowIhOuLy2N8Jj) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Whatever's Inconvenient](https://open.spotify.com/album/4syDZp8rdgovzOrbLqkt0Z) | 4:27 |
 | 35 | [Інші ми](https://open.spotify.com/track/7BRVhxiEktGAkTa6qmF6Jo) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Інші ми](https://open.spotify.com/album/26XEuZ4CMdbRl32ltBZLez) | 2:09 |
 | 36 | [Numaani](https://open.spotify.com/track/6rbOi0ErcX6T8EofWJVwKk) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Rajarshi Sanyal](https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O) | [Numaani](https://open.spotify.com/album/77RykQc4pBv8cZCsv0Oul1) | 5:08 |
-| 37 | [I'm Alright](https://open.spotify.com/track/2tUMbEwyGN5hvkJeWxm8Ea) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [I’m Alright](https://open.spotify.com/album/3gMSIwm7qqZjDGZHekyXct) | 2:36 |
+| 37 | [Ya Gamalak](https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya Gamalak](https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv) | 3:29 |
 | 38 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
-| 39 | [Ya Gamalak](https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya Gamalak](https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv) | 3:29 |
-| 40 | [Sombrilla](https://open.spotify.com/track/1SfO4RXTYabzsiJJbw4Y4e) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Sombrilla](https://open.spotify.com/album/4fHvrfmKLTDsQ62izJCRkP) | 3:00 |
+| 39 | [Sombrilla](https://open.spotify.com/track/1SfO4RXTYabzsiJJbw4Y4e) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Sombrilla](https://open.spotify.com/album/4fHvrfmKLTDsQ62izJCRkP) | 3:00 |
+| 40 | [I'm Alright](https://open.spotify.com/track/2tUMbEwyGN5hvkJeWxm8Ea) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [I’m Alright](https://open.spotify.com/album/3gMSIwm7qqZjDGZHekyXct) | 2:36 |
 | 41 | [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
-| 42 | [Miracle](https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Miracle](https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS) | 3:19 |
-| 43 | [SOLO](https://open.spotify.com/track/3ysRMe1l4YDLgTLrENUMWK) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [SOLO](https://open.spotify.com/album/48kaxa9fTixkT5K0H2ioUP) | 2:58 |
+| 42 | [SOLO](https://open.spotify.com/track/3ysRMe1l4YDLgTLrENUMWK) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [SOLO](https://open.spotify.com/album/48kaxa9fTixkT5K0H2ioUP) | 2:58 |
+| 43 | [Miracle](https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Miracle](https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS) | 3:19 |
 | 44 | [Về Với Em](https://open.spotify.com/track/2gFR7GK4iHlth9JzWxDwLn) | [Võ Hạ Trâm](https://open.spotify.com/artist/7wqCcGabyuT6f1ZkRxI4ga) | [Về Với Em](https://open.spotify.com/album/7b3mCMw0LUIIGCk7CDt51D) | 4:29 |
-| 45 | [luv hack](https://open.spotify.com/track/5Wlbi1jkICRgWrmU6gDrLk) | [YNISH](https://open.spotify.com/artist/6BJ6WDyif448PgiFLvuJ5z), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [luv hack](https://open.spotify.com/album/2jePdtOrOK2dvH1f5IDBUq) | 2:55 |
-| 46 | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/track/1o2YahIfTmz9ibLLdkDe2X) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/album/1wfjNR1UkthScF5MhsAef6) | 3:24 |
+| 45 | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/track/1o2YahIfTmz9ibLLdkDe2X) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/album/1wfjNR1UkthScF5MhsAef6) | 3:24 |
+| 46 | [luv hack](https://open.spotify.com/track/5Wlbi1jkICRgWrmU6gDrLk) | [YNISH](https://open.spotify.com/artist/6BJ6WDyif448PgiFLvuJ5z), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [luv hack](https://open.spotify.com/album/2jePdtOrOK2dvH1f5IDBUq) | 2:55 |
 | 47 | [Summer Really Hurt Us](https://open.spotify.com/track/11DdY87mhLta5MmtZLmtGo) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Time Machine](https://open.spotify.com/album/6YRsZur2KmT2HbrCbVHBd6) | 2:48 |
 | 48 | [When You Lose Someone](https://open.spotify.com/track/1CAZgVyNgA9pR4e6GHALhq) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:21 |
 | 49 | [Daydream](https://open.spotify.com/track/0rPymMRhUz23s3AsE5uew7) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Paragon](https://open.spotify.com/album/5taY5JenEe5UTeLDKqvvEY) | 3:12 |
 | 50 | [Não Mente pra Ela](https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:55 |
 | 51 | [Tiger](https://open.spotify.com/track/6zbDTSasU5dhlAH3knfyjA) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Tiger](https://open.spotify.com/album/3IltshBER58J9UrJqPiqpY) | 2:52 |
 | 52 | [Sen Bilirsin](https://open.spotify.com/track/3yAhJkby5L1G6yCoYi7HY4) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Sen Bilirsin](https://open.spotify.com/album/56tllXQ5KPMWyjnoqx5vW4) | 2:37 |
-| 53 | [Przedwczoraj](https://open.spotify.com/track/3PCCq1j3nSzGjYGeDkYRXl) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Przedwczoraj](https://open.spotify.com/album/3ipYiqc6VcsT2zf4BxX7qh) | 3:00 |
-| 54 | [Top Bop](https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Top Bop](https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0) | 2:31 |
-| 55 | [我的親人](https://open.spotify.com/track/0rYgIOQsdZVKgOHLTate7q) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [我的親人](https://open.spotify.com/album/4ZDixbvO20xlgjEixcOw0a) | 4:42 |
-| 56 | [Menni kell](https://open.spotify.com/track/78OvpqFINXFJnsJIyClrk3) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Menni kell](https://open.spotify.com/album/7fPzfsfRdq2Za3uk9bFqvt) | 3:11 |
+| 53 | [Top Bop](https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Top Bop](https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0) | 2:31 |
+| 54 | [Menni kell](https://open.spotify.com/track/78OvpqFINXFJnsJIyClrk3) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Menni kell](https://open.spotify.com/album/7fPzfsfRdq2Za3uk9bFqvt) | 3:11 |
+| 55 | [Przedwczoraj](https://open.spotify.com/track/3PCCq1j3nSzGjYGeDkYRXl) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Przedwczoraj](https://open.spotify.com/album/3ipYiqc6VcsT2zf4BxX7qh) | 3:00 |
+| 56 | [我的親人](https://open.spotify.com/track/0rYgIOQsdZVKgOHLTate7q) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [我的親人](https://open.spotify.com/album/4ZDixbvO20xlgjEixcOw0a) | 4:42 |
 | 57 | [Paranoje](https://open.spotify.com/track/6GTPiI6jzm8rrITO1bq0bj) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Paranoje](https://open.spotify.com/album/2CxrNr8fIO0axRTxVdQqxz) | 3:39 |
 | 58 | [Boomerang](https://open.spotify.com/track/3N6SFaFJWGirRC5nWIDLvD) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Boomerang](https://open.spotify.com/album/4KkEOyGVcLebFsX1ZjfyJ2) | 3:16 |
 | 59 | [Szia](https://open.spotify.com/track/4kMfc4jVR0Eyp5GJJgNgwL) | [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f) | [Szia](https://open.spotify.com/album/5Ni6GqciWF1Uy4YiD6cPIw) | 2:27 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 77 | [Astana \- Akustik](https://open.spotify.com/track/0icYt4R6lFBuTTIosNYlO0) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Astana \(Akustik\)](https://open.spotify.com/album/4ZE2qQZGpSh4irPbf6jPDd) | 2:21 |
 | 78 | [Bleed](https://open.spotify.com/track/0E2gHFzt7GhBIiEbg0Kixx) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Bleed](https://open.spotify.com/album/50xkrdBYXTYH8EvFnZZnKB) | 3:16 |
 
-Snapshot ID: `MCxhN2IxY2ZiNjFiNmViMjgwYTE3N2M3YjMzZTBmMGQ0MzJiMjM4ZGI5`
+Snapshot ID: `MCxkNjBiMmJmNWJlZTkzNjY0NmFhODc3MjUwNzg3YmU2YTZlODEzNDgx`

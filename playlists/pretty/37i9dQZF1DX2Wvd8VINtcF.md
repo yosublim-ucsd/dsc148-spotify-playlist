@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,098 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,102 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 21 | [Mindgames](https://open.spotify.com/track/6DNmmMDgkzNsNercjy4zW6) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Lost Kingdom](https://open.spotify.com/album/6OLCmIoUvf3kMAKBiU7wCp) | 4:51 |
 | 22 | [\~HÄR\~](https://open.spotify.com/track/1kIoQ1Rir3L6XbKY0ZAUQh) | [OG Bella](https://open.spotify.com/artist/1G3wxkbnecGA5KszB3wmB6), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw), [Broder John](https://open.spotify.com/artist/66iUd3sGrtkATTS7FHWPe4), [JËLLY](https://open.spotify.com/artist/6mqTQZ0Cz6MAeGNHfaseMX) | [MELLAN TVIVEL & TILLIT](https://open.spotify.com/album/6rTpIQjX1HZHQtlYQCZ3Y0) | 4:01 |
 | 23 | [Lupins In Blue](https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Lupins In Blue](https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc) | 3:45 |
-| 24 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
+| 24 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
 | 25 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 |
 | 26 | [la paz](https://open.spotify.com/track/4Ct3frPb749bdIoR08kyNI) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [la paz](https://open.spotify.com/album/30CwTwAl9qkdaeFz1pFjEj) | 3:39 |
 | 27 | [Retina Show \- Unreleased Demo](https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 5:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [Golden Rose](https://open.spotify.com/track/2ToqvpqSyMtlywxIXEurR7) | [Melina Do Rosario](https://open.spotify.com/artist/0cSEtYQdOXcBDyslRAAd9h) | [Golden Rose](https://open.spotify.com/album/6MUIT43wo28K5mD2ivBO7N) | 2:41 |
 | 100 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 |
 
-Snapshot ID: `MCw4YWVhNTdkNTg0NTdkZjg3YjI0Njk4YTIxYTNjYzVhY2JlZWU2ODg4`
+Snapshot ID: `MCw4OTg2YWM1NTBhNTExNWZmNzFkOWUzOWMyMmIwZDFlYThiMDVlZTI0`

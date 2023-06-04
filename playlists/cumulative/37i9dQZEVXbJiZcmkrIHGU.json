@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "2020 est.",
+        "url": "https://open.spotify.com/album/2T68MkME37kh2wKG7x8NQU"
+      },
+      "artists": [
+        {
+          "name": "Dante YN",
+          "url": "https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128119,
+      "name": "2020 est.",
+      "url": "https://open.spotify.com/track/2MiNSe2Mgi4bpCgTlkXjQb"
+    },
+    {
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0YMBkYxL3Kjdoja3QOOfgz"
       },
@@ -714,6 +732,28 @@
       "duration_ms": 207386,
       "name": "3",
       "url": "https://open.spotify.com/track/4LUTIob7qIokz4tKMr54Sr"
+    },
+    {
+      "album": {
+        "name": "3 Kugeln",
+        "url": "https://open.spotify.com/album/4oVuEd16IlTWuyn4Q936LU"
+      },
+      "artists": [
+        {
+          "name": "Alies",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "3 Kugeln",
+      "url": "https://open.spotify.com/track/29T8ovUwIkWYqSu46n4SPJ"
     },
     {
       "album": {
@@ -1366,6 +1406,24 @@
     {
       "album": {
         "name": "Airbnb",
+        "url": "https://open.spotify.com/album/7zzXnliFNTsj0cvNZ1HaF4"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Airbnb",
+      "url": "https://open.spotify.com/track/5RluWVBMA4QpTmvDhrkIEn"
+    },
+    {
+      "album": {
+        "name": "Airbnb",
         "url": "https://open.spotify.com/album/4tsXBZyCcZN9sdCp67JeQM"
       },
       "artists": [
@@ -1815,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Alles nur kein Star",
+        "url": "https://open.spotify.com/album/6vtopuIZhXB8L0YJ9FnqaT"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150992,
+      "name": "Alles nur kein Star",
+      "url": "https://open.spotify.com/track/2D0sOCo1zDMmt2dgFeqBs4"
+    },
+    {
+      "album": {
         "name": "Palmen aus Plastik 3",
         "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
       },
@@ -2166,7 +2242,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 144199,
       "name": "ANNA",
       "url": "https://open.spotify.com/track/2H4HtOA24KXUYiINpGZ1ju"
@@ -2220,7 +2296,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2710,7 +2786,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 164199,
       "name": "Auf die Party",
       "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
@@ -4628,7 +4704,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 165680,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0mNWBN7udBbA3ZtkB80TPM"
@@ -6102,7 +6178,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 243711,
       "name": "CARRERA",
       "url": "https://open.spotify.com/track/1i1UXHK1roiVBYynK3m46Q"
@@ -7180,7 +7256,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -7858,6 +7934,24 @@
       "duration_ms": 171722,
       "name": "DER LETZTE SONG (ALLES WIRD GUT) (feat. Fred Rabe)",
       "url": "https://open.spotify.com/track/2FQRZLR31e3423Nmrgv0Pv"
+    },
+    {
+      "album": {
+        "name": "Der Letzte Tag",
+        "url": "https://open.spotify.com/album/3V5YTIt3ksRYSTBGMpk5nY"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173039,
+      "name": "Der Letzte Tag",
+      "url": "https://open.spotify.com/track/1IqnFlpfCH9aC7KVsT1gBV"
     },
     {
       "album": {
@@ -9932,7 +10026,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 182396,
       "name": "Ein Auge blau",
       "url": "https://open.spotify.com/track/60jQoHwEzJByhXP8bl9A86"
@@ -18227,6 +18321,32 @@
     },
     {
       "album": {
+        "name": "KONTAK (feat. Ezhel)",
+        "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Geenaro & Ghana Beats",
+          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158023,
+      "name": "KONTAK (feat. Ezhel)",
+      "url": "https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU"
+    },
+    {
+      "album": {
         "name": "Konum Gizli (feat. Murda)",
         "url": "https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8"
       },
@@ -19368,6 +19488,28 @@
       "duration_ms": 109000,
       "name": "Licht brennt",
       "url": "https://open.spotify.com/track/4gmYeeV53RzyXDxtlVa4jW"
+    },
+    {
+      "album": {
+        "name": "DORFDiSKO ZWEi",
+        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188520,
+      "name": "LiEBE AUF DER R\u00dcCKBANK",
+      "url": "https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0"
     },
     {
       "album": {
@@ -21209,6 +21351,28 @@
     },
     {
       "album": {
+        "name": "Match_3",
+        "url": "https://open.spotify.com/album/2nmbIL141Qi1PZA1Gq3pMF"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114074,
+      "name": "Match_3",
+      "url": "https://open.spotify.com/track/63aQEOk9W5rqWdLWJoaQws"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -22026,7 +22190,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 209010,
       "name": "MINIMUM (feat. Bonez MC)",
       "url": "https://open.spotify.com/track/0eLwzWx2WsbZfQQ335bLPQ"
@@ -26238,7 +26402,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -26685,6 +26849,32 @@
     },
     {
       "album": {
+        "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
+        "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna)",
+      "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
+    },
+    {
+      "album": {
         "name": "DESTROY ALL COPIES",
         "url": "https://open.spotify.com/album/6XsN3b2ttmdn6M6tHsAkma"
       },
@@ -26784,7 +26974,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 142400,
       "name": "Powerade",
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
@@ -30283,6 +30473,24 @@
     },
     {
       "album": {
+        "name": "so bad",
+        "url": "https://open.spotify.com/album/5Rxm93tFvpe05DtpvtDpgN"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135287,
+      "name": "so bad - radio edit",
+      "url": "https://open.spotify.com/track/0wvEAqEUoTgtNCpxBsIiZ6"
+    },
+    {
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/76ut2VBUwuQpUeCVilsLRh"
       },
@@ -30756,6 +30964,28 @@
       "duration_ms": 175330,
       "name": "Sport",
       "url": "https://open.spotify.com/track/5ewhpp17f3pUSx9xCwC6b1"
+    },
+    {
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
       "album": {
@@ -31490,7 +31720,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
@@ -31512,6 +31742,24 @@
       "duration_ms": 156631,
       "name": "Suche nach mehr",
       "url": "https://open.spotify.com/track/2CHoaNtGw6Bkqh5AyxfnPD"
+    },
+    {
+      "album": {
+        "name": "sucht",
+        "url": "https://open.spotify.com/album/2FiytmCp7Ewv6FDcyGxzQf"
+      },
+      "artists": [
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153781,
+      "name": "sucht",
+      "url": "https://open.spotify.com/track/2CHiLa0obXZOzUd8BzUmhI"
     },
     {
       "album": {
@@ -35254,7 +35502,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 236157,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
@@ -37411,28 +37659,6 @@
     },
     {
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "date_added": "2023-05-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230829,
-      "name": "Zukunft Pink (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/1uUgy87UHT9rlbxHirty3g"
-    },
-    {
-      "album": {
         "name": "Zukunft Pink (feat. In\u00e9z)",
         "url": "https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D"
       },
@@ -37452,6 +37678,28 @@
       "duration_ms": 230829,
       "name": "Zukunft Pink (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
+    },
+    {
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231546,
+      "name": "Zukunft Pink (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/1uUgy87UHT9rlbxHirty3g"
     },
     {
       "album": {

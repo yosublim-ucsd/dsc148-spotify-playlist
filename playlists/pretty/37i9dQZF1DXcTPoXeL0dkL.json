@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 177489,
+  "num_followers": 177572,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmNmODQyYjQ1MGYyYTRhYzhiY2QwMWU2MDk0YTJlNjM0YzZjODBk",
+  "snapshot_id": "MCxmMDQyMDQ5MzM3NmJlMzRmZjQ3YjhjZDJjOGRmMDExNmZlNTJiODg0",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "30 Vallenatos Pegaditos",
-        "url": "https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
       },
       "artists": [
         {
-          "name": "Rugido Vallenato",
-          "url": "https://open.spotify.com/artist/3jjsdnDxKqpce2JuEXp11j"
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
         }
       ],
-      "duration_ms": 284520,
-      "name": "Nunca Comprendi Tu Amor",
-      "url": "https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU"
+      "duration_ms": 269191,
+      "name": "El Santo Cachon",
+      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
+        "name": "30 Vallenatos Pegaditos",
+        "url": "https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5"
       },
       "artists": [
         {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+          "name": "Rugido Vallenato",
+          "url": "https://open.spotify.com/artist/3jjsdnDxKqpce2JuEXp11j"
         }
       ],
-      "duration_ms": 269191,
-      "name": "El Santo Cachon",
-      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
+      "duration_ms": 284520,
+      "name": "Nunca Comprendi Tu Amor",
+      "url": "https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU"
     }
   ],
   "unique_name": "Vallenato Full Bacano",

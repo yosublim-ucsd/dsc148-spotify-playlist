@@ -4,7 +4,7 @@
 
 > Rock swagger served neat\. Cover: Pecos & the Rooftops
 
-189 songs - 11 hr 34 min
+190 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [No Way to Be](https://open.spotify.com/track/2k0yDUWckRo0743DN3WiyB) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [No Way to Be](https://open.spotify.com/album/2Npqf8MN4VHNvg3ENf4IZF) | 4:09 | 2022-09-23 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2020-08-21 | 2022-06-04 |
 | [Off The Rails](https://open.spotify.com/track/48aM8R9hhTHb4MfHT5sajp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Wilde](https://open.spotify.com/album/30aCynsQTyn8A906aoACdn) | 2:55 | 2021-05-14 |  |
-| [On To The Next](https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 2:58 | 2020-08-21 |  |
+| [On To The Next](https://open.spotify.com/track/1M1Fi7Dl3MsjZKrtxyUKKD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/6JklUu5bPg2wxmgEbzIdFb) | 2:58 | 2023-05-12 |  |
+| [On To The Next](https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 2:58 | 2020-08-21 | 2023-06-04 |
 | [One Last F.U.](https://open.spotify.com/track/0y62PAVboSnmr0UEDFB2UQ) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [One Last F.U.](https://open.spotify.com/album/2Hy6LylULjswLYmkCVHgcz) | 3:14 | 2022-10-07 |  |
 | [Outlaws & Outsiders](https://open.spotify.com/track/4OBrZqJzkwdDaXoYVfmIw7) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Outlaws & Outsiders](https://open.spotify.com/album/1FMwktOdGcAx5tzgdHRUf4) | 3:17 | 2020-08-21 |  |
 | [Overrated](https://open.spotify.com/track/55BmlUAYuZTqpvM7bfSUuo) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 3:38 | 2023-05-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p?si=XgK1LN40Sa\-o6lvku7zNAg"> Jae5</a>, <a href="https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ?si=66OJ4OojSVGqiDfNcOCF\_A"> Libianca</a> and <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=XKCZqlRBQ9CbqdOdqetKqQ"> Lojay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,116 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,243 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [Cinderella Girl \(Where You Dey\) \[feat\. Ludacris\]](https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Cinderella Girl \(Where You Dey\) \[feat\. Ludacris\]](https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR) | 3:35 |
 | 80 | [Mayana](https://open.spotify.com/track/5WeLc7gPjNabQ1AMk5lxrl) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 2:38 |
 
-Snapshot ID: `MCxjYzU3M2EzODMwYTRjY2Y1MjFlM2ZhZGZlYzZjYTFiNGE3OWJlMGM1`
+Snapshot ID: `MCxhODlhYjBjZTk2ZDI5YzZkZTQ1NTE3ZTgwNTU2ZWI0NmQyMDMyMTlh`

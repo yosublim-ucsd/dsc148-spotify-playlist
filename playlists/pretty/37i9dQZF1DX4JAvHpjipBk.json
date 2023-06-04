@@ -1,12 +1,12 @@
 {
   "description": "New music from The Weeknd, Metro Boomin, Toosii, Bizarrap & Peso Pluma, Karol G, Foo Fighters, Gunna and more!",
-  "num_followers": 4119609,
+  "num_followers": 4119702,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDc0ZWM1ZWM5YTMxNWNiNWVlNzM2ZDQ4ODQwZGJiYzRlNzMzYTY0",
+  "snapshot_id": "MCxkYTAwYmJiZThjYzc4NzIzOWNlZGRjYTNlODE2NjYyODk1NGYxOGY1",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1050,6 +1050,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
       "duration_ms": 241979,
@@ -1692,7 +1696,7 @@
           "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
         },
         {
-          "name": "NO ID",
+          "name": "No ID",
           "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
         }
       ],

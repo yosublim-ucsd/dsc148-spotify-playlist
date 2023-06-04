@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H?si=4f21d1419eed49e3">TuKool Tiff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,816 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,956 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 41 | [INCOGNITO](https://open.spotify.com/track/5lzs0A2iYdD2Kfe9maocwM) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN) | [INCOGNITO](https://open.spotify.com/album/6luE0PW2WLFk7IMADT7zk3) | 3:07 |
 | 42 | [Quick Draw](https://open.spotify.com/track/6NlDdYSZ1eRBW9bcIBRZhg) | [Wind and Sail](https://open.spotify.com/artist/53i6YRWdFLMgYj0jKrqieW) | [Quick Draw](https://open.spotify.com/album/61vAeRzqgUgCtnhlvQIPoI) | 3:53 |
 | 43 | [New Clothes](https://open.spotify.com/track/1VkPNOETkQz8glU1szIY1g) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [New Clothes](https://open.spotify.com/album/6QqgofnH1WybH5faSdtrMo) | 2:09 |
-| 44 | [Safe & Sound \- Matias Ruiz Remix](https://open.spotify.com/track/4XiLHLs5zgt7Sz6soeDKYo) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm), [Rachel Morgan Perry](https://open.spotify.com/artist/1VpFjX7r5UVSrMXq0NPyr0) | [I'm Healing \(Remixes\)](https://open.spotify.com/album/0lOQG6g8cqWGqHSS8fPvFo) | 4:19 |
+| 44 | [Safe & Sound](https://open.spotify.com/track/4XiLHLs5zgt7Sz6soeDKYo) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Civilized Creature](https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm), [Rachel Morgan Perry](https://open.spotify.com/artist/1VpFjX7r5UVSrMXq0NPyr0) | [I'm Healing \(Remixes\)](https://open.spotify.com/album/0lOQG6g8cqWGqHSS8fPvFo) | 4:19 |
 | 45 | [More Than Ever \- HGHTS Remix](https://open.spotify.com/track/5H6VFaUeqCvxKwa4KVMlf5) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [More Than Ever \(HGHTS Remix\)](https://open.spotify.com/album/6gUP209HzdaIhjoho8ryS1) | 3:17 |
 | 46 | [God Show Your Glory](https://open.spotify.com/track/1V0CBUAfOiwEejwmj4R29F) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [God Show Your Glory](https://open.spotify.com/album/6pEXQD0r9SywxMFtmyQydl) | 1:52 |
 | 47 | [Battle & Blessing](https://open.spotify.com/track/0kzIckgiqCgekvgmw0mF1h) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [The Last Amen](https://open.spotify.com/album/5RnKIbKh9b4My9bnyCpVRs) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Live Up To Your Name \- Live](https://open.spotify.com/track/54AXvQkn2hfJuYmfFPhTSD) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Mariah Bernard](https://open.spotify.com/artist/6D0WktW7tmmY9L5EoNMZDR), [Legacy Worship](https://open.spotify.com/artist/6ihwUDKKZIHy8jxd9COmPx) | [Live Up To Your Name](https://open.spotify.com/album/63l5v5rdrfz6SjSQLhQdOx) | 4:47 |
 | 100 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5FAu0KGhpZkr6P1OgwJ2mW) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Karlee Lloyd](https://open.spotify.com/artist/7s9G3GrP5esjiwJjBh7xvi) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/3gK6mFQOVjU5gu4JNw8CWp) | 4:40 |
 
-Snapshot ID: `MCwyMmE4Mzk2NjQ3YWI1ZGU0N2E5MmRiMDgwNzA1OWViYjFiYTliODJh`
+Snapshot ID: `MCwyZGJiOTc3OTk5YmU0OTg3YjA4NTJkNGU4ZjU4NDE1MzhkM2E4Y2Nh`

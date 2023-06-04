@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The best side! Cover: 2pac",
+  "description": "The best side! Cover: Snoop Dogg",
   "name": "I Love My West Coast Classics",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 234533,
       "name": "Bitch Please",
       "url": "https://open.spotify.com/track/5Sm1X46tna50RstHZvw072"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 338760,
       "name": "Doggy Dogg World",
       "url": "https://open.spotify.com/track/5HCxyNfUA6DMJtIHavfJnw"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 258640,
       "name": "I Get Around",
       "url": "https://open.spotify.com/track/74kHlIr01X459gqsSdNilW"
@@ -1362,6 +1362,40 @@
       "duration_ms": 294266,
       "name": "Late Night Hype",
       "url": "https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx"
+    },
+    {
+      "album": {
+        "name": "Tha Last Meal",
+        "url": "https://open.spotify.com/album/71VPCdeQQs1dmyVbflhPjX"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Master P",
+          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Butch Cassidy",
+          "url": "https://open.spotify.com/artist/3uISNNuONokIh21KiNharS"
+        },
+        {
+          "name": "Tha Eastsidaz",
+          "url": "https://open.spotify.com/artist/51FyBBOW464toW099BsW8z"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0YHI5hydPPth6J5UOzdLDX"
     },
     {
       "album": {

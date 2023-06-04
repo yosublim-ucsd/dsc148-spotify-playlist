@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "2008 Concert, Monologue",
+        "url": "https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366628,
+      "name": "My Tipsy Confession",
+      "url": "https://open.spotify.com/track/62ElSn0docGvjnA7k30swo"
+    },
+    {
+      "album": {
         "name": "CYWORLD BGM 2021",
         "url": "https://open.spotify.com/album/5DiDgD3t2FQFdbXmb4ziWD"
       },
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 273773,
       "name": "Spring day goes",
       "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 269362,
       "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544....",
       "url": "https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW"
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 269832,
       "name": "\uadf8\ub7ac\ub098\ubd10",
       "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 302021,
       "name": "\ubcc4",
       "url": "https://open.spotify.com/track/02q7sJH0d1lC0oDd8gf513"
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 267146,
       "name": "\uc751\uae09\uc2e4",
       "url": "https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m"

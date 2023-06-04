@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,892 likes - 72 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,927 likes - 72 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 71 | [Rudeboy Sound](https://open.spotify.com/track/6f8IUjZxKhQkXzPfJ0c01b) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [JODIAN NATTY](https://open.spotify.com/artist/6pibD7qPgbAdzEeDSv3N58) | [Rudeboy Sound](https://open.spotify.com/album/0mU2cgfFNEjKi99abp60re) | 3:15 |
 | 72 | [Time's Up](https://open.spotify.com/track/00WzOw6iCExyF11cHPRroj) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Time's Up](https://open.spotify.com/album/4Xc9oJ4w2xCVVuwXMNl17M) | 3:47 |
 
-Snapshot ID: `MCwzZjc3MWUzYzAyYzY3NjhlMDllYjFjYjAzNzI0YzdlNjQ5M2U2NDcy`
+Snapshot ID: `MCxmNWU2ZjIxYzIxNTg3ODQyNTE5OGE3NTA1YmNlZDczYWFkYzFjMmY0`

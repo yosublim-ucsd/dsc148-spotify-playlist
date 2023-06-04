@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Nabihah Iqbal on cover.",
-  "num_followers": 74467,
+  "num_followers": 74752,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDY4MTY4MGZiMGQ5YTQxZjcwMjgxZWMxZmIzMDIxMGM3NGIwZjZi",
+  "snapshot_id": "MCxjM2JjOTdkNTBiOTMyZTA3ZjMyNjUxN2MxZDI2MmNkMmZmYzhjYmZl",
   "tracks": [
     {
       "added_at": "2023-05-24 20:55:19",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/2ONwyCrocSyMLAQsfzFtoa"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Lovers From The Past",
-        "url": "https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "Lovers From The Past",
-      "url": "https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Always Then",
@@ -319,6 +303,22 @@
       "duration_ms": 251376,
       "name": "Always Then",
       "url": "https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Lovers From The Past",
+        "url": "https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "Lovers From The Past",
+      "url": "https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "eye cue rew see",
-        "url": "https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0"
-      },
-      "artists": [
-        {
-          "name": "Plastic Girl In Closet",
-          "url": "https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "ERROR",
-      "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
-    },
-    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Nuclear Daisies",
@@ -807,6 +791,22 @@
       "duration_ms": 194181,
       "name": "Heaven in Your Head",
       "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "eye cue rew see",
+        "url": "https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0"
+      },
+      "artists": [
+        {
+          "name": "Plastic Girl In Closet",
+          "url": "https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "ERROR",
+      "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
-      },
-      "artists": [
-        {
-          "name": "Estrada",
-          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
-        }
-      ],
-      "duration_ms": 247045,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "23",
@@ -951,6 +935,22 @@
       "duration_ms": 318800,
       "name": "23",
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
+      },
+      "artists": [
+        {
+          "name": "Estrada",
+          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
+        }
+      ],
+      "duration_ms": 247045,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1181,20 +1181,20 @@
       "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU"
+        "name": "Cranekiss",
+        "url": "https://open.spotify.com/album/3NTQKLFtwDck8Qlc19Zlre"
       },
       "artists": [
         {
-          "name": "Slow Joy",
-          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
         }
       ],
-      "duration_ms": 173453,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
+      "duration_ms": 230408,
+      "name": "Cranekiss",
+      "url": "https://open.spotify.com/track/2S9iC3ShDiSXObSRBUpXw2"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1213,20 +1213,20 @@
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Cranekiss",
-        "url": "https://open.spotify.com/album/3NTQKLFtwDck8Qlc19Zlre"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU"
       },
       "artists": [
         {
-          "name": "Tamaryn",
-          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
         }
       ],
-      "duration_ms": 230408,
-      "name": "Cranekiss",
-      "url": "https://open.spotify.com/track/2S9iC3ShDiSXObSRBUpXw2"
+      "duration_ms": 173453,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1277,20 +1277,20 @@
       "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "don't tell me",
-        "url": "https://open.spotify.com/album/1yHTOsFz7Lji0xZ06oN1oL"
+        "name": "Here at All",
+        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
       },
       "artists": [
         {
-          "name": "Mind\u2019s Eye",
-          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
         }
       ],
-      "duration_ms": 279318,
-      "name": "don't tell me",
-      "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
+      "duration_ms": 234706,
+      "name": "In Your Way",
+      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1309,20 +1309,20 @@
       "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Here at All",
-        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
+        "name": "don't tell me",
+        "url": "https://open.spotify.com/album/1yHTOsFz7Lji0xZ06oN1oL"
       },
       "artists": [
         {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+          "name": "Mind\u2019s Eye",
+          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
         }
       ],
-      "duration_ms": 234706,
-      "name": "In Your Way",
-      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
+      "duration_ms": 279318,
+      "name": "don't tell me",
+      "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1361,6 +1361,38 @@
       "url": "https://open.spotify.com/track/1e4nEB443PyOJEMacc1tvg"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Find Yourself Along The Way",
+        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
+      },
+      "artists": [
+        {
+          "name": "The Meeting Places",
+          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "Now I Know You Could Never Be The One",
+      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Catch a Fade",
+      "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
+    },
+    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Cabin Fever",
@@ -1381,6 +1413,22 @@
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
+    },
+    {
       "added_at": "2023-05-05 04:01:00",
       "album": {
         "name": "Bekka Ma'iingan",
@@ -1397,52 +1445,20 @@
       "url": "https://open.spotify.com/track/6WVvlRjBgIkpK29xDRm9VG"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+        "name": "GIZMO",
+        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
       },
       "artists": [
         {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
         }
       ],
-      "duration_ms": 230437,
-      "name": "Catch a Fade",
-      "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Find Yourself Along The Way",
-        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
-      },
-      "artists": [
-        {
-          "name": "The Meeting Places",
-          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Now I Know You Could Never Be The One",
-      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
+      "duration_ms": 112400,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
     },
     {
       "added_at": "2023-02-27 23:19:06",
@@ -1477,22 +1493,6 @@
       "url": "https://open.spotify.com/track/2dNOg4we0JnbP1UzWzsGPS"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "GIZMO",
-        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
-    },
-    {
       "added_at": "2023-06-01 18:33:57",
       "album": {
         "name": "Pulling Stitches",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/4PJooaOdpgu1xjQgCtE6RJ"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Eyeliner",
-        "url": "https://open.spotify.com/album/1kaXsIgaSXo0SOl48RiBk7"
-      },
-      "artists": [
-        {
-          "name": "REV",
-          "url": "https://open.spotify.com/artist/6LPhim0qQ8EHh55uw06umD"
-        }
-      ],
-      "duration_ms": 240032,
-      "name": "Eyeliner",
-      "url": "https://open.spotify.com/track/33wLXkDuB4FQRiQDlRFrDa"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Winks & Kisses: Crackled",
@@ -1539,6 +1523,22 @@
       "duration_ms": 396253,
       "name": "Shirley Temple Tidal Wave",
       "url": "https://open.spotify.com/track/5AqfZijqhbE04nZfyDjfZr"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Eyeliner",
+        "url": "https://open.spotify.com/album/1kaXsIgaSXo0SOl48RiBk7"
+      },
+      "artists": [
+        {
+          "name": "REV",
+          "url": "https://open.spotify.com/artist/6LPhim0qQ8EHh55uw06umD"
+        }
+      ],
+      "duration_ms": 240032,
+      "name": "Eyeliner",
+      "url": "https://open.spotify.com/track/33wLXkDuB4FQRiQDlRFrDa"
     },
     {
       "added_at": "2023-03-24 04:01:00",

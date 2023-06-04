@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141493,
+  "num_followers": 141490,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWI0ZTUyNWQ2ZDVjMDJhMDZlMGNjZTgwZjMyYjVkYjdjN2U4ODFk",
+  "snapshot_id": "MCwzOTNhNzdjOWIyYjVhYjk4NmE4OGVmMzRjYzVmMjc5OTI1ODNlZGU2",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -311,6 +311,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "New New Orleans Jazz",
+        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "duration_ms": 294760,
+      "name": "Hot Lips",
+      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Night on Frenchmen Street",
         "url": "https://open.spotify.com/album/44p3ndcrFCwxM6la37rd1M"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 271229,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/1LnuXqYUH6jIWSIVyTMF9c"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "New New Orleans Jazz",
-        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
-      },
-      "artists": [
-        {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
-        }
-      ],
-      "duration_ms": 294760,
-      "name": "Hot Lips",
-      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -407,6 +407,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Take It To The Street",
+        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 259533,
+      "name": "Take It To The Street",
+      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Keep Your Head Up",
         "url": "https://open.spotify.com/album/3f3eLzXLCXlhd2G9DTLbvm"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 185226,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/1tlPsmI230IoSanksbmm2i"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Take It To The Street",
-        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 259533,
-      "name": "Take It To The Street",
-      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -491,6 +491,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Rebirth For Life",
+        "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 349666,
+      "name": "Tubaluba",
+      "url": "https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "My Feet Can't Fail Me Now",
         "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 195586,
       "name": "Handa Wanda",
       "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Rebirth For Life",
-        "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 349666,
-      "name": "Tubaluba",
-      "url": "https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -667,26 +667,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
-        "url": "https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK"
-      },
-      "artists": [
-        {
-          "name": "New Breed Brass Band",
-          "url": "https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5"
-        },
-        {
-          "name": "5th Ward Weebie",
-          "url": "https://open.spotify.com/artist/1Gd5PupkpVsM1OvgVDUvmH"
-        }
-      ],
-      "duration_ms": 276976,
-      "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
-      "url": "https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Sounds Of New Orleans",
         "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
       },
@@ -707,22 +687,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Jazz In Hi-Fi",
-        "url": "https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn"
+        "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
+        "url": "https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK"
       },
       "artists": [
         {
-          "name": "Jack Teagarden",
-          "url": "https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf"
+          "name": "New Breed Brass Band",
+          "url": "https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5"
         },
         {
-          "name": "Bobby Hackett",
-          "url": "https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq"
+          "name": "5th Ward Weebie",
+          "url": "https://open.spotify.com/artist/1Gd5PupkpVsM1OvgVDUvmH"
         }
       ],
-      "duration_ms": 164200,
-      "name": "I Found a New Baby",
-      "url": "https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234"
+      "duration_ms": 276976,
+      "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
+      "url": "https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -739,6 +719,26 @@
       "duration_ms": 218533,
       "name": "Foot Of Canal Street",
       "url": "https://open.spotify.com/track/1S2yETvOEBPi7oGECTzbnd"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Jazz In Hi-Fi",
+        "url": "https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn"
+      },
+      "artists": [
+        {
+          "name": "Jack Teagarden",
+          "url": "https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf"
+        },
+        {
+          "name": "Bobby Hackett",
+          "url": "https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "I Found a New Baby",
+      "url": "https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234"
     },
     {
       "added_at": "2021-04-26 16:53:52",

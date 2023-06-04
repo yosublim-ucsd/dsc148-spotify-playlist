@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡Márquele sección! Los corridones tronando en vivo\. Gabito Ballesteros, Peso Pluma y Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,012 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,130 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 74 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
 | 75 | [El Teniente Fantasma \(En Vivo\)](https://open.spotify.com/track/7eu5ckFIDseCWsBBiLEOQQ) | [Doble Cara](https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf) | [El Teniente Fantasma \(En Vivo\)](https://open.spotify.com/album/2a8Xbe22wRopuOardOvLkn) | 3:27 |
 
-Snapshot ID: `MCwzNjNjZTZiMTRhMjcxZDU2YTI0Y2JkYWE1YmYzYTQ2MzIyNWU3YzUx`
+Snapshot ID: `MCxkY2NhOWYwZjQ3ZDcxNzQ0MDNhNzkyMjZhYTE0NWJjNjFkMDc1MWM1`

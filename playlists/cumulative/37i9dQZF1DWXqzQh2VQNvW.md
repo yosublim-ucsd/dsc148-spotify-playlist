@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-258 songs - 13 hr 23 min
+259 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [So Special](https://open.spotify.com/track/2yYj4A83qox4a2SBAE6a3t) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [So Special](https://open.spotify.com/album/5CIv2KGq1JvtcuNI584N1i) | 2:41 | 2023-03-03 |  |
 | [So What](https://open.spotify.com/track/3HXcLxLeZjBxuRNNVb8mzt) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [So What](https://open.spotify.com/album/2PUVkKjpm1Cj8gVztp7JG2) | 2:42 | 2022-01-25 | 2022-07-26 |
 | [Sober](https://open.spotify.com/track/7gEVqV2uGyP34Mklu7jYr5) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Sober](https://open.spotify.com/album/3Uk1j4TxLk0ylBR4k8icmp) | 3:45 | 2023-01-20 | 2023-04-22 |
-| [Songs for The Weekend](https://open.spotify.com/track/7bLhDVopMpJfZuDm3aqCyo) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Songs for The Weekend](https://open.spotify.com/album/5seYeaPLAUlMpibLumx0Wb) | 3:26 | 2022-10-21 |  |
+| [Songs for the Weekend](https://open.spotify.com/track/4aCQO9GLpJrke4bZ70r7B0) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Songs for the Weekend](https://open.spotify.com/album/2Jv3BZfVHNjL8iAW2heUpI) | 3:26 | 2023-05-26 |  |
+| [Songs for The Weekend](https://open.spotify.com/track/7bLhDVopMpJfZuDm3aqCyo) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Songs for The Weekend](https://open.spotify.com/album/5seYeaPLAUlMpibLumx0Wb) | 3:26 | 2022-10-21 | 2023-06-04 |
 | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y) | 4:13 | 2022-01-25 | 2022-09-17 |
 | [Startover](https://open.spotify.com/track/2K2vxaBjIJGpS7bKUBtqYp) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Startover](https://open.spotify.com/album/6lWCvK8L1GzYaa4htMufrE) | 3:05 | 2023-02-03 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2022-01-25 |  |

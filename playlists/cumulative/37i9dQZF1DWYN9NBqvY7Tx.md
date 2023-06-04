@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-356 songs - 19 hr 20 min
+357 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV) | 3:37 | 2022-06-24 | 2022-09-03 |
 | [Event Horizon](https://open.spotify.com/track/3Wj6N3ErZ34ditWlB7ETZV) | [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [Event Horizon + Remixes](https://open.spotify.com/album/27brn65Vr5GU1XCdmcnrhW) | 3:32 | 2022-05-06 | 2022-07-04 |
 | [Everything](https://open.spotify.com/track/2goIIAg5kdzfwclJMFZM33) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Everything](https://open.spotify.com/album/4cKQLSgQBD6gnxp7U9lK4X) | 4:27 | 2022-05-06 | 2022-06-01 |
-| [Everything](https://open.spotify.com/track/6ouN4BiS8PIHn62uxCqDdH) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Everything](https://open.spotify.com/album/3NFCtwwxPEJ1EJ0Fzgx9XP) | 4:27 | 2022-07-14 |  |
+| [Everything](https://open.spotify.com/track/6ouN4BiS8PIHn62uxCqDdH) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Everything](https://open.spotify.com/album/3NFCtwwxPEJ1EJ0Fzgx9XP) | 4:27 | 2022-07-14 | 2023-06-04 |
 | [Everything Black](https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW) | [Everything Black](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz) | 3:48 | 2022-05-06 |  |
 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 | 2022-07-14 |  |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-24 |  |
@@ -123,6 +123,7 @@
 | [Halo](https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Halo](https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6) | 2:36 | 2022-10-14 |  |
 | [Have Fun](https://open.spotify.com/track/4JdsnIZdnrkIU9emqiEhTo) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Have Fun](https://open.spotify.com/album/54ky6fqaBinet9a6SHAVxm) | 2:44 | 2022-05-24 | 2022-07-10 |
 | [Hear My Call \(feat\. Tyler Graves\)](https://open.spotify.com/track/2p1taQKLDOA4tIsLTlLSoj) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Gem & Tauri](https://open.spotify.com/artist/4pSG7BUZvHZGk1j7QoWcFp), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Hear My Call \(feat\. Tyler Graves\)](https://open.spotify.com/album/09KkysAzHf6jZjnQaEfgkz) | 3:08 | 2022-05-06 | 2022-07-28 |
+| [Hear you calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 | 2023-05-26 |  |
 | [Heart Afire](https://open.spotify.com/track/4s4XzNKcU3PtmeV7OdXDmv) | [Defqwop](https://open.spotify.com/artist/0lfD4Ye7RAbP8FQiuE6aFs), [STRIX](https://open.spotify.com/artist/0kjukWYfMpUe8Yr2c9S9Sj) | [NCS is Love, NCS is Life, Vol\. 1](https://open.spotify.com/album/0R6JKXqMghl97Sx7ngToTm) | 4:00 | 2022-05-06 | 2022-06-24 |
 | [Heart Afire](https://open.spotify.com/track/3zkxoKT5HbtE9m2GVESzBv) | [poplin](https://open.spotify.com/artist/2XPvX2cHxjF2pDAuOpjA1N) | [Heart Afire](https://open.spotify.com/album/5brS6acqrzQVyZobnCoJk3) | 4:00 | 2022-10-14 | 2022-11-13 |
 | [Heart Afire](https://open.spotify.com/track/783zcmYaLWYBvHGJRYAskV) | [STRIX](https://open.spotify.com/artist/0kjukWYfMpUe8Yr2c9S9Sj), [Defqwop](https://open.spotify.com/artist/0lfD4Ye7RAbP8FQiuE6aFs) | [NCS is Love, NCS is Life, Vol\. 1](https://open.spotify.com/album/2i9H74I6tPZqEcOReEMETV) | 4:00 | 2022-07-14 | 2022-07-30 |

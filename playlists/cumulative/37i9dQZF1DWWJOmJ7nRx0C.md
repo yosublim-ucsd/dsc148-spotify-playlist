@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Tigercub
 
-820 songs - 2 day 1 hr 10 min
+821 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,8 @@
 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 | 2022-10-28 | 2023-02-11 |
 | [Miracle](https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Miracle](https://open.spotify.com/album/7sobDr1V7BbSF0mkJOOGj3) | 4:03 | 2022-07-22 |  |
 | [Mirror](https://open.spotify.com/track/7j2Tf7HjW3yEFr0QekLuzs) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Under The Midnight Sun](https://open.spotify.com/album/6yUltme6Sb7ErFkqJ1TgQh) | 3:48 | 2022-10-07 | 2022-11-12 |
-| [Missile](https://open.spotify.com/track/7tk7GTuflatSdYiJW97Itc) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Missile](https://open.spotify.com/album/4WArPDAzvEWVt99SwPqfQ5) | 2:19 | 2023-05-05 |  |
+| [Missile](https://open.spotify.com/track/1LNE7fC5D7fjipwng8IXGu) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [NIGHTVISION](https://open.spotify.com/album/04Wf69y2V5QM4dl5XKTT7Q) | 2:19 | 2023-06-02 |  |
+| [Missile](https://open.spotify.com/track/7tk7GTuflatSdYiJW97Itc) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Missile](https://open.spotify.com/album/4WArPDAzvEWVt99SwPqfQ5) | 2:19 | 2023-05-05 | 2023-06-04 |
 | [Mistakes](https://open.spotify.com/track/6Z54FF1uTQ4LeE6McKizwN) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [From Hell to Here](https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6) | 3:14 | 2023-05-12 |  |
 | [MONEY](https://open.spotify.com/track/6uEwHhQjA253wuQQ6KDMAj) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MONEY](https://open.spotify.com/album/5kVYC2LhvuwUxVhfLQ9i6T) | 3:14 | 2022-03-25 | 2022-08-27 |
 | [Money Spent](https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 2:36 | 2022-09-16 | 2023-01-06 |

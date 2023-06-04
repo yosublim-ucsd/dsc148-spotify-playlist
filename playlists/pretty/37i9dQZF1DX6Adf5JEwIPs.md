@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Jasiel Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,047 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,091 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 44 | [NO SIRVIO DE NADA](https://open.spotify.com/track/34kuHt20Ww02atSkfZhAuE) | [Patricio Valdez](https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5) | [NO SIRVIO DE NADA](https://open.spotify.com/album/6hjieQug5xJ8bbEgiCSqu7) | 3:34 |
 | 45 | [Que Bien Se Ve](https://open.spotify.com/track/0YVLdgp3vEgqIBQsKQVhTp) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg) | [Que Bien Se Ve](https://open.spotify.com/album/2aBk8okpNfyMJx1C2DWem5) | 4:06 |
 
-Snapshot ID: `MCxiYjdlNmM1MzM4ZGJkOGNhYmM5YTJiZTBhZWI1OGM2ZWVkMTE5Njky`
+Snapshot ID: `MCwzMTNjNDVkYmVkODdkYzQwNDk4NDFhZjlmODYwMDZiMjA3OWE0ZmFk`

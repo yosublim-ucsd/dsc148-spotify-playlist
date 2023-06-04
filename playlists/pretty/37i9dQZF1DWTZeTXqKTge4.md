@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,644 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,656 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 15 | [Sang Froid](https://open.spotify.com/track/7owsYlokP9KB5P5HuW5YlI) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Sang Froid](https://open.spotify.com/album/5ufrPxcD79aTPdpCwXClDz) | 2:41 |
 | 16 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 |
 | 17 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 |
-| 18 | [Oh la la](https://open.spotify.com/track/3jwmX9rBS74XmzDgtt6rKh) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [Oh la la](https://open.spotify.com/album/4yRaeq7eFGjn52h4DqfjPR) | 2:09 |
+| 18 | [Oh lala](https://open.spotify.com/track/3jwmX9rBS74XmzDgtt6rKh) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [Oh lala](https://open.spotify.com/album/4yRaeq7eFGjn52h4DqfjPR) | 2:09 |
 | 19 | [Mode Avion](https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mode Avion](https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H) | 3:17 |
 | 20 | [Le Game A Des Codes](https://open.spotify.com/track/60bJbhPsIsZhQqKKcFGkG1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Le Game A Des Codes](https://open.spotify.com/album/5JJjKKExk3HLXFBC1mgr8D) | 1:57 |
 | 21 | [Partout](https://open.spotify.com/track/6dmmoMqEp0CDLiOZ2zZqbu) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [Le pouvoir de l'esprit est infini](https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Barrières](https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K) | [Fifo](https://open.spotify.com/artist/5OFfXZvVHDQ76SarIJtG0a), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Barrières](https://open.spotify.com/album/2qgaxwFqAEolIIln26xxTF) | 3:25 |
 | 75 | [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 |
 
-Snapshot ID: `MCxiODMwNzBkMjc0YzU5MjVkN2QwMDA4ZmZjMmMyNDQ2NjU3YWNhZjg3`
+Snapshot ID: `MCw5OWEzMWY5ZGVmYTUzMzE5MzBjYjMzYzdhNWUyZDczM2ZjNzdlYjhi`

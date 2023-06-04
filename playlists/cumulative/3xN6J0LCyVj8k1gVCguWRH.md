@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,275 songs - 5 day 10 hr 27 min
+2,277 songs - 5 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [A Couple Runaways](https://open.spotify.com/track/57LTzLyTcGFctMw2mS6ylb) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Future Wars](https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1) | 4:01 | 2022-05-29 | 2022-06-29 |
 | [A Dinner Out](https://open.spotify.com/track/2Lig6x6Wr1LsVBmMLdscz4) | [Sacramento](https://open.spotify.com/artist/0ovT4fn9cuMxfhRNGPUzON) | [Latte / The Italian Breakfast](https://open.spotify.com/album/1dO5cpEOoa2ORCwazxkFUv) | 4:27 | 2022-02-18 | 2022-03-07 |
 | [A Dreamer](https://open.spotify.com/track/2odz4s5CDDODlVh1P00H6V) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [A Dreamer](https://open.spotify.com/album/76zFj3JcVuBwRxnirC9y3r) | 4:53 | 2023-01-15 | 2023-02-12 |
-| [A Feminist March](https://open.spotify.com/track/3pCxrpxD6CAvnNBhPdUVoZ) | [RÜ](https://open.spotify.com/artist/725jZTtXKFvIYhyWaeFaQI) | [A Feminist March](https://open.spotify.com/album/50YyQdGIF32364RZ4EFWNE) | 3:09 | 2023-05-16 |  |
+| [A Feminist March](https://open.spotify.com/track/3pCxrpxD6CAvnNBhPdUVoZ) | [RÜ](https://open.spotify.com/artist/725jZTtXKFvIYhyWaeFaQI) | [A Feminist March](https://open.spotify.com/album/50YyQdGIF32364RZ4EFWNE) | 3:09 | 2023-05-16 | 2023-06-04 |
 | [A Kiss To Build A Dream On \- Single Version](https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:01 | 2021-07-11 | 2023-02-12 |
 | [A Little More](https://open.spotify.com/track/5zN8t1TBag3LO7d8KBFcCt) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [A Little More](https://open.spotify.com/album/08MkaEmLn6GsAcjFQ8OUfg) | 3:05 | 2021-12-04 | 2021-12-19 |
 | [A Million Doubts](https://open.spotify.com/track/0QuxL88IiyWc5Dw2wAfeW1) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [For The Very Last Time](https://open.spotify.com/album/2lfXUo4jtKlwpyZuAAm712) | 3:39 | 2020-11-03 | 2021-01-12 |
@@ -465,6 +465,7 @@
 | [Crazy \- Acoustic](https://open.spotify.com/track/4S8m8sDfswGQR6Apx2yw7U) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [A Little Crazy \(Acoustic Version\)](https://open.spotify.com/album/0O9QWDkFAYXX5xzIBc6e6K) | 3:52 | 2022-12-23 | 2023-01-14 |
 | [Crazy Love](https://open.spotify.com/track/2CbjkBhFxJtrgEwuvxAn0K) | [Olivia Rox](https://open.spotify.com/artist/5CFBvt5T4o48iAy8mstupj) | [Poprox](https://open.spotify.com/album/2FrDY10uqXiKeXoXs1WMLZ) | 3:06 | 2021-07-04 | 2021-07-18 |
 | [Creepin](https://open.spotify.com/track/22OW3x0sdFyrKCU6Jfepmi) | [Lorenzo Jesse](https://open.spotify.com/artist/3YqvdftoxX7PXMc16wxviW) | [Creepin](https://open.spotify.com/album/4MaToaCjfSUo1RJD1oHoFb) | 4:00 | 2023-01-13 | 2023-03-08 |
+| [Crimson Heartbreak](https://open.spotify.com/track/4FF7hewXwMhNcnBBPaUuye) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Crimson Heartbreak](https://open.spotify.com/album/13EEwFR8zNxVhM0CtLw1Lc) | 3:32 | 2023-06-03 |  |
 | [Crocs](https://open.spotify.com/track/0vzfq3OzXrDGXE5Y1YyWXH) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [Merit](https://open.spotify.com/album/70UmEIWe6kDaCmqMYIRwMd) | 3:06 | 2020-12-25 | 2021-01-09 |
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/2Zrmp1DHBdzm2zNk9rrQtQ) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5Jrt9LhQqar39j3C0ORmSA) | 2:48 | 2021-12-17 | 2023-04-03 |
 | [CROWN](https://open.spotify.com/track/6A1KNyM5iL3jE73vNcoLMC) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/7zWWVQna0sWAmjAqJ3e1Py) | 2:55 | 2020-08-20 | 2021-07-12 |
@@ -665,6 +666,7 @@
 | [Far From You](https://open.spotify.com/track/2cHHKwH6b64BYTowQuvP7c) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Far From You](https://open.spotify.com/album/7eXk2CTh0gdlkG0vEz0Lom) | 4:32 | 2023-04-14 | 2023-05-06 |
 | [Fast Food \(Take U 2 Go\)](https://open.spotify.com/track/1ke59FZ7SOSN15rcp7lqQ9) | [KaySuave](https://open.spotify.com/artist/2lrN59KG4FPyQr9mlL32N5), [SH!VA](https://open.spotify.com/artist/7ft0P4RdV6Gsapc5bHqsve) | [Fast Food \(Take U 2 Go\)](https://open.spotify.com/album/0lcNtgzrMTKdHehw4GzyxA) | 2:22 | 2023-02-24 | 2023-03-20 |
 | [Fastest Alone](https://open.spotify.com/track/6X5pvJz2oSwMk6JbXBiMBy) | [FORAGER](https://open.spotify.com/artist/0DT51FXXTBgRb2YykneEyb) | [Fastest Alone](https://open.spotify.com/album/59VlLSLopsyTZOGwiodbug) | 3:45 | 2022-06-24 | 2022-07-16 |
+| [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 | 2023-06-03 |  |
 | [Faustian Bargain](https://open.spotify.com/track/0CMhN2Qs7xnr4pe80wysXS) | [BLDF](https://open.spotify.com/artist/3EyTTCdYTEhEqsnLIlcbxC) | [Less Is More, More or Less.](https://open.spotify.com/album/7IWbyR4OdiRH1OsyJZIEhU) | 2:28 | 2021-07-10 | 2021-07-25 |
 | [Favorite Perfume </3](https://open.spotify.com/track/3EPXZrSvAehLzRSUND8x8c) | [YOUNG WONG](https://open.spotify.com/artist/5olBFgZp8uLUC2USBZsB7a) | [Favorite Perfume </3](https://open.spotify.com/album/2wjbeY7AUSC5P9unrhso1d) | 2:51 | 2022-07-01 | 2022-07-19 |
 | [Feed Me Diamonds](https://open.spotify.com/track/5a0Qr1j8hxoFSEbKDA86fg) | [Jubilee](https://open.spotify.com/artist/7zKQ5oAIpVJVatbxtxcTBe) | [Feed Me Diamonds](https://open.spotify.com/album/00cbHBHp40rtdOoJGvrcrQ) | 3:34 | 2020-05-17 | 2020-05-24 |
@@ -1853,7 +1855,7 @@
 | [Strings](https://open.spotify.com/track/7sUP5q7AyJlC5aLHjt6pkD) | [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [Strings](https://open.spotify.com/album/3eCzkbYqdg9kKgBJCH1Xpa) | 3:45 | 2019-12-03 | 2019-12-11 |
 | [Stronger](https://open.spotify.com/track/1IBFJqMbzTkPENRZsHzJZd) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Stronger / Love \(and everything between\)](https://open.spotify.com/album/2jyZRrw9mLqG7mjdWsHf1v) | 3:20 | 2023-05-08 | 2023-05-30 |
 | [Stuck](https://open.spotify.com/track/74K6Vgm24ejN4aWVAb8puS) | [Mike Bauer](https://open.spotify.com/artist/6WVlhAlmeMEF5ItQOBijRC) | [Stuck](https://open.spotify.com/album/4Fb4hvBdgmtRVYfx8cMm4M) | 3:20 | 2023-05-14 | 2023-06-02 |
-| [Stuck On You](https://open.spotify.com/track/1HeMmzT6i53MTYFiMODEBD) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Stuck On You](https://open.spotify.com/album/2q3cWrPl7r6ClccTNJwTeE) | 3:10 | 2023-05-16 |  |
+| [Stuck On You](https://open.spotify.com/track/1HeMmzT6i53MTYFiMODEBD) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Stuck On You](https://open.spotify.com/album/2q3cWrPl7r6ClccTNJwTeE) | 3:10 | 2023-05-16 | 2023-06-04 |
 | [Stuck on You](https://open.spotify.com/track/2rDLmRfQ5ePrrI0PfDj5hT) | [Frankie Zulferino](https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC) | [Stuck on You](https://open.spotify.com/album/7cRaEgrftHeonV50MleArj) | 3:32 | 2021-10-09 | 2021-10-23 |
 | [Stupid](https://open.spotify.com/track/5tiXe9KoGmYHHBZwKHhAfD) | [Niki Kand](https://open.spotify.com/artist/2vh6QStsqt7NuA0XkUykhH) | [Stupid](https://open.spotify.com/album/1KWFdSnejE6hTtZoGV2i02) | 2:01 | 2020-10-26 | 2020-11-06 |
 | [Stupid Me](https://open.spotify.com/track/3yl0hK8awY340PpLYGuwZg) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [NIIVA](https://open.spotify.com/album/4DoVWd6Ak9O9Qo5dUs8KEx) | 3:07 | 2021-02-19 | 2021-03-06 |

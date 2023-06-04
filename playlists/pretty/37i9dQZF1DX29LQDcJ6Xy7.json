@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 281300,
+  "num_followers": 281467,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTI4YzllNGEwMWM2MzgwZDBkN2ZkODIzZDdmOGFhZWI1NDg0MmQz",
+  "snapshot_id": "MCxmZmQyMmE0ZTk2MzQzYWRjNDI1ZDgyMDEzNzI5ZTk2NDQyMTU5MzU3",
   "tracks": [
     {
       "added_at": "2023-05-05 05:09:11",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "I'm With Stupid",
-      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Wahrheit oder Pflicht",
         "url": "https://open.spotify.com/album/6ChP2BF5LTHwyjzklcSTiG"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 205720,
       "name": "mOBSCENE",
       "url": "https://open.spotify.com/track/4Ppy0KysTPcXyzyP5JiJDx"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "I'm With Stupid",
+      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Recoded",
-        "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        },
-        {
-          "name": "Rhys Fulber",
-          "url": "https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P"
-        }
-      ],
-      "duration_ms": 344918,
-      "name": "Hatred Will Prevail - Monolith Remix",
-      "url": "https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Die H\u00f6lle muss warten",
         "url": "https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 243446,
       "name": "Bits and Razors",
       "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Recoded",
+        "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        },
+        {
+          "name": "Rhys Fulber",
+          "url": "https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P"
+        }
+      ],
+      "duration_ms": 344918,
+      "name": "Hatred Will Prevail - Monolith Remix",
+      "url": "https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Sins Of The Flesh",
-        "url": "https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542"
-      },
-      "artists": [
-        {
-          "name": "Sister Machine Gun",
-          "url": "https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId"
-        }
-      ],
-      "duration_ms": 306426,
-      "name": "Sins of the Flesh",
-      "url": "https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Out For Blood",
         "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 220026,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Sins Of The Flesh",
+        "url": "https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542"
+      },
+      "artists": [
+        {
+          "name": "Sister Machine Gun",
+          "url": "https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId"
+        }
+      ],
+      "duration_ms": 306426,
+      "name": "Sins of the Flesh",
+      "url": "https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Prototype 6:17",
-        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
-      },
-      "artists": [
-        {
-          "name": "The Silverblack",
-          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
-        }
-      ],
-      "duration_ms": 208470,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/6YlEOQA5byMK5kM6CbZGXA"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 246160,
       "name": "Blitzkrieg",
       "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Prototype 6:17",
+        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
+      },
+      "artists": [
+        {
+          "name": "The Silverblack",
+          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
+        }
+      ],
+      "duration_ms": 208470,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "For the Beaten",
-        "url": "https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 211450,
-      "name": "For the Beaten",
-      "url": "https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Linger Ficken' Good...And Other Barnyard Oddities",
         "url": "https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 337226,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "For the Beaten",
+        "url": "https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 211450,
+      "name": "For the Beaten",
+      "url": "https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u"
     }
   ],
   "unique_name": "Industrial Metal",

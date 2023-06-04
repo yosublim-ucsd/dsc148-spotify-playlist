@@ -8537,6 +8537,24 @@
     },
     {
       "album": {
+        "name": "NIGHTVISION",
+        "url": "https://open.spotify.com/album/04Wf69y2V5QM4dl5XKTT7Q"
+      },
+      "artists": [
+        {
+          "name": "The Anix",
+          "url": "https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Missile",
+      "url": "https://open.spotify.com/track/1LNE7fC5D7fjipwng8IXGu"
+    },
+    {
+      "album": {
         "name": "Missile",
         "url": "https://open.spotify.com/album/4WArPDAzvEWVt99SwPqfQ5"
       },
@@ -8548,7 +8566,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 139428,
       "name": "Missile",
       "url": "https://open.spotify.com/track/7tk7GTuflatSdYiJW97Itc"

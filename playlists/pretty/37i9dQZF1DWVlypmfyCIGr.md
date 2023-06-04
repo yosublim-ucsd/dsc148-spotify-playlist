@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,658 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,670 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Literary Girl](https://open.spotify.com/track/3pn9aZHPt2Cbt9xakej7fS) | [miolly](https://open.spotify.com/artist/5smKtVDKbCiaUWASPunQAa) | [Literary Girl](https://open.spotify.com/album/5ZWJD7i2sy6AnA2PTcCCoy) | 3:52 |
 | 80 | [Mayday](https://open.spotify.com/track/3gBg30QamRN5DftFNK5EKf) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [Mayday](https://open.spotify.com/album/3IjA3ElHjDD9KaEnc4a9MU) | 3:12 |
 
-Snapshot ID: `MCw1MjRiNmQ5MzkzMGJiM2Y0ZWY4N2Q2YmI5ZTk0OTIyYThjMjJlNGRm`
+Snapshot ID: `MCwxNGE2OGYzZGE1MzRjZTQ0ODAyNjExYTI5N2RkYmYzODA4ODMwZjJh`

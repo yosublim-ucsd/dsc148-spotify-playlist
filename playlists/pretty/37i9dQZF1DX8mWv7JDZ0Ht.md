@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc, Ludmilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,188 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,216 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 35 | [Lá Vem A Noite](https://open.spotify.com/track/1Yg5rkFc2XVM6h950xtmsN) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Pretinho da Serrinha](https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw), [Rahiza](https://open.spotify.com/artist/6dBPKpFGzWHzvBriE4Dbwx) | [Lá Vem A Noite](https://open.spotify.com/album/7jC67OLg5vFyeHfQgbSAQd) | 3:48 |
 | 36 | [Delírio](https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Delírio](https://open.spotify.com/album/30YV6XbXKHwc4eloifG3FN) | 2:42 |
 | 37 | [Covardia](https://open.spotify.com/track/4nr5wacC92Umr7cdgaCkjT) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Tudo Tá Fluindo](https://open.spotify.com/album/0vRj7ptVpmXlF4dFP4MRVu) | 2:43 |
-| 38 | [Depois de Te Encontrar](https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Depois de Te Encontrar](https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB) | 3:13 |
-| 39 | [Lance ou Romance](https://open.spotify.com/track/4CklYjne6eks3KfBAW9MI8) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Lance ou Romance](https://open.spotify.com/album/3KjkGGle84fgZbwHGvCnFc) | 2:42 |
-| 40 | [te decorei em mim](https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [te decorei em mim](https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy) | 2:57 |
-| 41 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
+| 38 | [Lance ou Romance](https://open.spotify.com/track/4CklYjne6eks3KfBAW9MI8) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Lance ou Romance](https://open.spotify.com/album/3KjkGGle84fgZbwHGvCnFc) | 2:42 |
+| 39 | [Depois de Te Encontrar](https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Depois de Te Encontrar](https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB) | 3:13 |
+| 40 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
+| 41 | [te decorei em mim](https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [te decorei em mim](https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy) | 2:57 |
 | 42 | [Sorria que Volta](https://open.spotify.com/track/1PtvbTuhHBw8Mfi9XIIIuC) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Sorria que Volta](https://open.spotify.com/album/2V4qg7sNcMllTmLOFpzf7o) | 2:21 |
 | 43 | [Brisa 22](https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:03 |
 | 44 | [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 53 | [Girassol](https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Girassol](https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ) | 3:01 |
 | 54 | [Boate Qualquer](https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Paixão Nacional](https://open.spotify.com/album/0lDsFWezOlZNYWFOsCZuYz) | 3:07 |
 | 55 | [Vem Me Encontrar](https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Vem Me Encontrar](https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz) | 2:53 |
-| 56 | [Tons De Blue \- Faixa Bônus](https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Marshmallow Flor De Sal \(Deluxe\)](https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm) | 4:01 |
-| 57 | [Dias Claros](https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Dias Claros](https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9) | 2:31 |
+| 56 | [Dias Claros](https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Dias Claros](https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9) | 2:31 |
+| 57 | [Tons De Blue \- Faixa Bônus](https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Marshmallow Flor De Sal \(Deluxe\)](https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm) | 4:01 |
 | 58 | [sexto sentido](https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [sexto sentido](https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg) | 2:36 |
 | 59 | [NEM GOSTO TANTO ASSIM DE VOCÊ](https://open.spotify.com/track/7yYgj6JpLLCRhGzwSTpC00) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [NEM GOSTO TANTO ASSIM DE VOCÊ](https://open.spotify.com/album/0CftRPVAJRuz5SQhliCvBd) | 3:07 |
 | 60 | [isso é tão a gente :\)](https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V) | [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [isso é tão a gente :\)](https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2) | 3:10 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 70 | [O Tempo É Sua Morada \- 10 AÑOS](https://open.spotify.com/track/5yEbJk7T0xTF0b87WyA3DM) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [O Tempo É Sua Morada \- 10 AÑOS](https://open.spotify.com/album/3VabbpDgkyhiRMsSt4AiHq) | 4:33 |
 | 71 | [Mais de Mim](https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Mais de Mim](https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG) | 2:34 |
 | 72 | [Atalaia](https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl) | [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Atalaia](https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q) | 3:12 |
-| 73 | [Olimpo ou Razão](https://open.spotify.com/track/2rXdrKghnoYK6NJVqE5y6I) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Olimpo ou Razão](https://open.spotify.com/album/50vx9RdFlaRbd4xbEMMPaI) | 3:41 |
-| 74 | [Olhar Sereno](https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Olhar Sereno](https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL) | 3:05 |
+| 73 | [Olhar Sereno](https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Olhar Sereno](https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL) | 3:05 |
+| 74 | [Olimpo ou Razão](https://open.spotify.com/track/2rXdrKghnoYK6NJVqE5y6I) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Olimpo ou Razão](https://open.spotify.com/album/50vx9RdFlaRbd4xbEMMPaI) | 3:41 |
 | 75 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 |
 | 76 | [Sanidade Mental](https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Sanidade Mental](https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY) | 1:59 |
 | 77 | [Samba de Nós Dois](https://open.spotify.com/track/5MQ2a8RvLTpVUHT5AsoQzf) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Samba de Nós Dois](https://open.spotify.com/album/2cjBLxmvfLPmtLm4fj1VVh) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 79 | [Retrato de Maria Lúcia](https://open.spotify.com/track/4mjBM5IAzxuKcYIgrH0oDF) | [Ítallo](https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9), [Marina Nemesio](https://open.spotify.com/artist/1jLb1hc9fbV18QKGtkclMR) | [Tarde no Walkiria](https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr) | 4:07 |
 | 80 | [Acabou](https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Acabou](https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim) | 2:58 |
 
-Snapshot ID: `MCw3NmFjYjc4NWVlMDZkY2M0MWQzNjc0OTEwYWMwNzZmZmNlZWMwNWY2`
+Snapshot ID: `MCxlOTZhNWM5ODk3MDc4YjExYjM1Nzc0NDkyMGM2ZjFiYjI1MWQzN2Iz`

@@ -6,7 +6,7 @@
     "name": "An-Ten-Nae",
     "url": "https://open.spotify.com/user/124011761"
   },
-  "snapshot_id": "MjIxMyxiNjU5MDNiOGQzNGRlYjAzMjJjOTc2MjM0ZmY3OGQ1ZmMwYmNlZDhi",
+  "snapshot_id": "MjIxNixiZTJlYWQ2ZmY3ZmEwYTA2OTZlNTk2NTFmMTllNzdkZDdlY2YxNGQw",
   "tracks": [
     {
       "added_at": "2023-05-27 03:34:17",
@@ -331,6 +331,42 @@
       "duration_ms": 334285,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/0g7aGbgUSeZhe1OUFnS1BB"
+    },
+    {
+      "added_at": "2023-06-03 19:05:31",
+      "album": {
+        "name": "The Last Lotus EP",
+        "url": "https://open.spotify.com/album/01LyeW8mTLceCdqcQTeBRx"
+      },
+      "artists": [
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
+        }
+      ],
+      "duration_ms": 279398,
+      "name": "The Last Lotus",
+      "url": "https://open.spotify.com/track/0ckyGinZxwo5wnEPDBhQaJ"
+    },
+    {
+      "added_at": "2023-06-03 19:06:52",
+      "album": {
+        "name": "Counting",
+        "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 232468,
+      "name": "Counting",
+      "url": "https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78"
     }
   ],
   "unique_name": "Deep Bass / Melodic Bass / 140",

@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-182 songs - 11 hr 34 min
+183 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 | 2021-08-18 |  |
 | [Universal Soldier](https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [The Best Of](https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw) | 2:19 | 2021-08-18 |  |
 | [Urge for Going \- 2008 Remaster](https://open.spotify.com/track/4mVWOXS9KKhvDIdmkYUBOQ) | [Tom Rush](https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp) | [The Circle Game \[Expanded & Remastered\]](https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm) | 5:51 | 2021-08-18 |  |
-| [Watching the River Flow](https://open.spotify.com/track/3ektGwc8hlLCghIr93FY1H) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Watching the River Flow \(From 'Shadow Kingdom'\)](https://open.spotify.com/album/00PPrKBCj0AvPyw7rvvehR) | 3:00 | 2023-04-14 |  |
+| [Watching the River Flow](https://open.spotify.com/track/3ektGwc8hlLCghIr93FY1H) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Watching the River Flow \(From 'Shadow Kingdom'\)](https://open.spotify.com/album/00PPrKBCj0AvPyw7rvvehR) | 3:00 | 2023-04-14 | 2023-06-04 |
+| [Watching the River Flow](https://open.spotify.com/track/55FxZy3uzoCIxWR4zYZIjX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Shadow Kingdom](https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE) | 3:00 | 2023-05-19 |  |
 | [We Shall Overcome](https://open.spotify.com/track/2XKUNFRqUFg9ugFI3WWzWQ) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 4:42 | 2021-08-18 |  |
 | [When I'm Gone](https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ) | [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [There But For Fortune](https://open.spotify.com/album/5uhYaHfiH4leO4tbdEOZJe) | 4:13 | 2021-08-18 |  |
 | [Where Have All The Flowers Gone? \- Remastered](https://open.spotify.com/track/4C3jDWATqX5n4xaRO8wZOF) | [The Kingston Trio](https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ) | [The Capitol Collector's Series](https://open.spotify.com/album/21Rt1AxI2XkU9codmltHFJ) | 3:04 | 2021-08-18 |  |

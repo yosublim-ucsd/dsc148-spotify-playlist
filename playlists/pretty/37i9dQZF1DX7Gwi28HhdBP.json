@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641: \u0645\u062d\u0645\u0648\u062f \u0627\u0644\u0644\u064a\u062b\u0649\n\n",
-  "num_followers": 60274,
+  "num_followers": 60358,
   "original_name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzIwN2QwNTZjODJkNmE3Y2JhMjVjYzkxNTE3MGVmOGY3NjAyZGYy",
+  "snapshot_id": "MCxjZGM5ZjY4OGZkZDE3YjM2MDU0MjI0OGQwNmJiNmY1M2UyZDM2YTFh",
   "tracks": [
     {
       "added_at": "2023-05-12 10:30:06",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-05-12 10:30:06",
       "album": {
-        "name": "\u0627\u0646\u0627 \u0627\u0644\u0647\u064a\u0631\u0648",
-        "url": "https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs"
-      },
-      "artists": [
-        {
-          "name": "Tarek El Sheikh",
-          "url": "https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN"
-        }
-      ],
-      "duration_ms": 228832,
-      "name": "\u0627\u0646\u0627 \u0627\u0644\u0647\u064a\u0631\u0648",
-      "url": "https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2"
-    },
-    {
-      "added_at": "2023-05-12 10:30:06",
-      "album": {
         "name": "El Leila Eid",
         "url": "https://open.spotify.com/album/3Vao3BYiDmnLLtoLJa8HoU"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 188689,
       "name": "El Leila Eid",
       "url": "https://open.spotify.com/track/1v6xHWH5koUiYp1PYYDjGS"
+    },
+    {
+      "added_at": "2023-05-12 10:30:06",
+      "album": {
+        "name": "\u0627\u0646\u0627 \u0627\u0644\u0647\u064a\u0631\u0648",
+        "url": "https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs"
+      },
+      "artists": [
+        {
+          "name": "Tarek El Sheikh",
+          "url": "https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN"
+        }
+      ],
+      "duration_ms": 228832,
+      "name": "\u0627\u0646\u0627 \u0627\u0644\u0647\u064a\u0631\u0648",
+      "url": "https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2"
     },
     {
       "added_at": "2023-05-12 10:30:06",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-12 10:30:06",
       "album": {
-        "name": "Segara Bonny",
-        "url": "https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Hoseny",
-          "url": "https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa"
-        }
-      ],
-      "duration_ms": 385434,
-      "name": "Al Abad We Al Shaytaan",
-      "url": "https://open.spotify.com/track/1Eq7pW66JTa0CHcDNG5UUZ"
-    },
-    {
-      "added_at": "2023-05-12 10:30:06",
-      "album": {
         "name": "Abia El Donia",
         "url": "https://open.spotify.com/album/3UlzoBKkSpdbdOopu4NtJb"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 212957,
       "name": "Abia El Donia",
       "url": "https://open.spotify.com/track/6hioBIoRNttVg7pvZ9qnrd"
+    },
+    {
+      "added_at": "2023-05-12 10:30:06",
+      "album": {
+        "name": "Segara Bonny",
+        "url": "https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Hoseny",
+          "url": "https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa"
+        }
+      ],
+      "duration_ms": 385434,
+      "name": "Al Abad We Al Shaytaan",
+      "url": "https://open.spotify.com/track/1Eq7pW66JTa0CHcDNG5UUZ"
     },
     {
       "added_at": "2023-05-12 10:30:06",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-12 10:30:06",
       "album": {
-        "name": "Segara Bonny",
-        "url": "https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Hoseny",
-          "url": "https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa"
-        }
-      ],
-      "duration_ms": 407011,
-      "name": "Segara Bonny",
-      "url": "https://open.spotify.com/track/6akfrRhAakyPUzmc2YtbIq"
-    },
-    {
-      "added_at": "2023-05-12 10:30:06",
-      "album": {
         "name": "Ma'alem",
         "url": "https://open.spotify.com/album/548fUzS5czPUPtUI3M7yMy"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2023-05-12 10:30:06",
       "album": {
+        "name": "\u0632\u0639\u0644\u0627\u0646\u0627 \u0645\u0646\u0643",
+        "url": "https://open.spotify.com/album/1H1mvMlGLkxtIIGT80v07Q"
+      },
+      "artists": [
+        {
+          "name": "Shafeqa",
+          "url": "https://open.spotify.com/artist/78nDgw9OwoINjiHYCejKPh"
+        }
+      ],
+      "duration_ms": 622505,
+      "name": "\u062c\u0631\u0628\u062a \u0627\u0644\u062d\u0628 \u0645\u0631\u0647",
+      "url": "https://open.spotify.com/track/6dXpfC0mxL1ytHsy5t32Jv"
+    },
+    {
+      "added_at": "2023-05-12 10:30:06",
+      "album": {
         "name": "Abtal El Kalam",
         "url": "https://open.spotify.com/album/4g50d0yt0icA3PVjx0ceez"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-05-12 10:30:06",
       "album": {
-        "name": "\u0632\u0639\u0644\u0627\u0646\u0627 \u0645\u0646\u0643",
-        "url": "https://open.spotify.com/album/1H1mvMlGLkxtIIGT80v07Q"
+        "name": "Segara Bonny",
+        "url": "https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N"
       },
       "artists": [
         {
-          "name": "Shafeqa",
-          "url": "https://open.spotify.com/artist/78nDgw9OwoINjiHYCejKPh"
+          "name": "Mahmoud El Hoseny",
+          "url": "https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa"
         }
       ],
-      "duration_ms": 622505,
-      "name": "\u062c\u0631\u0628\u062a \u0627\u0644\u062d\u0628 \u0645\u0631\u0647",
-      "url": "https://open.spotify.com/track/6dXpfC0mxL1ytHsy5t32Jv"
+      "duration_ms": 407011,
+      "name": "Segara Bonny",
+      "url": "https://open.spotify.com/track/6akfrRhAakyPUzmc2YtbIq"
     },
     {
       "added_at": "2023-05-12 10:30:06",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-05-12 10:30:06",
       "album": {
-        "name": "Bent El Soltan",
-        "url": "https://open.spotify.com/album/7G75mfH0x0LG40buGY3LGI"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Adaweya",
-          "url": "https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5"
-        }
-      ],
-      "duration_ms": 761457,
-      "name": "Bent El Soltan",
-      "url": "https://open.spotify.com/track/31LFewwCdaBFct3p1Os0fn"
-    },
-    {
-      "added_at": "2023-05-12 10:30:06",
-      "album": {
         "name": "Eah El Asatokk Dah",
         "url": "https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 305711,
       "name": "Eah El Asatokk Dah",
       "url": "https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f"
+    },
+    {
+      "added_at": "2023-05-12 10:30:06",
+      "album": {
+        "name": "Bent El Soltan",
+        "url": "https://open.spotify.com/album/7G75mfH0x0LG40buGY3LGI"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Adaweya",
+          "url": "https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5"
+        }
+      ],
+      "duration_ms": 761457,
+      "name": "Bent El Soltan",
+      "url": "https://open.spotify.com/track/31LFewwCdaBFct3p1Os0fn"
     }
   ],
   "unique_name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",

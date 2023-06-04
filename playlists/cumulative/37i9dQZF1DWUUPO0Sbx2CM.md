@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-381 songs - 21 hr 10 min
+382 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Be the Light \(Radio Edit\)](https://open.spotify.com/track/62O09SIJyoBvEEvI8XnJtl) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Be the Light \(Radio Edit\)](https://open.spotify.com/album/3gRP24p18Mq0q31FsvZiBi) | 3:33 | 2021-10-31 | 2022-06-06 |
 | [Beautiful Chaos](https://open.spotify.com/track/0WnYgsf5qsiIoRArSrelF9) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Beautiful Chaos](https://open.spotify.com/album/6pZR3NDVJRHuPQbgDoBLnU) | 3:06 | 2021-10-31 | 2022-07-29 |
 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 | 2021-10-31 | 2023-02-08 |
+| [Best Thing](https://open.spotify.com/track/6i8iihyXeNhdGKOuNDzxPX) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Best Thing](https://open.spotify.com/album/6BxrkMTKzYiMOKVs3EHziH) | 2:32 | 2023-06-04 |  |
 | [Better King](https://open.spotify.com/track/1PRMBi6xAuwLFU48bm6sLh) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 2:56 | 2021-10-31 | 2023-02-08 |
 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 | 2021-10-31 | 2022-12-06 |
 | [Bigger](https://open.spotify.com/track/0LBzNdxVmIuQ6ooIHSYEud) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [No Greater Love](https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg) | 3:21 | 2021-10-31 | 2022-07-27 |
@@ -278,7 +279,7 @@
 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 | 2023-02-08 |  |
 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 | 2023-04-23 |  |
 | [Out Of The Dark \- Petey Martin Remix](https://open.spotify.com/track/4SfcLgPBOZa0ZFtHt3HBXO) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Out Of The Dark \(Petey Martin Remix\)](https://open.spotify.com/album/79HDfZmxKg9v2NCsvpNboH) | 2:45 | 2023-03-14 | 2023-04-20 |
-| [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 | 2023-04-13 |  |
+| [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 | 2023-04-13 | 2023-06-04 |
 | [Palaces](https://open.spotify.com/track/2INYwScE60yVgmyYsX00LH) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Palaces](https://open.spotify.com/album/0jkYniPLdIYSCl6feoIVMJ) | 4:13 | 2023-02-08 | 2023-02-10 |
 | [Paradise](https://open.spotify.com/track/0EJlpO8Z5Vqy4phgcqU84V) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daydreamer](https://open.spotify.com/album/0YFwILd7BfZdEimIslxHse) | 3:47 | 2021-10-31 | 2022-07-22 |
 | [Peace](https://open.spotify.com/track/467Ka8djftrhQIZTkYJar0) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Peace](https://open.spotify.com/album/2eJbMsDrKsDKk191Ve9lch) | 3:15 | 2021-10-31 | 2022-07-22 |

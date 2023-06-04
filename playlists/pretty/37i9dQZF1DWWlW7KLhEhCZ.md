@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Senndy
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,315 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,342 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 2 | [Vampira](https://open.spotify.com/track/5Qa9xOsq3BZaa4rWn2QEvn) | [Canaan](https://open.spotify.com/artist/4CjcSbhfNVieR9A6AAIMcU), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Vampira](https://open.spotify.com/album/0sJt3n0amaqrn1YJjSc5Su) | 3:05 |
 | 3 | [Mantém o Pique](https://open.spotify.com/track/4Fd1cs4q4oA95DmqiPSXhO) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Mantém o Pique](https://open.spotify.com/album/4RVMFRNLl65DNtpmGS2M7z) | 2:43 |
 | 4 | [Turma do Bairro \(Interlúdio\)](https://open.spotify.com/track/1dVpfF7fycdR2uO0BJwili) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 1:52 |
-| 5 | [Única](https://open.spotify.com/track/23gS3XhYzBDccQQguKfH5k) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Taurus](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 1:53 |
+| 5 | [Única](https://open.spotify.com/track/23gS3XhYzBDccQQguKfH5k) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 1:53 |
 | 6 | [Futuro & Momento](https://open.spotify.com/track/50BMRoWfCLCLGUserYgRSy) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [Futuro & Momento](https://open.spotify.com/album/3EwDwEAiDKPNL0Wqkteube) | 2:06 |
 | 7 | [Carioca & Luandense](https://open.spotify.com/track/3PEMo84BP2cSpeHV7a43JA) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Carioca & Luandense/Porsche](https://open.spotify.com/album/7AmqSiWKiaK5K8fuApDtG8) | 3:45 |
 | 8 | [Triptamina](https://open.spotify.com/track/0X8Hlp5uBjxnKHchFD8W6A) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [Triptamina](https://open.spotify.com/album/3vrmD0UDdhvUuwV5N3foZi) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:16 |
 | 75 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 
-Snapshot ID: `MCxjMjU5M2QwNWIzOGQzNzk1MDY2NGU5MGJiOTI0MDgwNzhjNjUyZGE2`
+Snapshot ID: `MCxhOWYzZGNiOTA4ZGVkYmVlYjBiYzBlODg0ZDg4ZDc4Yjg3MDE1OGYy`

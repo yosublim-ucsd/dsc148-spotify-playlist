@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=mlZfmPywQpOC8XcCxcvRsw\"> Boj </a> ",
-  "num_followers": 20142,
+  "num_followers": 20207,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTAzNTU0ZmZjZDA2Y2QwMTZmNmIwYjNmZjc0ZTBlNmIxNGYxZjVi",
+  "snapshot_id": "MCxkYjc1Y2I2Y2M0MjQyOWY5NzZmZjE2ZGI3OGRmNzViMjE2YTU1NmQ2",
   "tracks": [
     {
       "added_at": "2023-06-02 10:47:16",
@@ -804,8 +804,8 @@
           "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
         },
         {
-          "name": "Shy Kuu",
-          "url": "https://open.spotify.com/artist/2G8BQnHecgoOBzIqmKH8mL"
+          "name": "Sky Kuu",
+          "url": "https://open.spotify.com/artist/2Kz4SoUY5H1DRHJ0UQE4im"
         }
       ],
       "duration_ms": 137283,
@@ -1287,6 +1287,42 @@
     {
       "added_at": "2023-06-02 10:47:16",
       "album": {
+        "name": "Shina Peters",
+        "url": "https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P"
+      },
+      "artists": [
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Shina Peters",
+      "url": "https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J"
+    },
+    {
+      "added_at": "2023-06-02 10:47:16",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x"
+      },
+      "artists": [
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        }
+      ],
+      "duration_ms": 241738,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz"
+    },
+    {
+      "added_at": "2023-06-02 10:47:16",
+      "album": {
         "name": "TOP BOY",
         "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
       },
@@ -1311,38 +1347,6 @@
     {
       "added_at": "2023-06-02 10:47:16",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x"
-      },
-      "artists": [
-        {
-          "name": "Aguero Banks",
-          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
-        }
-      ],
-      "duration_ms": 241738,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz"
-    },
-    {
-      "added_at": "2023-06-02 10:47:16",
-      "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "The Guy",
-      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
-    },
-    {
-      "added_at": "2023-06-02 10:47:16",
-      "album": {
         "name": "MIDLIFE CRISIS / WYDTM",
         "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
       },
@@ -1359,22 +1363,18 @@
     {
       "added_at": "2023-06-02 10:47:16",
       "album": {
-        "name": "Omo X 100",
-        "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
       },
       "artists": [
         {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
         }
       ],
-      "duration_ms": 126750,
-      "name": "Omo X 100",
-      "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
+      "duration_ms": 197538,
+      "name": "The Guy",
+      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
     },
     {
       "added_at": "2023-06-02 10:47:16",

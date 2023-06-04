@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-238 songs - 13 hr 26 min
+241 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [60’S CARDIN](https://open.spotify.com/track/3JYqt9ADvBsou2pDrpmAZj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [HAUTE COUTURE](https://open.spotify.com/album/5FNUoh29ai75zh2ugcDrKe) | 3:17 | 2022-08-12 |  |
 | [7000RPM](https://open.spotify.com/track/3byuqFayS7CCWFKJxJOLap) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SUPER BAND 2 \- Episode.13](https://open.spotify.com/album/60Cd1kNJrfYdK9ej3iolpx) | 5:41 | 2022-09-06 | 2022-10-08 |
 | [7000RPM](https://open.spotify.com/track/4qAyjztX1XDEO1LNJdW6NZ) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 5:41 | 2022-10-07 |  |
-| [9](https://open.spotify.com/track/2giPJrNbuvd5aJkLnMrcrv) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 4:05 | 2022-08-12 |  |
+| [9](https://open.spotify.com/track/2giPJrNbuvd5aJkLnMrcrv) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 4:05 | 2022-08-12 | 2023-06-04 |
+| [9](https://open.spotify.com/track/7vDj50kWLQMdfvca7xhCeO) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/2gli6cmeeDbvLcUpxIaH02) | 4:05 | 2023-02-03 |  |
 | [A Day of Mercury](https://open.spotify.com/track/0ZnSRfXEfg5PpgY9WtJrXO) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Enlightenment](https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D) | 5:10 | 2022-08-25 |  |
 | [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 | 2022-08-12 |  |
 | [A thought on an autumn night](https://open.spotify.com/track/4YaKlkNVJNbrIqN82EKFsQ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [JANNABI's Small Pieces l](https://open.spotify.com/album/39YkUaoy7BMzsFvGGMwugk) | 3:07 | 2022-10-06 |  |
@@ -66,7 +67,8 @@
 | [dreams, books, power and walls](https://open.spotify.com/track/1deQhoZakgMT5fw0t9zliD) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:57 | 2022-10-06 |  |
 | [E.D.E.N.](https://open.spotify.com/track/4GRumphhF5ea8n3it2k8xG) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [E.D.E.N.](https://open.spotify.com/album/7JSzqNy9KMamv6M3TW7aJE) | 6:24 | 2022-10-06 |  |
 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 | 2022-10-02 |  |
-| [Everybody Does](https://open.spotify.com/track/7s5Ow4bsVkU0eUlp71o8yn) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 4:54 | 2022-10-06 |  |
+| [Everybody Does](https://open.spotify.com/track/7s5Ow4bsVkU0eUlp71o8yn) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 4:54 | 2022-10-06 | 2023-06-04 |
+| [Everybody Does](https://open.spotify.com/track/4s9F3KkDe07ulNTXKjTQwU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/2gli6cmeeDbvLcUpxIaH02) | 4:54 | 2023-02-03 |  |
 | [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 | 2022-10-06 |  |
 | [Far away](https://open.spotify.com/track/7CnILy2C8eB74SLa4NkVY7) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [SUPER BAND 2 \- Episode.14](https://open.spotify.com/album/2gir8gMdlpIkinnc061A3j) | 6:22 | 2022-08-25 | 2022-10-09 |
 | [flower's gaze](https://open.spotify.com/track/1IxApabQY9g6Ivg1og5vsP) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [one's youth](https://open.spotify.com/album/2xauBFfVTnRXMNGSR8kvZI) | 3:59 | 2022-09-06 |  |
@@ -163,7 +165,8 @@
 | [Sand](https://open.spotify.com/track/1VcqBhuVXWFvA6HIWuGCPV) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/0SMqZWfB4WQkCJugCjbWnH) | 3:45 | 2022-09-06 |  |
 | [Saturday Night Fever](https://open.spotify.com/track/0TTxQr8bXlG43A2lHzKhKB) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU) | [Midnight Cinderella](https://open.spotify.com/album/1GsitueEuLgKyoPftXpgFx) | 4:03 | 2022-08-25 |  |
 | [Scribble](https://open.spotify.com/track/2GcHFyreG18hZSmxOKrOfl) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Woo Scribbling Night](https://open.spotify.com/album/577g4XzgzSG0qBNABsCQ6q) | 4:15 | 2022-08-12 |  |
-| [Sister](https://open.spotify.com/track/7b0138EzonYCs1Ytsk6SvQ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 5:21 | 2022-10-06 |  |
+| [Sister](https://open.spotify.com/track/7b0138EzonYCs1Ytsk6SvQ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 5:21 | 2022-10-06 | 2023-06-04 |
+| [Sister](https://open.spotify.com/track/06XETZ9NFvss5kKpyG8O5P) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/2gli6cmeeDbvLcUpxIaH02) | 5:21 | 2023-02-03 |  |
 | [Sleepwalk](https://open.spotify.com/track/1mRR4zN3C1mFIbfUMkJeQ6) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU), [E HYUK](https://open.spotify.com/artist/2YhKoOmf0diUvydhEoreDa) | [Midnight Cinderella](https://open.spotify.com/album/1GsitueEuLgKyoPftXpgFx) | 3:39 | 2022-08-25 |  |
 | [Sooni Heading to the Cosmos \- 25th Anniversary Version](https://open.spotify.com/track/3XSP7ac7CEEjlwpjHejj1D) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [CRYING NUT 25th Anniversary Best Album](https://open.spotify.com/album/3LCvmUeoynudUbGfTCPkko) | 4:33 | 2022-10-06 |  |
 | [SORAN\(소란\) \- Stage Comment 1](https://open.spotify.com/track/3rsFD1TEJ7r1Ne1tTWaWsC) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 2:47 | 2022-10-06 |  |

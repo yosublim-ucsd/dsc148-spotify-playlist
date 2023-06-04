@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Raghavendra Stores
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,508 likes - 99 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,517 likes - 99 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 98 | [Baredu Ittu Iddangaithe](https://open.spotify.com/track/2T6GBklMrVGGMlvBWHzZ1V) | [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz) | [Raajahyoga](https://open.spotify.com/album/6EtHSJYHUSPuYAfDYnb42v) | 4:02 |
 | 99 | [Modala Male \(Title Track\) \- From "Modala Male"](https://open.spotify.com/track/7jb5LlwUfznbRGnjvAYww6) | [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA), [Prasanna Bhojashetter](https://open.spotify.com/artist/5USSSfL5OjralUUDerWU6o), [SV Shivakumar DVG](https://open.spotify.com/artist/1J6MhLrEiAr2DGkxcFcyz4), [Nishma Rakshak](https://open.spotify.com/artist/1v8OkRykQCaVc7bmAXJzWF) | [Modala Male \(Title Track\) \[From "Modala Male"\]](https://open.spotify.com/album/3SFHELU2QbBevX4lRdzozv) | 3:55 |
 
-Snapshot ID: `MCwzZGZmZjM2NmU4MTk4NjI2MGRlZjFmZTAwZWIyODgyMzUxMzk3NTAx`
+Snapshot ID: `MCw0YzU2NDlmYWU4MWY2MGE2YzA0YWRiYTQ3NDlkMDI1M2VkZTc0OGUw`

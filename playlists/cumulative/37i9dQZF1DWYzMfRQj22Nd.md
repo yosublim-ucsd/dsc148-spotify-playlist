@@ -4,7 +4,7 @@
 
 > Taking the big steps with Drum & Bass.
 
-408 songs - 1 day 4 hr 11 min
+409 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Got to see her VIP \- VIP](https://open.spotify.com/track/03WYP3YdGXKsIW6Jcudyan) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Got to see her VIP](https://open.spotify.com/album/5Nufy36zQe7cpgwPI50DX0) | 4:30 | 2021-11-12 | 2022-07-27 |
 | [Grow](https://open.spotify.com/track/68EgWON7bAGYemt5iTe77C) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Blu Mar Ten](https://open.spotify.com/artist/5mGqZFvzU9FRNkcI3Y0A2V), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Grow EP](https://open.spotify.com/album/5TfWxZaIrmW55Q2Qu1Wb4F) | 5:20 | 2022-02-18 | 2022-04-15 |
 | [Gunslinga](https://open.spotify.com/track/1vKWGVybCJaIDWlqZWJZAc) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [MC Mota](https://open.spotify.com/artist/2kUNDOK5StemhF8zfPju2p) | [Gunslinga](https://open.spotify.com/album/20F6qwBxDzesrQZyGKzoGG) | 2:44 | 2022-02-18 |  |
+| [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 | 2023-06-02 |  |
 | [Halo Vip](https://open.spotify.com/track/7xzEzbwsSfAtpVOziLNrn2) | [DC Breaks](https://open.spotify.com/artist/4D5VLxuFvZ058Z5S8YmE47) | [Halo / Mankind 2019](https://open.spotify.com/album/1Utj0JhDRNss0Q2v3A1iWY) | 5:28 | 2021-11-12 | 2022-06-21 |
 | [Hands Up](https://open.spotify.com/track/3xHyg6aNGOQawpeKeI1rFK) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Hands Up](https://open.spotify.com/album/0KDRj5G1bqmjNieEHtzWBy) | 4:31 | 2021-11-12 | 2022-07-18 |
 | [Hardwired](https://open.spotify.com/track/63UmONGWD612D6jn96v9Hu) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Reija Lee](https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB) | [Hardwired](https://open.spotify.com/album/0WOZTd7IXPhBzhvF1K5WJc) | 4:29 | 2021-11-12 | 2022-07-29 |
@@ -410,7 +411,7 @@
 | [Work It](https://open.spotify.com/track/0rGzq8bEBpYsLlLASM823y) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Work It](https://open.spotify.com/album/5s9VVuNuAKRPoNXJHfLRg2) | 4:01 | 2023-01-06 | 2023-03-10 |
 | [Work It](https://open.spotify.com/track/3k2FxhfLtS42E5WmPgBHru) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Work It](https://open.spotify.com/album/0f5bJlD8g4R2iQU7Qa6aJk) | 4:01 | 2021-11-12 | 2022-07-29 |
 | [Worldwide Jungle](https://open.spotify.com/track/2QKNReG2gJGigayZIlqcqm) | [JFB](https://open.spotify.com/artist/5ncNJNBW6jRC3xnY7ZSzLj) | [Shake It / Worldwide Jungle](https://open.spotify.com/album/0CUrrw5tSWfyR2jYy2x3R8) | 4:58 | 2022-02-18 | 2022-04-12 |
-| [Write It Down \- Fred V Remix](https://open.spotify.com/track/6K8vq2QV9ezdTQ9EdIH4WI) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Write It Down \(Fred V Remix\)](https://open.spotify.com/album/627WnQHOKDrmV9e4O3FSAa) | 4:08 | 2021-11-12 |  |
+| [Write It Down \- Fred V Remix](https://open.spotify.com/track/6K8vq2QV9ezdTQ9EdIH4WI) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Write It Down \(Fred V Remix\)](https://open.spotify.com/album/627WnQHOKDrmV9e4O3FSAa) | 4:08 | 2021-11-12 | 2023-06-04 |
 | [WRK](https://open.spotify.com/track/7IXjp7fnKtKrwLZ0C3q0v7) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [WHO IS WHIPPED CREAM?](https://open.spotify.com/album/0UbawIfwVpyhGTb1YA55dp) | 2:45 | 2021-11-12 | 2022-07-10 |
 | [Wubplate](https://open.spotify.com/track/081OWO4CMZvDxh7U7M788H) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [Boogers / Wubplate](https://open.spotify.com/album/32A99iBzJ1f0zuGMH3R79P) | 4:14 | 2022-02-18 | 2022-04-18 |
 | [Yeah](https://open.spotify.com/track/2wi8T9sCamDnvyXFVh82SJ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Liff Up](https://open.spotify.com/album/6P2kCwYaRNOEyy0vb1mWO4) | 4:13 | 2022-02-18 | 2022-04-18 |

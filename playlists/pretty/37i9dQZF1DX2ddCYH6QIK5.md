@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Elto, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,272 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,278 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Aus Liebe](https://open.spotify.com/track/5L77WMdtYInJ6Hy96dVFQ7) | [Die Benjamins](https://open.spotify.com/artist/7wdPP54vw7ThJkqyX1VL2d) | [Aus Liebe](https://open.spotify.com/album/2i0jUEC4w7HGKR8XHOb8Py) | 1:55 |
 | 80 | [RAPSTAR](https://open.spotify.com/track/4k1NDIbiXQK78QfVH6kadP) | [Die Cigaretten](https://open.spotify.com/artist/45Qy3mVXEp1rhTUhfAOqb5) | [RAPSTAR](https://open.spotify.com/album/7xhlcSQKs1U0B0Vb5QsJ7r) | 2:52 |
 
-Snapshot ID: `MCw0ZmQwNGFmNGZjY2FhN2Q5M2JlODZiOTgzMmZlZTA4NTliOGQ4MjE2`
+Snapshot ID: `MCxmMDIwZGQ2MDc5NTUzMTg5NjAzZDJlODMwOTcyMmEzNjk0NzZmNmZk`

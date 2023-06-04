@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwOTQ2NDAsMDAwMDAwMDA1OGRkYTUwODY3ZTI4MWM4ODZiOGUxMjMwODJkZjVjOA==",
+  "snapshot_id": "MjgwOTQ2NDAsMDAwMDAwMDBhZDZhZTA3OTkzZmU4OTUxYTkzZWJkMDE4ZTA4NmFiMQ==",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -71,6 +71,22 @@
       "duration_ms": 112000,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/6jOmhvPUOapM0RuTaDUqg9"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Hare Hare",
+        "url": "https://open.spotify.com/album/7hF6oiU4zaIQIGjLhje1eG"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Hare Hare",
+      "url": "https://open.spotify.com/track/3QcJghvqRS17RoPPP0C2sp"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -483,26 +499,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Need You Tonight (Phil St George Remix)",
-        "url": "https://open.spotify.com/album/6KPTKsiPAtvtcjMnID2a7T"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        },
-        {
-          "name": "Phil St George",
-          "url": "https://open.spotify.com/artist/3QgA3lacu4NXEQCSAZaOIy"
-        }
-      ],
-      "duration_ms": 339840,
-      "name": "Need You Tonight - Phil St George Remix",
-      "url": "https://open.spotify.com/track/4gDsp6eChtck1xX6FB8bx0"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "\u00bfD\u00f3nde Se Llora Cuando Se Llora?",
         "url": "https://open.spotify.com/album/4Ofgas2jQXJWocHwRyqrcS"
       },
@@ -775,22 +771,6 @@
       "duration_ms": 371413,
       "name": "Knockin' On Heaven's Door - Live at The Royal Albert Hall",
       "url": "https://open.spotify.com/track/0lDmUoccwUL5R79motsrsW"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Take The Highway (Live)",
-        "url": "https://open.spotify.com/album/1zODXAvlJanhqV9WNIQrdV"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 250112,
-      "name": "The Girls Want To Be With The Girls - Live 1978",
-      "url": "https://open.spotify.com/track/0oTx1etU4WlbT99FiZ1yqr"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1183,38 +1163,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Depraved Mind Murder",
-        "url": "https://open.spotify.com/album/6sZY1rg4jVeL5lBDjD7e9P"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "Depraved Mind Murder",
-      "url": "https://open.spotify.com/track/1i9KWkqEOEA876V0J9V2D2"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Hare Hare",
-        "url": "https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Hare Hare",
-      "url": "https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "You Drive Me Nervous (Live at Mar Y Sol Pop Festival, Puerto Rico, April 2, 1972)",
         "url": "https://open.spotify.com/album/0oqKoXvVPiq0IQ2IGU3Ygj"
       },
@@ -1331,22 +1279,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I Wanna Dance with Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/1fY9pAx0sUxfnkVAVU7bn0"
-      },
-      "artists": [
-        {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
-        }
-      ],
-      "duration_ms": 286380,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/3uvxNyFioZb9lFJxTTq2eB"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Waiting In Vain (Feat. Tiwa Savage)",
         "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
       },
@@ -1395,198 +1327,6 @@
       "duration_ms": 372374,
       "name": "Kreel's Magic Staff",
       "url": "https://open.spotify.com/track/6eWhmfOxOPClp7IZO7LeOl"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Golden Years (TOKiMONSTA Remix)",
-        "url": "https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 181636,
-      "name": "Golden Years - TOKiMONSTA Remix",
-      "url": "https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Everything Destroys You",
-        "url": "https://open.spotify.com/album/5HxJGedU8hLULalg1ktLgb"
-      },
-      "artists": [
-        {
-          "name": "Deathstars",
-          "url": "https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Everything Destroys You",
-      "url": "https://open.spotify.com/track/02WsLeepRUELUmfxC31QTc"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "ATUM",
-        "url": "https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 206384,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/2Pb1ekr2pXVYEMER3rNcIa"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Ghosts Again (Remixes)",
-        "url": "https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        },
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 402818,
-      "name": "Ghosts Again - Massano Remix",
-      "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "My Light",
-        "url": "https://open.spotify.com/album/6irtWp3Qur19xXsLJ1I1oa"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "My Light",
-      "url": "https://open.spotify.com/track/1p2NZRtAhMVfdgJamzM3RC"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Rarezas (En Vivo)",
-        "url": "https://open.spotify.com/album/2QyR6wZhkdupylpFigFgWB"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 184758,
-      "name": "Agua Bendita - En Vivo",
-      "url": "https://open.spotify.com/track/069BSvEsxvbPc8WBxfiOjz"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "The Wretched; The Ruinous",
-        "url": "https://open.spotify.com/album/09LBDZTHGu6VF0S8Pcxn34"
-      },
-      "artists": [
-        {
-          "name": "Unearth",
-          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Dawn of the Militant",
-      "url": "https://open.spotify.com/track/08T53CS6m0R54NMDCwTIcF"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "More Like A Crash",
-        "url": "https://open.spotify.com/album/2DyMGVtYtOKtPtXovMEyf0"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "More Like A Crash",
-      "url": "https://open.spotify.com/track/0kivfSdz7h9yFcEHQtXfl0"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Color Decay (Deluxe)",
-        "url": "https://open.spotify.com/album/4ivtHYEdInBvOFptjVmEYf"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Salt - Acoustic",
-      "url": "https://open.spotify.com/track/1iwu5kAyMMY8QAuITmsItP"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "\u00bfCu\u00e1les Fronteras?",
-        "url": "https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u00bfCu\u00e1les Fronteras?",
-      "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Uno de nosotros (feat. Javiera Mena)",
-        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 249518,
-      "name": "Unx de nosotrxs (feat. Javiera Mena)",
-      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

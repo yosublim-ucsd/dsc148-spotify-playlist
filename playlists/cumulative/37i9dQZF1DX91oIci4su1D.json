@@ -4608,7 +4608,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 197142,
       "name": "Gardenland - Radio Edit",
       "url": "https://open.spotify.com/track/1cqwOJCE6Yz3xBhO6sX9fH"
@@ -8236,7 +8236,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 340298,
       "name": "Never Thought I'd Find You",
       "url": "https://open.spotify.com/track/6J4oCRJ3IKS2WYlbU4r2ly"
@@ -8484,7 +8484,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 194782,
       "name": "Not Alone (Moon)",
       "url": "https://open.spotify.com/track/2dJjSI4tnna64hTar6xMBV"
@@ -12696,6 +12696,32 @@
       "duration_ms": 232615,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/5xdM7DKa0SlTny9xLbPDt1"
+    },
+    {
+      "album": {
+        "name": "Under Pressure (Andrew Bayer & Farius Remix)",
+        "url": "https://open.spotify.com/album/69teglCDge6wPG7aZHZ6yq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "OLAN",
+          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
+        },
+        {
+          "name": "Farius",
+          "url": "https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226875,
+      "name": "Under Pressure - Andrew Bayer & Farius Remix",
+      "url": "https://open.spotify.com/track/1wvd1GoBl1od4YlZAMUMQR"
     },
     {
       "album": {

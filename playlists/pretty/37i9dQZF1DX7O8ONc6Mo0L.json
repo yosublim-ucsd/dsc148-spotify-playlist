@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Igor Roque",
-  "num_followers": 248912,
+  "num_followers": 249126,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDJmYzcxYTdhZTg0NTQ1NmNjMzBhMzllMDdmYzUwZmFiYzg4MzQy",
+  "snapshot_id": "MCw4MjJlZmEyNmU5MzgzOGE0Zjk1ZjIyMzU5ODdlNmU4ZDE2NDljOTU2",
   "tracks": [
     {
       "added_at": "2023-05-26 18:24:56",
@@ -1195,26 +1195,22 @@
     {
       "added_at": "2023-05-26 18:24:56",
       "album": {
-        "name": "Quem Sou",
-        "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
+        "name": "Formoso \u00c9s (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70"
       },
       "artists": [
         {
-          "name": "PEDRAZUL",
-          "url": "https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA"
+          "name": "Dunamis Music",
+          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
         },
         {
-          "name": "Ant\u00f4nio",
-          "url": "https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5"
-        },
-        {
-          "name": "Jaqueline Nobre",
-          "url": "https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd"
+          "name": "Rapha Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui"
         }
       ],
-      "duration_ms": 270933,
-      "name": "Quem Sou",
-      "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
+      "duration_ms": 278500,
+      "name": "Formoso \u00c9s - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa"
     },
     {
       "added_at": "2023-05-26 18:24:56",
@@ -1239,22 +1235,26 @@
     {
       "added_at": "2023-05-26 18:24:56",
       "album": {
-        "name": "Formoso \u00c9s (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70"
+        "name": "Quem Sou",
+        "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
       },
       "artists": [
         {
-          "name": "Dunamis Music",
-          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
+          "name": "PEDRAZUL",
+          "url": "https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA"
         },
         {
-          "name": "Rapha Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui"
+          "name": "Ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5"
+        },
+        {
+          "name": "Jaqueline Nobre",
+          "url": "https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd"
         }
       ],
-      "duration_ms": 278500,
-      "name": "Formoso \u00c9s - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa"
+      "duration_ms": 270933,
+      "name": "Quem Sou",
+      "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
     },
     {
       "added_at": "2023-05-26 18:24:56",
@@ -1291,6 +1291,30 @@
     {
       "added_at": "2023-05-26 18:24:56",
       "album": {
+        "name": "O C\u00e9u \u00c9 Jesus",
+        "url": "https://open.spotify.com/album/3xmhcwV8E7soL1h9OalIut"
+      },
+      "artists": [
+        {
+          "name": "Novo Tempo",
+          "url": "https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e"
+        },
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        },
+        {
+          "name": "Jader Santos",
+          "url": "https://open.spotify.com/artist/0LgOPOdCNpAxAkFWiliKpx"
+        }
+      ],
+      "duration_ms": 330682,
+      "name": "O C\u00e9u \u00c9 Jesus",
+      "url": "https://open.spotify.com/track/7FoJ89DvZTV589vo6gH6lv"
+    },
+    {
+      "added_at": "2023-05-26 18:24:56",
+      "album": {
         "name": "No Secreto",
         "url": "https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K"
       },
@@ -1323,30 +1347,6 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
-    },
-    {
-      "added_at": "2023-05-26 18:24:56",
-      "album": {
-        "name": "O C\u00e9u \u00c9 Jesus",
-        "url": "https://open.spotify.com/album/3xmhcwV8E7soL1h9OalIut"
-      },
-      "artists": [
-        {
-          "name": "Novo Tempo",
-          "url": "https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e"
-        },
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        },
-        {
-          "name": "Jader Santos",
-          "url": "https://open.spotify.com/artist/0LgOPOdCNpAxAkFWiliKpx"
-        }
-      ],
-      "duration_ms": 330682,
-      "name": "O C\u00e9u \u00c9 Jesus",
-      "url": "https://open.spotify.com/track/7FoJ89DvZTV589vo6gH6lv"
     },
     {
       "added_at": "2023-05-26 18:24:56",

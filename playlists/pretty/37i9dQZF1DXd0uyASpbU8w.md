@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ?si=COtmDMSiSym5NTpKmzvwkQ">The Weeknd</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,349 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,381 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 51 | [Amaqhawe \(feat\. Spizzy, Mashudu & Da Ish\)](https://open.spotify.com/track/1jFhXowfUBKvRQUD1qEAIY) | [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR), [Spizzy](https://open.spotify.com/artist/08d3kRXpuOCx4pmybvUQK0), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Da Ish](https://open.spotify.com/artist/1DXmdKSx3VTfykbW1Pp4N5) | [Amaqhawe \(feat\. Spizzy, Mashudu & Da Ish\)](https://open.spotify.com/album/58ibBpDds8N8JuHLGzjz5J) | 6:49 |
 | 52 | [Silence](https://open.spotify.com/track/3tWIHTxK4cH0OUBlzcb97b) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD) | [Silence](https://open.spotify.com/album/5i4Ud0tx3TqARZnEZmZ9xd) | 6:48 |
 | 53 | [Amatshe](https://open.spotify.com/track/1aiAtLoft4PcGAUjoZbzBI) | [Zandie Khumalo](https://open.spotify.com/artist/4GdUhcBI1SwljnDQlLYo6b) | [Amatshe](https://open.spotify.com/album/7dZRGOyNhIeX80lTE2nlTg) | 3:30 |
-| 54 | [Back & Forth \(Marcus MC Remix\)](https://open.spotify.com/track/5zWvdeBX8hxTnOD812SCl9) | [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [J DEP](https://open.spotify.com/artist/16fYMQlcTQ8uZTPjsO1wow), [Marcus MC](https://open.spotify.com/artist/2w4bbiicwtuGtlMJC9QdNk) | [Back & Forth](https://open.spotify.com/album/6Jp4pBvMeu3xPpaFJQweGy) | 4:00 |
+| 54 | [Back and Forth \- Marcus MC Remix](https://open.spotify.com/track/0EFtLt82ssmTIljnRKn2hg) | [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [J DEP](https://open.spotify.com/artist/16fYMQlcTQ8uZTPjsO1wow) | [Back and Forth](https://open.spotify.com/album/2qh2vTxM1J5GGjnGsTZqKo) | 4:00 |
 | 55 | [Focused](https://open.spotify.com/track/7mnK0L6qoskuYbjke989Fl) | [Priestdebeast](https://open.spotify.com/artist/5ePkwR8emD9thPqr9jFuvN), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [Focused](https://open.spotify.com/album/2ihscYsHiOOZimtej8DGCy) | 2:13 |
 | 56 | [Ladies Night](https://open.spotify.com/track/52AmqhWrjNJPNegIRa2e83) | [Meneer Cee](https://open.spotify.com/artist/3xAQoJwSMZGIrqKWSunu7k), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [Ladies Night](https://open.spotify.com/album/02PwxvPW8DipbqGf45up1L) | 6:22 |
 | 57 | [Try Me](https://open.spotify.com/track/4cFOHvTFy8EYm9ZLt5nnjN) | [Blaklez](https://open.spotify.com/artist/002eDhqXlxtQHdaIKXyf3H), [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Loyal To The Soil](https://open.spotify.com/album/3qt26BTIn0aMiv3BxYlvbT) | 3:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 69 | [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 |
 | 70 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0) | 3:58 |
 
-Snapshot ID: `MCxlN2I2NjQwMWYwMDgzNTI1YzY3MTY4YjA1MjRhNzJhYTVhNTY4ZGVk`
+Snapshot ID: `MCwwNzI2ZjIyMGNiOTgwMGI5ZDg5NWMwNDU3YzQ2MGVmM2YwMzk1NTNj`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Haller
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,793 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,845 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Die Sterne](https://open.spotify.com/album/5MWl80M1azmxFDfUyxVYEy) | 1:28 |
 | 2 | [Mut](https://open.spotify.com/track/51oVxCfHSOp8oZc0HhBwf8) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Mut](https://open.spotify.com/album/4aYZfCtzXSvMFAVRApKo4R) | 2:43 |
 | 3 | [Manchmal tut's gut dich zu vermissen](https://open.spotify.com/track/0LB5soTPbbPdFPrpFqgr1c) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Der junge Mann \(Deluxe\)](https://open.spotify.com/album/1p14ZtAImOVU8PfT5LqZMc) | 3:28 |
-| 4 | [Parkdeck](https://open.spotify.com/track/21pFcMCJtXxicn7pGxKDQs) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Pardeck](https://open.spotify.com/album/6pG1M1vAmPQ46PAeS47h6P) | 2:23 |
+| 4 | [Parkdeck](https://open.spotify.com/track/21pFcMCJtXxicn7pGxKDQs) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Parkdeck](https://open.spotify.com/album/6pG1M1vAmPQ46PAeS47h6P) | 2:23 |
 | 5 | [so wie du](https://open.spotify.com/track/2LMr8Uoxt0HC211XmThWAF) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [so wie du](https://open.spotify.com/album/70uGKHgbl5Iwr9OQmBQbvE) | 3:19 |
 | 6 | [Rote Flaggen](https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [ROTE FLAGGEN](https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa) | 3:44 |
 | 7 | [Was kickt](https://open.spotify.com/track/2mVWiASJLQrGmcJSsQ13fW) | [L.e.a.n.d.e.r](https://open.spotify.com/artist/4vfPWGAtczR80hRCKUBaSc) | [Was kickt](https://open.spotify.com/album/57mWqI0w59daUAAgRoWPOa) | 2:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Du liegst falsch](https://open.spotify.com/track/3OKQKDJIIBRHvJbfyajUov) | [PICOBELLO](https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Du liegst falsch](https://open.spotify.com/album/7r7ZFKFwpZx9yGqwZf4PaV) | 2:54 |
 | 75 | [Fluch](https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Fluch](https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh) | 2:07 |
 
-Snapshot ID: `MCwwNDliNGEzMjhlM2IzOGNjOGU3YTc1ZDk2OWRiZjFmYjdkOGNkOGY2`
+Snapshot ID: `MCxlMDg4YzJmZmZmODk0MGJiY2JiOGNhOGI4YWNhMzU4N2NmY2MwNTY2`

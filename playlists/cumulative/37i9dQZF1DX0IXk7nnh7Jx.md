@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-332 songs - 20 hr 19 min
+333 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Needed](https://open.spotify.com/track/7uUYwH6moimJ0iQmHVW9Jq) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Needed](https://open.spotify.com/album/17hveC08PQdEHxFQRTMsOd) | 2:55 | 2023-02-20 |  |
 | [Never Grow Tired](https://open.spotify.com/track/68m3fFj8up50boqi077Yr8) | [The Evidence](https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe) | [Never Grow Tired](https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M) | 4:21 | 2020-12-18 | 2022-11-15 |
 | [New Song \(Psalm 40\)](https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [New Song \(Psalm 40\)](https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY) | 4:14 | 2020-12-18 | 2023-02-19 |
-| [No Height No Depth \- Live](https://open.spotify.com/track/0lcDv3jjwGTMDzA63ML2BZ) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [No Height No Depth \(Live\)](https://open.spotify.com/album/1RrxjsU3bsvORs3mD8HvFO) | 6:33 | 2023-02-19 |  |
+| [No Height No Depth \- Live](https://open.spotify.com/track/0lcDv3jjwGTMDzA63ML2BZ) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [No Height No Depth \(Live\)](https://open.spotify.com/album/1RrxjsU3bsvORs3mD8HvFO) | 6:33 | 2023-02-19 | 2023-06-04 |
 | [No More Wasted Years](https://open.spotify.com/track/16ezlD3gIKOeY7hb2911Dm) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Nikki Holguin](https://open.spotify.com/artist/0al1p0MaMEwJmrbteVu3rw) | [No More Wasted Years](https://open.spotify.com/album/3HIwxeFNEU6MfZ5N7iK1EG) | 3:18 | 2023-04-07 | 2023-04-22 |
 | [No Name Higher](https://open.spotify.com/track/1TtHwXMFMn08FbV7xLOolu) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [No Name Higher](https://open.spotify.com/album/0OixCbdiXloh7UGgnY4f7n) | 4:48 | 2023-02-19 |  |
 | [None Like You](https://open.spotify.com/track/23gYKYjZWdaSmug23zfKyQ) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c) | [Hymns + Disparity](https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f) | 1:16 | 2023-02-19 |  |
@@ -231,6 +231,7 @@
 | [Right With You](https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [In the Upper Room](https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC) | 2:46 | 2023-02-19 |  |
 | [Room For You](https://open.spotify.com/track/2RYbtzFtOttR2YZ7HdZDtR) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Room For You](https://open.spotify.com/album/1l60EgkGgcn0bIfFWOPLVu) | 3:20 | 2023-02-24 |  |
 | [Room In My Heart \- Live](https://open.spotify.com/track/0lAYTLhvqqHEoSwwNQHWoX) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Zo Chilengwe](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Room In My Heart \(Live\)](https://open.spotify.com/album/4pDAlIbOqFqT5M7F228qJ6) | 4:15 | 2023-02-19 | 2023-04-19 |
+| [Room In My Heart \- Live](https://open.spotify.com/track/2pYCK9Kj5SbVcKfDtNnoH8) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Zo Chilengwe](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Thin Place \(Live\)](https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50) | 4:15 | 2023-04-21 |  |
 | [rose\-colored glasses](https://open.spotify.com/track/5KpFspKy0L7Zkr7U83F7Qb) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP), [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN) | [rose\-colored glasses](https://open.spotify.com/album/3N0Ph8QkTqNOcSLNH8E5Rd) | 3:39 | 2023-03-16 | 2023-04-09 |
 | [Ruins](https://open.spotify.com/track/0TSXwxAZe2RaP1jMebwKPQ) | [Mahood](https://open.spotify.com/artist/4Xo4ozqAUlAaSYfwOLuCfB) | [Ruins](https://open.spotify.com/album/4A6OCWqlSYoCLVPXWWNIGY) | 3:48 | 2020-12-18 | 2022-06-29 |
 | [Rushing](https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Rushing](https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS) | 3:17 | 2023-04-21 |  |

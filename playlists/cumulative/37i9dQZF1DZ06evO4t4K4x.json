@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "The Afterlife",
+        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2113024,
+      "name": "The Afterlife, Pt. 3",
+      "url": "https://open.spotify.com/track/0XH8WkXHjq0Hq5BubQRxuM"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Electrosonic",
         "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
       },

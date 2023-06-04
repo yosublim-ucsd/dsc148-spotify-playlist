@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 148641,
+  "num_followers": 148671,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2QzZWVmMGIwNGZmOWU2MzRiMzk2YjViYmM2MTJmOWZiMWI4ZmE5",
+  "snapshot_id": "MCwxZGQ4ZmQyNjkzMjZhM2M3ODZhMDUzZmI4Mzc1MTAxNDMxYTBkMWIx",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM"
-      },
-      "artists": [
-        {
-          "name": "Redferrin",
-          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
-        }
-      ],
-      "duration_ms": 189258,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "We The People, Vol. 1",
         "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
       },
@@ -227,42 +211,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Colonel",
-        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM"
       },
       "artists": [
         {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
-        },
-        {
-          "name": "Justin Champagne",
-          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
         }
       ],
-      "duration_ms": 157367,
-      "name": "Good Vibes Only",
-      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Country As Shit (feat. Jelly Roll)",
-        "url": "https://open.spotify.com/album/6l09ei7wbqscQclmkCbw9S"
-      },
-      "artists": [
-        {
-          "name": "Tyler Farr",
-          "url": "https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Country As Shit (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/3V7wF51Xwe64NIxrUgyiuw"
+      "duration_ms": 189258,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -287,6 +247,46 @@
       "duration_ms": 225578,
       "name": "Way of Life",
       "url": "https://open.spotify.com/track/3ZSQnPonsWW70HwNkeADRg"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Country As Shit (feat. Jelly Roll)",
+        "url": "https://open.spotify.com/album/6l09ei7wbqscQclmkCbw9S"
+      },
+      "artists": [
+        {
+          "name": "Tyler Farr",
+          "url": "https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Country As Shit (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/3V7wF51Xwe64NIxrUgyiuw"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Colonel",
+        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
+      },
+      "artists": [
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        }
+      ],
+      "duration_ms": 157367,
+      "name": "Good Vibes Only",
+      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -915,18 +915,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Was it Worth the Wait",
-        "url": "https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm"
+        "name": "We The People, Vol. 1",
+        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
       },
       "artists": [
         {
-          "name": "Chris Hosier",
-          "url": "https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22"
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 170026,
-      "name": "Country Slide",
-      "url": "https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4"
+      "duration_ms": 191669,
+      "name": "Back to Them Backroads",
+      "url": "https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -955,22 +959,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "We The People, Vol. 1",
-        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
+        "name": "American White Trash",
+        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
       },
       "artists": [
         {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        },
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
         }
       ],
-      "duration_ms": 191669,
-      "name": "Back to Them Backroads",
-      "url": "https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo"
+      "duration_ms": 167392,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "American White Trash",
-        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
+        "name": "Was it Worth the Wait",
+        "url": "https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm"
       },
       "artists": [
         {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+          "name": "Chris Hosier",
+          "url": "https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22"
         }
       ],
-      "duration_ms": 167392,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
+      "duration_ms": 170026,
+      "name": "Country Slide",
+      "url": "https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Mud Digger 10",
-        "url": "https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp"
-      },
-      "artists": [
-        {
-          "name": "Sam Grow",
-          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
-        }
-      ],
-      "duration_ms": 162332,
-      "name": "Kiss My Ass",
-      "url": "https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Goin' Back Down",
         "url": "https://open.spotify.com/album/72SXoGRMGpqVDZSdErzIU6"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 225740,
       "name": "Goin' Back Down",
       "url": "https://open.spotify.com/track/5sN36xav9dZXX5qUB3aVYD"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Mud Digger 10",
+        "url": "https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "duration_ms": 162332,
+      "name": "Kiss My Ass",
+      "url": "https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1331,38 +1331,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Urban Cowboy (Where the City Meets the Country)",
-        "url": "https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf"
-      },
-      "artists": [
-        {
-          "name": "The Maverick Mikel Knight",
-          "url": "https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg"
-        }
-      ],
-      "duration_ms": 278388,
-      "name": "Cowboy Way",
-      "url": "https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Redneck for Life",
-        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        }
-      ],
-      "duration_ms": 172848,
-      "name": "Redneck for Life",
-      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Roll With Me (feat. Chris Hurt)",
         "url": "https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE"
       },
@@ -1387,6 +1355,54 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Redneck for Life",
+        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        }
+      ],
+      "duration_ms": 172848,
+      "name": "Redneck for Life",
+      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Urban Cowboy (Where the City Meets the Country)",
+        "url": "https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf"
+      },
+      "artists": [
+        {
+          "name": "The Maverick Mikel Knight",
+          "url": "https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg"
+        }
+      ],
+      "duration_ms": 278388,
+      "name": "Cowboy Way",
+      "url": "https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/045KdMFUDzWbFjxwwPmwnn"
+      },
+      "artists": [
+        {
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+        }
+      ],
+      "duration_ms": 192101,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/7LjenQM99kDj7iwTHdjBg8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Mud Digger 10",
         "url": "https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 210425,
       "name": "Live for Today",
       "url": "https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/3bG0CVdUftTND8ovcRNRty"
-      },
-      "artists": [
-        {
-          "name": "Lenny Cooper",
-          "url": "https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/66il80iAlMZqtGDRaHkg1n"
     }
   ],
   "unique_name": "Field Party",

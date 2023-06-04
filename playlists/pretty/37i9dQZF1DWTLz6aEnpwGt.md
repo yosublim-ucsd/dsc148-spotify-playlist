@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 
 > Bach's most popular piano pieces, performed by the greatest pianists of the last century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,253 likes - 43 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,289 likes - 43 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 | 42 | [The Well\-Tempered Clavier, Vol\. 1: Prelude No\. 11 in F Major, BWV 856](https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Dina Ugorskaja](https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm) | [Bach: The Well\-Tempered Clavier, Vol\. I](https://open.spotify.com/album/5o6DNs6vKQvQw2gKHgZZVV) | 1:25 |
 | 43 | [Partita No\. 5 in G major, BWV 829 : II\. Allemande](https://open.spotify.com/track/2pDSPZte0uGQMXSUnhxNzS) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Wolfgang Rübsam](https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj) | [J.S\. Bach: Partitas Nos\. 5\-6, Bwv 829\-830](https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH) | 4:12 |
 
-Snapshot ID: `MCwzZDY5N2RmZWNiNDllNWRkZDcyNjI1MDNmYzhkN2VjODM2NzQ4NDE1`
+Snapshot ID: `MCxjODJiOGEzNjhkMTZmYTZiM2JmZDMzMzc2ZDRlYmFjNjNiMDY2MTdi`

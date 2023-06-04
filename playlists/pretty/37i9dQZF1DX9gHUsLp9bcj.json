@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 21219,
+  "num_followers": 21261,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjQxNmNkNTM5ZTE5NDgwYTMyNjg3YjAzYWEyOTYzZGVhZjNmMGRh",
+  "snapshot_id": "MCwyMjNhMGZhNmNjOGYyODU4ZDg1ODkxODc3NmRmNDVlMWNjNzE5NDM0",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:35",
@@ -631,38 +631,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Mar\u00eda Victoria",
-        "url": "https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Victoria",
-          "url": "https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o"
-        }
-      ],
-      "duration_ms": 211931,
-      "name": "Soy Feliz",
-      "url": "https://open.spotify.com/track/6kzdmSs9Kmx4p3CXO5ydCE"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "P\u00e9njamo",
-      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Pl\u00e1cido Domingo - Be My Love",
         "url": "https://open.spotify.com/album/1QTrpC4Qsq9fxTWxC3B5sW"
       },
@@ -687,6 +655,38 @@
       "duration_ms": 217133,
       "name": "\"Siboney\"",
       "url": "https://open.spotify.com/track/3VSGjOjXHCIqQlSdIfuCh1"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "P\u00e9njamo",
+      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Mar\u00eda Victoria",
+        "url": "https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Victoria",
+          "url": "https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o"
+        }
+      ],
+      "duration_ms": 211931,
+      "name": "Soy Feliz",
+      "url": "https://open.spotify.com/track/6kzdmSs9Kmx4p3CXO5ydCE"
     },
     {
       "added_at": "2023-02-17 20:56:35",

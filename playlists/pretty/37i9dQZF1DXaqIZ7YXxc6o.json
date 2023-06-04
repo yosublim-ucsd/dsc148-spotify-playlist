@@ -1,12 +1,12 @@
 {
   "description": "Future Dance hits. Cover: Club Angel & Becca Hatch",
-  "num_followers": 133911,
+  "num_followers": 133931,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWU1MjIyYjVjNzA3NTg3Y2FiZTgzM2I1ZGRlYzM4YzY3ZTg4ZTJm",
+  "snapshot_id": "MCwwNjIyMTFjNmUxMTdkN2YyNzg4ZGM3ZDIwMDc1ZDFlNGY4ZTQ4YjAz",
   "tracks": [
     {
       "added_at": "2023-06-01 14:00:00",
@@ -131,7 +131,7 @@
     {
       "added_at": "2023-06-01 14:00:00",
       "album": {
-        "name": "GOTTA GET THRU THIS (Cover)",
+        "name": "GOTTA GET THRU THIS",
         "url": "https://open.spotify.com/album/2uQFYWvVDvDSjBnIM526DM"
       },
       "artists": [
@@ -154,6 +154,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
       "duration_ms": 241979,

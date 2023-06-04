@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Katherine Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,789 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,793 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 15 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52) | 4:13 |
 | 16 | [fell in love](https://open.spotify.com/track/1k9e85ybXZRKGfmuRW7LTE) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [i'll be there](https://open.spotify.com/album/5RORqDDXkC9ILNnI344IwF) | 2:04 |
 | 17 | [Cocoa Butter](https://open.spotify.com/track/14SIPzOUdXpVCUQFxbGOGH) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Cocoa Butter](https://open.spotify.com/album/0Me9ME4FJQhtk8bfUV6EgH) | 3:10 |
-| 18 | [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 |
+| 18 | [Scars](https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars \(lau.ra Remix\)](https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL) | 2:58 |
 | 19 | [Don't Leave Me Now](https://open.spotify.com/track/1WGvNVxbI8cFRYQQt1aOJi) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Don't Leave Me Now](https://open.spotify.com/album/5YRZesyFDjPo9RUGwp2VFD) | 2:57 |
 | 20 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 |
 | 21 | [TOO CLOSE](https://open.spotify.com/track/6kdGKYzmrksbNUHSfMfZ10) | [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6) | [TOO CLOSE](https://open.spotify.com/album/7nyAAwIYSRlItPG9v93qiM) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [When You Lose Her](https://open.spotify.com/track/2RX2B72whvpTmrMjKadHoQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [When You Lose Her](https://open.spotify.com/album/4zJJ6j6z9K6FZhb5ssoZQl) | 3:56 |
 | 50 | [Cut and Dry](https://open.spotify.com/track/4cbfwZbbQ8n5uLwg4TI8vu) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Could Have Done Anything](https://open.spotify.com/album/7fYSpC2LvK5Xode0pWSpUB) | 3:24 |
 
-Snapshot ID: `MCxiOGExYWUyOTdkMmNjNzlkNWJlNzI0OGRjZDY5OGI4N2M5NTVkZDZi`
+Snapshot ID: `MCw4MjFmOGU5ODQ5MTA3MmI3NWFlMTE0Yjk5MmJlYjE3YjljNDhkODA2`

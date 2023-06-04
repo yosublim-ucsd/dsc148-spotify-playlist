@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: CRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,967 likes - 111 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,983 likes - 111 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 72 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 |
 | 73 | [Better Off Alone](https://open.spotify.com/track/5OZ0FWeQt6ZNEqxuCBaXlz) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Better Off Alone](https://open.spotify.com/album/3BnZlhq4NrpxKEM3qzUahY) | 3:12 |
 | 74 | [Rufnummer Unbekannt](https://open.spotify.com/track/7tLzLKrJO5MYXz93bmdA7y) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [Food For Thought](https://open.spotify.com/artist/1k8EGYgHPe4xN2OliBpzRH) | [Rufnummer Unbekannt](https://open.spotify.com/album/0qRfnjzgzASI6kD4jJ21dp) | 2:47 |
-| 75 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
+| 75 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
 | 76 | [Drop It On Me](https://open.spotify.com/track/7BW7apDGIMkFgYlE1H5X2o) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [One Hit Wonder](https://open.spotify.com/album/0HuaHpdk4lj1xYBgizEdOc) | 2:50 |
 | 77 | [Der Letzte Tag](https://open.spotify.com/track/1IqnFlpfCH9aC7KVsT1gBV) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Der Letzte Tag](https://open.spotify.com/album/3V5YTIt3ksRYSTBGMpk5nY) | 2:53 |
 | 78 | [Run Run Run](https://open.spotify.com/track/24Qu57vLGcfYMWY8qZojkP) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Run Run Run](https://open.spotify.com/album/0g2eLkUGM6jU6rSLE8yPDg) | 2:57 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 94 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 |
 | 95 | [Mafia Water](https://open.spotify.com/track/2oikdqSAjYhuYdJ75uenwn) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Mafia Water](https://open.spotify.com/album/6umZVOWF9THBoQlkj79Y3q) | 2:39 |
 | 96 | [Row Your Boat](https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Row Your Boat](https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8) | 2:55 |
-| 97 | [Die Verlorenen](https://open.spotify.com/track/5sYG2culeIGDfTrfLPrJ61) | [Artur & Vanessa](https://open.spotify.com/artist/2F21qHIw2osOtDsgrNyVnG), [Pascal el Sauaf](https://open.spotify.com/artist/2G0ReDzaw8XHQOb3N3UtTa), [Benedikt Reising](https://open.spotify.com/artist/1x6EAoVDZXNHVtVdh7dVQH), [Moritz Krämer](https://open.spotify.com/artist/4jKf6qHaKjnuofSy7rXc91), [Karl die Große](https://open.spotify.com/artist/5MwE8MYe6c9A0SKnfCix3Z), [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ), [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba), [Liv Solveig](https://open.spotify.com/artist/3MgZd3HuOE2FdtaDgUBtZM) | [Die Verlorenen](https://open.spotify.com/album/3hPYgsRF9mY8Tzi4whzxDK) | 3:48 |
+| 97 | [Die Verlorenen](https://open.spotify.com/track/5sYG2culeIGDfTrfLPrJ61) | [Artur & Vanessa](https://open.spotify.com/artist/2F21qHIw2osOtDsgrNyVnG), [Pascal el Sauaf](https://open.spotify.com/artist/2G0ReDzaw8XHQOb3N3UtTa), [Benedikt Reising](https://open.spotify.com/artist/1x6EAoVDZXNHVtVdh7dVQH), [Moritz Krämer](https://open.spotify.com/artist/4jKf6qHaKjnuofSy7rXc91), [Karl die Große](https://open.spotify.com/artist/5MwE8MYe6c9A0SKnfCix3Z), [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ), [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [Liv Solveig](https://open.spotify.com/artist/3MgZd3HuOE2FdtaDgUBtZM), [Malte Huck](https://open.spotify.com/artist/7Kf3wymfUa25UVydm2296A) | [Die Verlorenen](https://open.spotify.com/album/3hPYgsRF9mY8Tzi4whzxDK) | 3:48 |
 | 98 | [Moodkiller](https://open.spotify.com/track/64zZh7IWmVkacyBt7uk0kJ) | [ENKAY](https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j) | [Moodkiller](https://open.spotify.com/album/1cGHYenhgCkxGOifnA3fxf) | 2:57 |
 | 99 | [Sad & Alone](https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sad & Alone](https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q) | 2:45 |
 | 100 | [Superstitious](https://open.spotify.com/track/1KK30lewGW8fa1u5m0HiXo) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Another Life](https://open.spotify.com/album/3bSDWZhx8tem5bR8lbkBlH) | 3:13 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 110 | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:08 |
 | 111 | [Legende](https://open.spotify.com/track/5KZ9eb6kuGu9xW2O202qWF) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Legende](https://open.spotify.com/album/274MksbYB5MW90pWPTwQYb) | 2:50 |
 
-Snapshot ID: `MCw4NGI5MjAyMzcwYWYyMjlkMDNjZmM3Njk3YjViYWQ2ZjQ1MzA1Y2Yy`
+Snapshot ID: `MCw4YjZlNzhkNmI0YWEwM2ZkNTE4NGQ1MDZkZGNlOGMxZjk4OTFjM2Rl`

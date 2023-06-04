@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Hiro Kimura, Tomoaki Baba, Yusuke Sase, Shota Watanabe, Keisuke Furuki",
-  "num_followers": 26997,
+  "num_followers": 27023,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjM2YTllYjg5YjNhYTk4MzZmNzlhMjNhM2EyMWJjOTNmZGFjMDE2",
+  "snapshot_id": "MCwzZTMyZWQyNGE0YTYwNjIyZTA0ZTdiNjBlZmVmMjU2MGNkY2UyYjM5",
   "tracks": [
     {
       "added_at": "2023-05-30 15:00:00",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "Dear Family",
-        "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
+        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af OUTSIDE",
+        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
       },
       "artists": [
         {
-          "name": "\u6851\u539f\u3042\u3044",
-          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
         }
       ],
-      "duration_ms": 179106,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM"
+      "duration_ms": 250933,
+      "name": "Blue Eyed Monster",
+      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af OUTSIDE",
-        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
+        "name": "Dear Family",
+        "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
       },
       "artists": [
         {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Blue Eyed Monster",
-      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
+      "duration_ms": 179106,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
+        "name": "Orange Mug",
+        "url": "https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS"
+      },
+      "artists": [
+        {
+          "name": "WONK",
+          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "Orange Mug",
+      "url": "https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
         "name": "Egg On The Roof",
         "url": "https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 429063,
       "name": "\u30a8\u30c3\u30b0\u30fb\u30aa\u30f3\u30fb\u30b6\u30fb\u30eb\u30fc\u30d5",
       "url": "https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "Orange Mug",
-        "url": "https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS"
-      },
-      "artists": [
-        {
-          "name": "WONK",
-          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
-        }
-      ],
-      "duration_ms": 218906,
-      "name": "Orange Mug",
-      "url": "https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "Spartacus",
+      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
         "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
         "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
       },
       "artists": [
         {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
         }
       ],
-      "duration_ms": 247800,
-      "name": "Spartacus",
-      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
+      "duration_ms": 256360,
+      "name": "\u4e59\u5973\u306e\u7948\u308a",
+      "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -715,22 +731,6 @@
       "duration_ms": 146800,
       "name": "JAPAN THREE",
       "url": "https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 256360,
-      "name": "\u4e59\u5973\u306e\u7948\u308a",
-      "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -775,6 +775,22 @@
       "duration_ms": 427000,
       "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
       "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "Squall",
+        "url": "https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 236907,
+      "name": "Squall",
+      "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -843,22 +859,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "Squall",
-        "url": "https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 236907,
-      "name": "Squall",
-      "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "Dear Family",
         "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "Ain't No Sunshine",
-        "url": "https://open.spotify.com/album/2w7eEW2NKU96lWMGqbgsNy"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/2jl9g1q4H325ckCuUkiuxq"
-        }
-      ],
-      "duration_ms": 322842,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/6lAiWBSXcW4vO25LckdYlN"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "Organic Plastic Music",
         "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
       },
@@ -911,18 +895,38 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "NEW",
-        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
+        "name": "Ain't No Sunshine",
+        "url": "https://open.spotify.com/album/2w7eEW2NKU96lWMGqbgsNy"
       },
       "artists": [
         {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/2jl9g1q4H325ckCuUkiuxq"
         }
       ],
-      "duration_ms": 293920,
-      "name": "MotherLake",
-      "url": "https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp"
+      "duration_ms": 322842,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/6lAiWBSXcW4vO25LckdYlN"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "White Runway",
+        "url": "https://open.spotify.com/album/2P0laiKlcFWjr8WUIbiXCe"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        }
+      ],
+      "duration_ms": 282413,
+      "name": "White Runway",
+      "url": "https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V"
     }
   ],
   "unique_name": "Modern Jazz Japan",

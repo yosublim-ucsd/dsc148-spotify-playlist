@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [25 MPH Town](https://open.spotify.com/track/12hKwLLwQx391fBOUqqOu9) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Florida](https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG) | 3:48 | 2022-10-14 |  |
 | [4 Goodyears](https://open.spotify.com/track/4xc3GpeAvWB7IXbfdKzwxf) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [4 Goodyears](https://open.spotify.com/album/00KSXGcqRlZxhAvrTohEBB) | 4:21 | 2022-01-01 |  |
-| [All I Need to See](https://open.spotify.com/track/1nggCj00NY7GRx0CyWcMKY) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [All I Need to See](https://open.spotify.com/album/748lkYrb1zeh6xMQ1ewWJ1) | 4:28 | 2022-01-01 |  |
+| [All I Need to See](https://open.spotify.com/track/1nggCj00NY7GRx0CyWcMKY) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [All I Need to See](https://open.spotify.com/album/748lkYrb1zeh6xMQ1ewWJ1) | 4:27 | 2022-01-01 |  |
 | [All The Things](https://open.spotify.com/track/24m5SLNQgZ6VDxvgF1LdxV) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [All The Things](https://open.spotify.com/album/2pURs14Vqk24X1f9QnDb7C) | 2:40 | 2022-01-01 |  |
 | [All These Years](https://open.spotify.com/track/4PcBlSm0JkbTOmkIZg7dvq) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Southbound](https://open.spotify.com/album/7dYIetq5T4WFJVUuuVcwhz) | 3:00 | 2022-01-01 |  |
 | [Almost All Good](https://open.spotify.com/track/0veEfwoK2YndOqJ0jIeLww) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:17 | 2022-01-01 |  |

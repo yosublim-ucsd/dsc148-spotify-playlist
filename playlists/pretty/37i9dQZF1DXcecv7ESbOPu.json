@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag! Lyssna p\u00e5 veckans hetaste nya releaser i New Music Friday!",
-  "num_followers": 197651,
+  "num_followers": 197672,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTA1YzJlYWM4NDYxNTg1NDE3MTg3YjlmYTEzOGQ0NmU0ZTgyYzBi",
+  "snapshot_id": "MCw4YjIyZTNjMjQ5NWE2MjMwYzA4MWQyNzMzNzZlMWU3ZjAxYWNjMmE1",
   "tracks": [
     {
       "added_at": "2023-06-02 07:33:27",
@@ -890,6 +890,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
       "duration_ms": 241979,
@@ -1315,7 +1319,7 @@
     {
       "added_at": "2023-06-02 07:33:27",
       "album": {
-        "name": "VI 1",
+        "name": "Vi 1",
         "url": "https://open.spotify.com/album/5gcqWehKcOuiyVSjk3D1k8"
       },
       "artists": [
@@ -1325,7 +1329,7 @@
         }
       ],
       "duration_ms": 169599,
-      "name": "VI 1",
+      "name": "Vi 1",
       "url": "https://open.spotify.com/track/3ZsAluSu04Fd3LVZzLtv2B"
     },
     {

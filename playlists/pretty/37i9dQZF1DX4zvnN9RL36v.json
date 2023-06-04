@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5289,
+  "num_followers": 5296,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWMxMTcxZTFhMTI4MTIyNmM1Yzc2MmI5NTFhM2JhZTUyN2NjNzhh",
+  "snapshot_id": "MCwxYjdjMjNiZTk2Mjc4MmMwMzZmZjQ0ZDM5MzE0NDM2YmIwMDkzY2Nh",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Hotel del Luna (Original Television Soundtrack) Pt.9",
-        "url": "https://open.spotify.com/album/3Hk0MVAZnoM4z71yOwQ8gh"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 271540,
-      "name": "\ub0b4 \ubaa9\uc18c\ub9ac \ub4e4\ub9ac\ub2c8",
-      "url": "https://open.spotify.com/track/6chlsBLGbBbBd4u21iqbIR"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 252800,
       "name": "\uc2a4\ud1a0\ucee4 Stalker",
       "url": "https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Hotel del Luna (Original Television Soundtrack) Pt.9",
+        "url": "https://open.spotify.com/album/3Hk0MVAZnoM4z71yOwQ8gh"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 271540,
+      "name": "\ub0b4 \ubaa9\uc18c\ub9ac \ub4e4\ub9ac\ub2c8",
+      "url": "https://open.spotify.com/track/6chlsBLGbBbBd4u21iqbIR"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID"
-      },
-      "artists": [
-        {
-          "name": "JUNGHEUM BAND",
-          "url": "https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a"
-        }
-      ],
-      "duration_ms": 155708,
-      "name": "Looking at you",
-      "url": "https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "\uc774\ub7f4\uac70\uba74 \uadf8\ub7ec\uc9c0\ub9d0\uc9c0 Shouldn't Have\u2026",
         "url": "https://open.spotify.com/album/4YZRASuAhduD5cAJAsxFvL"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 212761,
       "name": "\uc774\ub7f4\uac70\uba74 \uadf8\ub7ec\uc9c0\ub9d0\uc9c0 Shouldn't Have\u2026 (feat. Young K)",
       "url": "https://open.spotify.com/track/4F9EZD74cDuCwqn3neLqJE"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID"
+      },
+      "artists": [
+        {
+          "name": "JUNGHEUM BAND",
+          "url": "https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a"
+        }
+      ],
+      "duration_ms": 155708,
+      "name": "Looking at you",
+      "url": "https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -295,22 +295,6 @@
       "duration_ms": 205626,
       "name": "Greeting",
       "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "Kim Hyung Joong",
-        "url": "https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN"
-      },
-      "artists": [
-        {
-          "name": "\uae40\ud615\uc911",
-          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
-        }
-      ],
-      "duration_ms": 269832,
-      "name": "\uadf8\ub7ac\ub098\ubd10",
-      "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -435,22 +419,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Modern Times",
-        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 246151,
-      "name": "(Bonus Track) Voice Mail (Korean Version)",
-      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
       },
@@ -463,6 +431,22 @@
       "duration_ms": 189905,
       "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
       "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 246151,
+      "name": "(Bonus Track) Voice Mail (Korean Version)",
+      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -715,22 +699,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "\ud654\ubd84",
-        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
-      },
-      "artists": [
-        {
-          "name": "Alex",
-          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
-      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
       },
@@ -743,6 +711,22 @@
       "duration_ms": 249438,
       "name": "Her",
       "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "\ud654\ubd84",
+        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
+      },
+      "artists": [
+        {
+          "name": "Alex",
+          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
+      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -763,22 +747,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "One Strange Night",
-        "url": "https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 251105,
-      "name": "Wanna be her",
-      "url": "https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Fit Me",
         "url": "https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB"
       },
@@ -791,6 +759,22 @@
       "duration_ms": 250495,
       "name": "I Ain't Over",
       "url": "https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "One Strange Night",
+        "url": "https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 251105,
+      "name": "Wanna be her",
+      "url": "https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -827,6 +811,22 @@
       "duration_ms": 223258,
       "name": "Loving You is Loving Me",
       "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "One-sided love",
+        "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
+      },
+      "artists": [
+        {
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "One-sided love",
+      "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

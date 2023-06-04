@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 
 > Instrumental relaxing jazz with the cozy sound of soft vinyl crackle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544 likes - 25 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 575 likes - 25 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 | 24 | [The Masquerade is Over](https://open.spotify.com/track/4NLUFoyaX8hORCATnJ3hOL) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [The Masquerade is Over](https://open.spotify.com/album/203twYDlbyx4VnwOPxm0cJ) | 2:40 |
 | 25 | [Journeying](https://open.spotify.com/track/7EiFxYWutlCRtrQHHwKVeS) | [Rossdale Juntion](https://open.spotify.com/artist/6ERbL5L4LpFFmA2dS9zJ9D) | [Journeying](https://open.spotify.com/album/0o2DSj4LinX5MLJGxzKcnS) | 2:33 |
 
-Snapshot ID: `MCxlYTc5ODljY2FhZWU5MTcyYWUwY2MyNjVlOTU5OGJhMzFkNzM1M2Zl`
+Snapshot ID: `MCxjYWIzYWI4ZjBjYjg0NTZhNzdlMGU4OWNjZDZiYTZjMWE1MzhlNTlm`

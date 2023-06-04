@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Adrian L Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,274 likes - 53 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,287 likes - 53 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 52 | [Los 4 De La Tacoma](https://open.spotify.com/track/06s50W6rddsAlUXh8wklLn) | [Alta Autoridad](https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB) | [Los 4 De La Tacoma](https://open.spotify.com/album/7rOJrDlaiVbkQuix9r9nJo) | 2:42 |
 | 53 | [Al Mirar Su Rostro](https://open.spotify.com/track/3cJFPzd2Crf1LKNL60Ms2C) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Estoy Ilusionado](https://open.spotify.com/album/3rtTwDzziHswWKw0ozgEY7) | 2:27 |
 
-Snapshot ID: `MCxmZjA3Nzc2NTIzOWRmMTk3NzM3YWQzNzkwODBhNzI2NDFjZDZlZTkx`
+Snapshot ID: `MCxlMzE4NTI3NjM1ZWQ0ZjdlOGVlOGIwNTUzNDg4Nzc4NzBjNDFkNDM1`

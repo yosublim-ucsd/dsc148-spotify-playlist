@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: XODIAC\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,073 likes - 627 songs - 1 day 11 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,250 likes - 627 songs - 1 day 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 2 | [I Promise](https://open.spotify.com/track/3mwK3Xvg9dz0pEf286cHIn) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Romantic Doctor 3 OST Part.6](https://open.spotify.com/album/2JGCTG01GOZkdg12zzXPFt) | 4:52 |
 | 3 | [Ransome \(Feat\. BILL STAX\)](https://open.spotify.com/track/31HhKQyZZI0PEzdrhZ4IGo) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [Ransome](https://open.spotify.com/album/1LzVjYnUJwqZHBVI8KRUBJ) | 4:28 |
 | 4 | [Shiny World](https://open.spotify.com/track/2xc3MkZuDlnfFAWJkOKk2S) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [BASTIONS OST Part.3](https://open.spotify.com/album/7EWXDHXm75gdkpdNtMoBsZ) | 3:08 |
-| 5 | [genius complex](https://open.spotify.com/track/6LOSm4BBw3mM9jT7zl1utx) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [have](https://open.spotify.com/album/4POsG1g3nbJ4T46CIUlh3f) | 2:59 |
+| 5 | [genius complex](https://open.spotify.com/track/6LOSm4BBw3mM9jT7zl1utx) | [Sou](https://open.spotify.com/artist/6AIjn4OhQNlBAW0HgyX9rG) | [have](https://open.spotify.com/album/4POsG1g3nbJ4T46CIUlh3f) | 2:59 |
 | 6 | [Where To Go](https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ) | [LEENU](https://open.spotify.com/artist/7bJwBnsHWKpUkugnVkM8N1) | [Where To Go](https://open.spotify.com/album/2penGoGwAnZhWQNj9KxU1s) | 3:47 |
 | 7 | [LALALA](https://open.spotify.com/track/0fQXl2rzS0lL4XSZLwViuw) | [Goyo](https://open.spotify.com/artist/0E6Z3xv7Qc9FKTbeApjSMw) | [Giraffe Picture](https://open.spotify.com/album/2lXSibInMyEVDtP3skqtgO) | 3:31 |
 | 8 | [Riding a T\-Rex](https://open.spotify.com/track/5j7H4npdgXlvPIR56Zbvqo) | [J.Fla](https://open.spotify.com/artist/2GbvMs4GBhcjd9d4N9sGUV) | [Riding a T\-Rex](https://open.spotify.com/album/3xqLXnGvcIYtASbRTgzNn0) | 2:13 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 10 | [You Are My Spring](https://open.spotify.com/track/3npCSfjXu3Ud4TYsAFbjxp) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [GIFT](https://open.spotify.com/album/6Jrqbo6KDDK12VMQL76pWH) | 3:53 |
 | 11 | [Story of my friend \(feat\. Skinny Brown\)](https://open.spotify.com/track/27joS0RwQeMfNR93qvyAmK) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Story of my friend \(feat\. Skinny Brown\)](https://open.spotify.com/album/6cpSzxNa0vQ7uMb5iJHcct) | 3:40 |
 | 12 | [Mañana \(Our Drama\)](https://open.spotify.com/track/7IJ51lrbee0m3Ru7j6B4qN) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH), [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [Mañana \(Our Drama\)](https://open.spotify.com/album/7y9fdKDC2aWZwRzO5ZVWK6) | 3:15 |
-| 13 | [TIME DIFFERENCE](https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X) | [AARON](https://open.spotify.com/artist/0NhSkDqdXl7UXfYW2uuGOA) | [TIME DIFFERENCE](https://open.spotify.com/album/5rmN7rleTohEeHp3cUUpQX) | 3:17 |
+| 13 | [TIME DIFFERENCE](https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X) | [AARON](https://open.spotify.com/artist/6xYGndMhmSaDbRZX97FWE7) | [TIME DIFFERENCE](https://open.spotify.com/album/5rmN7rleTohEeHp3cUUpQX) | 3:17 |
 | 14 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 |
 | 15 | [Romantico \(Prod\. by TETE\)](https://open.spotify.com/track/1Tr24ahIeCZxeXEfJ5l3Og) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [TETE](https://open.spotify.com/artist/39TEqwahbMkkyMxZCSLJVV) | [Romantico \- LIM KIM&TETE](https://open.spotify.com/album/0rpkfxyPdpanIiQejObpqB) | 4:07 |
 | 16 | [Honey](https://open.spotify.com/track/3WJbPo8V61piAagZYyRqn8) | [STH](https://open.spotify.com/artist/76Fuve7XknoppOovQwARzY) | [Honey](https://open.spotify.com/album/5sNDzsRA133ANet8CqVaVk) | 4:09 |
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 109 | [120BPM](https://open.spotify.com/track/7pYiTMBG8sgPJvXZZ476i1) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [ONGOING](https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77) | 3:18 |
 | 110 | [Invisible](https://open.spotify.com/track/1sYtgP1e0HJNlBw2g6DxHI) | [Choisoowoong](https://open.spotify.com/artist/394ojYiPb8QLvWlXpn6yZK), [Collective Arts](https://open.spotify.com/artist/2wqU6s6XzEQBmbVNvo8HRM) | [STORY\#26](https://open.spotify.com/album/1pKTswQVT7qsLg5eiVECDF) | 4:40 |
 | 111 | [One Hundred Love](https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Romantic Doctor 3 OST Part.5](https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF) | 3:56 |
-| 112 | [가자](https://open.spotify.com/track/2CI1kM7d1EgUsYR50OInda) | [The SKA JAZZ UNIT](https://open.spotify.com/artist/7ucxeu44LUxwsDpnJUO2Bh) | [가자](https://open.spotify.com/album/47K3RXW1o3r6UhCeYUGghH) | 3:54 |
+| 112 | [가자](https://open.spotify.com/track/2CI1kM7d1EgUsYR50OInda) | [The Ska Jazz Unit](https://open.spotify.com/artist/7ucxeu44LUxwsDpnJUO2Bh) | [가자](https://open.spotify.com/album/47K3RXW1o3r6UhCeYUGghH) | 3:54 |
 | 113 | [Nothing Feels Alright](https://open.spotify.com/track/0M2VpuGkcxo3IX4TZBMlVK) | [The Sound](https://open.spotify.com/artist/1JluhyaAkZeJxskwgxlu7o) | [Nothing Feels Alright](https://open.spotify.com/album/5OBQz9Yh66CytpkGokUNRM) | 4:00 |
 | 114 | [Right Answer](https://open.spotify.com/track/3xo5dvPkQLbofa59woCQMH) | [1%](https://open.spotify.com/artist/4Eyqj9gm4OX7A6IltsD5W7) | [Right Answer](https://open.spotify.com/album/0BKmsTdWJKEZvHUJz9wThh) | 3:32 |
 | 115 | [A Tale of Hoteliers \(Original Television Soundtrack\) Pt.4 \- Stay with me](https://open.spotify.com/track/0OTMfsNFRxA27AfyUre2wZ) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [A Tale of Hoteliers \(Original Television Soundtrack\) Pt.4 \- Stay with me](https://open.spotify.com/album/4skqO4SJpz0UckQ1AOqgXx) | 3:55 |
@@ -636,4 +636,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 626 | [Play](https://open.spotify.com/track/2eOKRPK5ShMn9B4a0XeZnl) | [Taylor](https://open.spotify.com/artist/388sAC0WYTJWunGAr0P8Hj) | [Stealer : The treasure keeper, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4yffRNp0hKE1DznHnTn8Np) | 2:43 |
 | 627 | [SEONGSU FREESTYLE](https://open.spotify.com/track/4a2vlQKgijgytFMuTGsWiF) | [UNDER SEONGSU BRIDGE](https://open.spotify.com/artist/7ySSnCpBooi2C2OU1L7Dpt) | [SEONGSU FREESTYLE](https://open.spotify.com/album/1tRcboOCES3xP14mhB25B0) | 3:01 |
 
-Snapshot ID: `MCwzMWNhNTY1MWY3OTAzMDY2ODY3YTlhNjBhNDM2MmEzYzlhNGYzMGMw`
+Snapshot ID: `MCw5YzQ5ZWY3YmU4OGE3MzU5NjNmMTViOGNhZDg3MjAyNDA0MThiZDA1`

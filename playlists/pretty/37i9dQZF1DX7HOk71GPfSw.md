@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > cant wait till hyperpop2 drops \[Cover: Madge\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,778 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,006 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [Ceremony](https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 3:12 |
 | 100 | [GOD](https://open.spotify.com/track/0QozTtDAwSRv9FW5tWiaH4) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [GOD](https://open.spotify.com/album/2Gb9UYPyRrI8Y9eswb7vrM) | 3:07 |
 
-Snapshot ID: `MCw5Nzg3Njg2ZDZkYmMyNTRhMzcxZjZjZjVkZjg3MjQwNGJjMjkxNDU0`
+Snapshot ID: `MCxiZTE5MDdmOGY0OGE1NjA4NjllNzRiZDQ5ZjI4YTAzN2ZmYjFlN2Mz`

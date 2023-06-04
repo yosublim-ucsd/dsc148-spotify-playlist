@@ -13978,10 +13978,28 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 277906,
       "name": "Off Grid",
       "url": "https://open.spotify.com/track/5Gk7boQO9K8W1H5PcihMCv"
+    },
+    {
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/6IAyGefMvGp3j9NgkRM8SI"
+      },
+      "artists": [
+        {
+          "name": "Mitchum Yacoub",
+          "url": "https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277906,
+      "name": "Off Grid",
+      "url": "https://open.spotify.com/track/6jjUY3vpy2wyPIThJ4HzsC"
     },
     {
       "album": {

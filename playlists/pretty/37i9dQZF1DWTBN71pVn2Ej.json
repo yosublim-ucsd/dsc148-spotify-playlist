@@ -1,12 +1,12 @@
 {
   "description": "The best alternative rock tracks right now.",
-  "num_followers": 72138,
+  "num_followers": 72210,
   "original_name": "Alternative Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWZkZTA2NjEyODUxMGJlYTJlNDc0OTNhZWRmMTA5MjRmOWE4Njlk",
+  "snapshot_id": "MCw4NzY2YjhlY2NmMTQ1OWU4Y2RjNDA3ZjRiY2E2NTY3MGRkNTY0NWE0",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -71,6 +71,22 @@
       "duration_ms": 250110,
       "name": "Flacco",
       "url": "https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Kill the Moth",
+        "url": "https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "duration_ms": 141630,
+      "name": "Kill the Moth",
+      "url": "https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy"
     },
     {
       "added_at": "2023-06-02 04:00:00",

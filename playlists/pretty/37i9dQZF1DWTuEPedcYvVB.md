@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,345 likes - 46 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,367 likes - 46 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 19 | [Game Is Da Game](https://open.spotify.com/track/4Vs3knfUbY1IAfrdTACvHt) | [Kyze](https://open.spotify.com/artist/7DIkSZ5iZaV3DROy7pnnJS), [RB The Producer](https://open.spotify.com/artist/0ZSV4R03fVVwzCiS9Lsv4k) | [Hell or High Water](https://open.spotify.com/album/7erDAQfKwfF5vQjf3FuEDX) | 2:13 |
 | 20 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/298tKa2DPLT9GNmY8vsvLj) | 7:22 |
 | 21 | [Como Yo Lo Hago](https://open.spotify.com/track/470B3hidu0e4iEfVWKCgq6) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [Como Yo Lo Hago](https://open.spotify.com/album/43xXAUd12YpWC2yJsPSilZ) | 3:41 |
-| 22 | [Mind Language](https://open.spotify.com/track/4jSLPUJKvVsG6avWAgFmY5) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/2Wp98D6txTTqGoBetjIxx4) | 2:57 |
+| 22 | [Mind Language](https://open.spotify.com/track/0bhgM7IMDlahsStqhnWDg8) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/39k2cP8J29LlgyaUFvVbU2) | 2:57 |
 | 23 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 |
 | 24 | [With Ease](https://open.spotify.com/track/2HZJ32CpIAgAA81KB7VKgs) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [No Panic No Pain](https://open.spotify.com/album/1F7ZwENWE2g0UXyVC1gYoe) | 3:29 |
 | 25 | [Electric](https://open.spotify.com/track/1g3GvbzoNjOqKNK9Z7srQ5) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb) | [Electric](https://open.spotify.com/album/4mi5IauJU5FowQivOCg4un) | 3:07 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 45 | [La Guayaba](https://open.spotify.com/track/2VeXI9CcoekqU1VGMljovo) | [Riccie Oriach](https://open.spotify.com/artist/3b12EGhDU7EhHcuZmMG3oV) | [Viaje Al Infinito](https://open.spotify.com/album/5f1r5AowWw21NMerlIwBxz) | 4:23 |
 | 46 | [Mahmoume \- Tourmenté](https://open.spotify.com/track/63TIFnEUF8mzPOVw0wYhT3) | [Nass El Ghiwane](https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL) | [Fine ghadi biya khouya](https://open.spotify.com/album/43S3rQh0r9yxCrraFFSO2n) | 3:03 |
 
-Snapshot ID: `MCw2Yzc0ZTlhZDhmMmY2MTc5NzE1MTlkNjU3ZTMxYTZjMTdmMWEwMTJj`
+Snapshot ID: `MCw0OTcyOTQzYjBlNzI3ZmQ1NTM5ZTQ1MWZmNmIwMjhjM2E2ODZmNDI4`

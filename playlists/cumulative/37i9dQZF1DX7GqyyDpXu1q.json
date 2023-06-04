@@ -2552,6 +2552,24 @@
     {
       "album": {
         "name": "Truth And Lies",
+        "url": "https://open.spotify.com/album/6JklUu5bPg2wxmgEbzIdFb"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178786,
+      "name": "On To The Next",
+      "url": "https://open.spotify.com/track/1M1Fi7Dl3MsjZKrtxyUKKD"
+    },
+    {
+      "album": {
+        "name": "Truth And Lies",
         "url": "https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72"
       },
       "artists": [
@@ -2562,7 +2580,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 178786,
       "name": "On To The Next",
       "url": "https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw"

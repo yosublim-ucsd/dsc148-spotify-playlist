@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Alkaline",
-  "num_followers": 393808,
+  "num_followers": 394102,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDgyZGM5OWU3YmIyOTUxMTg1ZDM3NTRjZGJkNzEyYTAxOTk3Mzcy",
+  "snapshot_id": "MCwyY2E2NzI4MWEwOWUwNWQ1MTI0MzkzNjNhZjM5MTkxMDRmOGVkNDE3",
   "tracks": [
     {
       "added_at": "2023-05-14 20:18:19",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Dunce Cheque",
+        "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Dunce Cheque",
+      "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Pull up to Mi Bumper",
         "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 150279,
       "name": "Pull up to Mi Bumper",
       "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Dunce Cheque",
-        "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Dunce Cheque",
-      "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -483,22 +483,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
+        "name": "Speed Off",
+        "url": "https://open.spotify.com/album/4VGPlCegWF5KHqOmYn8cXp"
       },
       "artists": [
         {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
         },
         {
-          "name": "Ms. Thing",
-          "url": "https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen"
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
         }
       ],
-      "duration_ms": 255360,
-      "name": "Dude",
-      "url": "https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk"
+      "duration_ms": 174001,
+      "name": "Speed Off",
+      "url": "https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -515,6 +515,26 @@
       "duration_ms": 215776,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Ms. Thing",
+          "url": "https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "Dude",
+      "url": "https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -551,26 +571,6 @@
       "duration_ms": 134400,
       "name": "Good Comfort",
       "url": "https://open.spotify.com/track/0Y2gj3rSBjtB13CsfOnSDF"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Speed Off",
-        "url": "https://open.spotify.com/album/4VGPlCegWF5KHqOmYn8cXp"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "DJ MAC",
-          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
-        }
-      ],
-      "duration_ms": 174001,
-      "name": "Speed Off",
-      "url": "https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -643,6 +643,26 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Narcissistic",
+        "url": "https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Narcissistic",
+      "url": "https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Asafa Powell: Train For Speed",
         "url": "https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D"
       },
@@ -655,30 +675,6 @@
       "duration_ms": 207546,
       "name": "Tempted To Touch",
       "url": "https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/6Yf1LMB9zCa79a7rwJ5ZCH"
-      },
-      "artists": [
-        {
-          "name": "Scrptiid",
-          "url": "https://open.spotify.com/artist/5uh7k2ooXAJNRxheolagV4"
-        },
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        },
-        {
-          "name": "Astyle Alive",
-          "url": "https://open.spotify.com/artist/4P6LAPSZ5NFxmzAWcHwrRW"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/39MmCz5nbVj4A4ZnLzZ5y2"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -715,28 +711,8 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Narcissistic",
-        "url": "https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Stalk Ashley",
-          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Narcissistic",
-      "url": "https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+        "name": "Vibes Weekend",
+        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
       },
       "artists": [
         {
@@ -744,9 +720,33 @@
           "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+      "duration_ms": 173266,
+      "name": "Vibes Weekend",
+      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/6Yf1LMB9zCa79a7rwJ5ZCH"
+      },
+      "artists": [
+        {
+          "name": "Scrptiid",
+          "url": "https://open.spotify.com/artist/5uh7k2ooXAJNRxheolagV4"
+        },
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        },
+        {
+          "name": "Astyle Alive",
+          "url": "https://open.spotify.com/artist/4P6LAPSZ5NFxmzAWcHwrRW"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/39MmCz5nbVj4A4ZnLzZ5y2"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -823,24 +823,8 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Walking Trophy",
-        "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
-      },
-      "artists": [
-        {
-          "name": "Tina (Hoodcelebrityy)",
-          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
-        }
-      ],
-      "duration_ms": 215112,
-      "name": "Walking Trophy",
-      "url": "https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Vibes Weekend",
-        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
       },
       "artists": [
         {
@@ -848,9 +832,9 @@
           "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Vibes Weekend",
-      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -871,6 +855,22 @@
       "duration_ms": 219574,
       "name": "Pieces (with Jahshii)",
       "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Walking Trophy",
+        "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
+      },
+      "artists": [
+        {
+          "name": "Tina (Hoodcelebrityy)",
+          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
+        }
+      ],
+      "duration_ms": 215112,
+      "name": "Walking Trophy",
+      "url": "https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "438",
-        "url": "https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
       },
@@ -983,6 +963,22 @@
       "duration_ms": 171092,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "In The Morning (Let Your Love Come In)",
+        "url": "https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk"
+      },
+      "artists": [
+        {
+          "name": "Egypt",
+          "url": "https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "In The Morning (Let Your Love Come In) - Original Radio Edit",
+      "url": "https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "In The Morning (Let Your Love Come In)",
-        "url": "https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk"
+        "name": "438",
+        "url": "https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA"
       },
       "artists": [
         {
-          "name": "Egypt",
-          "url": "https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86"
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 134785,
-      "name": "In The Morning (Let Your Love Come In) - Original Radio Edit",
-      "url": "https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84"
+      "duration_ms": 183092,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5"
-      },
-      "artists": [
-        {
-          "name": "Moyann",
-          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Big Chune",
         "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 163352,
       "name": "Big Chune",
       "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5"
+      },
+      "artists": [
+        {
+          "name": "Moyann",
+          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Run Run",
-        "url": "https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 186081,
-      "name": "Run Run",
-      "url": "https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Party Hard",
         "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 218773,
       "name": "Party Hard",
       "url": "https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Run Run",
+        "url": "https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 186081,
+      "name": "Run Run",
+      "url": "https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Ghetto Story (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y"
-      },
-      "artists": [
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        }
-      ],
-      "duration_ms": 252893,
-      "name": "Vitamin S",
-      "url": "https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Leggo Mi Ears (Remix)",
         "url": "https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 171200,
       "name": "Leggo Mi Ears - Remix",
       "url": "https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Ghetto Story (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        }
+      ],
+      "duration_ms": 252893,
+      "name": "Vitamin S",
+      "url": "https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV"
     },
     {
       "added_at": "2023-05-14 20:18:19",

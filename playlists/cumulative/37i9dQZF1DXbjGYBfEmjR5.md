@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-485 songs - 1 day 3 hr 31 min
+486 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,8 @@
 | [Slavic Slammer](https://open.spotify.com/track/5OttYmBqOq0a4rQDZ10Xs3) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Slavic Slammer](https://open.spotify.com/album/5fuy2qCwZ3vMNQZuXS8EDx) | 2:45 | 2022-06-01 | 2022-08-14 |
 | [SNS](https://open.spotify.com/track/659h8UJZlAQfjWjvjRCK4o) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe), [yuca](https://open.spotify.com/artist/1Hf7jXPRJoFHjM0TzqsQLU) | [SNS](https://open.spotify.com/album/5nJAbrmr56TiKywzRIUT8L) | 2:39 | 2022-04-12 | 2022-04-18 |
 | [So Long](https://open.spotify.com/track/0Kk6MRJzcS1qSx4vheKAXO) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [So Long](https://open.spotify.com/album/3KKWyN5Wvq5sLQrrW2oYGg) | 4:01 | 2022-01-25 | 2022-05-09 |
-| [So Shine](https://open.spotify.com/track/3JSpcP0lrONHMgJ10gDLA3) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J), [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [So Shine](https://open.spotify.com/album/7muNCcZrCbKG6454ocvqnR) | 4:45 | 2022-11-04 |  |
+| [So Shine](https://open.spotify.com/track/3JSpcP0lrONHMgJ10gDLA3) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J), [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [So Shine](https://open.spotify.com/album/7muNCcZrCbKG6454ocvqnR) | 4:45 | 2022-11-04 | 2023-06-04 |
+| [So Shine](https://open.spotify.com/track/1Zk5sQZtwvmfCdVRe5NNVx) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J), [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [So Shine](https://open.spotify.com/album/08IS1InlosyXzpDpnsqv1s) | 4:45 | 2022-11-04 |  |
 | [Sold Out](https://open.spotify.com/track/6mltbH5UE4wXSJOabNRFcq) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Sold Out](https://open.spotify.com/album/1GWLUXZ0LoKqm3HbUvcSp8) | 4:05 | 2022-07-15 | 2022-08-25 |
 | [Something About You](https://open.spotify.com/track/4b83hkEnciD20byP3zcKYw) | [Amherst](https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU) | [Heat.wav](https://open.spotify.com/album/7jUDLIdMGhM0Z7Lf90ssgc) | 4:00 | 2022-04-12 | 2022-04-20 |
 | [Sometime's He's Pretty](https://open.spotify.com/track/3nCA4kWJIZ5laYZHWIbzSU) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [ICE CREAM](https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF) | 2:41 | 2022-06-08 | 2022-07-29 |

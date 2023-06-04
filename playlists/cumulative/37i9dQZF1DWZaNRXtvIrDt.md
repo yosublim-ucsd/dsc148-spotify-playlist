@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Mall Grab & Flansie
 
-298 songs - 22 hr 17 min
+299 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [dream about u](https://open.spotify.com/track/6gJX9BvTXsh76nrXogo1D7) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Floatinurboat](https://open.spotify.com/artist/64BojgC4SoE580s9oMmHm4) | [dream about u](https://open.spotify.com/album/6pnBj8oPnGQQLMZK7DbmHE) | 1:51 | 2023-03-23 | 2023-04-28 |
 | [Dreaming Of High Fidelity](https://open.spotify.com/track/2HRbd2lJKkWWBGT2IRVr4j) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Transit](https://open.spotify.com/album/0MGV2N8Dr2Vy71qTDN7LXL) | 5:59 | 2023-03-30 | 2023-04-28 |
 | [Dreamscape](https://open.spotify.com/track/3Vj2GECLhHkxtEl86kzjlK) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Translucid Transit](https://open.spotify.com/album/7w2Tq5FbO7wcGmKz4pZfxb) | 5:50 | 2023-05-11 |  |
-| [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 | 2023-06-01 |  |
+| [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 | 2023-06-01 |  |
 | [Druidz](https://open.spotify.com/track/3lqIaHpfVs0WqKfClcuRFd) | [nickname](https://open.spotify.com/artist/24wpXjgZ9hSb3RdINyrflh), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Druidz](https://open.spotify.com/album/5pjsZZxT2tC7b40eXTdiRm) | 3:56 | 2023-04-13 | 2023-05-12 |
 | [EMBER\_dnb\_edit001](https://open.spotify.com/track/3mBLjr8jljLpg4UBwetooh) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [SCREAMER\_edit\_Vii](https://open.spotify.com/album/25FnnFOqjG4EwELODADGc6) | 3:42 | 2023-01-12 | 2023-02-17 |
 | [Endless](https://open.spotify.com/track/3n4exznFpCunrvLV5ePD5f) | [KÉDU CARLÖ](https://open.spotify.com/artist/5FdNimxRznD7ZK6LR5VTJC) | [Endless](https://open.spotify.com/album/1ig5AkNAuzIpa7R9JdyyjM) | 5:11 | 2023-01-26 | 2023-03-25 |
@@ -226,7 +226,8 @@
 | [Sapphire](https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Sapphire / My Love](https://open.spotify.com/album/4MHJYdhNwFVF72lP1EoJOs) | 2:40 | 2022-12-15 | 2023-02-17 |
 | [Say Enough](https://open.spotify.com/track/791cKRPFa9jKhv1yYVnwid) | [Azifm](https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7), [Tusekah](https://open.spotify.com/artist/6w8NhdLlNYDyfFfbjJanRl) | [Say Enough](https://open.spotify.com/album/5hw5wPs7weFoWuHZNhA37q) | 3:46 | 2022-12-15 | 2023-02-10 |
 | [Say No More](https://open.spotify.com/track/3ukSlYPAMtOvORMbvrGYm1) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Public Disturbance](https://open.spotify.com/album/1rHymzXSSB7UHohBpW6hQX) | 4:55 | 2022-12-08 | 2023-01-20 |
-| [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 | 2023-04-27 |  |
+| [Scars](https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars \(lau.ra Remix\)](https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL) | 2:58 | 2023-06-01 |  |
+| [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 | 2023-04-27 | 2023-06-04 |
 | [Seasons](https://open.spotify.com/track/6XXU4PWswlDv6vHfJzUTcF) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Squidgenini](https://open.spotify.com/artist/3BcWc3ESZGsGrDxI7wnPyh) | [Seasons](https://open.spotify.com/album/3ITqcKSoxDq1NZpoGb6Xn6) | 4:28 | 2022-12-08 | 2023-01-20 |
 | [Selfish Soul \- ODESZA Remix](https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Selfish Soul \(ODESZA Remix\)](https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2) | 3:26 | 2023-04-20 | 2023-06-02 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2022-12-08 | 2023-03-03 |

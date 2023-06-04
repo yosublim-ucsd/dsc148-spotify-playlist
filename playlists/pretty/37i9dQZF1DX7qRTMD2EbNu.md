@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS?si=\_bn36cCwR1ibGuYVXTz8jQ"> Nxwrth</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,773 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,801 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 |
 | 2 | [COLD](https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [COLD](https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0) | 2:09 |
-| 3 | [Burn](https://open.spotify.com/track/1szzOfnQAV9sbNnvtdClJh) | [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Shy Kuu](https://open.spotify.com/artist/2G8BQnHecgoOBzIqmKH8mL) | [Burn](https://open.spotify.com/album/4CCPtSjyZc13Wbh1CeDrVp) | 2:17 |
+| 3 | [Burn](https://open.spotify.com/track/1szzOfnQAV9sbNnvtdClJh) | [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Sky Kuu](https://open.spotify.com/artist/2Kz4SoUY5H1DRHJ0UQE4im) | [Burn](https://open.spotify.com/album/4CCPtSjyZc13Wbh1CeDrVp) | 2:17 |
 | 4 | [Drama](https://open.spotify.com/track/0uJ3mlaKDT1LxvpWE8uBAh) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Bigg Homie Flee](https://open.spotify.com/artist/24OjXcA2zXunU4i5RgzZQa) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 2:37 |
 | 5 | [Frodo Baggins](https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb) | 4:35 |
 | 6 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Odo Nkoaa](https://open.spotify.com/track/1bBpce38RogIi9HneIooXP) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Nkoaa](https://open.spotify.com/album/6do5C86UDDZnyq41YqDIsO) | 3:31 |
 | 80 | [Nyane](https://open.spotify.com/track/4sIl90ibVCrC1OHMD2KdjJ) | [Joe Kay](https://open.spotify.com/artist/53ZQc2LGjVFkhzbC6zBggA) | [Nyane](https://open.spotify.com/album/6rzFTcjKJc7GMWa6IxQdIO) | 3:09 |
 
-Snapshot ID: `MCxlMWU1NGRmY2RjODVkYjhkOTc2ZDc0NDFkZTM0YjdlNWJmZWIyNzU4`
+Snapshot ID: `MCw5YmNiYjBjMzEyMDVmZmExZjJjNWRhYjcwMzcwYTYzZDMzN2FjMzM4`

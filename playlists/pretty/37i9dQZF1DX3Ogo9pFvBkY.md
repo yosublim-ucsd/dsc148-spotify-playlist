@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197,247 likes - 220 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,197,310 likes - 220 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 219 | [retrospect](https://open.spotify.com/track/6uuZN0R5GocdsRO9RhB0Pn) | [Gino Ferrero](https://open.spotify.com/artist/5GmSwTvCucYQCZlQCVl60g) | [retrospect](https://open.spotify.com/album/0hS7eXiX1f172bpYrvw6c1) | 4:37 |
 | 220 | [Opolnoči](https://open.spotify.com/track/5VCjqZftDWL4HCmZTKuQO8) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Opolnoči](https://open.spotify.com/album/7v69wRHr3qEcbJCCfMl0bS) | 3:21 |
 
-Snapshot ID: `MCxlY2EzMDQ4YWE5NTQ0ZWU3NGNkMTI3YTFlZTRiMjRkODBlOGY5YjAy`
+Snapshot ID: `MCw0MzgwM2U4MDk4ZTk0Nzg1YmM1M2M3ZjNjNmQ4Y2UyODQ1YmIxZWRm`

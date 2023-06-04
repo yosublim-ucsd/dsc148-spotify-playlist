@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP"
@@ -7590,7 +7590,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 220840,
       "name": "Hodina no\u010dn\u00e9ho pokoja",
       "url": "https://open.spotify.com/track/2Dtd0S3HjqmjmxVr1JZX79"
@@ -7900,6 +7900,28 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml"
+    },
+    {
+      "album": {
+        "name": "Dr. Seuss' The Lorax - Original Songs From The Motion Picture",
+        "url": "https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5"
+      },
+      "artists": [
+        {
+          "name": "Ed Helms",
+          "url": "https://open.spotify.com/artist/4frIPWBfpZWw7REcjGAkJF"
+        },
+        {
+          "name": "The Lorax Singers",
+          "url": "https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "How Bad Can I Be?",
+      "url": "https://open.spotify.com/track/4l1R5g85v3bUA1bSSbzg6w"
     },
     {
       "album": {
@@ -8844,7 +8866,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 442305,
       "name": "Jamaican - Original Mix",
       "url": "https://open.spotify.com/track/4AXQk4OdQAONDQyjKYxrxz"
@@ -13176,7 +13198,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 208800,
       "name": "O2H",
       "url": "https://open.spotify.com/track/6qefvXMLCtQZb3yDjY0vgq"
@@ -14072,7 +14094,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 82514,
       "name": "PHONKGASKAR",
       "url": "https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"
@@ -16522,7 +16544,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
@@ -16540,7 +16562,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 280200,
       "name": "Sila dychu",
       "url": "https://open.spotify.com/track/3aUxJ74eIAL6xrpRYtjeOd"
@@ -16784,6 +16806,24 @@
       "duration_ms": 117528,
       "name": "SMOKE IT OFF!",
       "url": "https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym"
+    },
+    {
+      "album": {
+        "name": "Radio Fantastique",
+        "url": "https://open.spotify.com/album/2Z3OjaJoTSn5ILBOAd1yiF"
+      },
+      "artists": [
+        {
+          "name": "Musique Boutique",
+          "url": "https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223986,
+      "name": "Smooth Operator (Deep House Version)",
+      "url": "https://open.spotify.com/track/6fCPhKlaucFdoxkX4vavNh"
     },
     {
       "album": {
@@ -21502,6 +21542,24 @@
       "duration_ms": 96107,
       "name": "\u0421\u043b\u044b\u0448\u044c, \u041c\u0430\u043b\u0430\u044f",
       "url": "https://open.spotify.com/track/46VMKEqHa2MLuZyPByUBO2"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0430\u043d\u0446\u044b",
+        "url": "https://open.spotify.com/album/7vJAanZfSG2V7Em8TYachL"
+      },
+      "artists": [
+        {
+          "name": "NLO",
+          "url": "https://open.spotify.com/artist/6QmhD5Do8Uxo4eY4qHSTnk"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178288,
+      "name": "\u0422\u0430\u043d\u0446\u044b",
+      "url": "https://open.spotify.com/track/4rSvNQcgKfv8jQXSNLpL1Q"
     },
     {
       "album": {

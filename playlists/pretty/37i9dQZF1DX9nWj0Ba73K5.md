@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Brandy Clark
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,687 likes - 223 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,703 likes - 223 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 155 | [When It's My Time](https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [When It's My Time](https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ) | 4:33 |
 | 156 | [Barefoot Blue Jean Night](https://open.spotify.com/track/5CQ1BKIfD8cpMsxn3rdEXm) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Even If It Breaks Your Barefoot Friday Night, Pt\. 1](https://open.spotify.com/album/2TDTiLd5HpKDkX5WxZmBJ3) | 2:56 |
 | 157 | [Walks on Whiskey](https://open.spotify.com/track/7C5KYt5hyCqy0kMAq9jbEQ) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Walks on Whiskey](https://open.spotify.com/album/2WyX2r0I3bvNlE0lnHUK1c) | 2:37 |
-| 158 | [All I Need to See](https://open.spotify.com/track/1nggCj00NY7GRx0CyWcMKY) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [All I Need to See](https://open.spotify.com/album/748lkYrb1zeh6xMQ1ewWJ1) | 4:28 |
+| 158 | [All I Need to See](https://open.spotify.com/track/1nggCj00NY7GRx0CyWcMKY) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [All I Need to See](https://open.spotify.com/album/748lkYrb1zeh6xMQ1ewWJ1) | 4:27 |
 | 159 | [Deeper Than The Holler](https://open.spotify.com/track/0XJJs5CnaQ0mKyFea5s1F0) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Mountaintop](https://open.spotify.com/album/31WOBFBlfjF7qjW3uURoT6) | 3:32 |
 | 160 | [Almost All Good](https://open.spotify.com/track/0veEfwoK2YndOqJ0jIeLww) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:17 |
 | 161 | [Chainsaw](https://open.spotify.com/track/3botssMinOaf8gTihU6Kjo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion Originals](https://open.spotify.com/album/5khSHsmQhkTJ1iJr5FdAP8) | 3:46 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 222 | [Play Ball](https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:27 |
 | 223 | [Just Another](https://open.spotify.com/track/2ryIpNbjhd9W25bG7JdPVK) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Just Another](https://open.spotify.com/album/5f67HsDD8QPuzqh1oJRltm) | 3:13 |
 
-Snapshot ID: `MCw2NzFjOTQ3ZjgwZjllNTljOWU0YmI4NjkzZGNlMDBiYjEzMDAxZGIy`
+Snapshot ID: `MCw1YTI5MzljYzZmYTBiZTU1ZmY2NTA3Njk5NTk3M2Y0NmFkNjY4ODQz`

@@ -1158,10 +1158,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 264538,
       "name": "I Love You Boy",
       "url": "https://open.spotify.com/track/5XXJnC5TvcL2QsAZ3Nxgku"
+    },
+    {
+      "album": {
+        "name": "While You Were Sleeping, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5TDJPOVQSFFMyeQNzToolM"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264543,
+      "name": "I Love You Boy",
+      "url": "https://open.spotify.com/track/155N0vbPqPFs9DzBNR41T7"
     },
     {
       "album": {
@@ -1285,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "While You Were Sleeping, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3YjVFUQz5w1bXIi3QfqVmx"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231001,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/61OtYav1fiUCr73JwZD2Sb"
+    },
+    {
+      "album": {
         "name": "\ub2f9\uc2e0\uc774 \uc7a0\ub4e0 \uc0ac\uc774\uc5d0 Pt. 2 Original Television Soundtrack",
         "url": "https://open.spotify.com/album/6R2B8rmhp25wFHIGZPmYYI"
       },
@@ -1296,7 +1332,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 231642,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3hm4axDodp2jFEDohQfXxV"
@@ -2687,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "While You Were Sleeping, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kim",
+          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226991,
+      "name": "\uae34 \ubc24\uc774 \uc624\uba74",
+      "url": "https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t"
+    },
+    {
+      "album": {
         "name": "\ub2f9\uc2e0\uc774 \uc7a0\ub4e0 \uc0ac\uc774\uc5d0 Pt. 1 Original Television Soundtrack",
         "url": "https://open.spotify.com/album/14cZOtcNhNEQDQUwtg6gcm"
       },
@@ -2698,7 +2752,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 226991,
       "name": "\uae34 \ubc24\uc774 \uc624\uba74",
       "url": "https://open.spotify.com/track/5LiWJsSSjZh7Y3hqml18Ki"

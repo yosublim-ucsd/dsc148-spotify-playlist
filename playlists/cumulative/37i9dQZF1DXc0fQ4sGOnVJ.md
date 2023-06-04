@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-155 songs - 8 hr 52 min
+156 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Reload \(feat\. Taylor Ray Holbrook\)](https://open.spotify.com/track/6llkjVv0O5lSXD56Ns7R6b) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI) | [Reload \(feat\. Taylor Ray Holbrook\)](https://open.spotify.com/album/3QUpdmU4KAaXYviYcy0Du6) | 2:57 | 2021-05-21 | 2023-05-24 |
 | [Remember My Name](https://open.spotify.com/track/7eE8qUTi5in1pkshmphRec) | [Jonezen](https://open.spotify.com/artist/7D1pMUc7dEMckSNVUo2EnA), [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV) | [Remember My Name](https://open.spotify.com/album/1cZnPFq1ExNM8hYynZXP2H) | 3:04 | 2021-08-06 | 2023-05-27 |
 | [Rippin It up \(feat\. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz\)](https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG) | [Jawga Sparxxx](https://open.spotify.com/artist/4Tmi4eRiBmTkJCEJuFnKuP), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Boondock Kingz](https://open.spotify.com/artist/5t1SNVbHSuaQWZ0FXnLGcK), [Porch Matthews](https://open.spotify.com/artist/6mzpnqqXaw7OEOXKXJtPp7), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Muddy Days Drunken Nights](https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK) | 3:12 | 2021-05-21 |  |
-| [Rodeo](https://open.spotify.com/track/66il80iAlMZqtGDRaHkg1n) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Rodeo](https://open.spotify.com/album/3bG0CVdUftTND8ovcRNRty) | 2:55 | 2021-05-21 |  |
+| [Rodeo](https://open.spotify.com/track/66il80iAlMZqtGDRaHkg1n) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Rodeo](https://open.spotify.com/album/3bG0CVdUftTND8ovcRNRty) | 2:55 | 2021-05-21 | 2023-06-04 |
 | [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 | 2022-08-12 |  |
 | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2) | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE) | 3:55 | 2021-05-21 |  |
 | [Rural Legends](https://open.spotify.com/track/5pIS6NPdQS6qwb3mvUSfBB) | [DurtE](https://open.spotify.com/artist/6VZRx4elqkf5cXo3nrc8y7), [Redneck Souljers](https://open.spotify.com/artist/5FY8IkeSIChD7WcmPPH5NW) | [Rural Legends](https://open.spotify.com/album/09CrDUYOa0KrpzWiZylKGk) | 4:56 | 2021-05-21 | 2022-02-05 |
@@ -140,6 +140,7 @@
 | [Talladega Nights](https://open.spotify.com/track/6TAtFV2RxtPoF8K9gXv6iA) | [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r) | [Talladega Nights](https://open.spotify.com/album/27zyvGZrG0Wx7YmXGhWMB7) | 2:05 | 2021-11-19 | 2022-10-28 |
 | [The Barn](https://open.spotify.com/track/0L0dOOe5RvPL80FRNdNY4f) | [Dustin Collins](https://open.spotify.com/artist/0UAApelK1eVZ1azjujCSH6) | [The Barn](https://open.spotify.com/album/2YmaLYYprO8ta9liJ2dOVJ) | 3:25 | 2021-05-21 | 2023-01-03 |
 | [The Dream](https://open.spotify.com/track/5TKsfF1CEzUOWe4GDhKKKh) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [The Dream](https://open.spotify.com/album/12sCOUpKUUFF9XS31GKRLN) | 3:12 | 2021-07-02 | 2023-05-18 |
+| [The Dream](https://open.spotify.com/track/7LjenQM99kDj7iwTHdjBg8) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [The Dream](https://open.spotify.com/album/045KdMFUDzWbFjxwwPmwnn) | 3:12 | 2023-05-19 |  |
 | [The Plane](https://open.spotify.com/track/38HqbvZgTBA7ZDWrzoVdVM) | [Good Ol' Boyz](https://open.spotify.com/artist/7h8lt55X2S8mucaQdnnAqQ), [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Green Handle](https://open.spotify.com/album/5y7pMr1i2gVdTukGSeKFq0) | 5:50 | 2021-05-21 | 2023-05-19 |
 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 | 2022-08-26 |  |
 | [Trucks Gone Wild](https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Trucks Gone Wild](https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN) | 1:41 | 2023-03-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: achi
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,497 likes - 144 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,504 likes - 144 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 4 | [Waste My Time](https://open.spotify.com/track/07i1r0k6P4g88YqslDNAI5) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [Waste My Time](https://open.spotify.com/album/0gGCC9kEFrFk9uBVnyxwp1) | 3:42 |
 | 5 | [Last Summer](https://open.spotify.com/track/3X9pggRCXEN57mhhbQj0Tt) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj), [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T), [Cho Lewis](https://open.spotify.com/artist/5BaaV8FQjtT55m4zS2FdNa) | [Last Summer](https://open.spotify.com/album/1sRtwQC7tPZAmyRvVB0cFq) | 4:18 |
 | 6 | [單曲循環症](https://open.spotify.com/track/51gq3Jza9a4YnBxMTuJ3Yj) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [單曲循環症](https://open.spotify.com/album/4iaRMIZsC3HcwSRcYNc1Cz) | 3:37 |
-| 7 | [下一世つづく](https://open.spotify.com/track/7pWmBawvTAqFZUFv2svJHG) | [YE AHS](https://open.spotify.com/artist/4rEbdV57iPrc1Y1tWxh0te) | [下一世つづく](https://open.spotify.com/album/4JEuRPOXhMI1PJ2OwnzZTb) | 3:34 |
+| 7 | [下一世つづく](https://open.spotify.com/track/7pWmBawvTAqFZUFv2svJHG) | [YEAHS](https://open.spotify.com/artist/4rEbdV57iPrc1Y1tWxh0te) | [下一世つづく](https://open.spotify.com/album/4JEuRPOXhMI1PJ2OwnzZTb) | 3:34 |
 | 8 | [不要來電](https://open.spotify.com/track/5LYr1razIy4OOGCbG3fivV) | [NotReal](https://open.spotify.com/artist/5Ug1UjqzpeXc1pqw2FrrDd) | [不要來電](https://open.spotify.com/album/0cMWOcHwL29U6P1AzAS0vD) | 2:41 |
 | 9 | [晴天小姐](https://open.spotify.com/track/1LqAmDpvkYoklbLzgjQKhp) | [陳浩](https://open.spotify.com/artist/02B3n4s3tZqb73uiLoegXu), [Kada](https://open.spotify.com/artist/1yfE0lrh6W6uD02cud26Tk) | [晴天小姐](https://open.spotify.com/album/1RtXygHeKkunodcxkGRoeY) | 3:40 |
 | 10 | [If I Drown](https://open.spotify.com/track/6DZZ6erbTUEmKIAfFpHQTz) | [Taotao](https://open.spotify.com/artist/3nZ6CYSRqJCHL37Dng4NlX) | [If I Drown](https://open.spotify.com/album/2mjSfLjojDsHQ8i3TqrtGm) | 3:32 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 143 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 144 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCxlNTYzOTQ3MWY0NGZlYzFmYjJjNjlhMzFiYWNhYThiYTA5NGU3MTU1`
+Snapshot ID: `MCwxZjIwMzY1ZGQwNDhjYjE1ZDgwYTcyMmIyNWIwY2Y2NmE2NDE4ZGQz`

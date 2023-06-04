@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume\. Cover: Katherine Li
 
-839 songs - 1 day 20 hr 17 min
+840 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,7 +636,8 @@
 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 | 2022-09-07 | 2022-10-06 |
 | [Say It Again](https://open.spotify.com/track/6v37ifbTEbJYbrx0OFDpMH) | [Kendra Kay](https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ) | [Say It Again](https://open.spotify.com/album/20WpEu4hb2yyd2E0sp3mmn) | 2:42 | 2022-09-07 | 2022-10-06 |
 | [Say My Name](https://open.spotify.com/track/1vlmCUUrQiAb2sYPbnnBJz) | [2WINS](https://open.spotify.com/artist/0gdlcU9uKxLUgllCz1B3iO), [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6), [Keysha Freshh](https://open.spotify.com/artist/5dOPo7YOqsRrH0cqw8ol3u) | [Say My Name](https://open.spotify.com/album/2vGTIVVWNdQts1YI1Gp0OH) | 2:19 | 2022-10-05 | 2023-01-05 |
-| [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 | 2023-05-03 |  |
+| [Scars](https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars \(lau.ra Remix\)](https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL) | 2:58 | 2023-05-03 |  |
+| [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 | 2023-05-03 | 2023-06-04 |
 | [Scissors](https://open.spotify.com/track/7DaFmydulTDDndxR7q4ZGt) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Scissors](https://open.spotify.com/album/3Q7ztq5q819kn2aqdGzGVh) | 2:37 | 2022-06-01 | 2022-07-07 |
 | [see](https://open.spotify.com/track/4XCtH5vh7O5YwMbVBgRReb) | [Ceréna](https://open.spotify.com/artist/6jdYcGAF6rLHIf1uc21w37) | [resurrection](https://open.spotify.com/album/0tKwVfDWP4UIVvepbmg08N) | 2:53 | 2022-06-08 | 2022-07-07 |
 | [See You There](https://open.spotify.com/track/4Rq0NZOK37DF6m6YuKH3d8) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [See You There](https://open.spotify.com/album/0uuNqhVoi6GJnbi8VZIb3Y) | 3:01 | 2022-08-03 | 2022-10-06 |

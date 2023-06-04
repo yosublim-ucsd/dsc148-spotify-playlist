@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-220 songs - 13 hr 54 min
+221 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Curita](https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Curita](https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF) | 3:26 | 2023-02-24 |  |
 | [Dame Un Besito](https://open.spotify.com/track/6T4qGTlReMLyEL7Ie0dkdt) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Disco Popular](https://open.spotify.com/album/1YtQSrvxxvfW37llS6WNMT) | 2:13 | 2021-12-09 | 2022-07-29 |
 | [Dame un Besito](https://open.spotify.com/track/3XI5IKSEsGITE0zAQwj1CR) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Disco Popular](https://open.spotify.com/album/1awEp9l62JJYlas31ytrAK) | 2:13 | 2022-01-01 | 2023-03-08 |
+| [Dancin' Days](https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 4:09 | 2023-05-26 |  |
 | [Danza de Vision](https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:29 | 2021-12-09 | 2023-03-08 |
 | [De Vez en Cuando](https://open.spotify.com/track/1QZk1of3DuIrqCklUPfy4W) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:24 | 2022-01-01 |  |
 | [De Vez En Cuando](https://open.spotify.com/track/2VNExLz5Y7zubCNuVbSUJP) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [De Vez En Cuando](https://open.spotify.com/album/06YJEqZe1fmb07iO3bLHYc) | 3:24 | 2021-12-09 | 2022-07-29 |
@@ -178,7 +179,7 @@
 | [Rumbera](https://open.spotify.com/track/6UcB9gMHjY5VMGejDCe6k7) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tierra](https://open.spotify.com/album/69Ir7r4C79cTgSTBptkF54) | 3:32 | 2022-01-01 | 2022-07-29 |
 | [Sabor a Mi](https://open.spotify.com/track/4QPjGYaXenaoyE6cfHyWLh) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 3:15 | 2022-01-01 | 2023-04-29 |
 | [Sabor a Mi](https://open.spotify.com/track/6Ghqj5i94yxy3uSAnpQljL) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/0HLPr4c2d1vlhIA3yOZqtS) | 3:17 | 2021-12-09 | 2022-07-29 |
-| [Señal de Fuego](https://open.spotify.com/track/3qaRqBGvHTnJWU08VFKoVq) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Viajera](https://open.spotify.com/album/5lEDYL0eACVAYrdRwrLgSt) | 3:45 | 2023-05-26 |  |
+| [Señal de Fuego](https://open.spotify.com/track/3qaRqBGvHTnJWU08VFKoVq) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Viajera](https://open.spotify.com/album/5lEDYL0eACVAYrdRwrLgSt) | 3:45 | 2023-05-26 | 2023-06-04 |
 | [Si No Pueden Quererte \(with Miguel Bosé\)](https://open.spotify.com/track/446rQWVFWcido9fHuW981s) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:55 | 2021-12-09 |  |
 | [Si Te Contara](https://open.spotify.com/track/0S21tUeTL1sbbEfU4Fh8YD) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/5vM9AoEkijaGb0h9RcUIv3) | 2:39 | 2021-12-09 | 2022-07-29 |
 | [Si Te Contara](https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg) | 2:39 | 2022-01-01 |  |

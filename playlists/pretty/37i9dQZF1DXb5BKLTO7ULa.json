@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Antoon, Ronnie Flex",
-  "num_followers": 256593,
+  "num_followers": 256624,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWNmYjRlNDM3MDgwMDg1ZmQxYTQ1MjNjMWMzZmE5MzFjZDA5YjNl",
+  "snapshot_id": "MCwwNTkyYTk3MjI3OTcwODBhNTExMDMyNTJmYjA5MTlkMDdmNDE3OGQz",
   "tracks": [
     {
       "added_at": "2023-06-02 08:22:06",
@@ -926,6 +926,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
       "duration_ms": 241979,

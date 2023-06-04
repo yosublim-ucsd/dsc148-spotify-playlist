@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-307 songs - 1 day 2 hr 45 min
+308 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Solidit](https://open.spotify.com/track/1nfZXgLSdbR188vL2P7vrF) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Solidit](https://open.spotify.com/album/4Iu295PX9PaSbEpgcjdTAb) | 3:50 | 2021-10-06 | 2022-07-28 |
 | [Spirit](https://open.spotify.com/track/5ju6xqK60MEA8mxAnGQGFR) | [Tomas Nordmark](https://open.spotify.com/artist/0TBCJYEeBoQspLmeXE6Ixy) | [Spirit](https://open.spotify.com/album/6OefUdFlXkiUdNlh2QYJLG) | 6:22 | 2021-10-06 | 2022-07-29 |
 | [Spopolatore](https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI) | [Valerio Tricoli](https://open.spotify.com/artist/5pgG0WAfRftFGmj05N0LsD) | [Say Goodbye To The Wind](https://open.spotify.com/album/2S9IkYjEwf2vNfu7B9HEJJ) | 25:44 | 2022-09-03 | 2022-12-04 |
-| [Standing Crosswise in the Square](https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2) | [Craig Leon](https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs) | [Anthology of Interplanetary Folk Music Vol\. 2: The Canon](https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq) | 6:09 | 2021-10-06 |  |
+| [Standing Crosswise in the Square](https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2) | [Craig Leon](https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs) | [Anthology of Interplanetary Folk Music Vol\. 2: The Canon](https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq) | 6:09 | 2021-10-06 | 2023-06-04 |
 | [Standing Crosswise in the Square](https://open.spotify.com/track/2ul6NDnL1ID1LFmldqRdhI) | [Craig Leon](https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs) | [Anthology of Interplanetary Folk Music Vol\. 2: The Canon](https://open.spotify.com/album/32cjPNgVw59RwMrcxbdBhE) | 6:09 | 2021-10-06 | 2022-07-29 |
 | [Starethrough \- Transition Mix](https://open.spotify.com/track/1p03UtzOhN62YFGKMZPBfj) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Reduct](https://open.spotify.com/album/3mNZPQiVKNEvKp7mYhRQPd) | 5:04 | 2021-10-06 | 2022-07-28 |
 | [Stargazers](https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3) | [Microhm](https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN) | [Eternal Night](https://open.spotify.com/album/7kWVSVCKdMFg3pKha9eCn5) | 7:15 | 2021-10-06 | 2022-07-29 |
@@ -284,6 +284,7 @@
 | [U Believe](https://open.spotify.com/track/6lhsxkTQ6OvPdie2BEEPxn) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT) | 3:21 | 2021-10-06 |  |
 | [Understanding](https://open.spotify.com/track/2JXPq9pvPiQo2edh6ikySv) | [m.0](https://open.spotify.com/artist/1Gc6C6mp22uQYKzXAZ6bme) | [Solace](https://open.spotify.com/album/4PL0vCcUTMBli1DuLJa8ge) | 6:41 | 2021-10-06 | 2022-09-15 |
 | [Underwater Lament](https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:20 | 2021-10-06 | 2023-04-30 |
+| [Underwater Lament](https://open.spotify.com/track/6CQJSBa7uo6Hr5991sVrGX) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z) | 5:20 | 2023-04-21 |  |
 | [Underwater Lament](https://open.spotify.com/track/6XGampcg3mqZPlDAUdJzlg) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Underwater Lament](https://open.spotify.com/album/7MSvDATNHNyd65XaCwfk1Z) | 5:20 | 2021-10-06 | 2022-07-27 |
 | [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 | 2021-10-06 |  |
 | [Variables \- 1976](https://open.spotify.com/track/0aBe5X0U7ZqNh01Hd4SHbB) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Variables \- 1976](https://open.spotify.com/album/3ievgMpSPFMO5uoohGRkP2) | 2:47 | 2021-10-06 | 2022-07-06 |

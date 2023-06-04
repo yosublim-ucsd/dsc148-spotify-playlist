@@ -1442,6 +1442,24 @@
     {
       "album": {
         "name": "Reminisce",
+        "url": "https://open.spotify.com/album/1Cw2pkPhAdMgC4Rbxvw3hY"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244293,
+      "name": "Reminisce",
+      "url": "https://open.spotify.com/track/1sEzRGv6CMdCDjaAskPDCR"
+    },
+    {
+      "album": {
+        "name": "Reminisce",
         "url": "https://open.spotify.com/album/6FJeK4tNoD7IOBVdSOr3Zq"
       },
       "artists": [
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 244293,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/4rawC7AAxKfUdDB75IVTXu"

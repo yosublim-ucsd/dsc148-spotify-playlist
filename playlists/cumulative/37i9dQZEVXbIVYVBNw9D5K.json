@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 141968,
       "name": "10MG",
       "url": "https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 225700,
       "name": "Aferin",
       "url": "https://open.spotify.com/track/316cvDPqqrdY6P2hkaqaBl"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 202424,
       "name": "Alt\u00fcst Olmu\u015fum",
       "url": "https://open.spotify.com/track/13THdxqHT11aSk3G8nUDzZ"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 163450,
       "name": "Belki",
       "url": "https://open.spotify.com/track/5ATwkalJ9FnLp7Zcvxo1rl"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 204320,
       "name": "Bir Derdim Var",
       "url": "https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f"
@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 201107,
       "name": "Derinlerde",
       "url": "https://open.spotify.com/track/7eGi47ucrFzRVwMiNvPtsU"
@@ -4588,7 +4588,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 93015,
       "name": "GELMEZSEN GELME",
       "url": "https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN"
@@ -4740,7 +4740,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -7064,6 +7064,32 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "album": {
+        "name": "KONTAK (feat. Ezhel)",
+        "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Geenaro & Ghana Beats",
+          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158023,
+      "name": "KONTAK (feat. Ezhel)",
+      "url": "https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU"
     },
     {
       "album": {
@@ -9795,6 +9821,28 @@
     },
     {
       "album": {
+        "name": "Pi\u015fman De\u011filim",
+        "url": "https://open.spotify.com/album/4AEhhccd4Z02zSjSKLdQie"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "Do\u011fu Swag",
+          "url": "https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142055,
+      "name": "Pi\u015fman De\u011filim",
+      "url": "https://open.spotify.com/track/4Sdj67b8WF9PhAXh4tvBi6"
+    },
+    {
+      "album": {
         "name": "P\u0130\u015eMAN",
         "url": "https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm"
       },
@@ -10250,7 +10298,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "Saklad\u0131\u011f\u0131n Bir \u015eeyler Var",
       "url": "https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk"
@@ -10392,7 +10440,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 229135,
       "name": "Sana \u00c7\u0131k\u0131yor Yollar - Kaderimin Oyunu Orijinal Dizi M\u00fczi\u011fi",
       "url": "https://open.spotify.com/track/7dvt5DT77W7neWuCfCUOYV"
@@ -12300,7 +12348,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 214846,
       "name": "YAN YANA",
       "url": "https://open.spotify.com/track/3IRtLsu2orU0gBnh6aEm5T"
@@ -13036,6 +13084,24 @@
       "duration_ms": 103042,
       "name": "\u00c7ar\u015famba Tatili",
       "url": "https://open.spotify.com/track/4324xYtPWZH1XbIh8UkBiZ"
+    },
+    {
+      "album": {
+        "name": "Parti \u0130ptal",
+        "url": "https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "\u00c7a\u011f\u0131r",
+      "url": "https://open.spotify.com/track/5Q6cDjM0JuvGu2mxulXGwo"
     },
     {
       "album": {

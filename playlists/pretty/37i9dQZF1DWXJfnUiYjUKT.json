@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world. Cover: Dave & Central Cee",
-  "num_followers": 370597,
+  "num_followers": 370367,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzFlNmMwZjliYTU1YmIyMWJmNmZmMGE0Y2M3OGQxNWNhYjg0Nzhl",
+  "snapshot_id": "MCwxN2JjMGQyMjUwYWY2OGYxYjdjZjllZmExM2I3YWE5MjEyNWI0MTA3",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1106,6 +1106,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
       "duration_ms": 241979,
@@ -1816,7 +1820,7 @@
           "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
         },
         {
-          "name": "NO ID",
+          "name": "No ID",
           "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
         }
       ],

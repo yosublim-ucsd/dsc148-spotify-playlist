@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,530 songs - 5 day 15 hr 33 min
+3,532 songs - 5 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,6 +808,7 @@
 | [Dreaming About Blue](https://open.spotify.com/track/6iEH7Mh2xaE7kasOl5meLi) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Bad Room Producer](https://open.spotify.com/artist/40gnIR7KWV2R1MzHElf2oZ) | [Dreaming About Blue](https://open.spotify.com/album/671nlyHBuoRnsRslq3hb4R) | 2:44 | 2020-05-15 | 2020-07-29 |
 | [Dreaming of Clementines](https://open.spotify.com/track/0T5QXR1lHEIGi4cgn9XOTk) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Dreaming of Clementines](https://open.spotify.com/album/3ulQkDxKoi8lR40vGhgkgv) | 2:10 | 2020-07-18 | 2021-01-16 |
 | [Dreaming Reality](https://open.spotify.com/track/3tsK1dMdL8q1Fb0fkzbeVW) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Dreaming Reality](https://open.spotify.com/album/4YniiagQQMVQ6UaMJeBTW1) | 2:44 | 2019-06-22 | 2019-11-29 |
+| [Dreaming Up](https://open.spotify.com/track/7kRQqPLU5CsGXGMUv5olTd) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Reconnection](https://open.spotify.com/album/0b9ZTvwi4fAZdCSDx9oHK8) | 2:21 | 2023-06-01 |  |
 | [Dreams](https://open.spotify.com/track/2BMqw1SwM0Oj7JcgX0cAI3) | [lofi lemur](https://open.spotify.com/artist/5veYeCJr7DmizEWGrJ42Pl) | [Dreams](https://open.spotify.com/album/2eF83llUWqhdsYLxwYv1Tm) | 1:40 | 2020-11-03 | 2021-05-21 |
 | [Dreams About](https://open.spotify.com/track/7qjOk4LdB11CnE6a4llbFI) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Dreams About](https://open.spotify.com/album/21lS055Om5S3lo49Cbo2m0) | 2:48 | 2022-06-02 | 2023-04-14 |
 | [Dreamwalking](https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Dreamwalking](https://open.spotify.com/album/7bh09ptCTVOY51VhdgA1ms) | 2:04 | 2022-05-12 |  |
@@ -1300,6 +1301,7 @@
 | [Home Office & Coffee](https://open.spotify.com/track/3gwz7DL6hiJ0n85mQN52he) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Home Office & Coffee](https://open.spotify.com/album/1yrUVxQ8a1wd9RSor9QfEr) | 1:57 | 2020-12-04 | 2021-06-04 |
 | [Homecoming](https://open.spotify.com/track/1zUOLEMjeD1AWRxjSy0HRF) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Homecoming](https://open.spotify.com/album/4kl3f8qxGW2VZhJumGpIvF) | 3:07 | 2021-06-12 | 2021-10-29 |
 | [homecoming](https://open.spotify.com/track/1sYJkAqKSV74NsaY0VBU5C) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [homecoming](https://open.spotify.com/album/7vtj0SYi7zzzQlVA63D8rt) | 2:12 | 2019-11-20 | 2020-03-25 |
+| [Homecooking](https://open.spotify.com/track/3rr4I5VFW8TJebCkbrQK3N) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Homecooking](https://open.spotify.com/album/0SBmOpP4rB6nvKK82sYuXr) | 2:11 | 2023-06-01 |  |
 | [Homem](https://open.spotify.com/track/1JDdR5is4gANpzsjEklSUW) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Homem](https://open.spotify.com/album/6XIrk9e2bDso281pKwHVgg) | 2:17 | 2020-10-16 | 2021-02-08 |
 | [Homesick](https://open.spotify.com/track/07PnRpdo0I4sEKahf0Os8l) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Homesick](https://open.spotify.com/album/2nZoK7IgGB5D85Fm3encZL) | 2:21 | 2019-12-20 | 2020-04-24 |
 | [Hometown](https://open.spotify.com/track/2z2mwCEkYqMVwc10HGwUBY) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Hometown](https://open.spotify.com/album/2YCtXEENFVa2u1RewQbP7P) | 2:06 | 2023-03-09 | 2023-04-14 |
@@ -2840,7 +2842,7 @@
 | [STATEMENTS](https://open.spotify.com/track/47SYiKPJaav8VpmzRsKQzO) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [STATEMENTS](https://open.spotify.com/album/6Y7a6oD5zQM2FVyH5XK8MH) | 2:05 | 2019-05-26\* | 2019-06-15 |
 | [Stay Cozy](https://open.spotify.com/track/5KdvoOJBvMBVlTeOWK5pq4) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Stay Cozy](https://open.spotify.com/album/3ac67d2E6MvupYDizRU2hY) | 1:59 | 2021-07-09 | 2021-08-18 |
 | [Stay True](https://open.spotify.com/track/1vXy8zHVAY4EIE4BUxIMAV) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Stay True](https://open.spotify.com/album/769Z2dFn9KTY0l5I5SLa11) | 1:36 | 2022-05-20 |  |
-| [Steadyme](https://open.spotify.com/track/6U374P7SqFo42pRrZZJkWx) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Steadyme](https://open.spotify.com/album/682AYVHvi48jFoXy2zzULL) | 2:19 | 2023-06-01 |  |
+| [Steadyme](https://open.spotify.com/track/6U374P7SqFo42pRrZZJkWx) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Steadyme](https://open.spotify.com/album/682AYVHvi48jFoXy2zzULL) | 2:19 | 2023-06-01 | 2023-06-04 |
 | [Stellar](https://open.spotify.com/track/43BxBNEHqevxjmBwQCyJy0) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Stellar](https://open.spotify.com/album/35VKSCNAHqOGf5fEH3lVW5) | 2:15 | 2021-10-30 | 2022-10-22 |
 | [Stena](https://open.spotify.com/track/4DQYzPc7yDSLNSv5vVo3NM) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Stena](https://open.spotify.com/album/4X3lAxGZvedE2J1vpuA2mG) | 1:37 | 2021-10-22 |  |
 | [Step By Step](https://open.spotify.com/track/4FJXaaxCpZeTtCfzou4fJ6) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Step By Step](https://open.spotify.com/album/3pxUYntdM7Qy4d5UHd1ubn) | 2:30 | 2021-10-29 | 2022-07-08 |
@@ -3312,7 +3314,7 @@
 | [visions](https://open.spotify.com/track/745AakO0aEufMDxDQjg0qb) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [visions](https://open.spotify.com/album/4OknAwcn6HYPL46jkJvUvN) | 2:46 | 2021-10-30 | 2022-09-29 |
 | [Visions](https://open.spotify.com/track/5TZaHVlfeEJf5ob8sFjhYC) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [ZeDe](https://open.spotify.com/artist/0xtxiEdr8VEnERqcadfVNK) | [Visions](https://open.spotify.com/album/25j89uB2LHKIwe1lgT5JAU) | 2:31 | 2021-06-26 | 2022-01-14 |
 | [Visions](https://open.spotify.com/track/4MtWwBdec11KI6rPVoLkN1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Visions](https://open.spotify.com/album/3u36hzIodgLRfiRQGjyPxn) | 2:46 | 2020-05-15 | 2020-07-24 |
-| [Visions](https://open.spotify.com/track/02yenYooBHpsyauoHBQKIl) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Visions](https://open.spotify.com/album/4HC4zLu973VKZzEATKwmjY) | 1:58 | 2023-06-01 |  |
+| [Visions](https://open.spotify.com/track/02yenYooBHpsyauoHBQKIl) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Visions](https://open.spotify.com/album/4HC4zLu973VKZzEATKwmjY) | 1:58 | 2023-06-01 | 2023-06-04 |
 | [Visit By Cap Kendricks](https://open.spotify.com/track/5vCMqXWUY0gQffbbX1z2eK) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Second Home](https://open.spotify.com/album/4Tp1yDTcXEOg5Nu8jb9cjV) | 3:15 | 2019-05-26\* | 2020-04-29 |
 | [Vitamin D](https://open.spotify.com/track/5PL1qq75Dbgvw2KyHEjfQR) | [fantompower](https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47) | [On a Walk](https://open.spotify.com/album/6317kvtOfffWUtWMneMvHK) | 2:25 | 2021-09-03 | 2021-10-22 |
 | [Você E Eu](https://open.spotify.com/track/5q6CnQ4SdMEp9eaTxsV4n5) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Você E Eu](https://open.spotify.com/album/5bCTn4UGVwV2ei0seJUcRF) | 2:36 | 2022-10-25 | 2022-12-24 |

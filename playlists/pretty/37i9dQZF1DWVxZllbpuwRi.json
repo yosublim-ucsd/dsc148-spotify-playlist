@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 629387,
+  "num_followers": 629362,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yzc0MWYwNTgzZGI3ZDk1YWIzZDFiZjNjNzgyNDUyMjEyMTBiYzY0",
+  "snapshot_id": "MCwyMjI3ZWU5YzY5YmU0YWJiOTc0ZjY4YmIzODViNjM4ZTRkZjM3MmIz",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Vacchi",
+          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "MAMACITA (remixes)",
         "url": "https://open.spotify.com/album/2lp5TTSc5rQcb8RAtI0Owq"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 138439,
       "name": "MAMACITA (Rafinha RSQ remix) (feat. Rafinha RSQ)",
       "url": "https://open.spotify.com/track/7kDbReexSaT5kuJrPeKSpE"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Vacchi",
-          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL"
     },
     {
       "added_at": "2023-02-17 03:00:00",

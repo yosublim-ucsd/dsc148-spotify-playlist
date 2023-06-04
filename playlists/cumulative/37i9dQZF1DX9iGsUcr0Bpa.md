@@ -2,7 +2,7 @@
 
 ### [Door Knockers](https://open.spotify.com/playlist/37i9dQZF1DX9iGsUcr0Bpa)
 
-> Classics from trailblazing women in hip\-hop\. Cover: Missy Elliott
+> Classics from trailblazing women in hip\-hop\. Cover: Foxy Brown
 
 79 songs - 5 hr 22 min
 

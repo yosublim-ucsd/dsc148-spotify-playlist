@@ -4,7 +4,7 @@
 
 > 90년대 모두의 마음을 사로 잡았던 추억의 록 발라드를 즐겨보세요.
 
-74 songs - 5 hr 33 min
+76 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [You](https://open.spotify.com/track/532BkP20KoyCq7ehziah0N) | [Kim SangMin](https://open.spotify.com/artist/1qUM2ze6aqsBM8eIUDJlqo) | [Face](https://open.spotify.com/album/5DKVM7qALIPE2dsiPP6spX) | 4:38 | 2023-02-09 |  |
 | [가시](https://open.spotify.com/track/7csMuPqdOPaFKby0AoRYL5) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n) | 4:01 | 2023-02-09 |  |
 | [겁쟁이](https://open.spotify.com/track/6Ef8tkhiFOOFOAeaQBFqtA) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n) | 4:43 | 2023-02-09 |  |
-| [고해](https://open.spotify.com/track/1cEODRpsqyAvzQvYJnDcGu) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB) | 5:02 | 2023-02-09 |  |
+| [고해](https://open.spotify.com/track/1ZWVTJbm5XCJEBn4jrcER6) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/6xBBPD2xe2FeVfyZcfyGyV) | 5:00 | 2023-02-09 |  |
+| [고해](https://open.spotify.com/track/1cEODRpsqyAvzQvYJnDcGu) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB) | 5:02 | 2023-02-09 | 2023-06-04 |
 | [그 사람](https://open.spotify.com/track/6ad1hOruGyvnNvIk53VgmD) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [제빵왕 김탁구 OST Part.3](https://open.spotify.com/album/4aNwPS4cpqI4O5aMQPn6pH) | 3:58 | 2023-02-09 |  |
 | [그녀의 연인에게..\. \#Story 1](https://open.spotify.com/track/4uNF79VtjMAbnpQKCPn5Oz) | [Kim Seong Myun](https://open.spotify.com/artist/5svaD2IpOu7m6NB8k6k1Kp) | [VOCALIST](https://open.spotify.com/album/1gtjK8tx9l5vt5QooJcy6N) | 4:50 | 2023-02-09 |  |
 | [그대 떠나가도](https://open.spotify.com/track/4HiTlyjhC6SW6SQDJ5sVPo) | [조장혁](https://open.spotify.com/artist/3Zr4ycz7Z2A4stxubPqyJY) | [그대 떠나가도](https://open.spotify.com/album/1whdmxp3Yr9SDL3D9QYpKx) | 4:42 | 2023-02-09 |  |
@@ -46,7 +47,8 @@
 | [무한지애](https://open.spotify.com/track/65wO72NHw8YmV6Il8je0Ml) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [Change](https://open.spotify.com/album/1qfwLENLIMv3t3m6Rcnf7n) | 4:30 | 2023-02-09 |  |
 | [발걸음](https://open.spotify.com/track/7JN8HvhCflgYz0ZqZeoljj) | [에메랄드 캐슬](https://open.spotify.com/artist/7zPGoXRG2xvV99yRfzM3Yp) | [Invitation](https://open.spotify.com/album/1E1VNOZbbsnKxEpRgXP5Jd) | 4:09 | 2023-02-09 |  |
 | [비](https://open.spotify.com/track/5JsbkkkTvdpwUwgzRqXGca) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [Jump 98](https://open.spotify.com/album/2FCiya0BoBE8N9suHW6AuE) | 4:00 | 2023-02-09 |  |
-| [비상](https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:30 | 2023-02-09 |  |
+| [비상](https://open.spotify.com/track/29acMabyXUwGFEvfqLJM7a) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [임재범 II / 2집](https://open.spotify.com/album/1cLD9RhI7VomKeQcbBpxvu) | 4:29 | 2023-02-09 |  |
+| [비상](https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:30 | 2023-02-09 | 2023-06-04 |
 | [비와 당신의 이야기](https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [The Best Of Born Again](https://open.spotify.com/album/4rvxxZJ12vnJgPLCsIM2AN) | 6:01 | 2023-02-09 |  |
 | [비의 랩소디](https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN) | [최재훈](https://open.spotify.com/artist/5dL3HWKQaQBnqhIDsMZQBB) | [Return](https://open.spotify.com/album/4tFPCuB69IGx1YyvrhNwEV) | 4:21 | 2023-02-09 |  |
 | [사랑](https://open.spotify.com/track/5ojeUUgIkneFIQbZVRFOjO) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [11집 사랑](https://open.spotify.com/album/3s1SOGif1DK6FN65K1bBvv) | 3:43 | 2023-02-09 |  |

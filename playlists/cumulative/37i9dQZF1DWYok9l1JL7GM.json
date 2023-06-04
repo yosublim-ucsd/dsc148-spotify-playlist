@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The south got something to say. Cover: Young Jeezy",
+  "description": "The south got something to say. Cover: Master P",
   "name": "I Love My Down South Classics",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 308973,
       "name": "Bout It, Bout It II",
       "url": "https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 271066,
       "name": "How Ya Do Dat",
       "url": "https://open.spotify.com/track/1KLhUURHRl72xGO5A94lme"
@@ -986,6 +986,28 @@
       "duration_ms": 188493,
       "name": "Hypnotized (feat. Akon)",
       "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
+    },
+    {
+      "album": {
+        "name": "Best Of Master P",
+        "url": "https://open.spotify.com/album/2PJ1QoAJhgj1EBMciyPLfE"
+      },
+      "artists": [
+        {
+          "name": "Master P",
+          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
+        },
+        {
+          "name": "Sons Of Funk",
+          "url": "https://open.spotify.com/artist/1D9f1goUlrbnQnQaRt6yIP"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256013,
+      "name": "I Got The Hook-Up!",
+      "url": "https://open.spotify.com/track/3qEEoMccf3U90pM47dbQtX"
     },
     {
       "album": {
@@ -1414,7 +1436,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 306466,
       "name": "Make 'Em Say Ugh",
       "url": "https://open.spotify.com/track/0l3wp8iEtN8rgag9eTeorW"
@@ -1972,7 +1994,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 118933,
       "name": "Slob On My Nob (feat. Project Pat)",
       "url": "https://open.spotify.com/track/0mXMr1OVZZKYmOinBaofOp"
@@ -2052,7 +2074,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 216000,
       "name": "So What",
       "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
@@ -2330,7 +2352,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 265760,
       "name": "SupaFreak",
       "url": "https://open.spotify.com/track/3LBCnV4LZ9GNNrga7EH6Gy"
@@ -2478,7 +2500,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 232106,
       "name": "Trap Star",
       "url": "https://open.spotify.com/track/1ynZEpoQPz0ylGFCUx7l9u"

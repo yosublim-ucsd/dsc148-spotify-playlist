@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Dave + Central Cee (pictured), Burna Boy, CMAT and more!",
-  "num_followers": 832585,
+  "num_followers": 832633,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTg1ZDA2ZGRkOGEwZmNhOWNmYjBhOTVlMGQyMmE1NDk3OTc5YmMz",
+  "snapshot_id": "MCxjZjIxZGY5NmFlOGUyODVkMmIyYmEyZWQyMzUxNDhkODQ3ZjU0Y2Jm",
   "tracks": [
     {
       "added_at": "2023-06-02 11:02:15",
@@ -566,6 +566,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
       "duration_ms": 241979,
@@ -1777,7 +1781,7 @@
         }
       ],
       "duration_ms": 170346,
-      "name": "Easier Pretending Your Dead",
+      "name": "Easier Pretending You're Dead",
       "url": "https://open.spotify.com/track/3LYxokIgbOHcNcZqRXS1DY"
     },
     {

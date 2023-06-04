@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,275 likes - 75 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,309 likes - 75 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 42 | [Sleepy Dragon](https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y) | [Sunmoonstar](https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu) | [Breathing Instruments](https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe) | 2:00 |
 | 43 | [Vu Hijera](https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Vu Hijera](https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC) | 4:21 |
 | 44 | [Open plain](https://open.spotify.com/track/730hlLtDWpD2i0492i9rME) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 4:59 |
-| 45 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 |
-| 46 | [cells\_](https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [cells\_](https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv) | 2:25 |
-| 47 | [Starethrough \- Transition Mix](https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [St / Fr / Sp](https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w) | 5:04 |
-| 48 | [Last Earth](https://open.spotify.com/track/553pFfksyASLhP9Px67yNv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib) | 2:19 |
+| 45 | [cells\_](https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [cells\_](https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv) | 2:25 |
+| 46 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 |
+| 47 | [Last Earth](https://open.spotify.com/track/553pFfksyASLhP9Px67yNv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib) | 2:19 |
+| 48 | [Starethrough \- Transition Mix](https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [St / Fr / Sp](https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w) | 5:04 |
 | 49 | [The Secret Garden](https://open.spotify.com/track/0I500KXvf7ecFdSbd2lQtR) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Secret Garden](https://open.spotify.com/album/7Lhvt5nCdHqiKy07HgDWFd) | 4:41 |
 | 50 | [My Birthday Suit](https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob) | [Hexsystem](https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh) | [My Birthday Suit](https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX) | 3:45 |
 | 51 | [Tide Pools](https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Tide Pools](https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH) | 4:28 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 56 | [The Station Is Alive Again](https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za) | [Hermbot](https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt) | [Moonbase Alpha](https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO) | 2:25 |
 | 57 | [Tanto](https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Tanto](https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm) | 3:36 |
 | 58 | [Bright\-eyed Hunger \- Kaitlyn Aurelia Smith Remix](https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK), [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Bright\-eyed Hunger \(Kaitlyn Aurelia Smith Remix\)](https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9) | 3:12 |
-| 59 | [Orange Blue Green](https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Orange Blue Green](https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz) | 2:45 |
-| 60 | [The Hermit](https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 7:32 |
-| 61 | [Sonic Winds](https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY) | [Patrick Zelinski](https://open.spotify.com/artist/3aO62ba1Nshyxrde8Xl34K), [Karl Edh](https://open.spotify.com/artist/3u9sMHkflBCzImVRg3qz6K), [Ryan Dimmock](https://open.spotify.com/artist/65WnZtOZVExOO0YRCPjEZY) | [Sonic Winds](https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z) | 2:46 |
+| 59 | [The Hermit](https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 7:32 |
+| 60 | [Sonic Winds](https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY) | [Patrick Zelinski](https://open.spotify.com/artist/3aO62ba1Nshyxrde8Xl34K), [Karl Edh](https://open.spotify.com/artist/3u9sMHkflBCzImVRg3qz6K), [Ryan Dimmock](https://open.spotify.com/artist/65WnZtOZVExOO0YRCPjEZY) | [Sonic Winds](https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z) | 2:46 |
+| 61 | [Orange Blue Green](https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Orange Blue Green](https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz) | 2:45 |
 | 62 | [Snow Ritual \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/5t3I5yqfEAJoDbZmPiT9vJ) | [Alister Fawnwoda](https://open.spotify.com/artist/16Vq22oDSB5NDYczsnJ89o), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Milan](https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo) | 7:42 |
 | 63 | [Rambutan](https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music Vol 2: Fruits and Flowers of Hawai'i](https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb) | 5:04 |
 | 64 | [Interlude 03](https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t) | [Farsi](https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M) | [Interlude 03](https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl) | 3:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 70 | [A1\. J\-Math](https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [Geoglyph](https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl) | 6:04 |
 | 71 | [Particulator](https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1) | [Jstory](https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji) | [Good Sound](https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF) | 4:11 |
 | 72 | [Every Night](https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [The Sparrow](https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt) | 5:57 |
-| 73 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 |
-| 74 | [La colline](https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5) | [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b), [Clemens Hourriere](https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6) | [Five Steps](https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR) | 4:40 |
+| 73 | [La colline](https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5) | [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b), [Clemens Hourriere](https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6) | [Five Steps](https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR) | 4:40 |
+| 74 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 |
 | 75 | [Alternations](https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd) | [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Scene Memory 2](https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn) | 3:06 |
 
-Snapshot ID: `MCxmMTMxMGZjYTNjZWNhZDJjMDgyNjljZmZhMjEyYjg1MDgyYzRiNjE0`
+Snapshot ID: `MCw2YTE5MzQ1YThlZWZlOWNlOTRjYjQ5YjkwY2Y0YThkOTcyNzRkNTVj`

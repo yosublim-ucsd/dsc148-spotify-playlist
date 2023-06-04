@@ -4,7 +4,7 @@
 
 > Discover indie covers\. Cover: Lovejoy
 
-395 songs - 1 day 0 hr 14 min
+396 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 | 2021-03-12 | 2022-07-29 |
 | [Lay All Your Love on Me](https://open.spotify.com/track/1XfbGoHFVubq0t4Bw8dPre) | [Pale Honey](https://open.spotify.com/artist/5vINmZdKrgF32tSV2adC7q) | [Lay All Your Love on Me](https://open.spotify.com/album/25LbjtI4lwZKcYhkHxPcwx) | 3:59 | 2021-03-12 | 2022-04-12 |
 | [Light Years \- The National Cover](https://open.spotify.com/track/7uAhjayzJxAo7lnmcyAqqg) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Light Years \(The National Cover\)](https://open.spotify.com/album/15rgJS2CtlWy2BscYiHpvr) | 3:01 | 2021-03-12 | 2022-07-29 |
-| [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 | 2022-05-20 |  |
+| [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 | 2022-05-20 | 2023-06-04 |
 | [Like a Virgin](https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Like a Virgin](https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE) | 3:27 | 2021-03-12 | 2022-04-12 |
 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 | 2021-03-12 | 2022-08-10 |
 | [Line Of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW), [Elias Araya](https://open.spotify.com/artist/5sIkHEIJz1lDVV4PHV6tPs), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Tobias Winterkorn](https://open.spotify.com/artist/6zL6OfCqiThdz2GXTLIB0K) | [Line Of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/album/2rGFxglu6CsziJdvShqaut) | 5:38 | 2023-05-26 |  |
@@ -342,6 +342,7 @@
 | [This Must Be The Place \- Talking Heads Cover](https://open.spotify.com/track/7lb3KFSZJQmClYK9NjDcPl) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [This Must Be The Place \(Talking Heads Cover\)](https://open.spotify.com/album/5CVd6HJNljPHLdjq4cDih2) | 3:24 | 2021-03-12 | 2022-07-20 |
 | [This Time Around](https://open.spotify.com/track/0FS8j0Ft1O5Dik7NfogTGf) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [This Time Around](https://open.spotify.com/album/3zsAhHvn0VOa7G9HPFauVC) | 4:04 | 2021-03-12 | 2022-07-28 |
 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 | 2021-03-12 |  |
+| [Three Hours](https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT) | 4:32 | 2023-05-26 |  |
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-03-12 | 2022-08-10 |
 | [Time After Time](https://open.spotify.com/track/3HDZQxaCWGJPw3fVVmFGIO) | [Cigar Cigarette](https://open.spotify.com/artist/6WGuOKz6ZtJRcioWOMy9My), [MOTHERMARY](https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA) | [Time After Time](https://open.spotify.com/album/66GlghGOJDomu7fXWrkEWo) | 4:19 | 2021-04-19 | 2022-04-11 |
 | [Time Out of Mind](https://open.spotify.com/track/495mG0890vzv6TGc4Fltxd) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Time Out of Mind](https://open.spotify.com/album/3RQ11zU2MBm5mz5xEHXGRB) | 3:39 | 2021-03-12 | 2022-07-18 |

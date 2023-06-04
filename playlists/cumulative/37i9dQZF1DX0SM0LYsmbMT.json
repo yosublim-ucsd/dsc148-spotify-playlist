@@ -15941,6 +15941,28 @@
     },
     {
       "album": {
+        "name": "Reconnection",
+        "url": "https://open.spotify.com/album/0b9ZTvwi4fAZdCSDx9oHK8"
+      },
+      "artists": [
+        {
+          "name": "Burrito Eats",
+          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141951,
+      "name": "Dreaming Up",
+      "url": "https://open.spotify.com/track/7kRQqPLU5CsGXGMUv5olTd"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/2eF83llUWqhdsYLxwYv1Tm"
       },
@@ -25898,6 +25920,24 @@
       "duration_ms": 132315,
       "name": "homecoming",
       "url": "https://open.spotify.com/track/1sYJkAqKSV74NsaY0VBU5C"
+    },
+    {
+      "album": {
+        "name": "Homecooking",
+        "url": "https://open.spotify.com/album/0SBmOpP4rB6nvKK82sYuXr"
+      },
+      "artists": [
+        {
+          "name": "Platinum Dust",
+          "url": "https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131944,
+      "name": "Homecooking",
+      "url": "https://open.spotify.com/track/3rr4I5VFW8TJebCkbrQK3N"
     },
     {
       "album": {
@@ -57004,7 +57044,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 139616,
       "name": "Steadyme",
       "url": "https://open.spotify.com/track/6U374P7SqFo42pRrZZJkWx"
@@ -66484,7 +66524,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 118500,
       "name": "Visions",
       "url": "https://open.spotify.com/track/02yenYooBHpsyauoHBQKIl"

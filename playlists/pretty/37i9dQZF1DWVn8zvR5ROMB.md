@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Corey Kent, Jelly Roll, Lauren Alaina and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,404 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,717 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 19 | [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 |
 | 20 | [Layaway](https://open.spotify.com/track/3ek1xBskVhQc7VgzRuSAO9) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Layaway](https://open.spotify.com/album/7JZJw2ZjWy9wvCbUQrkMpC) | 3:29 |
 | 21 | [BREAKIN’ DOWN](https://open.spotify.com/track/7klMpm5YLGatfDS9aMPB7V) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BREAKIN’ DOWN](https://open.spotify.com/album/6uWHDARnoZcn1V44fODCme) | 2:46 |
-| 22 | [Women and Horses \(feat\. Brandy Clark\)](https://open.spotify.com/track/0KjtzuS5bDYoICk5t2xMyE) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Women and Horses](https://open.spotify.com/album/2QcJKU6A5kUpzIR2LfCIqR) | 4:13 |
+| 22 | [Women And Horses \(feat\. Brandy Clark\)](https://open.spotify.com/track/0KjtzuS5bDYoICk5t2xMyE) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Women And Horses](https://open.spotify.com/album/2QcJKU6A5kUpzIR2LfCIqR) | 4:13 |
 | 23 | [All That You Leave Behind](https://open.spotify.com/track/7iKI3B2bh5jtJ7gtDCOfd1) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Campfire Troubadour, Vol\. 2](https://open.spotify.com/album/3Z5fSz7pKWrnuG6Tki1lNL) | 3:50 |
 | 24 | [Midnight Cowboy](https://open.spotify.com/track/3A87zFS6D9lsVwPYNu75CH) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Midnight Cowboy](https://open.spotify.com/album/679tqI26kV3acRq87ZxpRC) | 3:08 |
 | 25 | [It's Going Down](https://open.spotify.com/track/11AhOBHzBFOYd5vrylorgK) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [It's Going Down](https://open.spotify.com/album/4mYrW2yjTVXSEhoSKjCF22) | 2:10 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 64 | [I Thought Wrong](https://open.spotify.com/track/5Yzw0PsR0v3sNk4ZwfMHGH) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [I Thought Wrong](https://open.spotify.com/album/04EgGtKlnzafoBbWwiEmkn) | 3:14 |
 | 65 | [It Kills Me](https://open.spotify.com/track/15yBlEzZmBzbJzi97OyHTh) | [Annika](https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo) | [It Kills Me](https://open.spotify.com/album/60wAZZKfMtgMgdeS9Kg0gI) | 3:53 |
 
-Snapshot ID: `MCwxMTlmM2U4ODljNWJiZjVkOWU4NmZhZjRhYjdhNjc5MTgxZDRiY2Ni`
+Snapshot ID: `MCw2MGIxNmM5N2M4MTVjYmRiYjJjZWM3N2RkYmFlOGEyZjE0ODM3ZTFi`

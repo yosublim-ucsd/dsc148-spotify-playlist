@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 5756,
+  "num_followers": 5779,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTNjMTZhYTk4Zjc3ZjIwZTZhNmRkZDY4MGY4YTY1NGI4NjNmYjI3",
+  "snapshot_id": "MCw5ODQyNWIwNzhlNzUxOWZjZDQ3MjI4ODQ4NWE1MjU4Y2NiMTM2OTdm",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Daily Bread",
+        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 225693,
       "name": "The Marathon Continues (Nipsey Tribute) - Bonus Track",
       "url": "https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Daily Bread",
-        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Daily Bread",
-      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
     },
     {
       "added_at": "2022-10-01 20:31:11",

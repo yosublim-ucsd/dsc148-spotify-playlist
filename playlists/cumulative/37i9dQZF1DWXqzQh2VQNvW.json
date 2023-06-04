@@ -4087,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "Songs for the Weekend",
+        "url": "https://open.spotify.com/album/2Jv3BZfVHNjL8iAW2heUpI"
+      },
+      "artists": [
+        {
+          "name": "FRENSHIP",
+          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206130,
+      "name": "Songs for the Weekend",
+      "url": "https://open.spotify.com/track/4aCQO9GLpJrke4bZ70r7B0"
+    },
+    {
+      "album": {
         "name": "Songs for The Weekend",
         "url": "https://open.spotify.com/album/5seYeaPLAUlMpibLumx0Wb"
       },
@@ -4098,7 +4116,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 206130,
       "name": "Songs for The Weekend",
       "url": "https://open.spotify.com/track/7bLhDVopMpJfZuDm3aqCyo"

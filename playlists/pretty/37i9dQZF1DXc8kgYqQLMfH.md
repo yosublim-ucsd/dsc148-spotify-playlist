@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,235 likes - 499 songs - 18 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,253 likes - 499 songs - 18 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -508,4 +508,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 498 | [Koala](https://open.spotify.com/track/0NjvQBTNaCpdg2Ih9Wctci) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Koala](https://open.spotify.com/album/3e0cmeU0FqS4dVPkfn7k1F) | 1:36 |
 | 499 | [Tune in](https://open.spotify.com/track/4L6KI2P3DKrJU69ff6C1QZ) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Tune in](https://open.spotify.com/album/4Lvc7H7bGRI8KokdHdBTu4) | 2:15 |
 
-Snapshot ID: `MCw1M2YxYjUyNDBlYmI5YjgxZjY4NzY3NDZkNmE1NmQ2ODdhODIxYzUy`
+Snapshot ID: `MCwxZTZjM2QyNmQ4MjY3YWE5Njg0Mjc5OGQxN2E0MjRhNzQ3YjI0ODJh`

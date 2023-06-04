@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 293920,
       "name": "MotherLake",
       "url": "https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp"
@@ -2694,6 +2694,28 @@
       "duration_ms": 465383,
       "name": "When A Man Loves A Woman",
       "url": "https://open.spotify.com/track/5BiOhaS9NGbRPDV2AKzvwZ"
+    },
+    {
+      "album": {
+        "name": "White Runway",
+        "url": "https://open.spotify.com/album/2P0laiKlcFWjr8WUIbiXCe"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282413,
+      "name": "White Runway",
+      "url": "https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V"
     },
     {
       "album": {

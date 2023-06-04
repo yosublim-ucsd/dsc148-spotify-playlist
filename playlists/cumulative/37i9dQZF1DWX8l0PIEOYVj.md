@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: ARMNHMR & Lights.
 
-363 songs - 21 hr 52 min
+364 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Another Way](https://open.spotify.com/track/6sm1OQ89659UUpGctNTXvv) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Another Way](https://open.spotify.com/album/2k8sl8eCdvZGmLT2udUJLe) | 4:51 | 2022-10-07 |  |
 | [Anti\-Hero \- ILLENIUM Remix](https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Anti\-Hero \(ILLENIUM Remix\)](https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6) | 4:27 | 2022-11-18 |  |
 | [Army Of Angels](https://open.spotify.com/track/5C8Xk9oi6Kpiln7ZdEe1JQ) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH), [ANDY KAUTZ](https://open.spotify.com/artist/3LOMW9qqOdqeimIDQNmMIh) | [Army Of Angels](https://open.spotify.com/album/08vRZUFEVTfO1Qd7oVIMxG) | 4:33 | 2022-09-09 |  |
+| [Art Of Letting Go \(feat\. James Gillespie\)](https://open.spotify.com/track/4dt4MyGRdBmpAukq0r5GuX) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Discovery](https://open.spotify.com/album/1PpVHHdTAnWPTWg2v6ERZH) | 3:22 | 2023-06-02 |  |
 | [As Above So Below](https://open.spotify.com/track/5ZYi0t2DmjYEIvANnvHYKN) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq), [Macky](https://open.spotify.com/artist/6HkeW3Skr3NaxC6uWXw2lJ) | [As Above So Below](https://open.spotify.com/album/0XXmZS61tYClRAcJU5oXHG) | 2:16 | 2022-07-08 |  |
 | [Awaken](https://open.spotify.com/track/6cXUM8nvtbs9rsn1IPVtZB) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [NOHC](https://open.spotify.com/artist/4UkPjMAJX3pG27D7uaubXG) | [Awaken](https://open.spotify.com/album/2umbvECEkmXv27TTDi1z0B) | 6:27 | 2022-07-08 |  |
 | [Away From Myself](https://open.spotify.com/track/1MTHQrIE43p9HnjtC5kBDP) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Away From Myself](https://open.spotify.com/album/2X04oTtQLfh0rcvHVsbcbB) | 3:12 | 2022-07-08 | 2023-04-09 |
@@ -235,7 +236,7 @@
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-07-08 | 2023-05-27 |
 | [NEED IT](https://open.spotify.com/track/6Ycrb9oeP1wqg2zDSjdeEF) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [NEED IT](https://open.spotify.com/album/6hRN1GU6dWV7MU81ZTbL7i) | 2:41 | 2023-03-03 |  |
 | [Never Get Like You](https://open.spotify.com/track/0ZVqAkTI1bubdASG5Rm62r) | [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [What It Used To Be EP](https://open.spotify.com/album/5zIoYzixuK56wDyqLOgylH) | 3:58 | 2022-07-08 | 2022-08-13 |
-| [New Horizons](https://open.spotify.com/track/67ApDC2MLl6hJXc2iwKNcx) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [New Horizons](https://open.spotify.com/album/5wYxsRyzQb97jskV9DVAqa) | 3:29 | 2022-07-22 |  |
+| [New Horizons](https://open.spotify.com/track/67ApDC2MLl6hJXc2iwKNcx) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [New Horizons](https://open.spotify.com/album/5wYxsRyzQb97jskV9DVAqa) | 3:29 | 2022-07-22 | 2023-06-04 |
 | [Not Giving In](https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ) | [Not Giving In](https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK) | 3:07 | 2022-11-11 | 2023-04-09 |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-07-08 |  |
 | [Oceans & Galaxies](https://open.spotify.com/track/5NQKpa6uCqZcaFkAbUK4XB) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Oceans & Galaxies](https://open.spotify.com/album/68ktA77AGDVlrifYU53GzL) | 3:20 | 2022-07-08 | 2022-08-27 |

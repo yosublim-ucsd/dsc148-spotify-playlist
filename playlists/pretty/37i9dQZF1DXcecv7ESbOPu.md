@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,651 likes - 114 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,672 likes - 114 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 46 | [Motion](https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Motion](https://open.spotify.com/album/2R9a1Kl1u7OT9WlUjVyvVd) | 2:28 |
 | 47 | [I Wish \(feat\. Libianca\)](https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Wish \(feat\. Libianca\)](https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o) | 2:43 |
 | 48 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 |
-| 49 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
+| 49 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
 | 50 | [ghost house](https://open.spotify.com/track/2qQzFFGQaoJTu7WkVH6H5Q) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [ghost house](https://open.spotify.com/album/2IGVlVjXsvvY4OU5js3jBj) | 3:41 |
 | 51 | [The Glass](https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:49 |
 | 52 | [80´s](https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [80´s](https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV) | 3:30 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 70 | [UFO](https://open.spotify.com/track/0PujXK4qkWx1TwpNzQuCCP) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [UFO](https://open.spotify.com/album/41bLs9vO65L6zKetSZUfPQ) | 2:52 |
 | 71 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 |
 | 72 | [lotion](https://open.spotify.com/track/4B4AaByNjHfV4rGq1NBB9M) | [Hips](https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP) | [lotion](https://open.spotify.com/album/7DgrD9gf2Mig9O4joxbX4x) | 2:06 |
-| 73 | [VI 1](https://open.spotify.com/track/3ZsAluSu04Fd3LVZzLtv2B) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [VI 1](https://open.spotify.com/album/5gcqWehKcOuiyVSjk3D1k8) | 2:49 |
+| 73 | [Vi 1](https://open.spotify.com/track/3ZsAluSu04Fd3LVZzLtv2B) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Vi 1](https://open.spotify.com/album/5gcqWehKcOuiyVSjk3D1k8) | 2:49 |
 | 74 | [Öppet Hav \(feat\. Sandra Isabel\)](https://open.spotify.com/track/5UJmZgbI0jAEbNj6TzEiPk) | [Simon Emanuel](https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ), [Sum Comfort](https://open.spotify.com/artist/5bGZv8x0se674jzkn0rnfP), [Sandra Isabel](https://open.spotify.com/artist/1uS3T1JFEw7W8yxDEgbfXt) | [10 Somrar Senare](https://open.spotify.com/album/5mxMBUII9sZLTvnVX02sZc) | 3:19 |
 | 75 | [BON VOYAGE](https://open.spotify.com/track/4wreTknvbIQTutb55QZgeh) | [AFASI](https://open.spotify.com/artist/2nzZMYBJDKiTejsLV0NQT9) | [BON VOYAGE](https://open.spotify.com/album/1RI5Jdjl91jXF0VKk2hGKc) | 2:21 |
 | 76 | [Police](https://open.spotify.com/track/5mDWeGnMTjXCr1usAH9ubX) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS), [The Greys](https://open.spotify.com/artist/6apNNO7QWui1YEMQOZ7TKy) | [Police](https://open.spotify.com/album/2LjAHYpS9tlnJa3KJUNofL) | 2:31 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 113 | [Loser](https://open.spotify.com/track/1BUdgxjmGFXqnpkkQpjBhs) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [Loser](https://open.spotify.com/album/6ENf0Ou4XGLh1BQ9Wjug2A) | 2:52 |
 | 114 | [Hyper Hyper](https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Hyper Hyper](https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi) | 2:58 |
 
-Snapshot ID: `MCw3MTA1YzJlYWM4NDYxNTg1NDE3MTg3YjlmYTEzOGQ0NmU0ZTgyYzBi`
+Snapshot ID: `MCw4YjIyZTNjMjQ5NWE2MjMwYzA4MWQyNzMzNzZlMWU3ZjAxYWNjMmE1`

@@ -1,12 +1,12 @@
 {
   "description": "the pearls of an oyster",
-  "num_followers": 122098,
+  "num_followers": 122102,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWVhNTdkNTg0NTdkZjg3YjI0Njk4YTIxYTNjYzVhY2JlZWU2ODg4",
+  "snapshot_id": "MCw4OTg2YWM1NTBhNTExNWZmNzFkOWUzOWMyMmIwZDFlYThiMDVlZTI0",
   "tracks": [
     {
       "added_at": "2023-06-01 23:49:46",
@@ -438,6 +438,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
       "duration_ms": 241979,

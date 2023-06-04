@@ -4,7 +4,7 @@
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-309 songs - 17 hr 45 min
+310 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Je me souviens](https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6) | [Je me souviens](https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso) | 3:09 | 2022-05-25 | 2023-04-13 |
 | [Je me souviens de la terre](https://open.spotify.com/track/5mgdFBGshICZLuasJMTUpi) | [Armelle Pioline](https://open.spotify.com/artist/13N2Ic1oyYig5SiwlOX9JE) | [Mia l'enfant mer \(Conte musical\)](https://open.spotify.com/album/2Q234h80GFxaKw2Jj9kDZH) | 3:44 | 2022-05-25 | 2022-07-24 |
 | [Je n'irai pas ailleurs](https://open.spotify.com/track/2gLFwnKgi5aPIKCo6tYzPR) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [France d'Amour](https://open.spotify.com/album/5z4QHFL6rFZxr9hTsbJz7P) | 3:35 | 2022-05-25 | 2023-04-13 |
-| [Je reviendrai à montréal](https://open.spotify.com/track/6CHAzq80x6ZL9f9N0SIpyL) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [50 ans, 50 chansons](https://open.spotify.com/album/65gLozxaMlkB9P8q41zCfB) | 3:30 | 2023-05-25 |  |
+| [Je reviendrai à Montréal](https://open.spotify.com/track/4e8LJBfqbFPybUtCUnLh2E) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Tout écartillé \(Édition deluxe\)](https://open.spotify.com/album/6CVsvtnm5djtroRFwBmbJ2) | 3:30 | 2023-05-25 |  |
+| [Je reviendrai à montréal](https://open.spotify.com/track/6CHAzq80x6ZL9f9N0SIpyL) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [50 ans, 50 chansons](https://open.spotify.com/album/65gLozxaMlkB9P8q41zCfB) | 3:30 | 2023-05-25 | 2023-06-04 |
 | [Je t'ai manqué](https://open.spotify.com/track/033NZg6ZCt8UOG1U7Y4bB0) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Les chevaux du plaisir \(Boulay chante Bashung\)](https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV) | 3:55 | 2023-04-12 |  |
 | [Je t’aime](https://open.spotify.com/track/4qywUTrv0kO4e5Gr8rvZbE) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Fauve](https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1) | 4:13 | 2022-05-25 | 2023-04-13 |
 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 | 2022-05-25 |  |

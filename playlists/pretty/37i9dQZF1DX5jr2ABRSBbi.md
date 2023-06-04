@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Laura Weng
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,815 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,814 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [I Think I Don't Understand](https://open.spotify.com/track/3ni9pYBE9LVwbinEwQ0cQw) | [Kaya](https://open.spotify.com/artist/2zzGa3s9F0bQ7Tp4YDcweH) | [I Think I Don't Understand](https://open.spotify.com/album/04V50WP0eGYgaCo29E9cmM) | 3:03 |
 | 50 | [Spicylicious](https://open.spotify.com/track/6V6BsHuezOczpkPz7ncl9i) | [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F) | [Až budu velká, chci být Aneta Charitonova](https://open.spotify.com/album/72Px5AQMKmpdfYwgYFBcHs) | 3:00 |
 
-Snapshot ID: `MCwzYjNhOTNmYmUwNjU2M2NjMzFhMjI2Y2JhYzU5Y2IxMGI3OTJhNjM3`
+Snapshot ID: `MCwyYmI5MzBlZjBjNmU4Yzc3YmFiZTgwZjE3YmU5OWMxOGI0M2Q2OTA4`

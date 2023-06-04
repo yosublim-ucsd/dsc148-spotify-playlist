@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,354 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,393 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 8 | [Pull Up \(feat\. 21 Savage\)](https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NAUJOUR](https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V) | 2:13 |
 | 9 | [Sold Out](https://open.spotify.com/track/0tsSie4eHruN6tUQglEG6q) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Sold Out](https://open.spotify.com/album/0gDYh5i1zgV8JLvXe5YvJr) | 1:46 |
 | 10 | [Top Speed \(feat\. Giggs & Marksman\)](https://open.spotify.com/track/1cjBX23hWC5jHmsUXuJ1KP) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Top Speed \(feat\. Giggs & Marksman\)](https://open.spotify.com/album/6vPWjEGgjxkemGzOKa1pAQ) | 2:55 |
-| 11 | [hue\_man nature](https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [NO ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [hue\_man nature](https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v) | 1:40 |
+| 11 | [hue\_man nature](https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [hue\_man nature](https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v) | 1:40 |
 | 12 | [Ms\. Do You Wrong](https://open.spotify.com/track/3kuby3Wz1hjeSgCFVB4Xn1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Ms\. Do You Wrong](https://open.spotify.com/album/3dheKefbYeaYT97B6bxEzW) | 1:53 |
 | 13 | [War Bout It \(feat\. 21 Savage\)](https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:40 |
 | 14 | [Thinking About Drilling](https://open.spotify.com/track/1QLgRHLG9sQXq4Plb600kj) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Thinking About Drilling](https://open.spotify.com/album/5ZgqagL5UMDxxvEECOLeKC) | 1:59 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Proceed](https://open.spotify.com/track/41Ta2RtJux73U0xxE8oS93) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [World Class Trouble Solvers](https://open.spotify.com/album/2XdJ8pSuKFgaxUTmjaAh8d) | 2:03 |
 | 49 | [BRIGHT LIGHTS](https://open.spotify.com/track/7EtjmcfEq1o0jq9hhDtxg4) | [Afta Hill](https://open.spotify.com/artist/2QyfQWgIraqOxY6uBmwP6f) | [BRIGHT LIGHTS](https://open.spotify.com/album/7souShPEx912BRb3ZCF959) | 1:52 |
 
-Snapshot ID: `MCwwNTU2MzRjMjM3Zjk0M2I0OGU5MjQ4NDUyZDc3MjU4MjY5ZjgwMzcy`
+Snapshot ID: `MCwwODY4MjVkNjU5YjU5MTAzNDU1ZDkyYTBjYjEyNzdkYzFkNjUyOGU0`

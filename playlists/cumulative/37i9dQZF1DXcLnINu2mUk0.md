@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-320 songs - 17 hr 31 min
+321 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 | 2022-07-07 |  |
 | [Ficou Tudo Bem](https://open.spotify.com/track/1vWvJFkIrMZUnkxA4A0IUU) | [Sara Monteiro](https://open.spotify.com/artist/5HELMWN5G2dNC2AOXn2VNu) | [Ficou Tudo Bem](https://open.spotify.com/album/7BT0ho7Rb4dlFIkFiHrqqC) | 3:23 | 2023-03-17 | 2023-03-31 |
 | [Filtros](https://open.spotify.com/track/1FDIrQqgzUyG0sc6kYusDI) | [Idelsa](https://open.spotify.com/artist/0mXFos6Vf02A5AReZz9i5p), [Yara Bonga](https://open.spotify.com/artist/6BhSNJjeu7P8rEP2lOQ4Pw) | [Filtros](https://open.spotify.com/album/1lDlsWp44yKP7kCe04msjo) | 3:08 | 2023-05-11 | 2023-05-19 |
+| [Flowers](https://open.spotify.com/track/2Fcc9TGfcw6BQbScMxWeua) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Jump In](https://open.spotify.com/album/0D8CRbaOwXs9QBcwXNFdGc) | 3:37 | 2023-06-01 |  |
 | [Forever Na Street](https://open.spotify.com/track/2Vbx8D4gpGQinSC4sDzHjH) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Forever Na Street](https://open.spotify.com/album/0SYbOWZfcjV2Eqwq1XtMZk) | 2:33 | 2023-03-30 | 2023-04-21 |
 | [Foste um Vício](https://open.spotify.com/track/205EI5BcZGUAmr2CDLT8Au) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Foste um Vício](https://open.spotify.com/album/0YRohggaep7lzKfXr1xfxs) | 3:21 | 2022-09-22 | 2022-10-14 |
 | [Friend Zone](https://open.spotify.com/track/4miuy3pvA6hu4P064319An) | [AYCIRE](https://open.spotify.com/artist/0TaEbExGFUq0KXTfQyaiDJ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Friend Zone](https://open.spotify.com/album/4nyYQUcbQiFIoeWKx6ra23) | 2:59 | 2023-03-01 | 2023-03-25 |
@@ -324,7 +325,7 @@
 | [XtraLife](https://open.spotify.com/track/5mWBcTJHjj38y1JHOl34Gc) | [Raphaël](https://open.spotify.com/artist/4iEURKVv81eLdh9BoLM0uC) | [XtraLife](https://open.spotify.com/album/2kaDHvQQkkxoP6PpLFSwF9) | 2:30 | 2022-07-21 | 2022-07-23 |
 | [Yah!](https://open.spotify.com/track/1Kvz7W6IZop2tbX81Q6Q33) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Yah!](https://open.spotify.com/album/1EBjP3zq575YxmWdP8NtJR) | 2:48 | 2023-05-18 | 2023-06-02 |
 | [You](https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 2:51 | 2022-12-02 | 2023-01-06 |
-| [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 | 2023-06-01 |  |
+| [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 | 2023-06-01 | 2023-06-04 |
 | [Água](https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl) | [Mariana Norton](https://open.spotify.com/artist/7BSpO7wslykpYhNpwRbDTV) | [Água](https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc) | 3:27 | 2023-05-18 |  |
 | [Última Chance](https://open.spotify.com/track/6zCBcd3eIbyjiz2f0IyQgi) | [Cabo](https://open.spotify.com/artist/1qdZozQ0iarVm0ezFEHGex) | [Ansiedade & Paranóias](https://open.spotify.com/album/62QwzAOPcbroYvq9CDpcP8) | 3:48 | 2023-03-03 | 2023-03-31 |
 | [Última Vez](https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Última Vez](https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW) | 3:25 | 2022-09-29 | 2022-11-18 |

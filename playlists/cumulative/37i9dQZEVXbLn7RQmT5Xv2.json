@@ -540,7 +540,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 209851,
       "name": "Aleky Eyoun",
       "url": "https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 196206,
       "name": "Dawly",
       "url": "https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU"
@@ -3901,6 +3901,24 @@
     },
     {
       "album": {
+        "name": "Hanetabel",
+        "url": "https://open.spotify.com/album/1DK0H8a3CkT6858LBzYURD"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Hanetabel",
+      "url": "https://open.spotify.com/track/5ytdOKZA6wkA6eS7rnDB4p"
+    },
+    {
+      "album": {
         "name": "Hanfantazook",
         "url": "https://open.spotify.com/album/1v1IZilOvTvNVY78mYz0d4"
       },
@@ -4126,7 +4144,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 120017,
       "name": "HOSS",
       "url": "https://open.spotify.com/track/5JXzcZBkizj6fFjPHpeV1N"
@@ -9444,7 +9462,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 159493,
       "name": "Ultra Attack",
       "url": "https://open.spotify.com/track/1sMQ7tHNtu0TbE8L15EC2h"
@@ -9582,7 +9600,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 179284,
       "name": "W El 7al Eh",
       "url": "https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB"
@@ -10924,7 +10942,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-04",
       "duration_ms": 157000,
       "name": "\u062d\u062f\u0648\u062a\u0647 \u0627\u0644\u0645\u0627\u0646\u0649",
       "url": "https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy"
@@ -11624,6 +11642,24 @@
       "duration_ms": 153604,
       "name": "\u0641\u0627\u0646\u062a\u0627\u0632\u064a\u0627",
       "url": "https://open.spotify.com/track/1Ryokp2XGqiw1Mh6NTmKUV"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0631\u0627\u0645\u064a\u0637 \u0642\u0631\u0627\u0645\u064a\u0637 \u0648 \u0627\u0644\u0647\u0644\u0627\u0641\u064a\u062a \u0639\u0627\u0645\u0644\u064a\u0646 \u0645\u0638\u0627\u0628\u064a\u0637 (\u0635\u062d\u0628\u064a \u0627\u0644\u0644\u064a \u0627\u062f\u0627\u0643 \u064a\u062f\u064a\u0646\u0627 )",
+        "url": "https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV"
+      },
+      "artists": [
+        {
+          "name": "Karim Cristiano",
+          "url": "https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231471,
+      "name": "\u0642\u0631\u0627\u0645\u064a\u0637 \u0642\u0631\u0627\u0645\u064a\u0637 \u0648 \u0627\u0644\u0647\u0644\u0627\u0641\u064a\u062a \u0639\u0627\u0645\u0644\u064a\u0646 \u0645\u0638\u0627\u0628\u064a\u0637 (\u0635\u062d\u0628\u064a \u0627\u0644\u0644\u064a \u0627\u062f\u0627\u0643 \u064a\u062f\u064a\u0646\u0627 )",
+      "url": "https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc, Ludmilla",
-  "num_followers": 425188,
+  "num_followers": 425216,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmFjYjc4NWVlMDZkY2M0MWQzNjc0OTEwYWMwNzZmZmNlZWMwNWY2",
+  "snapshot_id": "MCxlOTZhNWM5ODk3MDc4YjExYjM1Nzc0NDkyMGM2ZjFiYjI1MWQzN2Iz",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Depois de Te Encontrar",
-        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 193804,
-      "name": "Depois de Te Encontrar",
-      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Lance ou Romance",
         "url": "https://open.spotify.com/album/3KjkGGle84fgZbwHGvCnFc"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "te decorei em mim",
-        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
       },
       "artists": [
         {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 177078,
-      "name": "te decorei em mim",
-      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -755,6 +739,22 @@
       "duration_ms": 197883,
       "name": "Rara",
       "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "te decorei em mim",
+        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 177078,
+      "name": "te decorei em mim",
+      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Marshmallow Flor De Sal (Deluxe)",
-        "url": "https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm"
-      },
-      "artists": [
-        {
-          "name": "Suricato",
-          "url": "https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Tons De Blue - Faixa B\u00f4nus",
-      "url": "https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Dias Claros",
         "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 151874,
       "name": "Dias Claros",
       "url": "https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Marshmallow Flor De Sal (Deluxe)",
+        "url": "https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm"
+      },
+      "artists": [
+        {
+          "name": "Suricato",
+          "url": "https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Tons De Blue - Faixa B\u00f4nus",
+      "url": "https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Olimpo ou Raz\u00e3o",
-        "url": "https://open.spotify.com/album/50vx9RdFlaRbd4xbEMMPaI"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        }
-      ],
-      "duration_ms": 221724,
-      "name": "Olimpo ou Raz\u00e3o",
-      "url": "https://open.spotify.com/track/2rXdrKghnoYK6NJVqE5y6I"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Olhar Sereno",
         "url": "https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 185552,
       "name": "Olhar Sereno",
       "url": "https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Olimpo ou Raz\u00e3o",
+        "url": "https://open.spotify.com/album/50vx9RdFlaRbd4xbEMMPaI"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "duration_ms": 221724,
+      "name": "Olimpo ou Raz\u00e3o",
+      "url": "https://open.spotify.com/track/2rXdrKghnoYK6NJVqE5y6I"
     },
     {
       "added_at": "2023-06-02 03:00:00",

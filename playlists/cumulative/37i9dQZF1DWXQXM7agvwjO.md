@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Ethan Low
 
-802 songs - 2 day 0 hr 1 min
+803 songs - 2 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Kahaani](https://open.spotify.com/track/6gK2gR0uyFFYJ5sKH4zyjx) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kahaani](https://open.spotify.com/album/5DShAPJRVmP2Z0cmcjm1wW) | 3:35 | 2022-10-06 | 2022-12-02 |
 | [Kahlua](https://open.spotify.com/track/5N02Th5pGOdtkxkJCjiNM4) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Kahlua](https://open.spotify.com/album/5PgfK9TLOnxbfpVUNtBsR3) | 3:06 | 2023-03-09 | 2023-04-25 |
 | [KALA](https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Mario Camarena](https://open.spotify.com/artist/1C5b4zPDtIjrhOVVvBBtCZ) | [SIMILAR](https://open.spotify.com/album/4eEgCTAwqEajxJNFw0bwYA) | 3:19 | 2023-03-23 | 2023-05-19 |
+| [Kami Khawatir, Kawan](https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Kami Khawatir, Kawan](https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P) | 4:25 | 2023-06-01 |  |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-03-24 | 2022-04-15 |
 | [Keeping Love](https://open.spotify.com/track/2GH3BL5NCoTZuiwppeGvtX) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Keeping Love](https://open.spotify.com/album/0uplHKgYixtwWOb5eZc5VL) | 1:56 | 2023-03-31 | 2023-05-05 |
 | [kid](https://open.spotify.com/track/6UPSUyqX0ofQhs9ompDzHa) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [kid](https://open.spotify.com/album/3MtzL6M8tVCojmQzokuSSU) | 2:25 | 2023-05-25 | 2023-05-31 |
@@ -484,7 +485,7 @@
 | [Only](https://open.spotify.com/track/76GeMJsP6dA2h0bvyGPoW2) | [ROYAL ESTATE](https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh) | [Only](https://open.spotify.com/album/1zX1x4Ccl9yXvqdCQmqXdu) | 3:28 | 2023-01-19 | 2023-02-24 |
 | [Only Ever in Daylight](https://open.spotify.com/track/06jRyRIKqc5BCB6lmsELZP) | [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Only Ever in Daylight](https://open.spotify.com/album/2DXbHvDx5b0AjqMpWTgjv1) | 3:33 | 2022-09-01 | 2022-11-11 |
 | [Only Lovers Left Alive](https://open.spotify.com/track/3eAsfCR75Kh7zwpf9IkvKp) | [Pohon Tua](https://open.spotify.com/artist/4ohuKMlwuVBzOtdoz23dfw) | [LEGAM](https://open.spotify.com/album/54FwADEQcuohuNW4qEGe6K) | 4:57 | 2022-11-17 | 2022-12-16 |
-| [Oscillating In Imaginary Butterflies](https://open.spotify.com/track/0lukljBfDuvj3I1HPe5zIE) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [Oscillating In Imaginary Butterflies](https://open.spotify.com/album/5uMwDNV9ZIhzUCiofmqXMM) | 1:07 | 2023-05-11 |  |
+| [Oscillating In Imaginary Butterflies](https://open.spotify.com/track/0lukljBfDuvj3I1HPe5zIE) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [Oscillating In Imaginary Butterflies](https://open.spotify.com/album/5uMwDNV9ZIhzUCiofmqXMM) | 1:07 | 2023-05-11 | 2023-06-04 |
 | [Our Beloved Summer](https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq) | [Kim Kyung Hee](https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD) | 3:12 | 2023-04-20 |  |
 | [OUT OF YOU](https://open.spotify.com/track/7vMcexHRs6bnRaIAWNjXtG) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [OUT OF YOU](https://open.spotify.com/album/5N0wdGbzWYwVcc3S8tYX2h) | 3:28 | 2022-07-28 | 2022-10-14 |
 | [Out To Eat](https://open.spotify.com/track/7ElUAFXBTExwiK9I3fZqRh) | [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n), [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Out To Eat](https://open.spotify.com/album/7xJanb6TnNcMcMBzDOUCq6) | 2:18 | 2023-04-27 | 2023-05-05 |

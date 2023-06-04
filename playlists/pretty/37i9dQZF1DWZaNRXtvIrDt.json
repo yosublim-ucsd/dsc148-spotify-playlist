@@ -1,12 +1,12 @@
 {
   "description": "a new world of alternative electronic music. Cover: Mall Grab & Flansie",
-  "num_followers": 126082,
+  "num_followers": 126086,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDE4ZmUxNGVmYzJmYzk4MjVmZmZjN2Y1ZGEwNmJkY2UyNTIzYWY4",
+  "snapshot_id": "MCxmZTdiYzliNjRlODg0N2RkNDMwNmE1YjNkZjU5YTFkMDlkYmFiMTIx",
   "tracks": [
     {
       "added_at": "2023-06-01 14:00:00",
@@ -202,6 +202,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
       "duration_ms": 241979,
@@ -811,8 +815,8 @@
     {
       "added_at": "2023-06-01 14:00:00",
       "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS"
+        "name": "Scars (lau.ra Remix)",
+        "url": "https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL"
       },
       "artists": [
         {
@@ -822,7 +826,7 @@
       ],
       "duration_ms": 178746,
       "name": "Scars",
-      "url": "https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4"
+      "url": "https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch"
     },
     {
       "added_at": "2023-06-01 14:00:00",

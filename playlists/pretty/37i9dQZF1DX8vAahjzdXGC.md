@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,466 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,529 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 98 | [Time To Heal](https://open.spotify.com/track/4pNSnFdR9E5WxbQ8e2HEK2) | [Slowtide](https://open.spotify.com/artist/41f1vHXmxOA75UN3dSP9vQ), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Time To Heal](https://open.spotify.com/album/4DxU8hOSO8ADfLe1ZETByN) | 3:40 |
 | 99 | [Falling Again \(feat\. guardin\)](https://open.spotify.com/track/4BsCEHOIZqwKCV1blNUckP) | [Galvanic](https://open.spotify.com/artist/3GQj08iHefTniyhHjCVBov), [Smeyeul.](https://open.spotify.com/artist/4IXRiE1MOvty3H8tQ0KvTO), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [Falling Again \(feat\. guardin\)](https://open.spotify.com/album/4nLFd4CXZVSqjqNKhXUcaT) | 3:29 |
 
-Snapshot ID: `MCw5N2ZmYmNkYmVlZjEzYThkYzI3Y2MxMDUxOWEzMzBhNjY3ZmQ4ZGZh`
+Snapshot ID: `MCxhZjkyYThhZmQyZTY3N2MzOGMwZTVlYjQ4YzNkMTIyZmIwNWFhMTkx`

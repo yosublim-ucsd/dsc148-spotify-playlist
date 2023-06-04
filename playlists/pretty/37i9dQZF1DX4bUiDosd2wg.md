@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,988 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,996 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 34 | [사랑은 언제나 목 마르다 Love Is Always Thirsty](https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI) | [유미 Youme](https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C) | [Sad](https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex) | 4:30 |
 | 35 | [편지할게요](https://open.spotify.com/track/0jHRtgWauzb1mkANquNQ5T) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [사랑해 Pt 2](https://open.spotify.com/album/5MBUlTj7xtUnmXgNxl0Cp5) | 4:46 |
 | 36 | [Doll's Dream](https://open.spotify.com/track/2M3hBZOOShvYbRG4Fi9kGi) | [Loveholic](https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2) | [Dramatic & Cinematic](https://open.spotify.com/album/6CN0xylhSXvdAudTU3ihQo) | 4:40 |
-| 37 | [P.S\. I Love You](https://open.spotify.com/track/2lMPtp9AVY3LkKreXg38gm) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece](https://open.spotify.com/album/4za0GMxinuMP0B1B504Qyv) | 3:54 |
+| 37 | [P.S.I LOVE YOU](https://open.spotify.com/track/1T1QoOL9HT3DA68kIh17xL) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece / 1집](https://open.spotify.com/album/0XMpFHpJUmTJ2boT5MseZT) | 3:54 |
 | 38 | [내사랑 내곁에](https://open.spotify.com/track/7oG6pyDbYEY3U9dmdnJw3g) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [나는 가수다 \- 호주 특별 공연](https://open.spotify.com/album/6Y1cCI04Wnqp0LmiWQYVXB) | 4:38 |
 | 39 | [비와 당신](https://open.spotify.com/track/48GrSZUXWeeqidJWx2ukjW) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7) | [나는 가수다 2 8월 B조 경연](https://open.spotify.com/album/6BLoTi6WzXaqeO2FvDGAbx) | 4:29 |
 | 40 | [중독된 사랑](https://open.spotify.com/track/5tfQhC0rCWYCQ4FmPFJuVm) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [나는 가수다 2 10월 A조 경연](https://open.spotify.com/album/6M0EJuFx2vJ06SO30jlZWK) | 4:31 |
 | 41 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
-| 42 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 |
+| 42 | [그랬나봐](https://open.spotify.com/track/4bDrbZHIKab9oKdEmkO4TU) | [Kim Hyung Joong](https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5) | [Kim Hyung Joong 1](https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5) | 4:29 |
 | 43 | [그때 또 다시](https://open.spotify.com/track/5W4UhnPqSKnM3P6RBZTL2G) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Again](https://open.spotify.com/album/30HVhWNCycHEKHfxmxp35m) | 4:27 |
 | 44 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
 | 45 | [사랑했지만](https://open.spotify.com/track/1zaAENcKgGaT9RZnW4AY59) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [나는 가수다 2 7월의 가수전](https://open.spotify.com/album/3Y4MBs02iFVYBGuCxB1Xuu) | 5:01 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 66 | [안되나요](https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Like A Movie](https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj) | 4:30 |
 | 67 | [기다리는 이유](https://open.spotify.com/track/2WgI2SG9VWheumbF3vRHYd) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [LIM CHANG JUNG LIVE ALBUM](https://open.spotify.com/album/1mMAfkL41QBjKNIXVYDPqa) | 4:21 |
 | 68 | [The Love](https://open.spotify.com/track/7vAF7yjk44E8kimUqIFXsu) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [City Hunter \(Original Television Soundtrack\)](https://open.spotify.com/album/7MCxYIOR36Be0MFWVTSqlM) | 4:36 |
-| 69 | [사랑에 빠지고 싶다](https://open.spotify.com/track/2e460Sd7WZ6BQTNuzK3FwE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 사랑에 빠지고 싶다](https://open.spotify.com/album/1m6rKT2P71vlSPQ3zCZgUk) | 2:25 |
+| 69 | [사랑에 빠지고 싶다](https://open.spotify.com/track/5QxIGFY3RWXRp1KoqgcoWj) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 '사랑에 빠지고 싶다'](https://open.spotify.com/album/3OX8ZkRAD8JffqLs7p8zo1) | 2:25 |
 | 70 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 |
 | 71 | [Love Is You \- From "Arang and the Magistrate"](https://open.spotify.com/track/6tzCRYAsrV3RXOuoqVvMbq) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Arang and the Magistrate OST Part 7](https://open.spotify.com/album/0n0FqRZftuxVUqJDoZRbOx) | 4:31 |
 | 72 | [And goodbye](https://open.spotify.com/track/0se8KNsSxOzUqudivqSWHB) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [And…](https://open.spotify.com/album/3Fd78AN1LXqbV4xqn9ZzJk) | 3:41 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 80 | [잠시만 안녕](https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 6:48 |
 | 81 | [No matter where](https://open.spotify.com/track/7oT5JOWwxnwcZRI6NLzhWs) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Pathos](https://open.spotify.com/album/42FCxz16YLTZ1nw5lVfpaR) | 5:31 |
 | 82 | [다 줄꺼야 I Will Give You Everything \(Acoustic Version\)](https://open.spotify.com/track/26QUZCxA3UXZOgNsi850kF) | [조규만 Cho Kyu Man](https://open.spotify.com/artist/6cB39lVDhkU6jN8MUiKzfq) | [다 줄거야 I Will Give You Everything](https://open.spotify.com/album/2Ew4i9TjQCbXLJtcZq0MHA) | 4:04 |
-| 83 | [사랑보다 깊은 상처](https://open.spotify.com/track/6gAnaNgYUXcFXIfFrV88p7) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece](https://open.spotify.com/album/4za0GMxinuMP0B1B504Qyv) | 4:21 |
+| 83 | [사랑보다 깊은상처 \(DUET WITH 임재범\)](https://open.spotify.com/track/6NPtRKUzSeGccAxOSUMuMI) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD), [임재범](https://open.spotify.com/artist/0xTmPgGPMEHIYuRiu5J7CD) | [Piece / 1집](https://open.spotify.com/album/0XMpFHpJUmTJ2boT5MseZT) | 4:21 |
 | 84 | [In Front Of Your House](https://open.spotify.com/track/0rViDA4QiHTkYuzxYUEe9n) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [HIM](https://open.spotify.com/album/4PYsUX5Bk3xPVpx7IvOse9) | 4:02 |
 | 85 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
 | 86 | [Timeless](https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [SG Wanna Be+](https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs) | 3:57 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 106 | [There is No one Like you](https://open.spotify.com/track/4IVamb5uivBasUfXsDSmDD) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [LEE SEUNG CHUL\-THE BEST LIVE \(WORLD TOUR\)](https://open.spotify.com/album/00KwiwUMAW7d13SUOgQhmN) | 3:39 |
 | 107 | [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 |
 | 108 | [Come back to me](https://open.spotify.com/track/6giVIUnYtPt65tRmTKMbzh) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [VIBE IN PRAHA](https://open.spotify.com/album/4OCkcwSER9boDvzxEdlh6c) | 4:59 |
-| 109 | [비상](https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:30 |
+| 109 | [비상](https://open.spotify.com/track/29acMabyXUwGFEvfqLJM7a) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [임재범 II / 2집](https://open.spotify.com/album/1cLD9RhI7VomKeQcbBpxvu) | 4:29 |
 | 110 | [발걸음 \(신명난다 에헤라디오\)](https://open.spotify.com/track/0FOiUOw5sd51lVt6DnNP6R) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Mask Singer 74th \(Live Version\)](https://open.spotify.com/album/42vi4SG1yDLnmiXuVfQokP) | 4:22 |
 | 111 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 |
 | 112 | [화장을 고치고](https://open.spotify.com/track/0e70x113268aBzaBaNHmrR) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Wax02 : 화장을 고치고](https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6) | 4:10 |
@@ -125,9 +125,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 115 | [가시](https://open.spotify.com/track/7csMuPqdOPaFKby0AoRYL5) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n) | 4:01 |
 | 116 | [Missing you](https://open.spotify.com/track/3hvWpX7wY89END0v5M0XJX) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Missing you](https://open.spotify.com/album/2EJYbNNYlVxB1fWOw9Aj4N) | 4:17 |
 | 117 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 |
-| 118 | [서쪽하늘 \(여심도둑 괴도루팡\)](https://open.spotify.com/track/7A51xRwUHXZDuOx7O7MjIg) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Mask Singer 106th \(Live Version\)](https://open.spotify.com/album/5ve1qRKiahwjoK4kzwtiUv) | 4:31 |
+| 118 | [서쪽하늘 \(여심도둑 괴도루팡\)](https://open.spotify.com/track/0snkHIizkj5tRDAzQndDnS) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Mask Singer 106th \(Live Version\)](https://open.spotify.com/album/5Z6fk6ub401w3XKHSU5iMx) | 4:31 |
 | 119 | [천년의 사랑](https://open.spotify.com/track/29FS4aopbu0HWQ2GSFalvy) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [천년지애](https://open.spotify.com/album/3TQXaDuauGf8syAkPbYrex) | 4:25 |
-| 120 | [가질 수 없는 너 \(화생방실 클레오파트라\) Bonus Track Version](https://open.spotify.com/track/3dWa7UqLOWwew2zuPmdXoe) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Mask Singer 14th \(Live Version\)](https://open.spotify.com/album/0rJFjRJkxSp4SBlldulQnp) | 3:56 |
+| 120 | [가질 수 없는 너 \(화생방실 클레오파트라\) \(Bonus Track\)](https://open.spotify.com/track/36WthxpEXVwtEhJQ64iryj) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Mask Singer 14th \(Live Version\)](https://open.spotify.com/album/7ASCzTIuaYbAsZjIGh09wh) | 3:56 |
 | 121 | [Jasmine](https://open.spotify.com/track/3sIVEWJZYmCotuP6QpAleG) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [LEE SEUNG CHUL\-THE BEST LIVE \(WORLD TOUR\)](https://open.spotify.com/album/00KwiwUMAW7d13SUOgQhmN) | 4:32 |
 | 122 | [나만의 슬픔](https://open.spotify.com/track/3sXDXnEDZLbs4776SNzGfk) | [Homme](https://open.spotify.com/artist/4Dhh69QVGxhuH0oSiCL4v7) | [투유 프로젝트 \- 슈가맨 Pt.14](https://open.spotify.com/album/05Pm4C7HbCHLD0ETYnMty5) | 4:03 |
 | 123 | [죽어도 못 보내](https://open.spotify.com/track/6bX31xvB4HeeUOMorR77oV) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [죽어도 못 보내 Never Let You Go](https://open.spotify.com/album/37Mz6EoieVepZzvLDL87I0) | 3:15 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [Ali](https://open.spotify.com/artist/5QeXARPcuiXETSB2iPhaup) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCwwYmRmYzU3ODAwNGRmMzg5MDNlNDkzMTk3NGQ4ZDFlYTVlNzI0MTZi`
+Snapshot ID: `MCwwYmM2MDBiN2E2NjBmYjliZWE4MDVlOTM5M2Q5ODBkY2FkNWI2YThh`

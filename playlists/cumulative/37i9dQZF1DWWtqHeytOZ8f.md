@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-586 songs - 2 day 3 hr 35 min
+587 songs - 2 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Memory Training Gamma](https://open.spotify.com/track/7FqzKYClGACfIYBRvm3zWS) | [Isotopic Dreams](https://open.spotify.com/artist/7Bz1z7lm6ikWw8tECu67a8) | [Binaural Brainwaves Gamma](https://open.spotify.com/album/590xwIqVQdmbaiH59TDI9N) | 3:18 | 2021-10-20 |  |
 | [Meridian](https://open.spotify.com/track/3oJTvs1FLdka2ogLkXoQNb) | [Joanne Forman](https://open.spotify.com/artist/1KpISDZpqZArxpPqDxGR4S) | [Cave Vaults of the Moon](https://open.spotify.com/album/1VLJuqs7iwhsPvGZOyvB49) | 2:58 | 2021-10-20 | 2023-03-21 |
 | [Mexico \(una pirámide al revés\)](https://open.spotify.com/track/63J4sJXJ3FZAH6I5wlZVv8) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 2:57 | 2021-10-20 | 2022-06-20 |
-| [Microtronics 20](https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx) | 1:35 | 2022-03-18 |  |
+| [Microtronics 20](https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx) | 1:35 | 2022-03-18 | 2023-06-04 |
 | [Microtronics 20](https://open.spotify.com/track/7wj3TuI2wAzwHDWkp0bCVr) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/5P4pg6W3wwI04pstGDQJ8O) | 1:35 | 2022-03-18 | 2023-02-03 |
 | [Milliseconds](https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Milliseconds](https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0) | 2:57 | 2021-10-20 |  |
 | [Mira](https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS) | [Eternell](https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9) | [Mira](https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC) | 18:08 | 2022-02-18 | 2023-01-04 |
@@ -569,6 +569,7 @@
 | [V4.3 pt\. 2](https://open.spotify.com/track/315NEEn9ZZupYATwDKb88G) | [Luca Yupanqui](https://open.spotify.com/artist/3b6IYA5Lih1o84q7gt6KR3) | [V4.3 pt\. 2](https://open.spotify.com/album/2ATPMcZ2PVf5dGTGKtg4mA) | 4:29 | 2021-10-20 | 2022-07-28 |
 | [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 | 2021-10-20 |  |
 | [Variables \- 1976](https://open.spotify.com/track/0aBe5X0U7ZqNh01Hd4SHbB) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Variables \- 1976](https://open.spotify.com/album/3ievgMpSPFMO5uoohGRkP2) | 2:47 | 2021-10-20 | 2022-04-18 |
+| [Variation \#9: Pantelleria](https://open.spotify.com/track/2OdF7JWprGAps570PA57dS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/3YajhQtcNYZbLooxeVp4KA) | 44:37 | 2022-09-26 |  |
 | [Variation \#9: Pantelleria](https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi) | 44:37 | 2022-09-26 | 2023-04-29 |
 | [Vespera](https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 6:01 | 2021-10-20 |  |
 | [VFXpeaksTWIN](https://open.spotify.com/track/0mPNo3zDtkOcZOzKbKxwTe) | [SW.](https://open.spotify.com/artist/6lDaViWraJYpkI6nRq29vp) | [myDEFINITION](https://open.spotify.com/album/7cD5jelwVYMVfgxjUdUBBc) | 2:16 | 2021-10-20 | 2022-07-26 |

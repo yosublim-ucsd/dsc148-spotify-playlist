@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,934 likes - 68 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,146 likes - 68 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 62 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 |
 | 63 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 | 64 | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/track/4mLjXblwZkzlkavY0Mnyr1) | [Simran Bhardwaj](https://open.spotify.com/artist/6A64CMEoGKDcGx0EdjjNol) | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/album/01T0Et0DZK48mihOz6rkyE) | 2:40 |
-| 65 | [Main Viyah Nahi Karona Tere Naal \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/6pvWVkFgDbyUMZyCvHOwsJ) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Laddi Gill](https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD) | [Main Viyah Nahi Karona Tere Naal \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/584BMTWDn9yt8V5JVmqshi) | 2:35 |
+| 65 | [Main Viyah Nahi Karona Tere Naal \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/6pvWVkFgDbyUMZyCvHOwsJ) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [The Laddi Gill](https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD) | [Main Viyah Nahi Karona Tere Naal \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/584BMTWDn9yt8V5JVmqshi) | 2:35 |
 | 66 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 |
 | 67 | [Bewafai Kar Gaya \- From "Lekh"](https://open.spotify.com/track/1M0mOOnYovZSKfVDCgLUmF) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Bewafai Kar Gaya \(From "Lekh"\)](https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI) | 3:48 |
 | 68 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 |
 
-Snapshot ID: `MCxmNDI4OGYwZWM3ZTI5ZDM3ZjY5OGZjZTVmZDk5MzBjY2ZmM2EwMDdk`
+Snapshot ID: `MCw5ZTYxOTk4ZGFkODYyODJiZWYzZjY4ZTZiZWY1ZWZkNjdkMTE4Njg0`

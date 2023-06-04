@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 86346,
+  "num_followers": 86362,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGZlZTBmMzdjY2JiN2VkNGNkMjllMTA1MGMxNGVlNjA3MDExZjcy",
+  "snapshot_id": "MCwxMWIxNTBhNmJjYzQ4NzYxOTZkZTE4YWZjMmNmMzc4ZjM4M2E2NDQ4",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Rise Above Hate",
-        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 112043,
-      "name": "SS Interlude",
-      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Left Back (Remix)",
         "url": "https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 180413,
       "name": "Left Back - Remix",
       "url": "https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Rise Above Hate",
+        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 112043,
+      "name": "SS Interlude",
+      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Ether",
-        "url": "https://open.spotify.com/album/6d5fIJS9Bpx8Y8VCA2j2y9"
-      },
-      "artists": [
-        {
-          "name": "xcst",
-          "url": "https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo"
-        }
-      ],
-      "duration_ms": 185108,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/5IMCBMwxhxXN5EGZJV4G0R"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Better Than Me",
         "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 178714,
       "name": "THOUGHTS",
       "url": "https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm"
+      },
+      "artists": [
+        {
+          "name": "NSJ Mali",
+          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS"
     },
     {
       "added_at": "2022-08-02 15:42:28",

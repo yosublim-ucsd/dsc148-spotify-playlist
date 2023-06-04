@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Trending Pakistani tracks under one roof\. Cover: Ali Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,439 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,495 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 51 | [Sajna](https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Sajna](https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p) | 2:37 |
 | 52 | [Darkest Hour \- Asim Azhar Version](https://open.spotify.com/track/6W8UyjragKGJ40siaZ2oKN) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Darkest Hour \(Asim Azhar Version\)](https://open.spotify.com/album/0XPSoFWnYLGteKJmPQcA2S) | 2:11 |
 
-Snapshot ID: `MCxkMzc3YzUzYmM5MDk5YzU1NGE1M2MzNDM3MDBmN2VmYTQ4ZTIyNDI2`
+Snapshot ID: `MCw1ODMxNDBmODI3OGQxZWZkODk3YWNhMTgyYzQ4YjU0NGMyNGVmZTU4`

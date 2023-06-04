@@ -2,9 +2,9 @@
 
 ### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
 
-> Música nueva de toda la región\. Esta semana en portada: Bizarra y Peso Pluma
+> Música nueva de toda la región\. Esta semana en portada: Bizarrap y Peso Pluma
 
-4,588 songs - 10 day 8 hr 17 min
+4,589 songs - 10 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3781,6 +3781,7 @@
 | [Sin Sentido](https://open.spotify.com/track/79PbaueDulx7iOGVcnHfTs) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv), [Anna Carina](https://open.spotify.com/artist/7moMwCf6s2SVquYO0rrlR8) | [Sin Sentido](https://open.spotify.com/album/2qaf8tmWUbe2j9yBcauAAZ) | 3:14 | 2022-02-11 | 2022-02-19 |
 | [Sin Señal](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Sin Señal](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 | 2022-07-22 | 2022-07-30 |
 | [Sin Ti Un Segundo](https://open.spotify.com/track/6kWoUSycJDnX4vmTBLzEN2) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sin Ti Un Segundo](https://open.spotify.com/album/61BYGoDEvkI7LNE6pvysFY) | 4:14 | 2022-12-02 | 2022-12-10 |
+| [Sin tiempo ni distancia](https://open.spotify.com/track/5nVGwHp5affMJXFnbD89it) | [Ceci Mendez](https://open.spotify.com/artist/1BXbbnZe7M9bYBAHyqEn9g) | [Sin tiempo ni distancia](https://open.spotify.com/album/0bRQEKMm74ifRKCT5tXd3G) | 3:23 | 2023-06-03 |  |
 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 | 2023-02-03 | 2023-02-11 |
 | [Sinastría](https://open.spotify.com/track/5GuJx486mkXMlrTXmFPRAa) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Uawa](https://open.spotify.com/artist/06z4MA08VK4YIZkAg4iTxF) | [Sinastría](https://open.spotify.com/album/263StsqMDrLGcGBYmccM26) | 2:26 | 2022-07-15 | 2022-07-23 |
 | [Sincero](https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd) | 3:38 | 2022-01-14 | 2022-01-22 |

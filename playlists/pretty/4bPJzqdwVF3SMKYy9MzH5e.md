@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,763 songs - 3 day 23 hr 30 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,764 songs - 3 day 23 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -676,7 +676,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 666 | [Piedmont](https://open.spotify.com/track/3DONezBUs7tjalca1t5VBR) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 4:24 |
 | 667 | [Amor de red social](https://open.spotify.com/track/5kMrgSeV3kYYyOyEAC7Ugf) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Amor de red social](https://open.spotify.com/album/5o7YnXMx2NM6LtbnfiIIqz) | 3:50 |
 | 668 | [Body](https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:51 |
-| 669 | [Out of My Mood](https://open.spotify.com/track/63qSlpq5oOEl2OdAopqpRh) | [gate 문](https://open.spotify.com/artist/2RjaudCh2POfwdtuezLOlf) | [Out of My Mood](https://open.spotify.com/album/4ljnVdgaHEuGxwsdjEtgLj) | 4:22 |
+| 669 | [Out of My Mood](https://open.spotify.com/track/63qSlpq5oOEl2OdAopqpRh) | [gate 문](https://open.spotify.com/artist/2RjaudCh2POfwdtuezLOlf), [brian mantra](https://open.spotify.com/artist/6HxsYKIz2g6hdn3gfdQRjt) | [Out of My Mood](https://open.spotify.com/album/4ljnVdgaHEuGxwsdjEtgLj) | 4:22 |
 | 670 | [Play](https://open.spotify.com/track/5knsnqSz4aSrPMoMmI7sjx) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Scrapbook](https://open.spotify.com/album/79QnVfe6S38FYlHPY0pv4R) | 3:24 |
 | 671 | [Nero Forte](https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:15 |
 | 672 | [Before I Forget](https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:38 |
@@ -1771,5 +1771,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1761 | [I <3 LATINAS](https://open.spotify.com/track/5ylWRlrMbdWfVUZTRIOJCH) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [I <3 LATINAS](https://open.spotify.com/album/5LY3Ww0m2JBMgL5Ch7AJXh) | 1:33 |
 | 1762 | [Teen Mom](https://open.spotify.com/track/51Cg8pI1Uw1mRakcv20Lze) | [Slutever](https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD) | [Almost Famous](https://open.spotify.com/album/5SGUqZHITOwMZMrIBv07nN) | 2:14 |
 | 1763 | [The Technogaia Accelerates Technology And You!](https://open.spotify.com/track/3GgawMNjv4Oppa0XQ7FnmP) | [Kaizo Slumber](https://open.spotify.com/artist/2UUvyxJDBsg7jnRwMAxNND) | [The Kaizo Manifesto](https://open.spotify.com/album/2nrxw6vRiM5Lb0WIeCV48O) | 2:44 |
+| 1764 | [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 |
 
-Snapshot ID: `NTk3LDU4NjYxMTYzNzZmYWUyMGM2MjIzOWM3YmRkOTgyZWVkN2I2ZDFjYzA=`
+Snapshot ID: `NTk4LDVmNTg1NTkzNmQyMGMwMjkwY2M3Zjg3OThlZjE3ZmMyNDliNWUwZGY=`

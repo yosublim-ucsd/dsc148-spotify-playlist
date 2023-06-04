@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,292 likes - 95 songs - 4 hr 41 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,300 likes - 95 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 4 | [Mari Ye Phepha](https://open.spotify.com/track/1U25apgP0PzXss5oIpOGBw) | [Dali Danger](https://open.spotify.com/artist/5uS7Vl0LAEz2Rj7oDeeM4Y), [Mclyne Beats](https://open.spotify.com/artist/7JHr7A7GQlMxQpNtBtsnnQ), [Culoe](https://open.spotify.com/artist/5hnNu03ze6WtAb3fhLsUsE) | [KNYMN](https://open.spotify.com/album/1z28v8dzTG7I0QtSMGBseu) | 3:47 |
 | 5 | [Naked](https://open.spotify.com/track/2aFA29HYAosbUGOal8FB38) | [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi), [bAd entity](https://open.spotify.com/artist/4DiGYjgcXUFwmAU0isUuaB) | [Naked & Sublime](https://open.spotify.com/album/3REwLE7KisloC9lPFYhu5V) | 1:40 |
 | 6 | [Sublime](https://open.spotify.com/track/6YTXJiMui9DwQs7GBtDAFt) | [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi), [bAd entity](https://open.spotify.com/artist/4DiGYjgcXUFwmAU0isUuaB) | [Naked & Sublime](https://open.spotify.com/album/3REwLE7KisloC9lPFYhu5V) | 3:04 |
-| 7 | [Cut Back](https://open.spotify.com/track/39luxET2BwtKuB8n9DGHuq) | [The Kecks](https://open.spotify.com/artist/7rq4XneM5dE0uYeAoyMGGn), [Gordon Raphael](https://open.spotify.com/artist/09LiOtBPJw0anSdJcpG4y1) | [Cut Back](https://open.spotify.com/album/7nawkUa5NmVVJxWDpCY3NN) | 3:12 |
+| 7 | [Cut Back](https://open.spotify.com/track/39luxET2BwtKuB8n9DGHuq) | [The Kecks](https://open.spotify.com/artist/7rq4XneM5dE0uYeAoyMGGn) | [Cut Back](https://open.spotify.com/album/7nawkUa5NmVVJxWDpCY3NN) | 3:12 |
 | 8 | [FARDA](https://open.spotify.com/track/5CAri3YPxIQAPO2cvl0x9t) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [FARDA](https://open.spotify.com/album/41RFpDDBV3XIWfUN8JLCEJ) | 2:45 |
 | 9 | [Rent Free](https://open.spotify.com/track/53njMi4ul2wKNnnB05aZiN) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct), [Motive 105](https://open.spotify.com/artist/71Q4O2xP7b3IBxiOEQpNnq), [Jam](https://open.spotify.com/artist/2HV1fnK0cWqXPWI2nrpOwi) | [Have A Nice Trip](https://open.spotify.com/album/3v4j1lTWyr1ubKsx49ntM4) | 3:27 |
 | 10 | [Believe It](https://open.spotify.com/track/6SqDBekKs7nLBuyjqIw61I) | [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Lisa Mercedez](https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p) | [Believe It](https://open.spotify.com/album/2mQoPeTbTH8VS3RrNBpbNj) | 3:02 |
