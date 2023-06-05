@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: FEVER 333
 
-3,696 songs - 8 day 17 hr 39 min
+3,697 songs - 8 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2322,7 +2322,8 @@
 | [only way out](https://open.spotify.com/track/0DCbCYsPpg6sYVFzEOMG8e) | [Little Destroyer](https://open.spotify.com/artist/5knA7MWjServ1IJdZc8Scw) | [1134](https://open.spotify.com/album/6HSfqnWEDXDLItXz7PonBf) | 2:24 | 2022-10-21 | 2022-10-29 |
 | [Only You Say It](https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Only You Say It](https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O) | 3:20 | 2022-09-08 | 2022-09-16 |
 | [Ooo Baby Baby](https://open.spotify.com/track/4FsNksWJRgmQvclcW6lbrZ) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Johnny Depp](https://open.spotify.com/artist/3OsHwkxpSIEqqmYoQxZTT5) | [18](https://open.spotify.com/album/6U70hQoQqREAfmdUW9sm6H) | 3:37 | 2022-07-15 | 2022-07-23 |
-| [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 | 2023-06-02 |  |
+| [Open The Door, See What You Find](https://open.spotify.com/track/1Ks53o54WS8LzbwyEG56ds) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:07 | 2023-06-02 |  |
+| [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 | 2023-06-02 | 2023-06-05 |
 | [Open up My Head](https://open.spotify.com/track/1dXx1NLFcQBCPoGAUNhKTU) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Open Up My Head](https://open.spotify.com/album/37Th8gyncYopCvlWvedrGn) | 3:16 | 2022-07-22 | 2022-07-30 |
 | [open water](https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [open water](https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT) | 2:06 | 2022-03-03 | 2022-03-11 |
 | [Open Your Eyes and Dream](https://open.spotify.com/track/6o7ipc663JGAnWsntR8Ny6) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Open Your Eyes and Dream](https://open.spotify.com/album/0tYtuOZFH561GOoZU3VdqV) | 4:02 | 2022-09-22 | 2022-10-01 |

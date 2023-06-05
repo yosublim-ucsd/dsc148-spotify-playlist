@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 52165,
+  "num_followers": 52182,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWJiMmE4N2VlNmI5YTcyZGJhMmQ4NWZhMDhhNDlmMzk5ZjNlYTVh",
+  "snapshot_id": "MCwyZmRkM2EyZmYyODlhY2M1NDk1NGM2NzUyNmY0OWQxZmUyMjg0YTJh",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Drive Fast, Rock Hard",
-        "url": "https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL"
-      },
-      "artists": [
-        {
-          "name": "I Mother Earth",
-          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
-        }
-      ],
-      "duration_ms": 324226,
-      "name": "One More Astronaut",
-      "url": "https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Wide Mouth Mason",
         "url": "https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 227693,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Drive Fast, Rock Hard",
+        "url": "https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL"
+      },
+      "artists": [
+        {
+          "name": "I Mother Earth",
+          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
+        }
+      ],
+      "duration_ms": 324226,
+      "name": "One More Astronaut",
+      "url": "https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS"
     },
     {
       "added_at": "2021-09-21 20:57:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,945 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,618 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Si Te Preguntan Por Mí](https://open.spotify.com/track/6s2CUMoVx3yEFfthbWIRdu) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW) | [Si Te Preguntan Por Mí](https://open.spotify.com/album/5z2ACicc7kloBwo78wDXTH) | 3:40 |
 | 50 | [Kilómetros](https://open.spotify.com/track/5xOazRq2pvtT54m32SEm6B) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [My Mom's Playlist](https://open.spotify.com/album/3U1RezYvtPCorpOyABY92q) | 3:11 |
 
-Snapshot ID: `MCwxMDdjNzdhYWVlNDM3OGJhZTU3ZWE1MjhkYmE5ZWJmODEyMGU1NWVk`
+Snapshot ID: `MCxlMDgxZjUzZTlhZmRlNTJmYThiNzFkOTFjZWE1ODBlODIyOGFlNzBm`

@@ -4,13 +4,14 @@
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Tony Junior & Ecstatic
 
-382 songs - 20 hr 45 min
+383 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3x Boom](https://open.spotify.com/track/6OYfbND22tUr1cD8YGXnk5) | [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j) | [3x Boom](https://open.spotify.com/album/4GbvcpJB4n0hXSSTpNsAp2) | 3:08 | 2023-03-02 | 2023-05-09 |
 | [Absolution](https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Absolution](https://open.spotify.com/album/6Opch7uhVZoJKdUCutnqjp) | 3:44 | 2023-01-19 | 2023-04-14 |
 | [ACID is my DNA](https://open.spotify.com/track/2cJA1sa6T2mVyScP5cRd0Z) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [303\_exe EP](https://open.spotify.com/album/6EVtpeAzaRpz3Mp6CYGt6A) | 3:10 | 2023-04-06 | 2023-04-21 |
+| [Activation](https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Activation](https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES) | 2:55 | 2023-06-04 |  |
 | [Addicted To You](https://open.spotify.com/track/05iLI2wzA2HzSKl1OnYqom) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Addicted To You](https://open.spotify.com/album/7v0ttic1w2UYSTrpDxRJlw) | 3:10 | 2023-03-09 | 2023-03-31 |
 | [After Dark](https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [After Dark](https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy) | 3:43 | 2023-02-02 | 2023-05-12 |
 | [AI](https://open.spotify.com/track/3URzoaqWmyEHokARgdIz86) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [AI](https://open.spotify.com/album/6NQLEbhWWjFprdGgw4BvFn) | 3:50 | 2023-03-16 | 2023-04-28 |

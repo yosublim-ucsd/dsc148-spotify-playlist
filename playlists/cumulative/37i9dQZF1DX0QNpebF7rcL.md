@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-278 songs - 18 hr 46 min
+279 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,8 +137,9 @@
 | [I’m Yours And I’m Hers](https://open.spotify.com/track/1CvB0rh0CgCi4ixnbVE6Zh) | [The Blue Quarantinos](https://open.spotify.com/artist/74IHkbIwZfF1D0bH6Usfyd), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Vince Fossett Jr.](https://open.spotify.com/artist/1jV1E6qOXs9NJLH5CPk3mM) | [Phoning It In](https://open.spotify.com/album/5pGCCCUVVmfUGAZ2tz60Rd) | 3:24 | 2021-04-23 | 2022-04-23 |
 | [Judicator Blues](https://open.spotify.com/track/4jlsa0OLIsdu1ETRpkX6QD) | [Micki Free](https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Turquoise Blue](https://open.spotify.com/album/4QBaAT90iqQxoR9TS2izPF) | 3:43 | 2022-02-04 |  |
 | [Just No Getting Over You \(Dream Cruise\)](https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Just No Getting Over You \(Dream Cruise\)](https://open.spotify.com/album/5nAs2igKGjEshXErFX2CQe) | 4:40 | 2022-09-09 | 2023-02-11 |
+| [Keep The Faith](https://open.spotify.com/track/1c222ktMzR82Y3gfuwBx9e) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Satisfied](https://open.spotify.com/album/1WtvHtBCtrmoN3DdrEZvgM) | 3:28 | 2022-04-05 |  |
 | [Keep The Faith](https://open.spotify.com/track/2AfGLVa5rzRqnPm23bPMLk) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Keep The Faith](https://open.spotify.com/album/6pSAFmBfO36ji39xuYu10r) | 3:28 | 2022-04-05 | 2023-04-30 |
-| [Keep The Faith](https://open.spotify.com/track/5xuRJS8QBHVKiD7J1zkxFm) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Keep The Faith](https://open.spotify.com/album/57IHF6KGGaZ9F8KcCahyh6) | 3:28 | 2022-04-05 |  |
+| [Keep The Faith](https://open.spotify.com/track/5xuRJS8QBHVKiD7J1zkxFm) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Keep The Faith](https://open.spotify.com/album/57IHF6KGGaZ9F8KcCahyh6) | 3:28 | 2022-04-05 | 2023-06-05 |
 | [Keep Your Light on Mama](https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Traveler's Blues](https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd) | 3:23 | 2021-10-22 | 2023-05-20 |
 | [Last Call](https://open.spotify.com/track/50JkDzyvtn6xf75rklAVvc) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 3:13 | 2022-04-08 |  |
 | [Last One To Know](https://open.spotify.com/track/7avd94T3BZcvcSiRl3gWGM) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Ice Cream In Hell](https://open.spotify.com/album/6dopecoqDNzo58krvM3NO4) | 4:44 | 2020-12-14 | 2022-02-26 |

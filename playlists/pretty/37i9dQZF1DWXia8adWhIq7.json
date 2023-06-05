@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Silas Magalh\u00e3es",
-  "num_followers": 67715,
+  "num_followers": 67778,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTBjMzVlYWZjZmNmNWYyNWIxMjFkNzRjMWM1MjZlNjE2ZjIxMDYy",
+  "snapshot_id": "MCw2NDJiZDNjMjgwNzVlZDc5MmIxZDY5ODQxYWI2MmYxNWQ0MjdhMWRl",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "SL.27.4",
-        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 237209,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Tens o Meu Sim",
         "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 224000,
       "name": "Tens o Meu Sim",
       "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "SL.27.4",
+        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 237209,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -851,26 +851,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "O Amor de Deus",
-        "url": "https://open.spotify.com/album/515oStHHdiKU8YVM7rZi9p"
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
       "artists": [
         {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "Yuri DSR",
-          "url": "https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B"
-        },
-        {
-          "name": "Jotta X",
-          "url": "https://open.spotify.com/artist/3gMrLffCIkO3TWMKXvjEOl"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 156481,
-      "name": "O Amor de Deus",
-      "url": "https://open.spotify.com/track/6AwPTRmGAmVQi1Gz2JyByH"
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -891,18 +883,26 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+        "name": "O Amor de Deus",
+        "url": "https://open.spotify.com/album/515oStHHdiKU8YVM7rZi9p"
       },
       "artists": [
         {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "Yuri DSR",
+          "url": "https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B"
+        },
+        {
+          "name": "Jotta X",
+          "url": "https://open.spotify.com/artist/3gMrLffCIkO3TWMKXvjEOl"
         }
       ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
+      "duration_ms": 156481,
+      "name": "O Amor de Deus",
+      "url": "https://open.spotify.com/track/6AwPTRmGAmVQi1Gz2JyByH"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Rota",
         "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 196032,
       "name": "Rota",
       "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "O Final",
-        "url": "https://open.spotify.com/album/5bFmQoxtXxu4T1ptIPAoyN"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 235558,
-      "name": "O Final",
-      "url": "https://open.spotify.com/track/5pmsx6sw7e1UT9KYyWAvo3"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Te Vejo",
         "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 210125,
       "name": "Te Vejo",
       "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "O Final",
+        "url": "https://open.spotify.com/album/5bFmQoxtXxu4T1ptIPAoyN"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 235558,
+      "name": "O Final",
+      "url": "https://open.spotify.com/track/5pmsx6sw7e1UT9KYyWAvo3"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Me Leva Al\u00e9m",
-        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
-      },
-      "artists": [
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Me Leva Al\u00e9m",
-      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Mostra-Me Tua Gl\u00f3ria",
         "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 230208,
       "name": "Mostra-Me Tua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Me Leva Al\u00e9m",
+        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
+      },
+      "artists": [
+        {
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
+        }
+      ],
+      "duration_ms": 215061,
+      "name": "Me Leva Al\u00e9m",
+      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
     },
     {
       "added_at": "2023-06-02 03:00:00",

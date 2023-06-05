@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Chappell Roan
 
-1,665 songs - 3 day 12 hr 39 min
+1,666 songs - 3 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Breakfast With You](https://open.spotify.com/track/7BmSy7lf9pPK1X1y0xfgzo) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Breakfast With You](https://open.spotify.com/album/64jYA3DliGLlsFdx7Yiv57) | 4:02 | 2022-02-25 | 2022-03-26 |
 | [breakup song](https://open.spotify.com/track/0UzEXxCeUvdARQhCpbR3EI) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [breakup song](https://open.spotify.com/album/4RoEOdEz9SvEmKTpJHmGoM) | 3:04 | 2022-05-20 | 2022-06-06 |
 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 | 2021-10-08 | 2022-03-26 |
+| [bring u down](https://open.spotify.com/track/6ZavW4JaYViGktEQhCiiyQ) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [bring u down](https://open.spotify.com/album/1m7H5WH3i9ovJFpxrX5uif) | 2:45 | 2023-06-02 |  |
 | [Broke Boy](https://open.spotify.com/track/4oudlkkeXeJfeimYgfIOZJ) | [Teddi Gold](https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h) | [Broke Boy](https://open.spotify.com/album/1js1J5LKYRbS5QoAbdwbJ2) | 2:55 | 2023-01-27 | 2023-04-27 |
 | [Broke Mine Too](https://open.spotify.com/track/5uQTrhuOuaefkHmtwT5M3h) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [PEE](https://open.spotify.com/album/5hLHgAMmZbA316eFWJbfiS) | 3:48 | 2022-11-11 | 2022-12-03 |
 | [Broken Bones](https://open.spotify.com/track/7HhIqSluAmCjoq0E5TYC0t) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Broken Bones](https://open.spotify.com/album/7LsP7IOX0FaPzX37dG2jUI) | 3:15 | 2019-05-26\* | 2020-03-20 |
@@ -1558,7 +1559,7 @@
 | [Upside Down](https://open.spotify.com/track/4r9KYNUd7IX94A97uUdBNN) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5) | [Upside Down](https://open.spotify.com/album/3T4tIHIe10qzjnKWqSPZAy) | 3:09 | 2019-05-26\* | 2020-02-19 |
 | [upside down](https://open.spotify.com/track/6bfZzQWM6AJU8ER00jY2rx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [upside down](https://open.spotify.com/album/4ittGDLkz4slK7qEsgAy0R) | 3:07 | 2021-02-22 | 2021-05-27 |
 | [Upside Down \(feat\. Grouplove\)](https://open.spotify.com/track/5SRbCgZtJwjql6ITCrRmeV) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Upside Down \(feat\. Grouplove\)](https://open.spotify.com/album/2O1LT1yAOyvF0WIssbcdQu) | 3:36 | 2020-04-18 | 2021-11-06 |
-| [UR SO FULL OF IT](https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT](https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS) | 2:14 | 2023-05-12 |  |
+| [UR SO FULL OF IT](https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT](https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS) | 2:14 | 2023-05-12 | 2023-06-05 |
 | [Used To](https://open.spotify.com/track/0v2TpzTRJvP43SNFs8iB4k) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Used To](https://open.spotify.com/album/0c1M4N5265NMLoKlJAFd0q) | 3:19 | 2022-11-18 | 2022-12-13 |
 | [used to](https://open.spotify.com/track/1qGkpyAYRid7blCDbEpT2w) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Cassette Tapes](https://open.spotify.com/artist/720HJ3Ql6chO1V56okaUSV) | [used to](https://open.spotify.com/album/5OaolzqDjg5aoWEhTNgQMq) | 2:47 | 2020-05-30 | 2021-11-10 |
 | [Used To You](https://open.spotify.com/track/7t3Ldw0z7zS0WyzlV7aJGV) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Used To You](https://open.spotify.com/album/1wsDnm2tdaK86BQs5gth5f) | 3:12 | 2019-05-26\* | 2019-06-15 |

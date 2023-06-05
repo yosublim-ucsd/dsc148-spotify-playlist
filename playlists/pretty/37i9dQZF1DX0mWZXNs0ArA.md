@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,527,856 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,566 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 57 | [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 |
 | 58 | [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 |
 | 59 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 |
-| 60 | [Under the Influence \- Sped Up](https://open.spotify.com/track/6SUIrlOC0OhDzH6qp0Pwcl) | [Nawrras Music](https://open.spotify.com/artist/3OViSm0E5Rt3wugziSjW2y), [Speed Up Unlimited](https://open.spotify.com/artist/18XJJZo4JaA9Yz8TPQmy95), [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6) | [Under the Influence \(Sped Up\)](https://open.spotify.com/album/22XVSTUct9mrBprysq3cC7) | 2:13 |
+| 60 | [Baba Milyon Fav 11](https://open.spotify.com/track/0JBefFpUbZj26HHwiNoFTw) | [Belaxs](https://open.spotify.com/artist/1GUxcjnzN8wM4MgAE0tE6s), [jsa](https://open.spotify.com/artist/3nG6s2zjQa4MtpkKnyLphg), [can du weisch](https://open.spotify.com/artist/0OyLlqIjOznl8PG18Mrfng) | [Baba Milyon Fav 11](https://open.spotify.com/album/2E4E6Mz7h2r0YGSFaVCJgB) | 2:03 |
 | 61 | [Step On Me \- Sped Up Version](https://open.spotify.com/track/7r28jv8dtlXDOoulEIPP04) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Step On Me \(Sped Up Version\)](https://open.spotify.com/album/4Hvhn8Llylsg57osaLEVcJ) | 3:26 |
 | 62 | [Sun Down, I'm Up \- Sped Up & Pitched](https://open.spotify.com/track/5wXLg0zTYulEeNZ8wSZn6U) | [Lil Yawh](https://open.spotify.com/artist/50vMVpuLqxVjxvO84cgKRW) | [Sun Down, I'm Up \(Sped Up & Pitched\)](https://open.spotify.com/album/7vaREwP3zsWPRNxnFyzhQv) | 1:35 |
 | 63 | [Teenage Dream \- Sped Up](https://open.spotify.com/track/2V2tFg96o8qj7hUPLhSF6F) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Drama \(feat\. Drake\) \- Sped Up](https://open.spotify.com/track/4Xu9IUWFfEkW8YZw6orPGd) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drama \(feat\. Drake\) \[Sped Up\]](https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv) | 3:44 |
 | 100 | [Private Landing \(Sped Up\) \[feat\. Justin Bieber & Future\]](https://open.spotify.com/track/0Ntea3SB1jJ0SxRNt5MvjM) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Private Landing \(Sped Up\) \[feat\. Justin Bieber & Future\]](https://open.spotify.com/album/6ZrzrK6Fn0AIQtuV9CqXzs) | 3:37 |
 
-Snapshot ID: `MCwxMzVkZjEwNGM1OWE1NTU3YTc4ZjMzMGU1ZGI2MWE2NDM3ZjZjZDE4`
+Snapshot ID: `MCxlOGMxN2IzNjI5ZGQyM2IyZDllYzkxYWJhOTYyYTVmMGZmZmJmZWNl`

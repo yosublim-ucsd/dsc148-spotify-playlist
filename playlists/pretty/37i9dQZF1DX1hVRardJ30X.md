@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Sky Rompiendo, Feid & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,827 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,981 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Marquesina](https://open.spotify.com/track/09RBIN6bgbfvMtVbHdzhoq) | [Alx Veliz](https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg) | [Pasaporte](https://open.spotify.com/album/0cWFA0NumoMQI4NfvBKWpR) | 2:45 |
 | 50 | [TE PERDÍ](https://open.spotify.com/track/3zjCSAxk4aqbltVRG4o3KZ) | [JC Karo](https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl), [Leisley](https://open.spotify.com/artist/5aRtrcGhtNrjVmmGihilvt) | [TE PERDÍ](https://open.spotify.com/album/2QH0ZFrFtOabu5vW4n1SKv) | 2:34 |
 
-Snapshot ID: `MCwzNWRlZmU1MGUzNDQ1ODJiYjcyMWFlYTM3MDY1NGEyNWU5MzE4OTIw`
+Snapshot ID: `MCw1NWM1ZDliZjA4NmQ5NTU5NTdkMjkzZmVhZDRmMzZiOGFkYjRiNjEx`

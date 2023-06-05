@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 191266,
       "name": "B\u00e1ra",
       "url": "https://open.spotify.com/track/3gTO7kpYKkaf5rt9afKbFU"
@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 181523,
       "name": "Co Ty O\u010di??",
       "url": "https://open.spotify.com/track/34glv1y1WLPdKbJK28ky5u"
@@ -3670,6 +3670,24 @@
       "duration_ms": 38085,
       "name": "Cykloskit feat. \u0160imon Havl\u00edk",
       "url": "https://open.spotify.com/track/7IPUH2yezP3twtXMZ7TvXb"
+    },
+    {
+      "album": {
+        "name": "C\u2019est la vie",
+        "url": "https://open.spotify.com/album/0dkXod4pF80fvg3Fa39wRD"
+      },
+      "artists": [
+        {
+          "name": "KOJO",
+          "url": "https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127433,
+      "name": "C\u2019est la vie",
+      "url": "https://open.spotify.com/track/3VfS2nr9RhZTIPw4vbHQPc"
     },
     {
       "album": {
@@ -12672,7 +12690,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 184000,
       "name": "NIKDY BROKE",
       "url": "https://open.spotify.com/track/4PPjODmBwbhdZqwUvUsM28"
@@ -13076,7 +13094,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 201540,
       "name": "Novej Sv\u011bt",
       "url": "https://open.spotify.com/track/5kw5hKBwIUgjAu97QAt0hS"
@@ -13948,7 +13966,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -15206,7 +15224,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 179160,
       "name": "RUMCAJS MILOVAL MANKU",
       "url": "https://open.spotify.com/track/5zvHNxwHeLzp1bYV2srOj4"
@@ -16334,7 +16352,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 154710,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV"
@@ -19324,7 +19342,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-21",
+      "date_removed": null,
       "duration_ms": 197469,
       "name": "V\u00edno",
       "url": "https://open.spotify.com/track/7m3A7nJjioOGQdmztQBgo7"
@@ -20838,6 +20856,24 @@
       "duration_ms": 144000,
       "name": "\u0160\u00edlen\u00fd",
       "url": "https://open.spotify.com/track/23Eonfmg2iwhn0NSbPOqjf"
+    },
+    {
+      "album": {
+        "name": "\u017dijeme len raz Mixtape",
+        "url": "https://open.spotify.com/album/3qXXb4ziYXpbdBzomaOfaf"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205780,
+      "name": "\u017dijeme len raz",
+      "url": "https://open.spotify.com/track/3vjZjq1a1kCmt4FWuDIiOJ"
     },
     {
       "album": {

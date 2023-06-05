@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Sona Mohapatra",
-  "num_followers": 60621,
+  "num_followers": 60677,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmViMWViMTVlOTk5MjlhMmQ3MWYyNTkzNmI0YTk0OWZhMjJlYWFm",
+  "snapshot_id": "MCw0MWU0YmM5MGVlNTE3NmM0YmJkNGI0ZjRkZGE1Zjk1YzhiMTljNjM3",
   "tracks": [
     {
       "added_at": "2023-05-29 04:53:48",
@@ -263,18 +263,30 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Classic Love",
-        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+        "name": "Taqdeer",
+        "url": "https://open.spotify.com/album/6iqPePhA2F9iXi9gWJ7JS9"
       },
       "artists": [
         {
-          "name": "Fuzon",
-          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+          "name": "Donn Bhat",
+          "url": "https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Prabh Deep",
+          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+        },
+        {
+          "name": "Sakur Khan",
+          "url": "https://open.spotify.com/artist/3ayCmJ9xtpKk66apem0S2T"
         }
       ],
-      "duration_ms": 412266,
-      "name": "Mora Saiyaan",
-      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
+      "duration_ms": 318655,
+      "name": "Taqdeer",
+      "url": "https://open.spotify.com/track/29Zb6OUOZJLz5orIK83S0s"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -303,30 +315,18 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Taqdeer",
-        "url": "https://open.spotify.com/album/6iqPePhA2F9iXi9gWJ7JS9"
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
       },
       "artists": [
         {
-          "name": "Donn Bhat",
-          "url": "https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ"
-        },
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        },
-        {
-          "name": "Prabh Deep",
-          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
-        },
-        {
-          "name": "Sakur Khan",
-          "url": "https://open.spotify.com/artist/3ayCmJ9xtpKk66apem0S2T"
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
         }
       ],
-      "duration_ms": 318655,
-      "name": "Taqdeer",
-      "url": "https://open.spotify.com/track/29Zb6OUOZJLz5orIK83S0s"
+      "duration_ms": 412266,
+      "name": "Mora Saiyaan",
+      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
     },
     {
       "added_at": "2023-05-29 04:53:48",

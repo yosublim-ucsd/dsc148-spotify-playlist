@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "ParadoxLive"! HIPHOPメディアミックスプロジェクト「ParadoxLive（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2021
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,086 likes - 119 songs - 18 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,139 likes - 119 songs - 18 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 118 | [Voice Drama "WILL" \- Part1](https://open.spotify.com/track/52CQHV0hMBY7rXr2Ov6MLz) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live \-Road to Legend\- \(Round2 “WILL"\)](https://open.spotify.com/album/0eeHzEubbMtSUAQPx2Yv2T) | 20:15 |
 | 119 | [Voice Drama "WILL" \- Part2](https://open.spotify.com/track/152xTTIkBj4g1iqa3jS4H6) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live \-Road to Legend\- \(Round2 “WILL"\)](https://open.spotify.com/album/0eeHzEubbMtSUAQPx2Yv2T) | 19:08 |
 
-Snapshot ID: `MCw2Nzk2M2Y4NTU4MWU5YjIxNWY1YzYxNDZhNGMxNjJmNjRjYjliZmVh`
+Snapshot ID: `MCw1NGJiZDBiMWIyMTQ1OTdhM2RjMzkwYmIwOWE0OWJhZWZlMWYyYTQ2`

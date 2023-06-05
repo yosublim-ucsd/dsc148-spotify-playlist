@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-241 songs - 13 hr 41 min
+242 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Moonwalk In Kyoto](https://open.spotify.com/track/2V5ivZUi1vx2nRXPIlpvBT) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU) | [Space Opera](https://open.spotify.com/album/57zWBnAt4ZwWgqJQz91VVA) | 4:07 | 2022-08-25 |  |
 | [Nam Khang](https://open.spotify.com/track/4ZzSW7CyhdAqrIFRdQ2Lee) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep Looking at the Window](https://open.spotify.com/album/4ujNlhHT0WFcfN2wrprJds) | 6:57 | 2022-08-25 |  |
 | [NAN CHUN 난춘](https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN 난춘](https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh) | 3:49 | 2022-08-12 |  |
-| [NEO SOUL](https://open.spotify.com/track/4TOPopoEnEtI2n6t8smIj3) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [SiO2.nH2O](https://open.spotify.com/album/44j8NM9cjlwh1kHfWafmHj) | 4:19 | 2022-10-06 |  |
+| [NEO SOUL](https://open.spotify.com/track/4TOPopoEnEtI2n6t8smIj3) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [SiO2.nH2O](https://open.spotify.com/album/44j8NM9cjlwh1kHfWafmHj) | 4:19 | 2022-10-06 | 2023-06-05 |
+| [NEO SOUL](https://open.spotify.com/track/7uvahMuCtVjfbj4oPY7l3y) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [SiO2.nH2O](https://open.spotify.com/album/3AZHAALzIAdMLNRBUMarUG) | 4:19 | 2023-02-03 |  |
 | [Never Ending Story](https://open.spotify.com/track/31wYm3i0uTz0GF94DohUME) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [20th Anniversary Live In 2005](https://open.spotify.com/album/4INEvHrcuER5r0znFZ7fW0) | 4:11 | 2022-10-06 |  |
 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 | 2022-08-25 |  |
 | [Nightfall](https://open.spotify.com/track/6y0m2ZqxryJvRtjSlW2Uw0) | [SKIPJACK](https://open.spotify.com/artist/3eqel93sPqKCJfZsgi1uHp) | [Nightfall](https://open.spotify.com/album/4XKHSscld4s0dTFovtcb0l) | 4:12 | 2022-10-02 |  |

@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Matbosesh 3Al Sora Kteer",
+        "url": "https://open.spotify.com/album/1jxRTZnozNblBwG3EZTpCc"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "Matbosesh 3Al Sora Kteer",
+      "url": "https://open.spotify.com/track/02hW8iovo5mxTEYxV0me0E"
+    },
+    {
+      "album": {
         "name": "MATBOSESH 3AL SORA KTEER",
         "url": "https://open.spotify.com/album/6KEVEDUAhskxwMkMOT53PI"
       },
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 182044,
       "name": "MATBOSESH 3AL SORA KTEER",
       "url": "https://open.spotify.com/track/1GpGDH9ZjwsEsYpvWQlqed"

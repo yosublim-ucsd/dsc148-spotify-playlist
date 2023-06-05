@@ -4,7 +4,7 @@
 
 > To mark the release of her album 'Intentions' on May the 19th, Brasilian artist ANNA curates an ambient Listening Room takeover.
 
-249 songs - 20 hr 15 min
+250 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Lava Lamp](https://open.spotify.com/track/3ffWscaWRr8JuruFZwMe11) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Velocity \(Music from the Film\)](https://open.spotify.com/album/0YeQBgnX0wFRWNWoXPjmNR) | 2:18 | 2023-03-16 | 2023-05-19 |
 | [Lay Down](https://open.spotify.com/track/4Lcn0jfbuNmCFNczOQNXys) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Winter Windows](https://open.spotify.com/album/0egBQLEpUTo6LFKwRifkzK) | 3:13 | 2023-01-06 | 2023-05-19 |
 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 | 2023-05-19 |  |
-| [LIFE, LIFE](https://open.spotify.com/track/4A9cwSU34Y85kl2cEwlL6r) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 4:23 | 2023-05-19 |  |
+| [LIFE, LIFE](https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:23 | 2023-05-19 |  |
+| [LIFE, LIFE](https://open.spotify.com/track/4A9cwSU34Y85kl2cEwlL6r) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 4:23 | 2023-05-19 | 2023-06-05 |
 | [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 | 2022-03-17 | 2023-01-07 |
 | [Lil Bub's Story](https://open.spotify.com/track/6910PssSMId7YtYot1aI43) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Nothing Much Happens](https://open.spotify.com/album/67fSoRFG74IY2PfXeFkhGH) | 7:02 | 2022-03-17 | 2023-03-18 |
 | [Lilieae](https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 3:49 | 2022-10-10 | 2023-05-19 |

@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。The Weeknd, The Chainsmokers, Foo Fighters, Stray Kids, Jon Batiste & JID & NewJeans & Camilo and more! cover: The Weeknd
 
-1,600 songs - 3 day 18 hr 36 min
+1,601 songs - 3 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -953,7 +953,8 @@
 | [Only Girl](https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Only Girl](https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl) | 2:39 | 2023-04-27 | 2023-05-05 |
 | [Only Love Can Save Us Now](https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Only Love Can Save Us Now](https://open.spotify.com/album/14gFMh79sFu4n9SYxTPTlm) | 2:34 | 2023-05-18 | 2023-05-26 |
 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 | 2023-02-23 | 2023-03-03 |
-| [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 | 2023-06-01 |  |
+| [Open The Door, See What You Find](https://open.spotify.com/track/1Ks53o54WS8LzbwyEG56ds) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:07 | 2023-06-02 |  |
+| [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 | 2023-06-01 | 2023-06-05 |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-01 |  |
 | [Oropendola](https://open.spotify.com/track/6NfjC2ToSc0hq1EdOB4sJK) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Oropendola](https://open.spotify.com/album/2Jgj1i5GJf6Qhkw5kmnhq7) | 4:15 | 2023-05-04 | 2023-05-12 |
 | [Otetetsunaide](https://open.spotify.com/track/5iJbOUH3PG9Fu5jXf6y78M) | [Yamato Mori](https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w) | [Otetetsunaide](https://open.spotify.com/album/2J0trvBDEnhwjxJrDlMCfS) | 3:34 | 2023-04-27 | 2023-05-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX?si=oH3MnPzfRn2iTBrx8atqgg">Vuma Levin</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,565 likes - 50 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,577 likes - 50 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [Hold On](https://open.spotify.com/track/7l3IUci8Lmso5WNIUoF6Ml) | [Siya Makuzeni Sextet](https://open.spotify.com/artist/2G19JUF1zNF0IdKkQl8FEM) | [Out of This World](https://open.spotify.com/album/6ww7Y5vZUyaAcswPnpnMYe) | 11:47 |
 | 50 | [Thokozile Queen Mother](https://open.spotify.com/track/3xIveLdbKx5x1SbUXPfxUs) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Project ELO](https://open.spotify.com/album/22mdGQMdG58pswyb3GkZL2) | 6:12 |
 
-Snapshot ID: `MCxjMDk4MmM3NTgyNTRhYjQ0MmFlZGQ4NjI4ZjU0ZmJhNjNhZTEwNWFi`
+Snapshot ID: `MCw2ODQxNzAxZWU4Y2QyNzJkMGVhM2QzZTA0YTExN2ZkM2RlNzEzMDc0`

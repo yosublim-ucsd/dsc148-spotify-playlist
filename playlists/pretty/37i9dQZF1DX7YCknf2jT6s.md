@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Yussef Dayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,030 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,190 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Moradas](https://open.spotify.com/track/6setBDWQ0ErSwch2UG0pSS) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Frank Carlberg](https://open.spotify.com/artist/70vlidktezpl3h9TTZpqPe) | [Moradas](https://open.spotify.com/album/3beTlXv1QDKfIs2IKMEvMx) | 7:13 |
 | 100 | [The Tower](https://open.spotify.com/track/4aM1fae4TPuKOZO1DiJKZT) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq), [Bill McHenry](https://open.spotify.com/artist/1ZSjkZgcJbKs97Porpnhry) | [The Tower](https://open.spotify.com/album/3SgBLt4iqUKEwOlIc0vwEg) | 5:48 |
 
-Snapshot ID: `MCwxMTAzMGE4ODdjZmUyZTQ2M2UwMmY0YTA5YzI0Yzk0YzlkOWQyOTM2`
+Snapshot ID: `MCwwNWVmNjUyOGZjMzcxODhkZTUzYmZjMTdlMGRkMzFkNDZlMGRmZmY3`

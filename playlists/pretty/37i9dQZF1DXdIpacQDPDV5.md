@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Dom Dolla, Nelly Furtado
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,384 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,405 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 89 | [Lose It](https://open.spotify.com/track/2BvqUVpsRPqg9U7cPS7W2N) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Lose It](https://open.spotify.com/album/7GMeqHwUzlZ6zoR61YICom) | 4:51 |
 | 90 | [Ocean](https://open.spotify.com/track/3UMun1cKfBA7NPlVXcF7Ul) | [Kisaya](https://open.spotify.com/artist/51Rmu9mstzis4wE5v6c28R) | [Ocean](https://open.spotify.com/album/4QsV0Pg8ME7G5oJ9R5MniF) | 3:05 |
 
-Snapshot ID: `MCw4M2ViMzdhNzZiNmE4ZmYxYWYzYmNhNzdmYmQ4Y2E3ZDYxMjNlYmJk`
+Snapshot ID: `MCw0MjMzZjk0NDdhNTYwY2UxODQ1OWFiMGZjNDI1ZDQ2ODlhMDA5NTgx`

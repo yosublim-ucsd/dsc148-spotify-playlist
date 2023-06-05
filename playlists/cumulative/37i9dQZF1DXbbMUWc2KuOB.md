@@ -4,7 +4,7 @@
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-174 songs - 11 hr 16 min
+175 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Photo of My Mind \- Instrumental](https://open.spotify.com/track/6DVJfMK2L8gIP9YLu8HisW) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/1FqkBTEnhrkGzu934rDADs) | 4:32 | 2022-04-12 | 2022-07-29 |
 | [Photo of My Mind \- Instrumental](https://open.spotify.com/track/6eeFcUFMFDcYyuHL014IZl) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/7DDssx4nZHYShZUSGEoMom) | 4:32 | 2022-04-12 |  |
 | [Please Don't Cry \- Instrumental](https://open.spotify.com/track/0Jh9s5yB8fyK6hwm2BwVVA) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6ZGUvD476odOT0J0SdK8L5) | 3:55 | 2022-04-12 | 2022-07-27 |
-| [Please Don't Cry \- Instrumental](https://open.spotify.com/track/1duxldBw0SGQ56SPBg5gLb) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/4XWPJiQfB1sTbhy9JJTl47) | 3:55 | 2022-04-12 |  |
+| [Please Don't Cry \- Instrumental](https://open.spotify.com/track/1duxldBw0SGQ56SPBg5gLb) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/4XWPJiQfB1sTbhy9JJTl47) | 3:55 | 2022-04-12 | 2023-06-05 |
 | [Promise You \- Inst.](https://open.spotify.com/track/4TCnuYiwp3j8A9LmWtIgpN) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3z0YzaZubMqAeIuJkkgdcl) | 4:11 | 2022-04-12 | 2022-07-25 |
 | [Puzzle \- Instrumental](https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220) | [YONGZOO](https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1) | 3:55 | 2022-04-12 | 2022-07-28 |
 | [Rainbow \- Instrumental](https://open.spotify.com/track/02b0RWJt0N0WeCDfZo9mFM) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Romance is a Bonus Book OST Part.2](https://open.spotify.com/album/3Usp95rPjdugV9GdzfM0OC) | 3:32 | 2022-04-12 | 2022-07-13 |
@@ -180,6 +180,7 @@
 | [나는 볼 수 없던 이야기 \(Inst.\) \(Instrumental\)](https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [로맨스는 별책부록 OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 | 2022-04-12 |  |
 | [내 맘을 볼수 있나요 \- Instrumental](https://open.spotify.com/track/4kzukmEpvEk0d45hXd2k0t) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel del Luna \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) | 3:46 | 2022-04-12 |  |
 | [너를 사랑하고 있어 \- Instrumental](https://open.spotify.com/track/22ufiu7gDBCAUgytTidmS5) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 | 2022-04-12 |  |
+| [안녕 \- Instrumental](https://open.spotify.com/track/1oL5QU2Aq90WRXWlZA8YPl) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hotel del Luna \(Original Television Soundtrack\) Pt.10](https://open.spotify.com/album/4tW3kGnzsPIvpWOzgIew2A) | 3:45 | 2022-04-12 |  |
 | [이 사랑 \(Instrumental\)](https://open.spotify.com/track/2tQUuH4PcJRnqZk2LTKlTK) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [태양의 후예 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/26r2DqK7nPfiE097XOjD7z) | 3:46 | 2022-04-12 | 2022-07-29 |
 | [지금 만나러 갈게 \- Instrumental](https://open.spotify.com/track/0LzzN4vnTVHZUNZuAe8EYt) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [브람스를 좋아하세요? \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4iouMUcFgTOvYb7uOzYPsc) | 4:14 | 2022-04-12 | 2023-04-20 |
 

@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "I Got Mine (Live at Montreux 2007)",
+        "url": "https://open.spotify.com/album/18aWYih7Du1hBqPqJFpvQK"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "I Got Mine - Live at Montreux, 2007",
+      "url": "https://open.spotify.com/track/2rncIbmaHGpKrmzxEGcBJV"
+    },
+    {
+      "album": {
         "name": "Iron Fist (Deluxe 40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8"
       },
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 229499,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"

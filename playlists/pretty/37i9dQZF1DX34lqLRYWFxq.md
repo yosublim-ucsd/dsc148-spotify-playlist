@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: MICO
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,086 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,093 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 88 | [Do Better](https://open.spotify.com/track/6ViEegCPVSoBPKqfLkBGkN) | [Dolo Tonight](https://open.spotify.com/artist/3ED1AG2E67Epo3MBFVOFj9), [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Do Better](https://open.spotify.com/album/4gmR60YSh25cUZylahEO08) | 2:41 |
 | 89 | [Uncertain Country](https://open.spotify.com/track/6LaxmYfJJxenLrs3Ds5mSm) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Uncertain Country](https://open.spotify.com/album/42DTFW4SRLsUU9FmFL7Lis) | 4:11 |
 | 90 | [Picture Of](https://open.spotify.com/track/2eubo0u40y0aSdHM39SzaO) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [I Held the Shape While I Could](https://open.spotify.com/album/3vteTx2gH08gtDvxsSx8xR) | 4:36 |
-| 91 | [What I Lost](https://open.spotify.com/track/7xt41A7FE69n0HesRmRMsX) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [What I Lost](https://open.spotify.com/album/0HMDo8oSr5B16LPiE70djt) | 3:47 |
+| 91 | [What I Lost](https://open.spotify.com/track/6A2YBRwVay9HFsjErAzHXZ) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [Such Ferocious Beauty](https://open.spotify.com/album/7JuaCkoVLGfjTCBU1AYhbP) | 3:47 |
 | 92 | [Can't take me](https://open.spotify.com/track/2EuHwE5SjjKqH5uv8mMN8v) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Can't take me](https://open.spotify.com/album/38AcKTsnfYItzPuLseO1wI) | 2:15 |
 | 93 | [Lately](https://open.spotify.com/track/5OE25ggoxJ6ydrSN4Op2Ag) | [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq), [Todd Barriage](https://open.spotify.com/artist/5JvB18ikUg21Uv5MrUBagY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Lately](https://open.spotify.com/album/3CwpPyVy8P6UjE4s81I3cm) | 3:01 |
 | 94 | [Nosebleed](https://open.spotify.com/track/1ElDn0WlZ4ELXHksk0Z8mu) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Nosebleed](https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Qaigi](https://open.spotify.com/track/7nEu161pDcPeVCtl7K4Tab) | [Terry Uyarak](https://open.spotify.com/artist/3KEdNe4qRXyOjwxjnxkIkh), [Avery Keenainak](https://open.spotify.com/artist/4NTHtl1zps3k7OE6ufRzrx) | [Qaigi](https://open.spotify.com/album/1KQCDnSRfwIQ1jv5ZaBfmT) | 3:36 |
 | 100 | [Constant Weekend](https://open.spotify.com/track/5P1Kc5r3Hi56ZqjKxdPOiP) | [Chris Koster](https://open.spotify.com/artist/0jGicjq2ARnSTnXmldMqR2) | [Constant Weekend](https://open.spotify.com/album/4eiPOwiImeFrgviqGN8qMp) | 3:14 |
 
-Snapshot ID: `MCw0MjczZmQwYWJkZTQ1OWFhMmZjZDM1MGU4Yjc2MWY4ZjVmYmU3M2Vm`
+Snapshot ID: `MCw5ZGRlMzFkYWZiZWZjYjk2NWI2MjVlMWNlYmJkNmUyMjIyODBmOGVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Teezo Touchdown
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,678 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,804 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 9 | [ARE U KIDDING](https://open.spotify.com/track/27BuErcU8fgsy1uNSA0y2z) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [ARE U KIDDING](https://open.spotify.com/album/2csp8eERrdYFm942rZsl5z) | 2:31 |
 | 10 | [PANIC!!!](https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [PANIC!!!](https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p) | 2:20 |
 | 11 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 |
-| 12 | [Requiem For A Dream](https://open.spotify.com/track/7GbQ1TGJIF9fTsrUnGlJHv) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Requiem For A Dream](https://open.spotify.com/album/6DKnQ6vxjKsdzj7VSOMLo0) | 2:06 |
+| 12 | [REQUIEM FOR A DREAM](https://open.spotify.com/track/7GbQ1TGJIF9fTsrUnGlJHv) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [REQUIEM FOR A DREAM](https://open.spotify.com/album/6DKnQ6vxjKsdzj7VSOMLo0) | 2:06 |
 | 13 | [Soupy \(with Cozz\)](https://open.spotify.com/track/5TBEzYGA3UAtTxzaQ5A6dB) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Soupy \(with Cozz\)](https://open.spotify.com/album/0RBMVHgVoqwIWp2eMsapgr) | 3:26 |
 | 14 | [DRACULA](https://open.spotify.com/track/5UahFzPYaCRSgb5QkDH8iO) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DRACULA](https://open.spotify.com/album/0t6XelUenN8uSlGHLgarcr) | 2:58 |
 | 15 | [DRUNK WORDS, SOBER THOUGHTS](https://open.spotify.com/track/1X0I5zmgZHBrvEo5k0Va1X) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [REAL B\*TCHES DON'T DIE!](https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [cracked screen](https://open.spotify.com/track/74iw3OCAb3it0SjOVw4Dnq) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [cracked screen](https://open.spotify.com/album/5JzrI4ObDjPuTLfD84VmAm) | 3:32 |
 | 100 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 |
 
-Snapshot ID: `MCxiMDM4MDMxMTc2ZWFmM2ZhZmUxZTA2YjQzM2MyOTIxZGI2ZTA4ZjFi`
+Snapshot ID: `MCw4N2U1ZTFlNmY1NDAxNDEzZmNlZTA1NGIwMWVkMDE3Y2UxNDExOTBj`

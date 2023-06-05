@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-259 songs - 14 hr 31 min
+260 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Blue Room](https://open.spotify.com/track/0kALrkZ7O7dZfLuwjD0wDT) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/64wlWLiCzubQBn4zxkCwxc) | 2:07 | 2022-06-02 | 2022-11-20 |
 | [Blue Room](https://open.spotify.com/track/7pVWQOxI0kKpe4Lo7AJ7qZ) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/1nz37Y6wJVp4eVngCLeHhe) | 2:07 | 2021-12-09 | 2022-07-29 |
 | [Boardwalk Lullaby](https://open.spotify.com/track/36Y9QenzjmEBtuOBz14dNA) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Boardwalk Lullaby](https://open.spotify.com/album/5czR37oCAa3TYKxuAQzfJJ) | 2:44 | 2022-06-02 | 2023-05-18 |
+| [Boardwalk Lullaby](https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Boardwalk Lullaby](https://open.spotify.com/album/0Vy92KWCt46nfEZJ6Xk003) | 2:44 | 2023-05-26 |  |
 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 | 2021-12-09 | 2022-04-17 |
 | [By My Side](https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [By My Side](https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK) | 2:19 | 2023-05-26 |  |
 | [Cactus](https://open.spotify.com/track/5O1L8o8fmUdVaf88z5dfWB) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Sycamore](https://open.spotify.com/album/0vhhS4tteJrfvlBIJRdQid) | 4:58 | 2021-12-09 | 2022-05-22 |
@@ -222,7 +223,7 @@
 | [Sunrise](https://open.spotify.com/track/2qsUw1xPsAZIZMIKQlVP7y) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Sunrise](https://open.spotify.com/album/1X5uwgpBZCygtKeR9Ebp1o) | 3:49 | 2023-02-17 |  |
 | [Sunrise](https://open.spotify.com/track/5x1RPNP8Uydtz23MR0T2UG) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Sunrise](https://open.spotify.com/album/5jVu8AJnEQngLJKrcW3mbV) | 3:49 | 2021-12-09 | 2023-03-06 |
 | [Sunset Memories](https://open.spotify.com/track/23B9GzNM75qjKY60qLEA0P) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Sunset Memories](https://open.spotify.com/album/5KBL6nZZewDKWvZqcHRpsa) | 2:32 | 2023-02-17 |  |
-| [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2021-12-09 |  |
+| [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2021-12-09 | 2023-06-05 |
 | [Sunsets & Birds](https://open.spotify.com/track/3meIBFSPh9Ub6zloZRFhuQ) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sunsets & Birds](https://open.spotify.com/album/5QG6HT610I43dQBQIIE82v) | 2:28 | 2021-12-09 | 2022-07-29 |
 | [Sunsets & Birds](https://open.spotify.com/track/6gjBY0rDwSR0fK5NjVcOtM) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sunsets & Birds](https://open.spotify.com/album/6dvN4ZLVJjLY7Ln68GGRz5) | 2:28 | 2022-06-02 | 2023-05-15 |
 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 | 2021-12-09 | 2022-01-05 |

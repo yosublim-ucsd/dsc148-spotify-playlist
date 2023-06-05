@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-289 songs - 1 day 3 hr 50 min
+290 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Black Smoke](https://open.spotify.com/track/0vZrU143kLdTS0wmOpif5u) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY) | [Black Smoke](https://open.spotify.com/album/7Ml0kvmqPLNyoKVPRH00pr) | 4:38 | 2021-11-30 | 2022-07-19 |
 | [Blood Leaves a Trail](https://open.spotify.com/track/6u6cQr5HcIrU00h4xlrmCb) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sea](https://open.spotify.com/album/5ZO5pXlgYkn7U5z403VSg1) | 6:19 | 2021-11-30 | 2022-07-07 |
 | [Blue Snow](https://open.spotify.com/track/4L6txSW8V2KqNVY1LZHMes) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Time Travelling Blues](https://open.spotify.com/album/4EflZcGXhZGptft8fzxwI3) | 4:25 | 2021-11-30 | 2022-02-13 |
+| [Boogeyman Blues](https://open.spotify.com/track/2GC42YDOqiUF329fIVbUxW) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 2:55 | 2023-06-02 |  |
 | [Bosses Hang, Pt\. I](https://open.spotify.com/track/1JYml5HzXGCOQDfCJCRjTa) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/2eOMttZbB9lBc9LLMj56xj) | 4:39 | 2021-11-30 | 2022-07-17 |
 | [Bosses Hang, Pt\. I](https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 4:39 | 2022-04-28 | 2023-03-23 |
 | [Bright Dawn of the Soul](https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E) | [The Egocentrics](https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh) | [Love Fear Choices and Astronauts](https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d) | 10:51 | 2021-11-30 | 2022-06-25 |
@@ -67,7 +68,7 @@
 | [Deconstruction](https://open.spotify.com/track/5sLrsgPP8bGWfz1g332qnE) | [Witchcraft](https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG) | [Legend](https://open.spotify.com/album/4tIt1aEVqxQ71AuOpoEsHs) | 5:09 | 2021-11-30 | 2022-07-29 |
 | [Demon Cleaner](https://open.spotify.com/track/2cVphsi72OjF7s0rtt2z5e) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:11 | 2021-11-30 | 2022-07-29 |
 | [Demon Cleaner](https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq) | 5:11 | 2022-04-28 |  |
-| [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 | 2021-11-30 |  |
+| [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 | 2021-11-30 | 2023-06-05 |
 | [Desert Cruiser](https://open.spotify.com/track/3IjeShSHRTVoWJdDDncVse) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/1kMiNWC1GGs8kbTcJWnLo4) | 7:29 | 2021-11-30 | 2022-07-29 |
 | [Desert Cruiser](https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV) | 7:29 | 2023-03-22 |  |
 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 | 2022-04-28 | 2023-04-30 |

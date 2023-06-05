@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,644 likes - 42 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,725 likes - 42 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 35 | [Chopin: Ballade No\. 1 in G Minor, Op\. 23](https://open.spotify.com/track/7gXWx5DBR5MfsFBzPm9zSS) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Chopin: Pièces pour piano](https://open.spotify.com/album/6Tl9QkeaAqtpHvdhvjcSxz) | 8:59 |
 | 36 | [Polonaise No\. 15 in B\-Flat Minor, "Adieu"](https://open.spotify.com/track/3GIinvDCi2LlQdxPCH1ECa) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Eugene Mursky](https://open.spotify.com/artist/1rKvvrDCrGnvjFfRMOddjG) | [Chopin, F.: Chopin Edition, Vol\. 3 \- Polonaises](https://open.spotify.com/album/7nCwt76R4YZQwTi9h9VRZz) | 5:27 |
 | 37 | [Berceuse in D Flat Major, Op\. 57](https://open.spotify.com/track/05Bpq895B93tdf1sXStxbY) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [Chopin: Piano Concerto No.2; Ballade No.4; Berceuse; Polonaise Héroïque](https://open.spotify.com/album/0NhBxrihXlNzRCHpr748QR) | 4:08 |
-| 38 | [Polonaise No\. 7 in A flat, Op\. 61 Polonaise\-Fantaisie: Polonaise No\. 7 in A flat, Op\. 61 Polonaise\-Fantaisie](https://open.spotify.com/track/2jsnOginmflAutN6efs6H5) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Sviatoslav Richter](https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X) | [Sviatoslav Richter \- In Memoriam](https://open.spotify.com/album/1AW2bzGrOJzUjwkcTys5fW) | 12:15 |
+| 38 | [Polonaise No\. 7 in A flat, Op\. 61 Polonaise\-Fantaisie: Polonaise No\. 7 in A flat, Op\. 61 Polonaise\-Fantaisie](https://open.spotify.com/track/3AMlHGW2YxtPgn1r8pY9C1) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Sviatoslav Richter](https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X) | [Sviatoslav Richter \- Complete DG Solo / Concerto Recordings](https://open.spotify.com/album/7GvwKvzKLntRwxP5D7lJe1) | 12:15 |
 | 39 | [Chopin: Nocturne No\. 8 in D\-Flat Major, Op\. 27 No\. 2](https://open.spotify.com/track/4hbvrHgfZ8lqFrPx1Ztd6j) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Gabriela Montero](https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr) | [Gabriela Montero: Piano Recital](https://open.spotify.com/album/2Kvlzm7PyfuF30L3HIBrWw) | 5:38 |
 | 40 | [Ballade No\. 4 in F Minor, Op\. 52](https://open.spotify.com/track/5mBbZk0Nft6z1ZtxK9YOqB) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [DG 120 – Concertos 2 \(1994\-2016\)](https://open.spotify.com/album/7sFyK4p1XMNF5Ruq1gY0Wg) | 12:06 |
 | 41 | [Andante spianato et Grande polonaise brillante, Op\. 22: Andante spianato\. Tranquillo](https://open.spotify.com/track/06sDDrEwEG9ewXmV5fkETR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Chopin: Polonaises; Andante spianato;Minor Works](https://open.spotify.com/album/1gAU8fHpTCco6SgNnsR5tm) | 4:56 |
 | 42 | [Mazurka in F Minor, Op\. Posth\. 68: No\. 4 Andantino](https://open.spotify.com/track/4bN6MHbUqqFS7tG5clItYc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Late Works, Opp\. 59\-64](https://open.spotify.com/album/6Wzf1byg16zWinXnxldir8) | 2:00 |
 
-Snapshot ID: `MCw5NDRlNjYyN2M3MWFmMTNmYmMwYTZkY2VmNzQ0MmMwYmI4ZTU2ZTZk`
+Snapshot ID: `MCw2ZjVhNjhkZDJlNGI4MjNiNDNlYjFjM2E4NDZjZjJlMjQxYWJkMGJm`

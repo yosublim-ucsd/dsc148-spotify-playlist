@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,734 likes - 131 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,762 likes - 131 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 33 | [Ocean Mist](https://open.spotify.com/track/2WccQeCOFqFsmpRm4GRiol) | [The Sound Designers](https://open.spotify.com/artist/5fW4vA2xSDXwdSopSVrerj) | [Dancing Waves](https://open.spotify.com/album/0bkdQzer9UrT5r6qNccPX4) | 2:13 |
 | 34 | [At the Shores of Lake Matheson](https://open.spotify.com/track/0LxNBpzqUzisY7YAivvVDa) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [At the Shores of Lake Matheson](https://open.spotify.com/album/6XcObzwwCHY03fx1TpDvdF) | 3:09 |
 | 35 | [Salty Waves](https://open.spotify.com/track/2aRy7pklD5hTboN2N8TbCm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Salty Waves](https://open.spotify.com/album/69F69VuU2LQCaTp3U0hyoV) | 2:37 |
-| 36 | [Clearwater Waves](https://open.spotify.com/track/57KJiJWvaoV1el0dz1kJ2G) | [shoreline sounds](https://open.spotify.com/artist/3ipDn4RAfsT9ZUicYn8Zas) | [Waves and Shoreline Ambience](https://open.spotify.com/album/4UqqEB4Mycrza8NctqK5LS) | 3:04 |
+| 36 | [Clearwater Waves](https://open.spotify.com/track/57KJiJWvaoV1el0dz1kJ2G) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Waves and Shoreline Ambience](https://open.spotify.com/album/4UqqEB4Mycrza8NctqK5LS) | 3:04 |
 | 37 | [Islands \(Waves\)](https://open.spotify.com/track/3u56xEIVn2fBfetjbkm9Uv) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Blue Ocean](https://open.spotify.com/album/2oyJGIr1HYy5Vov8gxERRo) | 4:11 |
 | 38 | [Northshore Waves](https://open.spotify.com/track/2H00sQz1BcMPtUYtmCBgRv) | [Water Meditations](https://open.spotify.com/artist/1DPlfmeS7GBX9w1GvOqR6D) | [Northshore Waves](https://open.spotify.com/album/7iB2dRwjXirHBjp4ijeiua) | 2:35 |
 | 39 | [Cave Waves](https://open.spotify.com/track/1lPJnvgUUl1q2lmMIKeiap) | [Dominiq Delta](https://open.spotify.com/artist/31cNbWbr6MQ0ZjK2FjR9Xn) | [Drifting Awave](https://open.spotify.com/album/1wJ5tw6lDEnBXKAM5wdHF7) | 3:01 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 88 | [Western Ocean Waves](https://open.spotify.com/track/6oGDf7vGsT9Xp2ABRil9ss) | [All Night Chill Makers](https://open.spotify.com/artist/2i0PdFbccjRzAc6ZZPwk5O) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:44 |
 | 89 | [Waves in Capbreton](https://open.spotify.com/track/30GcqYrwMhloErNPfWZKMR) | [Ocean in HD](https://open.spotify.com/artist/2SveYJjEGhckzCzGg3J9Xq) | [Ocean Waves](https://open.spotify.com/album/1g4CXHJpJywHXFeX9CVqLE) | 2:53 |
 | 90 | [Soothing Waves](https://open.spotify.com/track/3afgb2bRHdcpGgssbzd2kv) | [In The Ocean \(Sound FX\)](https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF) | [Wave Sounds From Scandinavia Vol\. 2](https://open.spotify.com/album/5YbKpZftWuKq5JUPEZC9Le) | 2:40 |
-| 91 | [Yarmouth Waves](https://open.spotify.com/track/4wjwyLjHlji1vV5Pardr1I) | [shoreline sounds](https://open.spotify.com/artist/3ipDn4RAfsT9ZUicYn8Zas) | [Calm Cape Cod Waves](https://open.spotify.com/album/3iAgd8RnNx0dQP9wAJmAKA) | 2:09 |
+| 91 | [Yarmouth Waves](https://open.spotify.com/track/4wjwyLjHlji1vV5Pardr1I) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Calm Cape Cod Waves](https://open.spotify.com/album/3iAgd8RnNx0dQP9wAJmAKA) | 2:09 |
 | 92 | [Soothing Waves](https://open.spotify.com/track/6xUeaS7PWP8CPU98JW0iSY) | [Rivulet](https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8) | [Gentle Waves](https://open.spotify.com/album/7tM4OvM5AlaiTpZCMmH7hy) | 3:16 |
 | 93 | [Afternoon Nap \- Waves for Sleep Pt\. 1](https://open.spotify.com/track/6ZLthyH8sc4NxYfifgtu5C) | [Granatic](https://open.spotify.com/artist/02fXIa9fg4gCk24jmtJws1) | [Afternoon Nap](https://open.spotify.com/album/3xHvy7sKsJknH2V35a8nXb) | 2:24 |
 | 94 | [Waves Two](https://open.spotify.com/track/0DFSlg51WSae9rxMA9Chx1) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Part II](https://open.spotify.com/album/75UIRk0PxOfWNFJRupK4TD) | 3:09 |
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 110 | [Sleeping at the Calm Coast](https://open.spotify.com/track/67RbgGgHDNYiJKBGjCBvO6) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Echo of Waves](https://open.spotify.com/album/2A1V2bnCjWGXYrKKTAE7HV) | 3:15 |
 | 111 | [Slow Laps Background Ocean](https://open.spotify.com/track/6ex0RelF7uGg4I8zoJlCTN) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Ocean's Edge](https://open.spotify.com/album/2XSyhlBiYtUsjuJ3gB0shQ) | 2:56 |
 | 112 | [Calming Waves](https://open.spotify.com/track/2YTmVHWP5hDKIdzYTjezmz) | [Beach Goers](https://open.spotify.com/artist/5n8aBSFHojKEjR87derxwP) | [Barefoot in the Sand](https://open.spotify.com/album/4vXxv7VdztQHQJ7qlamNZT) | 2:30 |
-| 113 | [Dennisport Waves](https://open.spotify.com/track/16d6Up62qNcVTW3rqrPUGF) | [shoreline sounds](https://open.spotify.com/artist/3ipDn4RAfsT9ZUicYn8Zas) | [Calm Cape Cod Waves](https://open.spotify.com/album/3iAgd8RnNx0dQP9wAJmAKA) | 2:05 |
+| 113 | [Dennisport Waves](https://open.spotify.com/track/16d6Up62qNcVTW3rqrPUGF) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Calm Cape Cod Waves](https://open.spotify.com/album/3iAgd8RnNx0dQP9wAJmAKA) | 2:05 |
 | 114 | [Forest Lake](https://open.spotify.com/track/31cB7oyrJ56ibJvxNS5y2H) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Sounds of Water \(Binaural Audio\)](https://open.spotify.com/album/1I5w1QRdA0g4drhkRcwFpk) | 2:13 |
 | 115 | [Colorful Beach Sounds](https://open.spotify.com/track/4XtzUunIGqhi9zBWxw15dK) | [Ocean Sound Plus](https://open.spotify.com/artist/4ARbuZePjgGx7lNlyGn46c) | [Clean Waves](https://open.spotify.com/album/0cF3nniEuaepisDW7EpPZ0) | 2:21 |
 | 116 | [Frothy Tides \(Ocean\)](https://open.spotify.com/track/1VqsoxKyoanxL2q67ORb46) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [The Vast Sea](https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y) | 2:48 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 130 | [Arriving \(6.5 kHz Lowpass\)](https://open.spotify.com/track/0KGpwqkKGjRKWgVvJriIWg) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Wuthering Lochs](https://open.spotify.com/album/4vLzq2D9GTVMz6t1qUFSWZ) | 3:28 |
 | 131 | [Relaxing Waves](https://open.spotify.com/track/4u2hY8U7zkJWoPHYgVU0z9) | [Coast to Coast Recordings](https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC) | [Ocean Waves for Sleep Volume 3](https://open.spotify.com/album/3Gee2RZkrNJhpxTLn9sQae) | 3:42 |
 
-Snapshot ID: `MCxlMzUyN2QzODU0YjUyYWZiZTZlNTE4OWE3MzA1YTg3ZGI0YmUyNjRj`
+Snapshot ID: `MCwyNTAzZTY0MWViMmQwNDE2NTZjMDk3Y2VjNmY0ZjA5ZmY5Y2NkMjNl`

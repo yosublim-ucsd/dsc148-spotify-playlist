@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Jayda G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,032,906 likes - 90 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,032,974 likes - 90 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 89 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 |
 | 90 | [Blush Cut](https://open.spotify.com/track/3HaUAMFIw5iZfpO5yOpw2P) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [BABYLON IX](https://open.spotify.com/album/18RD7fs0sVlhy13O8VwN7J) | 3:52 |
 
-Snapshot ID: `MCxkNGJiMjQ1YzE2Nzc1N2Y1YjZhMGM3MTIyZjkwZjZkNWU1MjFlZDZh`
+Snapshot ID: `MCwxZWU0YWU5MDdjZjVmZDEyZTEwNGVjNmU3NzBmY2ZhYjdiZWM4NmUw`

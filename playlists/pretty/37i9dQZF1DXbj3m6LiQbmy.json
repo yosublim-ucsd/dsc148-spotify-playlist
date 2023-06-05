@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana e dai suoi alleati. Asteria in cover! \u2728 ",
-  "num_followers": 5544,
+  "num_followers": 5550,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2M0NTQyM2NmNGUzMjYyMWUzYjVmMDQ3MzlmNGRmZDY5ZjA1ZTcw",
+  "snapshot_id": "MCxkMjkzNTIwNjdjNjk1MjNiNWJiOTEyZmU1NGJiOGExMGVlOWQyYWNm",
   "tracks": [
     {
       "added_at": "2023-06-01 22:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Questa Fragile Bellezza",
-        "url": "https://open.spotify.com/album/7dZyON07BaLqqXcXhEb0F3"
-      },
-      "artists": [
-        {
-          "name": "Giordana Angi",
-          "url": "https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "Le cose che non dico",
-      "url": "https://open.spotify.com/track/0QEWhtOJ1uj6YDaMt9OnAc"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 385296,
       "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
       "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Questa Fragile Bellezza",
+        "url": "https://open.spotify.com/album/7dZyON07BaLqqXcXhEb0F3"
+      },
+      "artists": [
+        {
+          "name": "Giordana Angi",
+          "url": "https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Le cose che non dico",
+      "url": "https://open.spotify.com/track/0QEWhtOJ1uj6YDaMt9OnAc"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "Credo che tra un po'",
+        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
+      },
+      "artists": [
+        {
+          "name": "Whitemary",
+          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
+        }
+      ],
+      "duration_ms": 218628,
+      "name": "Credo che tra un po'",
+      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "REGNO DEI CUORI",
         "url": "https://open.spotify.com/album/5B0ZeZfp2B8DnX4AcqHIf9"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 202792,
       "name": "REGNO DEI CUORI",
       "url": "https://open.spotify.com/track/6ccU7LnsRFPt1Y6fUCcHHl"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Credo che tra un po'",
-        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
-      },
-      "artists": [
-        {
-          "name": "Whitemary",
-          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
-        }
-      ],
-      "duration_ms": 218628,
-      "name": "Credo che tra un po'",
-      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
     },
     {
       "added_at": "2023-06-01 22:01:00",

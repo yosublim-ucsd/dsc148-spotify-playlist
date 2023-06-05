@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Moneybagg Yo, Gunna, and more\. Cover: Toosii
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,563 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,658 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 38 | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/track/5b9FYnAB7KeFOvBywwvnfO) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/album/25Zl2PLtuUGx14eqL3eaYQ) | 2:50 |
 | 39 | [DOG EAT DOG II](https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II](https://open.spotify.com/album/3teR99N0boYIvWfEm59CZB) | 4:00 |
 | 40 | [Credit Karma](https://open.spotify.com/track/2Co88vbKLC6tegFEmw0Lwa) | [Red Cafe](https://open.spotify.com/artist/4BWn7qje7L2bGp79bupn3B), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Credit Karma](https://open.spotify.com/album/2cROCuiEOijI3gLwMWJsAa) | 2:09 |
-| 41 | [Requiem For A Dream](https://open.spotify.com/track/7GbQ1TGJIF9fTsrUnGlJHv) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Requiem For A Dream](https://open.spotify.com/album/6DKnQ6vxjKsdzj7VSOMLo0) | 2:06 |
+| 41 | [REQUIEM FOR A DREAM](https://open.spotify.com/track/7GbQ1TGJIF9fTsrUnGlJHv) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [REQUIEM FOR A DREAM](https://open.spotify.com/album/6DKnQ6vxjKsdzj7VSOMLo0) | 2:06 |
 | 42 | [Oh Dear](https://open.spotify.com/track/3yRcWcjTcavCsclobLlx6W) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [UglyMarco](https://open.spotify.com/artist/04XhpJC5DKbeCFhTTUrUHi) | [Oh Dear](https://open.spotify.com/album/0dMyvCia0k4W7OCLffGtjd) | 2:21 |
 | 43 | [Turn The Streets Up](https://open.spotify.com/track/3irk5ecKiBYSIB0350rH87) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Turn The Streets Up](https://open.spotify.com/album/4aCmTJ5xk0O2aVNvciRkoR) | 2:42 |
 | 44 | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ) | 2:36 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [WHITE CAPRICE](https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [REAL B\*TCHES DON'T DIE!](https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX) | 3:16 |
 | 49 | [Edna \(Capes\)](https://open.spotify.com/track/0u3rPAewRgSd5PVTdjBBgb) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Edna \(Capes\)](https://open.spotify.com/album/4vYaBCjcql0eewlAfLNNVP) | 3:12 |
 
-Snapshot ID: `MCxiYmU3MTg4NDgzZDhmZGY2MjcxNDRlMmY1ODYxYTFkMzE2NTc4OWQ0`
+Snapshot ID: `MCwxNzg1MmY3MzAwMDEwNzNlY2VjOWM4OTU5OThmZWNkNjhiMDc4NjZm`

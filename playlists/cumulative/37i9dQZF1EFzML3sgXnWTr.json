@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "CHIAMO",
+        "url": "https://open.spotify.com/album/4Kfp3DudUiFoQamrhT4c44"
+      },
+      "artists": [
+        {
+          "name": "Lortex",
+          "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
+        },
+        {
+          "name": "chiamamifaro",
+          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203351,
+      "name": "CORALLO (feat. chiamamifaro)",
+      "url": "https://open.spotify.com/track/4Ug7Xin5w20S5iI8lH2a1R"
+    },
+    {
+      "album": {
         "name": "CORALLO (feat. chiamamifaro)",
         "url": "https://open.spotify.com/album/149h74WS0ayKjYX2gbKitz"
       },
@@ -92,7 +114,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 203351,
       "name": "CORALLO (feat. chiamamifaro)",
       "url": "https://open.spotify.com/track/7BzjrflnTHc4mOuc7kU6hL"

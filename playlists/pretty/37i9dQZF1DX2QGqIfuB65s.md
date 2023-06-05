@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 
 > Get ready for a great week of golf with song picks from Justin Thomas, Jon Rahm, Bubba Watson, Collin Morikawa, & Max Homa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074 likes - 58 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075 likes - 58 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 | 57 | [Want That Old Thing Back \(feat\. Ja Rule & Ralph Tresvant\) \- 2007 Remaster](https://open.spotify.com/track/2bDg8Sb7MFNPcnxUM6ln2R) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ralph Tresvant](https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt) | [Greatest Hits](https://open.spotify.com/album/2yDwwjGzGEcyJMEJuCNyiP) | 4:58 |
 | 58 | [No Role Modelz](https://open.spotify.com/track/69kFyd2ymmN4o7o4ozZCQS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/5EVSKBHF8YN0zyMCONnrAn) | 4:52 |
 
-Snapshot ID: `MCw3OGMyNDQyY2M5ZjY1NjU5ODc1OTQ1NDdkODQyM2FkOTMzZTg3NDQ3`
+Snapshot ID: `MCw2YzA2ZGQ2ZDk2NjAyZTE5ZDgzNWY3M2NjNGE4OTA1Y2IwMjkxZTMy`

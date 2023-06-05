@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Antoon, Ronnie Flex
 
-1,545 songs - 3 day 9 hr 43 min
+1,546 songs - 3 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,7 +995,8 @@
 | [Only Love Can Save Us Now](https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Only Love Can Save Us Now](https://open.spotify.com/album/14gFMh79sFu4n9SYxTPTlm) | 2:34 | 2023-05-19 | 2023-05-26 |
 | [Onzichtbaar Ziek](https://open.spotify.com/track/6kVo7hbDdEcVP7mZjjRmVL) | [Daisz](https://open.spotify.com/artist/6ljyxH0XOC4aObzKkJp9XH) | [Onzichtbaar Ziek](https://open.spotify.com/album/7CbgixuRAm6FV3ObUHcFBd) | 3:09 | 2023-04-27 | 2023-05-05 |
 | [Oogstlied](https://open.spotify.com/track/7A1ab0z0opcNJCRHOfrGAe) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Be\-Bop\-A\-Lula](https://open.spotify.com/album/6f1wtjcXewkeWJupkGLQn2) | 3:22 | 2023-04-06 | 2023-04-14 |
-| [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 | 2023-06-01 |  |
+| [Open The Door, See What You Find](https://open.spotify.com/track/1Ks53o54WS8LzbwyEG56ds) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:07 | 2023-06-02 |  |
+| [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 | 2023-06-01 | 2023-06-05 |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-05-25 | 2023-06-02 |
 | [Oslo](https://open.spotify.com/track/5pu4Bz9MI31v6Vl1xybfkN) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Oslo](https://open.spotify.com/album/08jN0Fk60lmjoMg6I0Ji2L) | 2:56 | 2023-05-04 | 2023-05-12 |
 | [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV) | 2:36 | 2023-05-11 | 2023-05-19 |

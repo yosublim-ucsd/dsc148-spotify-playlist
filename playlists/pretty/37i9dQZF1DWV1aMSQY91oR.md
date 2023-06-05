@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,393 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,414 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 21 | [PRESSURE](https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [PRESSURE](https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7) | 4:19 |
 | 22 | [Mafia Water](https://open.spotify.com/track/2oikdqSAjYhuYdJ75uenwn) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Mafia Water](https://open.spotify.com/album/6umZVOWF9THBoQlkj79Y3q) | 2:39 |
 | 23 | [ARE U KIDDING](https://open.spotify.com/track/27BuErcU8fgsy1uNSA0y2z) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [ARE U KIDDING](https://open.spotify.com/album/2csp8eERrdYFm942rZsl5z) | 2:31 |
-| 24 | [Requiem For A Dream](https://open.spotify.com/track/7GbQ1TGJIF9fTsrUnGlJHv) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Requiem For A Dream](https://open.spotify.com/album/6DKnQ6vxjKsdzj7VSOMLo0) | 2:06 |
+| 24 | [REQUIEM FOR A DREAM](https://open.spotify.com/track/7GbQ1TGJIF9fTsrUnGlJHv) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [REQUIEM FOR A DREAM](https://open.spotify.com/album/6DKnQ6vxjKsdzj7VSOMLo0) | 2:06 |
 | 25 | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ) | 2:36 |
 | 26 | [Why You Mad](https://open.spotify.com/track/4t2ew3zZUkqaOlRZpYLZQt) | [Troy Ave](https://open.spotify.com/artist/3cvKNz7BwIY404XtZ5tpUW), [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX), [DRE DAY](https://open.spotify.com/artist/2giWn6C9alX1vxpUyz0YAB) | [Why You Mad](https://open.spotify.com/album/0XA7C4g6Ph5RQ84eXEV90y) | 3:43 |
 | 27 | [Spoof \(feat\. Tee Grizzley\)](https://open.spotify.com/track/4t48gom0WM1BgWPmC9e8HV) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Spoof \(feat\. Tee Grizzley\)](https://open.spotify.com/album/6aPqsKGtMyI83bq5AcV8SU) | 2:53 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Proceed](https://open.spotify.com/track/41Ta2RtJux73U0xxE8oS93) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [World Class Trouble Solvers](https://open.spotify.com/album/2XdJ8pSuKFgaxUTmjaAh8d) | 2:03 |
 | 49 | [BRIGHT LIGHTS](https://open.spotify.com/track/7EtjmcfEq1o0jq9hhDtxg4) | [Afta Hill](https://open.spotify.com/artist/2QyfQWgIraqOxY6uBmwP6f) | [BRIGHT LIGHTS](https://open.spotify.com/album/7souShPEx912BRb3ZCF959) | 1:52 |
 
-Snapshot ID: `MCwwODY4MjVkNjU5YjU5MTAzNDU1ZDkyYTBjYjEyNzdkYzFkNjUyOGU0`
+Snapshot ID: `MCw2ZWI0NTUxY2U1ODYwMTczZmJlZDZkOTU0OTEyMjVkOWQxMzc5YjNl`

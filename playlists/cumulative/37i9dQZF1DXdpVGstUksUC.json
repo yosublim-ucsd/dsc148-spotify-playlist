@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
+        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175580,
+      "name": "Boogeyman Blues",
+      "url": "https://open.spotify.com/track/2GC42YDOqiUF329fIVbUxW"
+    },
+    {
+      "album": {
         "name": "Luciferian Towers",
         "url": "https://open.spotify.com/album/2eOMttZbB9lBc9LLMj56xj"
       },
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 373133,
       "name": "Desert Cold",
       "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"

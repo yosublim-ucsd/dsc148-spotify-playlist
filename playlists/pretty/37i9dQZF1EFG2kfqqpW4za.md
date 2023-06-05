@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 432 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 43 | [Contei Até Três](https://open.spotify.com/track/1yE6CxOk6rVVed64AtrStV) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [Contei Até Três](https://open.spotify.com/album/5BRxDc9TIZAfJHARu6UmHB) | 3:26 |
 | 44 | [Pra Minha Gente](https://open.spotify.com/track/7oxAoeLVwKwm6TfEOM40qJ) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Pra Minha Gente](https://open.spotify.com/album/0bhN1xHWCtB4eYus8Z4iMl) | 2:57 |
 | 45 | [Sintonizando](https://open.spotify.com/track/2wSQsyD7HnHyr1AJklK67q) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:22 |
-| 46 | [Deixa Ficar](https://open.spotify.com/track/3faTNKg8XnSFYWEc2nYPJJ) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Deixa Ficar](https://open.spotify.com/album/7nmLqG8f9B4KjLSPrrfMEz) | 3:23 |
-| 47 | [Governo Fascista](https://open.spotify.com/track/0U5mMUpP7b4CljtNlCSCf5) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:48 |
+| 46 | [Governo Fascista](https://open.spotify.com/track/0U5mMUpP7b4CljtNlCSCf5) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:48 |
+| 47 | [Deixa Ficar](https://open.spotify.com/track/3faTNKg8XnSFYWEc2nYPJJ) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Deixa Ficar](https://open.spotify.com/album/7nmLqG8f9B4KjLSPrrfMEz) | 3:23 |
 | 48 | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/track/0O9Wam7EZ2REfiZyZ5oL8K) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/album/0ZZgbUKueaqhby8yWBWw9A) | 4:30 |
 | 49 | [Embarque Nesse Trem](https://open.spotify.com/track/6WeGeYFHvDNbrlc3KI7AIe) | [Dub Ataque](https://open.spotify.com/artist/50WcToXLB33txU8Tse0ITY), [Beleza](https://open.spotify.com/artist/1IDFjigtENXy8rm0h0Uqk3), [Rico Neurótico](https://open.spotify.com/artist/5RnbM8vxAn3jHP2sFymsUU), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 4:18 |
 | 50 | [Guerra Padrão](https://open.spotify.com/track/15ty05GQRXZqpk81ZlttEH) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [Alma de Favela, Pt\. 1](https://open.spotify.com/album/4szKhNy0JgoImu77ygVzL1) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 59 | [Sensei \(feat\. Helio Bentes\)](https://open.spotify.com/track/4kjoUxNNSVcCUYOQk0we84) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Insolente](https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB) | 4:09 |
 | 60 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `MjgwOTc0NjAsMDAwMDAwMDBjN2YzNTM3MzcyOGE1NDc0ZWVkOWY4OGQ5NzUyNjg5OQ==`
+Snapshot ID: `MjgwOTg4NDAsMDAwMDAwMDAxMzllYTU1OWJiMmVhYmNkZjA4M2NlMmY2NzU5YWZmMw==`

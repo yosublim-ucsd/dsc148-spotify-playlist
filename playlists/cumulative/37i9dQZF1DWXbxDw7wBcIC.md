@@ -4,7 +4,7 @@
 
 > The birth of the blues, as it happened...
 
-88 songs - 4 hr 23 min
+89 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,10 @@
 | [All Around Man](https://open.spotify.com/track/5qdSXoKf36HAtCgAsftaM4) | [Bo Carter](https://open.spotify.com/artist/2naDLHeKqXSHT3DMII2eqb) | [Presenting Bo Carter](https://open.spotify.com/album/0ofexA0pCbkL2ZVrUWimpU) | 3:00 | 2017-11-02 |  |
 | [Anna Lou Blues](https://open.spotify.com/track/2W0BjJUp2uhRRsiJRRBPQv) | [Tampa Red](https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg) | [His Blues](https://open.spotify.com/album/33mFphNv7BxGBOpvW0lHFN) | 2:50 | 2017-11-02 |  |
 | [Black Snake Moan](https://open.spotify.com/track/4behsNa8x0dwysWBn6gUHS) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Great Blues Guitarsists: String Dazzlers](https://open.spotify.com/album/4ub1JhVXa8rNmwvRrqRxCP) | 2:50 | 2017-11-02 |  |
-| [Blue Guitar](https://open.spotify.com/track/5nrFJNFoatpDYUQoSbf6jr) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Sun Records \- Blues Archive](https://open.spotify.com/album/4lKN83NcPLUYuKDUhYbk9x) | 2:44 | 2017-11-02 |  |
+| [Blue Guitar](https://open.spotify.com/track/5nrFJNFoatpDYUQoSbf6jr) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Sun Records \- Blues Archive](https://open.spotify.com/album/4lKN83NcPLUYuKDUhYbk9x) | 2:44 | 2017-11-02 | 2023-06-05 |
 | [Blue Guitar](https://open.spotify.com/track/6fLacghHCKSVIJEH3TtBI6) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Rare Electric Blues](https://open.spotify.com/album/5TzJT6IFT87iE1wZKV7fUX) | 2:44 | 2017-11-02 | 2022-11-13 |
 | [Blue Guitar](https://open.spotify.com/track/45oSPt7wSPRhCOORW4Im7S) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Wild Moments \- Essential Blues](https://open.spotify.com/album/6Ex4nVhz00NFL6IIHvwxeB) | 2:45 | 2017-11-02 | 2022-07-29 |
+| [Blue Guitar](https://open.spotify.com/track/2YOcHN4jr7Kkc88Ty1T9YK) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Sun Records Originals: Blue Guitar](https://open.spotify.com/album/0ug6PtC8gEsD1QY3oPbROy) | 2:46 | 2017-11-02 |  |
 | [Blues As I Can Be](https://open.spotify.com/track/4cEzHktMaGrNAw36GbNhwr) | [Tommy McClennan](https://open.spotify.com/artist/0m8dKC3T9anldCh2OgZ6pJ) | [Tommy McClennan Vol\. 2 "Cross Cut Saw"](https://open.spotify.com/album/1g9xtSDXkL2iHhYlMSM9Qv) | 2:43 | 2017-11-02 |  |
 | [Boogie Chillun](https://open.spotify.com/track/0AyuXBS2btC46SOUgnOZ2N) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Absolutely the Best of the Blues](https://open.spotify.com/album/1Hvxowri66nzP4jPXpO8qE) | 2:38 | 2017-11-02 |  |
 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 | 2017-11-02 |  |

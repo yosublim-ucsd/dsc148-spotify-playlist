@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=xQwIaNGoQ4OYze5ZfjJEMg"> Boj</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,264 likes - 97 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,327 likes - 97 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 96 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 |
 | 97 | [INTERMISSION](https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [INTERMISSION](https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7) | 2:48 |
 
-Snapshot ID: `MCw0N2U4MDM1MDY1ZmY1OTc5ZDFiZjViNTg0MWNlNzk0YzI0M2Y4MmYx`
+Snapshot ID: `MCw4MzVlNDk5YTQwZmE5NTU3Y2RhZmY1OWMyMDAxYTZkZWM0ZDU2YjM2`

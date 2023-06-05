@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,988 likes - 187 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,056 likes - 187 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 28 | [Momentum](https://open.spotify.com/track/3yvKMfTf8vmUGm1tpJhl6k) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Momentum](https://open.spotify.com/album/5SlfPOZfk4Tc339US9TKOX) | 3:06 |
 | 29 | [Somersault \- Revisited](https://open.spotify.com/track/1hpZuDKO80t1lR5BR0BaKP) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Somersault \(lO\)](https://open.spotify.com/album/33YGKrv3mjwVhAlFhz9vyQ) | 2:07 |
 | 30 | [Sans fleurir](https://open.spotify.com/track/6BYUM69MpmpeqfOugH2yOo) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Éphémère](https://open.spotify.com/album/5Yi1okv4v6wokUG3C4BRAG) | 2:24 |
-| 31 | [Soleil De Printemps](https://open.spotify.com/track/2BbNiUr4ghymoRiLJfAB2c) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Soleil De Printemps](https://open.spotify.com/album/7HEBXPgrGgxWrDe4Eq1kPY) | 2:57 |
+| 31 | [Soleil De Printemps](https://open.spotify.com/track/35lOwNQTacGaz71H7SWrEm) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Douce Mélancolie](https://open.spotify.com/album/3tU3XYUk8R2cLT4QbDNw6Q) | 2:57 |
 | 32 | [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 |
 | 33 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 |
 | 34 | [Stairs](https://open.spotify.com/track/72teFT1ytQk4x8ODngRCqR) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Stairs](https://open.spotify.com/album/5hOMKILMnEbJkSXbrO3Ok8) | 2:14 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 186 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 |
 | 187 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
 
-Snapshot ID: `MCw2OWM1MDRkY2M0NTNjMzk2NTI3ZjQ3YThmNWUyZGJhOGY2OTIxYTlk`
+Snapshot ID: `MCw1MDY3Y2RjMjQ5MzgyNTU3NGZkODUxMTE2NDZmZDQ3NzgyNWYwYTll`

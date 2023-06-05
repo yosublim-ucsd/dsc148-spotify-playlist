@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > The calm sound of crashing waves on the beach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,377 likes - 203 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,398 likes - 203 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,7 +197,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 187 | [Healing Waves](https://open.spotify.com/track/2mo3g11pLrINKGnYvYdGhr) | [Memory of Water](https://open.spotify.com/artist/1FW2BedCLxA60sKXqqecLu) | [Healing Ocean](https://open.spotify.com/album/5j4CoKVMuZEWzVeBoqFBGL) | 2:47 |
 | 188 | [Super Soothing Evening Waves](https://open.spotify.com/track/6L8AUW3COyY7Z2Ww1RIEVH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:45 |
 | 189 | [Cold Ocean](https://open.spotify.com/track/6p4Jynd3RBfFCbPrIIdYAh) | [HD Nature Sound Library](https://open.spotify.com/artist/2JdsJhCSbNc4C9CR56k1ju) | [In The Ocean](https://open.spotify.com/album/5gVzOi3v7kg9PMQ3FVMThl) | 3:12 |
-| 190 | [Ocean For Sleep](https://open.spotify.com/track/1kBCDfKuTlsLERXOBcmzWv) | [Waves Hard](https://open.spotify.com/artist/3SCNVtAsRbn4reRs41wJyP) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:34 |
+| 190 | [Ocean For Sleep](https://open.spotify.com/track/1kBCDfKuTlsLERXOBcmzWv) | [Waves Hard](https://open.spotify.com/artist/7m2W3E2UoY7QqQqvtuU3p0) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:34 |
 | 191 | [Sleepy Waves](https://open.spotify.com/track/0Pi0y5q0sWjSucwQR5qqvg) | [World Recorders](https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE) | [Sleepy Waves](https://open.spotify.com/album/0gq2bdNAUry8TOOCtPjXsa) | 3:11 |
 | 192 | [Waves In The Morning Light](https://open.spotify.com/track/3OLmiKhYJzFhVR4HfzzS4G) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Deluxe Wave Sounds](https://open.spotify.com/album/4ap2CpNw9Uu7uIBe9xeV8E) | 2:48 |
 | 193 | [Beach: The Softness of Nature](https://open.spotify.com/track/0QXTaKXVQNWRlIyicL5ZFg) | [Space of Waves](https://open.spotify.com/artist/7sgfizLbHLPoNWVxA7TtzW) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 3:17 |
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 202 | [Misty Waves](https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 2:54 |
 | 203 | [Waves of Bliss](https://open.spotify.com/track/4ujz8hsDEAURnqFSyH0wGt) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Waves of the Monterey Peninsula](https://open.spotify.com/album/40IKIiamZMzBVNMPgrSTpN) | 3:00 |
 
-Snapshot ID: `MCxhNjJlZDBmNjI1NjRlYmUzZDAzNDk4OGRmMjIyZTk4NWZmZmEzZWUx`
+Snapshot ID: `MCxmOWUwYzk4NjUxMzk5MzQ2M2UxOGJjOTJiZGEyNmE3OWUzMzgxMGU0`

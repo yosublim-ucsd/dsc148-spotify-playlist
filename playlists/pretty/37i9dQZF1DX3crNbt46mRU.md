@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: CRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,983 likes - 111 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,994 likes - 111 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 110 | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:08 |
 | 111 | [Legende](https://open.spotify.com/track/5KZ9eb6kuGu9xW2O202qWF) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Legende](https://open.spotify.com/album/274MksbYB5MW90pWPTwQYb) | 2:50 |
 
-Snapshot ID: `MCw4YjZlNzhkNmI0YWEwM2ZkNTE4NGQ1MDZkZGNlOGMxZjk4OTFjM2Rl`
+Snapshot ID: `MCw4NGI5MjAyMzcwYWYyMjlkMDNjZmM3Njk3YjViYWQ2ZjQ1MzA1Y2Yy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > To mark the release of her album 'Intentions' on May the 19th, Brasilian artist ANNA curates an ambient Listening Room takeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,720 likes - 28 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,778 likes - 28 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 17 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 18 | [Inevitable Ecstasy](https://open.spotify.com/track/5q4zwxaubyyDfRJGKr4AuT) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL), [Formless](https://open.spotify.com/artist/4N26OJFbqADO7gAZsIZ2bj), [Alan Watts](https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b) | [The Art of Meditation](https://open.spotify.com/album/2YxnnC5GW5BEWI5xPbGAeY) | 5:02 |
 | 19 | [AM Moon](https://open.spotify.com/track/2oZcZdaw6nN4nFFh78ljjD) | [Davi Music](https://open.spotify.com/artist/4X14ml4LZScrPzsfPOehgP) | [AM Moon](https://open.spotify.com/album/5AJHCHoLMguTtH8qlElzWG) | 4:13 |
-| 20 | [LIFE, LIFE](https://open.spotify.com/track/4A9cwSU34Y85kl2cEwlL6r) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 4:23 |
+| 20 | [LIFE, LIFE](https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:23 |
 | 21 | [Time Takes A While](https://open.spotify.com/track/7gUPgFwdlHQuWlEFbdMPrR) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [More Truth](https://open.spotify.com/album/2H5XQJwbsobcJLp1eeuhCg) | 4:39 |
 | 22 | [Rose](https://open.spotify.com/track/2GueQZEzOPh8WFlGs2LEZf) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Boavista](https://open.spotify.com/album/6KxqCQfOLFFfiw5R16CW2R) | 5:46 |
 | 23 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 27 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 |
 | 28 | [The Revenant Main Theme \(Alva Noto Remodel\)](https://open.spotify.com/track/1gAMCezhYq7VO20SzaGdcZ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 2:56 |
 
-Snapshot ID: `MCxhM2FhY2MxZWM5Yjc5YmQ5YmRjOWVkYzMzMDA4MDliNmM5NzZiZTM5`
+Snapshot ID: `MCw3NzYwNDQ0NGNkOWRlNTI3MTM1NDgzOGQxZTRmNzUzMzViOTBmOWUw`

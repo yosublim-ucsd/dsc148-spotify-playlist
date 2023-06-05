@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-401 songs - 23 hr 44 min
+402 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Claire](https://open.spotify.com/track/0Qs8tnF0BucrwNwjmYqLel) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Claire](https://open.spotify.com/album/4ahbK64Yz51dH0P6GT5gCg) | 3:43 | 2021-01-03\* | 2021-08-13 |
 | [Closely](https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Encounter](https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75) | 3:39 | 2021-10-03 |  |
 | [Cold World](https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Cold World](https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor) | 3:44 | 2021-10-04 |  |
+| [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 | 2023-06-02 |  |
 | [Comme à tous les hivers](https://open.spotify.com/track/6ZaMggVJMXNUJ2mkKjeWon) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Foisy.](https://open.spotify.com/album/4Ocw79Km6guKmt6suN8AyW) | 2:37 | 2021-01-15 | 2022-07-28 |
 | [Comme ça](https://open.spotify.com/track/2TIV4kRZerFo7yJHM3c0fq) | [Alicia Deschênes](https://open.spotify.com/artist/6cIkGaF2x3ZAZIlxElMvFu) | [Les mauvaises langues](https://open.spotify.com/album/0fxYcTmWrozW3bZB1dXdjE) | 2:35 | 2021-02-27 | 2021-10-08 |
 | [Commun maintenant \- Session live H2T](https://open.spotify.com/track/5cqlX4QK1VnaK0cT0d8vSL) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Commun maintenant \(Session Live H2T\)](https://open.spotify.com/album/7wgAYh8mujlxEtD8wtpQFQ) | 3:24 | 2022-06-10 | 2022-07-25 |
@@ -243,7 +244,7 @@
 | [Ma tronche](https://open.spotify.com/track/1rGI6HAegFJntpek5ssm2b) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [Ma tronche](https://open.spotify.com/album/4mzr25KT55EDlQBKeGK6BH) | 3:11 | 2021-01-18 | 2021-05-08 |
 | [Madeleine](https://open.spotify.com/track/7DQ2KNEBrVb9W2QosU8GbL) | [Chloé Lacasse](https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz) | [Madeleine](https://open.spotify.com/album/4Y5VwNTQ6Ww4FK88DpvihT) | 3:56 | 2021-09-17 | 2022-07-27 |
 | [Madonna](https://open.spotify.com/track/514VtijAeGzvPlYsFXHXfp) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [Nature humaine](https://open.spotify.com/album/4GPbEoHBBF343EOjfojUaM) | 4:06 | 2021-01-03\* | 2021-10-20 |
-| [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 | 2022-07-08 |  |
+| [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 | 2022-07-08 | 2023-06-05 |
 | [Maison ouverte](https://open.spotify.com/track/70IzGRRdLL511jD0GaK2hr) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/7IKvXTDryqlnDBAV1vWaif) | 3:59 | 2021-01-15 | 2022-07-29 |
 | [Mardi de pluie](https://open.spotify.com/track/60EuBCizMRhgud2wplAFCT) | [Véronique Bilodeau](https://open.spotify.com/artist/37VHbBeOGoDDc1MbHPiDPM) | [Mardi de pluie](https://open.spotify.com/album/1eYjA8gbd6h2CsMnYNPNwc) | 3:53 | 2021-01-03\* | 2021-10-08 |
 | [Marie](https://open.spotify.com/track/0qQiPk5BT3jBwucog23UXX) | [Jean\-Christophe Lessard](https://open.spotify.com/artist/6DXMQCirWG4JsfU3zlxDJ6) | [Les voix levées](https://open.spotify.com/album/0Yv8nEEStD392nKBLYPt36) | 3:21 | 2021-01-03\* | 2021-10-22 |

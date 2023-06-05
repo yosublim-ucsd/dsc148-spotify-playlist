@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 16756,
+  "num_followers": 16761,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODUzZjVkNTZiZDU1NjA4NmI2NzkyMjI0Y2FlYjE3ZGRlNWRiMGI0",
+  "snapshot_id": "MCwwMDZjMTQwZWU0NWI3ZTcxNDM4MDA0ZGI0N2Y2ZDkxNTY5ZmFkOThh",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -63,6 +63,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Speak To Me",
+      "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "I'm So Blessed (Aaron Cole Mix)",
         "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 166963,
-      "name": "Speak To Me",
-      "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thank You Lord (Live)",
-        "url": "https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 296179,
-      "name": "Thank You Lord - Live",
-      "url": "https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/5bv8C4U5pcwFB9tqV66scN"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 305006,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thank You Lord (Live)",
+        "url": "https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 296179,
+      "name": "Thank You Lord - Live",
+      "url": "https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Woman; Thou Art Loosed!",
-        "url": "https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL"
-      },
-      "artists": [
-        {
-          "name": "T.D. Jakes",
-          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Give Thanks - Medley",
-      "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "All Sons & Daughters",
         "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 335652,
       "name": "We Give You Thanks",
       "url": "https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Woman; Thou Art Loosed!",
+        "url": "https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL"
+      },
+      "artists": [
+        {
+          "name": "T.D. Jakes",
+          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Give Thanks - Medley",
+      "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
     },
     {
       "added_at": "2022-11-23 15:01:23",

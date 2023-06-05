@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"> Grace Lokwa </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 49 | [Awesome God](https://open.spotify.com/track/0ZTp9CfP2rHV6dygds0Kzh) | [Felix Akara](https://open.spotify.com/artist/2QAignRw1aaO7bcvtu6gX7), [Forever Christ's](https://open.spotify.com/artist/6Lc04kMCxcpC95kyvIyOHD) | [CONTEMPORARY COLLECTION](https://open.spotify.com/album/1w9AItWyIp8BnIyzHuQLTj) | 3:54 |
 | 50 | [All I have is You](https://open.spotify.com/track/7mJ1bWL8MDTQUfK5On1wOi) | [Silver\-Ajifa](https://open.spotify.com/artist/3JnpW6KA64hTOyFotD9bDE) | [All I have is You](https://open.spotify.com/album/3jTu3pt592K1vmiJ27HdYC) | 2:36 |
 
-Snapshot ID: `MCxhNDE1NTU1OTkwZDc1OTgxMjNmMTdmOTQ4M2QzMWY5NTFjNTdhYzNm`
+Snapshot ID: `MCwyMDM2NThhNjhlMzBiMDU5MzNjMjdkYjk2YmE0YmZlODc5ZjZmZWI2`

@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 148671,
+  "num_followers": 148681,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGQ4ZmQyNjkzMjZhM2M3ODZhMDUzZmI4Mzc1MTAxNDMxYTBkMWIx",
+  "snapshot_id": "MCw4N2QzZWVmMGIwNGZmOWU2MzRiMzk2YjViYmM2MTJmOWZiMWI4ZmE5",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -827,38 +827,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Hick Hop 101",
-        "url": "https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE"
-      },
-      "artists": [
-        {
-          "name": "Jawga Boyz",
-          "url": "https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Redneck Dirt Road Riders",
-      "url": "https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Blood Red",
-        "url": "https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk"
-      },
-      "artists": [
-        {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Blood Red",
-      "url": "https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Still The King",
         "url": "https://open.spotify.com/album/203wsuneFV8jM0aYimR0TR"
       },
@@ -883,6 +851,38 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Blood Red",
+        "url": "https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Blood Red",
+      "url": "https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Hick Hop 101",
+        "url": "https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE"
+      },
+      "artists": [
+        {
+          "name": "Jawga Boyz",
+          "url": "https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Redneck Dirt Road Riders",
+      "url": "https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Po-Dunk",
         "url": "https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR"
       },
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "STICKS",
-        "url": "https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S"
+        "name": "American White Trash",
+        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
       },
       "artists": [
         {
-          "name": "Jamie Ray",
-          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
         }
       ],
-      "duration_ms": 157070,
-      "name": "STICKS",
-      "url": "https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR"
+      "duration_ms": 167392,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "American White Trash",
-        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
+        "name": "STICKS",
+        "url": "https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S"
       },
       "artists": [
         {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
         }
       ],
-      "duration_ms": 167392,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
+      "duration_ms": 157070,
+      "name": "STICKS",
+      "url": "https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR"
     },
     {
       "added_at": "2023-05-19 04:00:00",

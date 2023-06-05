@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 265795,
+  "num_followers": 265874,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjJiNTljZDliYzEyMjllOWI3YTRjYWNmOTYxMGFjMjkxYmNlOTU4",
+  "snapshot_id": "MCw5MmI0YTI0ZTA1YmM0ZGZmNGE5ZTQ3ZWJhNThhNmI4ZGVjZWZkZmZj",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
     },
     {
-      "added_at": "2023-06-04 02:01:50",
+      "added_at": "2023-06-05 02:11:41",
       "album": {
         "name": "American Nightmare",
         "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
     },
     {
-      "added_at": "2023-06-04 02:01:50",
+      "added_at": "2023-06-05 02:11:41",
       "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
     },
     {
-      "added_at": "2023-06-04 02:01:50",
-      "album": {
-        "name": "Nurse!",
-        "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 228268,
-      "name": "Nurse!",
-      "url": "https://open.spotify.com/track/5EhYdpI1gNIrOCreDQP6Q1"
-    },
-    {
       "added_at": "2023-02-24 00:00:00",
       "album": {
         "name": "Hunger for a Way Out",
@@ -651,6 +635,22 @@
       "duration_ms": 141000,
       "name": "Hunger for a Way Out",
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
+    },
+    {
+      "added_at": "2023-06-05 02:11:41",
+      "album": {
+        "name": "Nurse!",
+        "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 228268,
+      "name": "Nurse!",
+      "url": "https://open.spotify.com/track/5EhYdpI1gNIrOCreDQP6Q1"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Holding Hands with Jamie",
-        "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
-      },
-      "artists": [
-        {
-          "name": "Gilla Band",
-          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
-        }
-      ],
-      "duration_ms": 413721,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Cheer",
         "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 178654,
       "name": "Avoidarama",
       "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Holding Hands with Jamie",
+        "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "duration_ms": 413721,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "(re)constructed",
-        "url": "https://open.spotify.com/album/6kNCgRGfMzTSm26IUaEr9J"
+        "name": "Bright Green Field",
+        "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
       },
       "artists": [
         {
-          "name": "Bicurious",
-          "url": "https://open.spotify.com/artist/3hg0uAz0P2tHrvqqHU4zzh"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 293909,
-      "name": "I Can Hear Them Too",
-      "url": "https://open.spotify.com/track/7m0rOGURLsQ8hWeKVn9SB3"
+      "duration_ms": 375626,
+      "name": "Paddling",
+      "url": "https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj"
     }
   ],
   "unique_name": "Post Punk",

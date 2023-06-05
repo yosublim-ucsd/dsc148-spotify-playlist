@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,173 likes - 523 songs - 19 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,458 likes - 523 songs - 19 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 52 | [finesse](https://open.spotify.com/track/4vHR6RgtHgcv2BvHmBMEED) | [Papillon](https://open.spotify.com/artist/5iwgB05OKM42R6wQSMeChU), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [finesse](https://open.spotify.com/album/3nDmwcQbQLrc3zCxAMFtXZ) | 2:08 |
 | 53 | [Shibuya Rain](https://open.spotify.com/track/72HeI4DmGi8jwdyV1YwpFh) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Shibuya Rain](https://open.spotify.com/album/1eFEuD5yr1rwQrehnKRUqC) | 2:30 |
 | 54 | [Bubbles](https://open.spotify.com/track/1XFHGb4pHfR3VWgow8vBI9) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [Bubbles](https://open.spotify.com/album/7zBLeE1JJKU8chdQsjWQVm) | 2:18 |
-| 55 | [back home](https://open.spotify.com/track/0w1Ks9tosBEHZ8fy4VU7q6) | [Slipp](https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [back home](https://open.spotify.com/album/0SFmHUVtWj4Ph5XuDId3e3) | 2:20 |
+| 55 | [back home](https://open.spotify.com/track/0w1Ks9tosBEHZ8fy4VU7q6) | [Slipp](https://open.spotify.com/artist/6GDuVqrJldMcLnbJgAAiOI), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [back home](https://open.spotify.com/album/0SFmHUVtWj4Ph5XuDId3e3) | 2:20 |
 | 56 | [somebody else](https://open.spotify.com/track/4SwdZqpbUSk66Ml3LtV1JA) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [somebody else](https://open.spotify.com/album/2Xge9gAY63AG4CL9vp27e9) | 1:39 |
 | 57 | [Smoothie](https://open.spotify.com/track/2dydPTVPs6ljn6vmu0V9fS) | [Maedwun](https://open.spotify.com/artist/00z1ugfxDKqj3duaq5sbGf) | [Smoothie](https://open.spotify.com/album/5AUtesTirgrIV3IcWHb2uO) | 1:37 |
 | 58 | [Sweet Dreams](https://open.spotify.com/track/63zjuMy2GXJPK5Z2IlTNiM) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Sweet Dreams](https://open.spotify.com/album/1VTPVRg1pJif9YIFQHdFMG) | 2:18 |
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 147 | [magnetic moment](https://open.spotify.com/track/6TLRgryYACGi7ULQijdgX5) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [magnetic moment](https://open.spotify.com/album/2XPFXWMVf570BR97au9VPC) | 1:37 |
 | 148 | [The Carlton](https://open.spotify.com/track/3J7FvVmbz6vvPvu3XymrNK) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:57 |
 | 149 | [Daydream](https://open.spotify.com/track/3qJcs60nnXV49Bl3MwX3OH) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Daydream](https://open.spotify.com/album/3UDFSG7eShmIch0XUdpUnK) | 1:28 |
-| 150 | [Secret Place](https://open.spotify.com/track/3buyFUrF0ZNbaWImMEkUKS) | [Slipp](https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Secret Place](https://open.spotify.com/album/03JWU66lZghWbITjt3h239) | 2:17 |
+| 150 | [Secret Place](https://open.spotify.com/track/3buyFUrF0ZNbaWImMEkUKS) | [Slipp](https://open.spotify.com/artist/6GDuVqrJldMcLnbJgAAiOI), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Secret Place](https://open.spotify.com/album/03JWU66lZghWbITjt3h239) | 2:17 |
 | 151 | [Lunch Break Mantra](https://open.spotify.com/track/2FUBWrnfPAuZ8DQWQBqx9S) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Lunch Break Mantra](https://open.spotify.com/album/1v4Ao73yYn6S5spJOXlUmz) | 2:21 |
 | 152 | [Just a Dream](https://open.spotify.com/track/4q7fXYrlgZ3wIX3dTiunRH) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Just a Dream](https://open.spotify.com/album/48xrM4MdUHb4OpZ0GOF1OM) | 1:50 |
 | 153 | [Misty Morning](https://open.spotify.com/track/1vh9A4wyOoAH75eol1GLK6) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Misty Morning](https://open.spotify.com/album/0pM19CTFC6SCnsTCxXbpON) | 2:17 |
@@ -532,4 +532,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 522 | [Red Flowers](https://open.spotify.com/track/0VxqtLxLyvQq2KjTq5Zddm) | [Sebastian Flecci](https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S) | [Tavolo Fantastico](https://open.spotify.com/album/2FdG8vYQLA0CnxKpiiEZQ8) | 1:58 |
 | 523 | [scribbles](https://open.spotify.com/track/4hUpTnXcCjpHdtw9mB1RRL) | [jaxtun](https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn) | [scribbles](https://open.spotify.com/album/2Vo1xrp2aY30iGCZNl0hE1) | 2:01 |
 
-Snapshot ID: `MCwxMWE3MDMzNmE2MjI0MzM1NTM5OWUzOTlkOWNkZDM1MTI0NTZkMDcz`
+Snapshot ID: `MCw5M2JhMTU0YWIxODhiNmZkOTBiMzY4MDRhMWMxMmExNjRlZDM3Yzc0`

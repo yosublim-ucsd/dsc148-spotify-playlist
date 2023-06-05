@@ -4,7 +4,7 @@
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-188 songs - 10 hr 5 min
+189 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-07-08 |  |
 | [ALL I WANNA](https://open.spotify.com/track/1jqIPhosdnRj26Rxy9m5V1) | [HAI\-LIFE](https://open.spotify.com/artist/12i3Fuy843h7dY8wKp51u2) | [ALL I WANNA](https://open.spotify.com/album/0yHk6WZ6uETrpsp4OVGU2M) | 4:31 | 2022-07-01 |  |
 | [All Mine](https://open.spotify.com/track/2F6i6zjbIxkR5euRa7EuLi) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK) | [Mami Wata](https://open.spotify.com/album/4YyD9zmxZ7XtdKvmLau32u) | 2:56 | 2021-12-10 | 2022-06-11 |
-| [Alone Again](https://open.spotify.com/track/6dyYYx3awmMWPYvscFZkEU) | [Funky Craig](https://open.spotify.com/artist/2yKm5l8fjv7wjP4xFbVbjE) | [Alone Again](https://open.spotify.com/album/14RQ2XILeCYCowPJgwdvfh) | 3:15 | 2021-12-10 |  |
+| [Alone Again](https://open.spotify.com/track/6dyYYx3awmMWPYvscFZkEU) | [Funky Craig](https://open.spotify.com/artist/2yKm5l8fjv7wjP4xFbVbjE) | [Alone Again](https://open.spotify.com/album/14RQ2XILeCYCowPJgwdvfh) | 3:15 | 2021-12-10 | 2023-06-05 |
 | [Another Chance \- SBF17](https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Another Chance \(SBF17\)](https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9) | 3:03 | 2021-12-10 |  |
 | [Are We There Yet?](https://open.spotify.com/track/1OAdujv6QdbdHH3fQiOXdi) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [Are We There Yet?](https://open.spotify.com/album/0YMtiw8lS1olUbPwBaGFqX) | 4:49 | 2021-12-10 | 2023-03-11 |
 | [Arriba](https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Arriba](https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L) | 2:19 | 2021-12-10 |  |
@@ -74,6 +74,7 @@
 | [Eyes On Me \- Solardo Remix](https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U) | [Chelley](https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Eyes On Me \(Solardo Remix\)](https://open.spotify.com/album/3t7TCJ10JcLJR6ZYqbRONr) | 2:30 | 2021-12-10 | 2023-06-01 |
 | [EZ 4 Me](https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [EZ 4 Me](https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg) | 3:00 | 2022-10-28 | 2023-02-25 |
 | [Fettle \- QRTR Remix](https://open.spotify.com/track/7c1CFHIQ3nWHXCVQRfnXbS) | [Daedelus](https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK), [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [What Wands Remixes](https://open.spotify.com/album/4loXRflAhNAmetCbPUGvOA) | 3:33 | 2021-12-10 | 2022-05-07 |
+| [FIJI WATER](https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k) | [MONEYONYOURMIND](https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [FIJI WATER](https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk) | 2:16 | 2023-05-26 |  |
 | [FREAKBODY](https://open.spotify.com/track/1QHYj6C2taf8lk3qvTX3u8) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [FREAKBODY](https://open.spotify.com/album/6RJURFaLf0rFGjr56uE1y8) | 3:25 | 2022-09-30 | 2023-02-25 |
 | [Fuck It up Challenge](https://open.spotify.com/track/0v2POEELhkbrIWVVrLKXft) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/5WA4Jt72UF7MclAaCZBFXu) | 1:35 | 2021-12-10 | 2022-07-10 |
 | [Fuck It up Challenge](https://open.spotify.com/track/1JWskKHxYTXSUEKPsv6hje) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/4Vmds5n2MHBb6HXEs4aY9Z) | 1:35 | 2022-07-22 | 2022-09-17 |

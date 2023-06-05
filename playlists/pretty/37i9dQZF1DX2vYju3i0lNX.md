@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,471 likes - 428 songs - 1 day 0 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,675 likes - 428 songs - 1 day 0 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -437,4 +437,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 427 | [Peace](https://open.spotify.com/track/6qxR6arAISIf7Mm2ynH4u1) | [William Carter Band](https://open.spotify.com/artist/4hUzAt6msIzmNC8jQE0X28) | [Relaxin' at Camarillo](https://open.spotify.com/album/1N5BtVcBtLY8cSF2XdjwwE) | 3:13 |
 | 428 | [My One and Only Love](https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [My One and Only Love](https://open.spotify.com/album/4XLSNqlvDJlRtA2rZGeIO5) | 3:25 |
 
-Snapshot ID: `MCwxNjNhZDBlZTNkZjQ0MjIyYjhhMTY4ZTUxNTY0NWI1OTJiYTBmY2Fi`
+Snapshot ID: `MCxmZjk2NGE2ZTdhNTVhYWQ2ZGJkZDY0MTQ5Y2M2M2JjMDE1ZGIyYjE3`

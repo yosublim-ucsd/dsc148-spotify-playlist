@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,972 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,096 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 24 | [In This Life \- Cassara Remix](https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Mandy Jones](https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ), [Cassara](https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi) | [In This Life \(Cassara Remix\)](https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk) | 6:21 |
 | 25 | [Flirt](https://open.spotify.com/track/6Sg48ILcSWhiRBw3ToBzsF) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf), [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [Flirt](https://open.spotify.com/album/0uKryq3qttBTyvUVakRPRO) | 3:02 |
 | 26 | [Move Me](https://open.spotify.com/track/7mNrHt87k4uLY6rtODEAvO) | [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [Maddam Mya](https://open.spotify.com/artist/2xnvBakwGdgZ548S7RCPYP) | [Move Me](https://open.spotify.com/album/3uzf0QnjYIXsb0jqIe1VCI) | 5:28 |
-| 27 | [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/track/0oOqx0hphAQLKu2Xa5C0G2) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Amber Martin](https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ) | [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/album/7xTI7cBnfrV97YIfZ7ExZb) | 3:44 |
+| 27 | [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/track/4ALsOjwCdniiryLJVMWVGo) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Amber Martin](https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ) | [Last Man Dancing](https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2) | 3:44 |
 | 28 | [Slow / Love to Love You Baby \- From the Infinite Disco Livestream](https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ) | 3:13 |
 | 29 | [Do I Do \- Radio Edit](https://open.spotify.com/track/0GzNOBgWu5468S9emhSFRv) | [Micky More & Andy Tee](https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN), [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [Do I Do \(Radio Edit\)](https://open.spotify.com/album/6mXfyALqYhNgAKKBIlgyY3) | 3:29 |
 | 30 | [Crying At The Discoteque](https://open.spotify.com/track/0nmp7lSwHJmjqWYtQQn1BC) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf), [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [Crying At The Discoteque](https://open.spotify.com/album/7CYAxFYo7zOWstKYpQOhoq) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [I Ran \(So Far Away\) \- Liongold Remix](https://open.spotify.com/track/3wj9rjR2F7kxkZFuNkuj28) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9), [Liongold](https://open.spotify.com/artist/1QzMZ0QwJRo3LJ474BiODq) | [I Ran \(So Far Away\) \[The Liongold Remixes\]](https://open.spotify.com/album/6QPjxeuvnjre45AeuEA6iy) | 3:07 |
 | 100 | [Under the Light](https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY) | [LeMarquis](https://open.spotify.com/artist/6w9iqkoyGAs9PRssKIvq9G) | [Origin](https://open.spotify.com/album/6sCftII6Jd2YAU3Yxs9Cw8) | 2:48 |
 
-Snapshot ID: `MCw1YjEyZTliZTYxNmExMjU1ODdhODBmZjRjODRiZDdmNjUyYzZhMTNm`
+Snapshot ID: `MCxmZmQzZGUxMTBmZGZiMDEyMjVhMjZlODdkZTZmYTE5MzNhOTVlNTQy`

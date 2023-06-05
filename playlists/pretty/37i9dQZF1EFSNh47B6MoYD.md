@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7wWrueTstelQP0y8hwigaI">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408 likes - 148 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 409 likes - 148 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 79 | [La Manuela](https://open.spotify.com/track/3T5KzHZ6azcHvwyTabOgCg) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 1:59 |
 | 80 | [Me Corta el Alma](https://open.spotify.com/track/7mFpFambkcEmcWf0X8xCON) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Yo Mismo](https://open.spotify.com/album/3fQsDvySZB7b3zgrgCAUXC) | 4:21 |
 | 81 | [Panamá Mia](https://open.spotify.com/track/17UBnqRCNrqXRLtQizeRAL) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:34 |
-| 82 | [Quien Sale… No Entra](https://open.spotify.com/track/2ajqkkoTqo5YwhxMNmPGBP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:08 |
-| 83 | [Cosas Que Echo de Menos](https://open.spotify.com/track/3C5kYLAQ7NL5B68NbL3LyP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/3qifUQcqRxlOWNRcTwo0mS) | 3:27 |
+| 82 | [Cosas Que Echo de Menos](https://open.spotify.com/track/3C5kYLAQ7NL5B68NbL3LyP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/3qifUQcqRxlOWNRcTwo0mS) | 3:27 |
+| 83 | [Quien Sale… No Entra](https://open.spotify.com/track/2ajqkkoTqo5YwhxMNmPGBP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:08 |
 | 84 | [Mentiritas Blancas \- En Vivo](https://open.spotify.com/track/5NW0PdnHrLg7FYH1ys1x5s) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:09 |
 | 85 | [Medley Puerto Rico: Amar a Dos / La Pasión Tiene Memoria / No Queda Nada / Alguien Más / No Me Interesa / Mi Mujer Es un Policía](https://open.spotify.com/track/1AAhNdnCEkIyRQfUmbbDhs) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Diana Reyes](https://open.spotify.com/artist/7fXi334mk8LIrBDzleM8Qz) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 8:35 |
 | 86 | [Mil Maneras](https://open.spotify.com/track/2ZZnPmiex3NUCb9tX7mAyS) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:05 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 120 | [En Exclusiva \- Remix](https://open.spotify.com/track/4vSMpEwHZPX542mhWAvx6o) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Mr\. Sonic](https://open.spotify.com/artist/4dhJ3zznY2Toxn7EZHM6kX) | [En Exclusiva \(Remix\)](https://open.spotify.com/album/0LFBZUCoxIPN6T8imqKXZL) | 3:36 |
 | 121 | [Mejor Con Ella](https://open.spotify.com/track/42ABF5T4ARHBKOf5MNLN0u) | [Aarón Emanuel](https://open.spotify.com/artist/0BD7DTOU04QLbX5bmRY1ZK) | [Espectacular](https://open.spotify.com/album/4MBaCsoX2HKPr9ERbTylJb) | 4:08 |
 | 122 | [Amigo \(Amigo\)](https://open.spotify.com/track/3izyCk5xCDVVxp4Mq0qJeq) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:58 |
-| 123 | [Till Next Time](https://open.spotify.com/track/6zsfUtgk38IjKZcg8ujrdO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Até Logo / Hasta Luego / Till Next Time](https://open.spotify.com/album/6fnRq3GngeFEZiKr25Rp7j) | 3:55 |
-| 124 | [Todo lo que tengo](https://open.spotify.com/track/1eGO7bb7HcfyTCtdfXz7vR) | [Alejandro Montaner](https://open.spotify.com/artist/0dZlVKiQoLq5mAoAHpxNXb) | [Todo lo que tengo](https://open.spotify.com/album/2xurHZmgn9cUY10aTHmrkR) | 4:39 |
+| 123 | [Todo lo que tengo](https://open.spotify.com/track/1eGO7bb7HcfyTCtdfXz7vR) | [Alejandro Montaner](https://open.spotify.com/artist/0dZlVKiQoLq5mAoAHpxNXb) | [Todo lo que tengo](https://open.spotify.com/album/2xurHZmgn9cUY10aTHmrkR) | 4:39 |
+| 124 | [Till Next Time](https://open.spotify.com/track/6zsfUtgk38IjKZcg8ujrdO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Até Logo / Hasta Luego / Till Next Time](https://open.spotify.com/album/6fnRq3GngeFEZiKr25Rp7j) | 3:55 |
 | 125 | [Echa P'aca \(a/k/a Déjate Llevar\)](https://open.spotify.com/track/0cGFKKxMuMdRfwtaOGNCVQ) | [Donato Poveda](https://open.spotify.com/artist/2B9jOeFRM64ChziFnAYprP) | [Bohemio Enamorado](https://open.spotify.com/album/5nKzMMs0MfZrUSuXicagfG) | 4:34 |
 | 126 | [Me Tienes de Cabeza \(A Garota Que Fez a Minha Cabeça\)](https://open.spotify.com/track/3Bad15EuGGDQ2pbNrjPQst) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 3:33 |
 | 127 | [Fuerte Pero Frágil](https://open.spotify.com/track/3H0QXSErbJUT1GNVaatHzb) | [Patricia Manterola](https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf) | [Ya Terminé](https://open.spotify.com/album/42c96MawCtXwnoVpBRbvK9) | 3:09 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 147 | [A Donde Vas?](https://open.spotify.com/track/2hynyvo4Yrg7p28zFehp5t) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
 | 148 | [Se Me Fue](https://open.spotify.com/track/5CVi8yEadTLUL5qmHRjpaS) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:48 |
 
-Snapshot ID: `MjgwOTc0NjAsMDAwMDAwMDBjZTVhZjU1MDAwNjFhMzc3ZjVmNGFkNjM4ZjJkYzkwZQ==`
+Snapshot ID: `MjgwOTg4NDAsMDAwMDAwMDA4YjJiMTMwMzFlY2FjZmY5YWU1NzY0MGMxN2E0ZjJiZA==`

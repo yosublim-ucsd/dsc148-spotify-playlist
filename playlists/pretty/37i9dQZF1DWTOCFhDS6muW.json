@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 19600,
+  "num_followers": 19615,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2FhM2ZlMDk2YjBhMWQ4MDU3YzdkMDBiYTU3OGM0Y2E4MmRjMGFl",
+  "snapshot_id": "MCwxOTMxNTM2Y2JhOGRlMzAyMDhmYmZmMmM3ODcxYjEwMTZiMTQ5YjA5",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -111,18 +111,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Punta Vibe",
-        "url": "https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f"
+        "name": "El Otro Yo",
+        "url": "https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ"
       },
       "artists": [
         {
-          "name": "Supa G",
-          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
+          "name": "Pilo Tejeda",
+          "url": "https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc"
+        },
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
         }
       ],
-      "duration_ms": 193751,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ"
+      "duration_ms": 195578,
+      "name": "Sopa de Caracol (Remix)",
+      "url": "https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -143,22 +147,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "El Otro Yo",
-        "url": "https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ"
+        "name": "Punta Vibe",
+        "url": "https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f"
       },
       "artists": [
         {
-          "name": "Pilo Tejeda",
-          "url": "https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc"
-        },
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+          "name": "Supa G",
+          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
         }
       ],
-      "duration_ms": 195578,
-      "name": "Sopa de Caracol (Remix)",
-      "url": "https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L"
+      "duration_ms": 193751,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ"
     },
     {
       "added_at": "2020-05-26 15:53:13",

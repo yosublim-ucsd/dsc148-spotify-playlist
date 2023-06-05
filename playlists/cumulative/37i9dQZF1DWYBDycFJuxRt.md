@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Galileo Galilei \*👉 <a href="https://spice.eplus.jp/articles/318754?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-1,609 songs - 4 day 1 hr 45 min
+1,610 songs - 4 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,7 +697,8 @@
 | [One Wish](https://open.spotify.com/track/12ImXaILxJPKVoZfKl1Z9Z) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [So Far So Good](https://open.spotify.com/album/6APAoSC86fvcnDWNb1ldaO) | 3:25 | 2023-02-28 | 2023-03-02 |
 | [One Wish](https://open.spotify.com/track/7fYoUqNRBJf9WOCKOEYtVL) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [So Far So Good](https://open.spotify.com/album/3j2mORR8Wp9umxX1eYH9pP) | 3:25 | 2023-03-01 | 2023-03-08 |
 | [ONLY ONE](https://open.spotify.com/track/37h92JpPHCzreYtAdOg0yX) | [aTTn](https://open.spotify.com/artist/40CE2AjIAmvExNgPEbGuwr), [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys), [ji2kia](https://open.spotify.com/artist/3GQDZKgxLoczcwbHY9tgY0) | [I DESERVE TO BE](https://open.spotify.com/album/5R4kYFAJlODleuJtC5113o) | 1:58 | 2023-03-07 | 2023-03-15 |
-| [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 | 2023-05-31 |  |
+| [Open The Door, See What You Find](https://open.spotify.com/track/1Ks53o54WS8LzbwyEG56ds) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:07 | 2023-05-31 |  |
+| [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 | 2023-05-31 | 2023-06-05 |
 | [orange](https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [orange](https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk) | 2:56 | 2023-03-29 | 2023-04-05 |
 | [Orange Days](https://open.spotify.com/track/3DiUeAXtGIivmWjTMimKwm) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Orange Days](https://open.spotify.com/album/6atQ8dmI3YfyZM6v90sSTw) | 3:46 | 2023-03-07 | 2023-03-15 |
 | [Ordinary](https://open.spotify.com/track/2tDKcfZhskXh2wwgj4S9Lq) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 3:43 | 2023-05-24 | 2023-05-31 |

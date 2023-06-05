@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,511 likes - 101 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,533 likes - 101 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 100 | [Mary](https://open.spotify.com/track/2JCzzT5ituksCzs3ICDLdR) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Mary](https://open.spotify.com/album/72iIkSsdWVEUCe9XsF07lK) | 2:35 |
 | 101 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
 
-Snapshot ID: `MCxmNTY1ODQ3MmEzNzA3ZDM1NDE5OTUwZjQxOTkzMDA2OWE2MjA3MTBh`
+Snapshot ID: `MCw1MzQ2OGQwNDk4MjNhYWRiYzk5MjM4YjFkN2NhYWY3ZGQ4ZTRkYzQ3`

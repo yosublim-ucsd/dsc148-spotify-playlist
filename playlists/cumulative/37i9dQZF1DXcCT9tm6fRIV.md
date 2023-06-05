@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-139 songs - 7 hr 52 min
+140 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Confidencias](https://open.spotify.com/track/0Vu4EpjrI7g8m6r7DSlhcj) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Confidencias](https://open.spotify.com/album/0hbD19vNbfBDwO6XTujWSR) | 3:28 | 2022-03-18 | 2022-07-28 |
 | [Cualquiera de Estas Noches](https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 3:53 | 2022-03-18 |  |
 | [Danzarin](https://open.spotify.com/track/1ps4vwMDiCGYS5EazbtgJl) | [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Roberto Grela](https://open.spotify.com/artist/4NkIT9ejpKX3c6zfz3VzrT) | [Hombres de Tango](https://open.spotify.com/album/0z5WiVVrflrv0kOEK8Rp1D) | 3:54 | 2022-03-18 | 2022-07-29 |
+| [Danzarín](https://open.spotify.com/track/3MTkrZvv106Xe3psYCm2wT) | [Cuarteto Federico Grela](https://open.spotify.com/artist/2fLpZQgdBH8MpNlPSirNNV) | [Cuarteto Federico Grela, Vol\. 1](https://open.spotify.com/album/7FVhw0omeFrQSIUaIQmggq) | 3:56 | 2022-03-18 |  |
 | [Danzarín](https://open.spotify.com/track/4zdKgCwKjX0E75qQyGpTYo) | [Leopoldo Federico \- Roberto Grela](https://open.spotify.com/artist/2utsUOhTQw9eMJWpP2vYkX) | [Hombres de tango](https://open.spotify.com/album/1ceobp5yVCMfzfTunQmH2G) | 3:51 | 2022-03-18 | 2023-04-13 |
 | [De Puro Curda](https://open.spotify.com/track/2yiFCdnMggyVo2R5mrs5Hu) | [Alfredo Belusi](https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe) | [Lo Mejor de Alfredo Belusi](https://open.spotify.com/album/3eGpNB9KUDP9KxrXBLKhXq) | 2:04 | 2022-03-18 |  |
 | [De Puro Curda](https://open.spotify.com/track/3pO7tabfegqefBPsFHpysR) | [Alfredo Belusi](https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe) | [Lo Mejor de Alfredo Belusi](https://open.spotify.com/album/20REqo3uTm8pSvAqvUIsmH) | 2:04 | 2022-03-18 | 2022-07-25 |
@@ -64,7 +65,7 @@
 | [Fumando Espero](https://open.spotify.com/track/67LvqUeKNdiFVoDLS2kZIz) | [Alfredo De Angelis](https://open.spotify.com/artist/1T5fdN2r38UO5jz6cb4tHD), [Carlos Dante](https://open.spotify.com/artist/5GFa1oIEY4uabHh6L54t8d) | [Yo Soy El Tango](https://open.spotify.com/album/6zMhzr000KEkZpGemntyzV) | 3:26 | 2022-03-18 |  |
 | [Fumando Espero](https://open.spotify.com/track/0L7qfLnsxy2IBdNf5GDM3N) | [Alfredo De Angelis](https://open.spotify.com/artist/1T5fdN2r38UO5jz6cb4tHD), [Carlos Dante](https://open.spotify.com/artist/5GFa1oIEY4uabHh6L54t8d) | [Medallita De La Suerte](https://open.spotify.com/album/5hwMHIuCLMtUQNzjurIVY2) | 3:26 | 2022-03-18 | 2023-02-28 |
 | [Gallo Ciego \- Instrumental](https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [From Argentina To The World](https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G) | 3:33 | 2022-03-18 | 2022-07-29 |
-| [Gran Hotel Victoria](https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ) | [Gran Hotel Victoria](https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9) | 2:51 | 2022-03-18 |  |
+| [Gran Hotel Victoria](https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ) | [Gran Hotel Victoria](https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9) | 2:51 | 2022-03-18 | 2023-06-05 |
 | [Ilusión De Mi Vida \- Instrumental](https://open.spotify.com/track/4bctNy4NQDBheODvK56ab8) | [Horacio Salgán](https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W) | [Tangos, Valses y Milongas](https://open.spotify.com/album/0zUIMASaUr80TPLQAOhpzT) | 2:55 | 2022-03-18 | 2022-07-29 |
 | [La Bicicleta Blanca](https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI) | [Horacio Ferrer](https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5), [Juan Trepiana](https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we) | [Flor de Tangos y Poemas \(feat\. Juan Trepiana\)](https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz) | 3:51 | 2022-03-18 |  |
 | [La Casita de Mis Viejos](https://open.spotify.com/track/5Howbx5skirZgOf5KI8z3Z) | [Horacio Salgán](https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W), [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi) | [Canta Edmundo Rivero](https://open.spotify.com/album/1x8X4zShQiCYVYCaj4XNDj) | 5:14 | 2022-03-18 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,164 likes - 23 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,172 likes - 23 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 22 | [Let's Nacho](https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:35 |
 | 23 | [Saturday Saturday](https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Indeep Bakshi](https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ), [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW) | [Humpty Sharma Ki Dulhania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE) | 3:30 |
 
-Snapshot ID: `MCxkNTJlY2Q0YmQyMWQyMzE5NTc5OWVmZDFkZjlkOGIzOTExY2I0YTAw`
+Snapshot ID: `MCxiZjYxNjk5OWU2Y2FlNGEyNTk1YzMyMzkzOTZhOWMyMDU0MzNlYjVh`

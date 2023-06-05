@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Bushbaby",
-  "num_followers": 194354,
+  "num_followers": 194400,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWE1N2JjNzAyYTFhNDAwM2Q0YmQ5NTNhMWUxMDg5ZTM3MDQxNDQy",
+  "snapshot_id": "MCxkYmNjZGY2OGY3ZjE0M2EyZGRiMTYyOGY5NjY0YTNiMjQxMjY3Nzk3",
   "tracks": [
     {
       "added_at": "2023-04-04 13:33:05",
@@ -827,6 +827,46 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        }
+      ],
+      "duration_ms": 231555,
+      "name": "Again (feat. Takura)",
+      "url": "https://open.spotify.com/track/6b5yDIjAWJlc3KbjKULccB"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk"
       },
@@ -887,46 +927,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "Takura",
-          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
-        }
-      ],
-      "duration_ms": 231555,
-      "name": "Again (feat. Takura)",
-      "url": "https://open.spotify.com/track/6b5yDIjAWJlc3KbjKULccB"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Flow (Habstrakt Remix)",
         "url": "https://open.spotify.com/album/5Pu0dN7JwdwnZfO0wwJOyN"
       },
@@ -959,6 +959,26 @@
       "duration_ms": 190437,
       "name": "Affiliation",
       "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Secure the Bag",
+        "url": "https://open.spotify.com/album/5rTDT905QMFyy0vrUMpaiO"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 248841,
+      "name": "Secure the Bag",
+      "url": "https://open.spotify.com/track/7bT9PtLrGTCXGjjhgrvMfg"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1079,22 +1099,18 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Secure the Bag",
-        "url": "https://open.spotify.com/album/5rTDT905QMFyy0vrUMpaiO"
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
       "artists": [
         {
           "name": "Skepsis",
           "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
         }
       ],
-      "duration_ms": 248841,
-      "name": "Secure the Bag",
-      "url": "https://open.spotify.com/track/7bT9PtLrGTCXGjjhgrvMfg"
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1139,6 +1155,22 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
+        "name": "Far",
+        "url": "https://open.spotify.com/album/03daUVa25K5OyTJ3cLoDFF"
+      },
+      "artists": [
+        {
+          "name": "Cooky",
+          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
+        }
+      ],
+      "duration_ms": 250918,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/4KX4AX0kOuXfVjByTbBLoe"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/3cNusUNyI88Y2sCgTBN4mU"
       },
@@ -1171,22 +1203,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Far",
-        "url": "https://open.spotify.com/album/03daUVa25K5OyTJ3cLoDFF"
-      },
-      "artists": [
-        {
-          "name": "Cooky",
-          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
-        }
-      ],
-      "duration_ms": 250918,
-      "name": "Far",
-      "url": "https://open.spotify.com/track/4KX4AX0kOuXfVjByTbBLoe"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
       },
@@ -1199,6 +1215,26 @@
       "duration_ms": 232888,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        }
+      ],
+      "duration_ms": 221024,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1223,22 +1259,6 @@
       "duration_ms": 317538,
       "name": "Hot Flush",
       "url": "https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1291,30 +1311,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Donny Don",
-        "url": "https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        },
-        {
-          "name": "DEEPROT",
-          "url": "https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC"
-        },
-        {
-          "name": "MIK",
-          "url": "https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Donny Don",
-      "url": "https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Never",
         "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
       },
@@ -1335,22 +1331,26 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Thugs",
-        "url": "https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE"
+        "name": "Donny Don",
+        "url": "https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr"
       },
       "artists": [
         {
-          "name": "KDYN",
-          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
         },
         {
-          "name": "Albzzy",
-          "url": "https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ"
+          "name": "DEEPROT",
+          "url": "https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC"
+        },
+        {
+          "name": "MIK",
+          "url": "https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm"
         }
       ],
-      "duration_ms": 236522,
-      "name": "Thugs",
-      "url": "https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc"
+      "duration_ms": 214545,
+      "name": "Donny Don",
+      "url": "https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c"
     },
     {
       "added_at": "2023-04-04 13:33:05",

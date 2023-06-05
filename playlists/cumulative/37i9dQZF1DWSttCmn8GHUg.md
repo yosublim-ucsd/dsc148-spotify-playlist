@@ -2,7 +2,7 @@
 
 ### [American Made](https://open.spotify.com/playlist/37i9dQZF1DWSttCmn8GHUg)
 
-> Patriotic country songs celebrating the land of the free and the home of the brave\. Cover: Chris Stapleton
+> Patriotic country songs celebrating the land of the free and the home of the brave.
 
 127 songs - 7 hr 45 min
 

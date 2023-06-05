@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: $ho Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,436 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,455 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Annoying](https://open.spotify.com/track/431aCr9EMJcc19nyiGbsL1) | [SYLAS](https://open.spotify.com/artist/320QZ0LekNDyBEB6Fv2ftc) | [Annoying](https://open.spotify.com/album/6kPn3PbInXFoYAzKGEurSz) | 4:00 |
 | 75 | [Hunnid Bands](https://open.spotify.com/track/1St8loj5e8xNADjYqnwalk) | [J\. Auste](https://open.spotify.com/artist/0jp35QSUB7nbth0BGvLIYi), [Kapsul](https://open.spotify.com/artist/4erLGtIPk5Ka85WITwHZlb) | [Hunnid Bands](https://open.spotify.com/album/03iqmbEYqCCnUnoMVrUwcf) | 3:33 |
 
-Snapshot ID: `MCw3MmViNjZjYjVkZGMzZTk3MjJjNmQ0NGZlMzhmNzBhMDYzNzA0OTJj`
+Snapshot ID: `MCw5YjM3YTQzM2FjZjc3NGNjZmRjNGU4OTE1NDllNjFiMTViYzlmOTIz`

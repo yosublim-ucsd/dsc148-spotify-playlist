@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Kuremino in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,235 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,249 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Corri Garçon](https://open.spotify.com/track/7MD3sUhXdfvHndXZ90uXwP) | [Manu Skar](https://open.spotify.com/artist/592TSNOHonUcOHcEorAGgV) | [Corri Garçon](https://open.spotify.com/album/4h7MaKhZyEQDQKl6g1IMHX) | 2:37 |
 | 50 | [Stessi Posti](https://open.spotify.com/track/2cgnxJTioTZQDy6L0dL8so) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [Stessi Posti](https://open.spotify.com/album/4HPhagjmND79u9LrnBeEoL) | 2:50 |
 
-Snapshot ID: `MCw3N2IxNDI0YTRjZWRhNTVkYmZiOWRkMDQ2NGE1MDIxYTg2ZTQ4NWIz`
+Snapshot ID: `MCw0NzM1ZTY2N2IzMjQyMjdhYTc1NmZlMzczNGM2ZWFiNDUzN2Y3MDdm`

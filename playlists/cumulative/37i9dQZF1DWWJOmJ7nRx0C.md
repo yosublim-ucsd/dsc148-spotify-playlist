@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Tigercub
 
-821 songs - 2 day 1 hr 12 min
+822 songs - 2 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [God’s Gonna Cut You Down](https://open.spotify.com/track/5Qt4tTjY5bjhKa3OGNVP2J) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:48 | 2023-05-12 |  |
 | [Going Hunting \- Edit](https://open.spotify.com/track/722ZaBl6RTzYP3bq1P7Nit) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Going Hunting](https://open.spotify.com/album/39uxGGCb4dTwsIFl9VdKEv) | 3:56 | 2021-09-03 | 2022-01-22 |
 | [Golden](https://open.spotify.com/track/6xDjH0ixZLfT8p6jSp0rkJ) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Feel This](https://open.spotify.com/album/1KRDInixnT3AO7K6HQkKty) | 3:57 | 2022-10-28 | 2023-01-28 |
-| [Good Time](https://open.spotify.com/track/52mt7K5dPckj5TD2XzZwj2) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Good Time](https://open.spotify.com/album/3GMKkw7aQfIO3lGFg6jK76) | 2:52 | 2023-03-10 |  |
+| [Good Time](https://open.spotify.com/track/52mt7K5dPckj5TD2XzZwj2) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Good Time](https://open.spotify.com/album/3GMKkw7aQfIO3lGFg6jK76) | 2:52 | 2023-03-10 | 2023-06-05 |
+| [Good Time](https://open.spotify.com/track/7lJ0CEmlSdD2TUt0PVshMb) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Vol\. 10](https://open.spotify.com/album/6Noy1xgW6lBTqW0CA70Mep) | 2:52 | 2023-06-02 |  |
 | [Gotta Get Outta Here](https://open.spotify.com/track/1a2qjHAhopSGNrE1zSrSo8) | [Blacklite District](https://open.spotify.com/artist/31hrPUMBg96szrqNAb3oqP) | [Gotta Get Outta Here](https://open.spotify.com/album/2jMO1lQAno6IGeRuwOFmAR) | 3:26 | 2021-10-01 | 2022-04-09 |
 | [Granite](https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:45 | 2023-05-26 |  |
 | [Graves](https://open.spotify.com/track/23HI6qQo4xPqlv61Ewr08E) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG) | [Graves](https://open.spotify.com/album/2fB7BfvZNouIumHH8GAZcD) | 2:47 | 2023-01-13 | 2023-05-13 |

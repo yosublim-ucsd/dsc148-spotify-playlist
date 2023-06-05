@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: Chris Stussy",
-  "num_followers": 80764,
+  "num_followers": 81014,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzQ0MmY1NDMyN2Y0Nzc0MmFhODFjOWY5MDljNmVlZmFlNmYxNjEx",
+  "snapshot_id": "MCxlMTI5ZmE1MWRkYzAwZGNmNDcxMGIwZTVmY2Q2ZjI1MWNmYjYwNzkz",
   "tracks": [
     {
       "added_at": "2023-06-02 07:17:11",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-06-02 07:17:11",
       "album": {
-        "name": "Sway (feat. Dope Earth Alien)",
-        "url": "https://open.spotify.com/album/5TFBzrKDfvyAfqfkWiqETf"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        },
-        {
-          "name": "Dope Earth Alien",
-          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Sway (feat. Dope Earth Alien)",
-      "url": "https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd"
-    },
-    {
-      "added_at": "2023-06-02 07:17:11",
-      "album": {
         "name": "Great Southern Land",
         "url": "https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 255483,
       "name": "Great Southern Land",
       "url": "https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf"
+    },
+    {
+      "added_at": "2023-06-02 07:17:11",
+      "album": {
+        "name": "Sway (feat. Dope Earth Alien)",
+        "url": "https://open.spotify.com/album/5TFBzrKDfvyAfqfkWiqETf"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Sway (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd"
     },
     {
       "added_at": "2023-06-02 07:17:11",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-06-02 07:17:11",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO"
-      },
-      "artists": [
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 243125,
-      "name": "Ego Death",
-      "url": "https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE"
-    },
-    {
-      "added_at": "2023-06-02 07:17:11",
-      "album": {
         "name": "Zodiac",
         "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 342857,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+    },
+    {
+      "added_at": "2023-06-02 07:17:11",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 243125,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE"
     },
     {
       "added_at": "2023-06-02 07:17:11",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-06-02 07:17:11",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 301838,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn"
-    },
-    {
-      "added_at": "2023-06-02 07:17:11",
-      "album": {
         "name": "Rumblah",
         "url": "https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 242000,
       "name": "Rumblah",
       "url": "https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv"
+    },
+    {
+      "added_at": "2023-06-02 07:17:11",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 301838,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn"
     },
     {
       "added_at": "2023-06-02 07:17:11",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-02 07:17:11",
       "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 412505,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
-    },
-    {
-      "added_at": "2023-06-02 07:17:11",
-      "album": {
         "name": "Ringo",
         "url": "https://open.spotify.com/album/6t0AxO1pGwK7a6Nh6YzCNp"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 156031,
       "name": "Ringo",
       "url": "https://open.spotify.com/track/0jNxBp6TaBMq1Ws1FJHANF"
+    },
+    {
+      "added_at": "2023-06-02 07:17:11",
+      "album": {
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 412505,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
     },
     {
       "added_at": "2023-06-02 07:17:11",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-06-02 07:17:11",
       "album": {
-        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
-      },
-      "artists": [
-        {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
-        }
-      ],
-      "duration_ms": 271642,
-      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
-    },
-    {
-      "added_at": "2023-06-02 07:17:11",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5dJxuHqAVPrkq96UrZp8kt"
       },
@@ -1479,22 +1463,18 @@
     {
       "added_at": "2023-06-02 07:17:11",
       "album": {
-        "name": "Mind Control",
-        "url": "https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF"
+        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
       },
       "artists": [
         {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
         }
       ],
-      "duration_ms": 307141,
-      "name": "Mind Control",
-      "url": "https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b"
+      "duration_ms": 271642,
+      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
     },
     {
       "added_at": "2023-06-02 07:17:11",
@@ -1511,6 +1491,26 @@
       "duration_ms": 464026,
       "name": "Between Two Worlds",
       "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2023-06-02 07:17:11",
+      "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 307141,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b"
     },
     {
       "added_at": "2023-06-02 07:17:11",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-06-02 07:17:11",
       "album": {
-        "name": "Let\u2019s Dance (40th Anniversary Remix E.P.)",
-        "url": "https://open.spotify.com/album/1rh2gXfmFr7pNrOW0s6rIB"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 245806,
-      "name": "Let's Dance - Honey Dijon Moonlight Remix",
-      "url": "https://open.spotify.com/track/34Jr2hq5GW13cw8KbUUMy9"
-    },
-    {
-      "added_at": "2023-06-02 07:17:11",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1lZ0i3cnudsI42aT08F6fq"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 199358,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4RK3K3tMjzyLbszKzqyAsi"
+    },
+    {
+      "added_at": "2023-06-02 07:17:11",
+      "album": {
+        "name": "Let\u2019s Dance (40th Anniversary Remix E.P.)",
+        "url": "https://open.spotify.com/album/1rh2gXfmFr7pNrOW0s6rIB"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 245806,
+      "name": "Let's Dance - Honey Dijon Moonlight Remix",
+      "url": "https://open.spotify.com/track/34Jr2hq5GW13cw8KbUUMy9"
     },
     {
       "added_at": "2023-06-02 07:17:11",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2023-06-02 07:17:11",
       "album": {
+        "name": "Gate / Masterplan",
+        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 343764,
+      "name": "Gate",
+      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
+    },
+    {
+      "added_at": "2023-06-02 07:17:11",
+      "album": {
         "name": "Vigil",
         "url": "https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M"
       },
@@ -1767,22 +1787,6 @@
     {
       "added_at": "2023-06-02 07:17:11",
       "album": {
-        "name": "City Boy",
-        "url": "https://open.spotify.com/album/5xWuavh9nDjdOYbcXfCAz2"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 222992,
-      "name": "City Boy",
-      "url": "https://open.spotify.com/track/44bA4pNIp4Qbewb4u4GcCO"
-    },
-    {
-      "added_at": "2023-06-02 07:17:11",
-      "album": {
         "name": "Aguacero",
         "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
       },
@@ -1795,6 +1799,22 @@
       "duration_ms": 402545,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "added_at": "2023-06-02 07:17:11",
+      "album": {
+        "name": "City Boy",
+        "url": "https://open.spotify.com/album/5xWuavh9nDjdOYbcXfCAz2"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 222992,
+      "name": "City Boy",
+      "url": "https://open.spotify.com/track/44bA4pNIp4Qbewb4u4GcCO"
     },
     {
       "added_at": "2023-06-02 07:17:11",
@@ -1859,42 +1879,18 @@
     {
       "added_at": "2023-06-02 07:17:11",
       "album": {
-        "name": "A Radiant Sign (Remixed)",
-        "url": "https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM"
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/7ci9mlATFQyvvFIxigMOCH"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
         }
       ],
-      "duration_ms": 227987,
-      "name": "Far Behind - Jeremy Olander Remix",
-      "url": "https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi"
-    },
-    {
-      "added_at": "2023-06-02 07:17:11",
-      "album": {
-        "name": "Via Infinita",
-        "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Via Infinita",
-      "url": "https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ"
+      "duration_ms": 261500,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2FZStCHAHy3l16yWl9ELpe"
     }
   ],
   "unique_name": "Open Air",

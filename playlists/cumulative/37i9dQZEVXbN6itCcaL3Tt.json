@@ -425,6 +425,52 @@
     },
     {
       "album": {
+        "name": "3 w nocy w Mi\u0119dzyzdrojach",
+        "url": "https://open.spotify.com/album/3Kb9Hu7HPcylofDU8ekkZy"
+      },
+      "artists": [
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/25s2Sk6d3WP7G0ByfPTZRU"
+        },
+        {
+          "name": "Wygu\u015b",
+          "url": "https://open.spotify.com/artist/0wOt8jeUJ5usZySUWYa1KZ"
+        },
+        {
+          "name": "WoLa",
+          "url": "https://open.spotify.com/artist/1yHuIobOmFg6Fjo9OosOip"
+        },
+        {
+          "name": "slowez",
+          "url": "https://open.spotify.com/artist/4eI1QUuWhfhQwOSr98b9Ro"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "3 w nocy w Mi\u0119dzyzdrojach",
+      "url": "https://open.spotify.com/track/5KcuT4Yau5Y6KiiB0NR7C7"
+    },
+    {
+      "album": {
         "name": "32",
         "url": "https://open.spotify.com/album/6UkCnbBXx7i8B7bhirjsp3"
       },
@@ -4940,7 +4986,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -5235,6 +5281,28 @@
     },
     {
       "album": {
+        "name": "Czu\u0142e S\u0142owa (My Oh My)",
+        "url": "https://open.spotify.com/album/3SelzBaCYgPkOM1b43VbtT"
+      },
+      "artists": [
+        {
+          "name": "Pi\u0119kni I M\u0142odzi",
+          "url": "https://open.spotify.com/artist/36PWgNPTOch41BGIEPTY3h"
+        },
+        {
+          "name": "Magdalena Naro\u017cna",
+          "url": "https://open.spotify.com/artist/2tIId6vYI05J1pjNraKQAs"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202974,
+      "name": "Czu\u0142e S\u0142owa (My Oh My)",
+      "url": "https://open.spotify.com/track/1qfXkt43hgsBEMqilpidIm"
+    },
+    {
+      "album": {
         "name": "Diamentowy Las",
         "url": "https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs"
       },
@@ -5352,10 +5420,32 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 176579,
       "name": "Dance The Night (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
       "album": {
@@ -9500,7 +9590,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -12910,7 +13000,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 186761,
       "name": "Lottery (feat. LU KALA)",
       "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
@@ -18688,7 +18778,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -19840,7 +19930,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 151048,
       "name": "Rarara",
       "url": "https://open.spotify.com/track/1VEzvYlDWGz3KhxGg73jHG"
@@ -22950,7 +23040,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 215453,
       "name": "To co masz Ty!",
       "url": "https://open.spotify.com/track/5GdFPcbGDQqtbVO2jl6Ez5"
@@ -23828,7 +23918,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 198772,
       "name": "UZUMAKI FORMA OSTATECZNA",
       "url": "https://open.spotify.com/track/4ROC81h8HweWDJcSw0JtF9"
@@ -26366,7 +26456,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 199038,
       "name": "Z\u0142amane serce jest OK",
       "url": "https://open.spotify.com/track/2oKlfdH7fCAe8z747g4nB1"

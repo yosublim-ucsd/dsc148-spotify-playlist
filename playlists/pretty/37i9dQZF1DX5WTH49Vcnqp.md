@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,220 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,208 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [backseat](https://open.spotify.com/track/4uPxXynOy7JphMHeSiQFjm) | [ioakim](https://open.spotify.com/artist/7rv4I8TmSimvUct7xd7qeE) | [backseat](https://open.spotify.com/album/096b6xAs5ToKJJuZuoW23f) | 3:17 |
 | 80 | [Lost In The Rush](https://open.spotify.com/track/4YGMBDcyxKCg6ucyeYEhOI) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Lost In The Rush](https://open.spotify.com/album/7oX1RWPTy3nblMNvPgqutb) | 3:28 |
 
-Snapshot ID: `MCw3ZGJkZmY3OGZjZDAwZGRkYzI0NWZiMGJkMTVjMDliZTAyYjhkYjM3`
+Snapshot ID: `MCwwMzM5ZDQ4ZjFhNDc2NGYxYjM5NDViNzI2MTgwNzY3NWMxMTU4MWZh`

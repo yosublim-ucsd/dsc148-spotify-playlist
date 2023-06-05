@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-436 songs - 1 day 1 hr 42 min
+437 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr) | 2:58 | 2023-05-16 |  |
 | [1400 / 999 Freestyle](https://open.spotify.com/track/75lcPkAkUsKWHGBlGM476R) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [A Love Letter To You 3](https://open.spotify.com/album/6qRbGZqJ3aQY8N8bcHc1ug) | 2:55 | 2021-12-17 |  |
 | [15th and the 1st \(feat\. YG Hootie\)](https://open.spotify.com/track/5EPQXIxxry2D99lq31Hdu7) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Ferrari Boyz \(Deluxe\)](https://open.spotify.com/album/4iSBKX1KbpcEaNd2Jffrr2) | 3:53 | 2022-03-15 | 2022-07-29 |
-| [223's \(feat\. 9lokknine\)](https://open.spotify.com/track/29ZXwWOOLz9t5fa3eT3i7T) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [9lokknine](https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm) | [Melly vs\. Melvin](https://open.spotify.com/album/5xq6RMHNIBA73qld03dR6V) | 2:56 | 2021-12-17 |  |
+| [223's \(feat\. 9lokknine\)](https://open.spotify.com/track/29ZXwWOOLz9t5fa3eT3i7T) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [9lokknine](https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm) | [Melly vs\. Melvin](https://open.spotify.com/album/5xq6RMHNIBA73qld03dR6V) | 2:56 | 2021-12-17 | 2023-06-05 |
 | [25 million](https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:24 | 2021-12-17 | 2022-08-06 |
 | [6 Foot 7 Foot](https://open.spotify.com/track/0s019O8KwLXkPSSV609qEE) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Deluxe\)](https://open.spotify.com/album/7oc6i8xUILaWwQ5BJMZS3c) | 4:08 | 2022-04-06 | 2022-07-29 |
 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 | 2022-09-16 |  |
@@ -163,6 +163,7 @@
 | [Gotta Have It](https://open.spotify.com/track/5Pt83OUaK3K9C2if4C5JOk) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 2:20 | 2022-03-15 |  |
 | [Gravity Glidin](https://open.spotify.com/track/037ia8pNKhI3nEJsPxdKSC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Gravity Glidin](https://open.spotify.com/album/6AOqia2fFV9rj0xwR6HNaf) | 2:20 | 2021-12-17 | 2022-07-29 |
 | [Grove St\. Party \(feat\. Kebo Gotti\)](https://open.spotify.com/track/0pppIiLS63LpmagU1nizBq) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Kebo Gotti](https://open.spotify.com/artist/00UOluVoYY4F2blO5DmgRj) | [Flockaveli](https://open.spotify.com/album/1T9i5U3aPOvH8EyOjFlunD) | 4:10 | 2022-04-06 | 2022-07-29 |
+| [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 | 2023-05-30 |  |
 | [Gyalchester](https://open.spotify.com/track/6UjfByV1lDLW0SOVQA4NAi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:09 | 2021-12-17 | 2022-07-29 |
 | [Hands on the Wheel \(feat\. Asap Rocky\)](https://open.spotify.com/track/78JKJfKsqgeBDBF58gv1SF) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Habits & Contradictions](https://open.spotify.com/album/6Xz8eKy8TeAyzwGr8QSOAS) | 3:17 | 2022-03-15 | 2022-04-20 |
 | [Hard \(feat\. Tay\-K and BlocBoy JB\)](https://open.spotify.com/track/32OkBQinMWqa7ZydEkHqVi) | [No Jumper](https://open.spotify.com/artist/0umhtjpC8x3Dg7UXDNUzmX), [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Hard \(feat\. Tay\-K and BlocBoy JB\)](https://open.spotify.com/album/0IqjdcSceJWEctw8arvZLx) | 2:18 | 2022-01-05 | 2022-01-06 |

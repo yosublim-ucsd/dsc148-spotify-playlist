@@ -4,7 +4,7 @@
 
 > New adventures in rock start here\. Cover: MICO
 
-300 songs - 16 hr 28 min
+301 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,8 @@
 | [Weaponize This](https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Weaponize This](https://open.spotify.com/album/6Ju8h0MO81dfkW43SO76Og) | 2:40 | 2023-03-03 | 2023-04-09 |
 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 | 2023-03-24 | 2023-06-03 |
 | [what are you waiting for](https://open.spotify.com/track/7ABuh0D0N64p3k9ngs1Ka8) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [WHEN IT'S ALL OVER](https://open.spotify.com/album/77ae55sz3o6xw9kiLBH8Yb) | 3:26 | 2023-04-07 |  |
-| [What I Lost](https://open.spotify.com/track/7xt41A7FE69n0HesRmRMsX) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [What I Lost](https://open.spotify.com/album/0HMDo8oSr5B16LPiE70djt) | 3:47 | 2023-03-31 |  |
+| [What I Lost](https://open.spotify.com/track/6A2YBRwVay9HFsjErAzHXZ) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [Such Ferocious Beauty](https://open.spotify.com/album/7JuaCkoVLGfjTCBU1AYhbP) | 3:47 | 2023-06-02 |  |
+| [What I Lost](https://open.spotify.com/track/7xt41A7FE69n0HesRmRMsX) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [What I Lost](https://open.spotify.com/album/0HMDo8oSr5B16LPiE70djt) | 3:47 | 2023-03-31 | 2023-06-05 |
 | [Whatever You Break](https://open.spotify.com/track/2lbbnBFUI01HUt8P2zwohA) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Whatever You Break](https://open.spotify.com/album/1yAcgprQYnkpyVHLSRWweb) | 3:06 | 2023-02-17 | 2023-04-15 |
 | [whatwasthatwine](https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/4r5raINIASmps1EZ090fio) | 4:01 | 2023-02-10 | 2023-03-04 |
 | [When You Stop](https://open.spotify.com/track/4lu7jm5pq8H9kOYrJkXR9b) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [Remember Never Before](https://open.spotify.com/album/72uKcGYgxFDS0suNyqq2LU) | 3:20 | 2023-02-10 | 2023-03-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: DURRY \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,878 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,970 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 37 | [Take My Spirit Now](https://open.spotify.com/track/0caRIqeGpnO62H1lYJKILz) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Take My Spirit Now](https://open.spotify.com/album/51SDCf975H34HXrBMzEroL) | 3:38 |
 | 38 | [VERTEBRAE](https://open.spotify.com/track/2FJHbwkZGrabc07tlLoNoX) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [VERTEBRAE](https://open.spotify.com/album/4QnzPonbxABKQ1SfbT4rEX) | 2:37 |
 | 39 | [Thoughts Back](https://open.spotify.com/track/4zHuAp1CSsuRWjdlnYhla1) | [Cable Ties](https://open.spotify.com/artist/2DHxsgHVEiupQyVWHI1XIW) | [Thoughts Back](https://open.spotify.com/album/4rP3tcnDTXoTMyN04gmVLg) | 3:16 |
-| 40 | [Cruel](https://open.spotify.com/track/6ilStGJwy7nzQe2HqKjeik) | [FRANKIIE](https://open.spotify.com/artist/0iZJ9pd8Ld6jzdPYEXegYD) | [Cruel](https://open.spotify.com/album/3QGmQeSXDZn2DvmEcmDVgP) | 3:13 |
+| 40 | [Cruel](https://open.spotify.com/track/03i4J9UDZWMKhc0Cp5tAGp) | [FRANKIIE](https://open.spotify.com/artist/0iZJ9pd8Ld6jzdPYEXegYD) | [Between Dreams](https://open.spotify.com/album/3GTqMCAw41hLRXwZBiCHlr) | 3:13 |
 | 41 | [So Sweet](https://open.spotify.com/track/2qiKxJvqRof3nN6GUllaaB) | [SunDog](https://open.spotify.com/artist/1LY3y5mjHG8oE9rpHbbQy6) | [So Sweet](https://open.spotify.com/album/63OnEYvhNgZYXyOGwzGdB6) | 3:40 |
 | 42 | [Forestry](https://open.spotify.com/track/7o4drHsPt66rh7Nepak0eX) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Forestry](https://open.spotify.com/album/6pyWW8Sn7NLREgza1UZW0S) | 3:12 |
 | 43 | [Bad](https://open.spotify.com/track/0qb7doEOydzmLRTYWLRj1x) | [Cinema Stare](https://open.spotify.com/artist/14v9fqvtGdxFYVuvaJLuM0) | [Bad](https://open.spotify.com/album/0BvkpAMkoVEBZCgYQ7Es0j) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [SOMEBODY LIKE YOU](https://open.spotify.com/track/63JoApxcZcOp68aQJ0iEfJ) | [High Tropics](https://open.spotify.com/artist/5ZAx5s0XKuGjKMikU9GCrC) | [SOMEBODY LIKE YOU](https://open.spotify.com/album/49HDpW2isFtmHyXH9PxFzy) | 1:48 |
 | 100 | [Sudocream Queen \(2023\)](https://open.spotify.com/track/670mxMWhey2urx7f1OvXLi) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Sudocream Queen \(2023\)](https://open.spotify.com/album/6cDnh8KIRUbFKzZJWrG5wo) | 2:45 |
 
-Snapshot ID: `MCxiZjQ4M2I3YzZiYzUzZjI3MzIzYjVjNDRiZDFlMmRjMjg5MDMzN2Zl`
+Snapshot ID: `MCwxNjhiMGFkYWI2ZTU4ZGU2ZTc4OGVmOGI5YjAyZWVkNDViMGUxZWIx`

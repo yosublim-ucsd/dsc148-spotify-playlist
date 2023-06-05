@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Dei V",
-  "num_followers": 227675,
+  "num_followers": 227688,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzFjMWVlMTkyOTg5YWZlZDQ4ZjIyNDk3Mjk5MDdhMTEzYTVlN2Qx",
+  "snapshot_id": "MCwxMjY2ZTlmNzk2NDAzNjUwOWIyN2I1OTFjYjI1YzhkYzM4Y2U4ZDQ1",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "FANTASMA | AVC",
+        "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 285074,
+      "name": "FANTASMA | AVC",
+      "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Quien Va a Frontiar",
         "url": "https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 224500,
       "name": "LOS DUE\u00d1OS DE LA CALLE",
       "url": "https://open.spotify.com/track/1aWiVOJDIKVW13w1earaQf"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "FANTASMA | AVC",
-        "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 285074,
-      "name": "FANTASMA | AVC",
-      "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
     },
     {
       "added_at": "2023-06-02 04:00:00",

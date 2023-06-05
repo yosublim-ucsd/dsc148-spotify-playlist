@@ -2,7 +2,7 @@
 
 ### [Raaja Rules!](https://open.spotify.com/playlist/37i9dQZF1DX7iLHyU2xMyJ)
 
-> From Annakili to Psycho \- all the Essential tracks of Isaignani!<br/>Cover : Ilaiyaraaja
+> From Annakili to Viduthalai \- all the essential tracks of Isaignani!
 
 490 songs - 1 day 14 hr 37 min
 

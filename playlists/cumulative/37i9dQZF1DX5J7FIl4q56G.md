@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Pupil Slicer
 
-3,657 songs - 10 day 7 hr 2 min
+3,659 songs - 10 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1534,7 +1534,8 @@
 | [Holiday](https://open.spotify.com/track/5ff4h9mRnDDG84NSA4TNki) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Pawns & Kings](https://open.spotify.com/album/6GfoBh7p2LS5fMbYYMjj5b) | 3:58 | 2022-10-14 | 2022-10-22 |
 | [Hollow](https://open.spotify.com/track/1rBEjgnQ2UFveS7u3EYPP7) | [Death Decline](https://open.spotify.com/artist/1bgeQljXQlY64QQSQ7DgEe) | [Hollow](https://open.spotify.com/album/3DtqA3ulJxh7miB6KxiEFh) | 4:55 | 2022-11-11 | 2022-11-19 |
 | [HOLLYWOOD SUICIDE](https://open.spotify.com/track/7KTASNo2xzEoQpOUC7Q4CK) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [HOLLYWOOD SUICIDE](https://open.spotify.com/album/4VvhWfmR7STtNJUJLkXnGT) | 3:21 | 2023-01-27 | 2023-02-04 |
-| [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 | 2023-05-05 |  |
+| [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/0C9zjzK1ZCHL5Cid66Izxr) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Return to the Kingdom of Fife](https://open.spotify.com/album/37MilXRSXarLafaSnUBGAf) | 4:35 | 2023-06-02 |  |
+| [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 | 2023-05-05 | 2023-06-05 |
 | [Holy Mountain](https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ), [Lars Nedland](https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd) | [Holy Mountain](https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL) | 5:13 | 2022-04-22 | 2022-04-29 |
 | [Holy Water](https://open.spotify.com/track/4rBkuvKIBAw19IdnOISU5a) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [You Are Only As Sick As Your Secrets](https://open.spotify.com/album/2kbZiGYaaZUDZM014s8xnN) | 3:36 | 2023-02-24 | 2023-03-04 |
 | [Home](https://open.spotify.com/track/4rvipVyFuPr5VaBeYop1bn) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Home](https://open.spotify.com/album/6sba2UuexmszIP7Jf1G6ul) | 3:26 | 2022-07-08 | 2022-07-16 |
@@ -2124,7 +2125,7 @@
 | [Nemesis](https://open.spotify.com/track/1dVSJUkVNi36hr7VKiCWIt) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL), [Sonny Sandoval](https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L) | [Nemesis](https://open.spotify.com/album/3FdwX7ZZirpfzXPLdKpEYq) | 2:45 | 2022-03-24 | 2022-04-08 |
 | [Nemesis](https://open.spotify.com/track/1I01ZpAJ5jd6hwkGpGydTo) | [Ovtlier](https://open.spotify.com/artist/33EsLV9XuU86eBafBHYL0G) | [Nemesis](https://open.spotify.com/album/0zLJFqQ3CRZjhBEwPLA0H0) | 3:12 | 2022-06-24 | 2022-07-01 |
 | [Neon Drift](https://open.spotify.com/track/05lM1yLim2RBLyw5Cr2gkF) | [BlackRain](https://open.spotify.com/artist/4zEFEt7m0lKVXd0k5JTLJN) | [Neon Drift](https://open.spotify.com/album/36NyVOk62yDGN7KySA9Xxx) | 4:52 | 2022-09-30 | 2022-10-08 |
-| [Neon Gods](https://open.spotify.com/track/4VEmDAYcVdUk7ND9vj9CJ8) | [Waste](https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj) | [Neon Gods](https://open.spotify.com/album/5odr3ViUPuU6RNkqowtgJZ) | 3:48 | 2023-06-02 |  |
+| [Neon Gods](https://open.spotify.com/track/4VEmDAYcVdUk7ND9vj9CJ8) | [Waste](https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj), [Chris Whited](https://open.spotify.com/artist/17a6gSsfYl9DY0nCKTDdEw) | [Neon Gods](https://open.spotify.com/album/5odr3ViUPuU6RNkqowtgJZ) | 3:48 | 2023-06-02 |  |
 | [Neon Grave](https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Neon Grave](https://open.spotify.com/album/2C0qO4tvCCBmlklai9rzI8) | 3:59 | 2022-03-24 | 2022-04-08 |
 | [Neon Noir](https://open.spotify.com/track/4jW6TlrmCQUGnNcbEdr8Ui) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Neon Noir](https://open.spotify.com/album/1F9QDVhcJCUz0BHcjdmqvX) | 4:56 | 2023-01-13 | 2023-01-21 |
 | [Neptune's Eye](https://open.spotify.com/track/7IhKe2RCCVWz52hXZoFy2v) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [Disharmonium \- Undreamable Abysses](https://open.spotify.com/album/2E0VM3yGCaKSgd2CENiNbr) | 5:57 | 2022-05-20 | 2022-05-27 |
@@ -3279,7 +3280,8 @@
 | [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-02-25 | 2022-03-11 |
 | [Titanium](https://open.spotify.com/track/1jnq9T5KLgcbT3W5aVg4nV) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Titanium](https://open.spotify.com/album/2JdcUgF9TBDfwSDNZmXipO) | 3:41 | 2022-12-02 | 2022-12-10 |
 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 | 2022-10-28 | 2022-11-05 |
-| [To Hell and Back](https://open.spotify.com/track/57J6cslBQghF63zP1ef8qZ) | [DIETH](https://open.spotify.com/artist/2OKe3scvNv3hzFBQbJqDT7) | [To Hell and Back](https://open.spotify.com/album/08gPGLpTzFRxdSnrssltxe) | 3:55 | 2023-06-02 |  |
+| [To Hell and Back](https://open.spotify.com/track/4B5Xvktcg3MfnQQvr1rCkH) | [DIETH](https://open.spotify.com/artist/2OKe3scvNv3hzFBQbJqDT7) | [To Hell and Back](https://open.spotify.com/album/1HkOKiAJ5fGOO1pSaTyM3Y) | 3:55 | 2023-06-02 |  |
+| [To Hell and Back](https://open.spotify.com/track/57J6cslBQghF63zP1ef8qZ) | [DIETH](https://open.spotify.com/artist/2OKe3scvNv3hzFBQbJqDT7) | [To Hell and Back](https://open.spotify.com/album/08gPGLpTzFRxdSnrssltxe) | 3:55 | 2023-06-02 | 2023-06-05 |
 | [To Live and to Die](https://open.spotify.com/track/0aFH8yMcylZSKC96yYekIp) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [To Live and to Die](https://open.spotify.com/album/3loh5nvYJtgtFrnAl0bgQK) | 4:07 | 2022-08-19 | 2022-08-27 |
 | [To Resist Forgetting](https://open.spotify.com/track/1Cn6vzqK5hlHlo3SAyiZx5) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/3821HxVYaIwRA9DLfo8GHa) | 4:04 | 2022-02-04 | 2022-02-11 |
 | [To Take Your Place](https://open.spotify.com/track/00WMjiC2DB4d5ueyczHrSh) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [To Take Your Place](https://open.spotify.com/album/3F0MYgT15lMZ61C2vLWHjC) | 3:50 | 2022-07-22 | 2022-07-30 |

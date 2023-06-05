@@ -1346,10 +1346,28 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 224880,
       "name": "Goodas Mi Back Mi Back",
       "url": "https://open.spotify.com/track/0vPBj8SXXsIdBwz4FIzcT8"
+    },
+    {
+      "album": {
+        "name": "Strictly The Best Vol. 35",
+        "url": "https://open.spotify.com/album/4bq0nr8Ga4dUgf78jDGveB"
+      },
+      "artists": [
+        {
+          "name": "Tony Matterhorn",
+          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229826,
+      "name": "Goodas Mi Back Mi Back",
+      "url": "https://open.spotify.com/track/0DV3a7dw3D789bCIxlJ5Mn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Panter Bélico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,153 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,594 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Chema Arroyo](https://open.spotify.com/track/5bQfojqPaJYuNfmc5PRYG6) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Chema Arroyo](https://open.spotify.com/album/4Jz9ywUtSxsscvJMjKI7xY) | 3:20 |
 | 75 | [Juan Ayon](https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Rolitas De Oro](https://open.spotify.com/album/0zI12JLhcVts2MxbS1z4Ox) | 4:18 |
 
-Snapshot ID: `MCw3ZjBlNjk5NGExNjRlNDI4ZTExMGRmYzUxNzVkMjg5YzYxNDMyMWEx`
+Snapshot ID: `MCwzYzRlMDI1YzBhYzIxNGZmMTFiMzEyMzdhNmM0Nzc5MThiMDhiYTkx`

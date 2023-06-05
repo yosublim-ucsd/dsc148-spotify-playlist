@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Brain Worms",
+        "url": "https://open.spotify.com/album/5qAcUPxM27DFP7xvO4nHho"
+      },
+      "artists": [
+        {
+          "name": "RVG",
+          "url": "https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200917,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/23gYrvF0ebJIV6fwg3DbD3"
+    },
+    {
+      "album": {
         "name": "Common Ground",
         "url": "https://open.spotify.com/album/6oCuQoZRzSuRgBrMEfOemR"
       },
@@ -732,7 +750,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 200917,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/6KHwl6cpYdhHTcfhtvhw4h"
@@ -2977,6 +2995,24 @@
     },
     {
       "album": {
+        "name": "Brain Worms",
+        "url": "https://open.spotify.com/album/5qAcUPxM27DFP7xvO4nHho"
+      },
+      "artists": [
+        {
+          "name": "RVG",
+          "url": "https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281983,
+      "name": "Nothing Really Changes",
+      "url": "https://open.spotify.com/track/1leEYX5WwLXsMftG6XzEo1"
+    },
+    {
+      "album": {
         "name": "Nothing Really Changes",
         "url": "https://open.spotify.com/album/1tYf8MA5vbGugWpPAlQCtZ"
       },
@@ -2988,7 +3024,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 281983,
       "name": "Nothing Really Changes",
       "url": "https://open.spotify.com/track/2LgN5dODM51l9djXNMc1AV"

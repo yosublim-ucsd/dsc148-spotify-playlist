@@ -4,7 +4,7 @@
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: Within Temptation
 
-537 songs - 1 day 17 hr 19 min
+538 songs - 1 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Bound for Glory](https://open.spotify.com/track/6iaE692yddzSZCtas13O3G) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Bound for Glory](https://open.spotify.com/album/67ivunRzZPCKSFkJ0RLkUa) | 5:27 | 2021-10-29 | 2022-06-12 |
 | [Bound to You](https://open.spotify.com/track/2e3BYKQxVqrwDNBthAVMRf) | [Lords of Black](https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z) | [Bound to You](https://open.spotify.com/album/4LBRpVSwm4DKouQRuj9xJg) | 5:20 | 2021-10-01 | 2022-05-14 |
 | [Breaking the Rules of Heavy Metal](https://open.spotify.com/track/5fqssXsp0MIyarjoidnV3l) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Breaking the Rules of Heavy Metal](https://open.spotify.com/album/3QCnyC286dqbTckQbGjUhV) | 4:42 | 2021-10-16 | 2021-11-20 |
-| [Breath](https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Breath](https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g) | 3:44 | 2022-03-11 |  |
+| [Breath](https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Breath](https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g) | 3:44 | 2022-03-11 | 2023-06-05 |
 | [Breathing Divinity](https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8) | [Jani Liimatainen](https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [My Father's Son](https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr) | 5:03 | 2022-05-06 |  |
 | [Brothers of the Past \- 2022 Version](https://open.spotify.com/track/0Setu1TLxA25kpwiKs2PVp) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Brothers of the Past \(2022 Version\)](https://open.spotify.com/album/0qrDK7oCOnwxipfC225U11) | 4:42 | 2022-04-01 | 2022-04-09 |
 | [Brute Force](https://open.spotify.com/track/041shuuoKMRmCoqcCWLTgl) | [Rabea Massaad](https://open.spotify.com/artist/36iTQET6zbLEVZrOznFuTs) | [Grinding Gears](https://open.spotify.com/album/6l7QM5dpXbHeHeE9E2gvXo) | 2:30 | 2022-07-13 | 2022-07-30 |
@@ -443,6 +443,7 @@
 | [The Eye of Ra](https://open.spotify.com/track/79d72HkT6mQVkeeYmoswIa) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [Chaos\. Order\. Renewal.](https://open.spotify.com/album/2nkXL3bfEip5LpyIn9oUxj) | 3:04 | 2022-07-13 | 2022-07-27 |
 | [The Final Sacrifice](https://open.spotify.com/track/4cScKIcfk0H7Awz0Yugsa2) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA) | [The Final Sacrifice](https://open.spotify.com/album/2xJzhdiI0vskP79u3CYHMR) | 5:03 | 2021-05-21 | 2022-01-08 |
 | [The Fire and the Sinner](https://open.spotify.com/track/7n5VVe0Sya3ZeM3DcZqvs5) | [Timo Tolkki’s Avalon](https://open.spotify.com/artist/6UkYfNV9Y4kp00UT4D2djV), [Jake E.](https://open.spotify.com/artist/0Q29XLn4nejBlTmouEUeOO), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [The Fire and the Sinner](https://open.spotify.com/album/39dyo9LI63I2Wn4lDsBvyk) | 3:05 | 2021-05-14 | 2021-06-11 |
+| [The Gates of Time](https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Metamorphosis](https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun) | 4:35 | 2023-05-19 |  |
 | [The Gates of Time](https://open.spotify.com/track/7htJHIpqvekWbUvy3mDQAZ) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [The Gates of Time](https://open.spotify.com/album/32keP0AvWGw1HknYoHQGV8) | 4:35 | 2023-03-24 | 2023-05-15 |
 | [The Gospel of Judas](https://open.spotify.com/track/5fDfOivURFfaa91vz5W2Eh) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [The Gospel of Judas](https://open.spotify.com/album/4kl8qGOuNY1TKWCe6XVxiy) | 4:05 | 2021-07-04 | 2022-03-23 |
 | [The Great Tribulation \(feat\. Fleshgod Apocalypse\)](https://open.spotify.com/track/4xXkmpsOPJtR7z7dy0tiNn) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp), [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [The Great Tribulation \(feat\. Fleshgod Apocalypse\)](https://open.spotify.com/album/73I0s203vjEG5d7ZC2PtsV) | 5:03 | 2022-10-14 | 2022-10-27 |

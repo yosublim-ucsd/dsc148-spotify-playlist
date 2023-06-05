@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-643 songs - 1 day 15 hr 18 min
+644 songs - 1 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Emotions of Colour](https://open.spotify.com/track/6eBUO6Nb29FOvkIwkUc5li) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Emotions of Colour](https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K) | 4:26 | 2023-03-03 |  |
 | [Encounter](https://open.spotify.com/track/45oSgCJoDcQcXjxssQPVZg) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [Encounter](https://open.spotify.com/album/2LYnFQKvtPlKp36HCRGuRv) | 3:37 | 2021-12-17 | 2022-02-26 |
 | [End Of Time](https://open.spotify.com/track/5yoFtDZJzZUmptrpnQiXsD) | [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [End Of Time](https://open.spotify.com/album/5swpo2MesNA6V7OBY2orFT) | 3:23 | 2023-01-13 | 2023-05-20 |
+| [Enigma](https://open.spotify.com/track/5r2qH0BLeoxg1q6X1wC8sn) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Enigma](https://open.spotify.com/album/6Eonwr5xHUcl8mccdjNPnz) | 3:18 | 2023-06-02 |  |
 | [Enough for Me](https://open.spotify.com/track/64efbrqLb53cBFwoWS9mAE) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Airwalk3r](https://open.spotify.com/artist/5SpGGsQ5xlAeq9jf5Eblyw) | [Enough for Me](https://open.spotify.com/album/4RJviCzbAljHR4ZLKI71TF) | 3:53 | 2022-08-12 |  |
 | [Era](https://open.spotify.com/track/5X4LSyx1CyH0FJiJwQH29c) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2) | [Era](https://open.spotify.com/album/3utAPcjvEBKwAOto8dfG1u) | 3:06 | 2021-12-17 | 2022-02-26 |
 | [Erase Me](https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Erase Me](https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX) | 4:03 | 2022-07-22 | 2022-09-24 |
@@ -392,7 +393,7 @@
 | [Never Fade Away \- Maarten de Jong Remix](https://open.spotify.com/track/6sscfnG0RcwxteRjd6VduT) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Lo\-Fi Sugar](https://open.spotify.com/artist/7dgk105OUyKcy7lfUn5uHy), [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Never Fade Away \(Maarten de Jong Remix\)](https://open.spotify.com/album/79ZPuDNVySkxCXUgDdML8h) | 3:54 | 2022-01-14 | 2023-02-25 |
 | [Never Say Goodbye](https://open.spotify.com/track/3XTzLevBhCJQ0h6aDUwWBA) | [Miss Rodriguez](https://open.spotify.com/artist/4yZGU0gzItG1ItNaTGKhiP) | [Never Say Goodbye](https://open.spotify.com/album/5M7fL4Kmiv0bHuDFiEGtii) | 3:16 | 2023-04-07 | 2023-05-27 |
 | [Never Temporary](https://open.spotify.com/track/6QC21eD5NwF4H6o14yF6rc) | [Greg Oakland](https://open.spotify.com/artist/74OcjgGgrViwZT8BfZS0gA), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Never Temporary](https://open.spotify.com/album/6NV6WnE3q9YxhglZoWt6f3) | 4:00 | 2023-04-07 | 2023-05-27 |
-| [Never Thought I'd Find You](https://open.spotify.com/track/6J4oCRJ3IKS2WYlbU4r2ly) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Jam Da Bass](https://open.spotify.com/artist/3Gk4dBkVDyEMcCkW0GTd8I), [Jaki Nelson](https://open.spotify.com/artist/7oz4dlYyj9jadcbGJq1jwx) | [Never Thought I’d Find You](https://open.spotify.com/album/1JlKTPdTwCeuwtpEXd4oCt) | 5:40 | 2023-04-07 |  |
+| [Never Thought I'd Find You](https://open.spotify.com/track/6J4oCRJ3IKS2WYlbU4r2ly) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Jam Da Bass](https://open.spotify.com/artist/3Gk4dBkVDyEMcCkW0GTd8I), [Jaki Nelson](https://open.spotify.com/artist/7oz4dlYyj9jadcbGJq1jwx) | [Never Thought I’d Find You](https://open.spotify.com/album/1JlKTPdTwCeuwtpEXd4oCt) | 5:40 | 2023-04-07 | 2023-06-05 |
 | [New Beginning](https://open.spotify.com/track/3mSvm233eEIHKM51fsvhie) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [New Beginning](https://open.spotify.com/album/0krjoAvDBsUqcDwniaar7X) | 3:31 | 2022-03-25 | 2023-03-07 |
 | [New Horizons](https://open.spotify.com/track/4AujrygiEHw3PSVVXAdNy4) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [New Horizons](https://open.spotify.com/album/5LyP1m1U6twd5YtodHX1nU) | 5:55 | 2023-01-13 |  |
 | [New World](https://open.spotify.com/track/7AHQCsa2s0ix8fnA489mLs) | [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT) | [New World](https://open.spotify.com/album/1SYQHb33hqsSCHTcUCbWRA) | 3:25 | 2023-02-24 |  |

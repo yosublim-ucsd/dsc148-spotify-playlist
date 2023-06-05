@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 82885,
+  "num_followers": 83005,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTI1MTNlZTVlNjI3MDhjOGQzMGUxNTlmZjJhN2Q3YzJhNWJhODUz",
+  "snapshot_id": "MCxjY2Q4NGY5Yjk0OGM5MTM2M2U1ZTRlYjc2NzUyOThiNjg5MDA1ZTZi",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -311,6 +311,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "Your Great Name",
+        "url": "https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 379562,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Anthony Brown & group therAPy",
         "url": "https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 257093,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Your Great Name",
-        "url": "https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 379562,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Close (Radio Edit)",
-        "url": "https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Close (Radio Edit)",
-      "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Avery*sunshine Album",
         "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 282826,
       "name": "Blessin Me",
       "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Close (Radio Edit)",
+        "url": "https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Close (Radio Edit)",
+      "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "You Shall Live",
-        "url": "https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 318186,
-      "name": "Live",
-      "url": "https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Well Done",
         "url": "https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 227335,
       "name": "Never Have to Be Alone",
       "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "You Shall Live",
+        "url": "https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 318186,
+      "name": "Live",
+      "url": "https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "The Higher Experience",
-        "url": "https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        }
-      ],
-      "duration_ms": 313146,
-      "name": "No Ordinary Worship - Live",
-      "url": "https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 380493,
       "name": "Close",
       "url": "https://open.spotify.com/track/4X5kYRhSENRkyUkY17STEG"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "The Higher Experience",
+        "url": "https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "duration_ms": 313146,
+      "name": "No Ordinary Worship - Live",
+      "url": "https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
-        "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
-      },
-      "artists": [
-        {
-          "name": "Daryl Coley",
-          "url": "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
-        }
-      ],
-      "duration_ms": 507893,
-      "name": "Beyond The Veil - Live",
-      "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 249173,
       "name": "Kind God",
       "url": "https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
+        "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
+      },
+      "artists": [
+        {
+          "name": "Daryl Coley",
+          "url": "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
+        }
+      ],
+      "duration_ms": 507893,
+      "name": "Beyond The Veil - Live",
+      "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -991,18 +991,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Kingdom...LIVE!",
-        "url": "https://open.spotify.com/album/6s3BIqDGjArQt2Pv26qB6a"
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
       },
       "artists": [
         {
-          "name": "Geoffrey Golden",
-          "url": "https://open.spotify.com/artist/6f6vvDOOCgPmArVZcmVS2p"
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        },
+        {
+          "name": "Gene Hoskins",
+          "url": "https://open.spotify.com/artist/3InuhUOZdqcWYa96xDDaG0"
         }
       ],
-      "duration_ms": 306426,
-      "name": "All of My Help",
-      "url": "https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE"
+      "duration_ms": 476252,
+      "name": "I Agree (feat. Gene Hoskins)",
+      "url": "https://open.spotify.com/track/59Di2wFNVIZZLXQjMxVjgr"
     }
   ],
   "unique_name": "Sundays Best",

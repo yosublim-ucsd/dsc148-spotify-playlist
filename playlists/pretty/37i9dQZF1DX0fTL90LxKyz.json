@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 50993,
+  "num_followers": 50997,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTQwMjI1ODA5YTdkODI1NzQ4YWMwNTdkY2U0YWZiNmI2NDM0Y2U0",
+  "snapshot_id": "MCw2N2ViMTlhMjYyZjcxNmUwNGI5NTdlNDJjZjQzNzM4MzBhZGU0NWM0",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -443,22 +443,18 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Pisces",
-        "url": "https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j"
+        "name": "AirForce",
+        "url": "https://open.spotify.com/album/3ADX90oQVwuiHPT5ki5426"
       },
       "artists": [
         {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Krept & Konan",
-          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+          "name": "DigDat",
+          "url": "https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Pisces",
-      "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
+      "duration_ms": 221467,
+      "name": "AirForce",
+      "url": "https://open.spotify.com/track/3DLRRpaDETZYltj3KZ7kxo"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -515,18 +511,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "AirForce",
-        "url": "https://open.spotify.com/album/3ADX90oQVwuiHPT5ki5426"
+        "name": "Pisces",
+        "url": "https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j"
       },
       "artists": [
         {
-          "name": "DigDat",
-          "url": "https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ"
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
         }
       ],
-      "duration_ms": 221467,
-      "name": "AirForce",
-      "url": "https://open.spotify.com/track/3DLRRpaDETZYltj3KZ7kxo"
+      "duration_ms": 160000,
+      "name": "Pisces",
+      "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
     },
     {
       "added_at": "2022-10-23 18:38:51",

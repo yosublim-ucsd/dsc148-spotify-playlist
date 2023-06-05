@@ -4,13 +4,14 @@
 
 > Evadez\-vous tout en douceur...
 
-86 songs - 4 hr 36 min
+87 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Part Of You](https://open.spotify.com/track/3PjBLeVb8w5LXwJr8LBm0u) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [6115 Orange St](https://open.spotify.com/album/1MHdrpxvqlnV9cvqg2OhQn) | 2:47 | 2022-12-20 | 2023-03-04 |
+| [All Alone](https://open.spotify.com/track/7wV5gBT9RMMl7LPRG6swGg) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [All Alone](https://open.spotify.com/album/00bZlz7ywsILgoopfqLVBn) | 2:52 | 2023-06-04 |  |
 | [Away From Home](https://open.spotify.com/track/44EgTZXLY0a2NcKaZdnkyL) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Away From Home](https://open.spotify.com/album/5T2CFeH0z9TW9SwostRiQq) | 2:29 | 2022-12-20 | 2023-05-13 |
-| [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2022-12-20 |  |
+| [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2022-12-20 | 2023-06-05 |
 | [Be Free](https://open.spotify.com/track/5cZGx2GCEmHNjYd8rFXYws) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Gyrefunk](https://open.spotify.com/artist/7eQEQLV4hM1kD1K0tKjI9u) | [Serenity](https://open.spotify.com/album/24NndBbEzrcYKGYBBVhEgA) | 3:57 | 2023-05-12 |  |
 | [Be Good \(feat\. Tom Rosenthal\)](https://open.spotify.com/track/7ksUuRAALPLYjhlpwTcDCH) | [Max Brodie](https://open.spotify.com/artist/08Fba5XNvK4sXAbH68DYPf), [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Be Good \(feat\. Tom Rosenthal\)](https://open.spotify.com/album/4IWLXhyvj0rH2cm5VwuuW9) | 2:44 | 2023-05-12 |  |
 | [Beautiful Day \(Thank You for Sunshine\)](https://open.spotify.com/track/1z5r6Rpcc1BreRtYALBncX) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [Beautiful Day \(Thank You for Sunshine\)](https://open.spotify.com/album/015qoIa2tAE8CETpsNIpqv) | 2:48 | 2023-02-03 | 2023-05-13 |

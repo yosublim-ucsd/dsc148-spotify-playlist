@@ -3412,7 +3412,7 @@
     {
       "album": {
         "name": "Sewn the Name",
-        "url": "https://open.spotify.com/album/2cDew1xZNETYBMaXDuVah4"
+        "url": "https://open.spotify.com/album/4EGWzISFEmZflREtNKzTBI"
       },
       "artists": [
         {
@@ -3423,6 +3423,24 @@
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 434677,
+      "name": "Brooksville Trestle Remains",
+      "url": "https://open.spotify.com/track/0XCo3H0hJHWpxzvCQMLGLT"
+    },
+    {
+      "album": {
+        "name": "Sewn the Name",
+        "url": "https://open.spotify.com/album/2cDew1xZNETYBMaXDuVah4"
+      },
+      "artists": [
+        {
+          "name": "Old Saw",
+          "url": "https://open.spotify.com/artist/5dfhzKkqasnpQRiZiUGIus"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
       "duration_ms": 434677,
       "name": "Brooksville Trestle Remains",
       "url": "https://open.spotify.com/track/61pOb45IG8zhZ31iRmIDAD"

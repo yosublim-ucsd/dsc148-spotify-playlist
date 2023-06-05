@@ -1,12 +1,12 @@
 {
   "description": "maybe it's punk, maybe it's not. Cover: FEVER 333",
-  "num_followers": 204643,
+  "num_followers": 204721,
   "original_name": "unleashed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmNiMzYwZDU0ZGRjNDYyYjM1MDQ0NDdhOTdkZTIzOTRiNDVlZGE3",
+  "snapshot_id": "MCxmYjllZTRmNjQ4Y2UyZGRiYmI1NmFjZmViNWMyMTg5YWRlZTEwZmU2",
   "tracks": [
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "just in case the world ends (deluxe edition)",
-        "url": "https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y"
+        "name": "pity party (hyperpunk remix)",
+        "url": "https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF"
       },
       "artists": [
         {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        },
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 134385,
-      "name": "TEEN POP SENSATION",
-      "url": "https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp"
+      "duration_ms": 156879,
+      "name": "pity party (hyperpunk remix)",
+      "url": "https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL"
     }
   ],
   "unique_name": "unleashed",

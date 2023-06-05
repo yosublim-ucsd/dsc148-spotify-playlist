@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-320 songs - 14 hr 22 min
+321 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 | 2022-08-01 |  |
 | [Solaris](https://open.spotify.com/track/6cv8No97M6bO6MT1q2FNyn) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Solaris](https://open.spotify.com/album/1WjxXz4gCszSPaxKNFQczu) | 2:30 | 2023-02-14 |  |
 | [Solas](https://open.spotify.com/track/2AwBq3Ecjq5IfpC5f897VY) | [Jamie Duffy](https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo) | [Solas](https://open.spotify.com/album/2Zo6x3rljcjBPH1eXJdQjH) | 3:12 | 2022-12-05 | 2023-03-23 |
-| [Soleil De Printemps](https://open.spotify.com/track/2BbNiUr4ghymoRiLJfAB2c) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Soleil De Printemps](https://open.spotify.com/album/7HEBXPgrGgxWrDe4Eq1kPY) | 2:57 | 2023-03-30 |  |
+| [Soleil De Printemps](https://open.spotify.com/track/2BbNiUr4ghymoRiLJfAB2c) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Soleil De Printemps](https://open.spotify.com/album/7HEBXPgrGgxWrDe4Eq1kPY) | 2:57 | 2023-03-30 | 2023-06-05 |
+| [Soleil De Printemps](https://open.spotify.com/track/35lOwNQTacGaz71H7SWrEm) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Douce Mélancolie](https://open.spotify.com/album/3tU3XYUk8R2cLT4QbDNw6Q) | 2:57 | 2023-05-09 |  |
 | [Soleil De Printemps](https://open.spotify.com/track/3oCeHeT1LpAKRK7esg4S0R) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Soleil De Printemps](https://open.spotify.com/album/5YgADlrXYIu8D8zVVENFVo) | 2:57 | 2023-03-14 | 2023-04-02 |
 | [Solitude](https://open.spotify.com/track/1DBcTd8Qkm9hAHOXI1ajDa) | [Light Beyond Life](https://open.spotify.com/artist/6qLYeDUv2dxEGxNCWoL7b5) | [Solitude](https://open.spotify.com/album/21PRAMDAdTD9Q1GTWc89l6) | 2:27 | 2022-08-01 | 2023-05-04 |
 | [Solitude](https://open.spotify.com/track/5EaxoaMc2J9fq5zeQd1Nem) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Mirrored](https://open.spotify.com/album/0SsL5gEgRhjvYeX6aB3W0o) | 4:28 | 2022-12-05 |  |

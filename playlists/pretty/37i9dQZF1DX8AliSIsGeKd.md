@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,787 likes - 90 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,955 likes - 90 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Voices Traces Noises Spaces \- Radio Edit](https://open.spotify.com/track/24IQ8zOWNPWIBIjeGOs16O) | [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Voices Traces Noises Spaces](https://open.spotify.com/album/39n0ci9f8jtP7pEkJYgdso) | 3:08 |
 | 90 | [Electric Drive](https://open.spotify.com/track/4BrRkijMoO7QtKJAQhy6sY) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [Electric Drive](https://open.spotify.com/album/6CqAkOisbxub3iuOC9KGhk) | 4:07 |
 
-Snapshot ID: `MCxlYjQ1ZTljMTE4YjJlYmMzZWFlNmE3ZjNkNTI2ZjVmZjYwY2U5YjJl`
+Snapshot ID: `MCwxZjI1ODVjZGMzYmJlYjBjMzY4NDZjNDA3NmFkMWEyMWU4ZjdiMjY0`

@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Chencho Corleone en portada ",
-  "num_followers": 7477,
+  "num_followers": 7505,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjVkZTU0YTVlYTlmNmI3OTJmM2Q2NGI1NzQ5MzYxZWQ5ZWNiODc5",
+  "snapshot_id": "MCwwN2E3ODVhN2UzYzU0MTgyNjMxNWE2NDhiZDAxNjA4ODE3YjVlMjc2",
   "tracks": [
     {
       "added_at": "2023-06-02 06:00:00",
@@ -555,6 +555,30 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "Jordan Flight",
+        "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 159923,
+      "name": "Jordan Flight",
+      "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Club16, Jota Rosa Presents Vol. 2",
         "url": "https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d"
       },
@@ -583,46 +607,6 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Jordan Flight",
-        "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 159923,
-      "name": "Jordan Flight",
-      "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "TUER",
-        "url": "https://open.spotify.com/album/2pObyrcegzMolYO1FfnGXl"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 178487,
-      "name": "TUER",
-      "url": "https://open.spotify.com/track/7v8klmTCgbUUXblgOWTZBY"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/7uCR5vxsTuVHaqd8nMWoDV"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 177032,
       "name": "Toto",
       "url": "https://open.spotify.com/track/3IWcUkdKHKCd8yC6WImYnl"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "TUER",
+        "url": "https://open.spotify.com/album/2pObyrcegzMolYO1FfnGXl"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 178487,
+      "name": "TUER",
+      "url": "https://open.spotify.com/track/7v8klmTCgbUUXblgOWTZBY"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -687,22 +687,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Piripituchy",
-        "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
+        "name": "Me Dice Daddy",
+        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         },
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 180880,
-      "name": "Piripituchy",
-      "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
+      "duration_ms": 183320,
+      "name": "Me Dice Daddy",
+      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -727,22 +727,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Me Dice Daddy",
-        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
+        "name": "Piripituchy",
+        "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         },
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
         }
       ],
-      "duration_ms": 183320,
-      "name": "Me Dice Daddy",
-      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
+      "duration_ms": 180880,
+      "name": "Piripituchy",
+      "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1035,26 +1035,26 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Puta Rara, Puta Dominicana",
-        "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
+        "name": "MODO CHAKALON",
+        "url": "https://open.spotify.com/album/5EBFVJPchw9dyLJRrzc3qr"
       },
       "artists": [
         {
-          "name": "MC Menor MT",
-          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+          "name": "Flacco Lapresion",
+          "url": "https://open.spotify.com/artist/0vOkRmt817dkOS5As5CBlm"
         },
         {
-          "name": "Dixson Waz",
-          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+          "name": "Charly whest",
+          "url": "https://open.spotify.com/artist/5EZZZ6q2iwiuxkTE0DK3os"
         },
         {
-          "name": "marceu inovadora",
-          "url": "https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7"
+          "name": "Riko mix",
+          "url": "https://open.spotify.com/artist/7xI6d9mjFghcnsmZc3Gfv5"
         }
       ],
-      "duration_ms": 140643,
-      "name": "Puta Rara, Puta Dominicana",
-      "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
+      "duration_ms": 159612,
+      "name": "MODO CHAKALON",
+      "url": "https://open.spotify.com/track/4E8dl7KQEDxLy8sGmiSefU"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1083,26 +1083,26 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "MODO CHAKALON",
-        "url": "https://open.spotify.com/album/5EBFVJPchw9dyLJRrzc3qr"
+        "name": "Puta Rara, Puta Dominicana",
+        "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
       },
       "artists": [
         {
-          "name": "Flacco Lapresion",
-          "url": "https://open.spotify.com/artist/0vOkRmt817dkOS5As5CBlm"
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
         },
         {
-          "name": "Charly whest",
-          "url": "https://open.spotify.com/artist/5EZZZ6q2iwiuxkTE0DK3os"
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
         },
         {
-          "name": "Riko mix",
-          "url": "https://open.spotify.com/artist/7xI6d9mjFghcnsmZc3Gfv5"
+          "name": "marceu inovadora",
+          "url": "https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7"
         }
       ],
-      "duration_ms": 159612,
-      "name": "MODO CHAKALON",
-      "url": "https://open.spotify.com/track/4E8dl7KQEDxLy8sGmiSefU"
+      "duration_ms": 140643,
+      "name": "Puta Rara, Puta Dominicana",
+      "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
     },
     {
       "added_at": "2023-06-02 06:00:00",

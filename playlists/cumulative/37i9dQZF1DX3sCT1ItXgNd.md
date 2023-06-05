@@ -4,7 +4,7 @@
 
 > Lo mejor y lo último del pop en español\. Foto: Marta Santos
 
-167 songs - 8 hr 25 min
+168 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Disfrutármela](https://open.spotify.com/track/3O3zWXgKpxzqcME24Xllsi) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Disfrutármela](https://open.spotify.com/album/4UsJPeGA3HUCRCeWWHGqCL) | 2:45 | 2023-04-17 | 2023-05-04 |
 | [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 | 2023-05-19 | 2023-06-02 |
 | [Donde tú quieras, yo voy](https://open.spotify.com/track/6xyeYEV9oDGlKhfSbLi8k8) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Donde tú quieras, yo voy](https://open.spotify.com/album/1v8uoo66sDT6P6iECiKOiO) | 2:22 | 2023-04-10 | 2023-05-31 |
-| [DOS PRIMAVERAS](https://open.spotify.com/track/2AigAbn9Uq8PZsVRS1zMBw) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MI BANDERA](https://open.spotify.com/album/2JfufZUm8YJWyCB9Onb17n) | 2:55 | 2023-05-09 |  |
+| [DOS PRIMAVERAS](https://open.spotify.com/track/15WUEbZiVlMktscw1mse4X) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 2:55 | 2023-06-01 |  |
+| [DOS PRIMAVERAS](https://open.spotify.com/track/2AigAbn9Uq8PZsVRS1zMBw) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MI BANDERA](https://open.spotify.com/album/2JfufZUm8YJWyCB9Onb17n) | 2:55 | 2023-05-09 | 2023-06-05 |
 | [DOS PRIMAVERAS](https://open.spotify.com/track/5FZxffn8Mnymhy7atrBfT4) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [SÚBEME EL VOLUMEN](https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9) | 2:55 | 2023-04-10 | 2023-05-11 |
 | [DOS PRIMAVERAS](https://open.spotify.com/track/75pwnaLuYXESW07uyWxOcF) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [DOS PRIMAVERAS](https://open.spotify.com/album/1A7MPKCRLfcPz8hz9fBLH0) | 2:55 | 2023-03-13 | 2023-04-12 |
 | [DRAGÓN](https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:54 | 2023-04-17 | 2023-05-23 |

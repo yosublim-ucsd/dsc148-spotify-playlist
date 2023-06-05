@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,175 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,195 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 4 | [Palhaça \- Ao Vivo](https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Palhaça \(Ao Vivo\)](https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf) | 2:50 |
 | 5 | [Tranqueira \- \(Guia DVD\)](https://open.spotify.com/track/4CsgTP8tSlEW5Yb1Wq01Sb) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Tranqueira \(Guia DVD\)](https://open.spotify.com/album/2X8dGmFSCX69Kj2P4vCYDN) | 2:37 |
 | 6 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/0P0k5KoLcxi0kf1jik4v8X) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Mari Fernandez Ao Vivo Em São Paulo](https://open.spotify.com/album/4GBXBjWiyAfZiKph3ThZTZ) | 3:21 |
-| 7 | [Te Superei \- Ao Vivo](https://open.spotify.com/track/5mua37IcypCqAL3cw0et4a) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Te Superei \(Ao Vivo\)](https://open.spotify.com/album/7JVxQOZjbbLWr2yUNWeNxS) | 3:23 |
-| 8 | [Me Ame Mais](https://open.spotify.com/track/1wGuEAmgb6vbOz2re9pMNz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:41 |
+| 7 | [Me Ame Mais](https://open.spotify.com/track/1wGuEAmgb6vbOz2re9pMNz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:41 |
+| 8 | [Te Superei \- Ao Vivo](https://open.spotify.com/track/5mua37IcypCqAL3cw0et4a) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Te Superei \(Ao Vivo\)](https://open.spotify.com/album/7JVxQOZjbbLWr2yUNWeNxS) | 3:23 |
 | 9 | [Indereço](https://open.spotify.com/track/1xuDwnaE7yctEiUNUpx9lB) | [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Indereço](https://open.spotify.com/album/49MLg9Tz4RI7LNHV7GyDH1) | 2:37 |
 | 10 | [Pra Ficar com Você](https://open.spotify.com/track/5IsHGxVRgWBcsQYZHfmjPz) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias](https://open.spotify.com/album/7l7O18Vj86XDa46RroXjpJ) | 2:00 |
 | 11 | [Nunca Vai Ser um Adeus \- Ao Vivo](https://open.spotify.com/track/2ZtBO7eGYv1TVT0Sij4M9c) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade \(Ao Vivo\)](https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP) | 2:48 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 41 | [Tá Melhor que Antes \- Ao Vivo](https://open.spotify.com/track/6pP5twEqrKYVlBiNvaV9kM) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 2:26 |
 | 42 | [Mentir Pra Que \- Ao Vivo](https://open.spotify.com/track/0HTvCeTBhY5TJqupRLm7Ef) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS) | 2:41 |
 | 43 | [Indefesa \- Ao Vivo](https://open.spotify.com/track/6YF9pcp623mMZm86ciOJ9r) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 3:16 |
-| 44 | [Descontar Não É Trair](https://open.spotify.com/track/141n9kCcSwIoz2ZSzqHRpC) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 3:05 |
-| 45 | [Meu Vazio \- Ao Vivo](https://open.spotify.com/track/7eSARTuHtifSgMlxPMJhfG) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3) | [Todas As Letras \(Ao Vivo / Vol\. 2\)](https://open.spotify.com/album/5z9tSlU0kfkqLtN3t0VT81) | 2:29 |
+| 44 | [Meu Vazio \- Ao Vivo](https://open.spotify.com/track/7eSARTuHtifSgMlxPMJhfG) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3) | [Todas As Letras \(Ao Vivo / Vol\. 2\)](https://open.spotify.com/album/5z9tSlU0kfkqLtN3t0VT81) | 2:29 |
+| 45 | [Descontar Não É Trair](https://open.spotify.com/track/141n9kCcSwIoz2ZSzqHRpC) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 3:05 |
 | 46 | [Banho De Água Fria \- Ao Vivo](https://open.spotify.com/track/6CxdFvd4nYkE84XWIFOYqz) | [Juliana Marques](https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp) | [De Pé No Chão EP1 \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/4b9UmzDaH8sEiUTDsnzAK2) | 3:02 |
 | 47 | [Pior Amigo \- Ao Vivo](https://open.spotify.com/track/4NpiCwNv59ikKyLVZjJ0um) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y) | [Sem Tê Dó \(Ao Vivo\)](https://open.spotify.com/album/4K4quM3riqdCBMcaUb3eOs) | 2:57 |
 | 48 | [Viva Agora \(Exclusive\)](https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1) | [Anna Cintia](https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF) | [Agora](https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6) | 2:33 |
 | 49 | [O Mentiroso](https://open.spotify.com/track/3KSReOYmcUz4KeJhSsPed7) | [Rainhas da Farra](https://open.spotify.com/artist/0AEVIV7men6BB9fGD9qNd1) | [Na Ilha](https://open.spotify.com/album/3mIHXqJObDc7wRTstVTmJh) | 3:01 |
 | 50 | [Te Quero Eternamente](https://open.spotify.com/track/21pfVjpRcAXdCKnKsQoZtB) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia Fellipe Metalizada](https://open.spotify.com/album/3ZF1YPToWlPIx0lUFiymZl) | 3:03 |
 
-Snapshot ID: `MCwxY2MzNGQyMzFjOTNiN2M1Mjc5NTMzNjliNzkwNGRmMmRkYThlNjky`
+Snapshot ID: `MCw1M2M5Mjk5ZDkzZThjNWE0MTk1ZWRlMTZiYzQ1YjViMTE3NzJmMmI4`

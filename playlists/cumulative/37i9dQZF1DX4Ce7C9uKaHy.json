@@ -2048,10 +2048,32 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 105195,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/5gZfn1HnYbWr1QyP030wEa"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/3z38q3lhXlar2XE9vUsxok"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105064,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/0TQNEKRbFh6EYQYiKQie4T"
     },
     {
       "album": {

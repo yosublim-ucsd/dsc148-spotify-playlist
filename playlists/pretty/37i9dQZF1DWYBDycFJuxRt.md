@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Galileo Galilei \*👉 <a href="https://spice.eplus.jp/articles/318754?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,308 likes - 79 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,323 likes - 79 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 33 | [I am here](https://open.spotify.com/track/3oY94FnUoK5sSVyExSFZDa) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [I am here](https://open.spotify.com/album/2T7x92ijvQLOaK7IUeP6Ar) | 3:23 |
 | 34 | [Monster 1](https://open.spotify.com/track/7DRpF8gLkdWJ01S29MVaOa) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [サウンドトラック『怪物』](https://open.spotify.com/album/7CwBDue4LjmnZGLbgtX5fV) | 3:56 |
 | 35 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 |
-| 36 | [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 |
+| 36 | [Open The Door, See What You Find](https://open.spotify.com/track/1Ks53o54WS8LzbwyEG56ds) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:07 |
 | 37 | [The Teacher](https://open.spotify.com/track/4GPdQsRCRCidGgmCsK9I4a) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Teacher](https://open.spotify.com/album/0YjlWM6aXSeonMaInO1kOM) | 10:04 |
 | 38 | [窓](https://open.spotify.com/track/4Z3RZPhUHiIm0l1Ik5FsTv) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [窓](https://open.spotify.com/album/6YPj1GIWzuiDIoQnFaUyYP) | 4:16 |
 | 39 | [天使のキス](https://open.spotify.com/track/0BPqXMCGVxCIcBo7WPjOzj) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [天使のキス](https://open.spotify.com/album/3lt2LRlBbR6N0OuRSpCuz4) | 3:00 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [dawn break](https://open.spotify.com/track/26e7gjbVjxjWBnucSOJ66X) | [periwinkles](https://open.spotify.com/artist/40iKR3QciuMqwtQyd50Q71) | [dawn break](https://open.spotify.com/album/1JEVV143Zg0HX5eEHFCGsc) | 2:36 |
 | 79 | [透明少女 \- 4 / LIVE](https://open.spotify.com/track/4w7NG7srCNipghjLJxvUhK) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [NUMBER GIRL 無常の日 \(LIVE\)](https://open.spotify.com/album/53SM7JmehI9uYICKm1Z4Qu) | 3:47 |
 
-Snapshot ID: `MCwxYzk1MjJiMjAyYjdkMDExYjRhYjY5NTMyZmQxN2I3NGU1OWRlM2Vh`
+Snapshot ID: `MCw3MmU2YTRjZGMxOTdjNWUyYzJjMWFiOGVhNTg3ZmNjNGU1MTE3YzFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,464 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,564 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 5 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 |
 | 6 | [Carnavoyeur](https://open.spotify.com/track/11VOYtYJ0Bstb7QOCDDs5e) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Carnavoyeur](https://open.spotify.com/album/2UB1sEIK8wEhikbkcsIcIn) | 3:56 |
 | 7 | [Show Me My Maker](https://open.spotify.com/track/7gbI3OM7q2nKCAjlTfuTGD) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [The Perfume of Decay](https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y) | 3:40 |
-| 8 | [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 |
+| 8 | [Open The Door, See What You Find](https://open.spotify.com/track/1Ks53o54WS8LzbwyEG56ds) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:07 |
 | 9 | [Keep It Rolling](https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Keep It Rolling](https://open.spotify.com/album/2YIfWZjgVJWrrSTZJot3Mp) | 2:50 |
 | 10 | [over now](https://open.spotify.com/track/7fBre9lJfuG40HU2NLoCt8) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [duality](https://open.spotify.com/album/0YpkjYPstGWDkffW3SL9mQ) | 3:06 |
 | 11 | [Bright Light](https://open.spotify.com/track/7wXJBljsXeoWnq4ziW6sfB) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [DARKFIGHTER](https://open.spotify.com/album/5drsoG7zv1wwOSnKBnW2EZ) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Cats \(Not The Musical\)](https://open.spotify.com/track/6VjTBUdQS6CPwmFeIMtBUb) | [Feale](https://open.spotify.com/artist/1ZxOC2uaCSxUiRtAcEVzc2) | [Indoor Activities](https://open.spotify.com/album/4GXJkEPwG65tf7kdOapEIo) | 4:23 |
 | 50 | [Clever Girl](https://open.spotify.com/track/1PyXhPgECarpISE31xvOLi) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Clever Girl](https://open.spotify.com/album/5h5DO6f9Ql9BEX0r0d1EZb) | 2:24 |
 
-Snapshot ID: `MCwwNDg4YzNkZGE3YzJkNGEyMmQzOWYwMjBlZDRiZDEwMmY4NmFjYzcz`
+Snapshot ID: `MCw5OTczODAyOGNkMWQ4OTA2NDJmMDk4YTY5OWQwOTc5YzFiMWUzYTNh`

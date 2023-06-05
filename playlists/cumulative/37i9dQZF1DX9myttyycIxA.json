@@ -3177,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "Brain Worms",
+        "url": "https://open.spotify.com/album/5qAcUPxM27DFP7xvO4nHho"
+      },
+      "artists": [
+        {
+          "name": "RVG",
+          "url": "https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200917,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/23gYrvF0ebJIV6fwg3DbD3"
+    },
+    {
+      "album": {
         "name": "Common Ground",
         "url": "https://open.spotify.com/album/6oCuQoZRzSuRgBrMEfOemR"
       },
@@ -3188,7 +3206,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 200917,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/6KHwl6cpYdhHTcfhtvhw4h"

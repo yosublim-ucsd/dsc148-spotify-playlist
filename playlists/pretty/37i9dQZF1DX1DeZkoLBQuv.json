@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6010,
+  "num_followers": 6009,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGNmMWU5Zjk1MDI4ODlkMDc0ODBkNWUxNWU1OWE0Y2RlMjZhODVm",
+  "snapshot_id": "MCxiNGY3NWE1ZmVkODMyZDRlODBjNTkwZjBhYzMyZmVjMDk0OGRiNjVh",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
-        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
-      },
-      "artists": [
-        {
-          "name": "Ellas",
-          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
-        }
-      ],
-      "duration_ms": 218314,
-      "name": "Vem Cear",
-      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Celebrando o Natal",
         "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 210372,
       "name": "Dai Louvores ao Rei",
       "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
+        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
+      },
+      "artists": [
+        {
+          "name": "Ellas",
+          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
+        }
+      ],
+      "duration_ms": 218314,
+      "name": "Vem Cear",
+      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
     },
     {
       "added_at": "2022-12-09 06:26:14",

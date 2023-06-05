@@ -4,7 +4,7 @@
 
 > Fancy belting out your favourite Korean songs? \(Cover: Tei\(테이\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-258 songs - 16 hr 52 min
+259 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [그대 없는 밤에](https://open.spotify.com/track/2TUJCx6yTKeMfo7Vw29R3V) | [H:CODE](https://open.spotify.com/artist/3wi60BA6UhRuaNc1Dj548w), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [네 번째 이야기](https://open.spotify.com/album/5l5mvQkue0o4SJARSYJU0G) | 4:59 | 2022-02-17 |  |
 | [까만 안경](https://open.spotify.com/track/0IPZBKJ5PfYR2y7nmCMDIb) | [Eru](https://open.spotify.com/artist/3mifQJuBZSvh5KRwRptZO0) | [SBS Archive K \- K\-POP](https://open.spotify.com/album/0wQi0RmbvIZIEkLDjjE5x5) | 3:52 | 2022-02-17 |  |
 | [꿈속에 너](https://open.spotify.com/track/79w8z28yTXmAvC7L7grLux) | [H:CODE](https://open.spotify.com/artist/3wi60BA6UhRuaNc1Dj548w), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [두 번째 이야기](https://open.spotify.com/album/2R2jo2dkMi4TFyBvSOFAj1) | 4:11 | 2022-02-17 |  |
-| [나에게로의 초대 \(이상한 나라의 앨리스, 하트다 하트여왕\)](https://open.spotify.com/track/0OJK94VxU23n0pnc6R9vbR) | [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW), [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Mask Singer 89th \(Live Version\)](https://open.spotify.com/album/4dGCjv53KvBnD5Qt5oROhk) | 4:06 | 2022-02-17 |  |
+| [나에게로의 초대 \(이상한 나라의 앨리스, 하트다 하트여왕\)](https://open.spotify.com/track/0OJK94VxU23n0pnc6R9vbR) | [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW), [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Mask Singer 89th \(Live Version\)](https://open.spotify.com/album/4dGCjv53KvBnD5Qt5oROhk) | 4:06 | 2022-02-17 | 2023-06-05 |
+| [나에게로의 초대 \(이상한 나라의 앨리스, 하트다 하트여왕\)](https://open.spotify.com/track/36T8e5FIQmZi5YfQxMD5N6) | [조유진\(체리필터\)](https://open.spotify.com/artist/5KS8h7iTuXp0akGRxQR4Lp), [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Mask Singer 89th \(Live Version\)](https://open.spotify.com/album/1ENEUEoePVttOplQtndCih) | 4:06 | 2023-02-16 |  |
 | [내가 저지른 사랑](https://open.spotify.com/track/6s5QnuRQq0ANOo1pkz7mJv) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/6Z2EMjSuDFt6BHXgn479zw) | 3:58 | 2022-02-17 | 2022-07-29 |
 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 | 2022-02-23 |  |
 | [눈,코,입\(Eyes, Noes, Lips\)](https://open.spotify.com/track/2orE4MtP5Oy0ynoA1KkF3t) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/27XDcBXIllsjdrwMoOM5Wm) | 3:49 | 2021-03-11 | 2022-02-18 |

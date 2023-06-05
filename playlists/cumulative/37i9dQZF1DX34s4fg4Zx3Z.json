@@ -3388,7 +3388,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 248115,
       "name": "Ch\u1eb3ng B\u1eadn L\u00f2ng N\u1eefa",
       "url": "https://open.spotify.com/track/7Fd5uwiYKLpH954hKHCr7I"
@@ -7056,7 +7056,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 232615,
       "name": "G\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/2TyQWAOJjGSoCzgM7iVwWi"
@@ -8275,6 +8275,28 @@
     },
     {
       "album": {
+        "name": "Khi\u00eau V\u0169 C\u00f9ng Anh (feat. Harthier)",
+        "url": "https://open.spotify.com/album/4HsAKjurK6vQgpXXABOXQy"
+      },
+      "artists": [
+        {
+          "name": "Vang",
+          "url": "https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW"
+        },
+        {
+          "name": "Harthier",
+          "url": "https://open.spotify.com/artist/0txRoD6T3cSvmKaMhKiclV"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267750,
+      "name": "Khi\u00eau V\u0169 C\u00f9ng Anh (feat. Harthier)",
+      "url": "https://open.spotify.com/track/3u0Ne0ZKViz26Lel4Yv4i8"
+    },
+    {
+      "album": {
         "name": "Kh\u00f3 th\u1edf Cypher",
         "url": "https://open.spotify.com/album/1uw8EeMoTj8kuff5V613lt"
       },
@@ -9432,7 +9454,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 346494,
       "name": "L\u01b0u Luy\u1ebfn Sau Chia Tay",
       "url": "https://open.spotify.com/track/71398AheJhGijFhdfSAJ0D"
@@ -9462,6 +9484,32 @@
       "duration_ms": 160000,
       "name": "L\u01b0\u1edbt",
       "url": "https://open.spotify.com/track/1lRej5GYb8SahBRQBCyizC"
+    },
+    {
+      "album": {
+        "name": "L\u01b0\u1edbt",
+        "url": "https://open.spotify.com/album/5HLErQyoDMNGWp8Q1RfUC2"
+      },
+      "artists": [
+        {
+          "name": "J Jade",
+          "url": "https://open.spotify.com/artist/2y83sgdSt6FCvmGdaxnKPj"
+        },
+        {
+          "name": "Dreamble",
+          "url": "https://open.spotify.com/artist/40LcVp5GuVavx3sKcsATKx"
+        },
+        {
+          "name": "Tony D.",
+          "url": "https://open.spotify.com/artist/0XqppHVqDhLwMDOUmE4rRK"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211578,
+      "name": "L\u01b0\u1edbt",
+      "url": "https://open.spotify.com/track/6BZeU683OYv1Gw516mqsLs"
     },
     {
       "album": {
@@ -11532,6 +11580,24 @@
       "duration_ms": 212500,
       "name": "Ng\u01b0\u1eddi \u0110\u00e2u M\u1ea5t R\u1ed3i",
       "url": "https://open.spotify.com/track/0F68GIAn1wZ60atjV4inV3"
+    },
+    {
+      "album": {
+        "name": "Ng\u01b0\u1ee3c d\u00f2ng tr\u00e1i tim",
+        "url": "https://open.spotify.com/album/3vxjUA66xlcaSMcXvLzM1E"
+      },
+      "artists": [
+        {
+          "name": "Nguy\u1ec5n An An",
+          "url": "https://open.spotify.com/artist/2puIKOUCxCPzoesLuPBy1f"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320701,
+      "name": "Ng\u01b0\u1ee3c d\u00f2ng tr\u00e1i tim",
+      "url": "https://open.spotify.com/track/1Fa9yHWH9EAjsKuYD6KkRv"
     },
     {
       "album": {

@@ -1506,6 +1506,42 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108480,
+      "name": "The Afterlife, Pt. 1",
+      "url": "https://open.spotify.com/track/34N10CgvlD72zNU0WP5ygC"
+    },
+    {
+      "album": {
+        "name": "The Afterlife",
+        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352197,
+      "name": "The Afterlife, Pt. 2",
+      "url": "https://open.spotify.com/track/5GQmLF1yvOo9B5e3T78DbG"
+    },
+    {
+      "album": {
+        "name": "The Afterlife",
+        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
       "date_removed": null,

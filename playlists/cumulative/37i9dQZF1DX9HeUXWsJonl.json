@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 242040,
       "name": "7elma",
       "url": "https://open.spotify.com/track/0BQ88yi1T6GEVgqPB6Q0nb"
@@ -724,6 +724,24 @@
       "duration_ms": 205812,
       "name": "Denya Bkhout - \u062f\u0646\u064a\u0627 \u0628\u062e\u0648\u062a",
       "url": "https://open.spotify.com/track/7vA7XKOXZcVVAwYw9d1ZYc"
+    },
+    {
+      "album": {
+        "name": "Dima Mechi (\u062f\u064a\u0645\u0627 \u0645\u0627\u0634\u064a)",
+        "url": "https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5"
+      },
+      "artists": [
+        {
+          "name": "Balti",
+          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285753,
+      "name": "Dima Mechi",
+      "url": "https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI"
     },
     {
       "album": {

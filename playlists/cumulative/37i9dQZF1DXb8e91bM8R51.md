@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-331 songs - 18 hr 58 min
+332 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/album/5DYcaafg3wKwL7jAvRRPzC) | 2:44 | 2022-04-22 | 2022-07-29 |
 | [Ain’t No Fun](https://open.spotify.com/track/7hUpFUXJsDXMKopFz3Q2AP) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Ain’t No Fun](https://open.spotify.com/album/3dJ5oJaFMMsIsBz1nU4wk6) | 2:27 | 2022-04-08 | 2022-08-30 |
 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 | 2022-10-28 |  |
+| [All Good?](https://open.spotify.com/track/6Epbp3MOBM6UnFHyJokEAI) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Art Official Intelligence: Mosaic Thump](https://open.spotify.com/album/4SdFt1Q5HSQIk4lxPgjaPM) | 4:59 | 2023-04-21 |  |
 | [All I Really Wanted](https://open.spotify.com/track/3tngIQDw2KP61hiLrR3oHU) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [All I Really Wanted](https://open.spotify.com/album/0b201G6KYDumbCiLW3FOXo) | 3:11 | 2022-09-09 | 2022-10-01 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2022-01-14 | 2022-03-05 |
 | [AMERICAN HORROR STORY](https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [AMERICAN HORROR STORY](https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR) | 5:09 | 2022-01-14 | 2022-07-29 |
@@ -190,7 +191,7 @@
 | [Manifestin \- Nottz Remix](https://open.spotify.com/track/7jDwcBmNaPB3YefRpQQdB9) | [Nottz](https://open.spotify.com/artist/1iGcDQbhw4Slu7bygkuV2T), [Wildchild](https://open.spotify.com/artist/0tHPntFCJ48YjmDZ8utweA), [The Soulyghost](https://open.spotify.com/artist/5I0MlK68aOYfPGsIdmBrIr) | [Manifestin](https://open.spotify.com/album/3zeO4QfB9Ar33jSXIlDzvf) | 2:32 | 2022-07-08 | 2022-07-29 |
 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 | 2022-12-23 |  |
 | [Mathematics](https://open.spotify.com/track/32W1K50AaXGXoRBn3Zyax4) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/4jZI8SruF5N6sKJoWItEhl) | 4:06 | 2022-03-25 | 2022-04-20 |
-| [Me Myself and I](https://open.spotify.com/track/60nAGisfgCfnggF6PxKMej) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/4ORoATQVXNVVYIT6x03pXL) | 3:49 | 2023-03-03 |  |
+| [Me Myself and I](https://open.spotify.com/track/60nAGisfgCfnggF6PxKMej) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/4ORoATQVXNVVYIT6x03pXL) | 3:49 | 2023-03-03 | 2023-06-05 |
 | [Menace](https://open.spotify.com/track/1xX6wr2lEHsDmR72AFN0Hx) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Menace](https://open.spotify.com/album/3NHMwyxXdUe3TiIu9CNtWg) | 3:49 | 2022-07-01 | 2022-09-03 |
 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 | 2022-11-11 |  |
 | [Microphone Master](https://open.spotify.com/track/4HBjg3KAkjoHZFWQL6STl5) | [Das EFX](https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG) | [Hold It Down](https://open.spotify.com/album/2t70lfxoIbKZHKFKN9ZnqE) | 4:31 | 2022-03-25 | 2022-04-21 |

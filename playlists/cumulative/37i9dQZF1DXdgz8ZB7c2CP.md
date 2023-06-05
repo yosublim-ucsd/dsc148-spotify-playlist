@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring pluko
 
-455 songs - 1 day 1 hr 13 min
+456 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [April \(Eyes\)](https://open.spotify.com/track/2KaM0vJC3mpraNUjDmjr0C) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [APRIL \(EYES\)](https://open.spotify.com/album/7p24hLtyoSdmLHHFnr6Uft) | 2:08 | 2023-02-16 |  |
 | [ASTRAL](https://open.spotify.com/track/4xZs3f8uEyKtvuwlsQGGne) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [ASTRAL](https://open.spotify.com/album/1U5SnFdvdDd2ZyPwWgchUx) | 3:28 | 2021-08-06 | 2023-02-01 |
 | [Autonomy](https://open.spotify.com/track/7ElgaUtGnr2HXJZSKfnhhO) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [Autonomy](https://open.spotify.com/album/6uO71Hk90IZluW6RxELq06) | 3:03 | 2021-08-06 | 2022-07-28 |
+| [Back Now](https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [Back Now](https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO) | 3:42 | 2023-06-02 |  |
 | [BACK ONLINE](https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [BACK ONLINE](https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j) | 3:37 | 2023-02-24 |  |
 | [BACK TO YOU](https://open.spotify.com/track/1IfDTqoOrm5kABJcYBaxX7) | [STVSH](https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI) | [BACK TO YOU](https://open.spotify.com/album/4BLsLiYupqYFCs0L6UkIkb) | 3:18 | 2023-05-12 | 2023-05-20 |
 | [BART SIMPSON](https://open.spotify.com/track/6Lnn80jSi8L5bMSUMcGG2V) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [BART SIMPSON](https://open.spotify.com/album/1Iz7rzKWbyqpYka6vUXnFP) | 3:47 | 2023-05-12 |  |
@@ -220,7 +221,7 @@
 | [Intrastellar](https://open.spotify.com/track/2xvnpwPX8JTysO083rju7y) | [thomfjord](https://open.spotify.com/artist/4HozTjFfieqgVzmsn5CK5a) | [Intrastellar EP](https://open.spotify.com/album/5UVbYO6W3Pfoa8HRaqOalI) | 5:21 | 2021-08-06 | 2023-02-11 |
 | [Ironheart \- Polar Youth Remix](https://open.spotify.com/track/4rBYV0MKhwAag98L13goF0) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5), [Polar Youth](https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ) | [Ironheart \(Polar Youth Remix\)](https://open.spotify.com/album/19cjBBZTh2IX7yBnhRDcqB) | 2:39 | 2023-02-19 |  |
 | [IT HURTS!](https://open.spotify.com/track/68PJWzJj2utbLBErEt7THk) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [IT HURTS!](https://open.spotify.com/album/45HOGzVjjJojLyOMvCqDD5) | 3:48 | 2021-08-06 | 2022-07-29 |
-| [It's Our Destiny \- Nitepunk Remix](https://open.spotify.com/track/4Az8fdFVrwfCzQ4XweZTC1) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [It's Our Destiny \(Nitepunk Remix\)](https://open.spotify.com/album/3VweodPoEDWKlREBDJ2Bk5) | 2:54 | 2023-04-09 |  |
+| [It's Our Destiny \- Nitepunk Remix](https://open.spotify.com/track/4Az8fdFVrwfCzQ4XweZTC1) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [It's Our Destiny \(Nitepunk Remix\)](https://open.spotify.com/album/3VweodPoEDWKlREBDJ2Bk5) | 2:54 | 2023-04-09 | 2023-06-05 |
 | [JIYO](https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w) | [JIYO](https://open.spotify.com/album/3J5KcU7pzOFvTvGn9JQTgD) | 4:07 | 2023-03-03 |  |
 | [Kaleidoscope \(Me&U\)](https://open.spotify.com/track/6T5BzQTQzr7JQkPUVlbbLL) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Alexander Lewis](https://open.spotify.com/artist/1XwAo9UCt90soyw5V7U6LV) | [Kaleidoscope \(Me&U\)](https://open.spotify.com/album/2TNaumC6KtDTgt80bdY3n5) | 2:50 | 2022-12-21 | 2023-05-13 |
 | [KARMA](https://open.spotify.com/track/0Hxg817iDRgOgizgY8G0j1) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [KARMA](https://open.spotify.com/album/4Jr5o5eaXLhVSucvED6QA4) | 2:29 | 2021-08-06 | 2022-07-21 |

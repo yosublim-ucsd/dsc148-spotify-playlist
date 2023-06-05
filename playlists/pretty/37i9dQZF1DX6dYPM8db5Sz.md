@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="http://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi">Teagan Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,133 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,155 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [Queen of Nothing \- Radio Remix](https://open.spotify.com/track/3iiLonHxGPxgSGkzYdez37) | [Tuelo](https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi) | [AM/FM](https://open.spotify.com/album/37c3d2zBC43BVUTodE178f) | 3:27 |
 | 100 | [Standing In Our Way \- Edit](https://open.spotify.com/track/5LLnCilV4qlbYRFuNGYljJ) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Standing In Our Way \(Edit\)](https://open.spotify.com/album/4B7BKQ4tJ04f8avFQqek4A) | 3:25 |
 
-Snapshot ID: `MCxlMDFiMmZmOTYwOWIxYTM4YmJkNDkwMGRiMzUyOTE4ZDVhYjQ4OWVm`
+Snapshot ID: `MCw5OThlZjMxY2MyZjQ1NTE4NTUwN2E0NTMwYjQwNDYwY2RkYjMzMTcy`

@@ -936,10 +936,32 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 224813,
       "name": "Devil Came Down the Dance Floor (feat. Amber Martin)",
       "url": "https://open.spotify.com/track/0oOqx0hphAQLKu2Xa5C0G2"
+    },
+    {
+      "album": {
+        "name": "Last Man Dancing",
+        "url": "https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2"
+      },
+      "artists": [
+        {
+          "name": "Jake Shears",
+          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
+        },
+        {
+          "name": "Amber Martin",
+          "url": "https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224813,
+      "name": "Devil Came Down the Dance Floor (feat. Amber Martin)",
+      "url": "https://open.spotify.com/track/4ALsOjwCdniiryLJVMWVGo"
     },
     {
       "album": {

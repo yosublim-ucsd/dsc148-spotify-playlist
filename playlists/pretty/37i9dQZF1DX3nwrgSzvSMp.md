@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 
 > Un viaje musical por nuestras raíces prehispánicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,057 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,065 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 | 18 | [Xochipitzahua / Flor Menudita \(A Guitarra y Zampoña Desde Casa\)](https://open.spotify.com/track/5dAalqBNmHi3qNeAfHeKfQ) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx) | [Xochipitzahua / Flor Menudita \(A Guitarra y Zampoña Desde Casa\)](https://open.spotify.com/album/4lnCOgwtCf98BetdUh3DeP) | 2:40 |
 | 19 | [Nightingale\. Music for the Moon and Stars.](https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe) | [Xavier Quijas Yxayotl](https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f) | [Codex \- Music of Ancient Mexico](https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl) | 3:47 |
 | 20 | [Feast In the Mountain](https://open.spotify.com/track/11sAlVf9tnf4A1JfUuPGas) | [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV) | [Prehispanic Music](https://open.spotify.com/album/0wYjSe3KWirJC0F1OPNu3A) | 2:52 |
-| 21 | [Adoración al Sol](https://open.spotify.com/track/1OcgHJbbOBEUnClHaIcTjf) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 2:17 |
+| 21 | [Ritual Consagrado a los Dioses](https://open.spotify.com/track/5nA2Us56gdVsctPVi9k5nB) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:35 |
 | 22 | [Chumeltic](https://open.spotify.com/track/14QgWzTRoEyXSuvyFHVomT) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Chiapas](https://open.spotify.com/album/2zGxrCmiEv2mCfGFRkDH1g) | 1:28 |
 | 23 | [Copal Offering To The Four Directions](https://open.spotify.com/track/5iH1bBa3WRWuVeMvn0jR2M) | [Xavier Quijas Yxayotl](https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f) | [Aztec Dances](https://open.spotify.com/album/19Ae9UiDrpjn15PFMKN1bd) | 4:43 |
 | 24 | [Tlazolteotl](https://open.spotify.com/track/5PyRkSx7BtEgUwhn7Ty2DX) | [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV) | [Rituales Prehispanicos \(Prehispanic Rituals\)\[Mexican Music\]](https://open.spotify.com/album/4UZi4TB1686JKiKdoegwhY) | 3:34 |
-| 25 | [Ritual Consagrado a los Dioses](https://open.spotify.com/track/5nA2Us56gdVsctPVi9k5nB) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:35 |
+| 25 | [Adoración al Sol](https://open.spotify.com/track/1OcgHJbbOBEUnClHaIcTjf) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 2:17 |
 | 26 | [Festival de Xochipilli](https://open.spotify.com/track/1HVW1yYAqFf1M8C3aUfTpt) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:22 |
 | 27 | [Danza de los Concheros](https://open.spotify.com/track/6DHxuMSkjuwd8L6cMPVgrQ) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:38 |
 | 28 | [Al Señor Cuauhtemoc](https://open.spotify.com/track/3UYKQp8Ty7HaAxXe8ZDGAc) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 3:01 |
 | 29 | [Ofrenda a Huitzilopoxtli](https://open.spotify.com/track/5tJWeSXyV9qzCbIPkKcrBh) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:16 |
 | 30 | [Ritual Consagrado a los Dioses](https://open.spotify.com/track/5rvaAQ4KccKBQX3DgW5z8T) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 2:33 |
 
-Snapshot ID: `MCw4YjJlMjg4YzgyOTgzOWNlZDZmNjQ4ZDcwNDQwZmZmNzlkMGQ3MWVl`
+Snapshot ID: `MCwxMGNhZDEzMDE0NTJiMDFhYzhmOGQzNDM1MTM4ZDMzN2UwYTI1MTQ1`

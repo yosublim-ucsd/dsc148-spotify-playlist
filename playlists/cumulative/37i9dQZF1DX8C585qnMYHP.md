@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Fuensanta on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-1,376 songs - 4 day 14 hr 52 min
+1,377 songs - 4 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [Brocken Spectre](https://open.spotify.com/track/0sVnurzgsckFEdiljNatS5) | [Kyle Bates](https://open.spotify.com/artist/5A79xNAfw6aCoRTxNeMesX), [Lula Asplund](https://open.spotify.com/artist/67qOAXoEJlaCzf1ZhNvFyo) | [A Matinee](https://open.spotify.com/album/6YdP6jq3BIa0hz1bhtJazy) | 13:42 | 2023-05-24 |  |
 | [Broken Theme](https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ) | [Chrome Canyon](https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T) | [Director](https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL) | 2:09 | 2022-02-16 | 2023-01-12 |
 | [Broken Theme](https://open.spotify.com/track/4YQvrMd01q1N4OLGuhnucA) | [Chrome Canyon](https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T) | [Broken Theme](https://open.spotify.com/album/1VwRYKT7n1MF8xrSUH0XAX) | 2:09 | 2022-01-19 | 2022-03-31 |
-| [Brooksville Trestle Remains](https://open.spotify.com/track/61pOb45IG8zhZ31iRmIDAD) | [Old Saw](https://open.spotify.com/artist/5dfhzKkqasnpQRiZiUGIus) | [Sewn the Name](https://open.spotify.com/album/2cDew1xZNETYBMaXDuVah4) | 7:14 | 2023-04-05 |  |
+| [Brooksville Trestle Remains](https://open.spotify.com/track/0XCo3H0hJHWpxzvCQMLGLT) | [Old Saw](https://open.spotify.com/artist/5dfhzKkqasnpQRiZiUGIus) | [Sewn the Name](https://open.spotify.com/album/4EGWzISFEmZflREtNKzTBI) | 7:14 | 2023-04-05 |  |
+| [Brooksville Trestle Remains](https://open.spotify.com/track/61pOb45IG8zhZ31iRmIDAD) | [Old Saw](https://open.spotify.com/artist/5dfhzKkqasnpQRiZiUGIus) | [Sewn the Name](https://open.spotify.com/album/2cDew1xZNETYBMaXDuVah4) | 7:14 | 2023-04-05 | 2023-06-05 |
 | [Brushstroke](https://open.spotify.com/track/6zpDAl2ljLUfUzb1zworYB) | [Matt LaJoie](https://open.spotify.com/artist/56VvcTr0tIhh0jinmqK35j) | [On Garudan Wing](https://open.spotify.com/album/4fwN78TBOSz6CkhXnVsEq6) | 6:24 | 2023-05-17 |  |
 | [Bubbles](https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8) | [Szymon Burnos](https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu) | [Bubbles](https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb) | 4:26 | 2023-03-29 |  |
 | [Buffering Proem](https://open.spotify.com/track/44YwWHyKWwNgiTMifkfaSl) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Ze in the Clouds](https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf) | [Oportet 475](https://open.spotify.com/album/3fdEVibDOZlEGVIBBs4YxK) | 3:05 | 2023-02-01 | 2023-03-23 |

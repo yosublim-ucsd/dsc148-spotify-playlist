@@ -12310,7 +12310,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 123581,
       "name": "bookmark",
       "url": "https://open.spotify.com/track/5SYXDXkDnkIzdVjwtCw5J9"
@@ -69846,7 +69846,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 127247,
       "name": "Oleka",
       "url": "https://open.spotify.com/track/4wgF1CQfY50nsOFAlVWRrZ"
@@ -85814,7 +85814,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 143773,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/611sqq1ogKBrXyK4qq9get"
@@ -95614,6 +95614,32 @@
       "duration_ms": 124235,
       "name": "Tender",
       "url": "https://open.spotify.com/track/3kgKrKOsxnihvjpemJIvy3"
+    },
+    {
+      "album": {
+        "name": "Tender Mind",
+        "url": "https://open.spotify.com/album/2TEZN8nwRNnom7KG3xc3hP"
+      },
+      "artists": [
+        {
+          "name": "lukayo",
+          "url": "https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1"
+        },
+        {
+          "name": "LW Beats",
+          "url": "https://open.spotify.com/artist/2pZgcPhuBA3i0OVDj9Aog3"
+        },
+        {
+          "name": "\u00d8NEMOR3",
+          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113250,
+      "name": "Tender Mind",
+      "url": "https://open.spotify.com/track/04DplA83rbqQVqWjPFYSpC"
     },
     {
       "album": {

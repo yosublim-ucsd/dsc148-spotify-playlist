@@ -4,7 +4,7 @@
 
 > All of the nominees in one playlist! More info on this year's event can be found at <a href="http://www.stellarawards.com">stellarawards.com</a>.
 
-70 songs - 5 hr 51 min
+71 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [The Gathering \- Single Version](https://open.spotify.com/track/3CjacuJd1SEabnt0MkE0Jr) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/57fiO76hcLID1214nGxUoQ) | 3:57 | 2020-09-08 |  |
 | [The Greatest](https://open.spotify.com/track/6sYEL144ROUzl6naTmgIPk) | [Lawrence Hancock](https://open.spotify.com/artist/6UD4FlKheqYI40jvwZavH8) | [Nothings Too Hard](https://open.spotify.com/album/4g8S3RrzlnweH4PGwhK5Wi) | 3:34 | 2020-09-08 |  |
 | [This Is A Move \- Live](https://open.spotify.com/track/0XBCRHZQUqZwcYFEYhlD3Q) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Black History Month: Gospel](https://open.spotify.com/album/6skBirPP2i1IJawDIUWcc3) | 7:25 | 2020-09-08 | 2022-11-13 |
-| [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 | 2020-09-08 |  |
+| [This Is A Move \- Live](https://open.spotify.com/track/3KK5R3usd3gMn6rLcKH2uz) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 7:25 | 2020-09-08 |  |
+| [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 | 2020-09-08 | 2023-06-05 |
 | [This Song Is For You](https://open.spotify.com/track/4cKSMzHekMrx5FRt0dMLuP) | [Earl Bynum](https://open.spotify.com/artist/4C9dbX6kuuTvpimJiXtIMU) | [This Song Is For You](https://open.spotify.com/album/7bl5lMw5EC80RR5I1j2nti) | 4:32 | 2020-09-08 |  |
 | [Victory Belongs To Jesus \(Live from Africa\)](https://open.spotify.com/track/2LyIx3Kr9IKC7kRuxd5S5R) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Lebohang Kgapola](https://open.spotify.com/artist/64gr8IARvawYhEWBUcXur2) | [To Africa With Love \(Live\)](https://open.spotify.com/album/647EkgXEqY5Ywbf2W1DQ4H) | 9:52 | 2020-09-08 |  |
 | [We Are Soldiers in the Army](https://open.spotify.com/track/4CU4El1YbvC4MWdtjdZmuo) | [Gospel Kids](https://open.spotify.com/artist/5MFX3lSx7yGhxAXa0kP1Pi) | [Gospel Kids Present Christian Soldiers](https://open.spotify.com/album/5jqvgr1T0jqV7QgGxaKUNm) | 3:04 | 2020-09-08 |  |

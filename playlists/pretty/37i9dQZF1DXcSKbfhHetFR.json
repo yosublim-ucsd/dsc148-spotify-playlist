@@ -1,29 +1,13 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 8409,
+  "num_followers": 8416,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWUxNzdmMDA5MTI2MTBlNTYzYzdjZTI1OGRlMjUxZTgwNjM0NDll",
+  "snapshot_id": "MCw1Njc4MDhmZDUzOTdhYjdiM2VlODI1Mjc1NmRjZTYwZWFiMDk4YjQ0",
   "tracks": [
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Okoum\u00e9",
-        "url": "https://open.spotify.com/album/2Gj5sfPTzxGBXbFH9DjyVn"
-      },
-      "artists": [
-        {
-          "name": "Okoum\u00e9",
-          "url": "https://open.spotify.com/artist/2GmkaEeE31sBXm7HPeO43M"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Dis-moi pas \u00e7a",
-      "url": "https://open.spotify.com/track/3v9aoyKNPznNmB9nEmzjie"
-    },
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 149346,
       "name": "Hawaiienne",
       "url": "https://open.spotify.com/track/0BUD8MCnamel6skM7YCSJJ"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Okoum\u00e9",
+        "url": "https://open.spotify.com/album/2Gj5sfPTzxGBXbFH9DjyVn"
+      },
+      "artists": [
+        {
+          "name": "Okoum\u00e9",
+          "url": "https://open.spotify.com/artist/2GmkaEeE31sBXm7HPeO43M"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Dis-moi pas \u00e7a",
+      "url": "https://open.spotify.com/track/3v9aoyKNPznNmB9nEmzjie"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le Nombre",
-        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
-      },
-      "artists": [
-        {
-          "name": "Le Nombre",
-          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Laissez venir \u00e0 moi les grandes brunes",
-      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "l'amour la haine les animaux les automobiles",
         "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 188800,
       "name": "Gwen et les rats",
       "url": "https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le Nombre",
+        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
+      },
+      "artists": [
+        {
+          "name": "Le Nombre",
+          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Laissez venir \u00e0 moi les grandes brunes",
+      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
     },
     {
       "added_at": "2020-06-23 14:47:30",

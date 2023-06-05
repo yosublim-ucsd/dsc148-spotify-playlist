@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: DURRY \| Artwork: Jim Klok
 
-967 songs - 2 day 4 hr 41 min
+968 songs - 2 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Crimson to Chrome](https://open.spotify.com/track/7Glc8vWNMAozw6DDK9KMm7) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome](https://open.spotify.com/album/2QzqfzIEOEOsT5edrAyniD) | 3:28 | 2023-03-22 | 2023-04-29 |
 | [Crocodile Tears](https://open.spotify.com/track/1Ogx9hdaApNyMTDLIYLh4L) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Crocodile Tears](https://open.spotify.com/album/50z98bFMiIfpH5ZoTfhTTG) | 4:03 | 2022-03-30 | 2022-06-30 |
 | [Crocodile Tears](https://open.spotify.com/track/6m1VlQPcjfEEBdWniFuhI7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Crocodile Tears](https://open.spotify.com/album/7n0RbDSBuZtgSV4V7pPUWQ) | 4:03 | 2022-11-30 | 2023-01-12 |
-| [Cruel](https://open.spotify.com/track/6ilStGJwy7nzQe2HqKjeik) | [FRANKIIE](https://open.spotify.com/artist/0iZJ9pd8Ld6jzdPYEXegYD) | [Cruel](https://open.spotify.com/album/3QGmQeSXDZn2DvmEcmDVgP) | 3:13 | 2023-05-10 |  |
+| [Cruel](https://open.spotify.com/track/03i4J9UDZWMKhc0Cp5tAGp) | [FRANKIIE](https://open.spotify.com/artist/0iZJ9pd8Ld6jzdPYEXegYD) | [Between Dreams](https://open.spotify.com/album/3GTqMCAw41hLRXwZBiCHlr) | 3:13 | 2023-05-31 |  |
+| [Cruel](https://open.spotify.com/track/6ilStGJwy7nzQe2HqKjeik) | [FRANKIIE](https://open.spotify.com/artist/0iZJ9pd8Ld6jzdPYEXegYD) | [Cruel](https://open.spotify.com/album/3QGmQeSXDZn2DvmEcmDVgP) | 3:13 | 2023-05-10 | 2023-06-05 |
 | [Crumbling](https://open.spotify.com/track/2EJgEVwGWA0tvt3xgDUAOh) | [Sign Language](https://open.spotify.com/artist/3KdIx1AzUI5DQCazdl4yKg) | [Crumbling](https://open.spotify.com/album/5k67HhKmzB4FrsIk7PUkzy) | 3:13 | 2023-04-12 |  |
 | [Crushed](https://open.spotify.com/track/7tQqk7Z3TyyC4QcY0Ie4yf) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Honey, WTF](https://open.spotify.com/album/6Swk35DNkG3MmsdmQXhvQ6) | 3:34 | 2022-01-12 | 2023-01-12 |
 | [crybaby](https://open.spotify.com/track/6hculJA3dWJyUuiTcNPsdr) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [crybaby](https://open.spotify.com/album/0OljtXgcIQL01hqwEqGm6m) | 2:43 | 2023-04-19 | 2023-06-01 |

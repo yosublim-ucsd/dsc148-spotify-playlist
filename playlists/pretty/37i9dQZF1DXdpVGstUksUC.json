@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 509266,
+  "num_followers": 509431,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzdmYTUwYmRmZGU0NzRhZThjYjcwOGJiNmNkNjNjZjc3YjgyODg3",
+  "snapshot_id": "MCw4MzFmN2MzYjkyZjRjODcwMjM4NDY2NjU1ZjkxZjMxYzUyNDYwNThh",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Powertrip",
-        "url": "https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 355973,
-      "name": "Space Lord",
-      "url": "https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Them Crooked Vultures",
         "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 310376,
       "name": "No One Loves Me and Neither Do I",
       "url": "https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Powertrip",
+        "url": "https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 355973,
+      "name": "Space Lord",
+      "url": "https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Ugo",
-        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
-      },
-      "artists": [
-        {
-          "name": "The Dead Pirates",
-          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
-        }
-      ],
-      "duration_ms": 358740,
-      "name": "Ugo",
-      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 267933,
       "name": "Negasonic Teenage Warhead",
       "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Ugo",
+        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+      },
+      "artists": [
+        {
+          "name": "The Dead Pirates",
+          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+        }
+      ],
+      "duration_ms": 358740,
+      "name": "Ugo",
+      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Woodland Rites",
         "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 300226,
       "name": "Let the Devil In",
       "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "GAUPA",
-        "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
-      },
-      "artists": [
-        {
-          "name": "GAUPA",
-          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
-        }
-      ],
-      "duration_ms": 447680,
-      "name": "Febersvan",
-      "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Witch",
         "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 477920,
       "name": "Seer",
       "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "GAUPA",
+        "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
+      },
+      "artists": [
+        {
+          "name": "GAUPA",
+          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
+        }
+      ],
+      "duration_ms": 447680,
+      "name": "Febersvan",
+      "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
+        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 175580,
+      "name": "Boogeyman Blues",
+      "url": "https://open.spotify.com/track/2GC42YDOqiUF329fIVbUxW"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "A Drug Problem That Never Existed",
         "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Diablerie",
-        "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
-      },
-      "artists": [
-        {
-          "name": "Windhand",
-          "url": "https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv"
-        }
-      ],
-      "duration_ms": 320988,
-      "name": "Diablerie",
-      "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "CVI",
         "url": "https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 417720,
       "name": "Parsonz Curse",
       "url": "https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Diablerie",
+        "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
+      },
+      "artists": [
+        {
+          "name": "Windhand",
+          "url": "https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv"
+        }
+      ],
+      "duration_ms": 320988,
+      "name": "Diablerie",
+      "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 332120,
       "name": "Rattle",
       "url": "https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Desert Cold",
-        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
-      },
-      "artists": [
-        {
-          "name": "Snowy Dunes",
-          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
-        }
-      ],
-      "duration_ms": 373133,
-      "name": "Desert Cold",
-      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
     }
   ],
   "unique_name": "Stoner Rock",

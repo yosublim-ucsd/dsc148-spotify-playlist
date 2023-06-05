@@ -1,12 +1,12 @@
 {
   "description": "cute moments in fields and on dancefloors #SpotifyWrapped",
-  "num_followers": 35550,
+  "num_followers": 35709,
   "original_name": "dance tracks we hugged our friends to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjJhMzgyNzY4NmMwNmJhZmVjOGE0MDIzYmE1ZWI0OWUzMTNkMTdk",
+  "snapshot_id": "MCwxYzYxOTg1N2ZhODUzZTU2ZTk4ZGRlOGU5MTZhODU5MDcxZmNjOWFh",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "UUUU",
-        "url": "https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        }
-      ],
-      "duration_ms": 389800,
-      "name": "UUUU",
-      "url": "https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "My Heart Still Leans On You",
         "url": "https://open.spotify.com/album/3QLP5YPGen6T7pnYpb8Gt8"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 287187,
       "name": "My Heart Still Leans On You",
       "url": "https://open.spotify.com/track/7hTcipfBVimzXdYd9ynEbA"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "UUUU",
+        "url": "https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        }
+      ],
+      "duration_ms": 389800,
+      "name": "UUUU",
+      "url": "https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd"
     },
     {
       "added_at": "2022-11-30 13:46:00",

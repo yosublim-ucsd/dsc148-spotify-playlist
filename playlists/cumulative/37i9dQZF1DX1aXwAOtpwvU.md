@@ -2,9 +2,9 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5kH7ZateqBrrUv6u6snhnp">ta Ukrainka</a>
 
-94 songs - 4 hr 43 min
+95 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [mam kogoś lepszego \- Skytech Remix](https://open.spotify.com/track/6cSf2RDQlzZXd2Cdefnp7d) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [mam kogoś lepszego \(Skytech Remix\)](https://open.spotify.com/album/5Pm8jJBgEDWGcNqNe4bAWD) | 2:49 | 2022-09-23 | 2022-11-13 |
 | [Mamacita](https://open.spotify.com/track/7pEwr3iyJdZis2Fh0ILG7l) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs) | [Mamacita](https://open.spotify.com/album/6zmv8HnUVGnYcEEPdkDGOK) | 2:08 | 2022-08-26 |  |
 | [Maria, Maria \(Agora Muzyka Live Sessions\)](https://open.spotify.com/track/6OtpTU9SgpVZbiYBEqkzLD) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Maria, Maria \(Agora Muzyka Live Sessions\)](https://open.spotify.com/album/1sC0Ds8LKQaQFlCJLS9dIs) | 2:57 | 2022-08-26 |  |
-| [Met the God](https://open.spotify.com/track/2ZsDOLES3F0RdAKY4xC7tF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Power](https://open.spotify.com/album/05sLsId1SGFrPDJFf09rrS) | 2:58 | 2022-08-26 |  |
+| [Met the God](https://open.spotify.com/track/2ZsDOLES3F0RdAKY4xC7tF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Power](https://open.spotify.com/album/05sLsId1SGFrPDJFf09rrS) | 2:58 | 2022-08-26 | 2023-06-05 |
 | [Millie Walky](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [Millie Walky](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 | 2023-05-16 |  |
 | [miłosna scena](https://open.spotify.com/track/3TWDGvhUQfuIWT2egjQVo8) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [scena miłosna](https://open.spotify.com/album/5eZ5nQdawYp1a1qLQZHytf) | 2:40 | 2022-08-26 | 2023-05-17 |
 | [Monochrom](https://open.spotify.com/track/2Nf7wnojAkwkyE4vNjGIZl) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Pętla](https://open.spotify.com/album/5XUJwC1TtVT7xm3Qjtev4I) | 3:21 | 2022-08-26 | 2023-04-15 |
@@ -56,6 +56,7 @@
 | [Most](https://open.spotify.com/track/0fXNGgMLZB6jbh7RPOYBzW) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Most](https://open.spotify.com/album/2teOtNxv6PC6wvDk9UQKXf) | 2:55 | 2023-05-16 |  |
 | [na legalu \(2k23 Mark Neve rework\)](https://open.spotify.com/track/7gUgalQuAVBJv4ppy0w8Kn) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [na legalu \(2k23 Mark Neve rework\)](https://open.spotify.com/album/01S3dkcvCEzapM8ijz2Vft) | 2:15 | 2023-03-13 | 2023-05-17 |
 | [Na zawsze, morze](https://open.spotify.com/track/5c6eOOvCcwmySM46HN7Er4) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Double N](https://open.spotify.com/album/7d6Aho9TyMvWAsa85WP5IU) | 3:08 | 2023-03-13 |  |
+| [Need a break](https://open.spotify.com/track/6n86Viph09xx4i63kpsvWM) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Need a break](https://open.spotify.com/album/3iG3XNnDa3r90Kx8DqnFkU) | 3:33 | 2023-06-04 |  |
 | [neonowe laczki](https://open.spotify.com/track/6iNm8Px8IQwiFRfFlARt80) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [jestem bryska \(mini album\)](https://open.spotify.com/album/694sraSss3PDwTtbnn0U8N) | 2:30 | 2022-09-23 | 2023-03-14 |
 | [Niebieska Noc](https://open.spotify.com/track/5urPVqVx8tb3mUY8m9MLAo) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Niebieska Noc](https://open.spotify.com/album/1DyTAOv7dXCE2WuawmUzVh) | 2:47 | 2023-02-06 | 2023-03-14 |
 | [Niebieski sweter](https://open.spotify.com/track/28JkH7zChrtA1EWKZsIA2V) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Blaza](https://open.spotify.com/album/0gw1Iu0Qy9i6ZClil2iHp9) | 3:46 | 2023-02-06 |  |

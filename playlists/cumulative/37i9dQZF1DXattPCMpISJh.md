@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-202 songs - 12 hr 45 min
+203 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:26 | 2022-03-18 | 2023-03-18 |
 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/4bwhZHMe1I2NlyU5z4GMwf) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\) \[Fancy Feelings Remix\]](https://open.spotify.com/album/1MxG6md1y2QeGZOPPIYPJD) | 3:26 | 2022-03-18 | 2022-11-13 |
 | [Dancing into the Stars \- Dave Lee Super Soulful Mix](https://open.spotify.com/track/4YStSwhggDOLlvU81OWW6c) | [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [Dancing into the Stars](https://open.spotify.com/album/0mazR8hdLu7cyFfg7tjatb) | 5:56 | 2021-08-20 | 2022-08-27 |
-| [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/track/0oOqx0hphAQLKu2Xa5C0G2) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Amber Martin](https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ) | [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/album/7xTI7cBnfrV97YIfZ7ExZb) | 3:44 | 2023-03-24 |  |
+| [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/track/0oOqx0hphAQLKu2Xa5C0G2) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Amber Martin](https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ) | [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/album/7xTI7cBnfrV97YIfZ7ExZb) | 3:44 | 2023-03-24 | 2023-06-05 |
+| [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/track/4ALsOjwCdniiryLJVMWVGo) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Amber Martin](https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ) | [Last Man Dancing](https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2) | 3:44 | 2023-03-24 |  |
 | [Different Directions](https://open.spotify.com/track/30QM80woaoPtONO99xRyyw) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Different Directions](https://open.spotify.com/album/4VOq3YC6cWd1kULS0oKEKL) | 3:51 | 2022-07-15 | 2022-08-13 |
 | [Disco](https://open.spotify.com/track/4Wi7j71MROAcJPSTT11HQy) | [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Disco](https://open.spotify.com/album/2yXcDJCkVy5aEgkEzI1cxO) | 3:50 | 2023-04-07 | 2023-06-03 |
 | [Do I Do \- Radio Edit](https://open.spotify.com/track/0GzNOBgWu5468S9emhSFRv) | [Micky More & Andy Tee](https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN), [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [Do I Do \(Radio Edit\)](https://open.spotify.com/album/6mXfyALqYhNgAKKBIlgyY3) | 3:29 | 2022-05-20 |  |

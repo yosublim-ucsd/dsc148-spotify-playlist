@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Ana Vilela",
-  "num_followers": 339958,
+  "num_followers": 339989,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjA5ZDhiNDlmZGQzZmVhZDNkNjFkZDc0ZGRkY2RiZTQxOTFlZGQ4",
+  "snapshot_id": "MCw3MjNmNGE5ODcwZDRlMzZlODRiYTBjYWExMTFjMDM4ZTM5NWE2MTE1",
   "tracks": [
     {
       "added_at": "2023-06-02 03:39:33",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "Evid\u00eancias",
+        "url": "https://open.spotify.com/album/53TgszUvzimrVfwxBGDZ7h"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 313038,
+      "name": "Evid\u00eancias",
+      "url": "https://open.spotify.com/track/1Ide6WO5z4akgcXx6MWKB3"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "D",
         "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 268617,
       "name": "Iluminado (feat. Flavia Virginia, Max Viana, Jo\u00e3o Viana, Sofia Viana, In\u00e1cio Viana, Thomas Boljover & Lui Viana)",
       "url": "https://open.spotify.com/track/4PyckagqFTimt12aJrg71q"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
-        "name": "Evid\u00eancias",
-        "url": "https://open.spotify.com/album/53TgszUvzimrVfwxBGDZ7h"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 313038,
-      "name": "Evid\u00eancias",
-      "url": "https://open.spotify.com/track/1Ide6WO5z4akgcXx6MWKB3"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Beleza Destru\u00edda",
-        "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 280271,
-      "name": "Beleza Destru\u00edda",
-      "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Argumento - Spotify Singles",
         "url": "https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 186400,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Beleza Destru\u00edda",
+        "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 280271,
+      "name": "Beleza Destru\u00edda",
+      "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1435,6 +1435,38 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "SIM SIM SIM",
+        "url": "https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f"
+      },
+      "artists": [
+        {
+          "name": "Bala Desejo",
+          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+        },
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Lucas Nunes",
+          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 235437,
+      "name": "Passarinha",
+      "url": "https://open.spotify.com/track/6pHX4yF2JKjZdSk25DWJKv"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "Deusa Inebriante",
         "url": "https://open.spotify.com/album/5kytbvkCXouV1WVZyvC0bb"
       },
@@ -1495,34 +1527,18 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "SIM SIM SIM",
-        "url": "https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f"
+        "name": "Mo\u00e7o",
+        "url": "https://open.spotify.com/album/1jkJEFhHM2zjCT9QFDpiXs"
       },
       "artists": [
         {
-          "name": "Bala Desejo",
-          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
-        },
-        {
-          "name": "Dora Morelenbaum",
-          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
-        },
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        },
-        {
-          "name": "Lucas Nunes",
-          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
         }
       ],
-      "duration_ms": 235437,
-      "name": "Passarinha",
-      "url": "https://open.spotify.com/track/6pHX4yF2JKjZdSk25DWJKv"
+      "duration_ms": 267890,
+      "name": "Mo\u00e7o",
+      "url": "https://open.spotify.com/track/547mtUkBn129AOO8hc0xBE"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Porto",
-        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
-      },
-      "artists": [
-        {
-          "name": "MPB4",
-          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Porto",
-      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Seu Anjo",
         "url": "https://open.spotify.com/album/6kd1kQHUp1gACNL05u6jez"
       },
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "Porto",
+        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
+      },
+      "artists": [
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Porto",
+      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "Ostra",
         "url": "https://open.spotify.com/album/7ieLZ0KFk0dyAvtxrZbtS3"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 157557,
       "name": "Ostra",
       "url": "https://open.spotify.com/track/7wPsf5UmULjt2ECJq5U1Ku"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
-        "name": "Mo\u00e7o",
-        "url": "https://open.spotify.com/album/1jkJEFhHM2zjCT9QFDpiXs"
-      },
-      "artists": [
-        {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
-        }
-      ],
-      "duration_ms": 267890,
-      "name": "Mo\u00e7o",
-      "url": "https://open.spotify.com/track/547mtUkBn129AOO8hc0xBE"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "De Longe Toda Serra \u00c9 Azul",
+        "url": "https://open.spotify.com/album/03GfLlRj4Ni6dzy7M3cHgA"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Da\u00edra",
+          "url": "https://open.spotify.com/artist/3ar2aVkdnUx3nDRAhYw3JW"
+        }
+      ],
+      "duration_ms": 177825,
+      "name": "De Longe Toda Serra \u00c9 Azul",
+      "url": "https://open.spotify.com/track/6dLdOv1iSkJ4Ub9cq5roVM"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "Sobre N\u00f3s",
         "url": "https://open.spotify.com/album/4ISIv55VN8nA9IlnGdeUEW"
       },
@@ -1807,22 +1827,6 @@
       "duration_ms": 184320,
       "name": "Sobre N\u00f3s",
       "url": "https://open.spotify.com/track/7ohl7yuUZovJaz7e4U8KNY"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
-        "name": "SOLAR",
-        "url": "https://open.spotify.com/album/5bCIg0ZHl5Tx6cr90tdlXS"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Moreno",
-          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
-        }
-      ],
-      "duration_ms": 262360,
-      "name": "O SIL\u00caNCIO DAS ESTRELAS",
-      "url": "https://open.spotify.com/track/2cnpnzGvxjBMJxuciIrXkJ"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1843,22 +1847,18 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "De Longe Toda Serra \u00c9 Azul",
-        "url": "https://open.spotify.com/album/03GfLlRj4Ni6dzy7M3cHgA"
+        "name": "SOLAR",
+        "url": "https://open.spotify.com/album/5bCIg0ZHl5Tx6cr90tdlXS"
       },
       "artists": [
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Da\u00edra",
-          "url": "https://open.spotify.com/artist/3ar2aVkdnUx3nDRAhYw3JW"
+          "name": "Vanessa Moreno",
+          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
         }
       ],
-      "duration_ms": 177825,
-      "name": "De Longe Toda Serra \u00c9 Azul",
-      "url": "https://open.spotify.com/track/6dLdOv1iSkJ4Ub9cq5roVM"
+      "duration_ms": 262360,
+      "name": "O SIL\u00caNCIO DAS ESTRELAS",
+      "url": "https://open.spotify.com/track/2cnpnzGvxjBMJxuciIrXkJ"
     },
     {
       "added_at": "2023-06-02 03:39:33",

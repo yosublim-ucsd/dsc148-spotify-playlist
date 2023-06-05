@@ -382,7 +382,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 236676,
       "name": "?mis sa tegid",
       "url": "https://open.spotify.com/track/4VJpJ0g4b0KqF7KZHiwOpV"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -5392,7 +5392,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 186000,
       "name": "DLC",
       "url": "https://open.spotify.com/track/6dyXogYZZ45wBgRY1Wq3P1"
@@ -5868,7 +5868,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf"
@@ -7860,7 +7860,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 171000,
       "name": "GET LIT",
       "url": "https://open.spotify.com/track/7dqUVy6c69qzuAtIFbNeZ8"
@@ -8516,7 +8516,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 171026,
       "name": "Hall of Fame",
       "url": "https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG"
@@ -10662,7 +10662,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 191533,
       "name": "ITEM",
       "url": "https://open.spotify.com/track/1EWTsgQAEsUrnQ8iawhDSN"
@@ -16599,6 +16599,24 @@
     },
     {
       "album": {
+        "name": "N\u00fc\u00fcd ja praegu",
+        "url": "https://open.spotify.com/album/0Fupr9qfPlVECvLOPLNIXO"
+      },
+      "artists": [
+        {
+          "name": "Shanon",
+          "url": "https://open.spotify.com/artist/00vyK6r4xVqTZHeltSOcSZ"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "N\u00fc\u00fcd ja praegu",
+      "url": "https://open.spotify.com/track/20AGjBEenv5tmF4N93L5w6"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -19244,10 +19262,28 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 195688,
       "name": "S-Class",
       "url": "https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195688,
+      "name": "S-Class",
+      "url": "https://open.spotify.com/track/6LuvVxHXQDtsPxtE07Ycbe"
     },
     {
       "album": {
@@ -20346,7 +20382,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 203443,
       "name": "Silmad p\u00e4rani kinni",
       "url": "https://open.spotify.com/track/45GJmcFYh1hxHxwdg5KBQm"
@@ -21802,7 +21838,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 183160,
       "name": "Super Bowl",
       "url": "https://open.spotify.com/track/3OhW68CiyfCoeGntozuUMl"
@@ -23256,6 +23292,28 @@
     {
       "album": {
         "name": "5-STAR",
+        "url": "https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "TOPLINE",
+      "url": "https://open.spotify.com/track/2OQ30nbqnapjoMlcxKIAJu"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
         "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
       },
       "artists": [
@@ -23270,7 +23328,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 203546,
       "name": "TOPLINE (Feat. Tiger JK)",
       "url": "https://open.spotify.com/track/0jvZ9caE53ubCQXMki6W23"
@@ -24140,7 +24198,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 198736,
       "name": "vamos",
       "url": "https://open.spotify.com/track/2XNRbWeHolZn9SqAUnxeO4"

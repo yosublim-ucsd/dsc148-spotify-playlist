@@ -4,7 +4,7 @@
 
 > 
 
-5,655 songs - 8 day 22 hr 30 min
+5,656 songs - 8 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,7 +633,7 @@
 | [bonsai](https://open.spotify.com/track/6sL97yetJIgJkrYAoGyMWS) | [kubi](https://open.spotify.com/artist/5E5wzPGQXxMIWYNhoYjZ2O) | [bonsai](https://open.spotify.com/album/4T9u3iusKSqF9ohlOHlGUD) | 2:48 | 2022-03-11 | 2022-08-12 |
 | [Bonsai Cutter](https://open.spotify.com/track/7IkDHrz6YhuO5rQqpVSQwv) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Bonsai Cutter](https://open.spotify.com/album/1HvIkbjw3C33Ab6k4WQYnz) | 1:39 | 2022-12-23 | 2023-04-28 |
 | [Book Club](https://open.spotify.com/track/24Tds2HlMPCUB7lTXKsPKZ) | [Rosia!](https://open.spotify.com/artist/1CWzJQYVTc2Sdkz9Thq4Zu) | [Start Your Own Band!](https://open.spotify.com/album/1bvysO1AHauiGWGrVQHLhK) | 2:55 | 2022-02-14 | 2022-07-22 |
-| [bookmark](https://open.spotify.com/track/5SYXDXkDnkIzdVjwtCw5J9) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [bookmark](https://open.spotify.com/album/3iZraU38VPUIFAbxSQ4S5y) | 2:03 | 2023-04-05 |  |
+| [bookmark](https://open.spotify.com/track/5SYXDXkDnkIzdVjwtCw5J9) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [bookmark](https://open.spotify.com/album/3iZraU38VPUIFAbxSQ4S5y) | 2:03 | 2023-04-05 | 2023-06-05 |
 | [Boombap](https://open.spotify.com/track/2ZLQXjuazrxX8jaAH0XAuv) | [Banker](https://open.spotify.com/artist/2VTXmYvdlvwrIQ0p2j2XfI) | [Boombap](https://open.spotify.com/album/5x0ucuGwDDt2FYvo65oTAx) | 2:12 | 2021-09-04 | 2022-04-08 |
 | [Boots Season](https://open.spotify.com/track/3K2yqz7qgcV9NclxgYYwN6) | [Cotton Candy Boulevard](https://open.spotify.com/artist/0y8PqsGy2nL9LqwL709086) | [Boots Season](https://open.spotify.com/album/1dCHYA5i6KsPrjUETLMLw3) | 2:31 | 2022-10-21 | 2023-02-28 |
 | [Boozy Pancakes](https://open.spotify.com/track/36YKr5BZPcbWupZHrSq8Ur) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Boozy Pancakes](https://open.spotify.com/album/3Jtg8pkd2Gzrv17JDCqfPS) | 1:50 | 2023-01-06 | 2023-03-09 |
@@ -3573,7 +3573,7 @@
 | [Old Times Sake](https://open.spotify.com/track/1XxcQruZis1cpBl7gHMuKb) | [Mila Coolness](https://open.spotify.com/artist/3gdyXwWMfOPBIZrIDMg40u) | [Old Times Sake](https://open.spotify.com/album/60EFaaa4c9vHEnyf9k1wRu) | 2:01 | 2020-06-17 | 2020-06-18 |
 | [old town](https://open.spotify.com/track/4U8M7EqFBzWJhMAt0WNNpW) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [old town](https://open.spotify.com/album/5XqHvFz1Ad002NjTCCeZIe) | 2:57 | 2023-01-20 |  |
 | [Oldskool Issues](https://open.spotify.com/track/4RhQHgFjRNWuXppg40atRp) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Oldskool Issues](https://open.spotify.com/album/2LlZvNwkPyYFLOIgwxz2Uf) | 2:13 | 2022-06-24 | 2022-10-14 |
-| [Oleka](https://open.spotify.com/track/4wgF1CQfY50nsOFAlVWRrZ) | [Dokkodo Sounds](https://open.spotify.com/artist/2mNcyUGwbsOjIkhzMv7aHo), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Oleka](https://open.spotify.com/album/6EsNm9xLKZAVE8qmTreo6t) | 2:07 | 2022-12-09 | 2023-06-04 |
+| [Oleka](https://open.spotify.com/track/4wgF1CQfY50nsOFAlVWRrZ) | [Dokkodo Sounds](https://open.spotify.com/artist/2mNcyUGwbsOjIkhzMv7aHo), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Oleka](https://open.spotify.com/album/6EsNm9xLKZAVE8qmTreo6t) | 2:07 | 2022-12-09 |  |
 | [olvido](https://open.spotify.com/track/3CpYkWdRzwAC1YjdIA7Utw) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [olvido](https://open.spotify.com/album/7IHoAypV7cXvj9a3QkJhfo) | 3:19 | 2022-01-07 | 2022-08-27 |
 | [Olympian](https://open.spotify.com/track/27IZfin88wF3wIoEoKjHHv) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ), [Kasia Konstance](https://open.spotify.com/artist/69lkTNzZ4F2h3ZokpOHN7j) | [Olympian](https://open.spotify.com/album/1folkHjL6WN2m18UwKkrlN) | 2:24 | 2022-07-01 | 2022-10-14 |
 | [Omaya Reprise](https://open.spotify.com/track/1pqZj6L5via7EhLODnJlti) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Omaya Reprise / Underwaterday](https://open.spotify.com/album/2z1YdQwWNzwd0RJ3uvvk4O) | 3:11 | 2022-07-15 | 2022-10-28 |
@@ -4389,7 +4389,7 @@
 | [Sleepless in Tromsø](https://open.spotify.com/track/66nhVvuFtLzktRPg6O3qjE) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Sleepless in Tromsø](https://open.spotify.com/album/6elD2r7SVhpETT8DNjrLQq) | 2:39 | 2023-01-20 | 2023-05-19 |
 | [sleeptight](https://open.spotify.com/track/1KUxjhKvwjYdbA9VRRWEJP) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [sleeptight](https://open.spotify.com/album/038JzagVkrg0Ffho6usJUo) | 2:26 | 2021-09-04 | 2022-04-08 |
 | [Sleepwalker](https://open.spotify.com/track/4EeLLzkXEADfwvi5TcAbRD) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Smooth Lookin'](https://open.spotify.com/album/7f9p1yvlEo5FdIWXD5Pf6o) | 2:32 | 2019-05-28 | 2021-07-04 |
-| [Sleepy](https://open.spotify.com/track/611sqq1ogKBrXyK4qq9get) | [LeProdude](https://open.spotify.com/artist/1Zg71RppIywlpSLoC99gPN) | [Sleepy](https://open.spotify.com/album/7MakEi9WGOJgugnvJgDbxj) | 2:23 | 2022-10-28 |  |
+| [Sleepy](https://open.spotify.com/track/611sqq1ogKBrXyK4qq9get) | [LeProdude](https://open.spotify.com/artist/1Zg71RppIywlpSLoC99gPN) | [Sleepy](https://open.spotify.com/album/7MakEi9WGOJgugnvJgDbxj) | 2:23 | 2022-10-28 | 2023-06-05 |
 | [Sleepy Bee](https://open.spotify.com/track/5JJJG45K5jUQ19ROPgj267) | [furry pearls](https://open.spotify.com/artist/3LlPmefFTBm43KyDmz6Xk0) | [Sleepy Bee](https://open.spotify.com/album/0GuahGa7mC3lyS0LD1j73D) | 1:34 | 2022-10-07 | 2023-02-28 |
 | [Sleepy Bird](https://open.spotify.com/track/384KVxjsIHgAIY2rNEogD0) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Sleepy Bird](https://open.spotify.com/album/4LKT78ojogQzLeExGIAa5x) | 2:12 | 2022-05-27 | 2022-09-23 |
 | [Sleepy Christmas](https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB) | [Duce Haus](https://open.spotify.com/artist/7j2z41scihGIdCgqmOmDGs) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:29 | 2021-12-17 | 2021-12-27 |
@@ -4890,6 +4890,7 @@
 | [Ten Ocean](https://open.spotify.com/track/4rgjOcbLnEyakVKfbvACRL) | [Grandmaster Tilden](https://open.spotify.com/artist/20yERPydly9DkcL45T65uJ) | [Sunshine Breeze](https://open.spotify.com/album/30ggGRKtPaLWpJh6nrptXa) | 2:36 | 2022-01-21 | 2022-06-03 |
 | [Tender](https://open.spotify.com/track/3LZgZHExyTm0dnWXb4sazx) | [sinnr](https://open.spotify.com/artist/4rgy5K4lHDLbaSC1MMuY5m) | [Tender](https://open.spotify.com/album/2nCDmjZnbXVhhrMoOEnS5I) | 2:07 | 2022-09-30 | 2023-01-13 |
 | [Tender](https://open.spotify.com/track/3kgKrKOsxnihvjpemJIvy3) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Tender](https://open.spotify.com/album/1wEXudPv4IDPnQEv99zjkS) | 2:04 | 2022-12-02 | 2023-01-20 |
+| [Tender Mind](https://open.spotify.com/track/04DplA83rbqQVqWjPFYSpC) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [LW Beats](https://open.spotify.com/artist/2pZgcPhuBA3i0OVDj9Aog3), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Tender Mind](https://open.spotify.com/album/2TEZN8nwRNnom7KG3xc3hP) | 1:53 | 2023-05-31 |  |
 | [Tender Moments](https://open.spotify.com/track/0gk7P9vAAY9WuExV1RcL6s) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [Vannorte](https://open.spotify.com/artist/61ZwgexUIZqT7ymSPsCW0H) | [Santal Sky](https://open.spotify.com/album/77AIFm9NDArZJsutCbVkTH) | 1:45 | 2022-02-25 | 2022-05-27 |
 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 | 2022-03-11 | 2022-08-12 |
 | [Tender Splender](https://open.spotify.com/track/67C9vnBDg3dIKaXxw1V0zx) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Tender Splender](https://open.spotify.com/album/1lYutG7tM9CUlZSI5v7z8o) | 2:15 | 2023-03-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 2491118,
+  "num_followers": 2494500,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTI2M2Q0NGQ4NzZkZmJiY2U4NjA1N2RjZTBiYzQ0MjI5OGZiNzY1",
+  "snapshot_id": "MCxjYjE2NzA3Yzc2MjZmZmE2YWE2NGFiMmZiYWYxZDllYjc4YTQxMWMy",
   "tracks": [
     {
       "added_at": "2023-04-20 16:08:47",
@@ -971,38 +971,6 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Si No Le Contesto",
-      "url": "https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c"
-    },
-    {
-      "added_at": "2023-04-20 16:08:47",
-      "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Igual Que Ayer",
-      "url": "https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d"
-    },
-    {
-      "added_at": "2023-04-20 16:08:47",
-      "album": {
         "name": "Ella Se Contradice (feat. Plan B)",
         "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
       },
@@ -1023,6 +991,38 @@
       "duration_ms": 256757,
       "name": "Ella Se Contradice (feat. Plan B)",
       "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
+    },
+    {
+      "added_at": "2023-04-20 16:08:47",
+      "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Igual Que Ayer",
+      "url": "https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d"
+    },
+    {
+      "added_at": "2023-04-20 16:08:47",
+      "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Si No Le Contesto",
+      "url": "https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Te He Querido, Te He Llorado",
-      "url": "https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ"
-    },
-    {
-      "added_at": "2023-04-20 16:08:47",
-      "album": {
         "name": "The SexyTrip",
         "url": "https://open.spotify.com/album/524SmS20h9onvTnzLz3TA0"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 190000,
       "name": "Movimiento de Caderas",
       "url": "https://open.spotify.com/track/468L8HV8IykzwRs4eEXn4Y"
+    },
+    {
+      "added_at": "2023-04-20 16:08:47",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Te He Querido, Te He Llorado",
+      "url": "https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -1459,18 +1459,22 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+        "name": "M.I.A.M.I.",
+        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
       },
       "artists": [
         {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 175533,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
+      "duration_ms": 219080,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -1503,22 +1507,18 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "M.I.A.M.I.",
-        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
+      "duration_ms": 175533,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
+        "name": "Emigrante Del Mundo (Remastered)",
+        "url": "https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ"
+      },
+      "artists": [
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 184217,
+      "name": "Baila Morena",
+      "url": "https://open.spotify.com/track/4dNRA8hrqj7XJvFhGSQsKe"
+    },
+    {
+      "added_at": "2023-04-20 16:08:47",
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/2XpLbDgssTyK3AmeQlfUL3"
       },
@@ -2007,38 +2023,6 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "Emigrante Del Mundo (Remastered)",
-        "url": "https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ"
-      },
-      "artists": [
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 184217,
-      "name": "Baila Morena",
-      "url": "https://open.spotify.com/track/4dNRA8hrqj7XJvFhGSQsKe"
-    },
-    {
-      "added_at": "2023-04-20 16:08:47",
-      "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "\u00bfpor Que Te Demoras?",
-      "url": "https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U"
-    },
-    {
-      "added_at": "2023-04-20 16:08:47",
-      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -2063,22 +2047,6 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "A La Reconquista",
-        "url": "https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv"
-      },
-      "artists": [
-        {
-          "name": "Hector & Tito",
-          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt"
-    },
-    {
-      "added_at": "2023-04-20 16:08:47",
-      "album": {
         "name": "Los Mas Sueltos Del Reggaeton",
         "url": "https://open.spotify.com/album/1tYGsYdYq3svOlTzAlojm1"
       },
@@ -2099,6 +2067,22 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "\u00bfpor Que Te Demoras?",
+      "url": "https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U"
+    },
+    {
+      "added_at": "2023-04-20 16:08:47",
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
       },
@@ -2115,18 +2099,18 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "Sentenciados",
-        "url": "https://open.spotify.com/album/06Qf0LWw8snASh8qeCxRTp"
+        "name": "A La Reconquista",
+        "url": "https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv"
       },
       "artists": [
         {
-          "name": "Baby Rasta & Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+          "name": "Hector & Tito",
+          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
         }
       ],
-      "duration_ms": 224391,
-      "name": "El Carnaval",
-      "url": "https://open.spotify.com/track/3WoInfouCx0DmDeDbzxKbu"
+      "duration_ms": 216440,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -2143,6 +2127,22 @@
       "duration_ms": 136026,
       "name": "Te Suelto el Pelo",
       "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
+    },
+    {
+      "added_at": "2023-04-20 16:08:47",
+      "album": {
+        "name": "Sentenciados",
+        "url": "https://open.spotify.com/album/06Qf0LWw8snASh8qeCxRTp"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta & Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        }
+      ],
+      "duration_ms": 224391,
+      "name": "El Carnaval",
+      "url": "https://open.spotify.com/track/3WoInfouCx0DmDeDbzxKbu"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "Los Matadores del Genero",
-        "url": "https://open.spotify.com/album/4PizC7ikBjt2twUP2yqCv1"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Chica Ven Pa' Ca",
-      "url": "https://open.spotify.com/track/7eWabug2g5Kw3QnMxaQlpK"
-    },
-    {
-      "added_at": "2023-04-20 16:08:47",
-      "album": {
         "name": "Mas Flow - Los Benjamins",
         "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 228560,
       "name": "Mi Fanatica",
       "url": "https://open.spotify.com/track/7rbtNjuh56l71xV7Uowf50"
+    },
+    {
+      "added_at": "2023-04-20 16:08:47",
+      "album": {
+        "name": "Los Matadores del Genero",
+        "url": "https://open.spotify.com/album/4PizC7ikBjt2twUP2yqCv1"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Chica Ven Pa' Ca",
+      "url": "https://open.spotify.com/track/7eWabug2g5Kw3QnMxaQlpK"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -2367,18 +2367,18 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "La F\u00f3rmula",
-        "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 182586,
-      "name": "Flow Violento",
-      "url": "https://open.spotify.com/track/0ubKoLSRKEBpeJuRJrLf9M"
+      "duration_ms": 180173,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4HTzn2qQZ7UqHtw1OsB8wc"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -2403,18 +2403,18 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ"
+        "name": "La F\u00f3rmula",
+        "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 180173,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4HTzn2qQZ7UqHtw1OsB8wc"
+      "duration_ms": 182586,
+      "name": "Flow Violento",
+      "url": "https://open.spotify.com/track/0ubKoLSRKEBpeJuRJrLf9M"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 233840,
-      "name": "Enamorado De Ti",
-      "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
-    },
-    {
-      "added_at": "2023-04-20 16:08:47",
-      "album": {
         "name": "Chica 10",
         "url": "https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG"
       },
@@ -2979,18 +2963,18 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "La Misi\u00f3n 4",
-        "url": "https://open.spotify.com/album/7u87mg6bU1J3bL1nK3F0V0"
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
       "artists": [
         {
-          "name": "Yaviah",
-          "url": "https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Wiki Wiki",
-      "url": "https://open.spotify.com/track/3zyu1YrtgFRdrc16HIQior"
+      "duration_ms": 233840,
+      "name": "Enamorado De Ti",
+      "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -3007,6 +2991,22 @@
       "duration_ms": 198066,
       "name": "Sigue Bailando Mi Amor",
       "url": "https://open.spotify.com/track/0Ueebi9UrB6jtIcGYal2uM"
+    },
+    {
+      "added_at": "2023-04-20 16:08:47",
+      "album": {
+        "name": "La Misi\u00f3n 4",
+        "url": "https://open.spotify.com/album/7u87mg6bU1J3bL1nK3F0V0"
+      },
+      "artists": [
+        {
+          "name": "Yaviah",
+          "url": "https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Wiki Wiki",
+      "url": "https://open.spotify.com/track/3zyu1YrtgFRdrc16HIQior"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -3475,6 +3475,22 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/4RuUkuF6KkHpbScnOc7m1E"
+      },
+      "artists": [
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Tra Tra Tra (Remix)",
+      "url": "https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU"
+    },
+    {
+      "added_at": "2023-04-20 16:08:47",
+      "album": {
         "name": "Papi Chulo... Te Traigo El Mmmm",
         "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
       },
@@ -3491,38 +3507,22 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "Contra la Corriente",
-        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3"
       },
       "artists": [
         {
-          "name": "Noriega",
-          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+          "name": "Magnate",
+          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
         },
         {
-          "name": "Baby Rasta & Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+          "name": "Valentino",
+          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
         }
       ],
-      "duration_ms": 174126,
-      "name": "Linda Estrella (feat. Baby Rasta y Gringo)",
-      "url": "https://open.spotify.com/track/4p7NHxROYGVe6wcotaS9CL"
-    },
-    {
-      "added_at": "2023-04-20 16:08:47",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/4RuUkuF6KkHpbScnOc7m1E"
-      },
-      "artists": [
-        {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Tra Tra Tra (Remix)",
-      "url": "https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU"
+      "duration_ms": 276926,
+      "name": "Dile a Ella",
+      "url": "https://open.spotify.com/track/1X78fIDc2MXuaXCp0JqJh7"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -3547,22 +3547,22 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3"
+        "name": "Contra la Corriente",
+        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
       },
       "artists": [
         {
-          "name": "Magnate",
-          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
         },
         {
-          "name": "Valentino",
-          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
+          "name": "Baby Rasta & Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
         }
       ],
-      "duration_ms": 276926,
-      "name": "Dile a Ella",
-      "url": "https://open.spotify.com/track/1X78fIDc2MXuaXCp0JqJh7"
+      "duration_ms": 174126,
+      "name": "Linda Estrella (feat. Baby Rasta y Gringo)",
+      "url": "https://open.spotify.com/track/4p7NHxROYGVe6wcotaS9CL"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -3599,26 +3599,6 @@
       "duration_ms": 190186,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/2WkWjXV1lQtSFNZoFzu3r0"
-    },
-    {
-      "added_at": "2023-04-20 16:08:47",
-      "album": {
-        "name": "Contra la Corriente",
-        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
-      },
-      "artists": [
-        {
-          "name": "Noriega",
-          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
-        },
-        {
-          "name": "Kartiel",
-          "url": "https://open.spotify.com/artist/3va7QuLvGN0JGzpgW8Arsg"
-        }
-      ],
-      "duration_ms": 213577,
-      "name": "Si Te Vas (feat. Kartiel)",
-      "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -3671,6 +3651,22 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
+        "name": "Vida Escante",
+        "url": "https://open.spotify.com/album/4zdEAfhZ9PymOasYqNK6uZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "Chambonea",
+      "url": "https://open.spotify.com/track/3SESZ1maRpb7b12VpbgRWN"
+    },
+    {
+      "added_at": "2023-04-20 16:08:47",
+      "album": {
         "name": "Motivando a la Yal",
         "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
       },
@@ -3683,6 +3679,26 @@
       "duration_ms": 181002,
       "name": "Ahora (feat. Angel Doze)",
       "url": "https://open.spotify.com/track/6xuCqLILMiXxugbUmuRVJi"
+    },
+    {
+      "added_at": "2023-04-20 16:08:47",
+      "album": {
+        "name": "Contra la Corriente",
+        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
+      },
+      "artists": [
+        {
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+        },
+        {
+          "name": "Kartiel",
+          "url": "https://open.spotify.com/artist/3va7QuLvGN0JGzpgW8Arsg"
+        }
+      ],
+      "duration_ms": 213577,
+      "name": "Si Te Vas (feat. Kartiel)",
+      "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
     },
     {
       "added_at": "2023-04-20 16:08:47",
@@ -3727,34 +3743,18 @@
     {
       "added_at": "2023-04-20 16:08:47",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
       },
       "artists": [
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
         }
       ],
-      "duration_ms": 214360,
-      "name": "Eh Oh Eh Oh",
-      "url": "https://open.spotify.com/track/6cMmRhuplhTj33YhLtfiQt"
-    },
-    {
-      "added_at": "2023-04-20 16:08:47",
-      "album": {
-        "name": "Vida Escante",
-        "url": "https://open.spotify.com/album/4zdEAfhZ9PymOasYqNK6uZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "Chambonea",
-      "url": "https://open.spotify.com/track/3SESZ1maRpb7b12VpbgRWN"
+      "duration_ms": 214560,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/6e86ZPMiOcQxE8TAC9TBFH"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

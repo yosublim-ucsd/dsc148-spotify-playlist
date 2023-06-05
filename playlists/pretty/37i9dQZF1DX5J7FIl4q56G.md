@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Pupil Slicer
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,534 likes - 54 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,604 likes - 54 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 8 | [OTHER SIDE OF THE RAINBOW](https://open.spotify.com/track/4GsesitvquwKM2doPy68wk) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [OTHER SIDE OF THE RAINBOW](https://open.spotify.com/album/4BFH5CUZSM4uxuYFMAFNk6) | 4:11 |
 | 9 | [Sweet Dreams](https://open.spotify.com/track/3ddk5r3GAICA17oFr7G07X) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Sweet Dreams](https://open.spotify.com/album/1eYYRcDMN8jUWQdOuoKlr9) | 2:53 |
 | 10 | [Never Dawn](https://open.spotify.com/track/6FwcX0FQLYsGRvU8DWCUsg) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3oxrUHGaR7eZ0j5dKpeSAo) | 4:49 |
-| 11 | [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 |
+| 11 | [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/0C9zjzK1ZCHL5Cid66Izxr) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Return to the Kingdom of Fife](https://open.spotify.com/album/37MilXRSXarLafaSnUBGAf) | 4:35 |
 | 12 | [Valhalla Calling \- Viking Metal Version](https://open.spotify.com/track/33gqtR0eFAjQ88jzEk0IYf) | [Miracle Of Sound](https://open.spotify.com/artist/4FmJD0mpgQ70SNt2EKK8tq) | [Level 12](https://open.spotify.com/album/2lIe3ffpOT7sqljpJqVhWq) | 4:05 |
 | 13 | [Poison for the Lost](https://open.spotify.com/track/2bdvS1A5vGy90aOpjCHFux) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Poison for the Lost](https://open.spotify.com/album/6yV6pWGyElpB3UvTZ2aspM) | 4:19 |
 | 14 | [Purified by Vengeance \(feat\. Mark Holcomb, Periphery & Mick Gordon\)](https://open.spotify.com/track/0cDD2tuTX0DTEXtHot0VfO) | [Dååth](https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN), [Mark Holcomb](https://open.spotify.com/artist/04RVlXizrnATIdNw4tRywd), [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Purified by Vengeance \(feat\. Mark Holcomb, Periphery & Mick Gordon\)](https://open.spotify.com/album/0q7kWUZW4yuPaAZ5OttXzn) | 4:28 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 31 | [Splitting the Soul \(feat\. Ihsahn\)](https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd) | [Einar Solberg](https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [16](https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG) | 6:22 |
 | 32 | [Rot of Humanity](https://open.spotify.com/track/42V96yHLlsmnFllXtHHKL2) | [Eighteen Visions](https://open.spotify.com/artist/1KcePrJuVbBv9SyqCEpdPb) | [Rot of Humanity](https://open.spotify.com/album/1zDXO1nJZCchvXBhgSGCpu) | 2:09 |
 | 33 | [I'm With You](https://open.spotify.com/track/4CaYJ53w6FXcxxGpUCIgfP) | [Wars](https://open.spotify.com/artist/2vq5JF65Ce2w34pi7OUeXu) | [I'm With You](https://open.spotify.com/album/2V1eFLKRZPLybU8SC0XPL0) | 2:57 |
-| 34 | [To Hell and Back](https://open.spotify.com/track/57J6cslBQghF63zP1ef8qZ) | [DIETH](https://open.spotify.com/artist/2OKe3scvNv3hzFBQbJqDT7) | [To Hell and Back](https://open.spotify.com/album/08gPGLpTzFRxdSnrssltxe) | 3:55 |
+| 34 | [To Hell and Back](https://open.spotify.com/track/4B5Xvktcg3MfnQQvr1rCkH) | [DIETH](https://open.spotify.com/artist/2OKe3scvNv3hzFBQbJqDT7) | [To Hell and Back](https://open.spotify.com/album/1HkOKiAJ5fGOO1pSaTyM3Y) | 3:55 |
 | 35 | [Heaven Shall Burn](https://open.spotify.com/track/7ykdUTK9dsZlU28fX3xm9s) | [Writing The Future](https://open.spotify.com/artist/7Aa5CdfeC6osTwfQJMXfCd) | [Caught Between Heaven & Hell](https://open.spotify.com/album/2uqlqJr3g8sCdAUdjw3zEO) | 3:07 |
 | 36 | [No Solace, No Quarter, No Mercy](https://open.spotify.com/track/1LgD4eqsyy0M5gx2Xr5btD) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [No Solace, No Quarter, No Mercy](https://open.spotify.com/album/5F5rrdH3zuMx8ndxZLIoOn) | 3:09 |
 | 37 | [God Won't Forgive You](https://open.spotify.com/track/7DeBNnjTO2HASzb7fr3pJq) | [No Home](https://open.spotify.com/artist/1B0UGkzDtoahtUCuCfath6) | [God Won't Forgive You](https://open.spotify.com/album/1Xntd1B6NYEmgkfecOV3Ch) | 1:21 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 40 | [CHAOS](https://open.spotify.com/track/72z6yktKZpE9woK7vWQHwB) | [Les Tambours du Bronx](https://open.spotify.com/artist/2l0mjzEtb8EoHuvtzvRScT), [Andreas Kisser](https://open.spotify.com/artist/3yNa9mGfJRUql6JAHVUEo0) | [EVILUTION](https://open.spotify.com/album/3DBieKKQfuSxTpYeMOUFpQ) | 2:47 |
 | 41 | [Legends Never Die](https://open.spotify.com/track/65TDqhB2VwV04RKG8f1BBN) | [All For Metal](https://open.spotify.com/artist/7pwIx2j4SX0cLAgPrIkv27) | [Legends Never Die](https://open.spotify.com/album/7h6Ez8fQsXBCSEba372cEO) | 4:15 |
 | 42 | [It All Returns to Nothing](https://open.spotify.com/track/4GHmMzdpwodgBDaU9PaEQK) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [It All Returns to Nothing](https://open.spotify.com/album/7dorgKYHbSsuRh9qgJVBkp) | 2:46 |
-| 43 | [Neon Gods](https://open.spotify.com/track/4VEmDAYcVdUk7ND9vj9CJ8) | [Waste](https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj) | [Neon Gods](https://open.spotify.com/album/5odr3ViUPuU6RNkqowtgJZ) | 3:48 |
+| 43 | [Neon Gods](https://open.spotify.com/track/4VEmDAYcVdUk7ND9vj9CJ8) | [Waste](https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj), [Chris Whited](https://open.spotify.com/artist/17a6gSsfYl9DY0nCKTDdEw) | [Neon Gods](https://open.spotify.com/album/5odr3ViUPuU6RNkqowtgJZ) | 3:48 |
 | 44 | [Whispers That Burn in the Dark](https://open.spotify.com/track/39DSyp34Lm7D2PQDrtvKp3) | [Necrofier](https://open.spotify.com/artist/0gVAC9uep6phnKC3vAHjGf) | [Burning Shadows in the Southern Night](https://open.spotify.com/album/11Y0ZU0kTOPVjo74YzIgGQ) | 4:39 |
 | 45 | [Nyetflix and Chill](https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3) | [Nuclear Power Trio](https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev) | [Nyetflix and Chill](https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe) | 3:23 |
 | 46 | [The Fire's Control](https://open.spotify.com/track/231vvUeffiwLxiO5hoPj3E) | [Wytch Hazel](https://open.spotify.com/artist/4EwBNQKEzshM5Yxs6cyzpt) | [IV: Sacrament](https://open.spotify.com/album/6FrO2DMt2SdAKHo7e3gwvY) | 3:49 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 53 | [Solar Witch](https://open.spotify.com/track/59tgpJap3pxVGFKeJcm843) | [Thantifaxath](https://open.spotify.com/artist/7DcSKG8ruWMgHsUh1rqZFh) | [Hive Mind Necrosis](https://open.spotify.com/album/33j7lFZ3OdXerDKwdVHLJf) | 6:01 |
 | 54 | [From the Rafters](https://open.spotify.com/track/5ulRodnS24iqppMEZQQa53) | [Death Ray Vision](https://open.spotify.com/artist/3W8CcPW3tnk7aCxruUEFx2) | [From the Rafters](https://open.spotify.com/album/65cIOtNeHasQRWPb2cRYIg) | 2:27 |
 
-Snapshot ID: `MCxkNWU1YTZhYzJiZmNiYTM1MDUyODllOWIyMDQ5YTQ5NzRkMWU1NzUy`
+Snapshot ID: `MCw2YjExNjBkMmEyNzYxODBiODdmNTYzN2Y1MGIyYTNlZWViOGI4ZjAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from The Weeknd, Metro Boomin, Toosii, Bizarrap & Peso Pluma, Karol G, Foo Fighters, Gunna and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,119,702 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,119,901 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 93 | [Overflow](https://open.spotify.com/track/6yDM2topI09dhfnEECBrFw) | [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Salt](https://open.spotify.com/album/3cxYpmTxHPCX9X0cYFyuku) | 2:01 |
 | 94 | [10 Percent](https://open.spotify.com/track/7GlrD61Rnp3pjOeUwvnFFy) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [10 Percent](https://open.spotify.com/album/40YKwkn63j05LgiI6MvVyg) | 3:19 |
 | 95 | [DRACULA](https://open.spotify.com/track/5UahFzPYaCRSgb5QkDH8iO) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DRACULA](https://open.spotify.com/album/0t6XelUenN8uSlGHLgarcr) | 2:58 |
-| 96 | [Requiem For A Dream](https://open.spotify.com/track/7GbQ1TGJIF9fTsrUnGlJHv) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Requiem For A Dream](https://open.spotify.com/album/6DKnQ6vxjKsdzj7VSOMLo0) | 2:06 |
+| 96 | [REQUIEM FOR A DREAM](https://open.spotify.com/track/7GbQ1TGJIF9fTsrUnGlJHv) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [REQUIEM FOR A DREAM](https://open.spotify.com/album/6DKnQ6vxjKsdzj7VSOMLo0) | 2:06 |
 | 97 | [Dear Sahana](https://open.spotify.com/track/4hThe5ilTYwNWPCE72MLIt) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Dear Sahana](https://open.spotify.com/album/6loqxevzupKX0NfMDfLGBu) | 5:07 |
 | 98 | [Superstitious](https://open.spotify.com/track/1KK30lewGW8fa1u5m0HiXo) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Another Life](https://open.spotify.com/album/3bSDWZhx8tem5bR8lbkBlH) | 3:13 |
 | 99 | [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 |
 | 100 | [Burn](https://open.spotify.com/track/4s4n72tnhMoGkx7G6ebpO4) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Burn](https://open.spotify.com/album/49NEXSdCRyD2sTcOeLeHIH) | 2:38 |
 
-Snapshot ID: `MCxkYTAwYmJiZThjYzc4NzIzOWNlZGRjYTNlODE2NjYyODk1NGYxOGY1`
+Snapshot ID: `MCwzNDc0ZWM1ZWM5YTMxNWNiNWVlNzM2ZDQ4ODQwZGJiYzRlNzMzYTY0`

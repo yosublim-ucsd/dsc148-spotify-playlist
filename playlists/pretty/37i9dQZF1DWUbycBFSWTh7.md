@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > Deephouse in the mix for your delight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,115 likes - 102 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,151 likes - 102 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 101 | [Mr Umbawa](https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Mr Umbawa](https://open.spotify.com/album/21108Crlzd9PnNWi5XJjyJ) | 7:35 |
 | 102 | [How U Do It](https://open.spotify.com/track/7dl5jIAxtO0Ix0e40PcjfJ) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [How U Do It](https://open.spotify.com/album/5dXd1Tk9Ih35K6X98aaQrL) | 4:46 |
 
-Snapshot ID: `MCxlZmI3MDU4YzNkMzI1MzBkMDIwMjFkZTI3MjdiYmJiMTBkNGQ0ZDMw`
+Snapshot ID: `MCwwY2FiYzY3OGUyMGI4OGU1YzIyNmNmZmZhYjZjYWNhOWI0MzlkM2Zj`

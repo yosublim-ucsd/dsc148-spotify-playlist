@@ -2089,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "Apna Bana Le (LoFi)",
+        "url": "https://open.spotify.com/album/3hCg8fuzLHxibmvSXANgbE"
+      },
+      "artists": [
+        {
+          "name": "Arpita Majumder",
+          "url": "https://open.spotify.com/artist/41flGyQ7gs16UjlaGILVYG"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53356,
+      "name": "Apna Bana Le (LoFi)",
+      "url": "https://open.spotify.com/track/2XqlZgTxuSCQXbl4NLoELQ"
+    },
+    {
+      "album": {
         "name": "Apna Banale (Lofi)",
         "url": "https://open.spotify.com/album/65mShlk38grbYtBCpIbQtV"
       },
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 186950,
       "name": "Aynen",
       "url": "https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG"
@@ -14290,7 +14308,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-05",
       "duration_ms": 233684,
       "name": "Kya Loge Tum",
       "url": "https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I"
@@ -21136,7 +21154,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 82514,
       "name": "PHONKGASKAR",
       "url": "https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"

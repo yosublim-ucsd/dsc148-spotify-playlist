@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,537 likes - 82 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,629 likes - 82 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 33 | [foreplay perfume](https://open.spotify.com/track/6LAyR6XDWI4fkESEkAhehx) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [midnight special](https://open.spotify.com/album/5YOL7cRFekvhQ2CmItnQzu) | 1:55 |
 | 34 | [seed](https://open.spotify.com/track/1yKxiVV3ETcGGcSZMs4Duq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 2:00 |
 | 35 | [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 |
-| 36 | [Summerwind](https://open.spotify.com/track/1YBb5s7JxiFQV9E7e4QThO) | [Slipp](https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Summerwind](https://open.spotify.com/album/3uhMWZk6MPkw6Amk2zonai) | 2:26 |
+| 36 | [Summerwind](https://open.spotify.com/track/1YBb5s7JxiFQV9E7e4QThO) | [Slipp](https://open.spotify.com/artist/6GDuVqrJldMcLnbJgAAiOI), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Summerwind](https://open.spotify.com/album/3uhMWZk6MPkw6Amk2zonai) | 2:26 |
 | 37 | [Touching Realness](https://open.spotify.com/track/2ESa9s5W3Cr80IseEzHP7O) | [K\-DEF](https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7) | [One Man Band](https://open.spotify.com/album/0w9EYiEPKzjrX0WQ48yUy2) | 2:01 |
 | 38 | [John Gotti \- Instrumental](https://open.spotify.com/track/1cGkCqQaLjuMSpQeKEUhXh) | [Sean Price](https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW), [Small Professor](https://open.spotify.com/artist/50wcJriOZeC8PbLSk8X9QP), [AG Da Coroner](https://open.spotify.com/artist/736quRgvvGLe7eBO18oUzx), [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [86 Witness \(Instrumentals\)](https://open.spotify.com/album/5t8JvlQa4ZNZBDaeYua6mf) | 3:18 |
 | 39 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 81 | [Players \- Instrumental](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
 | 82 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
 
-Snapshot ID: `MCxjYTQ4M2I2Y2Y0ZDQ0MDE0ZTU4YWI5MDM2Y2IyMTU1YjY0ODhkZjIw`
+Snapshot ID: `MCxiMTBlM2M4OGQ5ZDIxNWYyZjFhM2U4NDc1MWM2ZGI4MWM1MWIzMjZi`

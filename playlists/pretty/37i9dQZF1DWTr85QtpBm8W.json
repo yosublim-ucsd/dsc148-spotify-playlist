@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 7905,
+  "num_followers": 7967,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDk0YTU0M2ZlODBiOGViOWNmYTVlM2VmMTJlYTIyMGQ0NzhjMmVi",
+  "snapshot_id": "MCxjOTRiM2Q0MjYxNWZhZDNmMTI1NTJmMjBiNDE1ZTNkNzk5ODRmNTdl",
   "tracks": [
     {
       "added_at": "2023-05-22 15:11:18",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 311560,
-      "name": "Pop 1",
-      "url": "https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "The Campfire Headphase",
         "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 243546,
       "name": "Tears From The Compound Eye",
       "url": "https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 311560,
+      "name": "Pop 1",
+      "url": "https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -287,6 +287,22 @@
       "duration_ms": 300680,
       "name": "Will She Come Back",
       "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Corsair",
+      "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -355,6 +371,22 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 161853,
+      "name": "Sherbet Head",
+      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
         "name": "Copia",
         "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
       },
@@ -367,38 +399,6 @@
       "duration_ms": 198120,
       "name": "Amreik",
       "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
-      },
-      "artists": [
-        {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
-        }
-      ],
-      "duration_ms": 457146,
-      "name": "Requiem for Dying Mothers, Pt. 2",
-      "url": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
-        "name": "Geogaddi",
-        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Corsair",
-      "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+      },
+      "artists": [
+        {
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        }
+      ],
+      "duration_ms": 457146,
+      "name": "Requiem for Dying Mothers, Pt. 2",
+      "url": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
         "name": "Tape Chants",
         "url": "https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC"
       },
@@ -447,38 +463,6 @@
       "duration_ms": 76106,
       "name": "V",
       "url": "https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
-      },
-      "artists": [
-        {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
-        }
-      ],
-      "duration_ms": 397813,
-      "name": "Requiem for Dying Mothers, Pt. 1",
-      "url": "https://open.spotify.com/track/4iCjh6ybA5uiLSIAlcrFuV"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 161853,
-      "name": "Sherbet Head",
-      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -579,6 +563,22 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+      },
+      "artists": [
+        {
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        }
+      ],
+      "duration_ms": 397813,
+      "name": "Requiem for Dying Mothers, Pt. 1",
+      "url": "https://open.spotify.com/track/4iCjh6ybA5uiLSIAlcrFuV"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
         "name": "When the Detail Lost Its Freedom",
         "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 236773,
       "name": "Silent Motels",
       "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "The Disintegration Loops (Remastered)",
+        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 650213,
+      "name": "dlp 2.1",
+      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -631,22 +647,6 @@
       "duration_ms": 78579,
       "name": "Part 1.2",
       "url": "https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
-        "name": "The Disintegration Loops (Remastered)",
-        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 650213,
-      "name": "dlp 2.1",
-      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
-      },
-      "artists": [
-        {
-          "name": "Ishq",
-          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
-        }
-      ],
-      "duration_ms": 602933,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "Dropsonde",
         "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 410933,
       "name": "Warmed By the Drift",
       "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
+      },
+      "artists": [
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        }
+      ],
+      "duration_ms": 602933,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Prism of Eternal Now",
-        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
-      },
-      "artists": [
-        {
-          "name": "White Rainbow",
-          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
-        }
-      ],
-      "duration_ms": 404200,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "Glider",
         "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 341890,
       "name": "Already There",
       "url": "https://open.spotify.com/track/1KhqU5oOQeHSMkmFCUsU4j"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Prism of Eternal Now",
+        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
+      },
+      "artists": [
+        {
+          "name": "White Rainbow",
+          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+        }
+      ],
+      "duration_ms": 404200,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
-      },
-      "artists": [
-        {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
-        }
-      ],
-      "duration_ms": 550626,
-      "name": "Add Infinity",
-      "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 357866,
       "name": "Further Away",
       "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 550626,
+      "name": "Add Infinity",
+      "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "Betrayed in the Octagon",
         "url": "https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 524468,
       "name": "Woe Is the Transgression I",
       "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     },
     {
       "added_at": "2023-05-22 15:11:18",
