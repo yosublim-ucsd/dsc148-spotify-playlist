@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 6019,
+  "num_followers": 6052,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjY5ZmVlNjdiMTYwY2Y5MzRjMjk1ZTkzNTQwNTQ0MzA2MTliOTVj",
+  "snapshot_id": "MCw0YmRkMTA1YTJkM2ZlMjEyYWY0Y2Q2NzAzN2I1YjdlZGQ4ZTQ5ZWIw",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sing Like Never Before: The Essential Collection",
-        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Blessed Be Your Name",
-      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Ultimate Collection",
         "url": "https://open.spotify.com/album/5sDGZt6F7nKvUpigtTSepn"
       },
@@ -263,6 +247,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Jesus Freak (Remastered)",
+        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 305480,
+      "name": "In The Light - Remastered 2013",
+      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "As Family We Go",
         "url": "https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn"
       },
@@ -279,18 +279,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Jesus Freak (Remastered)",
-        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
       "artists": [
         {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 305480,
-      "name": "In The Light - Remastered 2013",
-      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
+      "duration_ms": 348893,
+      "name": "Blessed Be Your Name",
+      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -367,18 +367,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Don't Censor Me",
-        "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
+        "name": "8 Great Hits dc Talk",
+        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
       },
       "artists": [
         {
-          "name": "Audio Adrenaline",
-          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Big House",
-      "url": "https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs"
+      "duration_ms": 287173,
+      "name": "Jesus Freak",
+      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -399,18 +399,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "8 Great Hits dc Talk",
-        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
+        "name": "Don't Censor Me",
+        "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
       },
       "artists": [
         {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+          "name": "Audio Adrenaline",
+          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
         }
       ],
-      "duration_ms": 287173,
-      "name": "Jesus Freak",
-      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
+      "duration_ms": 211666,
+      "name": "Big House",
+      "url": "https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -427,6 +427,22 @@
       "duration_ms": 361173,
       "name": "Trading My Sorrows (Yes Lord)",
       "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Action Bible Songs",
+        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Rise And Shine (Arky, Arky)",
+      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -463,6 +479,26 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Won't Let Me Down",
+      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "The Worship Initiative, Vol. 2",
         "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
       },
@@ -483,22 +519,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Action Bible Songs",
-        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Rise And Shine (Arky, Arky)",
-      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Top 25 Praise Songs: 2005",
         "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 147400,
       "name": "Shine, Jesus Shine",
       "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Love Won't Let Me Down",
-      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -615,42 +615,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "We Are Young & Free (Live)",
-        "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Alive - Studio Version",
-      "url": "https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "More Than Good Enough",
-      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "We Belong To Jesus (feat. New Life Kids)",
         "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
       },
@@ -671,18 +635,38 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "You Tell Me",
-        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
       },
       "artists": [
         {
-          "name": "One Common",
-          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
         }
       ],
-      "duration_ms": 180600,
-      "name": "You Tell Me",
-      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "We Are Young & Free (Live)",
+        "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Alive - Studio Version",
+      "url": "https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -699,6 +683,22 @@
       "duration_ms": 160130,
       "name": "Fear Get Out of Here",
       "url": "https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "You Tell Me",
+        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
+      },
+      "artists": [
+        {
+          "name": "One Common",
+          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "You Tell Me",
+      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -751,38 +751,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Hymns",
-        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 126333,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "New Sound",
-        "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
-      },
-      "artists": [
-        {
-          "name": "Copper Pointe Worship",
-          "url": "https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Lift You Higher",
-      "url": "https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Ultimate Kids Worship",
         "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
       },
@@ -795,6 +763,22 @@
       "duration_ms": 232489,
       "name": "Nothing Is Impossible",
       "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 126333,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -815,6 +799,22 @@
       "duration_ms": 180000,
       "name": "My Strength (feat. Emily Hearn)",
       "url": "https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "New Sound",
+        "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
+      },
+      "artists": [
+        {
+          "name": "Copper Pointe Worship",
+          "url": "https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Lift You Higher",
+      "url": "https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714"
     },
     {
       "added_at": "2021-06-29 13:36:02",

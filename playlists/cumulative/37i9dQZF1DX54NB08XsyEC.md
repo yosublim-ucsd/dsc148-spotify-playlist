@@ -2,7 +2,7 @@
 
 ### [pov](https://open.spotify.com/playlist/37i9dQZF1DX54NB08XsyEC)
 
-> pov: oiiii sou eu d novo
+> pov: gentiiiii minha mae liberou to colandooo
 
 233 songs - 12 hr 35 min
 

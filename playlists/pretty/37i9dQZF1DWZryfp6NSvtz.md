@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,564 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,689 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 13 | [Be My Blues](https://open.spotify.com/track/5O8B5mYkwOCEVjV9P3qgy1) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Be My Blues](https://open.spotify.com/album/7aoVRsO2rD7sqDlW5JvWfG) | 3:53 |
 | 14 | [That Day](https://open.spotify.com/track/5jzBUYBQ32KhiNZwNIzfOh) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [That Day](https://open.spotify.com/album/0GaS3ctTC11J1Yq9YczkgC) | 2:04 |
 | 15 | [Kill the Moth](https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Kill the Moth](https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS) | 2:21 |
-| 16 | [My Mind is Eating Me Alive](https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F.](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:38 |
+| 16 | [My Mind is Eating Me Alive](https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:38 |
 | 17 | [Boogeyman Blues](https://open.spotify.com/track/2GC42YDOqiUF329fIVbUxW) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 2:55 |
 | 18 | [Dodging Sunshine \(Fever Dreams\)](https://open.spotify.com/track/1ln5j3zS7KDa4IYHJb2HyN) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC) | [Dodging Sunshine \(Fever Dreams\)](https://open.spotify.com/album/44WZJyA2WFQyFoXvczQXGc) | 3:36 |
 | 19 | [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow:noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Cats \(Not The Musical\)](https://open.spotify.com/track/6VjTBUdQS6CPwmFeIMtBUb) | [Feale](https://open.spotify.com/artist/1ZxOC2uaCSxUiRtAcEVzc2) | [Indoor Activities](https://open.spotify.com/album/4GXJkEPwG65tf7kdOapEIo) | 4:23 |
 | 50 | [Clever Girl](https://open.spotify.com/track/1PyXhPgECarpISE31xvOLi) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Clever Girl](https://open.spotify.com/album/5h5DO6f9Ql9BEX0r0d1EZb) | 2:24 |
 
-Snapshot ID: `MCw5OTczODAyOGNkMWQ4OTA2NDJmMDk4YTY5OWQwOTc5YzFiMWUzYTNh`
+Snapshot ID: `MCwwNDg4YzNkZGE3YzJkNGEyMmQzOWYwMjBlZDRiZDEwMmY4NmFjYzcz`

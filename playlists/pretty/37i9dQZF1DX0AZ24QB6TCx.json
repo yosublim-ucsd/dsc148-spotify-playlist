@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 295718,
+  "num_followers": 295784,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjAzOTUwMjI2ZGI4NGY4ZjI0YjhlN2Y1OTVjMzkzMzNkMmM1NGI5",
+  "snapshot_id": "MCxiMjlkNTMwNDNlZjgzOTE5NmQ0MmFiNWQxNGM3MGVjNjE4MTExNmZj",
   "tracks": [
     {
       "added_at": "2023-05-26 09:39:31",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-05-26 09:39:31",
       "album": {
-        "name": "Don't Let Go",
-        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 269799,
-      "name": "Don't Let Go",
-      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
-    },
-    {
-      "added_at": "2023-05-26 09:39:31",
-      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": "2023-05-26 09:39:31",
       "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 269799,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
+    },
+    {
+      "added_at": "2023-05-26 09:39:31",
+      "album": {
         "name": "Sunrays",
         "url": "https://open.spotify.com/album/1lW6V6LBuzGHECHFfjK6bB"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 231120,
       "name": "Sunrays",
       "url": "https://open.spotify.com/track/54wXdsqswPdmoMpxlDhRsm"
-    },
-    {
-      "added_at": "2023-05-26 09:39:31",
-      "album": {
-        "name": "Eastbound Silhouette",
-        "url": "https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa"
-      },
-      "artists": [
-        {
-          "name": "Tim Green",
-          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
-        }
-      ],
-      "duration_ms": 527618,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k"
     },
     {
       "added_at": "2023-05-26 09:39:31",
@@ -451,6 +435,22 @@
       "duration_ms": 220776,
       "name": "Love Will Tear Us Apart - Tensnake Remix",
       "url": "https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq"
+    },
+    {
+      "added_at": "2023-05-26 09:39:31",
+      "album": {
+        "name": "Eastbound Silhouette",
+        "url": "https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa"
+      },
+      "artists": [
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        }
+      ],
+      "duration_ms": 527618,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k"
     },
     {
       "added_at": "2023-05-26 09:39:31",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-05-26 09:39:31",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2023-05-26 09:39:31",
-      "album": {
         "name": "Juno",
         "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 258665,
       "name": "Ordel",
       "url": "https://open.spotify.com/track/22UDmbP8eiz97tNyACphRl"
+    },
+    {
+      "added_at": "2023-05-26 09:39:31",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2023-05-26 09:39:31",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-05-26 09:39:31",
       "album": {
+        "name": "Vanished",
+        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
+      },
+      "artists": [
+        {
+          "name": "Ceas",
+          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
+    },
+    {
+      "added_at": "2023-05-26 09:39:31",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS"
       },
@@ -759,38 +775,18 @@
     {
       "added_at": "2023-05-26 09:39:31",
       "album": {
-        "name": "Vanished",
-        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
+        "name": "Extended",
+        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
       },
       "artists": [
         {
-          "name": "Ceas",
-          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
         }
       ],
-      "duration_ms": 356000,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
-    },
-    {
-      "added_at": "2023-05-26 09:39:31",
-      "album": {
-        "name": "High On Beat",
-        "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Bloom Twins",
-          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
-        }
-      ],
-      "duration_ms": 206223,
-      "name": "High On Beat",
-      "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
+      "duration_ms": 200389,
+      "name": "Tacken",
+      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
     },
     {
       "added_at": "2023-05-26 09:39:31",
@@ -811,18 +807,22 @@
     {
       "added_at": "2023-05-26 09:39:31",
       "album": {
-        "name": "Extended",
-        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
+        "name": "High On Beat",
+        "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
       },
       "artists": [
         {
-          "name": "Modeselektor",
-          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Bloom Twins",
+          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
         }
       ],
-      "duration_ms": 200389,
-      "name": "Tacken",
-      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
+      "duration_ms": 206223,
+      "name": "High On Beat",
+      "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
     },
     {
       "added_at": "2023-05-26 09:39:31",

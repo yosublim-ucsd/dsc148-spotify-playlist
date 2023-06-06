@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 385739,
+  "num_followers": 386010,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTQ5MWM2ZjYzMzFkMTE0NzFiZjI4OGU3ZWE2NDE5NjE4MGI1N2I2",
+  "snapshot_id": "MCw4YjViNTMzNWRjNjYwMTRkMzQ3YWRmYTFlY2EyZTkzZDI4OTJkN2Zm",
   "tracks": [
     {
       "added_at": "2023-06-02 13:37:50",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "Indoor Voyager EP",
-        "url": "https://open.spotify.com/album/29wjqxriGDiYH1kFs4njxY"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 545813,
-      "name": "Tarlabasi - Be Svendsen Remix",
-      "url": "https://open.spotify.com/track/4cIDajUp2dMjKiDmDvFDg8"
-    },
-    {
-      "added_at": "2023-06-02 13:37:50",
-      "album": {
         "name": "The Silence",
         "url": "https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 263162,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN"
+    },
+    {
+      "added_at": "2023-06-02 13:37:50",
+      "album": {
+        "name": "Indoor Voyager EP",
+        "url": "https://open.spotify.com/album/29wjqxriGDiYH1kFs4njxY"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+        }
+      ],
+      "duration_ms": 545813,
+      "name": "Tarlabasi - Be Svendsen Remix",
+      "url": "https://open.spotify.com/track/4cIDajUp2dMjKiDmDvFDg8"
     },
     {
       "added_at": "2023-06-02 13:37:50",
@@ -467,26 +467,6 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 187620,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr"
-    },
-    {
-      "added_at": "2023-06-02 13:37:50",
-      "album": {
         "name": "Cuatro Vientos (HUGEL Version)",
         "url": "https://open.spotify.com/album/7HngPNqj7MKGWGgJShs68v"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 185624,
       "name": "Cuatro Vientos (HUGEL Version)",
       "url": "https://open.spotify.com/track/44SiXnPPTR872JUl1gdJ7x"
+    },
+    {
+      "added_at": "2023-06-02 13:37:50",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 187620,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr"
     },
     {
       "added_at": "2023-06-02 13:37:50",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
+        "name": "Egyptian Sun",
+        "url": "https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 257677,
+      "name": "Egyptian Sun",
+      "url": "https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH"
+    },
+    {
+      "added_at": "2023-06-02 13:37:50",
+      "album": {
         "name": "Unfold Voices EP",
         "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
       },
@@ -1051,26 +1071,6 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "Egyptian Sun",
-        "url": "https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 257677,
-      "name": "Egyptian Sun",
-      "url": "https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH"
-    },
-    {
-      "added_at": "2023-06-02 13:37:50",
-      "album": {
         "name": "I Know You",
         "url": "https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q"
       },
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
+        "name": "Endup",
+        "url": "https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        }
+      ],
+      "duration_ms": 483824,
+      "name": "Palomita",
+      "url": "https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u"
+    },
+    {
+      "added_at": "2023-06-02 13:37:50",
+      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 479920,
       "name": "Whistleman",
       "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
-    },
-    {
-      "added_at": "2023-06-02 13:37:50",
-      "album": {
-        "name": "Endup",
-        "url": "https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        }
-      ],
-      "duration_ms": 483824,
-      "name": "Palomita",
-      "url": "https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u"
     },
     {
       "added_at": "2023-06-02 13:37:50",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
+        "name": "Mistery Lady",
+        "url": "https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle"
+      },
+      "artists": [
+        {
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
+        },
+        {
+          "name": "Soulmanic",
+          "url": "https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Mistery Lady",
+      "url": "https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM"
+    },
+    {
+      "added_at": "2023-06-02 13:37:50",
+      "album": {
         "name": "This Is SH\u00c8N",
         "url": "https://open.spotify.com/album/0BuCz58hOxBFXmfocz8eWU"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 220252,
       "name": "Cure My Desire (feat. Clementine Douglas) - Themba Remix",
       "url": "https://open.spotify.com/track/5vaNPQoye1DYsXj0yckiCk"
-    },
-    {
-      "added_at": "2023-06-02 13:37:50",
-      "album": {
-        "name": "Mistery Lady",
-        "url": "https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle"
-      },
-      "artists": [
-        {
-          "name": "Curol",
-          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
-        },
-        {
-          "name": "Soulmanic",
-          "url": "https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Mistery Lady",
-      "url": "https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM"
     },
     {
       "added_at": "2023-06-02 13:37:50",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "Never Too Late",
-        "url": "https://open.spotify.com/album/55zrSnNkvIjCYzwryPY9LN"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 287039,
-      "name": "Never Too Late",
-      "url": "https://open.spotify.com/track/5FxRRLJT4jthUgAjUNNgVd"
-    },
-    {
-      "added_at": "2023-06-02 13:37:50",
-      "album": {
         "name": "Black Rain (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
+        "name": "Never Too Late",
+        "url": "https://open.spotify.com/album/55zrSnNkvIjCYzwryPY9LN"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 287039,
+      "name": "Never Too Late",
+      "url": "https://open.spotify.com/track/5FxRRLJT4jthUgAjUNNgVd"
+    },
+    {
+      "added_at": "2023-06-02 13:37:50",
+      "album": {
         "name": "Fact & Fiction / Can't Get Enough",
         "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "Die Dunkle Biene",
-        "url": "https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx"
-      },
-      "artists": [
-        {
-          "name": "Dominik Eulberg",
-          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
-        }
-      ],
-      "duration_ms": 465833,
-      "name": "Die Dunkle Biene",
-      "url": "https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP"
-    },
-    {
-      "added_at": "2023-06-02 13:37:50",
-      "album": {
         "name": "Starz",
         "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 300975,
       "name": "Starz",
       "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
+    },
+    {
+      "added_at": "2023-06-02 13:37:50",
+      "album": {
+        "name": "Die Dunkle Biene",
+        "url": "https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx"
+      },
+      "artists": [
+        {
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+        }
+      ],
+      "duration_ms": 465833,
+      "name": "Die Dunkle Biene",
+      "url": "https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP"
     },
     {
       "added_at": "2023-06-02 13:37:50",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "Falling Through the Ceiling",
-        "url": "https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y"
-      },
-      "artists": [
-        {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
-        }
-      ],
-      "duration_ms": 472131,
-      "name": "Falling Through the Ceiling",
-      "url": "https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2"
-    },
-    {
-      "added_at": "2023-06-02 13:37:50",
-      "album": {
         "name": "I Feel Love (Monkey Safari Remix)",
         "url": "https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 556908,
       "name": "I Feel Love - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/37nppJzOgypngu1szTRD06"
+    },
+    {
+      "added_at": "2023-06-02 13:37:50",
+      "album": {
+        "name": "Falling Through the Ceiling",
+        "url": "https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 472131,
+      "name": "Falling Through the Ceiling",
+      "url": "https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2"
     },
     {
       "added_at": "2023-06-02 13:37:50",
@@ -1687,30 +1687,6 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "Sinnerman (Henrik Schwarz Remixes)",
-        "url": "https://open.spotify.com/album/2gExT3JhznVFoXzH193gPr"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
-        },
-        {
-          "name": "Ed Graves",
-          "url": "https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI"
-        }
-      ],
-      "duration_ms": 215541,
-      "name": "Sinnerman (Henrik Schwarz Remix)",
-      "url": "https://open.spotify.com/track/6R8Wd6RO7P2wQ0Lhdjx82e"
-    },
-    {
-      "added_at": "2023-06-02 13:37:50",
-      "album": {
         "name": "Disappear (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7"
       },
@@ -1739,18 +1715,26 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg"
+        "name": "Sinnerman (Henrik Schwarz Remixes)",
+        "url": "https://open.spotify.com/album/2gExT3JhznVFoXzH193gPr"
       },
       "artists": [
         {
-          "name": "Agatha Pher",
-          "url": "https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ"
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        },
+        {
+          "name": "Ed Graves",
+          "url": "https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI"
         }
       ],
-      "duration_ms": 535081,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv"
+      "duration_ms": 215541,
+      "name": "Sinnerman (Henrik Schwarz Remix)",
+      "url": "https://open.spotify.com/track/6R8Wd6RO7P2wQ0Lhdjx82e"
     },
     {
       "added_at": "2023-06-02 13:37:50",
@@ -1779,26 +1763,6 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "Your Love (Agents of Time Remix)",
-        "url": "https://open.spotify.com/album/7yud1MBi2dNt3mqzfVXgXT"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 410410,
-      "name": "Your Love - Agents of Time Remix",
-      "url": "https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri"
-    },
-    {
-      "added_at": "2023-06-02 13:37:50",
-      "album": {
         "name": "Alabora",
         "url": "https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O"
       },
@@ -1819,6 +1783,42 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg"
+      },
+      "artists": [
+        {
+          "name": "Agatha Pher",
+          "url": "https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ"
+        }
+      ],
+      "duration_ms": 535081,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv"
+    },
+    {
+      "added_at": "2023-06-02 13:37:50",
+      "album": {
+        "name": "Your Love (Agents of Time Remix)",
+        "url": "https://open.spotify.com/album/7yud1MBi2dNt3mqzfVXgXT"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 410410,
+      "name": "Your Love - Agents of Time Remix",
+      "url": "https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri"
+    },
+    {
+      "added_at": "2023-06-02 13:37:50",
+      "album": {
         "name": "Feathers & Bones",
         "url": "https://open.spotify.com/album/5zbJlJNXWeaDybNeqKjUiN"
       },
@@ -1831,26 +1831,6 @@
       "duration_ms": 343080,
       "name": "Synthwave",
       "url": "https://open.spotify.com/track/5y37tkUEZ4zObsXHNjCoNG"
-    },
-    {
-      "added_at": "2023-06-02 13:37:50",
-      "album": {
-        "name": "Duel",
-        "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
-      },
-      "artists": [
-        {
-          "name": "Tim Green",
-          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
-        },
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        }
-      ],
-      "duration_ms": 574838,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
     },
     {
       "added_at": "2023-06-02 13:37:50",
@@ -1875,6 +1855,26 @@
       "duration_ms": 216520,
       "name": "I'm Everything - Chemical Surf Remix",
       "url": "https://open.spotify.com/track/41BjRZdMm0EPMGuKRYX757"
+    },
+    {
+      "added_at": "2023-06-02 13:37:50",
+      "album": {
+        "name": "Duel",
+        "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
+      },
+      "artists": [
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        },
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "duration_ms": 574838,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
     },
     {
       "added_at": "2023-06-02 13:37:50",
@@ -1959,66 +1959,50 @@
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/0uiBVJj45bQNSh0kYsUnav"
+        "name": "Under Darkening Skies",
+        "url": "https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU"
       },
       "artists": [
         {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        },
-        {
-          "name": "Liset Alea",
-          "url": "https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv"
-        },
-        {
-          "name": "RJLA",
-          "url": "https://open.spotify.com/artist/5kNFgh5lrjDoe6HtpTzRHf"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
         }
       ],
-      "duration_ms": 211122,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/34Q9Ai7qwAYdFnFegPxeqD"
+      "duration_ms": 277608,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
     },
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "Badaboom",
-        "url": "https://open.spotify.com/album/6GtOaxvnG8Fo0Fnq9q4EOY"
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/5QP8mNwbdpxuz9cLG49igL"
       },
       "artists": [
         {
-          "name": "GIGEE",
-          "url": "https://open.spotify.com/artist/7mqebOCOql0RKtn1bGUdOd"
-        },
-        {
-          "name": "Dirty Doering",
-          "url": "https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea"
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
         }
       ],
-      "duration_ms": 282451,
-      "name": "Badaboom",
-      "url": "https://open.spotify.com/track/61YqMg1ZvpN18snP7JCuh3"
+      "duration_ms": 331457,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA"
     },
     {
       "added_at": "2023-06-02 13:37:50",
       "album": {
-        "name": "Intuici\u00f3n",
-        "url": "https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE"
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
       },
       "artists": [
         {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        },
-        {
-          "name": "Sil Romero",
-          "url": "https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG"
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
         }
       ],
-      "duration_ms": 252790,
-      "name": "Intuici\u00f3n",
-      "url": "https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny"
+      "duration_ms": 377225,
+      "name": "Psilocybin",
+      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
     }
   ],
   "unique_name": "Tantra",

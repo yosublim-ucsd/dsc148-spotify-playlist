@@ -1,12 +1,12 @@
 {
   "description": "cant wait till hyperpop2 drops [Cover: Madge]",
-  "num_followers": 399224,
+  "num_followers": 399458,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Nzg3Njg2ZDZkYmMyNTRhMzcxZjZjZjVkZjg3MjQwNGJjMjkxNDU0",
+  "snapshot_id": "MCw1NDFkZWQwYjU2OGY2MmJmNTA5ZWNmMTNmNjgzODViY2MyMDhhNmYw",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -219,6 +219,30 @@
       "duration_ms": 110510,
       "name": "NARCISSISTIC PERSONALITY DISORDER",
       "url": "https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29"
+    },
+    {
+      "added_at": "2023-06-05 14:23:18",
+      "album": {
+        "name": "Sassy Scene",
+        "url": "https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Pixel Hood",
+          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
+        }
+      ],
+      "duration_ms": 135160,
+      "name": "Hands up!",
+      "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1731,22 +1755,6 @@
       "duration_ms": 192000,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "GOD",
-        "url": "https://open.spotify.com/album/2Gb9UYPyRrI8Y9eswb7vrM"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "GOD",
-      "url": "https://open.spotify.com/track/0QozTtDAwSRv9FW5tWiaH4"
     }
   ],
   "unique_name": "hyperpop",

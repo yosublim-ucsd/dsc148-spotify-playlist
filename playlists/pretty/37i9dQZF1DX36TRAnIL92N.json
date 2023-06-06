@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 157277,
+  "num_followers": 157783,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTA4YTExNjg4NzgxMjc3MmU1NTMyNDY5NDIwZTIxMTY2NjlhYmQx",
+  "snapshot_id": "MCwzZDhkZmQ3N2EwODQ1YjQ1NDYwZmIzYjM2ZmM2OGU4MWIzYjIwZmE2",
   "tracks": [
     {
       "added_at": "2023-06-02 14:30:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
+        "name": "Traffic",
+        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
-        "name": "Traffic",
-        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Traffic",
-      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "A-Sides, Vol. 6",
         "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 314666,
       "name": "Alle meine Raver",
       "url": "https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm"
     },
     {
       "added_at": "2023-06-02 14:30:00",

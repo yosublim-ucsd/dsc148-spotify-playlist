@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.
 
-135 songs - 8 hr 9 min
+136 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cómplices](https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Cómplices](https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE) | 3:48 | 2023-05-19 |  |
 | [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 | 2023-04-14 |  |
 | [De Nada Sirve](https://open.spotify.com/track/17lgXGSt1GJ8M4Thl9dodV) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [De Nada Sirve](https://open.spotify.com/album/7a0I2kC5zlbuLb11m1gsdE) | 6:45 | 2023-03-17 | 2023-03-25 |
+| [Debilidad](https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [Debilidad](https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP) | 4:23 | 2023-06-02 |  |
 | [Del Tiempo \- Original Mix](https://open.spotify.com/track/0gDKVCXvgaJj0tbf5TgyQ6) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Manu Ela](https://open.spotify.com/artist/0HelIc5UNdohCdMZY6fxWT) | [Les disques du bord de l'eau: Winter EP 2021](https://open.spotify.com/album/6PdsZ0lXptJ1cwutsHk7KL) | 5:10 | 2023-03-17 | 2023-06-04 |
 | [Desorden](https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desorden](https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ) | 3:56 | 2023-03-17 |  |
 | [Desvelado](https://open.spotify.com/track/3pBq1csYqJNKdN6pejHFqY) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB) | [Desvelado](https://open.spotify.com/album/0upQNva6VzLG68XrIDJMS1) | 3:17 | 2023-05-05 |  |
@@ -118,7 +119,7 @@
 | [Si Sólo](https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Si sólo](https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV) | 3:42 | 2023-05-26 |  |
 | [Siempre Es Igual](https://open.spotify.com/track/5540xPMsRNUBNg3yUEfbrv) | [Ambos dos](https://open.spotify.com/artist/5NuHV0om1dRyMk96aEpALz), [Lux Raptor](https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq) | [Siempre Es Igual](https://open.spotify.com/album/6fsYus0FgpIpAThWwk32oT) | 3:29 | 2023-04-07 |  |
 | [SIN TITULOS \(feat\. Ill Quentin\)](https://open.spotify.com/track/3482mjPy9pVBrZYLdepECc) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [NO MAS PROMESAS](https://open.spotify.com/album/3I5Io6jrsxPFYAQAghhoFw) | 2:53 | 2023-03-17 |  |
-| [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 | 2023-03-17 |  |
+| [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 | 2023-03-17 | 2023-06-06 |
 | [Sombra](https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Sombra](https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G) | 2:59 | 2023-04-14 |  |
 | [soy gris](https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [soy gris](https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC) | 3:00 | 2023-03-17 | 2023-05-28 |
 | [Sudeste Asiático \(Felics Remix\)](https://open.spotify.com/track/1bR9Otq0AMnfZFWQCu4zMd) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l) | [Sudeste Asiático \(Felics Remix\)](https://open.spotify.com/album/5slqi6BYWHecGV9ICWhqWH) | 3:45 | 2023-03-17 | 2023-05-06 |

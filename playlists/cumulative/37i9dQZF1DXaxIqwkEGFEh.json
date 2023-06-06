@@ -17141,6 +17141,24 @@
     },
     {
       "album": {
+        "name": "WAY I WALK",
+        "url": "https://open.spotify.com/album/5Sc7471agIN9TTuDl2XEpn"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150319,
+      "name": "WAY I WALK",
+      "url": "https://open.spotify.com/track/4qR7X2u3zkeBBwxlabexLh"
+    },
+    {
+      "album": {
         "name": "We Droppin' (feat. PGF Nuk)",
         "url": "https://open.spotify.com/album/02a5YA3rWMRQz1ZqWZ19BA"
       },

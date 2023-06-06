@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=R5F2Z7QUQLCahiHPgAoBXw">Prince Kaybee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,003 likes - 55 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,093 likes - 55 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 54 | [Ewallet](https://open.spotify.com/track/3dnalT0K3cynUUcxLGT6gZ) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [AB Crazy](https://open.spotify.com/artist/2AV7bayWSUDsA3Iwb7b7UN), [Nhlonipho](https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW) | [Ewallet](https://open.spotify.com/album/5waXBwSbwwRqd4s0eJZmPy) | 2:55 |
 | 55 | [Isitha](https://open.spotify.com/track/2QzESAhMEUCh34GK2gNfqA) | [SKHANDAWORLD](https://open.spotify.com/artist/0iiSx3ZdR8ts3ePVzNbbwH), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [K.O](https://open.spotify.com/artist/1d6JzYUN2E6MIt9HmepdPk), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD), [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V) | [Isitha](https://open.spotify.com/album/6n82FERUn8vSDBe9p1Zq6q) | 3:40 |
 
-Snapshot ID: `MCw4NDk2YmQzYjc5ZTI2MmVhNTFiNjA3YWM4ZGE3ZmJjMjdiMTc3ZWM0`
+Snapshot ID: `MCwzOTM4M2M3NTQ4Njk0NTM2YTlmNjYxZjI3YjQyNzNiZmFjZjYxZmQ0`

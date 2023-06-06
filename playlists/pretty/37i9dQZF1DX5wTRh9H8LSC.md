@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 
 > Listen Heroine's music 24 Hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,635 likes - 36 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,643 likes - 36 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 | 13 | [Borderline](https://open.spotify.com/track/2ufe0UMTd8ay3irNf1kIsX) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 2:54 |
 | 14 | [TAIL](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:10 |
 | 15 | [What The Flower](https://open.spotify.com/track/3uVqwK7jRfNb04b5i4hJqT) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:25 |
-| 16 | [When We Disco \(Duet with SUNMI\)](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) | 3:44 |
+| 16 | [When We Disco](https://open.spotify.com/track/7C7BgAc0fEcNzQZqTc6eQL) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/3cftLnzB9VeNPp5LRWqHNo) | 3:44 |
 | 17 | [pporappippam](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 |
 | 18 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
 | 19 | [Siren](https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 3:19 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 | 35 | [멈춰버린 시간](https://open.spotify.com/track/4AgEO6iy3fsyLbpjAdt42g) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 4:38 |
 | 36 | [그게 너라면](https://open.spotify.com/track/5ISTy9kctyjm2zNW9TeZqI) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:47 |
 
-Snapshot ID: `MCw3YTFlZmFhMDE2NjU5MDBlMDNlNTYwNDJkMTQ1MzQ1Y2FkNDkxMDIx`
+Snapshot ID: `MCxjZTU0NjllMjkzYjk4ZDk1NTI3NmM1M2RmOTZlNGViMjQ3ZjNiMWRl`

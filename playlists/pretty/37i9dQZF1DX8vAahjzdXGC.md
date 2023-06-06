@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,578 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,615 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 15 | [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 |
 | 16 | [Never Let You Go \- From "Mozachiko"](https://open.spotify.com/track/6cqAHYs7EBn7CKIRU3rSmr) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Never Let You Go \(From "Mozachiko"\)](https://open.spotify.com/album/0LmduZS0xgYxgYN5oCzeCD) | 3:26 |
 | 17 | [Spunky!](https://open.spotify.com/track/2qyBRnUVfj227PJqLiynkg) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/50fMxlCKUEz8M4aRo0IHe7) | 2:10 |
-| 18 | [Mona Lisa \- Spider\-Man: Across the Spider\-Verse \(Deluxe Edition\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \- Spider\-Man: Across the Spider\-Verse \(Deluxe Edition\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
+| 18 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
 | 19 | [Have A Good Summer \(Without Me\)](https://open.spotify.com/track/4A1GjAsAWjxBV4rzgOAOxR) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Have A Good Summer \(Without Me\)](https://open.spotify.com/album/6mYoXbJuW8w6wSQ5f6GMHs) | 3:30 |
 | 20 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 |
 | 21 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 98 | [Time To Heal](https://open.spotify.com/track/4pNSnFdR9E5WxbQ8e2HEK2) | [Slowtide](https://open.spotify.com/artist/41f1vHXmxOA75UN3dSP9vQ), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Time To Heal](https://open.spotify.com/album/4DxU8hOSO8ADfLe1ZETByN) | 3:40 |
 | 99 | [Falling Again \(feat\. guardin\)](https://open.spotify.com/track/4BsCEHOIZqwKCV1blNUckP) | [Galvanic](https://open.spotify.com/artist/3GQj08iHefTniyhHjCVBov), [Smeyeul.](https://open.spotify.com/artist/4IXRiE1MOvty3H8tQ0KvTO), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [Falling Again \(feat\. guardin\)](https://open.spotify.com/album/4nLFd4CXZVSqjqNKhXUcaT) | 3:29 |
 
-Snapshot ID: `MCw5N2ZmYmNkYmVlZjEzYThkYzI3Y2MxMDUxOWEzMzBhNjY3ZmQ4ZGZh`
+Snapshot ID: `MCxhZjkyYThhZmQyZTY3N2MzOGMwZTVlYjQ4YzNkMTIyZmIwNWFhMTkx`

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall Robinson
 
-69 songs - 3 hr 53 min
+71 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Kanmoodiye](https://open.spotify.com/track/2IkUztqsbiqVPZutx7SPqX) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Sheyel Rajahselvam](https://open.spotify.com/artist/0tuS7DqEUTKWxChYOAn4ix) | [Kanmoodiye](https://open.spotify.com/album/5ME9QeRHBoS38pspVVNsVb) | 2:40 | 2023-05-08 |  |
 | [Kannaamoochi](https://open.spotify.com/track/3PsFYwXnytC7hR2Ev23oLq) | [Anand Sudhan](https://open.spotify.com/artist/7j3EpyzdP3GTNT1wEkqqMo), [Yajeevan](https://open.spotify.com/artist/70cWAz6LxWVbbYiTsMXTWr), [Krishna Kumary](https://open.spotify.com/artist/3HpH2sE2VtmIVGLEsYE0eI) | [Kannaamoochi](https://open.spotify.com/album/5UbrVTI1I3deiyXCa55X5s) | 3:36 | 2023-03-21 |  |
 | [Kannil Veesum](https://open.spotify.com/track/5Csa0chWVHlZAKDIGKmYkG) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Kannil Veesum](https://open.spotify.com/album/0k9njB0P9brJuvg3tkEEcQ) | 4:00 | 2023-03-21 |  |
+| [Kazhivara](https://open.spotify.com/track/386Irrx3UfMmOwzmKX3b8m) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Suppliers](https://open.spotify.com/artist/3nWI57X6Dtnu7lbHwl3amD) | [Lord Poetry](https://open.spotify.com/album/4illQIaW2DayH6iEItSC7x) | 3:04 | 2023-06-05 |  |
 | [Koothu](https://open.spotify.com/track/6tP9H2YghB2KaNdWZwlVTp) | [Siennor](https://open.spotify.com/artist/7llcZ59fwsSv4nEx3mgu31) | [Agappor](https://open.spotify.com/album/6AV0XvOWE51QL7LozwDy2T) | 1:48 | 2023-04-28 |  |
 | [Lalala Cindrella](https://open.spotify.com/track/03tXg4jq1WCOvYLlb0GOq4) | [Chandar Karunakaran](https://open.spotify.com/artist/0n7QXUrwDAmArjWNgyrBmO), [Avinash Sivan](https://open.spotify.com/artist/5wCbzqnV8mRtQPNya06r1h) | [Enakkena Oru Ulagam](https://open.spotify.com/album/4MGM3Vn0QSI4VZUIVmqjiv) | 3:47 | 2023-03-21 |  |
 | [Love Meter](https://open.spotify.com/track/6IGhRREqgIPISI2PYWWoMT) | [NIlan Ratnarajah](https://open.spotify.com/artist/71omujW4dIU5qSEcDJWGYF), [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB) | [Love Meter](https://open.spotify.com/album/2Wkg54aEEoT0aYJqzYXc4X) | 3:13 | 2023-03-21 |  |
@@ -62,6 +63,7 @@
 | [Oru Uvamai](https://open.spotify.com/track/5UMeOW8eAD5XRI9JnqG1Ta) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Oru Uvamai](https://open.spotify.com/album/1OJk6AwLsV8dqT4xLmDgAD) | 3:02 | 2023-03-21 |  |
 | [Pona Pongadi](https://open.spotify.com/track/44EKpEa7RPINMRh70iJiRZ) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Pona Pongadi](https://open.spotify.com/album/30WzaLds8K34mD3vvVkaAg) | 3:18 | 2023-04-03 |  |
 | [Pongal Puliyodharai](https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [RamGanesh K](https://open.spotify.com/artist/3qAXnWDWUgfGyD2TGS5t5M) | [Pongal Puliyodharai](https://open.spotify.com/album/5wViXAX88oexvwv18gE447) | 2:49 | 2023-04-03 | 2023-05-31 |
+| [Rain Rain Poi Thola](https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Rain Rain Poi Thola](https://open.spotify.com/album/6YfSHRJ3GMjWTPgPDMVjyR) | 3:28 | 2023-06-05 |  |
 | [Rawberry](https://open.spotify.com/track/75G1vgDH5uaNklFyy3hvtn) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB) | [Rawberry](https://open.spotify.com/album/3DBSRW3AKEmMarwen6zTg1) | 2:48 | 2023-04-24 |  |
 | [Rowdy Ponnu](https://open.spotify.com/track/2joKMaye4sULpsCJuWZf3y) | [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK) | [Rowdy Ponnu](https://open.spotify.com/album/58UMFmyJVJNino9P24WRND) | 3:44 | 2023-04-10 |  |
 | [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-03-21 |  |

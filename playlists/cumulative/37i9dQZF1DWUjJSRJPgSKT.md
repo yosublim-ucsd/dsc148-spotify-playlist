@@ -2,7 +2,7 @@
 
 ### [Upbeat Jazz](https://open.spotify.com/playlist/37i9dQZF1DWUjJSRJPgSKT)
 
-> Up tempo jazz classics.
+> Uptempo jazz classics.
 
 112 songs - 12 hr 16 min
 

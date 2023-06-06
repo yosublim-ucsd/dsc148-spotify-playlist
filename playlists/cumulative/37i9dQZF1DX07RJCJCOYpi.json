@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The wave of Latin Electronic music. Cover: Marshmello & Farruko ",
+  "description": "The wave of Latin Electronic music. Cover: MJ Nebreda",
   "name": "mint Latin",
   "tracks": [
     {
@@ -3435,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "ESFERA DE AMOR",
+        "url": "https://open.spotify.com/album/2MxR4pWsCM8n0Bp8RhYcu9"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151698,
+      "name": "POLIDRAMA",
+      "url": "https://open.spotify.com/track/541cVQIUsnOYmOna54whVE"
+    },
+    {
+      "album": {
         "name": "Potente",
         "url": "https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y"
       },
@@ -4550,6 +4568,24 @@
       "duration_ms": 303626,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw"
+    },
+    {
+      "album": {
+        "name": "SEROTONINA",
+        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157074,
+      "name": "VOLVER\u00c1S",
+      "url": "https://open.spotify.com/track/0GlBekgy9Z2YEKCHxj33T2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Discover indie covers\. Cover: Lovejoy
 
-396 songs - 1 day 0 hr 18 min
+397 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [Time Out of Mind](https://open.spotify.com/track/495mG0890vzv6TGc4Fltxd) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Time Out of Mind](https://open.spotify.com/album/3RQ11zU2MBm5mz5xEHXGRB) | 3:39 | 2021-03-12 | 2022-07-18 |
 | [To Love Somebody](https://open.spotify.com/track/3cvy4tBUqyobzmY6RuwA72) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [To Love Somebody](https://open.spotify.com/album/6DYLccj0e1SPoIYOWyua3c) | 3:34 | 2022-05-20 | 2022-07-29 |
 | [To Ramona](https://open.spotify.com/track/1DNHSNJIRaA9AI6KBHXmSq) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V), [Matthew Logan Vasquez](https://open.spotify.com/artist/4ndN8LWSsLWQqbWVJD8miG) | [To Ramona](https://open.spotify.com/album/6jsZz2IA32nYjLDh5JqNwE) | 5:08 | 2021-04-02 | 2022-06-22 |
-| [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 | 2021-03-12 |  |
+| [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 | 2021-03-12 | 2023-06-06 |
 | [Today](https://open.spotify.com/track/51687Ggg1BMhFGufB2WmrF) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Today](https://open.spotify.com/album/3tSFoDl4xhYkcUadWfCY6N) | 4:15 | 2021-03-12 | 2022-07-29 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-03-09 |  |
 | [Tonight Tonight](https://open.spotify.com/track/0jzYWajrQdUtNzcFtBOtNl) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Tonight Tonight](https://open.spotify.com/album/5UMoMmwxOJFOlF2JQguF56) | 3:34 | 2021-10-08 | 2022-07-29 |
@@ -385,6 +385,7 @@
 | [Why Can't I](https://open.spotify.com/track/0diSTXJMz375F30ec95DJ0) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 4:15 | 2021-03-19 | 2022-07-07 |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv) | 2:32 | 2022-02-25 | 2023-01-14 |
 | [Wicked Game.](https://open.spotify.com/track/6V8hkPRestS5H6EfmqjqtA) | [Mcevoy](https://open.spotify.com/artist/75RCH6Pr8XrCnvWdbMwgVa) | [Wicked Game.](https://open.spotify.com/album/5ZHJlXrPKXThCjhDtWHQlu) | 2:36 | 2021-03-12 | 2022-04-21 |
+| [Will The Night \- Live At Electric Lady](https://open.spotify.com/track/2gztNsDYuFD9JT55WkF9MX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Live At Electric Lady](https://open.spotify.com/album/3yNllkDnE2TupPL70cSVzR) | 2:49 | 2023-06-05 |  |
 | [Will You Still Love Me Tomorrow?](https://open.spotify.com/track/3JHS3zCxhB82wuCLKIGZ7H) | [Groove Da Praia](https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw), [DJ Leao](https://open.spotify.com/artist/7686VIQ7AquEtoHpM0rrQW) | [Will You Still Love Me Tomorrow?](https://open.spotify.com/album/5GNTZHXJwm0SO6oKZs8UOH) | 3:30 | 2021-03-12 | 2022-04-21 |
 | [Wouldn’t It Be Nice](https://open.spotify.com/track/3d7iBJrADpmv9B5sEy0QUA) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [KŌAN B](https://open.spotify.com/album/5ZudF1lVet6DmPVwKDBhy8) | 2:44 | 2022-05-20 | 2022-06-24 |
 | [Yellow](https://open.spotify.com/track/0zDDc616MQciHCOLiPDacv) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Yellow](https://open.spotify.com/album/5rDeSu6DH2SN50hlPQvnaY) | 4:32 | 2021-03-12 | 2022-08-10 |

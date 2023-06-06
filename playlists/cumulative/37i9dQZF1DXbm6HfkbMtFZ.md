@@ -2,7 +2,7 @@
 
 ### [Feel Good Dinner](https://open.spotify.com/playlist/37i9dQZF1DXbm6HfkbMtFZ)
 
-> An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
+> 
 
 505 songs - 1 day 6 hr 30 min
 

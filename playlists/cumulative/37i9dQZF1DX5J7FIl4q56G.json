@@ -27629,6 +27629,24 @@
     },
     {
       "album": {
+        "name": "Heavy Friends",
+        "url": "https://open.spotify.com/album/4544LwAo6RqD35G4EWf9u9"
+      },
+      "artists": [
+        {
+          "name": "Boris",
+          "url": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289133,
+      "name": "Heavy Friends",
+      "url": "https://open.spotify.com/track/2VEamv1GrepvxhStHkZAwE"
+    },
+    {
+      "album": {
         "name": "Heavy Is The Crown",
         "url": "https://open.spotify.com/album/5TtmOTZjo4LvagdKOyO3Jy"
       },

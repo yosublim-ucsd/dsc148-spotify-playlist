@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 26987,
+  "num_followers": 27007,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWYxY2JkMzA3NDhjMDY2OTY5MGU5MTZhZTY0YjU4MDczZGNmOTc1",
+  "snapshot_id": "MCxhYzI5NTA3M2NmMjZhZTFhYmU5ZDQ2NDQ1YzE3YjVhNjQxNzlkNjNk",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -171,26 +171,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Soweto Blues",
         "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 298997,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -679,6 +679,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Information",
+        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 272893,
+      "name": "Been A Long Night",
+      "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Information",
-        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 272893,
-      "name": "Been A Long Night",
-      "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Aletheia",
         "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 346361,
       "name": "Aletheia",
       "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "When You Focus On The Good The Good Gets Better",
-        "url": "https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm"
-      },
-      "artists": [
-        {
-          "name": "Devante Embers",
-          "url": "https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT"
-        }
-      ],
-      "duration_ms": 428023,
-      "name": "When You Focus On The Good The Good Gets Better",
-      "url": "https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -767,6 +751,22 @@
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "When You Focus On The Good The Good Gets Better",
+        "url": "https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm"
+      },
+      "artists": [
+        {
+          "name": "Devante Embers",
+          "url": "https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT"
+        }
+      ],
+      "duration_ms": 428023,
+      "name": "When You Focus On The Good The Good Gets Better",
+      "url": "https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Midnight Voyage",
-        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
-      },
-      "artists": [
-        {
-          "name": "Tunnelvisions",
-          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Nyiri",
-      "url": "https://open.spotify.com/track/6Yyyghn9wTZNL8RZ3Es0HF"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Black Focus",
         "url": "https://open.spotify.com/album/7HH2nntfXgLHCwjy6Xee79"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 508773,
       "name": "Strings of Light",
       "url": "https://open.spotify.com/track/4phT0Ii53pffqWYxJLQyOI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Midnight Voyage",
+        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+      },
+      "artists": [
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Nyiri",
+      "url": "https://open.spotify.com/track/6Yyyghn9wTZNL8RZ3Es0HF"
     },
     {
       "added_at": "2021-10-08 17:36:35",

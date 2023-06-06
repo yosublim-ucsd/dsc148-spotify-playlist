@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-88 songs - 4 hr 52 min
+89 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Banja Beimaan](https://open.spotify.com/track/4F6hIftaEtiZqX7O9qohUo) | [Siddharth Agarwal](https://open.spotify.com/artist/0khYzwgAKUdtcnxx3ETNRs) | [Banja Beimaan](https://open.spotify.com/album/5iiyu8Old8pPtzM0HULCVE) | 4:32 | 2023-05-17 |  |
 | [Bechara Dil \(feat\. Ishaan Nigam\)](https://open.spotify.com/track/5qwJbElzgetMpn5fVYFsyO) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil \(feat\. Ishaan Nigam\)](https://open.spotify.com/album/0EqCYTvlwapU4OdjUfoEkP) | 2:41 | 2023-05-31 |  |
 | [Bikhra](https://open.spotify.com/track/6YnilfIRgLOzlOrqPEOEnb) | [Vaibhav Malhotra](https://open.spotify.com/artist/5wHCytYglbwzeqqfClAI1j) | [Afsana](https://open.spotify.com/album/17yHafgTW0pQ2yGcanLduv) | 3:25 | 2023-05-17 | 2023-05-27 |
+| [Bolo Na](https://open.spotify.com/track/3lX88j758RWOL5B7uAM3tR) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Bolo Na](https://open.spotify.com/album/58XBnOka4Z1C8NEyvbAd38) | 3:10 | 2023-06-05 |  |
 | [Chalenge Wahin](https://open.spotify.com/track/4ivXGD5mirJrO1Y6w88J1K) | [Anushka Gupta](https://open.spotify.com/artist/72383grtnEIxiyYCo76KtJ) | [Chalenge Wahin](https://open.spotify.com/album/7eIWWjP5MxC2AQCoPDQD2A) | 3:37 | 2023-05-24 |  |
 | [Chhipa Hoon](https://open.spotify.com/track/7ufgQB1szGY68NSXxCGFnV) | [Anupam Hazra](https://open.spotify.com/artist/1aKIIGG77pUWHh51RDdmW8) | [Chhipa Hoon](https://open.spotify.com/album/6lF4M45kwtSY83I3CjMoa5) | 4:07 | 2023-05-17 |  |
 | [DARMIYAN](https://open.spotify.com/track/3QJRS9EGOweIgeqZ4M7m6H) | [Isis Paul](https://open.spotify.com/artist/0bBfNUh8Ud2skCAxD2g5Z5), [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Sagar Satpute](https://open.spotify.com/artist/7qafwPWhC9pjVtB43gSm3a) | [DARMIYAN](https://open.spotify.com/album/0L4oUESTyLktM4tm7uzOur) | 2:15 | 2023-06-02 |  |
@@ -64,7 +65,7 @@
 | [Lamhon/ Sadiyon](https://open.spotify.com/track/4jmLlG2c1rvAmKmuMKvwO9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Lamhon/ Sadiyon](https://open.spotify.com/album/5XyWfUVBUQIhFDD31UdvJJ) | 3:23 | 2023-05-17 | 2023-06-03 |
 | [Malang Sa \- Acoustic](https://open.spotify.com/track/2Eai5asMu911MtRd4eyHHF) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL) | [Malang Sa \(Acoustic\)](https://open.spotify.com/album/2Rzu58Cx0ajSRkqcDPNGap) | 2:54 | 2023-05-17 |  |
 | [Maula Mere Maula \(Unplugged\)](https://open.spotify.com/track/6e0qTj2XNMxtOnPLU1HPDm) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Maula Mere Maula \(Unplugged\) \- Single](https://open.spotify.com/album/2P4Ah2ZCSihdOfama7aMJy) | 2:59 | 2023-05-17 |  |
-| [Meherbaan](https://open.spotify.com/track/0wJ9ScQ2fMJspiwOU1oO12) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Amjad Bagadwa](https://open.spotify.com/artist/1ShV4w1KY1Sofk04H6qzdL) | [Meherbaan](https://open.spotify.com/album/0YxC1L4SSsWUrg5OgoyTEi) | 2:56 | 2023-05-25 |  |
+| [Meherbaan](https://open.spotify.com/track/0wJ9ScQ2fMJspiwOU1oO12) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Amjad Bagadwa](https://open.spotify.com/artist/1ShV4w1KY1Sofk04H6qzdL) | [Meherbaan](https://open.spotify.com/album/0YxC1L4SSsWUrg5OgoyTEi) | 2:56 | 2023-05-25 | 2023-06-06 |
 | [Mein Aur Tum](https://open.spotify.com/track/2xb679KGUYTQUXeJK0IqMo) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Mein Aur Tum](https://open.spotify.com/album/7JjirikQXBXGNkoSHMmTFm) | 2:49 | 2023-05-17 | 2023-05-26 |
 | [Meri Jaan](https://open.spotify.com/track/3uilAC3xBH3PclTwcOZLPG) | [Nitin Sharma](https://open.spotify.com/artist/3MJdIBBwnU6bgvdZ5Opq1b), [Swati Marwal](https://open.spotify.com/artist/5AaZWpvlOxpKkBYfBR3PDQ) | [Meri Jaan \- Single](https://open.spotify.com/album/20JpqXx3m3XsWEROa6JCfd) | 3:17 | 2023-05-17 |  |
 | [Moonrise \- Acoustic Version](https://open.spotify.com/track/0lyVQP4aWjnbW3T3a21wh9) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise \(Acoustic Version\)](https://open.spotify.com/album/40UTvukiFB88tuyc3oN2NJ) | 2:44 | 2023-05-17 |  |

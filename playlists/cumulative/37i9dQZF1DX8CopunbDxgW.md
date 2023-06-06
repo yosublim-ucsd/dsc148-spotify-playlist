@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Overmono
 
-807 songs - 2 day 5 hr 3 min
+808 songs - 2 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Beautiful](https://open.spotify.com/track/5KgHHyIkSf7NBYllVJfhJF) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Beautiful](https://open.spotify.com/album/4HdbjrrLN9BjHfmtZ1riof) | 3:31 | 2021-07-16 | 2022-02-01 |
 | [Beautiful Morning](https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Beautiful Morning](https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL) | 3:07 | 2022-10-28 |  |
 | [Bedroom Eyes \(feat\. Studio Killers\)](https://open.spotify.com/track/4XP2xY8tUYed1cceuh24Q8) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Bedroom Eyes \(feat\. Studio Killers\)](https://open.spotify.com/album/2rOw4IFkPQWBo6gG3hB7qY) | 2:58 | 2021-06-25 | 2022-02-12 |
-| [Begin Again \- Joe Goddard Remix / Edit](https://open.spotify.com/track/0TB9IbEirDvATrQ9ES0i5j) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Begin Again \(Joe Goddard Remix\)](https://open.spotify.com/album/3SAhg9lUwKbeCHuNo5KNZs) | 3:59 | 2023-05-12 |  |
+| [Begin Again \- Joe Goddard Remix / Edit](https://open.spotify.com/track/0TB9IbEirDvATrQ9ES0i5j) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Begin Again \(Joe Goddard Remix\)](https://open.spotify.com/album/3SAhg9lUwKbeCHuNo5KNZs) | 3:59 | 2023-05-12 | 2023-06-06 |
 | [Better Now \(feat\. MARO\)](https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Better Now \(feat\. MARO\)](https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo) | 3:14 | 2022-03-04 | 2023-04-01 |
 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 | 2022-01-28 | 2022-07-27 |
 | [Bhāvachakra](https://open.spotify.com/track/1nz0SvhvjKHHX8NoSUeG3P) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Postcards](https://open.spotify.com/album/2SVXasIqoidpW4SxciKSxg) | 3:31 | 2022-07-29 | 2022-09-18 |
@@ -298,6 +298,7 @@
 | [HAUNTED](https://open.spotify.com/track/0kWaEuv3fZXOPeBNMG6iGc) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [HAUNTED](https://open.spotify.com/album/02TfV5DbvB82aAL0zVgZGj) | 5:15 | 2021-10-29 | 2022-11-30 |
 | [He Loves Me 2 \- Steve Silk Hurley Original 12 Inch](https://open.spotify.com/track/2iKOc0YdnY4jlJxzZvuFac) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD), [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [He Loves Me 2](https://open.spotify.com/album/5ad7oG1DNSvsVYZSWEIOIt) | 8:42 | 2022-01-28 | 2022-02-12 |
 | [Head On \- Miss Grit Remix](https://open.spotify.com/track/2etTUUZRsSJn4oNuZXvAJn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Head On EP](https://open.spotify.com/album/1kmN7lxLayS5azCGXn7e0n) | 4:04 | 2023-03-31 | 2023-04-15 |
+| [Head Straight](https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Head Straight](https://open.spotify.com/album/2MjQxYxyjRGEBgkBzlCcll) | 2:20 | 2023-06-05 |  |
 | [Headlights \(feat\. bülow\)](https://open.spotify.com/track/6szHZTNSEfNOdrTJ2bRPzr) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Headlights / Ford](https://open.spotify.com/album/5VFwZHUlxlIPsqVc82LDIc) | 3:06 | 2021-07-30 | 2022-04-15 |
 | [headstrong gunner](https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [headstrong gunner](https://open.spotify.com/album/2F4tvdjZIfNQhQUh2iCgjt) | 1:55 | 2023-03-10 |  |
 | [Heavy \(feat\. Your Smith\)](https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Heavy \(feat\. Your Smith\)](https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA) | 3:22 | 2021-11-05 | 2022-07-29 |

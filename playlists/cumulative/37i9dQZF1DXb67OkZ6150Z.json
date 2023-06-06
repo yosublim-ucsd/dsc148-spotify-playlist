@@ -6336,7 +6336,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 255633,
       "name": "Today",
       "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
@@ -7008,6 +7008,24 @@
       "duration_ms": 156310,
       "name": "Wicked Game.",
       "url": "https://open.spotify.com/track/6V8hkPRestS5H6EfmqjqtA"
+    },
+    {
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/3yNllkDnE2TupPL70cSVzR"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169666,
+      "name": "Will The Night - Live At Electric Lady",
+      "url": "https://open.spotify.com/track/2gztNsDYuFD9JT55WkF9MX"
     },
     {
       "album": {

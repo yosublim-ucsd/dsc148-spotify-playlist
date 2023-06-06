@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tedua, Ensi e Nerone, Salmo e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,554 likes - 85 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,601 likes - 85 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [Maradona \(feat\. Freek\)](https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Maradona \(feat\. Freek\)](https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep) | 2:57 |
 | 85 | [TN NOIR](https://open.spotify.com/track/7FgP6zMPt73AFMy5GBq1GJ) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [TN NOIR](https://open.spotify.com/album/2juH2yKkzcQWvzRBdsIizH) | 2:40 |
 
-Snapshot ID: `MCxjNDY0ODhlYjg0NmNhMTljZDcxYTkzYzQ5NDIxOTMyYmI3ZTE4MThl`
+Snapshot ID: `MCxkYzk3YjljOWNmMzcyOTNjZDkxNWNmZWQ4MmU3ZDVkMTYxMTUzYjIw`

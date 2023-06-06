@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Dave, J Hus, Lil Durk, Jack Harlow, Drake and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,516 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,874 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [Spooky Shit.](https://open.spotify.com/track/323Aol9VAFndxhTaIVxqV0) | [Trill Hunnid Ke](https://open.spotify.com/artist/060e8JfWsQ4SemQo5iB8h4) | [Spooky Shit.](https://open.spotify.com/album/7f7xbV76grCg1PJeQSYpVe) | 2:31 |
 | 50 | [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 |
 
-Snapshot ID: `MCxiMzQzMjlhZDljOTQyYmJiYWY4ZmJjNzY5NjdlNzVjYjQxNzYzZDhm`
+Snapshot ID: `MCw2ZGI2NWU4MzUzNTI5MmJkZDk2MWI3OGU4NmE3ODA0YzM2NDNiNTU4`

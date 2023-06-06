@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "BLEEP BLOOP",
+        "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "BLEEP BLOOP",
+      "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
+    },
+    {
+      "album": {
         "name": "Blinding",
         "url": "https://open.spotify.com/album/39eGOxLGyql1izxsJjK7lS"
       },
@@ -4559,6 +4577,24 @@
     },
     {
       "album": {
+        "name": "k-means clustering",
+        "url": "https://open.spotify.com/album/1neFologMhWAEkYg5BA5M4"
+      },
+      "artists": [
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "k-means clustering",
+      "url": "https://open.spotify.com/track/6FhTODcUxevTUTnbKelCvB"
+    },
+    {
+      "album": {
         "name": "Karibu",
         "url": "https://open.spotify.com/album/4oKkFqArAgFKTrXbs9IGJk"
       },
@@ -6854,7 +6890,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 233142,
       "name": "Pursuit of Violence",
       "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: DURDN
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,722 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,050 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [金剛力士像](https://open.spotify.com/track/3y9ImuUtxOU6ZlAkbB5SRc) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [RABBIT STAR ★](https://open.spotify.com/album/0eK9iO9xQ5lcTGcXAggJzT) | 3:28 |
 | 50 | [kajitsukyoso](https://open.spotify.com/track/2lqAElAA0BEZcSe9wyKL8I) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [kajitsukyoso](https://open.spotify.com/album/15QuOefdY8WQ7Mcutatrt5) | 4:17 |
 
-Snapshot ID: `MCw5ZTExOGIwYzJlMzRlZDFhYjZhZTI0OTAzYWRlZjNhYTdjYWI0NTg4`
+Snapshot ID: `MCxkYWIzNTI3NzllNGRiMzFkZTE0MmQwMzVkZmYzOTQ3Y2ZlNzlhNDli`

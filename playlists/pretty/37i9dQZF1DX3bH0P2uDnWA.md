@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,257 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,449 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 119 | [Gluttony \- MC Vaud Villian Remix](https://open.spotify.com/track/1nddm6gXvUH9Sj6WdxQRGF) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Yvette Pylant](https://open.spotify.com/artist/1KA3XlnRF1f2EnTA50rf27), [MC Vaud Villian](https://open.spotify.com/artist/6nPrIblvX5f5VUTLk6FCzk) | [Gluttony \(Vaud Villain Remix\)](https://open.spotify.com/album/5bX16imMJdCFpOk4pqffVs) | 3:34 |
 | 120 | [Hold the Night](https://open.spotify.com/track/55KhvVzqoaNEgaRTDmu6Zg) | [Lyre Le Temps](https://open.spotify.com/artist/6jX8VHUJomYSfi5Hobdmmn) | [Lady Swing](https://open.spotify.com/album/1EWFmpi36vurwa8xRzye8E) | 4:20 |
 
-Snapshot ID: `MCwxMWZjZjU1ZjNiNjM5OTM1MGE5YjU0NmJjMzA0MzA4ZTEwMjQ4MGEz`
+Snapshot ID: `MCw1NThkOWUxMTRiZDE2MzhjOTU2MjY0MmQ3NmM0YTZmNGYyMmI2NDBh`

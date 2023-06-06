@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 4297,
+  "num_followers": 4309,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2RhOTUzZGIxOGYyZDFhMjA3Nzg1OGIxOTgxZDZhNzNkOTFhM2Fk",
+  "snapshot_id": "MCxiMThlMjcyZjU0MzNhNGViYWRjN2JkZTdhNGNhYjUyNDRmNzQ5ZDBm",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -463,6 +463,22 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
+        "name": "Gang War",
+        "url": "https://open.spotify.com/album/52JrEiptr41fxnyaD8oZYK"
+      },
+      "artists": [
+        {
+          "name": "Prince Charles And The City Beat Band",
+          "url": "https://open.spotify.com/artist/4MY00RhSxz9sIaTKQX8q7b"
+        }
+      ],
+      "duration_ms": 339480,
+      "name": "Tight Jeans",
+      "url": "https://open.spotify.com/track/7ltgjbYbyoRYCuLTFnAt5L"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
         "name": "Play That Beat Mr. D.J.",
         "url": "https://open.spotify.com/album/4k6IzdXEKMiQ8LiJUmsiDU"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 395114,
       "name": "Play That Beat Mr. D.J. - 12\" Full Length",
       "url": "https://open.spotify.com/track/3kWGNtHAzBgrgDxPLnQq2j"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
-        "name": "Gang War",
-        "url": "https://open.spotify.com/album/52JrEiptr41fxnyaD8oZYK"
-      },
-      "artists": [
-        {
-          "name": "Prince Charles And The City Beat Band",
-          "url": "https://open.spotify.com/artist/4MY00RhSxz9sIaTKQX8q7b"
-        }
-      ],
-      "duration_ms": 339480,
-      "name": "Tight Jeans",
-      "url": "https://open.spotify.com/track/7ltgjbYbyoRYCuLTFnAt5L"
     },
     {
       "added_at": "2020-08-28 18:46:05",

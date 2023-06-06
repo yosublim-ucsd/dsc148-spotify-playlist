@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 464973,
       "name": "Billion Words",
       "url": "https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u"
@@ -1758,6 +1758,24 @@
       "duration_ms": 303674,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/1ei1YUmhJwUPZOXicTNjFW"
+    },
+    {
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
     },
     {
       "album": {

@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127163,
+  "num_followers": 127174,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDIzMyxhZmNmMmJlOGY3N2RkNTcyNDZkODcyMjM4Y2IzZGY5N2I0ZjVmZWM5",
+  "snapshot_id": "NDIzOCwzMDk2YzA0ZDU3ZTI0MjE0Yzg1MjU3OWQ5Yjg5YmQ0OTIwZTY3Yjcx",
   "tracks": [
+    {
+      "added_at": "2023-06-05 19:08:42",
+      "album": {
+        "name": "k-means clustering",
+        "url": "https://open.spotify.com/album/1neFologMhWAEkYg5BA5M4"
+      },
+      "artists": [
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "k-means clustering",
+      "url": "https://open.spotify.com/track/6FhTODcUxevTUTnbKelCvB"
+    },
+    {
+      "added_at": "2023-06-05 19:06:29",
+      "album": {
+        "name": "BLEEP BLOOP",
+        "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "BLEEP BLOOP",
+      "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
+    },
     {
       "added_at": "2023-06-02 19:23:35",
       "album": {
@@ -1075,26 +1107,6 @@
       "duration_ms": 200000,
       "name": "Moonstone",
       "url": "https://open.spotify.com/track/2QWxkFKhi9YUtrQmf9JHxU"
-    },
-    {
-      "added_at": "2023-03-14 16:35:01",
-      "album": {
-        "name": "Pursuit of Violence",
-        "url": "https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Pursuit of Violence",
-      "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

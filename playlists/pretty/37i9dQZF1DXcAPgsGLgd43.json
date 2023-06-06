@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3126,
+  "num_followers": 3130,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWM4MjI2ZjhjMzA5YjkzNGZlMDI4MDRiOTk2ODMzOThhYzEyM2Iy",
+  "snapshot_id": "MCw5ZTFkYzMzNzBiOGQ4ZjJmMjNmYzgzNWVlYmUzZWZjYzRmOWU3Yzg1",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -229,26 +229,6 @@
       "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
     },
     {
-      "added_at": "2021-10-29 16:16:48",
-      "album": {
-        "name": "Talamanca (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Talamanca - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX"
-    },
-    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Witch Doctor",
@@ -267,6 +247,26 @@
       "duration_ms": 186666,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/4lWGhzUW3dTPDMX9EII1Fc"
+    },
+    {
+      "added_at": "2021-10-29 16:16:48",
+      "album": {
+        "name": "Talamanca (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Talamanca - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -331,30 +331,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Magalenha (feat. Sergio Mendes)",
-        "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        },
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Magalenha (feat. Sergio Mendes)",
-      "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Party's Jumpin",
         "url": "https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy"
       },
@@ -391,6 +367,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Los Tamales",
+        "url": "https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 334838,
+      "name": "Los Tamales",
+      "url": "https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Mamacita",
         "url": "https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc"
       },
@@ -411,18 +403,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Los Tamales",
-        "url": "https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW"
+        "name": "Magalenha (feat. Sergio Mendes)",
+        "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
       },
       "artists": [
         {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
         }
       ],
-      "duration_ms": 334838,
-      "name": "Los Tamales",
-      "url": "https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M"
+      "duration_ms": 209551,
+      "name": "Magalenha (feat. Sergio Mendes)",
+      "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -499,26 +499,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Bailar Riddim",
-        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Bailar Riddim",
-      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Si Tu Sabe",
         "url": "https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll"
       },
@@ -579,18 +559,18 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
+        "name": "Dirty Spanish",
+        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
       },
       "artists": [
         {
-          "name": "Bart B More",
-          "url": "https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0"
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
         }
       ],
-      "duration_ms": 201720,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
+      "duration_ms": 274833,
+      "name": "Dirty Spanish",
+      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -619,18 +599,38 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Dirty Spanish",
-        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
+        "name": "Bailar Riddim",
+        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
       },
       "artists": [
         {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
         }
       ],
-      "duration_ms": 274833,
-      "name": "Dirty Spanish",
-      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
+      "duration_ms": 211200,
+      "name": "Bailar Riddim",
+      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
+      },
+      "artists": [
+        {
+          "name": "Bart B More",
+          "url": "https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
+      },
+      "artists": [
+        {
+          "name": "Joan Cases",
+          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Cuban Riddim",
         "url": "https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 167619,
       "name": "Cuban Riddim",
       "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
-      },
-      "artists": [
-        {
-          "name": "Joan Cases",
-          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Calle EP",
         "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u"
-      },
-      "artists": [
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Ay Papi",
         "url": "https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 205161,
       "name": "Ay Papi",
       "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
+    },
+    {
+      "added_at": "2021-10-15 05:57:00",
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -883,22 +899,6 @@
       "duration_ms": 157530,
       "name": "Vagabundos",
       "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
-    },
-    {
-      "added_at": "2021-10-15 05:57:00",
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg"
-      },
-      "artists": [
-        {
-          "name": "Dot N Life",
-          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
     },
     {
       "added_at": "2021-10-08 15:53:55",

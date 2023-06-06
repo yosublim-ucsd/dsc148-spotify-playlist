@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: YMA, Jadsa
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,357 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,368 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Aqueles Homens](https://open.spotify.com/track/546dLtXOOsyvEN6jBJSqYz) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL) | [Aqueles Homens](https://open.spotify.com/album/3UHBNu5gqCpsLJsKG6J7gH) | 4:43 |
 | 70 | [Lobo](https://open.spotify.com/track/48AzQaxVmEx9HCu6jfagDd) | [Valentin](https://open.spotify.com/artist/25VoPjFx405WzNspA0BDw9), [Jair Naves](https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai) | [Lobo](https://open.spotify.com/album/5j0BG1bA5EcZwFieujIKhr) | 4:21 |
 
-Snapshot ID: `MCw3Yjg2MTcxNzM1YzE4ZjZhMWE3NDBlODA4YjE1ZTNkYmJhMTZlN2Q2`
+Snapshot ID: `MCwzM2FlYmFmM2M4MzAyMDA0MjMxNmVlODYwZWQyMTgwOGEyM2QxYTgx`

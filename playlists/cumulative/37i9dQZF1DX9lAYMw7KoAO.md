@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here! Cover:  <a href="https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"> Moses Bliss</a>
 
-235 songs - 22 hr 7 min
+236 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Miracles \- Acoustic](https://open.spotify.com/track/4XDdJZpUECwugZjR9IULnJ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Miracles](https://open.spotify.com/album/0CsD3Bep6RQez7Dhqg8urZ) | 3:08 | 2023-03-31 |  |
 | [Mkono Wa Bwana](https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Mkono Wa Bwana](https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF) | 5:49 | 2023-03-31 | 2023-04-28 |
 | [Mon ami](https://open.spotify.com/track/1oF5GGhDR8gwhqAyKHaJZY) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [1er amour](https://open.spotify.com/album/0fqCEJ1f2Hdb1rJMtROfS5) | 2:44 | 2023-04-07 | 2023-04-21 |
+| [More Than a Song \- Live](https://open.spotify.com/track/0dzxARoS1ba8g01fzqU4Ob) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [More Than a Song \(Live\)](https://open.spotify.com/album/6603NDkKT3gyBk2qS94ad5) | 6:09 | 2023-06-05 |  |
 | [Most High \- African Worship Medley/Live](https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 4:58 | 2018-10-01 | 2023-04-01 |
 | [Mountain](https://open.spotify.com/track/16ZRvSAYlxXqtKBjCqpEb2) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Mountain](https://open.spotify.com/album/18ryHbK7atMLyoC8AqTYlZ) | 3:19 | 2023-04-14 |  |
 | [My Altar \(Cover\)](https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [My Altar \(Cover\)](https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P) | 6:57 | 2023-04-28 |  |

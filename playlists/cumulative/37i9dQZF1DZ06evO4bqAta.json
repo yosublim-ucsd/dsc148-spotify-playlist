@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 165426,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 161466,
       "name": "Corrina, Corrina",
       "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 252066,
       "name": "It's All Over Now, Baby Blue",
       "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
@@ -752,6 +752,24 @@
       "duration_ms": 290466,
       "name": "Just Like a Woman",
       "url": "https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN"
+    },
+    {
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266080,
+      "name": "Just Like Tom Thumb's Blues",
+      "url": "https://open.spotify.com/track/7naITqWKtxEbiTHehogniH"
     },
     {
       "album": {
@@ -874,7 +892,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 267106,
       "name": "Man Gave Names to All the Animals",
       "url": "https://open.spotify.com/track/5mGq3cybgQDZgTEbu9ldV9"
@@ -910,7 +928,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 271360,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"

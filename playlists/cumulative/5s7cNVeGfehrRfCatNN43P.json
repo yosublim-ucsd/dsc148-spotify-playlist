@@ -23979,6 +23979,24 @@
     },
     {
       "album": {
+        "name": "We Could Be The One",
+        "url": "https://open.spotify.com/album/48IIrMkjEllIHdiAO3YASh"
+      },
+      "artists": [
+        {
+          "name": "Dannii Minogue",
+          "url": "https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204146,
+      "name": "We Could Be the One",
+      "url": "https://open.spotify.com/track/45Kr3PruCNV384DWuhd2bU"
+    },
+    {
+      "album": {
         "name": "THE DELLA VARIANT",
         "url": "https://open.spotify.com/album/2Pqj9HuNS0iixWi8vMOL6X"
       },

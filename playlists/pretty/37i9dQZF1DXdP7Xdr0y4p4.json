@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 8236,
+  "num_followers": 8252,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWMyYTIzN2U0ZTg0YTYwY2VmY2VhZDAzMmYwNDgyZWI5NjI3NWFk",
+  "snapshot_id": "MCwwM2ZlOGJhMmU2ZmViOWE1MDBiOTJmMzcxYzAxMDYxYzcyMjVhODNm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Thinking 'Bout Home (Live)",
-        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 245825,
-      "name": "Thinking 'Bout Home - Live",
-      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Just Sing!",
         "url": "https://open.spotify.com/album/3HEPflkMDvnyoTXpnarPQz"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 247254,
       "name": "Overcome - Radio Edit",
       "url": "https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Thinking 'Bout Home (Live)",
+        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 245825,
+      "name": "Thinking 'Bout Home - Live",
+      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Great Is His Faithfulness",
-        "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
-      },
-      "artists": [
-        {
-          "name": "The Collingsworth Family",
-          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
-        },
-        {
-          "name": "Olivia Collingsworth",
-          "url": "https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC"
-        }
-      ],
-      "duration_ms": 288546,
-      "name": "Great Is His Faithfulness",
-      "url": "https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 198493,
       "name": "Steppin' out in Faith",
       "url": "https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Great Is His Faithfulness",
+        "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
+      },
+      "artists": [
+        {
+          "name": "The Collingsworth Family",
+          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
+        },
+        {
+          "name": "Olivia Collingsworth",
+          "url": "https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC"
+        }
+      ],
+      "duration_ms": 288546,
+      "name": "Great Is His Faithfulness",
+      "url": "https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
-      },
-      "artists": [
-        {
-          "name": "Triumphant Quartet",
-          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
+      },
+      "artists": [
+        {
+          "name": "Triumphant Quartet",
+          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Favorites: On Repeat",
         "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 270840,
       "name": "Favorite Song of All",
       "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Bring That Giant Down",
-        "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
-      },
-      "artists": [
-        {
-          "name": "11th Hour",
-          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
-        }
-      ],
-      "duration_ms": 208359,
-      "name": "Bring That Giant Down",
-      "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -703,18 +687,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "On Jordan's Stormy Banks",
-        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
+        "name": "Bring That Giant Down",
+        "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
       },
       "artists": [
         {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          "name": "11th Hour",
+          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
         }
       ],
-      "duration_ms": 276000,
-      "name": "On Jordan's Stormy Banks",
-      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
+      "duration_ms": 208359,
+      "name": "Bring That Giant Down",
+      "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -731,6 +715,22 @@
       "duration_ms": 194198,
       "name": "Future Glory",
       "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "On Jordan's Stormy Banks",
+        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "On Jordan's Stormy Banks",
+      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
-      },
-      "artists": [
-        {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Power In The Blood (We Give Thanks For The Blood)",
         "url": "https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 350715,
       "name": "Power In The Blood (We Give Thanks For The Blood)",
       "url": "https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+      },
+      "artists": [
+        {
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1079,38 +1079,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
-      },
-      "artists": [
-        {
-          "name": "Wisecarvers",
-          "url": "https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit"
-        }
-      ],
-      "duration_ms": 219867,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "McKamey Legacy",
-        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
-      },
-      "artists": [
-        {
-          "name": "McKamey Legacy",
-          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "God is Still Good",
-      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S"
       },
@@ -1131,18 +1099,50 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "How Good The Good News Feels",
-        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
+        "name": "McKamey Legacy",
+        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
       },
       "artists": [
         {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+          "name": "McKamey Legacy",
+          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
         }
       ],
-      "duration_ms": 202000,
-      "name": "How Good The Good News Feels",
-      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
+      "duration_ms": 157000,
+      "name": "God is Still Good",
+      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
+      },
+      "artists": [
+        {
+          "name": "Wisecarvers",
+          "url": "https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit"
+        }
+      ],
+      "duration_ms": 219867,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "The Lighthouse (50 Year Celebration)",
+        "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
+      },
+      "artists": [
+        {
+          "name": "Ronny Hinson",
+          "url": "https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs"
+        }
+      ],
+      "duration_ms": 262212,
+      "name": "The Lighthouse - 50 Year Celebration",
+      "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The Lighthouse (50 Year Celebration)",
-        "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
+        "name": "How Good The Good News Feels",
+        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
       },
       "artists": [
         {
-          "name": "Ronny Hinson",
-          "url": "https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs"
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
         }
       ],
-      "duration_ms": 262212,
-      "name": "The Lighthouse - 50 Year Celebration",
-      "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
+      "duration_ms": 202000,
+      "name": "How Good The Good News Feels",
+      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1223,38 +1223,6 @@
       "duration_ms": 235328,
       "name": "Lord's Prayer",
       "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Every Story Whispers His Name",
-        "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
-      },
-      "artists": [
-        {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Every Story Whispers His Name",
-      "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "The World Needs a Song",
-        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
-      },
-      "artists": [
-        {
-          "name": "The Lore Family",
-          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
-        }
-      ],
-      "duration_ms": 191056,
-      "name": "The World Needs a Song",
-      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1319,6 +1287,38 @@
       "duration_ms": 199382,
       "name": "In Your Hands",
       "url": "https://open.spotify.com/track/5jv8q8RMsCZLsLoughuYcK"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "I Don't Belong",
+        "url": "https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "The World Needs a Song",
+        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
+      },
+      "artists": [
+        {
+          "name": "The Lore Family",
+          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
+        }
+      ],
+      "duration_ms": 191056,
+      "name": "The World Needs a Song",
+      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
     }
   ],
   "unique_name": "Streets Of Gold",

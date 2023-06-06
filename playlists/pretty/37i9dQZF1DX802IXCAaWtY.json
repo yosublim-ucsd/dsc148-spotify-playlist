@@ -1,12 +1,12 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 980444,
+  "num_followers": 981019,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTA3NDZiMzg2NDgzZjE4YjBlNGIwMzk3MWEyNjJmZTBjOTQyN2Zm",
+  "snapshot_id": "MCwwOGM4ODEzYjQzY2ZjM2NiMmU4N2NjZmIzMGUxYWZmNTFhZDgxZTNk",
   "tracks": [
     {
       "added_at": "2022-12-30 13:00:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-12-30 13:00:00",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2022-12-30 13:00:00",
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 215973,
       "name": "Scatman (ski-ba-bop-ba-dop-bop)",
       "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
-    },
-    {
-      "added_at": "2022-12-30 13:00:00",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2022-12-30 13:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-30 13:00:00",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 285426,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
-    },
-    {
-      "added_at": "2022-12-30 13:00:00",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 217539,
       "name": "We're Going To Ibiza!",
       "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
+    },
+    {
+      "added_at": "2022-12-30 13:00:00",
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
     },
     {
       "added_at": "2022-12-30 13:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-12-30 13:00:00",
       "album": {
-        "name": "To The Maxximum",
-        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Get A Way",
-      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
-    },
-    {
-      "added_at": "2022-12-30 13:00:00",
-      "album": {
         "name": "L'Amour Toujour",
         "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 242053,
       "name": "L'amour Toujours (Small Mix)",
       "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
+    },
+    {
+      "added_at": "2022-12-30 13:00:00",
+      "album": {
+        "name": "To The Maxximum",
+        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "Get A Way",
+      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
     },
     {
       "added_at": "2022-12-30 13:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-12-30 13:00:00",
       "album": {
+        "name": "Ice 'n' Green",
+        "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
+      },
+      "artists": [
+        {
+          "name": "Ice Mc",
+          "url": "https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "It's a Rainy Day",
+      "url": "https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC"
+    },
+    {
+      "added_at": "2022-12-30 13:00:00",
+      "album": {
         "name": "Dune",
         "url": "https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 213240,
       "name": "Hardcore Vibes",
       "url": "https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx"
-    },
-    {
-      "added_at": "2022-12-30 13:00:00",
-      "album": {
-        "name": "Ice 'n' Green",
-        "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
-      },
-      "artists": [
-        {
-          "name": "Ice Mc",
-          "url": "https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "It's a Rainy Day",
-      "url": "https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC"
     },
     {
       "added_at": "2022-12-30 13:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-12-30 13:00:00",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 209014,
-      "name": "Somebody Dance with Me",
-      "url": "https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r"
-    },
-    {
-      "added_at": "2022-12-30 13:00:00",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG"
       },
@@ -1043,6 +1027,38 @@
       "duration_ms": 222666,
       "name": "The Key, The Secret",
       "url": "https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS"
+    },
+    {
+      "added_at": "2022-12-30 13:00:00",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
+    },
+    {
+      "added_at": "2022-12-30 13:00:00",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "duration_ms": 209014,
+      "name": "Somebody Dance with Me",
+      "url": "https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r"
     },
     {
       "added_at": "2022-12-30 13:00:00",
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2022-12-30 13:00:00",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+        "name": "Feel the heat of the night",
+        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
       },
       "artists": [
         {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+          "name": "Masterboy",
+          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
+      "duration_ms": 221840,
+      "name": "Feel the heat of the night - Radio Edit",
+      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
     },
     {
       "added_at": "2022-12-30 13:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 226933,
       "name": "Flying High - Radio Mix",
       "url": "https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa"
-    },
-    {
-      "added_at": "2022-12-30 13:00:00",
-      "album": {
-        "name": "Feel the heat of the night",
-        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
-      },
-      "artists": [
-        {
-          "name": "Masterboy",
-          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Feel the heat of the night - Radio Edit",
-      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
     },
     {
       "added_at": "2022-12-30 13:00:00",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2022-12-30 13:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/0Nt7LlU91CFX0yrtXL5DUM"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
       },
       "artists": [
         {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "La Trec",
+          "url": "https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv"
         }
       ],
-      "duration_ms": 236693,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/0pXhsuk0u7vzOtBYdFkaAs"
+      "duration_ms": 212560,
+      "name": "Stay - Original Single Edit",
+      "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
     }
   ],
   "unique_name": "90s Dance Party",

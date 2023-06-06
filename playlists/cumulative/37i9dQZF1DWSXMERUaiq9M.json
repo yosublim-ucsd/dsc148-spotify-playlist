@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Sektion 3",
+        "url": "https://open.spotify.com/album/1nGOgACCBlA4Hmrlm8Xkpd"
+      },
+      "artists": [
+        {
+          "name": "Franck",
+          "url": "https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342483,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/1VZcEYRfYUuFywp4ns4pxd"
+    },
+    {
+      "album": {
         "name": "Chaotic NRG",
         "url": "https://open.spotify.com/album/4FCtpzPYcNWouVVI3crsdV"
       },
@@ -190,7 +208,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 280208,
       "name": "Chaotic NRG",
       "url": "https://open.spotify.com/track/5FKmQG3seap8bwPjbmQc5a"
@@ -313,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Double Tap",
+        "url": "https://open.spotify.com/album/31cA2G8w5XuCbSLU8ccPiu"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190005,
+      "name": "Double Tap",
+      "url": "https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7"
+    },
+    {
+      "album": {
         "name": "Eckstein Eckstein",
         "url": "https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA"
       },
@@ -372,7 +408,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 180774,
       "name": "Enter The Dragon (Are You Up?)",
       "url": "https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9"
@@ -398,6 +434,24 @@
       "duration_ms": 374774,
       "name": "Euro Visions - Marlon Hoffstadt AKA Dj Daddy Trance Remix",
       "url": "https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ"
+    },
+    {
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258573,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk"
     },
     {
       "album": {
@@ -608,10 +662,32 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 241750,
       "name": "I've Been Meaning To Tell You",
       "url": "https://open.spotify.com/track/5n3ukwahCHdDfgDN4Vs4V0"
+    },
+    {
+      "album": {
+        "name": "G-COAST",
+        "url": "https://open.spotify.com/album/0HpE2gIz2xoO6kkKMyu89c"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        },
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280010,
+      "name": "Ich bin ready - DJ Gigola Version",
+      "url": "https://open.spotify.com/track/2vVC5wEtP5klz59i8HO2j9"
     },
     {
       "album": {
@@ -892,7 +968,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 329188,
       "name": "Luzifer - feat. Ufo361",
       "url": "https://open.spotify.com/track/5UnIFgOpnUaKsukuB66GXg"
@@ -954,6 +1030,28 @@
       "duration_ms": 253548,
       "name": "Mayday Anthem - Thomas Schumacher Remix",
       "url": "https://open.spotify.com/track/0h5bjHIioNsHAV58lcNVqs"
+    },
+    {
+      "album": {
+        "name": "Looks are deceiving",
+        "url": "https://open.spotify.com/album/7epuFIB3jRTj3pWBBPqWCj"
+      },
+      "artists": [
+        {
+          "name": "Schacke",
+          "url": "https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z"
+        },
+        {
+          "name": "Anetha",
+          "url": "https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356067,
+      "name": "Microcosmic healing",
+      "url": "https://open.spotify.com/track/7Ezy1j4gtqK74NcxFnnhdG"
     },
     {
       "album": {
@@ -1172,7 +1270,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 311670,
       "name": "Perzechella",
       "url": "https://open.spotify.com/track/52YiBbdDeJhVpKghqPN5ev"
@@ -1220,7 +1318,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 126901,
       "name": "Planet - EntzugszKlinique & ScubaPro Remix",
       "url": "https://open.spotify.com/track/6o4oP4Ml0EmiSTG7EpO8OV"
@@ -1376,7 +1474,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 205994,
       "name": "Restless - Radio Edit",
       "url": "https://open.spotify.com/track/0DjCwxpgho4eGcoDKhVxG7"
@@ -1565,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "The Wonderlightskin Condition",
+        "url": "https://open.spotify.com/album/4qa81DTQ6o6sTBCtpiHrhP"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois X",
+          "url": "https://open.spotify.com/artist/5sHHgrgK3vQ0jwKIT1D4xu"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306303,
+      "name": "The Wonderlightskin Condition",
+      "url": "https://open.spotify.com/track/0o6wBUf9Qj8Vb6IadjsQWv"
+    },
+    {
+      "album": {
         "name": "Through My Veins EP",
         "url": "https://open.spotify.com/album/3eWB6et4exOakZPKAD1nod"
       },
@@ -1660,6 +1776,28 @@
       "duration_ms": 184752,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+    },
+    {
+      "album": {
+        "name": "Ultra Ray",
+        "url": "https://open.spotify.com/album/6zCI5ymc5IlN6IkxtrsQzx"
+      },
+      "artists": [
+        {
+          "name": "Panteros666",
+          "url": "https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt"
+        },
+        {
+          "name": "Zorza",
+          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291416,
+      "name": "Ultra Ray",
+      "url": "https://open.spotify.com/track/3Txv04F3jEYlXBu7wBJhxY"
     },
     {
       "album": {

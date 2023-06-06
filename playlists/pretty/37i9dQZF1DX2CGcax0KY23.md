@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CGcax0KY23.md) - [plain]
 
 > <a href="spotify:artist:58zz0VTpGNHn7MGTlW2cxQ">Shingo Nakamura</a> presents his Tokyo Glow DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,472 likes - 12 songs - 59 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 8,478 likes - 12 songs - 59 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CGcax0KY23.md) - [plain]
 | 11 | [Glow \- Extended Mix \- Mixed](https://open.spotify.com/track/3mioQYZP7xYhjiqxj1CYtW) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Glow \- Extended Mix \(Mixed\)](https://open.spotify.com/album/6UocKFV5KluHAeMmuaBzPZ) | 5:38 |
 | 12 | [White Room \- Mixed](https://open.spotify.com/track/7zTSRY6T6OzYjfIL0eMgWK) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [White Room \(Mixed\)](https://open.spotify.com/album/6M5wTINxUICzU7fgoRjd7P) | 3:06 |
 
-Snapshot ID: `MCw1NzE1NzIwYWJkYzkzYjFkMzAwYzM2NGFiN2JmNDg4Y2JhNTNkNTI0`
+Snapshot ID: `MCw3NjhmMWQ1MmZhMTg4ZjI0MzQ0ZWYzYjIyNDQ0YTMxNWMxZThmMTc0`

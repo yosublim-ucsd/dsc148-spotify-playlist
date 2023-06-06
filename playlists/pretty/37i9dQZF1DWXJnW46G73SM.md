@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: مسار إجباري ودياب
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,957 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,011 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [صباح اسكندراني](https://open.spotify.com/track/1XhlXdZEXF6gG0lFnq9iTO) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [صباح اسكندراني](https://open.spotify.com/album/2GeZia68kzHFeTZfbe1Bhn) | 3:35 |
 | 50 | [El Donia Gamila](https://open.spotify.com/track/45QgBtp6A7yl2Be6KQyryd) | [Royo](https://open.spotify.com/artist/57wDmUaZi3U7qm3mmjC7em) | [El Donia Gamila](https://open.spotify.com/album/6zVAEYiG5GOo4iAYYIeRb1) | 3:45 |
 
-Snapshot ID: `MCxhN2Y1OTA5MDdhMjYzMDA5OTczNjJkYzViMmUxNjNlMGQ4ZTg4M2M2`
+Snapshot ID: `MCxiYWI0NWY5MjI2ZmRjMWMwN2E1ZTE3MTYwNThlZWFkYTNlNDIwZDE0`

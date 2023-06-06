@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-310 songs - 22 hr 16 min
+311 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Frozen Warnings](https://open.spotify.com/track/5gRCeSo5sdTDHRm2zjpOEZ) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Marble Index](https://open.spotify.com/album/48KVIwAePhzIDqv2pURFMY) | 4:02 | 2023-01-20 | 2023-03-18 |
 | [fuck yeah no please](https://open.spotify.com/track/34fxnzTP7z45xsn8AF7vQz) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [fuck yeah no please](https://open.spotify.com/album/6T2VZu5eICkMEu0QUD9abc) | 2:25 | 2022-08-13 | 2022-09-12 |
 | [Garter Snake](https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Mouth Full of Glass](https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq) | 3:35 | 2021-10-15 |  |
-| [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/track/5CBEzaNEuv3OO32kZoXgOX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 5:37 | 2023-01-20 |  |
+| [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/track/5CBEzaNEuv3OO32kZoXgOX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 5:37 | 2023-01-20 | 2023-06-06 |
 | [Glass & Patron](https://open.spotify.com/track/3U6CPINSKmZJ09FtO9PgUa) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [M3LL155X](https://open.spotify.com/album/2RUX2ps4xMNTyI2iAwVyf3) | 4:18 | 2023-01-20 | 2023-03-18 |
 | [Gloss](https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [Gloss](https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76) | 2:25 | 2022-10-05 | 2023-04-14 |
 | [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 | 2022-08-13 |  |
@@ -161,6 +161,7 @@
 | [Lothlórien](https://open.spotify.com/track/1qXJzwa3DJxVJT5Ql4T3mE) | [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw), [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [The Chronicles of a Caterpillar: The Egg](https://open.spotify.com/album/0FloeQdkj6meqVv3Hkncu8) | 2:37 | 2022-06-29 | 2022-09-10 |
 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 | 2021-10-06 |  |
 | [Make My Way Back Home](https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Make My Way Back Home](https://open.spotify.com/album/12cV7xYYdoT5h8DqUjJR42) | 3:56 | 2023-03-31 |  |
+| [Makkuroi Mizu](https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 6:03 | 2023-06-05 |  |
 | [Mapa](https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg) | [Sundarbans](https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82) | [Mapa](https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF) | 2:55 | 2022-07-14 |  |
 | [Marrow](https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR) | [Joyful Joyful](https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90) | [Marrow](https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff) | 4:39 | 2022-02-25 | 2022-10-01 |
 | [Medicine](https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 5:11 | 2023-05-26 |  |

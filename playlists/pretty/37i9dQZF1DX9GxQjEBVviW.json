@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 208185,
+  "num_followers": 208249,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjlhNTYwNmNlN2Q4YTdkMzI3MzRkNTZhMWJmOTVhMDdlOGY2ZTM0",
+  "snapshot_id": "MCw3MTM5NzI5OTIxZTczYzE4OWUzMWEwOGNmYTIxYTZkNDU5ZDVhNzVm",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "All-Time Greatest Hits & More 1959-1965",
+        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "The Best Of The Clovers (Love Potion No. 9)",
         "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "All-Time Greatest Hits & More 1959-1965",
-        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 94906,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Down in Mexico",
-      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -247,6 +231,22 @@
       "duration_ms": 140533,
       "name": "Tears on My Pillow",
       "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Down in Mexico",
+      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "The Harptones",
+        "url": "https://open.spotify.com/album/3cqvDBd8s4jYbSugoY73AF"
+      },
+      "artists": [
+        {
+          "name": "The Harptones",
+          "url": "https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7"
+        }
+      ],
+      "duration_ms": 163746,
+      "name": "Life Is but a Dream",
+      "url": "https://open.spotify.com/track/7pihvWmEVo5J2PcxvP6T4f"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 155053,
       "name": "Up on the Roof",
       "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Harptones",
-        "url": "https://open.spotify.com/album/3cqvDBd8s4jYbSugoY73AF"
-      },
-      "artists": [
-        {
-          "name": "The Harptones",
-          "url": "https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7"
-        }
-      ],
-      "duration_ms": 163746,
-      "name": "Life Is but a Dream",
-      "url": "https://open.spotify.com/track/7pihvWmEVo5J2PcxvP6T4f"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Poison Ivy - 2007 Remaster; Remastered",
-      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Come Go With Me: The Best Of The Del-Vikings",
         "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Poison Ivy - 2007 Remaster; Remastered",
+      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "The Best Of The Cleftones",
         "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Goin' Out Of My Head",
-        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 149733,
-      "name": "Goin' Out Of My Head",
-      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "For Collectors Only",
         "url": "https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ"
       },
@@ -595,22 +579,6 @@
       "duration_ms": 170186,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Searchin'",
-      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -651,6 +619,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "Goin' Out Of My Head",
+        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 149733,
+      "name": "Goin' Out Of My Head",
+      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Barbara-Ann",
         "url": "https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Echoes Of A Rock Era",
-        "url": "https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi"
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
       },
       "artists": [
         {
-          "name": "The Crows",
-          "url": "https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG"
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
         }
       ],
-      "duration_ms": 136400,
-      "name": "Gee",
-      "url": "https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W"
+      "duration_ms": 159493,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -695,6 +679,22 @@
       "duration_ms": 179160,
       "name": "Can't We Be Sweethearts",
       "url": "https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Echoes Of A Rock Era",
+        "url": "https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi"
+      },
+      "artists": [
+        {
+          "name": "The Crows",
+          "url": "https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Gee",
+      "url": "https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -747,18 +747,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+        "name": "Dirty Dancing: Anniversary Edition",
+        "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
       },
       "artists": [
         {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+          "name": "The Five Satins",
+          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
         }
       ],
-      "duration_ms": 106760,
-      "name": "Hey Senorita",
-      "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
+      "duration_ms": 185333,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Dirty Dancing: Anniversary Edition",
-        "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
-      },
-      "artists": [
-        {
-          "name": "The Five Satins",
-          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "In the Still of the Night",
-      "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Playlist: The Best Of The Flamingos",
         "url": "https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 173441,
       "name": "Lovers Never Say Goodbye",
       "url": "https://open.spotify.com/track/1XDKn16I6tc1PNpXf58y3t"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 106760,
+      "name": "Hey Senorita",
+      "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
     },
     {
       "added_at": "2021-02-12 10:06:47",

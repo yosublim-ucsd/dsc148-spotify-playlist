@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 56017,
+  "num_followers": 56029,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjU2ODJiYTY0NWVkZjZmZWFkNjc3NTlhNTk2NmM3ZGZiZmQ1OGFk",
+  "snapshot_id": "MCxiNjE1MTBmYWIxMmM4NzFhNjk4OGFmMjhlYjEwMWQxZGMwOWQ5MTFm",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -91,18 +91,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Nuevos Retros",
-        "url": "https://open.spotify.com/album/2EWXBn0wNaSo8dS9sU7esL"
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
       },
       "artists": [
         {
-          "name": "Calacas Jazz Band",
-          "url": "https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
         }
       ],
-      "duration_ms": 248746,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4g9iO9ga0CveiTQKOeR3W4"
+      "duration_ms": 285880,
+      "name": "La Canci\u00f3n de Linyera",
+      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Nuevos Retros",
+        "url": "https://open.spotify.com/album/2EWXBn0wNaSo8dS9sU7esL"
+      },
+      "artists": [
+        {
+          "name": "Calacas Jazz Band",
+          "url": "https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/4g9iO9ga0CveiTQKOeR3W4"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf"
       },
@@ -135,6 +151,22 @@
       "duration_ms": 327653,
       "name": "Voy a Apagar la Luz",
       "url": "https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8"
+    },
+    {
+      "added_at": "2023-03-16 20:51:30",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2022-08-09 18:38:23",
@@ -155,38 +187,6 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
-    },
-    {
-      "added_at": "2023-03-16 20:51:30",
-      "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 285880,
-      "name": "La Canci\u00f3n de Linyera",
-      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Grandes de la Musica Instrumental",
+        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Rodriguez Y Su Saxofon Magico",
+          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+        }
+      ],
+      "duration_ms": 113613,
+      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
+      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
+    },
+    {
       "added_at": "2022-09-02 03:31:02",
       "album": {
         "name": "Los Fuegos de San Telmo",
@@ -431,18 +447,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Grandes de la Musica Instrumental",
-        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+        "name": "Raz\u00f3n de Vivir (Desde Casa)",
+        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
       },
       "artists": [
         {
-          "name": "Tommy Rodriguez Y Su Saxofon Magico",
-          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+          "name": "Magos Herrera",
+          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
         }
       ],
-      "duration_ms": 113613,
-      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
-      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
+      "duration_ms": 254269,
+      "name": "Raz\u00f3n de Vivir (Desde Casa)",
+      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -521,26 +541,6 @@
       "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Raz\u00f3n de Vivir (Desde Casa)",
-        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
-      },
-      "artists": [
-        {
-          "name": "Magos Herrera",
-          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
-        }
-      ],
-      "duration_ms": 254269,
-      "name": "Raz\u00f3n de Vivir (Desde Casa)",
-      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
-    },
-    {
       "added_at": "2022-03-30 03:01:09",
       "album": {
         "name": "Kumoi",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Pavel Loaria Big Band, Vol. 1",
-        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
-      },
-      "artists": [
-        {
-          "name": "Pavel Loaria Big Band",
-          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "The Pink Panther",
-      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Ventana espacial",
         "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Pavel Loaria Big Band, Vol. 1",
+        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
+      },
+      "artists": [
+        {
+          "name": "Pavel Loaria Big Band",
+          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "The Pink Panther",
+      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Nos Toca",
         "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 353320,
       "name": "Az\u00facar",
       "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Dream Maker (Guitar Smooth Jazz)",
+        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
+      },
+      "artists": [
+        {
+          "name": "Cristobal Lopez",
+          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Susano's Calipso",
+      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -639,22 +655,6 @@
       "duration_ms": 523748,
       "name": "Bad Hombres Y Mujeres",
       "url": "https://open.spotify.com/track/4NGb4Tkvgzqz58SA3NNl8W"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Dream Maker (Guitar Smooth Jazz)",
-        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
-      },
-      "artists": [
-        {
-          "name": "Cristobal Lopez",
-          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Susano's Calipso",
-      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -839,30 +839,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Remembranzas",
-        "url": "https://open.spotify.com/album/1nGaQn6Vh2nneDYgTtMwxK"
-      },
-      "artists": [
-        {
-          "name": "Edgar Dorantes",
-          "url": "https://open.spotify.com/artist/14IDIXsaBbdaQygouydSgK"
-        },
-        {
-          "name": "Emiliano Coronel",
-          "url": "https://open.spotify.com/artist/3o9wZ9Jl3y7LQqUhYva7ZB"
-        },
-        {
-          "name": "Vladimir Coronel",
-          "url": "https://open.spotify.com/artist/1BjvkoxetuVsSBUQ3Y6CtK"
-        }
-      ],
-      "duration_ms": 373000,
-      "name": "Remembranzas",
-      "url": "https://open.spotify.com/track/0Rpah08ZeUKzXlIQgXsqMp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Andamos Huyendo",
         "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
       },
@@ -875,6 +851,22 @@
       "duration_ms": 291647,
       "name": "Andamos Huyendo",
       "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Vientos Del Norte",
+        "url": "https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Valor De Volar",
+      "url": "https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH"
     },
     {
       "added_at": "2021-07-28 16:44:28",

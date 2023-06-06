@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,370 likes - 78 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,426 likes - 78 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 | 77 | [Look Like \(feat\. JMC, Jadakiss & Stormzy\)](https://open.spotify.com/track/57CtjJsx9jwTQDiO4ShMAe) | [Charlie Sloth](https://open.spotify.com/artist/3ICo3DF8pXFJEdzph2b6gh), [JMC](https://open.spotify.com/artist/33R5xZXaJcXP5TXA3tydgO), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [The Plug](https://open.spotify.com/album/2QzCZabgxczZat17TC4x52) | 3:50 |
 | 78 | [Chains \- Stormzy Remix](https://open.spotify.com/track/3IgShuJaI7JUFK3A0ncjJf) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Chains](https://open.spotify.com/album/1gs9NA48hWHDS35qVOonZi) | 3:49 |
 
-Snapshot ID: `MCwzOTk2OTViMTRiNjEwZjgxNGUwNjFlYmVjYWQ2OWU4ZTA2Y2IzODA5`
+Snapshot ID: `MCxkZGRlMmFkZDhkN2E1NWU5OTQ4NjFkYWRlZDU1NTQ5ODBmODg5ZWVl`

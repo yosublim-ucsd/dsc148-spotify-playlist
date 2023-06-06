@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: stivijoes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,703 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,713 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Tristón Sin Tus Nudes](https://open.spotify.com/track/3htWcyLeeIMjQMmhZJMdKA) | [RedMoon](https://open.spotify.com/artist/0t2rb4QTiu2QwJNuOZlLJj) | [Tristón Sin Tus Nudes](https://open.spotify.com/album/6hx5KNnN9b6rogCdRypLuy) | 2:51 |
 | 50 | [ROCKY BALBOA](https://open.spotify.com/track/6WEpElvzPajwRynKPzUxsI) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [Poseck](https://open.spotify.com/artist/0dWyIaWqqzs3K3upRuw1rM) | [ROCKY BALBOA](https://open.spotify.com/album/6GIFcY9tGZaUg73aGBqjYU) | 2:18 |
 
-Snapshot ID: `MCxiYWI1NjBiNDM5MTk2ODJmZDYxZDM1ODNlMTMwYmE3MjUzMzVlMzM3`
+Snapshot ID: `MCxlNTcwMjVkYjdkMTQ3MTY4ZmU3NGUyZDI0MjY1MTI2ZTIzNzE3ZmMz`

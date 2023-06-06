@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Corey Kent, Jelly Roll, Lauren Alaina and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,955 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,207 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 64 | [I Thought Wrong](https://open.spotify.com/track/5Yzw0PsR0v3sNk4ZwfMHGH) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [I Thought Wrong](https://open.spotify.com/album/04EgGtKlnzafoBbWwiEmkn) | 3:14 |
 | 65 | [It Kills Me](https://open.spotify.com/track/15yBlEzZmBzbJzi97OyHTh) | [Annika](https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo) | [It Kills Me](https://open.spotify.com/album/60wAZZKfMtgMgdeS9Kg0gI) | 3:53 |
 
-Snapshot ID: `MCwxMTlmM2U4ODljNWJiZjVkOWU4NmZhZjRhYjdhNjc5MTgxZDRiY2Ni`
+Snapshot ID: `MCw2MGIxNmM5N2M4MTVjYmRiYjJjZWM3N2RkYmFlOGEyZjE0ODM3ZTFi`

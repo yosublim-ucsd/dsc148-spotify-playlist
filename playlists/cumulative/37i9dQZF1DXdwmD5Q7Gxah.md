@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: Ryan Beatty
 
-2,249 songs - 5 day 1 hr 0 min
+2,250 songs - 5 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1307,6 +1307,7 @@
 | [Moment of Silence](https://open.spotify.com/track/1qE3Yen80w8CRKp9Xe8jgl) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Curses! Pt\. 2](https://open.spotify.com/album/4XsgXbAaIplkV4kHFl4EJ4) | 2:43 | 2022-05-11 | 2022-05-28 |
 | [Momentary Sweetheart](https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Momentary Sweetheart](https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W) | 3:02 | 2023-03-17 |  |
 | [Moments / Tides](https://open.spotify.com/track/7D56acHvA76RlIuebqxWKD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Moments / Tides](https://open.spotify.com/album/2Amx6zNWVblidE5xhCPMXY) | 3:24 | 2020-08-14 | 2020-12-04 |
+| [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-05 |  |
 | [mona lisa \- sped up](https://open.spotify.com/track/2K7YLBqzKW6sg8cOFC8cJG) | [xmxtoon](https://open.spotify.com/artist/19yU1mDfHim6ziKP6po5Pi) | [mona lisa](https://open.spotify.com/album/1T6pSOp4SAC3gnm1EHPYyK) | 2:42 | 2022-03-11 | 2022-04-02 |
 | [Money](https://open.spotify.com/track/4Arejbfw3xjIdxJSYjC4LM) | [scott is okay](https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK) | [Money](https://open.spotify.com/album/0xjpYI5Iuoiap8ojRFns37) | 2:53 | 2021-02-12 | 2021-03-14 |
 | [Money Diamonds Roses](https://open.spotify.com/track/4j0lSW432dK6awGjED4PPt) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Money Diamonds Roses](https://open.spotify.com/album/5F2GPs2tKS6rFb6AW9xxb7) | 2:57 | 2019-11-22 | 2020-01-10 |

@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-260 songs - 14 hr 33 min
+261 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Heat Waves](https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Heat Waves](https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd) | 2:37 | 2022-03-25 |  |
 | [Heaven](https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G) | [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Heaven](https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51) | 2:16 | 2023-05-26 |  |
 | [High Fly](https://open.spotify.com/track/2LBf4COkSAdeWiErXJXJ7l) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [High Fly](https://open.spotify.com/album/6OtdbB8E8qul34J2xyI4Bv) | 4:20 | 2021-12-09 | 2023-04-15 |
-| [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 | 2021-12-09 |  |
+| [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 | 2021-12-09 | 2023-06-06 |
 | [I Might As Well Live In A Hotel Room](https://open.spotify.com/track/5yU6mVDfsrRzE20ZjYb1np) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [I Might As Well Live In A Hotel Room](https://open.spotify.com/album/3VHwo1i4tgdhmociAJ18DH) | 2:33 | 2021-12-09 | 2022-08-06 |
 | [Idiot \(SLCT Remix\) \(Instrumental Version\)](https://open.spotify.com/track/5PprWUDtMegwUWZkPwHjDQ) | [Nahra](https://open.spotify.com/artist/4MKfFnhGNxVnw0dgpgCBeQ), [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [SLCT Takeover Vol\. 1 \(Instrumental\)](https://open.spotify.com/album/7AUJ2hfbg68b8vuUQ0DgDy) | 3:11 | 2021-12-09 | 2022-05-18 |
 | [Imotski](https://open.spotify.com/track/6jxHr45dbSbKuGin1pHNbp) | [M.O.S.](https://open.spotify.com/artist/14S8eJJkmkNw4SaiXI8fwR) | [Imotski](https://open.spotify.com/album/5PzM6KWTgaekJTnQ7x2rTk) | 7:33 | 2022-09-12 | 2023-06-03 |
@@ -263,6 +263,7 @@
 | [White Sand](https://open.spotify.com/track/6SDgWPio1gMsTmYzRKjVAs) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [White Sand](https://open.spotify.com/album/2UsS2tEkeUIi4vRS1dkRQH) | 3:08 | 2021-12-09 | 2022-08-14 |
 | [White Sand](https://open.spotify.com/track/6SlbjaFsBJSKj170nrqopL) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 3:08 | 2022-09-12 |  |
 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 | 2022-01-21 | 2022-10-13 |
+| [Wingspan](https://open.spotify.com/track/2ycX60hIxKdCIGNtfQYkfx) | [7and5](https://open.spotify.com/artist/0PxqaZXFW167XSUiha9eEi) | [Dragonfly](https://open.spotify.com/album/07i8zxExFEkFgVPGge9hDC) | 4:34 | 2023-05-26 |  |
 | [Wingspan](https://open.spotify.com/track/3MIMhAWM5nEAzMtGn81ZYm) | [7and5](https://open.spotify.com/artist/0PxqaZXFW167XSUiha9eEi) | [Dragonfly](https://open.spotify.com/album/2hAiAbZpvHQpi012pPizS2) | 4:34 | 2022-11-25 | 2022-12-18 |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-12-09 | 2022-08-06 |
 | [Wonderful People \- Original Mix](https://open.spotify.com/track/40sgR4OCBYNMpE3bQmlqJL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Piano Lessons](https://open.spotify.com/album/0F4jOKzO7GXng1LR31BV0s) | 7:47 | 2021-12-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 38334,
+  "num_followers": 38560,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDIyNjM4MWFlMDY4Y2JkNmUxOTY3NjdkYzQ0NjAwNDAxZTE4OTlm",
+  "snapshot_id": "MCw2ZjA5NzRiOGY4YTRlYTkzNzljNzhlODkyYjdiNWJlMGNlMzJmYjll",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/6DjNn3yQ53XwGyDTJBKBEz"
     },
     {
+      "added_at": "2023-05-19 12:25:14",
+      "album": {
+        "name": "never find u",
+        "url": "https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 166263,
+      "name": "never find u",
+      "url": "https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK"
+    },
+    {
+      "added_at": "2023-06-05 16:50:13",
+      "album": {
+        "name": "D>E>A>T>H>M>E>T>A>L",
+        "url": "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 163544,
+      "name": "Laputa",
+      "url": "https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7"
+    },
+    {
       "added_at": "2023-04-11 14:48:39",
       "album": {
         "name": "Stratosphere",
@@ -59,22 +91,6 @@
     {
       "added_at": "2023-05-19 12:25:14",
       "album": {
-        "name": "never find u",
-        "url": "https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 166263,
-      "name": "never find u",
-      "url": "https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK"
-    },
-    {
-      "added_at": "2023-05-19 12:25:14",
-      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -87,6 +103,22 @@
       "duration_ms": 149324,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "Chamber of Reflection (Remixes)",
+        "url": "https://open.spotify.com/album/4SmPOUhbSUydP4jg0KZNfT"
+      },
+      "artists": [
+        {
+          "name": "Your Anxiety Buddy",
+          "url": "https://open.spotify.com/artist/6krQn0Lyb7Wj0Yz03Z2Ts0"
+        }
+      ],
+      "duration_ms": 150836,
+      "name": "Chamber of Reflection (Live Cover)",
+      "url": "https://open.spotify.com/track/2wCbsLmmjendUDzsMGubP0"
     },
     {
       "added_at": "2023-05-19 12:25:14",
@@ -155,38 +187,50 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "Chamber of Reflection (Remixes)",
-        "url": "https://open.spotify.com/album/4SmPOUhbSUydP4jg0KZNfT"
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
       },
       "artists": [
         {
-          "name": "Your Anxiety Buddy",
-          "url": "https://open.spotify.com/artist/6krQn0Lyb7Wj0Yz03Z2Ts0"
+          "name": "Birth Day",
+          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
         }
       ],
-      "duration_ms": 150836,
-      "name": "Chamber of Reflection (Live Cover)",
-      "url": "https://open.spotify.com/track/2wCbsLmmjendUDzsMGubP0"
+      "duration_ms": 141698,
+      "name": "Suicide Cleanup",
+      "url": "https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "you without me",
-        "url": "https://open.spotify.com/album/3DSzE2XUYgBCof4KFAc9qp"
+        "name": "A Different Age",
+        "url": "https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61"
       },
       "artists": [
         {
-          "name": "familypet",
-          "url": "https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX"
-        },
-        {
-          "name": "julietta star",
-          "url": "https://open.spotify.com/artist/63mnXo3QJOX6MjW3yj6VQW"
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         }
       ],
-      "duration_ms": 226174,
-      "name": "you without me",
-      "url": "https://open.spotify.com/track/5n40TTgoENVfNj9sfMhM9N"
+      "duration_ms": 334901,
+      "name": "Become the Warm Jets",
+      "url": "https://open.spotify.com/track/7Ko1ZXgGku1hjFH7LIfD33"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 157973,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -223,6 +267,22 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
+        "name": "New Ways To Die",
+        "url": "https://open.spotify.com/album/3H01vIyYQn5cYiL1QeFIGA"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 242160,
+      "name": "Fall With Me",
+      "url": "https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -253,22 +313,6 @@
       "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Sleep Walking",
-        "url": "https://open.spotify.com/album/2djkjUvLdBkJMvt33GuW6L"
-      },
-      "artists": [
-        {
-          "name": "Chase Elliott",
-          "url": "https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR"
-        }
-      ],
-      "duration_ms": 199835,
-      "name": "Sleep Walking",
-      "url": "https://open.spotify.com/track/5n9ahkGyDNRv7HD2ng7sAJ"
-    },
-    {
       "added_at": "2023-05-16 18:43:35",
       "album": {
         "name": "Lovers From The Past",
@@ -283,22 +327,6 @@
       "duration_ms": 186706,
       "name": "Killer",
       "url": "https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/69pCjNxYsuiwgnLIBxVTep"
-      },
-      "artists": [
-        {
-          "name": "Baby Bugs",
-          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
-        }
-      ],
-      "duration_ms": 196815,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/2p1kB54xX8sS5UWuyqTMT4"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -319,22 +347,6 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "A Different Age",
-        "url": "https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 334901,
-      "name": "Become the Warm Jets",
-      "url": "https://open.spotify.com/track/7Ko1ZXgGku1hjFH7LIfD33"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
         "name": "Inca Ore / Grouper",
         "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
       },
@@ -347,6 +359,22 @@
       "duration_ms": 196893,
       "name": "Poison Tree",
       "url": "https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "There Is No Empty Space",
+        "url": "https://open.spotify.com/album/5jvip1TnDykAUQy8ZYILGv"
+      },
+      "artists": [
+        {
+          "name": "Hysterla",
+          "url": "https://open.spotify.com/artist/0G3bBeMDThPyX9dvj3Zy0X"
+        }
+      ],
+      "duration_ms": 199183,
+      "name": "get out",
+      "url": "https://open.spotify.com/track/2bmYyUBGyxpnlXju3sBPys"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -365,22 +393,6 @@
       "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
     },
     {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
-      },
-      "artists": [
-        {
-          "name": "Birth Day",
-          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
-        }
-      ],
-      "duration_ms": 141698,
-      "name": "Suicide Cleanup",
-      "url": "https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Tree",
@@ -395,22 +407,6 @@
       "duration_ms": 146331,
       "name": "Tree",
       "url": "https://open.spotify.com/track/5rOpcoSV3iWfoMo3LOKMuJ"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 157973,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -509,20 +505,20 @@
       "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
-      "added_at": "2023-04-11 14:48:39",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "New Ways To Die",
-        "url": "https://open.spotify.com/album/3H01vIyYQn5cYiL1QeFIGA"
+        "name": "Sleep Walking",
+        "url": "https://open.spotify.com/album/2djkjUvLdBkJMvt33GuW6L"
       },
       "artists": [
         {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+          "name": "Chase Elliott",
+          "url": "https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR"
         }
       ],
-      "duration_ms": 242160,
-      "name": "Fall With Me",
-      "url": "https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2"
+      "duration_ms": 199835,
+      "name": "Sleep Walking",
+      "url": "https://open.spotify.com/track/5n9ahkGyDNRv7HD2ng7sAJ"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -571,6 +567,22 @@
       "duration_ms": 140000,
       "name": "SPILL",
       "url": "https://open.spotify.com/track/2KGG4wCYyILicxRazWpFTK"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "Makes Me Sick Makes Me Smile",
+        "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 229961,
+      "name": "Self Fulfilling Prophecy",
+      "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -663,6 +675,26 @@
       "duration_ms": 72874,
       "name": "TheBestVersionOfMyself",
       "url": "https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "you without me",
+        "url": "https://open.spotify.com/album/3DSzE2XUYgBCof4KFAc9qp"
+      },
+      "artists": [
+        {
+          "name": "familypet",
+          "url": "https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX"
+        },
+        {
+          "name": "julietta star",
+          "url": "https://open.spotify.com/artist/63mnXo3QJOX6MjW3yj6VQW"
+        }
+      ],
+      "duration_ms": 226174,
+      "name": "you without me",
+      "url": "https://open.spotify.com/track/5n40TTgoENVfNj9sfMhM9N"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1211,38 +1243,6 @@
       "duration_ms": 202000,
       "name": "A Hopeful Ending",
       "url": "https://open.spotify.com/track/6G3Rl9I1mqrok2EyPeQ0PX"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Makes Me Sick Makes Me Smile",
-        "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 229961,
-      "name": "Self Fulfilling Prophecy",
-      "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "There Is No Empty Space",
-        "url": "https://open.spotify.com/album/5jvip1TnDykAUQy8ZYILGv"
-      },
-      "artists": [
-        {
-          "name": "Hysterla",
-          "url": "https://open.spotify.com/artist/0G3bBeMDThPyX9dvj3Zy0X"
-        }
-      ],
-      "duration_ms": 199183,
-      "name": "get out",
-      "url": "https://open.spotify.com/track/2bmYyUBGyxpnlXju3sBPys"
     },
     {
       "added_at": "2023-04-11 14:48:39",

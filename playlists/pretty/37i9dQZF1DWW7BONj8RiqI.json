@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Destra ",
-  "num_followers": 179054,
+  "num_followers": 179142,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjcwZDc4ZDRmZjZiNmJkMWM2OTk5OTgxOGViOGYzODkyZjBlMDhl",
+  "snapshot_id": "MCxkMzAyY2UxMGIzOGNhNzY0ZjYwOWNkZDNjY2I0ZmY4ZDIzMzIwZDlm",
   "tracks": [
     {
       "added_at": "2023-05-15 02:33:18",
@@ -331,6 +331,30 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Jub Jub",
+        "url": "https://open.spotify.com/album/1A2fNybUwoHM6zkbUH2mTV"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
+        },
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+        }
+      ],
+      "duration_ms": 191309,
+      "name": "Jub Jub",
+      "url": "https://open.spotify.com/track/5tGohHP8EDvVPMPWBs06hM"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Hard Fete",
         "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
       },
@@ -379,26 +403,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Jub Jub",
-        "url": "https://open.spotify.com/album/1A2fNybUwoHM6zkbUH2mTV"
+        "name": "1 On 1",
+        "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
       },
       "artists": [
         {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "KES the Band",
-          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
-        },
-        {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+          "name": "Rupee",
+          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
         }
       ],
-      "duration_ms": 191309,
-      "name": "Jub Jub",
-      "url": "https://open.spotify.com/track/5tGohHP8EDvVPMPWBs06hM"
+      "duration_ms": 214720,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -419,22 +435,6 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "1 On 1",
-        "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
-      },
-      "artists": [
-        {
-          "name": "Rupee",
-          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Savannah Grass",
-        "url": "https://open.spotify.com/album/7mAs5zDNcL6GwcfIudCSl0"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Savannah Grass",
-      "url": "https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "iShal",
         "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 186393,
       "name": "Ola",
       "url": "https://open.spotify.com/track/4zqFb7uP9rcYmrg5sjxzp3"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Savannah Grass",
+        "url": "https://open.spotify.com/album/7mAs5zDNcL6GwcfIudCSl0"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Savannah Grass",
+      "url": "https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
-      },
-      "artists": [
-        {
-          "name": "KES the Band",
-          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
-        }
-      ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Overdue",
         "url": "https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
       },
       "artists": [
         {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
         }
       ],
-      "duration_ms": 196557,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -639,6 +623,22 @@
       "duration_ms": 210755,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "duration_ms": 196557,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        },
-        {
-          "name": "International Stephen",
-          "url": "https://open.spotify.com/artist/66q1BiIjgYt2BAK8BOg0Y6"
-        }
-      ],
-      "duration_ms": 225250,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Antilles Riddim (Soca 2012 Trinidad and Tobago Carnival)",
         "url": "https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 198110,
       "name": "Bacchanalist",
       "url": "https://open.spotify.com/track/5HgYDywJjr19X20XDHr1qQ"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        },
+        {
+          "name": "International Stephen",
+          "url": "https://open.spotify.com/artist/66q1BiIjgYt2BAK8BOg0Y6"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "King Bubba Mashup Volume 1",
-        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        },
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Monster Winer",
-      "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "The Xtatik Circus",
         "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 227213,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "King Bubba Mashup Volume 1",
+        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        },
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Monster Winer",
+      "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Mash Up",
-        "url": "https://open.spotify.com/album/4DngCnXAuryTNHVFR1kGtp"
-      },
-      "artists": [
-        {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
-        }
-      ],
-      "duration_ms": 184440,
-      "name": "Mash Up",
-      "url": "https://open.spotify.com/track/7gERxWoMY5cCFJ4Oyy8qnC"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Pop's Guitar Riddim",
         "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 237131,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Mash Up",
+        "url": "https://open.spotify.com/album/4DngCnXAuryTNHVFR1kGtp"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 184440,
+      "name": "Mash Up",
+      "url": "https://open.spotify.com/track/7gERxWoMY5cCFJ4Oyy8qnC"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Long Live Soca",
-        "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
-      },
-      "artists": [
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        }
-      ],
-      "duration_ms": 225251,
-      "name": "Long Live Soca",
-      "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Give It to Ya",
         "url": "https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 172253,
       "name": "Give It to Ya",
       "url": "https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Long Live Soca",
+        "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        }
+      ],
+      "duration_ms": 225251,
+      "name": "Long Live Soca",
+      "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
-      },
-      "artists": [
-        {
-          "name": "Olatunji",
-          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
-        }
-      ],
-      "duration_ms": 211874,
-      "name": "Oh Yay",
-      "url": "https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 187428,
       "name": "Catching Feelings",
       "url": "https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
+      },
+      "artists": [
+        {
+          "name": "Olatunji",
+          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
+        }
+      ],
+      "duration_ms": 211874,
+      "name": "Oh Yay",
+      "url": "https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Funky Business",
+        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
+      },
+      "artists": [
+        {
+          "name": "Fimba",
+          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Funky Business",
+      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "In The Mood",
         "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
       },
@@ -1323,38 +1339,6 @@
       "duration_ms": 166809,
       "name": "Buddy Bye (feat. Konshens & Noah Powa)",
       "url": "https://open.spotify.com/track/55clF0PIQvjkXfRqrNI7jS"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "Fattt",
-      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Funky Business",
-        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
-      },
-      "artists": [
-        {
-          "name": "Fimba",
-          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Funky Business",
-      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1383,22 +1367,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Tight Squeeze Riddim",
-        "url": "https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3"
-      },
-      "artists": [
-        {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
-        }
-      ],
-      "duration_ms": 203756,
-      "name": "Gyal Owner",
-      "url": "https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Feel The Heat",
         "url": "https://open.spotify.com/album/44TtvNhgHgMAZqZzM16xDK"
       },
@@ -1415,6 +1383,38 @@
       "duration_ms": 214000,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/7dlrEY8jBu2zCmfRvs4H1d"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "Fattt",
+      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Tight Squeeze Riddim",
+        "url": "https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 203756,
+      "name": "Gyal Owner",
+      "url": "https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Happiest Man Alive",
         "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
       },
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
       },
       "artists": [
         {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
         }
       ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1555,22 +1571,6 @@
       "duration_ms": 295106,
       "name": "Trini 2 De Bone",
       "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "No Behavior Shell Down",
+        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
+      },
+      "artists": [
+        {
+          "name": "Cloud 5",
+          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
+        }
+      ],
+      "duration_ms": 262556,
+      "name": "No Behavior Shell Down",
+      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Allez",
         "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
       },
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "No Behavior Shell Down",
-        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
+        "name": "Rock and Come In",
+        "url": "https://open.spotify.com/album/7iz3EjcDNljxMBMVP1AZN7"
       },
       "artists": [
         {
-          "name": "Cloud 5",
-          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
+          "name": "Linky First",
+          "url": "https://open.spotify.com/artist/7A2TFN73Go9zmu3ymtCWps"
         }
       ],
-      "duration_ms": 262556,
-      "name": "No Behavior Shell Down",
-      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
+      "duration_ms": 237871,
+      "name": "Rock and Come In",
+      "url": "https://open.spotify.com/track/3KddnSiUpIz0Vx9GscARBI"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1711,50 +1727,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Rock and Come In",
-        "url": "https://open.spotify.com/album/7iz3EjcDNljxMBMVP1AZN7"
+        "name": "Jumbie Jab Riddim",
+        "url": "https://open.spotify.com/album/4gnNvZbqcAoiZekpMd4vju"
       },
       "artists": [
         {
-          "name": "Linky First",
-          "url": "https://open.spotify.com/artist/7A2TFN73Go9zmu3ymtCWps"
-        }
-      ],
-      "duration_ms": 237871,
-      "name": "Rock and Come In",
-      "url": "https://open.spotify.com/track/3KddnSiUpIz0Vx9GscARBI"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Get Soca 2018",
-        "url": "https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc"
-      },
-      "artists": [
+          "name": "Mr. Killa",
+          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
+        },
         {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+          "name": "Mr. Legz HT",
+          "url": "https://open.spotify.com/artist/31nJ1fPZlCCYt6P1NMrzAx"
         }
       ],
-      "duration_ms": 187249,
-      "name": "Hulk",
-      "url": "https://open.spotify.com/track/7v3ak3O6tw43jNDAsZxuxR"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Position",
-        "url": "https://open.spotify.com/album/5qdP2o3JzTFe5ip7ljcEtX"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Position",
-      "url": "https://open.spotify.com/track/5q4NYj1C7JN2SaP6xgbpRT"
+      "duration_ms": 173731,
+      "name": "Party Bad",
+      "url": "https://open.spotify.com/track/6EJzdnbIdREmNDJa1IPa9a"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1779,22 +1767,34 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Jumbie Jab Riddim",
-        "url": "https://open.spotify.com/album/4gnNvZbqcAoiZekpMd4vju"
+        "name": "Soca Future Riddim",
+        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
       },
       "artists": [
         {
-          "name": "Mr. Killa",
-          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
-        },
-        {
-          "name": "Mr. Legz HT",
-          "url": "https://open.spotify.com/artist/31nJ1fPZlCCYt6P1NMrzAx"
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
         }
       ],
-      "duration_ms": 173731,
-      "name": "Party Bad",
-      "url": "https://open.spotify.com/track/6EJzdnbIdREmNDJa1IPa9a"
+      "duration_ms": 203358,
+      "name": "Leh Go",
+      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
     }
   ],
   "unique_name": "Massive Soca Hits",

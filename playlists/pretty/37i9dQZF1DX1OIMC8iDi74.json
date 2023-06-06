@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 887445,
+  "num_followers": 887559,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODE5NGJmYjNmNmQ4YmM4NTQyMTNmMWZhMWMyMTgzNmRkNTc3MTQ3",
+  "snapshot_id": "MCwzOTA4MmI1MzA5M2QxMzhhYjUwMzFmZjAyNDVmZDIzMTIyMzM2ODI2",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -147,22 +147,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "High You Are (Remixes)",
-        "url": "https://open.spotify.com/album/0h2G6kf2j9OoqdvS2fcwr8"
+        "name": "NOVA",
+        "url": "https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy"
       },
       "artists": [
         {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
         },
         {
-          "name": "Branchez",
-          "url": "https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf"
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
         }
       ],
-      "duration_ms": 213340,
-      "name": "High You Are (Branchez Remix)",
-      "url": "https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u"
+      "duration_ms": 192000,
+      "name": "UCLA",
+      "url": "https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -187,22 +187,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "NOVA",
-        "url": "https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy"
+        "name": "High You Are (Remixes)",
+        "url": "https://open.spotify.com/album/0h2G6kf2j9OoqdvS2fcwr8"
       },
       "artists": [
         {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         },
         {
-          "name": "24hrs",
-          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          "name": "Branchez",
+          "url": "https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf"
         }
       ],
-      "duration_ms": 192000,
-      "name": "UCLA",
-      "url": "https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG"
+      "duration_ms": 213340,
+      "name": "High You Are (Branchez Remix)",
+      "url": "https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -399,30 +399,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "FEELING GUD",
-        "url": "https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "Matthew Santos",
-          "url": "https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj"
-        }
-      ],
-      "duration_ms": 190682,
-      "name": "FEELING GUD",
-      "url": "https://open.spotify.com/track/0suLmBuEbatdochI4tHduq"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Arena",
         "url": "https://open.spotify.com/album/5eXLDkcVPBPQUSL24oedCO"
       },
@@ -455,6 +431,30 @@
       "duration_ms": 168206,
       "name": "Bap U",
       "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "FEELING GUD",
+        "url": "https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Matthew Santos",
+          "url": "https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj"
+        }
+      ],
+      "duration_ms": 190682,
+      "name": "FEELING GUD",
+      "url": "https://open.spotify.com/track/0suLmBuEbatdochI4tHduq"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "We Are Deadbeats (Vol. 4)",
-        "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 173413,
-      "name": "Stars Tonight",
-      "url": "https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Dark Night Sweet Light",
         "url": "https://open.spotify.com/album/0SZr5zdYHQyvyaZu4g6zeF"
       },
@@ -667,22 +647,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+        "name": "We Are Deadbeats (Vol. 4)",
+        "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
       },
       "artists": [
         {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
         }
       ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
+      "duration_ms": 173413,
+      "name": "Stars Tonight",
+      "url": "https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -703,6 +683,26 @@
       "duration_ms": 254896,
       "name": "Limelight (NGHTMRE Remix)",
       "url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "The Drop EP",
-        "url": "https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg"
-      },
-      "artists": [
-        {
-          "name": "Bro Safari",
-          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
-        }
-      ],
-      "duration_ms": 229850,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Yalla",
         "url": "https://open.spotify.com/album/5U2t7ENPjxeIK3fQexprEA"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 152000,
       "name": "Yalla",
       "url": "https://open.spotify.com/track/2rBKfA9WpLBQxRFPcJXiXf"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "The Drop EP",
+        "url": "https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg"
+      },
+      "artists": [
+        {
+          "name": "Bro Safari",
+          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
+        }
+      ],
+      "duration_ms": 229850,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Pour All Night",
+        "url": "https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s"
+        }
+      ],
+      "duration_ms": 209016,
+      "name": "Pour All Night",
+      "url": "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "NO TOMORROW",
         "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 278808,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Pour All Night",
-        "url": "https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s"
-        }
-      ],
-      "duration_ms": 209016,
-      "name": "Pour All Night",
-      "url": "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Laugh",
-        "url": "https://open.spotify.com/album/1bdCAIPA5z4ixrc9D8ch8F"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        }
-      ],
-      "duration_ms": 218395,
-      "name": "Laugh",
-      "url": "https://open.spotify.com/track/2sHAn0xGFqwl5X1ciLvfv2"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "PHASE III",
         "url": "https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 178333,
       "name": "Mumbai Mode",
       "url": "https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Laugh",
+        "url": "https://open.spotify.com/album/1bdCAIPA5z4ixrc9D8ch8F"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 218395,
+      "name": "Laugh",
+      "url": "https://open.spotify.com/track/2sHAn0xGFqwl5X1ciLvfv2"
     },
     {
       "added_at": "2023-05-26 04:00:00",

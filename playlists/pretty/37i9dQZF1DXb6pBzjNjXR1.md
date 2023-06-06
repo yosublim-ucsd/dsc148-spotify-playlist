@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,478 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,522 likes - 50 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 49 | [Angimazi Ubabalo](https://open.spotify.com/track/35LVqbC4mflUDt9b9thC1C) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Terrance Motsepe](https://open.spotify.com/artist/3TRjJTgBK1Mfb9exYwiq4C), [Eltonnick](https://open.spotify.com/artist/2vFVuGhKe7bJfuc9Oq3m9G) | [Angimazi Ubabalo](https://open.spotify.com/album/0zRbVHjRimy7UEN5cmWJZP) | 7:39 |
 | 50 | [Clarity \- Shredded Mix](https://open.spotify.com/track/5oAaNT8wiuSjHoGLIbJnRU) | [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h) | [Clarity \(Shredded Mix\)](https://open.spotify.com/album/1u8BcbmT09Ue7dIYpamP1S) | 5:41 |
 
-Snapshot ID: `MCxhMzQ0Yjc4ODdmNjNjNzU5NDFhNWE2NDI5YTllZmZmN2Q0YjhlNjNh`
+Snapshot ID: `MCwwM2EzM2QzOGU4NWE0MDcwZDU3MzBiOTgxNmNmYTliZTc1Y2E2NmZj`

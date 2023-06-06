@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Central Cee & Dave
 
-1,423 songs - 3 day 0 hr 52 min
+1,426 songs - 3 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Double Back](https://open.spotify.com/track/2y6HWRKDNkX7AmMXkAN6wN) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Karma](https://open.spotify.com/artist/2zZrzpuHcMfxu4rUnOW2UL), [D Skeng](https://open.spotify.com/artist/3U9XTt4Kg8k8jDIIBGG95E) | [The Memoir](https://open.spotify.com/album/6ukeNt85CYtYlLjMPq2wmU) | 3:49 | 2023-04-14 |  |
 | [Double Dose](https://open.spotify.com/track/23yuGJYyElQFy1sn0fiANy) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760) | [Double Dose](https://open.spotify.com/album/3JtNTvN1I6IguTSTolOsol) | 2:18 | 2020-08-15 | 2020-09-18 |
 | [Double Dutch](https://open.spotify.com/track/1ugTaCeH3f8oSLPU7ywTHI) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Double Dutch](https://open.spotify.com/album/5xqmeLLJQvA95c3tG2OZvM) | 2:50 | 2023-03-08 | 2023-03-09 |
+| [Double R's](https://open.spotify.com/track/4F1uw6lcqBUphG9fwayWdT) | [Slim](https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou) | [Double R's](https://open.spotify.com/album/4vKYjOVhvVnJFIatX9eN2D) | 3:03 | 2023-06-05 |  |
 | [Double Tap](https://open.spotify.com/track/1kzJ786jktCryP59bq4wij) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Double Tap](https://open.spotify.com/album/31t5ON8FfP5TEbmcQA2lMS) | 3:12 | 2021-10-30 | 2022-02-11 |
 | [Double Tap \(feat\. Sus\)](https://open.spotify.com/track/7pQ5nfrBV8SD6u0aH3DKTj) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Sus](https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD) | [Independence Day](https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK) | 2:51 | 2021-08-06 | 2022-03-26 |
 | [Double Tap / Mexican Wave](https://open.spotify.com/track/2lRZEHRY2V3PxRpPKDjSXG) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Double Tap / Mexican Wave](https://open.spotify.com/album/6dTtTq9w4FB152fAqKwJE0) | 3:08 | 2021-04-26 | 2021-05-29 |
@@ -1308,6 +1309,7 @@
 | [Trill Shit](https://open.spotify.com/track/03gJID2yRJnrWDssCBx77y) | [Nolay](https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X) | [Top Bitch](https://open.spotify.com/album/5Sz4wKUtVXEcwZhTVrihJo) | 2:15 | 2022-03-25 | 2022-05-06 |
 | [Triple Threat](https://open.spotify.com/track/01ZTKFMGyLDjZadCCWiFYa) | [Dezzie](https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Uno Uno](https://open.spotify.com/album/092WYc5urW9jjCM3tZfy2D) | 2:33 | 2021-01-23 | 2021-02-27 |
 | [Triple Threat](https://open.spotify.com/track/0lTJgAfLs8aKBCobjtmrY0) | [Horrid1](https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ), [Sav'o](https://open.spotify.com/artist/1VeNLxolTVovUG1ROeumVp), [\(CGM\) TY](https://open.spotify.com/artist/1UwKmyN6dKhzFNKSL3PgPG) | [Triple Threat](https://open.spotify.com/album/7HBtNNM1YYu7sDP7a7Jsmp) | 2:28 | 2023-03-30 | 2023-05-19 |
+| [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 | 2023-06-05 |  |
 | [Trouble](https://open.spotify.com/track/3OuLmkQmyawqrMAC3w5Wjt) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Trouble](https://open.spotify.com/album/4YALDeVXSEaWeqe9hHax86) | 3:36 | 2020-06-13 | 2020-07-18 |
 | [Trouble](https://open.spotify.com/track/3UTI66CnVpvIgj0BR6VLAU) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE) | [Trouble](https://open.spotify.com/album/3C9L8bRUta8vZnEuQZmksS) | 2:46 | 2021-02-13 | 2021-02-22 |
 | [Trust](https://open.spotify.com/track/2j86wxB1hcP6rU4HbhYjXC) | [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK) | [Trust](https://open.spotify.com/album/22LBZzwGOiw7zU2Z4SoKFe) | 2:56 | 2021-11-13 | 2022-01-29 |
@@ -1324,6 +1326,7 @@
 | [U Get Me?](https://open.spotify.com/track/5FB5FaA0gWIYpJPv3yb8DX) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 2:45 | 2023-05-26 |  |
 | [UFO](https://open.spotify.com/track/2DOv2fSLzEC4StSkZAWG9T) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [UFO](https://open.spotify.com/album/16FiKQsDk4kW31pBknjZn5) | 3:24 | 2020-10-02 | 2021-01-29 |
 | [UH](https://open.spotify.com/track/2R8Md4mGTHBrvA55mc362Y) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [UH](https://open.spotify.com/album/1dumMkwxsDX3wELnf5RGBV) | 2:45 | 2021-09-25 | 2021-10-16 |
+| [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 | 2023-06-05 |  |
 | [Under 25](https://open.spotify.com/track/6WnEshhNpZyTH75p1BmF8c) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Under Twenty Five](https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb) | 3:52 | 2022-03-08 | 2022-03-09 |
 | [Under Surveillance \(feat\. Unknown T\)](https://open.spotify.com/track/2WnMFUIA5Hx2BknhkF7zRM) | [Frosty](https://open.spotify.com/artist/2uaGbYYR6MVKSR371T3a7p), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Under Surveillance \(feat\. Unknown T\)](https://open.spotify.com/album/3jqVYmyZiN0W8A820LkMCg) | 3:11 | 2020-08-30 | 2020-10-10 |
 | [Underneath](https://open.spotify.com/track/3TK806HU0B5m5xhjFLem0S) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Underneath](https://open.spotify.com/album/6IO9r9QMHrgLQIKIhQVA1j) | 2:57 | 2020-06-19 | 2020-07-18 |

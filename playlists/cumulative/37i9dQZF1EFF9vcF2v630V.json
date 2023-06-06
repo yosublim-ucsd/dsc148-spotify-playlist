@@ -387,6 +387,32 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/4zuj7Sf4VcvGk21glchixV"
+      },
+      "artists": [
+        {
+          "name": "Tom Ferry",
+          "url": "https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA"
+        },
+        {
+          "name": "GSPR",
+          "url": "https://open.spotify.com/artist/1899F4ojFEHeMOWyXhnPje"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183457,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/307oAKf26glIHeRVUVRhZC"
+    },
+    {
+      "album": {
         "name": "Goodbye (feat. Chelcee Grimes)",
         "url": "https://open.spotify.com/album/5RAGdSUGHYoCTXzlq6BW3k"
       },
@@ -406,7 +432,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 183457,
       "name": "Goodbye (feat. Chelcee Grimes)",
       "url": "https://open.spotify.com/track/08Y45Z5fHVkVptMSJDmMTR"

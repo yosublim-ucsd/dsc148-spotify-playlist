@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Kareen Guiock Thuram
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,656 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,681 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [A Lullaby for Constance](https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa) | [Olivier Temime](https://open.spotify.com/artist/1Qv2LZLDnuCJwSZWXmRtYK) | [Inner Songs](https://open.spotify.com/album/3bHRe5o2d25MQm0M2LLhfA) | 5:19 |
 | 50 | [Where Will I Be?](https://open.spotify.com/track/66xrFr0ap2a807yw6qqmAD) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Where Will I Be?](https://open.spotify.com/album/5UKySePl9G3Dq910vjPO3r) | 4:29 |
 
-Snapshot ID: `MCxiMjE5ZDcyNTg2NWNjN2YyYWYxZmIyNDUyZGZhNjQ5ODNjNTZiYjJj`
+Snapshot ID: `MCxkNTNmYTUwZjVmZDgyMjFmYjU3MDM5N2M4YTczODgxNGQyOWMxMTFk`

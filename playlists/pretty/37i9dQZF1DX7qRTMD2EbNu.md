@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS?si=\_bn36cCwR1ibGuYVXTz8jQ"> Nxwrth</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,814 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,827 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Odo Nkoaa](https://open.spotify.com/track/1bBpce38RogIi9HneIooXP) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Nkoaa](https://open.spotify.com/album/6do5C86UDDZnyq41YqDIsO) | 3:31 |
 | 80 | [Nyane](https://open.spotify.com/track/4sIl90ibVCrC1OHMD2KdjJ) | [Joe Kay](https://open.spotify.com/artist/53ZQc2LGjVFkhzbC6zBggA) | [Nyane](https://open.spotify.com/album/6rzFTcjKJc7GMWa6IxQdIO) | 3:09 |
 
-Snapshot ID: `MCxlMWU1NGRmY2RjODVkYjhkOTc2ZDc0NDFkZTM0YjdlNWJmZWIyNzU4`
+Snapshot ID: `MCw5YmNiYjBjMzEyMDVmZmExZjJjNWRhYjcwMzcwYTYzZDMzN2FjMzM4`

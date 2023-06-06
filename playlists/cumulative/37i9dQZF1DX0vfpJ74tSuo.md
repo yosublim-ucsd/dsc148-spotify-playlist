@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-177 songs - 10 hr 45 min
+178 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Good, Good Man](https://open.spotify.com/track/7uSkpPhm94n4USbGTq9U31) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Good, Good Man](https://open.spotify.com/album/2pSMTbVb4OZqESjjjwyRRG) | 3:56 | 2023-02-24 |  |
 | [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 | 2022-05-27 |  |
 | [Hard Times](https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:08 | 2022-05-27 |  |
-| [Hard Times Are Comin'](https://open.spotify.com/track/5wx9L4JVX7jKBX4w5lFmkE) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n) | [Elemental](https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz) | 2:49 | 2023-04-14 |  |
+| [Hard Times Are Comin'](https://open.spotify.com/track/5wx9L4JVX7jKBX4w5lFmkE) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n) | [Elemental](https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz) | 2:49 | 2023-04-14 | 2023-06-06 |
 | [Heart of Stone](https://open.spotify.com/track/6lPmuDm7kvUcdK2omu6B38) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT) | 4:25 | 2022-09-30 |  |
 | [Heavy Load](https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load](https://open.spotify.com/album/5KvAYLiVGfNVZUBdGVWNs1) | 7:18 | 2022-05-25 | 2022-07-29 |
 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 | 2022-07-08 |  |
@@ -136,6 +136,7 @@
 | [Passing Through](https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj) | [Mark Harrison](https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd) | [The Road to Liberty, Pt\. 1](https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk) | 3:24 | 2023-03-03 |  |
 | [Pay Day](https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 4:21 | 2022-05-27 |  |
 | [Pick a Bale of Cotton](https://open.spotify.com/track/1ykJT3sdoMmPzGpy9MjpR4) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Pick a Bale of Cotton](https://open.spotify.com/album/1mZYq4U5sZgmdpjLup46FC) | 3:02 | 2022-05-25 | 2022-07-29 |
+| [Pray For Rain](https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Pray For Rain](https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz) | 3:13 | 2023-05-26 |  |
 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 | 2022-05-25 |  |
 | [Queen Bee](https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Señor Blues](https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA) | 4:40 | 2022-05-25 |  |
 | [Railroad Bill](https://open.spotify.com/track/3mxfxxfDxftkdvZIpLKtHk) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Folk Songs for Old Times' Sake](https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv) | 2:25 | 2023-01-20 | 2023-01-22 |

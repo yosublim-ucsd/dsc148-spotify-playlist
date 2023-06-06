@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-97 songs - 5 hr 5 min
+99 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Listen to your heart](https://open.spotify.com/track/0BODaqe1PfKlFtV2rjtY9D) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Elsa](https://open.spotify.com/album/2o1BLv6s8yEj7AbTiul87R) | 3:16 | 2022-10-14 | 2023-01-11 |
 | [Listen to your heart](https://open.spotify.com/track/2ov6f8mXppqPHffDiCKZtZ) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Listen to your heart](https://open.spotify.com/album/2rkomgqyv6owGar7tmmW2Y) | 3:16 | 2022-09-02 | 2022-11-20 |
 | [Look How Pretty Today Is](https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [RIDING AROUND](https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK) | 2:08 | 2023-02-24 |  |
+| [Made Man \- Instrumental](https://open.spotify.com/track/2ElHYDWjYh9eKM7EQHB3SV) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [NY's Finest \(Instrumentals\)](https://open.spotify.com/album/31VK3KHWIzRvFF53trFJTr) | 4:12 | 2023-06-05 |  |
 | [Main Stage](https://open.spotify.com/track/3FGPjaDyaVXSpubOPwFV0Q) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Fake Business](https://open.spotify.com/album/79VlsORhx2r88yW7TRmDWW) | 2:18 | 2022-07-22 |  |
 | [Masta I.C\. \(Instrumental\)](https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE) | [Masta I.C\. \- EP](https://open.spotify.com/album/4nx15DvzObukboid8HIkHX) | 4:17 | 2023-03-02 |  |
 | [mtv cribs](https://open.spotify.com/track/7xquksomVzxsHXvgCw6OYs) | [Kobe Banks](https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [mtv cribs](https://open.spotify.com/album/2tzSHLpARzLa3kXWbpBFFb) | 1:38 | 2022-07-22 |  |
@@ -95,6 +96,7 @@
 | [Till the Sun Comes Up](https://open.spotify.com/track/1m0KLCmVeh5kWxcEC9fuIL) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Till the Sun Comes Up](https://open.spotify.com/album/0pienniFn3oZcgJoSD7eRF) | 1:57 | 2022-09-09 | 2022-10-23 |
 | [Till the Sun Comes Up](https://open.spotify.com/track/35f01nZSdpR0KtTrupnwJf) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Selected Archive \(1996 \- 2002\) \- No\. 5](https://open.spotify.com/album/5NbcdKLDqdkgZyUgsxUnME) | 1:57 | 2022-10-14 |  |
 | [Time's Up \- Remix Instrumental](https://open.spotify.com/track/5yKA1w7RuOwQFbcve0Iukj) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Word...Life \(Deluxe Edition\)](https://open.spotify.com/album/3UwGJNvu2bAzjxx25GlqA5) | 3:33 | 2022-07-22 |  |
+| [Tonights Da Night \- Instrumental](https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [The Funk Lord Instrumentals](https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0) | 3:02 | 2023-06-05 |  |
 | [Touching Realness](https://open.spotify.com/track/2ESa9s5W3Cr80IseEzHP7O) | [K\-DEF](https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7) | [One Man Band](https://open.spotify.com/album/0w9EYiEPKzjrX0WQ48yUy2) | 2:01 | 2023-03-02 |  |
 | [Tour Stories \- Instrumental](https://open.spotify.com/track/71UYIUEqgChcl8gBAOrrGI) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [Tour Stories](https://open.spotify.com/album/5x2FrDwXcD3rftOgRxCjmW) | 4:45 | 2022-11-25 |  |
 | [Travellin' Man \(Instrumental\)](https://open.spotify.com/track/5GVTLWtI6oJYYHeuxKjfPO) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:16 | 2022-07-22 |  |

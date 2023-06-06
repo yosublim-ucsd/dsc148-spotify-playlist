@@ -4,7 +4,7 @@
 
 > Welcome to Indie Rock Club\. Cover: Arctic Monkeys
 
-246 songs - 14 hr 36 min
+247 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 | 2022-07-21 |  |
 | [Fell in Love with a Girl](https://open.spotify.com/track/6fLDBnJDWsXwtFSxTC0I9N) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/5pfNX9w6BgCXhLyZGs6YMS) | 1:50 | 2022-07-21 | 2022-07-29 |
 | [Fell In Love With a Girl](https://open.spotify.com/track/2fymCrgE8PRWqr6VOtmSvx) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Fell in Love with a Girl](https://open.spotify.com/album/3OxTiR9m0tSOGvlBJ308Vn) | 1:51 | 2022-09-20 | 2022-11-13 |
-| [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 | 2022-01-18 |  |
+| [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 | 2022-01-18 | 2023-06-06 |
 | [First](https://open.spotify.com/track/4foq9UaCBFLWctCeVxLSSF) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home \(Deluxe Edition\)](https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7) | 3:20 | 2022-09-20 | 2022-11-13 |
 | [First](https://open.spotify.com/track/1AJQgluvsl5LH2kz9b2Y37) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/4nfH5WNep8WEwOjoIhNZFM) | 3:20 | 2021-12-03 | 2022-07-23 |
 | [Flesh War](https://open.spotify.com/track/07aFEW0atvmEnFNn8RkF3q) | [Total Control](https://open.spotify.com/artist/5vjPLkDLdB76i8EO1PFOT6) | [Typical System](https://open.spotify.com/album/002H2i61LWlMsJTQbRMwGh) | 4:40 | 2022-07-21 | 2022-07-24 |
@@ -101,6 +101,7 @@
 | [Golden Touch \- Full Length](https://open.spotify.com/track/13bEwk7dTy0RdOAY3ZNNBD) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Up All Night](https://open.spotify.com/album/4HKGobgiysyDLsWp86chaK) | 3:25 | 2021-12-03 | 2022-07-29 |
 | [Golden Touch \- Full Length](https://open.spotify.com/track/06aMDKw1zNra92edkj2QrY) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Up All Night](https://open.spotify.com/album/6iRS8yRhnTgNEQrBoB2azm) | 3:25 | 2022-01-18 |  |
 | [Golden Touch \- Full Length](https://open.spotify.com/track/2w89lyNZWUYFss3f9c0rIh) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Throwback Thursday Mix Vol\. 1](https://open.spotify.com/album/7etzPoYPtSp59iPS9QqMuo) | 3:25 | 2022-09-20 | 2022-11-14 |
+| [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 | 2023-06-05 |  |
 | [Hate to Say I Told You So](https://open.spotify.com/track/4WekEzcLyDDdPHG3G6dZg4) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Boyhood: Music from the Motion Picture](https://open.spotify.com/album/6gVaSasSnh85NVEoAUCqbQ) | 3:19 | 2022-09-20 | 2022-11-14 |
 | [Hate To Say I Told You So](https://open.spotify.com/track/5MjxA0iKBexRxwVfDDrdnt) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Your New Favourite Band](https://open.spotify.com/album/6dO1bXWSqKofUUsgygq0bb) | 3:19 | 2022-07-21 | 2022-07-26 |
 | [Hate To Say I Told You So](https://open.spotify.com/track/75ARkUKb54dQ86YezuoNhn) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/4LIKns3pN21w48Yf4dA6eL) | 3:19 | 2021-12-03 | 2022-07-29 |

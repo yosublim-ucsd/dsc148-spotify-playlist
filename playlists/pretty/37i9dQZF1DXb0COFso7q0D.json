@@ -1,12 +1,12 @@
 {
   "description": "The playlist sin fronteras. Cover: Eden Mu\u00f1oz, Junior H",
-  "num_followers": 3079329,
+  "num_followers": 3080075,
   "original_name": "Los Que Mandan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2VkY2E5YzY1OTE4ODI0MzFiYTc3Yzc1NDhjOWE3OTEzN2ZlZWE0",
+  "snapshot_id": "MCw5MmRjOGZlZjU3OTU3Mzc2ZGE4NzYzMWY3MmFlY2NhMGY0ZDc4MGQ3",
   "tracks": [
     {
       "added_at": "2023-06-01 22:20:08",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-06-01 22:20:08",
       "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "added_at": "2023-06-01 22:20:08",
+      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 185338,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
-    },
-    {
-      "added_at": "2023-06-01 22:20:08",
-      "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
     },
     {
       "added_at": "2023-06-01 22:20:08",

@@ -4,7 +4,7 @@
 
 > Blues with a lighter, up\-beat feel\. Cover: Taj Mahal & Keb' Mo'
 
-56 songs - 3 hr 32 min
+57 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,10 @@
 | [Hooked On Your Love](https://open.spotify.com/track/2BNHEQAzAJAkWr2555Hsbp) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Hooked On Your Love](https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1) | 4:45 | 2020-12-01 |  |
 | [I Want To Shout About It](https://open.spotify.com/track/2h8qkFrZdHeDe4usK4jsOz) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Hard Truth](https://open.spotify.com/album/3AaBJu4gsVjChcKqYe0Sgb) | 3:39 | 2020-12-01 |  |
 | [I'm so Happy](https://open.spotify.com/track/6aSxH8DLfzJAJv2V09kfg1) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Bloodline](https://open.spotify.com/album/3hHXyQHqKYELS9wJLzZY1a) | 3:42 | 2020-12-01 |  |
-| [It's So Good To Be Alive](https://open.spotify.com/track/0t1upF1YYNL7h5AaoYPZQY) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Change of Pace](https://open.spotify.com/album/7oeDtX0VUSOrxwGt5rHuzP) | 3:31 | 2020-12-01 |  |
+| [It's So Good To Be Alive](https://open.spotify.com/track/0t1upF1YYNL7h5AaoYPZQY) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Change of Pace](https://open.spotify.com/album/7oeDtX0VUSOrxwGt5rHuzP) | 3:31 | 2020-12-01 | 2023-06-06 |
 | [It's So Good To Be Alive](https://open.spotify.com/track/1OwdaBgJ4QMW4WPTZo5ckm) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Change of Pace](https://open.spotify.com/album/16oN3hGbEomhLRcCdKRlcg) | 3:31 | 2020-12-01 | 2023-04-29 |
 | [It's So Good To Be Alive](https://open.spotify.com/track/7knK4sydRevYAisURttl4q) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Change of Pace](https://open.spotify.com/album/1fVSB9gzCajwYwrcSYJLNB) | 3:31 | 2020-12-01 | 2023-06-03 |
+| [It's so Good to Be Alive](https://open.spotify.com/track/2Yjm4gA90ieeaI1nKDypBW) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Change of Pace](https://open.spotify.com/album/0mOrZShsSnMqGrKrfFCRGo) | 3:31 | 2020-12-01 |  |
 | [Joy](https://open.spotify.com/track/1ZUn8WgpE4D5IUjrdxOLur) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [The Son Of A Bluesman](https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9) | 3:49 | 2020-12-01 |  |
 | [Joy Comes Back](https://open.spotify.com/track/2y4xTUliqsmrGvDvJ2sy6y) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Joy Comes Back](https://open.spotify.com/album/0KVRKuJ3L6dpheQaBJZJrt) | 4:31 | 2020-12-01 |  |
 | [Keep On Lovin' Me Baby](https://open.spotify.com/track/1YGNBlq4z5yHmNeJcWAUbd) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Magic Sam Legacy](https://open.spotify.com/album/6NWHbVXqmS3iwYezERGfLN) | 3:24 | 2020-12-01 | 2022-07-29 |

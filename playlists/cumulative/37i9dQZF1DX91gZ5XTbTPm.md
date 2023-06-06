@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-462 songs - 21 hr 25 min
+463 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/70VkwSaJYXNCreoqwEMk4g) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/44ZvY2vUWa7Zkb59G0ZZOk) | 3:09 | 2021-12-03 | 2022-01-29 |
 | [War Cries](https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL) | [War Cries](https://open.spotify.com/album/30slXEZQTucfmq8bWQaWk6) | 2:29 | 2022-06-03 | 2022-10-15 |
 | [Watch](https://open.spotify.com/track/38mNgoRMYSdg2n8Tt98R8L) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [Watch](https://open.spotify.com/album/6a1CNy5aFJske7Q8CF9Bh6) | 1:51 | 2022-08-19 | 2022-10-22 |
+| [WAY I WALK](https://open.spotify.com/track/4qR7X2u3zkeBBwxlabexLh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [WAY I WALK](https://open.spotify.com/album/5Sc7471agIN9TTuDl2XEpn) | 2:30 | 2023-06-02 |  |
 | [Way Too Hot \(feat\. DCG Msavv\)](https://open.spotify.com/track/0gbJ0BNVj4Oq2bV8abqnc3) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Msavv](https://open.spotify.com/artist/0UXXT0Mk3hY49GSk9VyUmU) | [Way Too Hot \(feat\. DCG Msavv\)](https://open.spotify.com/album/0ShHKHwRejTIbAG4BSkFIP) | 3:08 | 2023-03-24 | 2023-05-13 |
 | [Way Too Petty](https://open.spotify.com/track/5ObUmPrfvyC7IEOe3n8Z3J) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Way Too Petty](https://open.spotify.com/album/5jd5UY4vC6PoWb3Iw4owqF) | 2:12 | 2023-02-24 | 2023-05-27 |
 | [We Don't Care](https://open.spotify.com/track/6XwauVfp0v51OnRzZqBzVR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:16 | 2023-04-28 |  |

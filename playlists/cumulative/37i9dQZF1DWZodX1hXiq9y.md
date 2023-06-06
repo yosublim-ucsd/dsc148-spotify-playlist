@@ -4,7 +4,7 @@
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-190 songs - 20 hr 0 min
+191 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Cheese Cake \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 6:33 | 2022-05-13 |  |
 | [Chicago Calling \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/7v9gdHQr7giAb3pTI6x805) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:36 | 2022-05-13 | 2022-10-08 |
 | [Confirmation](https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 2:58 | 2022-08-17 |  |
-| [Countdown \- Mono](https://open.spotify.com/track/0V2dEdN7vtaoIiR4MKY2vR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 2:25 | 2022-08-12 |  |
+| [Countdown \- Mono](https://open.spotify.com/track/0V2dEdN7vtaoIiR4MKY2vR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 2:25 | 2022-08-12 | 2023-06-06 |
 | [Cousin Mary](https://open.spotify.com/track/0g9brmkGpgD18H2NsDcqC8) | [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [Four For Trane](https://open.spotify.com/album/3sAkK5Zm8cigSNCgeoAqOa) | 7:11 | 2022-05-13 | 2022-07-27 |
 | [Cousin Mary](https://open.spotify.com/track/6xXrlNoRO2huakbn56b88W) | [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [Four For Trane](https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n) | 7:14 | 2022-08-11 | 2022-10-08 |
 | [Crazy She Calls Me](https://open.spotify.com/track/44Iy3NmrG5kLWfCeieKIiD) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Very Cool](https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6) | 7:23 | 2022-05-13 |  |
@@ -87,6 +87,7 @@
 | [If I Should Lose You](https://open.spotify.com/track/6BiE95um67fs02pUE8k0rh) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [In The Still Of The Night](https://open.spotify.com/album/6uBjs8yk91J9pdkds8aabA) | 8:11 | 2022-05-13 | 2022-10-08 |
 | [If I Should Lose You \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:10 | 2022-05-13 |  |
 | [Imagination](https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 5:55 | 2022-05-13 |  |
+| [Impressions \(feat\. Eric Dolphy\) \- Live](https://open.spotify.com/track/0jFcrPx0fe5pRBRKKf8Apf) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Impressions \(Live\)](https://open.spotify.com/album/7g6pX3CjRqEiqF1fFm9M8b) | 10:12 | 2023-06-01 |  |
 | [In Your Own Sweet Way](https://open.spotify.com/track/3YiuJ3OstUEa93UBqb1vcn) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Warm Woods](https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba) | 8:04 | 2022-05-13 | 2022-07-29 |
 | [In Your Own Sweet Way](https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv) | [Phil Woods Quartet](https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C) | [Warm Woods](https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH) | 8:05 | 2022-05-13 |  |
 | [It Had to Be You](https://open.spotify.com/track/3TVGO0B20dnOgBBKb8Fkye) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap), [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y), [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Jazz Alive! A Night at the Half Note](https://open.spotify.com/album/7ae4qsLX1ZBTrrClmrGPWA) | 10:14 | 2022-05-13 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 
 > Blues with a lighter, up\-beat feel\. Cover: Taj Mahal & Keb' Mo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,076 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,083 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 | 5 | [All Around The World](https://open.spotify.com/track/07ZuuDjwtyMzKVnayq0tEr) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 3:22 |
 | 6 | [Better Together](https://open.spotify.com/track/2Hi5Vmg9pEE79rlc8euV8K) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Whiskey](https://open.spotify.com/album/5e26fKhSFeYXxCVAlCwMdQ) | 3:30 |
 | 7 | [Drinkin' Wine](https://open.spotify.com/track/0aTYDSglGbfhv1Zoj9PAR6) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 4:13 |
-| 8 | [It's So Good To Be Alive](https://open.spotify.com/track/0t1upF1YYNL7h5AaoYPZQY) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Change of Pace](https://open.spotify.com/album/7oeDtX0VUSOrxwGt5rHuzP) | 3:31 |
+| 8 | [It's so Good to Be Alive](https://open.spotify.com/track/2Yjm4gA90ieeaI1nKDypBW) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Change of Pace](https://open.spotify.com/album/0mOrZShsSnMqGrKrfFCRGo) | 3:31 |
 | 9 | [Stronger Together](https://open.spotify.com/track/69krfmNys0Jneki3ZAndvY) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 3:34 |
 | 10 | [Let's Get Together](https://open.spotify.com/track/3BAr3C9HFzqNjYuExBQAix) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor \(Deluxe Edition\)](https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP) | 3:39 |
 | 11 | [Found The One](https://open.spotify.com/track/3djkFjq8d6o286nrxoNrZW) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 2:47 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 | 44 | [Hooked On Your Love](https://open.spotify.com/track/2BNHEQAzAJAkWr2555Hsbp) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Hooked On Your Love](https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1) | 4:45 |
 | 45 | [World Of Love](https://open.spotify.com/track/78E77b3kMt9NQAlcuqZzIT) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [Jump Start](https://open.spotify.com/album/06UMQMztopw3oyrWF5RjHz) | 4:00 |
 
-Snapshot ID: `MCw3NjgyYzE2ODc2YjI4ZDA1YTExODg2NTE5NmU3ZDhkMzYzYTVkNTk0`
+Snapshot ID: `MCw0NWUzZjRiMzk1ZmRjODAxMTcxYmFiY2FlNjk0MjA2MGJiNWYwM2Iz`

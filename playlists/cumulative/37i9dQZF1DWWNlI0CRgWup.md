@@ -2,7 +2,7 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez notre sélection des artistes à suivre\. Photo : Ehla
+> Découvrez notre sélection des artistes à suivre\. Photo : MDNS
 
 100 songs - 5 hr 17 min
 

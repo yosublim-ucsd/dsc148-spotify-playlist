@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: The Chainsmokers x bludnymph
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,952 likes - 68 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,982 likes - 68 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 67 | [BIONIC](https://open.spotify.com/track/6ysOLRnQtxTEGMGBiJqUzI) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [16BOOSTERZ](https://open.spotify.com/album/0IrkJnF8UKtYPLR5pnqpgW) | 3:37 |
 | 68 | [WOW](https://open.spotify.com/track/2GI7yu94jBwLRZ8e1zuKRN) | [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [WOW](https://open.spotify.com/album/3SPke9J0yJfxzorzwbW6Vm) | 2:00 |
 
-Snapshot ID: `MCwxNGJjMjA0ZGUxMDBhOGUxOGIxMDZmZjZjMzkzYjZmZDM2YWE4MzJk`
+Snapshot ID: `MCwwYjNjMTFmZDNiMTEzYmE4ZWMxYTU5OTJjMzBmZDIyODA5YmNkZDJk`

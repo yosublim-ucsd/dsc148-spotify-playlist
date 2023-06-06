@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Moneybagg Yo, Gunna, and more\. Cover: Toosii
 
-2,938 songs - 5 day 17 hr 10 min
+2,941 songs - 5 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2590,6 +2590,7 @@
 | [The Happy](https://open.spotify.com/track/5e5Tc4ad1BUNHwclgAWMbH) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Happy](https://open.spotify.com/album/5mue8Vi6Sxw3vscmf1Nra1) | 2:33 | 2022-02-11 | 2022-02-19 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 | 2022-05-14 |
 | [The Highs & The Lows](https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [The Highs & The Lows](https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a) | 4:15 | 2022-06-17 | 2022-06-25 |
+| [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-06-05 |  |
 | [The Last Dance](https://open.spotify.com/track/6pZMDwkmvrqt2ubqpLGRQy) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [The Last Dance](https://open.spotify.com/album/66U307HBY3iMZk6afuh0Rr) | 3:09 | 2023-05-12 | 2023-05-20 |
 | [The Light](https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Light](https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa) | 2:52 | 2023-03-24 | 2023-04-01 |
 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 | 2023-01-13 | 2023-01-21 |
@@ -2734,6 +2735,7 @@
 | [Uh Huh \(feat\. Tee Grizzley\)](https://open.spotify.com/track/6JLjWnoXZXB8F8Ia0YIspw) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Uh Huh \(feat\. Tee Grizzley\)](https://open.spotify.com/album/7HHeblBBJOKRUihjkDXVzZ) | 2:35 | 2023-03-10 | 2023-03-18 |
 | [Uh Ohhh](https://open.spotify.com/track/2Mj6dY4if9Utm2PONcFJ9O) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Uh Ohhh](https://open.spotify.com/album/3oLpVsCNrXzenMpK6NYy1a) | 2:12 | 2023-02-03 | 2023-02-11 |
 | [UK](https://open.spotify.com/track/3p2DjXHj8Z4yGnVrx3eHrU) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [UK](https://open.spotify.com/album/6KLFKObVq23rmM23HNzTe0) | 2:33 | 2023-04-07 | 2023-04-15 |
+| [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 | 2023-06-05 |  |
 | [Umm Hmm](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:12 | 2022-08-05 | 2022-08-13 |
 | [Unacceptable](https://open.spotify.com/track/0Yptvdo4iVZ42hz0m8rGng) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Unacceptable](https://open.spotify.com/album/79v3fsCuDJoEfpMJc6G7fI) | 3:06 | 2022-08-12 | 2022-08-20 |
 | [Unappreciated](https://open.spotify.com/track/3XY9A28it4ayh188fbjCnK) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Talk More Soon](https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc) | 3:46 | 2022-08-19 | 2022-08-27 |
@@ -2812,6 +2814,7 @@
 | [WAVE](https://open.spotify.com/track/6jc7hcVqCDGjjeRokClILI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [WAVE](https://open.spotify.com/album/7ySlZx8l59eRiX7WYOAofF) | 2:10 | 2022-10-21 | 2022-10-29 |
 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 | 2021-12-24 | 2022-01-22 |
 | [waY bacK wheN](https://open.spotify.com/track/6P0XCZPe8OZZtasJ5xG3Uz) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [wheN iT rainS iT pourS](https://open.spotify.com/album/53zUIw0vdPLw5YhMwFBeWU) | 2:57 | 2022-04-22 | 2022-04-29 |
+| [WAY I WALK](https://open.spotify.com/track/4qR7X2u3zkeBBwxlabexLh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [WAY I WALK](https://open.spotify.com/album/5Sc7471agIN9TTuDl2XEpn) | 2:30 | 2023-06-02 |  |
 | [Way Out West](https://open.spotify.com/track/0TC0NvBBdCnsPbo479vmhY) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [Way Out West](https://open.spotify.com/album/5FLlUnNaMAN1SlpPeMnJRz) | 2:42 | 2023-02-10 | 2023-02-18 |
 | [Way Too Hot \(feat\. DCG Msavv\)](https://open.spotify.com/track/0gbJ0BNVj4Oq2bV8abqnc3) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Msavv](https://open.spotify.com/artist/0UXXT0Mk3hY49GSk9VyUmU) | [Way Too Hot \(feat\. DCG Msavv\)](https://open.spotify.com/album/0ShHKHwRejTIbAG4BSkFIP) | 3:08 | 2023-03-24 | 2023-04-01 |
 | [Way Too Much Love](https://open.spotify.com/track/327UmjUSBqubQJF0G85Ah8) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Way Too Much Love](https://open.spotify.com/album/5EIIQ8X8H76jHh1ADRNG2O) | 2:36 | 2022-11-11 | 2022-11-19 |

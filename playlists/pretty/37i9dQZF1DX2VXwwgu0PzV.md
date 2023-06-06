@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl?si=iRktR54\_Rx\-F1GbMBS3OLg"> Elikem Kofi </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,667 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,710 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 69 | [Ride](https://open.spotify.com/track/7fn9wyVJvDOVkOI1UpU20x) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Ride](https://open.spotify.com/album/4YXNOs51XA1tTdcMoJg7kk) | 2:41 |
 | 70 | [Answer Call](https://open.spotify.com/track/2MKb3pVcUzhijnrBjIWbYH) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Derry Hans](https://open.spotify.com/artist/6OcDjc4E6BZgxojhEQcG6R), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Answer Call](https://open.spotify.com/album/1UwO44E4nxapmMRXmioczM) | 3:43 |
 
-Snapshot ID: `MCw2NzJkNTI4YjIwNDcwYThlOWRkNjRlNDA4Y2JjYTc5M2UwMDE3MjRh`
+Snapshot ID: `MCxmMTRlOGM5OGVhYTgyNTE2NDkyODBkZTFlZDYyYTU3MGY2YmFkZGQw`

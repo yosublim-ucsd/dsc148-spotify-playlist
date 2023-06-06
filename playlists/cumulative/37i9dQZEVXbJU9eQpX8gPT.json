@@ -3065,6 +3065,28 @@
     },
     {
       "album": {
+        "name": "Business (feat. Naza)",
+        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170435,
+      "name": "Business (feat. Naza)",
+      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+    },
+    {
+      "album": {
         "name": "Butter (Hotter, Sweeter, Cooler)",
         "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
       },
@@ -13500,6 +13522,24 @@
     {
       "album": {
         "name": "Nari",
+        "url": "https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5"
+      },
+      "artists": [
+        {
+          "name": "Aezaddy",
+          "url": "https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Nari",
+      "url": "https://open.spotify.com/track/1uApa4g1Fr87F4IAC2Xgc2"
+    },
+    {
+      "album": {
+        "name": "Nari",
         "url": "https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q"
       },
       "artists": [
@@ -16718,7 +16758,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 167730,
       "name": "Salade Coco",
       "url": "https://open.spotify.com/track/2BJh2IoGeq0UQVsLHUcbrK"
@@ -17310,7 +17350,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 182961,
       "name": "SME3NI",
       "url": "https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP"

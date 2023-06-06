@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> ohhhhh sukin de murucujaaaaaaaaaaa
+> IAI QUAL VAI SE
 
 278 songs - 12 hr 50 min
 

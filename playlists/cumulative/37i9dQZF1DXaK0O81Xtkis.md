@@ -4,7 +4,7 @@
 
 > make it pop! cover: Lauv
 
-656 songs - 1 day 8 hr 56 min
+657 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Mine](https://open.spotify.com/track/4nb1IKpcYekqY4enXOdNzm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Mine](https://open.spotify.com/album/19VC3wBEzuvT9K73l0Jkan) | 3:29 | 2022-01-07 | 2022-02-26 |
 | [miss misery](https://open.spotify.com/track/3Bey9kH0UEORyDMxT7Oph8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [miss misery](https://open.spotify.com/album/3AOmVaNza6c5sfnjDeYDVk) | 2:59 | 2023-02-17 | 2023-04-25 |
 | [Mistake](https://open.spotify.com/track/3cKEPwsUlavywIrz3yjfw4) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [Mistake](https://open.spotify.com/album/0C9TJmoKVNAcdnQxr6BmHh) | 2:28 | 2022-10-07 | 2023-03-04 |
+| [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-05 |  |
 | [Moneymaker](https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Moneymaker](https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y) | 2:17 | 2022-11-11 |  |
 | [Moonrock](https://open.spotify.com/track/79dt40lQLm46E1WPVYLvTO) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Moonrock](https://open.spotify.com/album/49J53goWppUwvbTn8Gcej5) | 3:00 | 2022-08-19 | 2022-09-24 |
 | [Moped](https://open.spotify.com/track/78qpxyEBuaJucHP2SURndk) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Does A Fish Know It's Wet?](https://open.spotify.com/album/2Zi2zHzjT6aMypTgEXY2zw) | 3:05 | 2022-07-22 | 2022-09-17 |
@@ -569,7 +570,7 @@
 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-27 | 2023-03-25 |
 | [thank god](https://open.spotify.com/track/1ISqxcKx6GHXjomB4NfkpF) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [thank god](https://open.spotify.com/album/2ImBrGMid90VfbhErSEL7w) | 2:39 | 2023-03-03 | 2023-03-25 |
 | [that's how it goes](https://open.spotify.com/track/5Agb6psLvZTVv1QxfZR73X) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8), [Candor](https://open.spotify.com/artist/70b2sXX923hUCITy2mAUiZ) | [that's how it goes](https://open.spotify.com/album/6PDPgSD9VSmg5dKKa3y22q) | 2:01 | 2022-02-04 | 2022-02-26 |
-| [That's What I Get](https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [That's What I Get](https://open.spotify.com/album/2ot1e7ExW9qF6G82rIJc1f) | 2:30 | 2023-01-27 |  |
+| [That's What I Get](https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [That's What I Get](https://open.spotify.com/album/2ot1e7ExW9qF6G82rIJc1f) | 2:30 | 2023-01-27 | 2023-06-06 |
 | [That's What Makes Me Love You](https://open.spotify.com/track/2nbjwfE22P08oLHDQ11xzf) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [That's What Makes Me Love You](https://open.spotify.com/album/2TJRufbxBAMm10Fu6Bt5cj) | 2:35 | 2022-03-04 | 2022-07-16 |
 | [That's Where I Am](https://open.spotify.com/track/0wTkxvNMVavVxuq5hmxfFN) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162) | 4:12 | 2022-09-09 | 2022-11-13 |
 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 | 2022-09-09 | 2023-01-06 |

@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 343525,
+  "num_followers": 343569,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjI5MjVhNjE5NzQ0YjU3MDZkN2I4MDRhZTM4YjA0ZWYzYjBlNDM4",
+  "snapshot_id": "MCw0OWIwZDIzYWIzYTk4MzhhM2ZkMmIwZjJmNDkxZGE1NjlkMTMwYTRh",
   "tracks": [
     {
       "added_at": "2023-05-15 13:37:09",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-05-15 13:37:09",
       "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 172131,
+      "name": "Make Me Stay",
+      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+    },
+    {
+      "added_at": "2023-05-15 13:37:09",
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 240653,
       "name": "Will I See You Again?",
       "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
-    },
-    {
-      "added_at": "2023-05-15 13:37:09",
-      "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 172131,
-      "name": "Make Me Stay",
-      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
     },
     {
       "added_at": "2023-05-15 13:37:09",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-05-15 13:37:09",
       "album": {
+        "name": "Ride for Me",
+        "url": "https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        }
+      ],
+      "duration_ms": 194542,
+      "name": "Ride for Me",
+      "url": "https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84"
+    },
+    {
+      "added_at": "2023-05-15 13:37:09",
+      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 224880,
       "name": "Girl Like Me (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
-    },
-    {
-      "added_at": "2023-05-15 13:37:09",
-      "album": {
-        "name": "Ride for Me",
-        "url": "https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg"
-      },
-      "artists": [
-        {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
-        }
-      ],
-      "duration_ms": 194542,
-      "name": "Ride for Me",
-      "url": "https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84"
     },
     {
       "added_at": "2023-05-15 13:37:09",

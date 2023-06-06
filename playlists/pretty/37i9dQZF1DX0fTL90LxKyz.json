@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 50997,
+  "num_followers": 51022,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2ViMTlhMjYyZjcxNmUwNGI5NTdlNDJjZjQzNzM4MzBhZGU0NWM0",
+  "snapshot_id": "MCwxNTQwMjI1ODA5YTdkODI1NzQ4YWMwNTdkY2U0YWZiNmI2NDM0Y2U0",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Commitment Issues",
-        "url": "https://open.spotify.com/album/0RHc0eLRmJ7dFidneiGXeX"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 150663,
-      "name": "Commitment Issues",
-      "url": "https://open.spotify.com/track/5w3CtwPT5e0k8zg2LyjvNN"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "STFU",
         "url": "https://open.spotify.com/album/4uu6Jz7fGrOpVKgXPLMPYl"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "Commitment Issues",
+        "url": "https://open.spotify.com/album/0RHc0eLRmJ7dFidneiGXeX"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 150663,
+      "name": "Commitment Issues",
+      "url": "https://open.spotify.com/track/5w3CtwPT5e0k8zg2LyjvNN"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "No More Leaks",
         "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
       },
@@ -219,6 +219,42 @@
       "duration_ms": 161666,
       "name": "Bumpy Johnson",
       "url": "https://open.spotify.com/track/1kxu6GYmdIdEATyPLBDAc0"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Practice Makes Perfect",
+        "url": "https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Practice Makes Perfect",
+      "url": "https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "London (feat. Tion Wayne)",
+        "url": "https://open.spotify.com/album/4CDUyj6tjOqjZB2IDaLjol"
+      },
+      "artists": [
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "duration_ms": 161118,
+      "name": "London (feat. Tion Wayne)",
+      "url": "https://open.spotify.com/track/0jgO2f0lAPSs36KBAHx9Dl"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -247,18 +283,26 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Practice Makes Perfect",
-        "url": "https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL"
+        "name": "I Dunno (feat. Dutchavelli & Stormzy)",
+        "url": "https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU"
       },
       "artists": [
         {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "dutchavelli",
+          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Practice Makes Perfect",
-      "url": "https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7"
+      "duration_ms": 178137,
+      "name": "I Dunno (feat. Dutchavelli & Stormzy)",
+      "url": "https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -291,26 +335,18 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "I Dunno (feat. Dutchavelli & Stormzy)",
-        "url": "https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU"
+        "name": "Paper Cuts",
+        "url": "https://open.spotify.com/album/0bOYi2NpSA7BmCwmdszfCI"
       },
       "artists": [
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "dutchavelli",
-          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 178137,
-      "name": "I Dunno (feat. Dutchavelli & Stormzy)",
-      "url": "https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E"
+      "duration_ms": 179626,
+      "name": "Paper Cuts",
+      "url": "https://open.spotify.com/track/1gFMfqyVSXHMgvRloH2gDL"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -331,6 +367,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "Corn",
+        "url": "https://open.spotify.com/album/5hf9tYrWhDC5ZdKy7f9Kx8"
+      },
+      "artists": [
+        {
+          "name": "2smokeyy",
+          "url": "https://open.spotify.com/artist/4MUA591QaNW7xiMlMgBJV2"
+        }
+      ],
+      "duration_ms": 201398,
+      "name": "Corn",
+      "url": "https://open.spotify.com/track/4aaEROAXVunrYjS556YxAn"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "Loading",
         "url": "https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q"
       },
@@ -347,54 +399,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "London (feat. Tion Wayne)",
-        "url": "https://open.spotify.com/album/4CDUyj6tjOqjZB2IDaLjol"
+        "name": "The Great Escape (feat. Central Cee)",
+        "url": "https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5"
       },
       "artists": [
         {
-          "name": "M24",
-          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
         },
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 161118,
-      "name": "London (feat. Tion Wayne)",
-      "url": "https://open.spotify.com/track/0jgO2f0lAPSs36KBAHx9Dl"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Paper Cuts",
-        "url": "https://open.spotify.com/album/0bOYi2NpSA7BmCwmdszfCI"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 179626,
-      "name": "Paper Cuts",
-      "url": "https://open.spotify.com/track/1gFMfqyVSXHMgvRloH2gDL"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Corn",
-        "url": "https://open.spotify.com/album/5hf9tYrWhDC5ZdKy7f9Kx8"
-      },
-      "artists": [
-        {
-          "name": "2smokeyy",
-          "url": "https://open.spotify.com/artist/4MUA591QaNW7xiMlMgBJV2"
-        }
-      ],
-      "duration_ms": 201398,
-      "name": "Corn",
-      "url": "https://open.spotify.com/track/4aaEROAXVunrYjS556YxAn"
+      "duration_ms": 192676,
+      "name": "The Great Escape (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -423,26 +443,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "The Great Escape (feat. Central Cee)",
-        "url": "https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5"
-      },
-      "artists": [
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "The Great Escape (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "AirForce",
         "url": "https://open.spotify.com/album/3ADX90oQVwuiHPT5ki5426"
       },
@@ -455,6 +455,26 @@
       "duration_ms": 221467,
       "name": "AirForce",
       "url": "https://open.spotify.com/track/3DLRRpaDETZYltj3KZ7kxo"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Pisces",
+        "url": "https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pisces",
+      "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -507,26 +527,6 @@
       "duration_ms": 173571,
       "name": "Wow",
       "url": "https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Pisces",
-        "url": "https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Krept & Konan",
-          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Pisces",
-      "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -643,42 +643,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "On Deck",
-        "url": "https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd"
-      },
-      "artists": [
-        {
-          "name": "Abra Cadabra",
-          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
-        }
-      ],
-      "duration_ms": 179534,
-      "name": "On Deck",
-      "url": "https://open.spotify.com/track/34YkG2pMNOldalZtevHztN"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Who Else (feat. Unknown T)",
-        "url": "https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Who Else (feat. Unknown T)",
-      "url": "https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "Bringing It Back",
         "url": "https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7"
       },
@@ -699,22 +663,18 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "M24 x Fumez the Engineer - Plugged In",
-        "url": "https://open.spotify.com/album/4XVOMAV4svBJPsSYI3SE5u"
+        "name": "On Deck",
+        "url": "https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd"
       },
       "artists": [
         {
-          "name": "Fumez The Engineer",
-          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
-        },
-        {
-          "name": "M24",
-          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
         }
       ],
-      "duration_ms": 152432,
-      "name": "M24 x Fumez the Engineer - Plugged In",
-      "url": "https://open.spotify.com/track/6mZ1eBLOPHltSDFZn4SfwU"
+      "duration_ms": 179534,
+      "name": "On Deck",
+      "url": "https://open.spotify.com/track/34YkG2pMNOldalZtevHztN"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -731,6 +691,26 @@
       "duration_ms": 152322,
       "name": "Warm - Original",
       "url": "https://open.spotify.com/track/0h67w8nvVRIq5jOm4YO2Da"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Who Else (feat. Unknown T)",
+        "url": "https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Who Else (feat. Unknown T)",
+      "url": "https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -771,6 +751,26 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "M24 x Fumez the Engineer - Plugged In",
+        "url": "https://open.spotify.com/album/4XVOMAV4svBJPsSYI3SE5u"
+      },
+      "artists": [
+        {
+          "name": "Fumez The Engineer",
+          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
+        },
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "M24 x Fumez the Engineer - Plugged In",
+      "url": "https://open.spotify.com/track/6mZ1eBLOPHltSDFZn4SfwU"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "Bad One",
         "url": "https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR"
       },
@@ -783,38 +783,6 @@
       "duration_ms": 134142,
       "name": "Bad One",
       "url": "https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Spin This Coupe",
-        "url": "https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC"
-      },
-      "artists": [
-        {
-          "name": "Abra Cadabra",
-          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
-        }
-      ],
-      "duration_ms": 161564,
-      "name": "Spin This Coupe",
-      "url": "https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Lagga",
-        "url": "https://open.spotify.com/album/07ZZfkj294wdteUsHxwwog"
-      },
-      "artists": [
-        {
-          "name": "M1llionz",
-          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
-        }
-      ],
-      "duration_ms": 206197,
-      "name": "Lagga",
-      "url": "https://open.spotify.com/track/5GrnYtEXFHN51MvfBZz9ji"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -839,6 +807,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "Lagga",
+        "url": "https://open.spotify.com/album/07ZZfkj294wdteUsHxwwog"
+      },
+      "artists": [
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        }
+      ],
+      "duration_ms": 206197,
+      "name": "Lagga",
+      "url": "https://open.spotify.com/track/5GrnYtEXFHN51MvfBZz9ji"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "WW2",
         "url": "https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 201982,
       "name": "WW2",
       "url": "https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Spin This Coupe",
+        "url": "https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC"
+      },
+      "artists": [
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        }
+      ],
+      "duration_ms": 161564,
+      "name": "Spin This Coupe",
+      "url": "https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer"
     },
     {
       "added_at": "2022-10-23 18:38:51",

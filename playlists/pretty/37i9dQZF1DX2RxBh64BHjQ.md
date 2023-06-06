@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1YRqgFNXqRyMDRr8ClS1NL">Kali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,766,325 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,766,383 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [High Price \(with Lil Tjay\)](https://open.spotify.com/track/2OvqbosjvY48JgqmySJ2l2) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [High Price \(with Lil Tjay\)](https://open.spotify.com/album/0e72MQklCxJo0IJXGmbz8Y) | 3:12 |
 | 100 | [How High](https://open.spotify.com/track/2JmEudsTs2PrGS7R7tWs8g) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [How High](https://open.spotify.com/album/5O5i4hqy4iJpSlzm5WGGIM) | 2:18 |
 
-Snapshot ID: `MCwyZmZhZTMzM2UxOGJlMDFlNjFlNzdhZWZmNWY2M2IyODY0NjMwOTUy`
+Snapshot ID: `MCxjOGY1NmUxODI0Yjk2MTI5MTMzMjc3ODBlNzJmODhiMzZiYzk5MDMy`

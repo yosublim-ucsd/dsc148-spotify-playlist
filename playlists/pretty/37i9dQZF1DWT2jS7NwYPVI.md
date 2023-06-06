@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: The Criticals
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,662 likes - 105 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,754 likes - 105 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 104 | [Phone Booth](https://open.spotify.com/track/221dIk4DHWGGLNzlQmmOwG) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Phone Booth](https://open.spotify.com/album/1L3cueTE6Y6YkxHW2K5e4r) | 3:01 |
 | 105 | [Temporary](https://open.spotify.com/track/1eOnnKaZZhlQ0l1a6TcDCW) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Temporary](https://open.spotify.com/album/7fNhocF8oOVLtOd2Qcmcki) | 2:37 |
 
-Snapshot ID: `MCw2OTg2NzgzZDE4MmM3Y2ZjZTgxMGRjZmI3MzVlNzM3NzQyMDMxNTdm`
+Snapshot ID: `MCwzZDc3NTdlZWJjZjVmMzc5YWQ4MjIyYmQ5NGVjNDM2YzM1ZjBlMGJm`

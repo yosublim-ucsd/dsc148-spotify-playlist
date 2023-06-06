@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Benjamin Jephta Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,114 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,181 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Bakeren](https://open.spotify.com/track/1tl99aJBxyHmTomw8WHhCY) | [Espen Horne](https://open.spotify.com/artist/7hpcUZfbdKYP4JMC1zNaYW), [Faye Houston](https://open.spotify.com/artist/5062CWWnt9yuyESJ5uKrIB) | [Bakeren](https://open.spotify.com/album/29vxqC6XoqZkfCB0O5j0Xv) | 4:53 |
 | 75 | [Spooki \- Ash Walker Dub](https://open.spotify.com/track/5agzILYRN43kgVHhGzIftY) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Ugh \(Bonus Edition\)](https://open.spotify.com/album/0jVCHki8NXJ2nK22ZDGDhO) | 3:22 |
 
-Snapshot ID: `MCxiMGNkNTVjYjQ5Y2JjOTUxNmM1ZGQ0MmIyNWQ0OGY5NTQ0YTRmOGM1`
+Snapshot ID: `MCw5OGJhZWIwYTU1OGQxYmVjMzM4NjE4YzUxMWQzMmI5ZGE4MzZlZmJj`

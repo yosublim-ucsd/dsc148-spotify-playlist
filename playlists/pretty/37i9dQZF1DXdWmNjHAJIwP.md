@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 
 > Así suena cada estación\. Check back in September for Otoño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,307 likes - 25 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,354 likes - 25 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 | 24 | [Una parte](https://open.spotify.com/track/5Yaia4vlWgAxQqynU3QEXQ) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [Una parte](https://open.spotify.com/album/5QXPzWdxKA9kRYtyQ9jAzd) | 3:22 |
 | 25 | [Hoy brillando](https://open.spotify.com/track/6OVqgdTNsULYMAphPJPN6K) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:36 |
 
-Snapshot ID: `MCw3YTllMzM5NmM4Y2JjYTk3Yjk2MDE1Y2ZkMzRlM2JkNDBhNjJhMDM4`
+Snapshot ID: `MCw1NzQ1MDhjMjdiMGQ2ZTQyZWE0ZTIwMjIyYTgzZTY0MTljOThhZjQ1`

@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Ton Carfi, 2metro, Big Asher, LEVII MC",
-  "num_followers": 123337,
+  "num_followers": 123566,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDY3OGNlNTcyZmEyYjY5NmY5ZDk1NjFiY2EyZTEwMGFiZDU5YWUz",
+  "snapshot_id": "MCxlZDFiODU4ZDg1ZWEwNTk5YWZiZjAyYjdlNjc4NjcwZjdjODgyMTcy",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -219,54 +219,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Deus \u00e9 Bom",
-        "url": "https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW"
-      },
-      "artists": [
-        {
-          "name": "Krawk",
-          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Deus \u00e9 Bom",
-      "url": "https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Jesus Invadiu a Cena",
-        "url": "https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Aff",
-      "url": "https://open.spotify.com/track/3F25r7aIj83DaGs7kVDnP6"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "God Feat. Me",
-        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 176934,
-      "name": "Mateus 6.6",
-      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Limitado",
         "url": "https://open.spotify.com/album/50ec60lL8WRQH77Wqx1rXt"
       },
@@ -291,22 +243,34 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Joquebede",
-        "url": "https://open.spotify.com/album/3hZ3No3WTAU6auEonjkGNb"
+        "name": "Deus \u00e9 Bom",
+        "url": "https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "Israel Santos",
-          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
+          "name": "Krawk",
+          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
         }
       ],
-      "duration_ms": 169306,
-      "name": "Joquebede",
-      "url": "https://open.spotify.com/track/7tSI0qlhyFJ4Ji9ksuMdth"
+      "duration_ms": 220000,
+      "name": "Deus \u00e9 Bom",
+      "url": "https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "God Feat. Me",
+        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 176934,
+      "name": "Mateus 6.6",
+      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -331,6 +295,26 @@
       "duration_ms": 174545,
       "name": "Viv\u00eancias",
       "url": "https://open.spotify.com/track/0jmfZfkd9y1aqT7nvyFssH"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Joquebede",
+        "url": "https://open.spotify.com/album/3hZ3No3WTAU6auEonjkGNb"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Israel Santos",
+          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Joquebede",
+      "url": "https://open.spotify.com/track/7tSI0qlhyFJ4Ji9ksuMdth"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -395,42 +379,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Eu Te Amo",
-        "url": "https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        },
-        {
-          "name": "Bia Jord\u00e3o",
-          "url": "https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Eu Te Amo",
-      "url": "https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Fim de Tarde",
-        "url": "https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 138517,
-      "name": "Fim de Tarde",
-      "url": "https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Marionete",
         "url": "https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR"
       },
@@ -451,26 +399,34 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Fatos & Fatos",
-        "url": "https://open.spotify.com/album/59bnawd1kF0zjtvAF1w9fh"
+        "name": "Jesus Invadiu a Cena",
+        "url": "https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA"
       },
       "artists": [
         {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
         }
       ],
-      "duration_ms": 184324,
-      "name": "Fatos & Fatos",
-      "url": "https://open.spotify.com/track/448GP0uBndTsfEbx89H7dY"
+      "duration_ms": 206829,
+      "name": "Aff",
+      "url": "https://open.spotify.com/track/3F25r7aIj83DaGs7kVDnP6"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Fim de Tarde",
+        "url": "https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 138517,
+      "name": "Fim de Tarde",
+      "url": "https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -507,18 +463,26 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "J\u00e1 Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ"
+        "name": "Fatos & Fatos",
+        "url": "https://open.spotify.com/album/59bnawd1kF0zjtvAF1w9fh"
       },
       "artists": [
         {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 200816,
-      "name": "J\u00e1 Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL"
+      "duration_ms": 184324,
+      "name": "Fatos & Fatos",
+      "url": "https://open.spotify.com/track/448GP0uBndTsfEbx89H7dY"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -623,26 +587,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Labirinto",
-      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Rei",
         "url": "https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua"
       },
@@ -659,6 +603,46 @@
       "duration_ms": 143530,
       "name": "Rei",
       "url": "https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Eu Te Amo",
+        "url": "https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        },
+        {
+          "name": "Bia Jord\u00e3o",
+          "url": "https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Eu Te Amo",
+      "url": "https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 217272,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "J\u00e1 Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "J\u00e1 Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Voc\u00ea Acredita?",
         "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
       },
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Teste",
+        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 192065,
+      "name": "Teste",
+      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Se P\u00e1",
         "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
       },
@@ -887,38 +903,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Teste",
-        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
+        "name": "Imersum",
+        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
         }
       ],
-      "duration_ms": 192065,
-      "name": "Teste",
-      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Tempestade",
-        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
-      },
-      "artists": [
-        {
-          "name": "Calbertini",
-          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
-        },
-        {
-          "name": "Isaac Folly",
-          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
-        }
-      ],
-      "duration_ms": 204827,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+      "duration_ms": 170788,
+      "name": "Imersum",
+      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -959,34 +955,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Imersum",
-        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
       },
       "artists": [
         {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Imersum",
-      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Vale da Sombra",
-        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
-      },
-      "artists": [
+          "name": "Calbertini",
+          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+        },
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Isaac Folly",
+          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Vale da Sombra",
-      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
+      "duration_ms": 204827,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Vale da Sombra",
+        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vale da Sombra",
+      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Esperan\u00e7a para o Perdido",
         "url": "https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 216034,
       "name": "Se Cair",
       "url": "https://open.spotify.com/track/6qx9NzaqtRvYrcJ0ojAZzh"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Notas de um Cora\u00e7\u00e3o Amado",
-        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133653,
-      "name": "Al\u00e9m",
-      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Notas de um Cora\u00e7\u00e3o Amado",
+        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133653,
+      "name": "Al\u00e9m",
+      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "CQC",
         "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Morada de Deus",
-        "url": "https://open.spotify.com/album/4TfiTRoOANsqNl8LdjWrpJ"
-      },
-      "artists": [
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        }
-      ],
-      "duration_ms": 223134,
-      "name": "Morada de Deus",
-      "url": "https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Diamante na Lama 2",
         "url": "https://open.spotify.com/album/2EpLV3YANgbIFJrVQjXnMh"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 208695,
       "name": "Diamante na Lama 2",
       "url": "https://open.spotify.com/track/5N48BDEsBrloyontAV7PHb"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Morada de Deus",
+        "url": "https://open.spotify.com/album/4TfiTRoOANsqNl8LdjWrpJ"
+      },
+      "artists": [
+        {
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+        }
+      ],
+      "duration_ms": 223134,
+      "name": "Morada de Deus",
+      "url": "https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1307,30 +1307,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Repara",
-        "url": "https://open.spotify.com/album/1qMQzRPRt3q457Vqv5W438"
-      },
-      "artists": [
-        {
-          "name": "The Free Church",
-          "url": "https://open.spotify.com/artist/3uIzl2Zys6TrtG8umGBAdM"
-        },
-        {
-          "name": "Esdras Atalaia",
-          "url": "https://open.spotify.com/artist/2yNrIfk2ImavNu8FJ6wczd"
-        },
-        {
-          "name": "Guimar\u00e3es21",
-          "url": "https://open.spotify.com/artist/4MEKEwDHDkMoOjc1qFZxTk"
-        }
-      ],
-      "duration_ms": 226339,
-      "name": "Repara",
-      "url": "https://open.spotify.com/track/76EUcaCEhCkjeMI02Ahyki"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "\u00c9 o Rod no Beat",
         "url": "https://open.spotify.com/album/7MwpwYRDWOHryy1h04Ud2Z"
       },
@@ -1355,6 +1331,30 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Repara",
+        "url": "https://open.spotify.com/album/1qMQzRPRt3q457Vqv5W438"
+      },
+      "artists": [
+        {
+          "name": "The Free Church",
+          "url": "https://open.spotify.com/artist/3uIzl2Zys6TrtG8umGBAdM"
+        },
+        {
+          "name": "Esdras Atalaia",
+          "url": "https://open.spotify.com/artist/2yNrIfk2ImavNu8FJ6wczd"
+        },
+        {
+          "name": "Guimar\u00e3es21",
+          "url": "https://open.spotify.com/artist/4MEKEwDHDkMoOjc1qFZxTk"
+        }
+      ],
+      "duration_ms": 226339,
+      "name": "Repara",
+      "url": "https://open.spotify.com/track/76EUcaCEhCkjeMI02Ahyki"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Flow Maria Mar\u00e7al",
         "url": "https://open.spotify.com/album/6D6hKm3T838uaf8hjOKNB7"
       },
@@ -1367,6 +1367,30 @@
       "duration_ms": 188370,
       "name": "Flow Maria Mar\u00e7al",
       "url": "https://open.spotify.com/track/1xvGkLrj0KZvXAdIAOgv8q"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Famoso: Gn 12",
+        "url": "https://open.spotify.com/album/1kgVZAh5esFmAkj1s3PXxz"
+      },
+      "artists": [
+        {
+          "name": "MN MC",
+          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 149972,
+      "name": "Famoso: Gn 12",
+      "url": "https://open.spotify.com/track/5wGBiWQtkeWG4KCBd71BJV"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1459,70 +1483,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Segunda-Feira",
-        "url": "https://open.spotify.com/album/1LOCOxismL9MpnGNHMigrS"
-      },
-      "artists": [
-        {
-          "name": "The Free Church",
-          "url": "https://open.spotify.com/artist/3uIzl2Zys6TrtG8umGBAdM"
-        },
-        {
-          "name": "AATALAIAA",
-          "url": "https://open.spotify.com/artist/5dDEXbZ0TvYSxGsjSZfpuo"
-        },
-        {
-          "name": "Caiio Augusto",
-          "url": "https://open.spotify.com/artist/1suU2iwDDNHU2zj6aB4vfo"
-        }
-      ],
-      "duration_ms": 229343,
-      "name": "Segunda-Feira",
-      "url": "https://open.spotify.com/track/2VqbnHIpPwPeHIBe8WgUdM"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Famoso: Gn 12",
-        "url": "https://open.spotify.com/album/1kgVZAh5esFmAkj1s3PXxz"
-      },
-      "artists": [
-        {
-          "name": "MN MC",
-          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 149972,
-      "name": "Famoso: Gn 12",
-      "url": "https://open.spotify.com/track/5wGBiWQtkeWG4KCBd71BJV"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Santa Un\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/28jdWFBfGzg9IcaYNgvdKu"
-      },
-      "artists": [
-        {
-          "name": "Cela \u00c9feso",
-          "url": "https://open.spotify.com/artist/7ueKl9kOlGIYEi6uVdlYVB"
-        }
-      ],
-      "duration_ms": 279589,
-      "name": "Santa Un\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3SwAVt84jxpXIqMp9f9pBh"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Envia-me a Mim",
         "url": "https://open.spotify.com/album/234bj7YrLcH6llCan0IRmp"
       },
@@ -1543,6 +1503,46 @@
       "duration_ms": 172584,
       "name": "Envia-me a Mim",
       "url": "https://open.spotify.com/track/0yI2l2ipKCZZIgs2mJ10oU"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Santa Un\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/28jdWFBfGzg9IcaYNgvdKu"
+      },
+      "artists": [
+        {
+          "name": "Cela \u00c9feso",
+          "url": "https://open.spotify.com/artist/7ueKl9kOlGIYEi6uVdlYVB"
+        }
+      ],
+      "duration_ms": 279589,
+      "name": "Santa Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3SwAVt84jxpXIqMp9f9pBh"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Segunda-Feira",
+        "url": "https://open.spotify.com/album/1LOCOxismL9MpnGNHMigrS"
+      },
+      "artists": [
+        {
+          "name": "The Free Church",
+          "url": "https://open.spotify.com/artist/3uIzl2Zys6TrtG8umGBAdM"
+        },
+        {
+          "name": "AATALAIAA",
+          "url": "https://open.spotify.com/artist/5dDEXbZ0TvYSxGsjSZfpuo"
+        },
+        {
+          "name": "Caiio Augusto",
+          "url": "https://open.spotify.com/artist/1suU2iwDDNHU2zj6aB4vfo"
+        }
+      ],
+      "duration_ms": 229343,
+      "name": "Segunda-Feira",
+      "url": "https://open.spotify.com/track/2VqbnHIpPwPeHIBe8WgUdM"
     },
     {
       "added_at": "2023-06-02 03:00:00",

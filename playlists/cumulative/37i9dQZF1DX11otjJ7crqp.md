@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Tove Lo
 
-3,244 songs - 6 day 17 hr 32 min
+3,245 songs - 6 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2705,6 +2705,7 @@
 | [Stumbling](https://open.spotify.com/track/3PFwnVVcInGph5fjyDmseJ) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Stumbling](https://open.spotify.com/album/4oCH7CmR7SFVQU9V2ArYhN) | 2:52 | 2023-04-14 | 2023-04-29 |
 | [Stupid Cupid](https://open.spotify.com/track/08uYRkYyBrEBAolgY5irVW) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Stupid Cupid](https://open.spotify.com/album/5L3H6uXdvsSUkgSZTeU3fv) | 2:53 | 2023-03-17 | 2023-04-01 |
 | [stupid games](https://open.spotify.com/track/3wHX2s10YcSPt6ftT9qKwv) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [homecoming!](https://open.spotify.com/album/6oxQZpgS63Ah61H7fjsGHC) | 3:12 | 2022-03-11 | 2022-03-26 |
+| [STUPID HEART](https://open.spotify.com/track/5fwOGyjuy8iaAxGcE6d9Mf) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [STUPID HEART](https://open.spotify.com/album/28AxQ5DakM1ij2SBornxx9) | 2:38 | 2023-06-05 |  |
 | [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 | 2022-09-30 | 2022-10-15 |
 | [Sucker Punch](https://open.spotify.com/track/1ndSaJm3nyQOxRPVzi8pHp) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [Sucker Punch](https://open.spotify.com/album/0bOiUtUsVyQUZasWvh0KVG) | 2:11 | 2023-03-03 | 2023-03-18 |
 | [Suckerpunch](https://open.spotify.com/track/2HKr9NflxjksCzxhMhxJMt) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Suckerpunch](https://open.spotify.com/album/5esH2DAz24R8zMbnttuFCK) | 2:17 | 2022-11-04 | 2022-11-19 |

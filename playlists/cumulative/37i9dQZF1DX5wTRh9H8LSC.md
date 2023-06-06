@@ -4,7 +4,7 @@
 
 > Listen Heroine's music 24 Hours.
 
-42 songs - 2 hr 12 min
+43 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [TAIL](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:10 | 2022-03-11 |  |
 | [Too young to die \(Prod\. FRANTS\)](https://open.spotify.com/track/4vYEpQ762uNTfIgZ6Rqyd2) | [HOOK](https://open.spotify.com/artist/3pS5aTs5sdGlypb1vVWhvA), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:55 | 2022-03-11 |  |
 | [What The Flower](https://open.spotify.com/track/3uVqwK7jRfNb04b5i4hJqT) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:25 | 2022-03-11 |  |
-| [When We Disco \(Duet with SUNMI\)](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) | 3:44 | 2022-03-11 |  |
+| [When We Disco](https://open.spotify.com/track/7C7BgAc0fEcNzQZqTc6eQL) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/3cftLnzB9VeNPp5LRWqHNo) | 3:44 | 2023-04-03 |  |
+| [When We Disco \(Duet with SUNMI\)](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) | 3:44 | 2022-03-11 | 2023-06-06 |
 | [YOU \(feat\. SUNMI\)](https://open.spotify.com/track/1bthBgj2YMcn2w0LBQl5eI) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:21 | 2022-03-11 |  |
 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 | 2022-03-11 |  |
 | [가라고 \(Gotta Go\)](https://open.spotify.com/track/7xY4ZyZ8v7Crjtu3Esmnql) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [XX \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0ftTaGQKUoSrBKH4ZqWIxq) | 2:59 | 2023-04-03 |  |

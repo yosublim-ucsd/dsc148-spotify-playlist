@@ -4,7 +4,7 @@
 
 > セトリで余韻に浸ろう！2023年2月に行われたStray Kids 2nd World Tour “MANIAC” ENCORE in JAPANのセットリストを再現！
 
-31 songs - 1 hr 40 min
+32 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Lonely St.](https://open.spotify.com/track/2xo84jGkxFPrZmmBtS3Pkd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 2:44 | 2023-02-28 |  |
 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 | 2023-02-28 |  |
 | [MIROH](https://open.spotify.com/track/4rDHgjmRMYpuXc60VoTcaJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:28 | 2023-02-28 |  |
-| [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2023-02-28 |  |
+| [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2023-02-28 | 2023-06-06 |
+| [Mixtape : Time Out](https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 2:55 | 2023-02-28 |  |
 | [Muddy Water \(Changbin, Hyunjin, HAN, Felix\)](https://open.spotify.com/track/0oHn3CGVerdfLqIrN6CT42) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:17 | 2023-02-28 |  |
 | [Red Lights \(Bang Chan, Hyunjin\)](https://open.spotify.com/track/0LatE4S9UtCDwIdGQsFFKL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:09 | 2023-02-28 |  |
 | [ROCK](https://open.spotify.com/track/6p4pfgTkaktK4sp3ZP7NzA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 3:13 | 2023-02-28 |  |

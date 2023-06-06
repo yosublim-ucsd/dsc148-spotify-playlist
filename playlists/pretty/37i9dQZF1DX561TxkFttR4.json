@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 332285,
+  "num_followers": 332308,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTNlYjljZTY1Nzg3NDhlZTQzYWExMzIwZjAyNTMyNWQxYjg1NmUw",
+  "snapshot_id": "MCw1NmNiNjhmZTdlODBlMzhlODU5MjM1NmE2YmExNmEyNTQzYTExYjc0",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        }
-      ],
-      "duration_ms": 312757,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Felt Improv No. 31",
         "url": "https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC"
       },
@@ -415,22 +399,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Lionheart",
-        "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "Le Jardin de Monsieur Monet",
-      "url": "https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Fluttering",
         "url": "https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK"
       },
@@ -447,6 +415,38 @@
       "duration_ms": 108461,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "duration_ms": 312757,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Lionheart",
+        "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Le Jardin de Monsieur Monet",
+      "url": "https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -727,38 +727,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Correlations (on 11 pianos)",
-        "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cipa",
-          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
-        }
-      ],
-      "duration_ms": 273600,
-      "name": "I wanted you to know (on Yamaha Upright, 1981)",
-      "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "night walk",
-        "url": "https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK"
-      },
-      "artists": [
-        {
-          "name": "Vontmer",
-          "url": "https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI"
-        }
-      ],
-      "duration_ms": 194517,
-      "name": "night walk",
-      "url": "https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
       },
@@ -775,6 +743,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Correlations (on 11 pianos)",
+        "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "duration_ms": 273600,
+      "name": "I wanted you to know (on Yamaha Upright, 1981)",
+      "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "The Lost",
         "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 207053,
       "name": "Anona",
       "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "night walk",
+        "url": "https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK"
+      },
+      "artists": [
+        {
+          "name": "Vontmer",
+          "url": "https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI"
+        }
+      ],
+      "duration_ms": 194517,
+      "name": "night walk",
+      "url": "https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Across Borders",
-        "url": "https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG"
+        "name": "Song For Katie",
+        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
       },
       "artists": [
         {
-          "name": "Jozef De Schutter",
-          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Across Borders",
-      "url": "https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA"
+      "duration_ms": 146960,
+      "name": "Song For Katie",
+      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Song For Katie",
-        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
+        "name": "Across Borders",
+        "url": "https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG"
       },
       "artists": [
         {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
         }
       ],
-      "duration_ms": 146960,
-      "name": "Song For Katie",
-      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
+      "duration_ms": 156000,
+      "name": "Across Borders",
+      "url": "https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Pr\u00e9lude",
-        "url": "https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 171608,
-      "name": "Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "how we sleep",
         "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 130459,
       "name": "poetry in touch",
       "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Pr\u00e9lude",
+        "url": "https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 171608,
+      "name": "Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "We Met in the Garden",
-        "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
-      },
-      "artists": [
-        {
-          "name": "Treman",
-          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
-        }
-      ],
-      "duration_ms": 143585,
-      "name": "We Met in the Garden",
-      "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Bylur",
         "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 187200,
       "name": "Dagdraumur",
       "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "We Met in the Garden",
+        "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
+      },
+      "artists": [
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        }
+      ],
+      "duration_ms": 143585,
+      "name": "We Met in the Garden",
+      "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Octaves",
+        "url": "https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir"
+      },
+      "artists": [
+        {
+          "name": "Ali Toygar",
+          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "Octaves",
+      "url": "https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "145",
         "url": "https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 141602,
       "name": "145 - Revisited",
       "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Octaves",
-        "url": "https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir"
-      },
-      "artists": [
-        {
-          "name": "Ali Toygar",
-          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "Octaves",
-      "url": "https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Pioneers",
-        "url": "https://open.spotify.com/album/4tU8qKdQPlGm4OIqHddiw2"
-      },
-      "artists": [
-        {
-          "name": "Philip Daniel",
-          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
-        }
-      ],
-      "duration_ms": 199255,
-      "name": "Pioneers",
-      "url": "https://open.spotify.com/track/74TWhwYF9jxmeMgQUVbu7S"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Untouched Rainforest, Pt.3",
         "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 193529,
       "name": "Untouched Rainforest, Pt.3",
       "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Pioneers",
+        "url": "https://open.spotify.com/album/4tU8qKdQPlGm4OIqHddiw2"
+      },
+      "artists": [
+        {
+          "name": "Philip Daniel",
+          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
+        }
+      ],
+      "duration_ms": 199255,
+      "name": "Pioneers",
+      "url": "https://open.spotify.com/track/74TWhwYF9jxmeMgQUVbu7S"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1295,38 +1295,38 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Summer Flowers",
-        "url": "https://open.spotify.com/album/3ATS4x1NX1DWfc5NTCz7Eh"
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/7FPTqt19aPN3Wly3go9342"
       },
       "artists": [
         {
-          "name": "Polly Carter",
-          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+          "name": "Niklas Blumenthaler",
+          "url": "https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG"
+        },
+        {
+          "name": "Jonas Gewald",
+          "url": "https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc"
         }
       ],
-      "duration_ms": 144654,
-      "name": "Summer Flowers",
-      "url": "https://open.spotify.com/track/70GMSvwtcM7dg2lYNGDy2I"
+      "duration_ms": 143140,
+      "name": "First Steps",
+      "url": "https://open.spotify.com/track/78VCEkQtYNDml6W5xXgw81"
     },
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Stay Longer",
-        "url": "https://open.spotify.com/album/3xVzYw1poJVwmGG1dUcrRe"
+        "name": "9-Feb-2022 \"All For E\"",
+        "url": "https://open.spotify.com/album/6bVLgvKVMlouhbBNMSOjFj"
       },
       "artists": [
         {
-          "name": "Hiroko Murakami",
-          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
-        },
-        {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+          "name": "Sebastian Morawietz",
+          "url": "https://open.spotify.com/artist/2jaLRoXNNJXcNiUMROSRIT"
         }
       ],
-      "duration_ms": 130084,
-      "name": "Stay Longer",
-      "url": "https://open.spotify.com/track/4G6goSnfAiLNF59fc4Z6bU"
+      "duration_ms": 244937,
+      "name": "9-Feb-2022 \"All For E\"",
+      "url": "https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e"
     }
   ],
   "unique_name": "Soft Piano",

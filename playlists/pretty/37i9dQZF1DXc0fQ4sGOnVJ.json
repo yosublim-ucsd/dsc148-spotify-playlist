@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 148681,
+  "num_followers": 148698,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2QzZWVmMGIwNGZmOWU2MzRiMzk2YjViYmM2MTJmOWZiMWI4ZmE5",
+  "snapshot_id": "MCwxZGQ4ZmQyNjkzMjZhM2M3ODZhMDUzZmI4Mzc1MTAxNDMxYTBkMWIx",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dirt Road",
-        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
+        "name": "Thanks for Listening",
+        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
         }
       ],
-      "duration_ms": 165041,
-      "name": "Dirt Road",
-      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
+      "duration_ms": 200441,
+      "name": "Crank It Up",
+      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Thanks for Listening",
-        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
+        "name": "Dirt Road",
+        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
       },
       "artists": [
         {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
         }
       ],
-      "duration_ms": 200441,
-      "name": "Crank It Up",
-      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
+      "duration_ms": 165041,
+      "name": "Dirt Road",
+      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -411,42 +411,6 @@
       "duration_ms": 186261,
       "name": "Duramax (feat. Young Gunner)",
       "url": "https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Down the Road (feat. Colt Ford) [Remix]",
-        "url": "https://open.spotify.com/album/5yc1gjIdUXeSY6U6Qa1jwb"
-      },
-      "artists": [
-        {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
-        },
-        {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        }
-      ],
-      "duration_ms": 165315,
-      "name": "Down the Road (feat. Colt Ford) - Remix",
-      "url": "https://open.spotify.com/track/4CmYl83JZSKuMMjssiALgs"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Diesel Gang",
-        "url": "https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb"
-      },
-      "artists": [
-        {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
-        }
-      ],
-      "duration_ms": 138048,
-      "name": "Diesel Gang",
-      "url": "https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -499,6 +463,42 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Diesel Gang",
+        "url": "https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "duration_ms": 138048,
+      "name": "Diesel Gang",
+      "url": "https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Down the Road (feat. Colt Ford) [Remix]",
+        "url": "https://open.spotify.com/album/5yc1gjIdUXeSY6U6Qa1jwb"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        },
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        }
+      ],
+      "duration_ms": 165315,
+      "name": "Down the Road (feat. Colt Ford) - Remix",
+      "url": "https://open.spotify.com/track/4CmYl83JZSKuMMjssiALgs"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "MAGIC CITY COWBOY",
         "url": "https://open.spotify.com/album/0FHMiGXQjSFEDD5vurEkGU"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 124000,
       "name": "MAGIC CITY COWBOY",
       "url": "https://open.spotify.com/track/4578UyGpgGCGZHfSlHOwFc"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -535,22 +551,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Dirt Rock",
         "url": "https://open.spotify.com/album/5fVHkVelQbRQs1QfFDCHk7"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 229773,
       "name": "Willie Nelson (feat. Nate Kenyon)",
       "url": "https://open.spotify.com/track/4vcHeAH1Zcg7bF74PfaFlO"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Throwed",
-        "url": "https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3"
-      },
-      "artists": [
-        {
-          "name": "Louyah",
-          "url": "https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "Throwed",
-      "url": "https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -611,42 +595,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/3CZ9ox5C5n3dWT4OIX9aTg"
-      },
-      "artists": [
-        {
-          "name": "Shelbykay",
-          "url": "https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD"
-        }
-      ],
-      "duration_ms": 123762,
-      "name": "Confetti",
-      "url": "https://open.spotify.com/track/1xnC3VLI8sHm3nh60q4Hzo"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Dirt Road (Remix) (feat. BRELAND)",
-        "url": "https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo"
-      },
-      "artists": [
-        {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 155866,
-      "name": "Dirt Road (Remix) (feat. BRELAND)",
-      "url": "https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Calicountry",
         "url": "https://open.spotify.com/album/5LeysSgG4R2gezyQYFWKsv"
       },
@@ -671,6 +619,58 @@
       "duration_ms": 262760,
       "name": "We All Country (feat. Colt Ford, Sarah Ross & Charlie Farley)",
       "url": "https://open.spotify.com/track/2SGjJdLuSIvyVB5eXAJXm7"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/3CZ9ox5C5n3dWT4OIX9aTg"
+      },
+      "artists": [
+        {
+          "name": "Shelbykay",
+          "url": "https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD"
+        }
+      ],
+      "duration_ms": 123762,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/1xnC3VLI8sHm3nh60q4Hzo"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Throwed",
+        "url": "https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3"
+      },
+      "artists": [
+        {
+          "name": "Louyah",
+          "url": "https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "Throwed",
+      "url": "https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Dirt Road (Remix) (feat. BRELAND)",
+        "url": "https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Dirt Road (Remix) (feat. BRELAND)",
+      "url": "https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "STICKS",
-        "url": "https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S"
-      },
-      "artists": [
-        {
-          "name": "Jamie Ray",
-          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
-        }
-      ],
-      "duration_ms": 157070,
-      "name": "STICKS",
-      "url": "https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "American Rebelution",
         "url": "https://open.spotify.com/album/0N5anKkS2ywpioukIuU5YC"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "STICKS",
+        "url": "https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S"
+      },
+      "artists": [
+        {
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
+        }
+      ],
+      "duration_ms": 157070,
+      "name": "STICKS",
+      "url": "https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Was it Worth the Wait",
         "url": "https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 170026,
       "name": "Country Slide",
       "url": "https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Southern",
-        "url": "https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd"
-      },
-      "artists": [
-        {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
-        }
-      ],
-      "duration_ms": 183336,
-      "name": "Southern",
-      "url": "https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1051,6 +1035,22 @@
       "duration_ms": 218786,
       "name": "Way Down South (feat. Kyle Cook, Danny Boone, and Demun Jones)",
       "url": "https://open.spotify.com/track/4lWeAYtwmyzgDlJp44whZQ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Southern",
+        "url": "https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "duration_ms": 183336,
+      "name": "Southern",
+      "url": "https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Outlaw In Me",
-        "url": "https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        }
-      ],
-      "duration_ms": 279880,
-      "name": "Out Here",
-      "url": "https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
         "url": "https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM"
       },
@@ -1135,22 +1119,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Yeah",
-        "url": "https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN"
-      },
-      "artists": [
-        {
-          "name": "Austin Tolliver",
-          "url": "https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Trucks Gone Wild",
         "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
       },
@@ -1167,6 +1135,38 @@
       "duration_ms": 101052,
       "name": "Trucks Gone Wild",
       "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN"
+      },
+      "artists": [
+        {
+          "name": "Austin Tolliver",
+          "url": "https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Outlaw In Me",
+        "url": "https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        }
+      ],
+      "duration_ms": 279880,
+      "name": "Out Here",
+      "url": "https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1219,42 +1219,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Mud Digger 4",
-        "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        },
-        {
-          "name": "JJ Lawhorn",
-          "url": "https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "Field Party",
-      "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Mud Digger 5",
-        "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
-      },
-      "artists": [
-        {
-          "name": "Gunnar & The Grizzly Boys",
-          "url": "https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "Standard American",
-      "url": "https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Goin' Back Down",
         "url": "https://open.spotify.com/album/72SXoGRMGpqVDZSdErzIU6"
       },
@@ -1275,6 +1239,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Mud Digger 5",
+        "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
+      },
+      "artists": [
+        {
+          "name": "Gunnar & The Grizzly Boys",
+          "url": "https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "Standard American",
+      "url": "https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Mud Digger 10",
         "url": "https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 162332,
       "name": "Kiss My Ass",
       "url": "https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Mud Digger 4",
+        "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        },
+        {
+          "name": "JJ Lawhorn",
+          "url": "https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "Field Party",
+      "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Redneck for Life",
-        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        }
-      ],
-      "duration_ms": 172848,
-      "name": "Redneck for Life",
-      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Urban Cowboy (Where the City Meets the Country)",
         "url": "https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 210425,
       "name": "Live for Today",
       "url": "https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/3bG0CVdUftTND8ovcRNRty"
+      },
+      "artists": [
+        {
+          "name": "Lenny Cooper",
+          "url": "https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/66il80iAlMZqtGDRaHkg1n"
     }
   ],
   "unique_name": "Field Party",

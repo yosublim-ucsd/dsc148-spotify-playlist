@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=mlZfmPywQpOC8XcCxcvRsw"> Boj </a>
 
-215 songs - 10 hr 28 min
+216 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [DOG EAT DOG II](https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II](https://open.spotify.com/album/3teR99N0boYIvWfEm59CZB) | 4:00 | 2023-05-26 |  |
 | [E No Fit Be Me](https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3) | [Ejoya](https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Noah Airé](https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL) | [E No Fit Be Me](https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE) | 2:55 | 2022-11-24 | 2023-02-24 |
 | [EARTH ANGEL](https://open.spotify.com/track/408jhAwjl6IvdoQMN29t7O) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 2:22 | 2023-04-20 | 2023-05-05 |
+| [Earth Song](https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo) | 3:03 | 2023-06-02 |  |
 | [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-02-10 | 2023-06-03 |
 | [Egbon](https://open.spotify.com/track/2mfmd4yGuAyoblktI50Z3i) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Egbon](https://open.spotify.com/album/6TgR9zfNjqND5lRoOtFny3) | 3:14 | 2022-06-09 | 2022-10-30 |
 | [Elephant Man](https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl) | [Elephant Man](https://open.spotify.com/album/2CG9eOhIFEh9SDraWK8Olm) | 2:46 | 2022-07-07 | 2022-12-09 |
@@ -175,7 +176,7 @@
 | [Smackdown](https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH) | [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0), [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Smackdown](https://open.spotify.com/album/0AyrSIbCRoTSmL3ceHQ5gn) | 2:42 | 2023-04-27 | 2023-05-13 |
 | [Smoke 4 Free](https://open.spotify.com/track/1BwW34VUymRb2gdVxSncxr) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Euphoria](https://open.spotify.com/album/4IUsZcu8ZFCA64EYOmwAB8) | 2:17 | 2022-10-14 | 2022-10-29 |
 | [Sober](https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [Sober](https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x) | 4:01 | 2023-03-25 |  |
-| [Soft Life](https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 3:55 | 2023-01-20 |  |
+| [Soft Life](https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 3:55 | 2023-01-20 | 2023-06-06 |
 | [Solace](https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Kpos Lifestyle, Vol\. 1](https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E) | 2:00 | 2022-06-09 |  |
 | [Solitude](https://open.spotify.com/track/54Bvt0UE6yMPQBWb2TYSKc) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Bitter Sweet](https://open.spotify.com/album/6ya5x6gzZDVwVD0rxh8DZO) | 2:15 | 2023-02-24 | 2023-03-18 |
 | [Soro](https://open.spotify.com/track/6q85h6RomSM8STj1Qbpk3E) | [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG), [Bliizzy](https://open.spotify.com/artist/5bTtiKQwOpHRD5Mf5TTyPN) | [Crescendo](https://open.spotify.com/album/3TZIgQWteQktQ1HLS5776X) | 3:16 | 2023-03-25 | 2023-04-12 |

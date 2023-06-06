@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkukBI0VSzg.md) - [plain]
 
 > Listen to all of the music from the new Netflix series, Princess Power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,184 likes - 20 songs - 40 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,196 likes - 20 songs - 40 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkukBI0VSzg.md) - [plain]
 | 11 | [My Own Drum \(Remix\) \[with Missy Elliott\]](https://open.spotify.com/track/3btsAwBdn0ndjBiVrOlvfH) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [My Own Drum \(Remix\) \[with Missy Elliott\] \[From the Motion Picture "Vivo"\]](https://open.spotify.com/album/0cE3AvMiwhxzxzITp1AkZv) | 2:57 |
 | 12 | [Hello World \- from "Back to the Outback" soundtrack](https://open.spotify.com/track/3O4FgcbCzg3Wm7Pg0ezMzM) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Hello World \(from "Back to the Outback" soundtrack\)](https://open.spotify.com/album/7obvzZVywrczcOAnSaOS91) | 2:36 |
 | 13 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
-| 14 | [Good Good Day](https://open.spotify.com/track/7GBJRh3VuuahAsusXIopQ7) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT) | 2:37 |
+| 14 | [Good Good Day](https://open.spotify.com/track/7GBJRh3VuuahAsusXIopQ7) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 4](https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT) | 2:37 |
 | 15 | [The Music In You \(From Gabby's Dollhouse\) \- Remix](https://open.spotify.com/track/6NXLmQ3xWX3ec9uZy3copR) | [Eduardo Franco](https://open.spotify.com/artist/1PpNXrIz5vq9XtTkTZN6gN), [Keeley Bumford](https://open.spotify.com/artist/6KnAsHX2TGxxtrh5O7HC8Y), [Ryan Lofty](https://open.spotify.com/artist/4EPGVr8y6IFkQcOWslDm8L) | [The Music In You \(From Gabby's Dollhouse\) \[Remix\]](https://open.spotify.com/album/2GehjmYFU1FG1FYNKWj0ag) | 2:32 |
 | 16 | [Ultraluminary \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:20 |
 | 17 | [Glowin' Up](https://open.spotify.com/track/0lvWi6SqiMMACAYK8ldqnU) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 3:11 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkukBI0VSzg.md) - [plain]
 | 19 | [You're A Star](https://open.spotify.com/track/0uVlPXd7hF21o4Q1W66kGt) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF) | 2:46 |
 | 20 | [Hey Boy](https://open.spotify.com/track/4xTGusVtTVFmKLRaUNRD7w) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Robert G\. Chiu](https://open.spotify.com/artist/7w1guDBNeJPNishwQ8qJAv) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:47 |
 
-Snapshot ID: `MCwwYmJhNGFkMzhjNGQ4NTc3YTVlNmNkZDk5ZTBmMmRkYzYwMzhhNjJm`
+Snapshot ID: `MCxmNTRkNWRhMDBiNjhkYTY3YzVhNzEwYzU2ZmUzNWNmODFkNDg3OTEx`

@@ -2,7 +2,7 @@
 
 ### [Sólo Pop](https://open.spotify.com/playlist/37i9dQZF1DX4YhSbTs17ha)
 
-> Las canciones de pop más exitosas en México\. Miranda! en portada.
+> Las canciones de pop más exitosas en México\. Sebastián Yatra, Manuel Turizo y Beéle en portada.
 
 326 songs - 17 hr 44 min
 

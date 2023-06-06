@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-333 songs - 20 hr 23 min
+334 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 | 2023-02-19 |  |
 | [Hope](https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hope](https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O) | 2:59 | 2023-02-19 |  |
 | [I Am One](https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Am One](https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF) | 4:10 | 2020-12-18 | 2023-02-19 |
+| [I Came Home](https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A) | 3:50 | 2023-04-21 |  |
 | [I Came Home](https://open.spotify.com/track/6u2fcb4doVMXe4BLacMrSc) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/5AoqaPhWwaCy49vv73guSG) | 3:50 | 2023-02-19 | 2023-05-11 |
 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/3AH3BlWghzttvghcywuNX3) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/6CheSffpHQycPIZ4YwnWRj) | 3:56 | 2023-02-24 | 2023-03-03 |
 | [I Don't Want to Lose Touch](https://open.spotify.com/track/41pAcUqZqadRAMI4mATV2n) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [I Don't Want to Lose Touch](https://open.spotify.com/album/4J9jdoEw6z9FWdf3gJVNGz) | 5:08 | 2023-04-07 |  |
@@ -145,7 +146,7 @@
 | [I Want To Know](https://open.spotify.com/track/0FRQsErh58lld5YhZ9vcvA) | [The Eagle and Child](https://open.spotify.com/artist/4K8QJRq02NAwriaKMR0wIj) | [I Want To Know](https://open.spotify.com/album/1UbiBzeNPL2XVmYSDtaS38) | 3:31 | 2020-12-18 | 2022-07-27 |
 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2023-02-19 |  |
 | [I'm Healing](https://open.spotify.com/track/3ivIpARkgoFfCnxREhJRya) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Lex Buckley](https://open.spotify.com/artist/6KezKjrMeCCmU9U1T2lBON), [Jared Grant](https://open.spotify.com/artist/7ngm4D0XEn5TpywtBtkCWc) | [I'm Healing](https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0) | 5:17 | 2023-02-19 | 2023-04-22 |
-| [If It Comes From You](https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [If It Comes From You](https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA) | 4:54 | 2023-02-24 |  |
+| [If It Comes From You](https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [If It Comes From You](https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA) | 4:54 | 2023-02-24 | 2023-06-06 |
 | [In the Valley](https://open.spotify.com/track/1mEREMPGZy8BzbNr7FinQ4) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [In the Valley](https://open.spotify.com/album/5yTIiQdHlCogJhpPqfH5Sh) | 4:53 | 2020-12-18 | 2022-07-29 |
 | [Island](https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Island](https://open.spotify.com/album/6xYY34SDgAPg308e965q0H) | 4:34 | 2020-12-18 | 2023-02-19 |
 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 | 2020-12-18 | 2023-02-19 |

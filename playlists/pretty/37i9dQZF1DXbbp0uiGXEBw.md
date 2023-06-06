@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: MIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,620 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,662 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Hạ Phỏm](https://open.spotify.com/track/2lGGlexu72TnPQPUHd8NWt) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:15 |
 | 50 | [Phải Lòng Anh \- English Version](https://open.spotify.com/track/25SMvP3ET2NfTNjWkwmAEW) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Phải Lòng Anh \(English Version\)](https://open.spotify.com/album/5x1dEfqsHIabcvI1ADqWNe) | 3:45 |
 
-Snapshot ID: `MCxkZmVhODM3NGQzYTg3MTQ1MWEzYzQ5MWU5MTdmMzM5NWRlZjAyZDM2`
+Snapshot ID: `MCwwMjM4NTQyODRkYjA3ZjUwYjY2NzM4NGEwNmM1ZWVmNTRjNzliNWNj`

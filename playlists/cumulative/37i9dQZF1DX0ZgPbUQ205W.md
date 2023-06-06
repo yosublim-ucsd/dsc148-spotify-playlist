@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-299 songs - 21 hr 41 min
+300 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Fear Not, Zechariah](https://open.spotify.com/track/7F2LDxjeZkyyJCog1Fwvx0) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL) | [His Name Is John](https://open.spotify.com/album/3UdnxBLoBqAiaZSqtVv0gN) | 9:07 | 2022-06-29 | 2022-11-27 |
 | [Fear Not, Zechariah](https://open.spotify.com/track/2KXJiwIG1GO9tWrcbtmUbK) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL), [Emil Goldschmidt](https://open.spotify.com/artist/3y0zcOZw5SlIfKKVVOUZnI), [Carolyn Goodwin](https://open.spotify.com/artist/2QvI4tY5g3f9udmc0Iw2oO) | [Fear Not, Zechariah](https://open.spotify.com/album/64vGhTLHLsKKhSEx8tfwlL) | 9:07 | 2021-12-17 | 2022-07-29 |
 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-02-02 |  |
+| [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 | 2023-06-01 |  |
 | [Fleeting Paradise](https://open.spotify.com/track/2ZmHciaD6uCP3AAqZtzgvF) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Fleeting Paradise](https://open.spotify.com/album/4KnT3EREBlineOIem4782z) | 3:13 | 2023-01-19 |  |
 | [For a While](https://open.spotify.com/track/4sNhuHtjf2TYXIzOMUQgWX) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [For a While](https://open.spotify.com/album/53p46AYlwyeYi7MRgf5GM6) | 2:54 | 2023-01-12 |  |
 | [For L.R.P.](https://open.spotify.com/track/0m7znBzP0zJP5J6DomAfkg) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Eva](https://open.spotify.com/album/6tSaqXyuMecjyWMqqxundn) | 3:55 | 2022-09-15 | 2023-03-16 |
@@ -194,7 +195,7 @@
 | [Poetry](https://open.spotify.com/track/3o4gJffzc5xbKggjuMZTQY) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Poetry](https://open.spotify.com/album/2d05JuO9n8qV7ZNFABjBpd) | 3:52 | 2022-06-29 | 2022-11-11 |
 | [Poetry](https://open.spotify.com/track/6awNjgr2DnufiS8RaBXEgy) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Poetry](https://open.spotify.com/album/3lXRKeB2psGMMJK0njsbNY) | 3:52 | 2021-12-17 | 2022-07-29 |
 | [Popkoral](https://open.spotify.com/track/79XuzOga3pizrLG9XVfbwP) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Helge Lien](https://open.spotify.com/artist/2HlDnWc1U5F7D30DTyWJ4F), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Per Oddvar Johansen](https://open.spotify.com/artist/1nLQ0q9ZBZkn0hSq0gRAnd) | [10](https://open.spotify.com/album/4Ua984QTWTd5HzdiR9mHZd) | 4:27 | 2021-12-17 | 2022-12-03 |
-| [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 | 2023-02-02 |  |
+| [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 | 2023-02-02 | 2023-06-06 |
 | [Provenance](https://open.spotify.com/track/2ER8rFsD3nhJUEQ1edV6lg) | [Björn Meyer](https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO) | [Provenance](https://open.spotify.com/album/4WbMeqetvONexNDfSIAcEZ) | 6:11 | 2021-12-17 | 2022-07-29 |
 | [Provenance](https://open.spotify.com/track/5d4K958gElIpnX53Olbgvu) | [Björn Meyer](https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO) | [Provenance](https://open.spotify.com/album/4GUldwVIDwkiaTX4jJxNnf) | 6:11 | 2022-06-29 | 2023-02-13 |
 | [Psalm](https://open.spotify.com/track/2VvQcH8wowZ1ik70hdUcfF) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:10 | 2021-12-17 | 2022-10-08 |

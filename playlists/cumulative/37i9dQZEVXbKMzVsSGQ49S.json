@@ -7600,10 +7600,32 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 148320,
       "name": "F\u00edla'essa lykt",
       "url": "https://open.spotify.com/track/7bO2lerBj76pzHFhxiRTkd"
+    },
+    {
+      "album": {
+        "name": "EastSide Drip",
+        "url": "https://open.spotify.com/album/3LL8khOxpBmmOU4v3xd5IV"
+      },
+      "artists": [
+        {
+          "name": "$tories",
+          "url": "https://open.spotify.com/artist/30rE9bCUE9rE8yMQZISu2U"
+        },
+        {
+          "name": "Albee Al",
+          "url": "https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112989,
+      "name": "Game on Lock",
+      "url": "https://open.spotify.com/track/3waDJbtdjATfNZEfqAh8G2"
     },
     {
       "album": {

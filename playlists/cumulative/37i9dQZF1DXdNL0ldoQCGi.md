@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-369 songs - 18 hr 53 min
+370 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Poesia Acústica 13](https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Poesia Acústica 13](https://open.spotify.com/album/1tJQLPkG5qc9BXqklDInry) | 10:28 | 2022-09-21 | 2023-01-19 |
 | [Pontos de Exclamação](https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Pontos de Exclamação](https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb) | 3:01 | 2022-05-25 | 2022-11-08 |
 | [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/track/36FtXn63kzlJjwRx66Dyox) | [Jaldo Rodrigues](https://open.spotify.com/artist/2ZtIsSrdk08ODFYVLeYZKq) | [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/album/6w7uzGTzLC2hvDSSbiM1GA) | 2:02 | 2023-04-10 |  |
+| [Posturado E Calmo](https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Another One](https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ) | 3:07 | 2023-06-05 |  |
 | [Posturadão](https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Posturadão](https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO) | 2:42 | 2022-08-19 | 2022-10-22 |
 | [Pra pra pra](https://open.spotify.com/track/4tDUIRZU50xaP0uRAGklqy) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Plutão](https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc) | 2:22 | 2022-10-10 |  |
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2022-05-25 | 2022-09-22 |

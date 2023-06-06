@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 93912,
+  "num_followers": 93999,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODJmZjI2MDZmNGE5NjQ3MzI0ZDMyOGUwNDZmZWQyNDFhNjlkMjU3",
+  "snapshot_id": "MCwwNDJkM2NmZWJhNjU1NjQ3ODYzYzVmN2Q0ZjA1MGRhZmFlMDk5ODIz",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Do I Do",
-        "url": "https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C"
-      },
-      "artists": [
-        {
-          "name": "Maurice McGee",
-          "url": "https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2"
-        }
-      ],
-      "duration_ms": 434999,
-      "name": "Do I Do - Extended Mix",
-      "url": "https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "No Way Back",
         "url": "https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 295911,
       "name": "No Way Back",
       "url": "https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Do I Do",
+        "url": "https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C"
+      },
+      "artists": [
+        {
+          "name": "Maurice McGee",
+          "url": "https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2"
+        }
+      ],
+      "duration_ms": 434999,
+      "name": "Do I Do - Extended Mix",
+      "url": "https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Electronic Body Music",
         "url": "https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 444631,
       "name": "Himmel & Hoelle",
       "url": "https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -631,6 +631,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Jack to the Sound",
+        "url": "https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba"
+      },
+      "artists": [
+        {
+          "name": "Fast Eddie",
+          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
+        }
+      ],
+      "duration_ms": 272419,
+      "name": "Acid Thunder",
+      "url": "https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "I Have a Question",
         "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 241875,
       "name": "The Garden of Eden (A Himalayan Song)",
       "url": "https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Jack to the Sound",
-        "url": "https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba"
-      },
-      "artists": [
-        {
-          "name": "Fast Eddie",
-          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
-        }
-      ],
-      "duration_ms": 272419,
-      "name": "Acid Thunder",
-      "url": "https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "The Feast Of The Broken Heart",
+        "url": "https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "duration_ms": 281815,
+      "name": "Do You Feel The Same?",
+      "url": "https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Fantasy Girl",
         "url": "https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "The Feast Of The Broken Heart",
-        "url": "https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        }
-      ],
-      "duration_ms": 281815,
-      "name": "Do You Feel The Same?",
-      "url": "https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Better Living Through Chemistry",
         "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
       },
@@ -827,22 +827,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Box Energy",
-        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR"
       },
       "artists": [
         {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
         },
         {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+          "name": "Addison Groove",
+          "url": "https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr"
         }
       ],
-      "duration_ms": 370306,
-      "name": "Box Energy",
-      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
+      "duration_ms": 204579,
+      "name": "Acid Bit (feat. Addison Groove)",
+      "url": "https://open.spotify.com/track/2yvsFzmOODkBzhJo4l5ywM"
     }
   ],
   "unique_name": "303 Classics",

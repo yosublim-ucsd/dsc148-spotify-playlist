@@ -1371,6 +1371,32 @@
     },
     {
       "album": {
+        "name": "Holy Forever (Live From Good Friday 2023)",
+        "url": "https://open.spotify.com/album/6sYnxo5cymgC89xRShQiab"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389973,
+      "name": "Holy Forever - Live From Good Friday 2023",
+      "url": "https://open.spotify.com/track/3SOD2rOwadCSRKluvV36Sv"
+    },
+    {
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },

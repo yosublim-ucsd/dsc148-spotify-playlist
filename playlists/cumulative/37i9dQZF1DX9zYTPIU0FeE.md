@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX?si=oH3MnPzfRn2iTBrx8atqgg">Vuma Levin</a>.
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W?si=GP9jNBeSSn6r1Du3cc3Eww">Benjamin Jephta</a>.
 
-111 songs - 11 hr 59 min
+112 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Falling Apart](https://open.spotify.com/track/3tgyFGshU5wxP4pEvlPCDv) | [Luh'ra](https://open.spotify.com/artist/0iXElExInTSMZ3DRWE7lpD) | [Falling Apart](https://open.spotify.com/album/0Bcxklu4BFgRY812BZfNEX) | 4:16 | 2022-06-23 | 2023-02-10 |
 | [Feels Like Sunday](https://open.spotify.com/track/6KC3HEkSSnmr8tby99jJ3J) | [Eccentric King](https://open.spotify.com/artist/5CYCc5XQbVPRC3kadV7dzp) | [Feels Like Sunday](https://open.spotify.com/album/4Sm01sDw1n2cbfdypMQeJ1) | 3:14 | 2022-04-28 | 2023-03-18 |
 | [Fola](https://open.spotify.com/track/07Chzakk9H5rzuoNLfrVq3) | [Bokani Dyer Trio](https://open.spotify.com/artist/2xmimxTIt1u7NkaPLlZGgH) | [Neo Native](https://open.spotify.com/album/6MaNYPWGHHY76Z910NeVTf) | 4:57 | 2022-04-28 |  |
+| [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 | 2023-06-05 |  |
 | [Gijima](https://open.spotify.com/track/5I8Psd9E1pGHkGbRN3afav) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [The Past is Unpredictable, Only the Future is Certain](https://open.spotify.com/album/2zibe11zDGOVf9OfClY4re) | 10:32 | 2023-05-25 |  |
 | [Go My Heart, Go To Heaven](https://open.spotify.com/track/37qEsJ7QH5efXVkhnAQDDL) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [We Are Sent Here By History](https://open.spotify.com/album/4S5MLu2PKU7uElm2V3JphK) | 6:38 | 2022-04-28 | 2023-03-18 |
 | [Goema Dance](https://open.spotify.com/track/0Yw4vqTnjsW19ImLrDCWvt) | [Claude Cozens](https://open.spotify.com/artist/10YNEqs1dAwhEFzRn9rmo6) | [Love Finds You](https://open.spotify.com/album/51BRidwfSYvuwphZn0sNbv) | 5:12 | 2022-04-28 | 2023-02-10 |

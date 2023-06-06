@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,053 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,068 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 84 | [Chẳng Là Ai Khác](https://open.spotify.com/track/3VRPkPI6nQFrqjVjl4nU4v) | [Dani D](https://open.spotify.com/artist/0I6jb4RjMkF84T2e5VsjlG) | [Chẳng Là Ai Khác](https://open.spotify.com/album/1L96ahNabZ6D6lKqUqkKKp) | 3:30 |
 | 85 | [Ghosting](https://open.spotify.com/track/05m4atMU9YaW8Fc4Xcvfqa) | [Linh Ka](https://open.spotify.com/artist/6gXUsziOuoRCgmtm62Nrny), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [CHU](https://open.spotify.com/album/1o5Q4upUUQxQv5P5me3Nid) | 3:42 |
 | 86 | [CÒN AI](https://open.spotify.com/track/3H4wJyAns09ld2Tkz6aOPW) | [My Carol](https://open.spotify.com/artist/7nSeOCxkwsHBXvRyNKdtFQ) | [CÒN AI](https://open.spotify.com/album/0k3ITJiJsDdbcdO5tups2S) | 4:08 |
-| 87 | [Yêu Không Cần Nói](https://open.spotify.com/track/2oCBGByWaX9p88wmHwpz0u) | [Tino](https://open.spotify.com/artist/1H3wX90oKRfy2zHFpWRzeX), [Bảo Uyên](https://open.spotify.com/artist/7AjrzSwNXDH9bZjjCKR8kA) | [Yêu Không Cần Nói](https://open.spotify.com/album/3VH68sC0zDmGsK5Jw42acZ) | 3:38 |
+| 87 | [Yêu Không Cần Nói](https://open.spotify.com/track/2oCBGByWaX9p88wmHwpz0u) | [TINO](https://open.spotify.com/artist/1H3wX90oKRfy2zHFpWRzeX), [Bảo Uyên](https://open.spotify.com/artist/7AjrzSwNXDH9bZjjCKR8kA) | [Yêu Không Cần Nói](https://open.spotify.com/album/3VH68sC0zDmGsK5Jw42acZ) | 3:38 |
 | 88 | [dành cho em hôm nay](https://open.spotify.com/track/6imuP8Owi26RaU4ls8lY3s) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB) | [dành cho em hôm nay](https://open.spotify.com/album/3hiSTj0i825q20CbDF4xpL) | 2:16 |
 | 89 | [Lời Tỏ Tình Của Anh](https://open.spotify.com/track/2v8rFjrYb1E6FFBMM9fe2H) | [Namchan](https://open.spotify.com/artist/50nO5ayfr3HKGM19l7vsO6) | [Lời Tỏ Tình Của Anh](https://open.spotify.com/album/4uYZRp5lDicJ21DLsavqVI) | 3:52 |
 | 90 | [Buổi Tối Hôm Đó](https://open.spotify.com/track/1hCKRsbMn9ZLnzT0LPt54j) | [Củ Cải](https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj), [Quỳnh Tiênn](https://open.spotify.com/artist/14s05KZtME3ZoCy4eWplFx) | [Buổi Tối Hôm Đó](https://open.spotify.com/album/6fzWSWG2CJiHWjUcIg2wBO) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [em đou biết mình said](https://open.spotify.com/track/5uU92f5c6joZNErtlcQSI3) | [Vũ Đức Kiên OBC](https://open.spotify.com/artist/2ZQyqUYzAtkcIEgaH2Vf3E) | [em đou biết mình said](https://open.spotify.com/album/3pqOqJHCFOJn0fjLpeNK6w) | 3:12 |
 | 100 | [wish you had](https://open.spotify.com/track/2RDdeZ8avLEssj3zya16MD) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [wish you had](https://open.spotify.com/album/3ceo5JbawMnBg8XorYrFxN) | 3:21 |
 
-Snapshot ID: `MCwxYmIwZDQzNzM5NjkwNWQ3MmYxZmRiNzIwMTQ1MzFjMTM2ZTIxM2Y1`
+Snapshot ID: `MCwzMDc5ZTAyYWJiMDQ5NjgxZGQ5NjU4ZGNjMzFiMWJjNzAwNmYwNDhj`

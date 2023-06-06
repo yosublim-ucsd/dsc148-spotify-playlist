@@ -256,8 +256,8 @@
       },
       "artists": [
         {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ"
+          "name": "Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
         }
       ],
       "date_added": "2023-03-16",
@@ -1432,6 +1432,24 @@
     {
       "album": {
         "name": "Cassa Nova",
+        "url": "https://open.spotify.com/album/5o6i6YQEXWa8oNy38aHrrI"
+      },
+      "artists": [
+        {
+          "name": "Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281053,
+      "name": "Summum Bonum",
+      "url": "https://open.spotify.com/track/1QYoKJcQyYDlXXrNRJMk6q"
+    },
+    {
+      "album": {
+        "name": "Cassa Nova",
         "url": "https://open.spotify.com/album/7qDgQiJVHJwOiFtYCBYIxn"
       },
       "artists": [
@@ -1446,24 +1464,6 @@
       "duration_ms": 281053,
       "name": "Summum Bonum",
       "url": "https://open.spotify.com/track/1i0GPOOiWudGbWlApdADbp"
-    },
-    {
-      "album": {
-        "name": "Cassa Nova",
-        "url": "https://open.spotify.com/album/5o6i6YQEXWa8oNy38aHrrI"
-      },
-      "artists": [
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ"
-        }
-      ],
-      "date_added": "2023-03-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 281053,
-      "name": "Summum Bonum",
-      "url": "https://open.spotify.com/track/1QYoKJcQyYDlXXrNRJMk6q"
     },
     {
       "album": {

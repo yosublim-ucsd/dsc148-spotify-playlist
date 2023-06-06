@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 88500,
       "name": "Beginning",
       "url": "https://open.spotify.com/track/5czA0psE9v4S0d2GrWKq3W"
@@ -8725,6 +8725,24 @@
     },
     {
       "album": {
+        "name": "Suddenly My Mind Is Blank",
+        "url": "https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb"
+      },
+      "artists": [
+        {
+          "name": "Jouska",
+          "url": "https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199130,
+      "name": "Fragrance",
+      "url": "https://open.spotify.com/track/2082vPorTG6ceIWBT0szPp"
+    },
+    {
+      "album": {
         "name": "friends u had",
         "url": "https://open.spotify.com/album/7CW6Wc25oHYouIaHbHKgsC"
       },
@@ -9388,7 +9406,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 245656,
       "name": "Gia",
       "url": "https://open.spotify.com/track/469s8Ekt5RF3IB3uKWSmGO"
@@ -27522,6 +27540,24 @@
       "duration_ms": 236992,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ"
+    },
+    {
+      "album": {
+        "name": "Suddenly My Mind Is Blank",
+        "url": "https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb"
+      },
+      "artists": [
+        {
+          "name": "Jouska",
+          "url": "https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236324,
+      "name": "Why'd You Leave Me in the Red?",
+      "url": "https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC"
     },
     {
       "album": {

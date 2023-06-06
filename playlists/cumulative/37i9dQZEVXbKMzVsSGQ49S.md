@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,342 songs - 3 day 1 hr 35 min
+1,343 songs - 3 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,8 @@
 | [Fyrir Bæinn](https://open.spotify.com/track/5xoeknIvrBZNDBoknp1OEL) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [KBE kynnir: Flottur Skrákur 2](https://open.spotify.com/album/3fhZVuHw3gbUOBJpzX8bxf) | 2:09 | 2021-09-02 | 2021-09-05 |
 | [Fyrir Mína \(feat \. Birgir Hákon\)](https://open.spotify.com/track/4OrKgyocanoojT6TV3OPtX) | [JE$Ú](https://open.spotify.com/artist/11ac1inTstB27cZTJKSF3P), [Birgir Hákon](https://open.spotify.com/artist/29G2YTqyNXysziWEYJMh8K) | [Fyrir Mína \(feat\. Birgir Hákon\)](https://open.spotify.com/album/77tsMaKz85DW9E2yyF5xuX) | 1:59 | 2021-08-22 | 2021-08-23 |
 | [Fyrirfram](https://open.spotify.com/track/35AOCqROXlADv2zpA1pB9D) | [Jón Jónsson](https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu) | [Lengi lifum við](https://open.spotify.com/album/2CMdGmSXOv4k0k35t3u9Z6) | 4:16 | 2021-10-17 | 2021-10-23 |
-| [Fíla'essa lykt](https://open.spotify.com/track/7bO2lerBj76pzHFhxiRTkd) | [PATRi!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2), [Bomarz](https://open.spotify.com/artist/4dwnaNjzJyz5K9S2vD1IGD) | [Fíla'essa lykt](https://open.spotify.com/album/6cI81x0v9wEDbxTLmLFznu) | 2:28 | 2023-06-03 |  |
+| [Fíla'essa lykt](https://open.spotify.com/track/7bO2lerBj76pzHFhxiRTkd) | [PATRi!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2), [Bomarz](https://open.spotify.com/artist/4dwnaNjzJyz5K9S2vD1IGD) | [Fíla'essa lykt](https://open.spotify.com/album/6cI81x0v9wEDbxTLmLFznu) | 2:28 | 2023-06-03 | 2023-06-06 |
+| [Game on Lock](https://open.spotify.com/track/3waDJbtdjATfNZEfqAh8G2) | [$tories](https://open.spotify.com/artist/30rE9bCUE9rE8yMQZISu2U), [Albee Al](https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd) | [EastSide Drip](https://open.spotify.com/album/3LL8khOxpBmmOU4v3xd5IV) | 1:52 | 2023-06-05 |  |
 | [Gamlárspartý](https://open.spotify.com/track/1nDlmqGl5tLRGY1L0RB7EU) | [Baggalútur](https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD) | [Jól og blíða](https://open.spotify.com/album/1l0By5ssPRo5NaapDTNJSE) | 2:30 | 2022-12-31 | 2023-01-04 |
 | [Gamlárspartý](https://open.spotify.com/track/7MKFTJmBMJKxNb0CNmLqcZ) | [Baggalútur](https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD) | [Jól og blíða](https://open.spotify.com/album/1BTLwyCFeToXsnqeQB1Lcq) | 2:30 | 2021-12-31 | 2022-01-04 |
 | [GANG GANG \(with Lil Wayne\)](https://open.spotify.com/track/0ezwvY7TkCwDEkKR49084k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:58 | 2021-06-13 | 2021-06-14 |

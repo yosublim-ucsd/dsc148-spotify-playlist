@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 
 > Music from "GOLDEN KAMUY"! /アニメ「ゴールデンカムイ」の楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,978 likes - 41 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,991 likes - 41 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 | 40 | [狙撃](https://open.spotify.com/track/24jpZeiUN7GWzpZrZNpZ8k) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:39 |
 | 41 | [樺太へ](https://open.spotify.com/track/6RnOeDXEDBypAJLU9X1Agk) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:41 |
 
-Snapshot ID: `MCw0MjcxMzVjOTM2MzAwMDkyOTUyZTY2Zjg5NzZhYzA5YzM1ZDY0MGQ2`
+Snapshot ID: `MCw4NDlmMmZmNWEyOTRhYmI5YzI1YTU3ZTRiZDlhZWUzMTRkZTEzMDQ1`

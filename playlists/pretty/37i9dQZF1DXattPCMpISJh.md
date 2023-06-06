@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,096 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,186 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [I Ran \(So Far Away\) \- Liongold Remix](https://open.spotify.com/track/3wj9rjR2F7kxkZFuNkuj28) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9), [Liongold](https://open.spotify.com/artist/1QzMZ0QwJRo3LJ474BiODq) | [I Ran \(So Far Away\) \[The Liongold Remixes\]](https://open.spotify.com/album/6QPjxeuvnjre45AeuEA6iy) | 3:07 |
 | 100 | [Under the Light](https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY) | [LeMarquis](https://open.spotify.com/artist/6w9iqkoyGAs9PRssKIvq9G) | [Origin](https://open.spotify.com/album/6sCftII6Jd2YAU3Yxs9Cw8) | 2:48 |
 
-Snapshot ID: `MCxmZmQzZGUxMTBmZGZiMDEyMjVhMjZlODdkZTZmYTE5MzNhOTVlNTQy`
+Snapshot ID: `MCw1YjEyZTliZTYxNmExMjU1ODdhODBmZjRjODRiZDdmNjUyYzZhMTNm`

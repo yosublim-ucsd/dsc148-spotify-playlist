@@ -4507,6 +4507,28 @@
     },
     {
       "album": {
+        "name": "Back On the Music!",
+        "url": "https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR"
+      },
+      "artists": [
+        {
+          "name": "Paul Cherry",
+          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
+        },
+        {
+          "name": "Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "No News No Blues",
+      "url": "https://open.spotify.com/track/4uvUEE8EtbiJxBcB45XURq"
+    },
+    {
+      "album": {
         "name": "No News No Blues",
         "url": "https://open.spotify.com/album/1KIeBsHpINXrAEUWKtli8E"
       },
@@ -4526,28 +4548,6 @@
       "duration_ms": 233600,
       "name": "No News No Blues",
       "url": "https://open.spotify.com/track/7bxogppnXd6dJB2rSCjegk"
-    },
-    {
-      "album": {
-        "name": "Back On the Music!",
-        "url": "https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR"
-      },
-      "artists": [
-        {
-          "name": "Paul Cherry",
-          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
-        },
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ"
-        }
-      ],
-      "date_added": "2022-01-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233600,
-      "name": "No News No Blues",
-      "url": "https://open.spotify.com/track/4uvUEE8EtbiJxBcB45XURq"
     },
     {
       "album": {

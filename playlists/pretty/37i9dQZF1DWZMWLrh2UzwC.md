@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Stray Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,258 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,260 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 7 | [PRESSURE](https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [PRESSURE](https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7) | 4:19 |
 | 8 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 |
 | 9 | [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 |
-| 10 | [Mona Lisa \- Spider\-Man: Across the Spider\-Verse \(Deluxe Edition\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \- Spider\-Man: Across the Spider\-Verse \(Deluxe Edition\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
+| 10 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
 | 11 | [Sambut](https://open.spotify.com/track/2trfesA8NiTSjV1WBUFiIW) | [Fimie Don](https://open.spotify.com/artist/1zXDRPtYIB5xIK8oH4Bht0), [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Sambut](https://open.spotify.com/album/2KChBr7mEZ1X55YMZVO1u1) | 2:56 |
 | 12 | [NWYK](https://open.spotify.com/track/4KeGC0kxMnkKfVJTprS9nR) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [NWYK](https://open.spotify.com/album/6Qa9ljnHnMSJ7j4wTG7DMf) | 2:13 |
 | 13 | [Separuh Jiwa](https://open.spotify.com/track/7ELWG5dm0V5lIjQgeJfDVo) | [XPOSE](https://open.spotify.com/artist/4vSylnUisC4OtiNGWqx7Zm) | [Separuh Jiwa](https://open.spotify.com/album/3caUhfLckO5DwqCQ9Cem3G) | 4:10 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 80 | [Time To Heal](https://open.spotify.com/track/4pNSnFdR9E5WxbQ8e2HEK2) | [Slowtide](https://open.spotify.com/artist/41f1vHXmxOA75UN3dSP9vQ), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Time To Heal](https://open.spotify.com/album/4DxU8hOSO8ADfLe1ZETByN) | 3:40 |
 | 81 | [Falling Again \(feat\. guardin\)](https://open.spotify.com/track/4BsCEHOIZqwKCV1blNUckP) | [Galvanic](https://open.spotify.com/artist/3GQj08iHefTniyhHjCVBov), [Smeyeul.](https://open.spotify.com/artist/4IXRiE1MOvty3H8tQ0KvTO), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [Falling Again \(feat\. guardin\)](https://open.spotify.com/album/4nLFd4CXZVSqjqNKhXUcaT) | 3:29 |
 
-Snapshot ID: `MCxkZTY4NGI1YjcwNWY0MjJjMGFlNWE4YjlhMTBlZjVkMmE1NDRiODNj`
+Snapshot ID: `MCxiMDhhNDdkZjRlMzFjM2IzMjZhZjhjNWM4NWYxZGFlM2FiOGIyZmVi`

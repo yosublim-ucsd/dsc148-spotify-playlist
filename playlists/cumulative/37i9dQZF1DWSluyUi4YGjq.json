@@ -3168,6 +3168,24 @@
     {
       "album": {
         "name": "Pipe Dreams",
+        "url": "https://open.spotify.com/album/6kVYWDC7YJIaqgHJiZpFuz"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225053,
+      "name": "Junebouvier",
+      "url": "https://open.spotify.com/track/4wMQagKLyeZRtIq1HfsU5E"
+    },
+    {
+      "album": {
+        "name": "Pipe Dreams",
         "url": "https://open.spotify.com/album/4dnU5lfejwsudlezBO46oI"
       },
       "artists": [
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 209000,
       "name": "Last Night's Haze",
       "url": "https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV"

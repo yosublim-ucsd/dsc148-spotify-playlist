@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Nabihah Iqbal on cover.",
-  "num_followers": 75045,
+  "num_followers": 75367,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDY4MTY4MGZiMGQ5YTQxZjcwMjgxZWMxZmIzMDIxMGM3NGIwZjZi",
+  "snapshot_id": "MCw0MjE5ZGZlMDZkOWMwYWQyZDFiYmVjYzZmNDM1NGJlYTUwOTM5Nzcz",
   "tracks": [
     {
       "added_at": "2023-05-24 20:55:19",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
     },
     {
-      "added_at": "2023-01-12 03:12:54",
-      "album": {
-        "name": "pushing daisies",
-        "url": "https://open.spotify.com/album/07naAGnFibTManFY20vcUL"
-      },
-      "artists": [
-        {
-          "name": "julie",
-          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
-        }
-      ],
-      "duration_ms": 136221,
-      "name": "skipping tiles",
-      "url": "https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3"
-    },
-    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "Bloom",
@@ -383,6 +367,22 @@
       "duration_ms": 139663,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe"
+    },
+    {
+      "added_at": "2023-01-12 03:12:54",
+      "album": {
+        "name": "pushing daisies",
+        "url": "https://open.spotify.com/album/07naAGnFibTManFY20vcUL"
+      },
+      "artists": [
+        {
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "duration_ms": 136221,
+      "name": "skipping tiles",
+      "url": "https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 243354,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "4am",
@@ -473,36 +457,20 @@
       "url": "https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5"
     },
     {
-      "added_at": "2022-09-29 00:07:21",
+      "added_at": "2023-02-27 23:19:06",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
       "artists": [
         {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 165445,
-      "name": "Belinda Says",
-      "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -519,6 +487,22 @@
       "duration_ms": 184765,
       "name": "Gwen Everest",
       "url": "https://open.spotify.com/track/0jgS3Mw4Q32NSb6r3iDh4J"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -569,6 +553,22 @@
       "url": "https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO"
     },
     {
+      "added_at": "2022-09-29 00:07:21",
+      "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 165445,
+      "name": "Belinda Says",
+      "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Passive Aggressive",
@@ -583,6 +583,22 @@
       "duration_ms": 200441,
       "name": "Pulling Our Weight",
       "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 188050,
+      "name": "Out of Mind",
+      "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -647,22 +663,6 @@
       "duration_ms": 171563,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 188050,
-      "name": "Out of Mind",
-      "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -809,6 +809,38 @@
       "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 250096,
+      "name": "Famine Asylum",
+      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Blankenship",
+      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
+    },
+    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Someone2Me",
@@ -859,38 +891,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 250096,
-      "name": "Famine Asylum",
-      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Blankenship",
-      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Dead Kids R.I.P. City",
         "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 151560,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Life Is Not A Lesson",
-        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
-      },
-      "artists": [
-        {
-          "name": "Glitterer",
-          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
-        }
-      ],
-      "duration_ms": 143882,
-      "name": "Try Harder Still",
-      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
     },
     {
       "added_at": "2022-01-07 19:52:45",
@@ -937,36 +921,20 @@
       "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
-      },
-      "artists": [
-        {
-          "name": "Estrada",
-          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
-        }
-      ],
-      "duration_ms": 247045,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+        "name": "Life Is Not A Lesson",
+        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
       },
       "artists": [
         {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
         }
       ],
-      "duration_ms": 270281,
-      "name": "The Dead Are Dumb",
-      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+      "duration_ms": 143882,
+      "name": "Try Harder Still",
+      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -983,6 +951,38 @@
       "duration_ms": 230197,
       "name": "Strawberry Cream",
       "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
+      },
+      "artists": [
+        {
+          "name": "Estrada",
+          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
+        }
+      ],
+      "duration_ms": 247045,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
     },
     {
       "added_at": "2022-09-21 00:37:05",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270281,
+      "name": "The Dead Are Dumb",
+      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Colour Trip",
         "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 241548,
       "name": "Daisy Chain",
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": "2022-12-12 18:23:41",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Molten Young Lovers",
-        "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 279747,
-      "name": "Molten Young Lovers",
-      "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
-    },
-    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Here at All",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Molten Young Lovers",
+        "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 279747,
+      "name": "Molten Young Lovers",
+      "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Pure Mood",
         "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 259957,
       "name": "Stare at the Sun",
       "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "don't tell me",
-        "url": "https://open.spotify.com/album/1yHTOsFz7Lji0xZ06oN1oL"
-      },
-      "artists": [
-        {
-          "name": "Mind\u2019s Eye",
-          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
-        }
-      ],
-      "duration_ms": 279318,
-      "name": "don't tell me",
-      "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1361,20 +1345,20 @@
       "url": "https://open.spotify.com/track/1e4nEB443PyOJEMacc1tvg"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Find Yourself Along The Way",
-        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
+        "name": "don't tell me",
+        "url": "https://open.spotify.com/album/1yHTOsFz7Lji0xZ06oN1oL"
       },
       "artists": [
         {
-          "name": "The Meeting Places",
-          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
+          "name": "Mind\u2019s Eye",
+          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
         }
       ],
-      "duration_ms": 242066,
-      "name": "Now I Know You Could Never Be The One",
-      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
+      "duration_ms": 279318,
+      "name": "don't tell me",
+      "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Find Yourself Along The Way",
+        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
+      },
+      "artists": [
+        {
+          "name": "The Meeting Places",
+          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "Now I Know You Could Never Be The One",
+      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "The Great Dismal",
         "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
@@ -1407,6 +1407,38 @@
       "duration_ms": 230437,
       "name": "Catch a Fade",
       "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "GIZMO",
+        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "duration_ms": 112400,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
+    },
+    {
+      "added_at": "2023-06-01 18:33:57",
+      "album": {
+        "name": "Pulling Stitches",
+        "url": "https://open.spotify.com/album/47Xo8CXT5kwVS21eK50jFi"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 252320,
+      "name": "Pulling Stitches",
+      "url": "https://open.spotify.com/track/4PJooaOdpgu1xjQgCtE6RJ"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1431,18 +1463,18 @@
     {
       "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "GIZMO",
-        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
+        "name": "Pearlty",
+        "url": "https://open.spotify.com/album/0UYM7HfTpbX0uG9sDVdeS3"
       },
       "artists": [
         {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+          "name": "Knifeplay",
+          "url": "https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i"
         }
       ],
-      "duration_ms": 112400,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
+      "duration_ms": 242439,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2dNOg4we0JnbP1UzWzsGPS"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1459,38 +1491,6 @@
       "duration_ms": 318959,
       "name": "Dodem",
       "url": "https://open.spotify.com/track/6WVvlRjBgIkpK29xDRm9VG"
-    },
-    {
-      "added_at": "2023-06-01 18:33:57",
-      "album": {
-        "name": "Pulling Stitches",
-        "url": "https://open.spotify.com/album/47Xo8CXT5kwVS21eK50jFi"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "Pulling Stitches",
-      "url": "https://open.spotify.com/track/4PJooaOdpgu1xjQgCtE6RJ"
-    },
-    {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "Pearlty",
-        "url": "https://open.spotify.com/album/0UYM7HfTpbX0uG9sDVdeS3"
-      },
-      "artists": [
-        {
-          "name": "Knifeplay",
-          "url": "https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i"
-        }
-      ],
-      "duration_ms": 242439,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/2dNOg4we0JnbP1UzWzsGPS"
     },
     {
       "added_at": "2023-02-27 23:19:06",
@@ -1621,20 +1621,20 @@
       "url": "https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Devour",
-        "url": "https://open.spotify.com/album/6xhZzuX1veVEVGCTxsLMaM"
+        "name": "Pipe Dreams",
+        "url": "https://open.spotify.com/album/6kVYWDC7YJIaqgHJiZpFuz"
       },
       "artists": [
         {
-          "name": "Star Horse",
-          "url": "https://open.spotify.com/artist/1zC23cF77Lj7ukFsy19nor"
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Last Night's Haze",
-      "url": "https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV"
+      "duration_ms": 225053,
+      "name": "Junebouvier",
+      "url": "https://open.spotify.com/track/4wMQagKLyeZRtIq1HfsU5E"
     }
   ],
   "unique_name": "Shoegaze Now",

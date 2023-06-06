@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Ethan Low
 
-803 songs - 2 day 0 hr 5 min
+804 songs - 2 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Coming Back](https://open.spotify.com/track/6GrOZYmO4cbVHGz5IGWjd7) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Coming Back](https://open.spotify.com/album/60RRYz2U7iQkuYRvIoAXsn) | 3:29 | 2022-10-13 | 2022-11-25 |
 | [Common Things](https://open.spotify.com/track/2u0dbejbpA1CoScSITt8FK) | [The Cat Police](https://open.spotify.com/artist/64KqMikzOo4uQh785u1iv8) | [Common Things](https://open.spotify.com/album/6TomgXZdrKMK9LWF49uW5B) | 2:09 | 2022-11-24 | 2022-12-24 |
 | [Conformance](https://open.spotify.com/track/2JP2UUDmqxhXJ4BHJJhQP5) | [Cal](https://open.spotify.com/artist/3AYpJp0dag8xfkEZ0qoL1h) | [Conformance](https://open.spotify.com/album/64oj3eIQOds4neNe7x4z49) | 4:05 | 2023-01-26 | 2023-03-10 |
+| [Connect The Dots](https://open.spotify.com/track/0ahWtlkee1OEm4iBZow6WO) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Connect The Dots](https://open.spotify.com/album/4FcU7hmQWLCxHsKdeBxOMu) | 2:05 | 2023-06-01 |  |
 | [Cooking For One](https://open.spotify.com/track/2GurjJblHxTdQ7OVmQFfKJ) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Cooking For One](https://open.spotify.com/album/1nKLZECJDOD2mgFgaotaNK) | 2:41 | 2022-10-20 | 2022-12-02 |
 | [CRAY CRAY](https://open.spotify.com/track/4TWfqCndoNB9iXs9PNZ4qS) | [The Sulis Club](https://open.spotify.com/artist/27vU0dOcGeurMc8VYTSfsQ) | [CRAY CRAY](https://open.spotify.com/album/6N5p0VTqHdBmeQKgumUyx5) | 3:15 | 2022-06-30 | 2022-08-05 |
 | [Crystal Sand](https://open.spotify.com/track/044boO65yZsvrJxa8lCWuT) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Crystal Sand](https://open.spotify.com/album/1UNudptTf9hJ0efxxHZtKQ) | 3:29 | 2023-01-26 | 2023-02-10 |
@@ -630,7 +631,7 @@
 | [Take Me Back](https://open.spotify.com/track/1ezPtg7OOklRD4b3KY9osM) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [Take Me Back](https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT) | 3:55 | 2022-06-02 | 2022-07-29 |
 | [Take My Hug](https://open.spotify.com/track/4Fml95IHlQ9QE976vkyvZk) | [thepicnik](https://open.spotify.com/artist/4SMvJNBPlNx6JsonzNi3Nw) | [Take My Hug](https://open.spotify.com/album/3gf0iNThdkWm4GmyPIwCGQ) | 4:01 | 2022-11-17 | 2023-02-10 |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-03-24 | 2022-04-29 |
-| [Tell It To My Face](https://open.spotify.com/track/3BhdlvVCtfCzKFSmRQtUN4) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Tell It To My Face](https://open.spotify.com/album/17MkvC9Poj68uGnZ1W3468) | 4:04 | 2023-05-04 |  |
+| [Tell It To My Face](https://open.spotify.com/track/3BhdlvVCtfCzKFSmRQtUN4) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Tell It To My Face](https://open.spotify.com/album/17MkvC9Poj68uGnZ1W3468) | 4:04 | 2023-05-04 | 2023-06-06 |
 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-09-22 | 2022-11-18 |
 | [Temu Hilang](https://open.spotify.com/track/0PBu9JJYbbNWEQwlq4h1mr) | [L'Alphalpha](https://open.spotify.com/artist/46ipdIq678HcnKpQqYFPuh) | [Temu Hilang](https://open.spotify.com/album/5fhlsWWzVbuRDJ0K9QwKIF) | 5:51 | 2023-03-23 | 2023-04-14 |
 | [thank you](https://open.spotify.com/track/1F5Q7g5lfBnOilwjWfbJmb) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [the art of thanking yourself](https://open.spotify.com/album/4uF1wU7jWUCKOr0NoqOaim) | 2:22 | 2022-05-12 | 2022-06-24 |

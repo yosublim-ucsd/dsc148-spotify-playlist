@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Kodak Black
 
-875 songs - 1 day 16 hr 40 min
+876 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [War Cries](https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL) | [War Cries](https://open.spotify.com/album/30slXEZQTucfmq8bWQaWk6) | 2:29 | 2022-06-03 | 2022-09-17 |
 | [War With Whoever](https://open.spotify.com/track/5xiXNf6CYYUBbxi6l8iMHk) | [Taleban Dooda](https://open.spotify.com/artist/7aCA2LCzNmtAua4JrMvDb0) | [War With Whoever](https://open.spotify.com/album/3uRCSQh2cIAxbSm5kkF6vb) | 1:45 | 2022-07-29 | 2022-08-13 |
 | [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:26 | 2022-12-09 | 2023-03-11 |
+| [WAY I WALK](https://open.spotify.com/track/4qR7X2u3zkeBBwxlabexLh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [WAY I WALK](https://open.spotify.com/album/5Sc7471agIN9TTuDl2XEpn) | 2:30 | 2023-06-02 |  |
 | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/track/7LkIkjlWgXYIHgWW0DHsSg) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/album/02a5YA3rWMRQz1ZqWZ19BA) | 2:38 | 2022-08-05 | 2022-10-22 |
 | [We On It \(feat\. Dboylo\)](https://open.spotify.com/track/6t6vAKG0JJocfZ1CFYZoMM) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Dboylo](https://open.spotify.com/artist/3B8UdBdI65YuIjUd8Ei0TM) | [We On It \(feat\. Dboylo\)](https://open.spotify.com/album/5usObWbEH1bp2esxkRuoHk) | 2:44 | 2023-03-10 | 2023-04-22 |
 | [We Set The Trends](https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [We Set The Trends](https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq) | 3:40 | 2021-12-10 | 2022-04-02 |

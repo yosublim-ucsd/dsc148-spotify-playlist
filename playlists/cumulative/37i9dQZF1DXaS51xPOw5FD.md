@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-106 songs - 7 hr 4 min
+107 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Pictures In My Head \- High Contrast Remix](https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Pictures In My Head](https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm) | 4:18 | 2022-08-05 |  |
 | [Poveglia](https://open.spotify.com/track/5FmD6Svf1V4A0ECU9wgsoq) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [De:Tune](https://open.spotify.com/artist/4ajNIcnJvrrzB1lLr1eXMP) | [Poveglia](https://open.spotify.com/album/2j3v5tjHZa2maBpncfEN7Q) | 4:50 | 2022-08-05 |  |
 | [Questions](https://open.spotify.com/track/2yVyBp91pt3dmsaZ8nz7S3) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT), [Boy Matthews](https://open.spotify.com/artist/2jn9JOmdrR9BdiR1LTvYG4) | [Night Gallery](https://open.spotify.com/album/4hzruXvXyUg5hJwP37CJrF) | 4:02 | 2022-08-05 |  |
-| [Racing Green](https://open.spotify.com/track/2BWIDTVln2LvwGpJ5BYyJD) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [High Society](https://open.spotify.com/album/6LBb2E9cMKYN8lAzizVJAQ) | 6:21 | 2023-05-19 |  |
+| [Racing Green](https://open.spotify.com/track/2BWIDTVln2LvwGpJ5BYyJD) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [High Society](https://open.spotify.com/album/6LBb2E9cMKYN8lAzizVJAQ) | 6:21 | 2023-05-19 | 2023-06-06 |
 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 | 2023-05-19 |  |
 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 | 2022-08-05 |  |
 | [Remember](https://open.spotify.com/track/3XejA5R4AptKcmGPXnwAhD) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Remember](https://open.spotify.com/album/09pPQEIYPuyy350ccJBU4L) | 3:35 | 2022-08-05 |  |
@@ -94,6 +94,7 @@
 | [Remind Me](https://open.spotify.com/track/7dFJsQQMwSlelur7tPuwnr) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Night Gallery](https://open.spotify.com/album/4hzruXvXyUg5hJwP37CJrF) | 4:01 | 2022-08-05 |  |
 | [Right Here \- Andy C Remix](https://open.spotify.com/track/4EqJZ1bQ55Jq4vi2gHuQdQ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Waiting All Night](https://open.spotify.com/album/6Jf8KEBkBLFYZUq3qxrXNl) | 4:31 | 2022-08-05 |  |
 | [Rio \(feat\. Digital Farm Animals\)](https://open.spotify.com/track/5IfSQQzGijWKd7dbkbqHuN) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [3](https://open.spotify.com/album/5RpkF55XZzzpWO0CnqcWw8) | 3:49 | 2022-08-05 |  |
+| [Shine Like The Sun \- Nu:Logic Remix](https://open.spotify.com/track/5JuRFvtHG8FJ4lSc0tZ7bh) | [Thomas Oliver](https://open.spotify.com/artist/5ZwD9tfnJ04kM0qgPSMzgy), [Matthew Gresham and Daniel Gresham](https://open.spotify.com/artist/2xnn4IjzRZLQMsoHgCLJRe) | [Shine Like The Sun \(Nu:Logic Remix\)](https://open.spotify.com/album/0Gkr5s5Tw3QjwhxzcW2nfP) | 5:14 | 2023-05-19 |  |
 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 | 2023-05-19 |  |
 | [SUMMER](https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [SUMMER](https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9) | 3:40 | 2022-08-05 |  |
 | [Summer Sun](https://open.spotify.com/track/31trzaw8jTi9P3ChkMKWU4) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Summer Sun](https://open.spotify.com/album/6lnZT31iC2GgoBswi0aBJF) | 3:00 | 2022-08-05 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2ViZmM1MzhhY2VjNGNiZmVmMGE5OTY5NTA2NjE3ZjgwNmJhMzNi",
+  "snapshot_id": "MCw2MWQ1NjNiODc5MWQ5NDZjOTA5MDZlMDNkYjAzODk3NDc0OTkxYjk0",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Juguemos a cantar con Barney",
-        "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2"
       },
       "artists": [
         {
-          "name": "Barney",
-          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 113034,
-      "name": "Me cepillo los dientes",
-      "url": "https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ"
+      "duration_ms": 260853,
+      "name": "Family Time",
+      "url": "https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2"
+        "name": "Juguemos a cantar con Barney",
+        "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Barney",
+          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
         }
       ],
-      "duration_ms": 260853,
-      "name": "Family Time",
-      "url": "https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0"
+      "duration_ms": 113034,
+      "name": "Me cepillo los dientes",
+      "url": "https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Leoncito Alado",
-        "url": "https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S"
-      },
-      "artists": [
-        {
-          "name": "Leoncito Alado",
-          "url": "https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5"
-        }
-      ],
-      "duration_ms": 83018,
-      "name": "El Ba\u00f1o del Elefantito",
-      "url": "https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Mojo A Go Go - Real Rock For Kids",
         "url": "https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 193840,
       "name": "Do The Chores",
       "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Leoncito Alado",
+        "url": "https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S"
+      },
+      "artists": [
+        {
+          "name": "Leoncito Alado",
+          "url": "https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5"
+        }
+      ],
+      "duration_ms": 83018,
+      "name": "El Ba\u00f1o del Elefantito",
+      "url": "https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Fantastic Voyages",
-        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 109896,
-      "name": "Nice 'N' Clean",
-      "url": "https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Please Come To My Party",
         "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 144666,
       "name": "The Potty Song",
       "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Fantastic Voyages",
+        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 109896,
+      "name": "Nice 'N' Clean",
+      "url": "https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "20 Canciones Infantiles",
-        "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
-      },
-      "artists": [
-        {
-          "name": "Osito Panda Band",
-          "url": "https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Ba\u00f1o de Burbujas",
-      "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Music for Classroom Management",
         "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 43626,
       "name": "Please and Thank You Song",
       "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "20 Canciones Infantiles",
+        "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
+      },
+      "artists": [
+        {
+          "name": "Osito Panda Band",
+          "url": "https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0"
+        }
+      ],
+      "duration_ms": 112400,
+      "name": "Ba\u00f1o de Burbujas",
+      "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Rocknoceros",
-        "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
-      },
-      "artists": [
-        {
-          "name": "Rocknoceros",
-          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Washing My Hands",
-      "url": "https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Las 4 Estaciones, vol. 11",
         "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 58644,
       "name": "Sonidos al Comer",
       "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Rocknoceros",
+        "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
+      },
+      "artists": [
+        {
+          "name": "Rocknoceros",
+          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Washing My Hands",
+      "url": "https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
+        "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 91874,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Papa Goose",
         "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 89306,
       "name": "Wash The Dishes",
       "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Las Mejores Canciones para Ni\u00f1os",
-        "url": "https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b"
-      },
-      "artists": [
-        {
-          "name": "HooplaKidz En Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu"
-        }
-      ],
-      "duration_ms": 129536,
-      "name": "La Canci\u00f3n del Ba\u00f1o",
-      "url": "https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc"
     }
   ],
   "unique_name": "Daily Rutina",

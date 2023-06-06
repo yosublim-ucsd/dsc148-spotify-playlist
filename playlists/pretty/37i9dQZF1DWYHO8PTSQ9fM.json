@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : DYSTINCT",
-  "num_followers": 287118,
+  "num_followers": 287482,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWMxMzZkYjZiMjJlMjNjZWY1MWJiOTY0MjUyMmNjNjE4N2JkMzY4",
+  "snapshot_id": "MCxkZjIyZWMzYjU4ODIxNDE0MDdkNTE2MDc1MDU4NDA3NGY4Njg2OTQx",
   "tracks": [
     {
       "added_at": "2023-06-02 12:01:06",
@@ -199,6 +199,26 @@
     {
       "added_at": "2023-06-02 12:01:06",
       "album": {
+        "name": "Ghazali (feat. Bryan Mg)",
+        "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Ghazali (feat. Bryan Mg)",
+      "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
+    },
+    {
+      "added_at": "2023-06-02 12:01:06",
+      "album": {
         "name": "SOS (Chapitre 3)",
         "url": "https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt"
       },
@@ -267,6 +287,38 @@
     {
       "added_at": "2023-06-02 12:01:06",
       "album": {
+        "name": "Galbi Khasah Molah",
+        "url": "https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT"
+      },
+      "artists": [
+        {
+          "name": "Cheba Warda",
+          "url": "https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "Galbi Khasah Molah",
+      "url": "https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s"
+    },
+    {
+      "added_at": "2023-06-02 12:01:06",
+      "album": {
+        "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 (Cover libianca people - 2023 - nouveaut\u00e9)",
+        "url": "https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w"
+      },
+      "artists": [
+        {
+          "name": "Cravata",
+          "url": "https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 - Cover libianca people - 2023 - nouveaut\u00e9",
+      "url": "https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39"
+    },
+    {
+      "added_at": "2023-06-02 12:01:06",
+      "album": {
         "name": "C'est carr\u00e9 le S",
         "url": "https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y"
       },
@@ -287,22 +339,6 @@
       "duration_ms": 201533,
       "name": "C'est carr\u00e9 le S",
       "url": "https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz"
-    },
-    {
-      "added_at": "2023-06-02 12:01:06",
-      "album": {
-        "name": "La vie de Many",
-        "url": "https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc"
-      },
-      "artists": [
-        {
-          "name": "Anas",
-          "url": "https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n"
-        }
-      ],
-      "duration_ms": 161693,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps"
     },
     {
       "added_at": "2023-06-02 12:01:06",
@@ -339,38 +375,18 @@
     {
       "added_at": "2023-06-02 12:01:06",
       "album": {
-        "name": "Ghazali (feat. Bryan Mg)",
-        "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
+        "name": "La vie de Many",
+        "url": "https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+          "name": "Anas",
+          "url": "https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n"
         }
       ],
-      "duration_ms": 184661,
-      "name": "Ghazali (feat. Bryan Mg)",
-      "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
-    },
-    {
-      "added_at": "2023-06-02 12:01:06",
-      "album": {
-        "name": "Galbi Khasah Molah",
-        "url": "https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT"
-      },
-      "artists": [
-        {
-          "name": "Cheba Warda",
-          "url": "https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "Galbi Khasah Molah",
-      "url": "https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s"
+      "duration_ms": 161693,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps"
     },
     {
       "added_at": "2023-06-02 12:01:06",
@@ -519,22 +535,6 @@
       "duration_ms": 165773,
       "name": "ELGHIRA",
       "url": "https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X"
-    },
-    {
-      "added_at": "2023-06-02 12:01:06",
-      "album": {
-        "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 (Cover libianca people - 2023 - nouveaut\u00e9)",
-        "url": "https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w"
-      },
-      "artists": [
-        {
-          "name": "Cravata",
-          "url": "https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 - Cover libianca people - 2023 - nouveaut\u00e9",
-      "url": "https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39"
     },
     {
       "added_at": "2023-06-02 12:01:06",

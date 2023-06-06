@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Brandy Clark
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,715 likes - 223 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,726 likes - 223 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 222 | [Play Ball](https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:27 |
 | 223 | [Just Another](https://open.spotify.com/track/2ryIpNbjhd9W25bG7JdPVK) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Just Another](https://open.spotify.com/album/5f67HsDD8QPuzqh1oJRltm) | 3:13 |
 
-Snapshot ID: `MCw2NzFjOTQ3ZjgwZjllNTljOWU0YmI4NjkzZGNlMDBiYjEzMDAxZGIy`
+Snapshot ID: `MCw1YTI5MzljYzZmYTBiZTU1ZmY2NTA3Njk5NTk3M2Y0NmFkNjY4ODQz`

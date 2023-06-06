@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Natti Natasha
 
-271 songs - 16 hr 10 min
+272 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Quiero Decirte \- DJ C Remix](https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [DJ C](https://open.spotify.com/artist/3SchaCFy44QEGv2EdF4ZjS) | [Quiero Decirte \- Remixes](https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU) | 3:49 | 2022-09-09 | 2023-01-25 |
 | [Quimicas de Amor](https://open.spotify.com/track/7hOKkEkiw2gUlJLXFFbT6s) | [J\-Dream](https://open.spotify.com/artist/43UkDk4JiVnOIVZdMHhO0Z), [Lady laura La morena del swing](https://open.spotify.com/artist/1oq10cOkNQAk6T63equyFp) | [Quimicas de Amor](https://open.spotify.com/album/0PA3JHgKlI5jzf8VdLPEE2) | 3:05 | 2022-03-25 | 2022-06-30 |
 | [Reggaetonista Salsaton \(Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen\)](https://open.spotify.com/track/2jjS5j292q9RoNwNXNRM6x) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Reggaetonista Salsaton \(Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen\)](https://open.spotify.com/album/5U8TwxqlnkjcWw14Svv3Bs) | 2:37 | 2022-01-01 | 2022-01-29 |
-| [Regrésame Mi Corazón](https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Regrésame Mi Corazón](https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy) | 4:30 | 2023-01-27 |  |
+| [Regrésame Mi Corazón](https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Regrésame Mi Corazón](https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy) | 4:30 | 2023-01-27 | 2023-06-06 |
 | [Remember Me](https://open.spotify.com/track/2PTDRE8RTmKU0LbJCvK9vA) | [Alain Daniel](https://open.spotify.com/artist/2u1nvbgShcmjDc2SeSDDu6), [Alexander Delgado](https://open.spotify.com/artist/2XZxaXED899trOkylOP8fa) | [Remember Me](https://open.spotify.com/album/2KkJOl11zZxOf8LYSIwaZz) | 3:25 | 2022-06-29 | 2023-01-22 |
 | [Republica Dominicana](https://open.spotify.com/track/02IdYXYJ0G9vgs9DVmONFX) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [Republica Dominicana](https://open.spotify.com/album/69Fk1rIWzvwImYuXN6CcUQ) | 4:36 | 2023-01-27 | 2023-02-25 |
 | [Resistirá](https://open.spotify.com/track/7knEsle2mCnypBafCdrWx8) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Resistirá](https://open.spotify.com/album/4VmevPcZ6QXfiKira0aBE7) | 3:45 | 2022-06-29 | 2023-01-14 |
@@ -264,6 +264,7 @@
 | [Veneno](https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r) | 3:06 | 2023-01-13 | 2023-05-13 |
 | [Veneno](https://open.spotify.com/track/7t4yFQHzredlqcQJIXaaj8) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/5l8YDFaDZqxq0ix1Fg7Lrv) | 3:06 | 2022-06-29 | 2023-01-14 |
 | [Vienes](https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Luis Figueroa](https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE) | 3:09 | 2022-06-29 | 2023-03-18 |
+| [Viviré](https://open.spotify.com/track/4Cvkj8t7pNQLfLpHMoKkMC) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Viviré](https://open.spotify.com/album/1CP85ckXcd1esaXdw8WVpN) | 4:13 | 2023-06-02 |  |
 | [Volver a Casa](https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Volver a Casa](https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX) | 3:44 | 2023-03-03 | 2023-05-20 |
 | [Vuelve](https://open.spotify.com/track/1KJMygl0P4TmlwTYO0zVHD) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Vuelve](https://open.spotify.com/album/07fsh2oj0AY397J3WPs6sG) | 2:46 | 2022-06-29 | 2023-01-24 |
 | [Worst Way](https://open.spotify.com/track/0yKJSkZNSHuMuTSOl9bOJM) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [YX](https://open.spotify.com/artist/2Fv2ioUtRdjP2i5ilLcDPs), [Kenyi](https://open.spotify.com/artist/6AdFGjfHin3ow9yC5qE2TW) | [Worst Way](https://open.spotify.com/album/4qT54sqjsyssX4fNZgBkUv) | 4:05 | 2022-01-01 | 2022-06-30 |

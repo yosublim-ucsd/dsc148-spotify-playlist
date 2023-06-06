@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Waterbaby
 
-1,548 songs - 3 day 12 hr 37 min
+1,550 songs - 3 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Bedside](https://open.spotify.com/track/0WIb4zQlCptgIkV5oIBadk) | [Pierz Barry](https://open.spotify.com/artist/2dzdUgM8QYmJYG3BIFn4J1) | [Bedside](https://open.spotify.com/album/6KbYLgPQPoXADBXV4LhtkR) | 4:13 | 2022-08-03 | 2023-01-12 |
 | [Been a Long Time](https://open.spotify.com/track/0PmO0FsV2W20X3c10O4tWz) | [Shelly Archer](https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM) | [Been a Long Time](https://open.spotify.com/album/0VLeRZC4agTKBMryZPgPYr) | 3:49 | 2022-06-15 | 2022-07-07 |
 | [Before It Hurts](https://open.spotify.com/track/7iP6bz6tvVKzy1rZOvJ4Pz) | [Naimah](https://open.spotify.com/artist/4RNIFrUK6i8KFU2Nga8rVf) | [Before It Hurts](https://open.spotify.com/album/5RXvlBiL2CgJR6eRdiGdvg) | 4:13 | 2022-02-09 | 2022-03-03 |
-| [Beginning](https://open.spotify.com/track/5czA0psE9v4S0d2GrWKq3W) | [pecq](https://open.spotify.com/artist/7dtoq4U0UlyvMomL00qPDf) | [Amnesia's Ritual](https://open.spotify.com/album/5CRx7EAnMaETCmUCmtPejH) | 1:28 | 2023-05-17 |  |
+| [Beginning](https://open.spotify.com/track/5czA0psE9v4S0d2GrWKq3W) | [pecq](https://open.spotify.com/artist/7dtoq4U0UlyvMomL00qPDf) | [Amnesia's Ritual](https://open.spotify.com/album/5CRx7EAnMaETCmUCmtPejH) | 1:28 | 2023-05-17 | 2023-06-06 |
 | [Beige Bouquet](https://open.spotify.com/track/1ToWM2CFH8xJW3GekCKFKX) | [The Thing](https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L) | [Here's The Thing](https://open.spotify.com/album/7D6T266nZIgvmwmihILOHK) | 2:48 | 2023-04-19 | 2023-05-24 |
 | [Belles](https://open.spotify.com/track/6TGKtEN5WQ4Fz5C5wL88ff) | [Marques Martin](https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq) | [Brave & Afraid](https://open.spotify.com/album/6VvjYRRkfx5rqSqnrBI5K5) | 3:40 | 2022-04-22 | 2022-06-09 |
 | [Betelgeuse](https://open.spotify.com/track/6akdMSGbCPYuwCzkxVM2xi) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Betelgeuse](https://open.spotify.com/album/0vXtYUUBdWbVwaM2vUHglR) | 4:22 | 2022-05-04 | 2022-05-12 |
@@ -486,6 +486,7 @@
 | [forever, with you](https://open.spotify.com/track/593EdsNavqugMt7jSoptxC) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [forever, with you](https://open.spotify.com/album/1gxjY87dJpAGGSXLGimXVS) | 2:56 | 2023-04-19 | 2023-05-31 |
 | [Forget Me Not\(s\)](https://open.spotify.com/track/6HS6e30JW4M9ztfwbAm37C) | [Sonya](https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA) | [Forget Me Not\(s\)](https://open.spotify.com/album/0WX9FIOkEcK3SsVPfh28Qs) | 1:53 | 2023-01-11 | 2023-02-09 |
 | [Fragments](https://open.spotify.com/track/2rcBJz7HHMGC2VMON3iZU5) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Fragments EP](https://open.spotify.com/album/2LVd2sUecbXALnezX842ks) | 3:47 | 2022-05-25 | 2022-06-30 |
+| [Fragrance](https://open.spotify.com/track/2082vPorTG6ceIWBT0szPp) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:19 | 2023-06-05 |  |
 | [friends u had](https://open.spotify.com/track/2o9qiFBwKc9mDrllqPeWzD) | [Playdate](https://open.spotify.com/artist/6oIeF5buHoZuyuwiu4xz0B) | [friends u had](https://open.spotify.com/album/7CW6Wc25oHYouIaHbHKgsC) | 2:59 | 2022-08-24 | 2022-10-06 |
 | [From Me to You](https://open.spotify.com/track/0yTizzQjcAOj8zZNfHBkgL) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [From Me to You](https://open.spotify.com/album/333e8sycLvInCv5SVViLLt) | 3:16 | 2023-04-19 | 2023-05-18 |
 | [from outer space, with love](https://open.spotify.com/track/4X5XjFteQAlgZmtwKYFkv6) | [Jayomi](https://open.spotify.com/artist/6MVYxlLs0btUQrDIPFfGbI) | [from outer space, with love](https://open.spotify.com/album/7tLyf7RX25bdjiYHquhRpG) | 2:38 | 2022-05-19 | 2022-07-07 |
@@ -522,7 +523,7 @@
 | [ghost of you](https://open.spotify.com/track/1Q5ZNQRbGhBhIFDp6asd0b) | [penelope Q](https://open.spotify.com/artist/70ovkdfy4QSPHKJQ0Qy9zR) | [ghost of you](https://open.spotify.com/album/0A4j0UkikAFVIRVfj0qCCJ) | 2:57 | 2022-06-15 | 2022-07-07 |
 | [Ghost with a Peach Skin](https://open.spotify.com/track/6wacZZ8kOn9ky527SQL9io) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [Ghost with a Peach Skin](https://open.spotify.com/album/7tBKwRe9plPVBoc05qSike) | 3:09 | 2023-01-11 | 2023-02-16 |
 | [Ghostbuster](https://open.spotify.com/track/0D9CLVWQHoMcaghl8baO8A) | [Stevie Zita](https://open.spotify.com/artist/799k56wbyqhZaDazBF8bNY) | [Ghostbuster](https://open.spotify.com/album/6nNmaGy7205WBLsoVcW1xa) | 2:42 | 2022-08-03 | 2022-09-29 |
-| [Gia](https://open.spotify.com/track/469s8Ekt5RF3IB3uKWSmGO) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Gia](https://open.spotify.com/album/0GAxKrrUvlzxKURCSF9Xfn) | 4:05 | 2023-05-17 |  |
+| [Gia](https://open.spotify.com/track/469s8Ekt5RF3IB3uKWSmGO) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Gia](https://open.spotify.com/album/0GAxKrrUvlzxKURCSF9Xfn) | 4:05 | 2023-05-17 | 2023-06-06 |
 | [gimme all ur luv](https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF) | 2:53 | 2022-06-08 | 2023-01-12 |
 | [Girl I See in My Dreams](https://open.spotify.com/track/7pddvsjKPY1HGuFzonYRMZ) | [Twnie](https://open.spotify.com/artist/0BnBj9BOJEidMEuC4Bv3D4) | [Girl I See in My Dreams](https://open.spotify.com/album/4AkIsMhK16F1n2Qm5AhuBj) | 3:48 | 2023-05-24 |  |
 | [Girlfriend](https://open.spotify.com/track/6Ik8WjZ70Mz5vKHWmQdvsz) | [Lou Raymond](https://open.spotify.com/artist/6ZCf5SaXTSkMGVo6q9geDh) | [Girlfriend](https://open.spotify.com/album/3gJazOfbft8yrQLuqZBr0e) | 3:00 | 2023-04-26 | 2023-05-31 |
@@ -1514,6 +1515,7 @@
 | [White Out](https://open.spotify.com/track/0dVj5fmkYseC1paXiRc9Wg) | [Xelli Island](https://open.spotify.com/artist/0Hd7uyxLIPZMxOpcZIZ7sV) | [White Out](https://open.spotify.com/album/4YY1lRElicxpo436bQOW7r) | 4:27 | 2023-05-10 |  |
 | [Who I Am](https://open.spotify.com/track/4cf0sdzluZA6ppzfBy9OJC) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Who I Am](https://open.spotify.com/album/4rMockboJGpCTFhKij2KWM) | 3:27 | 2022-09-06 | 2022-10-08 |
 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 | 2023-04-12 | 2023-04-15 |
+| [Why'd You Leave Me in the Red?](https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:56 | 2023-06-05 |  |
 | [wifoutyoluv](https://open.spotify.com/track/6DbrLIrIWIchxG9mTcW8RJ) | [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [wifoutyoluv](https://open.spotify.com/album/5FTIFawhYJfLLvffh1JcFo) | 2:41 | 2023-02-15 | 2023-03-09 |
 | [Will](https://open.spotify.com/track/095yKla5Kd5llODkGjgNze) | [Evangeline](https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ) | [Will](https://open.spotify.com/album/5r5hUEdm1NE5RzHRaiXZ9Y) | 3:17 | 2022-07-27 | 2022-09-29 |
 | [Will We Ever Come Down?](https://open.spotify.com/track/620y9QCydsAJvkfJcvXyjC) | [Ramsey the Fourth](https://open.spotify.com/artist/7KBDBiNPH6TqBilJMWaJxf) | [Will We Ever Come Down?](https://open.spotify.com/album/2BNxvMFratBc7sZtbpsvDF) | 4:15 | 2022-07-27 | 2022-09-01 |

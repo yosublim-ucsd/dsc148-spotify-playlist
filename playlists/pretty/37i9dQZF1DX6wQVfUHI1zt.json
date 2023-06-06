@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 194490,
+  "num_followers": 194553,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDA5NDkzOTg0MDYzZWU2YWI5ZDgwMzQzM2I3ZjE3YTA2ZGUxNmYz",
+  "snapshot_id": "MCxmMjE5NTc5YjdmOTAzYmQ1MjZjNmI3ZDc1NzY1ODI3NDllZjEyOTU5",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -91,38 +91,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "30 Exitos Insuperables",
         "url": "https://open.spotify.com/album/1yeA9wWbwl7LQmrUXA9xMi"
       },
@@ -135,22 +103,6 @@
       "duration_ms": 209653,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/498OvPha8GiLFyhU5qaBxW"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 314866,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -171,22 +123,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 202920,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/6t86si8IaIgLHEuZnaha33"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Esto Es Lo Nuestro - 20 Exitos",
         "url": "https://open.spotify.com/album/467yWFddzRSYF4H11tCHdl"
       },
@@ -203,56 +139,8 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 265120,
-      "name": "Ay\u00fadame",
-      "url": "https://open.spotify.com/track/4qC5OxQRMDKxi2NtYkiegc"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "Lo Hare Por Ti",
-        "url": "https://open.spotify.com/album/15lIqg78oQM9CjPoeUB40T"
-      },
-      "artists": [
-        {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
-        }
-      ],
-      "duration_ms": 250426,
-      "name": "Ayer Y Hoy",
-      "url": "https://open.spotify.com/track/5TMB9Xnfe1lbvDHZtjCUcZ"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
       "artists": [
         {
@@ -260,41 +148,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Ojal\u00e1 Te Animes",
-      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "La Llamada - 1993 Version",
-      "url": "https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "Ven Mi Amor",
-        "url": "https://open.spotify.com/album/2hZlBpUoeN4SMo7yJtieX8"
-      },
-      "artists": [
-        {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Ahora Dile",
-      "url": "https://open.spotify.com/track/51yTzGq5mutXExkKS87nbM"
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -308,15 +164,15 @@
           "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
         }
       ],
-      "duration_ms": 207800,
-      "name": "Me Duele Estar Solo",
-      "url": "https://open.spotify.com/track/0EbhpgP6Bx7tAHPydzDWSi"
+      "duration_ms": 202920,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6t86si8IaIgLHEuZnaha33"
     },
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
@@ -324,25 +180,25 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
     },
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Qui\u00e9n Iba A Pensar (Remastered)",
-        "url": "https://open.spotify.com/album/7nh2gzgcGZDwFBLl11dEFs"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
       },
       "artists": [
         {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 240826,
-      "name": "Qui\u00e9n Iba A Pensar",
-      "url": "https://open.spotify.com/track/5HfaD1ZJHpPyYinCO8NrSU"
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -363,18 +219,18 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+        "name": "Lo Hare Por Ti",
+        "url": "https://open.spotify.com/album/15lIqg78oQM9CjPoeUB40T"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
         }
       ],
-      "duration_ms": 169493,
-      "name": "Fuertemente",
-      "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
+      "duration_ms": 250426,
+      "name": "Ayer Y Hoy",
+      "url": "https://open.spotify.com/track/5TMB9Xnfe1lbvDHZtjCUcZ"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -388,15 +244,15 @@
           "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
         }
       ],
-      "duration_ms": 168493,
-      "name": "No Debes Jugar - 1993 Version",
-      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
+      "duration_ms": 189920,
+      "name": "La Llamada - 1993 Version",
+      "url": "https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s"
     },
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Llegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
       "artists": [
         {
@@ -404,9 +260,89 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 212733,
-      "name": "Le Pedir\u00e9",
-      "url": "https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj"
+      "duration_ms": 180560,
+      "name": "Ojal\u00e1 Te Animes",
+      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "Me Duele Estar Solo",
+      "url": "https://open.spotify.com/track/0EbhpgP6Bx7tAHPydzDWSi"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Ven Mi Amor",
+        "url": "https://open.spotify.com/album/2hZlBpUoeN4SMo7yJtieX8"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Ahora Dile",
+      "url": "https://open.spotify.com/track/51yTzGq5mutXExkKS87nbM"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Qui\u00e9n Iba A Pensar (Remastered)",
+        "url": "https://open.spotify.com/album/7nh2gzgcGZDwFBLl11dEFs"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+        }
+      ],
+      "duration_ms": 240826,
+      "name": "Qui\u00e9n Iba A Pensar",
+      "url": "https://open.spotify.com/track/5HfaD1ZJHpPyYinCO8NrSU"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 265120,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/4qC5OxQRMDKxi2NtYkiegc"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -439,6 +375,70 @@
       "duration_ms": 195213,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/5RGZFrGMC8qKIWqZIWAVJZ"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Llegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Le Pedir\u00e9",
+      "url": "https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "No Debes Jugar - 1993 Version",
+      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 169493,
+      "name": "Fuertemente",
+      "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Siempre Humilde (Remastered)",
+        "url": "https://open.spotify.com/album/76qYJxKZrtShD1Y295OGbl"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Ahora Qu\u00e9 Hago Sin Ti",
+      "url": "https://open.spotify.com/track/1KFfJfpUwweJhjl3PKKUGx"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -503,8 +503,8 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 210626,
-      "name": "Bidi Bidi Bom Bom - 1994 Version",
-      "url": "https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr"
+      "duration_ms": 161906,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -531,54 +531,6 @@
       "duration_ms": 213960,
       "name": "Llegaste A Mi Vida",
       "url": "https://open.spotify.com/track/03vaFs8JbKg27yTKZshM55"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "Siempre Humilde (Remastered)",
-        "url": "https://open.spotify.com/album/76qYJxKZrtShD1Y295OGbl"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Ahora Qu\u00e9 Hago Sin Ti",
-      "url": "https://open.spotify.com/track/1KFfJfpUwweJhjl3PKKUGx"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "The Voice",
-        "url": "https://open.spotify.com/album/7JXsGG9pXfbrDpzNiKyS5b"
-      },
-      "artists": [
-        {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Lo Que Yo Tengo",
-      "url": "https://open.spotify.com/track/77YM8eY4U7AKeJSQUc2OqF"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -611,6 +563,38 @@
       "duration_ms": 143053,
       "name": "Besitos",
       "url": "https://open.spotify.com/track/164h2ksJh1l27JoQH0W9kl"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "The Voice",
+        "url": "https://open.spotify.com/album/7JXsGG9pXfbrDpzNiKyS5b"
+      },
+      "artists": [
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Lo Que Yo Tengo",
+      "url": "https://open.spotify.com/track/77YM8eY4U7AKeJSQUc2OqF"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
         "name": "Puro Tejano Gold",
         "url": "https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 186706,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "30 Exitos Insuperables",
+        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
+      },
+      "artists": [
+        {
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+        }
+      ],
+      "duration_ms": 274426,
+      "name": "Est\u00fapido Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/5DGCz0pG9SrJpIps43xyod"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "30 Exitos Insuperables",
-        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
-      },
-      "artists": [
-        {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
-        }
-      ],
-      "duration_ms": 274426,
-      "name": "Est\u00fapido Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/5DGCz0pG9SrJpIps43xyod"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Puro Tejano",
         "url": "https://open.spotify.com/album/4BtAAu0k6eU8P6HLRrWYjr"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 173933,
       "name": "Son Tus Miradas",
       "url": "https://open.spotify.com/track/2nPVP13joEfdlIIxfaVujj"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "30 Exitos Insuperables",
+        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
+      },
+      "artists": [
+        {
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Qu\u00e9 Porqu\u00e9 Te Quiero?",
+      "url": "https://open.spotify.com/track/4dClbOgXHbh91ZOanebHVw"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "30 Exitos Insuperables",
-        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
-      },
-      "artists": [
-        {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Qu\u00e9 Porqu\u00e9 Te Quiero?",
-      "url": "https://open.spotify.com/track/4dClbOgXHbh91ZOanebHVw"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -883,8 +883,8 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Mucho Mas Que Amor",
-        "url": "https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny"
+        "name": "Simplemente Tejano",
+        "url": "https://open.spotify.com/album/49NcAGCAejf91zf9378McY"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Eres Mi Todo",
-      "url": "https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE"
+      "duration_ms": 278493,
+      "name": "La Mancha",
+      "url": "https://open.spotify.com/track/4Sftcc8OWNsF6jyszaOwC6"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Si Me Faltas Tu (Remastered)",
-        "url": "https://open.spotify.com/album/3a3u36KzWbTPclPqE82eYB"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
-        }
-      ],
-      "duration_ms": 251903,
-      "name": "Yo Te Voy A Amar",
-      "url": "https://open.spotify.com/track/60PDeZGuhX1YqmBdMcxNQ1"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "ANTHOLOGY: BACK IN THE DAY",
         "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
@@ -963,22 +947,6 @@
       "duration_ms": 205626,
       "name": "Poquito A Poco",
       "url": "https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
-        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
-      },
-      "artists": [
-        {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Al Partir",
-      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -999,34 +967,34 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Con un Nudo en la Garganta",
-        "url": "https://open.spotify.com/album/0S5NBCcSyYQlHRijkiCldk"
+        "name": "Si Me Faltas Tu (Remastered)",
+        "url": "https://open.spotify.com/album/3a3u36KzWbTPclPqE82eYB"
       },
       "artists": [
         {
-          "name": "Joe Bravo",
-          "url": "https://open.spotify.com/artist/2OVwFpzZV7P8GJWVFF7n1Y"
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
         }
       ],
-      "duration_ms": 223506,
-      "name": "Con un Nudo en la Garganta",
-      "url": "https://open.spotify.com/track/0tWVo41LuScCrbfZjYDz6u"
+      "duration_ms": 251903,
+      "name": "Yo Te Voy A Amar",
+      "url": "https://open.spotify.com/track/60PDeZGuhX1YqmBdMcxNQ1"
     },
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Tejano Award Nominees",
-        "url": "https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy"
+        "name": "Mucho Mas Que Amor",
+        "url": "https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny"
       },
       "artists": [
         {
-          "name": "Pete Astudillo",
-          "url": "https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY"
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
         }
       ],
-      "duration_ms": 230896,
-      "name": "Como Te Extrano",
-      "url": "https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY"
+      "duration_ms": 205266,
+      "name": "Eres Mi Todo",
+      "url": "https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1047,18 +1015,34 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Simplemente Tejano",
-        "url": "https://open.spotify.com/album/49NcAGCAejf91zf9378McY"
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
       "artists": [
         {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
         }
       ],
-      "duration_ms": 278493,
-      "name": "La Mancha",
-      "url": "https://open.spotify.com/track/4Sftcc8OWNsF6jyszaOwC6"
+      "duration_ms": 167279,
+      "name": "Que Tristeza",
+      "url": "https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
+        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
+      },
+      "artists": [
+        {
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Al Partir",
+      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "ANTHOLOGY: BACK IN THE DAY",
-        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
+        "name": "Con un Nudo en la Garganta",
+        "url": "https://open.spotify.com/album/0S5NBCcSyYQlHRijkiCldk"
       },
       "artists": [
         {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+          "name": "Joe Bravo",
+          "url": "https://open.spotify.com/artist/2OVwFpzZV7P8GJWVFF7n1Y"
         }
       ],
-      "duration_ms": 167279,
-      "name": "Que Tristeza",
-      "url": "https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap"
+      "duration_ms": 223506,
+      "name": "Con un Nudo en la Garganta",
+      "url": "https://open.spotify.com/track/0tWVo41LuScCrbfZjYDz6u"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1111,6 +1095,38 @@
       "duration_ms": 240146,
       "name": "Amor Querido",
       "url": "https://open.spotify.com/track/3Wx6K6u4Q13a4lbdCLlXjR"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Tejano Award Nominees",
+        "url": "https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy"
+      },
+      "artists": [
+        {
+          "name": "Pete Astudillo",
+          "url": "https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY"
+        }
+      ],
+      "duration_ms": 230896,
+      "name": "Como Te Extrano",
+      "url": "https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
+      },
+      "artists": [
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Ay Mujer",
+      "url": "https://open.spotify.com/track/55YYsAeziwm3etSsQsOIHj"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1147,22 +1163,6 @@
       "duration_ms": 212466,
       "name": "Rosas Para Una Rosa",
       "url": "https://open.spotify.com/track/4upZxV6D7P9tRoHPssVGTx"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "ANTHOLOGY: BACK IN THE DAY",
-        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
-      },
-      "artists": [
-        {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Ay Mujer",
-      "url": "https://open.spotify.com/track/55YYsAeziwm3etSsQsOIHj"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "Eso Duele",
-      "url": "https://open.spotify.com/track/4r1UX2U2tHi639B4TwE5Vb"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "El Cazador",
         "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 174973,
       "name": "Cantarle a Ella",
       "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "Eso Duele",
+      "url": "https://open.spotify.com/track/4r1UX2U2tHi639B4TwE5Vb"
     },
     {
       "added_at": "2023-03-10 18:44:18",

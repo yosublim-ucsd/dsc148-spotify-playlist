@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 8935,
+  "num_followers": 8936,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDk4YjgwNDZjZWE5YWM3YmM1NTA2NDRhYjA3NGQzNzMyNjUzOGQ5",
+  "snapshot_id": "MCwwZmQzNjE4NDJhY2ZlNmFmZGUwMDBiNDc5MDUxYTcwMGE1YWRlZGEz",
   "tracks": [
     {
       "added_at": "2023-05-05 08:13:30",
@@ -131,18 +131,18 @@
     {
       "added_at": "2023-05-05 08:13:30",
       "album": {
-        "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+        "name": "Love Part 1",
+        "url": "https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 166968,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
+      "duration_ms": 272000,
+      "name": "WA-R-R",
+      "url": "https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk"
     },
     {
       "added_at": "2023-05-05 08:13:30",
@@ -167,18 +167,18 @@
     {
       "added_at": "2023-05-05 08:13:30",
       "album": {
-        "name": "Love Part 1",
-        "url": "https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp"
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 272000,
-      "name": "WA-R-R",
-      "url": "https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk"
+      "duration_ms": 166968,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
     },
     {
       "added_at": "2023-05-05 08:13:30",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-05-05 08:13:30",
       "album": {
+        "name": "overdose",
+        "url": "https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 255808,
+      "name": "overdose",
+      "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
+    },
+    {
+      "added_at": "2023-05-05 08:13:30",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 252986,
       "name": "Gray So Gray (Feat. Younha)",
       "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
-    },
-    {
-      "added_at": "2023-05-05 08:13:30",
-      "album": {
-        "name": "overdose",
-        "url": "https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 255808,
-      "name": "overdose",
-      "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
     },
     {
       "added_at": "2023-05-05 08:13:30",

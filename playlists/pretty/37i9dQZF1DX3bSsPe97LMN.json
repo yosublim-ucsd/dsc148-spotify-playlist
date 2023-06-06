@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Diego Coss en portada.",
-  "num_followers": 54688,
+  "num_followers": 54715,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTVlYzExNmE0MmNmNzBlYzc2YWYxYzM0ODJjMjUzNjljNjcxZTM5",
+  "snapshot_id": "MCw5ZTkxNGNlOWExZmExNmRlZTQ1NDczMjAzNjJjNGI3ZjJlZDY2ZmQw",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
     },
     {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "El Tigre",
+        "url": "https://open.spotify.com/album/3we8naS9dvL3YmlYz37p2l"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 174775,
+      "name": "El Tigre",
+      "url": "https://open.spotify.com/track/06H91bEkJ0h9rLRefwsG2P"
+    },
+    {
       "added_at": "2023-05-05 18:32:45",
       "album": {
         "name": "Raro",
@@ -953,20 +969,20 @@
       "url": "https://open.spotify.com/track/4MzJKGlUvVp9UFgLCkHQf8"
     },
     {
-      "added_at": "2023-05-19 06:00:00",
+      "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "El Tigre",
-        "url": "https://open.spotify.com/album/3we8naS9dvL3YmlYz37p2l"
+        "name": "Traigo Un Equip\u00f3n",
+        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
       },
       "artists": [
         {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
         }
       ],
-      "duration_ms": 174775,
-      "name": "El Tigre",
-      "url": "https://open.spotify.com/track/06H91bEkJ0h9rLRefwsG2P"
+      "duration_ms": 163824,
+      "name": "Traigo Un Equip\u00f3n",
+      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -987,22 +1003,6 @@
       "duration_ms": 191029,
       "name": "Pura Miel",
       "url": "https://open.spotify.com/track/4Zlq86DAtagKTQwjh90Ivp"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Traigo Un Equip\u00f3n",
-        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 163824,
-      "name": "Traigo Un Equip\u00f3n",
-      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Barba De Herencia",
+        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 204675,
+      "name": "Barba De Herencia",
+      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "Los Medios Suenan",
         "url": "https://open.spotify.com/album/25fSEdtDsDfk7BdhvqKF1x"
       },
@@ -1131,6 +1147,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "De La Nada",
         "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
       },
@@ -1147,22 +1179,6 @@
       "duration_ms": 264003,
       "name": "De La Nada",
       "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Barba De Herencia",
-        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 204675,
-      "name": "Barba De Herencia",
-      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1195,22 +1211,6 @@
       "duration_ms": 201848,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "INFIERNO",
-        "url": "https://open.spotify.com/album/3QcR7ZgPZ940A9ae8R7J0R"
+        "name": "Qui\u00e9n Te Entiende (En Vivo)",
+        "url": "https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8"
       },
       "artists": [
         {
-          "name": "Pr\u00f3digo Secreto",
-          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
         }
       ],
-      "duration_ms": 178076,
-      "name": "INFIERNO",
-      "url": "https://open.spotify.com/track/1sbCNvLF93dBZAlvSeO5FH"
+      "duration_ms": 193920,
+      "name": "Qui\u00e9n Te Entiende - En Vivo",
+      "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
     },
     {
       "added_at": "2023-05-05 18:32:45",

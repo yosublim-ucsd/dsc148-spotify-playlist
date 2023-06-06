@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Jacko Brango \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,439 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,438 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Gorej](https://open.spotify.com/track/7EKfFbmgARdS7n7fViZIEu) | [Echo Rodu](https://open.spotify.com/artist/2CZSpnxO2pnm4htfgFOLiE) | [Gorej](https://open.spotify.com/album/3yzE1KBB2WpA1vhZ2wAwYv) | 4:35 |
 | 100 | [Letni](https://open.spotify.com/track/3rJb6ybiuGQM9bf72z1alx) | [Konstelacje](https://open.spotify.com/artist/1N0967EiYo1KpqXi6yHnrV) | [Letni](https://open.spotify.com/album/1KF9877bzdMxRpQtaHJx03) | 3:39 |
 
-Snapshot ID: `MCxjZjM5MmM1OTQ0Njk0NzAwNGJiMzNjYjZlM2IzNDQ0NDE0ODU0NmE1`
+Snapshot ID: `MCwxNmJiOTI2OTIxNTZmZjdlZTQ1NmJiN2E5Y2ZhODI3MjkzMzNkN2Y0`

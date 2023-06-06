@@ -4,7 +4,7 @@
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-168 songs - 9 hr 56 min
+169 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [We're Cool \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/track/0lgJiwoJ4G7WsqbGjHaK99) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [PARKMOONCHI UNIVERSE](https://open.spotify.com/artist/4MifTc2uigW2QDJODF2Erk) | [We're Cool \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/album/6DPxcUrUw0YZ2o25nJ47D7) | 3:53 | 2021-12-07 |  |
 | [Weep In The Moonlight \(feat\. 고냉\)](https://open.spotify.com/track/3wVHFEQtLwoCOCI1tgi8P6) | [Jellyboy](https://open.spotify.com/artist/5iZz51YRPFZ3Ym9WZOOUH0), [고냉](https://open.spotify.com/artist/3W0coM6R42aOzFN7BpDZoX) | [Weep In The Moonlight](https://open.spotify.com/album/3QmhhKBPo20DriUAHE6abW) | 4:32 | 2021-12-07 |  |
 | [West Swing \(feat\. E\-40\)](https://open.spotify.com/track/1sm9EPvFtjD0nmSotn4lmF) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [West Swing \(feat\. E\-40\)](https://open.spotify.com/album/3q7iMJOXp2eFIUAHfyOffC) | 3:22 | 2022-09-05 |  |
-| [When We Disco \(Duet with SUNMI\)](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) | 3:44 | 2021-12-07 |  |
+| [When We Disco](https://open.spotify.com/track/7C7BgAc0fEcNzQZqTc6eQL) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/3cftLnzB9VeNPp5LRWqHNo) | 3:44 | 2023-03-27 |  |
+| [When We Disco \(Duet with SUNMI\)](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) | 3:44 | 2021-12-07 | 2023-06-06 |
 | [Winter Miracle](https://open.spotify.com/track/2amClfkPpXjR27Vh6X997V) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/34684YNjQKgceU3s6D9bx9) | 4:08 | 2021-12-07 | 2022-07-29 |
 | [Winter Miracle](https://open.spotify.com/track/4SbVbMBhKt24Dk4JaLBxqW) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/0bQv27YqKRxlJ9KURup5RV) | 4:08 | 2022-07-04 |  |
 | [Woman on the beach](https://open.spotify.com/track/0sRu4V0PPVrF3BNQFQ6E9E) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Jeon Woong](https://open.spotify.com/artist/4EJpg7YTNDRIfQpGBXYeym) | [Fever Music 2020 Cool Summer Project](https://open.spotify.com/album/5U0qZV4ms3hwfyac60f2br) | 3:32 | 2022-10-18 | 2022-11-13 |

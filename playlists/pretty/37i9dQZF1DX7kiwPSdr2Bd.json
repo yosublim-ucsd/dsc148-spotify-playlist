@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Sarah Beatriz",
-  "num_followers": 291631,
+  "num_followers": 291745,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2I5ZTRiMWIzYTU0MWRlZjY1Mjg3ZDk5NDFhNDc5MzkxOGExNTgy",
+  "snapshot_id": "MCxkMDViOWM0NzdmMzVlNzNhMjVjNDI5YTk5ZjBlNGFlZmFlMWUyNWIy",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Deus Faz Al\u00e9m (Ao Vivo)",
         "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 290080,
       "name": "Deus Faz Al\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Deus Est\u00e1 Fazendo",
-        "url": "https://open.spotify.com/album/2uKU4wUFcZKOW6LpNrQcBn"
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
       },
       "artists": [
         {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 266294,
-      "name": "Deus Est\u00e1 Fazendo",
-      "url": "https://open.spotify.com/track/2y9ZH3fIZoiH01RlhlmmCA"
+      "duration_ms": 366461,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+        "name": "Deus Est\u00e1 Fazendo",
+        "url": "https://open.spotify.com/album/2uKU4wUFcZKOW6LpNrQcBn"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
         }
       ],
-      "duration_ms": 366461,
-      "name": "Yeshua (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
+      "duration_ms": 266294,
+      "name": "Deus Est\u00e1 Fazendo",
+      "url": "https://open.spotify.com/track/2y9ZH3fIZoiH01RlhlmmCA"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -339,38 +339,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Deus dos Bastidores",
-        "url": "https://open.spotify.com/album/0E4HV1PsIP1fNFWhV8rbPW"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        }
-      ],
-      "duration_ms": 332325,
-      "name": "Deus dos Bastidores",
-      "url": "https://open.spotify.com/track/5QLGQkK2rfw68Bk0Q1siy9"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "\u00c9s o Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 403538,
-      "name": "\u00c9s o Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "N\u00f3s Te Adoramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
       },
@@ -383,6 +351,22 @@
       "duration_ms": 438080,
       "name": "N\u00f3s Te Adoramos - Ao Vivo",
       "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+        "url": "https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+      "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -423,38 +407,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
-        "url": "https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
-      "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "A Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 621079,
-      "name": "Uma Hora \u00e9 Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Romanos 8:26 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
       },
@@ -467,6 +419,38 @@
       "duration_ms": 269739,
       "name": "Romanos 8:26 (Ao Vivo)",
       "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Deus dos Bastidores",
+        "url": "https://open.spotify.com/album/0E4HV1PsIP1fNFWhV8rbPW"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        }
+      ],
+      "duration_ms": 332325,
+      "name": "Deus dos Bastidores",
+      "url": "https://open.spotify.com/track/5QLGQkK2rfw68Bk0Q1siy9"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -579,6 +563,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Dependente",
+        "url": "https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI"
+      },
+      "artists": [
+        {
+          "name": "Amanda Wanessa",
+          "url": "https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm"
+        }
+      ],
+      "duration_ms": 301395,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Voc\u00ea N\u00e3o Vai Parar",
         "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Dependente",
-        "url": "https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI"
+        "name": "A Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
       },
       "artists": [
         {
-          "name": "Amanda Wanessa",
-          "url": "https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 301395,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax"
+      "duration_ms": 621079,
+      "name": "Uma Hora \u00e9 Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -723,6 +723,38 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "A Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04dC8dz9ef7jGDCmo9pLby"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 449646,
+      "name": "A Honra - Ao Vivo",
+      "url": "https://open.spotify.com/track/1enGreYd6GsdExr1srM2Yw"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Quero Aprender a Orar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc"
       },
@@ -739,22 +771,6 @@
       "duration_ms": 296168,
       "name": "Quero Aprender a Orar - Ao Vivo",
       "url": "https://open.spotify.com/track/1EliOzpWYjkmtBzC383hoF"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -811,22 +827,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "A Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/04dC8dz9ef7jGDCmo9pLby"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 449646,
-      "name": "A Honra - Ao Vivo",
-      "url": "https://open.spotify.com/track/1enGreYd6GsdExr1srM2Yw"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Ora Um Pouco Mais",
         "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
       },
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Gratid\u00e3o - Parte 2",
-        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
       "artists": [
         {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 239156,
-      "name": "Fiel A Mim",
-      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
+      "duration_ms": 307803,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+        "name": "Gratid\u00e3o - Parte 2",
+        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
       },
       "artists": [
         {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 307803,
-      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
+      "duration_ms": 239156,
+      "name": "Fiel A Mim",
+      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 459662,
-      "name": "Nunca Pare De Lutar",
-      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
         "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
       },
@@ -1067,22 +1047,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ"
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 383968,
-      "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ"
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1159,6 +1139,26 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 383968,
+      "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Grande \u00e9 o Nosso Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/2d0vpD8e9BH5cSCRLHriUH"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Drive In (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 298388,
-      "name": "Deus da Gra\u00e7a (Ao Vivo)",
-      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/1W4djOiYB5FHEjyngDxIRJ"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 299560,
       "name": "Deus Faz - Ao Vivo",
       "url": "https://open.spotify.com/track/0xSWHqgzWf2bTDE4wVlKqa"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Drive In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 298388,
+      "name": "Deus da Gra\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
     },
     {
       "added_at": "2023-06-02 03:00:00",

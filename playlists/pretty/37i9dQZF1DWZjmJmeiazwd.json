@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you game.",
-  "num_followers": 497398,
+  "num_followers": 497776,
   "original_name": "Ultimate Rock Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGMwOTMwMzAzM2E3ODQ4OTY4ZWY1YmY1OTdkZTgxZDA0ZmRiZTI4",
+  "snapshot_id": "MCxlODk0ODdjNmE0OWNjYzQ3NTQ2NzFlMTQ4MmQ4OTUxNzljM2VhZGVj",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -273,22 +273,6 @@
       "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Meteora 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 201428,
-      "name": "Fighting Myself",
-      "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
-    },
-    {
       "added_at": "2023-02-09 19:51:15",
       "album": {
         "name": "mainstream sellout",
@@ -307,6 +291,22 @@
       "duration_ms": 170133,
       "name": "maybe (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Mister Asylum",
-        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Lydia",
-      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 234240,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Mister Asylum",
+        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Lydia",
+      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Machines",
-        "url": "https://open.spotify.com/album/7DqkWmFsqgZWzEvPyRsLEh"
-      },
-      "artists": [
-        {
-          "name": "All Good Things",
-          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
-        }
-      ],
-      "duration_ms": 279308,
-      "name": "For the Glory",
-      "url": "https://open.spotify.com/track/1kd5qplldnxu16qcZXS3Yk"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Separate Ways (Worlds Apart) [Bryce Miller/Alloy Tracks Remix]",
         "url": "https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K"
       },
@@ -759,6 +743,38 @@
       "duration_ms": 165074,
       "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
       "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Machines",
+        "url": "https://open.spotify.com/album/7DqkWmFsqgZWzEvPyRsLEh"
+      },
+      "artists": [
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        }
+      ],
+      "duration_ms": 279308,
+      "name": "For the Glory",
+      "url": "https://open.spotify.com/track/1kd5qplldnxu16qcZXS3Yk"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -799,22 +815,6 @@
       "duration_ms": 191124,
       "name": "Story Of My Life (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Parasite Eve",
-        "url": "https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 291812,
-      "name": "Parasite Eve",
-      "url": "https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 244538,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Parasite Eve",
+        "url": "https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 291812,
+      "name": "Parasite Eve",
+      "url": "https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Threat to Survival",
         "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
@@ -1027,6 +1011,38 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
+        "name": "Going To Hell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
         "name": "N.A.T.I.O.N.",
         "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Going To Hell (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4"
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL"
+      "duration_ms": 228372,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "HEAVY META",
         "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 195390,
-      "name": "They Don't Want What We Want (And They Don't Care)",
-      "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "DIVISIONS",
         "url": "https://open.spotify.com/album/3mptvwc49sVgmxP5xIv7UN"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 258506,
       "name": "TRIALS",
       "url": "https://open.spotify.com/track/23wrmyJ1S2sjeh2dFN5P9k"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 195390,
+      "name": "They Don't Want What We Want (And They Don't Care)",
+      "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "YUNGBLUD",
-        "url": "https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 215163,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/5J1zn7OE12a0gFnjJc0Um6"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "To Better Days",
         "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 211235,
       "name": "Talk to a Friend",
       "url": "https://open.spotify.com/track/6nqCVzh5uUc85E0Kctky9r"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "YUNGBLUD",
+        "url": "https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/5J1zn7OE12a0gFnjJc0Um6"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Why Do I Hear Breathing?",
-        "url": "https://open.spotify.com/album/5Rld3VgahTXdhsOQk1oRnt"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 119142,
-      "name": "Why Do I Hear Breathing?",
-      "url": "https://open.spotify.com/track/34AV8kRHUmM06sdnmDrPRe"
-    },
-    {
       "added_at": "2023-02-09 19:51:15",
       "album": {
         "name": "Below",
@@ -1263,6 +1247,22 @@
       "duration_ms": 198927,
       "name": "Skin",
       "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Why Do I Hear Breathing?",
+        "url": "https://open.spotify.com/album/5Rld3VgahTXdhsOQk1oRnt"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 119142,
+      "name": "Why Do I Hear Breathing?",
+      "url": "https://open.spotify.com/track/34AV8kRHUmM06sdnmDrPRe"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Young Beauties and Fools",
-        "url": "https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "S.O.S. (Sawed Off Shotgun)",
-      "url": "https://open.spotify.com/track/3NyovXfcpc8PDWWKH7xEDs"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Saint Cecilia EP",
         "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "...If You Don\u2019t Save Yourself",
-        "url": "https://open.spotify.com/album/3k7YVehp4DBwLxQlRAQOAL"
+        "name": "Young Beauties and Fools",
+        "url": "https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE"
       },
       "artists": [
         {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
         }
       ],
-      "duration_ms": 204359,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/5iaTwwgtEyJ7cy6lLTlGBb"
+      "duration_ms": 195173,
+      "name": "S.O.S. (Sawed Off Shotgun)",
+      "url": "https://open.spotify.com/track/3NyovXfcpc8PDWWKH7xEDs"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1427,6 +1411,22 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "...If You Don\u2019t Save Yourself",
+        "url": "https://open.spotify.com/album/3k7YVehp4DBwLxQlRAQOAL"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 204359,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/5iaTwwgtEyJ7cy6lLTlGBb"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Atlas Falls",
-        "url": "https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 192370,
-      "name": "Atlas Falls",
-      "url": "https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "One Hell of a Team (Inspired by \"Hazbin Hotel\")",
         "url": "https://open.spotify.com/album/4CFzl6z4I2HfIH1gPow3bw"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 230636,
       "name": "One Hell of a Team (Inspired by \"Hazbin Hotel\")",
       "url": "https://open.spotify.com/track/0cRGA4WwyzoOdnOcui7d1e"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Atlas Falls",
+        "url": "https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 192370,
+      "name": "Atlas Falls",
+      "url": "https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l"
     },
     {
       "added_at": "2023-02-09 19:51:15",

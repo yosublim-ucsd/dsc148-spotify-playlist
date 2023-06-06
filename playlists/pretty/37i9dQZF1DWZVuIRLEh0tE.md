@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Dilon Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,589 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,735 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 68 | [Y Eso?](https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Y Eso?](https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N) | 2:44 |
 | 69 | [Mira el 30](https://open.spotify.com/track/0jMDFipJeGgbXP36vh4l08) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Mira el 30](https://open.spotify.com/album/6JvPGRhspJ4MqBXBIIEE6D) | 2:09 |
 | 70 | [Empatilla](https://open.spotify.com/track/0uLzYKUTtcWIXJEJmq2Zjy) | [Olle Jey](https://open.spotify.com/artist/3cTW4GbKjWqX3Sj4uZEpeH), [Young Gatillo](https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Empatilla](https://open.spotify.com/album/4ZkaaqThbhFhUYXht0D35D) | 2:29 |
-| 71 | [Mueve Eso](https://open.spotify.com/track/05I7jRJLZWfHgnuv2w7f75) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Luigui Bleand](https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq) | [Mueve Eso](https://open.spotify.com/album/137Kiv3H9ygMvm5fGy8BcR) | 2:22 |
+| 71 | [Mueve Eso](https://open.spotify.com/track/0FU75UF6naf5DXP6V5aitJ) | [Luigui Bleand](https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Mueve Eso](https://open.spotify.com/album/5lP7PsAenFS5CdJ6zVxSef) | 2:22 |
 | 72 | [El Anillo el Reloj](https://open.spotify.com/track/5Nj2GgTU78oXnqoZXQooDw) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/4oQk366EGQWn2nmkBrFt8X) | 2:52 |
 | 73 | [Un Poco De Amor](https://open.spotify.com/track/1JiiG7NrwtVLzdSKqGC9fb) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Un Poco De Amor](https://open.spotify.com/album/6awvZolH9XPQ67f8UgAzik) | 3:00 |
 | 74 | [To Frio](https://open.spotify.com/track/7Mf27anHXELVg2tve4IWEQ) | [El Shick](https://open.spotify.com/artist/2H2Xg5FjQEIeEEPh8lDRae) | [To Frio](https://open.spotify.com/album/0Z2eoDZTdBH3Ei9PYfU2Ho) | 2:47 |
 | 75 | [Location](https://open.spotify.com/track/7jD95NsllJj3qwyVfb58GV) | [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Uno x Ellas](https://open.spotify.com/album/0YtX3JIpS3TEu03xO8tix1) | 3:24 |
 
-Snapshot ID: `MCwzYzNjZjRiNGY3NDI3YzIwMDA3M2UxMDNiYzA1M2M3ZjIxYTdkZTRk`
+Snapshot ID: `MCxiMjgxMzY3NzlhYjc4YzYxNmQ1OGJmNTUwMDI5Y2U0YTMzNWZhNGZi`

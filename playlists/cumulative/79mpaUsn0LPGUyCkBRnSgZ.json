@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Disco Volante",
+        "url": "https://open.spotify.com/album/0DK10k39r9LAZ7HgP1EPuB"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bungle",
+          "url": "https://open.spotify.com/artist/2zq0uqN9Wq12tqrQQt1ozw"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Everyone I Went to High School with Is Dead",
+      "url": "https://open.spotify.com/track/2apsFfsxR5nkYkHaDMOs74"
+    },
+    {
+      "album": {
         "name": "Pilot Talk: Trilogy",
         "url": "https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V"
       },

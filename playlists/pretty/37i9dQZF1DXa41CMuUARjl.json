@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from K\u00f6lsch and Kevin De Vries.",
-  "num_followers": 438509,
+  "num_followers": 438605,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjBhMGM5YWQyZjA0MTk5MzA1MWVjY2M4YmU0ZWI2YzM0NTM2ZTlm",
+  "snapshot_id": "MCwxNjI1ZDNhNmYzOGJlNmJhNjA1M2FhMGNlMTkxM2FmMjg0YjY0MGFj",
   "tracks": [
     {
       "added_at": "2023-06-02 18:24:30",
@@ -471,18 +471,22 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "Rave",
-        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
+        "name": "Queen of Kings (Gabry Ponte Remix)",
+        "url": "https://open.spotify.com/album/2N42REw8waw1JxcwyxO5ac"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 288387,
-      "name": "Rave",
-      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
+      "duration_ms": 180640,
+      "name": "Queen of Kings - Gabry Ponte Remix",
+      "url": "https://open.spotify.com/track/6I0t9btY1MH0tdSj2qdTr3"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -503,22 +507,18 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "Queen of Kings (Gabry Ponte Remix)",
-        "url": "https://open.spotify.com/album/2N42REw8waw1JxcwyxO5ac"
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
       },
       "artists": [
         {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 180640,
-      "name": "Queen of Kings - Gabry Ponte Remix",
-      "url": "https://open.spotify.com/track/6I0t9btY1MH0tdSj2qdTr3"
+      "duration_ms": 288387,
+      "name": "Rave",
+      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -563,22 +563,18 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "Call on Me (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/5UcycCohwTlDPdqNu0jJW7"
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/4mjxQ3PgmKmo1lf2s1OYx7"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
         }
       ],
-      "duration_ms": 175238,
-      "name": "Call on Me - David Guetta Remix",
-      "url": "https://open.spotify.com/track/271KNPrEo7heAZzXrPHOmE"
+      "duration_ms": 151313,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/4VFIV0jzWK2zB7AdNUR32n"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -623,18 +619,22 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/4mjxQ3PgmKmo1lf2s1OYx7"
+        "name": "Call on Me (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/5UcycCohwTlDPdqNu0jJW7"
       },
       "artists": [
         {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 151313,
-      "name": "Feel Again",
-      "url": "https://open.spotify.com/track/4VFIV0jzWK2zB7AdNUR32n"
+      "duration_ms": 175238,
+      "name": "Call on Me - David Guetta Remix",
+      "url": "https://open.spotify.com/track/271KNPrEo7heAZzXrPHOmE"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -751,6 +751,42 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
+        "name": "Big Boom",
+        "url": "https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz"
+      },
+      "artists": [
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "duration_ms": 134561,
+      "name": "Big Boom",
+      "url": "https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1PpVHHdTAnWPTWg2v6ERZH"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "James Gillespie",
+          "url": "https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8"
+        }
+      ],
+      "duration_ms": 202788,
+      "name": "Art Of Letting Go (feat. James Gillespie)",
+      "url": "https://open.spotify.com/track/4dt4MyGRdBmpAukq0r5GuX"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR"
       },
@@ -799,26 +835,6 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1PpVHHdTAnWPTWg2v6ERZH"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "James Gillespie",
-          "url": "https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8"
-        }
-      ],
-      "duration_ms": 202788,
-      "name": "Art Of Letting Go (feat. James Gillespie)",
-      "url": "https://open.spotify.com/track/4dt4MyGRdBmpAukq0r5GuX"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
         "name": "Follow The Dark - Part II",
         "url": "https://open.spotify.com/album/3hcZSH0Xe8I9mbje702AOR"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 272589,
       "name": "Last Train",
       "url": "https://open.spotify.com/track/1HVAVHLQqIuDLDun48Zegt"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Big Boom",
-        "url": "https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 134561,
-      "name": "Big Boom",
-      "url": "https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/2a0K1R2ZXXIUD1AQBDVCdo"
       },
@@ -899,6 +883,42 @@
       "duration_ms": 178064,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/77YkavTzHlKyJ71au9cQa4"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/042dgI8wqRLRoXSwM8oBcU"
+      },
+      "artists": [
+        {
+          "name": "Andrew Meller",
+          "url": "https://open.spotify.com/artist/0kDJVZD3Kwg7YbFXqDI1Gm"
+        },
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 140390,
+      "name": "Insomnia - Matt Sassari Remix",
+      "url": "https://open.spotify.com/track/2vG4vPqF8gHtGSjoE0YckH"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -923,26 +943,6 @@
       "duration_ms": 285853,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/4F37VC3DflPXQcwbrnoi0Y"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/042dgI8wqRLRoXSwM8oBcU"
-      },
-      "artists": [
-        {
-          "name": "Andrew Meller",
-          "url": "https://open.spotify.com/artist/0kDJVZD3Kwg7YbFXqDI1Gm"
-        },
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 140390,
-      "name": "Insomnia - Matt Sassari Remix",
-      "url": "https://open.spotify.com/track/2vG4vPqF8gHtGSjoE0YckH"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -983,66 +983,22 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "Feeling Emotions",
-        "url": "https://open.spotify.com/album/47pj3UAtBAdc9PCWC96Y2w"
+        "name": "No Superstar",
+        "url": "https://open.spotify.com/album/3YUb3ygIZNpKOtFKBzJ1w8"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Feeling Emotions",
-      "url": "https://open.spotify.com/track/0RoFlVONQuvHyNuzjgSlP5"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Stack",
-        "url": "https://open.spotify.com/album/26QimsgTITriH6TD286J4d"
-      },
-      "artists": [
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        },
         {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+          "name": "Boxter",
+          "url": "https://open.spotify.com/artist/65sT6Xz3nzLp3FXLjlLMoW"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Stack",
-      "url": "https://open.spotify.com/track/5jduNsy3jdsT4UwwVTUKai"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Night Rides",
-        "url": "https://open.spotify.com/album/4PV68EsAFU8IzM2KIOAcNG"
-      },
-      "artists": [
-        {
-          "name": "Elipsa",
-          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
-        }
-      ],
-      "duration_ms": 227441,
-      "name": "Night Rides",
-      "url": "https://open.spotify.com/track/3tN8LD5PN1i2Ql5Tmb5ZFO"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Double Tap",
-        "url": "https://open.spotify.com/album/31cA2G8w5XuCbSLU8ccPiu"
-      },
-      "artists": [
-        {
-          "name": "LSDXOXO",
-          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
-        }
-      ],
-      "duration_ms": 190005,
-      "name": "Double Tap",
-      "url": "https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7"
+      "duration_ms": 161153,
+      "name": "No Superstar",
+      "url": "https://open.spotify.com/track/0wnMqxdG3qdOmmgLwTgFdC"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -1067,6 +1023,54 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
+        "name": "Feeling Emotions",
+        "url": "https://open.spotify.com/album/47pj3UAtBAdc9PCWC96Y2w"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Feeling Emotions",
+      "url": "https://open.spotify.com/track/0RoFlVONQuvHyNuzjgSlP5"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
+        "name": "Night Rides",
+        "url": "https://open.spotify.com/album/4PV68EsAFU8IzM2KIOAcNG"
+      },
+      "artists": [
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "duration_ms": 227441,
+      "name": "Night Rides",
+      "url": "https://open.spotify.com/track/3tN8LD5PN1i2Ql5Tmb5ZFO"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
+        "name": "Stack",
+        "url": "https://open.spotify.com/album/26QimsgTITriH6TD286J4d"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/5jduNsy3jdsT4UwwVTUKai"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
         "name": "Looking Down From Space",
         "url": "https://open.spotify.com/album/5qCrgDQMeXAQyw7eFHsGMI"
       },
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "No Superstar",
-        "url": "https://open.spotify.com/album/3YUb3ygIZNpKOtFKBzJ1w8"
+        "name": "Double Tap",
+        "url": "https://open.spotify.com/album/31cA2G8w5XuCbSLU8ccPiu"
       },
       "artists": [
         {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
-        },
-        {
-          "name": "Boxter",
-          "url": "https://open.spotify.com/artist/65sT6Xz3nzLp3FXLjlLMoW"
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
         }
       ],
-      "duration_ms": 161153,
-      "name": "No Superstar",
-      "url": "https://open.spotify.com/track/0wnMqxdG3qdOmmgLwTgFdC"
+      "duration_ms": 190005,
+      "name": "Double Tap",
+      "url": "https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "SIDE2SIDE",
-        "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "TRXGGX",
-          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "SIDE2SIDE",
-      "url": "https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
         "name": "Drink In Paris",
         "url": "https://open.spotify.com/album/45RDImJpcXkyH6SU8Hhfed"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 222926,
       "name": "Drink In Paris",
       "url": "https://open.spotify.com/track/18CpVX2rKdyGGZYtQmLKTh"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
+        "name": "SIDE2SIDE",
+        "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "SIDE2SIDE",
+      "url": "https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "duration_ms": 338139,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
         "name": "La Playa",
         "url": "https://open.spotify.com/album/1EZogjxmesbePlL8Ap6Rjc"
       },
@@ -1291,6 +1307,22 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/43Z5FcXzLMllCwiFDv6bdC"
+      },
+      "artists": [
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        }
+      ],
+      "duration_ms": 144137,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/1icGmUg7WzWAuIhchk9Jjp"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
         "name": "Gibberish",
         "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
       },
@@ -1303,6 +1335,22 @@
       "duration_ms": 153321,
       "name": "Gibberish",
       "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
+        "name": "Amok",
+        "url": "https://open.spotify.com/album/7mUh92qMoAmLccin67zYtr"
+      },
+      "artists": [
+        {
+          "name": "Amber Broos",
+          "url": "https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz"
+        }
+      ],
+      "duration_ms": 282272,
+      "name": "Amok",
+      "url": "https://open.spotify.com/track/41fl1aHm371uXzcWVQEBJr"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -1327,70 +1375,6 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "Amok",
-        "url": "https://open.spotify.com/album/7mUh92qMoAmLccin67zYtr"
-      },
-      "artists": [
-        {
-          "name": "Amber Broos",
-          "url": "https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz"
-        }
-      ],
-      "duration_ms": 282272,
-      "name": "Amok",
-      "url": "https://open.spotify.com/track/41fl1aHm371uXzcWVQEBJr"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r"
-      },
-      "artists": [
-        {
-          "name": "Jil Tanner",
-          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
-        }
-      ],
-      "duration_ms": 338139,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/43Z5FcXzLMllCwiFDv6bdC"
-      },
-      "artists": [
-        {
-          "name": "Quarterhead",
-          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
-        }
-      ],
-      "duration_ms": 144137,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/1icGmUg7WzWAuIhchk9Jjp"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Move Your Hips",
-        "url": "https://open.spotify.com/album/1ZYdtwNGraZxZx79Z69uTV"
-      },
-      "artists": [
-        {
-          "name": "Tal Fussman",
-          "url": "https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb"
-        }
-      ],
-      "duration_ms": 338255,
-      "name": "Move Your Hips",
-      "url": "https://open.spotify.com/track/1XpYHVVnuwdFNr8tWftifm"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
         "name": "Caf\u00e9 Del Mar",
         "url": "https://open.spotify.com/album/4lwXF6u716TTBpWWN8uzut"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 158222,
       "name": "Caf\u00e9 Del Mar",
       "url": "https://open.spotify.com/track/4QhrNJ1nmVUaQhINsAiFOX"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
+        "name": "notss",
+        "url": "https://open.spotify.com/album/0bDtGytEl8vZXpoeA2bUUd"
+      },
+      "artists": [
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        }
+      ],
+      "duration_ms": 162909,
+      "name": "notss",
+      "url": "https://open.spotify.com/track/3rd0fsUY1CXj3rkiaPygAu"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "notss",
-        "url": "https://open.spotify.com/album/0bDtGytEl8vZXpoeA2bUUd"
+        "name": "Move Your Hips",
+        "url": "https://open.spotify.com/album/1ZYdtwNGraZxZx79Z69uTV"
       },
       "artists": [
         {
-          "name": "Madge",
-          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+          "name": "Tal Fussman",
+          "url": "https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb"
         }
       ],
-      "duration_ms": 162909,
-      "name": "notss",
-      "url": "https://open.spotify.com/track/3rd0fsUY1CXj3rkiaPygAu"
+      "duration_ms": 338255,
+      "name": "Move Your Hips",
+      "url": "https://open.spotify.com/track/1XpYHVVnuwdFNr8tWftifm"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -1471,18 +1471,22 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "All Like That",
-        "url": "https://open.spotify.com/album/1fXSFy2tIIBxZfahOIWXWt"
+        "name": "The Dark, The Light",
+        "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
       },
       "artists": [
         {
-          "name": "moktar",
-          "url": "https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa"
+          "name": "Bozart",
+          "url": "https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI"
+        },
+        {
+          "name": "Jennifer Cardini",
+          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
         }
       ],
-      "duration_ms": 307117,
-      "name": "All Like That",
-      "url": "https://open.spotify.com/track/5TU66tcM0upCqT3CD69kcg"
+      "duration_ms": 234480,
+      "name": "The Dark, The Light (Edit)",
+      "url": "https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -1507,6 +1511,38 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
+        "name": "Remember My Name",
+        "url": "https://open.spotify.com/album/1veDz1zZmhzT0xQmkgWlmm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ennis",
+          "url": "https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Remember My Name",
+      "url": "https://open.spotify.com/track/7bFWxg1S2OSPzh2sd9hIJr"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
+        "name": "All Like That",
+        "url": "https://open.spotify.com/album/1fXSFy2tIIBxZfahOIWXWt"
+      },
+      "artists": [
+        {
+          "name": "moktar",
+          "url": "https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa"
+        }
+      ],
+      "duration_ms": 307117,
+      "name": "All Like That",
+      "url": "https://open.spotify.com/track/5TU66tcM0upCqT3CD69kcg"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
         "name": "Ledge",
         "url": "https://open.spotify.com/album/6wC9yIpTGCEjm9Ps16GIbL"
       },
@@ -1527,22 +1563,38 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "The Dark, The Light",
-        "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
+        "name": "Ultra Ray",
+        "url": "https://open.spotify.com/album/6zCI5ymc5IlN6IkxtrsQzx"
       },
       "artists": [
         {
-          "name": "Bozart",
-          "url": "https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI"
+          "name": "Panteros666",
+          "url": "https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt"
         },
         {
-          "name": "Jennifer Cardini",
-          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
+          "name": "Zorza",
+          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
         }
       ],
-      "duration_ms": 234480,
-      "name": "The Dark, The Light (Edit)",
-      "url": "https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR"
+      "duration_ms": 291416,
+      "name": "Ultra Ray",
+      "url": "https://open.spotify.com/track/3Txv04F3jEYlXBu7wBJhxY"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
+        "name": "Don't Know",
+        "url": "https://open.spotify.com/album/7hDMfROLAz0UktmjrjnnV6"
+      },
+      "artists": [
+        {
+          "name": "Constantin",
+          "url": "https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Don't Know",
+      "url": "https://open.spotify.com/track/4XW0qONyrtdITlrJBDCw2V"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -1583,42 +1635,6 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "Ultra Ray",
-        "url": "https://open.spotify.com/album/6zCI5ymc5IlN6IkxtrsQzx"
-      },
-      "artists": [
-        {
-          "name": "Panteros666",
-          "url": "https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt"
-        },
-        {
-          "name": "Zorza",
-          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
-        }
-      ],
-      "duration_ms": 291416,
-      "name": "Ultra Ray",
-      "url": "https://open.spotify.com/track/3Txv04F3jEYlXBu7wBJhxY"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Remember My Name",
-        "url": "https://open.spotify.com/album/1veDz1zZmhzT0xQmkgWlmm"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ennis",
-          "url": "https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Remember My Name",
-      "url": "https://open.spotify.com/track/7bFWxg1S2OSPzh2sd9hIJr"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
         "name": "Don't You Want Me",
         "url": "https://open.spotify.com/album/38IfjDCL1nTvSDUwu1j5tn"
       },
@@ -1635,18 +1651,34 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
-        "name": "Don't Know",
-        "url": "https://open.spotify.com/album/7hDMfROLAz0UktmjrjnnV6"
+        "name": "Orbs",
+        "url": "https://open.spotify.com/album/2diDpno1K39g7HtGkPWiTe"
       },
       "artists": [
         {
-          "name": "Constantin",
-          "url": "https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg"
+          "name": "Anthony Naples",
+          "url": "https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd"
         }
       ],
-      "duration_ms": 178560,
-      "name": "Don't Know",
-      "url": "https://open.spotify.com/track/4XW0qONyrtdITlrJBDCw2V"
+      "duration_ms": 249953,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/7jPYJuEboE1m568wOp5CTI"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
+        "name": "Endless Euphoria",
+        "url": "https://open.spotify.com/album/5J2dfgF23SROU9dC32ewjz"
+      },
+      "artists": [
+        {
+          "name": "UDM",
+          "url": "https://open.spotify.com/artist/3U6JSfkIevHN1HIx03CjVd"
+        }
+      ],
+      "duration_ms": 204347,
+      "name": "Endless Euphoria",
+      "url": "https://open.spotify.com/track/7dlxSY7v6Ol0jEhS9qTFMh"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -1663,22 +1695,6 @@
       "duration_ms": 262537,
       "name": "The Zone",
       "url": "https://open.spotify.com/track/4JlYh4UmCgOZOdZLx5jnWX"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Orbs",
-        "url": "https://open.spotify.com/album/2diDpno1K39g7HtGkPWiTe"
-      },
-      "artists": [
-        {
-          "name": "Anthony Naples",
-          "url": "https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd"
-        }
-      ],
-      "duration_ms": 249953,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/7jPYJuEboE1m568wOp5CTI"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -1715,22 +1731,6 @@
       "duration_ms": 213046,
       "name": "Survivors",
       "url": "https://open.spotify.com/track/1Ooi1dUoSxJyXZ2v1a3cjj"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Endless Euphoria",
-        "url": "https://open.spotify.com/album/5J2dfgF23SROU9dC32ewjz"
-      },
-      "artists": [
-        {
-          "name": "UDM",
-          "url": "https://open.spotify.com/artist/3U6JSfkIevHN1HIx03CjVd"
-        }
-      ],
-      "duration_ms": 204347,
-      "name": "Endless Euphoria",
-      "url": "https://open.spotify.com/track/7dlxSY7v6Ol0jEhS9qTFMh"
     },
     {
       "added_at": "2023-06-02 18:24:30",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2023-06-02 18:24:30",
       "album": {
+        "name": "Selected JN23",
+        "url": "https://open.spotify.com/album/3iMySDIFZpJuaK31SssMC2"
+      },
+      "artists": [
+        {
+          "name": "Glowal",
+          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+        }
+      ],
+      "duration_ms": 352258,
+      "name": "Heal Your Scars",
+      "url": "https://open.spotify.com/track/3YDZRgVsgRYs7rGsf0wsRH"
+    },
+    {
+      "added_at": "2023-06-02 18:24:30",
+      "album": {
         "name": "LOVESICK",
         "url": "https://open.spotify.com/album/4ppUKImUbHNKuRx3O8FZNo"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 191372,
       "name": "LOVESICK",
       "url": "https://open.spotify.com/track/3S8TE5KRu1eKVtgb4SCCC5"
-    },
-    {
-      "added_at": "2023-06-02 18:24:30",
-      "album": {
-        "name": "Selected JN23",
-        "url": "https://open.spotify.com/album/3iMySDIFZpJuaK31SssMC2"
-      },
-      "artists": [
-        {
-          "name": "Glowal",
-          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
-        }
-      ],
-      "duration_ms": 352258,
-      "name": "Heal Your Scars",
-      "url": "https://open.spotify.com/track/3YDZRgVsgRYs7rGsf0wsRH"
     },
     {
       "added_at": "2023-06-02 18:24:30",

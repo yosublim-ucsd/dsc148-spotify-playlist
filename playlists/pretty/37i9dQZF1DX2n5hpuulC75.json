@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 253218,
+  "num_followers": 253269,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDQ4MjQ3MGUzNTcxNGRjNTdlMmNmYTc3M2NjZGJlNDI3NWYwYzAz",
+  "snapshot_id": "MCxjYTBlZGVmZDMxYzFmZGNlOWZkOGFiZTFhOGFiYmYyYjQ4MmJiZDQx",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -199,6 +199,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
+      },
+      "artists": [
+        {
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        }
+      ],
+      "duration_ms": 199603,
+      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
+      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "What You Want",
         "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
-      },
-      "artists": [
-        {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
-        }
-      ],
-      "duration_ms": 199603,
-      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
-      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -383,22 +383,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Bet She Looks Like You",
-      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Ayahuasca",
         "url": "https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 200504,
       "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
       "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Bet She Looks Like You",
+      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -599,6 +599,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Naps",
+        "url": "https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl"
+      },
+      "artists": [
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "duration_ms": 238148,
+      "name": "Naps",
+      "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "VIII",
         "url": "https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 130271,
       "name": "(Interlude)",
       "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Naps",
-        "url": "https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl"
-      },
-      "artists": [
-        {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
-        }
-      ],
-      "duration_ms": 238148,
-      "name": "Naps",
-      "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Small Clan",
         "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -931,22 +931,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Infinite Games",
-        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
-      },
-      "artists": [
-        {
-          "name": "Zola Blood",
-          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Get Light",
-      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Self Edit",
         "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 236842,
       "name": "Zender",
       "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Infinite Games",
+        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
+      },
+      "artists": [
+        {
+          "name": "Zola Blood",
+          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Get Light",
+      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
     },
     {
       "added_at": "2018-12-11 21:12:31",

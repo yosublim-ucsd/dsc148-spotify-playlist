@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 217840,
       "name": "Boris",
       "url": "https://open.spotify.com/track/1rfSdNJodNnBxLlPok0YFB"
@@ -3064,6 +3064,24 @@
       "duration_ms": 201940,
       "name": "Strange Times, Dark Days",
       "url": "https://open.spotify.com/track/7Dy7ikvNNfEZZnKwUGpcKJ"
+    },
+    {
+      "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/1XbUCqvbc6RVvnk8as2U6H"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238146,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/4qFh1e9S1WjklXE1TKAPU7"
     },
     {
       "album": {

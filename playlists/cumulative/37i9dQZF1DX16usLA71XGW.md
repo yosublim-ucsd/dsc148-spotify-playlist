@@ -2,7 +2,7 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> 
+> East Africa queens in their music bag
 
 91 songs - 4 hr 46 min
 

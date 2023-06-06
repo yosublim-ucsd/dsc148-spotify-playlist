@@ -2,9 +2,9 @@
 
 ### [mint Latin](https://open.spotify.com/playlist/37i9dQZF1DX07RJCJCOYpi)
 
-> The wave of Latin Electronic music\. Cover: Marshmello & Farruko
+> The wave of Latin Electronic music\. Cover: MJ Nebreda
 
-215 songs - 11 hr 15 min
+217 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 | 2022-03-22 | 2023-01-28 |
 | [Perdón](https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [Perdón](https://open.spotify.com/album/2jlVRYddldWw0PvazEfALS) | 2:35 | 2022-12-02 | 2023-05-27 |
 | [Pierdete](https://open.spotify.com/track/2KqYLGLtzbyjR2MSRdxMT8) | [Paolo Pimp](https://open.spotify.com/artist/3C4u5zRlcRqpe26zQmQRku) | [Pimp](https://open.spotify.com/album/5D5bSrVZI1eP4awH3V9sHU) | 2:24 | 2022-12-30 | 2023-05-27 |
+| [POLIDRAMA](https://open.spotify.com/track/541cVQIUsnOYmOna54whVE) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ESFERA DE AMOR](https://open.spotify.com/album/2MxR4pWsCM8n0Bp8RhYcu9) | 2:31 | 2023-06-05 |  |
 | [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 | 2022-10-28 | 2023-05-27 |
 | [Provenza](https://open.spotify.com/track/4cgKV8PTmNHIillgrxI0J8) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Provenza](https://open.spotify.com/album/3KJslj1QLLn1VO6QZPcSie) | 3:52 | 2022-07-04 | 2023-05-27 |
 | [Purisima \- Marsal Ventura & Jbill Remix](https://open.spotify.com/track/2hz28SuI4hFvHQ5E6xSXTt) | [Victor Magan](https://open.spotify.com/artist/6alFyA4PruPsPkMVpXgKdO), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Jheyzell](https://open.spotify.com/artist/3AYrBKh3Dd2cY4bfSSJThC), [Marsal Ventura](https://open.spotify.com/artist/3uGPais7i1uwcaa9xOjPjF), [Jbill](https://open.spotify.com/artist/15uUKLG8HlKhdUEAsgdejF) | [Purisima \(Marsal Ventura & Jbill Remix\)](https://open.spotify.com/album/3ZmM3WywY1Sy77o7eXAEPn) | 2:30 | 2022-03-22 | 2022-04-29 |
@@ -216,6 +217,7 @@
 | [Vamos a Beber \- Sak Noel Remix](https://open.spotify.com/track/4JRLNNdcgxmZOS6gziBIew) | [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Vamos a Beber \(Sak Noel Remix\)](https://open.spotify.com/album/4SG62I5xwZTEqQUX6W5ONW) | 3:06 | 2023-01-13 | 2023-05-27 |
 | [Vazilando](https://open.spotify.com/track/17Ci0qxBOeEQMadwb9qYNt) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Vazilando](https://open.spotify.com/album/6PLvwPVlATZi6iP9qgFAWp) | 2:58 | 2022-06-06 | 2023-05-27 |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-28 | 2023-05-27 |
+| [VOLVERÁS](https://open.spotify.com/track/0GlBekgy9Z2YEKCHxj33T2) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:37 | 2023-06-05 |  |
 | [Vuela](https://open.spotify.com/track/6nJtkNn2xNPS7wnMqqxkUN) | [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60), [Dj Flechas](https://open.spotify.com/artist/5Fw4n5XRnte30eKCBAdwWH) | [Vuela](https://open.spotify.com/album/5uh94tIV50XBqUTR3trC2c) | 3:35 | 2022-03-22 | 2022-04-29 |
 | [Wanna Stop](https://open.spotify.com/track/1vj9zQwbID2XkPEsYOp59f) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Wanna Stop](https://open.spotify.com/album/3w65NF9vnUUXnphSZiof2L) | 2:33 | 2022-03-22 | 2022-05-14 |
 | [WAYO](https://open.spotify.com/track/5mZndhqE6tE6trjPjNFIk0) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [WAYO](https://open.spotify.com/album/4dFEytjjMaxCOUV7n4ndeD) | 3:57 | 2022-11-25 | 2023-05-27 |

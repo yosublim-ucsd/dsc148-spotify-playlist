@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/1VgWLZOiwFv7JxmDibrnug"
+      },
+      "artists": [
+        {
+          "name": "RoyalLive",
+          "url": "https://open.spotify.com/artist/3Uyp3iic3iV2zBsYzMquwx"
+        },
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161763,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/3oD9nLLXtfUm0ynRsjwC1E"
+    },
+    {
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
       },
@@ -3190,7 +3212,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 187197,
       "name": "Las Chicas Super Perreadoras",
       "url": "https://open.spotify.com/track/5TVqlN1aXHAckyO794xuSv"
@@ -4028,6 +4050,24 @@
       "duration_ms": 236215,
       "name": "NI BIEN NI MAL",
       "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
+    },
+    {
+      "album": {
+        "name": "Mi Error",
+        "url": "https://open.spotify.com/album/2kV3nA7gQ7zKgZ0IlrHrXj"
+      },
+      "artists": [
+        {
+          "name": "Betzabeth",
+          "url": "https://open.spotify.com/artist/0YjAHyNe7ooAMJTgA7oPgm"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "No Es Culpa M\u00eda",
+      "url": "https://open.spotify.com/track/45UIS3lqRdp5c03bkkw0Un"
     },
     {
       "album": {
@@ -6408,7 +6448,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 172245,
       "name": "Tremendo Mujer\u00f3n",
       "url": "https://open.spotify.com/track/25ZKFzKdib5i6dIaHvfjF8"

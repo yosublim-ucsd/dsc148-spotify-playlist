@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,674 likes - 114 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,708 likes - 114 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 113 | [Loser](https://open.spotify.com/track/1BUdgxjmGFXqnpkkQpjBhs) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [Loser](https://open.spotify.com/album/6ENf0Ou4XGLh1BQ9Wjug2A) | 2:52 |
 | 114 | [Hyper Hyper](https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Hyper Hyper](https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi) | 2:58 |
 
-Snapshot ID: `MCw3MTA1YzJlYWM4NDYxNTg1NDE3MTg3YjlmYTEzOGQ0NmU0ZTgyYzBi`
+Snapshot ID: `MCw4YjIyZTNjMjQ5NWE2MjMwYzA4MWQyNzMzNzZlMWU3ZjAxYWNjMmE1`

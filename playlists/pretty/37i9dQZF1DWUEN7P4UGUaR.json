@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 934,
+  "num_followers": 946,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2M5MmI2MmE2N2YxNmM3NjE0OWYzNDg1MDYzMDA3OGZiZThkYTY3",
+  "snapshot_id": "MCwwMzQzZGYxMWE4ZDNjZDFiY2YzYzg1MzBlYjlkODk3YTRiY2RjODAy",
   "tracks": [
     {
       "added_at": "2023-05-26 08:05:11",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "This Far by Grace",
-        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
       "artists": [
         {
-          "name": "Pastor Edwin Dadson",
-          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 293500,
-      "name": "This Far by Grace",
-      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
+      "duration_ms": 288990,
+      "name": "Turning Around(Live)",
+      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
     },
     {
       "added_at": "2023-06-01 20:37:56",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+        "name": "This Far by Grace",
+        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Pastor Edwin Dadson",
+          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
         }
       ],
-      "duration_ms": 288990,
-      "name": "Turning Around(Live)",
-      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
+      "duration_ms": 293500,
+      "name": "This Far by Grace",
+      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Hosanna (Live)",
-        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 344862,
-      "name": "Hossana (Live)",
-      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
         "name": "Adom Grace",
         "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 290527,
       "name": "Adom Grace",
       "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "Guide Me",
+        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 227258,
+      "name": "Guide Me",
+      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -259,22 +259,6 @@
       "duration_ms": 275551,
       "name": "Ote Me Mu",
       "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -307,6 +291,22 @@
       "duration_ms": 302000,
       "name": "Victory Chant",
       "url": "https://open.spotify.com/track/4ubQtD1YBCPCcM3swE129H"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Guide Me",
-        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
       },
       "artists": [
         {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 227258,
-      "name": "Guide Me",
-      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
+      "duration_ms": 264788,
+      "name": "Awurade Ye",
+      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -383,34 +383,18 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+        "name": "Hosanna (Live)",
+        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
         }
       ],
-      "duration_ms": 264788,
-      "name": "Awurade Ye",
-      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Fawohodie(Twi Medley)",
-        "url": "https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1"
-      },
-      "artists": [
-        {
-          "name": "Perez Musik",
-          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
-        }
-      ],
-      "duration_ms": 594921,
-      "name": "Fawohodie(Twi Medley)",
-      "url": "https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl"
+      "duration_ms": 344862,
+      "name": "Hossana (Live)",
+      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -427,6 +411,22 @@
       "duration_ms": 324440,
       "name": "W' asue Me",
       "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "Fawohodie(Twi Medley)",
+        "url": "https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1"
+      },
+      "artists": [
+        {
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+        }
+      ],
+      "duration_ms": 594921,
+      "name": "Fawohodie(Twi Medley)",
+      "url": "https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -599,6 +599,38 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
+        "name": "Efiri Nyame",
+        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Me Ko M'Anim",
+      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "Lord Have Your Way",
+        "url": "https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD"
+      },
+      "artists": [
+        {
+          "name": "Efe Grace Official",
+          "url": "https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS"
+        }
+      ],
+      "duration_ms": 368182,
+      "name": "Lord Have Your Way",
+      "url": "https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
         "name": "MOVE VOL 1",
         "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
       },
@@ -631,18 +663,18 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Efiri Nyame",
-        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
+        "name": "Style Bia Bi",
+        "url": "https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f"
       },
       "artists": [
         {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+          "name": "Great Ampong",
+          "url": "https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg"
         }
       ],
-      "duration_ms": 275706,
-      "name": "Me Ko M'Anim",
-      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
+      "duration_ms": 249704,
+      "name": "Style Bia Bi",
+      "url": "https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -659,38 +691,6 @@
       "duration_ms": 267424,
       "name": "Okasa",
       "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Lord Have Your Way",
-        "url": "https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD"
-      },
-      "artists": [
-        {
-          "name": "Efe Grace Official",
-          "url": "https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS"
-        }
-      ],
-      "duration_ms": 368182,
-      "name": "Lord Have Your Way",
-      "url": "https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Style Bia Bi",
-        "url": "https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f"
-      },
-      "artists": [
-        {
-          "name": "Great Ampong",
-          "url": "https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg"
-        }
-      ],
-      "duration_ms": 249704,
-      "name": "Style Bia Bi",
-      "url": "https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
+        "name": "Gyae Su",
+        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
+      },
+      "artists": [
+        {
+          "name": "Solomon King",
+          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
+        }
+      ],
+      "duration_ms": 258001,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
         "name": "Dear God",
         "url": "https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 428307,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Gyae Su",
-        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
-      },
-      "artists": [
-        {
-          "name": "Solomon King",
-          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
-        }
-      ],
-      "duration_ms": 258001,
-      "name": "Gyae Su",
-      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Final Say (Live)",
-        "url": "https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 408235,
-      "name": "Amenuveve (Grace) - Live",
-      "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 212323,
       "name": "A Letter to the Wise",
       "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "ONYE NWERE",
+        "url": "https://open.spotify.com/album/3oWcoM13WK313nUCGdNHnI"
+      },
+      "artists": [
+        {
+          "name": "GEMS",
+          "url": "https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "ONYE NWERE",
+      "url": "https://open.spotify.com/track/46FjDse0BOSh8BgO4IhIMl"
     }
   ],
   "unique_name": "Aseda",

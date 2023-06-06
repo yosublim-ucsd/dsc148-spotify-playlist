@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,115 songs - 2 day 10 hr 5 min
+1,116 songs - 2 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 | 2021-09-05 | 2021-09-10 |
 | [80s \(feat\. Sivas\)](https://open.spotify.com/track/19bPUStvf9ZJZXTctUbAnY) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [80s \(feat\. Sivas\)](https://open.spotify.com/album/2ktUgs67ixfn0J0dL88JWW) | 2:43 | 2022-09-24 | 2022-10-02 |
 | [9MM](https://open.spotify.com/track/73HMcBiaDNuEIzrFXX2qiQ) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Mastermind](https://open.spotify.com/artist/7cebmXLpLp4Rk2eFI00ppV) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:49 | 2021-09-25 | 2021-09-30 |
+| [A Beautiful Life \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/track/2e6JU6XBm7w0FnHyQqrqMs) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Life \(Music From The Netflix Film\)](https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C) | 3:38 | 2023-06-05 |  |
 | [A List \(Intro\)](https://open.spotify.com/track/38MRF4igGDBhv6CSZN1K50) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 2:48 | 2023-03-21 | 2023-03-23 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-22 |
 | [A Tale By Quincy](https://open.spotify.com/track/759ndr57jb0URg4j9YSWml) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-08 | 2022-01-10 |
@@ -203,7 +204,7 @@
 | [Danser Kun For Dig](https://open.spotify.com/track/2FsJvP6UAPk4Hz2WgHaT4A) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [Danser Kun For Dig](https://open.spotify.com/album/299ByLsreUOVfJJYUaivGD) | 2:28 | 2023-02-27 | 2023-03-02 |
 | [Danser Med Diablo](https://open.spotify.com/track/3Y7DrSY1cnn7AyTakPIzsW) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Danser Med Diablo](https://open.spotify.com/album/5X4FnXVZQ0JJjdCQU1s52Q) | 2:45 | 2021-08-22 | 2021-09-13 |
 | [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2022-08-19 |  |
-| [Dansktop](https://open.spotify.com/track/2rIZdL5X9vCyMp5z0bNNGC) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 4:02 | 2023-05-13 |  |
+| [Dansktop](https://open.spotify.com/track/2rIZdL5X9vCyMp5z0bNNGC) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 4:02 | 2023-05-13 | 2023-06-06 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Dawn FM](https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-10 | 2022-01-12 |
 | [Daydate \(feat\. Abcitoo\)](https://open.spotify.com/track/4HQZqXCDny7EECn458ez55) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Abcitoo](https://open.spotify.com/artist/2ITY7VxNVZseegV5EddAVN) | [Dit Liv Dit Valg](https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4) | 2:43 | 2023-03-11 | 2023-03-13 |

@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-304 songs - 19 hr 10 min
+305 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 | 2023-01-20 |  |
 | [Better Man](https://open.spotify.com/track/3B48JUYVaYaEGxZAmMQ3W6) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Better Man](https://open.spotify.com/album/2xLglMnEx4LYHULsF4nUl7) | 3:25 | 2023-03-24 |  |
 | [Big Bend](https://open.spotify.com/track/1eBi4pRaRf2gRKcxGGpa1D) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/0aiiv8JHW22I8axAVTL9jy) | 2:28 | 2022-05-13 | 2023-06-02 |
-| [Big Bend](https://open.spotify.com/track/6Da34y67KXjJRMtT37iSBz) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/1jLZjlWU2HJ7S9SeydSvPZ) | 2:28 | 2022-05-13 |  |
+| [Big Bend](https://open.spotify.com/track/5b7nY8y8Z8PChU3iBb4Sif) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT) | 2:28 | 2022-05-13 |  |
+| [Big Bend](https://open.spotify.com/track/6Da34y67KXjJRMtT37iSBz) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/1jLZjlWU2HJ7S9SeydSvPZ) | 2:28 | 2022-05-13 | 2023-06-06 |
 | [Black Hole](https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Black Hole](https://open.spotify.com/album/5WB4gBdiDMMGjqoQqZWj6S) | 4:02 | 2022-03-28 | 2022-07-23 |
 | [Black Holes and Overdoses](https://open.spotify.com/track/7dSrCmvxIwowO6V30kIWg6) | [The Suitcase Junket](https://open.spotify.com/artist/7Iew8GtdYcaznLxIJpJxeS) | [Black Holes and Overdoses](https://open.spotify.com/album/12bknsFQe4EJbp0JSnQb7y) | 3:13 | 2021-12-17 | 2022-06-11 |
 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 | 2021-12-17 | 2022-07-29 |

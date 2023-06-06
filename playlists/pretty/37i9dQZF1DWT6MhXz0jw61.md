@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249,097 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,704 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [I Still Don't Cry](https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [I Still Don't Cry](https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G) | 2:30 |
 | 100 | [Thinking to Myself](https://open.spotify.com/track/5QsN1W5nvBZcweBfRtaWFj) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Thinking to Myself](https://open.spotify.com/album/1ISHVzRrOrGH43v1oEerca) | 2:15 |
 
-Snapshot ID: `MCw0ZGY2NDAzM2I5MDA5YWFiOTVjN2YxNmUxYThkMzEwNTEzOGJhMjgx`
+Snapshot ID: `MCxhM2IzZjFlMWUzYzVjOTllYTUzMGY0NGEzZjUxNTg2NzM5MWZlOTU2`

@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 136755,
+  "num_followers": 136816,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGRhYTNkZWIzZDgyNjQyZWM4ODQ0MDYwYzgwM2FiNGM5ZDFkYmY4",
+  "snapshot_id": "MCxmYTM2ZGEwNjIxODI2YWRkZTg3MjVlYzQwODA2NTI4OWY0NmU4ZmZh",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -123,6 +123,26 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "Move It On Over",
+      "url": "https://open.spotify.com/track/4bLFRNxLjFltxVPjvUbgJ7"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "King Of The Delta Blues",
         "url": "https://open.spotify.com/album/3TxhWz2Fr7wKECfx8Ii8ch"
       },
@@ -135,6 +155,42 @@
       "duration_ms": 157800,
       "name": "Cross Road Blues - Take 1",
       "url": "https://open.spotify.com/track/33hrofhwmIk6hrnkpbCsmq"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Country and Western",
+        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 98066,
+      "name": "Headin' Down The Wrong Highway",
+      "url": "https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Complete Capitol Hits Of Margaret Whiting",
+        "url": "https://open.spotify.com/album/3Zm1rm9czcHwe6kWvErjUm"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        },
+        {
+          "name": "Jimmy Wakely",
+          "url": "https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5"
+        }
+      ],
+      "duration_ms": 131933,
+      "name": "Slipping Around - 1949 Single",
+      "url": "https://open.spotify.com/track/0y9SSRXRLA9cAbRd4rxL8O"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -171,26 +227,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Complete Capitol Hits Of Margaret Whiting",
-        "url": "https://open.spotify.com/album/3Zm1rm9czcHwe6kWvErjUm"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        },
-        {
-          "name": "Jimmy Wakely",
-          "url": "https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5"
-        }
-      ],
-      "duration_ms": 131933,
-      "name": "Slipping Around - 1949 Single",
-      "url": "https://open.spotify.com/track/0y9SSRXRLA9cAbRd4rxL8O"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Can The Circle Be Unbroken: Country Music's First Family",
         "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
       },
@@ -203,42 +239,6 @@
       "duration_ms": 195040,
       "name": "Wildwood Flower",
       "url": "https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "Move It On Over",
-      "url": "https://open.spotify.com/track/4bLFRNxLjFltxVPjvUbgJ7"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Country and Western",
-        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 98066,
-      "name": "Headin' Down The Wrong Highway",
-      "url": "https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Retrospective (Volume 2)",
-        "url": "https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        },
-        {
-          "name": "Ernest Tubb",
-          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Too Old To Cut The Mustard",
-      "url": "https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Essential Bill Monroe (1945-1949)",
         "url": "https://open.spotify.com/album/22ZtRsfdL79zD3AW149x98"
       },
@@ -307,22 +287,6 @@
       "duration_ms": 180893,
       "name": "Blue Moon of Kentucky",
       "url": "https://open.spotify.com/track/3x95FfMhVfB3ZNIufQ1IF3"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
-          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Take Me Back To Tulsa",
-      "url": "https://open.spotify.com/track/74zBjPCZ1juar6yeglInYv"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -343,6 +307,42 @@
       "duration_ms": 165800,
       "name": "Cold, Cold Heart",
       "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Retrospective (Volume 2)",
+        "url": "https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Too Old To Cut The Mustard",
+      "url": "https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
+          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Take Me Back To Tulsa",
+      "url": "https://open.spotify.com/track/74zBjPCZ1juar6yeglInYv"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -431,6 +431,26 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Honky Tonkin'",
+      "url": "https://open.spotify.com/track/20aorkzugOSwPcXGZf9eCv"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Look What Thoughts Will Do",
         "url": "https://open.spotify.com/album/082Lg7YaKtzsScelrtfwdx"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 165453,
       "name": "The Golden Rocket",
       "url": "https://open.spotify.com/track/5jcprGzyDUAq25Babtyuei"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Honky Tonkin (Expanded Undubbed Edition)",
-        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Honky Tonkin'",
-      "url": "https://open.spotify.com/track/20aorkzugOSwPcXGZf9eCv"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -531,6 +531,26 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Mind Your Own Business",
+      "url": "https://open.spotify.com/track/00prInR3FA2xwKCzUVhISD"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Cool Water (With Bonus Tracks)",
         "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
       },
@@ -543,22 +563,6 @@
       "duration_ms": 129133,
       "name": "Cool Water",
       "url": "https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Dark As A Dungeon",
-      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Honky Tonkin (Expanded Undubbed Edition)",
-        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
       },
       "artists": [
         {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
         }
       ],
-      "duration_ms": 176973,
-      "name": "Mind Your Own Business",
-      "url": "https://open.spotify.com/track/00prInR3FA2xwKCzUVhISD"
+      "duration_ms": 167600,
+      "name": "Dark As A Dungeon",
+      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Nine Pound Hammer",
-      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 196293,
       "name": "Old Shep",
       "url": "https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Complete Original #1 Hits",
+        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 152733,
+      "name": "Bouquet of Roses",
+      "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Complete Original #1 Hits",
-        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
       },
       "artists": [
         {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
         }
       ],
-      "duration_ms": 152733,
-      "name": "Bouquet of Roses",
-      "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
+      "duration_ms": 159760,
+      "name": "Nine Pound Hammer",
+      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "The Essential Bob Wills And His Texas Playboys",
+        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "New San Antonio Rose",
+      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
         "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Essential Bob Wills And His Texas Playboys",
-        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
+        "name": "The Late Great - 14 Greatest Hits",
+        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
         }
       ],
-      "duration_ms": 156373,
-      "name": "New San Antonio Rose",
-      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+      "duration_ms": 153373,
+      "name": "Room Full of Roses",
+      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -907,34 +923,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Columbia Country Classics Volume 1: The Golden Age",
-        "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
       },
       "artists": [
         {
-          "name": "Ted Daffan's Texans",
-          "url": "https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 159800,
-      "name": "Born to Lose",
-      "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Rhythm & Booze",
-        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
-      },
-      "artists": [
-        {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
-        }
-      ],
-      "duration_ms": 164506,
-      "name": "Beer Drinking Blues",
-      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
+      "duration_ms": 157373,
+      "name": "Cotton Eyed Joe - Single Version",
+      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -955,18 +955,34 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Late Great - 14 Greatest Hits",
-        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
+        "name": "Rhythm & Booze",
+        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
       },
       "artists": [
         {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
         }
       ],
-      "duration_ms": 153373,
-      "name": "Room Full of Roses",
-      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
+      "duration_ms": 164506,
+      "name": "Beer Drinking Blues",
+      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Columbia Country Classics Volume 1: The Golden Age",
+        "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
+      },
+      "artists": [
+        {
+          "name": "Ted Daffan's Texans",
+          "url": "https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq"
+        }
+      ],
+      "duration_ms": 159800,
+      "name": "Born to Lose",
+      "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Copasetic",
-        "url": "https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Copas",
-          "url": "https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Filipino Baby",
-      "url": "https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 167826,
       "name": "Take an Old Cold 'Tater (and Wait)",
       "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Copasetic",
+        "url": "https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Copas",
+          "url": "https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Filipino Baby",
+      "url": "https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Cotton Eyed Joe - Single Version",
-      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Presenting Patsy Montana",
         "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 174053,
       "name": "My Poncho Pony",
       "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "The Essential Bill Monroe",
-        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe & His Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Mule Skinner Blues (Blue Yodel #8)",
-      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1111,6 +1095,22 @@
       "duration_ms": 185200,
       "name": "Tumbling Tumbleweeds",
       "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Essential Bill Monroe",
+        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Mule Skinner Blues (Blue Yodel #8)",
+      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
     },
     {
       "added_at": "2023-01-02 21:50:32",

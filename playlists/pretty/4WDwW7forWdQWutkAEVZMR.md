@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring The Chainsmokers, Harry Styles &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,385 likes - 23 songs - 1 hr 11 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,384 likes - 23 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
-| 2 | [Mona Lisa \- Spider\-Man: Across the Spider\-Verse \(Deluxe Edition\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \- Spider\-Man: Across the Spider\-Verse \(Deluxe Edition\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
+| 2 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
 | 3 | [The Other POV](https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The Other POV](https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3) | 2:59 |
 | 4 | [Turn Off The Noise](https://open.spotify.com/track/2882UEd8DX6ojWlUtUkH2D) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Turn Off The Noise](https://open.spotify.com/album/2NRizRvycomUH4nSGgRRfr) | 4:25 |
 | 5 | [when the stars fall down \(feat\. Junya Shii\)](https://open.spotify.com/track/4yttReuiH4mXHtpEKvtUDp) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Junya Shii](https://open.spotify.com/artist/2LbWpxAJmKWY68tCiS69dG) | [kinamood](https://open.spotify.com/album/1iInx39xZ6YaRiywJzyNp9) | 2:10 |

@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"> Grace Lokwa </a>
 
-75 songs - 7 hr 41 min
+77 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Living God](https://open.spotify.com/track/2L37WN2ULuayUZf0iG0CdG) | [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7) | [Living God](https://open.spotify.com/album/4W5Wlk3xBv8XxkHQVfhdNz) | 5:40 | 2023-05-19 | 2023-06-02 |
 | [Marvellous Jesus](https://open.spotify.com/track/62Ea1TSOe6uDpileRx2rYl) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [Marvellous Jesus](https://open.spotify.com/album/75B6IO1BrQbCTGU6kZZ8M3) | 2:49 | 2023-06-02 |  |
 | [Mercy \- Spirit](https://open.spotify.com/track/4nMEKXVNJNOhj9ttQPiK3G) | [Kolski Coolzee](https://open.spotify.com/artist/2dmXzJRY64rdLGRNAT6iMF) | [Mercy](https://open.spotify.com/album/1vRnN9qgH3KFLUKja66KO3) | 3:06 | 2023-05-19 | 2023-06-02 |
+| [More Than a Song \- Live](https://open.spotify.com/track/0dzxARoS1ba8g01fzqU4Ob) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [More Than a Song \(Live\)](https://open.spotify.com/album/6603NDkKT3gyBk2qS94ad5) | 6:09 | 2023-06-05 |  |
 | [Morning Dew Series \- 14 Minutes Intense Worship](https://open.spotify.com/track/0edo4dgEp9oT94CTs2yXSP) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO), [Precious Gabriel Simeon](https://open.spotify.com/artist/11pTLQtMKDH294po85BAKO) | [Morning Dew Series \(14 Minutes Intense Worship\)](https://open.spotify.com/album/6A0FALa74kPHJlsdlXw8rT) | 14:26 | 2023-05-26 |  |
 | [Most Beautiful](https://open.spotify.com/track/49xgfYRPkMo2uzqYcJQM0v) | [JuxxJay](https://open.spotify.com/artist/2S2KA6HxLu0aaalpkODZ14) | [Most Beautiful](https://open.spotify.com/album/5Hc5a7yiTBxm9uiitcCK4C) | 3:13 | 2023-05-19 |  |
 | [My Purpose](https://open.spotify.com/track/63Z09vE2P8apl86jzvD6ID) | [Njunadizzoh](https://open.spotify.com/artist/5py5A0SJsP9IPmXuhZemwB) | [My Purpose](https://open.spotify.com/album/3PM0dr9UiNejUbXBA0RmFD) | 3:08 | 2023-05-19 | 2023-06-02 |
@@ -67,6 +68,7 @@
 | [O'na bia](https://open.spotify.com/track/6EEmybGvVOqvs9KwYvlVmh) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO), [DC Angels Kubwa](https://open.spotify.com/artist/0yM4tOKpvcnLaOXTE4neuC) | [O'na bia](https://open.spotify.com/album/5Cn1pH8Ne1kpxSLZf9pYLz) | 7:05 | 2023-06-02 |  |
 | [OPEN UP YOUR BIBLE](https://open.spotify.com/track/3gWma2IFJpjBc2oqpImOIO) | [H4ZE](https://open.spotify.com/artist/7KTj22FQCwGE0ZtVhRmRsK) | [OPEN UP YOUR BIBLE](https://open.spotify.com/album/1F0lo78MSrihv4M48GBfWY) | 2:22 | 2023-05-26 |  |
 | [Over Do](https://open.spotify.com/track/0fzFmrC0PyypWGBpLplUgC) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS) | [Over Do](https://open.spotify.com/album/4SMc8MSi1ZxN8uto4g8lXC) | 3:09 | 2023-05-26 |  |
+| [Promo](https://open.spotify.com/track/10Tr40uIlQrdc4tZ9SbGnb) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Promo](https://open.spotify.com/album/4jKLDTafxBoAbfmYMUynG5) | 2:58 | 2023-06-05 |  |
 | [Protocol breaker](https://open.spotify.com/track/2qAcPHYYGiKpIsxdyTxtxB) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Protocol breaker](https://open.spotify.com/album/4y3f3Sjb3QPlX5v0sUj5u3) | 6:36 | 2023-05-26 |  |
 | [Sai Gobe](https://open.spotify.com/track/4D2QqTimqvIqQ6yzXFgZbq) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Sai Gobe](https://open.spotify.com/album/5Q0O0phQDKQ4HOpjRkizlO) | 2:55 | 2023-05-26 |  |
 | [Secret Place](https://open.spotify.com/track/4kNfDmnFSHo5I7K3aBz2Fb) | [Monique](https://open.spotify.com/artist/3Jeh7nk8x9OA273QC2bGS4) | [Secret Place](https://open.spotify.com/album/15Tz4j23uo2atWZfzYZpOJ) | 3:31 | 2023-05-19 | 2023-06-02 |

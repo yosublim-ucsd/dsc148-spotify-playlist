@@ -977,6 +977,40 @@
     },
     {
       "album": {
+        "name": "Hola (Remix)",
+        "url": "https://open.spotify.com/album/79ZYNjHhMRByHU6xYGYWuI"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Llanos",
+          "url": "https://open.spotify.com/artist/3l4qjCL1496zAgprejycLi"
+        },
+        {
+          "name": "MEDINAS",
+          "url": "https://open.spotify.com/artist/1bqz6MNvjWHhtP8Lvilwoi"
+        },
+        {
+          "name": "Tatum 73",
+          "url": "https://open.spotify.com/artist/2tTL8JtRIV3HwikWnKA2JQ"
+        },
+        {
+          "name": "Dimelo Ismael",
+          "url": "https://open.spotify.com/artist/0L42E3i2czZnCU0BYWdkor"
+        },
+        {
+          "name": "gonza maza",
+          "url": "https://open.spotify.com/artist/16sCPb3OQ3HmvFLCcjWeyL"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Hola - Remix",
+      "url": "https://open.spotify.com/track/0cBDwyo9iFsSd3i4RrcKaB"
+    },
+    {
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/6ilkDJx9M7ppTKzFvs5tQx"
       },
@@ -2268,7 +2302,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 115291,
       "name": "The la Planta: Rkt Session #6",
       "url": "https://open.spotify.com/track/3Zk3bA4hcGR49c0k9Fh7Nu"

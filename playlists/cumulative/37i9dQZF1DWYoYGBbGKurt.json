@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Instrumental beats to chill to.",
-  "name": "lofi + chill",
+  "description": "Lazy slow lofi beats for laid-back moments.",
+  "name": "lofi chill",
   "tracks": [
     {
       "album": {
@@ -2870,6 +2870,28 @@
       "duration_ms": 102019,
       "name": "Blueberry",
       "url": "https://open.spotify.com/track/0VEOJhK5Pf6HLKD5a9FHVN"
+    },
+    {
+      "album": {
+        "name": "Blunotte",
+        "url": "https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF"
+      },
+      "artists": [
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "Blunotte",
+      "url": "https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy"
     },
     {
       "album": {
@@ -7453,6 +7475,24 @@
     },
     {
       "album": {
+        "name": "Echos",
+        "url": "https://open.spotify.com/album/5K1VkXxDRwgLZY5ocWbxlB"
+      },
+      "artists": [
+        {
+          "name": "Philphonic",
+          "url": "https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135010,
+      "name": "Echos",
+      "url": "https://open.spotify.com/track/7ruubQWd9pge9BwU2kPWpT"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/4Clb3sOSCzx7LvSmm52jeB"
       },
@@ -8092,6 +8132,24 @@
       "duration_ms": 169853,
       "name": "Evenings",
       "url": "https://open.spotify.com/track/3jSslE7Fop3jOjiPYDpVD0"
+    },
+    {
+      "album": {
+        "name": "ever blue",
+        "url": "https://open.spotify.com/album/6psy4QbaG6TO43T4MqVuXZ"
+      },
+      "artists": [
+        {
+          "name": "Surd\u00e9g Broed",
+          "url": "https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "ever blue",
+      "url": "https://open.spotify.com/track/7d0DmSAJVElWp2IIETkvU9"
     },
     {
       "album": {
@@ -10584,6 +10642,24 @@
       "duration_ms": 112636,
       "name": "Gummy Bear",
       "url": "https://open.spotify.com/track/3qVOYICdZrcsOq9UYqefxz"
+    },
+    {
+      "album": {
+        "name": "Guten Tag",
+        "url": "https://open.spotify.com/album/17YZ9EQx63UBkPZBCj4Guj"
+      },
+      "artists": [
+        {
+          "name": "Kutt Ruff",
+          "url": "https://open.spotify.com/artist/1pDAhsKbAp21oiVAynCLYy"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113204,
+      "name": "Guten Tag",
+      "url": "https://open.spotify.com/track/5gKGfJlM0CZkG6HVU3qpe8"
     },
     {
       "album": {
@@ -13151,6 +13227,28 @@
     },
     {
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5vpbwGDjZMu1rjcX8Z8kDI"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        },
+        {
+          "name": "Maadrhino",
+          "url": "https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/4FLBxkwDTGKvo4KxRcSvOk"
+    },
+    {
+      "album": {
         "name": "Juno",
         "url": "https://open.spotify.com/album/5RFXqGTwnhtXt1vsewgIDY"
       },
@@ -13488,6 +13586,32 @@
       "duration_ms": 133000,
       "name": "Kyoto Nights",
       "url": "https://open.spotify.com/track/7kCclmsH5N16EG7eSTmkh4"
+    },
+    {
+      "album": {
+        "name": "L'isola dei Dolci",
+        "url": "https://open.spotify.com/album/1gcSXW0A3emBrAd69unwIi"
+      },
+      "artists": [
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        },
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        },
+        {
+          "name": "Tesk",
+          "url": "https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168931,
+      "name": "L'isola dei Dolci",
+      "url": "https://open.spotify.com/track/31Js9vNT2dcgP37nrWgZEY"
     },
     {
       "album": {
@@ -16945,6 +17069,24 @@
     },
     {
       "album": {
+        "name": "Mtl",
+        "url": "https://open.spotify.com/album/480zF3nGINlNstKps26srt"
+      },
+      "artists": [
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127799,
+      "name": "Montreal",
+      "url": "https://open.spotify.com/track/3gqkOhGtSdIGtEcuVquFJl"
+    },
+    {
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/3qFai7YsNNE8UL8ujgJsCm"
       },
@@ -17568,6 +17710,28 @@
       "duration_ms": 115714,
       "name": "Necochea",
       "url": "https://open.spotify.com/track/0EirG7Mt2lxF4W9GGvNtXf"
+    },
+    {
+      "album": {
+        "name": "Need You Back",
+        "url": "https://open.spotify.com/album/1cOnyK3U4WkmWDXAuaFjhI"
+      },
+      "artists": [
+        {
+          "name": "Ahbar Muzani",
+          "url": "https://open.spotify.com/artist/1THWbWN4NuoYavAqyTJFd4"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110008,
+      "name": "Need You Back",
+      "url": "https://open.spotify.com/track/41gpFpBPwNlUZD6HhNpEiI"
     },
     {
       "album": {
@@ -19567,6 +19731,24 @@
     },
     {
       "album": {
+        "name": "Porwiggle",
+        "url": "https://open.spotify.com/album/4JltDTUIzQrGgDQiEFT13f"
+      },
+      "artists": [
+        {
+          "name": "Am Froggo",
+          "url": "https://open.spotify.com/artist/1D9zRD0TQfQhCFDWz8XsAW"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124545,
+      "name": "Porwiggle",
+      "url": "https://open.spotify.com/track/6ylLrrKXTKfFiD62kgymOj"
+    },
+    {
+      "album": {
         "name": "Postcards",
         "url": "https://open.spotify.com/album/2W4DrF5coITD7EqOhxTMjp"
       },
@@ -20697,6 +20879,50 @@
     },
     {
       "album": {
+        "name": "Soulful Views",
+        "url": "https://open.spotify.com/album/6tIEk3qb1Z7WfA1DLS5eTd"
+      },
+      "artists": [
+        {
+          "name": "Starlies",
+          "url": "https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips"
+        },
+        {
+          "name": "Ouflen",
+          "url": "https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109470,
+      "name": "Sacred Shrine",
+      "url": "https://open.spotify.com/track/0VwhkfnMdMDoyWjvTiHaUt"
+    },
+    {
+      "album": {
+        "name": "Sad Because",
+        "url": "https://open.spotify.com/album/5ZknAW9loyCImlB6NCC7RZ"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Kluzek",
+          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+        },
+        {
+          "name": "Pabzzz",
+          "url": "https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Sad Because",
+      "url": "https://open.spotify.com/track/7DDG4VxOWhKjT4rxvawv34"
+    },
+    {
+      "album": {
         "name": "Birch",
         "url": "https://open.spotify.com/album/7ufPPdgjqU8TVLf6INwNM0"
       },
@@ -21030,6 +21256,24 @@
       "duration_ms": 139156,
       "name": "Scrapyard",
       "url": "https://open.spotify.com/track/3E0Rvu6agmvgqYS1FbHvkH"
+    },
+    {
+      "album": {
+        "name": "Scratched CD-RW",
+        "url": "https://open.spotify.com/album/6zccrWPOYCe6XM90fvqe3D"
+      },
+      "artists": [
+        {
+          "name": "Slow Bounce",
+          "url": "https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107426,
+      "name": "Scratched CD-RW",
+      "url": "https://open.spotify.com/track/2BFuxcqMUjNdzp86o9qNMz"
     },
     {
       "album": {
@@ -22062,6 +22306,24 @@
       "duration_ms": 162034,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/1U6TTv6LwluOKPn4ibOjR4"
+    },
+    {
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4pIsjcaKGj9zHZCLLhkuHF"
+      },
+      "artists": [
+        {
+          "name": "Golden Gemini",
+          "url": "https://open.spotify.com/artist/1YiZTiKZ55iOQzTl9LGYYM"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108750,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/1X1Rum2sT2KxQPaBLQN03y"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Portraits Of Tracy makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,230 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,265 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Carry On](https://open.spotify.com/track/0GEQmn1fPbeQOHVT6YDgFR) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [Carry On](https://open.spotify.com/album/3emv6G7Uouh1i9TjWA15Ue) | 3:57 |
 | 100 | [OPEN LETTER \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/7ketv9r8Hm9lBpQdDekCXI) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [OPEN LETTER \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/0ZaBMGc39yv3eegaZJkXlW) | 4:06 |
 
-Snapshot ID: `MCwzZDA5ZmUyMjVhM2I4NjYyNjI3ZDIxMTBjZWNhNTNmNWJkYjQ3YTQ2`
+Snapshot ID: `MCxiNzI1NGUwMWQ1NjhmMmM3Yzg3NzM0NmI2YWI1NWUzOTJiZWViNTYx`

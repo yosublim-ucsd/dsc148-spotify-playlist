@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,263 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,299 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 49 | [Heaven and Hell](https://open.spotify.com/track/3Ph1o8I4ATHBh15r1XiI9j) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Wanted! The Outlaws \(Expanded Edition\)](https://open.spotify.com/album/2QqTYCt0RbRC624nT607fV) | 1:38 |
 | 50 | [Red Headed Stranger](https://open.spotify.com/track/5buJ3E5gcaJvM3wRgwenFi) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 3:59 |
 
-Snapshot ID: `MjgwOTgwMTEsMDAwMDAwMDAzYzEwMGM1MTc3YWVlNWQzOWIwMDU5OWQ1NzBlOWNlZA==`
+Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDBjODllYjQ2MmZmODEwYWJhOTkwY2M4ZmZjZjZkODYzYQ==`

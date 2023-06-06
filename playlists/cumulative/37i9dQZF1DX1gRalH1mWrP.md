@@ -2,7 +2,7 @@
 
 ### [Summer Hits 2023](https://open.spotify.com/playlist/37i9dQZF1DX1gRalH1mWrP)
 
-> 
+> All the hits you'll need to make your summer sizzle.
 
 1,122 songs - 2 day 9 hr 59 min
 

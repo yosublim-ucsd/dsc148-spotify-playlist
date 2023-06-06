@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Jelly Roll
+> In Nashville for CMA Fest? Check out Spotify House at Ole Red! Cover: Jelly Roll
 
 640 songs - 1 day 10 hr 31 min
 

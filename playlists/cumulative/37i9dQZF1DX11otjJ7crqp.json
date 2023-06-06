@@ -50423,6 +50423,24 @@
     },
     {
       "album": {
+        "name": "STUPID HEART",
+        "url": "https://open.spotify.com/album/28AxQ5DakM1ij2SBornxx9"
+      },
+      "artists": [
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "STUPID HEART",
+      "url": "https://open.spotify.com/track/5fwOGyjuy8iaAxGcE6d9Mf"
+    },
+    {
+      "album": {
         "name": "stupid i miss u",
         "url": "https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA"
       },

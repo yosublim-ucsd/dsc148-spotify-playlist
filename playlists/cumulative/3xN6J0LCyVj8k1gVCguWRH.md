@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,277 songs - 5 day 10 hr 34 min
+2,278 songs - 5 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1957,6 +1957,7 @@
 | [The Guns of Shiloh](https://open.spotify.com/track/6YE3338iJZL6MeaeDoSmx9) | [The Uninvited](https://open.spotify.com/artist/4Brr0ghVfmQZblFH40zIOB) | [The Guns of Shiloh](https://open.spotify.com/album/3RIyq6frD12oYUnuLWyG8O) | 6:02 | 2022-11-11 | 2022-12-03 |
 | [The H](https://open.spotify.com/track/1YgDQvKzNccBrzeS10PhWe) | [Amani Shabazz](https://open.spotify.com/artist/7oSzkaqODfiJ5UjJZCWxhD) | [Elevate](https://open.spotify.com/album/1gEbLs0uX7n0vYgFEXYEwz) | 4:51 | 2023-02-24 | 2023-03-20 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 | 2022-05-10 |
+| [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-06-05 |  |
 | [The Last Night \(Dancing With You\)](https://open.spotify.com/track/76ZAq6niFYnyC3ZawAeIR5) | [Niki Kennedy](https://open.spotify.com/artist/56anbQyF2Qn6STCHu9wC2m) | [The Last Night \(Dancing With You\)](https://open.spotify.com/album/3mB5vvRnoJFXhaRDIIzwfu) | 3:13 | 2021-06-26 | 2021-07-11 |
 | [The Last Word](https://open.spotify.com/track/7zFaOiJj5igKMWoZw0Rh33) | [Olivia Burnette](https://open.spotify.com/artist/2B5P0MxeVJINZAnyEueoCJ) | [The Last Word](https://open.spotify.com/album/5dLDguHx5T0EiedBxwJhs3) | 3:16 | 2023-01-23 | 2023-02-24 |
 | [The Middle](https://open.spotify.com/track/1LhNYIwU73AoGtQqR0Na4u) | [Stone Jets](https://open.spotify.com/artist/1RqKaZtnoko0n8YpgLNZkx) | [The Middle](https://open.spotify.com/album/40yksFSu3zk5H4LKqv2ZUn) | 3:12 | 2022-01-28 | 2022-02-13 |

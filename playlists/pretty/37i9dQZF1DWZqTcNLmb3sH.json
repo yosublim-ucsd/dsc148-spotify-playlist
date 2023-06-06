@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 49532,
+  "num_followers": 49551,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGZmZjM2NmU4MTk4NjI2MGRlZjFmZTAwZWIyODgyMzUxMzk3NTAx",
+  "snapshot_id": "MCw5ODNmMTRlOWVlNzQxMjY3NDBkZjhjMDhhZTM3NDRmYzU4OWRjMDNm",
   "tracks": [
     {
       "added_at": "2023-05-29 08:32:58",
@@ -133,6 +133,26 @@
       "url": "https://open.spotify.com/track/4jgZ5UlWaXv0MQHOKNzH9o"
     },
     {
+      "added_at": "2023-06-05 11:07:00",
+      "album": {
+        "name": "Dikku Daari Tochutilla (From \"Bisilu Kudure\")",
+        "url": "https://open.spotify.com/album/3IyIYSebSKS6xhcw2zYZiu"
+      },
+      "artists": [
+        {
+          "name": "Imtiyaz Sultan",
+          "url": "https://open.spotify.com/artist/6ISQTadJEND9AY1C2GBsvi"
+        },
+        {
+          "name": "Hridaya Shiva",
+          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
+        }
+      ],
+      "duration_ms": 196599,
+      "name": "Dikku Daari Tochutilla (From \"Bisilu Kudure\")",
+      "url": "https://open.spotify.com/track/53dygLK4tSFoGXA901DSJA"
+    },
+    {
       "added_at": "2023-05-26 10:03:05",
       "album": {
         "name": "Bhoorameli (From \"Paramvah\")",
@@ -193,6 +213,26 @@
       "url": "https://open.spotify.com/track/0oOEJ4rrnvkeFo1tEym6U9"
     },
     {
+      "added_at": "2023-06-05 11:07:00",
+      "album": {
+        "name": "JoJo Laali (From \"Sthabda\")",
+        "url": "https://open.spotify.com/album/1U06mcxiZI2HYKG7OeaWeJ"
+      },
+      "artists": [
+        {
+          "name": "Laali Raghav",
+          "url": "https://open.spotify.com/artist/4TsJTD78MHGuWh7nz3YOOf"
+        },
+        {
+          "name": "Aarav Rishik",
+          "url": "https://open.spotify.com/artist/345U079R8yCBIRcHhJ9L1f"
+        }
+      ],
+      "duration_ms": 119877,
+      "name": "JoJo Laali (From \"Sthabda\")",
+      "url": "https://open.spotify.com/track/2xIwplTPDMRUcZOJZnn8ku"
+    },
+    {
       "added_at": "2023-05-16 05:45:58",
       "album": {
         "name": "Gold Factory (From \"Elra Kaaleliyatte Kaala\")",
@@ -217,6 +257,26 @@
       "url": "https://open.spotify.com/track/1xTjqUuyS4aR88GjVUbw1P"
     },
     {
+      "added_at": "2023-06-05 11:07:00",
+      "album": {
+        "name": "Dhage Uriva Hagalinali (From \"Bisilu Kudure\")",
+        "url": "https://open.spotify.com/album/4ZkIyPzYu680mfrN5XPs2g"
+      },
+      "artists": [
+        {
+          "name": "Imtiyaz Sultan",
+          "url": "https://open.spotify.com/artist/6ISQTadJEND9AY1C2GBsvi"
+        },
+        {
+          "name": "Hridaya Shiva",
+          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
+        }
+      ],
+      "duration_ms": 230549,
+      "name": "Dhage Uriva Hagalinali (From \"Bisilu Kudure\")",
+      "url": "https://open.spotify.com/track/3aegtetGkIidPD7CunDamn"
+    },
+    {
       "added_at": "2023-03-28 05:05:16",
       "album": {
         "name": "Aagodide Aarambhavu #TheHugSong (From \"Daredevil Musthafa\")",
@@ -235,6 +295,26 @@
       "duration_ms": 278248,
       "name": "Aagodide Aarambhavu #TheHugSong (From \"Daredevil Musthafa\")",
       "url": "https://open.spotify.com/track/4IlgYljMpmrWfhwtgnELkH"
+    },
+    {
+      "added_at": "2023-06-05 11:07:00",
+      "album": {
+        "name": "Halliya Maneya (From \"Damayana\")",
+        "url": "https://open.spotify.com/album/3KiXDNOAn3bowqxfF9UXGZ"
+      },
+      "artists": [
+        {
+          "name": "Rajath Hegde",
+          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
+        },
+        {
+          "name": "Keerthan Balila",
+          "url": "https://open.spotify.com/artist/5tt4wjos8qYzTEMlRsEQNJ"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Halliya Maneya (From \"Damayana\")",
+      "url": "https://open.spotify.com/track/3LRFNYSxXWVphDM34CgNXt"
     },
     {
       "added_at": "2023-05-29 10:08:54",
@@ -1985,22 +2065,6 @@
       "url": "https://open.spotify.com/track/17N4pGZNg5FLasKfXRTFlE"
     },
     {
-      "added_at": "2023-01-25 09:04:22",
-      "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/2SUuiyRFQZDpW4tbXXPy5M"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "Yenne Hodiyo Time Alli",
-      "url": "https://open.spotify.com/track/4xn4lXQpjrBDjbva2VxWAH"
-    },
-    {
       "added_at": "2023-01-27 04:56:59",
       "album": {
         "name": "Beesi Baruva Gaali (From \"Tanuja\") - Single",
@@ -2083,74 +2147,6 @@
       "duration_ms": 210352,
       "name": "Arey Arey",
       "url": "https://open.spotify.com/track/1R7FD4Ev9tJlByrbQmpqeH"
-    },
-    {
-      "added_at": "2023-01-05 08:21:14",
-      "album": {
-        "name": "Preethi Mador Life Istena (From \"Hushar\")",
-        "url": "https://open.spotify.com/album/0EyuWsFmoVAOWTcRtax2kG"
-      },
-      "artists": [
-        {
-          "name": "Majaa Talkies Remo",
-          "url": "https://open.spotify.com/artist/76L1nCoKcJLxM2TkhPsyXM"
-        },
-        {
-          "name": "S Nagu",
-          "url": "https://open.spotify.com/artist/5OJktAUq6cAnQvzDYoykQS"
-        },
-        {
-          "name": "Sathishraj",
-          "url": "https://open.spotify.com/artist/7iMRIVJJPhlinoYD8uJo5I"
-        }
-      ],
-      "duration_ms": 230948,
-      "name": "Preethi Mador Life Istena - From \"Hushar\"",
-      "url": "https://open.spotify.com/track/0D8AsCMSjv8dXRi17Darno"
-    },
-    {
-      "added_at": "2023-01-13 11:29:59",
-      "album": {
-        "name": "Raajahyoga",
-        "url": "https://open.spotify.com/album/6EtHSJYHUSPuYAfDYnb42v"
-      },
-      "artists": [
-        {
-          "name": "Ritesh G Rao",
-          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
-        }
-      ],
-      "duration_ms": 242451,
-      "name": "Baredu Ittu Iddangaithe",
-      "url": "https://open.spotify.com/track/2T6GBklMrVGGMlvBWHzZ1V"
-    },
-    {
-      "added_at": "2023-01-12 05:15:42",
-      "album": {
-        "name": "Modala Male (Title Track) [From \"Modala Male\"]",
-        "url": "https://open.spotify.com/album/3SFHELU2QbBevX4lRdzozv"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
-        },
-        {
-          "name": "Prasanna Bhojashetter",
-          "url": "https://open.spotify.com/artist/5USSSfL5OjralUUDerWU6o"
-        },
-        {
-          "name": "SV Shivakumar DVG",
-          "url": "https://open.spotify.com/artist/1J6MhLrEiAr2DGkxcFcyz4"
-        },
-        {
-          "name": "Nishma Rakshak",
-          "url": "https://open.spotify.com/artist/1v8OkRykQCaVc7bmAXJzWF"
-        }
-      ],
-      "duration_ms": 235567,
-      "name": "Modala Male (Title Track) - From \"Modala Male\"",
-      "url": "https://open.spotify.com/track/7jb5LlwUfznbRGnjvAYww6"
     }
   ],
   "unique_name": "Latest Kannada",

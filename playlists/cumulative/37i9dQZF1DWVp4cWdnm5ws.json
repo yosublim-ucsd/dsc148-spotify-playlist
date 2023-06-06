@@ -1574,10 +1574,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 251076,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/1apdXuG82uFNmWmx3zWc8u"
+    },
+    {
+      "album": {
+        "name": "Born To Win",
+        "url": "https://open.spotify.com/album/28rgW6IXDsrk4YtTcFtGGK"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/4aqkICleG6HLRc2ygpWqN1"
     },
     {
       "album": {
@@ -2088,6 +2106,24 @@
       "duration_ms": 293727,
       "name": "Tahanan",
       "url": "https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu"
+    },
+    {
+      "album": {
+        "name": "Takaw Tingin",
+        "url": "https://open.spotify.com/album/2AAnmzyeMl25pWn3SHElA9"
+      },
+      "artists": [
+        {
+          "name": "Paul Pablo",
+          "url": "https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189717,
+      "name": "Takaw Tingin",
+      "url": "https://open.spotify.com/track/4N8ScJCglGFgpTnD39KFQF"
     },
     {
       "album": {

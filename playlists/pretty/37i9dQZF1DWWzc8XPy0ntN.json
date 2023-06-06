@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 122967,
+  "num_followers": 122975,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzIwZDAyYmVlOGZkYjI5NDQ4YWE5ODY2NGIyM2YwMDdlMDRiMmI1",
+  "snapshot_id": "MCw5NGI1NGIzNThkZDZiMTJmNTBmMzQ5ZjM3NzIwNzk3MmI3YTIwZmI1",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -295,26 +295,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Si Mami",
-        "url": "https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps"
-      },
-      "artists": [
-        {
-          "name": "Michael Fortvne",
-          "url": "https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 308571,
-      "name": "Si Mami",
-      "url": "https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Maelstrom",
         "url": "https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 342017,
       "name": "Maelstrom",
       "url": "https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Si Mami",
+        "url": "https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps"
+      },
+      "artists": [
+        {
+          "name": "Michael Fortvne",
+          "url": "https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "duration_ms": 308571,
+      "name": "Si Mami",
+      "url": "https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
-      },
-      "artists": [
-        {
-          "name": "Syntrovert",
-          "url": "https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Cuarzo",
-      "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Mexican Superstar",
         "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
       },
@@ -537,20 +521,20 @@
       "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
     },
     {
-      "added_at": "2022-12-21 17:17:38",
+      "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Catalog Number Sta122",
-        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
       },
       "artists": [
         {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+          "name": "Syntrovert",
+          "url": "https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA"
         }
       ],
-      "duration_ms": 149869,
-      "name": "10",
-      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
+      "duration_ms": 215280,
+      "name": "Cuarzo",
+      "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -583,6 +567,22 @@
       "duration_ms": 415000,
       "name": "Mexico Trance",
       "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
+    },
+    {
+      "added_at": "2022-12-21 17:17:38",
+      "album": {
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "duration_ms": 149869,
+      "name": "10",
+      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Give It To The Music",
+        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Give It To The Music",
+      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "I Can't Find",
         "url": "https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Give It To The Music",
-        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Give It To The Music",
-      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Bufebe",
         "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Night in Tijuana",
-        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
-      },
-      "artists": [
-        {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
-        }
-      ],
-      "duration_ms": 170909,
-      "name": "Dancehall, Audubon Ballroom",
-      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Qu\u00e9 Onda",
         "url": "https://open.spotify.com/album/4HSFqLwfSmwG6G33ag0T14"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 220169,
       "name": "Qu\u00e9 Onda",
       "url": "https://open.spotify.com/track/0wp0HxSJj6LjCL9QsU6ZgN"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Night in Tijuana",
+        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
+      },
+      "artists": [
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "Dancehall, Audubon Ballroom",
+      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -791,6 +791,22 @@
       "duration_ms": 215462,
       "name": "Cuerpo Que Flota",
       "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Opus 2",
+        "url": "https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6jo",
+          "url": "https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Selva, Op. 2: No. 3",
+      "url": "https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -857,20 +873,20 @@
       "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
     },
     {
-      "added_at": "2022-08-18 23:29:09",
+      "added_at": "2022-12-21 16:52:17",
       "album": {
-        "name": "Opus 2",
-        "url": "https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0"
+        "name": "Ensayo de un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj"
       },
       "artists": [
         {
-          "name": "B\u00f6jo",
-          "url": "https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e"
+          "name": "Panoptica",
+          "url": "https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8"
         }
       ],
-      "duration_ms": 203273,
-      "name": "Selva, Op. 2: No. 3",
-      "url": "https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0"
+      "duration_ms": 217000,
+      "name": "Tema para Peque\u00f1os Pilotos Aviadores",
+      "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -895,34 +911,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Fiebre",
-        "url": "https://open.spotify.com/album/6y2lryBMGXmaZ8CxuHfOXj"
+        "name": "Tiburon",
+        "url": "https://open.spotify.com/album/25kGnhGZgaWHsvlrcOaYL4"
       },
       "artists": [
         {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+          "name": "Dany F",
+          "url": "https://open.spotify.com/artist/4E0D8VmVgWeyOtSZozgEYV"
         }
       ],
-      "duration_ms": 267008,
-      "name": "Fiebre",
-      "url": "https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh"
-    },
-    {
-      "added_at": "2022-12-21 16:52:17",
-      "album": {
-        "name": "Ensayo de un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj"
-      },
-      "artists": [
-        {
-          "name": "Panoptica",
-          "url": "https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Tema para Peque\u00f1os Pilotos Aviadores",
-      "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
+      "duration_ms": 294625,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/4luglnusaGpm8FhNjDmMpg"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

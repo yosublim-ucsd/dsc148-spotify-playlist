@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,455 likes - 45 songs - 2 hr 9 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,456 likes - 45 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 44 | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe) | 4:00 |
 | 45 | [Anarchy](https://open.spotify.com/track/7EQr5uQA2EafjldVAV2vkx) | [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Anarchy](https://open.spotify.com/album/5jTGJaYpZ8ifetpJAjRQmK) | 3:17 |
 
-Snapshot ID: `NjI0NCw4ZjJkZmRhOWVlNDM4MDg4M2YzMmQxNWQ4MWRhZjFhZTI3MDIwODM1`
+Snapshot ID: `NjI0NixhYzhkMjFkOTgyZDQxMThiNTZhOWJlNmZlM2M1YjFjZDE5YjkyM2Fh`

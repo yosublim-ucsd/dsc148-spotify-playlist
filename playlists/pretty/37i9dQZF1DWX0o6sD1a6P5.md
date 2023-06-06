@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,856 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,397 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 27 | [Attends\-moi](https://open.spotify.com/track/2Wd9RYX8XCkcfmKKdCkJCb) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Attends\-moi](https://open.spotify.com/album/2KSqm0cG23Ol22ZWp75VHX) | 2:48 |
 | 28 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 |
 | 29 | [Joli cœur](https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Evidence](https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII) | 2:53 |
-| 30 | [Love \- Nigeria Remix](https://open.spotify.com/track/54YbT22Ajdjy56jBXlg1zC) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Love \(Nigeria Remix\)](https://open.spotify.com/album/43hfZzgBi49HXotvKr9Dx0) | 3:11 |
+| 30 | [Love \- Nigeria Version](https://open.spotify.com/track/54YbT22Ajdjy56jBXlg1zC) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Love \(Nigeria Version\)](https://open.spotify.com/album/43hfZzgBi49HXotvKr9Dx0) | 3:11 |
 | 31 | [Dolce & Gabbana](https://open.spotify.com/track/6qFbHaZFzOrX5wKSbu1vvx) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Dolce & Gabbana](https://open.spotify.com/album/0MazTQ41JWkYdlPLzXQN3j) | 2:54 |
 | 32 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |
 | 33 | [DIS\-MOI OUI](https://open.spotify.com/track/7HS3aGgUkTzXRLBTt6aE5m) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [ROUGE](https://open.spotify.com/album/7C5XPJuaRuOj3wBrdZYtQW) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Noche](https://open.spotify.com/track/6B2ly4YtSOCibwfbQVbd4c) | [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [Noche](https://open.spotify.com/album/6ETBTsvMYK6o24y0YzNYDy) | 3:03 |
 | 50 | [Waka Waka](https://open.spotify.com/track/6ZVv3M4whMsgo26ZSg9Zxl) | [Wally B\. Seck](https://open.spotify.com/artist/5SVxYNSZjum1qCdVczQScc) | [Waka Waka](https://open.spotify.com/album/7uKmucLvh9qvW3YXgWQjIi) | 2:28 |
 
-Snapshot ID: `MCxhMTkxNjhlYTFlOTg5M2EyZTc2MjQ3ZGUzNGExMDY5NDM1YjNlNDQ4`
+Snapshot ID: `MCw5NDNlMGI0OWU4NDU4NDdjNjM2YmNiNWVjNzU4ZTcxYWJiYWExMWQx`

@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-685 songs - 1 day 4 hr 5 min
+686 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Gët Busy](https://open.spotify.com/track/20O48JTG6O46tPAuZbliRA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:37 | 2022-10-07 | 2023-02-10 |
 | [Gët Busy](https://open.spotify.com/track/2JhU9tkEJqUsjjr37cIpdG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Gët Busy](https://open.spotify.com/album/4kV56LEdTS4pRT2UR94WZW) | 2:37 | 2021-09-01 | 2022-02-19 |
 | [Hadley](https://open.spotify.com/track/04S2P8Gey35cemIoXpm5dq) | [Papo2oo4](https://open.spotify.com/artist/4S7E6TrfOatG9H3YuYV4V2), [DJ Lucas](https://open.spotify.com/artist/59RfTIZiLYFmPWUDeQQkC3), [Subjxct 5](https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV), [Finesse Fresco](https://open.spotify.com/artist/0yognOOsFPVKGXhC4zXTF7) | [Continuous Improvement](https://open.spotify.com/album/3dBYOox9czS4KgF2pg3owz) | 2:54 | 2023-01-17 | 2023-02-15 |
+| [Hands up!](https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Sassy Scene](https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl) | 2:15 | 2023-06-05 |  |
 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 | 2023-05-26 |  |
 | [Head$hot! \(with Trippie Redd\)](https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:16 | 2021-11-12 | 2022-04-09 |
 | [Heart Racing](https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [Heart Racing](https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ) | 2:36 | 2023-05-19 |  |
@@ -632,7 +633,7 @@
 | [TOOYOUNG](https://open.spotify.com/track/737kPzO3GT2cALxjXouTVC) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [Boy On Mars 2](https://open.spotify.com/album/2ailm754W0FoyX3Bf0o1Jq) | 1:47 | 2022-07-19 | 2022-12-03 |
 | [Top](https://open.spotify.com/track/55Q46o5adtSobImSKrrlqW) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 3:56 | 2022-12-02 | 2023-03-18 |
 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 | 2022-10-07 | 2023-01-14 |
-| [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 | 2023-04-28 |  |
+| [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 | 2023-04-28 | 2023-06-06 |
 | [trademark usa](https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:30 | 2022-04-12 | 2022-07-27 |
 | [TrapMania \(feat\. Gucci Mane & Cootie\)](https://open.spotify.com/track/5dp9Sa9oF4joM4t0P2EGlh) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3) | [TrapMania \(feat\. Gucci Mane & Cootie\)](https://open.spotify.com/album/6CvqKeNcZzGoQIlrXet714) | 2:27 | 2021-10-20 | 2022-02-23 |
 | [Trapping & Finessing \(LOVE Song\)](https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Trapping & Finessing](https://open.spotify.com/album/3Z0aq4NH3sfrAMURV9pv41) | 2:28 | 2023-03-03 | 2023-05-06 |

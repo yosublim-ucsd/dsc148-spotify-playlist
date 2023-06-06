@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 306486,
+  "num_followers": 306537,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjlhZWY4NDEyYjY1N2E3ZTlhZDY2ODJkMTI4N2I1YmZlMjUwODZk",
+  "snapshot_id": "MCxlZGQ5ZmJkOTg0ZDk3MDdhNmQ2YTMyYmY0OGE0NmI0NzUxMTQ4MThm",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -151,8 +151,8 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V"
+        "name": "Third (Deluxe)",
+        "url": "https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx"
       },
       "artists": [
         {
@@ -162,7 +162,7 @@
       ],
       "duration_ms": 264581,
       "name": "Brooklyn Ballers",
-      "url": "https://open.spotify.com/track/32yHBkF9L1WEHskN9gDePp"
+      "url": "https://open.spotify.com/track/6It85s3KMaxCxIppRGx5U8"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Mr. Sun (miss da sun)",
-        "url": "https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Mr. Sun (miss da sun)",
-      "url": "https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Passion Controller",
         "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 172219,
       "name": "Passion Controller",
       "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Mr. Sun (miss da sun)",
+        "url": "https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Mr. Sun (miss da sun)",
+      "url": "https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Rocks (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 172910,
-      "name": "For Keeps",
-      "url": "https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Rocks (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 172910,
+      "name": "For Keeps",
+      "url": "https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -747,22 +747,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "You Could Be",
-        "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
+        "name": "Only Diamonds Cut Diamonds",
+        "url": "https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g"
       },
       "artists": [
         {
-          "name": "Anz",
-          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
-        },
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
         }
       ],
-      "duration_ms": 218024,
-      "name": "You Could Be",
-      "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+      "duration_ms": 163973,
+      "name": "Debold",
+      "url": "https://open.spotify.com/track/249L7XvMpl08wN5vhivz1j"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -791,18 +787,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Only Diamonds Cut Diamonds",
-        "url": "https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g"
+        "name": "You Could Be",
+        "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
       },
       "artists": [
         {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+          "name": "Anz",
+          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
         }
       ],
-      "duration_ms": 163973,
-      "name": "Debold",
-      "url": "https://open.spotify.com/track/249L7XvMpl08wN5vhivz1j"
+      "duration_ms": 218024,
+      "name": "You Could Be",
+      "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Beat Tape 1",
-        "url": "https://open.spotify.com/album/40Mqbtsj8nLldcDFHCyJ82"
+        "name": "Only Diamonds Cut Diamonds",
+        "url": "https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/5HP7n0axbv3DfevQioA0AC"
+      "duration_ms": 205893,
+      "name": "It's Nice to Be Alive",
+      "url": "https://open.spotify.com/track/2vVMA6goXUgJSKcnnQrgin"
     },
     {
       "added_at": "2022-06-20 14:19:42",

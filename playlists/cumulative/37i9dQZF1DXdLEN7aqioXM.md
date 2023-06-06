@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-401 songs - 1 day 4 hr 36 min
+402 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Disco Hunt](https://open.spotify.com/track/0nfaoATlkfTA6NtPP5uYmB) | [Vincenzo Salvia](https://open.spotify.com/artist/0B1OIGHmTqq2gEn4IMaEci) | [Nightdrive to the Disco](https://open.spotify.com/album/70kLDT2qPMhkTBqvzmjw5W) | 4:22 | 2022-04-01 | 2022-04-19 |
 | [Disco on the Baltic Sea](https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Disco on the Baltic Sea](https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z) | 3:17 | 2022-08-19 |  |
 | [Dissolve](https://open.spotify.com/track/4Ikfp3eIvSzztTVNZO1Mez) | [EVANS](https://open.spotify.com/artist/6WsFGXtV7XYc8EE24gych2), [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Dissolve](https://open.spotify.com/album/2n36QdpXHLs96pWGV9TwOP) | 4:56 | 2022-07-22 | 2022-07-29 |
+| [Distance](https://open.spotify.com/track/1CYWKpLRAdtM4b8pWV0Cq7) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [Memorex Memories](https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV) | [Distance](https://open.spotify.com/album/4aNTV9h7g8p3ZgFMtqzgO8) | 3:27 | 2023-04-07 |  |
 | [Distance](https://open.spotify.com/track/1uPgXM9EoySFF0RBaYV2zI) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [Memorex Memories](https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV) | [Distance](https://open.spotify.com/album/1akun3X9ysTZ8ZNI19MZfS) | 3:27 | 2021-10-15 | 2023-05-20 |
 | [Do You Remember? \(Louis La Roche Remix\)](https://open.spotify.com/track/3O4fgI3pPvUl67jNVk2qTX) | [Darren Hayes](https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Do You Remember? \(Louis La Roche Remix\)](https://open.spotify.com/album/2bJ0gPvIHX69o5zK8nvb0r) | 4:20 | 2022-07-29 | 2022-08-06 |
 | [Doomsday Codex](https://open.spotify.com/track/5QOgrmfD4UWwjknWXPXPFx) | [3FORCE](https://open.spotify.com/artist/0FHXyAFKLg02mIUpNApPgo) | [Doomsday Codex](https://open.spotify.com/album/7uAqxu1CteveOdlvFZCGha) | 5:36 | 2022-02-04 | 2022-05-25 |
@@ -183,7 +184,7 @@
 | [Implant](https://open.spotify.com/track/3xG8Xcrke8F1gfYjzQE1Le) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [Chrome](https://open.spotify.com/album/1l7syt0vWShqSgBROokbCt) | 4:17 | 2021-10-15 |  |
 | [In The Face Of Evil](https://open.spotify.com/track/2bHpNAMEsB3Wc00y87JTdn) | [Magic Sword](https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1) | [Volume 1](https://open.spotify.com/album/1EB5Ns21S5txFU4dVOsFNM) | 6:49 | 2022-04-01 | 2022-04-20 |
 | [In Waves](https://open.spotify.com/track/5W6WQdVPFApaKv4Rg37XLh) | [neon cities](https://open.spotify.com/artist/0CI4GExvLu9Dna6VTGcwTw) | [In Waves](https://open.spotify.com/album/3nN8H3aqCNNbGHN1Z5wvP3) | 4:24 | 2022-04-01 | 2023-02-05 |
-| [Infinity](https://open.spotify.com/track/6HlNsdeHhgXyEYUHtgSipY) | [Zane Alexander](https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7) | [Infinity](https://open.spotify.com/album/7z0iHq5JX8d5TYsPyYIST7) | 3:54 | 2022-07-01 |  |
+| [Infinity](https://open.spotify.com/track/6HlNsdeHhgXyEYUHtgSipY) | [Zane Alexander](https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7) | [Infinity](https://open.spotify.com/album/7z0iHq5JX8d5TYsPyYIST7) | 3:54 | 2022-07-01 | 2023-06-06 |
 | [Inglorious Express](https://open.spotify.com/track/5bOheDMvI3JeFeaxk14HnS) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/3lu8ZwjXwWe5ZnPsG3moBr) | 7:10 | 2022-04-01 | 2022-04-21 |
 | [Intergalactic Highway](https://open.spotify.com/track/5PauDNMgo5ehM1xQV9T1iv) | [Dynatron](https://open.spotify.com/artist/0SkwL0prvhD2CWyqj0vlF6) | [The Legacy Collection, Vol\. I](https://open.spotify.com/album/4VzabqOc5cLuD4G41aJ4c9) | 4:28 | 2022-07-22 |  |
 | [Intergalactic Highway](https://open.spotify.com/track/5mBoiHZUeaD0fntrnVeAQ0) | [Dynatron](https://open.spotify.com/artist/0SkwL0prvhD2CWyqj0vlF6) | [Dynatron \- Throttle Up EP](https://open.spotify.com/album/54f1qEwr8D5EoO1iuBDmBC) | 4:28 | 2022-04-01 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Nana Fofie\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,859 likes - 260 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,010 likes - 260 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 259 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |
 | 260 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 |
 
-Snapshot ID: `MCxjMDljMDJhYmFmY2I2NTNlNmEyODM0ZjEyYWYxM2FkYmM0ZGU5OWVi`
+Snapshot ID: `MCw5MzQyODYyNDlkOGM5NjYxNjVlZjRkZTQ2MGE5NDFhMDc1MzA4ZWNh`

@@ -1,40 +1,32 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 1014938,
+  "num_followers": 1015054,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTY5NmI2NGM2ZmUxNmUxMTkxNzVjOGY0NWJlNDAzMWMyOWY3MGU4",
+  "snapshot_id": "MCw2YmNjZWJjMGE2YjNkYTJlOGU3MTM5NGM0NGY5NDg4MDZjM2ViMmRm",
   "tracks": [
     {
-      "added_at": "2023-05-25 19:13:12",
+      "added_at": "2023-06-05 16:56:30",
       "album": {
-        "name": "Space and Time",
-        "url": "https://open.spotify.com/album/1Wv3UDxtjeoUYbWzMoWNyk"
+        "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
+        "url": "https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA"
       },
       "artists": [
         {
-          "name": "Yacht Money",
-          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         },
         {
-          "name": "NAWAS",
-          "url": "https://open.spotify.com/artist/58l4CfKVxJcp2tYu7Ux2up"
-        },
-        {
-          "name": "Riot Forge",
-          "url": "https://open.spotify.com/artist/35RzeuBuxE2nnnzdtYsTZH"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
         }
       ],
-      "duration_ms": 190615,
-      "name": "Space and Time",
-      "url": "https://open.spotify.com/track/2NHtAJhXVOnSIN2lZhbpWz"
+      "duration_ms": 180933,
+      "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
+      "url": "https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE"
     },
     {
       "added_at": "2023-04-13 17:55:58",
@@ -237,22 +229,6 @@
       "url": "https://open.spotify.com/track/3Pj6u2KTgepyyidp5xfbHp"
     },
     {
-      "added_at": "2022-12-06 15:41:24",
-      "album": {
-        "name": "Shittin' Me",
-        "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 144729,
-      "name": "Shittin' Me",
-      "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
-    },
-    {
       "added_at": "2022-09-29 15:51:46",
       "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
@@ -269,26 +245,6 @@
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
     },
     {
-      "added_at": "2023-04-06 20:13:08",
-      "album": {
-        "name": "THE GREATEST LIVING SHOW",
-        "url": "https://open.spotify.com/album/2N9F4BufajXY3H3bVVboo5"
-      },
-      "artists": [
-        {
-          "name": "\u7cf8\u5947\u306f\u306a",
-          "url": "https://open.spotify.com/artist/4Ak0QNdKtwdmUrTfTMAsBU"
-        },
-        {
-          "name": "Toby Fox",
-          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
-        }
-      ],
-      "duration_ms": 275798,
-      "name": "THE GREATEST LIVING SHOW",
-      "url": "https://open.spotify.com/track/6e9MycX711QO2gGN0EIhpq"
-    },
-    {
       "added_at": "2022-07-28 15:31:40",
       "album": {
         "name": "My Ordinary Life",
@@ -303,26 +259,6 @@
       "duration_ms": 230894,
       "name": "My Ordinary Life",
       "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
-    },
-    {
-      "added_at": "2022-11-23 15:37:37",
-      "album": {
-        "name": "Ghost Light",
-        "url": "https://open.spotify.com/album/4v9P47TGhiu4ZOsIrGXjIM"
-      },
-      "artists": [
-        {
-          "name": "TheFatRat",
-          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
-        },
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "Ghost Light",
-      "url": "https://open.spotify.com/track/2kDXDdn1SXFlOwTfWRGIT5"
     },
     {
       "added_at": "2022-11-18 16:18:56",
@@ -519,22 +455,6 @@
       "duration_ms": 96000,
       "name": "HOT DEMON B!TCHES NEAR U ! ! !",
       "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
-    },
-    {
-      "added_at": "2022-09-29 15:51:46",
-      "album": {
-        "name": "This fffire",
-        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "This fffire - New Version",
-      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
     },
     {
       "added_at": "2022-09-20 14:50:15",

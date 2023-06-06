@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 61586,
+  "num_followers": 61608,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzBhODc2NzMwZTE3MmUxZDgxZWU3NWU2YjZkNmY0ZjI5OWUwYTVm",
+  "snapshot_id": "MCwyNjNjNWQ4YWMxYjgyNGU1NjVkNjMzOTgwYzA4ZTQwNGU3ZDk0Mjg3",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
+        "name": "Vamos Perdiendo el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
+      },
+      "artists": [
+        {
+          "name": "Tungas",
+          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
+        }
+      ],
+      "duration_ms": 241532,
+      "name": "Dicen Que Estoy Muerto",
+      "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
         "name": "Coraz\u00f3n D' Roto",
         "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Vamos Perdiendo el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
-      },
-      "artists": [
-        {
-          "name": "Tungas",
-          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
-        }
-      ],
-      "duration_ms": 241532,
-      "name": "Dicen Que Estoy Muerto",
-      "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "J\u00e4ula",
         "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
       },
@@ -359,38 +359,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Gran Blanco",
-        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
-      },
-      "artists": [
-        {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Entre La Guerra Y El Amor",
-        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
-      },
-      "artists": [
-        {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Quemando Cartas",
-      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Te Vale Madre",
         "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
       },
@@ -407,18 +375,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Volumen 2",
-        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
+        "name": "Gran Blanco",
+        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
       },
       "artists": [
         {
-          "name": "Hey B\u00e9sala",
-          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Desamorados",
-      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
+      "duration_ms": 203213,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -435,6 +403,22 @@
       "duration_ms": 165605,
       "name": "Solo Dios lo Sabe",
       "url": "https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Volumen 2",
+        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
+      },
+      "artists": [
+        {
+          "name": "Hey B\u00e9sala",
+          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Desamorados",
+      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -487,18 +471,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Mejores Tiempos",
-        "url": "https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE"
+        "name": "Entre La Guerra Y El Amor",
+        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
       },
       "artists": [
         {
-          "name": "Say Ocean",
-          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
         }
       ],
-      "duration_ms": 252782,
-      "name": "Tennessecito",
-      "url": "https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR"
+      "duration_ms": 185493,
+      "name": "Quemando Cartas",
+      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -515,6 +499,22 @@
       "duration_ms": 180000,
       "name": "Nadie Me Entiende",
       "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Mejores Tiempos",
+        "url": "https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE"
+      },
+      "artists": [
+        {
+          "name": "Say Ocean",
+          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
+        }
+      ],
+      "duration_ms": 252782,
+      "name": "Tennessecito",
+      "url": "https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "La teor\u00eda de los septenios",
-        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
+        "name": "Volver a Empezar",
+        "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
       },
       "artists": [
         {
-          "name": "Da Skate",
-          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
         }
       ],
-      "duration_ms": 151757,
-      "name": "No olvides de enfocarte siempre en lo importante",
-      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
+      "duration_ms": 209306,
+      "name": "Ll\u00e9vate Todo",
+      "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Volver a Empezar",
-        "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
+        "name": "La teor\u00eda de los septenios",
+        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
       },
       "artists": [
         {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+          "name": "Da Skate",
+          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
         }
       ],
-      "duration_ms": 209306,
-      "name": "Ll\u00e9vate Todo",
-      "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
+      "duration_ms": 151757,
+      "name": "No olvides de enfocarte siempre en lo importante",
+      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -639,6 +639,22 @@
       "duration_ms": 183118,
       "name": "Cometas",
       "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Lugar Especial",
+        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
+      },
+      "artists": [
+        {
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+        }
+      ],
+      "duration_ms": 204168,
+      "name": "Lugar Especial",
+      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -755,22 +771,6 @@
       "duration_ms": 204500,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Lugar Especial",
-        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
-      },
-      "artists": [
-        {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
-        }
-      ],
-      "duration_ms": 204168,
-      "name": "Lugar Especial",
-      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
     },
     {
       "added_at": "2023-05-19 06:00:00",

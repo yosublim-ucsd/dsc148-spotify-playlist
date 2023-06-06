@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Pupil Slicer
 
-3,659 songs - 10 day 7 hr 10 min
+3,660 songs - 10 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1484,6 +1484,7 @@
 | [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 | 2023-04-14 | 2023-04-22 |
 | [Heaven's a Lie XX](https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 4:07 | 2022-10-14 | 2022-10-22 |
 | [Heaven's Broken Heart](https://open.spotify.com/track/2fZwiRDSjsthSAq1AeaK0k) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Heaven's Broken Heart](https://open.spotify.com/album/6cxB3o0ncxmv59OZIuH57Z) | 3:17 | 2022-08-12 | 2022-08-20 |
+| [Heavy Friends](https://open.spotify.com/track/2VEamv1GrepvxhStHkZAwE) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Heavy Friends](https://open.spotify.com/album/4544LwAo6RqD35G4EWf9u9) | 4:49 | 2023-06-05 |  |
 | [Heavy Is The Crown](https://open.spotify.com/track/7Fme04dKGHTPnTfsCgFg5a) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Heavy Is The Crown](https://open.spotify.com/album/5TtmOTZjo4LvagdKOyO3Jy) | 4:51 | 2022-08-12 | 2022-08-20 |
 | [Heavy Shadows](https://open.spotify.com/track/13iiRDeu2RrOw0HTn6wHYX) | [Aphyxion](https://open.spotify.com/artist/40UIlN4YEByXy4ewEZmqXu), [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [Heavy Shadows](https://open.spotify.com/album/3z1sLHRO4yF1KJaOKz8Sw0) | 3:33 | 2022-12-02 | 2022-12-10 |
 | [Heist](https://open.spotify.com/track/5D9j5zjNyYfJhxeYSAASi5) | [QUEEN KONA](https://open.spotify.com/artist/6fuf34CYUe4klqiMkH2SOr) | [Heist](https://open.spotify.com/album/1XbMIGJiMyQGYvd1l1xXZO) | 4:42 | 2023-02-24 | 2023-03-04 |

@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 172105,
+  "num_followers": 172113,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTI4Y2ZlYjNiMmVkMWVmMWFmNDYzNTQ0MTk1YWIyZGIzZjY1MTI4",
+  "snapshot_id": "MCxhMDg2Njg1MDM2M2M5OGY1NWY1ZjFhYzJjNmQ1ODNiMWQyMmRmMTBj",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
         }
       ],
-      "duration_ms": 232724,
-      "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -255,18 +255,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
       },
       "artists": [
         {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 216171,
-      "name": "Money Makes You Ugly",
-      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
       },
@@ -475,6 +459,38 @@
       "duration_ms": 230533,
       "name": "Fish Outta Water",
       "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 216171,
+      "name": "Money Makes You Ugly",
+      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 219945,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/0PtMZ1pEoqCGf58PNGN2DT"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -579,22 +595,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 219945,
-      "name": "Medicine Man",
-      "url": "https://open.spotify.com/track/0PtMZ1pEoqCGf58PNGN2DT"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Nowhere Left to Go",
-        "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
-      },
-      "artists": [
-        {
-          "name": "Layla Zoe",
-          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Nowhere Left to Go",
-      "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "The Beautiful Bones",
         "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
       },
@@ -739,18 +723,34 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Loud Guitars, Big Suspicions",
-        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
+        "name": "Nowhere Left to Go",
+        "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
       },
       "artists": [
         {
-          "name": "Shannon Curfman",
-          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
+          "name": "Layla Zoe",
+          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
         }
       ],
-      "duration_ms": 209866,
-      "name": "No Riders",
-      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
+      "duration_ms": 227333,
+      "name": "Nowhere Left to Go",
+      "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Shut Your Mouth and Do Something",
+        "url": "https://open.spotify.com/album/7iMlb5kEboQwsdOjbaa6of"
+      },
+      "artists": [
+        {
+          "name": "Ali Handal",
+          "url": "https://open.spotify.com/artist/5JG9RkDazTt64kyVpQDc5N"
+        }
+      ],
+      "duration_ms": 200449,
+      "name": "Shut Your Mouth and Do Something",
+      "url": "https://open.spotify.com/track/5rbX4du6LNRAvMm0zCIPCV"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Shut Your Mouth and Do Something",
-        "url": "https://open.spotify.com/album/7iMlb5kEboQwsdOjbaa6of"
+        "name": "Loud Guitars, Big Suspicions",
+        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
       },
       "artists": [
         {
-          "name": "Ali Handal",
-          "url": "https://open.spotify.com/artist/5JG9RkDazTt64kyVpQDc5N"
+          "name": "Shannon Curfman",
+          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
         }
       ],
-      "duration_ms": 200449,
-      "name": "Shut Your Mouth and Do Something",
-      "url": "https://open.spotify.com/track/5rbX4du6LNRAvMm0zCIPCV"
+      "duration_ms": 209866,
+      "name": "No Riders",
+      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
     },
     {
       "added_at": "2022-03-08 14:01:09",

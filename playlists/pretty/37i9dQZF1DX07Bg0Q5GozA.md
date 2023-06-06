@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Joe Goddard, Fiorious
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,492 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,521 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Final Dance](https://open.spotify.com/track/7re9LDHysQXrIlbQxaDzBv) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Consciousness As A State Of Matter](https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI) | 4:12 |
 | 75 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 |
 
-Snapshot ID: `MCxmMmJjNGJjN2ViMWQzZDA4OTI3M2ZiNTczZTkyMGE1NGQ1ZTUwZDY0`
+Snapshot ID: `MCxjMDQ2MTkxM2UwMGQ4N2QxMTkyNmRhZDFjZDE2NTQwMmEwZDIwZjRm`

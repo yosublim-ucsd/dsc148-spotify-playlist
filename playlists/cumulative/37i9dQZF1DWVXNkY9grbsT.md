@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-327 songs - 1 day 3 hr 37 min
+328 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,8 @@
 | [The Gulf of Valencia](https://open.spotify.com/track/4LVANIDqdIe0HzoVg816OG) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Sub Rosa](https://open.spotify.com/album/3ytpF5fIboDCwEAZUjGeDs) | 4:36 | 2021-12-26 | 2023-02-27 |
 | [The Hole](https://open.spotify.com/track/1q1ne8Zr1GuiVafFHD4YEe) | [Annihilation Of Self](https://open.spotify.com/artist/5DaYScQGBRXnrpi9WubEQR) | [The Nauts Log \(Chapter 1\-4\)](https://open.spotify.com/album/15iBdhwM1FXf8sIRXlv6Rl) | 9:00 | 2022-01-14 |  |
 | [The Killing Of Wild Animals](https://open.spotify.com/track/1dm03UsG1jXMwmKFTE403i) | [Carlos Metta](https://open.spotify.com/artist/5igkVL3BEbBPfvcDXFgJgB), [Fernando Esteban](https://open.spotify.com/artist/0ViWQo9bhm8NeoiAqpPurg) | [Teresa /// Fortuna](https://open.spotify.com/album/7ae5Zd4cWlEJs1UFM7e40n) | 6:33 | 2021-12-26 | 2023-05-02 |
-| [The Revenant Main Theme \(Alva Noto Remodel\)](https://open.spotify.com/track/1gAMCezhYq7VO20SzaGdcZ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 2:56 | 2023-05-05 |  |
+| [The Revenant Main Theme \(Alva Noto Remodel\)](https://open.spotify.com/track/1gAMCezhYq7VO20SzaGdcZ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 2:56 | 2023-05-05 | 2023-06-06 |
+| [The Revenant Main Theme \(Alva Noto Remodel\)](https://open.spotify.com/track/47PdDK2C3a1XuHQTpaBukA) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Travesía](https://open.spotify.com/album/3R9mvWE3pbsxy5uruk5HNK) | 2:56 | 2023-05-05 |  |
 | [The Richest Garden in your Memory](https://open.spotify.com/track/5Snt7YJiJj5kGd1mSOiQtg) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 2:57 | 2022-12-30 | 2023-04-30 |
 | [The Richest Garden in your Memory](https://open.spotify.com/track/0A1nEOMvS7UwWVFQrttRN1) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [The Richest Garden in your Memory](https://open.spotify.com/album/5jqmGUSs8kCnu3zdBPsxfv) | 2:58 | 2022-02-18 | 2022-07-29 |
 | [The Solent \- The World Is Watching Orb Remix](https://open.spotify.com/track/2neI5jIK6XjByLhaxwYuuc) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Solent \(The World Is Watching Orb Remix\)](https://open.spotify.com/album/6IGJrOM9Gyjh2Kg01vDBDV) | 7:13 | 2021-12-26 |  |

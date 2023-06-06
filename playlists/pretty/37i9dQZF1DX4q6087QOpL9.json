@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 71989,
+  "num_followers": 72045,
   "original_name": "Soulful House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODc1YzIyNWQ3NGFkZThkODE3N2JmNWVkY2E3NWY5NGUzMGYzMjJm",
+  "snapshot_id": "MCw0MmVlMzFhMzUwZGFiYzVlMGU1M2IyNDUzMDk0ZjU2OTc4MWYyMzUy",
   "tracks": [
     {
       "added_at": "2023-03-07 17:49:21",
@@ -255,26 +255,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Can't Hold Back",
-        "url": "https://open.spotify.com/album/0o160SeLNBA1GKDVVDrQCJ"
-      },
-      "artists": [
-        {
-          "name": "Georg Levin",
-          "url": "https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5"
-        },
-        {
-          "name": "Clara Hill",
-          "url": "https://open.spotify.com/artist/4RHulYLsymySn2JlGzyXfc"
-        }
-      ],
-      "duration_ms": 377193,
-      "name": "(I Got) Somebody New",
-      "url": "https://open.spotify.com/track/2P0N8yitkDrt4izIDSCvxO"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Mighty Real Poolside Pride 2018",
         "url": "https://open.spotify.com/album/49ZAc2gYoGRBvFZe4BQlk9"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 449523,
       "name": "Let It Fall - Harlum Mix",
       "url": "https://open.spotify.com/track/3ZqgxQ8dBG11dQ5Khp9UvJ"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Can't Hold Back",
+        "url": "https://open.spotify.com/album/0o160SeLNBA1GKDVVDrQCJ"
+      },
+      "artists": [
+        {
+          "name": "Georg Levin",
+          "url": "https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5"
+        },
+        {
+          "name": "Clara Hill",
+          "url": "https://open.spotify.com/artist/4RHulYLsymySn2JlGzyXfc"
+        }
+      ],
+      "duration_ms": 377193,
+      "name": "(I Got) Somebody New",
+      "url": "https://open.spotify.com/track/2P0N8yitkDrt4izIDSCvxO"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Power Soul",
+        "url": "https://open.spotify.com/album/1uoraNGVpnn5od0VnziIiO"
+      },
+      "artists": [
+        {
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/5fB8D4lc3UNL1xoFoxUOkH"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Church Lady (feat. Daniele)",
         "url": "https://open.spotify.com/album/2ciELtLCSotxvDGCu7M2zM"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 439586,
       "name": "Church Lady (feat. Danil Wright)",
       "url": "https://open.spotify.com/track/2npWYEYy7Q1qwgV2bPnxDy"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Power Soul",
-        "url": "https://open.spotify.com/album/1uoraNGVpnn5od0VnziIiO"
-      },
-      "artists": [
-        {
-          "name": "Peven Everett",
-          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/5fB8D4lc3UNL1xoFoxUOkH"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
+      },
+      "artists": [
+        {
+          "name": "Joaquin \"Joe\" Claussell",
+          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "Je Ka Jo - Demo Mix",
+      "url": "https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Love It",
         "url": "https://open.spotify.com/album/0KneyKV5tME1HoDFtEMUDS"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 554268,
       "name": "Love It - Phil Asher's Restless Soul Vocal Mix",
       "url": "https://open.spotify.com/track/108xPfHyjfwRv4ZJrDJdHL"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
-      },
-      "artists": [
-        {
-          "name": "Joaquin \"Joe\" Claussell",
-          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
-        }
-      ],
-      "duration_ms": 447026,
-      "name": "Je Ka Jo - Demo Mix",
-      "url": "https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "House Classics V (Presented by Harley & Muscle)",
+        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Arnold Jarvis",
+          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
+        }
+      ],
+      "duration_ms": 372908,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Love's Been Right Here",
         "url": "https://open.spotify.com/album/4pyTC09XaKrvHkZ990Ao3J"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 409238,
       "name": "Find A Friend",
       "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "House Classics V (Presented by Harley & Muscle)",
-        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Arnold Jarvis",
-          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
-        }
-      ],
-      "duration_ms": 372908,
-      "name": "Inspiration",
-      "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "I Got Rhythm (Remixes)",
-        "url": "https://open.spotify.com/album/59QaF98IvGfD6xHKn5E0To"
-      },
-      "artists": [
-        {
-          "name": "Soul Fuzion",
-          "url": "https://open.spotify.com/artist/3KKjVQbHpd2E5IQYrsNeLp"
-        }
-      ],
-      "duration_ms": 372480,
-      "name": "I Got Rhythm (Original Mix)",
-      "url": "https://open.spotify.com/track/4RxPV1yqEbkobZDy3yudgK"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Mix The Vibe: Kaoz On King Street",
         "url": "https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 409763,
       "name": "Come Home - Kerri's Mmmh Mix",
       "url": "https://open.spotify.com/track/6zhYeCpXsztywWOP05nwJu"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "I Got Rhythm (Remixes)",
+        "url": "https://open.spotify.com/album/59QaF98IvGfD6xHKn5E0To"
+      },
+      "artists": [
+        {
+          "name": "Soul Fuzion",
+          "url": "https://open.spotify.com/artist/3KKjVQbHpd2E5IQYrsNeLp"
+        }
+      ],
+      "duration_ms": 372480,
+      "name": "I Got Rhythm (Original Mix)",
+      "url": "https://open.spotify.com/track/4RxPV1yqEbkobZDy3yudgK"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Lifestyle2 - Dance Grooves Vol 1 (Budget Version)",
+        "url": "https://open.spotify.com/album/6Y9kELm8endQXLmFnwHiBH"
+      },
+      "artists": [
+        {
+          "name": "4hero",
+          "url": "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
+        }
+      ],
+      "duration_ms": 439346,
+      "name": "Hold It Down - Bugz In The Attic's Co-Operative Mix",
+      "url": "https://open.spotify.com/track/32c0Uo9hITRnFqrfrmiQ4f"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Deep House Anthems",
         "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
       },
@@ -2103,18 +2119,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Lifestyle2 - Dance Grooves Vol 1 (Budget Version)",
-        "url": "https://open.spotify.com/album/6Y9kELm8endQXLmFnwHiBH"
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
       },
       "artists": [
         {
-          "name": "4hero",
-          "url": "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
         }
       ],
-      "duration_ms": 439346,
-      "name": "Hold It Down - Bugz In The Attic's Co-Operative Mix",
-      "url": "https://open.spotify.com/track/32c0Uo9hITRnFqrfrmiQ4f"
+      "duration_ms": 722920,
+      "name": "Elle (Main Version)",
+      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2147,18 +2163,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
+        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
       },
       "artists": [
         {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+          "name": "DJ Le Roi",
+          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
+        },
+        {
+          "name": "Chappell",
+          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
         }
       ],
-      "duration_ms": 722920,
-      "name": "Elle (Main Version)",
-      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
+      "duration_ms": 446026,
+      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
+      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2187,26 +2207,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
-        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
-      },
-      "artists": [
-        {
-          "name": "DJ Le Roi",
-          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
-        },
-        {
-          "name": "Chappell",
-          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
-        }
-      ],
-      "duration_ms": 446026,
-      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
-      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Good Morning EP",
         "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
       },
@@ -2223,42 +2223,6 @@
       "duration_ms": 373664,
       "name": "Good Morning - Kaytronik Remix",
       "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Essential Beats, Vol.9",
-        "url": "https://open.spotify.com/album/2ei557S2aPyPih7ov1JhGV"
-      },
-      "artists": [
-        {
-          "name": "Phil Weeks",
-          "url": "https://open.spotify.com/artist/0ruxrxTRHzfO8KsLLNPNkK"
-        },
-        {
-          "name": "Ladybird",
-          "url": "https://open.spotify.com/artist/1nXlbKMRiXyiI6Rg1wnDOZ"
-        }
-      ],
-      "duration_ms": 380020,
-      "name": "Love Come Down - Main Mix",
-      "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2283,6 +2247,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Voices & Visions",
         "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
@@ -2299,6 +2279,26 @@
       "duration_ms": 483573,
       "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
       "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Essential Beats, Vol.9",
+        "url": "https://open.spotify.com/album/2ei557S2aPyPih7ov1JhGV"
+      },
+      "artists": [
+        {
+          "name": "Phil Weeks",
+          "url": "https://open.spotify.com/artist/0ruxrxTRHzfO8KsLLNPNkK"
+        },
+        {
+          "name": "Ladybird",
+          "url": "https://open.spotify.com/artist/1nXlbKMRiXyiI6Rg1wnDOZ"
+        }
+      ],
+      "duration_ms": 380020,
+      "name": "Love Come Down - Main Mix",
+      "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2759,6 +2759,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Blaque House",
+        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
+      },
+      "artists": [
+        {
+          "name": "Jovonn",
+          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
+        }
+      ],
+      "duration_ms": 369946,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2pcBpS2hW2sxgFA61D3OVC"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/081ccWtCpuZsrPrxiFPA2k"
       },
@@ -2803,22 +2819,6 @@
       "duration_ms": 381386,
       "name": "Let's Do It Again - Kenny Dope O'gutta Remix",
       "url": "https://open.spotify.com/track/458Ky1y8fOO2ahnH4xEYO6"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Blaque House",
-        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
-      },
-      "artists": [
-        {
-          "name": "Jovonn",
-          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
-        }
-      ],
-      "duration_ms": 369946,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2pcBpS2hW2sxgFA61D3OVC"
     }
   ],
   "unique_name": "Soulful House Classics",

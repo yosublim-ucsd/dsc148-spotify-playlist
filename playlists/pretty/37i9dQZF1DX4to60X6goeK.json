@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 43909,
+  "num_followers": 43962,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2Y1ZjdlMDk5MDgyNTQ3M2Y4NDA5MTk4MzRjOTY0YzRkYTgzYTY1",
+  "snapshot_id": "MCw5YTA5ZTQxNDgyZTQ2ZGYzZWVlMjQxZWJjMWNmMWRhYTk3ZTgzMWNi",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -671,6 +671,38 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Skillz",
+        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Nu Elementz",
+          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 204621,
+      "name": "Skillz",
+      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Breathe (feat. RZA) [Ren\u00e9 LaVice Dark D&B Remix]",
         "url": "https://open.spotify.com/album/6dmrmMHEwhSDb593XSxc4M"
       },
@@ -715,6 +747,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Lady Petrol",
+        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 309986,
+      "name": "Lady Petrol",
+      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Us / When the Lights Go",
         "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
       },
@@ -747,38 +795,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Skillz",
-        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
-      },
-      "artists": [
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Nu Elementz",
-          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
-        },
-        {
-          "name": "MC Spyda",
-          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        }
-      ],
-      "duration_ms": 204621,
-      "name": "Skillz",
-      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
       },
@@ -795,6 +811,30 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Do It Like Me",
+        "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Complex",
+          "url": "https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 204364,
+      "name": "Do It Like Me",
+      "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Back To Normal",
         "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
       },
@@ -807,22 +847,6 @@
       "duration_ms": 268939,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Lady Petrol",
-        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Lady Petrol",
-      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -855,6 +879,22 @@
       "duration_ms": 275862,
       "name": "High Roller",
       "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 292117,
+      "name": "Transcend",
+      "url": "https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -927,46 +967,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Do It Like Me",
-        "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
-      },
-      "artists": [
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "Complex",
-          "url": "https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        }
-      ],
-      "duration_ms": 204364,
-      "name": "Do It Like Me",
-      "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 292117,
-      "name": "Transcend",
-      "url": "https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Kickons",
         "url": "https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9"
       },
@@ -979,6 +979,50 @@
       "duration_ms": 235862,
       "name": "Kickons",
       "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Money Moves (The Remixes)",
+        "url": "https://open.spotify.com/album/6XyppXwfyf3t1MzIr6qxl9"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Skamma",
+          "url": "https://open.spotify.com/artist/4GmeRSlqrWn9Tg4pVq7XmU"
+        },
+        {
+          "name": "J Wilz",
+          "url": "https://open.spotify.com/artist/16TZaFyJcaVRRfxznuLE2n"
+        },
+        {
+          "name": "LOAD B",
+          "url": "https://open.spotify.com/artist/19N4NQloPOR4JgS0s11hbF"
+        },
+        {
+          "name": "Weejii",
+          "url": "https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw"
+        },
+        {
+          "name": "Blu Bomma",
+          "url": "https://open.spotify.com/artist/4goT9h8GZ7ZKiyw9MxyJDh"
+        },
+        {
+          "name": "Kinetik",
+          "url": "https://open.spotify.com/artist/0LE12w6fWcmvb9eooXtpFl"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 264802,
+      "name": "Money Moves - Remix",
+      "url": "https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1031,26 +1075,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "3 Dots",
-        "url": "https://open.spotify.com/album/787GjxTZlFUiU6d0CzSPQt"
-      },
-      "artists": [
-        {
-          "name": "The Sauce",
-          "url": "https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG"
-        },
-        {
-          "name": "Jakes",
-          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "3 Dots",
-      "url": "https://open.spotify.com/track/09iyiGsA1NJ8GCHiog5fyj"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Cool Out Son",
         "url": "https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4"
       },
@@ -1075,46 +1099,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Money Moves (The Remixes)",
-        "url": "https://open.spotify.com/album/6XyppXwfyf3t1MzIr6qxl9"
+        "name": "3 Dots",
+        "url": "https://open.spotify.com/album/787GjxTZlFUiU6d0CzSPQt"
       },
       "artists": [
         {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+          "name": "The Sauce",
+          "url": "https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG"
         },
         {
-          "name": "Skamma",
-          "url": "https://open.spotify.com/artist/4GmeRSlqrWn9Tg4pVq7XmU"
-        },
-        {
-          "name": "J Wilz",
-          "url": "https://open.spotify.com/artist/16TZaFyJcaVRRfxznuLE2n"
-        },
-        {
-          "name": "LOAD B",
-          "url": "https://open.spotify.com/artist/19N4NQloPOR4JgS0s11hbF"
-        },
-        {
-          "name": "Weejii",
-          "url": "https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw"
-        },
-        {
-          "name": "Blu Bomma",
-          "url": "https://open.spotify.com/artist/4goT9h8GZ7ZKiyw9MxyJDh"
-        },
-        {
-          "name": "Kinetik",
-          "url": "https://open.spotify.com/artist/0LE12w6fWcmvb9eooXtpFl"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+          "name": "Jakes",
+          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
         }
       ],
-      "duration_ms": 264802,
-      "name": "Money Moves - Remix",
-      "url": "https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR"
+      "duration_ms": 268800,
+      "name": "3 Dots",
+      "url": "https://open.spotify.com/track/09iyiGsA1NJ8GCHiog5fyj"
     }
   ],
   "unique_name": "Jump Up!",

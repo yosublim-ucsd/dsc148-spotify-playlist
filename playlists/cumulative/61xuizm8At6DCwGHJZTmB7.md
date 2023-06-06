@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-278 songs - 1 day 2 hr 58 min
+279 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Healer](https://open.spotify.com/track/3U22Erp29T2a36lYMNjDrx) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Holy Ground](https://open.spotify.com/album/2SZGr3sHy7EwrVFKjJ44j6) | 5:17 | 2022-02-17 | 2023-01-05 |
 | [His Mercy Is More \- Live](https://open.spotify.com/track/3XEgNj1lizs0DO2Mwe2UA0) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Come To Jesus \(Rest In Him\)](https://open.spotify.com/album/4YuF1KBGzAG4QKQGlaqlGC) | 4:14 | 2022-05-25 | 2023-01-05 |
 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 | 2022-07-15 |  |
+| [Holy Forever \- Live From Good Friday 2023](https://open.spotify.com/track/3SOD2rOwadCSRKluvV36Sv) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Holy Forever \(Live From Good Friday 2023\)](https://open.spotify.com/album/6sYnxo5cymgC89xRShQiab) | 6:29 | 2023-06-05 |  |
 | [Holy Spirit \- Live](https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:09 | 2022-02-17 | 2023-04-15 |
 | [Homeward](https://open.spotify.com/track/7epIKdwFC8Z1aSM8PYJckw) | [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Homeward + Faith Is](https://open.spotify.com/album/6pQLTbobTMCPYDffQWRTzT) | 4:57 | 2022-02-17 | 2022-04-05 |
 | [Honey In The Rock \- Acoustic](https://open.spotify.com/track/41ZK33UgAK4PH3pav9ympu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Honey In The Rock](https://open.spotify.com/album/0VUoLZDfcSYFBw1hHqK45h) | 4:33 | 2022-07-01 | 2022-08-30 |

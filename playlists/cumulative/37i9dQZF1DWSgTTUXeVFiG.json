@@ -281,6 +281,28 @@
     },
     {
       "album": {
+        "name": "Todos Vuelven Live, Vol. 1",
+        "url": "https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS"
+      },
+      "artists": [
+        {
+          "name": "Ruben Blades",
+          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
+        },
+        {
+          "name": "Seis del Solar",
+          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360080,
+      "name": "Decisiones - Live",
+      "url": "https://open.spotify.com/track/0NZ5mg6DGJHdnQkQjtsGHb"
+    },
+    {
+      "album": {
         "name": "Live At The Cheetah, Vol. 1",
         "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
@@ -314,7 +336,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-06",
       "duration_ms": 500520,
       "name": "Desnudate Mujer",
       "url": "https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA"

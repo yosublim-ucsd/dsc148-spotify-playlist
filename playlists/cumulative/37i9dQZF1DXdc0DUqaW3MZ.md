@@ -4,7 +4,7 @@
 
 > 
 
-315 songs - 18 hr 59 min
+317 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Breathe In](https://open.spotify.com/track/3osAu1YKO9KBZnS5jGzKVl) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:57 | 2022-06-20 |  |
 | [Breathin'](https://open.spotify.com/track/7ngqJb8GdQdZbZpRVFqrQA) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Clara Serra López](https://open.spotify.com/artist/1hU11hTmHiEJqD1beShi9I) | [Breathin'](https://open.spotify.com/album/2PjrdwVGqJ5XadQQcIIAdB) | 4:18 | 2021-12-07 | 2022-07-27 |
 | [Brooklyn Ballers](https://open.spotify.com/track/5rLvASDpyKgO9pP1tO6LEr) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Brooklyn Ballers](https://open.spotify.com/album/0KAnKmRLfpp4cl7no7MMk9) | 4:22 | 2022-04-11 | 2023-02-02 |
-| [Brooklyn Ballers](https://open.spotify.com/track/32yHBkF9L1WEHskN9gDePp) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V) | 4:24 | 2022-06-20 |  |
+| [Brooklyn Ballers](https://open.spotify.com/track/32yHBkF9L1WEHskN9gDePp) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V) | 4:24 | 2022-06-20 | 2023-06-06 |
+| [Brooklyn Ballers](https://open.spotify.com/track/6It85s3KMaxCxIppRGx5U8) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third \(Deluxe\)](https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx) | 4:24 | 2022-06-20 |  |
 | [Cabrio](https://open.spotify.com/track/0s8pNfoWRBD2yVGW1A8U5A) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Cabrio](https://open.spotify.com/album/0ZBqW1VjcmL4bjeuJhYlxa) | 2:19 | 2021-12-07 | 2022-04-21 |
 | [Cake](https://open.spotify.com/track/2ygZBYHY5708auyuPShucL) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Cake](https://open.spotify.com/album/5DiX06MBaTKEH2DpiZ5UGp) | 3:35 | 2022-04-11 | 2022-04-20 |
 | [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 | 2021-12-07 |  |
@@ -163,6 +164,7 @@
 | [It's Just Life](https://open.spotify.com/track/1uiEvyc89KRSk4K0bUvfVb) | [Pinty](https://open.spotify.com/artist/0TUhwf3LG9K23fyL6oftFV) | [It's Just Life](https://open.spotify.com/album/6QjsLV417HL4BzOoVGZ9Bl) | 3:32 | 2022-01-28 | 2022-04-19 |
 | [It's Nice to Be Alive](https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5) | 3:25 | 2022-06-20 | 2023-05-06 |
 | [It's Nice to Be Alive](https://open.spotify.com/track/0ufCBxOl6vL8Yhcu2Jl2a4) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [It's Nice to Be Alive](https://open.spotify.com/album/5HUfO00VGHwPLqx2rNCkE7) | 3:25 | 2021-12-07 | 2022-07-20 |
+| [It's Nice to Be Alive](https://open.spotify.com/track/2vVMA6goXUgJSKcnnQrgin) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g) | 3:25 | 2022-06-20 |  |
 | [Jealousy](https://open.spotify.com/track/1pHU8ttAqWRRGCvnoGOY3g) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN) | 2:18 | 2022-06-20 |  |
 | [Jealousy](https://open.spotify.com/track/2hZ81TNFhnuh6CURag4hif) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Jealousy](https://open.spotify.com/album/10ZMrVI82W3MRPacYteBTl) | 2:18 | 2022-05-06 | 2023-02-03 |
 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 | 2022-04-11 |  |
@@ -197,7 +199,7 @@
 | [LUCY\* \- Demo](https://open.spotify.com/track/1WufkAnniUD5cUly9BtAMG) | [OZZIE](https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p) | [LUCY\* \(Demo\)](https://open.spotify.com/album/68wKwptRTU1KhqtxKJNAsx) | 2:07 | 2022-04-11 | 2022-04-19 |
 | [Mantra](https://open.spotify.com/track/2Dz6gemycfaKd5sAzvgQfh) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [Taliwhoah](https://open.spotify.com/artist/69SXADQsOhdGkhPGslLhBT) | [Mantra](https://open.spotify.com/album/7AUvw2JDLDMKj2SytE0LBv) | 4:01 | 2021-12-07 | 2022-03-06 |
 | [Marrakech](https://open.spotify.com/track/4YLbQGnk6iIgelpUIwbmxm) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Beat Tape 1](https://open.spotify.com/album/2FVfODkF1inBzSwB2plsYk) | 2:08 | 2021-12-07 | 2022-07-22 |
-| [Marrakech](https://open.spotify.com/track/5HP7n0axbv3DfevQioA0AC) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Beat Tape 1](https://open.spotify.com/album/40Mqbtsj8nLldcDFHCyJ82) | 2:08 | 2022-06-20 |  |
+| [Marrakech](https://open.spotify.com/track/5HP7n0axbv3DfevQioA0AC) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Beat Tape 1](https://open.spotify.com/album/40Mqbtsj8nLldcDFHCyJ82) | 2:08 | 2022-06-20 | 2023-06-06 |
 | [ME!](https://open.spotify.com/track/5bOj8Ld0sxtbUsIAkGOhgu) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [ME!](https://open.spotify.com/album/0mGi37LiQDvXXMFT1nrM86) | 3:11 | 2021-12-07 | 2023-02-11 |
 | [Mescaline Smoke](https://open.spotify.com/track/5cWFCHcQCw7swhzccfL2C7) | [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [Soundless Motion](https://open.spotify.com/album/3ncn7vbzU56hjVsrTmdXm1) | 4:34 | 2022-04-11 | 2022-04-19 |
 | [Microwave](https://open.spotify.com/track/41R9u68DM9XHUlDoceGgLY) | [Zoee](https://open.spotify.com/artist/4ah1FGJr1ISh6DUmYFivSo) | [Microwave](https://open.spotify.com/album/4DPu5cmCZrfYf5jwa9XvLY) | 3:20 | 2022-04-11 | 2022-04-19 |

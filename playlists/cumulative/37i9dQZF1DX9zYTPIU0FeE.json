@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX?si=oH3MnPzfRn2iTBrx8atqgg\">Vuma Levin</a>.",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W?si=GP9jNBeSSn6r1Du3cc3Eww\">Benjamin Jephta</a>.",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -546,6 +546,24 @@
       "duration_ms": 297706,
       "name": "Fola",
       "url": "https://open.spotify.com/track/07Chzakk9H5rzuoNLfrVq3"
+    },
+    {
+      "album": {
+        "name": "Born Coloured, not Born-Free",
+        "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Jephta",
+          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334300,
+      "name": "Gadija (Pt. 1)",
+      "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
     },
     {
       "album": {

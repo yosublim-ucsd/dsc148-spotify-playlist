@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 223363,
+  "num_followers": 223940,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDk2NmZhNDc3ZDNkNTQ4OTY3MDBlMzA5YzJjNDYxMmVjNzQ1Y2Ew",
+  "snapshot_id": "MCwxYjY1NTE2MTcxMGVlM2YyNDFmZjIwY2QxZjIzNDk3ZWI1MjU3NzM4",
   "tracks": [
     {
       "added_at": "2023-05-25 08:07:45",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-05-25 08:07:45",
       "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 132206,
+      "name": "Dad Vibes",
+      "url": "https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI"
+    },
+    {
+      "added_at": "2023-05-25 08:07:45",
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
@@ -591,42 +607,6 @@
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
-    },
-    {
-      "added_at": "2023-05-25 08:07:45",
-      "album": {
-        "name": "The Hunting Party",
-        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        }
-      ],
-      "duration_ms": 355120,
-      "name": "Guilty All the Same (feat. Rakim)",
-      "url": "https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui"
-    },
-    {
-      "added_at": "2023-05-25 08:07:45",
-      "album": {
-        "name": "STILL SUCKS",
-        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 132206,
-      "name": "Dad Vibes",
-      "url": "https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI"
     },
     {
       "added_at": "2023-05-25 08:07:45",
@@ -655,6 +635,26 @@
       "duration_ms": 234160,
       "name": "Close Your Eyes (And Count to Fuck)",
       "url": "https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136"
+    },
+    {
+      "added_at": "2023-05-25 08:07:45",
+      "album": {
+        "name": "The Hunting Party",
+        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "duration_ms": 355120,
+      "name": "Guilty All the Same (feat. Rakim)",
+      "url": "https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui"
     },
     {
       "added_at": "2023-05-25 08:07:45",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-05-25 08:07:45",
       "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 361360,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
+    },
+    {
+      "added_at": "2023-05-25 08:07:45",
+      "album": {
         "name": "Elephunk",
         "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 234533,
       "name": "Let's Roll",
       "url": "https://open.spotify.com/track/61Qah5aEk9024AEaXCgXtN"
-    },
-    {
-      "added_at": "2023-05-25 08:07:45",
-      "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 361360,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
     },
     {
       "added_at": "2023-05-25 08:07:45",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-05-25 08:07:45",
       "album": {
+        "name": "Only In Amerika",
+        "url": "https://open.spotify.com/album/6asMjHG61jnEVBsoScskM6"
+      },
+      "artists": [
+        {
+          "name": "(Hed) P.E.",
+          "url": "https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v"
+        }
+      ],
+      "duration_ms": 309666,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/3MmNP0Ey7mtyWY6DbsibtW"
+    },
+    {
+      "added_at": "2023-05-25 08:07:45",
+      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 382826,
       "name": "Rollin' (Urban Assault Vehicle)",
       "url": "https://open.spotify.com/track/3nsxMrnYlfBNotHRevTRgM"
-    },
-    {
-      "added_at": "2023-05-25 08:07:45",
-      "album": {
-        "name": "Only In Amerika",
-        "url": "https://open.spotify.com/album/6asMjHG61jnEVBsoScskM6"
-      },
-      "artists": [
-        {
-          "name": "(Hed) P.E.",
-          "url": "https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v"
-        }
-      ],
-      "duration_ms": 309666,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/3MmNP0Ey7mtyWY6DbsibtW"
     },
     {
       "added_at": "2023-05-25 08:07:45",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-05-25 08:07:45",
       "album": {
+        "name": "Lemonade (with Denzel Curry)",
+        "url": "https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 165685,
+      "name": "Lemonade (with Denzel Curry)",
+      "url": "https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL"
+    },
+    {
+      "added_at": "2023-05-25 08:07:45",
+      "album": {
         "name": "Prophets Of Rage",
         "url": "https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 275973,
       "name": "This Means War!! (feat. Ozzy Osbourne)",
       "url": "https://open.spotify.com/track/2wIujxyI75Z6HQuq0NmJiR"
-    },
-    {
-      "added_at": "2023-05-25 08:07:45",
-      "album": {
-        "name": "Lemonade (with Denzel Curry)",
-        "url": "https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 165685,
-      "name": "Lemonade (with Denzel Curry)",
-      "url": "https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL"
     },
     {
       "added_at": "2023-05-25 08:07:45",

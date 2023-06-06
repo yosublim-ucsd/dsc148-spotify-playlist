@@ -1,12 +1,12 @@
 {
   "description": "Jennie's tv idol era is about to begin!",
-  "num_followers": 2054629,
+  "num_followers": 2054919,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTA4NDNhNjllNzg1Nzc2NzQ3N2IwNmRkZWEyMzg1YWZmNGIyZWU3",
+  "snapshot_id": "MCwxMjdlZWNjOTBiY2U1YzkwOTJjODE4ZWViZjNlYjk0MzE1ODUyMWUy",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -163,6 +163,26 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "added_at": "2023-06-05 16:54:20",
+      "album": {
+        "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
+        "url": "https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
+      "url": "https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE"
     },
     {
       "added_at": "2023-03-14 14:50:14",

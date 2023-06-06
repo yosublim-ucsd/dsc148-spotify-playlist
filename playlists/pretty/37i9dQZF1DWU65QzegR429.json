@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. ",
-  "num_followers": 8395,
+  "num_followers": 8417,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmEyMDhlMjcxNTFiNzE1OWE3ZjNlNDQ2YzEwZTZlOWQ0ZWRjNGQ4",
+  "snapshot_id": "MCwxNDVlMjc2YTQyZGI1YTkwYjUxOWRiOWU1NDEwM2I3ZWFiZTI4YzAz",
   "tracks": [
     {
       "added_at": "2023-04-03 18:54:44",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+        "name": "KI-KI",
+        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
         }
       ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+      "duration_ms": 141335,
+      "name": "KI-KI",
+      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "KI-KI",
-        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "KI-KI",
-      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "No Me Rajo",
         "url": "https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv"
       },
@@ -243,22 +227,6 @@
       "duration_ms": 165506,
       "name": "No Me Rajo",
       "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
-        "name": "Tibro",
-        "url": "https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "Perdida",
-      "url": "https://open.spotify.com/track/0S1a5taT51Mk1WVx1IwuFp"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -279,6 +247,22 @@
       "duration_ms": 210893,
       "name": "Chivirika",
       "url": "https://open.spotify.com/track/6RaabFZyIbKpoC2Xh8XeXZ"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Tibro",
+        "url": "https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 152546,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/0S1a5taT51Mk1WVx1IwuFp"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -355,6 +339,22 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
+        "name": "Booty Puty",
+        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 176991,
+      "name": "Booty Puty",
+      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Booty Puty",
-        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 176991,
-      "name": "Booty Puty",
-      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -407,6 +407,26 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Taka Taka",
+        "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
+        }
+      ],
+      "duration_ms": 155326,
+      "name": "Taka Taka",
+      "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -451,26 +471,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Taka Taka",
-        "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "PV Aparataje",
-          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
-        }
-      ],
-      "duration_ms": 155326,
-      "name": "Taka Taka",
-      "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "Dembow Dominicano",
         "url": "https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB"
-      },
-      "artists": [
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 145576,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "Claramente",
         "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 182542,
       "name": "Claramente",
       "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB"
+      },
+      "artists": [
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 145576,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Betty",
-        "url": "https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve"
-      },
-      "artists": [
-        {
-          "name": "J Noa",
-          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
-        }
-      ],
-      "duration_ms": 173894,
-      "name": "Betty",
-      "url": "https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "Sugar Boi",
         "url": "https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 169336,
       "name": "Si Tu Quieres",
       "url": "https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve"
+      },
+      "artists": [
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        }
+      ],
+      "duration_ms": 173894,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Probando Freestyle",
-        "url": "https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC"
-      },
-      "artists": [
-        {
-          "name": "Gailen La Moyeta",
-          "url": "https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir"
-        }
-      ],
-      "duration_ms": 65759,
-      "name": "Probando Freestyle",
-      "url": "https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "Pa' El Alma",
         "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 200930,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Probando Freestyle",
+        "url": "https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC"
+      },
+      "artists": [
+        {
+          "name": "Gailen La Moyeta",
+          "url": "https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir"
+        }
+      ],
+      "duration_ms": 65759,
+      "name": "Probando Freestyle",
+      "url": "https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "KLK TE PASA A TI",
-        "url": "https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3"
-      },
-      "artists": [
-        {
-          "name": "Rosaly Rubio",
-          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "KLK TE PASA A TI",
-      "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "94",
         "url": "https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 153680,
       "name": "94",
       "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "KLK TE PASA A TI",
+        "url": "https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3"
+      },
+      "artists": [
+        {
+          "name": "Rosaly Rubio",
+          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "KLK TE PASA A TI",
+      "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
     },
     {
       "added_at": "2023-04-03 18:54:44",

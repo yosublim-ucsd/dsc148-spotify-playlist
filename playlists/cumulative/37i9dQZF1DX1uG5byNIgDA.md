@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-339 songs - 19 hr 2 min
+340 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2021-12-06 |  |
 | [Mixtape : OH](https://open.spotify.com/track/4SG1tUCousFCmPeayNNelN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : OH](https://open.spotify.com/album/4ETs8IH0JzWfjv8OWql58f) | 3:32 | 2021-12-06 | 2022-07-29 |
 | [Mixtape : OH](https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:32 | 2022-07-04 | 2023-03-28 |
-| [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2022-08-15 |  |
+| [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2022-08-15 | 2023-06-06 |
+| [Mixtape : Time Out](https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 2:55 | 2023-05-23 |  |
 | [Monday 월요일](https://open.spotify.com/track/3fe9nxKo2Mnv3ArleWImn9) | [Life of Hojj](https://open.spotify.com/artist/0wiFPe2WbdmTEbr2Knl4Cb) | [Lonely Hours](https://open.spotify.com/album/2kKEQm1UfK2uFfKbh2eFTK) | 2:52 | 2021-12-06 | 2022-07-29 |
 | [Moon](https://open.spotify.com/track/2sv3Z9j2c7HW2UL6ye6osi) | [승오](https://open.spotify.com/artist/7mHz1G1J0CoJ6LwDuecN9e), [WR](https://open.spotify.com/artist/0NJIG6q0zE2TxRjLBUBWaf) | [MOON](https://open.spotify.com/album/31o11lMzKx6RGHqpss0VUA) | 2:21 | 2022-02-16 | 2022-04-18 |
 | [Moonshot](https://open.spotify.com/track/17wECh3CzqeHm48pqm544P) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Man on the Moon](https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T) | 3:00 | 2021-12-06 | 2022-05-04 |

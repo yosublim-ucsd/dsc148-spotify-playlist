@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=3Sh4GELpQmyIpq1YC1BnIg"> Burna Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,551 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,446 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 43 | [Abracadabra](https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Abracadabra](https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY) | 3:02 |
 | 44 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 |
 | 45 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 |
-| 46 | [Love \- Nigeria Remix](https://open.spotify.com/track/54YbT22Ajdjy56jBXlg1zC) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Love \(Nigeria Remix\)](https://open.spotify.com/album/43hfZzgBi49HXotvKr9Dx0) | 3:11 |
+| 46 | [Love \- Nigeria Version](https://open.spotify.com/track/54YbT22Ajdjy56jBXlg1zC) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Love \(Nigeria Version\)](https://open.spotify.com/album/43hfZzgBi49HXotvKr9Dx0) | 3:11 |
 | 47 | [Full Set \(feat\. Chley & Keynote\)](https://open.spotify.com/track/5qFd06aq5VL6U0lVE2c7Cv) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Keynote](https://open.spotify.com/artist/5it8lnSTlpMfnKnrMrfZzE) | [The III Wise Men](https://open.spotify.com/album/4D8HZrq24Rh4hdJ1NS3ZIB) | 7:26 |
 | 48 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
 | 49 | [Apotheke](https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 4:34 |
 | 50 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 |
 
-Snapshot ID: `MCwxOTkxZWNjZDFjMjUxZThiMGQ4ZGYyOTM3NzQwNTc3MTJkNTQzMTlk`
+Snapshot ID: `MCxhNzlmYjQzMTE0MTcwMWU1MjM2YzAzZDBlNWEzYWVjYTNmZWFmMjYz`

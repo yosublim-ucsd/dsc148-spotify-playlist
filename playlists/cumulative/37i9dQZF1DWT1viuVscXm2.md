@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-227 songs - 13 hr 22 min
+228 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Esperandote](https://open.spotify.com/track/1p8dnCh9eOPVARLbIrpPWV) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Esperandote](https://open.spotify.com/album/30lzvxFlN1pmaa0NqUSvZ1) | 3:48 | 2021-12-24 | 2023-02-04 |
 | [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 | 2021-12-24 |  |
 | [Feliz Con Verte](https://open.spotify.com/track/40ronkEk3PwpyfZ1oKeL9Y) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/0N5JDBWzj7yal3Z2QMpcsx) | 3:13 | 2021-12-24 | 2022-04-16 |
+| [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-06-05 |  |
 | [Fue Difícil](https://open.spotify.com/track/3p9UeIicVHsdEUBucLJqes) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/0cWsxDLP7WMqbs6Yiui0yH) | 3:46 | 2021-12-24 | 2022-07-29 |
 | [Fue Difícil](https://open.spotify.com/track/6949gWWMFg0NWjam6SkCDA) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2zJ3aQpwT8EmleuSKUEsdD) | 3:46 | 2022-07-22 |  |
 | [Fue Difícil](https://open.spotify.com/track/3R6zKiVOHM9WdnL8PvtrKK) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Difícil](https://open.spotify.com/album/2I99BEAGEhgr0T0jsNVRzt) | 3:46 | 2022-10-28 | 2022-11-13 |
@@ -146,7 +147,7 @@
 | [O Me Voy O Te Vas](https://open.spotify.com/track/5L4UniqOA53WswdQRc4lxH) | [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [O Me Voy O Te Vas](https://open.spotify.com/album/73PgMjbUraBmIa68eOLr2k) | 5:02 | 2022-04-08 |  |
 | [Olvidala \- Acústico](https://open.spotify.com/track/5SZ0c97z9IMsOK7DNRb0wU) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Olvidala \(Acústico\)](https://open.spotify.com/album/5OPH0yu43rBlCeSMiSSXLz) | 4:53 | 2022-04-15 | 2022-09-03 |
 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 | 2021-12-24 |  |
-| [Pa' que Tenga Swing](https://open.spotify.com/track/4eQuOFEmj4lQkIGq2oBCOq) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Pa' que Tenga Swing](https://open.spotify.com/album/13cJhpNH3hzsKOXj3Whl2F) | 2:55 | 2022-07-22 |  |
+| [Pa' que Tenga Swing](https://open.spotify.com/track/4eQuOFEmj4lQkIGq2oBCOq) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Pa' que Tenga Swing](https://open.spotify.com/album/13cJhpNH3hzsKOXj3Whl2F) | 2:55 | 2022-07-22 | 2023-06-06 |
 | [Paisaje](https://open.spotify.com/track/42p8jn5G8jYu3QO2FtuGb2) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Paisaje](https://open.spotify.com/album/6oZd67xjI9Y4Hs389kVVvt) | 4:22 | 2021-12-24 | 2022-01-08 |
 | [Paisaje](https://open.spotify.com/track/4EDCymZo79P1adudaFnOmj) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Paisaje](https://open.spotify.com/album/5L31DZVxy3JHpFalfYXKDp) | 4:36 | 2022-07-15 |  |
 | [Para Que](https://open.spotify.com/track/49DzDxHRQqbA7GpHjO6wIX) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ilan Amores](https://open.spotify.com/artist/0gQKzAKJSt3Ko7SKEr9y9z) | [Para Que](https://open.spotify.com/album/35ZdgTDH1P9q1PGqskBKH3) | 3:57 | 2022-09-09 | 2023-01-14 |

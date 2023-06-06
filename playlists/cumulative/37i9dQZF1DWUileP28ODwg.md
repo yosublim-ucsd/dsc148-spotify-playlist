@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-300 songs - 18 hr 31 min
+301 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [KEEP YOUR WORD](https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [KEEP YOUR WORD / GOODBYES](https://open.spotify.com/album/2K3Ed5r7nyX64TYxKlaH4n) | 3:10 | 2022-07-08 | 2023-03-11 |
 | [King Of Kings](https://open.spotify.com/track/0bHChHKTmyzZkXxGz7qfVm) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [King Of Kings](https://open.spotify.com/album/2LO7j9mYezEdSEstvoFuKv) | 4:01 | 2022-08-26 |  |
 | [Landslide](https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Landslide](https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF) | 3:04 | 2022-04-29 | 2023-03-11 |
-| [Leave A Light On](https://open.spotify.com/track/6Tqm0Fo4yLKec09auSBTFC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:00 | 2022-02-25 |  |
+| [Leave A Light On](https://open.spotify.com/track/6Tqm0Fo4yLKec09auSBTFC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:00 | 2022-02-25 | 2023-06-06 |
 | [Left It In The Water \- Edit](https://open.spotify.com/track/60uRJX8t222gQYqiv3FgRn) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Left It In The Water](https://open.spotify.com/album/55DXaaOhUleFBNezGL6PGM) | 3:34 | 2022-08-26 | 2022-10-02 |
 | [Let Me In](https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Let Me In](https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3) | 3:29 | 2022-04-22 | 2022-07-09 |
 | [Letting Go](https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Letting Go](https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF) | 3:46 | 2022-02-25 | 2022-06-11 |
@@ -220,6 +220,7 @@
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-02-25 | 2022-08-27 |
 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/6QoNnPbVjUm2doVrqfl8JC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Acoustic Sessions\)](https://open.spotify.com/album/6ptJ2eWD8XmTwzeTgFUebR) | 4:32 | 2022-07-08 |  |
 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/7BAPIZgldsXfRcQs0bybAC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Reason I Sing \(Acoustic\)](https://open.spotify.com/album/0yXtdv0BpUh4LsVmroNoSm) | 4:32 | 2022-03-11 | 2022-07-29 |
+| [Rejoice](https://open.spotify.com/track/1QMXR5HEcic19jfv6AhaLh) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/0hz5LRsLloj4raXH1EF3f1) | 3:47 | 2023-03-10 |  |
 | [Rejoice](https://open.spotify.com/track/7tyPrq1HOd2wNG0Ga6H1JW) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/5gYXqVgY9nDZQUKI6g9FiZ) | 3:47 | 2022-10-01 | 2023-05-03 |
 | [RELATE](https://open.spotify.com/track/5h0DGzgQpKTyXL0bH5cvXZ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RELATE](https://open.spotify.com/album/7vGlKPoTxlj5GwzVos60Yr) | 2:53 | 2022-02-25 | 2022-03-12 |
 | [Remember](https://open.spotify.com/track/3lE2ganUNX7vhzfIrpkZlv) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Remember](https://open.spotify.com/album/1hafawbr58odnjeRt2w5wm) | 3:17 | 2022-02-25 | 2022-05-29 |

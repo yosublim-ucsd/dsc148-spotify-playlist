@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-207 songs - 13 hr 27 min
+208 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Our Souls at Night](https://open.spotify.com/track/5ROchU8ANsBfStFVsTB3r2) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/3W8Hz0b4lecqK6EGKttjwf) | 4:43 | 2022-05-11 | 2022-07-26 |
 | [Photo of My Mind](https://open.spotify.com/track/6SOw5YcoAXoKphG5iPzXEz) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/1FqkBTEnhrkGzu934rDADs) | 4:32 | 2022-05-11 | 2022-06-01 |
 | [Please Don't Cry](https://open.spotify.com/track/5pmhDbaeNG5Y31mCGK07JE) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6ZGUvD476odOT0J0SdK8L5) | 3:55 | 2022-05-11 | 2022-07-29 |
-| [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 | 2022-05-11 |  |
+| [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 | 2022-05-11 | 2023-06-06 |
 | [Rain or Shine](https://open.spotify.com/track/5KgiTDTshu1Hdc2lbcVs76) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [A PIECE OF YOUR MIND \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2Mq6OLmul8tW8lZj2U5XhY) | 4:22 | 2022-05-11 | 2022-07-29 |
 | [Reaching Hand](https://open.spotify.com/track/4IX9vuZUY0982VbVxiPeGa) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Search: WWW \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7zskmPQnX5hgBit6vA3oLo) | 4:06 | 2022-10-06 | 2023-03-14 |
 | [Repeatedly](https://open.spotify.com/track/0cJjwKRBzxafqKJlRAwuE9) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Penthouse2 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/21zg2W8KpUED6ljxAKDEGo) | 3:37 | 2022-06-24 | 2022-07-08 |
@@ -172,6 +172,7 @@
 | [Sunset](https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I) | 3:36 | 2022-06-24 |  |
 | [Superstar](https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi) | 3:36 | 2022-05-11 | 2022-07-27 |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2022-05-11 | 2023-06-04 |
+| [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 | 2023-03-13 |  |
 | [SWEETEST THING](https://open.spotify.com/track/3XFlKoTOgfMzUJmpwFp0ri) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Chocolate,Pt.1\(Original Television Soundtrack\)](https://open.spotify.com/album/6yUiH6Ny04UXYdGtkTQOUL) | 3:38 | 2022-06-24 | 2022-06-29 |
 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 | 2022-05-11 | 2022-07-27 |
 | [The Day We Met](https://open.spotify.com/track/6fvdgaXO0fr8MZOnCF8vX0) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Encounter \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3pLqd71kz9hQpXmPJWbONv) | 3:54 | 2022-06-24 | 2022-07-02 |
