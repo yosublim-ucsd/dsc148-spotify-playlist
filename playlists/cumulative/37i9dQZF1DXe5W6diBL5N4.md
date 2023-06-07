@@ -2,9 +2,9 @@
 
 ### [New Music K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> Enjoy the freshest K\-Pop new releases \(Cover: XODIAC\)
+> Enjoy the freshest K\-Pop new releases \(Cover: TAEYONG\(태용\)\)
 
-5,583 songs - 13 day 10 hr 38 min
+5,588 songs - 13 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | ["Come to Chuncheon"song](https://open.spotify.com/track/6Zug9XbF8doQY4Hrbad4nK) | [Leesiwon, Leejiwon](https://open.spotify.com/artist/7MwXkIMCGOqUfoQQTnJ8FQ) | [chuncheon 'accidentally Project' Part.4](https://open.spotify.com/album/7GpOJ3mi0B27ojnkZlwevC) | 2:32 | 2022-07-11 | 2022-07-28 |
 | [\#000000](https://open.spotify.com/track/0u3kHLmxNdplGvVKcQLghr) | [Siera](https://open.spotify.com/artist/1YiIr2WxBXFVOy9oMq7kCS) | [SR : BLACK](https://open.spotify.com/album/4iS6oODcmwfUvT7StkFwKB) | 3:39 | 2023-01-02 | 2023-01-12 |
 | [\#DONMALIKSMTM11](https://open.spotify.com/track/1rzhbR6ZTIUe9a35Q53bBb) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [\#DONMALIKSMTM11](https://open.spotify.com/album/705lZ6ZDJSAFhL7xpEPXPs) | 2:14 | 2022-08-12 | 2022-08-20 |
+| [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 | 2023-06-06 |  |
 | [\#MOOD](https://open.spotify.com/track/2GJeUJkxsnorPIvY3APdE8) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [THE EARTH : SECRET MISSION Chapter.2](https://open.spotify.com/album/0dGBiIHys0Grn2ArCGuWWC) | 2:47 | 2022-07-07 | 2022-07-20 |
 | [\#OLLAGANDA 2 \(Feat\. SINCE\)](https://open.spotify.com/track/26nNwfqSAccfPJxxGKRj7S) | [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [\#OLLAGANDA 2](https://open.spotify.com/album/3aS8tgJmnH0Yxvx2XZYhLU) | 3:18 | 2022-12-05 | 2022-12-22 |
 | [\#Self\_Trip](https://open.spotify.com/track/2I0uCY7VX3XkMx9s6gMM4K) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [mOS 2.74](https://open.spotify.com/album/4vDtSmZdZmkmoqNdh9Lpcv) | 3:01 | 2022-04-28 | 2022-05-06 |
@@ -1789,6 +1790,7 @@
 | [Grabby Girl](https://open.spotify.com/track/5OmserAorDIC868Ku4xr0Z) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Archive of Emotions](https://open.spotify.com/album/4SO5d4ADjiyd17Tl9E1e03) | 2:33 | 2023-04-20 |  |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-04 | 2022-07-12 |
 | [graduation](https://open.spotify.com/track/2NcBIGZeUFuKK8gcYNqh5b) | [KIM YEO MYUNG](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [graduation](https://open.spotify.com/album/1qsxBkcePlbnzzRQt6FR1a) | 3:16 | 2022-07-14 | 2022-07-28 |
+| [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 | 2023-06-06 |  |
 | [grandma](https://open.spotify.com/track/5zNOL2fSejhFBu0x5eADY2) | [nijuu](https://open.spotify.com/artist/5DOwMhG96lFhlPpNG9oaWW) | [mother tongue](https://open.spotify.com/album/6SLOuqIcXh82MAYRlmJEb9) | 2:56 | 2023-05-01 |  |
 | [Grandpa's Book](https://open.spotify.com/track/3tDKesD1Mw1BxfN99UO69r) | [JEONTAEWON](https://open.spotify.com/artist/57I8hoEk21pfPwjVJvJB8U) | [Grandpa's Book](https://open.spotify.com/album/0B8tJ7CCfWr2ejrKfBJavA) | 3:21 | 2022-04-19 | 2022-05-03 |
 | [GRATATA](https://open.spotify.com/track/78V1UN9fEZw2b9rYkwDmTj) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [GIRL's ROUND Pt\. 1](https://open.spotify.com/album/3lDNlx3DMHYYlT7EXhbAB6) | 3:20 | 2022-09-22 | 2022-11-07 |
@@ -2758,6 +2760,7 @@
 | [Love Drive \(Feat\. meenoi\)](https://open.spotify.com/track/5AQZwP9FrHH9ixomb8EL7b) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Love Drive \(Feat\. meenoi\)](https://open.spotify.com/album/4XV0wqQqnfIzsAFuZeyQYO) | 4:46 | 2022-09-19 | 2022-11-07 |
 | [Love Each Other](https://open.spotify.com/track/1MAWAwi7CQDZyZuIsjgIa2) | [HAEDEUN](https://open.spotify.com/artist/2cWWliWQ6Ziim9v8RKK9SI) | [Love Each Other](https://open.spotify.com/album/2lugWah96q2znqUjsoZyb3) | 4:05 | 2022-06-07 | 2022-06-19 |
 | [love ends](https://open.spotify.com/track/74FPQJJ6ao6V8NCBKb1Yjl) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [love ends](https://open.spotify.com/album/5u9HYEIX9G5QMAiwNjHQ0w) | 4:07 | 2023-02-27 | 2023-03-28 |
+| [Love from a Real Heart\(2023\)](https://open.spotify.com/track/0Muf8pCSuf50DOoWs9ABVz) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/5N1C8ku1f0eBcsPPlNOvxI) | 4:20 | 2023-06-06 |  |
 | [Love Has Come](https://open.spotify.com/track/2rpDaKl43i3upa2gA5U4Mj) | [박은별](https://open.spotify.com/artist/6eND6gC0dTpsXrhY0If1Gp) | [Love Has Come](https://open.spotify.com/album/7pLEQP2V4TkCTCr2n2vhzV) | 3:59 | 2023-01-31 | 2023-02-15 |
 | [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 | 2023-01-31 | 2023-02-15 |
 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 | 2022-04-19 | 2022-04-23 |
@@ -3493,6 +3496,7 @@
 | [ouu weeeeeee](https://open.spotify.com/track/2EjpgnLNcREqUCBcWNU9OA) | [lil thunder](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW) | [Demon girl](https://open.spotify.com/album/3FE3HYVNQo4l5wQi3Q2uMk) | 2:18 | 2023-03-17 | 2023-03-28 |
 | [ouu weeeeeee](https://open.spotify.com/track/3y0IgO0UXVS2tOXBwlEYo7) | [lil thunder](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW) | [Demon girl](https://open.spotify.com/album/4GT0c9mZjRJsD7SuTHFl1I) | 2:18 | 2023-03-13 | 2023-03-19 |
 | [Over That](https://open.spotify.com/track/7A4ZnRRrvnkpxENPHkGdEN) | [ROCKY](https://open.spotify.com/artist/4EqyJYhsMeyzJLdQNlRMef) | [Broke Rookie Star \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6s1yABIimFcJMLabEc4huW) | 3:30 | 2022-05-22 | 2022-06-10 |
+| [Over The Mountain \(Prod\. dress\)](https://open.spotify.com/track/5AHXMr5z1TfXXi91ZpsYhG) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Over The Mountain \(Prod\. dress\)](https://open.spotify.com/album/7rWOcf4qhHuQssqWnXqyNo) | 3:34 | 2023-06-06 |  |
 | [Over You](https://open.spotify.com/track/6w4hZ9LHM2m1xHqnPvrDPk) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [Over You](https://open.spotify.com/album/1WuXGnoEW3POjOwzaO3We2) | 3:15 | 2022-05-22 | 2022-06-10 |
 | [over you](https://open.spotify.com/track/61433ZY1sgJDjhAEy2WvNu) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [over you](https://open.spotify.com/album/5luARthI9NAWcLRo03wXMS) | 2:56 | 2022-06-16 | 2022-06-24 |
 | [Over\-Adaptation](https://open.spotify.com/track/4litdby90raKhdbjiCLK59) | [Lee Hyun Jun](https://open.spotify.com/artist/6HoP7A5DchkLchV82jDLDm) | [TRANSLATION ADDICTION](https://open.spotify.com/album/7J2r0QIm8X2owl5FEqTsiP) | 3:49 | 2022-08-15 | 2022-08-27 |
@@ -3974,6 +3978,7 @@
 | [Shadow Love](https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [The Interest of Love \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M) | 3:55 | 2023-02-08 | 2023-02-28 |
 | [Shaggy Cut \(Feat\. Yoo Byungjae, Jonathan\)](https://open.spotify.com/track/4brap89LunBrn34LdqBlmm) | [UV](https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem), [YOO BYUNG JAE](https://open.spotify.com/artist/5wv1MlTfTujXaM5YWmnWnY), [Jonathan](https://open.spotify.com/artist/2CLJs9ULGyrYgNPvuiyuPE) | [Shaggy Cut](https://open.spotify.com/album/6YKMaxJwg7AkTbk4YQxpxm) | 4:00 | 2023-04-24 |  |
 | [Shake \- Live](https://open.spotify.com/track/70u1cegwxHgpubSGoee101) | [Chae Yeon](https://open.spotify.com/artist/4GKICdZK1BkL2ksxBEiMRR), [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [Famous Singers \- Battle Again Pt.9](https://open.spotify.com/album/76zwSUpdcDC69SxuVgS6LV) | 3:47 | 2022-06-27 | 2022-07-05 |
+| [SHALALA](https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [SHALALA \- The 1st Mini Album](https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp) | 3:21 | 2023-06-06 |  |
 | [Shall we dance tonight](https://open.spotify.com/track/7J7XWKFgpUqiq0sYnm0kBu) | [이정권](https://open.spotify.com/artist/2JTaMLHMmhuALiVj8vpGg9) | [Shall we dance tonight](https://open.spotify.com/album/6alu7CXqzSj3g45f8r8WBv) | 3:25 | 2022-05-31 | 2022-06-14 |
 | [Shame On You](https://open.spotify.com/track/48bL0ze0DotIcUS2rQuEyS) | [DOCHI](https://open.spotify.com/artist/71fBNalGQfpvEttt414EIV) | [Shame On You](https://open.spotify.com/album/2SGMfisblO95lG7rMywqz0) | 3:09 | 2022-08-01 | 2022-08-15 |
 | [Shameless \(Feat\. Huh\)](https://open.spotify.com/track/1UUKDNmgFVg8rB8zVr9ZzM) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [O'L](https://open.spotify.com/album/0lALYWvDs7Nyutfb29hGYl) | 2:08 | 2023-05-24 |  |

@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Madari",
+        "url": "https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8"
+      },
+      "artists": [
+        {
+          "name": "Munawar Faruqui",
+          "url": "https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161676,
+      "name": "Kajal",
+      "url": "https://open.spotify.com/track/0YVpNFgaEt2NFBAcUBiZU0"
+    },
+    {
+      "album": {
         "name": "Kami Hai",
         "url": "https://open.spotify.com/album/4rvB7pU7ikqxucUAFbTQrh"
       },

@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 28838,
+  "num_followers": 28885,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzRiZTAxMjZkMDJhYjNkZjlkYTY0NDcwN2VjYjE2YTNlODI1N2Yw",
+  "snapshot_id": "MCw5OGNlN2RkYWI1M2Q4NGNkNTA1ODUzN2U4NTVlZDMzOTc1ZTYzNzUw",
   "tracks": [
     {
       "added_at": "2023-05-26 11:50:26",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-05-26 11:50:26",
       "album": {
-        "name": "The Lost Grooves EP",
-        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
-      },
-      "artists": [
-        {
-          "name": "In Deep We Trust",
-          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Ba:sen - Pool Party Dub Mix",
-      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
-    },
-    {
-      "added_at": "2023-05-26 11:50:26",
-      "album": {
         "name": "I Want to Feel Your Love",
         "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 378485,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
+    },
+    {
+      "added_at": "2023-05-26 11:50:26",
+      "album": {
+        "name": "The Lost Grooves EP",
+        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+      },
+      "artists": [
+        {
+          "name": "In Deep We Trust",
+          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Ba:sen - Pool Party Dub Mix",
+      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
     },
     {
       "added_at": "2023-05-26 11:50:26",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-05-26 11:50:26",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 225357,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
-    },
-    {
-      "added_at": "2023-05-26 11:50:26",
-      "album": {
         "name": "Mars 500",
         "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2023-05-26 11:50:26",
       "album": {
-        "name": "Mandar All Day 001",
-        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
       },
       "artists": [
         {
-          "name": "Leo Pol",
-          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 278110,
-      "name": "Chantal",
-      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
+      "duration_ms": 225357,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
     },
     {
       "added_at": "2023-05-26 11:50:26",
@@ -611,18 +595,18 @@
     {
       "added_at": "2023-05-26 11:50:26",
       "album": {
-        "name": "Walking Away",
-        "url": "https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1"
+        "name": "Mandar All Day 001",
+        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
       },
       "artists": [
         {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+          "name": "Leo Pol",
+          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
         }
       ],
-      "duration_ms": 181426,
-      "name": "Walking Away",
-      "url": "https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn"
+      "duration_ms": 278110,
+      "name": "Chantal",
+      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
     },
     {
       "added_at": "2023-05-26 11:50:26",
@@ -639,6 +623,22 @@
       "duration_ms": 380149,
       "name": "Morning Shift",
       "url": "https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G"
+    },
+    {
+      "added_at": "2023-05-26 11:50:26",
+      "album": {
+        "name": "Walking Away",
+        "url": "https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 181426,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn"
     },
     {
       "added_at": "2023-05-26 11:50:26",

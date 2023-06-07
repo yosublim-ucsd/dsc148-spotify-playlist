@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Frontera en portada.
 
-313 songs - 16 hr 57 min
+314 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Castillo De Ilusión](https://open.spotify.com/track/4fULKqADhPqLutoSfZZtEo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Castillo De Ilusión](https://open.spotify.com/album/1gzPnbtL63YRYwbbfzDcVH) | 3:26 | 2023-01-13 | 2023-01-21 |
 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 | 2022-03-11 | 2023-04-15 |
 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 | 2022-07-01 | 2023-04-17 |
-| [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 | 2022-12-02 |  |
+| [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 | 2022-12-02 | 2023-06-07 |
 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 | 2023-02-24 |  |
 | [Cinco Letras de Miel](https://open.spotify.com/track/0NnQVi8cI6GDY70gcY58JF) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Cinco Letras de Miel](https://open.spotify.com/album/2pAF6tby7WfPilxShPyPsr) | 3:42 | 2023-05-12 | 2023-05-27 |
 | [Coincidencia](https://open.spotify.com/track/6mG194I8D0FM4lHwVnfdWu) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Coincidencia](https://open.spotify.com/album/5kZpacNK5T75ydnsjHPI5A) | 3:10 | 2023-05-12 | 2023-05-27 |
@@ -303,6 +303,7 @@
 | [Tres por Una](https://open.spotify.com/track/7GsPAZvWCjkyI32tMonO2q) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV), [Salomón Robles Y Sus Legendarios](https://open.spotify.com/artist/24ZxliaPEOn2Ya3tfRD4w8) | [Tres por Una](https://open.spotify.com/album/0ZPBFeDd444E4c2K9R6iEu) | 3:29 | 2023-02-24 | 2023-03-09 |
 | [Tu](https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl) | [Panchito Vega](https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg) | [Tu](https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE) | 4:15 | 2023-03-09 | 2023-04-15 |
 | [Tu Cárcel](https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Tu Cárcel](https://open.spotify.com/album/6TI145XlTYny1EKWi07Qvg) | 2:37 | 2022-09-30 | 2022-12-16 |
+| [Un Suspiro](https://open.spotify.com/track/7DY9QpHxhzbU4JX0Z1WYL0) | [Jimmy Humilde](https://open.spotify.com/artist/09HxEXUwV0FkmZnBqrJfbM) | [Lo Mejor de Rancho Humilde 2020, Vol\. 1](https://open.spotify.com/album/0IGFlOVKhaqkZIzIwogwoD) | 3:04 | 2023-05-26 |  |
 | [Un Suspiro](https://open.spotify.com/track/6JxxhqQo5PQB4IgO4uVAAd) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Edición Mexico](https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv) | 3:04 | 2022-08-29 | 2022-11-13 |
 | [Un Suspiro](https://open.spotify.com/track/45gb6KQDwMHeT9ytosr6Eh) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiro](https://open.spotify.com/album/1T933O98fS24tmvqNJ4TgF) | 3:04 | 2021-12-17 | 2022-07-29 |
 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 | 2021-12-17 | 2023-04-20 |

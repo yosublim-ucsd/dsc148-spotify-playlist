@@ -6242,10 +6242,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 239682,
       "name": "Velejar",
       "url": "https://open.spotify.com/track/1kCLQCj7BBTWkUFMoo05kL"
+    },
+    {
+      "album": {
+        "name": "Polaroid Sonora",
+        "url": "https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb"
+      },
+      "artists": [
+        {
+          "name": "A Outra Margem",
+          "url": "https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239682,
+      "name": "Velejar",
+      "url": "https://open.spotify.com/track/7avsrffq8765coCB5WaLtk"
     },
     {
       "album": {

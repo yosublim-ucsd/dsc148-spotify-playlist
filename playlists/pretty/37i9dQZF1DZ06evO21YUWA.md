@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,392 likes - 44 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,394 likes - 44 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 24 | [Radiant City](https://open.spotify.com/track/0Z5oEza6OKWhXJBVnlCWzl) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 4:53 |
 | 25 | [Lost In The Humming Air \- 2005 Digital Remaster](https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:21 |
 | 26 | [Arriving](https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:25 |
-| 27 | [The Ghost Has No Home](https://open.spotify.com/track/0rtfF7pfVYD5nvBQ1mPRsD) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 7:35 |
-| 28 | [Don't Go Where I Can't Find You](https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Winter Garden](https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH) | 4:53 |
+| 27 | [Don't Go Where I Can't Find You](https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Winter Garden](https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH) | 4:53 |
+| 28 | [The Ghost Has No Home](https://open.spotify.com/track/0rtfF7pfVYD5nvBQ1mPRsD) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 7:35 |
 | 29 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
 | 30 | [Momentary Architecture](https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:40 |
 | 31 | [L'enfant Perdu](https://open.spotify.com/track/28D8V8CbAC4hXYRTU2ljeW) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 2:13 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 43 | [A Minute, a Day, No More](https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 5:21 |
 | 44 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDAzNDQ5M2E0YzU4NDNhN2ZiODNjMmE5NmNjYmQ5ODAxZQ==`
+Snapshot ID: `MjgxMDA5MjYsMDAwMDAwMDAxMjM1NmE3N2NmNDUxNGQxNmIwZDBmZWE0YjJlOTNjNg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,433 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,448 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 38 | [Power \- From the Al Sharpton Documentary LOUDMOUTH](https://open.spotify.com/track/7thDDJkwC3ubFYK7x1q7I3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Power \(From the Al Sharpton Documentary LOUDMOUTH\)](https://open.spotify.com/album/3NBUJAebIR6GVVQpyG6sK7) | 3:14 |
 | 39 | [younger days](https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:34 |
 | 40 | [brick by brick](https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 |
-| 41 | [Blame](https://open.spotify.com/track/5PtVPNgUwUDeN0rWMJDmzp) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Blame](https://open.spotify.com/album/6p8BW3TYnDRWENfV8PwoiV) | 3:35 |
-| 42 | [Memphis](https://open.spotify.com/track/1yeSznrghGszZVKvN5DZ2f) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Memphis](https://open.spotify.com/album/3Q4xfrse6fqosRqjAzqF7s) | 4:06 |
+| 41 | [Memphis](https://open.spotify.com/track/1yeSznrghGszZVKvN5DZ2f) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Memphis](https://open.spotify.com/album/3Q4xfrse6fqosRqjAzqF7s) | 4:06 |
+| 42 | [Blame](https://open.spotify.com/track/5PtVPNgUwUDeN0rWMJDmzp) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Blame](https://open.spotify.com/album/6p8BW3TYnDRWENfV8PwoiV) | 3:35 |
 | 43 | [too high](https://open.spotify.com/track/6bk6LnJA5MsK9E5kWFxfSG) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:16 |
 | 44 | [Poison](https://open.spotify.com/track/1yCbpQOLC7pCOKUpnYfm4Q) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:56 |
 | 45 | [That's How God Made Me](https://open.spotify.com/track/4OI2PKCDvjtlfwZ6BYrOO7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [That's How God Made Me \(Anything’s Possible Soundtrack\)](https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 49 | [lost](https://open.spotify.com/track/7bvq2OKntVXLVnbEIo0nOx) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:24 |
 | 50 | [Who Are You](https://open.spotify.com/track/6hpR4wi9DNXQNSdp63RiiL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Who Are You](https://open.spotify.com/album/5daVnBVz3xKJCpNdGIbKxa) | 3:52 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDBhNTZmM2JkYWU4ODQ2MWJjMjUxNDBlNWJmMGY2YTBiNg==`
+Snapshot ID: `MjgxMDA5MjUsMDAwMDAwMDBiZmZhODYwMzFjOGRmZjVkNzk5Nzk4ZTkwNGUyYTk5NA==`

@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Nabihah Iqbal on cover.
 
-329 songs - 22 hr 25 min
+330 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Ayisha Abyss](https://open.spotify.com/track/4372hjN43SwPpKhQWvRuXI) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/4I8nWyG5oG9c9HEgLvhiRR) | 7:46 | 2021-10-19 | 2022-07-26 |
 | [Baldpate Driver](https://open.spotify.com/track/7sS9l7KI8S0hh984RdtTTh) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 4:13 | 2023-02-09 | 2023-05-23 |
 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 | 2023-03-10 |  |
-| [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 | 2023-02-27 |  |
+| [Bath County](https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 3:10 | 2023-02-27 |  |
+| [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 | 2023-02-27 | 2023-06-07 |
 | [bb](https://open.spotify.com/track/0BwlbW42QQj8xHABX53WVi) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [bb](https://open.spotify.com/album/5lZGM1KnsNUviOenuiil1h) | 2:41 | 2023-02-09 | 2023-03-11 |
 | [Beautiful World](https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ) | 5:20 | 2022-12-15 | 2023-05-10 |
 | [Belinda Says](https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:45 | 2022-09-29 |  |

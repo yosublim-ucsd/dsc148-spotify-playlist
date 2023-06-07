@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,976 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,999 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 6 | [Naku Breakup Ayyindoch](https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Naku Breakup Ayyindoch](https://open.spotify.com/album/0NC6F3B8BYECN2xB7skKqL) | 3:52 |
 | 7 | [In Search Of Life](https://open.spotify.com/track/0irshJTIoKgQVTfiIjq2CH) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [In Search Of Life](https://open.spotify.com/album/00Q5uYS7BzbLpm08mxC23e) | 3:45 |
 | 8 | [Ayyayyo](https://open.spotify.com/track/1uQrWxg5XuFXAtgADRgQQP) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Ayyayyo](https://open.spotify.com/album/6rhrJYqtqsse4H6b5gVoTB) | 4:30 |
-| 9 | [Tholi Prema](https://open.spotify.com/track/7CTfCAF0IWye3nPUdpBXln) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Tholi Prema](https://open.spotify.com/album/2pytPP49fk3VAMPBo9wmbH) | 2:48 |
+| 9 | [Tholi Prema](https://open.spotify.com/track/7CTfCAF0IWye3nPUdpBXln) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Tholi Prema](https://open.spotify.com/album/2pytPP49fk3VAMPBo9wmbH) | 2:45 |
 | 10 | [Taithom](https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55) | [Kalakaarii](https://open.spotify.com/artist/5SCVG3jsMOTmp9zgku5b3j) | [Taithom](https://open.spotify.com/album/2ItmntZZQfbXND53lnAFtQ) | 3:32 |
 | 11 | [Oopiriga](https://open.spotify.com/track/52E72LjUNeAmAmSUapKTZ0) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Oopiriga](https://open.spotify.com/album/4egLenJbozGwmXp5MomLqR) | 4:28 |
 | 12 | [Karuna](https://open.spotify.com/track/3pYDC5i3YryOEkzHbKKDLy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Manasara](https://open.spotify.com/track/2SpDmZ8eBYVgQqS0ZFBz9n) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Manasara](https://open.spotify.com/album/77h3fTEmgoEsLbv7MF1kAI) | 2:46 |
 | 75 | [Raagalani](https://open.spotify.com/track/5ooUFuCNdvbD2LwHDjgzYZ) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8), [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Raagalani](https://open.spotify.com/album/6p34UCvj2FvN01JaNxIIq1) | 2:38 |
 
-Snapshot ID: `MCw1ZWMwYTlkNDU5NjE5MWVhODI1M2FiYWFkNjJkYjM3ZjJhOWQ1MDgw`
+Snapshot ID: `MCw1OTQ5YzgxOTExZDVhZmVhY2JjZjkzNTRmNTA5ZmNjZDc5YzgwM2Ew`

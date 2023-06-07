@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 333561,
+  "num_followers": 333673,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGQzYzlhMjZlMzE5MDUzMmNjY2Q5ZGFhNGM3ZWIyYTM4ZWY1ZjQy",
+  "snapshot_id": "MCxhOGU5YzM3NGI1MjQwYzI1OTNlMDgwNzZmNTY0ZmQ1ZTE0MDQzNjdj",
   "tracks": [
     {
       "added_at": "2021-03-15 19:25:13",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-07-07 04:00:00",
       "album": {
-        "name": "I Can't Handle Change",
-        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
-      },
-      "artists": [
-        {
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
-        }
-      ],
-      "duration_ms": 198213,
-      "name": "I Can't Handle Change",
-      "url": "https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7"
-    },
-    {
-      "added_at": "2022-07-07 04:00:00",
-      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
+    },
+    {
+      "added_at": "2022-07-07 04:00:00",
+      "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "I Can't Handle Change",
+      "url": "https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
     },
     {
-      "added_at": "2022-07-07 04:00:00",
-      "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "Some Nights",
-      "url": "https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl"
-    },
-    {
       "added_at": "2021-03-15 19:25:13",
       "album": {
         "name": "Babel (Deluxe Version)",
@@ -759,6 +743,22 @@
       "duration_ms": 276720,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11"
+    },
+    {
+      "added_at": "2022-07-07 04:00:00",
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 238853,
-      "name": "My Number",
-      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
-    },
-    {
       "added_at": "2022-07-07 04:00:00",
       "album": {
         "name": "Trick",
@@ -903,6 +887,22 @@
       "duration_ms": 176146,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "My Number",
+      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Eyelid Movies",
         "url": "https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 249066,
       "name": "When I'm Small",
       "url": "https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 305776,
-      "name": "Cheer Up, My Brother",
-      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Master of My Make-Believe",
         "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 305776,
+      "name": "Cheer Up, My Brother",
+      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Andrew McMahon In The Wilderness",
-        "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
       },
       "artists": [
         {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 223879,
-      "name": "Cecilia And The Satellite",
-      "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
+      "duration_ms": 245293,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     }
   ],
   "unique_name": " Indie Pop 2010s",

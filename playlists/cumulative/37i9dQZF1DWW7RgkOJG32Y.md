@@ -4,7 +4,7 @@
 
 > Top trending country tracks from the last few months\. Cover: Mickey Guyton
 
-302 songs - 16 hr 2 min
+304 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 | 2022-07-22 | 2023-02-25 |
 | [First Taste of Gone](https://open.spotify.com/track/59OjYMzswJJ5uv9GfxYEK5) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Country Hits: June 2022](https://open.spotify.com/album/1NL8MOv7WaIg71wEd2ERRE) | 2:52 | 2022-11-02 | 2022-11-13 |
 | [First Taste of Gone](https://open.spotify.com/track/73WwVhoDuv9IuNU1i7gY1R) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/1hqieJ5qNMuT4y0L64W00L) | 2:52 | 2022-04-01 | 2022-07-29 |
-| [Fix'n To Break](https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fix'n To Break](https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H) | 3:52 | 2023-03-31 |  |
+| [Fix'n To Break](https://open.spotify.com/track/26YvZWW29FXHaSRQzajRYv) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 | 2023-06-01 |  |
+| [Fix'n To Break](https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fix'n To Break](https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H) | 3:52 | 2023-03-31 | 2023-06-07 |
 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 | 2022-02-11 | 2022-11-03 |
 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 | 2021-12-17 | 2022-01-08 |
 | [Friends Like That](https://open.spotify.com/track/1WFgLLJKxJMRHQk9qnwxaZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Friends Like That](https://open.spotify.com/album/182KWLgpOndmV1VwYvUbAF) | 3:06 | 2023-05-26 |  |
@@ -205,7 +206,8 @@
 | [Raised Up Right](https://open.spotify.com/track/54iaqlFYaCYyJqCsRsbYUB) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Raised Up Right](https://open.spotify.com/album/0IXqwYhd5t5zt9d7zKfMp5) | 2:58 | 2022-04-22 | 2022-12-17 |
 | [Ran into You](https://open.spotify.com/track/33V8ZNvopdCm8BsEKzGXgM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ran into You](https://open.spotify.com/album/1oSlbBYaKeG0H5VPGTzICl) | 3:33 | 2021-12-17 | 2022-03-26 |
 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:25 | 2023-02-03 |  |
-| [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-04-14 |  |
+| [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-06-01 |  |
+| [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-04-14 | 2023-06-07 |
 | [Ride the Lightning](https://open.spotify.com/track/2f5Ae2EsE7IqVoOzmDOowD) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning](https://open.spotify.com/album/3rPfwqb2hyr1iKt5W6SNAp) | 3:34 | 2022-03-18 | 2022-06-18 |
 | [Right About Me](https://open.spotify.com/track/2BHs75vAJMEf8PHZ0ZUOwU) | [Nate Barnes](https://open.spotify.com/artist/2BtTAfI93v4WeSEubKCL6h) | [Right About Me](https://open.spotify.com/album/2QtjobcXYEhMe3h19tR8Mp) | 3:09 | 2021-12-17 | 2022-02-05 |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-06-24 | 2023-04-01 |

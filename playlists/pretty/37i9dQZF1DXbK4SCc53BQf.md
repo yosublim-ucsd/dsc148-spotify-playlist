@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,505 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,543 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,19 +16,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 6 | [Es Imposible](https://open.spotify.com/track/2E32QoPYNwwQLpwlSCyIhX) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 3:31 |
 | 7 | [De Fiesta \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2N81uFWhHCIKAdTaPr99m4) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1fPigYK8EMFTArMvAwvCtR) | 3:18 |
 | 8 | [Si Estoy Contigo \- En Vivo](https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz) | 4:11 |
-| 9 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 |
-| 10 | [El Maestro de Galilea](https://open.spotify.com/track/6zLxr6n6tFeqmh2uNmBGGd) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:46 |
+| 9 | [El Maestro de Galilea](https://open.spotify.com/track/6zLxr6n6tFeqmh2uNmBGGd) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:46 |
+| 10 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 |
 | 11 | [Agua viva](https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Tercer Cielo](https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0) | 3:39 |
 | 12 | [Voy a Amarte](https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Voy a Amarte](https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71) | 3:27 |
-| 13 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
+| 13 | [Te Amo](https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [7](https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU) | 4:21 |
 | 14 | [Una Nueva Canción \(feat\. Kike Pavón\)](https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Una Nueva Canción \(feat\. Kike Pavón\)](https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a) | 3:42 |
-| 15 | [Te Amo](https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [7](https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU) | 4:21 |
+| 15 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
 | 16 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
 | 17 | [Perfume a Tus Pies](https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM) | [Christian Ray](https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig) | [Enamorarme Mas](https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa) | 4:35 |
 | 18 | [Tengo un Nuevo Amor \- Salsa](https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335) | [David Y Abraham](https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4) | [Alábale Con Ritmo de Salsa](https://open.spotify.com/album/4cmpSr90A0JzyVtngmxoMr) | 4:42 |
 | 19 | [Vuelvo a Nacer](https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero \- Concierto en Vivo](https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf) | 4:22 |
-| 20 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 |
-| 21 | [Que No Faltes Tu](https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Flaming Fire](https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR) | 3:32 |
+| 20 | [Que No Faltes Tu](https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Flaming Fire](https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR) | 3:32 |
+| 21 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 |
 | 22 | [TRAPCHATA](https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 4:43 |
 | 23 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 | 24 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 49 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 |
 | 50 | [Hermoso Nombre](https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Ven Te Estado Esperando](https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d) | 5:49 |
 
-Snapshot ID: `MCxlMjg4YTgwZjc0ODU3MGEyNmY2ZGExYzFkNDY2ZjA3ZmM4NzhlN2Nh`
+Snapshot ID: `MCw5NDM2YThiYmI5YTYzMzVkYTk3ZjdjZDY4M2M5MTYxZDA2ODEwNWNi`

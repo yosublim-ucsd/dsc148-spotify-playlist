@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IzjtXj8ThV.md) - [plain]
 
 > There is only one Tyler, The Creator.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,671 likes - 73 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,186 likes - 73 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IzjtXj8ThV.md) - [plain]
 | 72 | [Sandwitches](https://open.spotify.com/track/48dxLly3L9QERpreYM7MKv) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Hodgy](https://open.spotify.com/artist/4sXi6Uq6IzBaLfFi8wlb3I) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:51 |
 | 73 | [WOLF](https://open.spotify.com/track/2JZpS2sOdJy37oBpn1GuPW) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Wolf](https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB) | 1:49 |
 
-Snapshot ID: `MCxjNGZjNTQwNGFmMmM5MjVkYjZkODNhNmFiMzVkYmNlZDgxZWNmNDQ2`
+Snapshot ID: `MCwxOWE3ZTlhNGJkMzI3MDdkYWExZmZlNzljOTlhYjdjMDdhMzE3NjVl`

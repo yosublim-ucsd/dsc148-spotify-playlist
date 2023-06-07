@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,082 songs - 2 day 11 hr 46 min
+1,083 songs - 2 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 | 2021-04-06 | 2021-06-16 |
 | [Aghach](https://open.spotify.com/track/6up1lIMVpkXlNZ4Es3rGhg) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:39 | 2022-05-29 | 2022-05-31 |
 | [Ah Bon](https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Ah Bon](https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC) | 3:42 | 2021-03-27\* | 2021-03-29 |
-| [Ahlam](https://open.spotify.com/track/6cS2fCLwfLs7HueULbZUlJ) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Ahlam](https://open.spotify.com/album/2UyRdrXsOWySJOtI1MNWwN) | 3:09 | 2023-05-27 | 2023-06-05 |
+| [Ahlam](https://open.spotify.com/track/6cS2fCLwfLs7HueULbZUlJ) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Ahlam](https://open.spotify.com/album/2UyRdrXsOWySJOtI1MNWwN) | 3:09 | 2023-05-27 |  |
 | [Ahoo](https://open.spotify.com/track/2H5rb6rL9p6zKMLYiZDU7Q) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:58 | 2022-05-28 | 2022-06-06 |
 | [Ailleurs \(feat\. Lefa\)](https://open.spotify.com/track/5ofWgZMhsgL70B1HtdTRwO) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Lefa](https://open.spotify.com/artist/25yJrwrn5I0EUdQEiTtNSO) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 4:00 | 2021-03-27\* | 2021-12-30 |
 | [Air Max](https://open.spotify.com/track/6womVMrYUsXpIVseCMgVei) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:56 | 2022-05-29 | 2022-05-31 |
@@ -298,7 +298,7 @@
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-01-08 |
 | [El barrio](https://open.spotify.com/track/3HFkMYk8c5Khmfl0nmQYHm) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:28 | 2023-01-07 | 2023-02-14 |
 | [El Barrio](https://open.spotify.com/track/26W3t5wyq40iJYrpddWPbY) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 2:28 | 2023-01-08 | 2023-01-10 |
-| [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 | 2023-05-02 |  |
+| [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 | 2023-05-02 | 2023-06-07 |
 | [ElGRANDE TOTO Leo](https://open.spotify.com/track/5PZ6LUihzGRfztkLib7K91) | [Anass Marbouh](https://open.spotify.com/artist/1rNCHLdAWPEmXSVAghhslN) | [ElGRANDE TOTO Leo](https://open.spotify.com/album/5WLbRmbbRcusSZljU55u8V) | 2:58 | 2021-08-07 | 2021-08-09 |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2022-01-06 | 2022-03-17 |
 | [Emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-03-16 | 2022-07-28 |
@@ -392,7 +392,8 @@
 | [Halla halla](https://open.spotify.com/track/31rRD6pW8qFwnlqy1dxIVz) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 2:54 | 2021-03-27\* | 2021-04-21 |
 | [Hallelujah](https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Hallelujah](https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM) | 2:58 | 2022-03-11 | 2022-06-27 |
 | [HANGOVER](https://open.spotify.com/track/2VesYhyP75Gp0kye2PNRcM) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [VIBZ](https://open.spotify.com/album/5tQrJMLzU4BNGvhyF9ioqF) | 3:24 | 2021-07-25 | 2021-07-29 |
-| [Haram \(Pablo II\)](https://open.spotify.com/track/6AFbOjmJNeCHXmoh1Ve1XM) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/0yailt9L3LXP8gaHCW5gnD) | 4:26 | 2021-06-06 |  |
+| [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2023-06-06 |  |
+| [Haram \(Pablo II\)](https://open.spotify.com/track/6AFbOjmJNeCHXmoh1Ve1XM) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/0yailt9L3LXP8gaHCW5gnD) | 4:26 | 2021-06-06 | 2023-06-07 |
 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 | 2021-06-13 | 2021-06-14 |
 | [Hchouma](https://open.spotify.com/track/3nb2XZJ3n3J7Qq4nJdmqqI) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 1:51 | 2023-01-07 | 2023-01-17 |
 | [Hchouma](https://open.spotify.com/track/6N4T2Ta0KoaisECYl4tkMu) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 1:51 | 2023-01-08 | 2023-01-10 |

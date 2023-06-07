@@ -1161,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "Brandy Clark",
+        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276146,
+      "name": "Dear Insecurity (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },

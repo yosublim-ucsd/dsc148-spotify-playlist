@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 420484,
+  "num_followers": 420793,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjkxYzVkOGY4OWVjZDdmMDlkNDUzNDIwZjBkZjViZDA0Y2Q3Yzkz",
+  "snapshot_id": "MCxlM2IxN2U0OGUzNGI4NWM4M2IxNGUyOGE5ZGEzOTRlYjNmMDdmNjE5",
   "tracks": [
     {
       "added_at": "2023-05-08 17:34:33",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
-      },
-      "artists": [
-        {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
-        }
-      ],
-      "duration_ms": 393072,
-      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
-    },
-    {
-      "added_at": "2023-05-08 17:34:33",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 186933,
       "name": "Jikalau",
       "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
+    },
+    {
+      "added_at": "2023-05-08 17:34:33",
+      "album": {
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "duration_ms": 393072,
+      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
     },
     {
       "added_at": "2023-05-08 17:34:33",

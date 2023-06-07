@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,351 likes - 104 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,319 likes - 104 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 79 | [It's Beginning to Look a Lot Like Christmas \- Acoustic](https://open.spotify.com/track/60tvX10bz2f0esq1k2DM3j) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [It's Beginning to Look a Lot Like Christmas \(Acoustic\)](https://open.spotify.com/album/3XAdKKhullAux0eNZJkBQW) | 2:31 |
 | 80 | [I Heard The Bells on Christmas Day](https://open.spotify.com/track/1C7WXnqr5h8woxzYk4cCh1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [A Very Mayries Christmas](https://open.spotify.com/album/2hj3TtOFRw31Fzfumf4gB1) | 2:49 |
 | 81 | [O Come All Ye Faithful](https://open.spotify.com/track/2bENNuf1z2QDwCYcDLpxK0) | [Mindy Gledhill](https://open.spotify.com/artist/24gJ2GCq5zx1Mh08ZpmiSo) | [Winter Moon](https://open.spotify.com/album/11aXurCjqzztCLiFi4k7Tv) | 3:19 |
-| 82 | [In the Bleak Midwinter](https://open.spotify.com/track/0f0QKHOvwpcLuIe7nUjY6m) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/2cLYDYEWIHVCIXsjMmQi5u) | 3:24 |
+| 82 | [In the Bleak Midwinter](https://open.spotify.com/track/7eMwsPetzlSK8uBTgQGPBL) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/21G2Mj8q3H4CFNrkBo6f0Y) | 3:24 |
 | 83 | [Walking In The Air](https://open.spotify.com/track/4fgAnfGDUtwvc7hDQLoQK0) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol.2](https://open.spotify.com/album/70IoCLSMLnzQ5gaeABJ1qB) | 3:26 |
 | 84 | [Santa Bring My Baby Back To Me](https://open.spotify.com/track/4j1EbVcxa43YPP6c0YH1Xu) | [Carla Menezes](https://open.spotify.com/artist/0PubppYseB9KQJFHREadG2) | [Santa Bring My Baby Back To Me](https://open.spotify.com/album/3oKB4b2xhQRSeA0bZwCBZd) | 3:04 |
 | 85 | [I'll Be Home For Christmas](https://open.spotify.com/track/24R1qc77L7eb38XKBFIfEN) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Before Christmas](https://open.spotify.com/album/2NCP9hd23zIKGnjueQT3SR) | 3:03 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 103 | [Thank God It's Christmas](https://open.spotify.com/track/3sSEbpbUVNnzU2sFZ81WAk) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Thank God It's Christmas](https://open.spotify.com/album/5eifKVwGfihPewkitHo5PS) | 4:03 |
 | 104 | [Christmas Was Here \- Acoustic](https://open.spotify.com/track/4gwD6CSw69CzAKS3h9E95K) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Was Here \(Acoustic\)](https://open.spotify.com/album/7oqCUVREr1pAvBMqvqzQZi) | 3:34 |
 
-Snapshot ID: `MCxmOGU2NGU0YjU0N2ExOGE4MGVhMjJjYTZmZDRiMDUzOTMyY2Q1M2M2`
+Snapshot ID: `MCxlMjZiZDkxMGZkZTViYjkyZTIzMTA4ZWI4Yzc3YTE0NmZhYTJkMWJh`

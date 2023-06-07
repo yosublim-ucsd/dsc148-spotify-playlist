@@ -5427,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "In the Blink of an Eye",
+        "url": "https://open.spotify.com/album/5tkmYVK9VnNwsYXoyNyf5i"
+      },
+      "artists": [
+        {
+          "name": "Urskogen Jazz",
+          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208361,
+      "name": "In the Blink of an Eye",
+      "url": "https://open.spotify.com/track/6ojZVftxBE1dGfkJHvE6Lb"
+    },
+    {
+      "album": {
         "name": "In The Old Fashioned Way",
         "url": "https://open.spotify.com/album/7hZ0nH506LaGxcYLxlb0ms"
       },
@@ -6030,7 +6048,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 173641,
       "name": "Ladybird",
       "url": "https://open.spotify.com/track/5aO27DQUEMmiFGXvLdg5ub"

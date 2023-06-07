@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361,392 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,143 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Slave](https://open.spotify.com/track/6gzEKpPDrMetHz0EVeo37I) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Limbus 3](https://open.spotify.com/album/41Llenxqo1pplBtCTiQZTv) | 2:31 |
 | 100 | [Run Shannon Run](https://open.spotify.com/track/0Y5hDJTidQ5DsqJoH3QIHj) | [BBY GOYARD](https://open.spotify.com/artist/3V5tndgREjXGlJZEvYl3Xs) | [Run Shannon Run](https://open.spotify.com/album/3YNEhpOpo9TjwgjSioyclj) | 2:00 |
 
-Snapshot ID: `MCxiZmM0NGM1MDFjZTQzYmI3YmVjNzA3ZTQ2MzQ0YjdjOGI3NTdiNDUw`
+Snapshot ID: `MCw5M2FlOWE3MjBmYjI5MjBmZmZhMDA3YTI0ZmM2NTE0NGQ2ZGZiY2Q5`

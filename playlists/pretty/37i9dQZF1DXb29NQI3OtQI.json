@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2000s. Cover: Lifehouse.",
-  "num_followers": 162224,
+  "num_followers": 162399,
   "original_name": "00s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODk5YWI4ZDRjYTc0ODc1YzExNDA5ZDE4OTQxZTQ3MWNlYjE2MWNm",
+  "snapshot_id": "MCw4ZDVkOWJhM2RmNDExMzVkMjllNWFhOTc2MDRiZDBlNmU4ZmRjMzkz",
   "tracks": [
     {
       "added_at": "2023-01-18 22:25:58",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "So Long Goodbye",
+      "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
+    },
+    {
+      "added_at": "2023-01-18 22:25:58",
+      "album": {
         "name": "blink-182",
         "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 280017,
       "name": "All Of This",
       "url": "https://open.spotify.com/track/5kYhmkcnDalqUMxQxBcZkB"
-    },
-    {
-      "added_at": "2023-01-18 22:25:58",
-      "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "So Long Goodbye",
-      "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
     },
     {
       "added_at": "2023-01-18 22:25:58",

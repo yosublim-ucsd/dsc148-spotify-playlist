@@ -46,10 +46,28 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 298181,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/4KXAxtfKpp4UPlVRHDNWgN"
+    },
+    {
+      "album": {
+        "name": "Retrograde - EP",
+        "url": "https://open.spotify.com/album/0LlTRnnVmLfSGmkVAP9zAJ"
+      },
+      "artists": [
+        {
+          "name": "Watch the Ride",
+          "url": "https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298181,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/4bnTYYOtFHroheT49TYNHn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,266 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,300 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 36 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 37 | [Love song \(Feat\. WONPIL\(DAY6\)\)](https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 5:00 |
 | 38 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
-| 39 | [Like A Bird](https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[04\]](https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm) | 3:40 |
-| 40 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
+| 39 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
+| 40 | [Like A Bird](https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[04\]](https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm) | 3:40 |
 | 41 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 |
-| 42 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 |
-| 43 | [SMILE](https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [SMILE](https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx) | 3:48 |
+| 42 | [SMILE](https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [SMILE](https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx) | 3:48 |
+| 43 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 |
 | 44 | [잠들고 싶어\(zZ\)](https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC) | 3:37 |
 | 45 | [We are all Muse \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:27 |
 | 46 | [We don’t talk \(Feat\. CHEEZE\)](https://open.spotify.com/track/3bjwxY6u1MFQheamA1rkcP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [We don’t talk \(Feat\. CHEEZE\)](https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK) | 3:14 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 56 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 |
 | 57 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 |
 | 58 | [Wish](https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:59 |
-| 59 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
-| 60 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
+| 59 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
+| 60 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
 | 61 | [Dancing Universe](https://open.spotify.com/track/2shW4PIb06f9uYWEcrZ00a) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [LOVER](https://open.spotify.com/album/2E1J6sAvJIYboa13mkcilz) | 4:25 |
 | 62 | [Candy For You](https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Candy For You](https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA) | 2:38 |
 | 63 | [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [Rainy Apgujeong](https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm), [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rainy Apgujeong](https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV) | 4:34 |
 | 70 | [Heart in Motion](https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 3:47 |
 
-Snapshot ID: `MCxlMDQxYmQ3MDQyZmZhNmZlN2YxOGMyMzk5ZDczNWJiN2YzZDFhOWYz`
+Snapshot ID: `MCw4YjBiOTIwYjI4ZWY4MDYwMWE0ZDkzM2RhMmI0MDQ4YmMwNTIzN2Jk`

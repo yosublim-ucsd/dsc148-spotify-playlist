@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,689 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,743 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 47 | [Midnight Till Dawn](https://open.spotify.com/track/09tHTTwxrj0s5MalRj7J4n) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [ROYAL ESTATE](https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh) | [Midnight Till Dawn](https://open.spotify.com/album/3DlIiyHpqcLBoffxq8QtSr) | 2:31 |
 | 48 | [Besok kita pergi makan](https://open.spotify.com/track/0xnzQ3Ek5X5r2pcbwIEQdc) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Besok kita pergi makan](https://open.spotify.com/album/0lXbxiqlyd0Wd6J5fGgLsy) | 3:26 |
 | 49 | [KuasaMu](https://open.spotify.com/track/1CJfTmS4AiFCZQffUuBNDo) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [KuasaMu](https://open.spotify.com/album/2LD2ExN94AsCWM9DjucqgE) | 3:54 |
-| 50 | [Hal Hebat](https://open.spotify.com/track/7JL2BYNeSbvaom6vk1ktij) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Hal Hebat \(Cover\)](https://open.spotify.com/album/3uokqKRBBG16lrgwUNVIO0) | 5:19 |
+| 50 | [Lagu Kita](https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 3:31 |
 
-Snapshot ID: `MCwxODQzNzllYzZjOTUxNzMyOGI0ZDllZmI5ODg1ODFmYjE4ZDQ5ZDY0`
+Snapshot ID: `MCw4Mjc0ZjBlNzc1MzUyMzUxOWE3Y2YyYThhNWE4MDZhMTY4YWFiN2Rj`

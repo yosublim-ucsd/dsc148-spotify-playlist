@@ -1,15 +1,15 @@
 {
   "description": "\u0386\u03ba\u03bf\u03c5 \u03c4\u03b9\u03c2 \u03b3\u03c5\u03bd\u03b1\u03af\u03ba\u03b5\u03c2 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03c3\u03c4\u03b7 \u03b4\u03b9\u03b1\u03c0\u03b1\u03c3\u03ce\u03bd. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ellize",
-  "num_followers": 14154,
+  "num_followers": 14173,
   "original_name": "EQUAL Greece ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjRiYTQwNTMyMzNlZjgxMTM0NTJhYzkzM2Q2NGRkN2I3NDgyNWFl",
+  "snapshot_id": "MCw5OWJiZjYwZTc1ZDQ1Mjc5MGY2ZDJiMjdiZTU3ODU5ODE5MDFjYmZl",
   "tracks": [
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Ama Fygeis",
         "url": "https://open.spotify.com/album/3NLU6sOMtaSYuaDdYVVH3u"
@@ -25,7 +25,387 @@
       "url": "https://open.spotify.com/track/3a25lrQ9qsJQPj3gNSC7wJ"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Asfalos & Mporo",
+        "url": "https://open.spotify.com/album/2oVuSF2CsLZcSNwWkOm906"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        }
+      ],
+      "duration_ms": 230031,
+      "name": "Asfalos & Mporo",
+      "url": "https://open.spotify.com/track/5IXMbHGMTxo2IjvL1RdWym"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Oh Mami",
+        "url": "https://open.spotify.com/album/0FbC9lBGx5Q6B4AmYoFFXF"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "Mc Daddy",
+          "url": "https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT"
+        }
+      ],
+      "duration_ms": 161585,
+      "name": "Oh Mami",
+      "url": "https://open.spotify.com/track/1ZUEvvu34Oc2i2PuA6EitL"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Identity Crisis",
+        "url": "https://open.spotify.com/album/6fPwvK7Ddis487JlqS12x3"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Identity Crisis",
+      "url": "https://open.spotify.com/track/1F0PpKg5Q6W0L12vSc04u0"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Gurise?",
+        "url": "https://open.spotify.com/album/0frj4Dbrw6gBt1zE2Ehp1p"
+      },
+      "artists": [
+        {
+          "name": "Elena Tsagrinou",
+          "url": "https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Gurise?",
+      "url": "https://open.spotify.com/track/683SWdCa6PzYLmsbSI6Glb"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Avissos",
+        "url": "https://open.spotify.com/album/1n3OlPK3pdyGmybi0t0y35"
+      },
+      "artists": [
+        {
+          "name": "Daphne Lawrence",
+          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+        }
+      ],
+      "duration_ms": 182803,
+      "name": "Avissos",
+      "url": "https://open.spotify.com/track/3SYEgDtTvkPb3cZbvnHVbN"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "The Bwoi with the plan",
+        "url": "https://open.spotify.com/album/0b75UFaQJTJLIErjW9FjHh"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        },
+        {
+          "name": "DJ Tune",
+          "url": "https://open.spotify.com/artist/5yD9OVO5dKEteEVps9qG3v"
+        },
+        {
+          "name": "Jay Starr",
+          "url": "https://open.spotify.com/artist/6URi35MZoSTimeBvixyJyE"
+        }
+      ],
+      "duration_ms": 201300,
+      "name": "\u0398. CINEMA",
+      "url": "https://open.spotify.com/track/1T4jPyEwa4XRnbPA2h8f8c"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Moni Mou",
+        "url": "https://open.spotify.com/album/4340fgIIgtmb4mNki3nJ01"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "duration_ms": 146145,
+      "name": "Moni Mou",
+      "url": "https://open.spotify.com/track/6FnY677B1fIAi0GVma6fOn"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Niose",
+        "url": "https://open.spotify.com/album/5tfYnmfal8IHv1sfnQZKrH"
+      },
+      "artists": [
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "duration_ms": 187128,
+      "name": "Niose",
+      "url": "https://open.spotify.com/track/1mhTchTMDaLdc5YuW5zVRm"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Psifiakos Kosmos",
+        "url": "https://open.spotify.com/album/0g6Vf3WYzpgV3doox4WfYG"
+      },
+      "artists": [
+        {
+          "name": "Luisa",
+          "url": "https://open.spotify.com/artist/1mzeq2AB4aYZwPfrU03C98"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Psifiakos Kosmos",
+      "url": "https://open.spotify.com/track/5Yj4cuyJid55keb7q2oJ8I"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "SKIP",
+        "url": "https://open.spotify.com/album/0Crpyj2542aCjN5S0nwHHY"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/28bAxhqkevzwM2b2dNaODZ"
+        },
+        {
+          "name": "Dimitris Koufoudakis",
+          "url": "https://open.spotify.com/artist/1Hj13p1TFwirPlIxOdEgZx"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "SKIP",
+      "url": "https://open.spotify.com/track/4Yk5ZqYXl7IXxKSNeUgLB0"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Pes Mou",
+        "url": "https://open.spotify.com/album/24XW3NTVz6BUxPcGhGyozT"
+      },
+      "artists": [
+        {
+          "name": "Chrystelina",
+          "url": "https://open.spotify.com/artist/6QNaYdxuIulAq3M61FWAZ0"
+        }
+      ],
+      "duration_ms": 181016,
+      "name": "Pes Mou",
+      "url": "https://open.spotify.com/track/7g3prQn7Cl9PBAcYhThp8N"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Ta Tihera Trifilia",
+        "url": "https://open.spotify.com/album/1mFUVyv5YS7aXd2QMrZmIZ"
+      },
+      "artists": [
+        {
+          "name": "Mirela Pachou",
+          "url": "https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M"
+        }
+      ],
+      "duration_ms": 170868,
+      "name": "Ta Tihera Trifilia",
+      "url": "https://open.spotify.com/track/63hdTOJjkUGe6ulZi7wOSz"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Notia",
+        "url": "https://open.spotify.com/album/1aa9ISp1Y8rNBhS7OWcZNH"
+      },
+      "artists": [
+        {
+          "name": "Kalliope Pouska",
+          "url": "https://open.spotify.com/artist/6Kic93NL5qA2B8yFjBjahX"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "Notia",
+      "url": "https://open.spotify.com/track/76OkOg3Fc9j2he1d9fDZoL"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Aradia",
+        "url": "https://open.spotify.com/album/2CBiad9GZvDp7mBdgycfkp"
+      },
+      "artists": [
+        {
+          "name": "Mira",
+          "url": "https://open.spotify.com/artist/7AjOzyumfIoBcur8rNjABg"
+        },
+        {
+          "name": "Electabaz",
+          "url": "https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf"
+        }
+      ],
+      "duration_ms": 209941,
+      "name": "Harlem",
+      "url": "https://open.spotify.com/track/6cINJkWY1ilnWaMihrYsyn"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Horisa Hthes",
+        "url": "https://open.spotify.com/album/4ljMkwCLjTc1LXzI2fiYnZ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Adamopoulou",
+          "url": "https://open.spotify.com/artist/6Lp4kQwdlDYjLhOqSxrrdl"
+        }
+      ],
+      "duration_ms": 194955,
+      "name": "Horisa Hthes",
+      "url": "https://open.spotify.com/track/7azRdpfHPGzidDmgm7Pixb"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Ah Na M' Agapas",
+        "url": "https://open.spotify.com/album/2OHpFr4CSGqbmStbzNosZZ"
+      },
+      "artists": [
+        {
+          "name": "Valia Tsirgioti",
+          "url": "https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki"
+        },
+        {
+          "name": "Thomas Bakalakos",
+          "url": "https://open.spotify.com/artist/3umLhHzjiOxomuoqJhA184"
+        },
+        {
+          "name": "Manos Kitsikopoulos",
+          "url": "https://open.spotify.com/artist/7dZs9W0Q2ZImM5CflJxlJp"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Ah Na M' Agapas",
+      "url": "https://open.spotify.com/track/2wUdk0MVlrwsxyG0cnUqpB"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "I Don't Care (Remix EP)",
+        "url": "https://open.spotify.com/album/1i1vObawXO5zEwofZFQYTe"
+      },
+      "artists": [
+        {
+          "name": "LLUISA",
+          "url": "https://open.spotify.com/artist/7ur9WUsgFMxnJAKojdVBeg"
+        },
+        {
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+        }
+      ],
+      "duration_ms": 144857,
+      "name": "I Don't Care - Solven Remix",
+      "url": "https://open.spotify.com/track/1DnOmFBJkM5xHyzjGL62Av"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "A Summer Love",
+        "url": "https://open.spotify.com/album/4jyF5bMu5r0PsUhxDZH6nn"
+      },
+      "artists": [
+        {
+          "name": "Kalliope Pouska",
+          "url": "https://open.spotify.com/artist/6Kic93NL5qA2B8yFjBjahX"
+        }
+      ],
+      "duration_ms": 182129,
+      "name": "A Summer Love",
+      "url": "https://open.spotify.com/track/11Mrfqdy3P8DnkWQI5MRmt"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Hara Mazi Kai Ponos",
+        "url": "https://open.spotify.com/album/71CPrEK2njMcqddjOYVjae"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lampadaki",
+          "url": "https://open.spotify.com/artist/0heqGjrLYIMGtdlwtqtxXT"
+        },
+        {
+          "name": "Giannis Papageorgiou",
+          "url": "https://open.spotify.com/artist/4m6sXP23uZD9nQNPb7Y1n0"
+        }
+      ],
+      "duration_ms": 250909,
+      "name": "Hara Mazi Kai Ponos",
+      "url": "https://open.spotify.com/track/0aIxzVlqNdFhLSN0fJVMAa"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Decor",
+        "url": "https://open.spotify.com/album/6uAVFw4xSam5V8ZX95jQRh"
+      },
+      "artists": [
+        {
+          "name": "Xenia Gargali",
+          "url": "https://open.spotify.com/artist/1ei2KEiexDEehzyu4oEddP"
+        },
+        {
+          "name": "Periklis Biskinis",
+          "url": "https://open.spotify.com/artist/4ZmLaIa9DllCHlLdmfZpd3"
+        }
+      ],
+      "duration_ms": 168417,
+      "name": "Decor",
+      "url": "https://open.spotify.com/track/0LI6X562j35N9GqAPjmuwj"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Kane me na se Misiso",
+        "url": "https://open.spotify.com/album/7mBBSUsSgKuuEhHqIsKefJ"
+      },
+      "artists": [
+        {
+          "name": "Yama",
+          "url": "https://open.spotify.com/artist/5PmSkZlPqZxUzN0pdSnL5J"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Kane me na se Misiso",
+      "url": "https://open.spotify.com/track/5d5IhsWtLAF3VqusKAnGFu"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Mi Milas",
         "url": "https://open.spotify.com/album/4QRjhM7jDsfWukybZStXEX"
@@ -41,7 +421,7 @@
       "url": "https://open.spotify.com/track/0XEvweAMtxdcSOfNdrF1sT"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "O Hartis",
         "url": "https://open.spotify.com/album/6ESMhTCrJMvxRMrM3BFbRI"
@@ -61,7 +441,7 @@
       "url": "https://open.spotify.com/track/77veey2PBLf6KBMShrI0H7"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "P\u00e1li",
         "url": "https://open.spotify.com/album/4lyphonCgrDLgvqgtvf3V9"
@@ -81,23 +461,7 @@
       "url": "https://open.spotify.com/track/6qtXBZ4tjzLcobqjZhjgeD"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Asfalos & Mporo",
-        "url": "https://open.spotify.com/album/2oVuSF2CsLZcSNwWkOm906"
-      },
-      "artists": [
-        {
-          "name": "Katy Garbi",
-          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
-        }
-      ],
-      "duration_ms": 230031,
-      "name": "Asfalos & Mporo",
-      "url": "https://open.spotify.com/track/5IXMbHGMTxo2IjvL1RdWym"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/6kkSlKQxaShKw1wtw8nlxC"
@@ -113,7 +477,7 @@
       "url": "https://open.spotify.com/track/4fj4O7IVW60T1EpJPSRA05"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "I Pote I Tora",
         "url": "https://open.spotify.com/album/0W4hJCbdz35CUiX8ExXkHT"
@@ -129,7 +493,7 @@
       "url": "https://open.spotify.com/track/11oXAOTTdoD6uHGapIrJTl"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Kefalodesi",
         "url": "https://open.spotify.com/album/0DGkaYufhncxMcPPJ9MDej"
@@ -153,7 +517,7 @@
       "url": "https://open.spotify.com/track/1TMzVTea4vvNL1LwwxHQ5A"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/7JPMS3FHpUzQgVhhG2bagJ"
@@ -169,7 +533,7 @@
       "url": "https://open.spotify.com/track/5wkr6ANVH9avxuVDAPN79D"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Orevouar",
         "url": "https://open.spotify.com/album/5plfR1CcE1RtmTfngwpOIq"
@@ -185,7 +549,7 @@
       "url": "https://open.spotify.com/track/45OXXyyTb3Nod36LQagMjw"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Ta tsaxpinika sou matia",
         "url": "https://open.spotify.com/album/5V632RE0cjvPjmIgwUKo4o"
@@ -201,7 +565,7 @@
       "url": "https://open.spotify.com/track/4beKfYy3y6sqyW8eOF7660"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Epekses Kai Ehases",
         "url": "https://open.spotify.com/album/4e0sklr6RxCNsQUX3QFS9n"
@@ -217,7 +581,7 @@
       "url": "https://open.spotify.com/track/3SU1xTMbfWDt4Y53FiNeif"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Kamia Epafi",
         "url": "https://open.spotify.com/album/10Zl3MdvFbuQJFR4pMUL29"
@@ -233,7 +597,7 @@
       "url": "https://open.spotify.com/track/2C3cn5Yy1Cyg9VH7EWrvcj"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Oti Sterise",
         "url": "https://open.spotify.com/album/0xuik4gfejXqiyyfm41tDc"
@@ -253,7 +617,7 @@
       "url": "https://open.spotify.com/track/7BaVV6HvCp1HGCBroK0aYa"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Mia Edem Me Hamilo Enikio",
         "url": "https://open.spotify.com/album/1I25lTjTjNrOvAl0OXsdh1"
@@ -269,7 +633,7 @@
       "url": "https://open.spotify.com/track/3RX1GK9uLZnBEgQi4qshaN"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "7/7",
         "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
@@ -289,7 +653,7 @@
       "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Pes Tis",
         "url": "https://open.spotify.com/album/5A1HwwX6tFMylF6EwwftVN"
@@ -305,7 +669,7 @@
       "url": "https://open.spotify.com/track/7juYANKfzlJ0ipy3A0bZg4"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "De S\u2019 Afino",
         "url": "https://open.spotify.com/album/1maT0OfKtiyyUDdtIuu0i1"
@@ -325,7 +689,7 @@
       "url": "https://open.spotify.com/track/6aAXN1sRhLiSOhUfJ7g2Gr"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Kathrefti Kathreftaki Mou",
         "url": "https://open.spotify.com/album/7z0WXspEw4IzqWYYg0g2IE"
@@ -341,7 +705,7 @@
       "url": "https://open.spotify.com/track/0Yw2Gb2YE1II5Ia3INx2mr"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Ksana",
         "url": "https://open.spotify.com/album/2tz2xEEbft5Z4PLAvODruR"
@@ -361,7 +725,7 @@
       "url": "https://open.spotify.com/track/2YRt7GPwBCA7gYguth7hBL"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Parallili Agapi",
         "url": "https://open.spotify.com/album/2S1gFwCroLJTVsPJoRbqxt"
@@ -377,7 +741,7 @@
       "url": "https://open.spotify.com/track/2SsaxxtqBdweyrZew2O6Ej"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Powerpuff Drill",
         "url": "https://open.spotify.com/album/1zPIxXK7sFNK2VpxiPqMdl"
@@ -397,7 +761,7 @@
       "url": "https://open.spotify.com/track/0uS0KUAwojIIqAXgP75579"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "Floga",
         "url": "https://open.spotify.com/album/3V9rAfPPSl9oEFvNGTUyTR"
@@ -413,7 +777,111 @@
       "url": "https://open.spotify.com/track/6YWrf3DHfDMnhebhpD9aWn"
     },
     {
-      "added_at": "2023-05-02 21:00:00",
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Trixame Ta Dontia",
+        "url": "https://open.spotify.com/album/4DQBoooSbI7myTFAvpk18C"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        },
+        {
+          "name": "Liana Garbi",
+          "url": "https://open.spotify.com/artist/5oD9qnmaHd99nR8dIr4aad"
+        }
+      ],
+      "duration_ms": 117835,
+      "name": "Trixame Ta Dontia",
+      "url": "https://open.spotify.com/track/7uHTQO9PSiQF9tAlszXZWG"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Diavastike",
+        "url": "https://open.spotify.com/album/6ESOHaehyVMMHVQZvBpQtB"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        }
+      ],
+      "duration_ms": 193758,
+      "name": "Diavastike",
+      "url": "https://open.spotify.com/track/3lBYlseKTE6S8JHUyDlbVh"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "PROUD",
+        "url": "https://open.spotify.com/album/5LL6M4oDNn6pNwdRUkbqMl"
+      },
+      "artists": [
+        {
+          "name": "Monika",
+          "url": "https://open.spotify.com/artist/60YJi3abieLZxGxwtBv7Jh"
+        }
+      ],
+      "duration_ms": 342402,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/4mjowkOiSFX6HWiobPTd6T"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Anypomona",
+        "url": "https://open.spotify.com/album/29XhALgrR4AoQnzpzHpK7m"
+      },
+      "artists": [
+        {
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+        }
+      ],
+      "duration_ms": 224776,
+      "name": "Anypomona",
+      "url": "https://open.spotify.com/track/03ndG4diPzdTI0qsgDGXbZ"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Yfanto",
+        "url": "https://open.spotify.com/album/45TwwETue91iKgiVirqCYy"
+      },
+      "artists": [
+        {
+          "name": "Ioanna Kavroulaki",
+          "url": "https://open.spotify.com/artist/3lWF7hNqotrVAfDS2ARUJP"
+        },
+        {
+          "name": "Yiannis Kotsiras",
+          "url": "https://open.spotify.com/artist/6waWR57xXsgtWztHX1v8TB"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "Pes Mou Afto Pou Se Pona",
+      "url": "https://open.spotify.com/track/5CzW0Xwhe6CNsxTQ5UkvqA"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
+      "album": {
+        "name": "Oi Nihtes Oi Monahikes Mou",
+        "url": "https://open.spotify.com/album/1oHI6G9Pkd1xDix1iyLmIW"
+      },
+      "artists": [
+        {
+          "name": "Malu",
+          "url": "https://open.spotify.com/artist/7yRdQVDlefMJhDk3vbhjah"
+        }
+      ],
+      "duration_ms": 236790,
+      "name": "Oi Nihtes Oi Monahikes Mou",
+      "url": "https://open.spotify.com/track/2gu6wZm9n1Uy2CcjMkllVk"
+    },
+    {
+      "added_at": "2023-06-06 21:02:00",
       "album": {
         "name": "POV",
         "url": "https://open.spotify.com/album/56qe0cN1r6xtHLpli7lYjz"
@@ -439,478 +907,6 @@
       "duration_ms": 179511,
       "name": "LATHI",
       "url": "https://open.spotify.com/track/5lQfoQ3mPD7hDomKjjMwhV"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Trixame Ta Dontia",
-        "url": "https://open.spotify.com/album/4DQBoooSbI7myTFAvpk18C"
-      },
-      "artists": [
-        {
-          "name": "Katy Garbi",
-          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
-        },
-        {
-          "name": "Liana Garbi",
-          "url": "https://open.spotify.com/artist/5oD9qnmaHd99nR8dIr4aad"
-        }
-      ],
-      "duration_ms": 117835,
-      "name": "Trixame Ta Dontia",
-      "url": "https://open.spotify.com/track/7uHTQO9PSiQF9tAlszXZWG"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Diavastike",
-        "url": "https://open.spotify.com/album/6ESOHaehyVMMHVQZvBpQtB"
-      },
-      "artists": [
-        {
-          "name": "Lena Zevgara",
-          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
-        }
-      ],
-      "duration_ms": 193758,
-      "name": "Diavastike",
-      "url": "https://open.spotify.com/track/3lBYlseKTE6S8JHUyDlbVh"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "PROUD",
-        "url": "https://open.spotify.com/album/5LL6M4oDNn6pNwdRUkbqMl"
-      },
-      "artists": [
-        {
-          "name": "Monika",
-          "url": "https://open.spotify.com/artist/60YJi3abieLZxGxwtBv7Jh"
-        }
-      ],
-      "duration_ms": 342402,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/4mjowkOiSFX6HWiobPTd6T"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Anypomona",
-        "url": "https://open.spotify.com/album/29XhALgrR4AoQnzpzHpK7m"
-      },
-      "artists": [
-        {
-          "name": "Katerina",
-          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
-        }
-      ],
-      "duration_ms": 224776,
-      "name": "Anypomona",
-      "url": "https://open.spotify.com/track/03ndG4diPzdTI0qsgDGXbZ"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "REBORN",
-        "url": "https://open.spotify.com/album/6LI0cMj8yGeWPVDLTgLkcq"
-      },
-      "artists": [
-        {
-          "name": "Efta",
-          "url": "https://open.spotify.com/artist/7vJyO9rRyF3SYHzSl9g93G"
-        },
-        {
-          "name": "Stolou",
-          "url": "https://open.spotify.com/artist/3dRTRPZYK8Wa3hQuyHMs0A"
-        },
-        {
-          "name": "Mayjay",
-          "url": "https://open.spotify.com/artist/0Ll3PDwT2z1XpspOCdKQDa"
-        }
-      ],
-      "duration_ms": 144015,
-      "name": "ME THYMASAI?",
-      "url": "https://open.spotify.com/track/6vPhbchURoYay93n974rTc"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Yfanto",
-        "url": "https://open.spotify.com/album/45TwwETue91iKgiVirqCYy"
-      },
-      "artists": [
-        {
-          "name": "Ioanna Kavroulaki",
-          "url": "https://open.spotify.com/artist/3lWF7hNqotrVAfDS2ARUJP"
-        },
-        {
-          "name": "Yiannis Kotsiras",
-          "url": "https://open.spotify.com/artist/6waWR57xXsgtWztHX1v8TB"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "Pes Mou Afto Pou Se Pona",
-      "url": "https://open.spotify.com/track/5CzW0Xwhe6CNsxTQ5UkvqA"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Oi Nihtes Oi Monahikes Mou",
-        "url": "https://open.spotify.com/album/1oHI6G9Pkd1xDix1iyLmIW"
-      },
-      "artists": [
-        {
-          "name": "Malu",
-          "url": "https://open.spotify.com/artist/7yRdQVDlefMJhDk3vbhjah"
-        }
-      ],
-      "duration_ms": 236790,
-      "name": "Oi Nihtes Oi Monahikes Mou",
-      "url": "https://open.spotify.com/track/2gu6wZm9n1Uy2CcjMkllVk"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/53JfH1V7c5jBEgmehnQSmb"
-      },
-      "artists": [
-        {
-          "name": "Athena Manoukian",
-          "url": "https://open.spotify.com/artist/22YSp71UhSbFP7OP5jx3r0"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/4GuZhUEQPkZ4hkP14kzUJn"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "To Nisi",
-        "url": "https://open.spotify.com/album/7Dbi17XrHK35gSMbiFT60j"
-      },
-      "artists": [
-        {
-          "name": "Margarita Zorbala",
-          "url": "https://open.spotify.com/artist/0Z3eLpFNzjJpfUWPu15b2T"
-        },
-        {
-          "name": "Apostolos Rizos",
-          "url": "https://open.spotify.com/artist/3snxFc5YoFDKPFaWOLgfWu"
-        }
-      ],
-      "duration_ms": 213972,
-      "name": "To Nisi",
-      "url": "https://open.spotify.com/track/6ngjZMlRcs4aLzSDMyUPYE"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "I'm Nothing Without You",
-        "url": "https://open.spotify.com/album/4LRespg60N78UlWILnwn8S"
-      },
-      "artists": [
-        {
-          "name": "Monika",
-          "url": "https://open.spotify.com/artist/60YJi3abieLZxGxwtBv7Jh"
-        }
-      ],
-      "duration_ms": 175971,
-      "name": "I'm Nothing Without You",
-      "url": "https://open.spotify.com/track/5idojnrQF8uPq3MjqenvR8"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Geitonia",
-        "url": "https://open.spotify.com/album/095xSvtEkJGHQvC1IvTnyR"
-      },
-      "artists": [
-        {
-          "name": "Luisa",
-          "url": "https://open.spotify.com/artist/1mzeq2AB4aYZwPfrU03C98"
-        },
-        {
-          "name": "Chico Beatz",
-          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
-        }
-      ],
-      "duration_ms": 254250,
-      "name": "Geitonia",
-      "url": "https://open.spotify.com/track/0GM3ezBbYLLsUnc76pseKV"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Edo Tha Meino",
-        "url": "https://open.spotify.com/album/14NBaEzzEYya2mVwAdEN8G"
-      },
-      "artists": [
-        {
-          "name": "Mirela Pachou",
-          "url": "https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "Edo Tha Meino",
-      "url": "https://open.spotify.com/track/3SqE5SoYRWDkBjozX41OBI"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Life Goes On",
-        "url": "https://open.spotify.com/album/7aLfFRWNJDeiDY7DFalOnx"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Koniak",
-          "url": "https://open.spotify.com/artist/7sjcFcVPtQ1Oi4j3g7VP30"
-        },
-        {
-          "name": "Mikis Theodorakis",
-          "url": "https://open.spotify.com/artist/58EvYFzDGAQOmBpIOxujnj"
-        },
-        {
-          "name": "Dimitris Margiolas",
-          "url": "https://open.spotify.com/artist/6g43xE3LhDTCIP6jayf8cS"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/25gfLP5hAxiChiirTIqJRS"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Kapies Vradies",
-        "url": "https://open.spotify.com/album/1746bVwH4FFE0DFSNfXl8b"
-      },
-      "artists": [
-        {
-          "name": "Despina Lagonidou",
-          "url": "https://open.spotify.com/artist/3A2il57Lr1ZSmzK048GeE2"
-        },
-        {
-          "name": "Christos Papadopoulos",
-          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
-        }
-      ],
-      "duration_ms": 216331,
-      "name": "Kapies Vradies",
-      "url": "https://open.spotify.com/track/5bJslD6O6vCjSyvhUo8ABG"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Concept",
-        "url": "https://open.spotify.com/album/1065kzlYEsM7OcoUzx6TJH"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/28bAxhqkevzwM2b2dNaODZ"
-        },
-        {
-          "name": "Dimitris Koufoudakis",
-          "url": "https://open.spotify.com/artist/1Hj13p1TFwirPlIxOdEgZx"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Concept",
-      "url": "https://open.spotify.com/track/0HEMelE2R38Y549CqSRIpI"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "I Vardia Tou Hronou",
-        "url": "https://open.spotify.com/album/0KJfe6nqvjpT0IVnAerQzs"
-      },
-      "artists": [
-        {
-          "name": "Glykeria",
-          "url": "https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f"
-        }
-      ],
-      "duration_ms": 223662,
-      "name": "I Vardia Tou Hronou",
-      "url": "https://open.spotify.com/track/4xyWlUTLZXKjY5bagn2GCp"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Zali",
-        "url": "https://open.spotify.com/album/7IMzN8FNlBo28mwu7QIgRu"
-      },
-      "artists": [
-        {
-          "name": "Barbara Argyrou",
-          "url": "https://open.spotify.com/artist/4dKyyPIMmuepbWWTaOVRYK"
-        }
-      ],
-      "duration_ms": 166204,
-      "name": "Zali",
-      "url": "https://open.spotify.com/track/7aZp6LxyVKFjwiEna110ax"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Se Zontanes Sinavlies",
-        "url": "https://open.spotify.com/album/1yABlBR72NBprTAfKq2116"
-      },
-      "artists": [
-        {
-          "name": "Sofia Arvaniti",
-          "url": "https://open.spotify.com/artist/0SRuQjVnoLDk5PtD8EYv5p"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "Se Zontanes Sinavlies",
-      "url": "https://open.spotify.com/track/5bq0yaHJujnKqQr2MWKf9P"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Tsibidakia",
-        "url": "https://open.spotify.com/album/7HJTsz6CAtJHVKIT7Pu6Q7"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda",
-          "url": "https://open.spotify.com/artist/09p9sT18PQMwdegAHoDtKb"
-        },
-        {
-          "name": "Hrwas",
-          "url": "https://open.spotify.com/artist/3Twks7X3LY2Dzjv8s3f49l"
-        }
-      ],
-      "duration_ms": 170504,
-      "name": "Tsibidakia",
-      "url": "https://open.spotify.com/track/05UMrMr0wBIBrCvVTBYyBV"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Mi Mou Peis",
-        "url": "https://open.spotify.com/album/6tytrcMumOmpbLpjvKuh9a"
-      },
-      "artists": [
-        {
-          "name": "Kianna",
-          "url": "https://open.spotify.com/artist/4fTmQzW49oi5GGJOpPjuNy"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Mi Mou Peis",
-      "url": "https://open.spotify.com/track/0CqtgrFcL4U0IbLg24raCO"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Afto To Tragoudi",
-        "url": "https://open.spotify.com/album/3DRDGeLFjDiCH7jIKrD6VC"
-      },
-      "artists": [
-        {
-          "name": "Nina Mazani",
-          "url": "https://open.spotify.com/artist/2HYTcCm27ECQVbmyrBxg3f"
-        }
-      ],
-      "duration_ms": 208294,
-      "name": "Afto To Tragoudi",
-      "url": "https://open.spotify.com/track/616bXUGGVSMZLDE7wnG9FY"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Fool's Paradise",
-        "url": "https://open.spotify.com/album/3JnBXMegpTCa12jm4UV9Qw"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7mnPTtvwhICMkAZ4IuKefy"
-        }
-      ],
-      "duration_ms": 193233,
-      "name": "Fool's Paradise",
-      "url": "https://open.spotify.com/track/31aIz2czSqNPYww3ZqPxi9"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "O Vrahos",
-        "url": "https://open.spotify.com/album/4dTyhrT4KmOC1eFJkFDzIT"
-      },
-      "artists": [
-        {
-          "name": "Xenia Gargali",
-          "url": "https://open.spotify.com/artist/1ei2KEiexDEehzyu4oEddP"
-        },
-        {
-          "name": "Periklis Biskinis",
-          "url": "https://open.spotify.com/artist/4ZmLaIa9DllCHlLdmfZpd3"
-        }
-      ],
-      "duration_ms": 247955,
-      "name": "O Vrahos",
-      "url": "https://open.spotify.com/track/1WzONJTJfmd8dfJ2LCv8QB"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Egrapses / Ti Na Kano / Egina Kommatia / Apo Mena Gia Sena (Unplugged Medley Ballads)",
-        "url": "https://open.spotify.com/album/3gxnFi8hlJjfwED30OFj0p"
-      },
-      "artists": [
-        {
-          "name": "Lena Papadopoulou",
-          "url": "https://open.spotify.com/artist/0KXaeXtsNNnfjoDZ86FLj7"
-        }
-      ],
-      "duration_ms": 316428,
-      "name": "Egrapses / Ti Na Kano / Egina Kommatia / Apo Mena Gia Sena - Unplugged Medley Ballads",
-      "url": "https://open.spotify.com/track/6mt2BCkRF8EztIcXH41TAK"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Sino Moi",
-        "url": "https://open.spotify.com/album/3rlcfJCFsXznxujMHtHtmC"
-      },
-      "artists": [
-        {
-          "name": "Mimis Nikolopoulos",
-          "url": "https://open.spotify.com/artist/470Dl9ZKHRaZ9QRYzYovfS"
-        },
-        {
-          "name": "Sandra Sangiao",
-          "url": "https://open.spotify.com/artist/0v0VMbl5PDaEEIT0xFBIkx"
-        }
-      ],
-      "duration_ms": 331065,
-      "name": "Sino Moi",
-      "url": "https://open.spotify.com/track/5kcYTERi567rflTBI18ZiO"
-    },
-    {
-      "added_at": "2023-05-02 21:00:00",
-      "album": {
-        "name": "Agapi Ypervoliki (2023 Version)",
-        "url": "https://open.spotify.com/album/1cFK4HC3ffxOZosr1TrXtm"
-      },
-      "artists": [
-        {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
-        },
-        {
-          "name": "iLLEOo",
-          "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Agapi Ypervoliki - 2023 Version",
-      "url": "https://open.spotify.com/track/06RkoxeiyiL0I1Hfpt4Zew"
     }
   ],
   "unique_name": "EQUAL Greece ",

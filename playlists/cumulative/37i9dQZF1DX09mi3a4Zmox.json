@@ -2446,6 +2446,24 @@
     {
       "album": {
         "name": "rimas del verbo amar",
+        "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250186,
+      "name": "rimas del verbo amar",
+      "url": "https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX"
+    },
+    {
+      "album": {
+        "name": "rimas del verbo amar",
         "url": "https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5"
       },
       "artists": [
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 250186,
       "name": "rimas del verbo amar",
       "url": "https://open.spotify.com/track/6KN5CpFdYW50Nd0pDXCIXy"

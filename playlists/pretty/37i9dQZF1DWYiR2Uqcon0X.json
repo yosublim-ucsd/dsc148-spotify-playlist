@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 718826,
+  "num_followers": 718917,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjZmZDVhYmFiY2VhZDc1NDc4YTNhMzVmYmU2OGUzMGE4ODVjYjI5",
+  "snapshot_id": "MCwwNzI3MjMyMGYzN2I2Y2I1ZmFhNDU1ZmQ0Yjc0MzdlMWQ1NTk4ZGEx",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Wait Up For Me",
-      "url": "https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 235053,
       "name": "2016",
       "url": "https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Wait Up For Me",
+      "url": "https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Living Room Worktapes",
-        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
+        "name": "Originals",
+        "url": "https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C"
       },
       "artists": [
         {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+          "name": "Music Travel Love",
+          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
         }
       ],
-      "duration_ms": 243898,
-      "name": "Where You Are - Acoustic",
-      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
+      "duration_ms": 165631,
+      "name": "Lost in Your Love",
+      "url": "https://open.spotify.com/track/6rNQl7PtVwGEEF0PuauOAr"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Originals",
-        "url": "https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C"
+        "name": "Living Room Worktapes",
+        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
       },
       "artists": [
         {
-          "name": "Music Travel Love",
-          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
         }
       ],
-      "duration_ms": 165631,
-      "name": "Lost in Your Love",
-      "url": "https://open.spotify.com/track/6rNQl7PtVwGEEF0PuauOAr"
+      "duration_ms": 243898,
+      "name": "Where You Are - Acoustic",
+      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 264161,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/0UU1opJqwJtFvHpCrWK1Mq"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Oh, Mother",
         "url": "https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 247948,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 264161,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/0UU1opJqwJtFvHpCrWK1Mq"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 206986,
-      "name": "MARILYN",
-      "url": "https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Coming Down the Mountain",
         "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 273958,
       "name": "Coming Down the Mountain",
       "url": "https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 206986,
+      "name": "MARILYN",
+      "url": "https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Home To Me",
-        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 186316,
-      "name": "Home To Me",
-      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/7sL48SpehQMoKg4whNhjMI"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Home To Me",
+        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 186316,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "The Dream: Living The Dream (Deluxe)",
         "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 211293,
       "name": "Heartland",
       "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "ballerini",
-        "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 236226,
-      "name": "half of my hometown - ballerini album version",
-      "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "ballerini",
+        "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 236226,
+      "name": "half of my hometown - ballerini album version",
+      "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "KING",
         "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 205840,
       "name": "20/10 TN",
       "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "St. Louis",
-        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 274964,
-      "name": "St. Louis",
-      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
+        "name": "St. Louis",
+        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
       },
       "artists": [
         {
-          "name": "Krysta Nick",
-          "url": "https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol"
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
+      "duration_ms": 274964,
+      "name": "St. Louis",
+      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1187,6 +1171,38 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Foucault",
+          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "Pretty Hands",
+      "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
+      },
+      "artists": [
+        {
+          "name": "Krysta Nick",
+          "url": "https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Giving It All (To You)",
         "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
       },
@@ -1203,34 +1219,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "firstborn",
-        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+        "name": "Sunday Best (Acoustic)",
+        "url": "https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4"
       },
       "artists": [
         {
-          "name": "Nicolle Galyon",
-          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+          "name": "Smithfield",
+          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
         }
       ],
-      "duration_ms": 213340,
-      "name": "sunflower.",
-      "url": "https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Foucault",
-          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "Pretty Hands",
-      "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
+      "duration_ms": 167535,
+      "name": "Sunday Best - Acoustic",
+      "url": "https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9"
     }
   ],
   "unique_name": "Country Coffeehouse",

@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,278 songs - 5 day 10 hr 38 min
+2,279 songs - 5 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1757,6 +1757,7 @@
 | [Simple](https://open.spotify.com/track/69tw7L2hMdaSQkzlxKJBu7) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Simple](https://open.spotify.com/album/79v6jLQmtk8iSbvDd32piX) | 2:59 | 2022-05-06 | 2022-05-22 |
 | [SIMPLE.](https://open.spotify.com/track/4FZcbtaK1im7dwwFXtiueL) | [Jason King](https://open.spotify.com/artist/24B1phNS2i8lriJnsS2IAW) | [SIMPLE.](https://open.spotify.com/album/4VYqMMjtCIgmsX2QYXqOBS) | 2:45 | 2023-03-03 | 2023-03-29 |
 | [Simpler Times](https://open.spotify.com/track/7f0bc0KdeDwRIvM4kHTRWS) | [CHAR](https://open.spotify.com/artist/2eoOPfVAXP5jraE3VEbWon) | [Simpler Times](https://open.spotify.com/album/3waWnha4uanTcOOWCGGuQx) | 4:02 | 2021-12-17 | 2022-01-07 |
+| [Simply in Love](https://open.spotify.com/track/2l3vDZiOi6c8NLoMv3LmP1) | [Carlos Rising](https://open.spotify.com/artist/0BeAuKNzkpVr6w0nLi5tro) | [Simply in Love](https://open.spotify.com/album/2SqSLXleVQNc7MIxIEfuSF) | 3:47 | 2023-06-06 |  |
 | [Sincerely Signed](https://open.spotify.com/track/67CUhOOcF46KsToiw1Vfvm) | [Lucid](https://open.spotify.com/artist/72xPIn3AXVj8KsRWDvtrWG), [PFV](https://open.spotify.com/artist/4qzup3EC6LnYsm26GF0oa2) | [Revamped](https://open.spotify.com/album/1XvQIFwQR62tP5MdV0oY7l) | 2:45 | 2023-02-24 | 2023-03-20 |
 | [Sirens Found Me](https://open.spotify.com/track/0ImSNYwa5J70zdf25KxP67) | [Sean Hartofilis](https://open.spotify.com/artist/2ftcfJ1m7iGj9ThSKTbQDA) | [Seas](https://open.spotify.com/album/1GwHIwmqq8Ph4MBdGeoX9V) | 3:41 | 2022-03-25 | 2022-04-10 |
 | [Sister Switch](https://open.spotify.com/track/3ovEjhgUxM5Dn1yqvj113I) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nathan Thomas](https://open.spotify.com/artist/3EFOH4vydSGrN61cySTpvR) | [Sister Switch](https://open.spotify.com/album/4JptphwhDq0PEGrEYX07eJ) | 4:03 | 2023-05-09 | 2023-05-30 |

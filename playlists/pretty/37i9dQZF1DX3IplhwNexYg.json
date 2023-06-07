@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDhhM2VjMjJhYTI3MjFiNTY0YjUzZmYyYTY3MDg1ZDNmYmM1YTM3",
+  "snapshot_id": "MCw1M2FjNzEyNDgwMDVhOTM3ZWNlMGI0MjNlM2MwNDZlNjFlMzg5ZmFl",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Billie Toppy",
-        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 195289,
-      "name": "Billie Toppy",
-      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Billie Toppy",
+        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 195289,
+      "name": "Billie Toppy",
+      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Tropic Morning News",
-        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Walking Backwards",
         "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 319986,
       "name": "Walking Backwards",
       "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Waiting to Spill",
-        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 152993,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 320186,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Emotional Creature",
-        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Weeds",
-      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Follow You Down",
         "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 136435,
       "name": "Follow You Down",
       "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Emotional Creature",
+        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Weeds",
+      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Someone2Me",
-        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 226471,
-      "name": "Someone2Me",
-      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Can't Get In",
         "url": "https://open.spotify.com/album/13Ww6VJNr0lIkBQ2KAgpqB"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 161551,
       "name": "Can't Get In",
       "url": "https://open.spotify.com/track/0RTuA2AWVjFw0MURes4kse"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Someone2Me",
+        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 226471,
+      "name": "Someone2Me",
+      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8"
-      },
-      "artists": [
-        {
-          "name": "The Royston Club",
-          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "The Deep End",
-      "url": "https://open.spotify.com/track/46vIG0pxtuxyLEnJgAzm3R"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Everybody's Saying Thursday's The Weekend",
         "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
       },
@@ -1111,22 +1095,6 @@
       "duration_ms": 184333,
       "name": "Everybody's Saying Thursday's The Weekend",
       "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 248243,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1147,6 +1115,38 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8"
+      },
+      "artists": [
+        {
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "The Deep End",
+      "url": "https://open.spotify.com/track/46vIG0pxtuxyLEnJgAzm3R"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 248243,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "In The Moment",
         "url": "https://open.spotify.com/album/3udKOUv6iwFSWGuVeQGLzR"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 324906,
       "name": "In The Moment",
       "url": "https://open.spotify.com/track/2Ry0YB7zRaPnMKt7USlSnx"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Head of the Love Club",
-        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
-      },
-      "artists": [
-        {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 149090,
-      "name": "King of Nothing",
-      "url": "https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Head of the Love Club",
+        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 149090,
+      "name": "King of Nothing",
+      "url": "https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "tainted in our memories",
         "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 160089,
       "name": "blame",
       "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/1m5Z5dFhNwYf48o2V6toqg"
+      },
+      "artists": [
+        {
+          "name": "TTRRUUCES",
+          "url": "https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/2joicPcq4DNcgO5NedEsNW"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1271,22 +1287,6 @@
       "duration_ms": 325888,
       "name": "No Rule",
       "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/1m5Z5dFhNwYf48o2V6toqg"
-      },
-      "artists": [
-        {
-          "name": "TTRRUUCES",
-          "url": "https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/2joicPcq4DNcgO5NedEsNW"
     },
     {
       "added_at": "2023-05-25 23:00:00",

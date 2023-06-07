@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Aaron
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,361 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,362 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 69 | [Acquario](https://open.spotify.com/track/3wikKu086inCKfjx0divwd) | [Piccolo G](https://open.spotify.com/artist/5OIYMOg9lPLouzN3jIerv2) | [Acquario](https://open.spotify.com/album/6f3ZuFBT8frX2VHmB8MtzB) | 2:52 |
 | 70 | [26 modi](https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [26 modi](https://open.spotify.com/album/5cwb5WacM5mr8mASyaTe4Y) | 3:06 |
 
-Snapshot ID: `MCxkMjRlN2Q2OTU2MWY3YTFjOWJhZmNmOWI1NDJjY2E5ODI1M2JlM2I2`
+Snapshot ID: `MCxkNjQ3NDI4NTk1ODQyYzQ4ZGYxNDRmZTgzMDJhMzI4MzNiODAyYjIy`

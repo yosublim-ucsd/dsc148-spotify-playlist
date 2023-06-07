@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 189549,
       "name": "Ahlam",
       "url": "https://open.spotify.com/track/6cS2fCLwfLs7HueULbZUlJ"
@@ -5668,7 +5668,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 165773,
       "name": "ELGHIRA",
       "url": "https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X"
@@ -7558,6 +7558,24 @@
     {
       "album": {
         "name": "Haram (Pablo II)",
+        "url": "https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266533,
+      "name": "Haram (Pablo II)",
+      "url": "https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo"
+    },
+    {
+      "album": {
+        "name": "Haram (Pablo II)",
         "url": "https://open.spotify.com/album/0yailt9L3LXP8gaHCW5gnD"
       },
       "artists": [
@@ -7568,7 +7586,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 266533,
       "name": "Haram (Pablo II)",
       "url": "https://open.spotify.com/track/6AFbOjmJNeCHXmoh1Ve1XM"

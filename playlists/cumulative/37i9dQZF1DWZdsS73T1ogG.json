@@ -5814,7 +5814,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 169109,
       "name": "K Tas Haciendo?",
       "url": "https://open.spotify.com/track/1klFPKt6JaTc0YWCV8OLYT"
@@ -7714,6 +7714,28 @@
       "duration_ms": 284285,
       "name": "Mi Vicio - Remix",
       "url": "https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb"
+    },
+    {
+      "album": {
+        "name": "Miami Beach",
+        "url": "https://open.spotify.com/album/56scR1Ng2zgHTcDcK9BwzF"
+      },
+      "artists": [
+        {
+          "name": "R1 La Esencia",
+          "url": "https://open.spotify.com/artist/6fDScz7zLUrQFSRy4Tn7Ff"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185253,
+      "name": "Miami Beach",
+      "url": "https://open.spotify.com/track/65QkoILdc0nkAlSErb5ZDZ"
     },
     {
       "album": {

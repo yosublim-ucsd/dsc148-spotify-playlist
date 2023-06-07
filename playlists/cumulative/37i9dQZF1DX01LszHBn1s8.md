@@ -4,7 +4,7 @@
 
 > my beige flag is not putting my phone on silent during the night because i'm scared my alarm might not go off
 
-1,107 songs - 2 day 10 hr 6 min
+1,109 songs - 2 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2022-08-10 | 2023-01-06 |
 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 | 2022-05-19 |  |
 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 | 2022-05-19 | 2022-10-29 |
+| [Company](https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:28 | 2023-06-06 |  |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-25 |  |
 | [Conceited](https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Conceited](https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV) | 2:26 | 2022-07-04 |  |
 | [Congratulations](https://open.spotify.com/track/7EHhEcu9tJWPZmlsNX4Gud) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Congratulations](https://open.spotify.com/album/7fSx6FtzpzX3wmAUORj0cP) | 3:52 | 2022-05-19 |  |
@@ -755,6 +756,7 @@
 | [Own Brand Freestyle](https://open.spotify.com/track/7EZD3TspkHDJrRDShAbnDH) | [FelixThe1st](https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg), [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP), [Finch Fetti](https://open.spotify.com/artist/5lup4fypQIoHxiE67ue1yi) | [All TickTock Trends](https://open.spotify.com/album/0v9bhnYDsM9Rgx9tSEGPZN) | 2:33 | 2022-11-10 | 2022-11-13 |
 | [Oxytocin](https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 | 2022-05-19 |  |
 | [Pacify Her](https://open.spotify.com/track/360Wr96ywrCQq4kTAJ8Pq6) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:40 | 2022-05-19 |  |
+| [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-06-06 |  |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-03-02 | 2023-03-10 |
 | [Palpitations](https://open.spotify.com/track/0HlwOhl2VwPQrM1LS2Ywgz) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Palpitations](https://open.spotify.com/album/6a9UTD8ZOUUBdMYczaqitI) | 2:33 | 2022-10-06 |  |
 | [Palpitations](https://open.spotify.com/track/4jS4EhXJT0Rj2SzjsgYIo5) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Palpitations](https://open.spotify.com/album/6J5xwFqJZkOdv9xKx8jHTQ) | 2:33 | 2022-05-19 | 2022-10-14 |

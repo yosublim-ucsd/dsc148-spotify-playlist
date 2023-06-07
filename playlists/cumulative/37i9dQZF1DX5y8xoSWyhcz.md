@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,069 songs - 2 day 6 hr 50 min
+1,070 songs - 2 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1023,7 +1023,8 @@
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-07-24 | 2021-07-31 |
 | [were you ever with me?](https://open.spotify.com/track/5gKgLgH5guzIIVDDeDvJI1) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:06 | 2021-10-23 | 2021-11-20 |
 | [What You Do To Me](https://open.spotify.com/track/755fpw1IGAFIZ0uqjMfTvc) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [Some Days](https://open.spotify.com/album/3IFCd1wLD6M7rCntUsltk2) | 4:14 | 2021-04-24 | 2021-07-17 |
-| [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 |  |
+| [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 | 2023-06-07 |
+| [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 |  |
 | [What's Up](https://open.spotify.com/track/2gd56EvH2vsrQdJlHwDmbT) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Hurt Is Boring](https://open.spotify.com/album/3TaUQwagOJ34h8ky2avuaD) | 2:21 | 2021-05-15 | 2021-06-05 |
 | [When It Kills Me](https://open.spotify.com/track/7heSG5oy44Si0bc8toOsYX) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [When It Kills Me: Pt\. 2](https://open.spotify.com/album/5g0ADZD2v0pRnkgX8UhHaX) | 3:41 | 2022-05-06 |  |
 | [When Nobody's Watching](https://open.spotify.com/track/7jEHng9pQFSFE9De2dFRMA) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [When Nobody's Watching](https://open.spotify.com/album/0kOUrPu1RF2jvxu0SCP0ga) | 3:36 | 2021-07-17 | 2021-09-11 |

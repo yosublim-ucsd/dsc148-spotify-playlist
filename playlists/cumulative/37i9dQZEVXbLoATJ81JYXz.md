@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,379 songs - 2 day 23 hr 22 min
+1,380 songs - 2 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Cara Mia](https://open.spotify.com/track/1TxSLtHZ3cqnyTJSkzt0SY) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Cara Mia](https://open.spotify.com/album/01fEvBkM2FjXBZd2xW4Cqe) | 3:31 | 2022-10-31 | 2022-11-18 |
 | [Cara Mia](https://open.spotify.com/track/4GGAC3gKzO5N9Vb8IQv0fQ) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Så mycket bättre 2022 – Tolkningarna](https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon) | 3:31 | 2022-11-17 | 2022-11-23 |
 | [Caravaggio](https://open.spotify.com/track/5Bv6jNkvB82p6NCeaFsVuA) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Caravaggio](https://open.spotify.com/album/06bvnTPXXc3ozKuXnimVZj) | 2:12 | 2021-09-24 | 2021-10-17 |
+| [Cataleya](https://open.spotify.com/track/0UPqn8FGqnHqBjrkTHnFm7) | [A\-nine](https://open.spotify.com/artist/6kvttKDg5ioVprwcaiqWV1) | [Cataleya](https://open.spotify.com/album/75W4jn9e1wEy3eENSsDBNl) | 2:40 | 2023-06-06 |  |
 | [Catfish](https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:30 | 2022-09-08 | 2022-10-18 |
 | [CATWALK](https://open.spotify.com/track/5YoHjWEXKCkJbRcvs8846Y) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [CATWALK](https://open.spotify.com/album/0G2HYdfhqWeyuigwQdObeX) | 2:01 | 2023-05-22 |  |
 | [CCTV](https://open.spotify.com/track/3zx5ne2XxVwFcPg4t6OxRC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [CCTV](https://open.spotify.com/album/2g8aREJdHnVxe5cedBfLbQ) | 2:24 | 2021-09-08 | 2021-10-17 |
@@ -688,7 +689,7 @@
 | [Komplicerat](https://open.spotify.com/track/7ofOfhBu0FCuVemv4zL8Ry) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 2:19 | 2022-09-03 | 2022-10-30 |
 | [Koppla Av](https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX) | 2:53 | 2023-05-27 |  |
 | [Koppla av](https://open.spotify.com/track/3MOiHZI4V8KaDdSaOSOVMQ) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:57 | 2022-06-07 | 2022-09-11 |
-| [KRYPA HEM](https://open.spotify.com/track/1GCybsrQ3fiP1Ux4cSPs1f) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx) | [KRYPA HEM](https://open.spotify.com/album/5IJQOKSFI1Ek9ngyhuzPIF) | 2:02 | 2023-06-03 |  |
+| [KRYPA HEM](https://open.spotify.com/track/1GCybsrQ3fiP1Ux4cSPs1f) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx) | [KRYPA HEM](https://open.spotify.com/album/5IJQOKSFI1Ek9ngyhuzPIF) | 2:02 | 2023-06-03 | 2023-06-07 |
 | [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/track/0xVDkht7T97HkFCXmiCQLT) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ) | [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/album/5A9aJ7wIhbEXQcJuE91YKQ) | 3:14 | 2023-05-29 | 2023-06-04 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-05 | 2022-10-16 |
 | [Kulor \(Intro\)](https://open.spotify.com/track/5hrDLjhhAHCYOONnAUAAkD) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:38 | 2022-04-30 | 2022-05-08 |

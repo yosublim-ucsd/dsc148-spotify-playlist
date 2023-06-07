@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Peso Pluma y Bizarrap, Ángela Aguilar, KAROL G y Aldo Ranks, Young Miko y Jowell y Randy: aquí está tu nueva rola favorita!
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,344 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,428 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 48 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 |
 | 49 | [Snowman](https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Snowman](https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh) | 5:15 |
 
-Snapshot ID: `MCw5MWVlOTFmMGY0MDM4ZTJkYjMxYWUxZjIwZjViYTA2MzZkNDgwMTY3`
+Snapshot ID: `MCw1N2FjMmU1ZmMwYzQ1MWQyOTk1M2Q0MzY1YWY2M2Y0YTFmOWU0NWQ3`

@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 38445,
+  "num_followers": 38472,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjZhZTg0MzY1NmMwYzJkNzFmODdkZWE2NmE0ZmY2OTkwYjgxNjYz",
+  "snapshot_id": "MCwxYWQ1OWYwOGM3Njg0YTIzNWI2NWI3MTgxOWQ1MGI0NTJmMzg0YzI4",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -663,22 +663,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Rushing Back",
-        "url": "https://open.spotify.com/album/4d2YOjyPDopVhOkksaALJj"
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 231663,
-      "name": "Rushing Back",
-      "url": "https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY"
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -699,18 +695,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+        "name": "Rushing Back",
+        "url": "https://open.spotify.com/album/4d2YOjyPDopVhOkksaALJj"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Hey, Ma",
-      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
+      "duration_ms": 231663,
+      "name": "Rushing Back",
+      "url": "https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 216933,
       "name": "Hair Down (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4sFzG7iUlyPmuyASCkre9A"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 299440,
-      "name": "The Barrel",
-      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 146596,
       "name": "Go",
       "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 146093,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "She Plays Bass",
         "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 207106,
       "name": "She Plays Bass",
       "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 196776,
-      "name": "Shine A Little Light",
-      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 213173,
       "name": "Burning",
       "url": "https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 196776,
+      "name": "Shine A Little Light",
+      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Tokyo Drifting",
         "url": "https://open.spotify.com/album/1awYYlPxboJHZqiEFXEdTh"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 217693,
       "name": "Tokyo Drifting (with Denzel Curry)",
       "url": "https://open.spotify.com/track/3AHqaOkEFKZ6zEHdiplIv7"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Song 32",
+        "url": "https://open.spotify.com/album/2ZZWU7AAqHV9tXzNjPZrYJ"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 162496,
+      "name": "Song 32",
+      "url": "https://open.spotify.com/track/7Duz1lXRfECWROhjHQ5dWk"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Song 32",
-        "url": "https://open.spotify.com/album/2ZZWU7AAqHV9tXzNjPZrYJ"
+        "name": "Only Child",
+        "url": "https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ"
       },
       "artists": [
         {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
         }
       ],
-      "duration_ms": 162496,
-      "name": "Song 32",
-      "url": "https://open.spotify.com/track/7Duz1lXRfECWROhjHQ5dWk"
+      "duration_ms": 239324,
+      "name": "Only Child",
+      "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1411,22 +1427,6 @@
       "duration_ms": 240757,
       "name": "DYSFUNCTIONAL",
       "url": "https://open.spotify.com/track/60y3oBiHHIlOzUFZRWP6Ak"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Only Child",
-        "url": "https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ"
-      },
-      "artists": [
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
-        }
-      ],
-      "duration_ms": 239324,
-      "name": "Only Child",
-      "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Ain't Together",
-      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/3g2V8aC3c2ytEKHLeMhKBX"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 212160,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/65eQZ65gCurZX0SXTfeBnc"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "Ain't Together",
+      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
     },
     {
       "added_at": "2022-09-16 04:53:36",

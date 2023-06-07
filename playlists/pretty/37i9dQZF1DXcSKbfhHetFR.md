@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,421 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,426 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 26 | [Je suis partie](https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV) | [Anik Jean](https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa) | [Le Trashy Saloon](https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3) | 3:21 |
 | 27 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
 | 28 | [Sa craque au soleil](https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Minimiser les dégâts](https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU) | 2:59 |
-| 29 | [Si exceptionnel](https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW) | [Andrée Watters](https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H) | [AW](https://open.spotify.com/album/658WdTob3JXKse2edU1PiH) | 3:49 |
-| 30 | [Tu ne peux pas partir](https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u) | 3:23 |
+| 29 | [Tu ne peux pas partir](https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u) | 3:23 |
+| 30 | [Si exceptionnel](https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW) | [Andrée Watters](https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H) | [AW](https://open.spotify.com/album/658WdTob3JXKse2edU1PiH) | 3:49 |
 | 31 | [Big Bang](https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU) | 3:20 |
 | 32 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
 | 33 | [Ma dope à moi](https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Western Romance](https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX) | 3:28 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 40 | [Le teint de Linda](https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Le Chihuahua](https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe) | 4:39 |
 | 41 | [Dans les airs](https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I) | [Vénus 3](https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU) | [Sur quelle planète](https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB) | 5:23 |
 | 42 | [Gwen et les rats](https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [l'amour la haine les animaux les automobiles](https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW) | 3:08 |
-| 43 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 |
-| 44 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
+| 43 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
+| 44 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 |
 | 45 | [Fuck'n'shit baby love!](https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx) | [Le Karlof Orchestra](https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z) | [Fuck'n'shit baby love!](https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i) | 2:07 |
 | 46 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 |
 | 47 | [Si j'ai tort](https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Le silence des roses](https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [Brooklyn](https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp) | [Bonjour Brumaire](https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv) | [De la nature des foules](https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds) | 4:04 |
 | 50 | [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 |
 
-Snapshot ID: `MCwwOWUxNzdmMDA5MTI2MTBlNTYzYzdjZTI1OGRlMjUxZTgwNjM0NDll`
+Snapshot ID: `MCw1Njc4MDhmZDUzOTdhYjdiM2VlODI1Mjc1NmRjZTYwZWFiMDk4YjQ0`

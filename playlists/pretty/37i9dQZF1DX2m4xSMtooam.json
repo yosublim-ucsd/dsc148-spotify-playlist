@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 149178,
+  "num_followers": 149523,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzExNjU2NTQwYTE5NDQxOGJiZTkwNzAxZDQ3MTkxMmQzOTJkOWY5",
+  "snapshot_id": "MCw4ZTIwNzdkYzcyN2IxNDU1MDgzNDU5NTI3OGUyNzYxMzE2ZDNmMjFl",
   "tracks": [
     {
       "added_at": "2023-06-01 22:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 268760,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Take To The Sky",
         "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 252200,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 268760,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Sunset Martini",
-        "url": "https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb"
-      },
-      "artists": [
-        {
-          "name": "Magnus Ringblom Quartet",
-          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
-        }
-      ],
-      "duration_ms": 222599,
-      "name": "Enjoy Your Cigar",
-      "url": "https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Verano",
         "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "Sunset Martini",
+        "url": "https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ringblom Quartet",
+          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
+        }
+      ],
+      "duration_ms": 222599,
+      "name": "Enjoy Your Cigar",
+      "url": "https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "day by day",
         "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
       },
@@ -1319,6 +1319,30 @@
       "duration_ms": 259933,
       "name": "Day by day",
       "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 321640,
+      "name": "All of Me (Disse alguem)",
+      "url": "https://open.spotify.com/track/0YPurGQSRUDTtIFUX3Nskc"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1371,26 +1395,38 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr"
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Lighthouse Lounge Band",
+          "url": "https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc"
         }
       ],
-      "duration_ms": 321640,
-      "name": "All of Me (Disse alguem)",
-      "url": "https://open.spotify.com/track/0YPurGQSRUDTtIFUX3Nskc"
+      "duration_ms": 263536,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Rio Bahia",
+        "url": "https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg"
+      },
+      "artists": [
+        {
+          "name": "Joyce Moreno",
+          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
+        },
+        {
+          "name": "Dori Caymmi",
+          "url": "https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "Jo\u00e3ozinho Boa Pinta",
+      "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1435,22 +1471,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
-      },
-      "artists": [
-        {
-          "name": "Lighthouse Lounge Band",
-          "url": "https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc"
-        }
-      ],
-      "duration_ms": 263536,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "I've Never Been in Love Before",
         "url": "https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1"
       },
@@ -1479,26 +1499,6 @@
       "duration_ms": 215160,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Rio Bahia",
-        "url": "https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg"
-      },
-      "artists": [
-        {
-          "name": "Joyce Moreno",
-          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
-        },
-        {
-          "name": "Dori Caymmi",
-          "url": "https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "Jo\u00e3ozinho Boa Pinta",
-      "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Nana",
-        "url": "https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484"
+        "name": "Time Passing Slowly",
+        "url": "https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv"
       },
       "artists": [
         {
-          "name": "Marcio Philomena",
-          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+          "name": "Southside Trio",
+          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
         }
       ],
-      "duration_ms": 273637,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm"
+      "duration_ms": 218000,
+      "name": "Time Passing Slowly",
+      "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "duration_ms": 273637,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 199875,
       "name": "Rio",
       "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Time Passing Slowly",
-        "url": "https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv"
-      },
-      "artists": [
-        {
-          "name": "Southside Trio",
-          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Time Passing Slowly",
-      "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "The Cole Porter Mix",
-        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
+        "name": "Once Forgotten",
+        "url": "https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v"
       },
       "artists": [
         {
-          "name": "Patricia Barber",
-          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
         }
       ],
-      "duration_ms": 216320,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
+      "duration_ms": 247711,
+      "name": "Once Forgotten",
+      "url": "https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr"
     }
   ],
   "unique_name": "Bossa Chill",

@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
@@ -692,7 +710,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -5768,7 +5786,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 204373,
       "name": "FREE KARLO",
       "url": "https://open.spotify.com/track/1GvNhTv4p4pyunXvVCZAjb"
@@ -7348,7 +7366,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -7366,7 +7384,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -8300,7 +8318,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 119722,
       "name": "Jsem Optimista",
       "url": "https://open.spotify.com/track/1K0njELsVmFeAZhDZNZmhJ"
@@ -10351,6 +10369,24 @@
     },
     {
       "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "album": {
         "name": "Zanaka",
         "url": "https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb"
       },
@@ -10362,7 +10398,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 249533,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
@@ -12708,7 +12744,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "NIKDY BROKE",
       "url": "https://open.spotify.com/track/4PPjODmBwbhdZqwUvUsM28"
@@ -13112,7 +13148,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 201540,
       "name": "Novej Sv\u011bt",
       "url": "https://open.spotify.com/track/5kw5hKBwIUgjAu97QAt0hS"
@@ -17226,7 +17262,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 256720,
       "name": "Svaz \u010desk\u00fdch boh\u00e9m\u016f",
       "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
@@ -17266,7 +17302,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -17656,7 +17692,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 213398,
       "name": "This is My Show",
       "url": "https://open.spotify.com/track/5BD3JPtu8ITPhkoR0xw8km"
@@ -18192,7 +18228,7 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 198801,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5op1X8TfWNUmJnwRzCQ3qL"

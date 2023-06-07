@@ -220,6 +220,24 @@
     {
       "album": {
         "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "COOL (Your rainbow)",
+      "url": "https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb"
+    },
+    {
+      "album": {
+        "name": "ENTWURF",
         "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
       },
       "artists": [
@@ -230,7 +248,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 170400,
       "name": "COOL (Your rainbow)",
       "url": "https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA"

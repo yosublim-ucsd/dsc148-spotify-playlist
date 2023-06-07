@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 688679,
+  "num_followers": 688672,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTE2MDUyYzI0ZTZiMGJiMDhiZDMzN2UyMDNhNDM0MDRhMDllMzJl",
+  "snapshot_id": "MCw0YjJiYzdmYzQxYjZhN2Y0NzI2Njc1YTE1NWM0NDdjZWU1MmE2NjI2",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -735,26 +735,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Hold This",
-        "url": "https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA"
-      },
-      "artists": [
-        {
-          "name": "HStikkytokky",
-          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
-        },
-        {
-          "name": "J Fado",
-          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Hold This",
-      "url": "https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 168053,
       "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Hold This",
+        "url": "https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA"
+      },
+      "artists": [
+        {
+          "name": "HStikkytokky",
+          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
+        },
+        {
+          "name": "J Fado",
+          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Hold This",
+      "url": "https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 169910,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 167998,
       "name": "Signals",
       "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 169910,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 116554,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Love Tonight (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/1X71912aX0L37dW0eW3QgE"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 208536,
       "name": "Love Tonight (Vintage Culture & Kiko Franco Remix Edit)",
       "url": "https://open.spotify.com/track/53ICqRSyTfhrrvNwVSP6am"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 116554,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "I Don\u2019t Wanna Know",
-        "url": "https://open.spotify.com/album/5tnwqNjGJpYhDOCwQ5EQP0"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 165093,
-      "name": "I Don't Wanna Know",
-      "url": "https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "For a Feeling (feat. RHODES)",
         "url": "https://open.spotify.com/album/0cBPK7AovyEBys5USO3MQ2"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 296324,
       "name": "For a Feeling (feat. RHODES)",
       "url": "https://open.spotify.com/track/1wjQEAV31X26Za9KRAmqwz"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "I Don\u2019t Wanna Know",
+        "url": "https://open.spotify.com/album/5tnwqNjGJpYhDOCwQ5EQP0"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 165093,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1603,30 +1603,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD"
-      },
-      "artists": [
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        },
-        {
-          "name": "Franklin",
-          "url": "https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 168289,
-      "name": "Everybody Dance",
-      "url": "https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Tell It To My Heart (KVSH Remix)",
         "url": "https://open.spotify.com/album/1mH6foqOI76VKUn1RvAFYb"
       },
@@ -1647,6 +1623,30 @@
       "duration_ms": 183870,
       "name": "Tell It To My Heart (feat. Hozier) - KVSH Remix",
       "url": "https://open.spotify.com/track/0AxvmNaxYKmO4xPptkKsnZ"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Franklin",
+          "url": "https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 168289,
+      "name": "Everybody Dance",
+      "url": "https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Night Ends",
+        "url": "https://open.spotify.com/album/6nfOb69by9vWhRZdCiz52P"
+      },
+      "artists": [
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Night Ends",
+      "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "2 Hearts (feat. Gia Koka)",
         "url": "https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc"
       },
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Night Ends",
-        "url": "https://open.spotify.com/album/6nfOb69by9vWhRZdCiz52P"
-      },
-      "artists": [
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Night Ends",
-      "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/4ZTsEtIrFPFXGo6eXt06Zk"
       },
@@ -1871,38 +1871,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Don't You Worry About Me",
-        "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Don't You Worry About Me",
-      "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Summer In Love",
         "url": "https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp"
       },
@@ -1915,6 +1883,22 @@
       "duration_ms": 195330,
       "name": "Summer In Love",
       "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Don't You Worry About Me",
+        "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Don't You Worry About Me",
+      "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1955,6 +1939,22 @@
       "duration_ms": 165141,
       "name": "Good Ones - Joel Corry Remix",
       "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
       "added_at": "2022-12-31 15:51:36",

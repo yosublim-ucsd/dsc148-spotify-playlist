@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Creeds
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,740,488 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,740,965 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
 | 50 | [Dooh Dooh \(Stereo Sound\)](https://open.spotify.com/track/0pCgiDXakABvpav5gAwwBU) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Dooh Dooh \(Stereo Sound\)](https://open.spotify.com/album/2Vk9sx2NOlxu6RL2JtJEoZ) | 2:05 |
 
-Snapshot ID: `MCxmNGE5N2VjODU0MDU3YWRjNzYzOWJkNzRkNjgwNTE1NjI1NzYyMjRl`
+Snapshot ID: `MCw2NTBjYjljZmYzYTAxYTZkMDA2ZDc0NDBmM2ZiNWQ3ZGNjOWI1Nzky`

@@ -1,12 +1,12 @@
 {
   "description": "Great food, good company and some soft music. ",
-  "num_followers": 683365,
+  "num_followers": 683385,
   "original_name": "Dinner Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjcxNTA3N2M5ZjJhMTgxOWZjMjZlZGM4ZTFiNDU2MGU0NzViYmQ2",
+  "snapshot_id": "MCxlZGZlYzBkYmViODk0ZGRkN2M4YmIzYzg2YTQ5ZjZhYTljMDE1NzIw",
   "tracks": [
     {
       "added_at": "2023-04-19 19:13:35",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI"
     },
     {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 183107,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S"
+    },
+    {
       "added_at": "2023-04-19 19:13:35",
       "album": {
         "name": "Sing To Me Instead",
@@ -689,20 +705,20 @@
       "url": "https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
+      "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If"
+        "name": "Stay (I Missed You)",
+        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
       },
       "artists": [
         {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
         }
       ],
-      "duration_ms": 183107,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S"
+      "duration_ms": 184333,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
     },
     {
       "added_at": "2023-06-01 17:25:04",
@@ -723,18 +739,18 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Stay (I Missed You)",
-        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
       "artists": [
         {
-          "name": "Lisa Loeb",
-          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 184333,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
+      "duration_ms": 189826,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
     },
     {
       "added_at": "2023-04-19 19:13:35",
@@ -751,22 +767,6 @@
       "duration_ms": 160453,
       "name": "Colors",
       "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
-    },
-    {
-      "added_at": "2023-04-19 19:13:35",
-      "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 189826,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
     },
     {
       "added_at": "2023-04-19 19:13:35",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 306200,
-      "name": "Hold You in My Arms",
-      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     }
   ],
   "unique_name": "Dinner Music",

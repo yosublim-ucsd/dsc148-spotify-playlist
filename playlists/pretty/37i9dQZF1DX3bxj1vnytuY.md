@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,791 likes - 101 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,837 likes - 101 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 23 | [Kaleta](https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE) | 4:30 |
 | 24 | [Dan Dale \- Ucha Remix](https://open.spotify.com/track/0RB5Epiaiewx4UdbInDDWD) | [Keyano](https://open.spotify.com/artist/3xEXhUZOzus3uL8jZ01rRH), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Dan Dale \(Ucha Remix\)](https://open.spotify.com/album/3F43VMK42YJQvoAnGG7AzO) | 3:28 |
 | 25 | [Mathura](https://open.spotify.com/track/6LgavHPcUhWatD4vXcdeOb) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Mathura](https://open.spotify.com/album/6D77LAeB7DSHY3Tgq0hcPn) | 2:48 |
-| 26 | [Aya \- THEMBA's Herd Remix](https://open.spotify.com/track/3GpHjXjwvoohxCit270wwR) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [House Of Infinity \(Deluxe Album\)](https://open.spotify.com/album/0CeWIUxQExtXOaDAfo1J6F) | 2:51 |
+| 26 | [Aya \- THEMBA's Herd Remix](https://open.spotify.com/track/3GpHjXjwvoohxCit270wwR) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [House Of Infinity](https://open.spotify.com/album/0CeWIUxQExtXOaDAfo1J6F) | 2:51 |
 | 27 | [Nirva](https://open.spotify.com/track/2vBZUSrurqmyNqt6N0a0UF) | [Kreisler](https://open.spotify.com/artist/3ZlOuTPjW2CyKznrhAjFBL), [Copal](https://open.spotify.com/artist/1LjHpgBTL94CVnf7IWq0es), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Nirva](https://open.spotify.com/album/3Id8Tch7WRXrYmwvZzXSPD) | 7:08 |
 | 28 | [D:evotion](https://open.spotify.com/track/3gcmh7rWcT1ppvVqQNfezy) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [D:evotion](https://open.spotify.com/album/03MR8BaM8z6HZ75ZQM6ulS) | 6:11 |
 | 29 | [Blazin](https://open.spotify.com/track/6fBCHr4DWUwpv3IYxy38zQ) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Alton Miller](https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs) | [Blazin'](https://open.spotify.com/album/3cFSGk4d5O5fBhDkOSeGoB) | 8:03 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 100 | [Salgir Boyu \- Bedouin Rework](https://open.spotify.com/track/4s5zbqVQebTLjloNLy3gpt) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [The Bedouin Reworks of DakhaBrakha](https://open.spotify.com/album/5fbYGyiRWLkzbbE69ikqZH) | 7:00 |
 | 101 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 |
 
-Snapshot ID: `MCwwODQyZjdhNDgwYzJhYWYyMjBjOGFjNzA0NDMwZjY2NTRhOTU2MDRh`
+Snapshot ID: `MCxhYzU3NjA5MjllY2I2NzdiYTQxMTE2NzBlYjlhM2E1NDBhZTA2ZWFi`

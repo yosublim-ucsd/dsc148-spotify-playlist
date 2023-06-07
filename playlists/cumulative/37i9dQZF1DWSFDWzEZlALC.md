@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Haller
 
-256 songs - 12 hr 37 min
+257 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Aber bei dir](https://open.spotify.com/track/4V2aSXReInkNhS1gmSezYa) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Aber bei dir](https://open.spotify.com/album/4WU5TVzfP7bP8ZtzPubJMa) | 2:26 | 2023-02-02 | 2023-02-15 |
 | [Achilles](https://open.spotify.com/track/1Yj9IP75nNp6JntNYOxrzH) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Achilles](https://open.spotify.com/album/4Xlm7Jhpp9bkWQ8Hd1Thp8) | 2:39 | 2023-03-30 | 2023-04-21 |
 | [Achterbahn](https://open.spotify.com/track/1lLUon8AY1A8zd95Qxb47L) | [Definitely Not Luke](https://open.spotify.com/artist/4Oxu8bs0EB64KkSBGOLlkt) | [Achterbahn](https://open.spotify.com/album/4buWxLZ020iTdmt7PDGLL9) | 3:10 | 2023-03-09 | 2023-03-31 |
-| [Akademie der bildenden Künste](https://open.spotify.com/track/2Fdlm11Yt6g7Hk9CRKZGqq) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Wiener Schickeria](https://open.spotify.com/album/4czKDXmW22XoBTHqHQ6xha) | 2:46 | 2023-05-11 |  |
+| [Akademie der bildenden Künste](https://open.spotify.com/track/2Fdlm11Yt6g7Hk9CRKZGqq) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Wiener Schickeria](https://open.spotify.com/album/4czKDXmW22XoBTHqHQ6xha) | 2:46 | 2023-05-11 | 2023-06-07 |
+| [Akademie der bildenden Künste](https://open.spotify.com/track/6uQAZMFNPejBdiRnp6F03D) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Wiener Schickeria](https://open.spotify.com/album/2PTfiTtj8qymWaeHFEFZWQ) | 2:46 | 2023-06-01 |  |
 | [Alleine](https://open.spotify.com/track/2G7JyHa497orziosrX1662) | [STEEZY](https://open.spotify.com/artist/7qrYjRiwMxIIxbuvVyVIeL) | [Wie Frühling Nach Dem Winter](https://open.spotify.com/album/0Z1Q9Og7qDEJ07SWadjj7G) | 3:01 | 2023-05-11 | 2023-05-26 |
 | [Alles Nur Gelogen](https://open.spotify.com/track/74eR8xSdraMDGsGPI7D5C9) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Alles Nur Gelogen](https://open.spotify.com/album/5e3VemHQtqmNtpE6ENk4WF) | 2:48 | 2023-03-30 |  |
 | [Alles ok](https://open.spotify.com/track/2ecbEV38LSy9f2MaD64M36) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Alles ok](https://open.spotify.com/album/6vY0j0uusvvF8jNltvHxOf) | 3:42 | 2023-03-09 | 2023-05-19 |

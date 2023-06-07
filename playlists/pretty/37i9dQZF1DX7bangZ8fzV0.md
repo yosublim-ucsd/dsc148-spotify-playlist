@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=rM4aHZlVSCqvSG7VVjWJbg">Appel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,961 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,019 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 15 | [\#23](https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl) | [Lisie Basson](https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR) | [\#23](https://open.spotify.com/album/0rKmgLBSXpXfVQ83vIrjR2) | 2:42 |
 | 16 | [Vat Die Cruiser](https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jacques Du Plessis](https://open.spotify.com/artist/1JACnZftdau4Kpt0I8kvTA) | [Vat Die Cruiser](https://open.spotify.com/album/1kfAKry5OJsrxRQsKBX5s1) | 3:00 |
 | 17 | [Ek Like Jou](https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Ek Like Jou](https://open.spotify.com/album/4XP2UPBce2DLra8bZ2DXQp) | 3:24 |
-| 18 | [Nee of Ja](https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Nee of Ja](https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb) | 3:19 |
-| 19 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 |
-| 20 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 |
-| 21 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 |
-| 22 | [Mal Maandagaande](https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Mal Maandagaande](https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp) | 2:13 |
-| 23 | [Haai Haai](https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Haai Haai](https://open.spotify.com/album/7pcS22M4wts8bcT1pBoB0y) | 3:18 |
-| 24 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 |
-| 25 | [Kleintjie](https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kleintjie](https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH) | 2:59 |
+| 18 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 |
+| 19 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 |
+| 20 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 |
+| 21 | [Mal Maandagaande](https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Mal Maandagaande](https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp) | 2:13 |
+| 22 | [Haai Haai](https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Haai Haai](https://open.spotify.com/album/7pcS22M4wts8bcT1pBoB0y) | 3:18 |
+| 23 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 |
+| 24 | [Kleintjie](https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kleintjie](https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH) | 2:59 |
+| 25 | [Nee of Ja](https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Nee of Ja](https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb) | 3:19 |
 | 26 | [Kortbroek](https://open.spotify.com/track/2BSoAJMG0fr4v9q8AIc8PY) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Kortbroek](https://open.spotify.com/album/0OTo3ycGnUOP1AEVTn20vH) | 2:56 |
 | 27 | [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 |
 | 28 | [Braaibroodjies](https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/4YoNjsXDZjPPlo4WqaNKT2) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 74 | [Vuil Coke](https://open.spotify.com/track/3tDxxrog40sqbYRN1xPTfx) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Vuil Coke](https://open.spotify.com/album/1Y12kOAc9lTcGHWYXIhceh) | 3:37 |
 | 75 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 |
 
-Snapshot ID: `MCw1Mzk3ODBlYmViY2YwYWZiZjE0Njc1ZDc0NjgxOTNmYTE0MmM1MzVl`
+Snapshot ID: `MCw3YTNmOWI2MDJmM2Y4OTA4NjEzZjc2YTE0YjQwMDFhYmM1ODQ4YjMw`

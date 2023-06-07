@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-644 songs - 1 day 15 hr 22 min
+645 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Horizons](https://open.spotify.com/track/4nT410mdbUh0sG7FKlsVlR) | [Purple Haze](https://open.spotify.com/artist/35ClM9mD81Evb2EIuYq5en) | [Horizons](https://open.spotify.com/album/5pdfLXkhTK8AQWVseX4TIw) | 4:00 | 2022-05-13 |  |
 | [Hyper Hyper](https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Hyper Hyper](https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi) | 2:58 | 2023-06-02 |  |
 | [Hyperion](https://open.spotify.com/track/7smTqiBvBzEXksDWw2GD8H) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Stoneface & Terminal](https://open.spotify.com/artist/3Mqc1pY8uwTjUiW0womxWk) | [Hyperion](https://open.spotify.com/album/0SNF9RTyC9vVQECSH7l3Jw) | 3:21 | 2021-12-17 | 2022-05-07 |
-| [Hypnotize](https://open.spotify.com/track/4X14jMLrOx5ewj96oEPcXN) | [NG Rezonance](https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5), [PHD](https://open.spotify.com/artist/1zFP12n1IDwPZP2VPliyvj), [Avaxx](https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ) | [Hypnotize](https://open.spotify.com/album/76wir93P4oIZb4oGb6fGj2) | 3:24 | 2023-04-07 |  |
+| [Hypnotize](https://open.spotify.com/track/4X14jMLrOx5ewj96oEPcXN) | [NG Rezonance](https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5), [PHD](https://open.spotify.com/artist/1zFP12n1IDwPZP2VPliyvj), [Avaxx](https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ) | [Hypnotize](https://open.spotify.com/album/76wir93P4oIZb4oGb6fGj2) | 3:24 | 2023-04-07 | 2023-06-07 |
 | [Hysteria](https://open.spotify.com/track/2UtJKHPrNDOlamALz8M9eS) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3), [Crowd+Ctrl](https://open.spotify.com/artist/2Jgx1nqdBfRJCktEPjLreh), [Ellae](https://open.spotify.com/artist/7GbjB22AiFh7CIsBRW5te3) | [Hysteria](https://open.spotify.com/album/3pyxMjF2gCEWlmHrtjJ48J) | 3:30 | 2022-04-29 | 2023-04-09 |
 | [I Believe \- Radio Mix](https://open.spotify.com/track/6PD6voPjpF6ZTpm3PNsYuj) | [Deepaim](https://open.spotify.com/artist/2yTlIP5JyiKxuwn4Rb8NJd), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [I Believe](https://open.spotify.com/album/4u0QA2VbeK1QZwoWfcepVI) | 3:34 | 2022-04-15 | 2022-04-19 |
 | [I Don't Care](https://open.spotify.com/track/2UIKMsHPB8n4E0ci2wvftx) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka) | [Crash & Smile in Dada Land \- May](https://open.spotify.com/album/4PjuJ33WzlVy4RpcxLCKJ1) | 3:04 | 2023-05-26 |  |
@@ -517,6 +517,7 @@
 | [Something New](https://open.spotify.com/track/6m5aNC2SqNherMjAYU7s5k) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [LYCA](https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H) | [Something New](https://open.spotify.com/album/796wmTXuTFSrXxu67ig4KR) | 3:24 | 2022-05-06 | 2023-04-09 |
 | [Sonata](https://open.spotify.com/track/4tbJLaTclmcaaro2lAhKIe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Sonata](https://open.spotify.com/album/3qLi1lqpntgGdH5DAROvY0) | 3:13 | 2021-12-17 | 2022-05-07 |
 | [Sorry](https://open.spotify.com/track/0PJr4eTfffgfHQda27VpIq) | [Simon Patterson](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Sorry](https://open.spotify.com/album/0hDrWUeld7zd4DZIx0p9tg) | 4:03 | 2022-08-12 | 2023-05-20 |
+| [Soul Theory](https://open.spotify.com/track/4P64WuBJEjSwyAnM3II9zh) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Soul Theory](https://open.spotify.com/album/6hxEUebk8cOULv4bQgSAFB) | 2:57 | 2023-06-02 |  |
 | [Soundscape](https://open.spotify.com/track/2ckuYy0wxNGXfjrRLfCnQQ) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Proyal](https://open.spotify.com/artist/4Lof8bu6EJxnEX2owLrVtP) | [Soundscape](https://open.spotify.com/album/0D5zpBdgsCQAfeXtpoUuhK) | 3:58 | 2023-02-24 | 2023-05-28 |
 | [Sovereign](https://open.spotify.com/track/6iZ1W8WDYCYjstuzxHWv6d) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Sovereign](https://open.spotify.com/album/6Q4QME7TcWGXtquJEi2ZRO) | 4:54 | 2022-04-08 | 2022-06-04 |
 | [Space Mission](https://open.spotify.com/track/0O7VvrRlagTEEFDd73Kuwt) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [A State Of Trance \- Selections 002](https://open.spotify.com/album/2iYtpcVD0UFxXbYPlkifp0) | 3:14 | 2021-12-17 | 2023-02-25 |

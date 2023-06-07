@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 37746,
+  "num_followers": 37767,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDZmMDhmNDA3YTIwYzRlYTY1NDM2MTk5MjY1NjQxYmExYTc3ZTcx",
+  "snapshot_id": "MCw2MjMxZjMwZmE4NjQ2ODJhODhkMDgxZGRhMDMxNGViYjIxMzdjOWMw",
   "tracks": [
     {
       "added_at": "2023-05-04 16:53:25",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "The Essential Little Richard",
-        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
+        "name": "P\u00efnetop Is Just Top [Blues Reference (recorded in Switzerland 1976)]",
+        "url": "https://open.spotify.com/album/1anNQaXN296NDnZm8fA3Va"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
         }
       ],
-      "duration_ms": 138933,
-      "name": "I Got It - Remastered",
-      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
+      "duration_ms": 274026,
+      "name": "Pinetop Boogie woogie",
+      "url": "https://open.spotify.com/track/4Hy8MYtJn2imFljdOKQkHm"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "P\u00efnetop Is Just Top [Blues Reference (recorded in Switzerland 1976)]",
-        "url": "https://open.spotify.com/album/1anNQaXN296NDnZm8fA3Va"
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
       },
       "artists": [
         {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 274026,
-      "name": "Pinetop Boogie woogie",
-      "url": "https://open.spotify.com/track/4Hy8MYtJn2imFljdOKQkHm"
+      "duration_ms": 138933,
+      "name": "I Got It - Remastered",
+      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Let Me Go Home, Whiskey",
-      "url": "https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "See You Later, Alligator",
         "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 225000,
       "name": "Later Alligator (See You Later, Alligator)",
       "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Let Me Go Home, Whiskey",
+      "url": "https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Meade \"Lux\" Lewis",
-          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Honky Tonk Train Blues",
-      "url": "https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Outdated Emotion",
         "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 150571,
       "name": "Long Tall Sally",
       "url": "https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Meade \"Lux\" Lewis",
+          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Honky Tonk Train Blues",
+      "url": "https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
+        "name": "Boogie Woogie Kid",
+        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+      },
+      "artists": [
+        {
+          "name": "Boogie Woogie Kid",
+          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Five Stacked High",
+      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
-      },
-      "artists": [
-        {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Five Stacked High",
-      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Return Of The Boogie Man",
         "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 177493,
       "name": "Jessie's Boogie Woogie",
       "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "\"Devil Digit Boogie Woogie\"",
+        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "A Boogie Woogie Sunday",
+      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -791,22 +807,6 @@
       "duration_ms": 170040,
       "name": "Rocket Boogie \"88\" (Pt. 1)",
       "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
-        "name": "\"Devil Digit Boogie Woogie\"",
-        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "A Boogie Woogie Sunday",
-      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Omniboogie 2012",
-        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
-      },
-      "artists": [
-        {
-          "name": "Rob Rio",
-          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
-        }
-      ],
-      "duration_ms": 115582,
-      "name": "Quarter Bass Boogie",
-      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Cincinnati Stomp",
         "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 146066,
       "name": "Dollar Bill Boogie",
       "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Omniboogie 2012",
+        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
+      },
+      "artists": [
+        {
+          "name": "Rob Rio",
+          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
+        }
+      ],
+      "duration_ms": 115582,
+      "name": "Quarter Bass Boogie",
+      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
+        "name": "So Swell",
+        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
       },
       "artists": [
         {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+          "name": "Jon Cleary",
+          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
         }
       ],
-      "duration_ms": 161173,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
+      "duration_ms": 151261,
+      "name": "Swanee River Boogie",
+      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "So Swell",
-        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
       },
       "artists": [
         {
-          "name": "Jon Cleary",
-          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
         }
       ],
-      "duration_ms": 151261,
-      "name": "Swanee River Boogie",
-      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
+      "duration_ms": 161173,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Yancey Special",
-        "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Yancey",
-          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
-        }
-      ],
-      "duration_ms": 185861,
-      "name": "La Salle Street Breakdown",
-      "url": "https://open.spotify.com/track/3BqTjVgE1Yno4SoEuw7KEc"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "The Very Best Of Boogie Woogie",
         "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 177933,
       "name": "Chicago Breakdown",
       "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Yancey Special",
+        "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Yancey",
+          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
+        }
+      ],
+      "duration_ms": 185861,
+      "name": "La Salle Street Breakdown",
+      "url": "https://open.spotify.com/track/3BqTjVgE1Yno4SoEuw7KEc"
     },
     {
       "added_at": "2023-05-04 16:53:25",

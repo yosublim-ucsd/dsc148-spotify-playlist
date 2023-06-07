@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "A Los 17",
+        "url": "https://open.spotify.com/album/1HdXfDy70j4bqlB90JxRHa"
+      },
+      "artists": [
+        {
+          "name": "Everardo",
+          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165653,
+      "name": "A Los 17",
+      "url": "https://open.spotify.com/track/6syLhVYupDrk0QLpGF0q9S"
+    },
+    {
+      "album": {
         "name": "En Proceso",
         "url": "https://open.spotify.com/album/5K0PyG668je3HlQgjCu5yp"
       },
@@ -1198,6 +1216,24 @@
     {
       "album": {
         "name": "Cupido",
+        "url": "https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207463,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W"
+    },
+    {
+      "album": {
+        "name": "Cupido",
         "url": "https://open.spotify.com/album/50RoQVDyXvF4jCrXUEO7NM"
       },
       "artists": [
@@ -1284,6 +1320,28 @@
       "duration_ms": 208919,
       "name": "De Eso Se Trata",
       "url": "https://open.spotify.com/track/4flMkf6UihqV8CzBhjPTWY"
+    },
+    {
+      "album": {
+        "name": "De Texas A Califas (Single)",
+        "url": "https://open.spotify.com/album/0c2WLSdpvge5x3EbFoZ9xF"
+      },
+      "artists": [
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        },
+        {
+          "name": "Luis Sandoval",
+          "url": "https://open.spotify.com/artist/29CZrQcy62hjQLwfp1oZl0"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259786,
+      "name": "De Texas A Califas (Single)",
+      "url": "https://open.spotify.com/track/0wOuruZuuoiNelUyPCANvI"
     },
     {
       "album": {
@@ -4741,6 +4799,28 @@
     },
     {
       "album": {
+        "name": "Mi Estilo",
+        "url": "https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "XODERICK",
+          "url": "https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285456,
+      "name": "Mi Estilo",
+      "url": "https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m"
+    },
+    {
+      "album": {
         "name": "Mi Gran Error",
         "url": "https://open.spotify.com/album/2uc2NaKtj4MGY19eyEnBLM"
       },
@@ -4962,6 +5042,24 @@
       "duration_ms": 191944,
       "name": "Morro Loco",
       "url": "https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i"
+    },
+    {
+      "album": {
+        "name": "Mr. Seal The Deal",
+        "url": "https://open.spotify.com/album/4tMN3VLZRAUczIq3uuqFly"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Mr. Seal The Deal",
+      "url": "https://open.spotify.com/track/2IJX1dBzsM09wga4cpivNB"
     },
     {
       "album": {
@@ -5330,6 +5428,24 @@
       "duration_ms": 251981,
       "name": "NO SE VA",
       "url": "https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd"
+    },
+    {
+      "album": {
+        "name": "NO SIRVIO DE NADA",
+        "url": "https://open.spotify.com/album/6hjieQug5xJ8bbEgiCSqu7"
+      },
+      "artists": [
+        {
+          "name": "Patricio Valdez",
+          "url": "https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214437,
+      "name": "NO SIRVIO DE NADA",
+      "url": "https://open.spotify.com/track/34kuHt20Ww02atSkfZhAuE"
     },
     {
       "album": {
@@ -6672,6 +6788,24 @@
       "duration_ms": 108863,
       "name": "Sin Cuida'o",
       "url": "https://open.spotify.com/track/7HucjYSSbMuLuXcHondO26"
+    },
+    {
+      "album": {
+        "name": "Sin Miedo Al Exito",
+        "url": "https://open.spotify.com/album/5JNw6CsEmFJEYDw8oYpWhM"
+      },
+      "artists": [
+        {
+          "name": "Jr Heguertty",
+          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180405,
+      "name": "Sin Miedo Al Exito",
+      "url": "https://open.spotify.com/track/5XaddIXt53XkEFjoDe9oiW"
     },
     {
       "album": {

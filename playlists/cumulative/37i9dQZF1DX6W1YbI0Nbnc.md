@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 結集香港EQUAL女聲力量！\(cover: Kelly陳慧琳\)
+> 結集香港EQUAL女聲力量！\(cover: Luna Is A Bep\)
 
-232 songs - 14 hr 53 min
+236 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Now You See Me](https://open.spotify.com/track/3heiV6V4Hyb3KPlC30Zazj) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 2:54 | 2023-01-03 |  |
 | [OFF/ON](https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [OFF/ON](https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P) | 3:28 | 2022-08-02 |  |
 | [on the right track](https://open.spotify.com/track/6usIo4k5JfrPvIhau9nN2p) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHY AM I HERE](https://open.spotify.com/album/6DknG0hh3OZf7QTQCA8Ms2) | 2:53 | 2022-03-07 | 2022-08-03 |
+| [overthinking](https://open.spotify.com/track/386lqWFTnNB1OhgnkxQNgL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [如是我聞](https://open.spotify.com/album/65XUM0Ky3AYlOoLC62l1Du) | 3:22 | 2023-06-06 |  |
 | [Psycho](https://open.spotify.com/track/2eQAOUcjGKoLrCHQkFekAI) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 2:51 | 2021-12-07 | 2022-01-05 |
 | [REPLY 唔鍾意錢](https://open.spotify.com/track/0QTdlBFBK8GH7nDUOmCeKW) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [Bbvdoll](https://open.spotify.com/artist/1U85TieK4aHvLGLf6b3I81) | [REPLY 唔鍾意錢](https://open.spotify.com/album/32uJIXbQIBJpOzyNfMgAGf) | 4:10 | 2022-03-07 | 2022-04-06 |
 | [Run](https://open.spotify.com/track/2oe11FOeQP6iGOtAOZHSdy) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [Run](https://open.spotify.com/album/5ZfNUc87j0ILwIwnvxrCaM) | 3:42 | 2022-02-02 | 2022-03-08 |
@@ -112,6 +113,7 @@
 | [印象](https://open.spotify.com/track/3gfm2zOE9ZwsiKh36mPjpY) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [印象](https://open.spotify.com/album/4ynS04kn3rXnCvOJ9wFXmm) | 3:53 | 2022-03-07 | 2022-08-03 |
 | [原來談戀愛是這麼一回事](https://open.spotify.com/track/6TJOXAyqTtq6Xvk1qHoleJ) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [原來談戀愛是這麼一回事](https://open.spotify.com/album/41qU1Np9lsLmB0o1e4sQql) | 3:29 | 2022-08-02 | 2022-09-07 |
 | [只想你記得](https://open.spotify.com/track/2CZDMyih2ayqPoe9Ccw2e7) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [只想你記得](https://open.spotify.com/album/28HSqRdjcCF4tHGwbXH10K) | 3:13 | 2022-01-04 | 2022-03-08 |
+| [君莫問](https://open.spotify.com/track/0aTRqpyXgGs3yfnlRR4IBF) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [君莫問](https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG) | 3:07 | 2023-06-06 |  |
 | [吳哥窟](https://open.spotify.com/track/1BFpJoAPByexBgJ5z7CDHZ) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [我本人](https://open.spotify.com/album/73eNXN2VJcoEasWmWp4IX8) | 3:43 | 2021-12-07 | 2022-01-05 |
 | [告別式](https://open.spotify.com/track/4fxdfsuH7iUDixsF3IO8PA) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [告別式](https://open.spotify.com/album/60TuWoX4pXkaqjjadnYQxp) | 4:57 | 2021-12-07 | 2022-01-05 |
 | [呼吸之間](https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [呼吸之間](https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR) | 4:13 | 2022-08-02 |  |
@@ -149,6 +151,7 @@
 | [我們都是這樣長大的](https://open.spotify.com/track/37gQxPrcu81gpr5SbOlIJO) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [我們都是這樣長大的](https://open.spotify.com/album/4mL1ps3XVRbJP7ON16qf8j) | 4:43 | 2022-11-30 |  |
 | [我心中尚未崩壞的部分](https://open.spotify.com/track/6BymbyJEEn85vcJnr5aAkR) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [九道痕跡](https://open.spotify.com/album/6QFTcrYF9rFdZ6uyXTWVPu) | 3:26 | 2022-04-05 |  |
 | [我想和你好好的](https://open.spotify.com/track/7CkJnz49JGUY76W7zl3vad) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Honesty](https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT) | 4:17 | 2021-12-07 |  |
+| [我想行開下](https://open.spotify.com/track/1gqiMq3X8QPXNhPrGULUZL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [我想行開下](https://open.spotify.com/album/6t5kaD0AQppsm06nKToYGq) | 2:29 | 2023-06-06 |  |
 | [我本人](https://open.spotify.com/track/55z4ZnZNJEJBn9hPrekE4f) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [我本人](https://open.spotify.com/album/73eNXN2VJcoEasWmWp4IX8) | 4:17 | 2021-12-07 | 2022-01-05 |
 | [我的親人](https://open.spotify.com/track/0rYgIOQsdZVKgOHLTate7q) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [我的親人](https://open.spotify.com/album/4ZDixbvO20xlgjEixcOw0a) | 4:42 | 2023-05-02 |  |
 | [我真的受傷了](https://open.spotify.com/track/5mNanSqILS25aPhiiN1fxy) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [國語情歌集](https://open.spotify.com/album/1t1Q05AtGJ7aOTjl9XerWx) | 3:33 | 2022-11-01 | 2022-12-01 |
@@ -184,6 +187,7 @@
 | [歧義種子](https://open.spotify.com/track/6v6LW9PslX7RiXoaBfAduq) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [歧義種子](https://open.spotify.com/album/7ulGonGDgcrJnmmnyPDwSa) | 3:34 | 2023-03-24 |  |
 | [歸零](https://open.spotify.com/track/7axP3vilxbXHd1cv6eRqp7) | [駱胤鳴](https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq) | [歸零](https://open.spotify.com/album/4qqcdAk38QXTenIwAo4ezW) | 4:17 | 2022-08-02 | 2022-11-02 |
 | [每當幻變時](https://open.spotify.com/track/3YQclRiacw3qrUCOBUFDj0) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [每當幻變時](https://open.spotify.com/album/5gJCrDw4K8YxkDyYMmCsld) | 3:33 | 2022-03-07 | 2022-04-06 |
+| [每當幻變時](https://open.spotify.com/track/5r3QKTDOWP5SsLdjqjyxeX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [如是我聞](https://open.spotify.com/album/65XUM0Ky3AYlOoLC62l1Du) | 3:33 | 2023-06-06 |  |
 | [沉溺](https://open.spotify.com/track/1vVybnW4IEP9zSE0rq6D8m) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [沉溺](https://open.spotify.com/album/707geIuoVvVdv0a72dyicL) | 4:58 | 2022-01-04 | 2022-03-08 |
 | [沒有無緣無故的恨](https://open.spotify.com/track/6YI4OXOVtZ29Rc7GxOI4sY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [沒有無緣無故的恨](https://open.spotify.com/album/3UugGjG8QfPiwvBDbRuhL8) | 3:45 | 2021-12-07 |  |
 | [沙門](https://open.spotify.com/track/7AY9a00gTqLAjZzt90NzzO) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Honesty](https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT) | 4:44 | 2022-01-04 | 2022-02-03 |

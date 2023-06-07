@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,505 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,533 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 71 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 72 | [33](https://open.spotify.com/track/7yRoSZ5Pu6NS6QcWbgyZwu) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/4s0iIcY1K22uuodSqd8l3b) | 3:15 |
 | 73 | [Lucky](https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI) | 3:12 |
-| 74 | [Ghost](https://open.spotify.com/track/5xWpOP3RvKvd8oz1y5HfRo) | [Callum Pitt](https://open.spotify.com/artist/15mRJDZiAQq5CI6AqnlJfd) | [Ghost](https://open.spotify.com/album/6tEpoBigcuVdWFWqza7U8f) | 4:12 |
+| 74 | [Ghost](https://open.spotify.com/track/2THLqQsIwN7Q5Wf1AMNMaT) | [Callum Pitt](https://open.spotify.com/artist/15mRJDZiAQq5CI6AqnlJfd) | [Ghost](https://open.spotify.com/album/6MPxhvn8psLz9AaNq0MHzn) | 4:12 |
 | 75 | [I Can See New Zealand From Here](https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp) | 2:03 |
 | 76 | [Tie Dye Sky](https://open.spotify.com/track/5ULS4kXKJNRkG9mujwVk0l) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Silver Lake](https://open.spotify.com/album/2Nrtj9B5oaJjJh1fOpBtQZ) | 3:01 |
 | 77 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Breathe](https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp) | 3:02 |
 | 80 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 |
 
-Snapshot ID: `MCxlMTNmZDBkNzIwMjVkNzA5N2IxOWE3Y2E4MmU0YTRmOGY1ZjdmYzc2`
+Snapshot ID: `MCw2ZTg3N2ViM2ZjNTliYzFjNmI3MTRmNTZmNjc1YzNlNTgyYWUxYjY0`

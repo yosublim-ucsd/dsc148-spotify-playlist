@@ -2,9 +2,9 @@
 
 ### [Taaza hai bro!](https://open.spotify.com/playlist/37i9dQZF1DWSYPG5hvDijP)
 
-> New Hip Hop from India\. Cover\- Tsumyoki
+> New Hip Hop from India\. Cover\- Munawar Faruqui
 
-110 songs - 5 hr 56 min
+113 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Judgement](https://open.spotify.com/track/4XoECpd0nkk9OSLUIEOi1i) | [Gopi Longia](https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE) | [Judgement](https://open.spotify.com/album/3e1XAJm7FEvTMaaJ5SiksX) | 5:14 | 2023-03-29 | 2023-04-25 |
 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 | 2023-03-29 |  |
 | [Kalamkaand](https://open.spotify.com/track/2uickBJkb6Q9p5OUijDyXA) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA) | [Kalamkaand](https://open.spotify.com/album/6MPlFOjhFBYddTxV4shdcX) | 2:00 | 2023-05-12 |  |
+| [King Of Indian Hip Hop](https://open.spotify.com/track/21noylFh40f8j2lyWah95R) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of Indian Hip Hop](https://open.spotify.com/album/6CiopvBPnSPd7G6l3qbbHt) | 7:20 | 2023-06-06 |  |
 | [King Of The Streets \- Intro](https://open.spotify.com/track/22Qz9UKeAAtGNPaMAbqT4P) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets \(Intro\)](https://open.spotify.com/album/4bLCFr5ikH6eMXO9T5QLZ5) | 2:00 | 2023-03-29 | 2023-04-17 |
 | [KULFA\-KAR\-MA](https://open.spotify.com/track/4RnHapKw9jDMaND7srX9Se) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [KULFA\-KAR\-MA](https://open.spotify.com/album/0f53UzOwYgA5YC7KkoEJ7D) | 4:00 | 2023-04-28 |  |
 | [Lady Gaga](https://open.spotify.com/track/2zKVb9TTkIwBQy6c6AkWq9) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [Harry Spark](https://open.spotify.com/artist/4rjoncFFlCXRsbwdpfOd1q) | [Lady Gaga](https://open.spotify.com/album/5dCAd6jFbGF3KtBKpBHvSO) | 3:00 | 2023-04-16 | 2023-04-25 |
@@ -81,6 +82,7 @@
 | [Lockup No 4Three](https://open.spotify.com/track/3sWtJHAngYx3sA2q6Q0vzE) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Lockup No 4Three](https://open.spotify.com/album/5EwcM2juMFPTAJcOo2IhoE) | 4:22 | 2023-03-29 | 2023-04-17 |
 | [LOVE MUMBLE](https://open.spotify.com/track/64ojSWneYaXvX6YLtnVGT3) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [RAP GODDESS](https://open.spotify.com/album/1H2Cs63eKn7PPuBCjHZCu1) | 2:23 | 2023-05-12 |  |
 | [LOVESICK](https://open.spotify.com/track/5kKacCe5JukBnFGa11NFJ1) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [THE BRIDGE](https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN) | 2:17 | 2023-04-28 | 2023-06-02 |
+| [Madari \(feat\. Karan Kanchan\)](https://open.spotify.com/track/6mn6FTPISyKwCo4On7CmVZ) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65), [Farhan Khan](https://open.spotify.com/artist/24ltYRztptq8hTRRVqhRdX), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 3:21 | 2023-06-06 |  |
 | [Makeover](https://open.spotify.com/track/4r9fmK2cSewxKWrFi6rPq1) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M), [Spectra Music](https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l) | [Makeover](https://open.spotify.com/album/3WiVrqwlihz0i7I8eFMh4s) | 2:51 | 2023-04-12 |  |
 | [Making The Moves](https://open.spotify.com/track/61LflvrT3qT2P3nvgeJPpW) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Making The Moves](https://open.spotify.com/album/5LIFHZSsZpwmk7CBpq2uDz) | 2:48 | 2023-03-29 | 2023-06-02 |
 | [Mar Jaayega](https://open.spotify.com/track/4IkkAPhs4otYakD7FAYSqv) | [Dhruv Sthetick](https://open.spotify.com/artist/4g8Z4if0DrwN5H83ZGpZ44), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Mar Jaayega](https://open.spotify.com/album/1LojtEahZCJwHFFClFp1iz) | 4:03 | 2023-03-29 |  |
@@ -107,6 +109,7 @@
 | [Shaitaani](https://open.spotify.com/track/0EgLqhEB0POPpRc7DT8cMs) | [MC Muztafa](https://open.spotify.com/artist/2cZCopDe1yTOmNXdQS3cG6), [Vrun](https://open.spotify.com/artist/6KVt2wDvpw7V9Nyw2I2iyE) | [Shaitaani](https://open.spotify.com/album/6isIWro6HXcOXTxydHzLGn) | 2:43 | 2023-04-16 | 2023-06-02 |
 | [SLATT](https://open.spotify.com/track/6lvgkN6qlE9RDp0BzfPUDu) | [Ynxiety](https://open.spotify.com/artist/2csj16wTsXZ6kmvAw6R86s) | [SLATT](https://open.spotify.com/album/16KxB4wDVIwGSwhUqftEAs) | 4:57 | 2023-04-21 |  |
 | [Spaceship](https://open.spotify.com/track/5qox4CsUE4Lq669aGbZDnm) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Spaceship](https://open.spotify.com/album/3ITMvDdM7ZeOsLzv96tKZP) | 3:11 | 2023-03-29 |  |
+| [STAY DOWN](https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [STAY DOWN](https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx) | 3:08 | 2023-06-06 |  |
 | [Sunti Kaha Hai](https://open.spotify.com/track/0JAPkDAXbRsMtQtsYkW3xP) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sunti Kaha Hai](https://open.spotify.com/album/73AFjr9LKzEDYX3wCWAcuL) | 2:36 | 2023-03-29 |  |
 | [Taakat](https://open.spotify.com/track/2AMP8Rey8W6sxsXKUpgWRb) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Taakat](https://open.spotify.com/album/0ccts7BfXm24XXSyNmwHYR) | 2:36 | 2023-04-16 |  |
 | [THAPPAD!](https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [THAPPAD!](https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0) | 1:54 | 2023-04-21 |  |

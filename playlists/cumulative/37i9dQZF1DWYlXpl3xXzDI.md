@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-211 songs - 12 hr 39 min
+212 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,8 +137,9 @@
 | [Pray](https://open.spotify.com/track/59ljpSFcgtfWJKS3vqG27R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:41 | 2017-12-03 | 2023-03-16 |
 | [Pray](https://open.spotify.com/track/6nO4slztvURE36GQXPSol3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [HEAL](https://open.spotify.com/album/35IxlwuDscHGOpwEBqrh7t) | 3:41 | 2017-12-03 | 2023-03-13 |
 | [Pray](https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:41 | 2017-12-03 |  |
-| [Princess](https://open.spotify.com/track/0JfIKYbzWSO4HP1xQ8yx5T) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/51JA0UFkSPqimGkwXL7upb) | 3:56 | 2017-12-03 |  |
+| [Princess](https://open.spotify.com/track/0JfIKYbzWSO4HP1xQ8yx5T) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/51JA0UFkSPqimGkwXL7upb) | 3:56 | 2017-12-03 | 2023-06-07 |
 | [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 3:56 | 2017-12-03 | 2022-07-29 |
+| [Princess](https://open.spotify.com/track/7LwJc7I5YNQHRQuQ9G5dXu) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/0AqlTWixFi66g3Rtgr2O7I) | 3:56 | 2017-12-03 |  |
 | [Princess](https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/5WMuOOML8PANPuUQKeIo8S) | 3:56 | 2017-12-03 | 2022-12-02 |
 | [Rather Be with You](https://open.spotify.com/track/2lPH8YSWdxo8SbJnYnZxUG) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/4gfAeJv9CKKraAUEqEQOqs) | 3:19 | 2017-12-03 |  |
 | [Rather Be with You](https://open.spotify.com/track/3AVE9qpiII7fyKjENTN8YI) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 | 2017-12-03 | 2023-01-06 |

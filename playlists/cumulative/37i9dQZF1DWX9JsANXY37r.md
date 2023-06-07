@@ -4,7 +4,7 @@
 
 > beber gin em casa, nada melhor
 
-224 songs - 13 hr 53 min
+225 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [boyfriend \(with Social House\)](https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [boyfriend](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) | 3:06 | 2022-03-25 |  |
 | [Break Her Heart For Me](https://open.spotify.com/track/4UCMyXxaWZGUJSHyPq8U6f) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Break Her Heart For Me](https://open.spotify.com/album/6Urqp1yMFtEYaEljiwrCsd) | 3:22 | 2022-03-04 | 2022-07-28 |
 | [Burning Eyes](https://open.spotify.com/track/0pFNObqYA88ICySQbcojpd) | [Lou Berry](https://open.spotify.com/artist/6ZejT5CyVklEhKncKniiNQ), [Eylia](https://open.spotify.com/artist/0TtUCUCvzpAJeJokwfco30) | [Blue Sky](https://open.spotify.com/album/0WOa60QN1RlWW5YX6iEpK9) | 3:15 | 2022-02-18 | 2022-07-29 |
-| [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/track/1psvnQxSDdIKTDM2Jm8QKt) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:28 | 2022-06-24 |  |
+| [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/track/1psvnQxSDdIKTDM2Jm8QKt) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:28 | 2022-06-24 | 2023-06-07 |
 | [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/track/71hBQ9qHsZU2M3vDF8MtaN) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/album/1CQFYWHVdRypCsU2IU80t1) | 2:28 | 2022-03-25 | 2022-04-21 |
 | [Caminho Sem Volta](https://open.spotify.com/track/18kgN90dymlnnLvJSmtQug) | [THAMI](https://open.spotify.com/artist/4XlOnZCcxqJttY99hc3uqq) | [Caminho Sem Volta](https://open.spotify.com/album/7ybtjO05lRXxBSO8CCEt9l) | 3:26 | 2022-02-18 | 2022-07-29 |
 | [Cartas para o Passado](https://open.spotify.com/track/4bWigbot8lWuwfqkAMwXfP) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Cartas para o Passado](https://open.spotify.com/album/3xNi4aZ7NY5pngUCrPfSFV) | 4:00 | 2022-04-08 | 2022-07-29 |
@@ -162,6 +162,7 @@
 | [One Evening](https://open.spotify.com/track/06vjDikmHQBKKaNtlPrrB3) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/4ui8Lc2iPjfoesGSfVxhLZ) | 3:36 | 2022-02-18 | 2022-07-29 |
 | [One Step Closer](https://open.spotify.com/track/2iieKTmbeZ8yVcfkaBvjO7) | [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ), [Miki Rose](https://open.spotify.com/artist/2jwrrY1QrJZCWtOfC0SRPm) | [Over & Over](https://open.spotify.com/album/3P6GXO5PxRg3ubqQFH1MmU) | 2:51 | 2022-03-25 | 2022-04-19 |
 | [Ooh La La](https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Ooh La La](https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey) | 3:48 | 2022-02-18 | 2022-07-29 |
+| [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 | 2023-02-10 |  |
 | [Ordinary Pleasure](https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 3:03 | 2022-06-24 | 2023-04-30 |
 | [Ordinary Pleasure](https://open.spotify.com/track/4usk0qRUU8B5BDnVZnORFG) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/5s1o3Qf6TQgwOlxCO4kdMS) | 3:03 | 2022-03-25 | 2022-04-21 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-08 |  |

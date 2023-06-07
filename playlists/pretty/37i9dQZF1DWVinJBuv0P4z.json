@@ -1,12 +1,12 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 341032,
+  "num_followers": 341267,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTNjMzRlYzNiYmQ5MDgyMmIxNzM0ZjZmNGEyMzZkZmE4ZWRiMjE4",
+  "snapshot_id": "MCw3NjdlMTQzOGMzMTNkMmYwYTNhNzZlYmU4ZTFlMTM2MDJjZWFjNjZm",
   "tracks": [
     {
       "added_at": "2023-01-03 15:04:36",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
-      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Who Loves You",
         "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 197146,
       "name": "December, 1963 (Oh What a Night!)",
       "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -909,24 +909,20 @@
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
     },
     {
-      "added_at": "2023-05-23 07:27:41",
+      "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+        "name": "The Birds, The Bees, & The Monkees",
+        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
       },
       "artists": [
         {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
         }
       ],
-      "duration_ms": 216906,
-      "name": "Summer Nights - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
+      "duration_ms": 179613,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
     },
     {
       "added_at": "2023-05-23 07:27:41",
@@ -945,20 +941,24 @@
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
     },
     {
-      "added_at": "2023-01-03 15:04:36",
+      "added_at": "2023-05-23 07:27:41",
       "album": {
-        "name": "The Birds, The Bees, & The Monkees",
-        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
       "artists": [
         {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 179613,
-      "name": "Daydream Believer",
-      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
+      "duration_ms": 216906,
+      "name": "Summer Nights - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "It's Pony Time/Let's Twist Again",
-        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Let's Twist Again",
-      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "A Song For You",
         "url": "https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 179173,
       "name": "Top Of The World",
       "url": "https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "It's Pony Time/Let's Twist Again",
+        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Let's Twist Again",
+      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
     },
     {
       "added_at": "2023-05-23 07:27:41",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "2 Hot!",
-        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
-      },
-      "artists": [
-        {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
-        }
-      ],
-      "duration_ms": 346133,
-      "name": "Shake Your Groove Thing",
-      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 163000,
       "name": "No Particular Place To Go",
       "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "2 Hot!",
+        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
+      },
+      "artists": [
+        {
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+        }
+      ],
+      "duration_ms": 346133,
+      "name": "Shake Your Groove Thing",
+      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Real Thing",
-        "url": "https://open.spotify.com/album/4ghtWm6b0INsOAdFPbv5b5"
-      },
-      "artists": [
-        {
-          "name": "The Real Thing",
-          "url": "https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "You To Me Are Everything",
-      "url": "https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Hey! Baby (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/4ghtWm6b0INsOAdFPbv5b5"
       },
       "artists": [
         {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+          "name": "The Real Thing",
+          "url": "https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj"
         }
       ],
-      "duration_ms": 219466,
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+      "duration_ms": 208840,
+      "name": "You To Me Are Everything",
+      "url": "https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1795,18 +1779,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
       },
       "artists": [
         {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
         }
       ],
-      "duration_ms": 178533,
-      "name": "Reach Out I'll Be There",
-      "url": "https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY"
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1839,6 +1823,22 @@
       "duration_ms": 172733,
       "name": "Please Mr. Postman",
       "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
-      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
+      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
         "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
         "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 139120,
       "name": "The Locomotion",
       "url": "https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "added_at": "2023-01-03 15:04:36",

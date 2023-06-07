@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 175853,
+  "num_followers": 176147,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjUyNmM5ODlmNWQ2ZjM5MTI1ZDFmNjg2OWNkZjdhMzMxMzhmOWVk",
+  "snapshot_id": "MCxlZGFiNDBhMDkxNDdmNjRlOWFlZDM4Nzg3MTkxYmU4NWQxMzRjY2E1",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Treats",
-        "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
-      },
-      "artists": [
-        {
-          "name": "Sleigh Bells",
-          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Rill Rill",
-      "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 303653,
       "name": "Down in the Valley",
       "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Treats",
+        "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Rill Rill",
+      "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 275933,
-      "name": "Bloodbuzz Ohio",
-      "url": "https://open.spotify.com/track/3lnF83kG6ePhTSWRoW62dO"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Crystal Castles (II)",
         "url": "https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 251440,
       "name": "Baptism",
       "url": "https://open.spotify.com/track/4GJTbB9FNkGkvf6dxl22qW"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Bloodbuzz Ohio",
+      "url": "https://open.spotify.com/track/3lnF83kG6ePhTSWRoW62dO"
     },
     {
       "added_at": "2021-10-05 08:40:49",

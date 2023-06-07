@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023\. Arlo Parks drops her sophomore album.
 
-1,608 songs - 4 day 0 hr 28 min
+1,609 songs - 4 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [37th](https://open.spotify.com/track/1Zw5s7JEokiF5OchgnRB0t) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:15 | 2022-11-25 | 2023-01-21 |
 | [3D Feelings](https://open.spotify.com/track/1OkW0tv1k3kNB0IXDN2oPL) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [3D Feelings](https://open.spotify.com/album/0ZY2Lg0utycFyUQSDlK3MZ) | 3:17 | 2021-11-10 | 2022-05-13 |
 | [405 \- Metronomy x Biig Piig](https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [405 \- Metronomy x Biig Piig](https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi) | 4:25 | 2021-10-13 | 2021-10-16 |
+| [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-19 |  |
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-05-05 |  |
 | [4Runner](https://open.spotify.com/track/6fHORDEAnP4POdVZB9kO9V) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [4Runner](https://open.spotify.com/album/4pK1F2rM5omfZyrv4FEPQZ) | 3:49 | 2021-03-10 | 2021-09-03 |
 | [50 Souls and a Discobowl \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/4HL64eE6Tg7DOHRLZ1Wgd3) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Spotify Singles](https://open.spotify.com/album/7GK8op4PSztyNeaCjcstmF) | 3:14 | 2019-05-31 | 2019-06-21 |
@@ -1472,7 +1473,7 @@
 | [Try Hard Fool](https://open.spotify.com/track/2HMTLM3uA0NsOU1IkNufSj) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Try Hard Fool](https://open.spotify.com/album/7Mpq98LzwU04b1u69x61uf) | 3:10 | 2019-09-21 | 2020-07-03 |
 | [Tulsa Jesus Freak](https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:35 | 2021-04-20 | 2021-05-21 |
 | [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 | 2022-04-01 | 2022-06-30 |
-| [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 | 2023-03-31 |  |
+| [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 | 2023-03-31 | 2023-06-07 |
 | [Turn The Light](https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 3:19 | 2019-05-26\* | 2019-09-27 |
 | [Turn the Lights Down Low](https://open.spotify.com/track/1SNhcEKK6m83oLxLWQJcqk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Pink Room](https://open.spotify.com/album/1Hu2L5nA5Rg48bKOtIkmJB) | 3:12 | 2022-07-15 | 2022-07-30 |
 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 | 2022-06-30 | 2022-07-02 |

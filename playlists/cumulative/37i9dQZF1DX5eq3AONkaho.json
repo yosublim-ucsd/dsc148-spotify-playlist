@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 204167,
       "name": "CRY FOR ME",
       "url": "https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq"
@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 165746,
       "name": "DICE",
       "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
@@ -4974,7 +4974,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 206866,
       "name": "Feel Special",
       "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
@@ -6172,7 +6172,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 198198,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/01TE1eGP7ewSGHbL3IJ1CS"
@@ -6266,6 +6266,24 @@
       "duration_ms": 214956,
       "name": "Hate",
       "url": "https://open.spotify.com/track/0sYbRzhGQC0NRTVvwe8n3H"
+    },
+    {
+      "album": {
+        "name": "Act. 7",
+        "url": "https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3"
     },
     {
       "album": {
@@ -7562,7 +7580,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 197938,
       "name": "ISLAND",
       "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
@@ -8958,7 +8976,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 199213,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
@@ -10072,7 +10090,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
@@ -15634,7 +15652,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
@@ -15818,7 +15836,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 196826,
       "name": "\uae30\ub300\ud574",
       "url": "https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax"

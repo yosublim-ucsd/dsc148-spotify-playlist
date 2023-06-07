@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie of 2023. Arlo Parks drops her sophomore album. ",
-  "num_followers": 2228281,
+  "num_followers": 2228353,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTU3MmRjOTRlYzQ1NjBmMjNmM2ViYWUzY2M0NGQ0YzM5ZTQzNDc1",
+  "snapshot_id": "MCxiMThmZWUyOWMzNzIyNjQ3NzM5YmZjNzViOWI4NTNiNDg1MTAzOTRj",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -137,24 +137,20 @@
       "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "First Two Pages of Frankenstein",
-        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+        "name": "4runner",
+        "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
         }
       ],
-      "duration_ms": 267773,
-      "name": "The Alcott (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
+      "duration_ms": 265453,
+      "name": "4runner",
+      "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
     },
     {
       "added_at": "2023-05-19 03:05:34",
@@ -173,20 +169,24 @@
       "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "4runner",
-        "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
       "artists": [
         {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 265453,
-      "name": "4runner",
-      "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
+      "duration_ms": 267773,
+      "name": "The Alcott (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
     },
     {
+      "added_at": "2023-04-21 01:46:20",
+      "album": {
+        "name": "Next Exit",
+        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Next Exit",
+      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
+    },
+    {
       "added_at": "2023-04-18 16:45:50",
       "album": {
         "name": "One That Got Away",
@@ -657,20 +673,20 @@
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
-      "added_at": "2023-04-21 01:46:20",
+      "added_at": "2023-05-11 23:52:26",
       "album": {
-        "name": "Next Exit",
-        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
       },
       "artists": [
         {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Next Exit",
-      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-05-10 16:17:01",
@@ -709,22 +725,6 @@
       "url": "https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3"
     },
     {
-      "added_at": "2023-05-11 23:52:26",
-      "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
       "added_at": "2023-04-13 16:12:42",
       "album": {
         "name": "To Love",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
     },
     {
-      "added_at": "2023-05-19 03:05:34",
-      "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Amoeba - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
-    },
-    {
       "added_at": "2023-06-02 00:47:28",
       "album": {
         "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
@@ -791,6 +775,22 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf"
+    },
+    {
+      "added_at": "2023-05-19 03:05:34",
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Amoeba - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -909,6 +909,22 @@
       "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
     },
     {
+      "added_at": "2023-05-26 15:34:30",
+      "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Open My Door",
@@ -939,22 +955,6 @@
       "duration_ms": 319986,
       "name": "Walking Backwards",
       "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
-    },
-    {
-      "added_at": "2023-05-26 15:34:30",
-      "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA"
     },
     {
       "added_at": "2023-04-21 01:46:20",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "Lying Through Their Teeth",
-        "url": "https://open.spotify.com/album/2v0B167eqQ3tplIIk7ZK24"
-      },
-      "artists": [
-        {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
-        }
-      ],
-      "duration_ms": 157065,
-      "name": "Lying Through Their Teeth",
-      "url": "https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq"
-    },
-    {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
         "name": "Best Disaster",
         "url": "https://open.spotify.com/album/5BMoArQlFykRWUh120Hcdh"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 173262,
       "name": "Best Disaster",
       "url": "https://open.spotify.com/track/6dmZu0IVmbT1rDIiYiRchg"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Lying Through Their Teeth",
+        "url": "https://open.spotify.com/album/2v0B167eqQ3tplIIk7ZK24"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 157065,
+      "name": "Lying Through Their Teeth",
+      "url": "https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq"
     },
     {
       "added_at": "2023-05-19 03:05:34",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/3OHYElP3QCFKfnReFTZ2nw"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Is It Magic?",
@@ -1299,6 +1283,22 @@
       "duration_ms": 188727,
       "name": "Is It Magic?",
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
       "added_at": "2023-05-19 03:05:34",
@@ -1333,6 +1333,38 @@
       "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
     },
     {
+      "added_at": "2023-04-14 01:22:02",
+      "album": {
+        "name": "Everything Is Boring",
+        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Everything Is Boring",
+      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m"
+      },
+      "artists": [
+        {
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
+    },
+    {
       "added_at": "2023-05-11 23:52:26",
       "album": {
         "name": "Redlight (feat. Teezo Touchdown)",
@@ -1353,36 +1385,20 @@
       "url": "https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Driving",
-        "url": "https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m"
+        "name": "The Ballad of Betty and Barney Hill",
+        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
       },
       "artists": [
         {
-          "name": "DWLLRS",
-          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 189280,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
-    },
-    {
-      "added_at": "2023-04-14 01:22:02",
-      "album": {
-        "name": "Everything Is Boring",
-        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Everything Is Boring",
-      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+      "duration_ms": 196755,
+      "name": "The Ballad of Betty and Barney Hill",
+      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 211875,
       "name": "Gimme A Chance",
       "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "The Ballad of Betty and Barney Hill",
-        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 196755,
-      "name": "The Ballad of Betty and Barney Hill",
-      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg"
     },
     {
-      "added_at": "2023-04-21 01:46:20",
-      "album": {
-        "name": "Advantage",
-        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
-      },
-      "artists": [
-        {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Advantage",
-      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
-    },
-    {
       "added_at": "2023-04-13 16:12:42",
       "album": {
         "name": "Bang Bang",
@@ -1675,6 +1659,22 @@
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+    },
+    {
+      "added_at": "2023-04-21 01:46:20",
+      "album": {
+        "name": "Advantage",
+        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Advantage",
+      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1693,20 +1693,28 @@
       "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
+      "added_at": "2023-05-19 03:05:34",
       "album": {
-        "name": "Live at Bush Hall",
-        "url": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW"
+        "name": "4am",
+        "url": "https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH"
       },
       "artists": [
         {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+          "name": "soft siren",
+          "url": "https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2"
+        },
+        {
+          "name": "CASHFORGOLD",
+          "url": "https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX"
+        },
+        {
+          "name": "Sidewalks and Skeletons",
+          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
         }
       ],
-      "duration_ms": 586506,
-      "name": "Turbines/Pigs - Live at Bush Hall",
-      "url": "https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF"
+      "duration_ms": 177900,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5"
     }
   ],
   "unique_name": "Front Page Indie",

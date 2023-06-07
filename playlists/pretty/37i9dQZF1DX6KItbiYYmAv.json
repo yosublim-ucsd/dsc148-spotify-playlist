@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 718240,
+  "num_followers": 718301,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmUxZjg3ZGNhMWFkMzZmNjJjODFhMzlhYTRlOGY3ZDc2NGRlNGM3",
+  "snapshot_id": "MCxmYjY5ZjJjYzczYThmMjQ4ZDUzYzNmNThkZjU4MzE0ZGYwY2Q2OWEw",
   "tracks": [
     {
       "added_at": "2023-06-02 13:48:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 217466,
       "name": "Big Black Car",
       "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -495,22 +495,18 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+      "duration_ms": 198640,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -531,6 +527,26 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 228840,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 370666,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 384080,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "That Sea, The Gambler",
         "url": "https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
       "artists": [
         {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+      "duration_ms": 384080,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1107,6 +1091,22 @@
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 230518,
       "name": "Even the Darkness Has Arms",
       "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Headlong",
-        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Far Too Good",
-      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 141200,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Headlong",
+        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Far Too Good",
+      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 257480,
       "name": "Postcards from Italy",
       "url": "https://open.spotify.com/track/7H0UxIN751StFi2tznmHlg"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
       },
@@ -1855,22 +1871,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Darling Arithmetic",
-        "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Dawning On Me",
-      "url": "https://open.spotify.com/track/1widQ9TODdm2HQT95lgfQg"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "You and Me for Now",
         "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
       },
@@ -1887,38 +1887,18 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
+        "name": "Darling Arithmetic",
+        "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 199426,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
+      "duration_ms": 199773,
+      "name": "Dawning On Me",
+      "url": "https://open.spotify.com/track/1widQ9TODdm2HQT95lgfQg"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -1951,6 +1931,26 @@
       "duration_ms": 251280,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "All We've Known",
-        "url": "https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 133600,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/5amf0Fkdt3Mu6cdvXhKgOq"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "Sinking Ship / Back & Forth",
         "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 247493,
       "name": "Sinking Ship",
       "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "All We've Known",
+        "url": "https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 133600,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/5amf0Fkdt3Mu6cdvXhKgOq"
     },
     {
       "added_at": "2023-06-02 13:48:53",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-06-02 13:48:53",
       "album": {
-        "name": "Play Me Something Nice",
-        "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 201301,
-      "name": "Play Me Something Nice",
-      "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
-    },
-    {
-      "added_at": "2023-06-02 13:48:53",
-      "album": {
         "name": "3 Rounds and a Sound",
         "url": "https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 266960,
       "name": "3 Rounds and a Sound",
       "url": "https://open.spotify.com/track/6AYFKOPbmd12rUP5DalRwB"
+    },
+    {
+      "added_at": "2023-06-02 13:48:53",
+      "album": {
+        "name": "Play Me Something Nice",
+        "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 201301,
+      "name": "Play Me Something Nice",
+      "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
     },
     {
       "added_at": "2023-06-02 13:48:53",

@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 126867,
+  "num_followers": 126910,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2ZkNmFmMDcwZmU4MzBiZTA5NGJiMDA5OWNlNGRjOWVjN2JmYzc4",
+  "snapshot_id": "MCxjYjYwMjkxM2M3NzNhNTQ3Y2QyMjM4OTJlZWJmZDhmOGI5M2ZmMzIz",
   "tracks": [
     {
       "added_at": "2023-03-11 03:38:22",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Colour",
-        "url": "https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Sway Clarke",
-          "url": "https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr"
-        }
-      ],
-      "duration_ms": 155934,
-      "name": "Sweetie Odo",
-      "url": "https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
         "name": "Bossatrap",
         "url": "https://open.spotify.com/album/4qh46kTMwWrfA2Xyw57uV9"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 184868,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/03PYKiPPsk5L7RELtARc1N"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Sway Clarke",
+          "url": "https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr"
+        }
+      ],
+      "duration_ms": 155934,
+      "name": "Sweetie Odo",
+      "url": "https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
     },
     {
-      "added_at": "2023-06-06 01:06:27",
+      "added_at": "2023-06-07 01:09:18",
       "album": {
         "name": "Esque\u00e7o das Horas (Always On Replay)",
         "url": "https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6"

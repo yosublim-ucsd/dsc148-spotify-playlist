@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,568 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,564 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 52 | [Christmas on My Mind](https://open.spotify.com/track/4fF3Vo7XYnHFXvyWD7sv2k) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Christmas on My Mind](https://open.spotify.com/album/74wMlK9OHpQVJrFOmGsmMD) | 3:47 |
 | 53 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 |
 | 54 | [Noël ne veut rien dire sans toi](https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Noël ne veut rien dire sans toi](https://open.spotify.com/album/1tAovDmk856d4TWrsMjENx) | 3:23 |
-| 55 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 |
+| 55 | [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 |
 | 56 | [Le ciel était blanc](https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Le ciel était blanc / Ribbons](https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1) | 4:26 |
-| 57 | [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 |
+| 57 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 |
 | 58 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/1dtIaSlyrLI04sqYa8nLyN) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 3:06 |
 | 59 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 |
 | 60 | [Noël Lougawou](https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Noël ensemble](https://open.spotify.com/track/7tCtp4xw5vvXqM7UrlRrQD) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx), [Stella Dupré](https://open.spotify.com/artist/7eck2uAw1Wva9s5d9FTvMQ) | [Noël ensemble](https://open.spotify.com/album/509P93qTJulQmXvi7PPQ4V) | 3:22 |
 | 100 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
 
-Snapshot ID: `MCxmZDc1YzUwNTA5MzcyMGYwN2ZhZDY4YjFkZWQ1NzZjOWZiOTY2MDdl`
+Snapshot ID: `MCw3MGFmMTY1MjJkMWMyMWYyNzU5YTdhN2RmZWY1YzlhNTk3ZDZmMWIy`

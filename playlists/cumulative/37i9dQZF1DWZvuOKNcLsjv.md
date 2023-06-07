@@ -2,9 +2,9 @@
 
 ### [Next Up](https://open.spotify.com/playlist/37i9dQZF1DWZvuOKNcLsjv)
 
-> 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Stray Kids
+> 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Metro Boomin
 
-1,139 songs - 2 day 18 hr 20 min
+1,140 songs - 2 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [California Girl](https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [California Girl](https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q) | 2:53 | 2023-02-19 | 2023-02-27 |
 | [Call me](https://open.spotify.com/track/1yU0p61KLPg36rMKbDT5TE) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Call me](https://open.spotify.com/album/4Sa87grU9iP961pLuFc0qL) | 4:05 | 2023-04-16 | 2023-05-01 |
 | [Call on Me](https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Call on Me](https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU) | 2:50 | 2023-04-02 | 2023-04-17 |
+| [Calling \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, NAV, feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5rurggqwwudn9clMdcchxT) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:39 | 2023-06-06 |  |
 | [Calm Down](https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:14 | 2023-03-19 | 2023-03-27 |
 | [Can't Go \(feat\. Phoelix\)](https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:44 | 2023-04-16 | 2023-04-24 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-29 | 2023-02-27 |
@@ -894,7 +895,7 @@
 | [Wake Up \- feat\. Lilly Ahlberg](https://open.spotify.com/track/161hSAPDwk98yuyMeGmkdX) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Wake Up \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/1rK42vxnzXX64eV9LKKzYW) | 3:44 | 2023-05-28 | 2023-06-05 |
 | [War Bout It \(feat\. 21 Savage\)](https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:40 | 2023-05-28 | 2023-06-05 |
 | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/track/6LtMJVeESzRLu2qC7nvWSr) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/album/6sTC6wymaf3mxFRljQuFp9) | 3:47 | 2023-04-30 | 2023-05-08 |
-| [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k) | 2:46 | 2023-06-04 |  |
+| [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k) | 2:46 | 2023-06-04 | 2023-06-07 |
 | [Water](https://open.spotify.com/track/4sba5qIowhVDigPPykIP5U) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Water](https://open.spotify.com/album/4otlBo4eNFe03fjYmvumZG) | 3:50 | 2023-05-21 |  |
 | [WAVE](https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [WAVE](https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA) | 2:55 | 2023-05-14 |  |
 | [We are dinosaurs](https://open.spotify.com/track/1kys6sF3wV7QZ0PdPzi5Xe) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [We are dinosaurs](https://open.spotify.com/album/4retmETUIlMT5aRYeG0gli) | 4:44 | 2023-06-04 |  |

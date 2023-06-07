@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 56183,
+  "num_followers": 56246,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzMxMTM0YTM5ZDI4ZGEyZGIxOTRlYzg0ZDAyNDYwNmU2YzAyYjgx",
+  "snapshot_id": "MCw2ZmY1MjM3OWY3YTY0M2I5MzMwNDk2NGRjM2YzYmExZGNiNTBmZDUx",
   "tracks": [
     {
       "added_at": "2023-05-15 08:13:13",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
-      },
-      "artists": [
-        {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Trini 2 De Bone",
-      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Soca 101 Vol. 1",
         "url": "https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 347866,
       "name": "Dollar Wine",
       "url": "https://open.spotify.com/track/7m9QpC8iqp4GrQ6Ag0BICY"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
+      },
+      "artists": [
+        {
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Trini 2 De Bone",
+      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 1998",
-        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
-      },
-      "artists": [
-        {
-          "name": "Allison Hinds",
-          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "In The Mean Time",
-      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Pure Soca",
         "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 284626,
       "name": "Hard Wine",
       "url": "https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 1998",
+        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
+      },
+      "artists": [
+        {
+          "name": "Allison Hinds",
+          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
+        }
+      ],
+      "duration_ms": 256826,
+      "name": "In The Mean Time",
+      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Roy Cape: A Calypso and Soca Anthology",
-        "url": "https://open.spotify.com/album/5a218JENjR6SXj0pHQdsGy"
-      },
-      "artists": [
-        {
-          "name": "Roy Cape All Stars",
-          "url": "https://open.spotify.com/artist/4DuDowt2DHca9YTJkMQ7ne"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Tremble It",
-      "url": "https://open.spotify.com/track/6SAn169CqU4vFXK8osHkWI"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "The Best of the Shadow Vol. 1",
         "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
       },
@@ -1163,18 +1143,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+        "name": "Roy Cape: A Calypso and Soca Anthology",
+        "url": "https://open.spotify.com/album/5a218JENjR6SXj0pHQdsGy"
       },
       "artists": [
         {
-          "name": "Arrow!!!",
-          "url": "https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa"
+          "name": "Roy Cape All Stars",
+          "url": "https://open.spotify.com/artist/4DuDowt2DHca9YTJkMQ7ne"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 410573,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC"
+      "duration_ms": 248173,
+      "name": "Tremble It",
+      "url": "https://open.spotify.com/track/6SAn169CqU4vFXK8osHkWI"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1207,6 +1191,22 @@
       "duration_ms": 305040,
       "name": "Follow The Leader",
       "url": "https://open.spotify.com/track/1R1ys9dre6RPgy2Me1zFtr"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Arrow!!!",
+          "url": "https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa"
+        }
+      ],
+      "duration_ms": 410573,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC"
     },
     {
       "added_at": "2023-05-15 08:13:13",

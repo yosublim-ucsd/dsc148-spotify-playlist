@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Cancamusa.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,947 likes - 46 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,950 likes - 46 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 6 | [Tu Olor](https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Tu Olor](https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3) | 3:06 |
 | 7 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
 | 8 | [Dale Mami](https://open.spotify.com/track/5YNNsFjx3bDuwFYIOb8cTs) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Dale Mami](https://open.spotify.com/album/1Irv7ASqWf7m6Yyy7RBuaR) | 3:08 |
-| 9 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 |
-| 10 | [Fly](https://open.spotify.com/track/348hkzsDDBKrBDOMc5b1Qf) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Fly](https://open.spotify.com/album/3sOFRrSp4OZB6cQ0WjScLb) | 3:57 |
+| 9 | [Fly](https://open.spotify.com/track/348hkzsDDBKrBDOMc5b1Qf) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Fly](https://open.spotify.com/album/3sOFRrSp4OZB6cQ0WjScLb) | 3:57 |
+| 10 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 |
 | 11 | [Romper Platos](https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal](https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1) | 3:13 |
 | 12 | [Me Atrapo](https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:10 |
 | 13 | [Venenos](https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 3:49 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 45 | [Pijamas](https://open.spotify.com/track/19ozP1l7TddQNbmxQ7ZbIV) | [Clara Löffel](https://open.spotify.com/artist/6u60r6JDzj7XEDTppO27j3) | [Pijamas](https://open.spotify.com/album/3uTm2bif9Wy04SaB4hcCO7) | 1:58 |
 | 46 | [Porvenir](https://open.spotify.com/track/170UqUn09dtqEsIPYAtmb1) | [Rosario Mena](https://open.spotify.com/artist/6A2zL3dCkfJN5EE6nP83WM) | [Porvenir](https://open.spotify.com/album/1374pzoDs69OvTAjMltWG7) | 4:03 |
 
-Snapshot ID: `MCw0ODQ0ZGIwNjc5NGI3ZTY0ZTZhYzE3MGNmNDI1ODZjNzRjNTY2MTFl`
+Snapshot ID: `MCw5NmUzNDRlNWRlOGQ0OTg2Mjc5YTgwYjMyYTAwNjRhMjU3Y2U4ODk4`

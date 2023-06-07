@@ -1143,6 +1143,28 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/66DVpNiLrwNe5nLHGlHan0"
+      },
+      "artists": [
+        {
+          "name": "VOLT VISION",
+          "url": "https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K"
+        },
+        {
+          "name": "Beneath My Shade",
+          "url": "https://open.spotify.com/artist/7aADBYuRxT4V57iwqzUiPP"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121936,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/2ek0oPdjselpQnDaEOje10"
+    },
+    {
+      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/08xgXUGQbxUp6eCdBWyRTS"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,862 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,872 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 17 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 |
 | 18 | [010](https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:02 |
 | 19 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 |
-| 20 | [Gyeongsan\-si](https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:05 |
-| 21 | [Blessin](https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Blessin](https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v) | 1:53 |
+| 20 | [Blessin](https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Blessin](https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v) | 1:53 |
+| 21 | [Gyeongsan\-si](https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:05 |
 | 22 | [a fence](https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [af](https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8) | 3:27 |
 | 23 | [ice coffee](https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 2:53 |
 | 24 | [Daydreamin \(Feat\. sogumm & Woo\) \(Prod\. Yosi & CODE KUNST\)](https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [good1ife](https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [Marco](https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh) | [good1ife](https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi) | 2:57 |
 | 50 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
 
-Snapshot ID: `MCw3OTY3Y2RmZjMzNzI2Y2VmY2Q5MDQ0YmUwZTA4ZDg5NzIyOWFmOWM4`
+Snapshot ID: `MCxhN2U3MzhjOGRhMWI4MDA3Nzc3NDdmZTNjMTFlYjIyMGZhOTFmZTkw`

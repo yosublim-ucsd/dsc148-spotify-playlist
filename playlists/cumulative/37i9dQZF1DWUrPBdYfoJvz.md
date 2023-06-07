@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-177 songs - 21 hr 9 min
+178 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [\#3](https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:44 | 2023-01-27 |  |
 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 | 2021-12-22 |  |
 | [12 Hours Before](https://open.spotify.com/track/3pcrD4NBBBQGMJATRhk25C) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 2:31 | 2021-12-22 |  |
-| [4:14](https://open.spotify.com/track/5snT0KvkN7Ty0oiVyxZMfE) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 4:15 | 2021-12-22 |  |
+| [4:14](https://open.spotify.com/track/1NBVSiaJ750DBKnd4lhKWk) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 4:14 | 2023-06-02 |  |
+| [4:14](https://open.spotify.com/track/5snT0KvkN7Ty0oiVyxZMfE) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 4:15 | 2021-12-22 | 2023-06-07 |
 | [92982.3](https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk) | 7:03 | 2023-03-16 |  |
 | [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 | 2022-08-17 | 2023-04-30 |
 | [?](https://open.spotify.com/track/15RDpqONY9BUkRzpRtFZf5) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun](https://open.spotify.com/album/39OlksvQLqQOOOctXERwmK) | 6:03 | 2021-12-22 | 2023-02-02 |

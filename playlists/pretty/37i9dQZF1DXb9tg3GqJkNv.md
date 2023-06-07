@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Mindflip
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,029 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,068 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Alejandro Sosa](https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Alejandro Sosa](https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF) | 2:43 |
 | 75 | [Brk Frm Nrml](https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Added Sugar](https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6) | 2:40 |
 
-Snapshot ID: `MCw3Zjc4ODc2YmQ4NDZiNWFhOGQwODUzMjBhZmU1M2RhOTQyMGNiNmVl`
+Snapshot ID: `MCw3MjQ2Y2Y0ZjlhMDg1YjYxMmY1ZGRmNWJlMjkxMjliMTI3ODYyYzE1`

@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Bunkers",
-  "num_followers": 200309,
+  "num_followers": 200317,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjEzODBiNGJhMzI2YjlmZWQ1MDcxYzFlM2VhOTczNzU3ODQyYmQ0",
+  "snapshot_id": "MCw3OWFjOTliNmZmNzUzZDc0NjU2N2Q2MjA5NjM2OTM3NmZjMjliOWIx",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -515,8 +515,8 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "LSD",
-        "url": "https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD"
+        "name": "Abejas En La Miel",
+        "url": "https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
         }
       ],
-      "duration_ms": 216149,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv"
+      "duration_ms": 225696,
+      "name": "Abejas En La Miel",
+      "url": "https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Como te amo (Radio Edit)",
-        "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 176471,
-      "name": "Como te amo - Radio Edit",
-      "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "P\u00e1lida Forma Nocturna",
         "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 224235,
       "name": "P\u00e1lida Forma Nocturna",
       "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Como te amo (Radio Edit)",
+        "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 176471,
+      "name": "Como te amo - Radio Edit",
+      "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "R\u00e1pida Comida",
+        "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
+      },
+      "artists": [
+        {
+          "name": "Conf\u00edo en tus amigos",
+          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
+        }
+      ],
+      "duration_ms": 124552,
+      "name": "Surfing caracol",
+      "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Fuego y Mar",
         "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 224096,
       "name": "Fuego y Mar",
       "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "R\u00e1pida Comida",
-        "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
-      },
-      "artists": [
-        {
-          "name": "Conf\u00edo en tus amigos",
-          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
-        }
-      ],
-      "duration_ms": 124552,
-      "name": "Surfing caracol",
-      "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
     },
     {
       "added_at": "2023-06-02 03:00:00",

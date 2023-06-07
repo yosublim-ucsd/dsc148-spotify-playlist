@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-148 songs - 14 hr 22 min
+149 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Epoch](https://open.spotify.com/track/5EeNRe6Fi29tTrssVzl4dw) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch](https://open.spotify.com/album/0GXI4iAc5FshqWgIlaNAXO) | 5:45 | 2022-03-22 | 2022-07-29 |
 | [Everything](https://open.spotify.com/track/0UYh6IZU6VI8xTvupNWdWh) | [A Forest Mighty Black](https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y) | [Mellowdramatic](https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3) | 7:58 | 2022-03-22 | 2022-11-20 |
 | [Everything](https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS) | [A Forest Mighty Black](https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5) | [Mellowdramatic](https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN) | 7:58 | 2022-07-15 |  |
-| [Excess](https://open.spotify.com/track/5XwKGsHvBI5c7cSJh3qTLY) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Excess EP](https://open.spotify.com/album/7qi7DRAYNMj9K1lTDHjACE) | 7:12 | 2022-03-22 |  |
+| [Excess](https://open.spotify.com/track/5XwKGsHvBI5c7cSJh3qTLY) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Excess EP](https://open.spotify.com/album/7qi7DRAYNMj9K1lTDHjACE) | 7:12 | 2022-03-22 | 2023-06-07 |
 | [Fading](https://open.spotify.com/track/770zzJRmEN0sudaxuD7GkB) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Dino Lenny](https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 8:07 | 2022-03-22 |  |
 | [fantastic planet](https://open.spotify.com/track/6F3SGjnVcUUGILalpmnHcr) | [xJK.](https://open.spotify.com/artist/6BeveIeeB8IPP6EYHYcWI6) | [spacewalk](https://open.spotify.com/album/2oH7eSeoXQuRfpV4ngUXTB) | 3:12 | 2022-03-22 | 2022-07-29 |
 | [Freundchen \- Phil Gerus Remix](https://open.spotify.com/track/6f01jb7840IvrEbgAEc9e2) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Phil Gerus](https://open.spotify.com/artist/1q4zY8qzOsCqIypqC5iQnd) | [Freundchen Remixes](https://open.spotify.com/album/0kKF5ZMS9jIUa6LNQ5PkvH) | 5:53 | 2022-03-22 | 2022-06-21 |
@@ -135,6 +135,7 @@
 | [Synphonic](https://open.spotify.com/track/71NOKuKaMW49PnrIpHuqw1) | [Tchaka](https://open.spotify.com/artist/45v1hQPdUt5dbHdDpRnxpL) | [Synphonic](https://open.spotify.com/album/4ccUpQaGFT5DFmW7MdcGAk) | 6:38 | 2022-03-22 | 2022-07-29 |
 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 | 2022-03-22 |  |
 | [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 | 2022-03-22 |  |
+| [The Ganga river unpolluted once more](https://open.spotify.com/track/0JWrWRvxPc86sLSfnyhCBv) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/3CtCE0cNY4AQZTr1Jdyos2) | 6:37 | 2022-07-15 |  |
 | [The Ganga river unpolluted once more](https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S) | 6:37 | 2022-03-22 | 2023-04-26 |
 | [The Hymn Of Fallen Dreams](https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [Hold Me To The Light](https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI) | 7:54 | 2022-03-22 |  |
 | [The Year After](https://open.spotify.com/track/3VZ3LogsGmVdGuDwOGZgqu) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/4q14VFOUqwQLNMQzVdJUBG) | 7:08 | 2022-03-22 | 2022-07-29 |

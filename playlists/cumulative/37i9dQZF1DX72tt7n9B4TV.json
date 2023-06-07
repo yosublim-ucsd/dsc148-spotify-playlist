@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Childhood Eyes",
+        "url": "https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193801,
+      "name": "Childhood Eyes",
+      "url": "https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj"
+    },
+    {
+      "album": {
         "name": "TV Baby",
         "url": "https://open.spotify.com/album/1zRmjFxWFQqoq7dzwqvkGP"
       },
@@ -1037,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190222,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
+    },
+    {
+      "album": {
         "name": "Glue",
         "url": "https://open.spotify.com/album/1CUaog8mu2iSV3HmCtlUXl"
       },
@@ -1372,7 +1408,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 155680,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c"
@@ -2094,7 +2130,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 174259,
       "name": "PANIC",
       "url": "https://open.spotify.com/track/3L4MAUb1N2dsAludyS8ra8"

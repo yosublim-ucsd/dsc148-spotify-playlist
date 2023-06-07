@@ -1,15 +1,87 @@
 {
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Hiro Kimura, Tomoaki Baba, Yusuke Sase, Shota Watanabe, Keisuke Furuki",
-  "num_followers": 27097,
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u6e21\u8fba\u7fd4\u592a, \u82e5\u4e95\u4fca\u4e5f, \u77f3\u82e5\u99ff",
+  "num_followers": 27129,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTMyZWQyNGE0YTYwNjIyZTA0ZTdiNjBlZmVmMjU2MGNkY2UyYjM5",
+  "snapshot_id": "MCw0OWYyNmMxYTFlYzM5NTg3Yzc1NWNkY2ZiMDhiMWU4MDlmOTI3YjVm",
   "tracks": [
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/7AeNL2e4gX3C2x7txDr05Q"
+      },
+      "artists": [
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+        }
+      ],
+      "duration_ms": 272597,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7lECorfr6yQeruqdY2NaYC"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
+        "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "duration_ms": 345533,
+      "name": "N.E.W.",
+      "url": "https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "4Aces",
+        "url": "https://open.spotify.com/album/5Oo8yuKWgsWDufeEiolwSN"
+      },
+      "artists": [
+        {
+          "name": "4Aces",
+          "url": "https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL"
+        }
+      ],
+      "duration_ms": 326700,
+      "name": "S.K.O.",
+      "url": "https://open.spotify.com/track/0aT0RypXmcyq56WDJ50nTh"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "I Am, Because You Are",
+        "url": "https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5"
+      },
+      "artists": [
+        {
+          "name": "\u6d77\u91ce \u96c5\u5a01",
+          "url": "https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx"
+        }
+      ],
+      "duration_ms": 409520,
+      "name": "I Am, Because You Are",
+      "url": "https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Long Way",
         "url": "https://open.spotify.com/album/3ZFqID6ShRS5h1jp7pzaH1"
@@ -41,63 +113,23 @@
       "url": "https://open.spotify.com/track/1pj3uHbRdGqR74BinsUQtb"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
-        "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
+        "name": "Tokyo Portage",
+        "url": "https://open.spotify.com/album/2mD5jItxhFupy9zAv4XdbH"
       },
       "artists": [
         {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        },
-        {
-          "name": "\u99ac\u5834\u667a\u7ae0",
-          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+          "name": "YUSUKE NAKAMURA",
+          "url": "https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG"
         }
       ],
-      "duration_ms": 345533,
-      "name": "N.E.W.",
-      "url": "https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV"
+      "duration_ms": 193977,
+      "name": "Tokyo Portage",
+      "url": "https://open.spotify.com/track/45UTp7ium3cTgGO5zb2xR3"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "4Aces",
-        "url": "https://open.spotify.com/album/5Oo8yuKWgsWDufeEiolwSN"
-      },
-      "artists": [
-        {
-          "name": "4Aces",
-          "url": "https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL"
-        }
-      ],
-      "duration_ms": 326700,
-      "name": "S.K.O.",
-      "url": "https://open.spotify.com/track/0aT0RypXmcyq56WDJ50nTh"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "I Am, Because You Are",
-        "url": "https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5"
-      },
-      "artists": [
-        {
-          "name": "\u6d77\u91ce \u96c5\u5a01",
-          "url": "https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx"
-        }
-      ],
-      "duration_ms": 409520,
-      "name": "I Am, Because You Are",
-      "url": "https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "\u4e09\u6587\u30b4\u30b7\u30c3\u30d7",
         "url": "https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm"
@@ -117,39 +149,7 @@
       "url": "https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "Tokyo Portage",
-        "url": "https://open.spotify.com/album/2mD5jItxhFupy9zAv4XdbH"
-      },
-      "artists": [
-        {
-          "name": "YUSUKE NAKAMURA",
-          "url": "https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG"
-        }
-      ],
-      "duration_ms": 193977,
-      "name": "Tokyo Portage",
-      "url": "https://open.spotify.com/track/45UTp7ium3cTgGO5zb2xR3"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "ROUTE 20 HIT THE ROAD",
-        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
-      },
-      "artists": [
-        {
-          "name": "EGO-WRAPPIN\u2019",
-          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "\u304f\u3061\u3070\u3057\u306b\u30c1\u30a7\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Rising Son",
         "url": "https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
@@ -193,23 +193,39 @@
       "url": "https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "Today Is Another Day",
-        "url": "https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf"
+        "name": "Give Me Your Love / \u604b\u306e\u4e88\u611f (The Handoors version)",
+        "url": "https://open.spotify.com/album/05p4lqNQFjYvjkCnUNNtnV"
       },
       "artists": [
         {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+          "name": "The Handoors",
+          "url": "https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN"
         }
       ],
-      "duration_ms": 321253,
-      "name": "Today Is Another Day",
-      "url": "https://open.spotify.com/track/26rrOxH88bdp9Eq3nw5A8O"
+      "duration_ms": 278341,
+      "name": "\u604b\u306e\u4e88\u611f - The Handoors version",
+      "url": "https://open.spotify.com/track/2APXmeWh7KQ1ssXVCMSKeD"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "ROUTE 20 HIT THE ROAD",
+        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
+      },
+      "artists": [
+        {
+          "name": "EGO-WRAPPIN\u2019",
+          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "\u304f\u3061\u3070\u3057\u306b\u30c1\u30a7\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
@@ -225,7 +241,27 @@
       "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "Folds (Live at 100BAN Hall, Kobe, 2022)",
+        "url": "https://open.spotify.com/album/19uLSbnTCzQqDn6csaIH8O"
+      },
+      "artists": [
+        {
+          "name": "Hiro Kimura",
+          "url": "https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI"
+        },
+        {
+          "name": "Miki Hirose",
+          "url": "https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx"
+        }
+      ],
+      "duration_ms": 553685,
+      "name": "Face To Face - Live at 100BAN Hall, Kobe, 2022",
+      "url": "https://open.spotify.com/track/3Wzhjs5i3i9T5KJ9xN9rKH"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "eden",
         "url": "https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD"
@@ -253,59 +289,23 @@
       "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "Folds (Live at 100BAN Hall, Kobe, 2022)",
-        "url": "https://open.spotify.com/album/19uLSbnTCzQqDn6csaIH8O"
+        "name": "qualia",
+        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
       },
       "artists": [
         {
-          "name": "Hiro Kimura",
-          "url": "https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI"
-        },
-        {
-          "name": "Miki Hirose",
-          "url": "https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx"
+          "name": "PRIMITIVE ART ORCHESTRA",
+          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
         }
       ],
-      "duration_ms": 553685,
-      "name": "Face To Face - Live at 100BAN Hall, Kobe, 2022",
-      "url": "https://open.spotify.com/track/3Wzhjs5i3i9T5KJ9xN9rKH"
+      "duration_ms": 204306,
+      "name": "qualia",
+      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "AUTHENTIC",
-        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 252215,
-      "name": "Spring Kiss",
-      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "ROUTE 20 HIT THE ROAD",
-        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
-      },
-      "artists": [
-        {
-          "name": "EGO-WRAPPIN\u2019",
-          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
-        }
-      ],
-      "duration_ms": 333843,
-      "name": "\u8272\u5f69\u306e\u30d6\u30eb\u30fc\u30b9",
-      "url": "https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Serendipity",
         "url": "https://open.spotify.com/album/54t9EAdUVqNEPyZTD0y43y"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/0j7iNGrIc7Sye3rMbpPn8h"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
         "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/6nDbJwLVkoi5z4Y3VwLulm"
@@ -361,23 +361,23 @@
       "url": "https://open.spotify.com/track/4bc7kYSSKRDeFJGYEzNJAp"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "qualia",
-        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
+        "name": "ROUTE 20 HIT THE ROAD",
+        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
       },
       "artists": [
         {
-          "name": "PRIMITIVE ART ORCHESTRA",
-          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
+          "name": "EGO-WRAPPIN\u2019",
+          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
         }
       ],
-      "duration_ms": 204306,
-      "name": "qualia",
-      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
+      "duration_ms": 333843,
+      "name": "\u8272\u5f69\u306e\u30d6\u30eb\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Stella's Cough",
         "url": "https://open.spotify.com/album/3hX312ymuWRcEqmb4GNhWc"
@@ -417,23 +417,23 @@
       "url": "https://open.spotify.com/track/7c6RAOcYgwDFf0R6gusrbr"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "Sky",
-        "url": "https://open.spotify.com/album/6p8sF3aFRqLzasMfcMpjoz"
+        "name": "Today Is Another Day",
+        "url": "https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Sky",
-      "url": "https://open.spotify.com/track/4A1h2n04lHikwFW2y6wQBS"
+      "duration_ms": 321253,
+      "name": "Today Is Another Day",
+      "url": "https://open.spotify.com/track/26rrOxH88bdp9Eq3nw5A8O"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Give Me Your Love",
         "url": "https://open.spotify.com/album/3AZpaJgFQ7iPTMmpVnPhif"
@@ -449,23 +449,23 @@
       "url": "https://open.spotify.com/track/0mtHN0H06S4Iefm43Kzlq2"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "Organic Plastic Music",
-        "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
+        "name": "Sky",
+        "url": "https://open.spotify.com/album/6p8sF3aFRqLzasMfcMpjoz"
       },
       "artists": [
         {
-          "name": "Orange Pekoe",
-          "url": "https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 240933,
-      "name": "\u3084\u308f\u3089\u304b\u306a\u591c",
-      "url": "https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL"
+      "duration_ms": 220000,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/4A1h2n04lHikwFW2y6wQBS"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Tutumikomuyouni",
         "url": "https://open.spotify.com/album/1vnxF4VENfoLws4brG1GD1"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/3HoWRTwLaGRCnHS9hvRoOz"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/130u0oM6Q8NiuF69xB20Bj"
@@ -501,23 +501,23 @@
       "url": "https://open.spotify.com/track/03kj4nn1CBAlGLwfQAnb6f"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af OUTSIDE",
-        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
+        "name": "Organic Plastic Music",
+        "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
       },
       "artists": [
         {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+          "name": "Orange Pekoe",
+          "url": "https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Blue Eyed Monster",
-      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
+      "duration_ms": 240933,
+      "name": "\u3084\u308f\u3089\u304b\u306a\u591c",
+      "url": "https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/7MJG1uYr3RqRqucOIvWrBr"
@@ -533,27 +533,23 @@
       "url": "https://open.spotify.com/track/1dbKUjODEfs0srsw3KgFD9"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "Dear Family",
-        "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
+        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af OUTSIDE",
+        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
       },
       "artists": [
         {
-          "name": "\u6851\u539f\u3042\u3044",
-          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
         }
       ],
-      "duration_ms": 179106,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM"
+      "duration_ms": 250933,
+      "name": "Blue Eyed Monster",
+      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Kurena",
         "url": "https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl"
@@ -569,7 +565,7 @@
       "url": "https://open.spotify.com/track/1l5B1beJKVDv39E828gCTF"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev"
@@ -593,7 +589,27 @@
       "url": "https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "Dear Family",
+        "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Orange Mug",
         "url": "https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Egg On The Roof",
         "url": "https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "MISIA SOUL JAZZ SESSION",
         "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "M-P-C \"Mentality, Physicality, Computer\"",
         "url": "https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
         "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
@@ -697,7 +713,23 @@
       "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "AUTHENTIC",
+        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "duration_ms": 252215,
+      "name": "Spring Kiss",
+      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
         "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Longseller Tornado",
         "url": "https://open.spotify.com/album/0PbYTHm5JRVteBLBDEzNdI"
@@ -733,43 +765,7 @@
       "url": "https://open.spotify.com/track/4dKHCuRPW5BXkXYA46l6BK"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "The Bottle",
-        "url": "https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy"
-      },
-      "artists": [
-        {
-          "name": "\u8cfd",
-          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
-        },
-        {
-          "name": "\u6fa4\u6751\u4e00\u5e73",
-          "url": "https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT"
-        }
-      ],
-      "duration_ms": 146800,
-      "name": "JAPAN THREE",
-      "url": "https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "Squall",
-        "url": "https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 236907,
-      "name": "Squall",
-      "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
         "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
@@ -793,7 +789,7 @@
       "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "NEW",
         "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
@@ -809,7 +805,27 @@
       "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "The Bottle",
+        "url": "https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy"
+      },
+      "artists": [
+        {
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+        },
+        {
+          "name": "\u6fa4\u6751\u4e00\u5e73",
+          "url": "https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT"
+        }
+      ],
+      "duration_ms": 146800,
+      "name": "JAPAN THREE",
+      "url": "https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "MISIA SOUL JAZZ SESSION",
         "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "TOKYO JUNK BOOGIE",
         "url": "https://open.spotify.com/album/3LIgXpMVtzTywubYgtUgdM"
@@ -841,7 +857,23 @@
       "url": "https://open.spotify.com/track/78EdyJD8l2uwT3Kw0ppViW"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "Squall",
+        "url": "https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 236907,
+      "name": "Squall",
+      "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Looking Back / Paint It Black",
         "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
@@ -857,7 +889,7 @@
       "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Organic Plastic Music",
         "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
@@ -873,7 +905,7 @@
       "url": "https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu"
     },
     {
-      "added_at": "2023-05-30 15:00:00",
+      "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "Dear Family",
         "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
@@ -891,42 +923,6 @@
       "duration_ms": 132853,
       "name": "The Great U's Train",
       "url": "https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "Ain't No Sunshine",
-        "url": "https://open.spotify.com/album/2w7eEW2NKU96lWMGqbgsNy"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/2jl9g1q4H325ckCuUkiuxq"
-        }
-      ],
-      "duration_ms": 322842,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/6lAiWBSXcW4vO25LckdYlN"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "White Runway",
-        "url": "https://open.spotify.com/album/2P0laiKlcFWjr8WUIbiXCe"
-      },
-      "artists": [
-        {
-          "name": "EXOTIC SKATES",
-          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
-        },
-        {
-          "name": "MONKY",
-          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
-        }
-      ],
-      "duration_ms": 282413,
-      "name": "White Runway",
-      "url": "https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V"
     }
   ],
   "unique_name": "Modern Jazz Japan",

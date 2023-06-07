@@ -4,7 +4,7 @@
 
 > Hot noise for those summer days.
 
-204 songs - 11 hr 13 min
+206 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [CHAMPION](https://open.spotify.com/track/14oFxKTXuTpYgKe2vy0Cih) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 2:53 | 2022-04-01 |  |
 | [Cheer Up Baby](https://open.spotify.com/track/4U7B8upa2xDTudFoGrBJ6G) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cheer Up Baby](https://open.spotify.com/album/2DSLcvO3yEHoEKlxmdL4k1) | 3:53 | 2022-04-01 | 2023-03-18 |
 | [CHEMICALS](https://open.spotify.com/track/1zMAaHzTsJ4Q75R2wVLQut) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [CHEMICALS](https://open.spotify.com/album/20Frjm6zA1CdmZcNIQNmv6) | 3:31 | 2022-06-17 | 2023-01-01 |
+| [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 | 2023-06-02 |  |
 | [Chokecherry](https://open.spotify.com/track/4euKMp2hs8pLkWPpUxjPVb) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [TV Baby](https://open.spotify.com/album/1zRmjFxWFQqoq7dzwqvkGP) | 2:45 | 2022-04-01 | 2022-07-29 |
 | [Complete You](https://open.spotify.com/track/5jNPu9QRIe8X7LP2Q2HTd0) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Complete You](https://open.spotify.com/album/5kMS8pZsCd7AtyXz3OfOzl) | 4:16 | 2022-04-01 | 2022-07-29 |
 | [Complete You](https://open.spotify.com/track/6Gfz0ojUwlcQv2CUeaD2Pq) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Gone Are The Good Days](https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2) | 4:16 | 2022-04-01 | 2022-11-13 |
@@ -64,6 +65,7 @@
 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2023-03-17 |  |
 | [Garden](https://open.spotify.com/track/00JfiKSB2Ne3dWu6EGcec9) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Garden](https://open.spotify.com/album/7z7oHIPniqVIRGhU5AiI1a) | 3:40 | 2022-04-01 | 2023-02-04 |
 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 | 2022-07-04 | 2023-03-18 |
+| [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 | 2023-05-25 |  |
 | [Glue](https://open.spotify.com/track/5Isz1mw0HOzLOa1jas7MHH) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Glue](https://open.spotify.com/album/1CUaog8mu2iSV3HmCtlUXl) | 3:37 | 2022-04-01 | 2022-07-28 |
 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-03-17 |  |
 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 | 2023-05-25 | 2023-06-03 |
@@ -82,7 +84,7 @@
 | [Hideaway](https://open.spotify.com/track/3mXLYl93QbW6fxnU9sQOj6) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Hideaway](https://open.spotify.com/album/6qIh2hDyrE8Y0DSYwQK0pf) | 3:57 | 2022-04-01 | 2022-07-25 |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2022-04-01 | 2023-06-03 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-05-25 |  |
-| [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 | 2022-04-01 |  |
+| [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 | 2022-04-01 | 2023-06-07 |
 | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/track/2ymOJYGe3noIiQF83yAysV) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E), [Lydia Night](https://open.spotify.com/artist/0J5n8cS1rKCAZ7eJek1uYK) | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/album/6JMXuj7c10IpXdwHWp7ZHd) | 3:12 | 2022-04-01 | 2022-07-29 |
 | [Hurricane](https://open.spotify.com/track/23unqAilZgKoYIcmqCLlUL) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Hurricane](https://open.spotify.com/album/0Gss2qAjvsC3zXjL2GusEI) | 3:13 | 2022-04-01 | 2022-07-29 |
 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 | 2023-05-25 |  |
@@ -121,7 +123,7 @@
 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 | 2022-04-01 |  |
 | [Outlook](https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Outlook](https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07) | 3:51 | 2023-05-25 |  |
 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 | 2023-05-25 |  |
-| [PANIC](https://open.spotify.com/track/3L4MAUb1N2dsAludyS8ra8) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PANIC](https://open.spotify.com/album/7fQtRHWEgTOHz0kdl1twdv) | 2:54 | 2023-03-17 |  |
+| [PANIC](https://open.spotify.com/track/3L4MAUb1N2dsAludyS8ra8) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PANIC](https://open.spotify.com/album/7fQtRHWEgTOHz0kdl1twdv) | 2:54 | 2023-03-17 | 2023-06-07 |
 | [PARTY ON MY DEATHBED](https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [PARTY ON MY DEATHBED](https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB) | 3:28 | 2023-05-25 |  |
 | [Peach](https://open.spotify.com/track/6egPp2V3UVRJlPI8GtD9bF) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Peach](https://open.spotify.com/album/0w1shQsuCVz5D7lOb5IEgw) | 3:17 | 2022-04-01 | 2022-07-28 |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-05-25 |  |

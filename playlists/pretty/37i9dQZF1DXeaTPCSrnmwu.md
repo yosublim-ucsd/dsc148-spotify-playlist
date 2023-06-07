@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,790 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,805 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 13 | [This Is The Time](https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp) | [Aimee Fleur](https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B) | [This Is The Time](https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU) | 2:39 |
 | 14 | [Amalfi Moon](https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Amalfi Moon](https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz) | 2:31 |
 | 15 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 |
-| 16 | [Quando sorridi](https://open.spotify.com/track/4tJLqa4zHZmoBrkdZu2IFY) | [Vala Capon](https://open.spotify.com/artist/49fgD6LHJUewc21tGBaOqV) | [Quando sorridi](https://open.spotify.com/album/5WED43tdqslgKrB6s3fA8I) | 2:03 |
-| 17 | [Fin de l'été](https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Fin de l'été](https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42) | 1:53 |
+| 16 | [Fin de l'été](https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Fin de l'été](https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42) | 1:53 |
+| 17 | [Quando sorridi](https://open.spotify.com/track/4tJLqa4zHZmoBrkdZu2IFY) | [Vala Capon](https://open.spotify.com/artist/49fgD6LHJUewc21tGBaOqV) | [Quando sorridi](https://open.spotify.com/album/5WED43tdqslgKrB6s3fA8I) | 2:03 |
 | 18 | [Lágrimas Negras](https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 3:44 |
 | 19 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 |
 | 20 | [Asi Bailaba Cuba \- Instrumental](https://open.spotify.com/track/3waAyPLnhNQRbdh6Pb6mRX) | [Luis Siu Riveron](https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE) | [Grandes Boleros En Piano Y Ritmo \(Instrumental\)](https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp) | 5:33 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 45 | [Al Latin](https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT), [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7), [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Río de los Canasteros](https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy) | 9:08 |
 | 46 | [Bossa Nova Piano Jazz](https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N) | [The Jazz Restaurant](https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4) | [Classic Jazz on the Piano](https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF) | 2:17 |
 | 47 | [Señor Danzon](https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ) | [Guy Barker](https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG), [Bernardo Sassetti](https://open.spotify.com/artist/7zRQh7uzMB0kDd1VwJNsUf) | [Cuba Cuba](https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX) | 3:28 |
-| 48 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 |
+| 48 | [One Note Samba](https://open.spotify.com/track/5faeLcLFmircGhMFbzUzL7) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:52 |
 | 49 | [Acercate Mas\-Nosotros](https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:08 |
-| 50 | [One Note Samba](https://open.spotify.com/track/5faeLcLFmircGhMFbzUzL7) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:52 |
+| 50 | [History Repeats Itself](https://open.spotify.com/track/4hP9yHCx4TLnDZu8nEszUO) | [Jose Carcavelos](https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H) | [History Repeats Itself](https://open.spotify.com/album/0avdV4IQXLLuRcNthYZXeV) | 1:54 |
 
-Snapshot ID: `MCw1M2ZmMTU3NWYyZmQzMTc1MjY0MTViYzVmMzAwNWZkYTE0ZTE5ZDBk`
+Snapshot ID: `MCw3OGZhNTZhM2Y2NDcyNTM3MTg5ZjRjNmYyYmY3YTJlMzlmZjQ1ZmM3`

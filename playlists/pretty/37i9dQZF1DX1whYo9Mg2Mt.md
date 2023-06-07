@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1whYo9Mg2Mt.md) - [plain]
 
 > New album Planet Her and other hits
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,092 likes - 68 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,368 likes - 68 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1whYo9Mg2Mt.md) - [plain]
 | 67 | [BMO \(feat\. Doja Cat\) \- Remix](https://open.spotify.com/track/1HFCIJ0pMbrDVs2xH0Jt0B) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Shea Butter Baby](https://open.spotify.com/album/4H4zgSw27aH4HkJxLzZdCv) | 2:29 |
 | 68 | [Right Side \(Feat\. Doja Cat\)](https://open.spotify.com/track/1dgF53w3I5POOQrUisalOs) | [L8LOOMER](https://open.spotify.com/artist/51FdY610ARIDu41nd5MxZd), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Right Side \(Feat\. Doja Cat\)](https://open.spotify.com/album/2mKTwnNanGj8ebJfWNxRzt) | 3:32 |
 
-Snapshot ID: `MCwyOTc5NjFmMmU4NDc4YWE1ZmM0MmEyODQyOTAxY2Y4OTM3MWIwNWZj`
+Snapshot ID: `MCxhNTNhZGFmYWEyZTQ5ZmI3Yjc5ZWFhMmVlNjI2YjM5NWZkYjk3MDI0`

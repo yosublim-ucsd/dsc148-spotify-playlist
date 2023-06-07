@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1807594,
+  "num_followers": 1807613,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODJlYzQxMDY0YjRhZGYxYzQwZjA4MWEwYTJiYWI4NmNlODVkMDZj",
+  "snapshot_id": "MCw1OWNlNjQ0MjE2MDExYWMyNmE2ZGM5OGM0YTY5NTM1Njk1ZTk0YjE3",
   "tracks": [
     {
       "added_at": "2023-03-28 20:19:12",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 213186,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "GPS (w/ Felly)",
+        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 168316,
+      "name": "GPS (w/ Felly)",
+      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 162106,
       "name": "Grow into Love",
       "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "GPS (w/ Felly)",
-        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        },
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 168316,
-      "name": "GPS (w/ Felly)",
-      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 90227,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Forever Turned Around",
         "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
       "artists": [
         {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 90227,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Virginia (Wind In The Night)",
         "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "My Finest Work Yet",
-        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 317413,
-      "name": "Manifest",
-      "url": "https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "My Finest Work Yet",
+        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 317413,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
       "artists": [
         {
-          "name": "Ainslie Wills",
-          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
-        },
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
         }
       ],
-      "duration_ms": 213023,
-      "name": "Detour",
-      "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
+      "duration_ms": 276826,
+      "name": "All The Good Times",
+      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "Ainslie Wills",
+          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
         }
       ],
-      "duration_ms": 276826,
-      "name": "All The Good Times",
-      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
+      "duration_ms": 213023,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "I Don\u2019t Live Here Anymore",
         "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 293866,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "The Last Exit",
+        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Consolation Prize",
         "url": "https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "The Last Exit",
-        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
       "artists": [
         {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
+      "duration_ms": 217946,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1415,22 +1431,6 @@
       "duration_ms": 149422,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "American Bollywood",
         "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "(watch my moves)",
-        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
       "artists": [
         {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 332533,
-      "name": "Mount Airy Hill (Way Gone)",
-      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1575,6 +1559,22 @@
       "duration_ms": 230747,
       "name": "Up Granville",
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "(watch my moves)",
+        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 332533,
+      "name": "Mount Airy Hill (Way Gone)",
+      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Where the Redwoods Meet the Sea",
+        "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 157801,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/6xLf6gcZR4CPXrFrhzqqYu"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Inside Problems",
-        "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Make a Picture",
-      "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

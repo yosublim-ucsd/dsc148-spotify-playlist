@@ -1,13 +1,29 @@
 {
   "description": "Portraits Of Tracy makes anti pop.",
-  "num_followers": 697265,
+  "num_followers": 697299,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzI1NGUwMWQ1NjhmMmM3Yzg3NzM0NmI2YWI1NWUzOTJiZWViNTYx",
+  "snapshot_id": "MCxlYTU1NjM1YmY3NjVmYmZjZmVmNjRkYWMxYzc3OGRhMzBmODI4Zjhh",
   "tracks": [
+    {
+      "added_at": "2023-06-06 14:11:28",
+      "album": {
+        "name": "heaven",
+        "url": "https://open.spotify.com/album/6P3AsR6fFqtaR4uDv7pfbC"
+      },
+      "artists": [
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ"
+        }
+      ],
+      "duration_ms": 120133,
+      "name": "heaven",
+      "url": "https://open.spotify.com/track/5gEoep9RwLEy8hFJMne9ad"
+    },
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
@@ -45,6 +61,38 @@
       "url": "https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "TEMPTRESS",
+        "url": "https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "duration_ms": 127707,
+      "name": "U SAID!",
+      "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
+    },
+    {
+      "added_at": "2023-06-01 14:26:07",
+      "album": {
+        "name": "before the afters",
+        "url": "https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 116128,
+      "name": "ur the only one i'm talking to",
+      "url": "https://open.spotify.com/track/2mfOpCyCrtoI0SGDM45LxW"
+    },
+    {
       "added_at": "2023-06-02 16:04:00",
       "album": {
         "name": "get a load of this guy",
@@ -61,20 +109,20 @@
       "url": "https://open.spotify.com/track/4ktuAb4zWsZ9Ceev7vCleB"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "TEMPTRESS",
-        "url": "https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo"
+        "name": "A Desperate Attempt To Love Everything",
+        "url": "https://open.spotify.com/album/4IWIvRyOHKEUFHYPbHdPah"
       },
       "artists": [
         {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
         }
       ],
-      "duration_ms": 127707,
-      "name": "U SAID!",
-      "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
+      "duration_ms": 161500,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/6y1jpW735dAaH4nzkoo8Qy"
     },
     {
       "added_at": "2023-03-01 23:35:59",
@@ -93,20 +141,36 @@
       "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
-      "added_at": "2023-06-01 14:26:07",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "before the afters",
-        "url": "https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv"
+        "name": "SNAKE EYES",
+        "url": "https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ"
       },
       "artists": [
         {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
         }
       ],
-      "duration_ms": 116128,
-      "name": "ur the only one i'm talking to",
-      "url": "https://open.spotify.com/track/1UKBcM9Xs7k0bmbjeNivNn"
+      "duration_ms": 130369,
+      "name": "SNAKE EYES",
+      "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "POOL",
+        "url": "https://open.spotify.com/album/6CzJdW38fi4F6ICPWygYN8"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 215712,
+      "name": "POOL",
+      "url": "https://open.spotify.com/track/1jyQFB8qPYz5LklSPP02sn"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -131,6 +195,26 @@
       "duration_ms": 166605,
       "name": "call and i'll answer",
       "url": "https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR"
+    },
+    {
+      "added_at": "2023-05-22 20:06:32",
+      "album": {
+        "name": "frenemy",
+        "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        },
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "duration_ms": 259680,
+      "name": "love that 4 u",
+      "url": "https://open.spotify.com/track/7ulWHAI8brxFTmunoAqRCz"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -181,42 +265,6 @@
       "url": "https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "A Desperate Attempt To Love Everything",
-        "url": "https://open.spotify.com/album/4IWIvRyOHKEUFHYPbHdPah"
-      },
-      "artists": [
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/6y1jpW735dAaH4nzkoo8Qy"
-    },
-    {
-      "added_at": "2023-05-22 20:06:32",
-      "album": {
-        "name": "frenemy",
-        "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
-      },
-      "artists": [
-        {
-          "name": "altopalo",
-          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
-        },
-        {
-          "name": "Bartees Strange",
-          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
-        }
-      ],
-      "duration_ms": 259680,
-      "name": "love that 4 u",
-      "url": "https://open.spotify.com/track/7ulWHAI8brxFTmunoAqRCz"
-    },
-    {
       "added_at": "2023-06-02 16:04:00",
       "album": {
         "name": "snow globe",
@@ -249,22 +297,6 @@
       "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "SNAKE EYES",
-        "url": "https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ"
-      },
-      "artists": [
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
-        }
-      ],
-      "duration_ms": 130369,
-      "name": "SNAKE EYES",
-      "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Late Once Again",
@@ -295,22 +327,6 @@
       "duration_ms": 194878,
       "name": "Painless",
       "url": "https://open.spotify.com/track/4hMjAmwoUCDCXHO0aAnshF"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "POOL",
-        "url": "https://open.spotify.com/album/6CzJdW38fi4F6ICPWygYN8"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 215712,
-      "name": "POOL",
-      "url": "https://open.spotify.com/track/1jyQFB8qPYz5LklSPP02sn"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -468,7 +484,7 @@
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "before the afters",
-        "url": "https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv"
+        "url": "https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl"
       },
       "artists": [
         {
@@ -478,7 +494,7 @@
       ],
       "duration_ms": 181051,
       "name": "Was I Supposed To Care?",
-      "url": "https://open.spotify.com/track/7rzjNar4ySQgXroswykQsH"
+      "url": "https://open.spotify.com/track/7HIbJDiEXk4VFlbV3qJTdw"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1687,26 +1703,6 @@
       "duration_ms": 237641,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/0GEQmn1fPbeQOHVT6YDgFR"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
-        "name": "OPEN LETTER (feat. Teezo Touchdown)",
-        "url": "https://open.spotify.com/album/0ZaBMGc39yv3eegaZJkXlW"
-      },
-      "artists": [
-        {
-          "name": "MIA GLADSTONE",
-          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 246935,
-      "name": "OPEN LETTER (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/7ketv9r8Hm9lBpQdDekCXI"
     }
   ],
   "unique_name": "anti pop",

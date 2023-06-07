@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,210 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,285 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 5 | [Walking After You](https://open.spotify.com/track/6A7E5xGBYU8OKMc3KnbMac) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Lean In](https://open.spotify.com/album/1spz41w8bNYC5yq5t5zzXn) | 4:30 |
 | 6 | [Bad Girls](https://open.spotify.com/track/0PSo8ZtVtaoRYQlO8zaHkg) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [Bad Girls](https://open.spotify.com/album/7CIwg53mH7BD5y3RZ4KyGv) | 2:35 |
 | 7 | [One Night in NY](https://open.spotify.com/track/6fqwMAh10hGQtug0vis0ZY) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [One Night in NY](https://open.spotify.com/album/6bpkI0h88QinSxm4qLz8El) | 3:45 |
-| 8 | [I Won't Dance](https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:17 |
+| 8 | [I Won't Dance](https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:17 |
 | 9 | [C'est Si Bon](https://open.spotify.com/track/6bFL0ED2Y9i1RchMPLlbx7) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [C'est Si Bon](https://open.spotify.com/album/60vIYRez8yxbGCrIV4VmsH) | 2:52 |
 | 10 | [My Foolish Heart](https://open.spotify.com/track/0MjqmuJitgjV1E740JPEKl) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Bryan Carter](https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ), [Alexa Tarantino](https://open.spotify.com/artist/4iP863xgxxSQUbKm7SVwXh) | [My Foolish Heart](https://open.spotify.com/album/0w0pgJhk04uc0e7SklDhlM) | 7:37 |
 | 11 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Burn](https://open.spotify.com/track/73uQl32t4hNWnWWfpRQ1uj) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL), [Billy Kilson](https://open.spotify.com/artist/2CpN6s71YoYw3UDLKCFKRH) | [Burn](https://open.spotify.com/album/7CnkndNymkN758nv4t7HQf) | 3:46 |
 | 100 | [Day Dream](https://open.spotify.com/track/0pmfzrYIaHzPQ0DYnRWLwi) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw) | [Day Dream](https://open.spotify.com/album/406jynG8Y0juiFhyOaviak) | 4:55 |
 
-Snapshot ID: `MCw1OTExYjY3ZTE4MzFiODI1ZGViYjhhYzIzZmY3ZjdkMjJmMzNkNDc0`
+Snapshot ID: `MCw0Mjg3NTJjOTk5NjM4YzliYzI4Njk3M2FhN2ZmYzNiZWUzNTBjNDRh`

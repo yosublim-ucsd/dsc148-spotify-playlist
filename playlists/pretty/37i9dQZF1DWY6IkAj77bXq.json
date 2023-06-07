@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 54638,
+  "num_followers": 54700,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTVmODdhYjBhNGE2ZjU0MThjM2RjM2ZmZTA2NTliNzhkZWRhOTdl",
+  "snapshot_id": "MCwyY2Y5Y2E4ZDUyOWIxNTI3N2M0ZWZhOGY0ZmQ5NTI3M2M4ZGExZTQ3",
   "tracks": [
     {
       "added_at": "2023-06-02 16:01:37",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu"
-      },
-      "artists": [
-        {
-          "name": "Lior Freudenthal",
-          "url": "https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
         "name": "From Above",
         "url": "https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 206291,
       "name": "Towards The Light",
       "url": "https://open.spotify.com/track/1zSSm8B8piirgBg9YsLW4E"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu"
+      },
+      "artists": [
+        {
+          "name": "Lior Freudenthal",
+          "url": "https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Moonchild's First Flight",
-        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
-      },
-      "artists": [
-        {
-          "name": "Amos Stremann",
-          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
-        }
-      ],
-      "duration_ms": 172372,
-      "name": "Moonchild's First Flight",
-      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
         "name": "Clarity Moon",
         "url": "https://open.spotify.com/album/5NvCov4I30QGt5kbvZpUKV"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 172200,
       "name": "Clarity Moon",
       "url": "https://open.spotify.com/track/05jY1kWoJC3H8AuVUaL8gi"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
+        "name": "Moonchild's First Flight",
+        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
+      },
+      "artists": [
+        {
+          "name": "Amos Stremann",
+          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
+        }
+      ],
+      "duration_ms": 172372,
+      "name": "Moonchild's First Flight",
+      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Rituals",
-      "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 178928,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Dream Away",
-        "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
-      },
-      "artists": [
-        {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Dream Away",
-      "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Loveliness",
-        "url": "https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP"
+        "name": "Dream Away",
+        "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
       },
       "artists": [
         {
-          "name": "Gentle Dreams",
-          "url": "https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC"
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
         }
       ],
-      "duration_ms": 160188,
-      "name": "Loveliness",
-      "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
+      "duration_ms": 124615,
+      "name": "Dream Away",
+      "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
+        "name": "Loveliness",
+        "url": "https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP"
+      },
+      "artists": [
+        {
+          "name": "Gentle Dreams",
+          "url": "https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC"
+        }
+      ],
+      "duration_ms": 160188,
+      "name": "Loveliness",
+      "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
         "name": "Parallels",
         "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 216015,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
-        "name": "Quiet Hours",
-        "url": "https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v"
-      },
-      "artists": [
-        {
-          "name": "Scandinavian Nights",
-          "url": "https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -1119,18 +1103,34 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Floating Without Gravity",
-        "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
       },
       "artists": [
         {
-          "name": "Tranquil Spirits",
-          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Floating Without Gravity",
-      "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
+        "name": "Quiet Hours",
+        "url": "https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Nights",
+          "url": "https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Sammram",
-        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+        "name": "Floating Without Gravity",
+        "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
       },
       "artists": [
         {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+          "name": "Tranquil Spirits",
+          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
         }
       ],
-      "duration_ms": 206624,
-      "name": "Sammram",
-      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
+      "duration_ms": 162400,
+      "name": "Floating Without Gravity",
+      "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -1195,22 +1195,6 @@
       "duration_ms": 164210,
       "name": "Blissful",
       "url": "https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
-      },
-      "artists": [
-        {
-          "name": "Sleeping Clouds",
-          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -1247,22 +1231,6 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Tokyo Drifting",
-        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
-      },
-      "artists": [
-        {
-          "name": "M. David",
-          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Tokyo Drifting",
-      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
         "name": "Sleep - Vol 4",
         "url": "https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC"
       },
@@ -1279,18 +1247,50 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Semblance",
-        "url": "https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
       },
       "artists": [
         {
-          "name": "Rubycon Sunset",
-          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
+          "name": "Sleeping Clouds",
+          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Semblance",
-      "url": "https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH"
+      "duration_ms": 170958,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
+        "name": "Tokyo Drifting",
+        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
+      },
+      "artists": [
+        {
+          "name": "M. David",
+          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Tokyo Drifting",
+      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
+        "name": "Theta Sleep",
+        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
+      },
+      "artists": [
+        {
+          "name": "Zonyoh",
+          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Clear-Headed",
+      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

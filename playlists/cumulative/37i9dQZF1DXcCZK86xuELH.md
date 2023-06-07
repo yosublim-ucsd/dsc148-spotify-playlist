@@ -4,12 +4,13 @@
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-74 songs - 5 hr 18 min
+75 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1999 \- Gray Remix](https://open.spotify.com/track/3wNeeZo1gvxKEopHtvmwVt) | [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U), [Gray](https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [1999 \(Gray Remix\)](https://open.spotify.com/album/3BDDns51wSQQtTTiHzMiII) | 4:05 | 2022-12-09 |  |
-| [Abyss](https://open.spotify.com/track/4KXAxtfKpp4UPlVRHDNWgN) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Retrograde EP](https://open.spotify.com/album/3k34y3g2oXsNXt3a4azFPO) | 4:58 | 2022-12-09 |  |
+| [Abyss](https://open.spotify.com/track/4KXAxtfKpp4UPlVRHDNWgN) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Retrograde EP](https://open.spotify.com/album/3k34y3g2oXsNXt3a4azFPO) | 4:58 | 2022-12-09 | 2023-06-07 |
+| [Abyss](https://open.spotify.com/track/4bnTYYOtFHroheT49TYNHn) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Retrograde \- EP](https://open.spotify.com/album/0LlTRnnVmLfSGmkVAP9zAJ) | 4:58 | 2022-12-09 |  |
 | [Alpha](https://open.spotify.com/track/6BL79It6VyOFyi1VVNAyoB) | [Benny L](https://open.spotify.com/artist/5l4uVbRaFx2kxzudLXO2H0) | [Reactions](https://open.spotify.com/album/0DG12d6Vs2OHMP9D60BeMJ) | 6:06 | 2022-12-09 |  |
 | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/track/1PJfbxmFsitJPbLLU98y1s) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/album/0OyJFX214c6PmgyBboEoPy) | 3:07 | 2022-12-09 |  |
 | [Back to Basics](https://open.spotify.com/track/1cn6V37h4alIkOSSmRGAwq) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Back to Basics](https://open.spotify.com/album/11Vqc7F8hz7ct9ZuoLwW4w) | 4:31 | 2022-12-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dave + Central Cee \(pictured\), Burna Boy, CMAT and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,728 likes - 133 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,770 likes - 133 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 82 | [Wet](https://open.spotify.com/track/6QhRSPnnChKLk8JcPPaipm) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Wet b/w Crumbs](https://open.spotify.com/album/0x7xAxnJVzskYmBzfpuFaW) | 2:58 |
 | 83 | [Need a break](https://open.spotify.com/track/6n86Viph09xx4i63kpsvWM) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Need a break](https://open.spotify.com/album/3iG3XNnDa3r90Kx8DqnFkU) | 3:33 |
 | 84 | [Circles \(feat\. Mariah Carey\)](https://open.spotify.com/track/1KTNJSTPYBLByQ14cJRGlO) | [e\-lie](https://open.spotify.com/artist/0GtpciMDV8Z7j30Tg0Ew7x), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Circles \(feat\. Mariah Carey\)](https://open.spotify.com/album/6whfBjD94WUB3kHIhDFPYG) | 3:02 |
-| 85 | [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 |
+| 85 | [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 |
 | 86 | [who knew?](https://open.spotify.com/track/7JO4ejqLodwfdLp1NDNLbi) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [who knew?](https://open.spotify.com/album/5nQYmSXYZUEs3r8wbqvt9Z) | 2:06 |
 | 87 | [Weigh Me Down](https://open.spotify.com/track/41hrNop34zTMRIbwOl206X) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Lamplighter \(Deluxe\)](https://open.spotify.com/album/6k6YVwDOe5EpvQnpGu4jl6) | 3:47 |
 | 88 | [Good Girls](https://open.spotify.com/track/0asjqzMqp1Cw0l2IMhHy8p) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Good Girls](https://open.spotify.com/album/5zLyLLidlR9S3L1QcCyb2D) | 2:47 |
@@ -135,11 +135,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 125 | [Y'all Ready For Dis](https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Y'all Ready For Dis](https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv) | 3:17 |
 | 126 | [Wings](https://open.spotify.com/track/76eWa5rzn4aO0P5ScraXip) | [Lili Caseley](https://open.spotify.com/artist/01VwzsXo1gljaMo69Z1o6u) | [Wings](https://open.spotify.com/album/1xB79ChO42im6hgXMHNlg6) | 3:36 |
 | 127 | [Defender](https://open.spotify.com/track/4qVsCZhRS0glJbl3kvmGn4) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Defender](https://open.spotify.com/album/63DtjiEiEhC3ZeQqIOeO7O) | 3:56 |
-| 128 | [SARIOUS \(with Ashbeck & BlazeYL\)](https://open.spotify.com/track/0jOkK6S0l6oZdRgjyU0jFF) | [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC), [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [BlazeYL](https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs) | [THANKS LONDO](https://open.spotify.com/album/5MJXm95eZ4JISyHbYRTIyt) | 2:59 |
+| 128 | [SARIOUS \(with Ashbeck & BlazeYL\)](https://open.spotify.com/track/0jOkK6S0l6oZdRgjyU0jFF) | [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC), [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [BlazeYL](https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs) | [THANKSLONDO](https://open.spotify.com/album/5MJXm95eZ4JISyHbYRTIyt) | 2:59 |
 | 129 | [Rich Girls](https://open.spotify.com/track/0MIEzHpnNmr0ymtJe5m2kt) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Versions Of Us](https://open.spotify.com/album/503ZqeV0U6l37PPcm42gpQ) | 4:20 |
 | 130 | [Feeling Emotions](https://open.spotify.com/track/0RoFlVONQuvHyNuzjgSlP5) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Feeling Emotions](https://open.spotify.com/album/47pj3UAtBAdc9PCWC96Y2w) | 3:17 |
 | 131 | [Say My Name](https://open.spotify.com/track/66uxm6pfsELsf0iFMnDNbd) | [Sabiyha](https://open.spotify.com/artist/1yO7gBptbMrsPgy1ctRnJi) | [Sheerkhan](https://open.spotify.com/album/5e74ko3tNt5W4MS1gbxcgP) | 2:31 |
 | 132 | [Runner Up](https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62) | [Tejy](https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk) | [Runner Up](https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg) | 2:52 |
 | 133 | [Be Who You Are \(Real Magic\) \(feat\. JID, NewJeans & Camilo\)](https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Be Who You Are \(Real Magic\)](https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5) | 3:09 |
 
-Snapshot ID: `MCxjZjIxZGY5NmFlOGUyODVkMmIyYmEyZWQyMzUxNDhkODQ3ZjU0Y2Jm`
+Snapshot ID: `MCw5YTg1ZDA2ZGRkOGEwZmNhOWNmYjBhOTVlMGQyMmE1NDk3OTc5YmMz`

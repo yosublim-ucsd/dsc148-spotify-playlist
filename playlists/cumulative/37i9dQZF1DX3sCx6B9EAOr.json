@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 204167,
       "name": "CRY FOR ME",
       "url": "https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq"
@@ -2304,7 +2304,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
@@ -2448,7 +2448,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 165746,
       "name": "DICE",
       "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
@@ -3492,7 +3492,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 206866,
       "name": "Feel Special",
       "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
@@ -4546,7 +4546,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 220396,
       "name": "Happy Death Day",
       "url": "https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad"
@@ -6488,10 +6488,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 188718,
       "name": "Love Me Like This",
       "url": "https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO"
+    },
+    {
+      "album": {
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188718,
+      "name": "Love Me Like This",
+      "url": "https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m"
     },
     {
       "album": {
@@ -6788,7 +6806,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 185733,
       "name": "MAISON",
       "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
@@ -7680,7 +7698,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
@@ -8396,7 +8414,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 202040,
       "name": "Power Up",
       "url": "https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc"

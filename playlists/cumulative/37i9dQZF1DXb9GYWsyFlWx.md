@@ -4,12 +4,13 @@
 
 > Plastikman and Chilly Gonzales' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-29 songs - 3 hr 14 min
+30 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 | 2023-01-10 |  |
-| [9:25](https://open.spotify.com/track/3CJdVCB0MjIzJWWebjxRQQ) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 9:34 | 2023-01-10 |  |
+| [9:25](https://open.spotify.com/track/1bOOE6hznd9IhYTJYpcOHs) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 9:25 | 2023-01-10 |  |
+| [9:25](https://open.spotify.com/track/3CJdVCB0MjIzJWWebjxRQQ) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 9:34 | 2023-01-10 | 2023-06-07 |
 | [Astrogator \(Part I\)](https://open.spotify.com/track/6fiaUP8J8dQ55GW9BULSpG) | [Pete Namlook](https://open.spotify.com/artist/1zdrhzkCEqTrUrIiRzVeQ3) | [Namlook I \(Astrogator\)](https://open.spotify.com/album/5wcwf9lVb3sWIQbMeompPL) | 10:00 | 2023-01-10 |  |
 | [Basic Emotion](https://open.spotify.com/track/6gkXNt0pP1vPTMNCzXaK1C) | [B12](https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm) | [Electro\-Soma](https://open.spotify.com/album/0nFZszbiABmJPifD2zKwna) | 4:51 | 2023-01-10 |  |
 | [Basic Emotion](https://open.spotify.com/track/7ap94GD02s1oJqfmdXHd0N) | [B12](https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm) | [Electro\-Soma](https://open.spotify.com/album/4qDcCVpOsd8V4MsmqZrPr1) | 4:52 | 2023-01-10 | 2023-02-02 |

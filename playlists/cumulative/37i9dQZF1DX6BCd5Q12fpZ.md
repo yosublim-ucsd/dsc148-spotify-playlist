@@ -4,7 +4,7 @@
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-155 songs - 7 hr 45 min
+156 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [El Diablo](https://open.spotify.com/track/4TAttqXwjj56xZQVKvlX0K) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/3lD9TdjZ9arObEt1wtETVK) | 3:01 | 2022-02-28 | 2022-07-29 |
 | [Euphoria \(Single Version\)](https://open.spotify.com/track/4jzQKGcFzICrQPQdKOeNmi) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [2000s Smash Hits](https://open.spotify.com/album/6lyvBf6MxoCkRhPw6qKbxY) | 3:01 | 2022-05-16 | 2022-11-13 |
 | [Euphoria \- Single Version](https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv) | 3:01 | 2020-02-25 | 2022-07-29 |
-| [Euphoria \- Single Version](https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi) | 3:01 | 2022-05-16 |  |
+| [Euphoria \- Single Version](https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria \(The Alternative Mixes\)](https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu) | 3:01 | 2023-05-05 |  |
+| [Euphoria \- Single Version](https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi) | 3:01 | 2022-05-16 | 2023-06-07 |
 | [Every way that I can \- English Radio Edit](https://open.spotify.com/track/2oWD0Kfu4JogKWouqax5GW) | [Sertab](https://open.spotify.com/artist/6WyyxMwz028GEkIIWOP2qq) | [Alpha hrises epitihies 2004](https://open.spotify.com/album/4bzPUq5nBrxjiDQVgHibbe) | 2:48 | 2022-02-28 | 2022-07-29 |
 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [No Boundaries](https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu) | 2:46 | 2022-05-16 |  |
 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/588wm4NEtOiTHT2N58enQ6) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Every Way That I Can](https://open.spotify.com/album/4D2meUQ9mCljoEzvjspr2T) | 2:47 | 2020-02-25 | 2022-03-01 |

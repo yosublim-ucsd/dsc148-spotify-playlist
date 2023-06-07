@@ -4059,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "lost a friend",
+        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165177,
+      "name": "lost a friend",
+      "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
+    },
+    {
+      "album": {
         "name": "Marigold",
         "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
       },
@@ -6848,7 +6866,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 205743,
       "name": "Times It By Two",
       "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"

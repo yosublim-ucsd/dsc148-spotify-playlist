@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-110 songs - 7 hr 14 min
+111 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Nothing From You](https://open.spotify.com/track/7HdQCGvlM684J38PlW9oWS) | [Jo So Hyun](https://open.spotify.com/artist/4voH4qkhBVtoXgQbGOnfTF) | [Autumn](https://open.spotify.com/album/0I25jkKufDsoIwriY8ysOq) | 2:58 | 2022-06-09 | 2022-08-19 |
 | [One way love](https://open.spotify.com/track/3ldqjHu7ozh8pfTYnKvu3O) | [Song hyo jeong](https://open.spotify.com/artist/0h6IwKI0B8KHx0JZjuhz8D) | [One way love](https://open.spotify.com/album/0cGYMay4XjGUzr3uyqEceH) | 4:03 | 2022-03-07 | 2022-08-19 |
 | [One\-Sided Love](https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:52 | 2022-03-07 |  |
-| [One\-sided love](https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [One\-sided love](https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw) | 3:10 | 2023-03-27 |  |
+| [One\-sided love](https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [One\-sided love](https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw) | 3:10 | 2023-03-27 | 2023-06-07 |
 | [One\-Sided Love \(feat\. Dizzy Blue & Flaboi\)](https://open.spotify.com/track/4FZpuDFOX2oHicwYNgGgR3) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Dizzy Blue](https://open.spotify.com/artist/0yaEp8jeamvr1BM1wuQuyt), [Flaboi](https://open.spotify.com/artist/10lBXlAJSTYkswS8X6A9nV) | [Seoul Vibes, Pt\. 10](https://open.spotify.com/album/1bJm5IDUSguYVsPX5RVBI2) | 4:22 | 2022-06-09 | 2022-08-19 |
 | [One\-Sided Love \(feat\. Mi\)](https://open.spotify.com/track/2Rm8fL4mmVXgXEdOBbqXIv) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J), [MI](https://open.spotify.com/artist/178hJrrVdvHURa3WEcjw1j) | [The Artist](https://open.spotify.com/album/5Z0Ib1mCfehayID8juMA6j) | 4:24 | 2022-03-07 | 2022-08-19 |
 | [Origami](https://open.spotify.com/track/0fGsabqtD3nFtLgrOfvBmV) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:09 | 2022-03-07 | 2023-06-06 |
@@ -87,6 +87,7 @@
 | [구애 \(求愛\) Propose](https://open.spotify.com/track/5l4dUjmoMoPaobxwjOZYPY) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 \(求愛\) Propose](https://open.spotify.com/album/0Kkbekrv59RZxdbbZ6ICyZ) | 3:33 | 2022-08-18 |  |
 | [구애 Propose](https://open.spotify.com/track/5gaFDKroNN3BRcqJbYf5Gb) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 Propose](https://open.spotify.com/album/2MRBFyAUweiBw5svhtlUVK) | 3:33 | 2022-03-07 | 2022-11-01 |
 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 | 2022-03-07 |  |
+| [그랬나봐](https://open.spotify.com/track/4bDrbZHIKab9oKdEmkO4TU) | [Kim Hyung Joong](https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5) | [Kim Hyung Joong 1](https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5) | 4:29 | 2023-05-02 |  |
 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 | 2022-03-07 | 2023-06-04 |
 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 | 2022-03-07 |  |
 | [날 버리지 마요](https://open.spotify.com/track/5NZLKa0BTaxTtIkmeK2Jjs) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [날 버리지 마요](https://open.spotify.com/album/3l25IElZW7jIlbTD7obUAr) | 4:01 | 2022-03-07 | 2022-08-19 |

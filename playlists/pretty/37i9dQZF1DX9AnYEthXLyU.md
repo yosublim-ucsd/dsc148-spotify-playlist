@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnYEthXLyU.md) - [plain]
 
 > when things just feel heavy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,606 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnYEthXLyU.md) - [plain]
 | 55 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 56 | [All That I've Got](https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:50 |
 
-Snapshot ID: `MCw0NjU4ZmUzMGNkMTY3MTlmMjE2MTQ4YTgyYmQxNDI4ZTU0ZDY1ZWZj`
+Snapshot ID: `MCxmMjEwZGY1MWYzOWUwNDY2MjliNTYxY2JjMTgyN2IwZTdlMDA4ZGIz`

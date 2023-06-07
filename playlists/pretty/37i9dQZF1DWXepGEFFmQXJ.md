@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Casey Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,446 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,627 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 30 | [Wildfires \(feat\. Ian Moss\)](https://open.spotify.com/track/1tzga9gxw04e70G72qMtd3) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM), [Ian Moss](https://open.spotify.com/artist/4RMdsc21y0aET1OCm32h1u) | [Acres](https://open.spotify.com/album/7i5lVXY0ro1Y94G6AqlS2e) | 2:59 |
 | 31 | [Summer Nights](https://open.spotify.com/track/4JirGOs4LxL71MMiZ2VCba) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Summer Nights](https://open.spotify.com/album/2CYk6UftZW4oIig98jYMI0) | 2:51 |
 | 32 | [Could've Been Her](https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 |
-| 33 | [Get to Gettin’ Gone](https://open.spotify.com/track/0Zp0Q7p94hUim8q07dXeN1) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Get to Gettin’ Gone](https://open.spotify.com/album/3b13DQUYaS5PvsM58BYv6Q) | 3:02 |
+| 33 | [Get to Gettin’ Gone](https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:02 |
 | 34 | [On My Own Again](https://open.spotify.com/track/3S75Qwx2CglNQclN4ygDsL) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [On My Own Again](https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va) | 2:58 |
 | 35 | [BOOTS 'N ALL](https://open.spotify.com/track/2PZhGCCKW2kkklYLjGK2BZ) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [BOOTS 'N ALL](https://open.spotify.com/album/3Ka59QjpyIPyRnGNXnYsZm) | 2:45 |
 | 36 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 47 | [Pretty Doesn't Make You Good](https://open.spotify.com/track/6HAMVck4qqyaEvvO35FoLi) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Pretty Doesn't Make You Good](https://open.spotify.com/album/2CCgH95QT9QgkKSU1HdZyN) | 2:53 |
 | 48 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 |
 | 49 | [Cheap Liquor](https://open.spotify.com/track/5twCxGXVBfZ6gNtGLfJhNu) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [Lightning Strikes and Neon Nights](https://open.spotify.com/album/55HTZMTZo36Yg7C3O8EamR) | 4:13 |
-| 50 | [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 |
+| 50 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |
 | 51 | [Note To Self](https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Note To Self](https://open.spotify.com/album/6KDINvcBPKMM9irLEM1nV2) | 3:13 |
 | 52 | [Acres](https://open.spotify.com/track/68Em9vuEpyi3DMxeDiCe2m) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Now She Ain't](https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM) | 3:52 |
 | 53 | [Love Like That \(feat\. The Shires\)](https://open.spotify.com/track/4iA14miA1x0Kq86zZIRZpX) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Livin' The Dream](https://open.spotify.com/album/79THFfQB6XH5C9zaSnxi3c) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 79 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
 | 80 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 |
 
-Snapshot ID: `MCw2MGM3NDBjMmJiNDRmMWI1ODIxNDY4YTJiZTU3NWRmZmQyNjc3ZmY4`
+Snapshot ID: `MCw2MjYwMzJmZjdjODFkMzQxMzg1ODA2NWU5MGEwZjc4NGMyZDgxOWE1`

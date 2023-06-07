@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-232 songs - 13 hr 48 min
+233 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-10-01 |  |
 | [Midnight Wine](https://open.spotify.com/track/0lNcAOT252WBjdJO7rFUa4) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Midnight Wine](https://open.spotify.com/album/4AviuLYZTU7Bc0bk87H4uj) | 3:18 | 2021-10-01 | 2022-07-29 |
 | [Midnight Wine](https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Year Of The Spider](https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY) | 3:18 | 2022-06-01 |  |
-| [Monterey](https://open.spotify.com/track/6eN2ntcNKxLUYNn6IE94Fq) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Monterey](https://open.spotify.com/album/4cGhWxhcpivt0JkXl0jtn0) | 3:28 | 2023-05-19 |  |
+| [Monterey](https://open.spotify.com/track/6eN2ntcNKxLUYNn6IE94Fq) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Monterey](https://open.spotify.com/album/4cGhWxhcpivt0JkXl0jtn0) | 3:28 | 2023-05-19 | 2023-06-07 |
 | [Monterey](https://open.spotify.com/track/6naEBVsSQonTSqTOsquBA9) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Monterey](https://open.spotify.com/album/2ttSZFH721F5dC6fbZznTb) | 3:28 | 2022-08-02 | 2023-04-30 |
 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 | 2021-10-01 |  |
 | [Morning Terrors Nights of Dread](https://open.spotify.com/track/419cNVI2TzuYFlXmp4BNDU) | [Shilpa Ray](https://open.spotify.com/artist/2aBdKyqYmbMAxMFCujJSqw) | [Door Girl](https://open.spotify.com/album/6DV3VOHDapKGREdDgjPrly) | 4:27 | 2021-10-01 | 2022-07-29 |
@@ -166,6 +166,7 @@
 | [Party City](https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Party City](https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo) | 4:20 | 2021-10-01 | 2022-11-13 |
 | [Persistence](https://open.spotify.com/track/4lgnsoBDruL2TzW00kI9xP) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Persistence](https://open.spotify.com/album/3qLAGo8JfSOc7nAUjO9QLW) | 2:51 | 2021-10-01 | 2022-07-28 |
 | [Pining](https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:44 | 2021-10-01 |  |
+| [Place Names](https://open.spotify.com/track/6NNCDDqsr4q1Ew2ube9Ujp) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Promenade Blue](https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT) | 3:53 | 2023-05-19 |  |
 | [Place Names](https://open.spotify.com/track/7g43lO9P1diIwalJSdAhDx) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Place Names](https://open.spotify.com/album/4IKumYQwjIA84v4Bfn029O) | 3:53 | 2021-10-01 | 2023-01-06 |
 | [Play To Win](https://open.spotify.com/track/1XQpQIs5koMdA9dDXgEFXG) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Play To Win](https://open.spotify.com/album/7xlGpYSUGaLbbthyFxiJdS) | 3:04 | 2023-02-17 | 2023-04-21 |
 | [Powder Blue](https://open.spotify.com/track/6BHdfzIwMm9WPORQ4OGnnx) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You’re Dreaming](https://open.spotify.com/album/2u82YoTVFqN1Z7uIbqVCfr) | 2:23 | 2021-10-01 | 2022-07-29 |

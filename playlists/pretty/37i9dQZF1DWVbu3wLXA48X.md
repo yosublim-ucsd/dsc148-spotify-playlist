@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover:  grentperez
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,851 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,870 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Kenneth](https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Kenneth](https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4) | 3:49 |
 | 75 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 |
 
-Snapshot ID: `MCxiMjNiYmI0NWViNzk2OWM3M2FlY2ViNWYwNTYyM2E5ZWMyYWU0MTA5`
+Snapshot ID: `MCw1NjcyNTYzYWUyMDY0NmRhYTU1MDE2NGIzNzRhOWNlMDlhZDA0Nzkw`

@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-222 songs - 11 hr 54 min
+223 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 | 2022-05-20 |  |
 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-05-20 |  |
 | [Mañana](https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr) | [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO), [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Mañana](https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL) | 2:52 | 2022-05-20 |  |
-| [Me Quiere No Me Quiere](https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [La Española](https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64) | 2:50 | 2022-05-20 |  |
+| [Me Quiere No Me Quiere](https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [La Española](https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64) | 2:50 | 2022-05-20 | 2023-06-07 |
 | [Me Rehúso](https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Me Rehúso](https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR) | 4:21 | 2022-05-20 | 2022-10-28 |
 | [Mezcal](https://open.spotify.com/track/3rE8pSJmYtHZ40bnBfZo74) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Mezcal](https://open.spotify.com/album/6ymXnSBGYi75LhL4fn1eWY) | 2:53 | 2022-05-20 | 2022-10-28 |
 | [Mi Condena](https://open.spotify.com/track/0UGxC1uqeDHBmAU4Pvd8xi) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Mi Condena](https://open.spotify.com/album/34qk2J2dzqK6tgTxBZktuR) | 2:52 | 2022-07-11 |  |
@@ -166,6 +166,7 @@
 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2022-05-20 | 2022-10-14 |
 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 | 2022-09-06 | 2022-10-28 |
 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 | 2022-05-20 |  |
+| [Perderme](https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Despídeme De Todxs](https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl) | 3:20 | 2023-05-12 |  |
 | [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 | 2022-05-20 | 2022-10-20 |
 | [Perdida](https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR) | 3:00 | 2022-09-06 | 2022-10-28 |
 | [Phone Sex](https://open.spotify.com/track/0SbwmVySMhXR47pGy9F5BA) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Phone Sex](https://open.spotify.com/album/7uPEOCp4fZcA83suKA39b3) | 3:13 | 2022-05-20 | 2023-01-07 |

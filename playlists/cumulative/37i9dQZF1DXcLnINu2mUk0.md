@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-321 songs - 17 hr 34 min
+322 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Chance](https://open.spotify.com/track/1AClteNHhuIF4uGgPCHKhA) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi), [Juh](https://open.spotify.com/artist/5eviHRz2iMhA8NSTP176u8) | [Chance](https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9) | 3:16 | 2023-01-06 | 2023-02-17 |
 | [Chega P'ra Lá](https://open.spotify.com/track/7h9zNCAa8KLld9mHamzeGG) | [Hugo Casaca](https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1) | [Chega P'ra Lá](https://open.spotify.com/album/4efLnTaK16TYzuCJv4BHA2) | 2:38 | 2022-08-11 | 2022-09-09 |
 | [Chilla Chilla](https://open.spotify.com/track/3Ujr8v4IABZpysC8WBhuPu) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF) | [Chilla Chilla](https://open.spotify.com/album/3Cn1Go38UQg7fIpzzC0GeW) | 2:38 | 2022-09-29 | 2022-10-28 |
-| [Chopper](https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [Ansiedade](https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV) | 3:45 | 2023-04-27 |  |
+| [Chopper](https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [Ansiedade](https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV) | 3:45 | 2023-04-27 | 2023-06-07 |
 | [Colina](https://open.spotify.com/track/6A3miATI6lLCFORxUDTRJp) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Colina](https://open.spotify.com/album/4ivAzZJlYOkXaARdzi3bdx) | 3:45 | 2022-08-18 | 2022-09-02 |
 | [Como Tu](https://open.spotify.com/track/2gqAMjrQUZxdYzCBhp9X86) | [Deli KC](https://open.spotify.com/artist/4KXgWpeZGnRJJD8yoRQYFz), [BND AJ](https://open.spotify.com/artist/5Ddq6MWmIENLxdwu5v4cvy) | [Como Tu](https://open.spotify.com/album/03Lr0zZfF1ZtWjdgRykjbl) | 3:42 | 2022-07-07 | 2022-07-28 |
 | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/album/5iySTzq8nLllHzdYOFM59p) | 3:27 | 2022-09-08 |  |
@@ -103,6 +103,7 @@
 | [DRIP](https://open.spotify.com/track/61GFnSZxDj81InwQ557bHn) | [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U) | [DRIP](https://open.spotify.com/album/78vNTZsf7x1Un1jt6RGN1B) | 3:08 | 2022-10-06 | 2022-10-28 |
 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 | 2022-09-01 | 2022-09-30 |
 | [Eclipse](https://open.spotify.com/track/0tlyCwXSCXP5fsGM4OrHzl) | [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [Ellanor](https://open.spotify.com/artist/5Wd28v3076RfH5BQilhVE6), [L\-Ali](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Eclipse](https://open.spotify.com/album/5EZ4pHbodGf7j12OqeMQBi) | 3:11 | 2023-03-17 | 2023-04-14 |
+| [Egoísta](https://open.spotify.com/track/0Vp42FK6x0ydHLT7T9OHyS) | [Pipa](https://open.spotify.com/artist/03zNTLE7XHchSSzU4gOYDN) | [Egoísta](https://open.spotify.com/album/6nwjnNxf2eMJ9WX1uloWqw) | 3:51 | 2023-06-01 |  |
 | [Ela Me Xita](https://open.spotify.com/track/6ywCZJUitftSMmnOtASFvf) | [Celso Baía](https://open.spotify.com/artist/0qbwa4N5og0uYMtK3ePiMq), [Bruno Soares](https://open.spotify.com/artist/2WStXxWyKuZ9FJpTtCZYYX) | [Ela Me Xita](https://open.spotify.com/album/17zA6qrmj5RH5Ub4NRxcsV) | 4:11 | 2022-07-07 | 2022-08-05 |
 | [Enganada](https://open.spotify.com/track/4syj8Nofc0O0BJ1EtOKCaT) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Enganada](https://open.spotify.com/album/2S3QLFmlbKPgooo0wialtq) | 2:52 | 2022-07-07 | 2022-07-21 |
 | [Entorpecente](https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg) | [Manaux](https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr) | [Entorpecente](https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC) | 2:38 | 2023-04-13 | 2023-05-12 |

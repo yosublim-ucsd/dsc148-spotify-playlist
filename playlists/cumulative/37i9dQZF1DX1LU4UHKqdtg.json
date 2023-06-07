@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: TWICE",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: Stray Kids",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -460,7 +460,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 201733,
       "name": "AMAZON - Japanese ver.",
       "url": "https://open.spotify.com/track/1IGILagGIHTdb2lh62Bhol"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 205120,
       "name": "Beatbox - English Version",
       "url": "https://open.spotify.com/track/6q7sF4ctWUSf76T6VJ6Bu9"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 244013,
       "name": "BIRD - THE BEST Ver.",
       "url": "https://open.spotify.com/track/1r3pEtxuKLrkVt8tPXQX4K"
@@ -3263,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "Fever (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/0Ru12259T9908DDNS53r3v"
+      },
+      "artists": [
+        {
+          "name": "MAX CHANGMIN",
+          "url": "https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246847,
+      "name": "Fever - Japanese Ver.",
+      "url": "https://open.spotify.com/track/6PpA3fw13IBLSsNiOHw3RO"
+    },
+    {
+      "album": {
         "name": "Fiction",
         "url": "https://open.spotify.com/album/1mKLTIVvtUpS1WMjuEGc56"
       },
@@ -3574,7 +3592,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 211480,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a"
@@ -3596,6 +3614,24 @@
       "duration_ms": 188013,
       "name": "FRIEND THE END",
       "url": "https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb"
+    },
+    {
+      "album": {
+        "name": "Off the record",
+        "url": "https://open.spotify.com/album/643Nk6PgeQs2Tzp9YgxzVm"
+      },
+      "artists": [
+        {
+          "name": "WOOYOUNG",
+          "url": "https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "From here",
+      "url": "https://open.spotify.com/track/7AlohrhCwefYKYKZSlUl3b"
     },
     {
       "album": {
@@ -5345,6 +5381,28 @@
     },
     {
       "album": {
+        "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
+        "url": "https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
+      "url": "https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE"
+    },
+    {
+      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT"
       },
@@ -5594,10 +5652,28 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 188718,
       "name": "Love Me Like This",
       "url": "https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO"
+    },
+    {
+      "album": {
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188718,
+      "name": "Love Me Like This",
+      "url": "https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m"
     },
     {
       "album": {
@@ -6522,7 +6598,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 212106,
       "name": "Off the record",
       "url": "https://open.spotify.com/track/47lTvvI1PR0H8bktWpwtcX"
@@ -8478,7 +8554,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 147680,
       "name": "Sour & Sweet",
       "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
@@ -8550,7 +8626,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 232813,
       "name": "Stamp On It",
       "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
@@ -9246,6 +9322,24 @@
       "duration_ms": 199160,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds"
+    },
+    {
+      "album": {
+        "name": "Thank U (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/7LLeJdVYhKq0vFzZlCRkhQ"
+      },
+      "artists": [
+        {
+          "name": "U-KNOW",
+          "url": "https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192016,
+      "name": "Thank U - Japanese Ver.",
+      "url": "https://open.spotify.com/track/03MjQhL91RIvjo83uyNoIx"
     },
     {
       "album": {

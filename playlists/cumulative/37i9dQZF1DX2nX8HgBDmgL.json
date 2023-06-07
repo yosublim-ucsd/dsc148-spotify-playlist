@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "STAY DOWN",
+        "url": "https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx"
+      },
+      "artists": [
+        {
+          "name": "ZZ",
+          "url": "https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188059,
+      "name": "STAY DOWN",
+      "url": "https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe"
+    },
+    {
+      "album": {
         "name": "Summer Luv",
         "url": "https://open.spotify.com/album/2weXKmabg9k3ejyWBxaNWb"
       },

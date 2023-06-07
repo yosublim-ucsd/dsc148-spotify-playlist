@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2315338,
+  "num_followers": 2315277,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWI0YmZhN2ViNzg0MTI1NjVjN2RhYmM2ODFlY2JmYzgxMjA4MjNm",
+  "snapshot_id": "MCw0MTIwZGVhZWFjYmNiYWVkYmZiMDE3ODNiYTA1NGFlODBjNzdjNWEx",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "You And I (Moon And Stars / Acoustic)",
-        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "You And I - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Without/Within",
         "url": "https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+        "name": "You And I (Moon And Stars / Acoustic)",
+        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
+      "duration_ms": 200000,
+      "name": "You And I - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -655,6 +639,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 192813,
-      "name": "To Live a Life",
-      "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "A Book Like This",
         "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 225666,
       "name": "Mango Tree",
       "url": "https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 192813,
+      "name": "To Live a Life",
+      "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -992,17 +992,17 @@
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 307172,
-      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1024,17 +1024,17 @@
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
+      "duration_ms": 307172,
+      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1439,18 +1439,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+        "name": "Seed of Joy",
+        "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        },
+        {
+          "name": "Brian Fallon",
+          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
         }
       ],
-      "duration_ms": 195850,
-      "name": "Real Peach - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
+      "duration_ms": 210546,
+      "name": "Seed of Joy",
+      "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1471,22 +1475,34 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Seed of Joy",
-        "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
       "artists": [
         {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        },
-        {
-          "name": "Brian Fallon",
-          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 210546,
-      "name": "Seed of Joy",
-      "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
+      "duration_ms": 195850,
+      "name": "Real Peach - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Wildewoman",
+        "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 275628,
+      "name": "Two of Us On the Run",
+      "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Wildewoman",
-        "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 275628,
-      "name": "Two of Us On the Run",
-      "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Melatonin (Unplugged)",
         "url": "https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Higher Places",
-        "url": "https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 210206,
-      "name": "The Only Thing I Fear",
-      "url": "https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 212634,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Higher Places",
+        "url": "https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 210206,
+      "name": "The Only Thing I Fear",
+      "url": "https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK"
     }
   ],
   "unique_name": "Afternoon Acoustic",

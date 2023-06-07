@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
@@ -1246,6 +1246,42 @@
       "duration_ms": 197834,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/7DQj340vCma4F7M6VVX3BE"
+    },
+    {
+      "album": {
+        "name": "O\u017dKA",
+        "url": "https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5"
+      },
+      "artists": [
+        {
+          "name": "dj nevykele",
+          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "atsibosti",
+      "url": "https://open.spotify.com/track/1VzLoLd35IYEpSOtfar4ic"
+    },
+    {
+      "album": {
+        "name": "O\u017dKA",
+        "url": "https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5"
+      },
+      "artists": [
+        {
+          "name": "dj nevykele",
+          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "audi bmw",
+      "url": "https://open.spotify.com/track/0sYo81J4jDU343oIeoIeKJ"
     },
     {
       "album": {
@@ -2320,7 +2356,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 131013,
       "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -2838,7 +2874,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -3685,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "O\u017dKA",
+        "url": "https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5"
+      },
+      "artists": [
+        {
+          "name": "dj nevykele",
+          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "dalykai",
+      "url": "https://open.spotify.com/track/3HnS6CKRFacVnV76O0xZS7"
+    },
+    {
+      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -4342,6 +4396,24 @@
       "duration_ms": 228837,
       "name": "Divided",
       "url": "https://open.spotify.com/track/1BcR6Hi28MIxGqeT3W71Cz"
+    },
+    {
+      "album": {
+        "name": "O\u017dKA",
+        "url": "https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5"
+      },
+      "artists": [
+        {
+          "name": "dj nevykele",
+          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122666,
+      "name": "dj susiv\u0117lus",
+      "url": "https://open.spotify.com/track/6zk9RiqbRAPEm0Hx7pKScV"
     },
     {
       "album": {
@@ -6904,7 +6976,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 102556,
       "name": "GOOD LOYAL THOTS",
       "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
@@ -8040,7 +8112,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -8058,7 +8130,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -8933,6 +9005,24 @@
     },
     {
       "album": {
+        "name": "O\u017dKA",
+        "url": "https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5"
+      },
+      "artists": [
+        {
+          "name": "dj nevykele",
+          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "ir ok",
+      "url": "https://open.spotify.com/track/5OKwc3ztOQYYRVNW8Shetb"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -9450,7 +9540,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 155583,
       "name": "kalb\u0117sim\u0117s/myl\u0117sim\u0117s",
       "url": "https://open.spotify.com/track/3LkoKG9B53GpTtGBGjF5eH"
@@ -9774,7 +9864,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 180983,
       "name": "Ko Tau Reikia",
       "url": "https://open.spotify.com/track/5SVo1JpFTKbTbnDXeJoL6p"
@@ -10845,6 +10935,24 @@
     },
     {
       "album": {
+        "name": "O\u017dKA",
+        "url": "https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5"
+      },
+      "artists": [
+        {
+          "name": "dj nevykele",
+          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "limuzinas",
+      "url": "https://open.spotify.com/track/7AoMcuwJqKzEVS0itrej52"
+    },
+    {
+      "album": {
         "name": "NAUTO",
         "url": "https://open.spotify.com/album/1XXP7AmLVPFsriIOegQYUf"
       },
@@ -11435,6 +11543,24 @@
     },
     {
       "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "album": {
         "name": "Zanaka",
         "url": "https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb"
       },
@@ -11446,7 +11572,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 249533,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
@@ -11500,7 +11626,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 146588,
       "name": "Man Moji",
       "url": "https://open.spotify.com/track/4QHRKu6scoEilEvLnHYOnz"
@@ -14463,6 +14589,24 @@
     },
     {
       "album": {
+        "name": "O\u017dKA",
+        "url": "https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5"
+      },
+      "artists": [
+        {
+          "name": "dj nevykele",
+          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "o\u017eka",
+      "url": "https://open.spotify.com/track/2AGJfXPy6kQk3ArWAyKo2P"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -14746,7 +14890,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 141900,
       "name": "Pasaka",
       "url": "https://open.spotify.com/track/7CA64sreJrxXDrbkIMi8ge"
@@ -16844,7 +16988,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 195688,
       "name": "S-Class",
       "url": "https://open.spotify.com/track/6LuvVxHXQDtsPxtE07Ycbe"
@@ -17771,6 +17915,24 @@
     },
     {
       "album": {
+        "name": "O\u017dKA",
+        "url": "https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5"
+      },
+      "artists": [
+        {
+          "name": "dj nevykele",
+          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "sidabrin\u0117 \u017eiurk\u0117",
+      "url": "https://open.spotify.com/track/2PsZp4QKddxWH68EuOxhxI"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -18360,7 +18522,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 272440,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F"
@@ -18552,6 +18714,24 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "album": {
+        "name": "O\u017dKA",
+        "url": "https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5"
+      },
+      "artists": [
+        {
+          "name": "dj nevykele",
+          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "sr xoxo",
+      "url": "https://open.spotify.com/track/3vJFK0BEoiTCF6AuAabrBi"
     },
     {
       "album": {
@@ -19150,7 +19330,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -20300,6 +20480,24 @@
       "duration_ms": 252000,
       "name": "Tinginio Vasara",
       "url": "https://open.spotify.com/track/26yALtu5YpdHQWiyb5s7Q7"
+    },
+    {
+      "album": {
+        "name": "O\u017dKA",
+        "url": "https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5"
+      },
+      "artists": [
+        {
+          "name": "dj nevykele",
+          "url": "https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "tipo romantika",
+      "url": "https://open.spotify.com/track/4S6S3BlEr98scOD82cTePR"
     },
     {
       "album": {
@@ -22922,7 +23120,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 184421,
       "name": "\u017diburiai",
       "url": "https://open.spotify.com/track/36gyBvEg25CLp96TixmzcS"

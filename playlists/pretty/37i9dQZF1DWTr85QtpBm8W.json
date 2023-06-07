@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 8022,
+  "num_followers": 8092,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDk0YTU0M2ZlODBiOGViOWNmYTVlM2VmMTJlYTIyMGQ0NzhjMmVi",
+  "snapshot_id": "MCxjOTRiM2Q0MjYxNWZhZDNmMTI1NTJmMjBiNDE1ZTNkNzk5ODRmNTdl",
   "tracks": [
     {
       "added_at": "2023-05-22 15:11:18",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 311560,
-      "name": "Pop 1",
-      "url": "https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "Riceboy Sleeps",
         "url": "https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 560653,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 311560,
+      "name": "Pop 1",
+      "url": "https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
-      },
-      "artists": [
-        {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Sheets Two",
-      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "Opalescent",
         "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 131400,
       "name": "Opalescent",
       "url": "https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Sheets Two",
+      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Geisterfaust",
-        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 486506,
-      "name": "Daumen",
-      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "Yesterday Was Dramatic \u2013 Today Is OK",
         "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 391466,
       "name": "There Is A Number Of Small Things",
       "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Geisterfaust",
+        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 486506,
+      "name": "Daumen",
+      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "Betrayed in the Octagon",
         "url": "https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 524468,
       "name": "Woe Is the Transgression I",
       "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     },
     {
       "added_at": "2023-05-22 15:11:18",

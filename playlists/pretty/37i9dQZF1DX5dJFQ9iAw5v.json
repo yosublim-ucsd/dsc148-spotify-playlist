@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 30365,
+  "num_followers": 30367,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYThjMDQwMTNhOGQ4YjA2ZDdiYjdlNjU0OTg0YTRlMmM3ZTY1YWJj",
+  "snapshot_id": "MCwxNDUyNGJiYTRiZmJmMjc0NjE2MTFkN2NlOWE5NzFlY2NiMTUyZTc0",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 104195,
+      "name": "Brilliant Corners",
+      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5"
       },
@@ -359,18 +375,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
       },
       "artists": [
         {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
         }
       ],
-      "duration_ms": 104195,
-      "name": "Brilliant Corners",
-      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
+      "duration_ms": 220532,
+      "name": "Lago de Forma Mia",
+      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -391,22 +407,6 @@
       "duration_ms": 301893,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        }
-      ],
-      "duration_ms": 220532,
-      "name": "Lago de Forma Mia",
-      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "San Juan Live Sessions",
-        "url": "https://open.spotify.com/album/1ubJr6ptIPjunkPCrPIoJx"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 145601,
-      "name": "Summertime - San Juan Live Sessions",
-      "url": "https://open.spotify.com/track/4XlEKFkjAggPIEwQWEtVMz"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Acto 2",
         "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 353220,
       "name": "Mi Elemento",
       "url": "https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "San Juan Live Sessions",
+        "url": "https://open.spotify.com/album/1ubJr6ptIPjunkPCrPIoJx"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 145601,
+      "name": "Summertime - San Juan Live Sessions",
+      "url": "https://open.spotify.com/track/4XlEKFkjAggPIEwQWEtVMz"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
+      },
+      "artists": [
+        {
+          "name": "Walter Malosetti",
+          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "De Este Lado",
         "url": "https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
-      },
-      "artists": [
-        {
-          "name": "Walter Malosetti",
-          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Piazzolla Plays Piazzolla",
         "url": "https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 382989,
       "name": "Lunfardo",
       "url": "https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Jazz Argentino",
-        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
-      },
-      "artists": [
-        {
-          "name": "Baby L\u00f3pez Furst",
-          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
-        }
-      ],
-      "duration_ms": 303186,
-      "name": "Una Abeja Durmiente",
-      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -731,6 +715,22 @@
       "duration_ms": 291561,
       "name": "Bill's Groove",
       "url": "https://open.spotify.com/track/5O13Aw8p4di1ZF3s3RggDV"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Jazz Argentino",
+        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
+      },
+      "artists": [
+        {
+          "name": "Baby L\u00f3pez Furst",
+          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
+        }
+      ],
+      "duration_ms": 303186,
+      "name": "Una Abeja Durmiente",
+      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
-        }
-      ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "El Reino del Rev\u00e9s",
         "url": "https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 216099,
       "name": "El Reino del Rev\u00e9s",
       "url": "https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+        }
+      ],
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
+        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
+      },
+      "artists": [
+        {
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+        }
+      ],
+      "duration_ms": 286109,
+      "name": "Full House - Live",
+      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Studio 2",
         "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
-        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
       },
       "artists": [
         {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
         }
       ],
-      "duration_ms": 286109,
-      "name": "Full House - Live",
-      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
+      "duration_ms": 361280,
+      "name": "Viva Jujuy",
+      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 524134,
       "name": "Wave",
       "url": "https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
-      },
-      "artists": [
-        {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
-        }
-      ],
-      "duration_ms": 361280,
-      "name": "Viva Jujuy",
-      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Mensajes Secretos",
-        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
-      },
-      "artists": [
-        {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
-        }
-      ],
-      "duration_ms": 364056,
-      "name": "Desde El Corazon",
-      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "En Las Afueras",
         "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Mensajes Secretos",
+        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
+      },
+      "artists": [
+        {
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
+        }
+      ],
+      "duration_ms": 364056,
+      "name": "Desde El Corazon",
+      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "El Ombligo de un Sue\u00f1o",
         "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
       },
@@ -1235,6 +1235,38 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Inocencia Repetida",
+        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Montoya Carlotto",
+          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Coplas de Luna Quieta",
+      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "El Sapo Argentino de Boca Ancha",
+        "url": "https://open.spotify.com/album/5IKVW5aNCv3eyoBUM0qENX"
+      },
+      "artists": [
+        {
+          "name": "Esteban Sehinkman",
+          "url": "https://open.spotify.com/artist/55CHAcVJ8aB6sOY4TbWDJ6"
+        }
+      ],
+      "duration_ms": 419426,
+      "name": "Tatami",
+      "url": "https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Afropuertas",
         "url": "https://open.spotify.com/album/5tb3c9O1yhD6wMzacCPwDp"
       },
@@ -1267,38 +1299,6 @@
       "duration_ms": 362066,
       "name": "Do\u00f1a Cha Cha",
       "url": "https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Inocencia Repetida",
-        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Montoya Carlotto",
-          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Coplas de Luna Quieta",
-      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "El Sapo Argentino de Boca Ancha",
-        "url": "https://open.spotify.com/album/5IKVW5aNCv3eyoBUM0qENX"
-      },
-      "artists": [
-        {
-          "name": "Esteban Sehinkman",
-          "url": "https://open.spotify.com/artist/55CHAcVJ8aB6sOY4TbWDJ6"
-        }
-      ],
-      "duration_ms": 419426,
-      "name": "Tatami",
-      "url": "https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ"
     },
     {
       "added_at": "2023-05-05 03:00:00",

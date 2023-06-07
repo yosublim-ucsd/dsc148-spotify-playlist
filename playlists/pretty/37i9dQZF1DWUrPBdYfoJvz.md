@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,124 likes - 128 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,244 likes - 128 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 101 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |
 | 102 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 |
 | 103 | [Late October \- 2005 Digital Remaster](https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:44 |
-| 104 | [4:14](https://open.spotify.com/track/5snT0KvkN7Ty0oiVyxZMfE) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 4:15 |
+| 104 | [4:14](https://open.spotify.com/track/1NBVSiaJ750DBKnd4lhKWk) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 4:14 |
 | 105 | [Submersible](https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA) | 3:50 |
 | 106 | [Harmony in Blue III](https://open.spotify.com/track/7h1Vds2ETEav7wNP0xtSDg) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Harmony in Ultraviolet](https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT) | 2:41 |
 | 107 | [Wisdom Eye](https://open.spotify.com/track/0XLH43dcYq2pOe7COx8gPT) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Eternity](https://open.spotify.com/album/4mv5aLE0vrWGPzLYfEsUxw) | 3:10 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 127 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 128 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MCw2YWQ2YmY4YTc0YWNkNWQ3MTdkNjQ2NzcyMTEzNTM5N2YwY2M3Y2Zm`
+Snapshot ID: `MCw0MmRiMDAyZTQzZDcxNDViNTIzZjRiMWU4YmU1N2EyODA2MWZiZWE3`

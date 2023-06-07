@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Willie Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,213 likes - 104 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,229 likes - 104 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 103 | [Good Love](https://open.spotify.com/track/7sMoGNd6xOM7CD1WdFRWBQ) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Good Love](https://open.spotify.com/album/3lpdLJbh71M7f7YezuOEww) | 2:59 |
 | 104 | [Small Town](https://open.spotify.com/track/2AQNauizjgSmFeUIdtlNqS) | [Warrick McZeke](https://open.spotify.com/artist/49r2zkItXkIJc5tDfnVCIi) | [Small Town](https://open.spotify.com/album/7ESdUin17RB1cW22mGntRb) | 3:42 |
 
-Snapshot ID: `MCxlYWIzZmYwOTMzZTE1NWRlZWJlNzljODM2NmRjMmZjNDBhMGE4ODdm`
+Snapshot ID: `MCwzNzdlZTdlMzliZWNiYzIwZjk5NDk0MjdlOTYzZjdmOTJmNWI3ZWQy`

@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Odd Mob
 
-1,095 songs - 2 day 16 hr 0 min
+1,096 songs - 2 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -822,6 +822,7 @@
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-03-25 | 2022-08-20 |
 | [Sete \- Carlita Remix](https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:42 | 2022-09-09 | 2022-10-22 |
 | [Seven Wonders](https://open.spotify.com/track/4mjW3MW0gMHcyUKxYWYUQ0) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Seven Wonders](https://open.spotify.com/album/0CJgNs1mX0oKIqfXDBir6L) | 5:55 | 2022-12-28 | 2023-01-06 |
+| [Sex Drugs Cash](https://open.spotify.com/track/52O7aS1nro497WlKJNmYWM) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Sex Drugs Cash](https://open.spotify.com/album/0B3y4tnhhXxZD9WbLhczDl) | 2:43 | 2023-06-02 |  |
 | [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 | 2022-01-14 | 2022-03-12 |
 | [Sexy Velocity](https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Sexy Velocity](https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr) | 3:32 | 2023-02-24 | 2023-04-09 |
 | [Shake](https://open.spotify.com/track/5xSkFVN2VATZzjcvAeSaSO) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Shake](https://open.spotify.com/album/3Cbdi0BQD0TfC1tB5BJRS2) | 3:45 | 2022-04-08 | 2022-06-18 |
@@ -989,7 +990,7 @@
 | [To Be Real](https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [To Be Real](https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK) | 3:23 | 2023-05-26 |  |
 | [Together \- Guz Remix](https://open.spotify.com/track/2iED6ssy3UrPEby9DIQZaF) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Together \(Guz Remix\)](https://open.spotify.com/album/5S8xlz1rr1X9SzJ5DyKZpb) | 2:37 | 2021-11-26 | 2022-01-06 |
 | [Told You So](https://open.spotify.com/track/4vMK3kl5dvXRl5vb7EVWUV) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Told You So](https://open.spotify.com/album/38dyMOKtbPQWFahzoOHfLc) | 2:49 | 2023-03-24 |  |
-| [Tomalo](https://open.spotify.com/track/5D8dzgsXWhlPXt4p0IxwTS) | [Nausica](https://open.spotify.com/artist/7HXV8ycB1JbrppM8SUI5N9) | [Tomalo](https://open.spotify.com/album/2TZXcJ009sCoPFdPjV4PBK) | 3:24 | 2023-03-17 |  |
+| [Tomalo](https://open.spotify.com/track/5D8dzgsXWhlPXt4p0IxwTS) | [Nausica](https://open.spotify.com/artist/7HXV8ycB1JbrppM8SUI5N9) | [Tomalo](https://open.spotify.com/album/2TZXcJ009sCoPFdPjV4PBK) | 3:24 | 2023-03-17 | 2023-06-07 |
 | [Tomorrows \- Kyle Watson Remix](https://open.spotify.com/track/5p9yBGSaYVnJnb6zI9kNEv) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Tomorrows \(Kyle Watson Remix\)](https://open.spotify.com/album/6JhA3zD1fN9PwskPcsOJBm) | 3:39 | 2022-12-09 | 2022-12-29 |
 | [Too Close \(feat\. Mac Russo\)](https://open.spotify.com/track/4MatIhnm2hXVJhHnSLzzJc) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA), [Sonny Noto](https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b), [Mac Russo](https://open.spotify.com/artist/5X6gvbbSZ4jVJDLUQLQN9J) | [Too Close \(feat\. Mac Russo\)](https://open.spotify.com/album/1kpud0qKz2k5GEOe0LcJZK) | 2:40 | 2023-02-03 | 2023-04-01 |
 | [Tooka Took](https://open.spotify.com/track/4hDZeZoePIY3y0TPboLZGV) | [Hank K](https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW) | [Tooka Took](https://open.spotify.com/album/3mRtyiU58ph2NrrDFndGX6) | 2:35 | 2023-03-03 | 2023-05-10 |

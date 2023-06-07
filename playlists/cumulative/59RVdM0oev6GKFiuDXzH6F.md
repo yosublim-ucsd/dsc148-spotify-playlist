@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-217 songs - 10 hr 28 min
+218 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Penguin Hit Squad \- Claude VonStroke Remix](https://open.spotify.com/track/6OfgBGFF8L8SRfUjP1CIG7) | [Mike Kerrigan](https://open.spotify.com/artist/6SptiYBeyJucEFIJfH8dIE), [n808](https://open.spotify.com/artist/4pzJW4dAwRMnyDdJXQhOFf), [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Penguin Hit Squad \(Claude VonStroke Remix\)](https://open.spotify.com/album/3ejzxC21LTjfX8Gu1WvUzD) | 5:54 | 2023-04-14 | 2023-05-02 |
 | [Pills](https://open.spotify.com/track/5arYn3Yofxkw0CCM3XkiCE) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Pills](https://open.spotify.com/album/7mWEltJZJ16efLQawS02y0) | 3:17 | 2023-05-11 |  |
 | [Playa](https://open.spotify.com/track/3D0VEmqcbT95B22ojdjkU1) | [RAFI](https://open.spotify.com/artist/1lHKz7UclrOxsquASlnNRs) | [Playa](https://open.spotify.com/album/5Ys8n1I5tFS0uvFAlaRna0) | 3:06 | 2023-02-17 | 2023-04-13 |
+| [Pop Pills](https://open.spotify.com/track/1BjgDV9IFM5W320YlhNXlK) | [KLYMVX](https://open.spotify.com/artist/68PsxdwOmePEmaNZJgKBU3), [Luke Miller](https://open.spotify.com/artist/3wr4TiFX6aXHWDrsXbwMQD), [Jey Aux Platines](https://open.spotify.com/artist/5AMw3TbaNH7fLqCF9WG23c) | [Pop Pills](https://open.spotify.com/album/3ypN0Pai7OCQpFAsYdcAF3) | 2:58 | 2023-06-06 |  |
 | [Praise Me \(feat\. Stefi Novo\) \[Andrew Mathers Remix\]](https://open.spotify.com/track/2JuyIzF2w2rZcwJa0pcO6G) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Stefi Novo](https://open.spotify.com/artist/3key79uXViuXxdyOgRfoTo), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Praise Me \(feat\. Stefi Novo\) \[Andrew Mathers Remix\]](https://open.spotify.com/album/3FUywAIGufavK8LqT5SitE) | 2:50 | 2023-05-18 |  |
 | [Pretending](https://open.spotify.com/track/7JPG3ljp5px1ocLYO4EmNr) | [DEBO](https://open.spotify.com/artist/3EznjIn5ZWWsgVtljYDd7Y) | [Pretending](https://open.spotify.com/album/4VOnowpY0wQgluSSeJa706) | 2:05 | 2023-04-12 | 2023-05-02 |
 | [Problems](https://open.spotify.com/track/6gKKGDO4JlrJDf9EYzBk7J) | [ODJO](https://open.spotify.com/artist/0PTMBIPah6TbcefoTsEkUn) | [Problems](https://open.spotify.com/album/5QtbFLSTAwiBSd9WJS1pTm) | 2:52 | 2023-02-12 | 2023-03-25 |

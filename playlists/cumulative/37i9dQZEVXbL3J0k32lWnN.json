@@ -4996,7 +4996,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 163533,
       "name": "DR\u00d8M MIG V\u00c6K",
       "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
@@ -8951,6 +8951,24 @@
     },
     {
       "album": {
+        "name": "A Beautiful Life (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177641,
+      "name": "Honey, I\u2019m So High (From the Netflix Film \u2018A Beautiful Life\u2019)",
+      "url": "https://open.spotify.com/track/0Uu97LePX45iEAVb6YKfBm"
+    },
+    {
+      "album": {
         "name": "HONEYMOON",
         "url": "https://open.spotify.com/album/5Dgf2urRgPtWByAz7hILGA"
       },
@@ -10754,7 +10772,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 156106,
       "name": "Jeg ka li hvordan du g\u00f8r det. (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/60ladPBYAyWDWLe7KPhYJq"
@@ -12110,6 +12128,24 @@
       "duration_ms": 223866,
       "name": "Leave Your Life",
       "url": "https://open.spotify.com/track/0YbI9lWxUBsCJLb6EBydkr"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Life (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "Led Me To You (From the Netflix Film \u2018A Beautiful Life\u2019)",
+      "url": "https://open.spotify.com/track/0gyU9InhpKAg39XxTkO6qZ"
     },
     {
       "album": {
@@ -14348,7 +14384,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 179783,
       "name": "Mucki Bar",
       "url": "https://open.spotify.com/track/4XhW9iOypxiiNyIMpirPFv"
@@ -20268,6 +20304,28 @@
       "duration_ms": 158957,
       "name": "Tro P\u00e5 K\u00e6rlighed",
       "url": "https://open.spotify.com/track/6UMdjOGgEJE1khAnrGJk2k"
+    },
+    {
+      "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "Trojan Horse",
+      "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
     },
     {
       "album": {

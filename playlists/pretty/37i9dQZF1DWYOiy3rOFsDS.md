@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Luis Miguel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,316 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,392 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 90 | [Amar Y Vivir \- En Vivo](https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Amar Y Vivir \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey) | 3:02 |
 | 91 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Solo Boleros](https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD) | 2:58 |
 | 92 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
-| 93 | [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Keep´n Love](https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc) | 3:17 |
-| 94 | [Muñequita Linda](https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [AMA](https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd) | 3:01 |
+| 93 | [Muñequita Linda](https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [AMA](https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd) | 3:01 |
+| 94 | [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Keep´n Love](https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc) | 3:17 |
 | 95 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
 | 96 | [Volver a Ti](https://open.spotify.com/track/68yyY1AqaMfKuGSRTCNrUN) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Volver a Ti](https://open.spotify.com/album/0HsazH0VuWelGUY4BNhj0b) | 3:56 |
 | 97 | [Una Mañana](https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM) | [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Una Mañana](https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 |
 | 100 | [Perfidia](https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:08 |
 
-Snapshot ID: `MCwxMGExNjA3ZDQ2MWFiZWU5ZjU4OTA1OTQ1M2IxMWI3M2I5YThiYThj`
+Snapshot ID: `MCwwMGEyNTliMzdkMmQ5MzU0N2QzNWYyOWQ5Nzk5NDJlZTAwMzNjMDg4`

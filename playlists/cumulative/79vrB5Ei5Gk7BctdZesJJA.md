@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/79vrB5Ei5Gk7BctdZesJJA.md) - cumulative - [plain](/playlists/plain/79vrB5Ei5Gk7BctdZesJJA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/79vrB5Ei5Gk7BctdZesJJA)
 
-### [Roadrunner Records: Slaylist](https://open.spotify.com/playlist/79vrB5Ei5Gk7BctdZesJJA)
+### [Roadrunner Records Official Playlist](https://open.spotify.com/playlist/79vrB5Ei5Gk7BctdZesJJA)
 
 > 
 
-49 songs - 3 hr 15 min
+54 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,10 @@
 | [Big Bite](https://open.spotify.com/track/16ThVjXmR8yTDihJ5g70r4) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Big Bite](https://open.spotify.com/album/0TCf57rej2wShcUzX91XOK) | 2:21 | 2022-01-07 | 2023-03-07 |
 | [Black Cloud](https://open.spotify.com/track/1WOpN2e3zJgAHIGsJczKVr) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Misery](https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m) | 3:47 | 2022-01-07 | 2023-03-07 |
 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 | 2022-01-07 |  |
+| [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 | 2023-06-06 |  |
 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 | 2022-01-07 | 2023-03-07 |
 | [Clenched Fist](https://open.spotify.com/track/5PwU47IWk07Ft9Pjn2Sfuy) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 4:58 | 2022-01-07 | 2023-03-07 |
+| [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 | 2023-06-06 |  |
 | [Demanufacture](https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 4:12 | 2022-01-07 | 2023-03-07 |
 | [Devil on My Shoulder](https://open.spotify.com/track/0qWizYBHEHpanTbr95NDq0) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/3E86heHd3LiI6h4tSN608g) | 3:49 | 2022-01-07 | 2023-03-07 |
 | [down in a hole \(live\)](https://open.spotify.com/track/7s9GlBRfncOqT8hIe8iepG) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Under the Skin](https://open.spotify.com/album/3NJLWqAZbcrasaV3aQFQlH) | 5:28 | 2022-01-07 | 2023-03-07 |
@@ -25,11 +27,12 @@
 | [Fearless](https://open.spotify.com/track/7mvfSh2FqzHBv2uoLgoHME) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Fearless](https://open.spotify.com/album/07JymTZmXvEZnX1eknGIOq) | 3:08 | 2022-01-07 | 2023-03-07 |
 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 | 2022-01-07 |  |
 | [Get Inside](https://open.spotify.com/track/2hX2v0U5lKSlxVxnesLEak) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 3:13 | 2022-01-07 | 2023-03-07 |
+| [Harvest](https://open.spotify.com/track/4mHO98MVqhw7DeZyoNmCYG) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Harvest](https://open.spotify.com/album/0kSnsRmaRxJigfDeO355Gq) | 2:50 | 2023-06-06 |  |
 | [Heroin](https://open.spotify.com/track/7MaP6xY4sG6aOTImzoQW1f) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Strength](https://open.spotify.com/album/03By4D4AeAw1KPlfFt76yA) | 3:41 | 2022-01-07 | 2023-03-07 |
 | [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 | 2022-01-07 |  |
 | [In The Court Of The Dragon](https://open.spotify.com/track/40iyvp3T5mgHhTRefrTVFR) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 5:09 | 2022-01-07 |  |
 | [Love Is The Greatest](https://open.spotify.com/track/70KGBOSIqfvrLwAagwXMEa) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Bigger House](https://open.spotify.com/album/3M53cSxzAfidJd8SkA1tf5) | 3:23 | 2022-01-07 | 2023-03-07 |
-| [Masterpiece](https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:26 | 2023-03-07 |  |
+| [Masterpiece](https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:26 | 2023-03-07 | 2023-06-07 |
 | [Matando Gueros](https://open.spotify.com/track/5M5in7u53TvK4YbymDmkie) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [XXX: Three Decades Of Roadrunner Records](https://open.spotify.com/album/3C6jILLr5iuUUHUYPwBDCd) | 2:22 | 2022-01-07 | 2023-03-07 |
 | [Midnight](https://open.spotify.com/track/63VSTHGYmrg7QSExdSRxKI) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [American Noir](https://open.spotify.com/album/4ddTgrLBjiaQbjcDeWtrUg) | 3:39 | 2022-01-07 | 2023-03-07 |
 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 | 2022-01-07 |  |
@@ -43,8 +46,10 @@
 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/album/2zGZlGvfC5yrZO6YXhIF8p) | 5:19 | 2022-01-07 |  |
 | [Sailor's Prayer](https://open.spotify.com/track/5VA764n0ot5CmvaUHdJrJK) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [8:18](https://open.spotify.com/album/4LCYe1Ummf9H2qRRcsH9qj) | 3:52 | 2022-01-07 | 2023-03-07 |
 | [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 | 2022-01-07 |  |
+| [Sign of Life](https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:40 | 2023-06-06 |  |
 | [Skeletons](https://open.spotify.com/track/0Kxo5gRKRJTsZdoBZW2a5L) | [Heartist](https://open.spotify.com/artist/3ewd1UqC9cTejovPED15BS) | [Feeding Fiction](https://open.spotify.com/album/35UcF0fsrd9r3EJElSMG7Q) | 3:33 | 2022-01-07 | 2023-03-07 |
 | [Spring Fra Livet](https://open.spotify.com/track/7lzprKou9yZPeU3kgm3Y14) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Meir](https://open.spotify.com/album/5PAjZGAD8j0XZANLxJWulb) | 3:34 | 2022-01-07 | 2023-03-07 |
+| [Stutter](https://open.spotify.com/track/2ylZFw2YgLy5B37REVfZOK) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Stutter](https://open.spotify.com/album/0YKMhs46eY0qUOTiii6LQF) | 2:20 | 2023-06-06 |  |
 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 | 2022-01-07 | 2023-03-07 |
 | [The Dagger](https://open.spotify.com/track/06RQguo4vybrXooUewSSuA) | [Roadrunner United](https://open.spotify.com/artist/3sURANr03JD4V9tRA8fChy) | [The All Star Sessions](https://open.spotify.com/album/3w3HyqvtsWnnYwvl0xsvv1) | 5:32 | 2022-01-07 |  |
 | [The Dark Sentencer](https://open.spotify.com/track/0mP3O68nZjScrbgiD9UilH) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Unheavenly Creatures](https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm) | 7:44 | 2022-01-07 | 2023-03-07 |

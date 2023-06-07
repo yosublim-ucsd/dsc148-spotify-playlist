@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: 稲葉浩志
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,331 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,361 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [Boyfriend](https://open.spotify.com/track/5iPzcSeQp4P3KnUMeWa7BX) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Natsufuku](https://open.spotify.com/album/11pBWDOErwPHJswgfMIri0) | 4:46 |
 | 50 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 |
 
-Snapshot ID: `MCw4YzMyMTI5M2YzYTVkOWZiMzc3YWIwZjA2NjUyYWEwYzdkY2Y2Njkz`
+Snapshot ID: `MCwxYzcxMjBkMWQxMTRlYWI0MGY1MmY2OWZkYTEyMTc3NzkwZDhjMGQ3`

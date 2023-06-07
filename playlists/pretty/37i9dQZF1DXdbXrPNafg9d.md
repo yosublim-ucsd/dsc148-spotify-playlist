@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Purr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,041 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279,099 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 78 | [Pulling Stitches](https://open.spotify.com/track/4PJooaOdpgu1xjQgCtE6RJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Pulling Stitches](https://open.spotify.com/album/47Xo8CXT5kwVS21eK50jFi) | 4:12 |
 | 79 | [changer](https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Tracey Denim](https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn) | 3:28 |
 | 80 | [Macaroon](https://open.spotify.com/track/4htHe9CbVRTYlzjdM09rE7) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W) | 3:07 |
-| 81 | [Was I Supposed To Care?](https://open.spotify.com/track/7rzjNar4ySQgXroswykQsH) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [before the afters](https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv) | 3:01 |
+| 81 | [Was I Supposed To Care?](https://open.spotify.com/track/7HIbJDiEXk4VFlbV3qJTdw) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [before the afters](https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl) | 3:01 |
 | 82 | [California Dream Girl](https://open.spotify.com/track/4luiQl18IztB9tmtn0ACV0) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [California Dream Girl](https://open.spotify.com/album/7Mu6gL29rc1hiFuVtYFvVs) | 3:00 |
 | 83 | [17suns](https://open.spotify.com/track/0UCZd39helCanZAlsWbrR1) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 2:41 |
 | 84 | [Rise](https://open.spotify.com/track/7G2dxQAjgNt0cQ68g7s1Ly) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Rise](https://open.spotify.com/album/3dyiC25i2f5CL3vjiIQ58b) | 2:32 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [Guessing](https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Guessing](https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS) | 5:03 |
 | 150 | [Silica](https://open.spotify.com/track/224t4K2F8W2vrlLd5arMoU) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Silica](https://open.spotify.com/album/70tbQi3TMV1L0DJUcT8u18) | 3:31 |
 
-Snapshot ID: `MCxjZjg2NzM1NTFiOGM2MWM1ZTg2Mzg5ZDdmMGM1YmQ3ZDYxMDI5YTkx`
+Snapshot ID: `MCxlODBhZDA5MjA5YWRjMTQ3OTExODVmMjU1NmE4N2VmYzBiYWI4OTc0`

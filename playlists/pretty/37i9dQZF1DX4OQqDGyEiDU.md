@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,985 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,040 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [オルターエゴ](https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [オルターエゴ](https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC) | 3:42 |
 | 50 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
 
-Snapshot ID: `MCw4OTRhNTlmZGQyMGJjZGVjZGRmNWY3NWY4OGI4YWM2NjMwNDhhZGU3`
+Snapshot ID: `MCxmOTA5NDhhZjdjZjc0ZThiYmYwMTZhM2E5MGQxZGMwNjRhY2QxNWYw`

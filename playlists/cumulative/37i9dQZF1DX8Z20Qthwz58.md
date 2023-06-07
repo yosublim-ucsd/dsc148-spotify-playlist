@@ -4,7 +4,7 @@
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-73 songs - 4 hr 20 min
+74 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Butterfly](https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf) | 3:57 | 2023-02-08 |  |
 | [Choppy \(Prod\. BOYCOLD\)](https://open.spotify.com/track/4G8TWNnmtE3xuszp0esWLC) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Herr Nayne](https://open.spotify.com/artist/3ymSmqDdFN1kfZyVJ4HWse) | [TRAPART](https://open.spotify.com/album/3JNARFXD4YTlwAz01Oi0Zp) | 3:51 | 2023-02-08 |  |
 | [CIRCLE](https://open.spotify.com/track/2aOk5X66c3YwRLp0wuKkUC) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:46 | 2023-02-08 |  |
-| [COOL \(Your rainbow\)](https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:50 | 2023-02-08 |  |
+| [COOL \(Your rainbow\)](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:50 | 2023-05-05 |  |
+| [COOL \(Your rainbow\)](https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:50 | 2023-02-08 | 2023-06-07 |
 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 | 2023-02-08 |  |
 | [Dance](https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:39 | 2023-02-08 |  |
 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2023-05-02 |  |

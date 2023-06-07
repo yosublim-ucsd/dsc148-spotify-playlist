@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. This week we are featuring some of the favorite live worship tracks of our Guest Curators, <a href=\"https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM?si=EwHmkSyiQ0mQ2r3x1bE4dA\">Pastor Steven Furtick</a> and <a href=\"https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=fExbtuHsTv2HzZgvB0XlCw\">Elevation Worship</a>",
-  "num_followers": 874725,
+  "num_followers": 874850,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yjc4ZDhmOGFlN2RkNjQyODJiYTkwZjFkNGY2ZDk3MWI2ZmRhYTUz",
+  "snapshot_id": "MCw0MjdhZDAzMGJhMjA3MjFiYzAyMGM2ZTY0YjQ1MGRhNDEwNDYzZjdi",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1643,34 +1643,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Turning",
-        "url": "https://open.spotify.com/album/6E9CCZc8nUZqridnjbTAgR"
-      },
-      "artists": [
-        {
-          "name": "Meredith Mauldin",
-          "url": "https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Aiva Jenkins",
-          "url": "https://open.spotify.com/artist/0kHsjUrgZWShkTeraeXGBd"
-        },
-        {
-          "name": "Eniola Abioye",
-          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "For My Good - Live",
-      "url": "https://open.spotify.com/track/28Gfeq90t2QHflOtkBnWdp"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Praise Is Yours (Live)",
         "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
       },
@@ -1703,6 +1675,34 @@
       "duration_ms": 316119,
       "name": "Jesus Now - Live",
       "url": "https://open.spotify.com/track/6wnxaVE6g2kEnDmjmlKYZL"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Turning",
+        "url": "https://open.spotify.com/album/6E9CCZc8nUZqridnjbTAgR"
+      },
+      "artists": [
+        {
+          "name": "Meredith Mauldin",
+          "url": "https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Aiva Jenkins",
+          "url": "https://open.spotify.com/artist/0kHsjUrgZWShkTeraeXGBd"
+        },
+        {
+          "name": "Eniola Abioye",
+          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "For My Good - Live",
+      "url": "https://open.spotify.com/track/28Gfeq90t2QHflOtkBnWdp"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Pull Me Through (Live at King\u2019s House)",
-        "url": "https://open.spotify.com/album/38dj7aDFY0P50sYYmfMGhr"
-      },
-      "artists": [
-        {
-          "name": "KXC",
-          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
-        },
-        {
-          "name": "Rich & Lydia Dicas",
-          "url": "https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY"
-        }
-      ],
-      "duration_ms": 448880,
-      "name": "Fighting For My Heart - Live",
-      "url": "https://open.spotify.com/track/2anWmr2A4jZQTDlypymJgv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Thin Place (Live)",
         "url": "https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50"
       },
@@ -1863,6 +1843,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Pull Me Through (Live at King\u2019s House)",
+        "url": "https://open.spotify.com/album/38dj7aDFY0P50sYYmfMGhr"
+      },
+      "artists": [
+        {
+          "name": "KXC",
+          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
+        },
+        {
+          "name": "Rich & Lydia Dicas",
+          "url": "https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY"
+        }
+      ],
+      "duration_ms": 448880,
+      "name": "Fighting For My Heart - Live",
+      "url": "https://open.spotify.com/track/2anWmr2A4jZQTDlypymJgv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "My Help (Live)",
         "url": "https://open.spotify.com/album/3z109kjHinxN81XWZKmV9Q"
       },
@@ -1879,42 +1879,6 @@
       "duration_ms": 288840,
       "name": "My Help - Live",
       "url": "https://open.spotify.com/track/5V98PEmkQzEcigKBlamSGs"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Belovedness (Live)",
-        "url": "https://open.spotify.com/album/3RX1MoUQaetL6L2ts03m1a"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        },
-        {
-          "name": "Nathan Jess",
-          "url": "https://open.spotify.com/artist/0toDS0sQ9LKILJv0E2IUR8"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Belovedness - Live",
-      "url": "https://open.spotify.com/track/39EvGSon4V1ri8TZ9lrfLi"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Comfort (Live)",
-        "url": "https://open.spotify.com/album/4z9gft4vDBoFF2Xtyu0enL"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 289398,
-      "name": "Comfort - Live",
-      "url": "https://open.spotify.com/track/36Ru7U9AKjnbNjtZGdhOYY"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1943,6 +1907,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Comfort (Live)",
+        "url": "https://open.spotify.com/album/4z9gft4vDBoFF2Xtyu0enL"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 289398,
+      "name": "Comfort - Live",
+      "url": "https://open.spotify.com/track/36Ru7U9AKjnbNjtZGdhOYY"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Live At The Manor",
         "url": "https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W"
       },
@@ -1963,6 +1943,26 @@
       "duration_ms": 274666,
       "name": "Let Go - Live",
       "url": "https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Belovedness (Live)",
+        "url": "https://open.spotify.com/album/3RX1MoUQaetL6L2ts03m1a"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        },
+        {
+          "name": "Nathan Jess",
+          "url": "https://open.spotify.com/artist/0toDS0sQ9LKILJv0E2IUR8"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Belovedness - Live",
+      "url": "https://open.spotify.com/track/39EvGSon4V1ri8TZ9lrfLi"
     },
     {
       "added_at": "2023-05-19 04:00:00",

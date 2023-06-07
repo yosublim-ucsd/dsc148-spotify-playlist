@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Russ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,661 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,702 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 33 | [The Game](https://open.spotify.com/track/1FTQhbMT3Wl7CoRS4jA2LK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [The Game](https://open.spotify.com/album/1iFw5aFJCIV4xLrvWdSdoH) | 3:53 |
 | 34 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 |
 | 35 | [Art Talk](https://open.spotify.com/track/4n0fik3eIbcmKhDh4Xw5x9) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 3:17 |
-| 36 | [Brucifix](https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [WON'T HE DO IT](https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc) | 3:10 |
-| 37 | [Cocaine Spoon feat\. Rick Ross](https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:34 |
+| 36 | [Cocaine Spoon feat\. Rick Ross](https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:34 |
+| 37 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
 | 38 | [Soft Landing](https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:53 |
-| 39 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
+| 39 | [Brucifix](https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [WON'T HE DO IT](https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc) | 3:10 |
 | 40 | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/track/1wea451SlpJfqRy4YVK867) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j) | 2:58 |
 | 41 | [89 Earthquake](https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [89 Earthquake](https://open.spotify.com/album/5cbiVwhOtdorDA5YVPyclL) | 3:12 |
 | 42 | [pg baby \- Remix](https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [pg baby \(Remix\)](https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [MOTHERLESS \- Single Version](https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [MOTHERLESS](https://open.spotify.com/album/445ASNvZBCiKxGuT7Ds7UQ) | 3:33 |
 | 50 | [Monogram](https://open.spotify.com/track/1uVmhpMQ3ELh8grPOg0D82) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [WON'T HE DO IT](https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc) | 2:25 |
 
-Snapshot ID: `MCwwNDBhYzE1ZGJlMzdjMjdhMDk5NmM0YmY1Y2JjNzBkZDQwODhkY2Jj`
+Snapshot ID: `MCw1ZjMyMWViNjIyMTZhYTJkNzkzMTYxYzAyNWY0OWQ0ZDE5NzBjOTM3`

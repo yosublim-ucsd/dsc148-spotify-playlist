@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Saiko",
-  "num_followers": 64490,
+  "num_followers": 64515,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGZhNDgxNjhiZWYxZTc0ODQ2NDQ2N2RhZjY0OWU4NDg3YjIwMzhl",
+  "snapshot_id": "MCxhMDMzNDc4YjkwZjE3MDAzZmNiYmU4NTZkYmE0ZWZkYTg1ZDk4MjZl",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Q-Lito",
-        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Q-Lito",
-      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "e-mail",
         "url": "https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 151587,
       "name": "e-mail",
       "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Q-Lito",
+        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Q-Lito",
+      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
     },
     {
       "added_at": "2023-05-12 03:00:00",

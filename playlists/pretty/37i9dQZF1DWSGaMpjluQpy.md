@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,818 likes - 84 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,944 likes - 84 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 | 83 | [Merry Monday \- With Rain](https://open.spotify.com/track/59dNEyVBv0ZoAe7zyvRl3L) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday \- With Rain](https://open.spotify.com/album/5f9MNfZHMS1tvWq55LdJU1) | 3:06 |
 | 84 | [Myren](https://open.spotify.com/track/4JLkZzfYVaXBi1JtXTOdje) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 2:38 |
 
-Snapshot ID: `MCw0YjM5YjgxZDFhY2MxZGI1OTFhYjIxMGIxNWFlZWM4NTU5M2UwYWQy`
+Snapshot ID: `MCxlMTA0ZDEyMzU5OGNmYWEwZjhmNzQ0OGMyNWQxMGMzZTEwOWE2MDRl`

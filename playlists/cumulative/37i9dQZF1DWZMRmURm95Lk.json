@@ -622,7 +622,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 129767,
       "name": "Brothers Cavalera",
       "url": "https://open.spotify.com/track/3wCt0lbBjnpLuP1QikoGlb"
@@ -818,6 +818,40 @@
       "duration_ms": 242378,
       "name": "Casse rotte (feat. Brokenspeakers)",
       "url": "https://open.spotify.com/track/3jmjTGbN86A2DcZIEulmvM"
+    },
+    {
+      "album": {
+        "name": "BRAVA GENTE",
+        "url": "https://open.spotify.com/album/3LnhSMgyYiJ1P6fDeWXx6g"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Brava Gente",
+          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "Cemento",
+      "url": "https://open.spotify.com/track/1R6ucGLbV7sAsVaHuGDnDO"
     },
     {
       "album": {
@@ -1996,7 +2030,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 293160,
       "name": "Guerra E Pace",
       "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
@@ -2138,7 +2172,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 166533,
       "name": "Il coraggio di dirti",
       "url": "https://open.spotify.com/track/18FcA4logPoWj73sYqanLU"
@@ -4581,6 +4615,36 @@
     },
     {
       "album": {
+        "name": "BRAVA GENTE",
+        "url": "https://open.spotify.com/album/3LnhSMgyYiJ1P6fDeWXx6g"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Brava Gente",
+          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152903,
+      "name": "R2R",
+      "url": "https://open.spotify.com/track/1qytWBYyu7eNVwoA2AIeko"
+    },
+    {
+      "album": {
         "name": "Mr. Simpatia (Remastered Version)",
         "url": "https://open.spotify.com/album/5SrVqhNg8cC1ikzLSEnD6r"
       },
@@ -5698,6 +5762,32 @@
       "duration_ms": 288000,
       "name": "Suono Sporco - Reloaded Version",
       "url": "https://open.spotify.com/track/79OhZiDrjejbJdXr1W1wcI"
+    },
+    {
+      "album": {
+        "name": "BRAVA GENTE",
+        "url": "https://open.spotify.com/album/3LnhSMgyYiJ1P6fDeWXx6g"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Brava Gente",
+          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Tagli come Sorrisi",
+      "url": "https://open.spotify.com/track/7JqVRBuz30XoBlmg1eY8SI"
     },
     {
       "album": {

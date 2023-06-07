@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,537 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,702 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 15 | [Always Focused](https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [Pleasant Living](https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci) | 2:40 |
 | 16 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
 | 17 | [Standing On The Edge Of Summer](https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:42 |
-| 18 | [Getchoo](https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:52 |
-| 19 | [3rd Measurement in C](https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:38 |
+| 18 | [3rd Measurement in C](https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:38 |
+| 19 | [Getchoo](https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:52 |
 | 20 | [Shoulder to the Wheel](https://open.spotify.com/track/4dKu1HkVL1xh96F1JfDTrn) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Through Being Cool](https://open.spotify.com/album/3yRpyOundyELlkOO6O4YSo) | 3:19 |
 | 21 | [Accident Prone](https://open.spotify.com/track/2Dqgj2nE6RwZKocWsWqXcG) | [Jawbreaker](https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV) | [Dear You](https://open.spotify.com/album/7KyQp50wm9lprjaW6UMAkI) | 6:13 |
 | 22 | [Lucky Denver Mint](https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:49 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 39 | [Back And To The Left](https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ) | [Texas Is The Reason](https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8) | [Do You Know Who You Are?: The Complete Collection](https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7) | 3:55 |
 | 40 | [Arcarsenal](https://open.spotify.com/track/7pDbWHj7JkhCpJvk9bHy3M) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 2:54 |
 | 41 | [Liberation Frequency](https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 4:10 |
-| 42 | [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 |
-| 43 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
-| 44 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 |
-| 45 | [Action & Action](https://open.spotify.com/track/3rNRmQETcPHauTPFqS7z3T) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 4:05 |
-| 46 | [Siberian Kiss \- 2009 Remaster](https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:49 |
+| 42 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
+| 43 | [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 |
+| 44 | [Siberian Kiss \- 2009 Remaster](https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:49 |
+| 45 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 |
+| 46 | [Action & Action](https://open.spotify.com/track/3rNRmQETcPHauTPFqS7z3T) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 4:05 |
 | 47 | [Woolworm](https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp) | [Indian Summer](https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf) | [Giving Birth to Thunder](https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7) | 7:25 |
 | 48 | [Savory](https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N) | [Jawbox](https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP) | [For Your Own Special Sweetheart](https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt) | 4:39 |
 | 49 | [Love Rhymes With Hideous Car Wreck](https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S) | [The Blood Brothers](https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR) | [Crimes \(Bonus Track Version\)](https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F) | 3:14 |
-| 50 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 |
+| 50 | [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame & Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 |
 
-Snapshot ID: `MCw0MmJjMmQyYzVhYmY3MTUyOThiYTBiNDExZDg4Mzg0OTIwYTBiOWZk`
+Snapshot ID: `MCw1M2RjNGFhYWYxMTgzZDA1NzgxODQ0ZWVmMDhmZDc2ZDEzNGY2NjQ4`

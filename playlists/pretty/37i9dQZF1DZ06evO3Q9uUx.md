@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,349 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,358 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 42 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 |
 | 43 | [Perfect](https://open.spotify.com/track/7v5fIXqgB0nd5KgekRDe4M) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5) | [Perfect](https://open.spotify.com/album/3cPb7WoJvMKZdJNL9nU2UT) | 3:27 |
 | 44 | [Mi Naturaleza](https://open.spotify.com/track/5aKKt0NtDmvadXvIQbLHyD) | [K2](https://open.spotify.com/artist/0l6S87tXngLhLA7h4gypUt), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Mi Naturaleza](https://open.spotify.com/album/02lrmDcKngoN0lk1D61uZ8) | 3:07 |
-| 45 | [High \(Kris Bowers Remix\)](https://open.spotify.com/track/1Tj0TcwUZZhbgKB6ACu7EE) | [Christian Rich](https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [FW14 \(Extended Version\)](https://open.spotify.com/album/6m2UrRkuLmSzi1yNhbyO0h) | 3:39 |
+| 45 | [Bo$$day](https://open.spotify.com/track/0QLB087RjF3zRLdKhpld8d) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/1Yn3gqAQitxjKrll6vSpWT) | 2:25 |
 | 46 | [VIBES ON ME \(feat\. Kodak Black\)](https://open.spotify.com/track/3cc1U9c0maT9xGxy4vOec4) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:04 |
-| 47 | [Bo$$day](https://open.spotify.com/track/0QLB087RjF3zRLdKhpld8d) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/1Yn3gqAQitxjKrll6vSpWT) | 2:25 |
+| 47 | [High \(Kris Bowers Remix\)](https://open.spotify.com/track/1Tj0TcwUZZhbgKB6ACu7EE) | [Christian Rich](https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [FW14 \(Extended Version\)](https://open.spotify.com/album/6m2UrRkuLmSzi1yNhbyO0h) | 3:39 |
 | 48 | [Good Idea \(feat\. BIA\)](https://open.spotify.com/track/3sXcUMhBQLCyr6Cl6z7RP4) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Summer In The Winter](https://open.spotify.com/album/6uG9BscYmPnAbtl6Cy9u91) | 3:16 |
 | 49 | [Waiting On Me \(feat\. Swizz Beatz, YG, BIA & Giggs\)](https://open.spotify.com/track/22SS2T6TwIEI3FefmB9IRA) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Waiting On Me \(feat\. Swizz Beatz, YG, BIA & Giggs\)](https://open.spotify.com/album/61Lg0x5PtyijXiDxu9s8uJ) | 3:36 |
 | 50 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDBiODE3YzA4YzljYmY3NWIyY2Y1NjU3NDVjYzRhYjRkYg==`
+Snapshot ID: `MjgxMDA5MjYsMDAwMDAwMDA5MDAzNmYwOTMwMjU2MWE5MDEzZWIyMzBhNDJjN2M5Zg==`

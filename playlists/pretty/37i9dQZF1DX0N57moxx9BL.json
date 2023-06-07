@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Skillet",
-  "num_followers": 122633,
+  "num_followers": 122752,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjFmM2UyMGJmNjM0ZTFjNGI2MTVlYTYyZmRjOWYwNjQxZTU4NmMz",
+  "snapshot_id": "MCw4NTQyNTVkNmYxZjJlYTM3OWExMjNjYTA2ZTVkMGNlZmM0N2MzYzRh",
   "tracks": [
     {
       "added_at": "2023-02-17 11:43:30",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "HEAVEN DON'T CRY",
-        "url": "https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 265706,
-      "name": "HEAVEN DON'T CRY",
-      "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Before I Cave In",
         "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 260826,
       "name": "Before I Cave In",
       "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "HEAVEN DON'T CRY",
+        "url": "https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 265706,
+      "name": "HEAVEN DON'T CRY",
+      "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Before There Was",
-        "url": "https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX"
-      },
-      "artists": [
-        {
-          "name": "Bellarive",
-          "url": "https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX"
-        }
-      ],
-      "duration_ms": 304813,
-      "name": "Lazarus",
-      "url": "https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "The First & the Last",
         "url": "https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 219151,
       "name": "The First & the Last",
       "url": "https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Before There Was",
+        "url": "https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX"
+      },
+      "artists": [
+        {
+          "name": "Bellarive",
+          "url": "https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX"
+        }
+      ],
+      "duration_ms": 304813,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Surviving The Wasteland",
-        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
       "artists": [
         {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+          "name": "Random Hero",
+          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
         }
       ],
-      "duration_ms": 198500,
-      "name": "Surviving The Wasteland",
-      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
+      "duration_ms": 206288,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "The Covering",
-        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
+        "name": "Surviving The Wasteland",
+        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
       },
       "artists": [
         {
-          "name": "Random Hero",
-          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
         }
       ],
-      "duration_ms": 206288,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+      "duration_ms": 198500,
+      "name": "Surviving The Wasteland",
+      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
       },
       "artists": [
         {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
         }
       ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
+      "duration_ms": 239655,
+      "name": "Pulp",
+      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
       },
       "artists": [
         {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
         }
       ],
-      "duration_ms": 239655,
-      "name": "Pulp",
-      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-02-17 11:43:30",

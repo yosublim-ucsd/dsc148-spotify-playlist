@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 43237,
+  "num_followers": 43289,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzA1NmJkNjIyMDdlNWY5YThmZDQxNDljYTU3ZjJhZDQ1MTA2ZjAz",
+  "snapshot_id": "MCxmZWYwMjUxMTQ0OGQ3N2M1ZjJmOGE0NDMzYmIyNmZmZjYzNGRiY2I1",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Break Out (1983 Version - Expanded Edition)",
+        "url": "https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 366360,
+      "name": "Automatic - 12\" Special Remix",
+      "url": "https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "People... Hold On",
         "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Break Out (1983 Version - Expanded Edition)",
-        "url": "https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM"
+        "name": "Pride Classics",
+        "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
       },
       "artists": [
         {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
         }
       ],
-      "duration_ms": 366360,
-      "name": "Automatic - 12\" Special Remix",
-      "url": "https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3"
+      "duration_ms": 326586,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -759,22 +775,6 @@
       "duration_ms": 245493,
       "name": "You Can't Hide from Yourself",
       "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Pride Classics",
-        "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 326586,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
     },
     {
       "added_at": "2022-12-31 00:39:45",

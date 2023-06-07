@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Bizarrap y Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,348 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,458 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Estrada de Chão \- Ao Vivo](https://open.spotify.com/track/2swequ5STHN7iea9qBrFk2) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Campo de Batalha Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/6MaRwP2w76LqBwABsiTjVj) | 2:53 |
 | 55 | [Sentimentos](https://open.spotify.com/track/5Tu7MRI861qp40FE4WdE5F) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Sentimentos](https://open.spotify.com/album/3i4lmZHMEpWhsdNuqIYyaG) | 2:45 |
 
-Snapshot ID: `MCxmNTk2MjRiNWY5MGM0OWFhMDljMTNkODAyZmUyNWZjYzA3ODFhZDNj`
+Snapshot ID: `MCxlYmI4NDRlODA2NGU1ODQ1YTgyOGQ1OTZlMTU5YzVhODZhZTFlZWVh`

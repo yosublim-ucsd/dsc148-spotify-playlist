@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 749930,
+  "num_followers": 749997,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzNmMDcwMDJiNzM4ZTQ1OTVjZTMxODA5YjRhM2U2ZjYxNzVkMzg0",
+  "snapshot_id": "MCwyODFmNDIwZTk0YzI2ZjA3NGExNzVhYjJlMDE3MDY5ODY5Yzg5MTAy",
   "tracks": [
     {
       "added_at": "2022-09-09 04:08:19",
@@ -685,6 +685,42 @@
       "url": "https://open.spotify.com/track/76y9rYVLGK4Ob2qaruXmhC"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Crush You",
+        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
+      },
+      "artists": [
+        {
+          "name": "Shafiq Husayn",
+          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 256069,
+      "name": "Crush You",
+      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
+    },
+    {
+      "added_at": "2023-05-05 05:35:01",
+      "album": {
+        "name": "Bags",
+        "url": "https://open.spotify.com/album/2QQM5pI8KDCvDO1eazhoFk"
+      },
+      "artists": [
+        {
+          "name": "Vahn Black",
+          "url": "https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/3NbfpyJ7RROQgoUBXE33yP"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Look At Me",
@@ -703,22 +739,6 @@
       "duration_ms": 233056,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
-    },
-    {
-      "added_at": "2023-05-05 05:35:01",
-      "album": {
-        "name": "Bags",
-        "url": "https://open.spotify.com/album/2QQM5pI8KDCvDO1eazhoFk"
-      },
-      "artists": [
-        {
-          "name": "Vahn Black",
-          "url": "https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/3NbfpyJ7RROQgoUBXE33yP"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -741,26 +761,6 @@
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
-        "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
-      "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "W8",
@@ -779,6 +779,26 @@
       "duration_ms": 220510,
       "name": "W8",
       "url": "https://open.spotify.com/track/2Bpky4PIUsFM5RetNZk1w1"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
+        "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
+      "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -803,38 +823,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Crush You",
-        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
+        "name": "Head Straight",
+        "url": "https://open.spotify.com/album/2MjQxYxyjRGEBgkBzlCcll"
       },
       "artists": [
         {
-          "name": "Shafiq Husayn",
-          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
         }
       ],
-      "duration_ms": 256069,
-      "name": "Crush You",
-      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Coffee in the Morning",
-        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "Coffee in the Morning",
-      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
+      "duration_ms": 140837,
+      "name": "Head Straight",
+      "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
     },
     {
       "added_at": "2023-05-26 13:00:09",
@@ -851,6 +855,22 @@
       "duration_ms": 185666,
       "name": "These Four Walls",
       "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Coffee in the Morning",
+        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Coffee in the Morning",
+      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -971,26 +991,6 @@
       "duration_ms": 149890,
       "name": "Show & Prove",
       "url": "https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Head Straight",
-        "url": "https://open.spotify.com/album/2MjQxYxyjRGEBgkBzlCcll"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        }
-      ],
-      "duration_ms": 140837,
-      "name": "Head Straight",
-      "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 164448,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "black like you",
@@ -1233,6 +1249,46 @@
       "url": "https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr"
     },
     {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Don't Doubt It",
+        "url": "https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Don't Doubt It",
+      "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 299366,
+      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
+    },
+    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Enigmatic Society",
@@ -1269,22 +1325,6 @@
       "url": "https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Don't Doubt It",
-        "url": "https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN"
-      },
-      "artists": [
-        {
-          "name": "Sam Wills",
-          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Don't Doubt It",
-      "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
-    },
-    {
       "added_at": "2022-10-03 05:27:10",
       "album": {
         "name": "Pineapple Cognac",
@@ -1299,30 +1339,6 @@
       "duration_ms": 134166,
       "name": "Pineapple Cognac",
       "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        }
-      ],
-      "duration_ms": 299366,
-      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1365,22 +1381,6 @@
       "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 164448,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Blue",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/0eue2iKYFkuLYXkfEMjKuJ"
     },
     {
-      "added_at": "2023-03-03 05:39:26",
-      "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
-    },
-    {
       "added_at": "2023-05-05 05:35:01",
       "album": {
         "name": "The Energy",
@@ -1453,6 +1437,22 @@
       "url": "https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH"
     },
     {
+      "added_at": "2023-03-03 05:39:26",
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "The Piano Album",
@@ -1471,6 +1471,26 @@
       "duration_ms": 244620,
       "name": "How Deep Is Your Love - Acoustic Version",
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Got To Be Good",
+        "url": "https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 159933,
+      "name": "Got To Be Good",
+      "url": "https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV"
     },
     {
       "added_at": "2022-10-03 05:27:10",
@@ -1509,54 +1529,6 @@
       "url": "https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Palace",
-        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 152396,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 156622,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
-    },
-    {
-      "added_at": "2022-08-26 04:46:22",
-      "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Snoop Dogg Presents Death Row Summer 2022",
@@ -1579,6 +1551,54 @@
       "duration_ms": 221893,
       "name": "Mulholland Drive",
       "url": "https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 156622,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Palace",
+        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 152396,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
+    },
+    {
+      "added_at": "2022-08-26 04:46:22",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1697,26 +1717,6 @@
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Got To Be Good",
-        "url": "https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 159933,
-      "name": "Got To Be Good",
-      "url": "https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV"
-    },
-    {
       "added_at": "2023-03-03 05:39:26",
       "album": {
         "name": "Variables",
@@ -1755,6 +1755,26 @@
       "duration_ms": 219146,
       "name": "Adonis - feat. KIRBY",
       "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
+    },
+    {
+      "added_at": "2023-05-26 13:00:09",
+      "album": {
+        "name": "Private Party (feat. Siaira Shawn)",
+        "url": "https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV"
+      },
+      "artists": [
+        {
+          "name": "V. Cartier",
+          "url": "https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop"
+        },
+        {
+          "name": "Siaira Shawn",
+          "url": "https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX"
+        }
+      ],
+      "duration_ms": 213697,
+      "name": "Private Party (feat. Siaira Shawn)",
+      "url": "https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1811,26 +1831,6 @@
       "duration_ms": 218972,
       "name": "Forgot Your Name (feat. Cory Henry)",
       "url": "https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT"
-    },
-    {
-      "added_at": "2023-05-26 13:00:09",
-      "album": {
-        "name": "Private Party (feat. Siaira Shawn)",
-        "url": "https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV"
-      },
-      "artists": [
-        {
-          "name": "V. Cartier",
-          "url": "https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop"
-        },
-        {
-          "name": "Siaira Shawn",
-          "url": "https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX"
-        }
-      ],
-      "duration_ms": 213697,
-      "name": "Private Party (feat. Siaira Shawn)",
-      "url": "https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87"
     },
     {
       "added_at": "2022-09-09 04:08:19",

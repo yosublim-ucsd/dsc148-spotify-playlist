@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 
 > This is The White Stripes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,384 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,419 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 36 | [Passive Manipulation](https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 0:35 |
 | 37 | [One More Cup of Coffee](https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 3:13 |
 | 38 | [I'm Slowly Turning Into You](https://open.spotify.com/track/3MsWy7Is42kx8OImv41rUG) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:34 |
-| 39 | [Lafayette Blues](https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Lafayette Blues](https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA) | 2:15 |
+| 39 | [Stones In My Passway \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:40 |
 | 40 | [Take, Take, Take](https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 4:22 |
 | 41 | [When I Hear My Name](https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 1:54 |
-| 42 | [Stones In My Passway \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:40 |
-| 43 | [Black Jack Davey](https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 5:06 |
-| 44 | [Let's Shake Hands](https://open.spotify.com/track/5baca16TrfnaLlaYemmTYt) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes Greatest Hits](https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v) | 2:04 |
-| 45 | [City Lights \- Previously Unreleased](https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [City Lights \(Previously Unreleased\)](https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF) | 4:50 |
-| 46 | [Cool Drink Of Water Blues \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:12 |
-| 47 | [We Are Going to Be Friends \- Live](https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Under Great White Northern Lights \(Live\)](https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W) | 2:24 |
-| 48 | [Ashtray Heart](https://open.spotify.com/track/3jUXDyGRhU0y4IUdtjUVMU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Party of Special Things to Do](https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U) | 2:45 |
-| 49 | [Lovesick \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3UKeA8QpDcYCfSSwP129Sw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 3:50 |
+| 42 | [Lafayette Blues](https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Lafayette Blues](https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA) | 2:15 |
+| 43 | [Cool Drink Of Water Blues \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:12 |
+| 44 | [Black Jack Davey](https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 5:06 |
+| 45 | [Let's Shake Hands](https://open.spotify.com/track/5baca16TrfnaLlaYemmTYt) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes Greatest Hits](https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v) | 2:04 |
+| 46 | [City Lights \- Previously Unreleased](https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [City Lights \(Previously Unreleased\)](https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF) | 4:50 |
+| 47 | [Lovesick \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3UKeA8QpDcYCfSSwP129Sw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 3:50 |
+| 48 | [We Are Going to Be Friends \- Live](https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Under Great White Northern Lights \(Live\)](https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W) | 2:24 |
+| 49 | [Ashtray Heart](https://open.spotify.com/track/3jUXDyGRhU0y4IUdtjUVMU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Party of Special Things to Do](https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U) | 2:45 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDA1NTBmYjZlMjkwODAzNjUwMWU1YWQxNjRiNjI5YWU4MQ==`
+Snapshot ID: `MjgxMDA5MjYsMDAwMDAwMDA3OGNmOGVjZmQwZDA0OGIxNzJiMzExMjg5ZWE0YjQzZQ==`

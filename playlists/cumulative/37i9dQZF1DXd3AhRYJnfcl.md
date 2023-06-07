@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف: انغام
 
-189 songs - 11 hr 1 min
+190 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Baad El Kalam](https://open.spotify.com/track/0Oz1kaka4qeWhjntOZTRFv) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 3:52 | 2023-02-20 |  |
 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 | 2022-04-13 | 2022-09-27 |
 | [Basrah w Atooh](https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:57 | 2022-10-03 | 2023-05-31 |
-| [Bayen Habeit](https://open.spotify.com/track/29KS7kBSU77PrYGB6RVR5O) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Bayen Habeit](https://open.spotify.com/album/4RdUsMpepg4HbsFyaIpHsB) | 2:19 | 2023-05-05 |  |
+| [Bayen Habeit](https://open.spotify.com/track/29KS7kBSU77PrYGB6RVR5O) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Bayen Habeit](https://open.spotify.com/album/4RdUsMpepg4HbsFyaIpHsB) | 2:19 | 2023-05-05 | 2023-06-07 |
 | [Bent El Nas](https://open.spotify.com/track/61JQ7hNgNjIBdfjOAmrtZC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Bent El Nas](https://open.spotify.com/album/7Mw6RzdygHFoN2Kd9fzSy8) | 3:00 | 2023-05-30 |  |
 | [Beraha Ya Sheekha](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Beraha Ya Sheekha](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 | 2023-02-09 |  |
 | [Blanco](https://open.spotify.com/track/6Uig1yLkQkBZoHGDyZrTzm) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Akhro Noor](https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7) | 2:26 | 2023-04-20 |  |
@@ -183,6 +183,7 @@
 | [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2022-04-13 | 2022-06-17 |
 | [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-09-26 | 2023-05-31 |
 | [على وضعنا](https://open.spotify.com/track/4qUXgGI7oKwfCWY8J8jhLU) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Mohamed Adaweya](https://open.spotify.com/artist/6wNAr6KAMa7NDqm9vSiv7T), [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [على وضعنا](https://open.spotify.com/album/5Yqwoth9VJ3epyKF0x2QQP) | 3:24 | 2023-01-01 |  |
+| [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 | 2023-06-06 |  |
 | [قصاد عينى](https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:24 | 2023-05-18 |  |
 | [لمستك](https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:53 | 2023-02-23 | 2023-03-10 |
 | [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 | 2022-08-03 |  |

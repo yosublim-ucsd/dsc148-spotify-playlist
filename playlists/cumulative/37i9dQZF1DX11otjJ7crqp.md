@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Tove Lo
 
-3,245 songs - 6 day 17 hr 34 min
+3,246 songs - 6 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3103,7 +3103,8 @@
 | [What's Been On Your Mind?](https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [What's Been On Your Mind?](https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs) | 2:52 | 2022-06-10 | 2022-06-25 |
 | [What's It Gonna Take](https://open.spotify.com/track/4lfWuvMmfoONgwFH3jpN73) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [What's It Gonna Take](https://open.spotify.com/album/1p2FLEALTHFqwBM1t98LCS) | 2:57 | 2023-01-20 | 2023-01-28 |
 | [what's the matter with you](https://open.spotify.com/track/51ov0GSQflAdL1IRga0zSF) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [what's the matter with you](https://open.spotify.com/album/30rzHPzFWkagAe2AiPKOBY) | 3:16 | 2022-10-14 | 2022-10-29 |
-| [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 |  |
+| [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 | 2023-06-07 |
+| [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-05 |  |
 | [What's With The Roses](https://open.spotify.com/track/55h1aacXiM4YAUcNi8cfh1) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [What's With The Roses](https://open.spotify.com/album/0y7Me7TzBLzmBC0h5Wruns) | 2:50 | 2022-08-12 | 2022-08-27 |
 | [What's Wrong with Me](https://open.spotify.com/track/14Gr5PRmPcWxRZVeEMep8V) | [Zoe Clark](https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3) | [Not to be Dramatic](https://open.spotify.com/album/4dQrTmky9ESVcvf0IQhNxW) | 3:16 | 2023-06-02 |  |
 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 | 2023-05-05 | 2023-06-03 |

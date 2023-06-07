@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 191259,
+  "num_followers": 191334,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjQ5NDVmY2VjYjAwMDgxMGQ2ZTQ4ZDg1OTI2ODYyZmNiZDc2ODE4",
+  "snapshot_id": "MCxkZWYzNjA1Y2RlMzcwMjVkM2JiYTk1NWJiNjA5YjZjMDA5ZGIyODMx",
   "tracks": [
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "Vital Idol",
+        "url": "https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 359733,
+      "name": "Dancing With Myself",
+      "url": "https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "Violator | The 12\" Singles",
         "url": "https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 257630,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Vital Idol",
-        "url": "https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 359733,
-      "name": "Dancing With Myself",
-      "url": "https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv"
     },
     {
       "added_at": "2020-06-24 14:37:20",

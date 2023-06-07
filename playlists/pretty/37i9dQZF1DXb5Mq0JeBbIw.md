@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,571 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,597 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 83 | [Better Than Today](https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 3:49 |
 | 84 | [Hailey \- Acoustic](https://open.spotify.com/track/3npU19eWW7PoB2Va7UinRu) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Hailey \(EMBERS Remix\)](https://open.spotify.com/album/2RuyhhGVvpQZH2L4zPWo43) | 3:28 |
 | 85 | [Wonderwall](https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG) | 3:56 |
-| 86 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
-| 87 | [Luck Pusher](https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm) | 2:43 |
-| 88 | [Mirou](https://open.spotify.com/track/5GHr2k1v1ACD5MqkuCRz87) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Mirou](https://open.spotify.com/album/3sBQyl3PDQP1zh5BcpKaJA) | 4:12 |
+| 86 | [Luck Pusher](https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm) | 2:43 |
+| 87 | [Mirou](https://open.spotify.com/track/5GHr2k1v1ACD5MqkuCRz87) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Mirou](https://open.spotify.com/album/3sBQyl3PDQP1zh5BcpKaJA) | 4:12 |
+| 88 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
 | 89 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 |
-| 90 | [Tofino](https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU) | [Tofino](https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW) | 3:41 |
-| 91 | [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ) | 3:49 |
+| 90 | [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ) | 3:49 |
+| 91 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
 | 92 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 |
-| 93 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
-| 94 | [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 |
-| 95 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/39ifiZKJ8VCwgyQTWy9cyL) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/4jkqzylbWYyqwzsBthivea) | 2:43 |
+| 93 | [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 |
+| 94 | [Tofino](https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU) | [Tofino](https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW) | 3:41 |
+| 95 | [I'm on Fire](https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm on Fire](https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg) | 2:20 |
 | 96 | [I'm Not The Only One \- Acoustic Version](https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [I'm Not The Only One \(Acoustic Version\)](https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884) | 3:33 |
 | 97 | [When the Party's Over](https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When the Party's Over](https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR) | 2:34 |
 | 98 | [Recompose](https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7) | [Kay Nambiar](https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX) | [Ep1](https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI) | 3:24 |
 | 99 | [With Or Without You \(Acoustic\)](https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [With Or Without You \(Acoustic\)](https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC) | 3:26 |
-| 100 | [Fine On Your Own](https://open.spotify.com/track/5GieMXCbY0rFATTrwyMqS2) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [God Save The Dream](https://open.spotify.com/album/4OX4R0SPj4MkfLcQqsMcY5) | 3:42 |
+| 100 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 |
 
-Snapshot ID: `MCw2MzIxODM2ZWRkZDFiNmRhNjU1ZmI0OGUzYTFiODU4ZjlkNzdjY2Vl`
+Snapshot ID: `MCw4ZDRmMjU1MGUzNzlkOTk4MGE0MzU3ZmNhMTY0ODUxOTI5ZjhlYjkw`

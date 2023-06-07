@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 140414,
+  "num_followers": 140453,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTRhYjFiNGJhZDQyMDVkYjBjMGZlYTQ0ZmQwOGJlZWYxMDEwNGQz",
+  "snapshot_id": "MCw5NGU5YjI4M2ZlNWEzNjIyMjIzNGNiMDAzMWE4NTM2OGVhOWYyYzY4",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Manassas",
-        "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stills",
-          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Grievous Angel",
         "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 266226,
       "name": "Return of the Grievous Angel - 2006 Remaster",
       "url": "https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Manassas",
+        "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stills",
+          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Hotel California (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 304925,
-      "name": "New Kid in Town - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
-    },
-    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Song for Juli",
@@ -531,6 +515,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Hotel California (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 304925,
+      "name": "New Kid in Town - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Sweetheart Of The Rodeo",
         "url": "https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 160466,
       "name": "One Hundred Years from Now",
       "url": "https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi"
-    },
-    {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
-        "name": "The Flying Burrito Brothers",
-        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
-      },
-      "artists": [
-        {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Tried So Hard",
-      "url": "https://open.spotify.com/track/4v4ssibf1FAkxisrqeMPhh"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -575,6 +559,22 @@
       "duration_ms": 141160,
       "name": "Silver Threads And Golden Needles",
       "url": "https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Tried So Hard",
+      "url": "https://open.spotify.com/track/4v4ssibf1FAkxisrqeMPhh"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "The Flying Burrito Brothers",
-        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
-      },
-      "artists": [
-        {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "White Line Fever",
-      "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "No Other",
         "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 391773,
       "name": "Strength of Strings",
       "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "White Line Fever",
+      "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
     },
     {
       "added_at": "2020-08-05 15:52:11",

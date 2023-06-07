@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 114210,
+  "num_followers": 114420,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTZhZjQyZjk2NzMzMThlMWRjNTBlYTcxNzM0ODk0ZGE2MWNiMzcx",
+  "snapshot_id": "MCw4YjRmMGIwYjQxNjY5YTQ0NGQ5MTBmZjA3MjBiMjdmMjI1M2M2MGUy",
   "tracks": [
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Keep Telling Myself It's Alright",
-        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
-      },
-      "artists": [
-        {
-          "name": "ASHES dIVIDE",
-          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Stone",
-      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Planet of Ice",
         "url": "https://open.spotify.com/album/3aaMFKKvaE66uTd4agSUwV"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 219760,
       "name": "Knights",
       "url": "https://open.spotify.com/track/0la8irNJgsIU3EHIjxLM0L"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Keep Telling Myself It's Alright",
+        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
+      },
+      "artists": [
+        {
+          "name": "ASHES dIVIDE",
+          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Stone",
+      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
+        "name": "Springtime and Blind",
+        "url": "https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw"
+      },
+      "artists": [
+        {
+          "name": "Fiddlehead",
+          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
+        }
+      ],
+      "duration_ms": 166101,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
         "name": "Gb City",
         "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 143760,
       "name": "A Modern Way of Letting Go",
       "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
-        "name": "Springtime and Blind",
-        "url": "https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw"
-      },
-      "artists": [
-        {
-          "name": "Fiddlehead",
-          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
-        }
-      ],
-      "duration_ms": 166101,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "The New Vice EP",
-        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
-      },
-      "artists": [
-        {
-          "name": "Otherkin",
-          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
-        }
-      ],
-      "duration_ms": 213492,
-      "name": "Yeah, I Know",
-      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Moving Away",
         "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 205148,
       "name": "Lily",
       "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "The New Vice EP",
+        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
+      },
+      "artists": [
+        {
+          "name": "Otherkin",
+          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
+        }
+      ],
+      "duration_ms": 213492,
+      "name": "Yeah, I Know",
+      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Here at All",
-        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "In Your Way",
-      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Heavy in the Day",
         "url": "https://open.spotify.com/album/281202APzTHOf2hs6RFcmr"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 210893,
       "name": "Something Better",
       "url": "https://open.spotify.com/track/49p2lVw2SIn1cCfjaBptQo"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Here at All",
+        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "In Your Way",
+      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 259266,
-      "name": "Driving Nowhere",
-      "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Racecar Is Racecar Backwards (Tenth Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fBlKCxTGFF8Q2epS9TPwT"
       },
@@ -1835,18 +1819,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Four of Arrows",
-        "url": "https://open.spotify.com/album/5aHufmLPJqWTDLNV9Ppj60"
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
       },
       "artists": [
         {
-          "name": "Great Grandpa",
-          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 262200,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4M7kp5G0wFJOxYr3VPaJT2"
+      "duration_ms": 259266,
+      "name": "Driving Nowhere",
+      "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1863,6 +1847,22 @@
       "duration_ms": 281173,
       "name": "Driveway to Driveway",
       "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Four of Arrows",
+        "url": "https://open.spotify.com/album/5aHufmLPJqWTDLNV9Ppj60"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4M7kp5G0wFJOxYr3VPaJT2"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Mint 400",
-        "url": "https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby"
-      },
-      "artists": [
-        {
-          "name": "Ammonia",
-          "url": "https://open.spotify.com/artist/1yaf2CGmvYuUIyrsL0GZOV"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "I'm Not Well",
         "url": "https://open.spotify.com/album/3CHP5LUOP2kjAGctsTD2YN"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 158435,
       "name": "Husk",
       "url": "https://open.spotify.com/track/2rXCIP7vZhcKnARrSnwCD7"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Mint 400",
+        "url": "https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby"
+      },
+      "artists": [
+        {
+          "name": "Ammonia",
+          "url": "https://open.spotify.com/artist/1yaf2CGmvYuUIyrsL0GZOV"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1959,6 +1959,22 @@
       "duration_ms": 246306,
       "name": "Backroads",
       "url": "https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Beyond the Horizon",
+        "url": "https://open.spotify.com/album/2Y5IRa81PCxIw68dyOfgcA"
+      },
+      "artists": [
+        {
+          "name": "People In Planes",
+          "url": "https://open.spotify.com/artist/0xTNdlDmxYw4nebrj7ouxk"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/1BoJEC8Tjs4DxoEGuT8UBf"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2063,18 +2079,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Beyond the Horizon",
-        "url": "https://open.spotify.com/album/2Y5IRa81PCxIw68dyOfgcA"
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
       },
       "artists": [
         {
-          "name": "People In Planes",
-          "url": "https://open.spotify.com/artist/0xTNdlDmxYw4nebrj7ouxk"
+          "name": "Pist.On",
+          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
         }
       ],
-      "duration_ms": 266866,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/1BoJEC8Tjs4DxoEGuT8UBf"
+      "duration_ms": 237893,
+      "name": "Grey Flap",
+      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2091,22 +2107,6 @@
       "duration_ms": 449655,
       "name": "Innervisions",
       "url": "https://open.spotify.com/track/5DiisEbfcEqNV7UdfADAIq"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
-      },
-      "artists": [
-        {
-          "name": "Pist.On",
-          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Grey Flap",
-      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Coma Happy",
-        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 221865,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Effloresce",
         "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 400680,
       "name": "Catalyst - Remastered",
       "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Coma Happy",
+        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 221865,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2403,18 +2403,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Imbue",
-        "url": "https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI"
+        "name": "The Haze",
+        "url": "https://open.spotify.com/album/6Q4AoT2DyqrhWibThNfRWO"
       },
       "artists": [
         {
-          "name": "The Early November",
-          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+          "name": "Pulled Apart By Horses",
+          "url": "https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy"
         }
       ],
-      "duration_ms": 270625,
-      "name": "Narrow Mouth",
-      "url": "https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY"
+      "duration_ms": 195079,
+      "name": "The Big What If",
+      "url": "https://open.spotify.com/track/0j8qJI1KjzSJwuOwggXv2s"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 101844,
+  "num_followers": 101879,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2ZiMmNmOWYyMTRmNThjZmEzMjIzOWY5M2YwNTc2N2Q2YTYxOTVi",
+  "snapshot_id": "MCw4M2Q5NWExODM0ZjQ4YTI5NWExOGNkNzkwN2Y4NDdhOTQxZGM5OTU3",
   "tracks": [
     {
       "added_at": "2023-01-11 22:54:33",
@@ -576,22 +576,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205583,
-      "name": "For You - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD"
       },
       "artists": [
@@ -608,17 +592,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 169440,
-      "name": "Feel It Still - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
+      "duration_ms": 205583,
+      "name": "For You - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -635,6 +619,22 @@
       "duration_ms": 233772,
       "name": "Landslide - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Feel It Still - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -992,6 +992,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 274968,
+      "name": "Four Out Of Five - Recorded at Electric Lady Studios, New York",
+      "url": "https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU"
       },
       "artists": [
@@ -1019,22 +1035,6 @@
       "duration_ms": 176958,
       "name": "Life Is Confusing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/3xTqO5pmcvcQ42RIYodPNO"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 274968,
-      "name": "Four Out Of Five - Recorded at Electric Lady Studios, New York",
-      "url": "https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Wannabe - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 152109,
-      "name": "Wannabe - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
+      "duration_ms": 233854,
+      "name": "Partner In Crime - Spotify Singles",
+      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+        "name": "Wannabe - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 233854,
-      "name": "Partner In Crime - Spotify Singles",
-      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
+      "duration_ms": 152109,
+      "name": "Wannabe - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1264,22 +1264,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 220098,
-      "name": "Glory - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6i1Rn2NjB2a55zq5F6FUAO"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
       },
       "artists": [
@@ -1291,6 +1275,22 @@
       "duration_ms": 170342,
       "name": "00000 Million - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1WnSNeXgZUs9lfEv3rAFXH"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 220098,
+      "name": "Glory - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6i1Rn2NjB2a55zq5F6FUAO"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "La Tirana - Spotify Singles",
+      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
         "name": "The View From Halfway Down - Spotify Singles",
         "url": "https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 230145,
       "name": "The View From Halfway Down - Spotify Singles",
       "url": "https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "La Tirana - Spotify Singles",
-      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1548,6 +1548,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 268207,
+      "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78"
       },
       "artists": [
@@ -1564,17 +1580,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
+        "url": "https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 268207,
-      "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
+      "duration_ms": 221115,
+      "name": "Whole Wide World - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1612,22 +1628,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 221115,
-      "name": "Whole Wide World - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3mtMRf4O00DKs01E6v6OXG"
       },
       "artists": [
@@ -1644,22 +1644,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 210355,
-      "name": "El Rey de la Popola - Spotify Singles",
-      "url": "https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
       },
       "artists": [
@@ -1671,6 +1655,22 @@
       "duration_ms": 337837,
       "name": "Everything Now - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 210355,
+      "name": "El Rey de la Popola - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1740,22 +1740,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 194313,
-      "name": "Be Sweet - Spotify Singles",
-      "url": "https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
       },
       "artists": [
@@ -1767,6 +1751,22 @@
       "duration_ms": 320156,
       "name": "Mind Games - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2UxY3bwMbuPdbG3teXYOxQ"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 194313,
+      "name": "Be Sweet - Spotify Singles",
+      "url": "https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1788,22 +1788,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0nuevVEmgZ7meuFGnFn5AA"
-      },
-      "artists": [
-        {
-          "name": "Mondo Cozmo",
-          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
-        }
-      ],
-      "duration_ms": 286840,
-      "name": "Shine - Jim Eno Sessions",
-      "url": "https://open.spotify.com/track/5iha6wXLuWdwBtlkRdsmrk"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
       },
       "artists": [
@@ -1815,6 +1799,22 @@
       "duration_ms": 235979,
       "name": "Pressure - Live at AIR Studios, London",
       "url": "https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0nuevVEmgZ7meuFGnFn5AA"
+      },
+      "artists": [
+        {
+          "name": "Mondo Cozmo",
+          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
+        }
+      ],
+      "duration_ms": 286840,
+      "name": "Shine - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/5iha6wXLuWdwBtlkRdsmrk"
     },
     {
       "added_at": "2023-01-11 22:54:33",

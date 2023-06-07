@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 139835,
+  "num_followers": 140119,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjYyZTk2NDYzOWQyOWVmNDgyYjQ2MThhNDk5ODVkZTAyMWZiMmY3",
+  "snapshot_id": "MCw3MzI3YWIyYjJjMzI5M2FjZmE3NmMxMjI5NWJjMGIyZGI5ODc4Mzdm",
   "tracks": [
     {
       "added_at": "2023-01-10 19:08:23",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 212888,
-      "name": "The Hardest Button to Button",
-      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Electriclarryland",
         "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 297266,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 212888,
+      "name": "The Hardest Button to Button",
+      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Porno For Pyros",
-        "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
-      },
-      "artists": [
-        {
-          "name": "Porno for Pyros",
-          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Pets",
-      "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Diary (2009 Edition)",
         "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 298413,
       "name": "In Circles - Remastered",
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Porno For Pyros",
+        "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
+      },
+      "artists": [
+        {
+          "name": "Porno for Pyros",
+          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Pets",
+      "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Pleased to Meet Me (Expanded)",
-        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
-      },
-      "artists": [
-        {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Can't Hardly Wait - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 309106,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Pleased to Meet Me (Expanded)",
+        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Can't Hardly Wait - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Cure for Pain",
-        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-      },
-      "artists": [
-        {
-          "name": "Morphine",
-          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Cure for Pain",
-      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "And Then Nothing Turned Itself Inside-Out",
         "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 276640,
       "name": "You Can Have It All",
       "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Cure for Pain",
+        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+      },
+      "artists": [
+        {
+          "name": "Morphine",
+          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Cure for Pain",
+      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD"
-      },
-      "artists": [
-        {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
-        }
-      ],
-      "duration_ms": 357693,
-      "name": "Sugar Kane",
-      "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Rites Of Passage (Expanded Edition)",
         "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 252960,
       "name": "Galileo",
       "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 357693,
+      "name": "Sugar Kane",
+      "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"
     },
     {
       "added_at": "2023-01-10 19:08:23",

@@ -33467,6 +33467,24 @@
     },
     {
       "album": {
+        "name": "Simply in Love",
+        "url": "https://open.spotify.com/album/2SqSLXleVQNc7MIxIEfuSF"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rising",
+          "url": "https://open.spotify.com/artist/0BeAuKNzkpVr6w0nLi5tro"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227054,
+      "name": "Simply in Love",
+      "url": "https://open.spotify.com/track/2l3vDZiOi6c8NLoMv3LmP1"
+    },
+    {
+      "album": {
         "name": "Revamped",
         "url": "https://open.spotify.com/album/1XvQIFwQR62tP5MdV0oY7l"
       },

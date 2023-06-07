@@ -3551,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "Cataleya",
+        "url": "https://open.spotify.com/album/75W4jn9e1wEy3eENSsDBNl"
+      },
+      "artists": [
+        {
+          "name": "A-nine",
+          "url": "https://open.spotify.com/artist/6kvttKDg5ioVprwcaiqWV1"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160034,
+      "name": "Cataleya",
+      "url": "https://open.spotify.com/track/0UPqn8FGqnHqBjrkTHnFm7"
+    },
+    {
+      "album": {
         "name": "Selfmade (Deluxe)",
         "url": "https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV"
       },
@@ -13324,7 +13342,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 122606,
       "name": "KRYPA HEM",
       "url": "https://open.spotify.com/track/1GCybsrQ3fiP1Ux4cSPs1f"

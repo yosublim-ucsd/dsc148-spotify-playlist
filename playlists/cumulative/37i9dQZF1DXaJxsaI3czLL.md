@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-221 songs - 15 hr 30 min
+223 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [All My Love \- English Ver.](https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 | 2022-10-20 | 2023-01-13 |
 | [Apartment](https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N) | [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [Apartment](https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT) | 4:03 | 2022-10-20 |  |
 | [Arms](https://open.spotify.com/track/1B6SBaHIua9BXsL2IrNqj3) | [naomi paris tokyo](https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8) | [21SS](https://open.spotify.com/album/53wfpETmJBR5sfAo8O4JuF) | 3:52 | 2022-11-15 | 2022-12-13 |
-| [Arrows](https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Arrows](https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3) | 4:26 | 2022-11-01 |  |
+| [Arrows](https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Arrows](https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3) | 4:26 | 2022-11-01 | 2023-06-07 |
 | [astronaut](https://open.spotify.com/track/7MyaO0sCEPGYAugCbltZsr) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [astronaut](https://open.spotify.com/album/4LAASJUTt0j2xtB79no0DH) | 4:38 | 2022-12-15 | 2022-12-21 |
 | [BABY BLUE](https://open.spotify.com/track/2Eot25c6UOeLc4jcN3fEQF) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [空中キャンプ](https://open.spotify.com/album/7GOdEIOvr41lvxDK7bvPrI) | 6:09 | 2022-11-23 | 2023-02-17 |
 | [Beautiful Sleep](https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 4:02 | 2022-10-20 |  |
@@ -52,6 +52,7 @@
 | [Higashi Yoshino](https://open.spotify.com/track/5GbFjiN7n8UinsQG27YQVP) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS), [Bioman](https://open.spotify.com/artist/5X9XmfNxSM6lP2QXQyYAWM) | [Villa Tereze](https://open.spotify.com/album/4OuUigPkJ1U6fB7k4X5GfV) | 1:18 | 2022-10-20 |  |
 | [Holy](https://open.spotify.com/track/6HqUbd3s956kPMGovpL9FI) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Holy](https://open.spotify.com/album/2e8EsnQduWjhDsdmQBBN15) | 2:52 | 2023-03-14 | 2023-03-29 |
 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 |  |
+| [Hues](https://open.spotify.com/track/08XFNYjOUBtWjdlSpimV7A) | [naomi paris tokyo](https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8) | [Hues](https://open.spotify.com/album/031jv13JunAFo2noS217gX) | 4:13 | 2023-06-06 |  |
 | [I Love You More.](https://open.spotify.com/track/5Id0x8wRZVso2GLqzofDAB) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 2:00 | 2023-01-03 | 2023-02-01 |
 | [I Wish You Love](https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [Voices Of Love](https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9) | 4:18 | 2023-01-26 |  |
 | [if you just smile\(もし君が微笑んだら\)](https://open.spotify.com/track/0T68jDr8wpTUtpWoxjX1ue) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [Long Voyage](https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi) | 6:11 | 2022-10-20 | 2022-11-09 |
@@ -125,6 +126,7 @@
 | [ukikusa](https://open.spotify.com/track/3ivnjXjOSK824zgeZuzCsZ) | [Beard](https://open.spotify.com/artist/3fm8mLgvvLfi3wFof8a8zN), [YELIKK](https://open.spotify.com/artist/0VpOZTcCUCHMj5RMrEwwVp) | [ukikusa](https://open.spotify.com/album/3Svl3VxVlvyVWQUxJYekRe) | 4:18 | 2022-10-20 | 2022-10-26 |
 | [Utero](https://open.spotify.com/track/6Ni01Ptke62rV8WkAYiBMM) | [jan and naomi](https://open.spotify.com/artist/4V7c0eZEtXXBFJLY6WpSmT) | [Leeloo and Alexandra](https://open.spotify.com/album/1Qi0J8woiPDk8J8WltPdzb) | 4:44 | 2023-01-31 | 2023-05-24 |
 | [Weight](https://open.spotify.com/track/3J3bxrFCscf5KgNgBpQUo7) | [PAELLAS](https://open.spotify.com/artist/6ELS2XYR8tvJdQyEx8s3ZT) | [sequential souls](https://open.spotify.com/album/0ERZRcTZO8ZUAIKT9Aa87q) | 4:42 | 2022-10-20 | 2022-11-14 |
+| [white dress](https://open.spotify.com/track/7qod4wNweZVfZZfV5MeC3t) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [white dress](https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS) | 2:52 | 2023-06-06 |  |
 | [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-04 | 2023-05-31 |
 | [Yakan Hikou](https://open.spotify.com/track/7Djn2PQhFI1YGojIQUZGwC) | [いちやなぎ](https://open.spotify.com/artist/6yhBmNNa8y5tZegkOQLLPB) | [Yakan Hikou](https://open.spotify.com/album/7hXC2CPNOycgV716L41LHu) | 4:43 | 2023-01-19 | 2023-01-25 |
 | [Yellow Moon](https://open.spotify.com/track/3nPTeT1tp6GmHjmBFnCSzF) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Roundabout](https://open.spotify.com/album/07b8jFWroRWTpEWF8SrDLe) | 5:08 | 2023-01-26 |  |
@@ -175,7 +177,7 @@
 | [メロディー](https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [Cafe Japan](https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb) | 4:40 | 2022-10-20 |  |
 | [ロマンチック2017](https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0) | [KENTA MAENO](https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043) | [ロマンチック2017](https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH) | 1:07 | 2022-10-25 | 2023-04-09 |
 | [世界はここで回るよ](https://open.spotify.com/track/7vThpShILWq0xIenNi53Va) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [世界はここで回るよ](https://open.spotify.com/album/4DzFPjfbnCxtrku5WDvt9J) | 4:35 | 2022-11-29 | 2023-01-07 |
-| [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 | 2023-03-30 |  |
+| [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 | 2023-03-30 | 2023-06-07 |
 | [同じ月を見ている](https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [瀬と瀬](https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS) | 4:43 | 2022-10-20 | 2023-03-23 |
 | [在宅ワルツ](https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e) | [NRQ](https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf) | [Retronym](https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj) | 2:41 | 2022-10-20 | 2023-04-21 |
 | [夏のクラクション](https://open.spotify.com/track/1bhcV6nFXDxzyQwQ0h8hsn) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [CITY POP LOVERS](https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48) | 4:17 | 2022-11-29 | 2022-12-14 |

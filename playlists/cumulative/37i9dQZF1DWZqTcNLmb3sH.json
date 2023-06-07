@@ -3101,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "Dachak Anthamma (from \"Kiraathaka 2\")",
+        "url": "https://open.spotify.com/album/1rSgL0Nsuq6Rp8H14FxUVh"
+      },
+      "artists": [
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238909,
+      "name": "Dachak Anthamma (from \"Kiraathaka 2\")",
+      "url": "https://open.spotify.com/track/3OPIInoiNtSMqYQq7meDg6"
+    },
+    {
+      "album": {
         "name": "Dammare Dammare Dam (From \"Dooradarshana\")",
         "url": "https://open.spotify.com/album/0ZuAhl8y2kHdN8K6ZxJghN"
       },
@@ -4700,6 +4718,36 @@
       "duration_ms": 215498,
       "name": "Gaalipata 2 Title Track",
       "url": "https://open.spotify.com/track/1VdtmM1lQXGJkpKam0lkRz"
+    },
+    {
+      "album": {
+        "name": "Gadayuddha Title Track (From \"Gadayuddha \")",
+        "url": "https://open.spotify.com/album/5TlWvj76bWtYhudCKYOCyQ"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "name": "Disha Solomon",
+          "url": "https://open.spotify.com/artist/1UazcpFhCgBPYm7aLsEmvE"
+        },
+        {
+          "name": "Wiseking Solomon",
+          "url": "https://open.spotify.com/artist/3tBnoSaW6RanaqVOZtsQ8Y"
+        },
+        {
+          "name": "Chethan Aniketh",
+          "url": "https://open.spotify.com/artist/5FWu34MMYGWT8DgPL3aJce"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "Gadayuddha Title Track - From \"Gadayuddha \"",
+      "url": "https://open.spotify.com/track/2OoElAL2HF9XbqoznobQUw"
     },
     {
       "album": {

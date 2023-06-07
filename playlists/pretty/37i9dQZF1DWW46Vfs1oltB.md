@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Kid Milli\(키드밀리\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,167 likes - 140 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,181 likes - 140 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 92 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 |
 | 93 | [MAPSI](https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [MAPSI](https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05) | 2:40 |
 | 94 | [Glow \(feat\. Royal 44\)](https://open.spotify.com/track/3eO9L6VaAiXmX1s59uD3b1) | [Xwally](https://open.spotify.com/artist/1bJudkGbYinY2AIQeEi9Cd), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [XARCHIVE](https://open.spotify.com/album/4cP3cA5rtTkXi5iIDrfwaW) | 3:25 |
-| 95 | [Boutta Go](https://open.spotify.com/track/3VIiiCkbV437uiieLmrxyM) | [100KGOLD](https://open.spotify.com/artist/5J9IHTqjLSVbckoTCnAtes), [STEEPY](https://open.spotify.com/artist/6dpZEt8zoRWsBJJO1gb9HA), [EK](https://open.spotify.com/artist/4Go853OReK56no2zHn7ED2) | [Boutta Go](https://open.spotify.com/album/4VYhWns031tRetYsHEmEZo) | 3:19 |
+| 95 | [Boutta Go](https://open.spotify.com/track/3VIiiCkbV437uiieLmrxyM) | [100KGOLD](https://open.spotify.com/artist/5J9IHTqjLSVbckoTCnAtes), [STEEPY](https://open.spotify.com/artist/6dpZEt8zoRWsBJJO1gb9HA), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [Boutta Go](https://open.spotify.com/album/4VYhWns031tRetYsHEmEZo) | 3:19 |
 | 96 | [Nonsense](https://open.spotify.com/track/4F9lsEUqiJlpW1SE3DQMBX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [EDDY](https://open.spotify.com/artist/2I5WCuHrCLEemr7N04T9KN) | [LovebrûléeADVISORY](https://open.spotify.com/album/1VVGCxNDKpsU7ya1oOM6dI) | 2:40 |
 | 97 | [KrOWN\_Loco](https://open.spotify.com/track/1o73PCNhaz5VhjNxnrBzef) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |
 | 98 | [QUANDO](https://open.spotify.com/track/5gKtt6uXYrtV9J0z7rBs9z) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [THE CORE TAPE, Vol\. 1](https://open.spotify.com/album/5QTXZPqCQwsQd6sByRsXNH) | 3:27 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 139 | [Complex \(Feat\. ZICO\)](https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [FIVE SENSES](https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP) | 3:15 |
 | 140 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
 
-Snapshot ID: `MCwwMTY1ODA4OTUzNGNlNjYwMjkxZThmYzFhYzA0Nzc1ZTlmNDQ5ZjY2`
+Snapshot ID: `MCxlNDczNDFjY2IwMmQ3ZWQ4NzY0ZTg1OTU5NjNjNjFhYWQxYWIxOTZi`

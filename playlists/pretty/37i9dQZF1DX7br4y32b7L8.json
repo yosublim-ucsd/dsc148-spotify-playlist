@@ -1,12 +1,12 @@
 {
   "description": "lekker op vakantie met Anne-Fleur! Cover: Roxy Dekker\n",
-  "num_followers": 13059,
+  "num_followers": 13092,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWJkNjAwZjc1MGYyNDQ3NjI2ZDliMTRmNjRlZTNkZWUxNzhhZDg2",
+  "snapshot_id": "MCw4ZGYxNDhjZTBmZmNhMGI3MDNkOWU4NjcyMjI1YjA4OWRjZjVjNWZj",
   "tracks": [
     {
       "added_at": "2023-05-31 13:05:39",
@@ -171,6 +171,26 @@
     {
       "added_at": "2023-05-31 13:05:39",
       "album": {
+        "name": "Bunda",
+        "url": "https://open.spotify.com/album/1rK2NHrwrMKitKdC58GIf1"
+      },
+      "artists": [
+        {
+          "name": "Bram Krikke",
+          "url": "https://open.spotify.com/artist/5B4zg4qSXc3znw9xUbh7mk"
+        },
+        {
+          "name": "Pieter Valley",
+          "url": "https://open.spotify.com/artist/41vxXybYeV3y7FLzwPZO7k"
+        }
+      ],
+      "duration_ms": 103972,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm"
+    },
+    {
+      "added_at": "2023-05-31 13:05:39",
+      "album": {
         "name": "Vatos Locos",
         "url": "https://open.spotify.com/album/2GlT1zfc04pKMawuOvt1GL"
       },
@@ -187,26 +207,26 @@
     {
       "added_at": "2023-05-31 13:05:39",
       "album": {
-        "name": "Allemaal Een Droom",
-        "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
+        "name": "Friesenjung",
+        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
       },
       "artists": [
         {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
         },
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
         },
         {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
         }
       ],
-      "duration_ms": 188411,
-      "name": "Watching You (feat. Tory Lanez)",
-      "url": "https://open.spotify.com/track/3zNwMVpQyijGbU9HibxAZP"
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
     },
     {
       "added_at": "2023-05-31 13:05:39",
@@ -239,26 +259,6 @@
       "duration_ms": 198904,
       "name": "Not So Bad (Leans Gone Cold)",
       "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
-    },
-    {
-      "added_at": "2023-05-31 13:05:39",
-      "album": {
-        "name": "Bunda",
-        "url": "https://open.spotify.com/album/1rK2NHrwrMKitKdC58GIf1"
-      },
-      "artists": [
-        {
-          "name": "Bram Krikke",
-          "url": "https://open.spotify.com/artist/5B4zg4qSXc3znw9xUbh7mk"
-        },
-        {
-          "name": "Pieter Valley",
-          "url": "https://open.spotify.com/artist/41vxXybYeV3y7FLzwPZO7k"
-        }
-      ],
-      "duration_ms": 103972,
-      "name": "Bunda",
-      "url": "https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm"
     },
     {
       "added_at": "2023-05-31 13:05:39",
@@ -315,26 +315,26 @@
     {
       "added_at": "2023-05-31 13:05:39",
       "album": {
-        "name": "Friesenjung",
-        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
+        "name": "Allemaal Een Droom",
+        "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
       },
       "artists": [
         {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
         },
         {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         },
         {
-          "name": "Otto Waalkes",
-          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
         }
       ],
-      "duration_ms": 146086,
-      "name": "Friesenjung",
-      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
+      "duration_ms": 188411,
+      "name": "Watching You (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/3zNwMVpQyijGbU9HibxAZP"
     },
     {
       "added_at": "2023-05-31 13:05:39",

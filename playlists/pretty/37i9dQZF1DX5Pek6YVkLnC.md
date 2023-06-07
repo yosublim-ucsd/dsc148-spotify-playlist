@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Dei V
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,697 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,712 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 30 | [Pacto \(feat\. Luar La L\)](https://open.spotify.com/track/2whW1Q8KTOODkGDakLZa6V) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 4:44 |
 | 31 | [RON COLA](https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:06 |
 | 32 | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8) | 6:45 |
-| 33 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 |
-| 34 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 |
-| 35 | [FANTASMA \| AVC](https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [FANTASMA \| AVC](https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP) | 4:45 |
+| 33 | [FANTASMA \| AVC](https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [FANTASMA \| AVC](https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP) | 4:45 |
+| 34 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 |
+| 35 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 |
 | 36 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 |
 | 37 | [Mbappé \- Remix](https://open.spotify.com/track/1T6CF1qnG0hK0absyeVL5H) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:57 |
 | 38 | [JS4E](https://open.spotify.com/track/68e9XUS28xQRV9jghSx0NX) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [Que Te Vaya Bien](https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Que Te Vaya Bien](https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB) | 2:50 |
 | 50 | [ascensor](https://open.spotify.com/track/0wcDnGqnDotHBxntD9A2uf) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ascensor](https://open.spotify.com/album/1aeJpuLkIW1IeNqY1PBqZR) | 2:59 |
 
-Snapshot ID: `MCwyYzFjMWVlMTkyOTg5YWZlZDQ4ZjIyNDk3Mjk5MDdhMTEzYTVlN2Qx`
+Snapshot ID: `MCwxMjY2ZTlmNzk2NDAzNjUwOWIyN2I1OTFjYjI1YzhkYzM4Y2U4ZDQ1`

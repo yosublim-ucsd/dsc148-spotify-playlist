@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 61583,
+  "num_followers": 61627,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjgyZDU5ZTliOTJhMjc5NTIzMWNiYWQ2N2U0NWFmMjRmYzU2NGM5",
+  "snapshot_id": "MCwxZmRmZDI0MDQwMzIxYmJiMTcyN2U0ZTViYWUwYzU0NmUxNDhhMDll",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 190608,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "El Punto Final",
         "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 213418,
       "name": "El Punto Final",
       "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 190608,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Los Del Portezuelo",
-        "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
       },
       "artists": [
         {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Al So\u00f1arte",
-      "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
+      "duration_ms": 205557,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
+        "name": "Los Del Portezuelo",
+        "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
       },
       "artists": [
         {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
         }
       ],
-      "duration_ms": 205557,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
+      "duration_ms": 203333,
+      "name": "Al So\u00f1arte",
+      "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 213859,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Churita",
         "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 149680,
       "name": "Adi\u00f3s Amor M\u00edo",
       "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 213859,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "D\u00e9jame Intentar",
-        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 162192,
-      "name": "D\u00e9jame Intentar",
-      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Repechando la Senda",
         "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
       },
@@ -1287,26 +1271,6 @@
       "duration_ms": 249627,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Tierra Mia",
-        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        },
-        {
-          "name": "Sebastian Llapur",
-          "url": "https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0"
-        }
-      ],
-      "duration_ms": 268875,
-      "name": "Flor Palida",
-      "url": "https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1331,6 +1295,26 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Tierra Mia",
+        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        },
+        {
+          "name": "Sebastian Llapur",
+          "url": "https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0"
+        }
+      ],
+      "duration_ms": 268875,
+      "name": "Flor Palida",
+      "url": "https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Tu Respuesta",
         "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 222908,
       "name": "Tu Respuesta",
       "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "D\u00e9jame Intentar",
+        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 162192,
+      "name": "D\u00e9jame Intentar",
+      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Bien o Mal",
-        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 210818,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Repechando la Senda",
         "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 233561,
       "name": "Nunca Olvides",
       "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Bien o Mal",
+        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 210818,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT"
-      },
-      "artists": [
-        {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Ansiado Encuentro",
         "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 275563,
       "name": "Ansiado Encuentro",
       "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT"
+      },
+      "artists": [
+        {
+          "name": "Los 4 De Cordoba",
+          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK"
     }
   ],
   "unique_name": "Folklore Rom\u00e1ntico ",

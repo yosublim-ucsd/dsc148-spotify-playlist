@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,509 likes - 78 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,551 likes - 78 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 25 | [Danza de Gardenias \(feat\. Los Macorinos\)](https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 4:23 |
 | 26 | [El Frío](https://open.spotify.com/track/3nkA77oKDQcxbz9QLQITwa) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Santa](https://open.spotify.com/album/7kcc8r4mutJi0jtptelGQK) | 4:02 |
 | 27 | [Bússola](https://open.spotify.com/track/4DJYm5wansT0fxA5y7q34G) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [Bússola](https://open.spotify.com/album/1RvKMfOJLSPhFE3djjIXgz) | 2:37 |
-| 28 | [La maladie du siècle](https://open.spotify.com/track/744sJKmbuq0PxKpN4v0IiM) | [Marie Claudel](https://open.spotify.com/artist/1W6ikPowiwsdGChhf21l0A) | [Ne parle pas aux étranges](https://open.spotify.com/album/2L2fpncQVPAS1VZTnnEN9c) | 3:05 |
+| 28 | [La maladie du siècle](https://open.spotify.com/track/5jHXiPzvpmy7rxaKk4SZJJ) | [Marie Claudel](https://open.spotify.com/artist/1W6ikPowiwsdGChhf21l0A) | [Ne parle pas aux étranges](https://open.spotify.com/album/20q8qEQJEkjnApBQ58wm46) | 3:05 |
 | 29 | [Moln](https://open.spotify.com/track/3ZScDVAXMkMsGjrN1j1qiy) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Till havet](https://open.spotify.com/album/0iyXNQtQgAK5V0fJG4PEl0) | 4:05 |
 | 30 | ['S Ar Maidin Moch is Mé ar mo Leabain Bhoig](https://open.spotify.com/track/44iDw81DugB0vFPL86XoBd) | [Muireann Nic Amhlaoibh](https://open.spotify.com/artist/0kmDsPHHxquChPOywNcoF3) | [Ar Uair Bhig An Lae \- The Small Hours](https://open.spotify.com/album/7MuIL1yaYFof17gjVzPr8T) | 5:33 |
 | 31 | [Amwaj \(Waves\)](https://open.spotify.com/track/0SS2q79Zm8IoygBl1ocwmZ) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:40 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 77 | [Hora Bruja](https://open.spotify.com/track/3KjUz9upExFV7dxsm9P45R) | [Cuchillo](https://open.spotify.com/artist/4HUoMCRLwJTGvuzcevaLVT) | [Encanto](https://open.spotify.com/album/7ghVkkWsjzTFna6lR0Axt1) | 3:53 |
 | 78 | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/track/6vOpTasDwu8gj7IRbFXNjE) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/album/2PjJMRedxiuCTtQgTkn2wR) | 3:41 |
 
-Snapshot ID: `MCxhZGMwZmRiOTFhYzVlZWMzYjhmZmM1YWRjZDQ4ZTM5OWM2NDI0NTM3`
+Snapshot ID: `MCw0ZDQ2NDg3MzE3YzRlMjlkYmE1ZDJlYWYzNmYzMzc4YTlhNzhiNWFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Tove Lo
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,096 likes - 102 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,164 likes - 102 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 23 | [The Other POV](https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The Other POV](https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3) | 2:59 |
 | 24 | [Heartstrings](https://open.spotify.com/track/4RPnYynrxLHVuzTj1Abs2p) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Heartstrings](https://open.spotify.com/album/0s6EqyJrTz4fpwnBLAZ8Tf) | 3:12 |
 | 25 | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/track/7Js0XIcvp0lavx7G8fInJA) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/album/1SvB73HwvP9xGYvNwUKfBB) | 3:43 |
-| 26 | [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 |
+| 26 | [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 |
 | 27 | [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 |
 | 28 | [me, my girls & i](https://open.spotify.com/track/2K7CqNeCpbO0RoD4bAZ5tU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [me, my girls & i](https://open.spotify.com/album/1P0f6gRBid1YPgdkMtaWij) | 2:29 |
 | 29 | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/track/7JKIP5eWwPfpijXDU5EmZf) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9) | 2:38 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 101 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 |
 | 102 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 |
 
-Snapshot ID: `MCxiZWRiOTIxNzQ4OTE1ZTg1ZGMxMWMyYjUwOGEwZWFmZDI4NGZjZWM5`
+Snapshot ID: `MCxjYTczZmRjYzk4MDZiY2E2OTFhYzU5MTE0NTNjOWVmYWIxNzdjMzE0`

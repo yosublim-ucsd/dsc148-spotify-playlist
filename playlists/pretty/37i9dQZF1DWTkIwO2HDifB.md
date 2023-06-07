@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Galopeira e os funks mais 🔑 do Brasil\. Foto: Mc Menor MT, DJ Deivão, DJ Gouveia
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,664,276 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,666,830 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 8 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 |
 | 9 | [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 |
 | 10 | [Papin](https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY) | [Tamborzão Raiz](https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW) | 2:02 |
-| 11 | [Ela Voltou de Perna Bamba](https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP), [MC Pê Original](https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC) | [Ela Voltou de Perna Bamba](https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs) | 3:19 |
+| 11 | [Ela Voltou de Perna Bamba](https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [MC Pê Original](https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Ela Voltou de Perna Bamba](https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs) | 3:19 |
 | 12 | [Quebra Cabeça \- Spotify Singles](https://open.spotify.com/track/2veIj31M3WytrkLQrbjFkx) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Quebra Cabeça \- Spotify Singles](https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT) | 2:16 |
 | 13 | [Na Contramão](https://open.spotify.com/track/7kJ0aTB5gLMYrJjYft3Vx6) | [DJ Katrip](https://open.spotify.com/artist/4Ley0K7c2keTiOW0Jpam5g), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Na Contramão](https://open.spotify.com/album/0TqLSBctNqzky2bUakAMVb) | 2:44 |
 | 14 | [Luz do Luar](https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j) | [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [Luz do Luar](https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Bala Love](https://open.spotify.com/track/48Ll1C6qAnP2UjnopQDh4a) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI) | [Bala Love](https://open.spotify.com/album/1Hr2BJE35v4OYirOAe0hA3) | 3:41 |
 | 50 | [Simplesmente Ela](https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w) | 2:41 |
 
-Snapshot ID: `MCwxOTAwNzNkYzY5MTA2MjVhNjIwODRjNjFjYzYyMmMxMWI0NDM3Y2I0`
+Snapshot ID: `MCxkZTFhYTViYzZjYTQ1YmY1N2ZiMzBkMzFkODBkN2E5ZDE0MTc2MmY0`

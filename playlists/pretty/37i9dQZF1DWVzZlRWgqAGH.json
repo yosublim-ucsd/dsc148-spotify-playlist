@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: RAYE",
-  "num_followers": 777958,
+  "num_followers": 777951,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTViMmY3ZTZkY2NkYjIwNDUwZmM2NDk0NDkyODhlMzhmMWNlMDE4",
+  "snapshot_id": "MCxhNTRjNmY3M2RhZmJlMmMzY2FiMjdkZGFkNzRhZDNiY2ZmZGMwNzRj",
   "tracks": [
     {
       "added_at": "2023-06-02 01:59:49",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-06-02 01:59:49",
       "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 232122,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
-    },
-    {
-      "added_at": "2023-06-02 01:59:49",
-      "album": {
         "name": "MOVIN'",
         "url": "https://open.spotify.com/album/5ufrlZ2S0Wv7P1cjTT02Bm"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
+    },
+    {
+      "added_at": "2023-06-02 01:59:49",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 232122,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
       "added_at": "2023-06-02 01:59:49",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-06-02 01:59:49",
       "album": {
-        "name": "Looping",
-        "url": "https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 193967,
-      "name": "Looping",
-      "url": "https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn"
-    },
-    {
-      "added_at": "2023-06-02 01:59:49",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2023-06-02 01:59:49",
+      "album": {
+        "name": "Looping",
+        "url": "https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 193967,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn"
     },
     {
       "added_at": "2023-06-02 01:59:49",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-02 01:59:49",
       "album": {
-        "name": "Hello Poison",
-        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 166256,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ"
-    },
-    {
-      "added_at": "2023-06-02 01:59:49",
-      "album": {
         "name": "A Brief Nirvana",
         "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 185666,
       "name": "These Four Walls",
       "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
+    },
+    {
+      "added_at": "2023-06-02 01:59:49",
+      "album": {
+        "name": "Hello Poison",
+        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 166256,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ"
     },
     {
       "added_at": "2023-06-02 01:59:49",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-06-02 01:59:49",
       "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
+    },
+    {
+      "added_at": "2023-06-02 01:59:49",
+      "album": {
         "name": "HONEYSUCKLE NECKBONE",
         "url": "https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 200560,
       "name": "HONEYSUCKLE NECKBONE",
       "url": "https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev"
-    },
-    {
-      "added_at": "2023-06-02 01:59:49",
-      "album": {
-        "name": "Just Cool",
-        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "Just Cool",
-      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
     },
     {
       "added_at": "2023-06-02 01:59:49",
@@ -1507,30 +1507,6 @@
     {
       "added_at": "2023-06-02 01:59:49",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/3EoAucVdfV60XmjBKbKMCL"
-      },
-      "artists": [
-        {
-          "name": "Rory",
-          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
-        },
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
-        },
-        {
-          "name": "Jay Electronica",
-          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
-        }
-      ],
-      "duration_ms": 166156,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA"
-    },
-    {
-      "added_at": "2023-06-02 01:59:49",
-      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
@@ -1543,6 +1519,22 @@
       "duration_ms": 197524,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2023-06-02 01:59:49",
+      "album": {
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2023-06-02 01:59:49",
@@ -1563,6 +1555,30 @@
       "duration_ms": 157921,
       "name": "GEEKIN",
       "url": "https://open.spotify.com/track/4HiWfodoaCudNmx2AJCgq6"
+    },
+    {
+      "added_at": "2023-06-02 01:59:49",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/3EoAucVdfV60XmjBKbKMCL"
+      },
+      "artists": [
+        {
+          "name": "Rory",
+          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        }
+      ],
+      "duration_ms": 166156,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA"
     },
     {
       "added_at": "2023-06-02 01:59:49",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2023-06-02 01:59:49",
       "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
-    },
-    {
-      "added_at": "2023-06-02 01:59:49",
-      "album": {
         "name": "Make Me Say It Again, Girl",
         "url": "https://open.spotify.com/album/52b0FH5bRs92vajujszHo0"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 205846,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+    },
+    {
+      "added_at": "2023-06-02 01:59:49",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2023-06-02 01:59:49",
@@ -1719,22 +1735,6 @@
     {
       "added_at": "2023-06-02 01:59:49",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
-    },
-    {
-      "added_at": "2023-06-02 01:59:49",
-      "album": {
         "name": "Grey Doubt",
         "url": "https://open.spotify.com/album/3UTSxCYSRe6B9MO2EtHMHW"
       },
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-06-02 01:59:49",
       "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222457,
+      "name": "Mango Butter",
+      "url": "https://open.spotify.com/track/2biRwgdbRj553k78fgoz86"
+    },
+    {
+      "added_at": "2023-06-02 01:59:49",
+      "album": {
         "name": "Beh Beh",
         "url": "https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 198400,
       "name": "Beh Beh",
       "url": "https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie"
-    },
-    {
-      "added_at": "2023-06-02 01:59:49",
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222457,
-      "name": "Mango Butter",
-      "url": "https://open.spotify.com/track/2biRwgdbRj553k78fgoz86"
     },
     {
       "added_at": "2023-06-02 01:59:49",

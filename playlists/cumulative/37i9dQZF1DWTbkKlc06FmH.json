@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 195635,
       "name": "AGAIN",
       "url": "https://open.spotify.com/track/4ltqkH3b02yW7IBR6C0cz1"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 256069,
       "name": "Crush You",
       "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
@@ -3531,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/6RG3DZjvTcbnhNmIVqy771"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313825,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/1wfS1gd8k7o9ohCXPU4tYU"
+    },
+    {
+      "album": {
         "name": "Lovers In Tokyo",
         "url": "https://open.spotify.com/album/3VnDBO2UsZnofhJ65hE7yC"
       },
@@ -4134,7 +4152,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 368904,
       "name": "New York",
       "url": "https://open.spotify.com/track/5tUvHmtOoOFzglmBlBgC2e"
@@ -4476,6 +4494,24 @@
       "duration_ms": 249250,
       "name": "oDoRiKo",
       "url": "https://open.spotify.com/track/3in6o3amnJwGKIZf2u6tmi"
+    },
+    {
+      "album": {
+        "name": "ohhh!",
+        "url": "https://open.spotify.com/album/3D4Y8HjCtnKoSBeEhcXshA"
+      },
+      "artists": [
+        {
+          "name": "Chara",
+          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220096,
+      "name": "ohhh!",
+      "url": "https://open.spotify.com/track/6QnhQ4DMD2GcQ3b1N6eeJa"
     },
     {
       "album": {
@@ -7682,6 +7718,24 @@
       "duration_ms": 320754,
       "name": "\u7121\u6dfb\u52a0",
       "url": "https://open.spotify.com/track/6XjFPsbkATcM5XQP13WPMv"
+    },
+    {
+      "album": {
+        "name": "\u7425\u73c0",
+        "url": "https://open.spotify.com/album/6v0lKNwsubljn75IXQRvhe"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243666,
+      "name": "\u7425\u73c0",
+      "url": "https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci"
     },
     {
       "album": {

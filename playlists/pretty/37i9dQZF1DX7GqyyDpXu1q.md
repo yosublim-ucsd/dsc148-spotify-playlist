@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Rock swagger served neat\. Cover: Pecos & the Rooftops
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,542 likes - 105 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,578 likes - 105 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 48 | [Naturally Wild](https://open.spotify.com/track/3Qi4gIj4fB6PF3lDKC1DDd) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:14 |
 | 49 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 |
 | 50 | [Better Run](https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [The Vandoliers](https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM) | 3:05 |
-| 51 | [DLTGYD](https://open.spotify.com/track/474bbaCVDM80WEg9iSvkYb) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [DLTGYD](https://open.spotify.com/album/7FnG6OJfxnWf3YdYqt4jv9) | 4:30 |
+| 51 | [DLTGYD](https://open.spotify.com/track/474bbaCVDM80WEg9iSvkYb) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [DLTGYD](https://open.spotify.com/album/7FnG6OJfxnWf3YdYqt4jv9) | 4:30 |
 | 52 | [Give Me One Reason \(The Plug\)](https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [The Human Condition \(Deluxe Edition\)](https://open.spotify.com/album/4ZtEyTG6s7MfPjoEDrxH9C) | 3:34 |
 | 53 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
 | 54 | [Bury My Bones](https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Bury My Bones](https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu) | 4:19 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 104 | [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 |
 | 105 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 |
 
-Snapshot ID: `MCxlYWI3ODhkMTYwM2U5M2RlZjE5NTkwZDc4MWY1YTE0YjhhOWVhNjI0`
+Snapshot ID: `MCwxYTdjNzljNWE4ODA5MWJkZGRmMzQ4ZjY1NTEzYmJjYTkwMDRkZGJh`

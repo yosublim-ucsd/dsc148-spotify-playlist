@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023! \u2600\ufe0f\ud83c\udf79\ud83c\udfdd\ufe0f",
-  "num_followers": 93736,
+  "num_followers": 93783,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmRhODkwZjYwYTZkNzhjZmU2MDRiMDVhMDAwYjM5Mzc5ODU1YTNj",
+  "snapshot_id": "MCxiZTQwMDNjNTA3NmRiYjQwZjA2NmU4MTAxYmZiZTU2OTAwYmZjMTdj",
   "tracks": [
     {
       "added_at": "2023-06-05 08:01:31",
@@ -303,42 +303,6 @@
     {
       "added_at": "2023-06-05 08:01:31",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
         "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
         "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
       },
@@ -359,6 +323,42 @@
       "duration_ms": 169523,
       "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "added_at": "2023-06-05 08:01:31",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-06-05 08:01:31",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 139927,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
     },
     {
       "added_at": "2023-06-05 08:01:31",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2023-06-05 08:01:31",
       "album": {
+        "name": "House For Kings",
+        "url": "https://open.spotify.com/album/4Zligq6DUjH3Z2bbVAjgpL"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 200975,
+      "name": "House For Kings",
+      "url": "https://open.spotify.com/track/5QcT02qFxTVG8pan86W1Ab"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI"
       },
@@ -1483,6 +1503,22 @@
       "duration_ms": 235215,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
     },
     {
       "added_at": "2023-06-05 08:01:31",
@@ -1507,22 +1543,6 @@
       "duration_ms": 211452,
       "name": "Looking For Me",
       "url": "https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
     },
     {
       "added_at": "2023-06-05 08:01:31",
@@ -1587,6 +1607,26 @@
     {
       "added_at": "2023-06-05 08:01:31",
       "album": {
+        "name": "You Were Loved (with OneRepublic)",
+        "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 221885,
+      "name": "You Were Loved (with OneRepublic)",
+      "url": "https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ"
       },
@@ -1607,6 +1647,22 @@
     {
       "added_at": "2023-06-05 08:01:31",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/2R9a1Kl1u7OT9WlUjVyvVd"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
         "name": "Always Be There",
         "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
       },
@@ -1623,6 +1679,42 @@
       "duration_ms": 198407,
       "name": "Always Be There",
       "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
     },
     {
       "added_at": "2023-06-05 08:01:31",
@@ -1651,46 +1743,6 @@
     {
       "added_at": "2023-06-05 08:01:31",
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
-        "name": "You Were Loved (with OneRepublic)",
-        "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 221885,
-      "name": "You Were Loved (with OneRepublic)",
-      "url": "https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
         "name": "Electric Love",
         "url": "https://open.spotify.com/album/0REnSVgLIRN89uekm2TwJl"
       },
@@ -1711,22 +1763,6 @@
     {
       "added_at": "2023-06-05 08:01:31",
       "album": {
-        "name": "Madan (King)",
-        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Madan (King)",
-      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
         "name": "Feels Like Love (feat. MIYA MIYA)",
         "url": "https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29"
       },
@@ -1743,26 +1779,6 @@
       "duration_ms": 169672,
       "name": "Feels Like Love (feat. MIYA MIYA)",
       "url": "https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
-        "name": "House For Kings",
-        "url": "https://open.spotify.com/album/4Zligq6DUjH3Z2bbVAjgpL"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 200975,
-      "name": "House For Kings",
-      "url": "https://open.spotify.com/track/5QcT02qFxTVG8pan86W1Ab"
     },
     {
       "added_at": "2023-06-05 08:01:31",
@@ -1791,26 +1807,6 @@
     {
       "added_at": "2023-06-05 08:01:31",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
         "name": "Ritmo (HUGEL Edit)",
         "url": "https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C"
       },
@@ -1831,6 +1827,26 @@
     {
       "added_at": "2023-06-05 08:01:31",
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
         "name": "Leave A Little Love",
         "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/2R9a1Kl1u7OT9WlUjVyvVd"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 148173,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh"
     },
     {
       "added_at": "2023-06-05 08:01:31",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-06-05 08:01:31",
       "album": {
-        "name": "Little Bit Of Love",
-        "url": "https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 195452,
-      "name": "Little Bit Of Love",
-      "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
         "name": "Live For",
         "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 171433,
       "name": "Live For",
       "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
+        "name": "Little Bit Of Love",
+        "url": "https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 195452,
+      "name": "Little Bit Of Love",
+      "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
     },
     {
       "added_at": "2023-06-05 08:01:31",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2023-06-05 08:01:31",
       "album": {
-        "name": "Caught Up (with Olivia O'Brien)",
-        "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 173214,
-      "name": "Caught Up (with Olivia O'Brien)",
-      "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
-    },
-    {
-      "added_at": "2023-06-05 08:01:31",
-      "album": {
         "name": "DANCE",
         "url": "https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 174448,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
+    },
+    {
+      "added_at": "2023-06-05 08:01:31",
+      "album": {
+        "name": "Caught Up (with Olivia O'Brien)",
+        "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 173214,
+      "name": "Caught Up (with Olivia O'Brien)",
+      "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
     },
     {
       "added_at": "2023-06-05 08:01:31",

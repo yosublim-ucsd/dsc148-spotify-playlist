@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 265960,
+  "num_followers": 266048,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjJiNTljZDliYzEyMjllOWI3YTRjYWNmOTYxMGFjMjkxYmNlOTU4",
+  "snapshot_id": "MCw5MmI0YTI0ZTA1YmM0ZGZmNGE5ZTQ3ZWJhNThhNmI4ZGVjZWZkZmZj",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
     },
     {
-      "added_at": "2023-06-06 01:54:34",
+      "added_at": "2023-06-07 01:49:56",
       "album": {
         "name": "American Nightmare",
         "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
-      },
-      "artists": [
-        {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Calling It",
-      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Street Worms",
         "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 216284,
       "name": "Down in the Basement",
       "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
+      },
+      "artists": [
+        {
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Calling It",
+      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 212910,
-      "name": "Creatures",
-      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Stumpwork",
         "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 187586,
       "name": "Back To The Radio",
       "url": "https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 212910,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "'Til The Stream Runs Dry",
+        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
+      },
+      "artists": [
+        {
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+        }
+      ],
+      "duration_ms": 260665,
+      "name": "St. Paul of the Tarantulas",
+      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Welfare Jazz",
         "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
       },
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
     },
     {
-      "added_at": "2023-06-06 01:54:34",
+      "added_at": "2023-06-07 01:49:56",
       "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
@@ -571,22 +587,6 @@
       "duration_ms": 177559,
       "name": "Make Way",
       "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "'Til The Stream Runs Dry",
-        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
-      },
-      "artists": [
-        {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
-        }
-      ],
-      "duration_ms": 260665,
-      "name": "St. Paul of the Tarantulas",
-      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
     },
     {
-      "added_at": "2023-06-06 01:54:34",
+      "added_at": "2023-06-07 01:49:56",
       "album": {
         "name": "Nurse!",
         "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Every Bad (Expanded Edition)",
         "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 222840,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "The Overload",
-        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Pour Another",
-      "url": "https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
+        "name": "The Overload",
+        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
       "artists": [
         {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
         }
       ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
+      "duration_ms": 200226,
+      "name": "Pour Another",
+      "url": "https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g"
     },
     {
       "added_at": "2023-02-24 00:00:00",

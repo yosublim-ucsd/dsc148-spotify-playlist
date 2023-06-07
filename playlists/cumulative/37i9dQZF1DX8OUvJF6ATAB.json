@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Majestic sapphire island",
+        "url": "https://open.spotify.com/album/2bHP9WEkHSY0evSUpcXI42"
+      },
+      "artists": [
+        {
+          "name": "Saphileaum",
+          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Cosmic lake transparency - Original Mix",
+      "url": "https://open.spotify.com/track/4beDadqk2att64FbvO3zvn"
+    },
+    {
+      "album": {
         "name": "Cycles",
         "url": "https://open.spotify.com/album/7s6RExKiewxS5m6aFT4JXN"
       },
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 288802,
       "name": "Into the void",
       "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"

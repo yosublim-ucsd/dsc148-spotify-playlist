@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-172 songs - 15 hr 1 min
+173 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Saving All My Love for You](https://open.spotify.com/track/67gegBlOgrRPHhfLfb3CEj) | [Atlantic Five Jazz Band](https://open.spotify.com/artist/2utgbFODWxZ6ZPLVhRaToA) | [The Pop Jazz Sessions](https://open.spotify.com/album/1bSsOP5q2aXB0TO2h6rKXg) | 5:23 | 2022-09-22 |  |
 | [Sconsolato](https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM) | [Nathan Davis](https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO) | [Best of 1965\-76](https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv) | 3:28 | 2021-12-21 |  |
 | [Sister Rosa](https://open.spotify.com/track/2ZuGfHsOmBicZnGSMwREbG) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [The Movement Revisited: A Musical Portrait of Four Icons](https://open.spotify.com/album/6sxsZhMo8LBx3IIcqhtR13) | 6:25 | 2021-12-21 | 2022-10-26 |
+| [So They Say](https://open.spotify.com/track/4689TAqR9n79nptG04RV9c) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [So They Say](https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg) | 3:57 | 2023-06-01 |  |
 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 6:33 | 2021-12-21 |  |
 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 8:02 | 2022-02-10 |  |
 | [Some Gospel According to Matthew \- Live](https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Some Gospel According to Matthew](https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO) | 5:23 | 2022-02-10 |  |
@@ -177,7 +178,7 @@
 | [Wolves](https://open.spotify.com/track/6swC1FhShFOBw1WelyqIfZ) | [Foehn Trio](https://open.spotify.com/artist/71YdDTi8qnsYcgSEnTI3et) | [Highlines](https://open.spotify.com/album/0ONIe9ezp42TGsOjz7n9pF) | 6:02 | 2021-12-21 | 2022-06-01 |
 | [Yardley Suite](https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/1MVB8WaiCepzmHVvX741WN) | 3:55 | 2021-12-21 | 2022-07-28 |
 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2022-06-30 | 2022-09-27 |
-| [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 | 2022-09-13 |  |
+| [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 | 2022-09-13 | 2023-06-07 |
 | [Yesterday's Dreams](https://open.spotify.com/track/0rT1BwALaymdi8Ivsl0Oew) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light](https://open.spotify.com/album/1FziKW5OiiPik3VeXFhtf2) | 3:56 | 2021-12-21 | 2022-07-29 |
 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-02-16 |  |
 

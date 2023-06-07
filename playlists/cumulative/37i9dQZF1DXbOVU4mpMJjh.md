@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-713 songs - 2 day 3 hr 34 min
+714 songs - 2 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [In a quiet voice](https://open.spotify.com/track/0gEwI6dLfDSdb5uykp86Xx) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [In a quiet voice](https://open.spotify.com/album/3y21l63OCbOjOXR4st1swK) | 2:44 | 2023-04-14 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/51BfVxH0QfxTpFgZMMbhwK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/7qsnx3thQiQabvDkHfqI1m) | 4:18 | 2022-04-14 | 2022-04-28 |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-05-31 |  |
+| [In the Blink of an Eye](https://open.spotify.com/track/6ojZVftxBE1dGfkJHvE6Lb) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [In the Blink of an Eye](https://open.spotify.com/album/5tkmYVK9VnNwsYXoyNyf5i) | 3:28 | 2023-06-01 |  |
 | [In The Old Fashioned Way](https://open.spotify.com/track/2ExRtsNPSx1XupyPBq7Wtr) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [In The Old Fashioned Way](https://open.spotify.com/album/7hZ0nH506LaGxcYLxlb0ms) | 3:48 | 2023-01-19 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/2UPYanBCFUE1XeJUxFrMFP) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/1n2ZwnIo8yDU6T64f2ARiK) | 3:54 | 2023-03-09 |  |
 | [In Walked Bud](https://open.spotify.com/track/49YksKHYlDNTQz8WB2PRUH) | [Jacob Simon Band](https://open.spotify.com/artist/7yL2fjTgT0Cdfefm5GH0ov) | [Relaxin' At Camarillo](https://open.spotify.com/album/1IshZ9kI4vuCyCUCXsltwE) | 3:43 | 2022-04-14 | 2022-09-23 |
@@ -327,7 +328,7 @@
 | [Killer Joe](https://open.spotify.com/track/0aEcArQsqTpErHdixEVaHj) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Terminal 1](https://open.spotify.com/album/3z7cxxCXvRmOav4DiOI3mP) | 6:53 | 2022-04-14 | 2022-09-16 |
 | [L.A\. 58](https://open.spotify.com/track/0jqMv6eLhPbsFbKlHsV9hv) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:06 | 2022-04-14 | 2022-10-08 |
 | [La fin justifie les moyens](https://open.spotify.com/track/1zowWjoCroDC3WZYxbrlNQ) | [Joran Cariou Trio](https://open.spotify.com/artist/0EmoB83lbpEcH9Eh77Sp9K), [Damien Varaillon](https://open.spotify.com/artist/0cE8R1W0Cc2wQIDZPdJJ2M), [Stéphane Adsuar](https://open.spotify.com/artist/1r3aAqkG4KRnk2syAoqSd2) | [The Path Up](https://open.spotify.com/album/54mnf1vkHCoNfWDP0Hu3dG) | 7:13 | 2022-04-14 | 2022-09-23 |
-| [Ladybird](https://open.spotify.com/track/5aO27DQUEMmiFGXvLdg5ub) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Dolphin Dance](https://open.spotify.com/album/4xz7ahUYTnpC8xzWfeDWV3) | 2:53 | 2023-01-20 |  |
+| [Ladybird](https://open.spotify.com/track/5aO27DQUEMmiFGXvLdg5ub) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Dolphin Dance](https://open.spotify.com/album/4xz7ahUYTnpC8xzWfeDWV3) | 2:53 | 2023-01-20 | 2023-06-07 |
 | [Lake Arrowhead](https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Lake Arrowhead](https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v) | 3:38 | 2023-04-14 |  |
 | [Landmarks](https://open.spotify.com/track/5bjV2B1rH2gkdtJ4qr0qQy) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Landmarks](https://open.spotify.com/album/5InHDZVvNbDDvq917BmMgT) | 8:20 | 2022-04-14 | 2022-10-03 |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 |  |

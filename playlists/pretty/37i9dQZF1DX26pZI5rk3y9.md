@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,361 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,366 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 42 | [I See a Man Downstairs](https://open.spotify.com/track/54JUUTQSkFRwoi03H3LSEx) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK), [Brian Auger & The Trinity](https://open.spotify.com/artist/64mmVwEeYtiiheLlRhTMuU) | [I See a Man Downstairs](https://open.spotify.com/album/55pXKlTlKOo5sm03vJwOOR) | 3:12 |
 | 43 | [Pigmeat](https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Lead Belly: The Smithsonian Folkways Collection](https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK) | 2:32 |
 | 44 | [Barbecue Blues](https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m) | [Barbecue Bob](https://open.spotify.com/artist/5L8FCi81vASYMJNWbODEDZ) | [Barbecue Bob Vol\. 1 \(1927 \- 1928\)](https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31) | 3:12 |
-| 45 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
-| 46 | [Ridin'](https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:23 |
-| 47 | [Appetite Blues](https://open.spotify.com/track/3AKevGgNMWWhA88SAsaQDL) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:35 |
-| 48 | [Get the Moon Up](https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:15 |
-| 49 | [Blue Monday \- Remastered](https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:42 |
-| 50 | [Chicken Rhythm](https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Groove Juice: The Norman Granz Recordings + More](https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc) | 2:29 |
+| 45 | [Ridin'](https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:23 |
+| 46 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
+| 47 | [Get the Moon Up](https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:15 |
+| 48 | [Appetite Blues](https://open.spotify.com/track/3AKevGgNMWWhA88SAsaQDL) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:35 |
+| 49 | [Chicken Rhythm](https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Groove Juice: The Norman Granz Recordings + More](https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc) | 2:29 |
+| 50 | [Blue Monday \- Remastered](https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:42 |
 | 51 | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 5: The Final Chapter](https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3) | 3:30 |
 | 52 | [Blues For The Barbecue](https://open.spotify.com/track/1OkKAb7CzQ8NcjIyMbD5sm) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Farmer's Market Barbecue](https://open.spotify.com/album/3Y2knKkX83CKkc4LtyOH9B) | 10:27 |
 | 53 | [Barbecue Blues](https://open.spotify.com/track/6PsX6nmpsOFR0jjLyEzmPZ) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Lucille Bogan \(Bessie Jackson\) Vol\. 3 \(1934\-1935\)](https://open.spotify.com/album/4BrGdafBB8CAnhsAtDbs0i) | 2:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Mama, What About Your Daughter \- Single Version](https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Martin Scorsese Presents The Blues: J.B\. Lenoir](https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt) | 2:29 |
 | 70 | [Atomic Cocktail](https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Atomic Cocktail \- Legendary Slim Gaillard](https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2) | 2:43 |
 
-Snapshot ID: `MCxlMjczOGVlNDNmODMxNzBiZDNiY2MxZTM4ODYyYjNmYjFmZmE3Mzk0`
+Snapshot ID: `MCw0ZDMwZGU2NGJlODQ0NDRiZWRiMTZkOWNhOGNmMmFiMGVlZmQ0ZjE2`

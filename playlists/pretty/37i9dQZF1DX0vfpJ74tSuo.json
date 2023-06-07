@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 59596,
+  "num_followers": 59649,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDRkNTcwNTgzZWMyMDUwOThmZGEzZGNmZTMwNGFjODU3ZTFkMzEx",
+  "snapshot_id": "MCw1Yzk0ZmNlNzQyYzVlNGRhYTA1ODM0YTZiM2VkNTUzNWExYmFmZWYw",
   "tracks": [
     {
       "added_at": "2023-05-26 13:39:55",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "Junker's Blues",
-      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 201906,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "Junker's Blues",
+      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
         "name": "Elementary Doctor Watson",
         "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 207387,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Cleanhead\" Vinson",
-          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Wee Baby Blues",
-      "url": "https://open.spotify.com/track/0LA1P4jVcRRY5RgYPONRy2"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
         "name": "Discover",
         "url": "https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 247496,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
+        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Cleanhead\" Vinson",
+          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Wee Baby Blues",
+      "url": "https://open.spotify.com/track/0LA1P4jVcRRY5RgYPONRy2"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
+        "name": "Keb' Mo'",
+        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 205240,
       "name": "Blues Funky Like Dat",
       "url": "https://open.spotify.com/track/6ZRUSMo4fKCk7bLKhE31lJ"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
-        "name": "Keb' Mo'",
-        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "That's All Right (Mama) - the Fire Sessions",
-        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
       "artists": [
         {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
         }
       ],
-      "duration_ms": 155493,
-      "name": "Mean Old 'Frisco Blues",
-      "url": "https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP"
+      "duration_ms": 187893,
+      "name": "Till the Real Thing Comes Along",
+      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+        "name": "That's All Right (Mama) - the Fire Sessions",
+        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
       },
       "artists": [
         {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
         }
       ],
-      "duration_ms": 187893,
-      "name": "Till the Real Thing Comes Along",
-      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
+      "duration_ms": 155493,
+      "name": "Mean Old 'Frisco Blues",
+      "url": "https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "Global Griot",
-        "url": "https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 151403,
-      "name": "Brazos River Blues",
-      "url": "https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
         "name": "The Road to Liberty, Pt. 1",
         "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "The Cause of It All",
-        "url": "https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh"
+        "name": "Global Griot",
+        "url": "https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3"
       },
       "artists": [
         {
-          "name": "The Reverend Shawn Amos",
-          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
         }
       ],
-      "duration_ms": 137186,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk"
+      "duration_ms": 151403,
+      "name": "Brazos River Blues",
+      "url": "https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1619,6 +1603,22 @@
       "duration_ms": 138250,
       "name": "The Fools Gold Blues - Stripped Back",
       "url": "https://open.spotify.com/track/3X5QEkIW5e38ByxavuR0sV"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
+        "name": "The Cause of It All",
+        "url": "https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "duration_ms": 137186,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "Last Session",
-        "url": "https://open.spotify.com/album/0mlOrznmUepY8FKiHaPhij"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Broke Down Engine Blues",
-      "url": "https://open.spotify.com/track/3pv4AWo4JMFi00CrvOfbOo"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
         "name": "I Like It When It Rains",
         "url": "https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 293000,
       "name": "Sittin on Top of the World",
       "url": "https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
+        "name": "Last Session",
+        "url": "https://open.spotify.com/album/0mlOrznmUepY8FKiHaPhij"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Broke Down Engine Blues",
+      "url": "https://open.spotify.com/track/3pv4AWo4JMFi00CrvOfbOo"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
+        "name": "Open Road",
+        "url": "https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/46XA7kA0XVsREeXvWz4Cas"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
         "name": "Newbury",
         "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
       },
@@ -1811,18 +1827,18 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "Open Road",
-        "url": "https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV"
+        "name": "Pray For Rain",
+        "url": "https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz"
       },
       "artists": [
         {
-          "name": "Colin James",
-          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
         }
       ],
-      "duration_ms": 212066,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/46XA7kA0XVsREeXvWz4Cas"
+      "duration_ms": 193893,
+      "name": "Pray For Rain",
+      "url": "https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1871,22 +1887,6 @@
       "duration_ms": 197237,
       "name": "Meet Me In The City",
       "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
-        "name": "Pray For Rain",
-        "url": "https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Pray For Rain",
-      "url": "https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
+        "name": "Ramble No More",
+        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Ramble No More",
+      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 192360,
       "name": "Isolation Blues",
       "url": "https://open.spotify.com/track/1YXtxPB2Q0ol5L4nIE3HJE"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
-        "name": "Ramble No More",
-        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Ramble No More",
-      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
     },
     {
       "added_at": "2023-05-26 13:39:55",

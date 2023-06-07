@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 166347,
+  "num_followers": 166407,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjNhMjRiMzY3OGMyZDJmN2I0MDczOWFiZTViNjkwYjBhZTJhYTVk",
+  "snapshot_id": "MCxlOWQ4MDdiZmMzNDRmM2E1NjkxMWRlM2QwNzc1ZmVmOWUzNzc2M2Qz",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Hernan Figueroa Reyes El Unico",
-        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
+        "name": "Idolo De Multitudes",
+        "url": "https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN"
       },
       "artists": [
         {
-          "name": "Hernan Figueroa Reyes",
-          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
         }
       ],
-      "duration_ms": 168948,
-      "name": "El Corralero",
-      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
+      "duration_ms": 250120,
+      "name": "La Villerita",
+      "url": "https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Idolo De Multitudes",
-        "url": "https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN"
+        "name": "Hernan Figueroa Reyes El Unico",
+        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
       },
       "artists": [
         {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+          "name": "Hernan Figueroa Reyes",
+          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
         }
       ],
-      "duration_ms": 250120,
-      "name": "La Villerita",
-      "url": "https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh"
+      "duration_ms": 168948,
+      "name": "El Corralero",
+      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Zamba para Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Correntinas II",
         "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 156866,
       "name": "Alma Guaran\u00ed",
       "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Zamba para Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Para Cantar He Nacido",
-        "url": "https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 206853,
-      "name": "Para Cantar He Nacido",
-      "url": "https://open.spotify.com/track/447ORDEfYxu77edFodcfr6"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Confiter\u00eda Europea 100 A\u00f1os",
         "url": "https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua"
       },
@@ -1303,22 +1287,6 @@
       "duration_ms": 148933,
       "name": "Serenata Oto\u00f1al",
       "url": "https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Amaneciendo",
-        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Con Todo Y Mi Tristeza",
-      "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1339,6 +1307,38 @@
       "duration_ms": 181386,
       "name": "Romance de Plumas Verdes",
       "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Con Todo Y Mi Tristeza",
+      "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Para Cantar He Nacido",
+        "url": "https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 206853,
+      "name": "Para Cantar He Nacido",
+      "url": "https://open.spotify.com/track/447ORDEfYxu77edFodcfr6"
     },
     {
       "added_at": "2023-05-12 03:00:00",

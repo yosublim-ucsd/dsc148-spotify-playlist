@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Helen Ochoa",
-  "num_followers": 502989,
+  "num_followers": 502980,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjFlN2E0MTg4NTM5YTdhOTU2Y2NhMThmNTY4ODk1NmMxMGQ3MjE4",
+  "snapshot_id": "MCwxYjIzNTk4Mzk0ZTUyZTcxY2UyYzVkNDNiYmFkMGJiYzA1ZWQxOGY0",
   "tracks": [
     {
       "added_at": "2023-04-28 19:30:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-28 19:30:14",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru"
-      },
-      "artists": [
-        {
-          "name": "Katia Morales",
-          "url": "https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8"
-    },
-    {
-      "added_at": "2023-04-28 19:30:14",
-      "album": {
         "name": "Te Me Sigues Antojando",
         "url": "https://open.spotify.com/album/5MmoawkYlXuROoreINB1k6"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-04-28 19:30:14",
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru"
+      },
+      "artists": [
+        {
+          "name": "Katia Morales",
+          "url": "https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8"
+    },
+    {
+      "added_at": "2023-04-28 19:30:14",
+      "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-28 19:30:14",
       "album": {
-        "name": "Se Me Olvid\u00f3 Otra Vez",
-        "url": "https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G"
-    },
-    {
-      "added_at": "2023-04-28 19:30:14",
-      "album": {
         "name": "San Mike",
         "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 171250,
       "name": "San Mike",
       "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
+    },
+    {
+      "added_at": "2023-04-28 19:30:14",
+      "album": {
+        "name": "Se Me Olvid\u00f3 Otra Vez",
+        "url": "https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G"
     },
     {
       "added_at": "2023-04-28 19:30:14",

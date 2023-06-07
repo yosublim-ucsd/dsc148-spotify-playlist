@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Get ready for a great week of golf with song picks from Justin Thomas, Jon Rahm, Bubba Watson, Collin Morikawa, & Max Homa.",
-  "name": "Augusta On My Mind",
+  "description": "Top tracks from the personal playlist of Bill Walton. 30 for 30: The Luckiest Guy in the World, available to stream now on ESPN+.",
+  "name": "The Luckiest Guy in the World",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 225983,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
@@ -34,10 +34,46 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 234866,
       "name": "99 Problems",
       "url": "https://open.spotify.com/track/6gtcmOwrktXnxygPkwRh4f"
+    },
+    {
+      "album": {
+        "name": "Postcards of the Hanging: Grateful Dead Perform the Songs of Bob Dylan (Live)",
+        "url": "https://open.spotify.com/album/4z650uYpycmQJvDVtfrYnb"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344360,
+      "name": "All Along the Watchtower - Live, July 4, 1989",
+      "url": "https://open.spotify.com/track/2dsTaa0xt3zlTTBqveoskM"
+    },
+    {
+      "album": {
+        "name": "Grateful Dead (Skull & Roses) [Live]",
+        "url": "https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340306,
+      "name": "Bertha - Live at Fillmore East, New York, NY, April 27, 1971",
+      "url": "https://open.spotify.com/track/3ZYSrBWQXYgTe4tyKKIZ0D"
     },
     {
       "album": {
@@ -52,7 +88,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 173182,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
@@ -78,7 +114,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 181665,
       "name": "Big Energy (feat. DJ Khaled) - Remix",
       "url": "https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G"
@@ -96,10 +132,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 243933,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/07m8PuXxxv5J4qPEDq6ZkK"
+    },
+    {
+      "album": {
+        "name": "GarciaLive Volume 16: November 15th, 1991 Madison Square Garden",
+        "url": "https://open.spotify.com/album/1TsrZoAYVLrC9vykZPPVcI"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358867,
+      "name": "Bright Side of the Road - Live",
+      "url": "https://open.spotify.com/track/0RZ7ZBsxX2AYONK7bU3kjV"
     },
     {
       "album": {
@@ -118,10 +176,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 185600,
       "name": "Broadway Girls (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd"
+    },
+    {
+      "album": {
+        "name": "Download Series Vol. 9: Civic Arena, Pittsburgh, PA 4/2/89 & 4/3/89 (Live)",
+        "url": "https://open.spotify.com/album/7CuPAAL41j1vEjYTjNh2OA"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326333,
+      "name": "Built to Last - Live at Civic Arena, Pittsburgh, PA, April 3, 1989",
+      "url": "https://open.spotify.com/track/6M3NQEPL4BuyFmpy0n2Efn"
     },
     {
       "album": {
@@ -136,7 +212,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 237546,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
@@ -158,7 +234,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 200168,
       "name": "Coming In Hot",
       "url": "https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8"
@@ -180,7 +256,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 225123,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/2qE3sj3jXj44kbCIU7bkIn"
@@ -198,10 +274,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 182066,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
+    },
+    {
+      "album": {
+        "name": "30 Days of Dead 2015",
+        "url": "https://open.spotify.com/album/1pb85AjruirkyCxVzAYRH5"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 902933,
+      "name": "Crazy Fingers - Live at Orpheum, San Francisco, 7/13/76",
+      "url": "https://open.spotify.com/track/5zxipiSuRWoceGqbCWlPa4"
     },
     {
       "album": {
@@ -216,7 +310,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 206949,
       "name": "Cross Country",
       "url": "https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9"
@@ -234,10 +328,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 208960,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+    },
+    {
+      "album": {
+        "name": "Complete Live Rarities Collection",
+        "url": "https://open.spotify.com/album/48pdNJ9i0DMrsSSYtmlXK2"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "Don't Ease Me In - Live in San Francisco, 1966",
+      "url": "https://open.spotify.com/track/25fluq7hsiAIrDRC19OsrC"
     },
     {
       "album": {
@@ -252,10 +364,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 250986,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
+    },
+    {
+      "album": {
+        "name": "Jerry Garcia Band",
+        "url": "https://open.spotify.com/album/2f7qKspNCuyxrBKQ8dZSnM"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286840,
+      "name": "Evangeline - Live",
+      "url": "https://open.spotify.com/track/66QNeK530hyUg9ytzK5P4w"
     },
     {
       "album": {
@@ -270,10 +404,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 245640,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "album": {
+        "name": "The Closing of Winterland: December 31, 1978",
+        "url": "https://open.spotify.com/album/3RtA7CxOnsJvfipdg4A3U8"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 797040,
+      "name": "Fire on the Mountain - Live at Winterland, December 31, 1978",
+      "url": "https://open.spotify.com/track/2QQYK7B6PfCNvUH3l8moIN"
     },
     {
       "album": {
@@ -288,7 +440,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 282693,
       "name": "Fly Like An Eagle",
       "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
@@ -306,10 +458,28 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 370920,
       "name": "Fool in the Rain - Remaster",
       "url": "https://open.spotify.com/track/3i25w2HOWoafnTIiWJCL71"
+    },
+    {
+      "album": {
+        "name": "Red Rocks Amphitheatre, Morrison, CO 7/8/78 (Live)",
+        "url": "https://open.spotify.com/album/6q4mDbsYJsixRai11qc2Vx"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 638773,
+      "name": "Franklin's Tower - Live at Red Rocks Amphitheatre, Morrison, CO 7/8/78",
+      "url": "https://open.spotify.com/track/0tyrv88txjpUOgoWjAcozF"
     },
     {
       "album": {
@@ -328,7 +498,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 212720,
       "name": "Freedom Was A Highway",
       "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
@@ -346,7 +516,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 203633,
       "name": "Georgia On My Mind",
       "url": "https://open.spotify.com/track/0DlpK5WlWkRC4Twzzouijh"
@@ -364,7 +534,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 217414,
       "name": "Georgia on My Mind - Original Master Recording",
       "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
@@ -386,7 +556,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 222266,
       "name": "Glorious (feat. Skylar Grey)",
       "url": "https://open.spotify.com/track/7oiEcG81HDmNHI2Ki2FaRv"
@@ -408,10 +578,64 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 158240,
       "name": "Good Times Roll",
       "url": "https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR"
+    },
+    {
+      "album": {
+        "name": "Live Albums Collection",
+        "url": "https://open.spotify.com/album/7ENQ5VEAlbbItHUL5qq9Wx"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244680,
+      "name": "Greatest Story Ever Told",
+      "url": "https://open.spotify.com/track/0BdKFjqgrGTIEAztEMnAoy"
+    },
+    {
+      "album": {
+        "name": "Crimson, White & Indigo: July 7 1989, JFK Stadium, Philadelphia (Live)",
+        "url": "https://open.spotify.com/album/1ILNO0v1Natm87x5UPedHh"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410106,
+      "name": "Hell in a Bucket - Live at JFK Stadium, Philadelphia, PA, July 7, 1989",
+      "url": "https://open.spotify.com/track/6sXq9A6SHpeUjsGdQLFNbe"
+    },
+    {
+      "album": {
+        "name": "Dick's Picks Vol. 17: Boston Garden, Boston, MA 9/25/91",
+        "url": "https://open.spotify.com/album/1rZjJhRyYT3MAQrCSxoF6D"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255266,
+      "name": "Help on the Way - Live at Boston Garden, September 25, 1991",
+      "url": "https://open.spotify.com/track/5toRNiBWD0wgSUvLj44Hbn"
     },
     {
       "album": {
@@ -426,7 +650,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 171493,
       "name": "Here And Now",
       "url": "https://open.spotify.com/track/7qRVyZDt1Caftkk8CQlKtk"
@@ -444,10 +668,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 209480,
       "name": "History In The Making",
       "url": "https://open.spotify.com/track/1J4HTEFSDx9DWyJVH5uv1b"
+    },
+    {
+      "album": {
+        "name": "The Closing of Winterland: December 31, 1978",
+        "url": "https://open.spotify.com/album/3RtA7CxOnsJvfipdg4A3U8"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 677040,
+      "name": "I Need a Miracle - Live at Winterland, December 31, 1978",
+      "url": "https://open.spotify.com/track/4jA7s4KUeDVc3Xpr7k6NYS"
     },
     {
       "album": {
@@ -462,10 +704,32 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 277476,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+    },
+    {
+      "album": {
+        "name": "After Midnight: Kean College, 2/28/80",
+        "url": "https://open.spotify.com/album/1rSxuSgBdp3ErOgCJ0VOcN"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 841146,
+      "name": "I'll Take A Melody - Live",
+      "url": "https://open.spotify.com/track/4JqzGkkvjziDmYfPB4r8yf"
     },
     {
       "album": {
@@ -484,7 +748,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 295794,
       "name": "Ima Just Do It",
       "url": "https://open.spotify.com/track/7ze7LDIDVksRgTpKIVUDsG"
@@ -502,7 +766,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 237946,
       "name": "In It for the Money",
       "url": "https://open.spotify.com/track/6qSsGgfqDqy8mZVkn5SOXr"
@@ -520,7 +784,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 336453,
       "name": "In The Air Tonight - 2015 Remastered",
       "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
@@ -542,7 +806,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 189706,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB"
@@ -560,10 +824,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 204150,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/7ssEhls1ZYEGtBsoovkMSe"
+    },
+    {
+      "album": {
+        "name": "So Many Roads (1965 - 1995)",
+        "url": "https://open.spotify.com/album/7mPptCcvPGwhCBGtqNvjk5"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359160,
+      "name": "Liberty - Live in Atlanta, March 30, 1994",
+      "url": "https://open.spotify.com/track/2jL2YRFCe5Z2lKF4G1q3LM"
     },
     {
       "album": {
@@ -586,10 +868,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 211913,
       "name": "Lift Me Up (feat. Future & Young Thug)",
       "url": "https://open.spotify.com/track/0PPcv1x7uCQAe3oF2j66io"
+    },
+    {
+      "album": {
+        "name": "Download Series Vol. 7: Springfield Civic Center, Springfield, MA 9/30/80 / Providence Civic Center, Providence, RI 9/4/80 (Live)",
+        "url": "https://open.spotify.com/album/0e0DiVVupxN4D9xOspyKRU"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430933,
+      "name": "Lost Sailor - Live in Springfield, MA, September 3, 1980",
+      "url": "https://open.spotify.com/track/2QyhCxKjaEC39UKE2PJvlm"
     },
     {
       "album": {
@@ -604,10 +904,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "album": {
+        "name": "Saint of Circumstance: Giants Stadium, East Rutherford, NJ 6/17/91 (Live)",
+        "url": "https://open.spotify.com/album/1f0whW4QE9bFNLpeyaPQiV"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402512,
+      "name": "Might as Well - Live at Giants Stadium, East Rutherford, NJ, 6/17/91",
+      "url": "https://open.spotify.com/track/7vAcbdXxxW0OvT6Tah5qhz"
     },
     {
       "album": {
@@ -622,7 +940,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 284960,
       "name": "My Kinda Party",
       "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
@@ -640,7 +958,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 206385,
       "name": "Nail Tech",
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
@@ -658,7 +976,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 187893,
       "name": "No More Mr. Nice Guy",
       "url": "https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV"
@@ -676,7 +994,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -694,7 +1012,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 292986,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/69kFyd2ymmN4o7o4ozZCQS"
@@ -712,7 +1030,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 238614,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
@@ -730,7 +1048,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 238614,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/4pQiWe7SzoQdGF6z8ZoZ9v"
@@ -748,7 +1066,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 166300,
       "name": "Out In The Middle",
       "url": "https://open.spotify.com/track/2Dacmfq3VLY1miVcU2SMIt"
@@ -766,7 +1084,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 203680,
       "name": "Out There",
       "url": "https://open.spotify.com/track/2cLbHhoGUUDFygKYSksKHV"
@@ -788,7 +1106,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 228666,
       "name": "Paid In Full",
       "url": "https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw"
@@ -806,7 +1124,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
@@ -824,7 +1142,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 206893,
       "name": "People Everyday",
       "url": "https://open.spotify.com/track/6JvodgYcsthsORxPsEYUoe"
@@ -846,10 +1164,50 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 200221,
       "name": "POPSTAR (feat. Drake)",
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "album": {
+        "name": "Garcia Plays Dylan",
+        "url": "https://open.spotify.com/album/0GObeL7KlCV3tUbyDfIryX"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 643546,
+      "name": "Positively 4th Street - Live",
+      "url": "https://open.spotify.com/track/5rPjb9O1LUW66cQXNhcjuS"
+    },
+    {
+      "album": {
+        "name": "Dick's Picks Vol. 17: Boston Garden, Boston, MA 9/25/91",
+        "url": "https://open.spotify.com/album/1rZjJhRyYT3MAQrCSxoF6D"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436826,
+      "name": "Queen Jane Approximately - Live at Boston Garden, September 25, 1991",
+      "url": "https://open.spotify.com/track/5sr9oUdr3R6DeITO6BfLsg"
     },
     {
       "album": {
@@ -864,7 +1222,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 213093,
       "name": "Return of the Mack",
       "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
@@ -882,7 +1240,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 141400,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
@@ -900,10 +1258,90 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 228702,
       "name": "rodman",
       "url": "https://open.spotify.com/track/0jufehOY40rRdvB2t4dsot"
+    },
+    {
+      "album": {
+        "name": "GarciaLive Volume Ten: May 20th, 1990 Hilo Civic Auditorium",
+        "url": "https://open.spotify.com/album/5gNepUIHwOU4VWgtfGbFd3"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339378,
+      "name": "Run for the Roses - Live",
+      "url": "https://open.spotify.com/track/0vkcAc9VH7m5QOJ3W3e85S"
+    },
+    {
+      "album": {
+        "name": "Dick's Picks Vol. 13: Nassau Coliseum, Uniondale, NY 5/6/81 (Live)",
+        "url": "https://open.spotify.com/album/5KhX09Ik4LFkLGgwz6DxJa"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2567626,
+      "name": "Saint of Circumstance - Live in Nassau Coliseum, May 6, 1981",
+      "url": "https://open.spotify.com/track/49sZR04sJdvcQEwXjt1cRN"
+    },
+    {
+      "album": {
+        "name": "Cornell 5/8/77 (Live)",
+        "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 675293,
+      "name": "Scarlet Begonias - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
+      "url": "https://open.spotify.com/track/2ydjxozpSUZLzmi82KV4Qp"
+    },
+    {
+      "album": {
+        "name": "See What Love Can Do (Live)",
+        "url": "https://open.spotify.com/album/4GD0gPeTaGNHpn7p9W65eJ"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391728,
+      "name": "See What Love Can Do - Live",
+      "url": "https://open.spotify.com/track/7HOJmoVFPMl0gdvv5mEW9z"
     },
     {
       "album": {
@@ -918,10 +1356,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 306040,
       "name": "Shine",
       "url": "https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839"
+    },
+    {
+      "album": {
+        "name": "Shining Star",
+        "url": "https://open.spotify.com/album/0nHxgHghkASwmGap74RGle"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 686666,
+      "name": "Shining Star - Live",
+      "url": "https://open.spotify.com/track/1L85W5ljQBsArmI9hqlWMJ"
     },
     {
       "album": {
@@ -936,10 +1396,118 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 225786,
       "name": "Shiny Happy People",
       "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
+    },
+    {
+      "album": {
+        "name": "Grateful Dead (Skull & Roses) [50th Anniversary Expanded Edition] [Live]",
+        "url": "https://open.spotify.com/album/3kMxm04sEdG5qzVA3ZOGmH"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 616054,
+      "name": "Sing Me Back Home (Live at the Fillmore West, San Francisco, CA, July 2, 1971)",
+      "url": "https://open.spotify.com/track/0C0XkZtNBEJMzwtXJfgJxj"
+    },
+    {
+      "album": {
+        "name": "Dick's Picks Vol. 3: Hollywood Sportatorium, Pembroke Pines, FL 5/22/77 (Live)",
+        "url": "https://open.spotify.com/album/3KxT9J6KTuKeXox9BUikZ4"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389973,
+      "name": "Slipknot! - Live at Pembroke Pines, FL, May 22, 1977",
+      "url": "https://open.spotify.com/track/5jXhcrTm7SCWbWivbmgIHx"
+    },
+    {
+      "album": {
+        "name": "So Many Roads (1965 - 1995)",
+        "url": "https://open.spotify.com/album/7mPptCcvPGwhCBGtqNvjk5"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 597733,
+      "name": "So Many Roads - Live in Chicago, July 9, 1995",
+      "url": "https://open.spotify.com/track/7vf1HQsPEUHl4oxGt3Md1e"
+    },
+    {
+      "album": {
+        "name": "Live / Dead",
+        "url": "https://open.spotify.com/album/6E7JCQINTT4vwRF4wBcsYk"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391893,
+      "name": "St. Stephen - Live at the Fillmore West San Francisco, 1969; 2001 Remaster",
+      "url": "https://open.spotify.com/track/63ZjH0NFN5q0ZT8fmmhHur"
+    },
+    {
+      "album": {
+        "name": "Crimson, White & Indigo: July 7 1989, JFK Stadium, Philadelphia (Live)",
+        "url": "https://open.spotify.com/album/1ILNO0v1Natm87x5UPedHh"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499786,
+      "name": "Standing on the Moon - Live at JFK Stadium, Philadelphia, PA, July 7, 1989",
+      "url": "https://open.spotify.com/track/2bHQWrxQ2dHIW5hQ5iBSJf"
+    },
+    {
+      "album": {
+        "name": "Madison Square Garden, New York, NY 3/9/81 (Live)",
+        "url": "https://open.spotify.com/album/50ER5uOSuN39s05PcrRgcm"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590191,
+      "name": "Stella Blue - Live at Madison Square Garden, New York, NY 3/9/81",
+      "url": "https://open.spotify.com/track/3engLh0ZOtxSIXpINaXnUH"
     },
     {
       "album": {
@@ -954,7 +1522,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
@@ -972,7 +1540,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 274088,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
@@ -1008,10 +1576,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 266720,
       "name": "The Boys Are Back In Town",
       "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
+    },
+    {
+      "album": {
+        "name": "Live / Dead",
+        "url": "https://open.spotify.com/album/6E7JCQINTT4vwRF4wBcsYk"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558800,
+      "name": "The Eleven - Live in San Francisco, 1969; 2001 Remaster",
+      "url": "https://open.spotify.com/track/2Ezia43Cm4DtUJhUZkbuFD"
     },
     {
       "album": {
@@ -1026,10 +1612,104 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 221226,
       "name": "Through The Wire",
       "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
+    },
+    {
+      "album": {
+        "name": "Wake up to Find Out: Nassau Coliseum: Uniondale; NY 3/29/1990 (Live)",
+        "url": "https://open.spotify.com/album/7xWKImlu9fzB1ApqoLLMiL"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565480,
+      "name": "Throwing Stones - Live at Nassau Coliseum, Uniondale, New York 3/29/90",
+      "url": "https://open.spotify.com/track/4EQv9NAWOumFlsIuzhTiLh"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Grateful Dead Live (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0uCGpoWFUppf95em9xkD20"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390546,
+      "name": "Touch of Grey - Live at Rich Stadium, Orchard Park, NY 7/4/89; 2018 Remaster",
+      "url": "https://open.spotify.com/track/6rsX0x595n3wvou0RgZ3Sf"
+    },
+    {
+      "album": {
+        "name": "Ladies and Gentlemen... The Grateful Dead: Fillmore East, New York City, April 1971 (Live)",
+        "url": "https://open.spotify.com/album/4limgkCDpuhOUIrUz0U7ly"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1343133,
+      "name": "Turn on Your Lovelight - Live at Fillmore East, New York City, April 1971",
+      "url": "https://open.spotify.com/track/5CVmMA1cIl7N9XI7LT2H24"
+    },
+    {
+      "album": {
+        "name": "One from the Vault (Live)",
+        "url": "https://open.spotify.com/album/7K5jvjbQB05gnFxsgwPvmt"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330333,
+      "name": "U.S. Blues - Live at the Great American Music Hall, San Francisco, CA, August 13, 1975",
+      "url": "https://open.spotify.com/track/0gIhOyaHW6NIFkHnarPlGE"
+    },
+    {
+      "album": {
+        "name": "Jerry Garcia Band",
+        "url": "https://open.spotify.com/album/2f7qKspNCuyxrBKQ8dZSnM"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354160,
+      "name": "Waiting for a Miracle - Live",
+      "url": "https://open.spotify.com/track/5d7sgqTOH8ICmQHMk99usn"
     },
     {
       "album": {
@@ -1044,7 +1724,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 247426,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
@@ -1070,7 +1750,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 298440,
       "name": "Want That Old Thing Back (feat. Ja Rule & Ralph Tresvant) - 2007 Remaster",
       "url": "https://open.spotify.com/track/16r3p9zsidDZ8pd3Izgg6n"
@@ -1096,7 +1776,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 298813,
       "name": "Want That Old Thing Back (feat. Ja Rule & Ralph Tresvant) - 2007 Remaster",
       "url": "https://open.spotify.com/track/2bDg8Sb7MFNPcnxUM6ln2R"
@@ -1114,7 +1794,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 276533,
       "name": "Work To Do",
       "url": "https://open.spotify.com/track/2906fV2q5W2xRmAEf9vCoW"
@@ -1132,7 +1812,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 181000,
       "name": "You Look Good",
       "url": "https://open.spotify.com/track/1dFLowBW25EaL2OC7eKEa2"

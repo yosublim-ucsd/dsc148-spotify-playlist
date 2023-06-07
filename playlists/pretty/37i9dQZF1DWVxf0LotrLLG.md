@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,383 likes - 207 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,441 likes - 207 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 70 | [La Mitad](https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que No Te Dije](https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315) | 2:56 |
 | 71 | [Nubes](https://open.spotify.com/track/5Gbhyq8vK0aO4iogHPcKXX) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que No Te Dije](https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315) | 2:52 |
 | 72 | [Ahora Sí](https://open.spotify.com/track/405u49KksnIilGsDmA1crv) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que No Te Dije](https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315) | 2:40 |
-| 73 | [Quizás](https://open.spotify.com/track/4cDjYh6JH1zzRvrNr0JKE8) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 2:32 |
-| 74 | [ódiame si quieres](https://open.spotify.com/track/081GMHsFEpJWIxNRzDVq6d) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 2:42 |
-| 75 | [rimas del verbo amar](https://open.spotify.com/track/6KN5CpFdYW50Nd0pDXCIXy) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 4:10 |
+| 73 | [Quizás](https://open.spotify.com/track/2pU6tNvGWRqTUPQCTHZdMZ) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:32 |
+| 74 | [ódiame si quieres](https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:42 |
+| 75 | [rimas del verbo amar](https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 4:10 |
 | 76 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 |
 | 77 | [Piezas Rotas](https://open.spotify.com/track/3TEqu5YQqHS90yJTN88z4N) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 2:59 |
 | 78 | [Ojo Por Ojo](https://open.spotify.com/track/1ZIZue3SsOdQXA0OS43C8s) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:06 |
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 206 | [Nicotina](https://open.spotify.com/track/5qqLUk39VlGb3EiwImpM1h) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 3:13 |
 | 207 | [Se Siente Así](https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 2:29 |
 
-Snapshot ID: `MCwwY2ViYjgzOWEwMmNjNGRhYWRmNWQzMDFhMWE4OWY3NmYwNzA5NzQ4`
+Snapshot ID: `MCxkOTMxNmY4ODE4NDUxNmU1MTY4MWNjYjUwMzliNWJiYzg1MDdlNzYx`

@@ -1,1014 +1,622 @@
 {
-  "description": "Get ready for a great week of golf with song picks from Justin Thomas, Jon Rahm, Bubba Watson, Collin Morikawa, & Max Homa.",
-  "num_followers": 1075,
-  "original_name": "Augusta On My Mind",
+  "description": "Top tracks from the personal playlist of Bill Walton. 30 for 30: The Luckiest Guy in the World, available to stream now on ESPN+.",
+  "num_followers": 1076,
+  "original_name": "The Luckiest Guy in the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGMyNDQyY2M5ZjY1NjU5ODc1OTQ1NDdkODQyM2FkOTMzZTg3NDQ3",
+  "snapshot_id": "MCxkODE2ZTA5YmY3NzBmOGQ5MGU5M2U3OGRhNjY1ODY5YmQ2NjYwNzBi",
   "tracks": [
     {
-      "added_at": "2022-04-01 17:59:55",
+      "added_at": "2023-06-06 04:00:00",
       "album": {
-        "name": "Georgia On My Mind",
-        "url": "https://open.spotify.com/album/4YQ5hWyTOmmFZzlq2ywsgM"
+        "name": "Complete Live Rarities Collection",
+        "url": "https://open.spotify.com/album/48pdNJ9i0DMrsSSYtmlXK2"
       },
       "artists": [
         {
-          "name": "Charles Kelley",
-          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 203633,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/0DlpK5WlWkRC4Twzzouijh"
+      "duration_ms": 163733,
+      "name": "Don't Ease Me In - Live in San Francisco, 1966",
+      "url": "https://open.spotify.com/track/25fluq7hsiAIrDRC19OsrC"
     },
     {
-      "added_at": "2022-04-01 17:59:55",
+      "added_at": "2023-06-06 04:00:00",
       "album": {
-        "name": "Rocky IV",
-        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+        "name": "GarciaLive Volume 16: November 15th, 1991 Madison Square Garden",
+        "url": "https://open.spotify.com/album/1TsrZoAYVLrC9vykZPPVcI"
       },
       "artists": [
         {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
         },
         {
-          "name": "Bubba Watson",
-          "url": "https://open.spotify.com/artist/7qcDF9VdSlZsI4VB1o8rrx"
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
         }
       ],
-      "duration_ms": 295794,
-      "name": "Ima Just Do It",
-      "url": "https://open.spotify.com/track/7ze7LDIDVksRgTpKIVUDsG"
+      "duration_ms": 358867,
+      "name": "Bright Side of the Road - Live",
+      "url": "https://open.spotify.com/track/0RZ7ZBsxX2AYONK7bU3kjV"
     },
     {
-      "added_at": "2022-04-05 18:26:11",
+      "added_at": "2023-06-06 04:00:00",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        "name": "Live Albums Collection",
+        "url": "https://open.spotify.com/album/7ENQ5VEAlbbItHUL5qq9Wx"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 238614,
-      "name": "Nonstop",
-      "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
+      "duration_ms": 244680,
+      "name": "Greatest Story Ever Told",
+      "url": "https://open.spotify.com/track/0BdKFjqgrGTIEAztEMnAoy"
     },
     {
-      "added_at": "2022-04-01 17:59:55",
+      "added_at": "2023-06-06 04:00:00",
       "album": {
-        "name": "Featuring Ty Dolla $ign",
-        "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
+        "name": "Postcards of the Hanging: Grateful Dead Perform the Songs of Bob Dylan (Live)",
+        "url": "https://open.spotify.com/album/4z650uYpycmQJvDVtfrYnb"
       },
       "artists": [
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 344360,
+      "name": "All Along the Watchtower - Live, July 4, 1989",
+      "url": "https://open.spotify.com/track/2dsTaa0xt3zlTTBqveoskM"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "The Closing of Winterland: December 31, 1978",
+        "url": "https://open.spotify.com/album/3RtA7CxOnsJvfipdg4A3U8"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 677040,
+      "name": "I Need a Miracle - Live at Winterland, December 31, 1978",
+      "url": "https://open.spotify.com/track/4jA7s4KUeDVc3Xpr7k6NYS"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Garcia Plays Dylan",
+        "url": "https://open.spotify.com/album/0GObeL7KlCV3tUbyDfIryX"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "duration_ms": 643546,
+      "name": "Positively 4th Street - Live",
+      "url": "https://open.spotify.com/track/5rPjb9O1LUW66cQXNhcjuS"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Cornell 5/8/77 (Live)",
+        "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 675293,
+      "name": "Scarlet Begonias - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
+      "url": "https://open.spotify.com/track/2ydjxozpSUZLzmi82KV4Qp"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "The Best Of The Grateful Dead Live (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0uCGpoWFUppf95em9xkD20"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 390546,
+      "name": "Touch of Grey - Live at Rich Stadium, Orchard Park, NY 7/4/89; 2018 Remaster",
+      "url": "https://open.spotify.com/track/6rsX0x595n3wvou0RgZ3Sf"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Live / Dead",
+        "url": "https://open.spotify.com/album/6E7JCQINTT4vwRF4wBcsYk"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 391893,
+      "name": "St. Stephen - Live at the Fillmore West San Francisco, 1969; 2001 Remaster",
+      "url": "https://open.spotify.com/track/63ZjH0NFN5q0ZT8fmmhHur"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Live / Dead",
+        "url": "https://open.spotify.com/album/6E7JCQINTT4vwRF4wBcsYk"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 558800,
+      "name": "The Eleven - Live in San Francisco, 1969; 2001 Remaster",
+      "url": "https://open.spotify.com/track/2Ezia43Cm4DtUJhUZkbuFD"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Crimson, White & Indigo: July 7 1989, JFK Stadium, Philadelphia (Live)",
+        "url": "https://open.spotify.com/album/1ILNO0v1Natm87x5UPedHh"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 499786,
+      "name": "Standing on the Moon - Live at JFK Stadium, Philadelphia, PA, July 7, 1989",
+      "url": "https://open.spotify.com/track/2bHQWrxQ2dHIW5hQ5iBSJf"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Dick's Picks Vol. 17: Boston Garden, Boston, MA 9/25/91",
+        "url": "https://open.spotify.com/album/1rZjJhRyYT3MAQrCSxoF6D"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Help on the Way - Live at Boston Garden, September 25, 1991",
+      "url": "https://open.spotify.com/track/5toRNiBWD0wgSUvLj44Hbn"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Dick's Picks Vol. 3: Hollywood Sportatorium, Pembroke Pines, FL 5/22/77 (Live)",
+        "url": "https://open.spotify.com/album/3KxT9J6KTuKeXox9BUikZ4"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 389973,
+      "name": "Slipknot! - Live at Pembroke Pines, FL, May 22, 1977",
+      "url": "https://open.spotify.com/track/5jXhcrTm7SCWbWivbmgIHx"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Grateful Dead (Skull & Roses) [Live]",
+        "url": "https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 340306,
+      "name": "Bertha - Live at Fillmore East, New York, NY, April 27, 1971",
+      "url": "https://open.spotify.com/track/3ZYSrBWQXYgTe4tyKKIZ0D"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Dick's Picks Vol. 17: Boston Garden, Boston, MA 9/25/91",
+        "url": "https://open.spotify.com/album/1rZjJhRyYT3MAQrCSxoF6D"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 436826,
+      "name": "Queen Jane Approximately - Live at Boston Garden, September 25, 1991",
+      "url": "https://open.spotify.com/track/5sr9oUdr3R6DeITO6BfLsg"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "30 Days of Dead 2015",
+        "url": "https://open.spotify.com/album/1pb85AjruirkyCxVzAYRH5"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 902933,
+      "name": "Crazy Fingers - Live at Orpheum, San Francisco, 7/13/76",
+      "url": "https://open.spotify.com/track/5zxipiSuRWoceGqbCWlPa4"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Red Rocks Amphitheatre, Morrison, CO 7/8/78 (Live)",
+        "url": "https://open.spotify.com/album/6q4mDbsYJsixRai11qc2Vx"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 638773,
+      "name": "Franklin's Tower - Live at Red Rocks Amphitheatre, Morrison, CO 7/8/78",
+      "url": "https://open.spotify.com/track/0tyrv88txjpUOgoWjAcozF"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "So Many Roads (1965 - 1995)",
+        "url": "https://open.spotify.com/album/7mPptCcvPGwhCBGtqNvjk5"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 359160,
+      "name": "Liberty - Live in Atlanta, March 30, 1994",
+      "url": "https://open.spotify.com/track/2jL2YRFCe5Z2lKF4G1q3LM"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Wake up to Find Out: Nassau Coliseum: Uniondale; NY 3/29/1990 (Live)",
+        "url": "https://open.spotify.com/album/7xWKImlu9fzB1ApqoLLMiL"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 565480,
+      "name": "Throwing Stones - Live at Nassau Coliseum, Uniondale, New York 3/29/90",
+      "url": "https://open.spotify.com/track/4EQv9NAWOumFlsIuzhTiLh"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "See What Love Can Do (Live)",
+        "url": "https://open.spotify.com/album/4GD0gPeTaGNHpn7p9W65eJ"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
         }
       ],
-      "duration_ms": 211913,
-      "name": "Lift Me Up (feat. Future & Young Thug)",
-      "url": "https://open.spotify.com/track/0PPcv1x7uCQAe3oF2j66io"
+      "duration_ms": 391728,
+      "name": "See What Love Can Do - Live",
+      "url": "https://open.spotify.com/track/7HOJmoVFPMl0gdvv5mEW9z"
     },
     {
-      "added_at": "2022-04-01 17:59:55",
+      "added_at": "2023-06-06 04:00:00",
       "album": {
-        "name": "Coming In Hot",
-        "url": "https://open.spotify.com/album/2osaP8edSKG8bVFKBoWIcV"
+        "name": "Jerry Garcia Band",
+        "url": "https://open.spotify.com/album/2f7qKspNCuyxrBKQ8dZSnM"
       },
       "artists": [
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
         },
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
         }
       ],
-      "duration_ms": 200168,
-      "name": "Coming In Hot",
-      "url": "https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8"
+      "duration_ms": 286840,
+      "name": "Evangeline - Live",
+      "url": "https://open.spotify.com/track/66QNeK530hyUg9ytzK5P4w"
     },
     {
-      "added_at": "2022-04-05 18:26:11",
+      "added_at": "2023-06-06 04:00:00",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+        "name": "Crimson, White & Indigo: July 7 1989, JFK Stadium, Philadelphia (Live)",
+        "url": "https://open.spotify.com/album/1ILNO0v1Natm87x5UPedHh"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+      "duration_ms": 410106,
+      "name": "Hell in a Bucket - Live at JFK Stadium, Philadelphia, PA, July 7, 1989",
+      "url": "https://open.spotify.com/track/6sXq9A6SHpeUjsGdQLFNbe"
     },
     {
-      "added_at": "2022-04-05 18:26:11",
+      "added_at": "2023-06-06 04:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+        "name": "Download Series Vol. 7: Springfield Civic Center, Springfield, MA 9/30/80 / Providence Civic Center, Providence, RI 9/4/80 (Live)",
+        "url": "https://open.spotify.com/album/0e0DiVVupxN4D9xOspyKRU"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 430933,
+      "name": "Lost Sailor - Live in Springfield, MA, September 3, 1980",
+      "url": "https://open.spotify.com/track/2QyhCxKjaEC39UKE2PJvlm"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Dick's Picks Vol. 13: Nassau Coliseum, Uniondale, NY 5/6/81 (Live)",
+        "url": "https://open.spotify.com/album/5KhX09Ik4LFkLGgwz6DxJa"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 2567626,
+      "name": "Saint of Circumstance - Live in Nassau Coliseum, May 6, 1981",
+      "url": "https://open.spotify.com/track/49sZR04sJdvcQEwXjt1cRN"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "The Closing of Winterland: December 31, 1978",
+        "url": "https://open.spotify.com/album/3RtA7CxOnsJvfipdg4A3U8"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 797040,
+      "name": "Fire on the Mountain - Live at Winterland, December 31, 1978",
+      "url": "https://open.spotify.com/track/2QQYK7B6PfCNvUH3l8moIN"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "So Many Roads (1965 - 1995)",
+        "url": "https://open.spotify.com/album/7mPptCcvPGwhCBGtqNvjk5"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 597733,
+      "name": "So Many Roads - Live in Chicago, July 9, 1995",
+      "url": "https://open.spotify.com/track/7vf1HQsPEUHl4oxGt3Md1e"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "GarciaLive Volume Ten: May 20th, 1990 Hilo Civic Auditorium",
+        "url": "https://open.spotify.com/album/5gNepUIHwOU4VWgtfGbFd3"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
         },
         {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "duration_ms": 339378,
+      "name": "Run for the Roses - Live",
+      "url": "https://open.spotify.com/track/0vkcAc9VH7m5QOJ3W3e85S"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Ladies and Gentlemen... The Grateful Dead: Fillmore East, New York City, April 1971 (Live)",
+        "url": "https://open.spotify.com/album/4limgkCDpuhOUIrUz0U7ly"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 1343133,
+      "name": "Turn on Your Lovelight - Live at Fillmore East, New York City, April 1971",
+      "url": "https://open.spotify.com/track/5CVmMA1cIl7N9XI7LT2H24"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Madison Square Garden, New York, NY 3/9/81 (Live)",
+        "url": "https://open.spotify.com/album/50ER5uOSuN39s05PcrRgcm"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 590191,
+      "name": "Stella Blue - Live at Madison Square Garden, New York, NY 3/9/81",
+      "url": "https://open.spotify.com/track/3engLh0ZOtxSIXpINaXnUH"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Shining Star",
+        "url": "https://open.spotify.com/album/0nHxgHghkASwmGap74RGle"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
         },
         {
-          "name": "Ralph Tresvant",
-          "url": "https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt"
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
         }
       ],
-      "duration_ms": 298440,
-      "name": "Want That Old Thing Back (feat. Ja Rule & Ralph Tresvant) - 2007 Remaster",
-      "url": "https://open.spotify.com/track/16r3p9zsidDZ8pd3Izgg6n"
+      "duration_ms": 686666,
+      "name": "Shining Star - Live",
+      "url": "https://open.spotify.com/track/1L85W5ljQBsArmI9hqlWMJ"
     },
     {
-      "added_at": "2022-04-04 13:54:21",
+      "added_at": "2023-06-06 04:00:00",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "After Midnight: Kean College, 2/28/80",
+        "url": "https://open.spotify.com/album/1rSxuSgBdp3ErOgCJ0VOcN"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
-    },
-    {
-      "added_at": "2022-04-04 13:54:21",
-      "album": {
-        "name": "The Black Album",
-        "url": "https://open.spotify.com/album/2ROptx2K5R4YYqlQQRpT7k"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "99 Problems",
-      "url": "https://open.spotify.com/track/6gtcmOwrktXnxygPkwRh4f"
-    },
-    {
-      "added_at": "2022-04-05 18:23:33",
-      "album": {
-        "name": "the highs.",
-        "url": "https://open.spotify.com/album/2phcfZd44niczjY0xybcS6"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 228702,
-      "name": "rodman",
-      "url": "https://open.spotify.com/track/0jufehOY40rRdvB2t4dsot"
-    },
-    {
-      "added_at": "2022-04-05 18:23:33",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
-    },
-    {
-      "added_at": "2022-04-05 18:23:33",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
-    },
-    {
-      "added_at": "2022-04-05 18:23:33",
-      "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
-    },
-    {
-      "added_at": "2022-04-05 18:23:33",
-      "album": {
-        "name": "A Matter Of Time",
-        "url": "https://open.spotify.com/album/3YqbqVW4Rz8DCPxL2WBCvc"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
         },
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
         }
       ],
-      "duration_ms": 225123,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/2qE3sj3jXj44kbCIU7bkIn"
+      "duration_ms": 841146,
+      "name": "I'll Take A Melody - Live",
+      "url": "https://open.spotify.com/track/4JqzGkkvjziDmYfPB4r8yf"
     },
     {
-      "added_at": "2022-04-05 18:23:33",
+      "added_at": "2023-06-06 04:00:00",
       "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+        "name": "Grateful Dead (Skull & Roses) [50th Anniversary Expanded Edition] [Live]",
+        "url": "https://open.spotify.com/album/3kMxm04sEdG5qzVA3ZOGmH"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+      "duration_ms": 616054,
+      "name": "Sing Me Back Home (Live at the Fillmore West, San Francisco, CA, July 2, 1971)",
+      "url": "https://open.spotify.com/track/0C0XkZtNBEJMzwtXJfgJxj"
     },
     {
-      "added_at": "2022-04-05 18:23:33",
+      "added_at": "2023-06-06 04:00:00",
       "album": {
-        "name": "Broadway Girls (feat. Morgan Wallen)",
-        "url": "https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG"
+        "name": "Saint of Circumstance: Giants Stadium, East Rutherford, NJ 6/17/91 (Live)",
+        "url": "https://open.spotify.com/album/1f0whW4QE9bFNLpeyaPQiV"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 402512,
+      "name": "Might as Well - Live at Giants Stadium, East Rutherford, NJ, 6/17/91",
+      "url": "https://open.spotify.com/track/7vAcbdXxxW0OvT6Tah5qhz"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "One from the Vault (Live)",
+        "url": "https://open.spotify.com/album/7K5jvjbQB05gnFxsgwPvmt"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 330333,
+      "name": "U.S. Blues - Live at the Great American Music Hall, San Francisco, CA, August 13, 1975",
+      "url": "https://open.spotify.com/track/0gIhOyaHW6NIFkHnarPlGE"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Download Series Vol. 9: Civic Arena, Pittsburgh, PA 4/2/89 & 4/3/89 (Live)",
+        "url": "https://open.spotify.com/album/7CuPAAL41j1vEjYTjNh2OA"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 326333,
+      "name": "Built to Last - Live at Civic Arena, Pittsburgh, PA, April 3, 1989",
+      "url": "https://open.spotify.com/track/6M3NQEPL4BuyFmpy0n2Efn"
+    },
+    {
+      "added_at": "2023-06-06 04:00:00",
+      "album": {
+        "name": "Jerry Garcia Band",
+        "url": "https://open.spotify.com/album/2f7qKspNCuyxrBKQ8dZSnM"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
         },
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Broadway Girls (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd"
-    },
-    {
-      "added_at": "2022-04-05 18:23:33",
-      "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
-    },
-    {
-      "added_at": "2022-04-05 18:23:33",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Through The Wire",
-      "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
-    },
-    {
-      "added_at": "2022-04-05 18:23:33",
-      "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
-      },
-      "artists": [
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "Out In The Middle",
-      "url": "https://open.spotify.com/track/2Dacmfq3VLY1miVcU2SMIt"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 282693,
-      "name": "Fly Like An Eagle",
-      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Heart Break",
-        "url": "https://open.spotify.com/album/4WZZDzGqjvw4bRwrp56U24"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "You Look Good",
-      "url": "https://open.spotify.com/track/1dFLowBW25EaL2OC7eKEa2"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/42wvKYHFezpmDuAP43558f"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 238614,
-      "name": "Nonstop",
-      "url": "https://open.spotify.com/track/4pQiWe7SzoQdGF6z8ZoZ9v"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Georgia on My Mind (Original Master Recording)",
-        "url": "https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 217414,
-      "name": "Georgia on My Mind - Original Master Recording",
-      "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/07m8PuXxxv5J4qPEDq6ZkK"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/4QjQQRZ5KEcF7qBb87FCaT"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "Glorious (feat. Skylar Grey)",
-      "url": "https://open.spotify.com/track/7oiEcG81HDmNHI2Ki2FaRv"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Billion Dollar Babies (Deluxe Reissue)",
-        "url": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "No More Mr. Nice Guy",
-      "url": "https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "History In The Making",
-      "url": "https://open.spotify.com/track/1J4HTEFSDx9DWyJVH5uv1b"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "My Kinda Party",
-      "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Hints, Allegations & Things Left Unsaid",
-        "url": "https://open.spotify.com/album/2B2KQTgQr3UhQf4n2VtoUG"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 306040,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 141400,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Beauty Marks",
-        "url": "https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 204150,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/7ssEhls1ZYEGtBsoovkMSe"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "St. Elsewhere",
-        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
-      },
-      "artists": [
-        {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Shiny Happy People",
-      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "People Everyday",
-      "url": "https://open.spotify.com/track/6JvodgYcsthsORxPsEYUoe"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Cross Country",
-        "url": "https://open.spotify.com/album/7jXPuZKd5DMTZGzwucgne4"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 206949,
-      "name": "Cross Country",
-      "url": "https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "The Time Of Our Lives",
-        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Bettie James",
-        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        },
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Freedom Was A Highway",
-      "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "In It for the Money - EP",
-        "url": "https://open.spotify.com/album/3BWgTGkZfnqx6n1e2uFoXh"
-      },
-      "artists": [
-        {
-          "name": "Jameson Rodgers",
-          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
-        }
-      ],
-      "duration_ms": 237946,
-      "name": "In It for the Money",
-      "url": "https://open.spotify.com/track/6qSsGgfqDqy8mZVkn5SOXr"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Here And Now",
-        "url": "https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Here And Now",
-      "url": "https://open.spotify.com/track/7qRVyZDt1Caftkk8CQlKtk"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Jamie N Commons",
-          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/2cLbHhoGUUDFygKYSksKHV"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Bettie James",
-        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        },
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 158240,
-      "name": "Good Times Roll",
-      "url": "https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2022-04-01 17:59:55",
-      "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2022-04-04 13:54:21",
-      "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        },
-        {
-          "name": "Marley Marl",
-          "url": "https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Paid In Full",
-      "url": "https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw"
-    },
-    {
-      "added_at": "2022-04-04 13:54:21",
-      "album": {
-        "name": "The Comfort Zone",
-        "url": "https://open.spotify.com/album/0ksxzYuZtQz1kYrZEhXDjV"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Williams",
-          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
-        }
-      ],
-      "duration_ms": 276533,
-      "name": "Work To Do",
-      "url": "https://open.spotify.com/track/2906fV2q5W2xRmAEf9vCoW"
-    },
-    {
-      "added_at": "2022-04-04 13:54:21",
-      "album": {
-        "name": "In Through the out Door (Remaster)",
-        "url": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 370920,
-      "name": "Fool in the Rain - Remaster",
-      "url": "https://open.spotify.com/track/3i25w2HOWoafnTIiWJCL71"
-    },
-    {
-      "added_at": "2022-04-04 13:54:21",
-      "album": {
-        "name": "Face Value (Deluxe Editon)",
-        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 336453,
-      "name": "In The Air Tonight - 2015 Remastered",
-      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
-    },
-    {
-      "added_at": "2022-04-04 13:54:21",
-      "album": {
-        "name": "Big Energy (feat. DJ Khaled) [Remix]",
-        "url": "https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 181665,
-      "name": "Big Energy (feat. DJ Khaled) - Remix",
-      "url": "https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G"
-    },
-    {
-      "added_at": "2022-04-04 13:54:21",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2yDwwjGzGEcyJMEJuCNyiP"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Ralph Tresvant",
-          "url": "https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt"
-        }
-      ],
-      "duration_ms": 298813,
-      "name": "Want That Old Thing Back (feat. Ja Rule & Ralph Tresvant) - 2007 Remaster",
-      "url": "https://open.spotify.com/track/2bDg8Sb7MFNPcnxUM6ln2R"
-    },
-    {
-      "added_at": "2022-04-04 13:54:21",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/5EVSKBHF8YN0zyMCONnrAn"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 292986,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/69kFyd2ymmN4o7o4ozZCQS"
+      "duration_ms": 354160,
+      "name": "Waiting for a Miracle - Live",
+      "url": "https://open.spotify.com/track/5d7sgqTOH8ICmQHMk99usn"
     }
   ],
-  "unique_name": "Augusta On My Mind",
+  "unique_name": "The Luckiest Guy in the World",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2QGqIfuB65s"
 }

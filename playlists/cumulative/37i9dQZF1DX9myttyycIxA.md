@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Homeschool
 
-917 songs - 2 day 4 hr 19 min
+919 songs - 2 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Balloon](https://open.spotify.com/track/0B6oBwvkyLptGexpwJVz7c) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb) | 3:05 | 2022-04-29 | 2022-06-19 |
 | [Ballroom Dance Scene](https://open.spotify.com/track/12AvvUwWyOQJEW7YTLzG5M) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Ballroom Dance Scene](https://open.spotify.com/album/6AH9ryaXe4mZBDlAXiEMdo) | 3:28 | 2022-03-04 | 2022-04-29 |
 | [Barking Dog](https://open.spotify.com/track/7hx7f6U9ul5JVGiRtGwNVU) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Barking Dog](https://open.spotify.com/album/26t5YekLHHAW56AYr8Ivo4) | 3:07 | 2022-11-11 | 2023-03-04 |
-| [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 | 2023-03-03 |  |
+| [Bath County](https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 3:10 | 2023-03-03 |  |
+| [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 | 2023-03-03 | 2023-06-07 |
 | [Be Your Lover](https://open.spotify.com/track/0qUD09SxHXsAzxHgbLhkD7) | [Yumi And The Weather](https://open.spotify.com/artist/23HlNyyzzIg06ROx6tBsIS) | [It's All In My Head](https://open.spotify.com/album/0esfLX0K6SHuJwYWP7AhDS) | 3:05 | 2022-09-23 | 2022-12-15 |
 | [Beach Coma \- Spotify Singles](https://open.spotify.com/track/38xxi0A7cpJIGzbCT2fXlm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Beach Coma \- Spotify Singles](https://open.spotify.com/album/18BvE652GjG0fEMgDJ4LCU) | 3:40 | 2021-11-12 | 2022-04-29 |
 | [Before Dawn](https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Before Dawn](https://open.spotify.com/album/1yXSX2NYq0beXees0O5EXg) | 4:17 | 2022-08-12 |  |
@@ -847,7 +848,8 @@
 | [Tupperware](https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Tupperware](https://open.spotify.com/album/05pEuiJeN31Fw3Vw11j3De) | 3:06 | 2021-08-27 | 2022-04-20 |
 | [Turnaround \(Cocaine Song\)](https://open.spotify.com/track/02VjhVSU9Kmlpg9cXxc6yk) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Turnaround \(Cocaine Song\)](https://open.spotify.com/album/2KcGTfbMXhDcv8VPlmF9TR) | 3:23 | 2021-03-05 | 2022-04-29 |
 | [Turning](https://open.spotify.com/track/6It2pydpSo0FUQ3HdQES97) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [Turning](https://open.spotify.com/album/614cwAiCbxTJz6QBafC4zm) | 2:53 | 2022-01-28 | 2022-04-27 |
-| [TV in the Gas Pump](https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [TV in the Gas Pump](https://open.spotify.com/album/1KCYvFcQ0eLIx9Kpmr4WgX) | 2:22 | 2023-03-23 |  |
+| [TV in the Gas Pump](https://open.spotify.com/track/0o65GCofNQEUgkAIoWPjrb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 2:22 | 2023-03-23 |  |
+| [TV in the Gas Pump](https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [TV in the Gas Pump](https://open.spotify.com/album/1KCYvFcQ0eLIx9Kpmr4WgX) | 2:22 | 2023-03-23 | 2023-06-07 |
 | [Twin Plagues](https://open.spotify.com/track/748eGYJukuPib6cAc7Pj7T) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/2VSj2CXqLfJt3nhqeEDMgW) | 4:08 | 2021-08-13 | 2022-03-22 |
 | [Two Hands](https://open.spotify.com/track/0C5McvJzSpZy2H1q7VsUAi) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Two Hands](https://open.spotify.com/album/4XhdPESJcdzcIHRqkyqJiw) | 2:03 | 2021-04-30 | 2022-04-29 |
 | [Two Ribbons](https://open.spotify.com/track/5PQHN1maDFtlQZzpgdfemX) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Two Ribbons](https://open.spotify.com/album/0qhiM06mQeNojf8RHyUPY6) | 5:23 | 2021-11-12 | 2022-04-29 |

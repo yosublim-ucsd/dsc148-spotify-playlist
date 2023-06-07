@@ -1,15 +1,15 @@
 {
   "description": "Ouve estas extraordin\u00e1rias artistas, como Yasmine, com o volume no m\u00e1ximo.",
-  "num_followers": 9501,
+  "num_followers": 9511,
   "original_name": "EQUAL Portugal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDAyOGI2YWExNjM3ZjdjZGZkZWFlYmQ5MDcxY2NkNWFiMDIzMzc3",
+  "snapshot_id": "MCw5NGJlOTU3YWE0MWUyMmZmNTQ3MzlmYWE0ZGNlYzYzNTNlOGE3YTgw",
   "tracks": [
     {
-      "added_at": "2023-05-02 23:00:00",
+      "added_at": "2023-06-06 23:01:00",
       "album": {
         "name": "S\u00f3 N\u00f3s 2",
         "url": "https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18"
@@ -25,10 +25,218 @@
       "url": "https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3"
     },
     {
-      "added_at": "2023-05-02 23:00:00",
+      "added_at": "2023-06-06 23:01:00",
       "album": {
-        "name": "Tensa",
-        "url": "https://open.spotify.com/album/5NpoAYN1zGSExnlwxZpmgU"
+        "name": "Sinergy",
+        "url": "https://open.spotify.com/album/3Qh36m1JoKoZyXg4FNyWth"
+      },
+      "artists": [
+        {
+          "name": "YANAGUI",
+          "url": "https://open.spotify.com/artist/2hDOcSFCU43glzID9X24dU"
+        },
+        {
+          "name": "y.azz",
+          "url": "https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Sinergy",
+      "url": "https://open.spotify.com/track/6psG1I3i4mW8Fe97svskoK"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Ser\u00e1 Que Tu V\u00eas",
+        "url": "https://open.spotify.com/album/0ZeKxZtEKg69aZxqJKcgAN"
+      },
+      "artists": [
+        {
+          "name": "Denise",
+          "url": "https://open.spotify.com/artist/6t9iYij561aIw8DBdos1Wr"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ser\u00e1 Que Tu V\u00eas",
+      "url": "https://open.spotify.com/track/1UjN8fGtex4VXwfh3DkLU3"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Subesp\u00e9cie",
+        "url": "https://open.spotify.com/album/7tHVNuP6Hnam25V1KSDBnv"
+      },
+      "artists": [
+        {
+          "name": "AMAURA",
+          "url": "https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Repeat",
+      "url": "https://open.spotify.com/track/1cQM7QLlKZpUXMiEI8tVZT"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Ninja",
+        "url": "https://open.spotify.com/album/3KJA1FQ0D6xptLEII8MAFK"
+      },
+      "artists": [
+        {
+          "name": "Blaya",
+          "url": "https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A"
+        }
+      ],
+      "duration_ms": 152537,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/6rFrw2q9nHux9FnZkmlzYd"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
+        "url": "https://open.spotify.com/album/7k0RCf165L8HVgjQxTNXYN"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "duration_ms": 202565,
+      "name": "Casa Abandonada",
+      "url": "https://open.spotify.com/track/4Y3bbwYHInbD3xHICp4A7D"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Woman (Live at ZDB)",
+        "url": "https://open.spotify.com/album/72021eAYosKd5eCTqVAsun"
+      },
+      "artists": [
+        {
+          "name": "Golden Slumbers",
+          "url": "https://open.spotify.com/artist/4rnhIGvHLD8BB1gaXLj1KH"
+        },
+        {
+          "name": "Marinho",
+          "url": "https://open.spotify.com/artist/7BFtSYVfYekkAu3fhyraRv"
+        },
+        {
+          "name": "Junno",
+          "url": "https://open.spotify.com/artist/5jkbs6Eag4kS2dIRMvfH8D"
+        },
+        {
+          "name": "MITO",
+          "url": "https://open.spotify.com/artist/7oDpNWmdl75TtemRVUvOhb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Woman - Live at ZDB",
+      "url": "https://open.spotify.com/track/5LVMA0NXvhDMsIeLjl5thG"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Nova Aurora",
+        "url": "https://open.spotify.com/album/4arepE0VfN4fpi2dBjCNoT"
+      },
+      "artists": [
+        {
+          "name": "Cremilda Medina",
+          "url": "https://open.spotify.com/artist/7m1dm6eKgspx20jb8RrCEp"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "Surpresa",
+      "url": "https://open.spotify.com/track/1LnBHgrh0ugqJLkBKqPzi3"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Day or Two",
+        "url": "https://open.spotify.com/album/3daQkt3JhNiFNFRyt0NC8g"
+      },
+      "artists": [
+        {
+          "name": "Sara Cruz",
+          "url": "https://open.spotify.com/artist/0MKeDWrI54fdwBtvdtc19A"
+        }
+      ],
+      "duration_ms": 189577,
+      "name": "Day or Two",
+      "url": "https://open.spotify.com/track/6ulVRECp2ylfHmo7LvsdyV"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Nunca Mais",
+        "url": "https://open.spotify.com/album/1hwMhDtsZnTMmaJM9KRADa"
+      },
+      "artists": [
+        {
+          "name": "Mariana Moreira",
+          "url": "https://open.spotify.com/artist/3uVkTJM20CUtJl5uCju6c1"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Nunca Mais",
+      "url": "https://open.spotify.com/track/7C52KX9YeOw7NUKyFXAowH"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Gera\u00e7\u00e3o E",
+        "url": "https://open.spotify.com/album/407VyfUIGcaqWlBRK1FW5b"
+      },
+      "artists": [
+        {
+          "name": "Miss Fine",
+          "url": "https://open.spotify.com/artist/5DsSpwWjV3p14Q4Ao5zydR"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Gera\u00e7\u00e3o E",
+      "url": "https://open.spotify.com/track/6xwcFBUZ7dQ9cYAE3XidPx"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Nos Meus Len\u00e7\u00f3is",
+        "url": "https://open.spotify.com/album/307bXhnFRe9RrX1Rice2PI"
+      },
+      "artists": [
+        {
+          "name": "PICAS",
+          "url": "https://open.spotify.com/artist/2zhaNkh73UkrsEb4nGNj8f"
+        }
+      ],
+      "duration_ms": 161431,
+      "name": "Nos Meus Len\u00e7\u00f3is",
+      "url": "https://open.spotify.com/track/7DgpAZhwqBYWnIAfpqCfT4"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/1waZBcJxXWBbeg3RPRMIb0"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Ros\u00e1rio",
+          "url": "https://open.spotify.com/artist/1IJF0z5AWZ3GF0If3CrWvl"
+        }
+      ],
+      "duration_ms": 176116,
+      "name": "MARIA",
+      "url": "https://open.spotify.com/track/3HfbmAbORB4UG5LVcxufAC"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "La Nena",
+        "url": "https://open.spotify.com/album/1leOc51748ZRHfNk8iTXJm"
       },
       "artists": [
         {
@@ -36,16 +244,496 @@
           "url": "https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ"
         },
         {
-          "name": "Malva",
-          "url": "https://open.spotify.com/artist/0ZGeXDeVRYGrf8dA3sFzGE"
+          "name": "SOLUNA",
+          "url": "https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW"
         }
       ],
-      "duration_ms": 201846,
-      "name": "Tensa",
-      "url": "https://open.spotify.com/track/3dnpcmta1PYyK7KnBQmk5p"
+      "duration_ms": 188686,
+      "name": "La Nena",
+      "url": "https://open.spotify.com/track/7Ek1oYS0ZnUCEuOLUBhWDM"
     },
     {
-      "added_at": "2023-05-02 23:00:00",
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Dores de Crescimento",
+        "url": "https://open.spotify.com/album/30GQVzJDy5s0bFg4ng685c"
+      },
+      "artists": [
+        {
+          "name": "CAROLINA DE DEUS",
+          "url": "https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH"
+        },
+        {
+          "name": "Ant\u00f3nio Zambujo",
+          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "Dores de Crescimento",
+      "url": "https://open.spotify.com/track/6fuys3x2bcUV522PI01PH7"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Dona Joana",
+        "url": "https://open.spotify.com/album/4z6cci13rGQcH7NyKBuiYs"
+      },
+      "artists": [
+        {
+          "name": "Soraia Tavares",
+          "url": "https://open.spotify.com/artist/6QcqOXBfmED0nyVmhzFPNX"
+        }
+      ],
+      "duration_ms": 181855,
+      "name": "Dona Joana",
+      "url": "https://open.spotify.com/track/1KyvkM6NVktCEn93jvkkrd"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Igual a Mim",
+        "url": "https://open.spotify.com/album/2O8NxC3iWQJUkSnVlUS7Zw"
+      },
+      "artists": [
+        {
+          "name": "Maria Castro",
+          "url": "https://open.spotify.com/artist/6W0CZoeE7xMjYLdJVA1a9B"
+        }
+      ],
+      "duration_ms": 185702,
+      "name": "Igual a Mim",
+      "url": "https://open.spotify.com/track/7lcROAjVE4YeWwlWEshTJQ"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Choradeira",
+        "url": "https://open.spotify.com/album/1J1Seh2hA5MeBafA183AxK"
+      },
+      "artists": [
+        {
+          "name": "ela li",
+          "url": "https://open.spotify.com/artist/0sErHdsTChxzExCQZV0hec"
+        }
+      ],
+      "duration_ms": 163497,
+      "name": "Choradeira",
+      "url": "https://open.spotify.com/track/54xGSHc2bbH0mJvvHPZTY3"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Pedras da Cal\u00e7ada",
+        "url": "https://open.spotify.com/album/1YSY9CWm4MrT2EJ2SaQRPi"
+      },
+      "artists": [
+        {
+          "name": "Mariana Arroja",
+          "url": "https://open.spotify.com/artist/18XYyD7D3NnZyftcktEE33"
+        }
+      ],
+      "duration_ms": 219940,
+      "name": "Pedras da Cal\u00e7ada",
+      "url": "https://open.spotify.com/track/6BpAsBMqAeuPci9CJDDyM7"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Lim\u00e3o e jasmim",
+        "url": "https://open.spotify.com/album/3LnLRZs9zdhy4em7btjiR7"
+      },
+      "artists": [
+        {
+          "name": "Mila Dores",
+          "url": "https://open.spotify.com/artist/6Ra6l9xKZi4CqonCXfPoOr"
+        }
+      ],
+      "duration_ms": 159720,
+      "name": "Lim\u00e3o e jasmim",
+      "url": "https://open.spotify.com/track/00IZHmDf1qQglbAnY880cM"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "!!",
+        "url": "https://open.spotify.com/album/582zyWb4tjdsnszlCwBXRK"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e1udia Pascoal",
+          "url": "https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ"
+        },
+        {
+          "name": "Manuela Azevedo",
+          "url": "https://open.spotify.com/artist/3lBxVc1jTwCMmfmzBycefd"
+        }
+      ],
+      "duration_ms": 171478,
+      "name": "Precau\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5tyqQPcZ8SoXIhCFV8cyvR"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "N\u00e3o V\u00e1s Embora, Rapaz!",
+        "url": "https://open.spotify.com/album/0xGzGC6OTJpKij4ywHto9K"
+      },
+      "artists": [
+        {
+          "name": "Ana Bacalhau",
+          "url": "https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "N\u00e3o V\u00e1s Embora, Rapaz!",
+      "url": "https://open.spotify.com/track/5AxN1p1JtaHCtsGgUCF0UP"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "XIV- A Integra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6sdud3FKt1gcijFDnLn9oA"
+      },
+      "artists": [
+        {
+          "name": "Meta_",
+          "url": "https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J"
+        }
+      ],
+      "duration_ms": 164875,
+      "name": "Peneir-ar",
+      "url": "https://open.spotify.com/track/3iiRLgJcZBiqVWh4vf2T6G"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Conta-me O Teu Dia",
+        "url": "https://open.spotify.com/album/7t2QPJhAuLLQxVyAeSJM7o"
+      },
+      "artists": [
+        {
+          "name": "In\u00eas de Vasconcellos",
+          "url": "https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f"
+        }
+      ],
+      "duration_ms": 190812,
+      "name": "Conta-me O Teu Dia",
+      "url": "https://open.spotify.com/track/7t08YcPQzdCXAtkRuq1ODH"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Ouvi Dizer",
+        "url": "https://open.spotify.com/album/5rLp1NI3Jjw3WgbsQqY9FX"
+      },
+      "artists": [
+        {
+          "name": "Matilde Jacob",
+          "url": "https://open.spotify.com/artist/1h7kvRfDWr2EcsNdan58Zo"
+        }
+      ],
+      "duration_ms": 206470,
+      "name": "Ouvi Dizer",
+      "url": "https://open.spotify.com/track/1287VLNoMIQZx6lCEIZpV2"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "V\u00edcio de te amar",
+        "url": "https://open.spotify.com/album/7kU5yBmf8wdW7i5MRm6IaF"
+      },
+      "artists": [
+        {
+          "name": "Francisca",
+          "url": "https://open.spotify.com/artist/5gjRxCG64XuE2HnCIEvaHI"
+        }
+      ],
+      "duration_ms": 161088,
+      "name": "V\u00edcio de te amar",
+      "url": "https://open.spotify.com/track/4SCDFYDtsiiCle4EVxNNN7"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "\u00c1gua",
+        "url": "https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc"
+      },
+      "artists": [
+        {
+          "name": "Mariana Norton",
+          "url": "https://open.spotify.com/artist/7BSpO7wslykpYhNpwRbDTV"
+        }
+      ],
+      "duration_ms": 207593,
+      "name": "\u00c1gua",
+      "url": "https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "querumtempo",
+        "url": "https://open.spotify.com/album/157IMwvhuNQXj1VIQ101OY"
+      },
+      "artists": [
+        {
+          "name": "J\u00dcRA",
+          "url": "https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9"
+        }
+      ],
+      "duration_ms": 187781,
+      "name": "querumtempo",
+      "url": "https://open.spotify.com/track/7DDIYmJrVKmvdXftrac66E"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Coisas Fracas",
+        "url": "https://open.spotify.com/album/5dxvtDeR6reSMJ6Z7bbPZ1"
+      },
+      "artists": [
+        {
+          "name": "Silly",
+          "url": "https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx"
+        }
+      ],
+      "duration_ms": 176774,
+      "name": "Coisas Fracas",
+      "url": "https://open.spotify.com/track/0Gt0SV12lak6tmSDkvM5DX"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "De Sombra A Sombra",
+        "url": "https://open.spotify.com/album/1B4sUTPixJzind9Ayu7soa"
+      },
+      "artists": [
+        {
+          "name": "Milhanas",
+          "url": "https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC"
+        }
+      ],
+      "duration_ms": 190802,
+      "name": "Eu De Prosa",
+      "url": "https://open.spotify.com/track/6WRCYgBtYtzpk2aYN4xPKx"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "E o Depois",
+        "url": "https://open.spotify.com/album/0RScCeT1cI66uypA7ttp0a"
+      },
+      "artists": [
+        {
+          "name": "Blacci",
+          "url": "https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak"
+        }
+      ],
+      "duration_ms": 142339,
+      "name": "E o Depois",
+      "url": "https://open.spotify.com/track/47Wp94JwfnhqFShHon6cSs"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Sem Medo",
+        "url": "https://open.spotify.com/album/0CNv2RTo2YfaCVcgi7TOqd"
+      },
+      "artists": [
+        {
+          "name": "Elisa Rodrigues",
+          "url": "https://open.spotify.com/artist/40KASaS6xyRz7kxGUnVeuV"
+        },
+        {
+          "name": "Joana Alegre",
+          "url": "https://open.spotify.com/artist/3cNMSW7AIN2WILAlRBU2cX"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Sem Medo",
+      "url": "https://open.spotify.com/track/3t8LCloaAQrfe0l1aMyrns"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Primavera Deserta",
+        "url": "https://open.spotify.com/album/4AWZ8MwWApYcJLEObUx2Ds"
+      },
+      "artists": [
+        {
+          "name": "s\u00fas",
+          "url": "https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Primavera Deserta",
+      "url": "https://open.spotify.com/track/1ASX3mr0wsdNpSzh0IUIIj"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Nem Sempre",
+        "url": "https://open.spotify.com/album/6UqS4IcLWpIjjThu92h0xg"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3nia Oliveira",
+          "url": "https://open.spotify.com/artist/2NmcmBh9sd9iE6jG965wEj"
+        }
+      ],
+      "duration_ms": 196994,
+      "name": "Nem Sempre",
+      "url": "https://open.spotify.com/track/1IUrLgRwUVWodC1QP3mThP"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Liga\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7I6lqtzWlsmZib4SmjfSd7"
+      },
+      "artists": [
+        {
+          "name": "Sara Megre",
+          "url": "https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd"
+        }
+      ],
+      "duration_ms": 175392,
+      "name": "Liga\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0SFC7HQ6xTZWXesf7n8yPe"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "CLOUD9",
+        "url": "https://open.spotify.com/album/1j4FvFcZSOPY3b52Ima9xf"
+      },
+      "artists": [
+        {
+          "name": "Catarina Filipe",
+          "url": "https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8"
+        }
+      ],
+      "duration_ms": 180627,
+      "name": "CLOUD9",
+      "url": "https://open.spotify.com/track/0RNioHzDaC9I3sEzcv0hCA"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "T\u00e1 Doce",
+        "url": "https://open.spotify.com/album/2IMxtFwJn3joV8RnsaRkSc"
+      },
+      "artists": [
+        {
+          "name": "Nayr Faquir\u00e1",
+          "url": "https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb"
+        },
+        {
+          "name": "SOLUNA",
+          "url": "https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "T\u00e1 Doce",
+      "url": "https://open.spotify.com/track/0dTqngNXGA0QuGpdMeiOQq"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/0D8CRbaOwXs9QBcwXNFdGc"
+      },
+      "artists": [
+        {
+          "name": "Rita Laranjeira",
+          "url": "https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b"
+        }
+      ],
+      "duration_ms": 217714,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/2Fcc9TGfcw6BQbScMxWeua"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/7llq0ooG1HZEnBOvyn13dk"
+      },
+      "artists": [
+        {
+          "name": "L\u00eddia Carolina",
+          "url": "https://open.spotify.com/artist/7m8admPxVK23NBb2zeH7wD"
+        }
+      ],
+      "duration_ms": 206092,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/0Joac5NVqcHTY255oDqdSH"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/6nwjnNxf2eMJ9WX1uloWqw"
+      },
+      "artists": [
+        {
+          "name": "Pipa",
+          "url": "https://open.spotify.com/artist/03zNTLE7XHchSSzU4gOYDN"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0Vp42FK6x0ydHLT7T9OHyS"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Luvas No Ch\u00e3o",
+        "url": "https://open.spotify.com/album/0tFX5UDRYWw9cAyH8eAebF"
+      },
+      "artists": [
+        {
+          "name": "Rossana",
+          "url": "https://open.spotify.com/artist/372srPZ3LinDUNQlKetVFL"
+        }
+      ],
+      "duration_ms": 285297,
+      "name": "Luvas no Ch\u00e3o",
+      "url": "https://open.spotify.com/track/3Mrmtfa42y3dQRwYCbINcV"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Mirandum",
+        "url": "https://open.spotify.com/album/7Muf5t4drKVAqbd2OyRpSY"
+      },
+      "artists": [
+        {
+          "name": "Emmy Curl",
+          "url": "https://open.spotify.com/artist/5RvbhKQvdUI1qdwdScEqSe"
+        }
+      ],
+      "duration_ms": 205012,
+      "name": "Mirandum",
+      "url": "https://open.spotify.com/track/4yplYX1kiI8PzIIGcTiIvJ"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
+      "album": {
+        "name": "Ciclot\u00edmica",
+        "url": "https://open.spotify.com/album/4EODRTMm31uX3Nk31XnBxa"
+      },
+      "artists": [
+        {
+          "name": "Joana Alegre",
+          "url": "https://open.spotify.com/artist/3cNMSW7AIN2WILAlRBU2cX"
+        }
+      ],
+      "duration_ms": 177722,
+      "name": "Ciclot\u00edmica",
+      "url": "https://open.spotify.com/track/6iRqi6osMLqNR3AbfKpPxy"
+    },
+    {
+      "added_at": "2023-06-06 23:01:00",
       "album": {
         "name": "Culpa Do \u00c1lcool",
         "url": "https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW"
@@ -61,7 +749,7 @@
       "url": "https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0"
     },
     {
-      "added_at": "2023-05-02 23:00:00",
+      "added_at": "2023-06-06 23:01:00",
       "album": {
         "name": "del\u00edrios mensais",
         "url": "https://open.spotify.com/album/1skpNJL9T0yidQRepE6PBB"
@@ -77,23 +765,23 @@
       "url": "https://open.spotify.com/track/3cx5XFljN7ctdY0eMjmC6l"
     },
     {
-      "added_at": "2023-05-02 23:00:00",
+      "added_at": "2023-06-06 23:01:00",
       "album": {
-        "name": "Bichinho",
-        "url": "https://open.spotify.com/album/0N2GwDGCTkpUNOhL5eQNh0"
+        "name": "A Tua M\u00e3o",
+        "url": "https://open.spotify.com/album/5JHZf3hbQsy2IpFQVwBO49"
       },
       "artists": [
         {
-          "name": "B\u00e1rbara Tinoco",
-          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+          "name": "Margarida Vasconcelos",
+          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
         }
       ],
-      "duration_ms": 202920,
-      "name": "Despedida de Solteira",
-      "url": "https://open.spotify.com/track/3iM2GDnBgSWoANyN2KzMtX"
+      "duration_ms": 221282,
+      "name": "A Tua M\u00e3o",
+      "url": "https://open.spotify.com/track/3gAgzePTzvCOkLe4OwXrsD"
     },
     {
-      "added_at": "2023-05-02 23:00:00",
+      "added_at": "2023-06-06 23:01:00",
       "album": {
         "name": "Menino Veneno",
         "url": "https://open.spotify.com/album/0jDx4qEfq1x82ASZnyLW4k"
@@ -109,7 +797,7 @@
       "url": "https://open.spotify.com/track/3OOWGAABy0Yj2U0Muw8JoN"
     },
     {
-      "added_at": "2023-05-02 23:00:00",
+      "added_at": "2023-06-06 23:01:00",
       "album": {
         "name": "Mumentu",
         "url": "https://open.spotify.com/album/6hzMAoYaLubJFu3NOWQKX6"
@@ -125,23 +813,7 @@
       "url": "https://open.spotify.com/track/4JqmkeOi1wxgwlEi6uWUwJ"
     },
     {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Mais Uma Vez",
-        "url": "https://open.spotify.com/album/6XwhLnbx0ixfuoJJZvXB8S"
-      },
-      "artists": [
-        {
-          "name": "DREYA",
-          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
-        }
-      ],
-      "duration_ms": 159846,
-      "name": "Mais Uma Vez",
-      "url": "https://open.spotify.com/track/3Oql2mB8DEtzzuAVFFPpHG"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
+      "added_at": "2023-06-06 23:01:00",
       "album": {
         "name": "Confortable",
         "url": "https://open.spotify.com/album/6bRjSUOtBfPiUSb47hlh5Y"
@@ -161,7 +833,7 @@
       "url": "https://open.spotify.com/track/7A6yZH0XOkn1qhgaNnOKYZ"
     },
     {
-      "added_at": "2023-05-02 23:00:00",
+      "added_at": "2023-06-06 23:01:00",
       "album": {
         "name": "aventura",
         "url": "https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la"
@@ -179,666 +851,6 @@
       "duration_ms": 198832,
       "name": "aventura",
       "url": "https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Vai Ruir",
-        "url": "https://open.spotify.com/album/0kYGt9hezVsi58jLTa0WMj"
-      },
-      "artists": [
-        {
-          "name": "Mimi Froes",
-          "url": "https://open.spotify.com/artist/7dj67AKOjHzIzTvFMAmm7b"
-        }
-      ],
-      "duration_ms": 197237,
-      "name": "Vai Ruir",
-      "url": "https://open.spotify.com/track/0SAFhelKxqnaPnP6w1Q8ez"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Catarina Branco e Guarda-Rios",
-        "url": "https://open.spotify.com/album/6pBGpCcWso5ZLhNw7gsw5G"
-      },
-      "artists": [
-        {
-          "name": "Catarina Branco",
-          "url": "https://open.spotify.com/artist/0ZbROtsxLfXnQ4tmBwDixb"
-        },
-        {
-          "name": "Guarda-Rios",
-          "url": "https://open.spotify.com/artist/1eLjerThFJZFkMMhwKGG96"
-        }
-      ],
-      "duration_ms": 158526,
-      "name": "J\u00e1 \u00b4tou num po\u00e7o",
-      "url": "https://open.spotify.com/track/2MFvRJZjo22CR90A8Zrboh"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Ana Capote",
-        "url": "https://open.spotify.com/album/2jCFk5vRuhrvbSbixFwltN"
-      },
-      "artists": [
-        {
-          "name": "Ana Capote",
-          "url": "https://open.spotify.com/artist/2rYkSMuSq4dwePpo4Yi51j"
-        }
-      ],
-      "duration_ms": 242750,
-      "name": "Triste Acordar",
-      "url": "https://open.spotify.com/track/0HkUvh5MTy165nVRHux1t8"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Divine Timing",
-        "url": "https://open.spotify.com/album/6djFWd5UuqYEcGHzICEu1D"
-      },
-      "artists": [
-        {
-          "name": "Ana Casa Branca",
-          "url": "https://open.spotify.com/artist/6SRkT73Pqz0L7aZ65tYVRs"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Divine Timing",
-      "url": "https://open.spotify.com/track/3zvEoKiEVY6yHL4sFobMpC"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Conversa",
-        "url": "https://open.spotify.com/album/2Gqm92mx8bokhapRcykOND"
-      },
-      "artists": [
-        {
-          "name": "Flaviana Borges",
-          "url": "https://open.spotify.com/artist/4pizTmvQoU07ZcIzh40hm2"
-        }
-      ],
-      "duration_ms": 188606,
-      "name": "Conversa",
-      "url": "https://open.spotify.com/track/1N6PNHuemYmlrHa3ydBnYc"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Podia Ser",
-        "url": "https://open.spotify.com/album/4Sc8REBwQZfCZ7Y6wtrht0"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Couto",
-          "url": "https://open.spotify.com/artist/4Uj1Qt9vL0Hu6q9ZPKgOjz"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Podia Ser",
-      "url": "https://open.spotify.com/track/26MrVseLs5Ncp0nYIFMV1e"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Leve\u2640Escuro",
-        "url": "https://open.spotify.com/album/4sDSjnLIhRLdG07fYMwo92"
-      },
-      "artists": [
-        {
-          "name": "MEMA.",
-          "url": "https://open.spotify.com/artist/37aohsljYHuwzOG27WiVVY"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Mulher",
-      "url": "https://open.spotify.com/track/7dL0rNJT2yCJX2grsacxsz"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "up / down",
-        "url": "https://open.spotify.com/album/6UuyLNmYlCl6opJtdewWH5"
-      },
-      "artists": [
-        {
-          "name": "mokina",
-          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
-        }
-      ],
-      "duration_ms": 113603,
-      "name": "up / down",
-      "url": "https://open.spotify.com/track/06rFDcdBI6sZYMySwZ93nr"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Si Si",
-        "url": "https://open.spotify.com/album/2j9IBHh1Sp4R9rJfj7MzZH"
-      },
-      "artists": [
-        {
-          "name": "Lura",
-          "url": "https://open.spotify.com/artist/0zNTRuF4PDWOt7IGHpGyNc"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Si Si",
-      "url": "https://open.spotify.com/track/4nkwX1AtYJKhqHMdTlDKuS"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/3gCsov2SuMd4Lqssb8hLxI"
-      },
-      "artists": [
-        {
-          "name": "Bianca Barros",
-          "url": "https://open.spotify.com/artist/59m9stUzPJ3i5hPsU8BQzl"
-        }
-      ],
-      "duration_ms": 220509,
-      "name": "Labirinto",
-      "url": "https://open.spotify.com/track/3SrHcUALkdN68B0pReebuH"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "A Tua M\u00e3o",
-        "url": "https://open.spotify.com/album/5JHZf3hbQsy2IpFQVwBO49"
-      },
-      "artists": [
-        {
-          "name": "Margarida Vasconcelos",
-          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
-        }
-      ],
-      "duration_ms": 221282,
-      "name": "A Tua M\u00e3o",
-      "url": "https://open.spotify.com/track/3gAgzePTzvCOkLe4OwXrsD"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Filtros",
-        "url": "https://open.spotify.com/album/1lDlsWp44yKP7kCe04msjo"
-      },
-      "artists": [
-        {
-          "name": "Idelsa",
-          "url": "https://open.spotify.com/artist/0mXFos6Vf02A5AReZz9i5p"
-        },
-        {
-          "name": "Yara Bonga",
-          "url": "https://open.spotify.com/artist/6BhSNJjeu7P8rEP2lOQ4Pw"
-        }
-      ],
-      "duration_ms": 188194,
-      "name": "Filtros",
-      "url": "https://open.spotify.com/track/1FDIrQqgzUyG0sc6kYusDI"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Maldita Sorte",
-        "url": "https://open.spotify.com/album/2b6ShTAHmemdn9pNgBKjVZ"
-      },
-      "artists": [
-        {
-          "name": "MARA",
-          "url": "https://open.spotify.com/artist/5F9mvejx8ps76oWYpjbHtJ"
-        }
-      ],
-      "duration_ms": 158346,
-      "name": "Maldita Sorte",
-      "url": "https://open.spotify.com/track/5H6ocWbfy2YX9nTBLkdkkv"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Tanto Tempo",
-        "url": "https://open.spotify.com/album/1wbzwyiquuvbWgEvyBhcZf"
-      },
-      "artists": [
-        {
-          "name": "In\u00eas Monstro",
-          "url": "https://open.spotify.com/artist/4dh79sEeMKuEsZhkojV8xQ"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Tanto Tempo",
-      "url": "https://open.spotify.com/track/6HbVGeZr5Qh4WvyCdDCAX8"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Flutuar",
-        "url": "https://open.spotify.com/album/2GroxHcek84SvgK9aUs4be"
-      },
-      "artists": [
-        {
-          "name": "Cati",
-          "url": "https://open.spotify.com/artist/3fMoR08BDmXJVyve4qfjUe"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Flutuar",
-      "url": "https://open.spotify.com/track/0mh7cBTdQPDCIBwfl0EJSE"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Fado Liberdade",
-        "url": "https://open.spotify.com/album/7HZWKpB3AY6vLZAB2iXW6C"
-      },
-      "artists": [
-        {
-          "name": "Mariana Guimar\u00e3es",
-          "url": "https://open.spotify.com/artist/0ZPP2ooNi7xEaPWdDDFFaL"
-        }
-      ],
-      "duration_ms": 147724,
-      "name": "Fado Liberdade",
-      "url": "https://open.spotify.com/track/6hNXn6JE7dIuvs8PdKhjAk"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
-        "url": "https://open.spotify.com/album/6a18zeuFmuY1PyHKSAfe9f"
-      },
-      "artists": [
-        {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
-      "url": "https://open.spotify.com/track/7JroVEowA4Wpb1sfgPl4xa"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Girass\u00f3is E Tempestades",
-        "url": "https://open.spotify.com/album/05DOc2mGjR6gf85CRVzfNu"
-      },
-      "artists": [
-        {
-          "name": "Marisa Liz",
-          "url": "https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn"
-        },
-        {
-          "name": "Beatriz",
-          "url": "https://open.spotify.com/artist/6b2BNBoYjeotcDg2UnmiJK"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/3uWXhajyf1xCVIfYGxHSnQ"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "A Mi\u00fada do 319",
-        "url": "https://open.spotify.com/album/25kwPhm6EEf26FA6QEAoF4"
-      },
-      "artists": [
-        {
-          "name": "Rita Rocha",
-          "url": "https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy"
-        },
-        {
-          "name": "B\u00e1rbara Tinoco",
-          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
-        }
-      ],
-      "duration_ms": 167854,
-      "name": "A M\u00eduda do 319",
-      "url": "https://open.spotify.com/track/5bmbFZIghmCaLWKGiPZ4XT"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Invis\u00edvel",
-        "url": "https://open.spotify.com/album/2P8mavYSagkKY59yvQxLX3"
-      },
-      "artists": [
-        {
-          "name": "Isaura",
-          "url": "https://open.spotify.com/artist/2oiBFya19iAwi0SCaltq1F"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "Fica mais perto",
-      "url": "https://open.spotify.com/track/6caXHMRwfsBxriDv4nuKrO"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "FORA",
-        "url": "https://open.spotify.com/album/4kwcoS5EecawE7HI3FvCG5"
-      },
-      "artists": [
-        {
-          "name": "701",
-          "url": "https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg"
-        }
-      ],
-      "duration_ms": 147624,
-      "name": "iei",
-      "url": "https://open.spotify.com/track/7hcLQoKUB6TSyOBku37KAi"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "milagre",
-        "url": "https://open.spotify.com/album/0P0OpTsrtt9Tn3HQgxYSgh"
-      },
-      "artists": [
-        {
-          "name": "J\u00dcRA",
-          "url": "https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "milagre",
-      "url": "https://open.spotify.com/track/1yKEOUoSCedRLKegMxZfRq"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Hostel da Mariquinhas",
-        "url": "https://open.spotify.com/album/3YPqpgPtzSXoOuT7wKoCiA"
-      },
-      "artists": [
-        {
-          "name": "Gisela Jo\u00e3o",
-          "url": "https://open.spotify.com/artist/6PHEevniO76JNRqHLVXWX5"
-        }
-      ],
-      "duration_ms": 158263,
-      "name": "Hostel da Mariquinhas",
-      "url": "https://open.spotify.com/track/3r1v8BvTNLkLnd4qmpHpJW"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Eu N\u00e3o Dan\u00e7o",
-        "url": "https://open.spotify.com/album/2eXlOOfpwgNCCIUbhQ4IvW"
-      },
-      "artists": [
-        {
-          "name": "Eva Rapdiva",
-          "url": "https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd"
-        }
-      ],
-      "duration_ms": 155555,
-      "name": "Eu N\u00e3o Dan\u00e7o",
-      "url": "https://open.spotify.com/track/62iVeJVooh0zST9H9GQn16"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/1mo7cLtfG5lVYTsJuEaotW"
-      },
-      "artists": [
-        {
-          "name": "iolanda",
-          "url": "https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b"
-        }
-      ],
-      "duration_ms": 196401,
-      "name": "Quem Tem Mossa",
-      "url": "https://open.spotify.com/track/4CAL3gTFBDClsVBJoiiX2C"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "At\u00e9 Que Ca\u00eda Bem",
-        "url": "https://open.spotify.com/album/1CyCdKUyF0OFCDzlSTwxZN"
-      },
-      "artists": [
-        {
-          "name": "Diana Lima",
-          "url": "https://open.spotify.com/artist/32Smk7Ovdr0xb5MbQtU16t"
-        }
-      ],
-      "duration_ms": 193244,
-      "name": "At\u00e9 Que Ca\u00eda Bem",
-      "url": "https://open.spotify.com/track/0wSB40LIwWd8X5wpr2VfPZ"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "cora\u00e7\u00e3o em jejum",
-        "url": "https://open.spotify.com/album/77dZ3O4Amt0V1BsbWBiTBC"
-      },
-      "artists": [
-        {
-          "name": "Capital Da Bulg\u00e1ria",
-          "url": "https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs"
-        }
-      ],
-      "duration_ms": 242074,
-      "name": "cora\u00e7\u00e3o em jejum",
-      "url": "https://open.spotify.com/track/7hY93IGHkI4hKYwnMbbhQS"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "O pre\u00e7o",
-        "url": "https://open.spotify.com/album/3fBEtb9ESmUmM18iOrBhtu"
-      },
-      "artists": [
-        {
-          "name": "AMAURA",
-          "url": "https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l"
-        }
-      ],
-      "duration_ms": 233960,
-      "name": "O pre\u00e7o",
-      "url": "https://open.spotify.com/track/7uxlqmQUerSs3GzD5pKJGE"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/4LgmxPlyjPkFlswnPnkeLq"
-      },
-      "artists": [
-        {
-          "name": "Mary N",
-          "url": "https://open.spotify.com/artist/12bNvbaCaPa9AWxhFyAInb"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5IHOXrxlbHMlPqixCz3OR8"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "PRAZER PRAZER",
-        "url": "https://open.spotify.com/album/12gSq3ff148nmUmqckWvvQ"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Pessoa",
-          "url": "https://open.spotify.com/artist/1AjFyEQi181yA1Cgh9uWSe"
-        }
-      ],
-      "duration_ms": 246143,
-      "name": "PRAZER PRAZER",
-      "url": "https://open.spotify.com/track/4xWk7xxsvoiIPL1s0aQtPr"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Ele tem um dom",
-        "url": "https://open.spotify.com/album/5IlxTDrl76P9zZB904fEFz"
-      },
-      "artists": [
-        {
-          "name": "Francisca",
-          "url": "https://open.spotify.com/artist/5gjRxCG64XuE2HnCIEvaHI"
-        }
-      ],
-      "duration_ms": 181880,
-      "name": "Ele tem um dom",
-      "url": "https://open.spotify.com/track/6y50jUNY62w6GPvdsTUARD"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Nos Falaram Mal",
-        "url": "https://open.spotify.com/album/492xANIjBMlx9hj1RuHLle"
-      },
-      "artists": [
-        {
-          "name": "Fuchsia",
-          "url": "https://open.spotify.com/artist/3txfGiTknq9pUF0rA2Y3z3"
-        }
-      ],
-      "duration_ms": 178077,
-      "name": "Nos Falaram Mal",
-      "url": "https://open.spotify.com/track/4FVX34vzO2wnF6g3VWhp7G"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Balada do Outono",
-        "url": "https://open.spotify.com/album/3TpK1X50TfqHy4fBHN1bJN"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Villar",
-          "url": "https://open.spotify.com/artist/2iFLzT9dusHlHoL6tGGCDu"
-        },
-        {
-          "name": "Maria S\u00e1 Silva",
-          "url": "https://open.spotify.com/artist/2ac0gdO9UQkwVm30Txkfr3"
-        }
-      ],
-      "duration_ms": 279424,
-      "name": "Balada do Outono",
-      "url": "https://open.spotify.com/track/35V23JyWe5Y8DEUynWXnRv"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/2q4FRXjv5jOWU8Az2n0Lfi"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1ry M",
-          "url": "https://open.spotify.com/artist/6myextZ5obd54txCqZp7Ns"
-        }
-      ],
-      "duration_ms": 161517,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/6GDXVeWVlHdNVrvzuzrzgU"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Tu N\u00e3o",
-        "url": "https://open.spotify.com/album/2zoKE0gSrBiEo2HyGkoCID"
-      },
-      "artists": [
-        {
-          "name": "Misuzy",
-          "url": "https://open.spotify.com/artist/3vnkUUes3wCNxu2N0ExfMd"
-        }
-      ],
-      "duration_ms": 134870,
-      "name": "Tu N\u00e3o",
-      "url": "https://open.spotify.com/track/4UYnSPi87vIkqcwwSZZvlt"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Ficou Tudo Bem",
-        "url": "https://open.spotify.com/album/7BT0ho7Rb4dlFIkFiHrqqC"
-      },
-      "artists": [
-        {
-          "name": "Sara Monteiro",
-          "url": "https://open.spotify.com/artist/5HELMWN5G2dNC2AOXn2VNu"
-        }
-      ],
-      "duration_ms": 203124,
-      "name": "Ficou Tudo Bem",
-      "url": "https://open.spotify.com/track/1vWvJFkIrMZUnkxA4A0IUU"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "N\u00e3o te ponhas a jeito",
-        "url": "https://open.spotify.com/album/2GLZnzKZtkAlu8cHcFS95W"
-      },
-      "artists": [
-        {
-          "name": "Mila Dores",
-          "url": "https://open.spotify.com/artist/6Ra6l9xKZi4CqonCXfPoOr"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "N\u00e3o te ponhas a jeito",
-      "url": "https://open.spotify.com/track/4UaCy85hUdmxLFDC0qWT5h"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/0pjYC3rWHsRmJcjp0tI2P1"
-      },
-      "artists": [
-        {
-          "name": "Tats",
-          "url": "https://open.spotify.com/artist/6Ao9Z1U6LNvJ6NHXOBWwrI"
-        }
-      ],
-      "duration_ms": 234390,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/0tdRwiHIuFCL1ZbGS4DFse"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "Oh Boy",
-        "url": "https://open.spotify.com/album/0u3BpX4yCbO1d91TYDxAoq"
-      },
-      "artists": [
-        {
-          "name": "Rita Laranjeira",
-          "url": "https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Oh Boy",
-      "url": "https://open.spotify.com/track/4xi6hiEixwDRs9bAkIpDOP"
-    },
-    {
-      "added_at": "2023-05-02 23:00:00",
-      "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 228479,
-      "name": "h\u00e1-de sarar",
-      "url": "https://open.spotify.com/track/7vcNCJjROeI30WgAKEvlP5"
     }
   ],
   "unique_name": "EQUAL Portugal",

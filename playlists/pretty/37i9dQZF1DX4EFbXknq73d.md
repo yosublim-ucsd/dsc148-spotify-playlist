@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,520 likes - 75 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,668 likes - 75 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 17 | [Up All Night](https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Free Somehow](https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw) | 3:46 |
 | 18 | [Nebraska](https://open.spotify.com/track/3g6Iv6AJddkj641ufya8h4) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [tin cans & car tires](https://open.spotify.com/album/2GGOZsFF9dwK5LJ2kIdkl7) | 3:49 |
 | 19 | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/track/6xleIePy9XfIOV8ksoKlKx) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Rhythm of the Road: Volume One, Incident in Atlanta \-11.17.00](https://open.spotify.com/album/33eRh00tERv1BscbFnuUtF) | 8:36 |
-| 20 | [The Garden \(Pt\. III\)](https://open.spotify.com/track/2ihAtyKtG6dPNKeDdt2RlQ) | [Tea Leaf Green](https://open.spotify.com/artist/4n3xlLBs7G1x9tJDXFD4G4) | [Taught to Be Proud](https://open.spotify.com/album/4IMSzS9zvPw7jSHlKFlA1f) | 4:01 |
-| 21 | [Sugaree \- Live at TD Garden, Boston, MA 11/17/17](https://open.spotify.com/track/1th4vQpv5MXunuMn8WUnSL) | [Dead & Company](https://open.spotify.com/artist/4QMYdqiJf5bEC7P0EHbnxn) | [TD Garden, Boston, MA 11/17/17 \(Live\)](https://open.spotify.com/album/6hV2waROeEXkf5NbIL0XgQ) | 13:58 |
+| 20 | [Sugaree \- Live at TD Garden, Boston, MA 11/17/17](https://open.spotify.com/track/1th4vQpv5MXunuMn8WUnSL) | [Dead & Company](https://open.spotify.com/artist/4QMYdqiJf5bEC7P0EHbnxn) | [TD Garden, Boston, MA 11/17/17 \(Live\)](https://open.spotify.com/album/6hV2waROeEXkf5NbIL0XgQ) | 13:58 |
+| 21 | [The Garden \(Pt\. III\)](https://open.spotify.com/track/2ihAtyKtG6dPNKeDdt2RlQ) | [Tea Leaf Green](https://open.spotify.com/artist/4n3xlLBs7G1x9tJDXFD4G4) | [Taught to Be Proud](https://open.spotify.com/album/4IMSzS9zvPw7jSHlKFlA1f) | 4:01 |
 | 22 | [Loner](https://open.spotify.com/track/7v3DiMXmwZvViit6quKMEN) | [Ekoostik Hookah](https://open.spotify.com/artist/7cFHCaii8AgdXSOXVf0lAo) | [Dubbabuddah](https://open.spotify.com/album/5R8kqCETupYVuIcyW6wnuq) | 6:39 |
 | 23 | [Midnight In Harlem \(Swamp Raga intro with Little Martha\) \- Live](https://open.spotify.com/track/72UfjeC5R2SWpe9TTzwhKT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Everybody's Talkin'](https://open.spotify.com/album/2U7PtD3lqcSSVSZ4g875ki) | 10:23 |
 | 24 | [Brown Eyed Women \- Live in Denmark, 1972; 2001 Remaster](https://open.spotify.com/track/4RUQVUxaRMwDnsUwW80xz4) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 4:37 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 42 | [Fire On The Mountain \- Live](https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC), [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU), [Bill Kreutzmann](https://open.spotify.com/artist/1wk6pg0mhB8jTm9Y6I4bNV) | [Dear Jerry: Celebrating The Music Of Jerry Garcia \(Live\)](https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj) | 6:53 |
 | 43 | [Fat Man In The Bathtub \- Live at Lisner Auditorium, Washington, DC, 8/10/1977](https://open.spotify.com/track/2QvMk15JHTjVH3KDoF26NH) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Waiting for Columbus \(Live Version; Deluxe Edition\)](https://open.spotify.com/album/2TtmZyFBqydHgAk6r8mbbM) | 4:53 |
 | 44 | [Hot Tea \(8.10.19\)](https://open.spotify.com/track/3vM6d0LGwzhjmpry8GlW6w) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Alive and Well](https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O) | 16:59 |
-| 45 | [Diner](https://open.spotify.com/track/3wF5YHX5PgPrIIVXL7Zgcl) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Light Fuse Get Away](https://open.spotify.com/album/0El4sQIrpXQXcbyGV4J0Qx) | 14:04 |
-| 46 | [Baby Night](https://open.spotify.com/track/2vIxU6h888VLdyy7PjYRB8) | [Sweet Smoke](https://open.spotify.com/artist/0AFVYhgHSbn9LBIDPU6dTQ) | [Just A Poke / Darkness To Light](https://open.spotify.com/album/4TvspgPQpOYUlNDC1GFbIJ) | 16:34 |
+| 45 | [Baby Night](https://open.spotify.com/track/2vIxU6h888VLdyy7PjYRB8) | [Sweet Smoke](https://open.spotify.com/artist/0AFVYhgHSbn9LBIDPU6dTQ) | [Just A Poke / Darkness To Light](https://open.spotify.com/album/4TvspgPQpOYUlNDC1GFbIJ) | 16:34 |
+| 46 | [Diner](https://open.spotify.com/track/3wF5YHX5PgPrIIVXL7Zgcl) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Light Fuse Get Away](https://open.spotify.com/album/0El4sQIrpXQXcbyGV4J0Qx) | 14:04 |
 | 47 | [Scarlet Begonias / I Know You Rider \- Live](https://open.spotify.com/track/00D3kP7H8OfHJDrZ6iU55e) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D), [Billy & The Kids](https://open.spotify.com/artist/11K4t6bF7NguAUDx5IYoiK) | [Dear Jerry: Celebrating The Music Of Jerry Garcia \(Live\)](https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj) | 12:36 |
 | 48 | [Bottoms Up](https://open.spotify.com/track/1KBjcNiDHKpJmdOfmqFMCs) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [The End of the Game \(Expanded\)](https://open.spotify.com/album/3owsPmXv3QbMk5iROMRAnj) | 9:01 |
 | 49 | [The Lover](https://open.spotify.com/track/26IapGXdI0m8nhHs8dRg8X) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Friday Afternoon In The Universe](https://open.spotify.com/album/6zx2fC13A8qkgwEhCZaRN4) | 6:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 74 | [Tomorrow Might As Well Be Today \- Live](https://open.spotify.com/track/6QL1b46J3pHl4MfUUjludg) | [Chris Forsyth](https://open.spotify.com/artist/2WEGGlb0R1izEtTE5YTaTc), [Garcia Peoples](https://open.spotify.com/artist/4UDV6e9Xh5m3yQeGsrnWLP) | [Peoples Motel Band](https://open.spotify.com/album/3nMKWIIpLZs2Hzkz9yhF3d) | 4:00 |
 | 75 | [Ship](https://open.spotify.com/track/2inywferyxR6WGq7tvtQMW) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [51 Phantom](https://open.spotify.com/album/5Zxv4JiCxWqWzMepX7oGUv) | 5:29 |
 
-Snapshot ID: `MCwyOGRlNzA2NzE5OWYxODg1MjRmNGNmNmY2MjdhOTYyNDlmZDQ4Nzg4`
+Snapshot ID: `MCw4MmFmODJhZjgyMmE2MWY0NjdhYWQwNzg5Mzg1ZmJiYjA3MTJkODdi`

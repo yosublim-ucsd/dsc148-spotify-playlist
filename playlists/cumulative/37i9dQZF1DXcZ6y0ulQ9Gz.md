@@ -4,7 +4,7 @@
 
 > An eclectic mix of past & current Indie favourites\. Cover: Arlo Parks
 
-680 songs - 1 day 17 hr 26 min
+681 songs - 1 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:14 | 2022-05-03 | 2022-08-24 |
 | [Respirate](https://open.spotify.com/track/0ikJr5Qxy1tWc84FaJzPdm) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Respirate](https://open.spotify.com/album/4fNPtCemGUhTbVgK9C1kXh) | 2:50 | 2022-02-18 | 2022-07-29 |
 | [Restless](https://open.spotify.com/track/2bZ8vGCwKb00MSatCiiojJ) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Restless](https://open.spotify.com/album/59E7YhExc0LINQhek0I4IV) | 3:15 | 2020-10-29\* | 2022-04-14 |
-| [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2023-04-21 |  |
+| [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2023-04-21 | 2023-06-07 |
 | [Ride](https://open.spotify.com/track/7s9rKhVxTOVJQP3nxFovnD) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Ride](https://open.spotify.com/album/2uf3UVV35XCAGihWl2Zt2m) | 3:53 | 2021-02-22 | 2022-04-10 |
 | [Right](https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 4:47 | 2021-03-27 | 2022-08-24 |
 | [Roadless](https://open.spotify.com/track/1ygtHRulDcAZ96yBWSPxl2) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Recorded Songs](https://open.spotify.com/album/6iWVequrXlACmmalvL23c7) | 2:52 | 2021-02-26 | 2022-04-16 |
@@ -668,6 +668,7 @@
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-06-27 | 2023-02-11 |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 | 2022-05-03 | 2022-08-24 |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/7ze7X8r4fopBs9ZRtwYFOX) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [When Am I Gonna Lose You / Café Amarillo](https://open.spotify.com/album/5H8ISmLN3YojIx9mM9CslN) | 4:24 | 2021-01-15 | 2022-07-29 |
+| [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2023-04-21 |  |
 | [Wicked Dreams](https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:31 | 2021-01-15 | 2021-03-17 |
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2022-08-23 |  |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2022-08-23 | 2023-02-11 |

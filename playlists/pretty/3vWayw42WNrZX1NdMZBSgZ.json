@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist for hot new updates. Cover: Poloo",
-  "num_followers": 56404,
-  "original_name": "Top Latin Hits",
+  "num_followers": 56398,
+  "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDAwMSwxZWFmZTUxMWE1YmYwOWZlMGQwOGU3MzJkYTVkYTc0MDZlZTJlNjA4",
+  "snapshot_id": "NDAwNiw5MmNmZWMzNDM0N2RiZGRhZWU5ZGI0MDRlZDgzYzU1OTcyMzgxYTAz",
   "tracks": [
     {
       "added_at": "2023-06-02 15:33:43",
@@ -987,38 +987,6 @@
     {
       "added_at": "2023-06-02 15:33:43",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2023-06-02 15:33:43",
-      "album": {
-        "name": "Sin Novia",
-        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Sin Novia",
-      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
-    },
-    {
-      "added_at": "2023-06-02 15:33:43",
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
       },
@@ -1323,26 +1291,6 @@
     {
       "added_at": "2023-06-02 15:33:43",
       "album": {
-        "name": "Loquita",
-        "url": "https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199551,
-      "name": "Loquita",
-      "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
-    },
-    {
-      "added_at": "2023-06-02 15:33:43",
-      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -1497,6 +1445,6 @@
       "url": "https://open.spotify.com/track/3CzgTXrAROSCB6bd1bm5mJ"
     }
   ],
-  "unique_name": "Top Latin Hits",
+  "unique_name": "Pop Latin Hits",
   "url": "https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ"
 }

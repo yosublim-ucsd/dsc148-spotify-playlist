@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9GYWsyFlWx.md) - [plain]
 
 > Plastikman and Chilly Gonzales' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,234 likes - 27 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,249 likes - 27 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9GYWsyFlWx.md) - [plain]
 | 22 | [Zauberberg 7](https://open.spotify.com/track/3iFMnvlobCg2GE1wwK726Z) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Zauberberg](https://open.spotify.com/album/3q8NuY6M6Ay1XA34vGpeud) | 11:58 |
 | 23 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 |
 | 24 | [Mutism](https://open.spotify.com/track/3moYb5sN4MtjX7J4KkM7Dr) | [Basic Channel](https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5) | [Bcd](https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d) | 5:56 |
-| 25 | [9:25](https://open.spotify.com/track/3CJdVCB0MjIzJWWebjxRQQ) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 9:34 |
+| 25 | [9:25](https://open.spotify.com/track/1bOOE6hznd9IhYTJYpcOHs) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 9:25 |
 | 26 | [Oracle](https://open.spotify.com/track/4tAYJDfRbhzfhpMC69pNzk) | [Space Time Continuum](https://open.spotify.com/artist/33QYizVJQem2U1aIVczr4q) | [Three A.D.](https://open.spotify.com/album/3rnjHjZRze3J2LxtTyA2C5) | 7:53 |
 | 27 | [Biokinetics 2](https://open.spotify.com/track/1pXB6sODqCvLcq1CGDEISC) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Biokinetics](https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg) | 8:29 |
 
-Snapshot ID: `MCxkOGM5MTdlYjUzNDM3OGU1ODk4MmQwMjFhYjViOGU5Y2Y2YTJlZTU5`
+Snapshot ID: `MCxhZDdlYTgyOTM4YThiODMxMmE4NDFmYzcxODNlMmYyODgyZDY0Nzc3`

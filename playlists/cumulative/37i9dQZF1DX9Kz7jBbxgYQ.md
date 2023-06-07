@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Kaifi Khalil
 
-187 songs - 10 hr 36 min
+188 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 | 2022-12-28 |  |
 | [Naakay](https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naakay](https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb) | 2:38 | 2023-03-01 | 2023-03-18 |
 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2022-11-23 | 2023-02-07 |
-| [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 | 2023-05-15 |  |
+| [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 | 2023-05-15 | 2023-06-07 |
 | [nazar/surma](https://open.spotify.com/track/7LgOVDbOr2xAKrBwuEwGDw) | [Rutaba Yaqub](https://open.spotify.com/artist/1jA3YcX1zKWTaWL7wp3PqI), [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [nazar/surma](https://open.spotify.com/album/0zlUqmSdwGkEvp1KlITSbz) | 3:30 | 2022-09-01 | 2022-12-29 |
 | [Nightdriver](https://open.spotify.com/track/5LmvjYl6SZsea5QGdm4aN7) | [Eida](https://open.spotify.com/artist/3qskfyIRwZtp6uIfj6OFcL) | [Nightdriver](https://open.spotify.com/album/7EjeqIsIVy3DpV8LY5TJvE) | 4:36 | 2022-05-20 | 2022-09-02 |
 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 | 2023-02-26 |  |
@@ -162,6 +162,7 @@
 | [Socho](https://open.spotify.com/track/5pZntMo01v4GRaWKWRqyTE) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Socho](https://open.spotify.com/album/7oOlVtccWmt39tQJU61eLb) | 3:18 | 2023-01-20 |  |
 | [sophomore sweetheart](https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [sophomore sweetheart](https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv) | 3:37 | 2022-05-20 | 2022-07-16 |
 | [Sound of Two\-Four](https://open.spotify.com/track/3chhUXARK13v4EC6tK1KXj) | [False Cassette](https://open.spotify.com/artist/519n9yK9V0zPncUEKR5NKY) | [Sound of Two\-Four](https://open.spotify.com/album/2c2rM2zSukqLnq35tF5NQP) | 3:58 | 2022-05-20 | 2022-07-16 |
+| [Spicy](https://open.spotify.com/track/1APSHdEWYt0hlSlu5UcqJa) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Spicy](https://open.spotify.com/album/7C9tPnocJUdBMsZm9BGTDo) | 3:52 | 2023-06-06 |  |
 | [Sukoon](https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:15 | 2023-04-28 | 2023-05-04 |
 | [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 | 2023-01-12 |  |
 | [Sun Le Na](https://open.spotify.com/track/0tyK2eyMatZvNCVtbdNlmt) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Sun Le Na](https://open.spotify.com/album/1Mltm1wPVWUcp7tg7FnJCk) | 3:29 | 2022-05-20 | 2023-02-11 |

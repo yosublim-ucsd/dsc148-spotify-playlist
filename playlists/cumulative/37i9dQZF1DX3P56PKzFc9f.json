@@ -4763,6 +4763,24 @@
     },
     {
       "album": {
+        "name": "Soul Searching",
+        "url": "https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169038,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5mLjE4CPn8kNpzqNNslabJ"
       },
@@ -4872,7 +4890,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 214147,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795"

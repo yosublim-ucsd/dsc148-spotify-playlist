@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-250 songs - 13 hr 50 min
+251 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Christmas In A Cage](https://open.spotify.com/track/1gf6ixq1F0sZkoc9Kvaray) | [Fur Trade](https://open.spotify.com/artist/3Wrg4k4AIvnUbg9103fxkW) | [Christmas In A Cage](https://open.spotify.com/album/37ULvZCm8qn0gEEGA3Wytp) | 4:02 | 2022-11-18 |  |
 | [Christmas Is a Way of Life, My Dear](https://open.spotify.com/track/7JHjMdMRTgOG4oJHy0p0Ht) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Christmas Is a Way of Life, My Dear](https://open.spotify.com/album/6yCtY3ddfiDBqwuJ1a90nD) | 2:16 | 2021-12-24 | 2022-11-26 |
 | [Christmas Is Coming Soon](https://open.spotify.com/track/0pukVr5mNUUAEl12av71id) | [Andrew Austin](https://open.spotify.com/artist/69ftfICho7bWPjTg6EgHr4) | [Christmas Is Coming Soon](https://open.spotify.com/album/7xZsOIbNpGsFtoH8n2sipb) | 3:15 | 2021-12-24 | 2022-07-27 |
-| [Christmas Is Hittin' Me Different](https://open.spotify.com/track/1MjT5Ye12aNXQDyJB4aBHX) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Christmas Is Hittin' Me Different](https://open.spotify.com/album/4dU3Oj6Z49rIyJzEpU5O80) | 3:20 | 2021-12-24 |  |
+| [Christmas Is Hittin' Me Different](https://open.spotify.com/track/1MjT5Ye12aNXQDyJB4aBHX) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Christmas Is Hittin' Me Different](https://open.spotify.com/album/4dU3Oj6Z49rIyJzEpU5O80) | 3:20 | 2021-12-24 | 2023-06-07 |
 | [Christmas Kisses](https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Christmas Kisses](https://open.spotify.com/album/16QyojtQvepl4lllVn5r6Z) | 3:27 | 2021-12-24 | 2022-07-29 |
 | [Christmas Kisses](https://open.spotify.com/track/5LG0ZOxFnRrkib5uVzbBEi) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Christmas Kisses](https://open.spotify.com/album/1aMr2tXEiiY6VfR0JhLoxP) | 3:27 | 2021-12-24 | 2023-05-23 |
 | [Christmas Love](https://open.spotify.com/track/0YukTlbDJPeR8GMaBYPP9S) | [The Dears](https://open.spotify.com/artist/2qljmykdCfgGy9zUw7UqkX) | [Christmas Love b/w O Little Town of Bethlehem](https://open.spotify.com/album/25mCaiPEEDnLRorNuDtzww) | 5:04 | 2021-12-24 | 2022-07-02 |
@@ -150,6 +150,7 @@
 | [Little Drummer Boy](https://open.spotify.com/track/0GtaQ9DJkI7KEvRQCG6aqK) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Little Drummer Boy](https://open.spotify.com/album/1Qbu7yfsgiJKDc96hHe30t) | 2:52 | 2022-12-09 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/3E3QIlYJikHymLrScKCynD) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Little Drummer Boy](https://open.spotify.com/album/1PnogosIABFgWFOVRwv6Aj) | 2:50 | 2021-12-24 | 2022-12-10 |
 | [Little Road to Bethlehem](https://open.spotify.com/track/122NEAKQMTs9o19ghyz5L9) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Don Brownrigg](https://open.spotify.com/artist/3is059epfwPYtkmzokUjPW) | [Little Road to Bethlehem](https://open.spotify.com/album/0NQLT0pT4KrGEQTQbr2QnB) | 2:49 | 2021-12-24 | 2023-06-01 |
+| [Little Road to Bethlehem](https://open.spotify.com/track/61BGiilYVYNXqwx8hgHwF5) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Don Brownrigg](https://open.spotify.com/artist/3is059epfwPYtkmzokUjPW) | [Little Road to Bethlehem](https://open.spotify.com/album/7st3j23d7T5dGL3qNuhJMw) | 2:49 | 2022-12-16 |  |
 | [Little Toy Trains](https://open.spotify.com/track/5WFEEphpUMGVLv13n2KgLa) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Spirit Of Christmas](https://open.spotify.com/album/3tipSow7W1R9vGIMYeusxV) | 2:14 | 2021-12-24 | 2022-07-27 |
 | [Little Toy Trains](https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Spirit Of Christmas](https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG) | 2:14 | 2021-12-24 |  |
 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 | 2021-12-24 |  |

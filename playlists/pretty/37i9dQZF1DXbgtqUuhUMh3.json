@@ -1,12 +1,12 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: zeyne\n\n",
-  "num_followers": 8070,
+  "num_followers": 8098,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTBhZjk4NTZiN2MwYzgzMDlmNDA2NmMzZTRkYzlmZjg5NzY0MTI2",
+  "snapshot_id": "MCxkMmRkMmMzOGQxY2E0YWVkOTIwNTM0ODZkMjdjNjZmYzNiN2ZhZTlm",
   "tracks": [
     {
       "added_at": "2023-06-02 20:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-06-02 20:00:00",
       "album": {
-        "name": "Enta El Aseel",
-        "url": "https://open.spotify.com/album/6nUvAb96iFIbxtxELpjZrl"
-      },
-      "artists": [
-        {
-          "name": "Carmen Soliman",
-          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
-        }
-      ],
-      "duration_ms": 216449,
-      "name": "Enta El Aseel",
-      "url": "https://open.spotify.com/track/7j8tmCMqHfLdg75uyDHxXQ"
-    },
-    {
-      "added_at": "2023-06-02 20:00:00",
-      "album": {
         "name": "Mezlaaj",
         "url": "https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 270811,
       "name": "Mezlaaj",
       "url": "https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes"
+    },
+    {
+      "added_at": "2023-06-02 20:00:00",
+      "album": {
+        "name": "Enta El Aseel",
+        "url": "https://open.spotify.com/album/6nUvAb96iFIbxtxELpjZrl"
+      },
+      "artists": [
+        {
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
+        }
+      ],
+      "duration_ms": 216449,
+      "name": "Enta El Aseel",
+      "url": "https://open.spotify.com/track/7j8tmCMqHfLdg75uyDHxXQ"
     },
     {
       "added_at": "2023-06-02 20:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-06-02 20:00:00",
       "album": {
-        "name": "Helw Dah",
-        "url": "https://open.spotify.com/album/3dxxw8jACcV0ZYpa4TnLLP"
-      },
-      "artists": [
-        {
-          "name": "Maya Diab",
-          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
-        }
-      ],
-      "duration_ms": 181730,
-      "name": "Helw Dah",
-      "url": "https://open.spotify.com/track/1prDjlgIQI1V5ZJjEwipFx"
-    },
-    {
-      "added_at": "2023-06-02 20:00:00",
-      "album": {
         "name": "Rayto",
         "url": "https://open.spotify.com/album/1mZSJu73qb3eXhZOL5xM0c"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 198000,
       "name": "Rayto",
       "url": "https://open.spotify.com/track/7bh4lXLynRMSV3cyxTUlCr"
+    },
+    {
+      "added_at": "2023-06-02 20:00:00",
+      "album": {
+        "name": "Helw Dah",
+        "url": "https://open.spotify.com/album/3dxxw8jACcV0ZYpa4TnLLP"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "duration_ms": 181730,
+      "name": "Helw Dah",
+      "url": "https://open.spotify.com/track/1prDjlgIQI1V5ZJjEwipFx"
     },
     {
       "added_at": "2023-06-02 20:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-06-02 20:00:00",
       "album": {
-        "name": "Nekhaby Leh",
-        "url": "https://open.spotify.com/album/61s2rLWVqOKz3TJxUXcb30"
-      },
-      "artists": [
-        {
-          "name": "Doaa El Sebaii",
-          "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
-        },
-        {
-          "name": "Maher El Mallakh",
-          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
-        }
-      ],
-      "duration_ms": 106363,
-      "name": "Nekhaby Leh",
-      "url": "https://open.spotify.com/track/4oCxv2lDprvfCymsbT3JVB"
-    },
-    {
-      "added_at": "2023-06-02 20:00:00",
-      "album": {
         "name": "Baaet Aada",
         "url": "https://open.spotify.com/album/2fPu8XfcLZZyrlDkM4X4ap"
       },
@@ -675,26 +655,6 @@
     {
       "added_at": "2023-06-02 20:00:00",
       "album": {
-        "name": "Ergaa Ya Zaman",
-        "url": "https://open.spotify.com/album/3U0MrzRqRyEaNmBjFforHB"
-      },
-      "artists": [
-        {
-          "name": "Doaa El Sebaii",
-          "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
-        },
-        {
-          "name": "Maher El Mallakh",
-          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
-        }
-      ],
-      "duration_ms": 141492,
-      "name": "Ergaa Ya Zaman",
-      "url": "https://open.spotify.com/track/0RxA6Trjdx4AtMZW9nU8NG"
-    },
-    {
-      "added_at": "2023-06-02 20:00:00",
-      "album": {
         "name": "Baghanny",
         "url": "https://open.spotify.com/album/497WnlgFjsU8gMmpeUbL5o"
       },
@@ -779,26 +739,6 @@
     {
       "added_at": "2023-06-02 20:00:00",
       "album": {
-        "name": "Eshra W Meshwar",
-        "url": "https://open.spotify.com/album/4xwt1kPZIqD7zAeICkVWWg"
-      },
-      "artists": [
-        {
-          "name": "Doaa El Sebaii",
-          "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
-        },
-        {
-          "name": "Maher El Mallakh",
-          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "Eshra W Meshwar",
-      "url": "https://open.spotify.com/track/45IIm5FDdAVtyhStLAuKo7"
-    },
-    {
-      "added_at": "2023-06-02 20:00:00",
-      "album": {
         "name": "Five Seasons",
         "url": "https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq"
       },
@@ -827,6 +767,54 @@
       "duration_ms": 230400,
       "name": "Nefrah Barsha - Aswatna",
       "url": "https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR"
+    },
+    {
+      "added_at": "2023-06-02 20:00:00",
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/2xuSq58iRiMwy96wN9rV4C"
+      },
+      "artists": [
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "duration_ms": 199214,
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/track/6Q3KOmzeEhkGcRxQpccaVO"
+    },
+    {
+      "added_at": "2023-06-02 20:00:00",
+      "album": {
+        "name": "Maksour Albi - \u0645\u0643\u0633\u0648\u0631 \u0642\u0644\u0628\u064a (From Eshret Omor Series - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0634\u0631\u0629 \u0639\u0645\u0631)",
+        "url": "https://open.spotify.com/album/5xX7kQ7GkCUF1B9lW8XzS2"
+      },
+      "artists": [
+        {
+          "name": "Maritta Hallani",
+          "url": "https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP"
+        }
+      ],
+      "duration_ms": 161298,
+      "name": "Maksour Albi - \u0645\u0643\u0633\u0648\u0631 \u0642\u0644\u0628\u064a - From Eshret Omor Series - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0634\u0631\u0629 \u0639\u0645\u0631",
+      "url": "https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft"
+    },
+    {
+      "added_at": "2023-06-02 20:00:00",
+      "album": {
+        "name": "Kelma Akhera",
+        "url": "https://open.spotify.com/album/1Pr1IhoF1383C9ZIbwO3Jb"
+      },
+      "artists": [
+        {
+          "name": "Laila Ahmed Zaher",
+          "url": "https://open.spotify.com/artist/49HSYiVEi1YkIzR3jtiJxy"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Kelma Akhera",
+      "url": "https://open.spotify.com/track/2A2NV6TRVGHV9Ggxb3Glmb"
     }
   ],
   "unique_name": "EQUAL Arabia ",

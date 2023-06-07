@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,306 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,324 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 32 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 |
 | 33 | [Comprei um Lança](https://open.spotify.com/track/12v6LfkX9YIR3uLefIAAYZ) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Comprei um Lança](https://open.spotify.com/album/61MhAUFhtd7LjHVooYcUCb) | 1:52 |
 | 34 | [Na Raba Toma Tapão](https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Na Raba Toma Tapão](https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP) | 2:45 |
-| 35 | [Ritmo Mexicano](https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Ritmo Mexicano](https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv) | 3:10 |
-| 36 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
-| 37 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
+| 35 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
+| 36 | [Ritmo Mexicano](https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Ritmo Mexicano](https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv) | 3:10 |
+| 37 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
 | 38 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
 | 39 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 |
 | 40 | [Vem Me Satisfazer](https://open.spotify.com/track/63SHcJzckFykS8faA5zojY) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ) | [Vem Me Satisfazer](https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 99 | [Bumbum Granada](https://open.spotify.com/track/261vtIjvKdSBzhvvu8q4nv) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7IZRQWJAd9E8qwh22Ijjar) | 3:07 |
 | 100 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
 
-Snapshot ID: `MCwxZTM5ZWE5MWVlMmUyMjdlMzEyZDQ5MGIwZGM2YWM3MDdjZTAwODRk`
+Snapshot ID: `MCw1YjVmYjYxMjU4OGZiNjliMDQxZmEzZjVjZTFlMTBkZjg4YzZjNzQw`

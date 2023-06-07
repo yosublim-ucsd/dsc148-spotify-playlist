@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1129881,
+  "num_followers": 1130308,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzlmZmRhOTY4YTQyMDVjNDYxYWNkNThkNjhmNGNkMTZjNmVhZjcz",
+  "snapshot_id": "MCxlNzUzYWIzYmMxOWI5MTYwNTNlYjljNmVmMTk2MDA1MWE0NjgwN2U3",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -55,22 +55,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Beats, Rhymes & Life",
-        "url": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "The Hop",
-      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Beats, Rhymes & Life",
+        "url": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "The Hop",
+      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -415,6 +415,34 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Children Of The Internet (Remixes)",
+        "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        },
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Es Devlin",
+          "url": "https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut"
+        }
+      ],
+      "duration_ms": 353346,
+      "name": "Children Of The Internet - Ezra Collective Remix",
+      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -455,34 +483,6 @@
       "duration_ms": 214973,
       "name": "Fabrics",
       "url": "https://open.spotify.com/track/6G8ybvaNEW2nn1wMzvKjRc"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Children Of The Internet (Remixes)",
-        "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
-      },
-      "artists": [
-        {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        },
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Es Devlin",
-          "url": "https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut"
-        }
-      ],
-      "duration_ms": 353346,
-      "name": "Children Of The Internet - Ezra Collective Remix",
-      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
-      },
-      "artists": [
-        {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Do You Want More?!!!??!",
         "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 281866,
       "name": "Mellow My Man",
       "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+      },
+      "artists": [
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Green Street (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 253068,
       "name": "2000 Seasons",
       "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
-      },
-      "artists": [
-        {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
-        },
-        {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
-        }
-      ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "What Am I to Do?",
         "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 244733,
       "name": "What Am I to Do?",
       "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+      },
+      "artists": [
+        {
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
+        {
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+        }
+      ],
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Call You?",
+        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
+      },
+      "artists": [
+        {
+          "name": "ArmstrongWW",
+          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
+        }
+      ],
+      "duration_ms": 205865,
+      "name": "Call You?",
+      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 242747,
       "name": "Go So Far",
       "url": "https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Call You?",
-        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
-      },
-      "artists": [
-        {
-          "name": "ArmstrongWW",
-          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
-        }
-      ],
-      "duration_ms": 205865,
-      "name": "Call You?",
-      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Back At The House",
+        "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
+      },
+      "artists": [
+        {
+          "name": "Hemlock Ernst",
+          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "See You Soon",
         "url": "https://open.spotify.com/album/1SNP0P2cVcqaptGedMs2Qd"
       },
@@ -1827,26 +1847,6 @@
       "duration_ms": 153750,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/5Niwu1Unu9JZEkkFmvWfyZ"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Back At The House",
-        "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
-      },
-      "artists": [
-        {
-          "name": "Hemlock Ernst",
-          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -2007,30 +2007,30 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Dispo II Dispo",
-        "url": "https://open.spotify.com/album/0hqzuv2DZlCur5iLv8IkHz"
+        "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
+        "url": "https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv"
       },
       "artists": [
         {
-          "name": "Flatpocket",
-          "url": "https://open.spotify.com/artist/1C3kvlK0zb8LkXCu5KQSAn"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         },
         {
-          "name": "Twit One",
-          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         },
         {
-          "name": "Lazy Jones",
-          "url": "https://open.spotify.com/artist/28rEEGnYrfwBxrVVUsolgX"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
         },
         {
-          "name": "C.Tappin",
-          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
         }
       ],
-      "duration_ms": 92053,
-      "name": "One from the Tap",
-      "url": "https://open.spotify.com/track/7yKwYibH6UtJfM1Cz1zOuI"
+      "duration_ms": 355720,
+      "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
+      "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
     }
   ],
   "unique_name": "Jazz Rap",

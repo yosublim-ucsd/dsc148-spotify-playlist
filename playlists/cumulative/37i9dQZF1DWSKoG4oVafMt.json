@@ -4017,6 +4017,24 @@
     },
     {
       "album": {
+        "name": "Sadiyan Gallan 2",
+        "url": "https://open.spotify.com/album/2DFsnJvHqSjPrYJekOc0Bz"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Gal Kaon Karda",
+      "url": "https://open.spotify.com/track/4fyHxebtKweBmTdEwDmzFm"
+    },
+    {
+      "album": {
         "name": "Gal Ni Bani",
         "url": "https://open.spotify.com/album/4pOsWsGiGZtzzUDoOvzqCl"
       },

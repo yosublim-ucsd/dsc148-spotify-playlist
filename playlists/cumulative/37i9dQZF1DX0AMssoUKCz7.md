@@ -2,7 +2,7 @@
 
 ### [Tropical House](https://open.spotify.com/playlist/37i9dQZF1DX0AMssoUKCz7)
 
-> Take down the tempo but keep the party going with the biggest tropical house jams.
+> 
 
 608 songs - 1 day 7 hr 13 min
 

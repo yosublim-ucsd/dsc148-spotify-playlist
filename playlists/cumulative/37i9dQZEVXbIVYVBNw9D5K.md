@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-681 songs - 1 day 10 hr 21 min
+682 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1 gr eksik](https://open.spotify.com/track/1fKx32CjG3buI24gQWbT6u) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 2:59 | 2021-05-30 | 2021-05-31 |
 | [10 NUMARA](https://open.spotify.com/track/6GDpxEOvaXS0nbqSrFtDAQ) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [10 NUMARA](https://open.spotify.com/album/6wtGyjOP42EhS1G29OIJFN) | 1:58 | 2021-10-17 | 2022-06-23 |
 | [10.000 Parça](https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [10.000 Parça](https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7) | 2:21 | 2023-03-11 | 2023-03-13 |
-| [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 | 2022-11-19 |  |
+| [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 | 2022-11-19 | 2023-06-07 |
 | [200 MİLYAR](https://open.spotify.com/track/3Z14anmq3j3aKSVd81sCQz) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [200 MİLYAR](https://open.spotify.com/album/5TXdEcUOwCGqvWWVQdtybe) | 2:06 | 2022-06-11 | 2022-07-31 |
 | [24/7](https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [24/7](https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY) | 3:06 | 2023-04-22 |  |
 | [25](https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [25](https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn) | 3:30 | 2022-05-14 |  |
@@ -174,8 +174,8 @@
 | [Değilim Bi Aşık](https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Değilim Bi Aşık](https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX) | 2:43 | 2022-10-20 | 2022-12-18 |
 | [Diabolico](https://open.spotify.com/track/4c2M8LTjJChc890Pr1I43h) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Diabolico](https://open.spotify.com/album/7t5MPt9ACpBHcWwXsx9AM7) | 3:09 | 2022-02-05 | 2022-02-09 |
 | [Dibine Kadar](https://open.spotify.com/track/5pbFyTdwtJVmZB5LXmccX4) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Duman 1](https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C) | 3:48 | 2021-10-20 | 2022-02-13 |
-| [Diken Mi Gül Mü?](https://open.spotify.com/track/0QQ1BLUudNdqOHg3FpFnYH) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Yeni Aşkım](https://open.spotify.com/album/3zuJa3yg2XJWMmxoOULDaA) | 3:28 | 2023-03-31 | 2023-05-17 |
-| [Diken Mi Gül Mü?](https://open.spotify.com/track/4IjSOaCoGkP9Lqd5U8YeP0) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Yeni Aşkım](https://open.spotify.com/album/7soBdXkrnCgcTBQV7tCoJT) | 3:28 | 2023-05-16 |  |
+| [Diken Mi Gül Mü?](https://open.spotify.com/track/0QQ1BLUudNdqOHg3FpFnYH) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Yeni Aşkım](https://open.spotify.com/album/3zuJa3yg2XJWMmxoOULDaA) | 3:28 | 2023-03-31 |  |
+| [Diken Mi Gül Mü?](https://open.spotify.com/track/4IjSOaCoGkP9Lqd5U8YeP0) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Yeni Aşkım](https://open.spotify.com/album/7soBdXkrnCgcTBQV7tCoJT) | 3:28 | 2023-05-16 | 2023-06-07 |
 | [Dinle Beni Bi'](https://open.spotify.com/track/11PO9iu6PtpgL1JK4QNUEJ) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Akustik Travma](https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU) | 2:24 | 2021-09-28 | 2023-04-01 |
 | [Dip](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6) | 3:43 | 2022-07-23 | 2023-02-09 |
 | [Dip](https://open.spotify.com/track/17MzeMBa6mWeY30BWYW8dd) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/1tOfXoKAd5AcUpq2MCge2W) | 3:43 | 2021-04-13 | 2021-05-16 |
@@ -303,7 +303,7 @@
 | [Hepsi Geçiyor](https://open.spotify.com/track/2EiDxAtcTF4vHAr95ztZwU) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Hepsi Geçiyor](https://open.spotify.com/album/6272MuSjfOJ3dbSOkb68Is) | 3:09 | 2021-03-27\* | 2021-05-06 |
 | [Her Gece](https://open.spotify.com/track/6D9C3pOcz76P84cMuAY1Ry) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Her Gece](https://open.spotify.com/album/20vhqRqL2VYwDOZ75rMGkE) | 4:20 | 2021-11-03 | 2021-11-06 |
 | [Her Şeyi Yak](https://open.spotify.com/track/4uqlFpMPTKO6uAsX6qvK0l) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Belki Alışman Lazım](https://open.spotify.com/album/5TQ4ZTyFM7FTDpnfSjE54l) | 4:30 | 2021-07-17 | 2021-11-10 |
-| [Herkes Gibisin](https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Herkes Gibisin](https://open.spotify.com/album/0xR4GPMWizCtxkTjouDqra) | 3:05 | 2022-05-15 |  |
+| [Herkes Gibisin](https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Herkes Gibisin](https://open.spotify.com/album/0xR4GPMWizCtxkTjouDqra) | 3:05 | 2022-05-15 | 2023-06-07 |
 | [HESAP](https://open.spotify.com/track/4bG57u7XhAA9ilg6FONPOP) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:38 | 2022-09-10 | 2022-09-15 |
 | [Heyecanlanman Normal](https://open.spotify.com/track/0RQFjwIdFaI7DghfjonJUL) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Heyecanlanman Normal](https://open.spotify.com/album/2PfvoBY67oVsXhFdKhFQsg) | 2:29 | 2022-10-22 | 2022-10-28 |
 | [HIRSIZ](https://open.spotify.com/track/316CjbmqFYbhljXXI3PEPa) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [HIRSIZ](https://open.spotify.com/album/4Q2QAaVtT3y6xJ1CnXjX1H) | 3:05 | 2022-05-28 | 2022-05-30 |
@@ -671,7 +671,7 @@
 | [Ziyafet \(Seri Katiller 5\)](https://open.spotify.com/track/3HIhscB8cHVusqdqGMka1t) | [Asil Slang](https://open.spotify.com/artist/3e9tJNBWrydJK3VKpkyWyT), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Ziyafet \(Seri Katiller 5\)](https://open.spotify.com/album/4mW6hrP5Ck2iSMkv21hxZz) | 3:05 | 2021-11-28 | 2021-12-03 |
 | [ZOO PARK](https://open.spotify.com/track/3GjMme41WMB9Pr28agQ8aX) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ZOO PARK](https://open.spotify.com/album/2t1SXqgiBQU0RABhMaeJ6M) | 1:51 | 2022-03-26 | 2022-03-31 |
 | [Zor](https://open.spotify.com/track/2vZPTcwHQTBydrwxOuxJ9F) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:00 | 2021-05-30 | 2021-06-01 |
-| [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 | 2022-09-10 | 2023-06-06 |
+| [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 | 2022-09-10 |  |
 | [Çarşamba Tatili](https://open.spotify.com/track/4324xYtPWZH1XbIh8UkBiZ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Çarşamba Tatili](https://open.spotify.com/album/0EcMkdfM1SyrhUR3LN0WkY) | 1:43 | 2021-07-18 | 2021-08-08 |
 | [Çağır](https://open.spotify.com/track/5Q6cDjM0JuvGu2mxulXGwo) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:07 | 2023-06-03 |  |
 | [Çift Gökkuşağı \(Ada Masalı Orijinal Dizi Müziği\)](https://open.spotify.com/track/23mm9aftN5GODdix3IY64M) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Çift Gökkuşağı \(Ada Masalı Orijinal Dizi Müziği\)](https://open.spotify.com/album/11QO5v6BppeVyIfe0TxRM9) | 2:22 | 2021-07-08 | 2021-07-18 |
@@ -689,5 +689,6 @@
 | [Şahane](https://open.spotify.com/track/4DbNopoUiA7WRz36e1hRS1) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Şahane](https://open.spotify.com/album/04qJEkzjcJ3jSucaskYDSv) | 1:51 | 2022-09-03 | 2022-09-11 |
 | [Şarkılar Sokaklara Ait](https://open.spotify.com/track/77zSVMpoimPhUiDuJS2Hhd) | [Shanga](https://open.spotify.com/artist/2x80eqIoeRyIDnZnqNicSs) | [Şarkılar Sokaklara Ait](https://open.spotify.com/album/6gRcQndplkSyytP7AiIj4I) | 3:13 | 2022-11-02 | 2022-11-04 |
 | [Şimdiki Aklım](https://open.spotify.com/track/3mcvBUQFQLzklDgU1bBnaW) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Şimdiki Aklım](https://open.spotify.com/album/4MiHGZmRm4SiEJTzxJ5ceJ) | 2:52 | 2021-03-27 | 2021-04-19 |
+| [ŞU AN](https://open.spotify.com/track/1G2ipJnWC0v0rSPPpzjoek) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [LATIN VIRGIN](https://open.spotify.com/album/0tBoIz7IZw9s9bM7lQRlqA) | 2:25 | 2023-06-06 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

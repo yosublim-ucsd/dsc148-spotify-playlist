@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Senndy
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,389 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,416 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 19 | [Esperança](https://open.spotify.com/track/5mASWrlFHukOpn4mTpJUIj) | [Éo Kenny](https://open.spotify.com/artist/5PHltiN9B2xTiLs7Wx3BLW), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [COTTA7](https://open.spotify.com/artist/1Qvo147JM9wMycIfAOrpCi) | [Esperança](https://open.spotify.com/album/572pLTiPXMrN0bLsfEfNYU) | 2:21 |
 | 20 | [Faculdade da Vida](https://open.spotify.com/track/44u9EBxMD8dynvUNIC52Df) | [Lord ADL](https://open.spotify.com/artist/7phpDFUX97M0DTGIcjXKRk), [Indio](https://open.spotify.com/artist/0VkIVtmRsh7hy8O2iKjsKa) | [Faculdade da Vida](https://open.spotify.com/album/7w9VPIpQI4qruVn04uEjK4) | 2:45 |
 | 21 | [Idle Time \- Extended](https://open.spotify.com/track/2arCWV03Vy8n5wGdcpxZ6U) | [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Idle Time \(Extended\)](https://open.spotify.com/album/6AS51IyWLvXPSh5XphrU7n) | 2:40 |
-| 22 | [Noite do Vetin](https://open.spotify.com/track/1d9f2wsBpbjgxv3VTXHGdQ) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [Jon](https://open.spotify.com/artist/6wbfgVgq74I6BveSPkyC2t) | [Noite do Vetin](https://open.spotify.com/album/6n39cL5rwG5fqp8YNOFwnd) | 2:50 |
+| 22 | [Noite do Vetin](https://open.spotify.com/track/1d9f2wsBpbjgxv3VTXHGdQ) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Noite do Vetin](https://open.spotify.com/album/6n39cL5rwG5fqp8YNOFwnd) | 2:50 |
 | 23 | [INJURIADO](https://open.spotify.com/track/0Z04QToWHQUCzRT7OT99sE) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [INJURIADO](https://open.spotify.com/album/54icBT2gO11RCf5RESZIbZ) | 2:30 |
 | 24 | [9MM](https://open.spotify.com/track/1bwQcAIOj7HRM8aK2YOSSJ) | [Frost](https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD), [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [SLIME DREAMS](https://open.spotify.com/artist/1vrfZnY0gHgFpP4aOAbFAY), [Gerber](https://open.spotify.com/artist/7vWKymxSFNbN8d5QhpZYVN) | [9MM](https://open.spotify.com/album/5f9hSfsPQYF77jNdaw1uFg) | 2:39 |
 | 25 | [Toma Cuidado Com A Glock](https://open.spotify.com/track/7pp9d7N0MT7umXm5MTI14h) | [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Toma Cuidado Com A Glock](https://open.spotify.com/album/4hjBaViRGQ6wDCH3yw7jmp) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:16 |
 | 75 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 
-Snapshot ID: `MCxhOWYzZGNiOTA4ZGVkYmVlYjBiYzBlODg0ZDg4ZDc4Yjg3MDE1OGYy`
+Snapshot ID: `MCxjMjU5M2QwNWIzOGQzNzk1MDY2NGU5MGJiOTI0MDgwNzhjNjUyZGE2`

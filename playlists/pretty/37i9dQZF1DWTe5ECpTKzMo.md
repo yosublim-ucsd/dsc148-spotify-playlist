@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > Solo éxitos locales pasados, chapados en oro\. Dharius en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,799 likes - 72 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,367 likes - 72 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 | 71 | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/track/1I6aiLIGgrx7uEqausJgx5) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/album/3DAo1WHerGAEI29u14o8dD) | 4:00 |
 | 72 | [Roberto Gómez Bolaños](https://open.spotify.com/track/7pXwx7adDm53P1mHDcz21Y) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Etcé7era](https://open.spotify.com/album/4Utf7ULgj1YcwSbLY70Gmm) | 4:20 |
 
-Snapshot ID: `MCxjYWZhMTE0NjBiYjAzYTI2ODFlYTM2ZGI4OGQ1Mjk1M2YzZjM0MjE3`
+Snapshot ID: `MCw3YTQwY2JhOWFkZDJlOGRjODhlN2Y3NjU4YmRhYWJmNmRmNmYzMGVj`

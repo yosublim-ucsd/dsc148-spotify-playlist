@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,867 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,883 likes - 45 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 26 | [Ya No Sos Igual \(with 2 Minutos\)](https://open.spotify.com/track/05W9ouh0IXab67HKIqBMYE) | [Quinteto Negro La Boca](https://open.spotify.com/artist/5bvLSQv0SB2cD7aWcDB3iR), [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Cruces Urbanos](https://open.spotify.com/album/1G8hdqse9sS1CP032rELMt) | 3:19 |
 | 27 | [Siga El Baile \- Versión Cantada por Alberto Castillo](https://open.spotify.com/track/0W1R6AOWnBzeRZPLcrkJKW) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Obras Cumbres](https://open.spotify.com/album/1IT1pWbVY68eVznVAKm1Ye) | 2:29 |
 | 28 | [Irresponsables](https://open.spotify.com/track/4dOwGU2xdR8Yh5w4yJJLOU) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:23 |
-| 29 | [Cambalache](https://open.spotify.com/track/7u7nVx9CuAsmEIubLgaH8a) | [Hermetica](https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7) | [Intérpretes](https://open.spotify.com/album/1yTHFSLxUB82URToWd2EM3) | 2:34 |
-| 30 | [Laura Va](https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:52 |
+| 29 | [Laura Va](https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:52 |
+| 30 | [Cambalache](https://open.spotify.com/track/7u7nVx9CuAsmEIubLgaH8a) | [Hermetica](https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7) | [Intérpretes](https://open.spotify.com/album/1yTHFSLxUB82URToWd2EM3) | 2:34 |
 | 31 | [Malena](https://open.spotify.com/track/4fpCB6Xu0cs8kBDFWb15iW) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 2:27 |
 | 32 | [Por Una Cabeza](https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 4:38 |
 | 33 | [Volver Ni A Palos](https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Otro Le Travaladna](https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF) | 2:55 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 44 | [Barro Tal Vez](https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:42 |
 | 45 | [Salvavidas de Plomo](https://open.spotify.com/track/7vfkvaLx1g6b8iWJoWrOaI) | [Juan Subira](https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Fisura Expuesta](https://open.spotify.com/album/3xMB06xJvBVJJeEnmC4VC3) | 6:44 |
 
-Snapshot ID: `MCxiMWU5ZGQzNGVkNzY1NmNmYzIzNmRlY2YxMTdmMTk4NzhlYWRlZDIx`
+Snapshot ID: `MCw5M2M3YTZlN2ExY2Y1Mzk2ODViOWNmMjYyOTcxNjQyZDNhMDEzYzU4`

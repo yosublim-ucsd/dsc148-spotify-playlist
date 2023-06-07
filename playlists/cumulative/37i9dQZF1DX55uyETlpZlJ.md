@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Brodha V
 
-97 songs - 5 hr 25 min
+99 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Good Night](https://open.spotify.com/track/2on44Nj5lhjWRTcdJfVcu8) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Good Night](https://open.spotify.com/album/6zCkPLOYgZWOy2dPPkB7ac) | 3:52 | 2022-10-20 |  |
 | [Hey Sanchari](https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN) | [Aravind Murali](https://open.spotify.com/artist/3ECpBraKrmQ1TUA3tkHZxy), [Sunil BT](https://open.spotify.com/artist/7j6hk5uHFzlXaxtI6R0Qm9) | [Hey Sanchari](https://open.spotify.com/album/5x59vdpuiqqxXP2JT5BA4S) | 3:22 | 2023-03-06 |  |
 | [Hrudhaya](https://open.spotify.com/track/0BsTSbYtsd9heOm28EOb8G) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Hrudhaya](https://open.spotify.com/album/17ipKkqA6aMzls60vOtOx0) | 3:13 | 2023-02-15 |  |
+| [HUBBALLI SONG](https://open.spotify.com/track/4epAvvYgRA0zRI90ud8jFD) | [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31), [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i) | [HUBBALLI SONG](https://open.spotify.com/album/5QzcCrWpYxTmnw5UxlmF5R) | 3:52 | 2023-06-06 |  |
 | [Ibbani](https://open.spotify.com/track/1DkBaJyOG4T8JjCTdKMSb8) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Ibbani](https://open.spotify.com/album/5BObiTpBbLQlv6ydqZPIQ5) | 3:38 | 2022-11-02 |  |
 | [Idhe Idhe Bengaluru](https://open.spotify.com/track/6igjJBcoQ98ZSfVs3fK0zb) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Prithviraj Naik](https://open.spotify.com/artist/31vmekSUvxse1Dr6BlKj1Z) | [Nachinavadu](https://open.spotify.com/album/1gDxZdntEMN96fR8kTga2p) | 2:22 | 2023-05-02 |  |
 | [Insane](https://open.spotify.com/track/2lpDO8UTGW6CPEZE4y7vir) | [Sachin Suri](https://open.spotify.com/artist/6YY1ho1om7CaoKvvYc9Sw5) | [Insane](https://open.spotify.com/album/53V4IN0tZJE74Cxt3CIsOv) | 2:39 | 2023-04-12 |  |
@@ -50,6 +51,7 @@
 | [Madhya Raatri](https://open.spotify.com/track/3vyaUrfqe16FA0njHxK8fE) | [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx), [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl) | [Madhya Raatri](https://open.spotify.com/album/5CsVCGI8MUuW7xSjG4rTDg) | 3:15 | 2022-09-05 |  |
 | [Maha Ganapathim](https://open.spotify.com/track/0DY2HqSTGGBtTFKfsshNYd) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Maha Ganapathim](https://open.spotify.com/album/4CHgztUDbbXxRZSTohaQvQ) | 4:09 | 2023-01-18 |  |
 | [Mallige Hoova](https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Ashika Ranganath](https://open.spotify.com/artist/4wexsazM0emf4VDAxSwIdp) | [Mallige Hoova](https://open.spotify.com/album/7kkpWO8QqNZw7IAmgQfxVt) | 2:57 | 2022-09-09 |  |
+| [Manadaalada Maatu](https://open.spotify.com/track/7d77j1xDRzw69uQkFlGEHY) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp) | [Manadaalada Maatu](https://open.spotify.com/album/0LmYdvdjouZveQPz7pl8F3) | 3:08 | 2023-06-06 |  |
 | [Manasindha](https://open.spotify.com/track/4Xx16ZaD0LW0svsyWx6c3x) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Manasindha](https://open.spotify.com/album/68DAgMKTgAVuz6ODAaS93p) | 4:37 | 2023-05-02 |  |
 | [Matthe Meravanige](https://open.spotify.com/track/61JVZE02xZy5l2XJkIczfQ) | [KP Milan Kumar](https://open.spotify.com/artist/2zig6tnmiGy9rjVlXRoIa4), [Anusha Jane D'Souza](https://open.spotify.com/artist/14n1m18TW4XpYiJIAKNAvN) | [Matthe Meravanige](https://open.spotify.com/album/7fsTVJMKeGFIbXixpP2HLM) | 4:23 | 2023-03-08 |  |
 | [Melusire \(Remix\)](https://open.spotify.com/track/0BpOi8WfgJPoMroHN4eknX) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ) | [Melusire \(Remix\)](https://open.spotify.com/album/4m781UWN8QgGhXeypMpSLE) | 0:47 | 2022-11-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,257 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,272 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 35 | [La Fuga del Jefe](https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 2:32 |
 | 36 | [El Teniente Pa' La Clica](https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Teniente Pa' La Clica](https://open.spotify.com/album/66SjzdSEl1T3MLVSLYE3DR) | 2:50 |
 | 37 | [Dedos De Mi Mano](https://open.spotify.com/track/09WeDwxLhLrHgV7sw6K9gs) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Abraham Luna](https://open.spotify.com/artist/4Dcyi3UzwovLb4NpBnwORm) | [Dedos De Mi Mano](https://open.spotify.com/album/7qXBX9AkhHeiV2mtZFl1c6) | 3:21 |
-| 38 | [La Perris \- En Vivo](https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J) | [La Perris \(En Vivo\)](https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN) | 2:45 |
-| 39 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 |
+| 38 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 |
+| 39 | [La Perris \- En Vivo](https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J) | [La Perris \(En Vivo\)](https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN) | 2:45 |
 | 40 | [El Rata Güera \(En Vivo\)](https://open.spotify.com/track/47KpZS0JzglRFY7C9nRKMR) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:19 |
 | 41 | [Me Famoso Chino Antrax](https://open.spotify.com/track/6UsWPelSadUoBuy75fGxbi) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:00 |
 | 42 | [El Blontezon](https://open.spotify.com/track/2YW8EvFnUFF1ff6mIQGv3v) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [Tamaulipas](https://open.spotify.com/track/4px78vJGkCKD6khhA8CUBp) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Golpe De Guerra](https://open.spotify.com/artist/0QPszxtOMuPoAcAU4yyt2V) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 3:09 |
 | 50 | [El Cabe \(En Vivo\)](https://open.spotify.com/track/1A6CTHoF8kNPPmT5uRZqTJ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Cabe \(En Vivo\)](https://open.spotify.com/album/7rYPaiJkjB2BHt6k9THWXD) | 2:56 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDBmYTIzYmUwZTk4NWRiOWIyZTE0NmRmZjk4NWRmYTY3OA==`
+Snapshot ID: `MjgxMDA5MjUsMDAwMDAwMDBkM2E3NmEwNjhmYzBjYjliMzMxZTIzZmUxNGE5YWE2ZQ==`

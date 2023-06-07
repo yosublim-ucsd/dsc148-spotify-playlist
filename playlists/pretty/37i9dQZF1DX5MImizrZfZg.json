@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 50160,
+  "num_followers": 50209,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Nzg0ZGRiNGNlODFkOTFlZWU4Yzg3NmMzZGE2ZGM2NDQwODQyNjUx",
+  "snapshot_id": "MCxlNGM4YTU4MGQ1NzZkNzZhNzk0YzhhY2VjMGFhNGRkZDcwOGEzMjJl",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 326213,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 270773,
       "name": "Who's That Lady",
       "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 326213,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "My Inspiration",
-        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 307506,
-      "name": "All Jazzed Up (And Nowhere To Go)",
-      "url": "https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Just Doing What I do",
         "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 210773,
       "name": "18th & M",
       "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "My Inspiration",
+        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 307506,
+      "name": "All Jazzed Up (And Nowhere To Go)",
+      "url": "https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv"
     },
     {
       "added_at": "2020-08-19 19:15:51",

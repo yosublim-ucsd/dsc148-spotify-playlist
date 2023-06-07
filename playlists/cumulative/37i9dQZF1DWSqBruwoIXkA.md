@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Khloe Rose
 
-515 songs - 1 day 4 hr 30 min
+516 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,8 @@
 | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/track/1aU1wpYBSpP0M6IiihY5Ue) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/album/4kD0pFwhEjEiF9pwUwkpNo) | 4:14 | 2021-12-17 | 2022-03-26 |
 | [right where you left me \- bonus track](https://open.spotify.com/track/3zwMVvkBe2qIKDObWgXw4N) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore \(deluxe version\)](https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG) | 4:05 | 2021-12-17 | 2022-10-22 |
 | [right?](https://open.spotify.com/track/5EgoEtJ6hFLUTEnCvq0roJ) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [right?](https://open.spotify.com/album/7HSg2WlGkGHVbqrAkGagBX) | 4:36 | 2022-03-25 | 2022-07-29 |
-| [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-10-08 |  |
+| [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 | 2023-04-28 |  |
+| [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-10-08 | 2023-06-07 |
 | [Rockland](https://open.spotify.com/track/2fooMOezILHFlxkCqq3RRm) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Rockland](https://open.spotify.com/album/58I32Uh5uNYLKSkrzIufBo) | 3:37 | 2021-12-17 | 2022-03-26 |
 | [Roles Reversed](https://open.spotify.com/track/7iinMLIDWw5QA7d6x0d5HJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Roles Reversed](https://open.spotify.com/album/2RFdnVvLdNioN4fw42fPfr) | 3:45 | 2023-02-17 |  |
 | [Romantic Comedies](https://open.spotify.com/track/32UFQyrBNdSaIXPrqvRkaJ) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Crash & Burn](https://open.spotify.com/album/5oxH5EJsmjUgl3bFyohapb) | 2:49 | 2023-02-17 | 2023-03-25 |

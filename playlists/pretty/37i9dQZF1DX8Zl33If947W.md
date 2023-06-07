@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,682 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,813 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 49 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 | 50 | [Sommerregen](https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Sommerregen](https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl) | 3:45 |
 
-Snapshot ID: `MCxlNGUxNGU3YjkzZTY2MDc1MjJmMTlhNTdlODg4YjJiOWZkZGZhOWM0`
+Snapshot ID: `MCxiYmQzM2U4MTM2M2ZmMDgyNzIyYTgzODNkNTQ5OTBiODkyMmUwZmVi`

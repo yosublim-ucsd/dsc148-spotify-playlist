@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. zand
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,443 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,544 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [KSALOL KRAZY](https://open.spotify.com/track/1mGLc2hq1aiGuuL9qed8WS) | [Kid Trash](https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh) | [KSALOL KRAZY](https://open.spotify.com/album/4bojr9kRXvJ6tD3nVyIAA4) | 3:21 |
 | 85 | [Grail](https://open.spotify.com/track/06PzkPjLzVkPnw0V98CufI) | [Typecode](https://open.spotify.com/artist/4c6Z93WJel4oYh6PJFfurG), [Velsser](https://open.spotify.com/artist/48i9gA9q6KrTtHt7HZt7IG) | [Grail](https://open.spotify.com/album/5TH3X1bHH2YHqWua1F7uIV) | 2:52 |
 
-Snapshot ID: `MCwwYjQ1MmQ4MmQ0ZDE4ZGI2NjY4ZmEzNGRlNjU0ZjJhMWI2ZWY3YTg2`
+Snapshot ID: `MCxjNDA0NTcwYzAwYTBlMmU3YjYwYWRjMzQ2ZTM0ZjA5YTM4MWY3ZWRm`

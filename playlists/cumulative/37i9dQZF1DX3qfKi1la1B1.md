@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-204 songs - 13 hr 15 min
+206 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-10-20 |  |
 | [balloon](https://open.spotify.com/track/3a7cMaM3fudhTYRvHRrStL) | [kijin](https://open.spotify.com/artist/2TGFerbsk04KUysNlVQyv0) | [balloon](https://open.spotify.com/album/20tx2Al1zE8eWZIVTPzBb6) | 3:16 | 2022-10-20 | 2022-12-14 |
 | [Barcelona Part IV](https://open.spotify.com/track/3gpppuXHsul092Cw0gtq0T) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [LIVE](https://open.spotify.com/album/1eRiTL1A6peNzZTokLv5HO) | 3:41 | 2023-05-18 |  |
-| [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 | 2022-10-20 |  |
+| [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 | 2022-10-20 | 2023-06-07 |
 | [Better Than I Imagined \[Feat\. H.E.R., Meshell Ndegeocello\]](https://open.spotify.com/track/5hv2fqqM4B2Oi9VoM4Oxhn) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Black Radio III \(Supreme Edition\)](https://open.spotify.com/album/0koSNz785od22spE0DlKO7) | 4:51 | 2022-12-13 | 2023-02-10 |
 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 | 2023-02-07 | 2023-03-22 |
 | [Borderland](https://open.spotify.com/track/7dbcgrQiZGB1kTXzevBEen) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Borderland](https://open.spotify.com/album/4Oj5YTqVP7ZyiYnpnY9ntA) | 3:22 | 2022-10-20 | 2022-10-28 |
@@ -32,6 +32,7 @@
 | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-21 | 2023-03-22 |
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-10-20 | 2023-06-01 |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-10-20 |  |
+| [Dark Energy](https://open.spotify.com/track/3kdhlzVT1e8XGFGSawkKPO) | [Shōtaro Aoyama](https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR) | [Dark Energy](https://open.spotify.com/album/4OmjTbUvRXLA5KJmklQhdb) | 6:14 | 2023-06-06 |  |
 | [Dekoboko](https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 4:30 | 2023-01-25 |  |
 | [Destiny](https://open.spotify.com/track/1267Pke9jDa1KeUQC5ARkp) | [Jonathan Bree](https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh) | [Destiny](https://open.spotify.com/album/4pDt55Zy4TqdGco2lZf3yY) | 2:58 | 2022-10-20 | 2022-12-14 |
 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-23 |  |
@@ -169,7 +170,7 @@
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-03-02 |
 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-04-06 |  |
 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 | 2023-05-11 |  |
-| [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-15 |  |
+| [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-15 | 2023-06-07 |
 | [Tell Me](https://open.spotify.com/track/1OxaAC72au0z2HORS9yt1m) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Tell Me](https://open.spotify.com/album/2nBHaQWoC341spJHji7dgz) | 3:16 | 2022-12-13 | 2023-05-16 |
 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-10-20 |  |
 | [The Encounters \- Silent Poets Remix](https://open.spotify.com/track/5QTqbpSEZKLPG9IVVG08ko) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [Silent Poets](https://open.spotify.com/artist/0v8kJy6pfyJsO20V77miAI) | [The Encounters \(Silent Poets Remix\)](https://open.spotify.com/album/3v3qmBZy8dW8pWYp2L8txf) | 6:26 | 2022-12-23 | 2023-01-25 |
@@ -210,6 +211,7 @@
 | [またね](https://open.spotify.com/track/1nGRhES32vNvNMoLHSCY1m) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Where is “LAGHEADS”?](https://open.spotify.com/album/29hUw40qYCdiUKb5ry9Fjp) | 5:27 | 2023-01-24 | 2023-02-08 |
 | [サーカスナイト](https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [リトルメロディ](https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf) | 6:19 | 2023-05-16 |  |
 | [ミアネ](https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [306](https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF) | 3:35 | 2023-01-25 |  |
+| [無常の世界](https://open.spotify.com/track/2KbOr3nSrmMELCYiy8d3Np) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [無常の世界](https://open.spotify.com/album/2ZWV6JcEIfHCqzDO1brQAS) | 4:39 | 2023-06-06 |  |
 | [阿夫利歌 \- Maika Loubté Remix](https://open.spotify.com/track/7LgjjbfkdnnKviX4UYkiNq) | [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW), [Maika Loubté](https://open.spotify.com/artist/46Ij6NEZ6VQwUpFGZphe4m) | [東源京 Remixes](https://open.spotify.com/album/7JYbmHyEwJLVyfauAGPGAQ) | 3:28 | 2022-10-27 | 2022-10-29 |
 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2023-04-09 |
 

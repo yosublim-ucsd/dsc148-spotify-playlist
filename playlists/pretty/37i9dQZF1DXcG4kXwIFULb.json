@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 123616,
+  "num_followers": 123745,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzcxZTdmZWM4MDEzYTRiZmMzM2ViY2FhNGMzODQ2ZDRmMWYzNzEz",
+  "snapshot_id": "MCxmNzc4NzBiMTcwZjY4NTI2MDhiMGIxOTM2YmM1YWRiMjliZWVhZTM1",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -59,26 +59,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Sophie Barker",
-          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
-        }
-      ],
-      "duration_ms": 271520,
-      "name": "In The Waiting Line",
-      "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 211500,
       "name": "Playground Love",
       "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Sophie Barker",
+          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
+        }
+      ],
+      "duration_ms": 271520,
+      "name": "In The Waiting Line",
+      "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -231,6 +231,26 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "name": "Beth Hirsch",
+          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
+        }
+      ],
+      "duration_ms": 268306,
+      "name": "All I Need (feat. Beth Hirsch)",
+      "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 338279,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        },
-        {
-          "name": "Beth Hirsch",
-          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
-        }
-      ],
-      "duration_ms": 268306,
-      "name": "All I Need (feat. Beth Hirsch)",
-      "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -751,6 +751,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Nouvelle vague",
         "url": "https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 198026,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/6CDoP0pDTfnWUabFnZkjRF"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 324906,
-      "name": "Peacock Tail",
-      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2"
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
         }
       ],
-      "duration_ms": 287000,
-      "name": "All Is Full of Love",
-      "url": "https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe"
+      "duration_ms": 277333,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2"
       },
       "artists": [
         {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 277333,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
+      "duration_ms": 287000,
+      "name": "All Is Full of Love",
+      "url": "https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Superluminal",
         "url": "https://open.spotify.com/album/3l50IaIO1hQnl4MiTHTJsn"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 312333,
       "name": "Melt - Remastered",
       "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
     },
     {
       "added_at": "2020-09-04 01:12:56",

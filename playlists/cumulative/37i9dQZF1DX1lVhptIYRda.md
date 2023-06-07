@@ -4,7 +4,7 @@
 
 > In Nashville for CMA Fest? Check out Spotify House at Ole Red! Cover: Jelly Roll
 
-640 songs - 1 day 10 hr 31 min
+641 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,7 +455,8 @@
 | [Rearview Town](https://open.spotify.com/track/3yHTTHbT058Ow0favhZO38) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rearview Town](https://open.spotify.com/album/7AtG1L0ULYeaUjfbUabPGv) | 3:04 | 2019-05-26\* | 2019-09-08 |
 | [Redesigning Women](https://open.spotify.com/track/31S0wn0oWPO6EVX084IVU1) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Crowded Table / Redesigning Women](https://open.spotify.com/album/3ecYV2HE7noz8UI8rq1Oti) | 2:54 | 2019-07-27 | 2019-11-09 |
 | [Refrigerator Door](https://open.spotify.com/track/1b0YOwtdW5ibaAhHEsbdjB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel \- EP](https://open.spotify.com/album/4nFW5W1gIwov6e4lAzn2vA) | 3:24 | 2019-07-13 | 2019-10-12 |
-| [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-05-05 |  |
+| [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-06-02 |  |
+| [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-05-05 | 2023-06-07 |
 | [Remember You Young](https://open.spotify.com/track/3LK6wDkhbTyg8GhJidU9oC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:00 | 2019-09-08 | 2020-01-13 |
 | [Ridin' Roads](https://open.spotify.com/track/5OBtr92M0xsvOGqpnz3LzW) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Ridin' Roads](https://open.spotify.com/album/5k9qdzeVjlGweGxnb4cnGd) | 3:25 | 2019-05-26\* | 2020-04-04 |
 | [Right Now](https://open.spotify.com/track/27SEGAFBjr1CsjLcUu0Z4f) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Right Now](https://open.spotify.com/album/7K26C63gkM1i2JR0FdLPvT) | 3:55 | 2021-02-18 | 2021-03-27 |

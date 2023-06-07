@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. L.A Priest on cover.",
-  "num_followers": 363528,
+  "num_followers": 363846,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZThmMmU5YWFlZjcyN2QwOTU0NGYzYjk4MGEyNzQ5ODViM2ZlMGZl",
+  "snapshot_id": "MCxkNDIxZDRiZGRjZjEyYWVmZDVmNjg0ZTQ4ZGVjZDYyYmI5ODcxZWM4",
   "tracks": [
     {
       "added_at": "2023-05-31 21:11:01",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Forest of Lost Children",
-        "url": "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 436171,
-      "name": "Smoke and Mirrors",
-      "url": "https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Can't Get No",
         "url": "https://open.spotify.com/album/3CR6BO7eoOV25e1m6bXkla"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 196053,
       "name": "Roky Said",
       "url": "https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Forest of Lost Children",
+        "url": "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA"
+      },
+      "artists": [
+        {
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+        }
+      ],
+      "duration_ms": 436171,
+      "name": "Smoke and Mirrors",
+      "url": "https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs"
     },
     {
       "added_at": "2023-06-05 21:01:22",
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Moonlust",
-        "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
       "artists": [
         {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
         }
       ],
-      "duration_ms": 205010,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1"
+      "duration_ms": 203680,
+      "name": "Shell Island",
+      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
     },
     {
       "added_at": "2022-04-12 18:03:13",
@@ -395,18 +395,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+        "name": "Moonlust",
+        "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
       },
       "artists": [
         {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Shell Island",
-      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
+      "duration_ms": 205010,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
     },
     {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Sleeping Through The War",
+        "url": "https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 400853,
+      "name": "Bulls",
+      "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
+    },
+    {
       "added_at": "2023-03-23 21:15:41",
       "album": {
         "name": "Ghost Power",
@@ -711,22 +727,6 @@
       "duration_ms": 128917,
       "name": "Strange Secrets Worth Knowing",
       "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Sleeping Through The War",
-        "url": "https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 400853,
-      "name": "Bulls",
-      "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
     },
     {
-      "added_at": "2022-04-06 03:33:39",
-      "album": {
-        "name": "Time Bazaar",
-        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Time Bazaar",
-      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
-    },
-    {
       "added_at": "2022-04-12 17:55:21",
       "album": {
         "name": "Egypt",
@@ -969,20 +953,20 @@
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-04-06 03:33:39",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+        "name": "Time Bazaar",
+        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
       },
       "artists": [
         {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
         }
       ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+      "duration_ms": 236000,
+      "name": "Time Bazaar",
+      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -999,6 +983,22 @@
       "duration_ms": 325015,
       "name": "The Rat Catcher",
       "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "duration_ms": 383100,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
     },
     {
       "added_at": "2023-01-12 01:50:42",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/3JORo0UuJp17QF5A5EWwRX"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Death Hawks",
-        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
-      },
-      "artists": [
-        {
-          "name": "Death Hawks",
-          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
-        }
-      ],
-      "duration_ms": 546640,
-      "name": "Black Acid",
-      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
-    },
-    {
       "added_at": "2023-05-22 18:33:08",
       "album": {
         "name": "Bud Spencer Blues Explosion",
@@ -1131,6 +1115,22 @@
       "duration_ms": 195013,
       "name": "Hey Boy Hey Girl - Cover Version",
       "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Death Hawks",
+        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
+      },
+      "artists": [
+        {
+          "name": "Death Hawks",
+          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
+        }
+      ],
+      "duration_ms": 546640,
+      "name": "Black Acid",
+      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1197,20 +1197,20 @@
       "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     },
     {
-      "added_at": "2023-04-07 06:00:00",
+      "added_at": "2022-11-15 16:39:12",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
       "artists": [
         {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
         }
       ],
-      "duration_ms": 384000,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1245,20 +1245,20 @@
       "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
     },
     {
-      "added_at": "2022-11-15 16:39:12",
+      "added_at": "2023-04-07 06:00:00",
       "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
       },
       "artists": [
         {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
         }
       ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+      "duration_ms": 384000,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
+        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 250214,
+      "name": "Meme City",
+      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
-        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+        "name": "Guayabo de Agua Ardiente",
+        "url": "https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
         }
       ],
-      "duration_ms": 250214,
-      "name": "Meme City",
-      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
+      "duration_ms": 220287,
+      "name": "Marihuana",
+      "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1387,22 +1403,6 @@
       "duration_ms": 221893,
       "name": "Panic In The Isles Of Splendor",
       "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Guayabo de Agua Ardiente",
-        "url": "https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 220287,
-      "name": "Marihuana",
-      "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
     },
     {
       "added_at": "2021-11-12 05:23:58",

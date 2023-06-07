@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 304158,
+  "num_followers": 304302,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzY3NWM2NGEwNjUzYWEzMTI0OTc1YzhhYjVhMzdjNGE2YTU4NjBj",
+  "snapshot_id": "MCwyYjJlNjljMGI5OWRlNjAxMjNjZjUxOWIyM2NlOTVjYTEwMzU3NWQ3",
   "tracks": [
     {
       "added_at": "2023-06-02 15:30:00",
@@ -211,26 +211,6 @@
     {
       "added_at": "2023-06-02 15:30:00",
       "album": {
-        "name": "Off Of My Mind",
-        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
-    },
-    {
-      "added_at": "2023-06-02 15:30:00",
-      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 161000,
       "name": "Boots",
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
+    },
+    {
+      "added_at": "2023-06-02 15:30:00",
+      "album": {
+        "name": "Off Of My Mind",
+        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2023-06-02 15:30:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-06-02 15:30:00",
       "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/1MTAPqxvOAo54UcBZLD2AQ"
+      },
+      "artists": [
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        }
+      ],
+      "duration_ms": 156916,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/7AFgtsFcRfvXd2sUKd9o88"
+    },
+    {
+      "added_at": "2023-06-02 15:30:00",
+      "album": {
         "name": "1001 Arabian Nights",
         "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 174960,
       "name": "1001 Arabian Nights",
       "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
-    },
-    {
-      "added_at": "2023-06-02 15:30:00",
-      "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/1MTAPqxvOAo54UcBZLD2AQ"
-      },
-      "artists": [
-        {
-          "name": "MistaJam",
-          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
-        }
-      ],
-      "duration_ms": 156916,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/7AFgtsFcRfvXd2sUKd9o88"
     },
     {
       "added_at": "2023-06-02 15:30:00",
@@ -631,26 +631,6 @@
     {
       "added_at": "2023-06-02 15:30:00",
       "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
-      },
-      "artists": [
-        {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
-        },
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
-    },
-    {
-      "added_at": "2023-06-02 15:30:00",
-      "album": {
         "name": "Stop Sign",
         "url": "https://open.spotify.com/album/1awSxxmeDZc9tYchRZF5Je"
       },
@@ -675,6 +655,42 @@
     {
       "added_at": "2023-06-02 15:30:00",
       "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+      },
+      "artists": [
+        {
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
+        },
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
+    },
+    {
+      "added_at": "2023-06-02 15:30:00",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
+    },
+    {
+      "added_at": "2023-06-02 15:30:00",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 202333,
       "name": "Poison",
       "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
-    },
-    {
-      "added_at": "2023-06-02 15:30:00",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
     },
     {
       "added_at": "2023-06-02 15:30:00",

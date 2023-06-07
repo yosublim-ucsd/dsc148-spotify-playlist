@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 201145,
+  "num_followers": 201467,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTllN2JlZjZiMDJiZTVjODlhYmU2YjA4YWQ4ZWYzMzg5MTFhYjhk",
+  "snapshot_id": "MCxiYmFlYzIwNWUwY2YwMWMzOWZkZmYwNTI4MGIzNjc4NThhMjE2YWI2",
   "tracks": [
     {
       "added_at": "2023-05-30 11:12:15",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-05-30 11:12:15",
       "album": {
-        "name": "Swings Rodgers And Hart",
-        "url": "https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 129266,
-      "name": "I Could Write A Book",
-      "url": "https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7"
-    },
-    {
-      "added_at": "2023-05-30 11:12:15",
-      "album": {
         "name": "Silk & Soul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 142613,
       "name": "The Look of Love",
       "url": "https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD"
+    },
+    {
+      "added_at": "2023-05-30 11:12:15",
+      "album": {
+        "name": "Swings Rodgers And Hart",
+        "url": "https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 129266,
+      "name": "I Could Write A Book",
+      "url": "https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7"
     },
     {
       "added_at": "2023-05-30 11:12:15",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-30 11:12:15",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 104773,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
-    },
-    {
-      "added_at": "2023-05-30 11:12:15",
-      "album": {
         "name": "Ultimate Peggy Lee",
         "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 150053,
       "name": "Hallelujah, I Love Him So",
       "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
+    },
+    {
+      "added_at": "2023-05-30 11:12:15",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 104773,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
     },
     {
       "added_at": "2023-05-30 11:12:15",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-05-30 11:12:15",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
-    },
-    {
-      "added_at": "2023-05-30 11:12:15",
-      "album": {
         "name": "The Silver Lining - The Songs of Jerome Kern",
         "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 174280,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
+    },
+    {
+      "added_at": "2023-05-30 11:12:15",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
     },
     {
       "added_at": "2023-05-30 11:12:15",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-05-30 11:12:15",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
-    },
-    {
-      "added_at": "2023-05-30 11:12:15",
-      "album": {
         "name": "Sinatra's Sinatra",
         "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 209066,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP"
+    },
+    {
+      "added_at": "2023-05-30 11:12:15",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
     },
     {
       "added_at": "2023-05-30 11:12:15",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-05-30 11:12:15",
       "album": {
-        "name": "Can't Resist You - My Summer Love",
-        "url": "https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 125946,
-      "name": "Have You Met Miss Jones",
-      "url": "https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc"
-    },
-    {
-      "added_at": "2023-05-30 11:12:15",
-      "album": {
         "name": "Some Nice Things I've Missed",
         "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 241733,
       "name": "What Are You Doing The Rest Of Your Life?",
       "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
+    },
+    {
+      "added_at": "2023-05-30 11:12:15",
+      "album": {
+        "name": "Can't Resist You - My Summer Love",
+        "url": "https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc"
     },
     {
       "added_at": "2023-05-30 11:12:15",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2023-05-30 11:12:15",
       "album": {
-        "name": "L.A. Is My Lady",
-        "url": "https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU"
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
         }
       ],
-      "duration_ms": 225933,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc"
+      "duration_ms": 194866,
+      "name": "I Can't Give You Anything But Love",
+      "url": "https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6"
     },
     {
       "added_at": "2023-05-30 11:12:15",
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2023-05-30 11:12:15",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+        "name": "L.A. Is My Lady",
+        "url": "https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU"
       },
       "artists": [
         {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 194866,
-      "name": "I Can't Give You Anything But Love",
-      "url": "https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6"
+      "duration_ms": 225933,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc"
     },
     {
       "added_at": "2023-05-30 11:12:15",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-05-30 11:12:15",
       "album": {
-        "name": "A Day At The Movies",
-        "url": "https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "With A Song In My Heart - 78 rpm Version",
-      "url": "https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj"
-    },
-    {
-      "added_at": "2023-05-30 11:12:15",
-      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 109813,
       "name": "Long Ago and Far Away",
       "url": "https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6"
+    },
+    {
+      "added_at": "2023-05-30 11:12:15",
+      "album": {
+        "name": "A Day At The Movies",
+        "url": "https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "With A Song In My Heart - 78 rpm Version",
+      "url": "https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj"
     },
     {
       "added_at": "2023-05-30 11:12:15",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-05-30 11:12:15",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc"
-    },
-    {
-      "added_at": "2023-05-30 11:12:15",
-      "album": {
         "name": "Swedish Sensation",
         "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 167723,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm"
+    },
+    {
+      "added_at": "2023-05-30 11:12:15",
+      "album": {
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+      },
+      "artists": [
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc"
     },
     {
       "added_at": "2023-05-30 11:12:15",

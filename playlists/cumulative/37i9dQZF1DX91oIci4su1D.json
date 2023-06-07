@@ -5488,7 +5488,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 204428,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/4X14jMLrOx5ewj96oEPcXN"
@@ -10908,6 +10908,24 @@
       "duration_ms": 243763,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0PJr4eTfffgfHQda27VpIq"
+    },
+    {
+      "album": {
+        "name": "Soul Theory",
+        "url": "https://open.spotify.com/album/6hxEUebk8cOULv4bQgSAFB"
+      },
+      "artists": [
+        {
+          "name": "Tempo Giusto",
+          "url": "https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Soul Theory",
+      "url": "https://open.spotify.com/track/4P64WuBJEjSwyAnM3II9zh"
     },
     {
       "album": {

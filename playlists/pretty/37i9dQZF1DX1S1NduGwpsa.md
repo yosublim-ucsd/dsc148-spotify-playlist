@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Kareen Guiock Thuram
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,681 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,714 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 13 | [Fuck Yeah](https://open.spotify.com/track/0XRhF206W0IU4dBm95DS37) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Fuck Yeah](https://open.spotify.com/album/5qivkuZe5DRd1o5fT18oBd) | 5:16 |
 | 14 | [Rituel du soleil](https://open.spotify.com/track/28s6vG5qO8iJ6EOtqIoBQZ) | [Naïssam Jalal](https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk) | [Rituel du soleil](https://open.spotify.com/album/1349X3aKwOlh6XimmsJS5U) | 6:06 |
 | 15 | [Outta the Blue with You](https://open.spotify.com/track/1Un6Xe3Ojn48KPWohouhWj) | [Mathieu Najean](https://open.spotify.com/artist/0uepTu7VvA1dURIYOUGUGx), [Cait Jones](https://open.spotify.com/artist/3wbVZ5KI6HVOWsoV78ECfI), [David Paycha](https://open.spotify.com/artist/4nodgfX2Ns8tPZq6OgHy9W), [Noé Codjia](https://open.spotify.com/artist/5wVgCCd9Tjas35KQdNOHlG), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Édouard Pennes](https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2), [Edouard Wallyn](https://open.spotify.com/artist/6oKU1P03f4vPJeSDvCFI44), [Zoot Collectif](https://open.spotify.com/artist/42J8D311zCRXThjHHo1z90) | [Outta the Blue with You](https://open.spotify.com/album/0tVdsxVw1acnmeCIexDSNN) | 3:32 |
-| 16 | [I Won't Dance](https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:17 |
+| 16 | [I Won't Dance](https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:17 |
 | 17 | [King Size Papa](https://open.spotify.com/track/4jUTtGnhdBKqxWQycVgIEh) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It \(Deluxe Edition\)](https://open.spotify.com/album/544v2wHRMwPAc7frjbukKf) | 3:52 |
 | 18 | [This Is All I Ask](https://open.spotify.com/track/7gLH8KeZepuJW2kv9ODrly) | [Alex Gilson](https://open.spotify.com/artist/6zP7fwcpwsvsLNxr3iy6hW), [Paul Morvan](https://open.spotify.com/artist/4LkQzb3Bx2pwv3hJz6AwWl), [Amaury Faye](https://open.spotify.com/artist/6O7ANcEElszVLKwPOSVXte), [Michel Pastre](https://open.spotify.com/artist/72H0XVdRgj7SFQOKiDDw1P), [Björn Ingelstam](https://open.spotify.com/artist/46OCIaWgZaJ0Poxo4pb5Nw) | [Introducing \- Danger Zone](https://open.spotify.com/album/5QmtGwt6ZQEc2SCB9yJ7OP) | 3:00 |
 | 19 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [A Lullaby for Constance](https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa) | [Olivier Temime](https://open.spotify.com/artist/1Qv2LZLDnuCJwSZWXmRtYK) | [Inner Songs](https://open.spotify.com/album/3bHRe5o2d25MQm0M2LLhfA) | 5:19 |
 | 50 | [Where Will I Be?](https://open.spotify.com/track/66xrFr0ap2a807yw6qqmAD) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Where Will I Be?](https://open.spotify.com/album/5UKySePl9G3Dq910vjPO3r) | 4:29 |
 
-Snapshot ID: `MCxkNTNmYTUwZjVmZDgyMjFmYjU3MDM5N2M4YTczODgxNGQyOWMxMTFk`
+Snapshot ID: `MCxiMjE5ZDcyNTg2NWNjN2YyYWYxZmIyNDUyZGZhNjQ5ODNjNTZiYjJj`

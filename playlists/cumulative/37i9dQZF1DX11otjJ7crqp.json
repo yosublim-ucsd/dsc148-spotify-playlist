@@ -57914,10 +57914,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 172881,
       "name": "What's up",
       "url": "https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO"
+    },
+    {
+      "album": {
+        "name": "What's up",
+        "url": "https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172881,
+      "name": "What's up",
+      "url": "https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH"
     },
     {
       "album": {

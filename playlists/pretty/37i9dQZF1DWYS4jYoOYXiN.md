@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,195 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,246 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 29 | [A la la E](https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6) | [Pete Terrace](https://open.spotify.com/artist/1WzIuVArOislB6oLlBkxMP) | [Pachanguerisimo, Vol\. 1](https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq) | 2:24 |
 | 30 | [\(I'll Be A\) Happy Man](https://open.spotify.com/track/5LuzVIV75d9eaSeJfOfTJK) | [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W), [Luis Aviles](https://open.spotify.com/artist/0Gn61gQpTFRbP9l6lyEy49) | [Take A Trip Pussy Cat](https://open.spotify.com/album/1bWv91UnA3Yue0fUCRouVg) | 3:34 |
 | 31 | [Richie's Jala\-Jala](https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 4:57 |
-| 32 | [It's Not What You Say](https://open.spotify.com/track/6xa8EuqmwQPVjzhyir7yTU) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/390tpQELbsoYfFRnwIDxuO) | 2:56 |
-| 33 | [Brooklyn Boogaloo](https://open.spotify.com/track/2SFQr3uJF8wD7iLqGVaLNi) | [Spanglish Fly](https://open.spotify.com/artist/1iy7s9Xp6bA7lClmWDsNKu) | [New York Boogaloo](https://open.spotify.com/album/1eItMzO9e3pOi82He9lIiI) | 6:29 |
+| 32 | [Brooklyn Boogaloo](https://open.spotify.com/track/2SFQr3uJF8wD7iLqGVaLNi) | [Spanglish Fly](https://open.spotify.com/artist/1iy7s9Xp6bA7lClmWDsNKu) | [New York Boogaloo](https://open.spotify.com/album/1eItMzO9e3pOi82He9lIiI) | 6:29 |
+| 33 | [It's Not What You Say](https://open.spotify.com/track/6xa8EuqmwQPVjzhyir7yTU) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/390tpQELbsoYfFRnwIDxuO) | 2:56 |
 | 34 | [Son Cuero Y Boogaloo \- Live At Red Garter / Greenwich Village, NY / 1968](https://open.spotify.com/track/0nkCr4yTg9Wnr7VsaaZ09j) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Jimmy Sabater](https://open.spotify.com/artist/2MQ4Kb9A8KkwQmK2LjaSw2) | [Live At The Red Garter, Vol\. 2 \(Live At Red Garter / Greenwich Village, NY / 1968\)](https://open.spotify.com/album/4hk83t4es3QZMhxOPZHh8T) | 8:30 |
 | 35 | [Come and Get It](https://open.spotify.com/track/0Zqpc4C25DtWg7Fmhb0g63) | [Ralph Robles](https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV) | [Ralph Robles](https://open.spotify.com/album/2pBp6tnOazUbSHFm7bdCN8) | 3:02 |
 | 36 | [Boogaloo Blues](https://open.spotify.com/track/62o0gzaSrLZvdTwlvWkDq5) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Records 60's Gold](https://open.spotify.com/album/23tZQ7L4t76gYwRKx2h9ye) | 5:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 |
 | 50 | [Llegaron Los Bonches](https://open.spotify.com/track/6ESDtZGTfYuauub8WpFowC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Volando Bajito](https://open.spotify.com/album/21mczyHRqExR3ZfnG7AjlD) | 3:22 |
 
-Snapshot ID: `MCxlYTczMWU0MWJjM2ZkYmNiZmQ3NzU1YjlkM2NmZTMyYzA4ZTk1M2Vk`
+Snapshot ID: `MCxiOGEyNjAwYzc5NGQ4ZWJmNjhlNmVhNzBkNGU0YjRiZDE1NWYyZDZj`

@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 104589,
+  "num_followers": 104583,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjcwMjZiNTM2MmNlZTNmMDJiNDdlOGU3YzVlYTM5YTRhYmM2MWM3",
+  "snapshot_id": "MCxiOWIwMWUwZGZiMGI4OTA1NDhkN2M3MzVhYzY2MzFkYTk2MzY3NTBk",
   "tracks": [
     {
       "added_at": "2023-01-03 07:50:46",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 175893,
-      "name": "(There's No Place Like) Home for the Holidays - 1959 Version",
-      "url": "https://open.spotify.com/track/0hvN2v6fAcB6xWyW7UaooA"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Abide With Me",
         "url": "https://open.spotify.com/album/5zBhekiGUyciT3kBry7MRp"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 197744,
       "name": "Abide With Me",
       "url": "https://open.spotify.com/track/7qPYEUXACuFdUyywP24ZvO"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "(There's No Place Like) Home for the Holidays - 1959 Version",
+      "url": "https://open.spotify.com/track/0hvN2v6fAcB6xWyW7UaooA"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Magic Trio",
-          "url": "https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3"
-        }
-      ],
-      "duration_ms": 163130,
-      "name": "The Chipmunk Song",
-      "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/74pI1XqEAgFfo1T2UGDEZs"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 153720,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/6uVCqvznAx7pOYHTNlxulb"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Magic Trio",
+          "url": "https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3"
+        }
+      ],
+      "duration_ms": 163130,
+      "name": "The Chipmunk Song",
+      "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "Personal Christmas Collection",
-        "url": "https://open.spotify.com/album/5gvprHdipdaEWUU7JH1qYc"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Here Comes Santa Claus (Down Santa Claus Lane)",
-      "url": "https://open.spotify.com/track/70OUj8g2IUjubbLcW1vynZ"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Mistletoe And Holly",
         "url": "https://open.spotify.com/album/0GQGvFHYPbLc3jZR11f8Hu"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 146510,
       "name": "Mistletoe And Holly",
       "url": "https://open.spotify.com/track/5SEjKY2Q0hQTmSfd8lHnGJ"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "Personal Christmas Collection",
+        "url": "https://open.spotify.com/album/5gvprHdipdaEWUU7JH1qYc"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Here Comes Santa Claus (Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/70OUj8g2IUjubbLcW1vynZ"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "I Dream Of Christmas",
-        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 160290,
-      "name": "Christmas Don't Be Late",
-      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 137880,
       "name": "Christmas Island",
       "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "I Dream Of Christmas",
+        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 160290,
+      "name": "Christmas Don't Be Late",
+      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "White Nights",
-        "url": "https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst"
-      },
-      "artists": [
-        {
-          "name": "Meadowpoint",
-          "url": "https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21"
-        }
-      ],
-      "duration_ms": 145483,
-      "name": "Ding Dong Merrily on High",
-      "url": "https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Christmas With The Andrews Sisters",
         "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 180160,
       "name": "I'd Like To Hitch A Ride With Santa Claus",
       "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "White Nights",
+        "url": "https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst"
+      },
+      "artists": [
+        {
+          "name": "Meadowpoint",
+          "url": "https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21"
+        }
+      ],
+      "duration_ms": 145483,
+      "name": "Ding Dong Merrily on High",
+      "url": "https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9"
     },
     {
       "added_at": "2023-01-03 07:50:46",

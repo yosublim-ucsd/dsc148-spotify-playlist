@@ -1603,6 +1603,28 @@
     },
     {
       "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
+    },
+    {
+      "album": {
         "name": "All Of The Girls You Loved Before",
         "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
       },
@@ -2100,7 +2122,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 53356,
       "name": "Apna Bana Le (LoFi)",
       "url": "https://open.spotify.com/track/2XqlZgTxuSCQXbl4NLoELQ"
@@ -4528,7 +4550,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 174285,
       "name": "Bye",
       "url": "https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq"
@@ -4670,7 +4692,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 179617,
       "name": "Can\u0131n Sa\u011f Olsun",
       "url": "https://open.spotify.com/track/0mYqW8vhiw9rgwSwB21JQz"
@@ -4768,6 +4790,32 @@
       "duration_ms": 155206,
       "name": "Carrying Your Love",
       "url": "https://open.spotify.com/track/4gZQPeoBzKNWKhIJuZYbwA"
+    },
+    {
+      "album": {
+        "name": "Cart\u00e3o Black",
+        "url": "https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159973,
+      "name": "Cart\u00e3o Black",
+      "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"
     },
     {
       "album": {
@@ -5038,6 +5086,32 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "album": {
+        "name": "Chale Jaana Phir",
+        "url": "https://open.spotify.com/album/7Co0Nyse7oM3Us1KCulBpn"
+      },
+      "artists": [
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Rahul Mishra",
+          "url": "https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Chale Jaana Phir",
+      "url": "https://open.spotify.com/track/04ChFQZCKl2yRcvc0VR7qN"
     },
     {
       "album": {
@@ -5998,7 +6072,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -7914,16 +7988,16 @@
           "url": "https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR"
         },
         {
+          "name": "MC P\u00ea Original",
+          "url": "https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC"
+        },
+        {
           "name": "Dj Pikeno Mpc",
           "url": "https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS"
         },
         {
           "name": "Markim WF",
           "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
-        },
-        {
-          "name": "MC P\u00ea Original",
-          "url": "https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC"
         }
       ],
       "date_added": "2023-05-20",
@@ -9650,6 +9724,24 @@
       "duration_ms": 134322,
       "name": "FreakyT",
       "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
+    },
+    {
+      "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
       "album": {
@@ -14963,6 +15055,24 @@
     },
     {
       "album": {
+        "name": "Shoti Sped Up",
+        "url": "https://open.spotify.com/album/2EOonF7VdwCRgRgEEQvyO9"
+      },
+      "artists": [
+        {
+          "name": "Shoti",
+          "url": "https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165427,
+      "name": "LDR - Sped Up",
+      "url": "https://open.spotify.com/track/14Vsn26hOxfbgVb4etM9jd"
+    },
+    {
+      "album": {
         "name": "SCARING THE HOES",
         "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
       },
@@ -16053,6 +16163,24 @@
     },
     {
       "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "album": {
         "name": "Zanaka",
         "url": "https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb"
       },
@@ -16064,7 +16192,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 249533,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
@@ -18047,6 +18175,24 @@
     },
     {
       "album": {
+        "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
+        "url": "https://open.spotify.com/album/2uXRznzlQXF6TXkrYVO7zA"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83576,
+      "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
+      "url": "https://open.spotify.com/track/371eYP4pjqR2C0Vw38u0uk"
+    },
+    {
+      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
       },
@@ -18605,6 +18751,28 @@
     },
     {
       "album": {
+        "name": "Na Roja Nuvve (From \"Kushi\") - Single",
+        "url": "https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Shiva Nirvana",
+          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242526,
+      "name": "Na Roja Nuvve (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr"
+    },
+    {
+      "album": {
         "name": "Nachts wach",
         "url": "https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE"
       },
@@ -18728,7 +18896,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 110510,
       "name": "NARCISSISTIC PERSONALITY DISORDER",
       "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
@@ -20436,7 +20604,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 153562,
       "name": "Padi\u015fah\u0131m",
       "url": "https://open.spotify.com/track/3X7Iy2X4NRbb8gbDYb2xVq"
@@ -22237,6 +22405,24 @@
     },
     {
       "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161240,
+      "name": "Queencard",
+      "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
+    },
+    {
+      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -23376,10 +23562,28 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 110624,
       "name": "Sea Of Problems",
       "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
+    },
+    {
+      "album": {
+        "name": "summer flows 0.02",
+        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "seasons",
+      "url": "https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh"
     },
     {
       "album": {
@@ -24670,10 +24874,28 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 223986,
       "name": "Smooth Operator (Deep House Version)",
       "url": "https://open.spotify.com/track/6fCPhKlaucFdoxkX4vavNh"
+    },
+    {
+      "album": {
+        "name": "Smooth Operator",
+        "url": "https://open.spotify.com/album/51pLeptQs24bS9CswmHLHp"
+      },
+      "artists": [
+        {
+          "name": "Musique Boutique",
+          "url": "https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221982,
+      "name": "Smooth Operator - Deep House Version",
+      "url": "https://open.spotify.com/track/6gkdWaZS8wCuv2fwB1f4v8"
     },
     {
       "album": {
@@ -25938,7 +26160,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 135302,
       "name": "TABU.",
       "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
@@ -26054,6 +26276,24 @@
       "duration_ms": 158038,
       "name": "TALIBANA",
       "url": "https://open.spotify.com/track/7wANX4VfTwrZrL6inJrqCM"
+    },
+    {
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188737,
+      "name": "Talibans",
+      "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
     },
     {
       "album": {
@@ -26184,7 +26424,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 155513,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
@@ -30906,7 +31146,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: \(G\)I\-DLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,254 likes - 93 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,024 likes - 93 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 45 | [Fall In Love](https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Love Alarm CLAP! CLAP! CLAP! OST](https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L) | 4:10 |
 | 46 | [Giddy](https://open.spotify.com/track/6blIAzkMKENKqAfMwj5cZQ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/06qoehc4xjI7IW9J8jQFEX) | 3:04 |
 | 47 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 |
-| 48 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 |
+| 48 | [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 |
 | 49 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 |
 | 50 | [U](https://open.spotify.com/track/4LKcNaDtBhpTN4rUVuRj0B) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:19 |
 | 51 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 67 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 |
 | 68 | [Cherry Talk](https://open.spotify.com/track/7CmjviM3EY4Xi7w8VzeULP) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [+\(KR\)ystal Eyes <AESTHETIC>](https://open.spotify.com/album/5GNSmUrJmZvgBvouXS8ZGp) | 2:51 |
 | 69 | [Tantara](https://open.spotify.com/track/07yTrKM5LJmKFfLyASA7O8) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 2:47 |
-| 70 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 |
+| 70 | [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 |
 | 71 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
 | 72 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
 | 73 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 92 | [Wait for you](https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM](https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z) | 3:51 |
 | 93 | [Nolza](https://open.spotify.com/track/0wLGK1RAecE26M9gbavG9v) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE POYZ NOLZA](https://open.spotify.com/album/6BKzodImJNGQce8WlHILwD) | 2:37 |
 
-Snapshot ID: `MCw5NTdiYjMxZjljNGY2YzMwZjQzZDdlNWI1ZTNmNWVhZTQ4Nzc0ZjIx`
+Snapshot ID: `MCwxMTkyYmM0ZmE1ZTRiNmU4MDMzMTZkYjIwMmYwOTgzNGViNzBiNzQy`

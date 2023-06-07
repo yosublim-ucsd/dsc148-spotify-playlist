@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Janeth Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,970 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,028 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 68 | [Ahora Va La Mía](https://open.spotify.com/track/0CEublugofmBX9a2RKoxjq) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Ahora Va La Mía](https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID) | 2:44 |
 | 69 | [Empoderada](https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Empoderada](https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD) | 2:44 |
 | 70 | [Un Amor en el Olvido](https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Un Amor en el Olvido](https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R) | 3:02 |
-| 71 | [Tus Desprecios](https://open.spotify.com/track/1JPjkRwFPi7NJy8YEDBxlv) | [Kimberly Pleitez](https://open.spotify.com/artist/1oTBX1FlyRBYNxAqkKwpqr) | [Tus Desprecios](https://open.spotify.com/album/5aH48JYL2Ep2EYnXldMXrv) | 3:01 |
-| 72 | [Y Sigues Siendo Tú](https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Y Sigues Siendo Tú](https://open.spotify.com/album/0pTTS2mSMDlhPHTYRkgwv7) | 3:31 |
+| 71 | [Y Sigues Siendo Tú](https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Y Sigues Siendo Tú](https://open.spotify.com/album/0pTTS2mSMDlhPHTYRkgwv7) | 3:31 |
+| 72 | [Tus Desprecios](https://open.spotify.com/track/1JPjkRwFPi7NJy8YEDBxlv) | [Kimberly Pleitez](https://open.spotify.com/artist/1oTBX1FlyRBYNxAqkKwpqr) | [Tus Desprecios](https://open.spotify.com/album/5aH48JYL2Ep2EYnXldMXrv) | 3:01 |
 | 73 | [Vida Prestada](https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Vida Prestada](https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK) | 3:14 |
 | 74 | [Si Quieres Verme Llorar](https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Ahora Va La Mía](https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID) | 3:26 |
 | 75 | [Lo Mal Que Me Trataste](https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Cinco Razones](https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ) | 3:40 |
@@ -89,12 +89,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 79 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 | 80 | [De Ti No Lo Esperaba](https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [De Ti No Lo Esperaba](https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0) | 3:13 |
 | 81 | [Amiga](https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8) | [Marilyn Patiño](https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh), [Lady Yuliana](https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2) | [Amiga](https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8) | 3:25 |
-| 82 | [Amor De Unos Botes](https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Fernanda Diaz](https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y) | [Amor De Unos Botes](https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe) | 3:15 |
+| 82 | [40 Y 21](https://open.spotify.com/track/3bPCfYzKsnzhT4YYcYC0lq) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Esencia](https://open.spotify.com/album/1zwouzqra6ZrjRg9qkk1gL) | 3:00 |
 | 83 | [Les Molesta](https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Les Molesta](https://open.spotify.com/album/4zDvdAWFpyH1cQKNRTll90) | 2:43 |
 | 84 | [Lo Que A Usted Le Falta](https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Lo Que A Usted Le Falta](https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts) | 2:48 |
 | 85 | [Se Te Olvidó](https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Se Te Olvidó](https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA) | 3:06 |
 | 86 | [Hoy Dame el Gusto](https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Hoy Dame el Gusto](https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF) | 3:12 |
-| 87 | [40 Y 21](https://open.spotify.com/track/3bPCfYzKsnzhT4YYcYC0lq) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Esencia](https://open.spotify.com/album/1zwouzqra6ZrjRg9qkk1gL) | 3:00 |
+| 87 | [Amor De Unos Botes](https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Fernanda Diaz](https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y) | [Amor De Unos Botes](https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe) | 3:15 |
 | 88 | [Volveré A Amar](https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN) | [Valentina Elizalde](https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1) | [Volveré A Amar](https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o) | 4:00 |
 | 89 | [Hasta El Día De Hoy \- En Vivo](https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Volumen 2](https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe) | 4:00 |
 | 90 | [La Primera Piedra \(En Vivo\)](https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [No Se Vayan Con La Finta \(En Vivo\)](https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Dama Divina](https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:36 |
 | 100 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 
-Snapshot ID: `MCwyNWVhYzhmNjNjZDdjNGNhNGE1OWY4ZjUzMDA1ZWEzMmE5ZTNjOWVh`
+Snapshot ID: `MCw3OGY3NmFjMmFmOTgwMzFkODIyMjZhODBlNWY3MjZhYzBjYzVjMzlh`

@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 36749,
+  "num_followers": 36850,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmY2OWFmMDY5OTY2YTJkOGNiYTM1ZWE4MDc5ZGJiZTFlODk4ODg0",
+  "snapshot_id": "MCw5MzM1YTg0MzFlNTAwMDZlNGIyZmVkYzcxYzhlZjYzOTNmMzM2Mzc4",
   "tracks": [
     {
       "added_at": "2023-05-31 07:00:04",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg"
+      },
+      "artists": [
+        {
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+        }
+      ],
+      "duration_ms": 214236,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a"
+    },
+    {
+      "added_at": "2023-05-31 07:00:04",
+      "album": {
         "name": "Nocturnal Serenade",
         "url": "https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 150122,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ"
-    },
-    {
-      "added_at": "2023-05-31 07:00:04",
-      "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg"
-      },
-      "artists": [
-        {
-          "name": "Nick Osman Trio",
-          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
-        }
-      ],
-      "duration_ms": 214236,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a"
     },
     {
       "added_at": "2023-05-31 07:00:04",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
-        "name": "Compassion",
-        "url": "https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv"
-      },
-      "artists": [
-        {
-          "name": "Jenny Jones",
-          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
-        }
-      ],
-      "duration_ms": 251442,
-      "name": "Compassion",
-      "url": "https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL"
-    },
-    {
-      "added_at": "2023-05-31 07:00:04",
-      "album": {
         "name": "Same As Ever",
         "url": "https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 310450,
       "name": "The ballad of sad young men",
       "url": "https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO"
+    },
+    {
+      "added_at": "2023-05-31 07:00:04",
+      "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv"
+      },
+      "artists": [
+        {
+          "name": "Jenny Jones",
+          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
+        }
+      ],
+      "duration_ms": 251442,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL"
     },
     {
       "added_at": "2023-05-31 07:00:04",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
+        "name": "Whispers of jazz in the Wind",
+        "url": "https://open.spotify.com/album/5Oz37JyAwOb2In1O1iMBQZ"
+      },
+      "artists": [
+        {
+          "name": "Mino Conte & Co",
+          "url": "https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi"
+        }
+      ],
+      "duration_ms": 265692,
+      "name": "Whispers of jazz in the Wind",
+      "url": "https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp"
+    },
+    {
+      "added_at": "2023-05-31 07:00:04",
+      "album": {
         "name": "Tammy's Song",
         "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 310666,
       "name": "Where Are You - Remastered",
       "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
-    },
-    {
-      "added_at": "2023-05-31 07:00:04",
-      "album": {
-        "name": "Whispers of jazz in the Wind",
-        "url": "https://open.spotify.com/album/5Oz37JyAwOb2In1O1iMBQZ"
-      },
-      "artists": [
-        {
-          "name": "Mino Conte & Co",
-          "url": "https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi"
-        }
-      ],
-      "duration_ms": 265692,
-      "name": "Whispers of jazz in the Wind",
-      "url": "https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp"
     },
     {
       "added_at": "2023-05-31 07:00:04",
@@ -991,6 +991,30 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
+        "name": "Powell to the People",
+        "url": "https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE"
+      },
+      "artists": [
+        {
+          "name": "Massimo Colombo",
+          "url": "https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl"
+        },
+        {
+          "name": "Maurizio Quintavalle",
+          "url": "https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q"
+        },
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
+        }
+      ],
+      "duration_ms": 314763,
+      "name": "I'll Keep Loving You",
+      "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
+    },
+    {
+      "added_at": "2023-05-31 07:00:04",
+      "album": {
         "name": "Blue Mist",
         "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
       },
@@ -1023,30 +1047,6 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
-        "name": "Powell to the People",
-        "url": "https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE"
-      },
-      "artists": [
-        {
-          "name": "Massimo Colombo",
-          "url": "https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl"
-        },
-        {
-          "name": "Maurizio Quintavalle",
-          "url": "https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q"
-        },
-        {
-          "name": "Enzo Zirilli",
-          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
-        }
-      ],
-      "duration_ms": 314763,
-      "name": "I'll Keep Loving You",
-      "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
-    },
-    {
-      "added_at": "2023-05-31 07:00:04",
-      "album": {
         "name": "Abisko",
         "url": "https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
-        "name": "The Silver Lining",
-        "url": "https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY"
-      },
-      "artists": [
-        {
-          "name": "Hara Noda",
-          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
-        }
-      ],
-      "duration_ms": 162887,
-      "name": "Centre",
-      "url": "https://open.spotify.com/track/4O44XcSyYrDUkNcKqi9aAl"
-    },
-    {
-      "added_at": "2023-05-31 07:00:04",
-      "album": {
         "name": "Songbook",
         "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 317946,
       "name": "Before It's Time to Say Goodbye",
       "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
+    },
+    {
+      "added_at": "2023-05-31 07:00:04",
+      "album": {
+        "name": "The Silver Lining",
+        "url": "https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY"
+      },
+      "artists": [
+        {
+          "name": "Hara Noda",
+          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
+        }
+      ],
+      "duration_ms": 162887,
+      "name": "Centre",
+      "url": "https://open.spotify.com/track/4O44XcSyYrDUkNcKqi9aAl"
     },
     {
       "added_at": "2023-05-31 07:00:04",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 155786,
-      "name": "The Longing",
-      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
-    },
-    {
-      "added_at": "2023-05-31 07:00:04",
-      "album": {
         "name": "Blues and Ballads",
         "url": "https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 426000,
       "name": "I Got It Bad And That Ain't Good",
       "url": "https://open.spotify.com/track/6ZvxoSCkod7ABm7DFvFkX6"
+    },
+    {
+      "added_at": "2023-05-31 07:00:04",
+      "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 155786,
+      "name": "The Longing",
+      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
     },
     {
       "added_at": "2023-05-31 07:00:04",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5"
-      },
-      "artists": [
-        {
-          "name": "Mandevilla",
-          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
-        }
-      ],
-      "duration_ms": 239687,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
-    },
-    {
-      "added_at": "2023-05-31 07:00:04",
-      "album": {
         "name": "Blue Romance",
         "url": "https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "duration_ms": 239687,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
+    },
+    {
+      "added_at": "2023-05-31 07:00:04",
+      "album": {
         "name": "Correlations",
         "url": "https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos"
       },
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
+        "name": "Songs: The Art of the Trio, Vol. 3",
+        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 358533,
+      "name": "Bewitched, Bothered and Bewildered",
+      "url": "https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm"
+    },
+    {
+      "added_at": "2023-05-31 07:00:04",
+      "album": {
         "name": "Aesthete",
         "url": "https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 290750,
       "name": "Rainbow Mountains",
       "url": "https://open.spotify.com/track/3c0kOPcHy2wJr3p8Vkno2j"
-    },
-    {
-      "added_at": "2023-05-31 07:00:04",
-      "album": {
-        "name": "Songs: The Art of the Trio, Vol. 3",
-        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 358533,
-      "name": "Bewitched, Bothered and Bewildered",
-      "url": "https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm"
     },
     {
       "added_at": "2023-05-31 07:00:04",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
+        "name": "Doubtful",
+        "url": "https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Lee",
+          "url": "https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud"
+        }
+      ],
+      "duration_ms": 224822,
+      "name": "Doubtful",
+      "url": "https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B"
+    },
+    {
+      "added_at": "2023-05-31 07:00:04",
+      "album": {
         "name": "Sorrowful",
         "url": "https://open.spotify.com/album/7HLOybEIWiqCiEZNVCP0vk"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2023-05-31 07:00:04",
       "album": {
-        "name": "Doubtful",
-        "url": "https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo"
+        "name": "Beloved of the Sky",
+        "url": "https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ"
       },
       "artists": [
         {
-          "name": "Dorothy Lee",
-          "url": "https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud"
+          "name": "Renee Rosnes",
+          "url": "https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD"
         }
       ],
-      "duration_ms": 224822,
-      "name": "Doubtful",
-      "url": "https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B"
+      "duration_ms": 440513,
+      "name": "The Winter of My Discontent",
+      "url": "https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy"
     },
     {
       "added_at": "2023-05-31 07:00:04",
@@ -1527,22 +1543,6 @@
       "duration_ms": 316866,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
-    },
-    {
-      "added_at": "2023-05-31 07:00:04",
-      "album": {
-        "name": "Beloved of the Sky",
-        "url": "https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ"
-      },
-      "artists": [
-        {
-          "name": "Renee Rosnes",
-          "url": "https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD"
-        }
-      ],
-      "duration_ms": 440513,
-      "name": "The Winter of My Discontent",
-      "url": "https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy"
     },
     {
       "added_at": "2023-05-31 07:00:04",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-721 songs - 1 day 16 hr 32 min
+723 songs - 1 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:02 | 2022-12-05 | 2022-12-08 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-13 | 2023-01-26 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-08-03 | 2023-02-07 |
+| [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2023-06-06 |  |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-24 |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 5:06 | 2021-05-16 | 2021-05-17 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-10-30 |
@@ -354,6 +355,7 @@
 | [אהובי לב אדום](https://open.spotify.com/track/2ICsg0MAobTLg4VVjW2iE5) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אהובי לב אדום](https://open.spotify.com/album/4OY25L91SZ7PPDiCgIHZDV) | 3:24 | 2022-06-03 | 2022-08-28 |
 | [אהלן וסהלן](https://open.spotify.com/track/5paLSZ9sF5jc3aSOSjQf3b) | [Lehakat Sfataim](https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R) | [חגיגה מרוקאית](https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD) | 5:48 | 2021-04-05 | 2023-04-15 |
 | [אוחילה](https://open.spotify.com/track/07uIhNfeg1X7QZBl5BRxUK) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 3:50 | 2021-09-17 | 2022-10-07 |
+| [אולסטאר וגופיות](https://open.spotify.com/track/4tpT9xacu03ADQI7utG24C) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [אולסטאר וגופיות](https://open.spotify.com/album/31rjo1YiUreiP3Wg7yjFpe) | 2:47 | 2023-06-06 |  |
 | [אור הירח](https://open.spotify.com/track/1B6qAMPiD7sv3WNI90ELMz) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [צו השעה \- צו שני](https://open.spotify.com/album/3pWGjr7mI83VwbBvYhzuhT) | 3:28 | 2021-03-27\* | 2021-04-01 |
 | [אז מה עכשיו](https://open.spotify.com/track/16NPQQxjcSfhb0UFaUVw5s) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אז מה עכשיו](https://open.spotify.com/album/6XHPGLxwmqGIsahq2wrUbJ) | 2:31 | 2023-03-18 |  |
 | [אחד לסבתא](https://open.spotify.com/track/5y0lWGajUSS7mwzi2jBhyV) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:11 | 2021-12-18 | 2021-12-24 |
@@ -423,7 +425,7 @@
 | [בסוף נרקוד](https://open.spotify.com/track/1quBoxh2fvPsy4f0ZBLf46) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE) | [בסוף נרקוד](https://open.spotify.com/album/0B08f7onZv05gu5kO9zymf) | 3:53 | 2022-08-31 | 2022-11-27 |
 | [בסיבוב](https://open.spotify.com/track/5RnhWaP5VD3eJN3J0chPmh) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Tzlil Danin](https://open.spotify.com/artist/3rzVtsul7Jt3BFcy0UhWgs) | [טונהפארק](https://open.spotify.com/album/3yXLuyV0G2op91XliCCRWv) | 5:13 | 2022-08-21 | 2023-06-06 |
 | [בעולם הזה](https://open.spotify.com/track/3htwhiORrRIXx4LxZRa7S5) | [Gil Vain](https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj), [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h) | [בעולם הזה](https://open.spotify.com/album/5aSe8YD2EVpaBt3hGBPZRA) | 3:08 | 2022-12-12 | 2022-12-14 |
-| [בעולם הזה](https://open.spotify.com/track/725hyNaW6DtJIrUtkk5K8o) | [אליאן כהן](https://open.spotify.com/artist/39rKFi0P0m8hewgJtUZyqT) | [בעולם הזה](https://open.spotify.com/album/2Jwa3mBFVeya486fZ4UYPc) | 2:41 | 2023-05-19 |  |
+| [בעולם הזה](https://open.spotify.com/track/725hyNaW6DtJIrUtkk5K8o) | [אליאן כהן](https://open.spotify.com/artist/39rKFi0P0m8hewgJtUZyqT) | [בעולם הזה](https://open.spotify.com/album/2Jwa3mBFVeya486fZ4UYPc) | 2:41 | 2023-05-19 | 2023-06-07 |
 | [בראש השנה](https://open.spotify.com/track/336bQZpuJyMAYOxeXDGZy7) | [Naomi Shemer](https://open.spotify.com/artist/4V6wf2ynZAUYlG8WnyQrIz) | [כיצד שוברים חמסין](https://open.spotify.com/album/0vz5XZBx8h8MaLOFaGHkNQ) | 2:15 | 2021-09-08 | 2022-09-28 |
 | [ברחובות של תל אביב](https://open.spotify.com/track/4JSUFLR3Uo7FPCfNDRxIrx) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [מועבט](https://open.spotify.com/album/2ZgkEHTdjFkDHgM1yBpVf0) | 3:01 | 2021-05-21 | 2021-11-25 |
 | [ברקים ורעמים](https://open.spotify.com/track/6zu28NOvkZEhkB7vMM88Go) | [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [המיטב \(לעכשיו\)](https://open.spotify.com/album/4YEgGMuzfPb7iuPjfDXqNl) | 3:14 | 2023-04-22 | 2023-04-25 |
@@ -612,7 +614,7 @@
 | [נפשי](https://open.spotify.com/track/7zA6yuXpK5ctlaQe8EQ1hf) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj), [Motty Steinmetz](https://open.spotify.com/artist/1pZcigV84ihZL3erh8v0gY) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 4:26 | 2022-10-05 | 2022-10-07 |
 | [נשלים את הכל](https://open.spotify.com/track/3WMH1bPflGgzFjfuI4FYe2) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [נשלים את הכל](https://open.spotify.com/album/0pgYmDRVswjq8DdKYzJdY7) | 2:59 | 2021-07-18 | 2021-12-19 |
 | [נשמה שלי](https://open.spotify.com/track/7606oAr5GqreqTOdIX3uGB) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [נשמה שלי](https://open.spotify.com/album/7mcMJqFvvNACMp6Zpy0dQQ) | 3:40 | 2021-03-27\* | 2021-07-10 |
-| [נתראה בגלגול הבא](https://open.spotify.com/track/1saT4tObMScARIwT4wTv0W) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ועכשיו לחלק האומנותי](https://open.spotify.com/album/5q1U43bIDM8jf3yV328e5V) | 3:33 | 2023-01-28 |  |
+| [נתראה בגלגול הבא](https://open.spotify.com/track/1saT4tObMScARIwT4wTv0W) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ועכשיו לחלק האומנותי](https://open.spotify.com/album/5q1U43bIDM8jf3yV328e5V) | 3:33 | 2023-01-28 | 2023-06-07 |
 | [סביבון סוב סוב סוב](https://open.spotify.com/track/58NBSNdG8s0jSikjPRmdjS) | [Hana Laszlo](https://open.spotify.com/artist/6cp8bVNeuwo43R1Z0eyn7y) | [100 שירים ראשונים \(חלק ב\)](https://open.spotify.com/album/7r5rhny3Cns5TiiHYpOPBl) | 0:43 | 2021-11-30 | 2022-12-21 |
 | [סגול בהיר](https://open.spotify.com/track/7yamSClFVolBatiO4PvCjr) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [סגול בהיר](https://open.spotify.com/album/3Qq9reXVhaAMmsP40r31mq) | 3:36 | 2021-07-10 | 2021-07-11 |
 | [סדר העבודה](https://open.spotify.com/track/4A5lRH29TyKxllsl94BWex) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 5:50 | 2021-09-17 | 2022-10-07 |

@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-308 songs - 1 day 2 hr 50 min
+309 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Climb That Mountain](https://open.spotify.com/track/77A7ehHv41EjtxjifmenGa) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 3:00 | 2021-10-06 |  |
 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 | 2022-02-12 |  |
 | [Copenhagen One](https://open.spotify.com/track/3xJGpGnRM0EM9VMRxESM02) | [Dave Depper](https://open.spotify.com/artist/28g3La9qANWoCOlGPUcZcP) | [Europa](https://open.spotify.com/album/3XmPBOmP6imY9rEhWfaroU) | 4:45 | 2021-10-06 | 2022-07-28 |
+| [Cosmic lake transparency \- Original Mix](https://open.spotify.com/track/4beDadqk2att64FbvO3zvn) | [Saphileaum](https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU) | [Majestic sapphire island](https://open.spotify.com/album/2bHP9WEkHSY0evSUpcXI42) | 4:48 | 2023-06-07 |  |
 | [Cycles](https://open.spotify.com/track/6Z6hXlSOi0FLrCPgVpsrNV) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Cycles](https://open.spotify.com/album/7s6RExKiewxS5m6aFT4JXN) | 3:00 | 2021-10-06 | 2022-07-26 |
 | [Cycles](https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Cycles](https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG) | 3:00 | 2021-10-06 | 2023-05-04 |
 | [Daniel](https://open.spotify.com/track/0zRORRGfCQ0EeUpmNnhl9W) | [Oppressive Nights](https://open.spotify.com/artist/2YJuZXllTuUURll8JrPhCh) | [Ambient 3](https://open.spotify.com/album/4VALxWn2hbFSr9UbIkRq2a) | 3:09 | 2022-08-31 | 2022-10-02 |
@@ -129,7 +130,7 @@
 | [In The Shadow Of](https://open.spotify.com/track/4ZcJyjv4EQyv2UWxuFPlNL) | [Nate Young](https://open.spotify.com/artist/0CLDDO3Kl0KJslmhSNHdiF) | [In The Shadow Of](https://open.spotify.com/album/1GmnY21nKkYuYRERtZRhHg) | 4:53 | 2021-10-06 | 2022-07-24 |
 | [Innate Abstraction](https://open.spotify.com/track/2XnoAHOqGVKdcLyta7p7RA) | [Cruel Diagonals](https://open.spotify.com/artist/0C7jgMYmKXPmy5bHH5ebEN) | [Disambiguation](https://open.spotify.com/album/1JUUIw5TrD4GYsfWXxFV2a) | 2:57 | 2021-10-06 | 2022-07-27 |
 | [Inocybe](https://open.spotify.com/track/0yHW5bqjYuHYppJr4V59lc) | [Azulina](https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa) | [Fungipedia](https://open.spotify.com/album/0PxR7nUAhAVcaMLfbshIBO) | 4:24 | 2022-12-21 |  |
-| [Into the void](https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Anoyo](https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T) | 4:48 | 2021-10-06 |  |
+| [Into the void](https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Anoyo](https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T) | 4:48 | 2021-10-06 | 2023-06-07 |
 | [It's a Rainy Day on the Cosmic Shore](https://open.spotify.com/track/2fvphQzLUCR89aLAwTyDuL) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:20 | 2021-10-06 |  |
 | [It's a Rainy Day on the Cosmic Shore](https://open.spotify.com/track/4bRd0QUtM20qMLVIWTW5gZ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/32FTNlHVhH3IFCWdZCSOKu) | 5:20 | 2021-10-06 | 2022-07-25 |
 | [Jupiter 285](https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83) | [Highland Park Sleep Collective](https://open.spotify.com/artist/52tBivESnfK4iqF7gYhn7T) | [Wolf Moon](https://open.spotify.com/album/5MOqmNcrFSxoNZA9HgZIcw) | 3:25 | 2022-05-02 |  |

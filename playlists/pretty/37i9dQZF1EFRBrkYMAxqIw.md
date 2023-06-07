@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 84 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 162 likes - 84 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 54 | [Boys Do Cry](https://open.spotify.com/track/1gK4smjjI1rJWH8KzStaRI) | [CC Clarke](https://open.spotify.com/artist/3XS9mpXg2gu96uOeogDn1y) | [Boys Do Cry](https://open.spotify.com/album/1Y9CHStZf17ywRzOYAhYhC) | 2:46 |
 | 55 | [Conversations With Strangers](https://open.spotify.com/track/4vDKWs9yLXTJz7SBSO0jsP) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 3:35 |
 | 56 | [De l'or entre tes mains](https://open.spotify.com/track/0j7uxGJ7Epf7GhoZrbc4aH) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Danser sur tes mots \(Version deluxe\)](https://open.spotify.com/album/4scYOlTVlXQvNWxqGX6TOk) | 3:17 |
-| 57 | [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 |
-| 58 | [When I Say So](https://open.spotify.com/track/28XJPXfzBRT1PxHxHkuB8b) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [When I Say So](https://open.spotify.com/album/63j2ptfGmKCBdR0gx4llJj) | 2:52 |
+| 57 | [When I Say So](https://open.spotify.com/track/28XJPXfzBRT1PxHxHkuB8b) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [When I Say So](https://open.spotify.com/album/63j2ptfGmKCBdR0gx4llJj) | 2:52 |
+| 58 | [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 |
 | 59 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 |
 | 60 | [All I Know](https://open.spotify.com/track/0Rw1RzRhZ6Qlr6nRnEVUkR) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [All I Know](https://open.spotify.com/album/6Md1me9GYeZdb1GBSHfUHt) | 3:11 |
 | 61 | [Party In My Mind](https://open.spotify.com/track/6AyYs7KHYGCnb1262KBKoq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Party In My Mind](https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv) | 2:39 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 83 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 84 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `MjgxMDAyOTAsMDAwMDAwMDA5ZjJiMjhjOTZiM2I0OTlkZmQ1OTgxNWNhNzVhZThkMA==`
+Snapshot ID: `MjgxMDE3MzAsMDAwMDAwMDA3N2M2MGZjN2NlNDgxMjQ3Yjc4MDE4NzU4NjUyMTkwZQ==`

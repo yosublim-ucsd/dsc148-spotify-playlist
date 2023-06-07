@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Casey Barnes
 
-365 songs - 19 hr 59 min
+367 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-04 | 2022-05-20 |
 | [Get Even](https://open.spotify.com/track/36l59Hx86AH7T3LpMgZA3F) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Get Even](https://open.spotify.com/album/3jViv3WtbhilkvlwXDdrFq) | 2:58 | 2022-08-11 | 2022-11-18 |
 | [Get It Girl](https://open.spotify.com/track/4mmq0ddxmYMaclRzat1syG) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Get It Girl](https://open.spotify.com/album/4YMLdLyEfY41B8PlFBUFQ5) | 3:19 | 2021-12-30 | 2022-04-01 |
-| [Get to Gettin’ Gone](https://open.spotify.com/track/0Zp0Q7p94hUim8q07dXeN1) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Get to Gettin’ Gone](https://open.spotify.com/album/3b13DQUYaS5PvsM58BYv6Q) | 3:02 | 2022-12-22 |  |
+| [Get to Gettin’ Gone](https://open.spotify.com/track/0Zp0Q7p94hUim8q07dXeN1) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Get to Gettin’ Gone](https://open.spotify.com/album/3b13DQUYaS5PvsM58BYv6Q) | 3:02 | 2022-12-22 | 2023-06-07 |
+| [Get to Gettin’ Gone](https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:02 | 2023-06-01 |  |
 | [Get To Know Ya](https://open.spotify.com/track/1jS01RraB3eTBL3GnYXCaN) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Get To Know Ya](https://open.spotify.com/album/73OAVag102lgJ7XCQ4zHFb) | 3:25 | 2022-01-27 | 2022-05-27 |
 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-03-17 | 2022-06-10 |
 | [GHOSTED](https://open.spotify.com/track/3FJEkL4zxl9pNg3UAGcLT6) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [GHOSTED](https://open.spotify.com/album/5mVRTqoL3PSrmdSai5lqsK) | 3:23 | 2022-11-10 | 2023-03-10 |
@@ -253,7 +254,8 @@
 | [Red Wine & Roses](https://open.spotify.com/track/0FUoUaj9LmQQ1uMWpYlEIM) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Red Wine & Roses](https://open.spotify.com/album/3yqvPiEiFWBeB1YqUISBOt) | 3:12 | 2022-08-25 | 2023-04-14 |
 | [Red Wine and Blue](https://open.spotify.com/track/6KhHv00M2aXUtbVTpmAC5x) | [Emily Hatton](https://open.spotify.com/artist/2qWqeGeNliXRQdHOOygnlM) | [Red Wine and Blue](https://open.spotify.com/album/2csWHC9z5vQnSXvTMjvjwx) | 3:55 | 2022-05-26 | 2022-08-27 |
 | [Redneck Be Like](https://open.spotify.com/track/00R3xLkJsIxENOc3qA4CDA) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Redneck Be Like](https://open.spotify.com/album/6Dd9qefRvgNuOPEYX3gdMK) | 2:46 | 2021-12-30 | 2022-03-05 |
-| [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-04-06 |  |
+| [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-06-01 |  |
+| [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-04-06 | 2023-06-07 |
 | [Right About Now](https://open.spotify.com/track/6wr9dPXfupWTsIUJv00LVF) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Right About Now](https://open.spotify.com/album/2yts4vdn9werWgmEGm1rki) | 3:09 | 2021-12-30 | 2022-05-06 |
 | [Right Girl Wrong Time](https://open.spotify.com/track/7MBvjWbBm15AMifrfbhYWV) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Right Girl Wrong Time](https://open.spotify.com/album/3kq9aOY9UP76IllZeDs6jf) | 3:58 | 2022-12-08 | 2023-04-21 |
 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 | 2022-04-28 | 2022-08-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Liquid Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,554 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,595 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 8 | [Slow Motion Town](https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Ovall](https://open.spotify.com/album/39LUARqc9kTewrotoWGHId) | 3:25 |
 | 9 | [TODAY FOR TOMORROW](https://open.spotify.com/track/0U9H1eQwLJ2kj38YECFHmW) | [CASIOPEA\-P4](https://open.spotify.com/artist/3M2NJMriF7TX8Y7a04XJIq) | [NEW BEGINNING LIVE CD \(LIVE at EX THEATER ROPPONGI Dec.11.2022\)](https://open.spotify.com/album/2tKE9zMrM94q49najsX1Ff) | 4:48 |
 | 10 | [Pulse](https://open.spotify.com/track/7L3UIvtatUeSRI3Ith7VFF) | [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13) | [now it is](https://open.spotify.com/album/0ZDZra3lI2YVVg3Pgnp49z) | 4:36 |
-| 11 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
+| 11 | [Galactic Funk](https://open.spotify.com/track/3Y1k10FsXMXFw9H08dZlKl) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 5:24 |
 | 12 | [Vanish, Memoria](https://open.spotify.com/track/28jUCkZborAa9z1EpqE7VW) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [Postpone](https://open.spotify.com/album/1geleGHJ4qLZkSmSeitCOa) | 4:56 |
 | 13 | [Shadow Striker](https://open.spotify.com/track/7kKglAZzb2RdSyOAlQzqhN) | [河野啓三](https://open.spotify.com/artist/274QW59zwGhhYeXZmN0dij) | [Shadow Striker](https://open.spotify.com/album/5i5rg3GM9FLDvavDQSOBmP) | 5:28 |
-| 14 | [Galactic Funk](https://open.spotify.com/track/3Y1k10FsXMXFw9H08dZlKl) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 5:24 |
+| 14 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
 | 15 | [Fanfare](https://open.spotify.com/track/53q80WeNxUnyi3YDm3PPhp) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Fanfare](https://open.spotify.com/album/6tkKpYubLhXjkc4sqf2DtM) | 4:17 |
 | 16 | [Solitude](https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO) | 4:16 |
 | 17 | [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 46 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
 | 47 | [Breeze and You \(Live Version\)](https://open.spotify.com/track/6yoOrydjbkvRv6XtnjnNC7) | [THE SQUARE](https://open.spotify.com/artist/1qLh5Luiu5DBNU3SeHcDwq) | [THE SQUARE YEAR END Live 20151226](https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU) | 5:10 |
 | 48 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 |
-| 49 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
+| 49 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
 | 50 | [DeLorean](https://open.spotify.com/track/53SLUB2mNAQVI9hUKwszSh) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [VISTA](https://open.spotify.com/album/1UDy7qEXkyK2KElMKpaeoS) | 6:16 |
 
-Snapshot ID: `MCw1YTRkNDY5NDlmNmY4ODhjMzhlZTBhMWVmOWE4MjJiZWEwYzAzMTg5`
+Snapshot ID: `MCxjYjU3YzE2ODhjNDU2MWIxMWY3MDJkNWNiMWNmNDZmMzI0OTU5NDRk`

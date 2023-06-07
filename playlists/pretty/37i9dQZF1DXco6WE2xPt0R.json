@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 91806,
+  "num_followers": 91845,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGU0NTFlMTJkNjljZWY3ZDE3MjI3YWQwNDM4MzgyYjI2NGE1YTQy",
+  "snapshot_id": "MCwwYzY2ZjhiOGJmN2RjZWU1NTZhZWRlYTRlNmM4MTgxMjZmNGFiM2I0",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Give It To Me",
-        "url": "https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 243539,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 189462,
       "name": "DO 4 LOVE",
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 243539,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "No Longer in the Suburbs",
-        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 174163,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Seamless (with Kehlani)",
         "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 195265,
       "name": "Seamless (with Kehlani)",
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Milly",
-        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
-      },
-      "artists": [
-        {
-          "name": "Amaal Nuux",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Little Men (Deluxe)",
         "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 240074,
       "name": "Crash for a Couple",
       "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Milly",
+        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
+      },
+      "artists": [
+        {
+          "name": "Amaal Nuux",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        }
+      ],
+      "duration_ms": 183586,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
     },
     {
       "added_at": "2023-05-19 03:01:00",

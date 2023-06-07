@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6861571,
+  "num_followers": 6862375,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTZhYWY5YzA4YjVlNTNjZjZhMjAyYjEyNzAxODlmMDZhNTUyY2Ux",
+  "snapshot_id": "MCwxODVjZjMzZjgyYTNlOWZjOWI2NmMxY2MxZjk4N2VmYjQxZjFiMDdj",
   "tracks": [
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1225,6 +1225,30 @@
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
+      "added_at": "2023-06-02 07:16:46",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 198867,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
+    },
+    {
       "added_at": "2023-05-25 22:00:00",
       "album": {
         "name": "Never Let You Go",
@@ -1287,22 +1311,6 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        }
-      ],
-      "duration_ms": 179528,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
         "name": "Turn On The Lights again.. (feat. Future) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -1331,6 +1339,22 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 179528,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
         "name": "Dooh Dooh (Stereo Sound)",
         "url": "https://open.spotify.com/album/2Vk9sx2NOlxu6RL2JtJEoZ"
       },
@@ -1351,30 +1375,6 @@
       "duration_ms": 125294,
       "name": "Dooh Dooh (Stereo Sound)",
       "url": "https://open.spotify.com/track/0pCgiDXakABvpav5gAwwBU"
-    },
-    {
-      "added_at": "2023-06-02 07:16:46",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 198867,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5"
-      },
-      "artists": [
-        {
-          "name": "Club Soda",
-          "url": "https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r"
-        }
-      ],
-      "duration_ms": 138095,
-      "name": "One By One - Radio Edit",
-      "url": "https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
         "name": "Damn (You\u2019ve Got Me Saying)",
         "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
       },
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5"
+      },
+      "artists": [
+        {
+          "name": "Club Soda",
+          "url": "https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r"
+        }
+      ],
+      "duration_ms": 138095,
+      "name": "One By One - Radio Edit",
+      "url": "https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
         "name": "DARK MATTER",
         "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
       },
@@ -1535,26 +1535,6 @@
       "duration_ms": 174044,
       "name": "P.I.M.P. - HEDEGAARD Remix",
       "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
-        "name": "golden hour (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "golden hour - R3HAB Remix",
-      "url": "https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1575,6 +1555,26 @@
       "duration_ms": 179738,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
+        "name": "golden hour (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 154761,
+      "name": "golden hour - R3HAB Remix",
+      "url": "https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
+        "name": "Drop That Low (When I Dip)",
+        "url": "https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "duration_ms": 153809,
+      "name": "Drop That Low (When I Dip)",
+      "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 202204,
       "name": "Cocoon - Martin Garrix & Space Ducks Remix",
       "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
-        "name": "Drop That Low (When I Dip)",
-        "url": "https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        }
-      ],
-      "duration_ms": 153809,
-      "name": "Drop That Low (When I Dip)",
-      "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
     },
     {
       "added_at": "2023-05-25 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,580 likes - 115 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,571 likes - 115 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 35 | [December](https://open.spotify.com/track/7zrhy9OhtcO7MdIvbbJiOa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 1:56 |
 | 36 | [I'll Be Home](https://open.spotify.com/track/0YupMLYOYz6lZDbN3kRt7A) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 3:39 |
 | 37 | [2000 Miles](https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [2000 Miles](https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4) | 2:46 |
-| 38 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2HVzChP0rkqzQFSwuvT6l6) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/3ooj2KhGGLaLa7QNmse1t5) | 3:55 |
+| 38 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/7D7hkD9QjhSb385O23Vr5K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/076YZeSsRS01JRYazQplIj) | 3:55 |
 | 39 | [Snow](https://open.spotify.com/track/7aDE5prcsZuHtui9YDgShF) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Snow](https://open.spotify.com/album/1YcOJ4stnsTYYzFmjy0QYE) | 3:45 |
 | 40 | [Silver Bells](https://open.spotify.com/track/07FpmgWdTUjWBiRP3ON6OJ) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Silver Bells](https://open.spotify.com/album/2GPICARHZjMAxMu15hhT3M) | 3:33 |
 | 41 | [Christmas List](https://open.spotify.com/track/3tIFJcxOORa8WkTZBrpxSn) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Christmas List](https://open.spotify.com/album/1bm1rDiR9fPUVuLfovUeHn) | 3:21 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 56 | [Messed Up On Christmas](https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [XMAS 01](https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc) | 2:21 |
 | 57 | [Let It Snow](https://open.spotify.com/track/1RxNjmDI7SKo1g2SWTaADo) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Let It Snow](https://open.spotify.com/album/7EA6UqU5i8V4D1097xbLNz) | 2:38 |
 | 58 | [Christmas in New York](https://open.spotify.com/track/56oYlOg8iTHa99Oo6LikDx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 4:33 |
-| 59 | [This Christmas](https://open.spotify.com/track/1V5219VxOPokxVEWREyZ4f) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [This Christmas](https://open.spotify.com/album/6KPh7fauXVnB5U7gh6y0C4) | 3:02 |
+| 59 | [This Christmas](https://open.spotify.com/track/4XfqLe0CFhmyj75PURHCat) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [This Christmas](https://open.spotify.com/album/39fxASjZGinw1k0RidDYjm) | 3:02 |
 | 60 | [All I Want \(For Christmas\)](https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [All I Want \(For Christmas\)](https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM) | 3:01 |
 | 61 | [christmas vacation](https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [christmas vacation](https://open.spotify.com/album/3wQIx8fylcIeKYMmfzVDkp) | 2:13 |
 | 62 | [Maybe This Christmas](https://open.spotify.com/track/6khrAXutKiVuYzs3oZHpRZ) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Maybe This Christmas](https://open.spotify.com/album/4EGRqGYQJHYNH0UdunImYb) | 2:04 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 98 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 | 99 | [merry christmas darling](https://open.spotify.com/track/6brLwOYFXw7rkGOcLntcPZ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas](https://open.spotify.com/album/5noTFKbSGzGgXWxnEiuoK2) | 3:18 |
 | 100 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
-| 101 | [All I Want for Christmas Is You](https://open.spotify.com/track/6e1OcstXIEnjssiziFUYAR) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/2cLYDYEWIHVCIXsjMmQi5u) | 4:39 |
+| 101 | [All I Want for Christmas Is You](https://open.spotify.com/track/12AFI7eYoN5gl3kAxOe2n2) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/21G2Mj8q3H4CFNrkBo6f0Y) | 4:39 |
 | 102 | [Alone on Christmas Eve](https://open.spotify.com/track/3cTrbyOLvrn78iKBKOUlW7) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/1icERFXfL7Hwbl1m16DROb) | 2:16 |
 | 103 | [Happy New Year Old Friend](https://open.spotify.com/track/5btSSQZTfzuZKdh0dv1Uvp) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Happy New Year Old Friend](https://open.spotify.com/album/2oHpxcuSeaGNmDcknKfclv) | 4:05 |
 | 104 | [Christmas Through Your Eyes](https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:59 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 114 | [The Dream Of Christmas](https://open.spotify.com/track/4ocBbhGJ8mvnEz6OXbVa27) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [The Dream of Christmas](https://open.spotify.com/album/79AQ93mdfqoaRrCQuYYeLq) | 3:32 |
 | 115 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
 
-Snapshot ID: `MCwwNjkwZGU4M2QyNzk5M2VjMzU4ODkzNDJkZDE3MzBkODIxYzVhZjBm`
+Snapshot ID: `MCw4YzNkNTQ2YjAwNjJlNGRiOTI2NWVmNGMwZTA5YzMxZTdjNjZiYjE4`

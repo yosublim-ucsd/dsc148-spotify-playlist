@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,812 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,840 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 49 | [End Of The World](https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [End Of The World](https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW) | 3:42 |
 | 50 | [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 |
 
-Snapshot ID: `MCxlYzZhYjZiMDI3ZGE4ZjFiMzcyMmVkYjAwZTY2ZDY5MGFkOGJmYWYw`
+Snapshot ID: `MCw3MmNkMTI5YzRmYWQyNDc2NTgwOTE5YWFkNDg1OTRkNDhjYjk3YTE5`

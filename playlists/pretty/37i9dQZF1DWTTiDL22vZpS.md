@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,205 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,258 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 31 | [Golden Choice](https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 3:48 |
 | 32 | [Bajo las Luces](https://open.spotify.com/track/53cRE3WlbO3mH0f9npC1FP) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Bajo las Luces](https://open.spotify.com/album/1dNEgzCpvrqeF64dp9iESC) | 3:32 |
 | 33 | [Morena](https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [Morena](https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B) | 4:31 |
-| 34 | [Cuando Regreses a Mí](https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Cuando Regreses a Mí](https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE) | 3:12 |
-| 35 | [NQP \(No Quiero Parar\)](https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2) | [Danco](https://open.spotify.com/artist/1XrvBYbWw1e7xyoBC0bp5X) | [NQP \(No Quiero Parar\)](https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW) | 3:02 |
+| 34 | [NQP \(No Quiero Parar\)](https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2) | [Danco](https://open.spotify.com/artist/1XrvBYbWw1e7xyoBC0bp5X) | [NQP \(No Quiero Parar\)](https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW) | 3:02 |
+| 35 | [Cuando Regreses a Mí](https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Cuando Regreses a Mí](https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE) | 3:12 |
 | 36 | [Lentes Negros](https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK) | [Primavera Club](https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG) | [Dorama](https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm) | 4:50 |
 | 37 | [Funky Fiesta](https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Cheo Pardo](https://open.spotify.com/artist/2zxaMVEdb6cRSlAmDKjBtb) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:20 |
 | 38 | [Asturión](https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ) | [Cocofunka](https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD) | [CAMALOVE](https://open.spotify.com/album/7jJijowxod92mie0y9XAj7) | 4:14 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 53 | [Canyufilit](https://open.spotify.com/track/61agIVNg8AM0FvTdK8kCTW) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Despídeme De Todxs](https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl) | 1:49 |
 | 54 | [Midnight Caller](https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Youth Attraction](https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC) | 5:33 |
 | 55 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 |
-| 56 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 |
-| 57 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 |
+| 56 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 |
+| 57 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 |
 | 58 | [Juntos](https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:19 |
 | 59 | [Zoo Lion](https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Zoo Lion](https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF) | 4:26 |
 | 60 | [Ritmo Natural](https://open.spotify.com/track/13h03rdDvweAVeunMnw8si) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu) | 3:22 |
 
-Snapshot ID: `MCwwMTZhZWQxOTgzZTJhMmU2ZWRmYzdjNDAxYmQyNzU4MTkyNTNjMzhm`
+Snapshot ID: `MCxmMGQ1YjE3NzRiNWRlZWUzY2E1NWFlZWQ1ZjkyZWZmYjUwMDkyZDJj`

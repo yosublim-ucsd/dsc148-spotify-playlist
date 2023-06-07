@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > DENNIS, MC Kevin o Chris e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,624,242 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,626,660 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 33 | [Pactos \- Ao Vivo](https://open.spotify.com/track/2M4kQD87lKnAS9vFlb4Bez) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Pactos \(Ao Vivo\)](https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS) | 3:03 |
 | 34 | [Perdoou Nada \- Ao Vivo](https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Perdoou Nada \(Ao Vivo\)](https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ) | 2:43 |
 | 35 | [Aquecimento Senta Senta Suave](https://open.spotify.com/track/5WsM6qhZzRSD3oKbtorxzD) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [BUARQUE](https://open.spotify.com/artist/20MbZeDJcbXxkcZWumh9rC) | [Tamborzão Raiz](https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW) | 2:32 |
-| 36 | [Ela Voltou de Perna Bamba](https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP), [MC Pê Original](https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC) | [Ela Voltou de Perna Bamba](https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs) | 3:19 |
+| 36 | [Ela Voltou de Perna Bamba](https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [MC Pê Original](https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Ela Voltou de Perna Bamba](https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs) | 3:19 |
 | 37 | [SOLTEIROU \- Ao Vivo](https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY DELUXE \(Ao Vivo\)](https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N) | 2:28 |
 | 38 | [Palhaça \- Ao Vivo](https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Palhaça \(Ao Vivo\)](https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf) | 2:50 |
 | 39 | [DONA DE MIM](https://open.spotify.com/track/7sopDXkuzXtHt8AQpdBxmT) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [DONA DE MIM](https://open.spotify.com/album/6gUUHKk5qcIHyffnbfApNO) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 |
 | 50 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 
-Snapshot ID: `MCxhMTA5OWFiZjA3MWI2N2Q1MmViMzg4NzljY2ZiMGQ5YjA5ODQ5MGJh`
+Snapshot ID: `MCxlOWMyYmYzMDNmZDNjY2U5OWFiYTM2YTkzY2M3N2Y4ZGI1MGQwNWZk`

@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-121 songs - 6 hr 43 min
+122 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,8 +76,9 @@
 | [Joy](https://open.spotify.com/track/1mH6oU3m70PZmqe9lnrbmV) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Hell of a Holiday](https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP) | 2:56 | 2021-12-23 |  |
 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 | 2021-12-23 |  |
 | [Joy To The World](https://open.spotify.com/track/2wIcC00knzyI889QUMQy4D) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/26kXeKHRO3RcNbQ5Onc4QQ) | 4:20 | 2021-12-23 | 2022-07-29 |
+| [Just Like Christmas](https://open.spotify.com/track/2QqXjUndwDYA3nEUyvprqo) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/4IWSjhF8wtYR7MVgMFrOkM) | 3:19 | 2022-12-05 |  |
 | [Just Like Christmas](https://open.spotify.com/track/61VQDkmBg7i5GDyQIVvvRS) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/0cIX6G09jcuijrQgH5br9U) | 3:19 | 2021-12-23 | 2022-10-13 |
-| [Just Like Christmas](https://open.spotify.com/track/6CuBMwtlPhbmsg4vOtE7cZ) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/7rqKrq5prPZc4tqspXvmh3) | 3:19 | 2021-12-23 |  |
+| [Just Like Christmas](https://open.spotify.com/track/6CuBMwtlPhbmsg4vOtE7cZ) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/7rqKrq5prPZc4tqspXvmh3) | 3:19 | 2021-12-23 | 2023-06-07 |
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2021-12-23 |  |
 | [Last Christmas](https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2021-12-23 |  |
 | [let it snow \- acoustic](https://open.spotify.com/track/2NiNSxStr1hnM8PJ9jOkRT) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas \(extra presents\)](https://open.spotify.com/album/4sLx7tVIivmsDGkymn37UW) | 2:39 | 2021-12-23 |  |

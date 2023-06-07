@@ -4,7 +4,7 @@
 
 > The best music with a Nashville flavour\. Cover: Twinnie
 
-136 songs - 7 hr 31 min
+137 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 | 2023-03-07 |  |
 | [Plane Tickets](https://open.spotify.com/track/5B1HEbYOR02osqxahkvJlT) | [Beth Keeping](https://open.spotify.com/artist/4Arf7HqBihxQlOs8wO49l5) | [Plane Tickets](https://open.spotify.com/album/1dRsFmothQlithY7Zrkdle) | 3:26 | 2023-03-07 |  |
 | [Radio](https://open.spotify.com/track/7iUd74cF2TPLC3O0ccxlCm) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Radio](https://open.spotify.com/album/7u2aFGHQDsHOBufPfg4kbO) | 2:56 | 2021-12-17 | 2022-03-09 |
-| [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2023-03-07 |  |
+| [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 | 2023-03-07 |  |
+| [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2023-03-07 | 2023-06-07 |
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-01-11 | 2023-03-08 |
 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2021-12-17 | 2022-07-29 |
 | [see you later \(ten years\)](https://open.spotify.com/track/6tJ5lE3OZ4Rd7KYExupx66) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Easy 20's](https://open.spotify.com/album/57zfO6YukeUdyQMR2rnpLx) | 3:08 | 2022-03-11 | 2022-11-13 |

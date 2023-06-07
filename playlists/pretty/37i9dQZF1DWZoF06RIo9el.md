@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de junio 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,525,181 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,525,232 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 39 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 |
 | 40 | [hotel san juan](https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:19 |
 | 41 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
-| 42 | [Me Llora](https://open.spotify.com/track/3wBjPIuvGSBRRdeKIlDW5K) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Me Llora](https://open.spotify.com/album/3hPegMvlQyAGGxY1Dxw84i) | 2:07 |
-| 43 | [Despertar](https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Despertar](https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L) | 3:15 |
+| 42 | [Despertar](https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Despertar](https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L) | 3:15 |
+| 43 | [Me Llora](https://open.spotify.com/track/3wBjPIuvGSBRRdeKIlDW5K) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Me Llora](https://open.spotify.com/album/3hPegMvlQyAGGxY1Dxw84i) | 2:07 |
 | 44 | [Déjame Llorarte](https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Déjame Llorarte](https://open.spotify.com/album/1fjpRVL4FeqSEH4fcW9dxf) | 3:09 |
 | 45 | [Bebé](https://open.spotify.com/track/6ob621boKEDPUrWroJuoJS) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:06 |
 | 46 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 |
-| 47 | [Sólo Muere Si Se Olvida](https://open.spotify.com/track/30slSV1I6iiKvFhJ4X5aFd) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/06eE8AIljE3ADQbE3KSZ50) | 2:53 |
-| 48 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
-| 49 | [Al menos ahora](https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:03 |
-| 50 | [El Plan](https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [El Plan](https://open.spotify.com/album/1YjrPN6E4SlrkxHWQ4ItCa) | 2:52 |
+| 47 | [El Plan](https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [El Plan](https://open.spotify.com/album/1YjrPN6E4SlrkxHWQ4ItCa) | 2:52 |
+| 48 | [Sólo Muere Si Se Olvida](https://open.spotify.com/track/30slSV1I6iiKvFhJ4X5aFd) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/06eE8AIljE3ADQbE3KSZ50) | 2:53 |
+| 49 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
+| 50 | [Al menos ahora](https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:03 |
 
-Snapshot ID: `MCwxYWFhMGFlZmFlOTFkMWJkZjU5NjMwZmNhNWQwYTZlMzY3NzQ3MGY0`
+Snapshot ID: `MCwzYjBlYmRjMTYwY2JkYzg0YjFmZDdhZjMxMDVmNjgzNjdkOTQwODQw`

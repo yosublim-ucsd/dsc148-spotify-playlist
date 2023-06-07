@@ -1,12 +1,12 @@
 {
   "description": "\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30d2\u30c3\u30c8\u3092Volume\u4e0a\u3052\u3066\u7206\u97f3\u3067\u3002Cover: Noel Gallagher's High Flying Birds",
-  "num_followers": 43828,
+  "num_followers": 43829,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjUxMTNjNjM2ODE2NTIyM2QzNjk1OTFmNjlkOTEzNTRlMzc1YzJk",
+  "snapshot_id": "MCxhNDI4ZDgzZjg2NjJmNDMzOTBiNjBlZmFkZDk3NGNjYTFmNzg0ZmNh",
   "tracks": [
     {
       "added_at": "2023-06-05 02:38:38",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-06-05 02:38:38",
       "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
-    },
-    {
-      "added_at": "2023-06-05 02:38:38",
-      "album": {
         "name": "Eyes Open (Taylor's Version)",
         "url": "https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 243264,
       "name": "Eyes Open (Taylor's Version)",
       "url": "https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP"
+    },
+    {
+      "added_at": "2023-06-05 02:38:38",
+      "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "added_at": "2023-06-05 02:38:38",
@@ -987,38 +987,6 @@
     {
       "added_at": "2023-06-05 02:38:38",
       "album": {
-        "name": "Under You",
-        "url": "https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
-    },
-    {
-      "added_at": "2023-06-05 02:38:38",
-      "album": {
-        "name": "Heart Attack (Rock Version)",
-        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 239011,
-      "name": "Heart Attack - Rock Version",
-      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
-    },
-    {
-      "added_at": "2023-06-05 02:38:38",
-      "album": {
         "name": "Welcome to the DCC",
         "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
       },
@@ -1047,6 +1015,38 @@
       "duration_ms": 245240,
       "name": "Jesus He Knows Me",
       "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
+    },
+    {
+      "added_at": "2023-06-05 02:38:38",
+      "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
+    },
+    {
+      "added_at": "2023-06-05 02:38:38",
+      "album": {
+        "name": "Heart Attack (Rock Version)",
+        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 239011,
+      "name": "Heart Attack - Rock Version",
+      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
     },
     {
       "added_at": "2023-06-05 02:38:38",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-06-05 02:38:38",
       "album": {
-        "name": "Meeting The Master",
-        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 312200,
-      "name": "Meeting The Master",
-      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
-    },
-    {
-      "added_at": "2023-06-05 02:38:38",
-      "album": {
         "name": "EDGING",
         "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 151533,
       "name": "EDGING",
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
+    },
+    {
+      "added_at": "2023-06-05 02:38:38",
+      "album": {
+        "name": "Meeting The Master",
+        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 312200,
+      "name": "Meeting The Master",
+      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
     },
     {
       "added_at": "2023-06-05 02:38:38",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-06-05 02:38:38",
       "album": {
-        "name": "We Love You",
-        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 375026,
-      "name": "We Love You",
-      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
-    },
-    {
-      "added_at": "2023-06-05 02:38:38",
-      "album": {
         "name": "Sacred The Thread",
         "url": "https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 240000,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
+    },
+    {
+      "added_at": "2023-06-05 02:38:38",
+      "album": {
+        "name": "We Love You",
+        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
     },
     {
       "added_at": "2023-06-05 02:38:38",

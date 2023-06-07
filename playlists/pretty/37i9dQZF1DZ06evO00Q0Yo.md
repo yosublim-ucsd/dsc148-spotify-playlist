@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,673 likes - 48 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,681 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 11 | [Nasty Dancer](https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Nasty Dancer](https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k) | 2:17 |
 | 12 | [May I](https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:43 |
 | 13 | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O) | 3:20 |
-| 14 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
+| 14 | [Hottie \(feat\. BabyFace Ray\)](https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 3:01 |
 | 15 | [Clap For 'Em \(feat\. Flo Milli & Sada Baby\)](https://open.spotify.com/track/5caZgotE4D6elZpd5S4wlX) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Clap For 'Em \(feat\. Flo Milli & Sada Baby\)](https://open.spotify.com/album/7nYMFoZJEsTdliAf5MUQvJ) | 2:05 |
 | 16 | [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 |
 | 17 | [Plain \(feat\. Lily Allen & Flo Milli\)](https://open.spotify.com/track/4CwcIiZQvy4d9SxAUn5OaJ) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
-| 18 | [Hottie \(feat\. BabyFace Ray\)](https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 3:01 |
+| 18 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
 | 19 | [Roaring 20s](https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Roaring 20s](https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af) | 2:09 |
 | 20 | [Not Friendly](https://open.spotify.com/track/2le8xbpMJ1aA0SpJZRMbRw) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 3:54 |
 | 21 | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/track/6XBkVK0XMeSkXyG6lN2QDk) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [HARAM!](https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1) | 2:33 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 47 | [Eat It Up](https://open.spotify.com/track/2zeHX4bX8RxeaLDgdn90RA) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Eat It Up](https://open.spotify.com/album/2DwPROREroAzr1bDDO4up8) | 2:32 |
 | 48 | [Good](https://open.spotify.com/track/5wwF03ucQEDL2JO6aAUCSi) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Bleu Vandross 3](https://open.spotify.com/album/5gNVVayf3ReHePkP9HeDgz) | 2:42 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDA4MmEyMzY3MDBhMjlkOGI3ZDE5MTMzZGU5ODdlMTI5Mw==`
+Snapshot ID: `MjgxMDA5MjUsMDAwMDAwMDBmNTkwNmU3YjVkZTAwZmI3MGIyNTNiY2ExMjY4YTUwOA==`

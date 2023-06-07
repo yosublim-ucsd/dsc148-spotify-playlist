@@ -4,7 +4,7 @@
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-113 songs - 6 hr 18 min
+114 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Little Planets \- Remix](https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Little Planets \- Remix](https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg) | 4:00 | 2023-04-21 |  |
 | [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 | 2023-04-27 |  |
 | [Looking Down From Space](https://open.spotify.com/track/3DTTlCES4tHvTBjQBGQSwV) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Looking Down From Space](https://open.spotify.com/album/5qCrgDQMeXAQyw7eFHsGMI) | 4:08 | 2023-06-01 |  |
-| [Lose It](https://open.spotify.com/track/2BvqUVpsRPqg9U7cPS7W2N) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Lose It](https://open.spotify.com/album/7GMeqHwUzlZ6zoR61YICom) | 4:51 | 2023-04-27 |  |
+| [Lose It](https://open.spotify.com/track/2BvqUVpsRPqg9U7cPS7W2N) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Lose It](https://open.spotify.com/album/7GMeqHwUzlZ6zoR61YICom) | 4:51 | 2023-04-27 | 2023-06-07 |
 | [Lost](https://open.spotify.com/track/5XFktAerFHxM4tp7EhzTrh) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq), [Jack August](https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry) | [Lost](https://open.spotify.com/album/1QaaHgza1m23gXfowZ8ZHS) | 2:33 | 2023-04-13 |  |
 | [Lost My Mind \(Wake Up\)](https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Lost My Mind \(Wake Up\)](https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw) | 2:27 | 2023-04-13 |  |
 | [Loved Ones](https://open.spotify.com/track/1xdL8Se8SeSSRr0dJxcaJH) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Loved Ones](https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu) | 3:18 | 2023-04-27 |  |
@@ -75,6 +75,7 @@
 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 | 2023-04-13 |  |
 | [No Sympathy](https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [No Sympathy](https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B) | 4:18 | 2023-04-13 |  |
 | [Nothing Is Easy](https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Nothing Is Easy EP](https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW) | 3:11 | 2023-04-13 |  |
+| [notice](https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [notice](https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7) | 2:35 | 2023-06-01 |  |
 | [On My Mind](https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Kezano](https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4) | [On My Mind](https://open.spotify.com/album/4pDIOPC2fdiaPJFlyTBJmE) | 2:16 | 2023-06-01 |  |
 | [Only You](https://open.spotify.com/track/4R6XSF33V92Cgqs038Ugcy) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Only You](https://open.spotify.com/album/7ByGfr10et7e5vZxGUVrlO) | 3:40 | 2023-04-27 |  |
 | [Paperplanes](https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Paperplanes](https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V) | 3:30 | 2023-04-13 |  |

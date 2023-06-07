@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 109315,
+  "num_followers": 109354,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWZjNGYwMTQ3YzVkNWE3ZDIzYWE0ZmM1NWI2ZTc2YWJkNGJlOTIy",
+  "snapshot_id": "MCxlNTU0MWM0ZmIwMjFmYjFlNTIxYjAzNWFhNjhjZmJkODBhM2YyNmUw",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -495,6 +495,38 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 248759,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Carrie",
         "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
       },
@@ -523,22 +555,6 @@
       "duration_ms": 201557,
       "name": "Tu trembleras encore",
       "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -603,22 +619,6 @@
       "duration_ms": 170950,
       "name": "Le monarque des Indes",
       "url": "https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 248759,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 251186,
-      "name": "M\u00eame les loups versent des larmes de joie",
-      "url": "https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Height of the Feeling",
         "url": "https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 239040,
       "name": "Height of the Feeling",
       "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 251186,
+      "name": "M\u00eame les loups versent des larmes de joie",
+      "url": "https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Fables (The Garden Version)",
         "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 176536,
       "name": "Fables - The Garden Version",
       "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Ceci est une esp\u00e8ce aim\u00e9e",
-        "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
+        "name": "Notre-Dame-des-Sept-Douleurs",
+        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
       "artists": [
         {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 299320,
-      "name": "Morceaux",
-      "url": "https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY"
+      "duration_ms": 235800,
+      "name": "J'aurai les cheveux longs",
+      "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Notre-Dame-des-Sept-Douleurs",
-        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
+        "name": "Ceci est une esp\u00e8ce aim\u00e9e",
+        "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
         }
       ],
-      "duration_ms": 235800,
-      "name": "J'aurai les cheveux longs",
-      "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
+      "duration_ms": 299320,
+      "name": "Morceaux",
+      "url": "https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Elle danse",
+        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
+      },
+      "artists": [
+        {
+          "name": "Mimi O'Bonsawin",
+          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
+        }
+      ],
+      "duration_ms": 149015,
+      "name": "Elle danse",
+      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "The Paradise Club",
         "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 211002,
       "name": "Beaut\u00e9 baroque - Session live H2T",
       "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Elle danse",
-        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
-      },
-      "artists": [
-        {
-          "name": "Mimi O'Bonsawin",
-          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
-        }
-      ],
-      "duration_ms": 149015,
-      "name": "Elle danse",
-      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
     },
     {
       "added_at": "2023-06-02 04:00:00",

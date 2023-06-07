@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Dolly Parton",
-  "num_followers": 394885,
+  "num_followers": 394945,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGZiNDBhOGIwOTE2OTgyMjc0ZTAwMTFmZGExYWFhOGI5MGJhZWUz",
+  "snapshot_id": "MCw0NGYwNzhiMTllNDY5MWI3ZWE1MmZlM2M5YzczYzA4NWM2ZjRmYjc0",
   "tracks": [
     {
       "added_at": "2023-05-18 23:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+        "name": "Parklife (Special Edition)",
+        "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Monkey Gone to Heaven",
-      "url": "https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW"
+      "duration_ms": 185093,
+      "name": "Parklife - 2012 Remaster",
+      "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Parklife (Special Edition)",
-        "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 185093,
-      "name": "Parklife - 2012 Remaster",
-      "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
+      "duration_ms": 175333,
+      "name": "Monkey Gone to Heaven",
+      "url": "https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW"
     },
     {
       "added_at": "2023-05-18 23:00:00",

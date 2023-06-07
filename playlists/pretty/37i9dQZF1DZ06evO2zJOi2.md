@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,076 likes - 26 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,639 likes - 26 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 25 | [Cover Me Up](https://open.spotify.com/track/0mKnuxVkPi5h0kuvZl44VM) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 4:53 |
 | 26 | [Up Down](https://open.spotify.com/track/1zQMvZU0A2De2oaYo3DLRE) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Greatest Hits](https://open.spotify.com/album/12ZPTkxy23YJSeMvKpY7iK) | 3:18 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDA1ZTRlMzg1YjFlYjMyMmQ0ODc1MDU3NDQzZWUyNzFkZA==`
+Snapshot ID: `MjgxMDA5MjYsMDAwMDAwMDAzYjFkZWY4NjIwY2E4NjI3ODFlNzVkNmE0ZmUyZDBkMg==`

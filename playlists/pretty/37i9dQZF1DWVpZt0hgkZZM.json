@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 19433,
+  "num_followers": 19471,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDU0NmIyYjdiYmVkMzllMjQ4OWZiZGM0YmFiODA5NmZjOTBmNGI5",
+  "snapshot_id": "MCwwZGFkZGM1ZDJhMmNkMTBhNTg5OTE5MTA4MTk3YWFjMzhmMDk1OGNj",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "El Viaje Musical de Lisandro Meza, 60 A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/2ZwCWFJY7Kx12Uh1BrFdg3"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 240039,
-      "name": "El Hijo de Tuta",
-      "url": "https://open.spotify.com/track/5UcFBZjRxPH4fQbRrkGwjT"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "35 A\u00f1os de Exitos",
         "url": "https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 376706,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/6kYrJTVOGyQGJM7u8xkikc"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "El Viaje Musical de Lisandro Meza, 60 A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/2ZwCWFJY7Kx12Uh1BrFdg3"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 240039,
+      "name": "El Hijo de Tuta",
+      "url": "https://open.spotify.com/track/5UcFBZjRxPH4fQbRrkGwjT"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
+      },
+      "artists": [
+        {
+          "name": "Rhapsodia",
+          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
+        }
+      ],
+      "duration_ms": 410070,
+      "name": "Nuestro Amor Ser\u00e1",
+      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Los Dos Inseparables",
         "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 176533,
       "name": "Anhelos",
       "url": "https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
-      },
-      "artists": [
-        {
-          "name": "Rhapsodia",
-          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
-        }
-      ],
-      "duration_ms": 410070,
-      "name": "Nuestro Amor Ser\u00e1",
-      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Como en un Baile",
-        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 364617,
-      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
-      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "14 vallenatos sabroso",
         "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 254586,
       "name": "Te Llevar\u00e9",
       "url": "https://open.spotify.com/track/3ZiR1SuQvgKBb2cRGCFpyB"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Como en un Baile",
+        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 364617,
+      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
+      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
     },
     {
       "added_at": "2021-12-16 22:41:17",

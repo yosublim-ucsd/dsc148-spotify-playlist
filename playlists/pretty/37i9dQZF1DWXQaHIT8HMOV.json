@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWVhMTBhYTE0NDc3OGZkNTBlZjYxZGQ4MGM3NzAyY2RlYWU1MGJi",
+  "snapshot_id": "MCwyYWEyODNjMjQ3OGVlMDBiZjA0ZGE1ODZhZjk4NDQ0MDk3OTM2ODk4",
   "tracks": [
     {
       "added_at": "2023-06-02 16:13:50",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
+      },
+      "artists": [
+        {
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 193833,
       "name": "Nfa",
       "url": "https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC"
-    },
-    {
-      "added_at": "2023-06-02 16:13:50",
-      "album": {
-        "name": "Sembera",
-        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
-      },
-      "artists": [
-        {
-          "name": "Geosteady",
-          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Sembera",
-      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
       "added_at": "2023-06-02 16:13:50",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
-      },
-      "artists": [
-        {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
-    },
-    {
-      "added_at": "2023-06-02 16:13:50",
-      "album": {
         "name": "CHERRY SWEET",
         "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 130500,
       "name": "CHERRY SWEET",
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+      },
+      "artists": [
+        {
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
     },
     {
       "added_at": "2023-06-02 16:13:50",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Bbuba",
-        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 204289,
-      "name": "Bbuba",
-      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2023-06-02 16:13:50",
-      "album": {
         "name": "Plan Ki",
         "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 194526,
       "name": "Plan Ki",
       "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
+        "name": "Bbuba",
+        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 204289,
+      "name": "Bbuba",
+      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
     },
     {
       "added_at": "2023-06-02 16:13:50",
@@ -795,18 +795,22 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
       },
       "artists": [
         {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
         }
       ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+      "duration_ms": 172016,
+      "name": "Bega Bega",
+      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
     },
     {
       "added_at": "2023-06-02 16:13:50",
@@ -843,22 +847,18 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
       },
       "artists": [
         {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
         }
       ],
-      "duration_ms": 172016,
-      "name": "Bega Bega",
-      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
     },
     {
       "added_at": "2023-06-02 16:13:50",
@@ -879,22 +879,38 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Nkuwe",
-        "url": "https://open.spotify.com/album/0NCH2uXILthFXbMHXy9y3C"
+        "name": "Nothing (Remix)",
+        "url": "https://open.spotify.com/album/5HXT6evuxXlZWxtlZfngUl"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "ELIJAH KITAKA",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
         },
         {
-          "name": "Kin Bella",
-          "url": "https://open.spotify.com/artist/3rvpqqkLp2C6LE5Lo02hy2"
+          "name": "The Mith",
+          "url": "https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf"
+        },
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        },
+        {
+          "name": "Wonder Jr",
+          "url": "https://open.spotify.com/artist/4ZVv4tXo58qTVMrmHlvXBs"
+        },
+        {
+          "name": "TimothyCODE",
+          "url": "https://open.spotify.com/artist/60JDOqQkDDSJsJvj5YSGCA"
+        },
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
         }
       ],
-      "duration_ms": 221911,
-      "name": "Nkuwe",
-      "url": "https://open.spotify.com/track/1HpwWfZHCFkouqIWKxLntF"
+      "duration_ms": 290400,
+      "name": "Nothing - Remix",
+      "url": "https://open.spotify.com/track/3N43i0lIHOir3AiR1ipwxf"
     },
     {
       "added_at": "2023-06-02 16:13:50",

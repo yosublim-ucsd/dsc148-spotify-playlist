@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,066 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,069 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [She is Out](https://open.spotify.com/track/4BaquSwI7RbLtPhIU5fi9N) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Nuts](https://open.spotify.com/album/7e1AWSMpCR9n2R8pC1gQ1i) | 2:06 |
 | 2 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 3 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 4 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr) | 2:54 |
-| 5 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 |
-| 6 | [Caught in the Moment](https://open.spotify.com/track/5rG3DY9m1qxdr3jYSgPlJF) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Caught in the Moment](https://open.spotify.com/album/30UswNsDzEdhRmYM9rZBJJ) | 2:49 |
-| 7 | [A dónde vayas](https://open.spotify.com/track/6JUXZxPk6gKK5xbwhkgpAE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [A dónde vayas](https://open.spotify.com/album/1XXSwx8vAwyztEwPzUjsnE) | 2:46 |
-| 8 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/16cssMSjVqPJeBxRLy9FrF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa) | 2:48 |
-| 9 | [Is This Love?](https://open.spotify.com/track/2qniUr523yjUKD8EJRe7LP) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr), [Alex Kapranos](https://open.spotify.com/artist/43tffeOxONSbTQ888To7bE) | [Is This Love?](https://open.spotify.com/album/3m83zmi7UMBf6uV6csCbyl) | 3:32 |
+| 4 | [Is This Love?](https://open.spotify.com/track/2qniUr523yjUKD8EJRe7LP) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr), [Alex Kapranos](https://open.spotify.com/artist/43tffeOxONSbTQ888To7bE) | [Is This Love?](https://open.spotify.com/album/3m83zmi7UMBf6uV6csCbyl) | 3:32 |
+| 5 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr) | 2:54 |
+| 6 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 |
+| 7 | [Caught in the Moment](https://open.spotify.com/track/5rG3DY9m1qxdr3jYSgPlJF) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Caught in the Moment](https://open.spotify.com/album/30UswNsDzEdhRmYM9rZBJJ) | 2:49 |
+| 8 | [A dónde vayas](https://open.spotify.com/track/6JUXZxPk6gKK5xbwhkgpAE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [A dónde vayas](https://open.spotify.com/album/1XXSwx8vAwyztEwPzUjsnE) | 2:46 |
+| 9 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/16cssMSjVqPJeBxRLy9FrF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa) | 2:48 |
 | 10 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 |
 | 11 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 12 | [Paper Straws](https://open.spotify.com/track/2gGseH8fhd7BIkQQdIBnHo) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Echo Palace](https://open.spotify.com/album/2GVqe5obMxcMojXO9Rsrkj) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 59 | [Easy Going](https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Easy Going](https://open.spotify.com/album/6qhJuNPYamcTTVZiIsrrIi) | 2:28 |
 | 60 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 |
 
-Snapshot ID: `MCw2ODE3YTM0ZTYwNWE4N2FhYTE3MmM0NWE5ZjEzODI2NjA2NmI0NTgy`
+Snapshot ID: `MCwzYmMwMzBiOWY1MjlkYzY0MzA3ZDg5NTVjZGFlNDQzYWIwNjlmMWRk`

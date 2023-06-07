@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 99946,
+  "num_followers": 99962,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODVjM2QxOTNhNWFiYTQwYTE5NWU0ZjcxMmE3ZTcwNGVlNjA0OGI1",
+  "snapshot_id": "MCxmYmUzYjk2YWI2MTM3ODYyY2I4ZDE4MmE5YTMwZjM0Y2EyMjYzNTdh",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -67,8 +67,8 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Mad In The Fete (feat. Bala Bala Boyz)",
-        "url": "https://open.spotify.com/album/2rMfnYger1SSWEzZwayOpr"
+        "name": "Mad In The Fete",
+        "url": "https://open.spotify.com/album/2JYf652YCwTdmhfx6Www7R"
       },
       "artists": [
         {
@@ -81,8 +81,8 @@
         }
       ],
       "duration_ms": 236977,
-      "name": "Mad In The Fete (feat. Bala Bala Boyz)",
-      "url": "https://open.spotify.com/track/5Ax15OS8YLh8o7m20C90LX"
+      "name": "Mad In The Fete",
+      "url": "https://open.spotify.com/track/632siJNitjfYpynMYKfQrO"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -260,7 +260,7 @@
       "added_at": "2022-04-13 15:03:02",
       "album": {
         "name": "Volumes:One",
-        "url": "https://open.spotify.com/album/60unLuchirb55pFWGSi5WX"
+        "url": "https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h"
       },
       "artists": [
         {
@@ -273,8 +273,8 @@
         }
       ],
       "duration_ms": 382336,
-      "name": "As I (feat. Katy B)",
-      "url": "https://open.spotify.com/track/4m4bkvpKjOr439pmr4892r"
+      "name": "As I",
+      "url": "https://open.spotify.com/track/5I0Y8d1UZaHNWnRPtYrMum"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Diary of a Princess",
-        "url": "https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe"
-      },
-      "artists": [
-        {
-          "name": "Princess Nyah",
-          "url": "https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh"
-        }
-      ],
-      "duration_ms": 235275,
-      "name": "Frontline",
-      "url": "https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "What You Do (Hottest By Far)",
         "url": "https://open.spotify.com/album/5rCXzdvDDWsCzfarkeKbZK"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 285750,
       "name": "What You Do (Hottest By Far)",
       "url": "https://open.spotify.com/track/5VbB0e2Sv6vxWLmroz1Vem"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Diary of a Princess",
+        "url": "https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe"
+      },
+      "artists": [
+        {
+          "name": "Princess Nyah",
+          "url": "https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh"
+        }
+      ],
+      "duration_ms": 235275,
+      "name": "Frontline",
+      "url": "https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Gabryelle (Refix)",
-        "url": "https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO"
-      },
-      "artists": [
-        {
-          "name": "D-Malice",
-          "url": "https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "Gabryelle (Refix)",
-      "url": "https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Bayeke (Prace Remix)",
         "url": "https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 354244,
       "name": "Bayeke - Prace Remix",
       "url": "https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Gabryelle (Refix)",
+        "url": "https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO"
+      },
+      "artists": [
+        {
+          "name": "D-Malice",
+          "url": "https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Gabryelle (Refix)",
+      "url": "https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -855,26 +855,18 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Volumes:One",
-        "url": "https://open.spotify.com/album/60unLuchirb55pFWGSi5WX"
+        "name": "Firepower EP",
+        "url": "https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U"
       },
       "artists": [
         {
-          "name": "Geeneus",
-          "url": "https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx"
-        },
-        {
-          "name": "Zinc",
-          "url": "https://open.spotify.com/artist/3ue5SbJyUQupDEAtHEBAO9"
-        },
-        {
-          "name": "Nikki",
-          "url": "https://open.spotify.com/artist/0jMnOC6Aa7ayV4nBZrGEwm"
+          "name": "DJ Naughty",
+          "url": "https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo"
         }
       ],
-      "duration_ms": 425638,
-      "name": "Emotions (feat. Nikki)",
-      "url": "https://open.spotify.com/track/7m3jySZj6AMGqoUHm1gLl8"
+      "duration_ms": 439466,
+      "name": "Quicktime - Roska Remix",
+      "url": "https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -891,22 +883,6 @@
       "duration_ms": 258866,
       "name": "African Warrior",
       "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "Firepower EP",
-        "url": "https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U"
-      },
-      "artists": [
-        {
-          "name": "DJ Naughty",
-          "url": "https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo"
-        }
-      ],
-      "duration_ms": 439466,
-      "name": "Quicktime - Roska Remix",
-      "url": "https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -1099,6 +1075,22 @@
       "duration_ms": 144204,
       "name": "Muhammad Ali - Original Mix",
       "url": "https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Funky Flex vs Pulse",
+        "url": "https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        }
+      ],
+      "duration_ms": 361791,
+      "name": "Funky Flex vs Pulse",
+      "url": "https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ"
     }
   ],
   "unique_name": "UK Funky",

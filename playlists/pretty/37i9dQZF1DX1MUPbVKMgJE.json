@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Donna Summer",
-  "num_followers": 1490809,
+  "num_followers": 1491121,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWFjZjhjMzQwZGQ3OGM5OGJhYjdlZTUwN2ViYjcxYjEwMTVhOTQ4",
+  "snapshot_id": "MCw3YzU3N2E0Nzg1ZDIwNjg0MmZiNmU5NjI3NWZiZTIwM2Q2N2E2MGY4",
   "tracks": [
     {
       "added_at": "2022-08-31 15:13:54",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "Young Hearts Run Free (US Internet Release)",
-        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Young Hearts Run Free",
-      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "You're The First, The Last, My Everything",
         "url": "https://open.spotify.com/album/3t2UIcBhhF4x11PFUr5Wbf"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 212906,
       "name": "You're The First, The Last, My Everything - Single Version",
       "url": "https://open.spotify.com/track/3ZYO0HGRFFdAGeb8o7F9KC"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "Young Hearts Run Free (US Internet Release)",
+        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Young Hearts Run Free",
+      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "Cheryl Lynn (Expanded Edition)",
         "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
       "added_at": "2022-08-31 15:13:54",

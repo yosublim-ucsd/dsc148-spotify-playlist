@@ -684,7 +684,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 159056,
       "name": "Cholos al Punto",
       "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
@@ -5596,6 +5596,24 @@
       "duration_ms": 157354,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Rancho Humilde 2020, Vol. 1",
+        "url": "https://open.spotify.com/album/0IGFlOVKhaqkZIzIwogwoD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Humilde",
+          "url": "https://open.spotify.com/artist/09HxEXUwV0FkmZnBqrJfbM"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184632,
+      "name": "Un Suspiro",
+      "url": "https://open.spotify.com/track/7DY9QpHxhzbU4JX0Z1WYL0"
     },
     {
       "album": {

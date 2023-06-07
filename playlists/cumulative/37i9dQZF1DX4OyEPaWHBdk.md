@@ -4,7 +4,7 @@
 
 > Check out the winners from this year's 2022 MAMA AWARDS!
 
-184 songs - 10 hr 21 min
+186 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-10-24 |  |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-10-24 | 2022-12-02 |
 | [HAPPEN](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2022-01-04 | 2022-01-28 |
-| [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2022-12-02 |  |
+| [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2022-12-02 | 2023-06-07 |
+| [Happy Death Day](https://open.spotify.com/track/5tFkeXbut9UEYCRO6ngFb6) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3EWs6Dzq1O019JKq9A72KC) | 3:40 | 2022-12-02 |  |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-10-24 | 2022-11-11 |
 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 | 2022-01-04 | 2022-01-25 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-10-24 |  |
@@ -119,7 +120,8 @@
 | [Nessun Dorma](https://open.spotify.com/track/0cqygCf0zSgyDvG4ZDyPlJ) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [The Classic Album](https://open.spotify.com/album/5DtFVdOGQo45MmXLHfFzHc) | 3:14 | 2022-01-04 | 2022-01-09 |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-12 | 2022-01-28 |
 | [Nhắn Tới Khoảng Trời Em](https://open.spotify.com/track/4yan6BnvN4xzkffUKD8IkY) | [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi) | [Nhắn Tới Khoảng Trời Em](https://open.spotify.com/album/3y6xKqhKM3l19fYt3sMIz2) | 3:55 | 2021-12-12 | 2022-01-05 |
-| [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-10-24 |  |
+| [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-10-24 | 2023-06-07 |
+| [O.O](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:52 | 2022-12-02 |  |
 | [On That Day](https://open.spotify.com/track/4fx2P5JDZ7hszBkTxzftQL) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [On That Day](https://open.spotify.com/album/7hcTxoEyYvl75urS0ee3Sl) | 3:39 | 2022-01-04 | 2022-01-09 |
 | [On The Ground](https://open.spotify.com/track/2xgACMNtJ5YktyvOC83SPO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/52MYcZ4Hzvy9vJcPicjfHZ) | 2:48 | 2021-12-12 | 2022-01-25 |
 | [One Day More](https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [One Day More](https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68) | 4:07 | 2022-01-04 | 2022-01-25 |

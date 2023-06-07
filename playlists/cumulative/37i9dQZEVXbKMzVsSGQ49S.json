@@ -948,7 +948,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 256026,
       "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
       "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 179908,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/320jqrATpl9762bCQkmLDf"
@@ -5393,6 +5393,24 @@
     },
     {
       "album": {
+        "name": "St\u00f3r Agnar\u00f6gn",
+        "url": "https://open.spotify.com/album/7cIX2BGfObw0EjEX85eqTf"
+      },
+      "artists": [
+        {
+          "name": "BR\u00cdET",
+          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
+      "url": "https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY"
+    },
+    {
+      "album": {
         "name": "St\u00f3r agnar\u00f6gn",
         "url": "https://open.spotify.com/album/3kD0eb4wgmccYXYOhFZoL1"
       },
@@ -5404,7 +5422,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo"
@@ -7622,7 +7640,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 112989,
       "name": "Game on Lock",
       "url": "https://open.spotify.com/track/3waDJbtdjATfNZEfqAh8G2"
@@ -19066,7 +19084,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -23161,6 +23179,28 @@
     },
     {
       "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "Trojan Horse",
+      "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -23390,6 +23430,28 @@
       "duration_ms": 165365,
       "name": "T\u00fdpan",
       "url": "https://open.spotify.com/track/5E1wbZJiMNBx79K4GPxAwT"
+    },
+    {
+      "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "UK Rap",
+      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
     },
     {
       "album": {
@@ -26090,7 +26152,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 179908,
       "name": "\u00cd s\u00ed\u00f0asta skipti",
       "url": "https://open.spotify.com/track/0s6wluanO3gDy0IU5wyQYW"

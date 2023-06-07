@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-139 songs - 11 hr 11 min
+140 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Foreshadowed \- 2005 Digital Remaster](https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:52 | 2022-05-31 | 2022-10-17 |
 | [From The Same Hill \- Remastered 2005](https://open.spotify.com/track/6KXkRnKRmVes2BfNzN7bnX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 3:00 | 2023-01-24 | 2023-01-26 |
 | [Garden of Stars](https://open.spotify.com/track/3CTJWZbJuoPwXV0oJPYE9K) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:19 | 2022-11-04 | 2022-11-29 |
-| [Golden Hours \- 2004 Digital Remaster](https://open.spotify.com/track/0ikLV7zMypPFyLH57cKpRO) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 4:00 | 2022-05-30 |  |
+| [Golden Hours \- 2004 Digital Remaster](https://open.spotify.com/track/0ikLV7zMypPFyLH57cKpRO) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 4:00 | 2022-05-30 | 2023-06-07 |
 | [Hardly Me \- Instrumental](https://open.spotify.com/track/3X6nQIGR66C4VCgG9Cxqtq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:50 | 2023-04-22 |  |
 | [Here Come The Warm Jets \- 2004 Digital Remaster](https://open.spotify.com/track/5AiNr1E4t8n1T4NebVLKyK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 4:04 | 2022-06-20 | 2022-10-07 |
 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 | 2022-06-01 | 2022-09-26 |
@@ -69,6 +69,7 @@
 | [Invisible](https://open.spotify.com/track/10iQCHZpqN5VRylGhdr2oe) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft](https://open.spotify.com/album/2IeXuOg0uD7WDR7RsCsMOI) | 5:09 | 2023-02-14 | 2023-03-26 |
 | [Iris](https://open.spotify.com/track/5gFsbxI10eCm40nP6GapHi) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 2:53 | 2022-05-29 |  |
 | [I’m Hardly Me](https://open.spotify.com/track/5DXRsdvm0PDF4kq3xVfIsZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:50 | 2022-10-17 | 2022-11-28 |
+| [Kazakhstan 1](https://open.spotify.com/track/47rI9POL2cdrqMinrSwRuq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Kazakhstan](https://open.spotify.com/album/4YThNflqsqidUr0Z1ETy80) | 3:11 | 2023-06-06 |  |
 | [Kazakhstan 3](https://open.spotify.com/track/7IRuaI5b4NlVvaEcS6OGKJ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Kazakhstan](https://open.spotify.com/album/4YThNflqsqidUr0Z1ETy80) | 4:57 | 2023-05-24 |  |
 | [Late October \- 2005 Digital Remaster](https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:44 | 2022-05-29 |  |
 | [Lay My Love](https://open.spotify.com/track/70MtQkoCPrL5LgI3ky6Jtw) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wrong Way Up \[Expanded Edition\]](https://open.spotify.com/album/60iUtvboDimzQEiZjGfkzP) | 4:44 | 2022-10-12 | 2022-10-15 |

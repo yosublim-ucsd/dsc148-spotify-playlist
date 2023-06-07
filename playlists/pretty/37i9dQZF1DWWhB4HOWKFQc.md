@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Panji Sakti
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,163 likes - 83 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,143 likes - 83 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 82 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 |
 | 83 | [Usai](https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Usai](https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8) | 3:37 |
 
-Snapshot ID: `MCwyN2I2OTExNzI4MDQ0MWNkNzcyMDQ3NTk5NTU4YTc4ZDM0MmU1MTcy`
+Snapshot ID: `MCxlYjRkYWE5ZTEyYzdlMjY4YmRkMjdmNWIyMDAxZWRmNjE4YzFiYjRj`

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Magdalena Bay
 
-1,570 songs - 3 day 10 hr 51 min
+1,572 songs - 3 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [BLONDE](https://open.spotify.com/track/75N877K375q1iE3S1mEcHB) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [BLONDE](https://open.spotify.com/album/1fObqVmcM8zZFZg4Jr8VzH) | 2:57 | 2022-03-29 | 2022-03-31 |
 | [Blondes](https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Blondes](https://open.spotify.com/album/4EvsXD4pmepFBKYHoORrP1) | 2:46 | 2021-11-12 | 2022-04-07 |
 | [Blood Sugar](https://open.spotify.com/track/60iDIlOnohKwxEKW8yGdXg) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Blood Sugar](https://open.spotify.com/album/2UdbPu3HA7s9HljWGZAkA9) | 3:07 | 2020-10-13\* | 2022-04-15 |
+| [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 | 2023-06-02 |  |
 | [Bloom](https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Bloom](https://open.spotify.com/album/1hFATkkw8ibvIwUQkWpWER) | 2:51 | 2021-08-06 | 2022-04-13 |
 | [Bloom \- Remix](https://open.spotify.com/track/1WWXRNfFhZWbLD3jGcC8T0) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp), [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Birthday Boy \(Party Favors\)](https://open.spotify.com/album/2ZjzdxS9GOQn9IEdOmWen1) | 3:48 | 2020-11-20 | 2021-02-28 |
 | [Blue Ceiling](https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw) | 2:46 | 2021-04-03 | 2021-05-26 |
@@ -1192,7 +1193,7 @@
 | [Savage Good Boy](https://open.spotify.com/track/6mH7lvaAr2Q87Yz6JIeejx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Savage Good Boy](https://open.spotify.com/album/3p84ciTFVs07foaC10DLAp) | 2:26 | 2021-06-02 | 2022-04-03 |
 | [Save Me From Myself](https://open.spotify.com/track/29fw7pUEE0AOsv2EmfY0Bm) | [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z) | [Save Me From Myself, Pt\. 2](https://open.spotify.com/album/2Rtmp7ULUAN96u1RyP8W5D) | 4:56 | 2020-10-13\* | 2021-05-28 |
 | [Save Myself](https://open.spotify.com/track/6QDZlGAY1njNqAdOM6PryZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Save Myself](https://open.spotify.com/album/1xqgvYXcHZvCr9VthrD4mn) | 3:44 | 2020-11-20 | 2022-06-01 |
-| [Savior](https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Savior](https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs) | 2:21 | 2023-05-12 |  |
+| [Savior](https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Savior](https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs) | 2:21 | 2023-05-12 | 2023-06-07 |
 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 | 2021-06-02 | 2022-04-15 |
 | [Say It Again](https://open.spotify.com/track/3DF9XSRvf0dFT3Om0Rj4KJ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Say It Again](https://open.spotify.com/album/1mgTS0tdQowCQkrOPxMVOG) | 3:36 | 2020-10-16 | 2021-05-20 |
 | [Say It's Over](https://open.spotify.com/track/3mmOZNLF9RwO85BD37j4A1) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Say It's Over](https://open.spotify.com/album/38qdPjDavVVwc4x21z2jEh) | 3:35 | 2022-10-21 | 2022-11-12 |
@@ -1505,7 +1506,8 @@
 | [What Was Mine](https://open.spotify.com/track/1zHmxDTalWGHuQfhabEYhM) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [What Was Mine](https://open.spotify.com/album/1ResES2PhMkD79iA0yAhB0) | 3:14 | 2022-05-13 | 2022-07-21 |
 | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/track/63CGV6P4cEYZvUgvVhZWAl) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/album/5QKRK4MEDqyjPmX4dErfTw) | 3:12 | 2021-06-11 | 2022-04-15 |
 | [What You're Made Of](https://open.spotify.com/track/3yarLd7RGr79F1jUk5WLlX) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [What You're Made Of](https://open.spotify.com/album/3V1JAPu9uyL0n7DU1hdrzP) | 2:52 | 2021-06-03 | 2021-06-04 |
-| [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 |  |
+| [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 | 2023-06-07 |
+| [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 |  |
 | [What's Wrong](https://open.spotify.com/track/1C5YO3ItmCjO2lUtLQmYYO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [What's Wrong](https://open.spotify.com/album/3L275DRtt9sRWWdGMRDQ51) | 2:57 | 2021-04-03 | 2022-04-29 |
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-02-25 | 2022-10-08 |
 | [WHATDOISAY?](https://open.spotify.com/track/0w69QFnWIwTCwEzI1lxkTC) | [Maggie Miles](https://open.spotify.com/artist/3fU7b1NSQYROvvdepD4PZ0) | [WHATDOISAY?](https://open.spotify.com/album/1a0pyLgTaQHKVJJlxm4m8p) | 3:09 | 2020-10-20 | 2021-05-28 |

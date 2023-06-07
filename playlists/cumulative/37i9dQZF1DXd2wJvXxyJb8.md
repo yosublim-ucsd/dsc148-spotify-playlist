@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> IAI QUAL VAI SE
+> NO PAPÊ FAZ ASSÊ VENEVENEVENEME toma toma toma toma
 
 278 songs - 12 hr 50 min
 
@@ -97,7 +97,7 @@
 | [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 | 2023-03-23 |  |
 | [Ela vai de frente ela vai de costas](https://open.spotify.com/track/2tKd21Yz49ZbBQcwPAnH3R) | [DJ LK Simões](https://open.spotify.com/artist/7bl5xV2kmLyDNDED4YlNHT) | [Ela vai de frente ela vai de costas](https://open.spotify.com/album/2m2mXBX0nBvRwMmmGu6tGQ) | 1:47 | 2022-05-26 | 2022-07-29 |
 | [ELA VAI DE FRENTE ELA VAI DE COSTAS](https://open.spotify.com/track/7vp7Nl8p2wP9U14cx7kYG2) | [DJ Pedrin](https://open.spotify.com/artist/4anI4492Z1ogF7JJqCiI0i), [DJ Breno](https://open.spotify.com/artist/0MU7bIngzZFJkLksK8Hh94), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50), [Dj Créu](https://open.spotify.com/artist/6t0Zo9vl0h5qUavwMjQPLz) | [ELA VAI DE FRENTE ELA VAI DE COSTAS](https://open.spotify.com/album/09QkDNjVqdoy0YNG7GX8Xc) | 1:43 | 2022-07-28 | 2022-09-22 |
-| [Ela Voltou de Perna Bamba](https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP), [MC Pê Original](https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC) | [Ela Voltou de Perna Bamba](https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs) | 3:19 | 2023-05-22 |  |
+| [Ela Voltou de Perna Bamba](https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [MC Pê Original](https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Ela Voltou de Perna Bamba](https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs) | 3:19 | 2023-05-22 |  |
 | [Elas Gosta](https://open.spotify.com/track/7dCju1v3CIGOX4yod5CYjy) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Elas Gosta](https://open.spotify.com/album/7JEDIqpityrzzvP6zMFQrM) | 2:23 | 2022-05-26 | 2022-11-10 |
 | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/track/1V6gIVSrMEJCRyogBnIrNr) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Thaysa Maravilha](https://open.spotify.com/artist/1ki7YZPuQY8PYZ8cugIzBc) | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/album/0WySBFNRnQ1HeXUHckbpLw) | 2:56 | 2023-03-06 |  |
 | [Então Joga](https://open.spotify.com/track/1Qt8wL1hGNLiSYX9xlg0iV) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Então Joga](https://open.spotify.com/album/0NX8bQhxp2qFTeEAIAayt5) | 2:37 | 2022-05-26 | 2022-11-08 |

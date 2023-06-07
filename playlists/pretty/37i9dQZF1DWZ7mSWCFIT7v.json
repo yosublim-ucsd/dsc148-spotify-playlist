@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 88647,
+  "num_followers": 88686,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDQ4MjdhYzIwOTkwZDViNjBkM2M5Yjg0ZWMwMWZmY2FiMjRkYTE0",
+  "snapshot_id": "MCxjYWE1NDFmZDBlZWU3ZmQyMDhjMzllZTAyYWFhMWMwMDQ4NjBkYTY2",
   "tracks": [
     {
       "added_at": "2023-05-09 01:25:54",
@@ -193,6 +193,22 @@
       "url": "https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "\u65b0\u3057\u3044\u65e5\u306e\u8a95\u751f",
+        "url": "https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N"
+      },
+      "artists": [
+        {
+          "name": "\uff12\uff18\uff11\uff14",
+          "url": "https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd"
+        }
+      ],
+      "duration_ms": 563600,
+      "name": "\u60b2\u54c0",
+      "url": "https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq"
+    },
+    {
       "added_at": "2023-04-15 02:42:19",
       "album": {
         "name": "FOREVERANDEVERNOMORE (FOREVER VOICELESS EDITION)",
@@ -211,18 +227,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "\u65b0\u3057\u3044\u65e5\u306e\u8a95\u751f",
-        "url": "https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N"
+        "name": "Erratics & Unconformities",
+        "url": "https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI"
       },
       "artists": [
         {
-          "name": "\uff12\uff18\uff11\uff14",
-          "url": "https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd"
+          "name": "Craven Faults",
+          "url": "https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN"
         }
       ],
-      "duration_ms": 563600,
-      "name": "\u60b2\u54c0",
-      "url": "https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq"
+      "duration_ms": 475379,
+      "name": "Deipkier",
+      "url": "https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ"
     },
     {
       "added_at": "2022-09-27 23:17:09",
@@ -255,22 +271,6 @@
       "duration_ms": 192674,
       "name": "S.O",
       "url": "https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Erratics & Unconformities",
-        "url": "https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI"
-      },
-      "artists": [
-        {
-          "name": "Craven Faults",
-          "url": "https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN"
-        }
-      ],
-      "duration_ms": 475379,
-      "name": "Deipkier",
-      "url": "https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ"
     },
     {
       "added_at": "2022-09-21 01:59:31",
@@ -465,6 +465,22 @@
       "url": "https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ"
     },
     {
+      "added_at": "2023-03-03 04:07:38",
+      "album": {
+        "name": "Was Du Suchst",
+        "url": "https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc"
+      },
+      "artists": [
+        {
+          "name": "Tiefe Wasser Berlin",
+          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
+        }
+      ],
+      "duration_ms": 450120,
+      "name": "Was Du Suchst",
+      "url": "https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Twilight Sea",
@@ -501,6 +517,22 @@
       "url": "https://open.spotify.com/track/4JT4orneDAvaWkjUTuwShZ"
     },
     {
+      "added_at": "2023-03-03 04:14:50",
+      "album": {
+        "name": "Vegetal Passivity",
+        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
+      },
+      "artists": [
+        {
+          "name": "Rzekomo",
+          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Vegetal Passivity",
+      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
+    },
+    {
       "added_at": "2022-08-03 03:12:27",
       "album": {
         "name": "Sons Of",
@@ -519,6 +551,54 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
+    },
+    {
+      "added_at": "2021-11-25 22:12:36",
+      "album": {
+        "name": "Patterns Of Consciousness",
+        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 947500,
+      "name": "Gravity that Binds",
+      "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
+    },
+    {
+      "added_at": "2022-08-03 02:34:20",
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+    },
+    {
+      "added_at": "2022-03-29 02:05:38",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2023-04-15 02:42:19",
@@ -541,70 +621,6 @@
       "url": "https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1"
     },
     {
-      "added_at": "2022-08-03 02:34:20",
-      "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
-    },
-    {
-      "added_at": "2021-11-25 22:12:36",
-      "album": {
-        "name": "Patterns Of Consciousness",
-        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 947500,
-      "name": "Gravity that Binds",
-      "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
-    },
-    {
-      "added_at": "2022-03-29 02:05:38",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Milliseconds",
-        "url": "https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0"
-      },
-      "artists": [
-        {
-          "name": "Lonely Roads",
-          "url": "https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Milliseconds",
-      "url": "https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Tar (Jan Jelinek Remix)",
@@ -625,20 +641,36 @@
       "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
     },
     {
-      "added_at": "2023-03-03 04:14:50",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Vegetal Passivity",
-        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
+        "name": "Milliseconds",
+        "url": "https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0"
       },
       "artists": [
         {
-          "name": "Rzekomo",
-          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
+          "name": "Lonely Roads",
+          "url": "https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5"
         }
       ],
-      "duration_ms": 238153,
-      "name": "Vegetal Passivity",
-      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
+      "duration_ms": 177000,
+      "name": "Milliseconds",
+      "url": "https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU"
+    },
+    {
+      "added_at": "2022-03-30 15:08:41",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -659,22 +691,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Dusting For Smoke",
-        "url": "https://open.spotify.com/album/4JqBczxo4FAt696cbtjO0D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 233499,
-      "name": "Lone Swordsman",
-      "url": "https://open.spotify.com/track/4n0Hki3RG2Fa35s5PORLIq"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Weather the Storm",
         "url": "https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm"
       },
@@ -687,6 +703,22 @@
       "duration_ms": 276000,
       "name": "Weather the Storm",
       "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Dusting For Smoke",
+        "url": "https://open.spotify.com/album/4JqBczxo4FAt696cbtjO0D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 233499,
+      "name": "Lone Swordsman",
+      "url": "https://open.spotify.com/track/4n0Hki3RG2Fa35s5PORLIq"
     },
     {
       "added_at": "2022-07-06 16:48:39",
@@ -721,22 +753,6 @@
       "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
     },
     {
-      "added_at": "2022-03-30 15:08:41",
-      "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
-    },
-    {
       "added_at": "2022-03-30 04:41:43",
       "album": {
         "name": "Chamas Do Cerrado",
@@ -751,22 +767,6 @@
       "duration_ms": 213708,
       "name": "Vale Da Lua",
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
-    },
-    {
-      "added_at": "2023-03-03 04:07:38",
-      "album": {
-        "name": "Was Du Suchst",
-        "url": "https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc"
-      },
-      "artists": [
-        {
-          "name": "Tiefe Wasser Berlin",
-          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
-        }
-      ],
-      "duration_ms": 450120,
-      "name": "Was Du Suchst",
-      "url": "https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G"
     },
     {
       "added_at": "2022-02-25 03:33:17",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Kompod",
-      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Kompod",
+      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Oquo",
         "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 354645,
       "name": "The Clearing Pt. 2",
       "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "MP Productions - EP 1",
+        "url": "https://open.spotify.com/album/0uOT2SqsYa1IV69KqRtKhT"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        }
+      ],
+      "duration_ms": 228395,
+      "name": "Be Like Water",
+      "url": "https://open.spotify.com/track/7Cf9U4IO5YXjaNbh45sImM"
     },
     {
       "added_at": "2022-12-16 01:59:41",
@@ -999,22 +1015,6 @@
       "duration_ms": 180000,
       "name": "Eve",
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "MP Productions - EP 1",
-        "url": "https://open.spotify.com/album/0uOT2SqsYa1IV69KqRtKhT"
-      },
-      "artists": [
-        {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        }
-      ],
-      "duration_ms": 228395,
-      "name": "Be Like Water",
-      "url": "https://open.spotify.com/track/7Cf9U4IO5YXjaNbh45sImM"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
     },
     {
+      "added_at": "2022-01-13 02:57:00",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/2QWRgZxiKk6WqR7I5C75y4"
+      },
+      "artists": [
+        {
+          "name": "Sky H1",
+          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
+        }
+      ],
+      "duration_ms": 246604,
+      "name": "Elysian Heights",
+      "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
+    },
+    {
       "added_at": "2022-01-12 02:35:30",
       "album": {
         "name": "This Is An Advertisement",
@@ -1099,22 +1115,6 @@
       "duration_ms": 199666,
       "name": "Slice of Life",
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
-    },
-    {
-      "added_at": "2022-01-13 02:57:00",
-      "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/2QWRgZxiKk6WqR7I5C75y4"
-      },
-      "artists": [
-        {
-          "name": "Sky H1",
-          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
-        }
-      ],
-      "duration_ms": 246604,
-      "name": "Elysian Heights",
-      "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "I Can Hear the Birds",
-        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 262653,
-      "name": "Bundeena",
-      "url": "https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "The Alias Sessions",
         "url": "https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 320933,
       "name": "Underwater Lament",
       "url": "https://open.spotify.com/track/6CQJSBa7uo6Hr5991sVrGX"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 262653,
+      "name": "Bundeena",
+      "url": "https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN"
     },
     {
       "added_at": "2022-01-21 20:27:00",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
     },
     {
-      "added_at": "2022-01-12 18:40:19",
-      "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
-      },
-      "artists": [
-        {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
-        }
-      ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Glass Bird Movement",
@@ -1399,6 +1383,22 @@
       "duration_ms": 338734,
       "name": "Every Since And Then",
       "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
+    },
+    {
+      "added_at": "2022-01-12 18:40:19",
+      "album": {
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
+      },
+      "artists": [
+        {
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
+        }
+      ],
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2021-10-06 04:42:05",

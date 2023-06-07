@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Tina Turner",
-  "num_followers": 1123290,
+  "num_followers": 1123518,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjgzYzIzMWQ2OWQ2OTZiNDFiNjViMWZmNjMwNjkwOTg5NGJjOTU3",
+  "snapshot_id": "MCwxYzMzZGUxZTgwMGZmZjBhNjgyMDMyYTBiMjVjZTc0MzZhODdjMmM1",
   "tracks": [
     {
       "added_at": "2023-05-24 19:29:38",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
+        "name": "Damn Yankees",
+        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
+      },
+      "artists": [
+        {
+          "name": "Damn Yankees",
+          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "High Enough",
+      "url": "https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Damn Yankees",
-        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
       "artists": [
         {
-          "name": "Damn Yankees",
-          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 287320,
-      "name": "High Enough",
-      "url": "https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q"
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Dr. Feelgood (2021 - Remaster)",
         "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 310933,
       "name": "Love Walks In",
       "url": "https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "In The Heart Of The Young",
-        "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
-      },
-      "artists": [
-        {
-          "name": "Winger",
-          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
         "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 270186,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "In The Heart Of The Young",
+        "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
+      },
+      "artists": [
+        {
+          "name": "Winger",
+          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Wake Me When It's Over",
-        "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
+        "name": "Wings Of Tomorrow",
+        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
       },
       "artists": [
         {
-          "name": "Faster Pussycat",
-          "url": "https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 344613,
-      "name": "House of Pain",
-      "url": "https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw"
+      "duration_ms": 246733,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Wings Of Tomorrow",
-        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
+        "name": "Wake Me When It's Over",
+        "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Faster Pussycat",
+          "url": "https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7"
         }
       ],
-      "duration_ms": 246733,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
+      "duration_ms": 344613,
+      "name": "House of Pain",
+      "url": "https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Sheriff",
-        "url": "https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V"
-      },
-      "artists": [
-        {
-          "name": "Sheriff",
-          "url": "https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d"
-        }
-      ],
-      "duration_ms": 238040,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Treasure Chest (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 233360,
       "name": "Forever & One",
       "url": "https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Sheriff",
+        "url": "https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V"
+      },
+      "artists": [
+        {
+          "name": "Sheriff",
+          "url": "https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d"
+        }
+      ],
+      "duration_ms": 238040,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
     },
     {
       "added_at": "2023-05-24 19:29:38",

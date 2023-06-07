@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-727 songs - 1 day 13 hr 24 min
+728 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Angelito](https://open.spotify.com/track/7ozJ4D8Cy4DtoFRmoRZFVJ) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Angelito](https://open.spotify.com/album/5ppxmUR9iGaKld3k4ZLISH) | 3:23 | 2022-07-07 | 2022-07-18 |
 | [Another Life \(feat\. FLETCHER & Josh Golden\)](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Another Life](https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr) | 2:42 | 2021-12-16 | 2022-07-29 |
 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 | 2022-03-24 | 2022-04-17 |
-| [Anti\-Hero](https://open.spotify.com/track/02Zkkf2zMkwRGQjZ7T4p8f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:20 | 2022-10-27 |  |
+| [Anti\-Hero](https://open.spotify.com/track/02Zkkf2zMkwRGQjZ7T4p8f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:20 | 2022-10-27 | 2023-06-07 |
 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-03-24 | 2022-04-21 |
 | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/track/3sZWxtVuRc1Iet6ELwRz43) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/album/1I8e5aPdqwrP3UJUMyaOMD) | 3:58 | 2022-03-24 | 2022-03-28 |
@@ -631,6 +631,7 @@
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-27 |  |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-27 | 2023-03-31 |
 | [The Ballet Girl](https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I) | 3:21 | 2022-11-28 | 2023-01-06 |
+| [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 | 2023-05-11 |  |
 | [The Best Days \(feat\. Tabitha\)](https://open.spotify.com/track/140XpWSdJ0jZEbLj9iVnPA) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [The Best Days \(feat\. Tabitha\)](https://open.spotify.com/album/2rK1aKulqPu5DydpbYfLnZ) | 2:41 | 2022-03-24 | 2022-04-15 |
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-24 | 2022-04-21 |
 | [The Difference](https://open.spotify.com/track/5Cbc3v4DKzrwQAv3hlA9Hn) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [The Difference](https://open.spotify.com/album/6xgSmmAAK2Yd0kLYUelbYk) | 3:30 | 2021-12-16 | 2022-04-21 |

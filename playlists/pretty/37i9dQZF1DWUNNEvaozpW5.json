@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Viva Suecia.",
-  "num_followers": 554674,
+  "num_followers": 554795,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTFjYzgyMjM5MGI1ZDYyNWZkZmE3YzdhZjZmY2I4OTFjYmUxZGI5",
+  "snapshot_id": "MCw3ZDU0NjI5NmI5MjE0ZGJmNDA1Y2MwOGI5OTI2NGJjMjU1MDU1Y2E4",
   "tracks": [
     {
       "added_at": "2023-06-01 22:01:00",
@@ -567,22 +567,18 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+        "name": "Besos de Perro",
+        "url": "https://open.spotify.com/album/3ZaBh55fphLCCkgYdsWMyz"
       },
       "artists": [
         {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        },
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Mucho mejor (feat. Coque Malla)",
-      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
+      "duration_ms": 267186,
+      "name": "La luna me sabe a poco",
+      "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -603,18 +599,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Besos de Perro",
-        "url": "https://open.spotify.com/album/3ZaBh55fphLCCkgYdsWMyz"
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
       "artists": [
         {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        },
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
         }
       ],
-      "duration_ms": 267186,
-      "name": "La luna me sabe a poco",
-      "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
+      "duration_ms": 234800,
+      "name": "Mucho mejor (feat. Coque Malla)",
+      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Insurreccion (En Directo)",
-        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Insurreccion (En Directo)",
-      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 400480,
       "name": "Por verte sonre\u00edr",
       "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Ese d\u00eda piensa en m\u00ed",
+        "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
+      },
+      "artists": [
+        {
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Dolores se llamaba Lola",
+      "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 
 > Re\-live the glory of Ambient from the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,436 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,490 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 12 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |
 | 13 | [Blooded and Blossom\-blown](https://open.spotify.com/track/15x9WXAz8YHrGfibgsirdN) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 6:07 |
 | 14 | [Saguaro](https://open.spotify.com/track/6k9epHaioQVz1PHdgCu3Oj) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Suspended Memories](https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6), [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Forgotten Gods](https://open.spotify.com/album/5zHP5vjdv8V7bUYKW7w9zW) | 5:23 |
-| 15 | [12:18](https://open.spotify.com/track/4GgIxF4YtxQl8Dj9MJIjOA) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 12:17 |
+| 15 | [12:18](https://open.spotify.com/track/2Z93oXOAFAqkH0bQeVHdQ0) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 12:18 |
 | 16 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 |
 | 17 | [A Smooth Surface \(Edit\)](https://open.spotify.com/track/4QcvTUmmzXrr3kwQ30jGeX) | [A Produce](https://open.spotify.com/artist/0BtlYa6Mov8Ike1JmPE1dt) | [Reflect Like A Mirror, Respond Like An Echo](https://open.spotify.com/album/5xecJxSkuzwT2DruccuBIN) | 1:24 |
 | 18 | [Ambient Guitar \- Demo Version](https://open.spotify.com/track/7CKZvtrkkUgN6cRJzyYVeg) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 5:50 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 40 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 |
 | 41 | [Where We Lived](https://open.spotify.com/track/7wR6WVfGqUZrk8cQRJec38) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Spinner](https://open.spotify.com/album/2Vknz1aNeu8ntZdTxwHZyo) | 3:00 |
 | 42 | [Slip, Dip](https://open.spotify.com/track/0WEw3j0294lP22HJsePQLJ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Drop \(Expanded Edition\)](https://open.spotify.com/album/4sZvfu1CSNQg7qbYWLKyb5) | 2:18 |
-| 43 | [4:14](https://open.spotify.com/track/5snT0KvkN7Ty0oiVyxZMfE) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 4:15 |
+| 43 | [4:14](https://open.spotify.com/track/1NBVSiaJ750DBKnd4lhKWk) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 4:14 |
 | 44 | [\#3](https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:44 |
 | 45 | [Mir](https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 5:18 |
 | 46 | [Königsforst 4](https://open.spotify.com/track/5MuALdhNK3zg1u8nvrMPv7) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Königsforst](https://open.spotify.com/album/250sWScTPsQKWAY9s7Oufy) | 6:30 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 52 | [babysbreath](https://open.spotify.com/track/7Cwt68khwNZg4yc9enbjsY) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BG7NoX84aiRFWseVIS8eA) | 3:51 |
 | 53 | [Laika](https://open.spotify.com/track/7zFv2VmCMIQR2S9bTJ5KEY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 14:34 |
 | 54 | [Garden Recalled](https://open.spotify.com/track/0gpKR0EMqUvz9IHe2coSwj) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Spinner](https://open.spotify.com/album/2Vknz1aNeu8ntZdTxwHZyo) | 3:21 |
-| 55 | [9:25](https://open.spotify.com/track/3CJdVCB0MjIzJWWebjxRQQ) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 9:34 |
+| 55 | [9:25](https://open.spotify.com/track/1bOOE6hznd9IhYTJYpcOHs) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 9:25 |
 | 56 | [Triennale](https://open.spotify.com/track/38nfIggcQfUciYWCkdsyLa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly \(Expanded Edition\)](https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6) | 4:06 |
 | 57 | [\#11](https://open.spotify.com/track/1J9HzZ1mPuFafLSTRU2a6F) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:18 |
 | 58 | [Elemental Trigger](https://open.spotify.com/track/0DiCvcIVLY6QFywmplnFM6) | [B\. Lustmord](https://open.spotify.com/artist/017eqDZ4BqpQBzNvrs9TJJ), [Robert Rich](https://open.spotify.com/artist/3ux92I3CgfnhgLyYNsXIwZ) | [Stalker](https://open.spotify.com/album/5ahSHZWxt6rDEqBc3oF3Eh) | 6:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 69 | [Circle \- 1996 Remix](https://open.spotify.com/track/1RNDTmjsiekXqaOJejZaFb) | [Rapoon](https://open.spotify.com/artist/3rZRPN25ZcxuWzcBPgYPYn) | [Recurring \(Dream Circle\)](https://open.spotify.com/album/4zBhwNhgPvprOw2FwawvKZ) | 8:25 |
 | 70 | [Phaze](https://open.spotify.com/track/6BA4U2AJ2So49LRolXPuLI) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu), [Tim Floyd](https://open.spotify.com/artist/6kq8fkuEqOfcqZhUHa69KG) | [Drift](https://open.spotify.com/album/1ZP8ZRPWDYfj6aGWtJua11) | 1:30 |
 
-Snapshot ID: `MCw1YWE3NjhlNTJlY2I4NDY1ODlhM2QwMTUxNjZiNTdiMTFhMWI2ZGNi`
+Snapshot ID: `MCw5OWMyMDViYmJiNjhlYmI5NTRiZTlmNWIxZDUyYmFlMGIxMDdkYWI5`

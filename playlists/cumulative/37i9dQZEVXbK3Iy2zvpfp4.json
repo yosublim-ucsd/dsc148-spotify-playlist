@@ -893,6 +893,28 @@
     },
     {
       "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
       },
@@ -1751,6 +1773,32 @@
     },
     {
       "album": {
+        "name": "BALADINHA SINISTRA",
+        "url": "https://open.spotify.com/album/4VtwEXsNAQ9n5dekSnzhsO"
+      },
+      "artists": [
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        },
+        {
+          "name": "$pidxrs?808",
+          "url": "https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118646,
+      "name": "BALADINHA SINISTRA",
+      "url": "https://open.spotify.com/track/6wntHk37oMHAqt71RrZOeF"
+    },
+    {
+      "album": {
         "name": "Idegen, Vol. 1.",
         "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
       },
@@ -1890,7 +1938,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 169852,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
@@ -4024,7 +4072,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -5764,6 +5812,24 @@
       "duration_ms": 124768,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6JAB3Ip1fJvc0qQjJ72bJa"
+    },
+    {
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "FELDOBOM A K\u00d6VET",
+      "url": "https://open.spotify.com/track/69tDcXG8O8BZ8jTTzySi4Q"
     },
     {
       "album": {
@@ -10555,6 +10621,24 @@
     },
     {
       "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "album": {
         "name": "Zanaka",
         "url": "https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb"
       },
@@ -10566,7 +10650,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 249533,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
@@ -10660,7 +10744,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 154888,
       "name": "Mama \u0160\u010c!",
       "url": "https://open.spotify.com/track/7hcPebUUvJDRH6BhjZ5xEZ"
@@ -11770,6 +11854,24 @@
       "duration_ms": 178573,
       "name": "Montagem - Conga Conga (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/5olB6tpqsJ9W8AX6HdWQd5"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
+        "url": "https://open.spotify.com/album/2uXRznzlQXF6TXkrYVO7zA"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83576,
+      "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
+      "url": "https://open.spotify.com/track/371eYP4pjqR2C0Vw38u0uk"
     },
     {
       "album": {
@@ -15057,6 +15159,24 @@
     },
     {
       "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161240,
+      "name": "Queencard",
+      "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
+    },
+    {
+      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -15698,7 +15818,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 156781,
       "name": "S tebou",
       "url": "https://open.spotify.com/track/3hEkAArF6wAyQEWuR80YRr"
@@ -16806,7 +16926,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 150926,
       "name": "Slzy",
       "url": "https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf"
@@ -16868,10 +16988,28 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 223986,
       "name": "Smooth Operator (Deep House Version)",
       "url": "https://open.spotify.com/track/6fCPhKlaucFdoxkX4vavNh"
+    },
+    {
+      "album": {
+        "name": "Smooth Operator",
+        "url": "https://open.spotify.com/album/51pLeptQs24bS9CswmHLHp"
+      },
+      "artists": [
+        {
+          "name": "Musique Boutique",
+          "url": "https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221982,
+      "name": "Smooth Operator - Deep House Version",
+      "url": "https://open.spotify.com/track/6gkdWaZS8wCuv2fwB1f4v8"
     },
     {
       "album": {
@@ -18545,6 +18683,24 @@
     },
     {
       "album": {
+        "name": "The Lost Soul Down (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk"
+      },
+      "artists": [
+        {
+          "name": "NBSPLV",
+          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241111,
+      "name": "The Lost Soul Down - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw"
+    },
+    {
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7"
       },
@@ -19378,7 +19534,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 154531,
       "name": "Ty (Tom\u00e1\u0161)",
       "url": "https://open.spotify.com/track/0SLY2yQqEl5s3pJ2QggjUA"
@@ -20092,6 +20248,28 @@
       "duration_ms": 132133,
       "name": "W.I.T.C.H.",
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/4F1iNCnuJSR2ydz9vEt0wO"
+      },
+      "artists": [
+        {
+          "name": "Fobia Kid",
+          "url": "https://open.spotify.com/artist/6qtdtH7BAqRMiG7d3djqta"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166708,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/55spL5CkRMLeP3QCmi07e0"
     },
     {
       "album": {
@@ -21640,7 +21818,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 178288,
       "name": "\u0422\u0430\u043d\u0446\u044b",
       "url": "https://open.spotify.com/track/4rSvNQcgKfv8jQXSNLpL1Q"

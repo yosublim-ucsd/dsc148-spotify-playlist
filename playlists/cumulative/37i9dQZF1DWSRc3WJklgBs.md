@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,134 songs - 2 day 18 hr 31 min
+1,135 songs - 2 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,7 +663,8 @@
 | [More Than Love](https://open.spotify.com/track/5jKBeCGXJtGfDh44F0K7cv) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ), [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8) | [Four Corners](https://open.spotify.com/album/0mMsGK8z8jxpERvJ5GPkEO) | 2:12 | 2019-08-09\* | 2019-09-14 |
 | [Morning View](https://open.spotify.com/track/04W1uPEqrMu7jrqe69hRxk) | [The Blizzard](https://open.spotify.com/artist/40lHcSYwAqhkmBPoViitWP) | [Morning View / U N I](https://open.spotify.com/album/6QRWn0F29P3URP6GapPt1y) | 2:58 | 2019-08-09\* | 2020-03-29 |
 | [Moving Mountains \- GATTÜSO Remix](https://open.spotify.com/track/3qBnc1nWty6LjPIjXuAigw) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Ollie Green](https://open.spotify.com/artist/2PCKbRUI5rGUwOkGXX2W5U) | [Moving Mountains \(GATTÜSO Remix\)](https://open.spotify.com/album/6hRLYBhLDBrtPBwNMHJbvZ) | 3:02 | 2019-08-09\* | 2019-08-27 |
-| [Moving On](https://open.spotify.com/track/7r1tJrG00pgUbVioN1hbzf) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Moving On](https://open.spotify.com/album/6kbw2wcLnY2oUY5vkNmAg9) | 3:21 | 2023-02-10 |  |
+| [Moving On](https://open.spotify.com/track/0S39nPBH7vqhobY6Bn2LOX) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:21 | 2023-05-26 |  |
+| [Moving On](https://open.spotify.com/track/7r1tJrG00pgUbVioN1hbzf) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Moving On](https://open.spotify.com/album/6kbw2wcLnY2oUY5vkNmAg9) | 3:21 | 2023-02-10 | 2023-06-07 |
 | [Music Rescues Me](https://open.spotify.com/track/51OKLPkeBryHaauCtddqi3) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Music Rescues Me](https://open.spotify.com/album/6WVLSevpKyBlUjRVtzWNPK) | 4:02 | 2019-08-09\* | 2019-09-14 |
 | [My Best Life \(feat\. Mike Waters\)](https://open.spotify.com/track/5kldIyD365H9iq8Cz1Jb5F) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Mike Waters](https://open.spotify.com/artist/35rZNMlMkBs7ghHmGKt0xq) | [My Best Life \(feat\. Mike Waters\)](https://open.spotify.com/album/57lxvNz7Fp3hHNtXspUkjC) | 3:32 | 2019-08-31 | 2020-10-30 |
 | [My Heart Is Your Heart \- Club Edit](https://open.spotify.com/track/2FqevXNVpzGd1jDhto40vC) | [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7), [Kid Alina](https://open.spotify.com/artist/3pgWYjWRZCFgIfywQq9IhQ) | [My Heart Is Your Heart \(Club Edit\)](https://open.spotify.com/album/0DiNAeiIpiUOYLVhZtadWk) | 3:19 | 2020-06-04 | 2021-09-11 |

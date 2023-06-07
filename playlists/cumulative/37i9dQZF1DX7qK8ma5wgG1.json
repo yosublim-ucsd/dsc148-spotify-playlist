@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 192000,
       "name": "if you ask me to",
       "url": "https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L"
@@ -2893,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220120,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/1z7PADWKXVsbEitOVLlC69"
+    },
+    {
+      "album": {
         "name": "To Love A Man",
         "url": "https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU"
       },
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
@@ -2998,6 +3016,24 @@
       "duration_ms": 199395,
       "name": "Two Places at Once",
       "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
+    },
+    {
+      "album": {
+        "name": "Two Weeks Ago",
+        "url": "https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179453,
+      "name": "Two Weeks Ago",
+      "url": "https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb"
     },
     {
       "album": {

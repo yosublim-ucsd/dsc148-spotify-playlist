@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,611 likes - 75 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,729 likes - 75 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 70 | [Date un Chance](https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:46 |
 | 71 | [El Baile del Suavecito](https://open.spotify.com/track/6LIFpEqZJ9V9p8RmGgcKOv) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [2 Generaciones de Salsa](https://open.spotify.com/album/7GHCAfsYzVhEDDJIwdGV7F) | 5:10 |
 | 72 | [Sonrrisas](https://open.spotify.com/track/7mTRA1UyxPQc2liY4qRXHQ) | [los ineditos](https://open.spotify.com/artist/5XrqZ5imrG2Vo7TDkfsNhk) | [Sabor y Ritmo Internacional](https://open.spotify.com/album/17qp5GQMNus3cV8I0UsMJi) | 5:23 |
-| 73 | [Esa Mujer](https://open.spotify.com/track/6Hy15JctLui5HYK03s5oT6) | [Alex Leon](https://open.spotify.com/artist/5psRZB6rHWyHpsIiJUUX7r) | [Exitos de Alex Leon](https://open.spotify.com/album/7cKeslZWAgVWOsHAXpGhfs) | 4:45 |
-| 74 | [Máximo Chamorro](https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Simplemente..\. Lalo](https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E) | 7:38 |
+| 73 | [Máximo Chamorro](https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Simplemente..\. Lalo](https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E) | 7:38 |
+| 74 | [Esa Mujer](https://open.spotify.com/track/6Hy15JctLui5HYK03s5oT6) | [Alex Leon](https://open.spotify.com/artist/5psRZB6rHWyHpsIiJUUX7r) | [Exitos de Alex Leon](https://open.spotify.com/album/7cKeslZWAgVWOsHAXpGhfs) | 4:45 |
 | 75 | [Vasos De Colores](https://open.spotify.com/track/4Bg55jW2gCF4YOLYVErCOT) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Serie Sensacional: Marvin Santiago](https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN) | 5:31 |
 
-Snapshot ID: `MCxkNjQyZTA5YTE0MTc4NmE3ZDk0ZmU5ODE0ZjE1OWRlM2VhNDJkZjY1`
+Snapshot ID: `MCwzMzVjMjE2NmRiNDUyZjEzY2EyYmJhMmE2ODIwNWExYWIzYzcxYzFi`

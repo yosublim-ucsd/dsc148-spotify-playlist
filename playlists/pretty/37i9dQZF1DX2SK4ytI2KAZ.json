@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 695220,
+  "num_followers": 695290,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDA0NmEyNjE0ZGZjMjA0MGQwYTZkZTgwYzQ0ZjM4ZGI3YzI1Yzhi",
+  "snapshot_id": "MCxjYTZlZjVlZjMxN2IwNTQyYzA3NGRlZjE1ZmUzZjNlY2VhOTQ1OGMz",
   "tracks": [
     {
       "added_at": "2023-05-31 15:54:42",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
+        "name": "sun keeps on shining",
+        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "sun keeps on shining",
+      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
+    },
+    {
+      "added_at": "2023-05-31 15:54:42",
+      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
-    },
-    {
-      "added_at": "2023-05-31 15:54:42",
-      "album": {
-        "name": "sun keeps on shining",
-        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "sun keeps on shining",
-      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
-        "name": "The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Van Horn",
-      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
-    },
-    {
-      "added_at": "2023-05-31 15:54:42",
-      "album": {
         "name": "Something Like This",
         "url": "https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 198019,
       "name": "Something Like This",
       "url": "https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R"
+    },
+    {
+      "added_at": "2023-05-31 15:54:42",
+      "album": {
+        "name": "The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Van Horn",
+      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
+        "name": "Further Joy",
+        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Barely on My Mind",
+      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+    },
+    {
+      "added_at": "2023-05-31 15:54:42",
+      "album": {
         "name": "Hello, All!",
         "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 206640,
       "name": "Nobody (feat. dodie)",
       "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
-    },
-    {
-      "added_at": "2023-05-31 15:54:42",
-      "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Barely on My Mind",
-      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
+        "name": "Youth is Only Ever Fun in Retrospect",
+        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
+    },
+    {
+      "added_at": "2023-05-31 15:54:42",
+      "album": {
         "name": "Life's Been Good",
         "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
-        "name": "Youth is Only Ever Fun in Retrospect",
-        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/1TGwCuVPI0jQIOknItuTvc"
       },
       "artists": [
         {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+          "name": "The Heydaze",
+          "url": "https://open.spotify.com/artist/5UWH3rIlO4qbXk6PMFZEbP"
         }
       ],
-      "duration_ms": 225653,
-      "name": "She Said",
-      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
+      "duration_ms": 203586,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/4DZghpw50ZnO3ckfDuNkft"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -1175,22 +1191,6 @@
       "duration_ms": 184910,
       "name": "ALL CAPS (feat. John the Ghost)",
       "url": "https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV"
-    },
-    {
-      "added_at": "2023-05-31 15:54:42",
-      "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/1TGwCuVPI0jQIOknItuTvc"
-      },
-      "artists": [
-        {
-          "name": "The Heydaze",
-          "url": "https://open.spotify.com/artist/5UWH3rIlO4qbXk6PMFZEbP"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/4DZghpw50ZnO3ckfDuNkft"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dancing On Glass",
-      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
-    },
-    {
-      "added_at": "2023-05-31 15:54:42",
-      "album": {
         "name": "Coming of Age",
         "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
+    },
+    {
+      "added_at": "2023-05-31 15:54:42",
+      "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Dancing On Glass",
+      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
+        "name": "Adderall",
+        "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
+      },
+      "artists": [
+        {
+          "name": "Max Frost",
+          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
+        }
+      ],
+      "duration_ms": 218025,
+      "name": "Adderall",
+      "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
+    },
+    {
+      "added_at": "2023-05-31 15:54:42",
+      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2023-05-31 15:54:42",
-      "album": {
-        "name": "Adderall",
-        "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
-      },
-      "artists": [
-        {
-          "name": "Max Frost",
-          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
-        }
-      ],
-      "duration_ms": 218025,
-      "name": "Adderall",
-      "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
     },
     {
       "added_at": "2023-05-31 15:54:42",

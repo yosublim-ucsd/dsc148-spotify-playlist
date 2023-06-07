@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 219392,
       "name": "Contigo O Sin Ti - Live",
       "url": "https://open.spotify.com/track/2kc7Pt2nFRPCEvFB2WR7l0"
@@ -958,6 +958,24 @@
       "duration_ms": 213542,
       "name": "More Than Words - Spotify Singles",
       "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200612,
+      "name": "Necesito Encontrarte",
+      "url": "https://open.spotify.com/track/4pWSqqoKJZm5nxxzPFd0o6"
     },
     {
       "album": {

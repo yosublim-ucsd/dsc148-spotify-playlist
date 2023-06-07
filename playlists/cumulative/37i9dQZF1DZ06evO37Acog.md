@@ -4,7 +4,7 @@
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 23 min
+85 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [La Miedosa](https://open.spotify.com/track/6bzNLOc4Gpxj2MakSFVmyq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Triste Recuerdo \(Aferrado Por Ti\)](https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS) | 3:17 | 2023-03-07 |  |
 | [La Rama Del Mezquite](https://open.spotify.com/track/1UNqn7QxAZFGlaHqKOK1tp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 3:43 | 2022-06-01 |  |
 | [La Vecina Me Puso El Dedo \- \(En Vivo\)](https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:50 | 2022-06-01 |  |
+| [Lamento Vallenato](https://open.spotify.com/track/7aHajo5HTUrU5ZYZuhrbF4) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quémame Los Ojos \(Remasterizado\)](https://open.spotify.com/album/6fhPiiOb9ptKqk6dBFEWG1) | 2:47 | 2023-06-06 |  |
 | [Linda Chiquilla \- \(En Vivo\)](https://open.spotify.com/track/3P1s3K8V03Dhwq4o6LDAWH) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:03 | 2022-06-01 | 2023-02-22 |
 | [Llegaste Tu](https://open.spotify.com/track/0TfW20hfAW1DxHkeiKN8R5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 2:51 | 2022-07-11 | 2023-02-14 |
 | [Llegaste Tú](https://open.spotify.com/track/1QD2rHcwpS0XqIrKbSvONX) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:52 | 2022-06-30 | 2022-07-03 |
@@ -54,7 +55,7 @@
 | [Me Llega, Me Llega](https://open.spotify.com/track/4IfVVQ9w59vx0eoepbO9Mu) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [\(DE LA PELICULA\) DINASTIA DE LA MUERTE \(Grabación Original Remasterizada\)](https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs) | 3:32 | 2022-06-01 |  |
 | [Me Puso El Dedo](https://open.spotify.com/track/1iCVU73Xs9tj0tZI0j4Tun) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Gaviota](https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy) | 3:35 | 2023-01-31 | 2023-05-03 |
 | [Me Sacaron del Tenampa](https://open.spotify.com/track/1D6YQw9yPionscrYA1wycI) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Las Alas De Un Angel](https://open.spotify.com/album/5GkrB7ooBMxKFvOM4LCQep) | 2:37 | 2022-06-01 | 2022-06-28 |
-| [Me Sacaron Del Tenampa](https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 2:57 | 2022-06-28 |  |
+| [Me Sacaron Del Tenampa](https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 2:57 | 2022-06-28 | 2023-06-07 |
 | [Mi Golondrina](https://open.spotify.com/track/28cEjHqqh494m594SwLyvt) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 2:51 | 2023-01-06 |  |
 | [Mi Golondrina \- En Vivo](https://open.spotify.com/track/1oXTiFmljKee2o6tmOO8sR) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 2:58 | 2022-06-01 | 2023-01-07 |
 | [Mi Piquito De Oro](https://open.spotify.com/track/3GhDnfO7J3zLTswYYrQFnP) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [MI PIQUITO DE ORO \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr) | 2:08 | 2022-06-01 |  |

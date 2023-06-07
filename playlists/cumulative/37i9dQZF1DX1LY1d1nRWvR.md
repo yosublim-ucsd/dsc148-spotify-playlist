@@ -4,7 +4,7 @@
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-70 songs - 6 hr 16 min
+71 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Eye Mo K](https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz) | 5:42 | 2021-10-08 |  |
 | [Fate](https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Fate](https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G) | 5:31 | 2021-10-08 | 2023-05-24 |
 | [Frog Fractions](https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe) | 4:40 | 2021-10-08 | 2023-03-19 |
+| [Golden Gai](https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Jonoa](https://open.spotify.com/artist/5LQIuS4eO4Gx8Nc2qCXhAl), [Rachel Shirley](https://open.spotify.com/artist/5Hy4oRldFJc1zGOOrmjW0r) | [Boro](https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB) | 5:52 | 2021-10-08 |  |
 | [Golden Gai](https://open.spotify.com/track/57U4RtkzOsK0vIVc6lu8ez) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Jonoa](https://open.spotify.com/artist/6br5gZuWFULycPE9ePuqk1), [Rachel Shirley](https://open.spotify.com/artist/6B8GzjIukc5DrGu32pabAI) | [Boro](https://open.spotify.com/album/3PZz5CUq6iaaSReo5O7Yko) | 5:52 | 2021-10-08 | 2023-03-10 |
 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 | 2021-10-08 |  |
 | [Jazz 104](https://open.spotify.com/track/32rOcuTIZZTNWdsrUWGCJ6) | [Max Graef](https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55) | [Rivers Of The Red Planet](https://open.spotify.com/album/11c0YSZe2AXCX2s5r0KFP7) | 1:07 | 2021-10-08 |  |
@@ -48,7 +49,7 @@
 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 | 2021-10-08 |  |
 | [Nyiri](https://open.spotify.com/track/6Yyyghn9wTZNL8RZ3Es0HF) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage](https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji) | 4:05 | 2021-10-08 |  |
 | [Oh I Miss Her So](https://open.spotify.com/track/5psuezepdKbS4Iwl8kRY7M) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 4:11 | 2021-10-08 |  |
-| [Piña Colada](https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie Seivwright](https://open.spotify.com/artist/1iyQnonWJYO8XSOkWQITUH) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:59 | 2021-10-08 |  |
+| [Piña Colada](https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie Seivwright](https://open.spotify.com/artist/1iyQnonWJYO8XSOkWQITUH) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:59 | 2021-10-08 | 2023-06-07 |
 | [Puppets](https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD) | [Jane Maximova](https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt) | [Equinox](https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h) | 4:58 | 2021-10-08 |  |
 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 | 2021-10-08 |  |
 | [Salaam](https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [The Return](https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N) | 8:33 | 2021-10-08 |  |

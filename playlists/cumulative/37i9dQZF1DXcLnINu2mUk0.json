@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 225781,
       "name": "Chopper",
       "url": "https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn"
@@ -1912,6 +1912,24 @@
       "duration_ms": 191341,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0tlyCwXSCXP5fsGM4OrHzl"
+    },
+    {
+      "album": {
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/6nwjnNxf2eMJ9WX1uloWqw"
+      },
+      "artists": [
+        {
+          "name": "Pipa",
+          "url": "https://open.spotify.com/artist/03zNTLE7XHchSSzU4gOYDN"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0Vp42FK6x0ydHLT7T9OHyS"
     },
     {
       "album": {

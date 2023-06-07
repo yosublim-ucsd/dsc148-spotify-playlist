@@ -982,7 +982,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 204880,
       "name": "In the Bleak Midwinter",
       "url": "https://open.spotify.com/track/0f0QKHOvwpcLuIe7nUjY6m"
@@ -1008,6 +1008,28 @@
       "duration_ms": 204880,
       "name": "In the Bleak Midwinter",
       "url": "https://open.spotify.com/track/6eIlh4r8kaTAs3YQcSHkzu"
+    },
+    {
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/21G2Mj8q3H4CFNrkBo6f0Y"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        },
+        {
+          "name": "Hannah Grace",
+          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "In the Bleak Midwinter",
+      "url": "https://open.spotify.com/track/7eMwsPetzlSK8uBTgQGPBL"
     },
     {
       "album": {

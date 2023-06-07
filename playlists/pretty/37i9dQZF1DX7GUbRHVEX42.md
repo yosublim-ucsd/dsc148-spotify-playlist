@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best current contemporary Reggae\. Cover: Beres Hammond & Sean Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,697 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,761 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 58 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
 | 59 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
 | 60 | [Allow Me to Live](https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Allow Me to Live](https://open.spotify.com/album/1KWipvpvLEgb0Lnozzyhib) | 3:03 |
-| 61 | [Message Of Love](https://open.spotify.com/track/3Vr6JTctfPeDOVAEc6TJbj) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [House Of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Message Of Love](https://open.spotify.com/album/1lLiwJF55HL5rfIZLD09Ve) | 3:08 |
-| 62 | [Woman](https://open.spotify.com/track/6N37hPucYSTkj59pOnOkuW) | [The Kemist](https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Woman](https://open.spotify.com/album/1xKNKZOiZkU4GWPfpfPGNV) | 3:18 |
+| 61 | [Woman](https://open.spotify.com/track/6N37hPucYSTkj59pOnOkuW) | [The Kemist](https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Woman](https://open.spotify.com/album/1xKNKZOiZkU4GWPfpfPGNV) | 3:18 |
+| 62 | [Message Of Love](https://open.spotify.com/track/3Vr6JTctfPeDOVAEc6TJbj) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [House Of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Message Of Love](https://open.spotify.com/album/1lLiwJF55HL5rfIZLD09Ve) | 3:08 |
 | 63 | [Lift Our Spirits, Raise Our Voice](https://open.spotify.com/track/7K8nggstlxeOpmmsgAWqoy) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Lift Our Spirits, Raise Our Voice](https://open.spotify.com/album/2s2sWaRzbATbcc9e4f3oLD) | 3:56 |
 | 64 | [How Could You](https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Six Miles Riddim](https://open.spotify.com/album/26F2DJwryT3drRoc3EVuby) | 3:47 |
 | 65 | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/track/3d4915A5zEWBfi1dbDDbWS) | [Raging Fyah](https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N), [Josey Wales](https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC) | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/album/3TBmA9ViKmFCyfNbDdJqrh) | 4:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 69 | [Mama's Prayer](https://open.spotify.com/track/12zOHhw84rjzStFU9EJDgs) | [Zagga](https://open.spotify.com/artist/7kxhAigiReN4qjtyOZPeg5) | [Mama's Prayer](https://open.spotify.com/album/1VG17Zkbog3ddUDLcu5P43) | 3:14 |
 | 70 | [Same So](https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Same So](https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq) | 3:28 |
 
-Snapshot ID: `MCwxODdjNjUwOTQ4MWVmMzlkZThkNmM1Y2VmYWU5Mzk3NWU5NTZmYjlj`
+Snapshot ID: `MCxkOWU5ZDZiNTZiZWJlOWEwY2E2ODhhN2M2ZjliMmZkYWI0ZGIwMGY5`

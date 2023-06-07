@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 41521,
+  "num_followers": 41573,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGU2YTAxMjZlNDBlMzU1ZTM0NzQwNGQ0YzE0NDU2OTExNTdkNDg1",
+  "snapshot_id": "MCw4ZmVmZTk3YmJmMjk5YTA1MmYwODFkNTk4Nzk4MjRjNjcwNjc2OGFh",
   "tracks": [
     {
       "added_at": "2023-04-21 10:26:47",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 262869,
       "name": "Broken & Blue (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "The Chicago Way",
-        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
-      },
-      "artists": [
-        {
-          "name": "Toronzo Cannon",
-          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "When Will You Tell Him About Me?",
-      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 259733,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "The Chicago Way",
+        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
+      },
+      "artists": [
+        {
+          "name": "Toronzo Cannon",
+          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "When Will You Tell Him About Me?",
+      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Marshall Texas Is My Home",
-        "url": "https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb"
-      },
-      "artists": [
-        {
-          "name": "Floyd Dixon",
-          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Hard Living Alone",
-      "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Roll and Tumble",
         "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 205182,
       "name": "Sometimes I Worry",
       "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Marshall Texas Is My Home",
+        "url": "https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb"
+      },
+      "artists": [
+        {
+          "name": "Floyd Dixon",
+          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Hard Living Alone",
+      "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
     },
     {
       "added_at": "2023-04-21 10:26:47",

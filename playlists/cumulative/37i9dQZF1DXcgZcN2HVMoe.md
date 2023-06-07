@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-704 songs - 1 day 18 hr 3 min
+705 songs - 1 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 | 2021-12-17 | 2022-07-26 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/4LTOzL6JsnQBifmpsbo9a5) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Guitar Acoustic\)](https://open.spotify.com/album/58wAIiRLQ5q2yMN76ys9F2) | 3:32 | 2022-01-24 | 2022-04-17 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-07-22 |  |
+| [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2023-04-28 |  |
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-02-01 | 2022-04-21 |
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2021-12-17 |  |
@@ -660,7 +661,7 @@
 | [Waiting](https://open.spotify.com/track/6Hfm61e7tVpekos96WUa1T) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Hearts That Strain](https://open.spotify.com/album/0ym0XWkjGC3NpYMl0xD2NR) | 3:11 | 2022-01-24 | 2022-04-20 |
 | [Waiting \- Demo](https://open.spotify.com/track/6sqjaO9q52sNKJ8S4x53DD) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Waiting \(Demo\)](https://open.spotify.com/album/1wncWM9JUHEyyo83zellqP) | 1:41 | 2021-12-17 |  |
 | [Waking Up Slow \- Piano](https://open.spotify.com/track/7E9QA6hL8Ebk0yHXeV1UIB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Waking Up Slow \(Piano\)](https://open.spotify.com/album/2dYnQR7W5ptqvQRXCmcT59) | 3:41 | 2021-12-17 | 2022-04-21 |
-| [Waking up Slow \- Piano Version](https://open.spotify.com/track/4IRVhjtmLRLt6WR3ICNR6X) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Waking up Slow \(Piano Version\)](https://open.spotify.com/album/1BZl757T86An7GGdnE1WtN) | 3:41 | 2022-07-29 |  |
+| [Waking up Slow \- Piano Version](https://open.spotify.com/track/4IRVhjtmLRLt6WR3ICNR6X) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Waking up Slow \(Piano Version\)](https://open.spotify.com/album/1BZl757T86An7GGdnE1WtN) | 3:41 | 2022-07-29 | 2023-06-07 |
 | [Waking up Slow \- Piano Version](https://open.spotify.com/track/4NkIYlfobkqS2hALHTIUV9) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Waking up Slow \(Piano Version\)](https://open.spotify.com/album/6qPtRqNuDGUgBVlU2AQFz1) | 3:41 | 2022-07-22 | 2022-10-13 |
 | [Walking Home to You](https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 3:59 | 2021-12-17 | 2022-04-15 |
 | [Wanted \(Acoustic\)](https://open.spotify.com/track/1KZaVU9QspHnzNT3NgH9Tg) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Carmen Justice](https://open.spotify.com/artist/2JrDkW63FG9GotlYtmuwTs) | [Wanted \(Acoustic\)](https://open.spotify.com/album/48VjpRGLXZxgmmTTMTFowz) | 2:18 | 2022-01-24 | 2022-04-16 |

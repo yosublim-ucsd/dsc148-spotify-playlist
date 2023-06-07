@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Haller
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,933 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,958 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 47 | [Niemals Hatten](https://open.spotify.com/track/7waaOnxlxV89bfwToXa5z3) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [LEVIN LIAM LEAKS 2023](https://open.spotify.com/album/4BssOFPrpM2urmZK7JOQ43) | 1:32 |
 | 48 | [Girls](https://open.spotify.com/track/1ekbaHcYd9fUMvRVWT1IHF) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Girls](https://open.spotify.com/album/3iQ4meV1NB6JdhEEKm05CL) | 3:08 |
 | 49 | [Eisbär](https://open.spotify.com/track/70qssJO5Jilo4V3AKCg85N) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Nähe/Distanz](https://open.spotify.com/album/5UpW2anQUYiOwt0X6HGYiK) | 2:09 |
-| 50 | [Akademie der bildenden Künste](https://open.spotify.com/track/2Fdlm11Yt6g7Hk9CRKZGqq) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Wiener Schickeria](https://open.spotify.com/album/4czKDXmW22XoBTHqHQ6xha) | 2:46 |
+| 50 | [Akademie der bildenden Künste](https://open.spotify.com/track/6uQAZMFNPejBdiRnp6F03D) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Wiener Schickeria](https://open.spotify.com/album/2PTfiTtj8qymWaeHFEFZWQ) | 2:46 |
 | 51 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 |
 | 52 | [Wärs ok?](https://open.spotify.com/track/0MnoWZ4toEV0ScWX3r1fFy) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Wärs ok?](https://open.spotify.com/album/1kG0FCy4fJfbCDROZD0vsg) | 3:13 |
 | 53 | [Ipanema](https://open.spotify.com/track/1JCQBstFdEqihwKhh8QVUV) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Ipanema](https://open.spotify.com/album/7CFLwNNtjoMqGoig3DYiRF) | 1:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Du liegst falsch](https://open.spotify.com/track/3OKQKDJIIBRHvJbfyajUov) | [PICOBELLO](https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Du liegst falsch](https://open.spotify.com/album/7r7ZFKFwpZx9yGqwZf4PaV) | 2:54 |
 | 75 | [Fluch](https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Fluch](https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh) | 2:07 |
 
-Snapshot ID: `MCxlMDg4YzJmZmZmODk0MGJiY2JiOGNhOGI4YWNhMzU4N2NmY2MwNTY2`
+Snapshot ID: `MCwwNDliNGEzMjhlM2IzOGNjOGU3YTc1ZDk2OWRiZjFmYjdkOGNkOGY2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "y la queso pluma",
+  "description": "que agusticidad ",
   "name": "Hits de Internet",
   "tracks": [
     {
@@ -176,6 +176,28 @@
       "duration_ms": 200666,
       "name": "Ah\u00ed Estar\u00e9 Yo",
       "url": "https://open.spotify.com/track/54gaPLcsCWmPUmrgpib9mS"
+    },
+    {
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Elisabeth Roma",
+          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297664,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
     },
     {
       "album": {
@@ -794,7 +816,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -957,6 +979,36 @@
     },
     {
       "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/6bQkurEvgWIUUvKeqaJRq2"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219453,
+      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/0by9UaVYUrKUz2TVAmK0Pg"
+    },
+    {
+      "album": {
         "name": "Calm Down",
         "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
       },
@@ -1030,7 +1082,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 117980,
       "name": "Capybara",
       "url": "https://open.spotify.com/track/4ppXYFIKT0GM6bGnxYk7qm"
@@ -1084,7 +1136,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -1390,7 +1442,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 237626,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9"
@@ -2149,6 +2201,28 @@
     },
     {
       "album": {
+        "name": "Espantan",
+        "url": "https://open.spotify.com/album/3YGnRsecy1lKRSevwGWJja"
+      },
+      "artists": [
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159461,
+      "name": "Espantan",
+      "url": "https://open.spotify.com/track/2IYCG4VXCbmqZc9pZPCPwV"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -2825,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "A Beautiful Life (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177641,
+      "name": "Honey, I\u2019m So High (From the Netflix Film \u2018A Beautiful Life\u2019)",
+      "url": "https://open.spotify.com/track/0Uu97LePX45iEAVb6YKfBm"
+    },
+    {
+      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1"
       },
@@ -3114,7 +3206,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 299506,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
@@ -3654,10 +3746,28 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
     },
     {
       "album": {
@@ -3690,7 +3800,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 207400,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
@@ -4078,7 +4188,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -4446,6 +4556,32 @@
       "duration_ms": 165333,
       "name": "No Wind Resistance SPED UP!",
       "url": "https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq"
+    },
+    {
+      "album": {
+        "name": "No_se_ve.mp3",
+        "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "ZECCA",
+          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "No_se_ve.mp3",
+      "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
     },
     {
       "album": {
@@ -7547,6 +7683,32 @@
     },
     {
       "album": {
+        "name": "Y Yo Me Le Pego",
+        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172806,
+      "name": "Y Yo Me Le Pego",
+      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
+    },
+    {
+      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
@@ -7638,6 +7800,24 @@
       "duration_ms": 142151,
       "name": "Zona De Perigo",
       "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0442\u043a\u043b\u044e\u0447\u0430\u044e \u0442\u0435\u043b\u0435\u0444\u043e\u043d (Slowed)",
+        "url": "https://open.spotify.com/album/6TKmUmRJInYDQbbGQ2Rf2H"
+      },
+      "artists": [
+        {
+          "name": "INSTASAMKA",
+          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187884,
+      "name": "\u041e\u0442\u043a\u043b\u044e\u0447\u0430\u044e \u0442\u0435\u043b\u0435\u0444\u043e\u043d (Slowed)",
+      "url": "https://open.spotify.com/track/7qwlUHDJI8aKwpuYVzuvoe"
     },
     {
       "album": {

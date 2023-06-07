@@ -4,7 +4,7 @@
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-130 songs - 6 hr 31 min
+131 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Delirio](https://open.spotify.com/track/0IXvPugWyQNt46o7eZnpjm) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Canta Carmen Delia Delpini](https://open.spotify.com/album/3fxjUbibmFrNXBpHfqib41) | 3:10 | 2021-12-26 | 2022-07-29 |
 | [Delirio](https://open.spotify.com/track/23lcRsgi0OWWUaUmpHctS8) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL), [Johnny Rodriguez Y Su Trio](https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka) | [Canta](https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ) | 3:10 | 2021-12-26 |  |
 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 | 2021-12-26 |  |
-| [Donde Encontraras](https://open.spotify.com/track/1dMK5yoypaN0cr3aW5xJqz) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [La Serenata de los Enamorados](https://open.spotify.com/album/0ccaSPcFOccacjj9EVgJNx) | 3:22 | 2021-12-26 |  |
+| [Donde Encontraras](https://open.spotify.com/track/1dMK5yoypaN0cr3aW5xJqz) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [La Serenata de los Enamorados](https://open.spotify.com/album/0ccaSPcFOccacjj9EVgJNx) | 3:22 | 2021-12-26 | 2023-06-07 |
 | [Dos Gardenias](https://open.spotify.com/track/1N7KhNYVLFiXODqduYX2dF) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [20 Exitos\- Daniel Santos](https://open.spotify.com/album/7c7mOuUPoKotLSiVVPpdYy) | 3:03 | 2021-12-26 | 2022-07-29 |
 | [Dos Gardenias](https://open.spotify.com/track/4faOsdm3wPyhqSgkM9jZ9D) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Éxitos](https://open.spotify.com/album/54BYhUZE62cpwfBlcIYAWs) | 3:03 | 2021-12-26 |  |
 | [El Andariego](https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al) | [Pepe Jara](https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl) | [El Trovador Solitario](https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze) | 2:46 | 2021-12-26 |  |
@@ -113,6 +113,7 @@
 | [Sabor a mi](https://open.spotify.com/track/3qbYOwAWwcvMUx6KPmWFKJ) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases \- Serenata de Amor](https://open.spotify.com/album/1Ne7t2hsWhafB18i5QCUoI) | 3:12 | 2021-12-26 |  |
 | [Sabor a Mí](https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:48 | 2021-12-26 |  |
 | [Si Nos Dejan](https://open.spotify.com/track/4FRFwdjDKCD0of1vLLeCoE) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Fiesta Mexicana en las Voces de los Tres Ases](https://open.spotify.com/album/2RP4ihLMXbkJJWqVLmnKvC) | 3:02 | 2021-12-26 | 2022-07-29 |
+| [Si Nos Dejan](https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases](https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp) | 3:02 | 2021-12-26 |  |
 | [Si Nos Dejan \- Remastered](https://open.spotify.com/track/5BOaXQYdApvDBVFCSxd23D) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/5YHzSCQp8knlAlsoEh9DOR) | 3:02 | 2021-12-26 | 2023-05-23 |
 | [Siempre en mi corazón](https://open.spotify.com/track/2UqNczc1kGWblKfEXOydTy) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:42 | 2021-12-26 |  |
 | [Sin Ti](https://open.spotify.com/track/4zMwdHECLLnUuSJljrZNOu) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Enlaces los Dandys & los Tres Reyes](https://open.spotify.com/album/3r6lQ2VD5bac4anu60wSBQ) | 2:25 | 2021-12-26 | 2022-11-13 |

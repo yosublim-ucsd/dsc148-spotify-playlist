@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Silas Magalh\u00e3es",
-  "num_followers": 67826,
+  "num_followers": 67884,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTBjMzVlYWZjZmNmNWYyNWIxMjFkNzRjMWM1MjZlNjE2ZjIxMDYy",
+  "snapshot_id": "MCw2NDJiZDNjMjgwNzVlZDc5MmIxZDY5ODQxYWI2MmYxNWQ0MjdhMWRl",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "De 1 At\u00e9 3",
-        "url": "https://open.spotify.com/album/7jmdlVQj7FLKPIA5VYJcLz"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Figueiredo",
-          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
-        }
-      ],
-      "duration_ms": 168725,
-      "name": "De 1 At\u00e9 3",
-      "url": "https://open.spotify.com/track/4Op3IMhQmQTiJ4ghAX2pCG"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Sua Paz",
         "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 205266,
       "name": "Sua Paz",
       "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "De 1 At\u00e9 3",
+        "url": "https://open.spotify.com/album/7jmdlVQj7FLKPIA5VYJcLz"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Figueiredo",
+          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
+        }
+      ],
+      "duration_ms": 168725,
+      "name": "De 1 At\u00e9 3",
+      "url": "https://open.spotify.com/track/4Op3IMhQmQTiJ4ghAX2pCG"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Tens o Meu Sim",
-        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
-      },
-      "artists": [
-        {
-          "name": "Amanda Dutra",
-          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Tens o Meu Sim",
-      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "SL.27.4",
         "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 237209,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Tens o Meu Sim",
+        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
+      },
+      "artists": [
+        {
+          "name": "Amanda Dutra",
+          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Tens o Meu Sim",
+      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
+        "name": "Acoustic Sessions, Vol. 6",
+        "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
       },
       "artists": [
         {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 272021,
-      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
+      "duration_ms": 165954,
+      "name": "Plano B",
+      "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Acoustic Sessions, Vol. 6",
-        "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
+        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
       },
       "artists": [
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
         }
       ],
-      "duration_ms": 165954,
-      "name": "Plano B",
-      "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
+      "duration_ms": 272021,
+      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "A Porta (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 191569,
       "name": "A Porta - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "GPS",
-        "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
-        }
-      ],
-      "duration_ms": 215057,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        }
+      ],
+      "duration_ms": 215057,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 165694,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "O Amor de Deus",
         "url": "https://open.spotify.com/album/515oStHHdiKU8YVM7rZi9p"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 156481,
       "name": "O Amor de Deus",
       "url": "https://open.spotify.com/track/6AwPTRmGAmVQi1Gz2JyByH"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
-      },
-      "artists": [
-        {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
-        },
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 165694,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Pai Nosso",
         "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 261200,
       "name": "Pai Nosso - Our Father",
       "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Teu Calor",
         "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 224000,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Teu Calor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY"
-      },
-      "artists": [
-        {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 224083,
-      "name": "Teu Calor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Eu S\u00f3 Pe\u00e7o a Deus",
         "url": "https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 250909,
       "name": "Amado",
       "url": "https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Teu Calor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 224083,
+      "name": "Teu Calor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS"
     },
     {
       "added_at": "2023-06-02 03:00:00",

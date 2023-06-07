@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from Beach Fossils.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,337 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,383 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 63 | [To Death](https://open.spotify.com/track/1cGM4KM6XcQnq3vSnf5VjE) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [To Death](https://open.spotify.com/album/2DxtdOUQLlGZF0HTlwtTo9) | 3:14 |
 | 64 | [To be, or not to be ugly](https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:54 |
 | 65 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 |
-| 66 | [TV in the Gas Pump](https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [TV in the Gas Pump](https://open.spotify.com/album/1KCYvFcQ0eLIx9Kpmr4WgX) | 2:22 |
+| 66 | [TV in the Gas Pump](https://open.spotify.com/track/0o65GCofNQEUgkAIoWPjrb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 2:22 |
 | 67 | [Renegade](https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Renegade](https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG) | 2:54 |
 | 68 | [I Think I](https://open.spotify.com/track/3ubTScTReBYihSnVuRD81D) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [I Think I](https://open.spotify.com/album/2aWox1fQIfpJyzpIN5SsG3) | 3:22 |
 | 69 | [The Big Mess](https://open.spotify.com/track/52nyINWV0TBad1Qk2KbiFH) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [The Big Mess](https://open.spotify.com/album/5cZNONhqXmmXUEOiglJAfj) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [My Year \(This Is Going To Be\)](https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/3DnuVIeelvxu2wm0wei74W) | 3:03 |
 | 100 | [For You](https://open.spotify.com/track/5lJOWTcuCJm34M2y9G04zK) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [For You](https://open.spotify.com/album/1RDbdhWq1OiU2x1Tco0Vpw) | 3:48 |
 
-Snapshot ID: `MCw3ZTgyMDQ1NjI4Nzg3ZjAzOTgyNmM4NzYyOTYxNTNmMmRlZjJjNjFi`
+Snapshot ID: `MCw5N2UzNzcyNTAwYWI3Y2RlYjBjMTRkYzJjYmZlYzIxOTlhYmM2NjY5`

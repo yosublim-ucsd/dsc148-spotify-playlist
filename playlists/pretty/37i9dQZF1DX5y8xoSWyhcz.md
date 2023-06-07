@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,714 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,798 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 3 | [Sore Eyes](https://open.spotify.com/track/1vyaeOV5TqHDFK7ugi05Sk) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Be Still My Heart](https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0) | 3:13 |
 | 4 | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/track/4jSctcEMRrrjbOo60pbfmj) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu), [Sahati](https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf) | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/album/2Bom4X9Z5VZRH2tvWXRjx9) | 3:30 |
 | 5 | [i loved a boy](https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [i loved a boy](https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi) | 2:25 |
-| 6 | [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 |
+| 6 | [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 |
 | 7 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 |
 | 8 | [time waits](https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ) | 3:19 |
 | 9 | [Down \(Exit Song\)](https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Down \(Exit Song\)](https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK) | 3:07 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Let Go](https://open.spotify.com/track/1DtdX9FfsysjfOXhVfGySB) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Let Go](https://open.spotify.com/album/0nanElKiXhl3gLEyluduzv) | 3:10 |
 | 125 | [Heartache & LSD](https://open.spotify.com/track/0KA6rBL9yNsGFBmujt1FZy) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Heartache & LSD: Act II](https://open.spotify.com/album/7J5HDaAmLrKiecP8Qb9cGu) | 1:52 |
 
-Snapshot ID: `MCwzMGYyZWM3YThlYWRlMWJkNGU3ZDZhMTFlOTY4NzcyYTFmNWMxOWU0`
+Snapshot ID: `MCw5NzBhOWJkMjg1Mjg4OGI2MjljZmUwODNlNDQ3ZDRjMjJiNmI3NWY2`

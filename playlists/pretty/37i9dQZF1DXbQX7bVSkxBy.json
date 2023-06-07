@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with Nigerian gospel music.  Cover: <a href=\"https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs?si=IeiGBgm0S9qGYCVhYILkeQ\">Jimmy D Psalmist</a>",
-  "num_followers": 4188,
+  "num_followers": 4244,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGQ3MTk3NjgzMjY5YzM1YjBiZGZiMDQwMzc1NmVmZjhiMjk4ODI1",
+  "snapshot_id": "MCw1NTkyMzBjNzYxZTRlZmU1MGU4NTE0MjAyYjhmYzg3ZDhjOGVmODQx",
   "tracks": [
     {
       "added_at": "2023-05-26 00:01:00",
@@ -267,6 +267,26 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "Nara",
+      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "Put It On God",
         "url": "https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 299176,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "Nara",
-      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -359,18 +359,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "You are Great",
-        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
+        "name": "Born of God",
+        "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
       },
       "artists": [
         {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Buchi",
+          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
         }
       ],
-      "duration_ms": 383424,
-      "name": "You are Great",
-      "url": "https://open.spotify.com/track/0BoMUR3WfVuGTSZ4DUEfnZ"
+      "duration_ms": 294053,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/1aNryETX3dSY4A0M8BIqPE"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -415,22 +419,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Born of God",
-        "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
+        "name": "You are Great",
+        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
       },
       "artists": [
         {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        },
-        {
-          "name": "Buchi",
-          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
         }
       ],
-      "duration_ms": 294053,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/1aNryETX3dSY4A0M8BIqPE"
+      "duration_ms": 383424,
+      "name": "You are Great",
+      "url": "https://open.spotify.com/track/0BoMUR3WfVuGTSZ4DUEfnZ"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -469,6 +469,22 @@
       "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
     },
     {
+      "added_at": "2023-05-26 00:01:00",
+      "album": {
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+    },
+    {
       "added_at": "2023-04-20 23:59:00",
       "album": {
         "name": "Man Of Galilee",
@@ -483,6 +499,38 @@
       "duration_ms": 295262,
       "name": "More Than Gold",
       "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "You are Great",
+        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 319346,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 298306,
+      "name": "Most High - African Worship Medley/Live",
+      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -523,54 +571,6 @@
       "duration_ms": 369529,
       "name": "Jesus at the Centre",
       "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 298306,
-      "name": "Most High - African Worship Medley/Live",
-      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "You are Great",
-        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 319346,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
-    },
-    {
-      "added_at": "2023-05-26 00:01:00",
-      "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Yahweh",
-        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
-      },
-      "artists": [
-        {
-          "name": "David G",
-          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
-        }
-      ],
-      "duration_ms": 215876,
-      "name": "My Trust Is in You",
-      "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Return Rev. 2:4",
         "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 531375,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
+      },
+      "artists": [
+        {
+          "name": "David G",
+          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
+        }
+      ],
+      "duration_ms": 215876,
+      "name": "My Trust Is in You",
+      "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Daddy",
-        "url": "https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t"
-      },
-      "artists": [
-        {
-          "name": "M I L O",
-          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
-        }
-      ],
-      "duration_ms": 193708,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb"
-    },
-    {
       "added_at": "2023-04-20 23:59:00",
       "album": {
         "name": "Victory",
@@ -839,6 +823,22 @@
       "duration_ms": 230505,
       "name": "Victory",
       "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t"
+      },
+      "artists": [
+        {
+          "name": "M I L O",
+          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
+        }
+      ],
+      "duration_ms": 193708,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb"
     },
     {
       "added_at": "2023-04-20 23:59:00",

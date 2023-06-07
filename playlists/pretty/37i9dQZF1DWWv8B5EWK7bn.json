@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 153734,
+  "num_followers": 153847,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDllNzZkMDk2YjA2ZTc2YTZjN2UwNjA1NjcyNGNkYWFlZjk4YjU5",
+  "snapshot_id": "MCwwOGViNjdlNzBlY2EyMjkzNmQ2ODE4Mjk5YmRhOTY3MDJlMzFlMTYx",
   "tracks": [
     {
       "added_at": "2023-04-14 01:13:12",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
-    },
-    {
       "added_at": "2022-09-12 20:09:14",
       "album": {
         "name": "When the Lights Go",
@@ -587,6 +571,22 @@
       "duration_ms": 266962,
       "name": "Crosswalk",
       "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2022-02-25 03:06:43",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
+      "added_at": "2022-07-19 04:00:00",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 187307,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
+    },
+    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "STORY OF BLOOD",
@@ -715,22 +731,6 @@
       "duration_ms": 451986,
       "name": "STORY OF BLOOD",
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
-    },
-    {
-      "added_at": "2022-07-19 04:00:00",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 187307,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
       "added_at": "2022-09-29 00:57:24",
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Universe Is Always Right",
+        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "duration_ms": 244390,
+      "name": "The Universe Is Always Right",
+      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+    },
+    {
       "added_at": "2022-03-16 16:59:09",
       "album": {
         "name": "Petunia",
@@ -775,22 +791,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "The Universe Is Always Right",
-        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
-      },
-      "artists": [
-        {
-          "name": "Hayden Thorpe",
-          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
-        }
-      ],
-      "duration_ms": 244390,
-      "name": "The Universe Is Always Right",
-      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Behind The Sun",
         "url": "https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ"
       },
@@ -805,20 +805,20 @@
       "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
     },
     {
-      "added_at": "2022-02-09 04:04:07",
+      "added_at": "2022-08-31 05:00:32",
       "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
       },
       "artists": [
         {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
         }
       ],
-      "duration_ms": 228809,
-      "name": "Tintagel",
-      "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -839,6 +839,38 @@
       "duration_ms": 447453,
       "name": "Corner Of My Sky",
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
+    },
+    {
+      "added_at": "2022-02-09 04:04:07",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 228809,
+      "name": "Tintagel",
+      "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Moot!",
+        "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
+      },
+      "artists": [
+        {
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
+        }
+      ],
+      "duration_ms": 297239,
+      "name": "Right is Alright, Wrong is to Belong",
+      "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -863,38 +895,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Moot!",
-        "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
-      },
-      "artists": [
-        {
-          "name": "Moin",
-          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
-        }
-      ],
-      "duration_ms": 297239,
-      "name": "Right is Alright, Wrong is to Belong",
-      "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
-    },
-    {
-      "added_at": "2022-08-31 05:00:32",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "void beats/invocation trex",
         "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Life, and Another",
-        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
-      },
-      "artists": [
-        {
-          "name": "Mega Bog",
-          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
-        }
-      ],
-      "duration_ms": 265815,
-      "name": "Station to Station",
-      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "As The Love Continues",
         "url": "https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 310120,
       "name": "Dry Fantasy",
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Life, and Another",
+        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
+      },
+      "artists": [
+        {
+          "name": "Mega Bog",
+          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
+        }
+      ],
+      "duration_ms": 265815,
+      "name": "Station to Station",
+      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
       "added_at": "2022-05-24 01:31:24",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/343FRF9gbsQRFesy9H2V5M"
     },
     {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "Tell Somebody",
+        "url": "https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 190812,
+      "name": "Tell Somebody",
+      "url": "https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt"
+    },
+    {
       "added_at": "2023-03-24 15:38:14",
       "album": {
         "name": "A Time To Blossom",
@@ -1013,20 +1029,20 @@
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
+      "added_at": "2022-11-08 17:40:24",
       "album": {
-        "name": "Tell Somebody",
-        "url": "https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO"
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
       },
       "artists": [
         {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
         }
       ],
-      "duration_ms": 190812,
-      "name": "Tell Somebody",
-      "url": "https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt"
+      "duration_ms": 285898,
+      "name": "Follow the Cyborg",
+      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     },
     {
       "added_at": "2022-01-21 20:15:30",
@@ -1043,22 +1059,6 @@
       "duration_ms": 188873,
       "name": "Feedback Loop",
       "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
-    },
-    {
-      "added_at": "2022-11-08 17:40:24",
-      "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 285898,
-      "name": "Follow the Cyborg",
-      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     },
     {
       "added_at": "2022-09-29 00:40:57",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
     },
     {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
-    },
-    {
       "added_at": "2023-03-31 19:12:14",
       "album": {
         "name": "Follow the Cyborg",
@@ -1215,6 +1199,22 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
+    },
+    {
+      "added_at": "2023-03-31 19:24:48",
+      "album": {
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
+      },
+      "artists": [
+        {
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
     },
     {
-      "added_at": "2023-04-14 23:18:55",
-      "album": {
-        "name": "Where Do We Begin?",
-        "url": "https://open.spotify.com/album/6CxdKMadvKTGLOGgTcELUL"
-      },
-      "artists": [
-        {
-          "name": "The Telescopes",
-          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
-        }
-      ],
-      "duration_ms": 340551,
-      "name": "Where Do We Begin?",
-      "url": "https://open.spotify.com/track/6Tfsdsg4ct1743ozsFnars"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Rivers That You Cannot See",
@@ -1315,6 +1299,22 @@
       "duration_ms": 235093,
       "name": "Rivers That You Cannot See",
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+    },
+    {
+      "added_at": "2023-04-14 23:18:55",
+      "album": {
+        "name": "Where Do We Begin?",
+        "url": "https://open.spotify.com/album/6CxdKMadvKTGLOGgTcELUL"
+      },
+      "artists": [
+        {
+          "name": "The Telescopes",
+          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
+        }
+      ],
+      "duration_ms": 340551,
+      "name": "Where Do We Begin?",
+      "url": "https://open.spotify.com/track/6Tfsdsg4ct1743ozsFnars"
     },
     {
       "added_at": "2023-01-07 04:00:59",

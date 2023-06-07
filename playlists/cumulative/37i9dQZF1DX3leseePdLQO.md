@@ -4,7 +4,7 @@
 
 > Pop para refrescarte los días, featuring KHEA.
 
-83 songs - 4 hr 16 min
+84 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Volare](https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 2:27 | 2023-04-04 |  |
 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 | 2023-04-04 |  |
 | [Índigo](https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:34 | 2023-04-04 |  |
-| [ódiame si quieres](https://open.spotify.com/track/081GMHsFEpJWIxNRzDVq6d) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 2:42 | 2023-05-12 |  |
+| [ódiame si quieres](https://open.spotify.com/track/081GMHsFEpJWIxNRzDVq6d) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 2:42 | 2023-05-12 | 2023-06-07 |
+| [ódiame si quieres](https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:42 | 2023-06-05 |  |
 
 \*This playlist was first scraped on 2023-04-05. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Alan Gomez & Luck Ra.",
-  "num_followers": 604575,
+  "num_followers": 604709,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2E0YzkzZDk2YzlmMDE1YzgyMjAwYmU1YWQ4MDMwYTExN2VmMTEz",
+  "snapshot_id": "MCw0ZmI2MjczN2VjNDg4Y2Y3NDc3OTZmMGQ1OWI4MWY4NDg3OTM2NDJi",
   "tracks": [
     {
       "added_at": "2023-05-19 03:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "A Toda Fiesta",
-        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Amor Infiel",
-      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Que Agon\u00eda / Carne y Hueso",
         "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 291313,
       "name": "Que Agonia - Carne y Hueso",
       "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "A Toda Fiesta",
+        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Amor Infiel",
+      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "En El Gran Rex",
-        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+        "name": "Aunque Sea En Otra Vida",
+        "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
       },
       "artists": [
         {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Un Mill\u00f3n de Rosas",
-      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
+      "duration_ms": 231509,
+      "name": "Aunque Sea En Otra Vida",
+      "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Aunque Sea En Otra Vida",
-        "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
+        "name": "En El Gran Rex",
+        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
       },
       "artists": [
         {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
         }
       ],
-      "duration_ms": 231509,
-      "name": "Aunque Sea En Otra Vida",
-      "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
+      "duration_ms": 194920,
+      "name": "Un Mill\u00f3n de Rosas",
+      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 200362,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Fiesta Inolvidable Con La Barra",
         "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 213920,
       "name": "No Dire Que Si",
       "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
-      },
-      "artists": [
-        {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 200362,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1379,22 +1379,6 @@
       "duration_ms": 242950,
       "name": "Perfecto Idiota",
       "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Me Duele Tu Nombre",
         "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "El 22",
-        "url": "https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 480888,
-      "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
-      "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Ferxxo 100",
         "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 169589,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "El 22",
+        "url": "https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 480888,
+      "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
+      "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 168757,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Con Toda la Fuerza",
         "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 348876,
       "name": "Si Pudiera Tenerte - Camina y Ven",
       "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 168757,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
     },
     {
       "added_at": "2023-05-19 03:00:00",

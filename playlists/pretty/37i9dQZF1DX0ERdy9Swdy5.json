@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 644707,
+  "num_followers": 644999,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDU4M2VjOTY1ZTFiZDY5ODg3YTA5YWY5MTVhZWFiMTVlODc4NGU3",
+  "snapshot_id": "MCxlMTA4OGE4ZmIyZTgzNTk5MTE2YTFmODIzNTQ5M2YxMDlhNzVjMTFi",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
-      },
-      "artists": [
-        {
-          "name": "DLG",
-          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
-        }
-      ],
-      "duration_ms": 302320,
-      "name": "La Quiero A Morir",
-      "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 289466,
       "name": "Vali\u00f3 la Pena - Salsa Version",
       "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
+      },
+      "artists": [
+        {
+          "name": "DLG",
+          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
+        }
+      ],
+      "duration_ms": 302320,
+      "name": "La Quiero A Morir",
+      "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 281773,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Uno Mismo",
         "url": "https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 316226,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 281773,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
     },
     {
       "added_at": "2023-03-17 00:48:14",

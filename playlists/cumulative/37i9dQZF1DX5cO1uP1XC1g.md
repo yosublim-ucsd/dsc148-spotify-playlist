@@ -4,7 +4,7 @@
 
 > The biggest Arabic hits all in one place\. Cover: Mohamed Ramadan
 
-300 songs - 18 hr 2 min
+301 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Malak Ghayran](https://open.spotify.com/track/0wwY6AmShdMFvYz8tXVZ54) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Malak Ghayran](https://open.spotify.com/album/680KiP3Mb1AUn9tIJZwSHV) | 3:27 | 2021-12-12 | 2022-02-18 |
 | [Malek El Fabraka](https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Malek El Fabraka](https://open.spotify.com/album/2T3oPO96g0IUsYb9uD2ULT) | 3:23 | 2021-12-12 |  |
 | [Malna haka ?](https://open.spotify.com/track/1oRqzXVdTqofua7MDSmJZn) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Malna haka ?](https://open.spotify.com/album/3kVqflkL3lAXJDjBhuYa7n) | 3:06 | 2021-12-12 | 2022-09-19 |
+| [Masahto Beaastica](https://open.spotify.com/track/0GLr8spyH3DtpfC6HLbktw) | [Ali Kakooli](https://open.spotify.com/artist/44Hq31Jx9di0TFPsmU6et9) | [Masahto Beaastica](https://open.spotify.com/album/411f2qI8Muk2T2PjWpBnoM) | 4:07 | 2023-06-07 |  |
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-03-09 |  |
 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-12-12 | 2022-09-19 |
 | [Meen Fe Dol](https://open.spotify.com/track/63uctqlwCI5AxXYmpTVO2Z) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Meen Fe Dol](https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ) | 3:55 | 2021-12-12 | 2022-09-19 |
@@ -221,7 +222,7 @@
 | [Ser Alsada \( Mountain View\)](https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ser Alsada \( Mountain View\)](https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c) | 3:50 | 2021-12-12 | 2022-09-19 |
 | [Set El Kel](https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Set El Kel](https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s) | 3:18 | 2022-08-03 |  |
 | [Shkad Helw](https://open.spotify.com/track/29hXhjoSoGg8NUEPKig2am) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Shkad Helw](https://open.spotify.com/album/1gY8BkJKLoAOa3CLMCcUcB) | 3:28 | 2021-12-12 | 2023-05-15 |
-| [Shou Badi 3ed Bzalat](https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr) | [Mohanad Zaiter](https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Shou Badi 3ed Bzalat](https://open.spotify.com/album/3Pb8hvCdDQo1NoRPJQDOG5) | 2:39 | 2023-06-04 |  |
+| [Shou Badi 3ed Bzalat](https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr) | [Mohanad Zaiter](https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Shou Badi 3ed Bzalat](https://open.spotify.com/album/3Pb8hvCdDQo1NoRPJQDOG5) | 2:39 | 2023-06-04 | 2023-06-07 |
 | [Single](https://open.spotify.com/track/29MbJ4ReqIZ2lduxiwp8Cd) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Single](https://open.spotify.com/album/3tswVlxHqOxMDbLSJBCJgH) | 3:57 | 2021-12-12 | 2022-07-19 |
 | [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 | 2022-02-07 | 2023-01-12 |
 | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/track/4Yhx7H7UOXbwsyXwm8ASm7) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/album/6nEAMZsj8M7BPLVH8BBNAu) | 2:26 | 2021-12-12 | 2022-01-04 |

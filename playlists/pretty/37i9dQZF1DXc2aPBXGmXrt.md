@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 
 > This is the essential Justin Bieber.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,924,760 likes - 76 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,925,434 likes - 76 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 | 75 | [Be Alright](https://open.spotify.com/track/0nxvFG50rGXkiGQqOO2MHr) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:09 |
 | 76 | [Get Me \(feat\. Kehlani\)](https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:05 |
 
-Snapshot ID: `MCw2NTQyMjY3ZGJlZmU3YTE5NDVhZTViNGVlNmI5ODVkYzgzM2Q4ZWNm`
+Snapshot ID: `MCw4NzZhY2ZmYzM5OTdiMGE4MDIyNzE2MTNmNWE3N2M2OWIzNDE2M2Q5`

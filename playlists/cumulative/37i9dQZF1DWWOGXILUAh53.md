@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Tones & I x Sam Feldt
 
-578 songs - 1 day 4 hr 46 min
+579 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Detonate](https://open.spotify.com/track/2bhWunYI6eZe9fvt5QrRST) | [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [Detonate](https://open.spotify.com/album/4ts84rZXqpLhCchaBabtOM) | 2:30 | 2022-02-18 | 2022-04-23 |
 | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o) | 2:48 | 2022-05-27 | 2022-09-24 |
 | [Didn't Know Lonely](https://open.spotify.com/track/1TVRKXD6RkBNTE7F11Pexm) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Didn't Know Lonely](https://open.spotify.com/album/64iN3YbIdjSCLIimrNAdHZ) | 3:10 | 2022-06-10 | 2022-09-17 |
-| [Die For A Night](https://open.spotify.com/track/5by79t0saDZCGImchg8oSY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Die For A Night](https://open.spotify.com/album/67aoFiHyWWl1N15nMxbQoP) | 3:15 | 2023-04-28 |  |
+| [Die For A Night](https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:15 | 2023-06-02 |  |
+| [Die For A Night](https://open.spotify.com/track/5by79t0saDZCGImchg8oSY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Die For A Night](https://open.spotify.com/album/67aoFiHyWWl1N15nMxbQoP) | 3:15 | 2023-04-28 | 2023-06-07 |
 | [Disco Heart](https://open.spotify.com/track/29upl5ytUcahfLE8q24SMd) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Heartbreak County, Vol\. 2](https://open.spotify.com/album/7x42x3GG9dviDYgX5HmHTM) | 3:15 | 2022-10-28 | 2023-01-21 |
 | [Discoteca](https://open.spotify.com/track/7hmebsI3sCMzANWFcNiCMh) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Discoteca](https://open.spotify.com/album/7r6a9NnWydms4uIjf9bH5C) | 3:45 | 2021-12-31 | 2022-05-20 |
 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 | 2022-07-29 | 2022-10-22 |

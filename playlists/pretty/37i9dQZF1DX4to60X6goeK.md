@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,962 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,004 likes - 55 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 44 | [Transcend](https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8) | 4:52 |
 | 45 | [All Night](https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [All Night](https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt) | 4:41 |
 | 46 | [Void](https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 5:27 |
-| 47 | [Headshot](https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX) | [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Shaolin Fist](https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip) | 4:01 |
-| 48 | [Free](https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl) | [Free](https://open.spotify.com/album/6GMcUsOe9eqEtlm1KAkFIR) | 3:00 |
+| 47 | [Free](https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl) | [Free](https://open.spotify.com/album/6GMcUsOe9eqEtlm1KAkFIR) | 3:00 |
+| 48 | [Headshot](https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX) | [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Shaolin Fist](https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip) | 4:01 |
 | 49 | [Kickons](https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9) | 3:55 |
 | 50 | [Money Moves \- Remix](https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Skamma](https://open.spotify.com/artist/4GmeRSlqrWn9Tg4pVq7XmU), [J Wilz](https://open.spotify.com/artist/16TZaFyJcaVRRfxznuLE2n), [LOAD B](https://open.spotify.com/artist/19N4NQloPOR4JgS0s11hbF), [Weejii](https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw), [Blu Bomma](https://open.spotify.com/artist/4goT9h8GZ7ZKiyw9MxyJDh), [Kinetik](https://open.spotify.com/artist/0LE12w6fWcmvb9eooXtpFl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Money Moves \(The Remixes\)](https://open.spotify.com/album/6XyppXwfyf3t1MzIr6qxl9) | 4:24 |
 | 51 | [Grape](https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [Five A DAY](https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB) | 4:27 |
 | 52 | [Operator](https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 4:27 |
 | 53 | [Let You Go](https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2) | [Bare Up](https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC) | [Let You Go EP](https://open.spotify.com/album/5hzj4p5miYpDAEARk3g78D) | 3:44 |
-| 54 | [Cool Out Son \- Benny Page & Isaac Maya Remix \- Edit](https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34), [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [Isaac Maya](https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8) | [Cool Out Son](https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4) | 3:28 |
-| 55 | [3 Dots](https://open.spotify.com/track/09iyiGsA1NJ8GCHiog5fyj) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7) | [3 Dots](https://open.spotify.com/album/787GjxTZlFUiU6d0CzSPQt) | 4:28 |
+| 54 | [3 Dots](https://open.spotify.com/track/09iyiGsA1NJ8GCHiog5fyj) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7) | [3 Dots](https://open.spotify.com/album/787GjxTZlFUiU6d0CzSPQt) | 4:28 |
+| 55 | [Cool Out Son \- Benny Page & Isaac Maya Remix \- Edit](https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34), [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [Isaac Maya](https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8) | [Cool Out Son](https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4) | 3:28 |
 
-Snapshot ID: `MCw5YTA5ZTQxNDgyZTQ2ZGYzZWVlMjQxZWJjMWNmMWRhYTk3ZTgzMWNi`
+Snapshot ID: `MCwxN2Y1ZjdlMDk5MDgyNTQ3M2Y4NDA5MTk4MzRjOTY0YzRkYTgzYTY1`

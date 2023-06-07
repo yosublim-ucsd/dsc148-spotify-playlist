@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Nadhif Basalamah
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,481 likes - 31 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,577 likes - 31 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 30 | [Amin Kita Beda](https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL) | 4:08 |
 | 31 | [Cinta Air Mata](https://open.spotify.com/track/1Mhevyt2cl5lvG3htZoK7a) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Air Mata](https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp) | 4:39 |
 
-Snapshot ID: `MCwyMmJiNDExNjcyNDMyNWQwMWI4ZGRjMjNhZjdlODFmYmIxNzlmYzYx`
+Snapshot ID: `MCwzNGY4YTI4ODk2MmRhMjE0OTVlYWZlOWJiNzljODJiYjMwYzQzNTA1`

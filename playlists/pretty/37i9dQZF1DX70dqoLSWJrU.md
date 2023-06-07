@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,430 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,502 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 57 | [I'll Drown In My Tears](https://open.spotify.com/track/3EJ0pqOYSid9bVfyYy0zhm) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol.5 \(1956\-1958\)](https://open.spotify.com/album/53UuPjzjPZdVorCmDewJSI) | 3:11 |
 | 58 | [I Wish I Knew \- Remastered 2004](https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:59 |
 | 59 | [I Can't Get Started \- Remastered](https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic \(Remastered\)](https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3) | 5:15 |
-| 60 | [Too Young To Go Steady \- Remastered](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:52 |
+| 60 | [I Wish I Knew](https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 4:53 |
 | 61 | [If I Knew Then \(What I Know Now\)](https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:33 |
 | 62 | [If I Had You](https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [All For You \(A Dedication To The Nat King Cole Trio\)](https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg) | 4:57 |
-| 63 | [I Wish I Knew](https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 4:53 |
+| 63 | [Too Young To Go Steady \- Remastered](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:52 |
 | 64 | [I See Your Face Before Me](https://open.spotify.com/track/5rkyudolG3J67mPn9WOQfK) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 3:34 |
 | 65 | [Baby Won't You Please Come Home](https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Blues, Soul & Ballads](https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp) | 2:07 |
 | 66 | [I Think Of You \- Remastered](https://open.spotify.com/track/3ElzkGBZpbjVuyKWCAHuzw) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 3:04 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 73 | [Blame It On My Youth](https://open.spotify.com/track/5hbzdbMwqNNjKvp4YyJeYs) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 3:10 |
 | 74 | [It Never Entered My Mind](https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:39 |
 | 75 | [I Just Couldn't Stand It No More](https://open.spotify.com/track/0IIiV2EHJ2tmpVmuf1Wjsp) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 3:01 |
-| 76 | [Spring Will Be A Little Late This Year](https://open.spotify.com/track/2GZwM4Pl7jbdgrHcJWu93c) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:51 |
+| 76 | [Baby, Don't You Cry](https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:34 |
 | 77 | [Say It Isn't So](https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Somewhere over the Rainbow](https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy) | 3:13 |
-| 78 | [Baby, Don't You Cry](https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:34 |
+| 78 | [Spring Will Be A Little Late This Year](https://open.spotify.com/track/2GZwM4Pl7jbdgrHcJWu93c) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:51 |
 | 79 | [Wasting My Love on You](https://open.spotify.com/track/5Dp0YfR5ygkhdoB0rmLlFZ) | [Annette Hanshaw](https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk) | [She's Got It](https://open.spotify.com/album/5UKPWnmzf6F2UlBhp1dIRi) | 3:17 |
 | 80 | [You Won't Be Satisfied \(Until You Break My Heart\) \(with Les Brown & His Orchestra\)](https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Les Brown & His Orchestra](https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 3:04 |
 | 81 | [He Was Too Good To Me](https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [When Your Heart's On Fire](https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 |
 | 100 | [Cry You Out Of My Heart](https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:45 |
 
-Snapshot ID: `MCw1OGI0ZjI4N2JkMGQ5NThiZjZjN2ZhOGI5YzcyZjNlMjNlYTdmYzAw`
+Snapshot ID: `MCwyMzQ1ZDNhZjM4Y2Y2NThmMWM1MWJjZmRkMjEwNGU3YmJmNjdlNTRl`

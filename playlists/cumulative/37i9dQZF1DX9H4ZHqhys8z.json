@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "A Summer Love",
+        "url": "https://open.spotify.com/album/4jyF5bMu5r0PsUhxDZH6nn"
+      },
+      "artists": [
+        {
+          "name": "Kalliope Pouska",
+          "url": "https://open.spotify.com/artist/6Kic93NL5qA2B8yFjBjahX"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182129,
+      "name": "A Summer Love",
+      "url": "https://open.spotify.com/track/11Mrfqdy3P8DnkWQI5MRmt"
+    },
+    {
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/0BmEVG2Ru11TO7ZR9dzUVy"
       },
@@ -128,7 +146,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 208294,
       "name": "Afto To Tragoudi",
       "url": "https://open.spotify.com/track/616bXUGGVSMZLDE7wnG9FY"
@@ -168,7 +186,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 203213,
       "name": "Agapi Ypervoliki - 2023 Version",
       "url": "https://open.spotify.com/track/06RkoxeiyiL0I1Hfpt4Zew"
@@ -190,6 +208,32 @@
       "duration_ms": 193305,
       "name": "Agoraki Mou",
       "url": "https://open.spotify.com/track/4iXXMc9qeUn8UEkBxXXgah"
+    },
+    {
+      "album": {
+        "name": "Ah Na M' Agapas",
+        "url": "https://open.spotify.com/album/2OHpFr4CSGqbmStbzNosZZ"
+      },
+      "artists": [
+        {
+          "name": "Valia Tsirgioti",
+          "url": "https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki"
+        },
+        {
+          "name": "Thomas Bakalakos",
+          "url": "https://open.spotify.com/artist/3umLhHzjiOxomuoqJhA184"
+        },
+        {
+          "name": "Manos Kitsikopoulos",
+          "url": "https://open.spotify.com/artist/7dZs9W0Q2ZImM5CflJxlJp"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Ah Na M' Agapas",
+      "url": "https://open.spotify.com/track/2wUdk0MVlrwsxyG0cnUqpB"
     },
     {
       "album": {
@@ -523,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Avissos",
+        "url": "https://open.spotify.com/album/1n3OlPK3pdyGmybi0t0y35"
+      },
+      "artists": [
+        {
+          "name": "Daphne Lawrence",
+          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182803,
+      "name": "Avissos",
+      "url": "https://open.spotify.com/track/3SYEgDtTvkPb3cZbvnHVbN"
+    },
+    {
+      "album": {
         "name": "Bom Bom",
         "url": "https://open.spotify.com/album/1K8mmEwpLfWiXoV2Dz5KN9"
       },
@@ -618,7 +680,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 165000,
       "name": "Concept",
       "url": "https://open.spotify.com/track/0HEMelE2R38Y549CqSRIpI"
@@ -734,6 +796,28 @@
       "duration_ms": 195754,
       "name": "De Tha Pas Pio Pera",
       "url": "https://open.spotify.com/track/4rQsanylMsG27kmTqtxSAr"
+    },
+    {
+      "album": {
+        "name": "Decor",
+        "url": "https://open.spotify.com/album/6uAVFw4xSam5V8ZX95jQRh"
+      },
+      "artists": [
+        {
+          "name": "Xenia Gargali",
+          "url": "https://open.spotify.com/artist/1ei2KEiexDEehzyu4oEddP"
+        },
+        {
+          "name": "Periklis Biskinis",
+          "url": "https://open.spotify.com/artist/4ZmLaIa9DllCHlLdmfZpd3"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168417,
+      "name": "Decor",
+      "url": "https://open.spotify.com/track/0LI6X562j35N9GqAPjmuwj"
     },
     {
       "album": {
@@ -918,7 +1002,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 181560,
       "name": "Edo Tha Meino",
       "url": "https://open.spotify.com/track/3SqE5SoYRWDkBjozX41OBI"
@@ -980,7 +1064,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 316428,
       "name": "Egrapses / Ti Na Kano / Egina Kommatia / Apo Mena Gia Sena - Unplugged Medley Ballads",
       "url": "https://open.spotify.com/track/6mt2BCkRF8EztIcXH41TAK"
@@ -1382,7 +1466,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 193233,
       "name": "Fool's Paradise",
       "url": "https://open.spotify.com/track/31aIz2czSqNPYww3ZqPxi9"
@@ -1538,7 +1622,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 254250,
       "name": "Geitonia",
       "url": "https://open.spotify.com/track/0GM3ezBbYLLsUnc76pseKV"
@@ -1734,10 +1818,50 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 210731,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4GuZhUEQPkZ4hkP14kzUJn"
+    },
+    {
+      "album": {
+        "name": "Gurise?",
+        "url": "https://open.spotify.com/album/0frj4Dbrw6gBt1zE2Ehp1p"
+      },
+      "artists": [
+        {
+          "name": "Elena Tsagrinou",
+          "url": "https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Gurise?",
+      "url": "https://open.spotify.com/track/683SWdCa6PzYLmsbSI6Glb"
+    },
+    {
+      "album": {
+        "name": "Hara Mazi Kai Ponos",
+        "url": "https://open.spotify.com/album/71CPrEK2njMcqddjOYVjae"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lampadaki",
+          "url": "https://open.spotify.com/artist/0heqGjrLYIMGtdlwtqtxXT"
+        },
+        {
+          "name": "Giannis Papageorgiou",
+          "url": "https://open.spotify.com/artist/4m6sXP23uZD9nQNPb7Y1n0"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250909,
+      "name": "Hara Mazi Kai Ponos",
+      "url": "https://open.spotify.com/track/0aIxzVlqNdFhLSN0fJVMAa"
     },
     {
       "album": {
@@ -1756,6 +1880,28 @@
       "duration_ms": 192500,
       "name": "Haramata",
       "url": "https://open.spotify.com/track/2q2cxmczUo4AAZXmjeNzMk"
+    },
+    {
+      "album": {
+        "name": "Aradia",
+        "url": "https://open.spotify.com/album/2CBiad9GZvDp7mBdgycfkp"
+      },
+      "artists": [
+        {
+          "name": "Mira",
+          "url": "https://open.spotify.com/artist/7AjOzyumfIoBcur8rNjABg"
+        },
+        {
+          "name": "Electabaz",
+          "url": "https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209941,
+      "name": "Harlem",
+      "url": "https://open.spotify.com/track/6cINJkWY1ilnWaMihrYsyn"
     },
     {
       "album": {
@@ -1814,6 +1960,46 @@
       "duration_ms": 174189,
       "name": "Honeymoon Song",
       "url": "https://open.spotify.com/track/3LkJRemnyJueuKj7LiXBS0"
+    },
+    {
+      "album": {
+        "name": "Horisa Hthes",
+        "url": "https://open.spotify.com/album/4ljMkwCLjTc1LXzI2fiYnZ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Adamopoulou",
+          "url": "https://open.spotify.com/artist/6Lp4kQwdlDYjLhOqSxrrdl"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194955,
+      "name": "Horisa Hthes",
+      "url": "https://open.spotify.com/track/7azRdpfHPGzidDmgm7Pixb"
+    },
+    {
+      "album": {
+        "name": "I Don't Care (Remix EP)",
+        "url": "https://open.spotify.com/album/1i1vObawXO5zEwofZFQYTe"
+      },
+      "artists": [
+        {
+          "name": "LLUISA",
+          "url": "https://open.spotify.com/artist/7ur9WUsgFMxnJAKojdVBeg"
+        },
+        {
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "I Don't Care - Solven Remix",
+      "url": "https://open.spotify.com/track/1DnOmFBJkM5xHyzjGL62Av"
     },
     {
       "album": {
@@ -1922,7 +2108,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 223662,
       "name": "I Vardia Tou Hronou",
       "url": "https://open.spotify.com/track/4xyWlUTLZXKjY5bagn2GCp"
@@ -1940,7 +2126,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 175971,
       "name": "I'm Nothing Without You",
       "url": "https://open.spotify.com/track/5idojnrQF8uPq3MjqenvR8"
@@ -1962,6 +2148,24 @@
       "duration_ms": 247728,
       "name": "ICNSG",
       "url": "https://open.spotify.com/track/2RW0HHT3VfdgtyunaWeU6V"
+    },
+    {
+      "album": {
+        "name": "Identity Crisis",
+        "url": "https://open.spotify.com/album/6fPwvK7Ddis487JlqS12x3"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Identity Crisis",
+      "url": "https://open.spotify.com/track/1F0PpKg5Q6W0L12vSc04u0"
     },
     {
       "album": {
@@ -2127,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Kane me na se Misiso",
+        "url": "https://open.spotify.com/album/7mBBSUsSgKuuEhHqIsKefJ"
+      },
+      "artists": [
+        {
+          "name": "Yama",
+          "url": "https://open.spotify.com/artist/5PmSkZlPqZxUzN0pdSnL5J"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Kane me na se Misiso",
+      "url": "https://open.spotify.com/track/5d5IhsWtLAF3VqusKAnGFu"
+    },
+    {
+      "album": {
         "name": "Kanenas Monos Kamia Moni",
         "url": "https://open.spotify.com/album/1owA3SIf20Xlm8nHByCDgv"
       },
@@ -2160,7 +2382,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 216331,
       "name": "Kapies Vradies",
       "url": "https://open.spotify.com/track/5bJslD6O6vCjSyvhUo8ABG"
@@ -2688,7 +2910,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 231250,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/25gfLP5hAxiChiirTIqJRS"
@@ -2932,7 +3154,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 144015,
       "name": "ME THYMASAI?",
       "url": "https://open.spotify.com/track/6vPhbchURoYay93n974rTc"
@@ -3008,7 +3230,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 160000,
       "name": "Mi Mou Peis",
       "url": "https://open.spotify.com/track/0CqtgrFcL4U0IbLg24raCO"
@@ -3194,6 +3416,24 @@
       "duration_ms": 182075,
       "name": "Mon Fr\u00e8re Le Soleil",
       "url": "https://open.spotify.com/track/638snIif5IvpnbFuShGSc5"
+    },
+    {
+      "album": {
+        "name": "Moni Mou",
+        "url": "https://open.spotify.com/album/4340fgIIgtmb4mNki3nJ01"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146145,
+      "name": "Moni Mou",
+      "url": "https://open.spotify.com/track/6FnY677B1fIAi0GVma6fOn"
     },
     {
       "album": {
@@ -3425,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "Niose",
+        "url": "https://open.spotify.com/album/5tfYnmfal8IHv1sfnQZKrH"
+      },
+      "artists": [
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187128,
+      "name": "Niose",
+      "url": "https://open.spotify.com/track/1mhTchTMDaLdc5YuW5zVRm"
+    },
+    {
+      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/4dYOz9ubqYpjlRf2nb2Exp"
       },
@@ -3466,6 +3724,24 @@
       "duration_ms": 224448,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
+    },
+    {
+      "album": {
+        "name": "Notia",
+        "url": "https://open.spotify.com/album/1aa9ISp1Y8rNBhS7OWcZNH"
+      },
+      "artists": [
+        {
+          "name": "Kalliope Pouska",
+          "url": "https://open.spotify.com/artist/6Kic93NL5qA2B8yFjBjahX"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173548,
+      "name": "Notia",
+      "url": "https://open.spotify.com/track/76OkOg3Fc9j2he1d9fDZoL"
     },
     {
       "album": {
@@ -3546,7 +3822,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 247955,
       "name": "O Vrahos",
       "url": "https://open.spotify.com/track/1WzONJTJfmd8dfJ2LCv8QB"
@@ -3568,6 +3844,28 @@
       "duration_ms": 230190,
       "name": "Of Time",
       "url": "https://open.spotify.com/track/1sTCddu1UJUspP9kNrBwa3"
+    },
+    {
+      "album": {
+        "name": "Oh Mami",
+        "url": "https://open.spotify.com/album/0FbC9lBGx5Q6B4AmYoFFXF"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "Mc Daddy",
+          "url": "https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161585,
+      "name": "Oh Mami",
+      "url": "https://open.spotify.com/track/1ZUEvvu34Oc2i2PuA6EitL"
     },
     {
       "album": {
@@ -4173,6 +4471,24 @@
     },
     {
       "album": {
+        "name": "Pes Mou",
+        "url": "https://open.spotify.com/album/24XW3NTVz6BUxPcGhGyozT"
+      },
+      "artists": [
+        {
+          "name": "Chrystelina",
+          "url": "https://open.spotify.com/artist/6QNaYdxuIulAq3M61FWAZ0"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181016,
+      "name": "Pes Mou",
+      "url": "https://open.spotify.com/track/7g3prQn7Cl9PBAcYhThp8N"
+    },
+    {
+      "album": {
         "name": "Yfanto",
         "url": "https://open.spotify.com/album/45TwwETue91iKgiVirqCYy"
       },
@@ -4551,6 +4867,28 @@
     },
     {
       "album": {
+        "name": "Psifiakos Kosmos",
+        "url": "https://open.spotify.com/album/0g6Vf3WYzpgV3doox4WfYG"
+      },
+      "artists": [
+        {
+          "name": "Luisa",
+          "url": "https://open.spotify.com/artist/1mzeq2AB4aYZwPfrU03C98"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Psifiakos Kosmos",
+      "url": "https://open.spotify.com/track/5Yj4cuyJid55keb7q2oJ8I"
+    },
+    {
+      "album": {
         "name": "Cliche",
         "url": "https://open.spotify.com/album/5PF18F21b6FiBhI9gppmQ9"
       },
@@ -4732,7 +5070,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 186626,
       "name": "Se Zontanes Sinavlies",
       "url": "https://open.spotify.com/track/5bq0yaHJujnKqQr2MWKf9P"
@@ -4826,10 +5164,32 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 331065,
       "name": "Sino Moi",
       "url": "https://open.spotify.com/track/5kcYTERi567rflTBI18ZiO"
+    },
+    {
+      "album": {
+        "name": "SKIP",
+        "url": "https://open.spotify.com/album/0Crpyj2542aCjN5S0nwHHY"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/28bAxhqkevzwM2b2dNaODZ"
+        },
+        {
+          "name": "Dimitris Koufoudakis",
+          "url": "https://open.spotify.com/artist/1Hj13p1TFwirPlIxOdEgZx"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "SKIP",
+      "url": "https://open.spotify.com/track/4Yk5ZqYXl7IXxKSNeUgLB0"
     },
     {
       "album": {
@@ -5044,6 +5404,24 @@
       "duration_ms": 166799,
       "name": "Ta Thelo Ola",
       "url": "https://open.spotify.com/track/5sjW1JgmGlxERfNZG4UpxU"
+    },
+    {
+      "album": {
+        "name": "Ta Tihera Trifilia",
+        "url": "https://open.spotify.com/album/1mFUVyv5YS7aXd2QMrZmIZ"
+      },
+      "artists": [
+        {
+          "name": "Mirela Pachou",
+          "url": "https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170868,
+      "name": "Ta Tihera Trifilia",
+      "url": "https://open.spotify.com/track/63hdTOJjkUGe6ulZi7wOSz"
     },
     {
       "album": {
@@ -5406,7 +5784,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 213972,
       "name": "To Nisi",
       "url": "https://open.spotify.com/track/6ngjZMlRcs4aLzSDMyUPYE"
@@ -5642,7 +6020,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 170504,
       "name": "Tsibidakia",
       "url": "https://open.spotify.com/track/05UMrMr0wBIBrCvVTBYyBV"
@@ -5928,7 +6306,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 166204,
       "name": "Zali",
       "url": "https://open.spotify.com/track/7aZp6LxyVKFjwiEna110ax"
@@ -5954,6 +6332,32 @@
       "duration_ms": 202140,
       "name": "Zo Ti Zoi",
       "url": "https://open.spotify.com/track/0qwTFZQJ6W1V2PeUTcNVIY"
+    },
+    {
+      "album": {
+        "name": "The Bwoi with the plan",
+        "url": "https://open.spotify.com/album/0b75UFaQJTJLIErjW9FjHh"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        },
+        {
+          "name": "DJ Tune",
+          "url": "https://open.spotify.com/artist/5yD9OVO5dKEteEVps9qG3v"
+        },
+        {
+          "name": "Jay Starr",
+          "url": "https://open.spotify.com/artist/6URi35MZoSTimeBvixyJyE"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201300,
+      "name": "\u0398. CINEMA",
+      "url": "https://open.spotify.com/track/1T4jPyEwa4XRnbPA2h8f8c"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9H4ZHqhys8z"

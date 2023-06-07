@@ -42,7 +42,7 @@
     {
       "album": {
         "name": "Volumes:One",
-        "url": "https://open.spotify.com/album/60unLuchirb55pFWGSi5WX"
+        "url": "https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h"
       },
       "artists": [
         {
@@ -57,6 +57,28 @@
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 382336,
+      "name": "As I",
+      "url": "https://open.spotify.com/track/5I0Y8d1UZaHNWnRPtYrMum"
+    },
+    {
+      "album": {
+        "name": "Volumes:One",
+        "url": "https://open.spotify.com/album/60unLuchirb55pFWGSi5WX"
+      },
+      "artists": [
+        {
+          "name": "Geeneus",
+          "url": "https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx"
+        },
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
       "duration_ms": 382336,
       "name": "As I (feat. Katy B)",
       "url": "https://open.spotify.com/track/4m4bkvpKjOr439pmr4892r"
@@ -702,7 +724,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 425638,
       "name": "Emotions (feat. Nikki)",
       "url": "https://open.spotify.com/track/7m3jySZj6AMGqoUHm1gLl8"
@@ -902,7 +924,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 361791,
       "name": "Funky Flex vs Pulse",
       "url": "https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ"
@@ -1581,6 +1603,28 @@
     },
     {
       "album": {
+        "name": "Mad In The Fete",
+        "url": "https://open.spotify.com/album/2JYf652YCwTdmhfx6Www7R"
+      },
+      "artists": [
+        {
+          "name": "Mak 10",
+          "url": "https://open.spotify.com/artist/7b99UWPONneDHPNUmOppM9"
+        },
+        {
+          "name": "Bala Bala Boyz",
+          "url": "https://open.spotify.com/artist/6VEV31FFx8Fh0cO37Twj11"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236977,
+      "name": "Mad In The Fete",
+      "url": "https://open.spotify.com/track/632siJNitjfYpynMYKfQrO"
+    },
+    {
+      "album": {
         "name": "Mad In The Fete (feat. Bala Bala Boyz)",
         "url": "https://open.spotify.com/album/2rMfnYger1SSWEzZwayOpr"
       },
@@ -1596,7 +1640,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 236977,
       "name": "Mad In The Fete (feat. Bala Bala Boyz)",
       "url": "https://open.spotify.com/track/5Ax15OS8YLh8o7m20C90LX"

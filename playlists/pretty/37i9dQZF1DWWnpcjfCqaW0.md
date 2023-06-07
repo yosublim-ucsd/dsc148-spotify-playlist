@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,027 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,174 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [I Don't Hurt Anymore \- Remastered](https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo) | [Hank Snow & His Rainbow Ranch Boys](https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:55 |
 | 75 | [A Satisfied Mind](https://open.spotify.com/track/0L9wb8Sy398mMog38XcfND) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Essential Porter Wagoner](https://open.spotify.com/album/76ijhEyT4DEJuwoyHd5bEk) | 2:46 |
 
-Snapshot ID: `MCxjNjZlODQ4ZGQ5ODFlNzYyMzM1ZmIyYTJjZmU3NzliNWI0YzRiYTMz`
+Snapshot ID: `MCw3ZTMwM2QyZTU2OGE5Nzg0N2ExYzIwYmVhZTAzOTk3MTczNmJmMWQ1`

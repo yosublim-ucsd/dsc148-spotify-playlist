@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Los Aptos y Cuco.",
-  "num_followers": 44729,
+  "num_followers": 44750,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmI4Yzk0NmUyNjMwNDFhMTcwMmUwZjEwOGIxYjYwM2Q3OTcwMWI0",
+  "snapshot_id": "MCxjN2NkNjA5NGE3NWVjYzU0NzY5NWQwNGY2NDMyZGNmOWRhNmRhNzVj",
   "tracks": [
     {
       "added_at": "2023-06-02 17:30:22",
@@ -611,22 +611,22 @@
     {
       "added_at": "2023-06-02 17:30:22",
       "album": {
-        "name": "galleta de la suerte",
-        "url": "https://open.spotify.com/album/0y3ClrFxeRlQOB82Ab4awS"
+        "name": "Instintos",
+        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
       },
       "artists": [
         {
-          "name": "Cheti",
-          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
         },
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
         }
       ],
-      "duration_ms": 144170,
-      "name": "galleta de la suerte",
-      "url": "https://open.spotify.com/track/59HnoaodyiRfatK5PbfUiU"
+      "duration_ms": 208723,
+      "name": "Instintos",
+      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
     },
     {
       "added_at": "2023-06-02 17:30:22",
@@ -655,22 +655,22 @@
     {
       "added_at": "2023-06-02 17:30:22",
       "album": {
-        "name": "Instintos",
-        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
+        "name": "galleta de la suerte",
+        "url": "https://open.spotify.com/album/0y3ClrFxeRlQOB82Ab4awS"
       },
       "artists": [
         {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
         },
         {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 208723,
-      "name": "Instintos",
-      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+      "duration_ms": 144170,
+      "name": "galleta de la suerte",
+      "url": "https://open.spotify.com/track/59HnoaodyiRfatK5PbfUiU"
     },
     {
       "added_at": "2023-06-02 17:30:22",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-06-02 17:30:22",
       "album": {
-        "name": "D\u00f3nde Se Fue",
-        "url": "https://open.spotify.com/album/5hyqHil6N94D39opduIeCB"
-      },
-      "artists": [
-        {
-          "name": "Mike Soto",
-          "url": "https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV"
-        },
-        {
-          "name": "Exale",
-          "url": "https://open.spotify.com/artist/476zvM4wDdcOOrDWKP9Wu7"
-        }
-      ],
-      "duration_ms": 166367,
-      "name": "D\u00f3nde Se Fue",
-      "url": "https://open.spotify.com/track/32ACpno0pKll8JsMywSpsG"
-    },
-    {
-      "added_at": "2023-06-02 17:30:22",
-      "album": {
         "name": "Siempre Hago Lo Que Quiero",
         "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 224000,
       "name": "Siempre Hago Lo Que Quiero",
       "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
+    },
+    {
+      "added_at": "2023-06-02 17:30:22",
+      "album": {
+        "name": "D\u00f3nde Se Fue",
+        "url": "https://open.spotify.com/album/5hyqHil6N94D39opduIeCB"
+      },
+      "artists": [
+        {
+          "name": "Mike Soto",
+          "url": "https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV"
+        },
+        {
+          "name": "Exale",
+          "url": "https://open.spotify.com/artist/476zvM4wDdcOOrDWKP9Wu7"
+        }
+      ],
+      "duration_ms": 166367,
+      "name": "D\u00f3nde Se Fue",
+      "url": "https://open.spotify.com/track/32ACpno0pKll8JsMywSpsG"
     },
     {
       "added_at": "2023-06-02 17:30:22",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-06-02 17:30:22",
       "album": {
+        "name": "Colores crom\u00e1ticos",
+        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 255524,
+      "name": "Colores crom\u00e1ticos",
+      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
+    },
+    {
+      "added_at": "2023-06-02 17:30:22",
+      "album": {
         "name": "Ver a Trav\u00e9s de tus Ojos",
         "url": "https://open.spotify.com/album/3LyFxQOJRwWCzhHjqp4fHL"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-06-02 17:30:22",
       "album": {
-        "name": "Colores crom\u00e1ticos",
-        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 255524,
-      "name": "Colores crom\u00e1ticos",
-      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
-    },
-    {
-      "added_at": "2023-06-02 17:30:22",
-      "album": {
         "name": "GARZA",
         "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-06-02 17:30:22",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/5tWgfnBjbkKhn7j7Q23SgD"
-      },
-      "artists": [
-        {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/6OwCDKci5J0HlQfpYlKe9f"
-    },
-    {
-      "added_at": "2023-06-02 17:30:22",
-      "album": {
         "name": "Algo Bien",
         "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 180236,
       "name": "2000nunca",
       "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
+    },
+    {
+      "added_at": "2023-06-02 17:30:22",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/5tWgfnBjbkKhn7j7Q23SgD"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/6OwCDKci5J0HlQfpYlKe9f"
     },
     {
       "added_at": "2023-06-02 17:30:22",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2023-06-02 17:30:22",
       "album": {
-        "name": "Fantas\u00eda",
-        "url": "https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb"
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
       },
       "artists": [
         {
-          "name": "Pollo Bruxo",
-          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
         },
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
         }
       ],
-      "duration_ms": 176679,
-      "name": "Fantas\u00eda",
-      "url": "https://open.spotify.com/track/2wzIkmA7ckiuwBfYFChacL"
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
     },
     {
       "added_at": "2023-06-02 17:30:22",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2023-06-02 17:30:22",
       "album": {
+        "name": "Fantas\u00eda",
+        "url": "https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb"
+      },
+      "artists": [
+        {
+          "name": "Pollo Bruxo",
+          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
+        },
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 176679,
+      "name": "Fantas\u00eda",
+      "url": "https://open.spotify.com/track/2wzIkmA7ckiuwBfYFChacL"
+    },
+    {
+      "added_at": "2023-06-02 17:30:22",
+      "album": {
         "name": "Quiz\u00e1s (La Historia de Nosotros)",
         "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 203761,
       "name": "Quiz\u00e1s (La Historia de Nosotros)",
       "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
-    },
-    {
-      "added_at": "2023-06-02 17:30:22",
-      "album": {
-        "name": "Nada Mal",
-        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        },
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Nada Mal",
-      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
     },
     {
       "added_at": "2023-06-02 17:30:22",

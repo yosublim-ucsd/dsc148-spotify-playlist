@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Hevo 84
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,981 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,989 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 64 | [Piloto Automático \- Ao Vivo no Studio F](https://open.spotify.com/track/2jaF9qxuI3hqvfH3xKlQcu) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Supercombo Ao Vivo no Studio F](https://open.spotify.com/album/3DnxGjjJhlvXuUgSkQpqvp) | 3:11 |
 | 65 | [Perfeição](https://open.spotify.com/track/6JKjPmMTx4RVcGw9oZOVqx) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Perfeição](https://open.spotify.com/album/3c1IScAFMFyk408EFVfPqF) | 4:15 |
 | 66 | [Órfãos Bastardos](https://open.spotify.com/track/5j6CanT7G1iq45F9kqnBhz) | [Surr](https://open.spotify.com/artist/6ne9xIUEUyKEmhbhPbWFAZ) | [Órfãos Bastardos](https://open.spotify.com/album/5F2J20m1i5S4sAUq21Ms5J) | 2:37 |
-| 67 | [Velejar](https://open.spotify.com/track/1kCLQCj7BBTWkUFMoo05kL) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Velejar](https://open.spotify.com/album/7FqaxQGN5HmrZCk9auyK6e) | 3:59 |
+| 67 | [Velejar](https://open.spotify.com/track/7avsrffq8765coCB5WaLtk) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 3:59 |
 | 68 | [Porta\-Malas](https://open.spotify.com/track/23dCpE0mEQQ4s6IzX3rkdh) | [HOZE](https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB) | [Porta\-Malas](https://open.spotify.com/album/4ZncdiiEK9GwarUR9ZeiAD) | 4:13 |
 | 69 | [Inabalável](https://open.spotify.com/track/3972PNho0RmiNcpIm6hcYn) | [Mattilha](https://open.spotify.com/artist/1p5k3q7GkTTeSI3dundiSU) | [Inabalável](https://open.spotify.com/album/6PG3v6BBWyDyDR3BgBqXgw) | 4:23 |
 | 70 | [Berrini](https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV) | [Molho Negro](https://open.spotify.com/artist/51aX6xmdT0iMI1FNCONTzR) | [Berrini](https://open.spotify.com/album/3Y8jVYw1s5O5bHSdzMrr7N) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 |
 | 75 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 |
 
-Snapshot ID: `MCw1ZWQ5YzA2MGUwZjJkZWIyZDg2NGI0ZTIxYzgzOTZiZjhjMTFlNjkw`
+Snapshot ID: `MCxkMDMxYjk1OGJkNjM2OGU2NzY3YWVmOTNiMzllODgzYWE3NmUzMmFi`

@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-509 songs - 1 day 9 hr 27 min
+510 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Dextereous](https://open.spotify.com/track/1Zait2JXHhKnnAhogy1pJJ) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Dextereous](https://open.spotify.com/album/0SH6CBD4cLzhVvElKEPMtE) | 3:08 | 2023-06-01 |  |
 | [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-16 |  |
 | [Dipping Birds](https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Dipping Birds](https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx) | 3:14 | 2022-11-17 |  |
+| [Distractions](https://open.spotify.com/track/34LqEe9GAniMgCJgN7jQzW) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Distractions](https://open.spotify.com/album/1Wgg5pGImhtCo9FJ3qGtGA) | 3:56 | 2023-06-01 |  |
 | [Don't Blame Me](https://open.spotify.com/track/5BDOsVUha92UcNnDmZkWTR) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Don't Blame Me](https://open.spotify.com/album/2dfSee4b6Y0iOmiatGOceh) | 3:06 | 2023-06-01 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-11-11 |  |
 | [Don't Love Me](https://open.spotify.com/track/0zDUzk5CwhgMctfuIP4eez) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:39 | 2021-12-16 | 2022-11-11 |
@@ -190,7 +191,7 @@
 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2022-11-24 |  |
 | [I See Your Face Before Me \- Remastered](https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Dippin'](https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j) | 5:29 | 2021-12-16 | 2022-11-11 |
 | [I Should Care](https://open.spotify.com/track/0uCk5mVLsnjndhPl7sXMCe) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [I Should Care](https://open.spotify.com/album/00pfFfQ3l1A9dZItYypDcg) | 3:27 | 2023-06-01 |  |
-| [I Will Never Forget You](https://open.spotify.com/track/2k6t2F2sRJnCRflfc5lLHb) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [I Will Never Forget You](https://open.spotify.com/album/1HMy9qwW27UExno4ElQUIX) | 3:14 | 2023-06-01 |  |
+| [I Will Never Forget You](https://open.spotify.com/track/2k6t2F2sRJnCRflfc5lLHb) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [I Will Never Forget You](https://open.spotify.com/album/1HMy9qwW27UExno4ElQUIX) | 3:14 | 2023-06-01 | 2023-06-07 |
 | [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2023-06-01 |  |
 | [I'll Never Be The Same](https://open.spotify.com/track/4hW6cmyVnxXT92Gd4xwzDj) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 6:08 | 2021-12-16 | 2022-11-11 |
 | [I'll Take Romance](https://open.spotify.com/track/0QPlQSzKFeCaUUsTKI5l3H) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Take Romance](https://open.spotify.com/album/3P6Gr9HoWa95zNt5TKb62t) | 3:46 | 2022-11-17 |  |

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-387 songs - 21 hr 32 min
+388 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Lock It Up](https://open.spotify.com/track/1GIKDc28Z95bWSIXgkr3y3) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Minus The Bullshit Life's Great](https://open.spotify.com/album/4oP4LxB36ixn9QydAT4Q45) | 3:46 | 2022-06-30 | 2022-09-03 |
 | [Lock My Door](https://open.spotify.com/track/0UeHMHVqM0eesT4f984vCP) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l), [Eauxby](https://open.spotify.com/artist/1m3MSOi9y9DRexRUuTsA14) | [Lock My Door](https://open.spotify.com/album/4MOAoml4xfTj9Civ9580re) | 3:35 | 2021-12-15 | 2022-04-08 |
 | [Lose Control](https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Bittersweet](https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0) | 3:01 | 2022-02-11 | 2023-04-29 |
+| [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 | 2023-05-05 |  |
 | [Love Again](https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 2:34 | 2023-02-12 |  |
 | [Love and Hate in a Different Time \- Original](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 | 2021-12-15 | 2023-03-25 |
 | [Love Frequency \- Stripped](https://open.spotify.com/track/0M1SoHpp1zyZdnVjUEjw3V) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Love Frequency \(Stripped\)](https://open.spotify.com/album/77rhrA74OSgHndy27dGO50) | 3:12 | 2023-06-02 |  |
@@ -356,7 +357,7 @@
 | [THIS SH!T](https://open.spotify.com/track/4e0nFC5a95gFWJUzrQ8ggy) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [LMBSKN](https://open.spotify.com/artist/5TLjx8KhJyYCPtCA08Zkd9) | [THIS SH!T](https://open.spotify.com/album/4wRmr1ozRCAVPSj06fL68W) | 2:50 | 2022-09-29 | 2023-03-02 |
 | [Thrive](https://open.spotify.com/track/0fuKweowW67sGmmuOp8GZW) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/0WWOl1EPBFsZq6HjQZmovl) | 2:10 | 2021-12-15 | 2022-02-12 |
 | [Tightrope](https://open.spotify.com/track/0qEeRTvWCUZ9PaCaS1ehwK) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Tightrope](https://open.spotify.com/album/30ksqmYH8xPqSQzOEII0mp) | 2:49 | 2022-11-09 | 2022-12-04 |
-| [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 | 2023-04-03 |  |
+| [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 | 2023-04-03 | 2023-06-07 |
 | [Too Much to Ask](https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/6XkV7UX68o3meM5Yl3BnMC) | 3:47 | 2021-12-15 | 2022-07-28 |
 | [Trash](https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Trash](https://open.spotify.com/album/06dSrdMvvtas3Y4OvQXXkb) | 3:29 | 2023-04-21 | 2023-05-15 |
 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 | 2021-12-15 | 2023-03-11 |

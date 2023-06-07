@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: محمود الليثى
 
-206 songs - 15 hr 44 min
+207 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [طبع الرجال](https://open.spotify.com/track/28wr7LAUuC6z3jcsNEG7ud) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [طبع الرجال](https://open.spotify.com/album/3fNR0i4ribDgYFfuucdVvI) | 4:22 | 2021-12-16 | 2022-07-29 |
 | [طبع الرجال](https://open.spotify.com/track/7fdzCAyk58bCnfWXADabsA) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [طبع الرجال](https://open.spotify.com/album/7uoWxSwBdz4DuZQufC5QTA) | 4:22 | 2022-07-14 |  |
 | [عاش يا وحش](https://open.spotify.com/track/4HmbpWe6dQomZWJASOIez4) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [عاش يا وحش](https://open.spotify.com/album/6YcJiA7eS8bWIB2hPLj6Jy) | 3:54 | 2021-12-16 | 2022-07-24 |
-| [عذبني عذب](https://open.spotify.com/track/5DZYT2wKA64KDXins0gTIO) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عذبني عذب](https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv) | 4:16 | 2023-02-03 |  |
+| [عذبني عذب](https://open.spotify.com/track/5DZYT2wKA64KDXins0gTIO) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عذبني عذب](https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv) | 4:16 | 2023-02-03 | 2023-06-07 |
 | [عشان الحلوين](https://open.spotify.com/track/6TyrvuX049CsYggJpMdYLK) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [عشان الحلوين](https://open.spotify.com/album/14XK0T7KIlVj5ddF1t6DxF) | 2:53 | 2021-12-16 | 2022-07-28 |
 | [فينك يا راحه](https://open.spotify.com/track/5gXfbfZBkXlnEPhvxMNdCW) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [فينك يا راحه](https://open.spotify.com/album/3o1lLPHhpSdk6plSKxNJxR) | 3:21 | 2021-12-16 | 2022-07-29 |
 | [قرار نهائى](https://open.spotify.com/track/43oIicOxYWzw75hJLHm1AW) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [قرار نهائى](https://open.spotify.com/album/2IkUWV4SlRri8UiiddXyUw) | 4:19 | 2022-07-14 | 2023-05-13 |
@@ -212,6 +212,7 @@
 | [ولا اتخلق](https://open.spotify.com/track/7i4LEpn9NcA8iuQo7z7sdO) | [امير قاسم](https://open.spotify.com/artist/4J3yHkMnoSQr7gJTeFhydd) | [ولا اتخلق](https://open.spotify.com/album/3CvXGG2DQF1bsLylVWl8Vh) | 5:35 | 2022-09-01 | 2023-05-01 |
 | [ولا اتخلق](https://open.spotify.com/track/5UxLwU9gVpev53BUhkB0Rz) | [امير قاسم](https://open.spotify.com/artist/4J3yHkMnoSQr7gJTeFhydd) | [ولا اتخلق](https://open.spotify.com/album/2RQ1woXbZSbxVhfBPIAQy9) | 5:35 | 2021-12-16 | 2022-07-29 |
 | [يا بت يلا](https://open.spotify.com/track/5RCNzhkR0PshCFMCZsnT2t) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [يا بت يلا](https://open.spotify.com/album/6wf0I4IPoVbeEEJQ2kbPqX) | 4:42 | 2021-12-16 | 2023-05-12 |
+| [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 | 2023-06-06 |  |
 | [يلا سلام](https://open.spotify.com/track/3ta6cNExN9B19VKESQtsnr) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [يلا سلام](https://open.spotify.com/album/0NHWTldRKmOBfdAQa5yQO3) | 4:02 | 2022-07-14 | 2022-12-21 |
 | [يلا سلام](https://open.spotify.com/track/6GCsl15IwaX7sbXXgoNE6P) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [يلا سلام](https://open.spotify.com/album/3vKVao9HNXPEH41wpgSFQ5) | 4:02 | 2021-12-16 | 2022-07-29 |
 

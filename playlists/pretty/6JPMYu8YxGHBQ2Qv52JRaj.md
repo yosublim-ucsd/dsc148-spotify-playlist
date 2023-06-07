@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/6JPMYu8YxGHBQ2Qv52JRaj.md) - [plain]
 
 > Updated at least once a month..\. cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 10 songs - 33 min 40 sec
+[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 10 songs - 35 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Breakout](https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc) | 3:35 |
-| 2 | [All Night](https://open.spotify.com/track/0mrdtRdrp9W05nKuE2qFO6) | [Bellecour](https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [All Night](https://open.spotify.com/album/6TlbQ4aXAwS1Iw55zm42jO) | 3:08 |
-| 3 | [break it down](https://open.spotify.com/track/6HXZrgQoXVURYPvg6tY6CD) | [TQD](https://open.spotify.com/artist/4VUDd8QHsZm8qSVUsAhCFG), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [break it down](https://open.spotify.com/album/41iHZNe0lLHMpIzs2ImsFV) | 3:14 |
-| 4 | [On & On](https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [On & On](https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf) | 2:20 |
-| 5 | [God Complex](https://open.spotify.com/track/1LUqGYDDpRlqw3X28Pr2KN) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [God Complex / Control The Most Of You](https://open.spotify.com/album/0JoHyD9azWs0iBiUU8vmKt) | 2:32 |
-| 6 | [Furious!](https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Hooders](https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS) | [Furious!](https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49) | 3:18 |
-| 7 | [Follow Me \- MPH Remix](https://open.spotify.com/track/6GNOQvVneRCDtTGphpLvuO) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Follow Me \(MPH Remix\)](https://open.spotify.com/album/2d774BCGmg8ANT4I4e98kc) | 3:57 |
-| 8 | [One For The](https://open.spotify.com/track/3Aj7r2ixHeht6kqquDhryG) | [Arc Nade](https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL), [Dynascope](https://open.spotify.com/artist/65a4hTtln4GW1NNkJe72eb) | [Nu Wave](https://open.spotify.com/album/22NoETscgH87Z0M9m1Y5xz) | 3:13 |
-| 9 | [DESIRE96](https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DESIRE96](https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb) | 4:13 |
-| 10 | [L.R.L.D.](https://open.spotify.com/track/2vlAFPryTEcJhdGAlh5xQo) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [L.R.L.D.](https://open.spotify.com/album/4mC5qrdPttU8rmsHIc1kWW) | 4:06 |
+| 1 | [Feels Like](https://open.spotify.com/track/2agZF53Tz4QqhutowFz8V3) | [LOOZBONE](https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx) | [Feels Like](https://open.spotify.com/album/10IT3iPMI60W2poFnRl1ti) | 5:23 |
+| 2 | [Gas Pedal \- Kyle Watson Remix](https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Gas Pedal \(Kyle Watson Remix\)](https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg) | 3:03 |
+| 3 | [You Right](https://open.spotify.com/track/58GOSPgDqiSblEpGD9gFda) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [You Right](https://open.spotify.com/album/7IkoF4tW0xPX9tVF9LxbnT) | 3:45 |
+| 4 | [Desire](https://open.spotify.com/track/4o9qh1t4OlY0CiuTNwhMiG) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06) | [Desire](https://open.spotify.com/album/5s21XVqI0I31porPGWJ97T) | 3:27 |
+| 5 | [Blow Your Mind](https://open.spotify.com/track/2NaOq4Db1JYRdDPxmh1Lr6) | [Fantom Freq](https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM), [SPACEWALK](https://open.spotify.com/artist/2uvFMBkYjjkXZJNcdslxMr) | [Blow Your Mind](https://open.spotify.com/album/5HGlhlqrjPPUoPJZhHbO7u) | 3:24 |
+| 6 | [RUSH](https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [RUSH](https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4) | 2:43 |
+| 7 | [New Hype](https://open.spotify.com/track/4bnXaaByV6Aj1peaDFgXom) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [New Hype](https://open.spotify.com/album/4eZDYWfC6hqvN4unldG8Eu) | 2:55 |
+| 8 | [In My Hand](https://open.spotify.com/track/23kuCRJIxwiwB7zubMmicH) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [In My Hand](https://open.spotify.com/album/6Xh2YMwtN94xzJyUyr2Ncl) | 4:09 |
+| 9 | [They Call Me](https://open.spotify.com/track/5AJZC6QXzSXzFL4th2jUkT) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [The RED Tape \(Deluxe\)](https://open.spotify.com/album/2I1vC9WZCG47pIFi37kmFn) | 3:12 |
+| 10 | [Back Again](https://open.spotify.com/track/5AjHfQmvYqKs3I4Qc0aFXo) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [JERO](https://open.spotify.com/artist/4UrjjYgWIyCWRkLTTswfHy) | [Back Again](https://open.spotify.com/album/1TIw2arqA2nlo3xeBe3cSj) | 3:09 |
 
-Snapshot ID: `NDUwLDU1NWY4OWE4NDg2MTBjMTQyNDY3MzAxMWY4ZmQ0N2MzYWQ2MDBiOWM=`
+Snapshot ID: `NDc1LGZjZjkxMzM4MjQ5ZDQyOTc0MzZjNDhkZjM0MWU2MjE2MWU0NjNlODk=`

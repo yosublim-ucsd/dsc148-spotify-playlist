@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 21361,
+  "num_followers": 21386,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTY3M2ZmYzYzYmZjNzJhMWIzZjhmYmY0YzIyY2M1YzJiNmQwMzdi",
+  "snapshot_id": "MCwyN2Q5MjdjYzA1YTkyNTkzMjIzNTEwYTdkMDMyMGNiYmIwNmU0YzAx",
   "tracks": [
     {
       "added_at": "2023-05-31 08:19:53",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
+        "name": "Blues & Roots",
+        "url": "https://open.spotify.com/album/7EOQggjtK8JCqeRz9IG33e"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 402240,
+      "name": "E's Flat Ah's Flat Too",
+      "url": "https://open.spotify.com/track/2uG5erIimWW9wLnz57BFFZ"
+    },
+    {
+      "added_at": "2023-05-31 08:19:53",
+      "album": {
         "name": "Astigmatic (Polish Jazz)",
         "url": "https://open.spotify.com/album/5AHmsOtE3kyBWr0TRqHyzD"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 450213,
       "name": "Kattorna",
       "url": "https://open.spotify.com/track/2JkLqYx0HQM0fMyfcppV4p"
-    },
-    {
-      "added_at": "2023-05-31 08:19:53",
-      "album": {
-        "name": "Blues & Roots",
-        "url": "https://open.spotify.com/album/7EOQggjtK8JCqeRz9IG33e"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 402240,
-      "name": "E's Flat Ah's Flat Too",
-      "url": "https://open.spotify.com/track/2uG5erIimWW9wLnz57BFFZ"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Out Of The Afternoon",
-        "url": "https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu"
+        "name": "More Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
       },
       "artists": [
         {
-          "name": "Roy Haynes Quartet",
-          "url": "https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX"
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
         }
       ],
-      "duration_ms": 282440,
-      "name": "Long Wharf",
-      "url": "https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp"
+      "duration_ms": 343600,
+      "name": "Theme From Mr. Broadway",
+      "url": "https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "More Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
+        "name": "Out Of The Afternoon",
+        "url": "https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu"
       },
       "artists": [
         {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+          "name": "Roy Haynes Quartet",
+          "url": "https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX"
         }
       ],
-      "duration_ms": 343600,
-      "name": "Theme From Mr. Broadway",
-      "url": "https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3"
+      "duration_ms": 282440,
+      "name": "Long Wharf",
+      "url": "https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -983,8 +983,8 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl"
+        "name": "Time For Tyner (2005 Remastered/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
         }
       ],
-      "duration_ms": 318400,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5"
+      "duration_ms": 512373,
+      "name": "Little Madimba - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Time For Tyner (2005 Remastered/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl"
       },
       "artists": [
         {
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
         }
       ],
-      "duration_ms": 512373,
-      "name": "Little Madimba - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0"
+      "duration_ms": 318400,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+        "name": "Black Fire",
+        "url": "https://open.spotify.com/album/2XOQztLkohDDWZH8DEECkQ"
       },
       "artists": [
         {
-          "name": "The Blue Mitchell Quintet",
-          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
         }
       ],
-      "duration_ms": 450400,
-      "name": "One Shirt - Remastered 2005/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk"
+      "duration_ms": 416120,
+      "name": "Black Fire - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3hVs1j5bcQaTdmOaby65RL"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Black Fire",
-        "url": "https://open.spotify.com/album/2XOQztLkohDDWZH8DEECkQ"
+        "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
       },
       "artists": [
         {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+          "name": "The Blue Mitchell Quintet",
+          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
         }
       ],
-      "duration_ms": 416120,
-      "name": "Black Fire - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3hVs1j5bcQaTdmOaby65RL"
+      "duration_ms": 450400,
+      "name": "One Shirt - Remastered 2005/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk"
     },
     {
       "added_at": "2023-05-31 08:19:53",

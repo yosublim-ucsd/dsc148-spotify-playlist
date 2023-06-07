@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 615,
+  "num_followers": 616,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNThlM2M4Njg5ZGZhNGQ4YTBmMzljMDc1OTllYjQwYWY0YzgyZmEx",
+  "snapshot_id": "MCxiOTVmZmZjNjRiOTlhMTk0ODYzZTc2MjYwZGMyZDhmMWE4NjBmYmZm",
   "tracks": [
     {
       "added_at": "2023-01-13 14:02:52",
@@ -189,22 +189,6 @@
       "url": "https://open.spotify.com/track/1JZvvNFskJttTabmaJA2ji"
     },
     {
-      "added_at": "2022-07-01 04:18:21",
-      "album": {
-        "name": "Bango",
-        "url": "https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 208195,
-      "name": "Bango",
-      "url": "https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Tumbiza Sound",
@@ -219,6 +203,22 @@
       "duration_ms": 190772,
       "name": "Tumbiza Sound",
       "url": "https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu"
+    },
+    {
+      "added_at": "2022-07-01 04:18:21",
+      "album": {
+        "name": "Bango",
+        "url": "https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 208195,
+      "name": "Bango",
+      "url": "https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf"
     },
     {
       "added_at": "2022-08-19 12:56:03",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Magazine",
-        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
-      },
-      "artists": [
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Magazine",
-      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Go Down",
         "url": "https://open.spotify.com/album/0uN5rQ90SWWH083CkSHI3T"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 207229,
       "name": "Go Down",
       "url": "https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
+      },
+      "artists": [
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Magazine",
+      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -881,30 +881,6 @@
       "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     },
     {
-      "added_at": "2023-01-20 05:09:22",
-      "album": {
-        "name": "Marijuana",
-        "url": "https://open.spotify.com/album/4Digf6fW7I9SjMeyB9VHdg"
-      },
-      "artists": [
-        {
-          "name": "DJ Shiru",
-          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
-        },
-        {
-          "name": "Bruno K",
-          "url": "https://open.spotify.com/artist/0DToGxUXxyiGk3sAbwwCtD"
-        },
-        {
-          "name": "Jackie Chandiru",
-          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
-        }
-      ],
-      "duration_ms": 219718,
-      "name": "Marijuana",
-      "url": "https://open.spotify.com/track/3KknqI9ODWVO7IeUGf2nuR"
-    },
-    {
       "added_at": "2022-05-19 20:59:00",
       "album": {
         "name": "Turn Up",
@@ -927,6 +903,30 @@
       "duration_ms": 254171,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/7JQCq8TJUyA7vWmYLkP73Y"
+    },
+    {
+      "added_at": "2023-01-20 05:09:22",
+      "album": {
+        "name": "Marijuana",
+        "url": "https://open.spotify.com/album/4Digf6fW7I9SjMeyB9VHdg"
+      },
+      "artists": [
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Bruno K",
+          "url": "https://open.spotify.com/artist/0DToGxUXxyiGk3sAbwwCtD"
+        },
+        {
+          "name": "Jackie Chandiru",
+          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
+        }
+      ],
+      "duration_ms": 219718,
+      "name": "Marijuana",
+      "url": "https://open.spotify.com/track/3KknqI9ODWVO7IeUGf2nuR"
     },
     {
       "added_at": "2022-03-31 17:42:20",

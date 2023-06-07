@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 946,
+  "num_followers": 960,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzQzZGYxMWE4ZDNjZDFiY2YzYzg1MzBlYjlkODk3YTRiY2RjODAy",
+  "snapshot_id": "MCw5M2M5MmI2MmE2N2YxNmM3NjE0OWYzNDg1MDYzMDA3OGZiZThkYTY3",
   "tracks": [
     {
       "added_at": "2023-05-26 08:05:11",
@@ -43,26 +43,6 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Agbebolo",
-        "url": "https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "NHYIRABA GIDEON",
-          "url": "https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl"
-        }
-      ],
-      "duration_ms": 332695,
-      "name": "Agbebolo",
-      "url": "https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "Agbebolo",
+        "url": "https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "NHYIRABA GIDEON",
+          "url": "https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl"
+        }
+      ],
+      "duration_ms": 332695,
+      "name": "Agbebolo",
+      "url": "https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "W' asue Me",
-      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
         "name": "Fawohodie(Twi Medley)",
         "url": "https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 594921,
       "name": "Fawohodie(Twi Medley)",
       "url": "https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+      },
+      "artists": [
+        {
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "W' asue Me",
+      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
+        "name": "Style Bia Bi",
+        "url": "https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f"
+      },
+      "artists": [
+        {
+          "name": "Great Ampong",
+          "url": "https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Style Bia Bi",
+      "url": "https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
         "name": "Lord Have Your Way",
         "url": "https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 184660,
       "name": "Nyame Ye",
       "url": "https://open.spotify.com/track/75mE5CO8KerkTVdZMfVSi3"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Style Bia Bi",
-        "url": "https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f"
-      },
-      "artists": [
-        {
-          "name": "Great Ampong",
-          "url": "https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg"
-        }
-      ],
-      "duration_ms": 249704,
-      "name": "Style Bia Bi",
-      "url": "https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -747,22 +747,6 @@
       "duration_ms": 518260,
       "name": "Mehyia Yesu",
       "url": "https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Gyae Su",
-        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
-      },
-      "artists": [
-        {
-          "name": "Solomon King",
-          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
-        }
-      ],
-      "duration_ms": 258001,
-      "name": "Gyae Su",
-      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -843,6 +827,22 @@
       "duration_ms": 321881,
       "name": "More",
       "url": "https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "Gyae Su",
+        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
+      },
+      "artists": [
+        {
+          "name": "Solomon King",
+          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
+        }
+      ],
+      "duration_ms": 258001,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
     },
     {
       "added_at": "2023-05-26 08:05:11",

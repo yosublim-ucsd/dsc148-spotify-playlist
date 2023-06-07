@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 243759,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 366576,
       "name": "D50",
       "url": "https://open.spotify.com/track/2wYlBQ6QBOniWpURHQgpRm"
@@ -835,6 +835,46 @@
     },
     {
       "album": {
+        "name": "The Definition EP",
+        "url": "https://open.spotify.com/album/1Z9JSuhCrfJhz5Ff4QRkG2"
+      },
+      "artists": [
+        {
+          "name": "Fatima Njai",
+          "url": "https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS"
+        },
+        {
+          "name": "Jerome Sydenham",
+          "url": "https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358095,
+      "name": "Defintion Pt.1",
+      "url": "https://open.spotify.com/track/2o8IsEskF4QQT5fKIsFues"
+    },
+    {
+      "album": {
+        "name": "Did This",
+        "url": "https://open.spotify.com/album/0AGNU1eunWqGsOVk609jxH"
+      },
+      "artists": [
+        {
+          "name": "Dino Lenny",
+          "url": "https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495000,
+      "name": "Did This",
+      "url": "https://open.spotify.com/track/3JB9XFS2yY7elkBE8ie9hi"
+    },
+    {
+      "album": {
         "name": "Tourism",
         "url": "https://open.spotify.com/album/1KSuviqPb3xFjO2dGnvgYh"
       },
@@ -868,7 +908,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 244343,
       "name": "Don't Be Afraid (feat. LATASH\u00c1)",
       "url": "https://open.spotify.com/track/1sY09LjCOiWtZKooLBhwUI"
@@ -912,7 +952,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 254891,
       "name": "Drama (feat. Rimarkable & Dope Earth Alien)",
       "url": "https://open.spotify.com/track/11sdASSwDIqz0jAJdwG59d"
@@ -1028,6 +1068,24 @@
       "duration_ms": 366227,
       "name": "Flying Lotus",
       "url": "https://open.spotify.com/track/0cqqhqdw63jNi3zojIFd18"
+    },
+    {
+      "album": {
+        "name": "Forever EP",
+        "url": "https://open.spotify.com/album/1Os6AtLQRHLzdMgwlEQwER"
+      },
+      "artists": [
+        {
+          "name": "Eddie Fowlkes",
+          "url": "https://open.spotify.com/artist/5s52J0wTa9B4YFG39iqXny"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329101,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0sPSHm2B6ECdQaBz4LWj7H"
     },
     {
       "album": {
@@ -1198,7 +1256,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 401974,
       "name": "Hardbody",
       "url": "https://open.spotify.com/track/0vAJxWHc0Hu9hK2aZZ69Ya"
@@ -1352,6 +1410,24 @@
       "duration_ms": 233877,
       "name": "Hyper",
       "url": "https://open.spotify.com/track/0N4wR3gRwTfPM0XFazyRAA"
+    },
+    {
+      "album": {
+        "name": "I Call Upon ...",
+        "url": "https://open.spotify.com/album/2649j7OFbcaJMEVjRMk2Jw"
+      },
+      "artists": [
+        {
+          "name": "Love Letters",
+          "url": "https://open.spotify.com/artist/1ALDJWUSGEnfpul5JCtjbD"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400476,
+      "name": "I Call Upon \u2026",
+      "url": "https://open.spotify.com/track/3KPCZEU5kgUUFoH6RxSY2v"
     },
     {
       "album": {
@@ -1734,7 +1810,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 422053,
       "name": "Leading Blacks",
       "url": "https://open.spotify.com/track/4mZBb1AbYI0bUsiUmiCfeS"
@@ -2603,6 +2679,46 @@
     },
     {
       "album": {
+        "name": "Tomat",
+        "url": "https://open.spotify.com/album/2LHxs0KwysanbzXyTmDLoz"
+      },
+      "artists": [
+        {
+          "name": "Thierry Tomas",
+          "url": "https://open.spotify.com/artist/1rkgEAOzeEk9ufScspMMUf"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474161,
+      "name": "Shaking",
+      "url": "https://open.spotify.com/track/1ENi3PY4fZ4sUgAvQLM030"
+    },
+    {
+      "album": {
+        "name": "Pandemonium",
+        "url": "https://open.spotify.com/album/3fu3vfxjIGlmRHSHTSlx26"
+      },
+      "artists": [
+        {
+          "name": "Seven Davis Jr.",
+          "url": "https://open.spotify.com/artist/0j4Q5USZhEJ3OUfyRyW2xj"
+        },
+        {
+          "name": "The Illustrious Blacks",
+          "url": "https://open.spotify.com/artist/1ZZthpcsHPWbkTUw7HNTu1"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346573,
+      "name": "Shook",
+      "url": "https://open.spotify.com/track/68eNl0GG7nppBhKkslZX1y"
+    },
+    {
+      "album": {
         "name": "Show Me Some Love (feat. Sadie Walker)",
         "url": "https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI"
       },
@@ -2789,6 +2905,28 @@
     },
     {
       "album": {
+        "name": "Stand (feat. Cor.Ece)",
+        "url": "https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Cor.Ece",
+          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361277,
+      "name": "Stand (feat. Cor.Ece) - Club Mix",
+      "url": "https://open.spotify.com/track/6H20CJYlqxSqkSYzS1AxSc"
+    },
+    {
+      "album": {
         "name": "Stop Space Return (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0qbOLcrwhleEUBu3OpEVyy"
       },
@@ -2866,7 +3004,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 265161,
       "name": "Tenacity - Main Vocal Edit",
       "url": "https://open.spotify.com/track/1BfsPI6rZJX2OEbvV2lvpN"
@@ -3052,7 +3190,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 378923,
       "name": "Virus Ruff Mutes - Sax Dub",
       "url": "https://open.spotify.com/track/6wdjoWeyEzBnc9YyqtCpFk"
@@ -3182,6 +3320,24 @@
       "duration_ms": 308279,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/6jm98tVTld0ynxrVeJApdP"
+    },
+    {
+      "album": {
+        "name": "Wild Life",
+        "url": "https://open.spotify.com/album/1M9BmNvDimkfa3P8O0aWAi"
+      },
+      "artists": [
+        {
+          "name": "Radio Slave",
+          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349285,
+      "name": "Wild Life - Disco Mix",
+      "url": "https://open.spotify.com/track/171eZVZOwpCU2wD0IiAz3p"
     },
     {
       "album": {

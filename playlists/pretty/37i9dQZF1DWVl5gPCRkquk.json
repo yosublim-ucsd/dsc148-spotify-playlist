@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 869067,
+  "num_followers": 869095,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTc4MDZjY2FkNTEwYmVlNDY1M2UzNzVkYTQxY2U2MDIwMDM5MGJk",
+  "snapshot_id": "MCxmYzZhNjkwMjcyZDQ2NzdkMTNiMjcxNDQ2ZmYwMmU3ZDQ3OTdjNGY5",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Between the Country",
-        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 269083,
-      "name": "Letter to Madeline",
-      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Feathers & Fishhooks",
         "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 233693,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Between the Country",
+        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 269083,
+      "name": "Letter to Madeline",
+      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Everyone's Moving Out East",
-        "url": "https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Everyone's Moving Out East",
-      "url": "https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "All Your Favorite Bands",
         "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+        "name": "Everyone's Moving Out East",
+        "url": "https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+      "duration_ms": 252293,
+      "name": "Everyone's Moving Out East",
+      "url": "https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 208649,
       "name": "A Mermaid in Lisbon",
       "url": "https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Radiator",
+        "url": "https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "duration_ms": 234783,
+      "name": "radiator",
+      "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "Down (Exit Song)",
         "url": "https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 187815,
       "name": "Down (Exit Song)",
       "url": "https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Radiator",
-        "url": "https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA"
-      },
-      "artists": [
-        {
-          "name": "Sadurn",
-          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
-        }
-      ],
-      "duration_ms": 234783,
-      "name": "radiator",
-      "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 198266,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
+      "duration_ms": 254200,
+      "name": "Feel Alive Again",
+      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1555,22 +1571,6 @@
       "duration_ms": 218426,
       "name": "Latter Days",
       "url": "https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Feel Alive Again",
-      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Witness Trees",
         "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Heron",
-        "url": "https://open.spotify.com/album/18MmURU3LigipnhvZh99Se"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
       },
       "artists": [
         {
-          "name": "Nassau",
-          "url": "https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 279510,
-      "name": "Whatever Brings You Peace of Mind",
-      "url": "https://open.spotify.com/track/2hLhXlfiQ5maYuFKS5217a"
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Heron",
+        "url": "https://open.spotify.com/album/18MmURU3LigipnhvZh99Se"
+      },
+      "artists": [
+        {
+          "name": "Nassau",
+          "url": "https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O"
+        }
+      ],
+      "duration_ms": 279510,
+      "name": "Whatever Brings You Peace of Mind",
+      "url": "https://open.spotify.com/track/2hLhXlfiQ5maYuFKS5217a"
     },
     {
       "added_at": "2023-06-02 04:01:00",

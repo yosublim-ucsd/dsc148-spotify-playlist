@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo:  GreenWoodz",
-  "num_followers": 36872,
+  "num_followers": 36871,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTAxZmVmNzdmMThhYTNiYWVmYzg2ODNlMzViMTkxOTIzMWRkMjEz",
+  "snapshot_id": "MCxlMTIyMTcyMDEyZGRiZTVlMjkxZTJiOTA3MTA3Mzk3YWE4NmU2YjE5",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -211,6 +211,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Business (feat. Naza)",
+        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 170435,
+      "name": "Business (feat. Naza)",
+      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Eyes contact (feat. Franglish)",
         "url": "https://open.spotify.com/album/486EpOJ7Wc1e2iv43XypPJ"
       },
@@ -231,26 +251,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Dans La Chambre / Money",
-        "url": "https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 197017,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Freestyle LVL UP 2",
         "url": "https://open.spotify.com/album/69poeNuEJvR2UGMqWDV8wF"
       },
@@ -267,22 +267,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Business (feat. Naza)",
-        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
+        "name": "Dans La Chambre / Money",
+        "url": "https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
         },
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 170435,
-      "name": "Business (feat. Naza)",
-      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+      "duration_ms": 197017,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -343,22 +343,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Un peu de moi",
-        "url": "https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj"
+        "name": "London Fever",
+        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
       },
       "artists": [
         {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 166906,
-      "name": "C\u00e2lin (feat. Soolking)",
-      "url": "https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK"
+      "duration_ms": 202106,
+      "name": "London Fever",
+      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -379,6 +375,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Un peu de moi",
+        "url": "https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "C\u00e2lin (feat. Soolking)",
+      "url": "https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "M\u00e9t\u00e9o",
         "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 182970,
       "name": "M\u00e9t\u00e9o",
       "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "London Fever",
-        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "London Fever",
-      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 214041,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Baby project",
         "url": "https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO"
       },
@@ -515,38 +531,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0"
+        "name": "BBM",
+        "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
       },
       "artists": [
         {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 214041,
-      "name": "Charlotte",
-      "url": "https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Dieu, mes Fr\u00e8res et le Fer",
-        "url": "https://open.spotify.com/album/0sqjvWznAZpm2OV2FakaaY"
-      },
-      "artists": [
-        {
-          "name": "HD La Rel\u00e8ve",
-          "url": "https://open.spotify.com/artist/3EguGZpwO69eFcoNj0vqW4"
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
         },
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 164100,
-      "name": "Elastiqu\u00e9",
-      "url": "https://open.spotify.com/track/7F5HJiph7AkAozWdKDF0F5"
+      "duration_ms": 179164,
+      "name": "BBM",
+      "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -575,38 +575,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "BBM",
-        "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
+        "name": "Dieu, mes Fr\u00e8res et le Fer",
+        "url": "https://open.spotify.com/album/0sqjvWznAZpm2OV2FakaaY"
       },
       "artists": [
         {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+          "name": "HD La Rel\u00e8ve",
+          "url": "https://open.spotify.com/artist/3EguGZpwO69eFcoNj0vqW4"
         },
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 179164,
-      "name": "BBM",
-      "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "J'avais besoin d'un p\u00e8re (Bonus Track)",
-        "url": "https://open.spotify.com/album/7DPZ5Wj7ndn47jYxXmjGxN"
-      },
-      "artists": [
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "J'avais besoin d'un p\u00e8re - Bonus Track",
-      "url": "https://open.spotify.com/track/3fJoBa767U2glkVFs8kPD6"
+      "duration_ms": 164100,
+      "name": "Elastiqu\u00e9",
+      "url": "https://open.spotify.com/track/7F5HJiph7AkAozWdKDF0F5"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -627,22 +611,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Mauvais r\u00eave",
-        "url": "https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "Je partirai",
-      "url": "https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "La Centrale",
         "url": "https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O"
       },
@@ -659,6 +627,38 @@
       "duration_ms": 166385,
       "name": "\u00c9ternel",
       "url": "https://open.spotify.com/track/4c21nWt1yyheyxXQAXxp6q"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "J'avais besoin d'un p\u00e8re (Bonus Track)",
+        "url": "https://open.spotify.com/album/7DPZ5Wj7ndn47jYxXmjGxN"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "J'avais besoin d'un p\u00e8re - Bonus Track",
+      "url": "https://open.spotify.com/track/3fJoBa767U2glkVFs8kPD6"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "Je partirai",
+      "url": "https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Iggy Pop",
-        "url": "https://open.spotify.com/album/2GXgOyEtON34DSqQv7cVOF"
-      },
-      "artists": [
-        {
-          "name": "Rom\u00e9o Elvis",
-          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
-        }
-      ],
-      "duration_ms": 168163,
-      "name": "Iggy Pop",
-      "url": "https://open.spotify.com/track/7lPHuXGYIAohOih9mg7kSq"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "H\u00c9RITAGE",
         "url": "https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Ce soir (j'suis dans ma t\u00eate)",
-        "url": "https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e"
+        "name": "Iggy Pop",
+        "url": "https://open.spotify.com/album/2GXgOyEtON34DSqQv7cVOF"
       },
       "artists": [
         {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+          "name": "Rom\u00e9o Elvis",
+          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
         }
       ],
-      "duration_ms": 140649,
-      "name": "Ce soir - j'suis dans ma t\u00eate",
-      "url": "https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O"
+      "duration_ms": 168163,
+      "name": "Iggy Pop",
+      "url": "https://open.spotify.com/track/7lPHuXGYIAohOih9mg7kSq"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -779,6 +763,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Ce soir (j'suis dans ma t\u00eate)",
+        "url": "https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 140649,
+      "name": "Ce soir - j'suis dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "On arrive demain (Extrait de la BO du film 'Pour l'honneur')",
         "url": "https://open.spotify.com/album/21nkUqfFZPUei57OxwpUv7"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Amn\u00e9sia",
-        "url": "https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm"
-      },
-      "artists": [
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "Amn\u00e9sia",
-      "url": "https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Make It Alright",
         "url": "https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 133822,
       "name": "Make It Alright",
       "url": "https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Amn\u00e9sia",
+        "url": "https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Amn\u00e9sia",
+      "url": "https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2"
     },
     {
       "added_at": "2023-06-02 04:00:00",

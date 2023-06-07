@@ -480,7 +480,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 233360,
       "name": "A Psalm of Life",
       "url": "https://open.spotify.com/track/1E14FuM0BRaHAJSJ9YxMVu"
@@ -4290,10 +4290,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 199133,
       "name": "Dangerously",
       "url": "https://open.spotify.com/track/4BLpd6QINAs4UXd1lVtdhj"
+    },
+    {
+      "album": {
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Dangerously",
+      "url": "https://open.spotify.com/track/6GBMbvX7sqyOxT5wWK4hgN"
     },
     {
       "album": {
@@ -8770,7 +8788,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 239026,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/2lsRp40mCRkhqULWdMbOzn"
@@ -10909,6 +10927,28 @@
     },
     {
       "album": {
+        "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
+        "url": "https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
+      "url": "https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE"
+    },
+    {
+      "album": {
         "name": "Love, Yerin",
         "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
       },
@@ -11411,6 +11451,24 @@
     },
     {
       "album": {
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188718,
+      "name": "Love Me Like This",
+      "url": "https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m"
+    },
+    {
+      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -11632,7 +11690,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 195173,
       "name": "Lovely Touch",
       "url": "https://open.spotify.com/track/7x3SGAkfIrzDr9paSslwMv"
@@ -14414,7 +14472,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 213995,
       "name": "People Pt.2 (feat. IU)",
       "url": "https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd"
@@ -16140,7 +16198,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 195688,
       "name": "S-Class",
       "url": "https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd"
@@ -16158,7 +16216,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 195688,
       "name": "S-Class",
       "url": "https://open.spotify.com/track/6LuvVxHXQDtsPxtE07Ycbe"

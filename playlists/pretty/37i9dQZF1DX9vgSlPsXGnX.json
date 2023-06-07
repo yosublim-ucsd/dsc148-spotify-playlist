@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 56079,
+  "num_followers": 56155,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWRlZDZlYWI3OTI5ZGE4OWE5NGY1NzcxOTkyOGZmNDU4MDFhMDZl",
+  "snapshot_id": "MCw4M2NlZGJiNjNkNTYxYWYyMWE4ODBmYmJjNTk1ODRiYThlY2JiYWMx",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "The Golden Record, Vol. 1",
-        "url": "https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Reyes",
-          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "Novia M\u00eda",
-      "url": "https://open.spotify.com/track/5IJ691iklYJBremu40wZLI"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
         "url": "https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 197877,
       "name": "Azul",
       "url": "https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "The Golden Record, Vol. 1",
+        "url": "https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Reyes",
+          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "Novia M\u00eda",
+      "url": "https://open.spotify.com/track/5IJ691iklYJBremu40wZLI"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Inspiraciones de Siempre",
-        "url": "https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI"
-      },
-      "artists": [
-        {
-          "name": "Virginia Lopez",
-          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Cari\u00f1ito Azucarado",
-      "url": "https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Serenata con Pedro Infante",
         "url": "https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 198080,
       "name": "No me platiques",
       "url": "https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Inspiraciones de Siempre",
+        "url": "https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI"
+      },
+      "artists": [
+        {
+          "name": "Virginia Lopez",
+          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "Cari\u00f1ito Azucarado",
+      "url": "https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -787,6 +787,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Los Tecolines: Bolero Romantico",
+        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Albricias",
+      "url": "https://open.spotify.com/track/2tp2urheCpgDbkqfoaD0U1"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 178173,
       "name": "En la Palma de la Mano",
       "url": "https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Los Tecolines: Bolero Romantico",
-        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Albricias",
-      "url": "https://open.spotify.com/track/2tp2urheCpgDbkqfoaD0U1"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "La Serenata de los Enamorados",
-        "url": "https://open.spotify.com/album/0ccaSPcFOccacjj9EVgJNx"
+        "name": "Los Tres Ases",
+        "url": "https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp"
       },
       "artists": [
         {
-          "name": "Marco Antonio Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 202573,
-      "name": "Donde Encontraras",
-      "url": "https://open.spotify.com/track/1dMK5yoypaN0cr3aW5xJqz"
+      "duration_ms": 182532,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh"
     }
   ],
   "unique_name": "B\u00e9same Mucho",

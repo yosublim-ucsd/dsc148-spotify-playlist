@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 78759,
+  "num_followers": 78917,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzNiZmFkMzg3Mzc2NzFkMjYwMWY0ZGZhMmE2ZTc1YjhkYWMzZWIy",
+  "snapshot_id": "MCw1YmZkNThkMWRmOTA5MWZiNTVmODkwZmM5NjQ4MzQ3Y2QzNTU0MjA5",
   "tracks": [
     {
       "added_at": "2023-05-30 11:25:30",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-05-30 11:25:30",
       "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "Slow Jam",
-      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
-    },
-    {
-      "added_at": "2023-05-30 11:25:30",
-      "album": {
         "name": "Personal Touch",
         "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 224626,
       "name": "Personal Touch",
       "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+    },
+    {
+      "added_at": "2023-05-30 11:25:30",
+      "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
     },
     {
       "added_at": "2023-05-30 11:25:30",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-05-30 11:25:30",
       "album": {
-        "name": "Livin' Large",
-        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
-    },
-    {
-      "added_at": "2023-05-30 11:25:30",
-      "album": {
         "name": "Smooth Sensation",
         "url": "https://open.spotify.com/album/12tng68mKohYzlVWT1QRna"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 269173,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1oFONPY1hZ7CUliqjNBYCR"
+    },
+    {
+      "added_at": "2023-05-30 11:25:30",
+      "album": {
+        "name": "Livin' Large",
+        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
     },
     {
       "added_at": "2023-05-30 11:25:30",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-05-30 11:25:30",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "A Quiet Place",
-      "url": "https://open.spotify.com/track/1OPul4djgqzViAUdGMHJof"
-    },
-    {
-      "added_at": "2023-05-30 11:25:30",
-      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 289866,
       "name": "Just Between Us",
       "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
+    },
+    {
+      "added_at": "2023-05-30 11:25:30",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "A Quiet Place",
+      "url": "https://open.spotify.com/track/1OPul4djgqzViAUdGMHJof"
     },
     {
       "added_at": "2023-05-30 11:25:30",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-05-30 11:25:30",
       "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 288666,
-      "name": "Island Life",
-      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
-    },
-    {
-      "added_at": "2023-05-30 11:25:30",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 276226,
       "name": "If Only For One Night",
       "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
+    },
+    {
+      "added_at": "2023-05-30 11:25:30",
+      "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "Island Life",
+      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
     },
     {
       "added_at": "2023-05-30 11:25:30",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-05-30 11:25:30",
       "album": {
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 269453,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/7dTrU26wEI2BTGZ5vb0HCy"
+    },
+    {
+      "added_at": "2023-05-30 11:25:30",
+      "album": {
         "name": "Guitar Man",
         "url": "https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 270400,
       "name": "The Lady In My Life",
       "url": "https://open.spotify.com/track/7r5B5N1ijHZuDSqNdoYPnK"
-    },
-    {
-      "added_at": "2023-05-30 11:25:30",
-      "album": {
-        "name": "Send One Your Love",
-        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 274013,
-      "name": "Send One Your Love",
-      "url": "https://open.spotify.com/track/1RMGbJnIQY6QhlqxKH8Fxf"
     },
     {
       "added_at": "2023-05-30 11:25:30",
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 269453,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/7dTrU26wEI2BTGZ5vb0HCy"
+      "duration_ms": 274013,
+      "name": "Send One Your Love",
+      "url": "https://open.spotify.com/track/1RMGbJnIQY6QhlqxKH8Fxf"
     },
     {
       "added_at": "2023-05-30 11:25:30",

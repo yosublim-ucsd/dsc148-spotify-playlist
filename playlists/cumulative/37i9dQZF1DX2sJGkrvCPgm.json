@@ -1787,6 +1787,28 @@
     },
     {
       "album": {
+        "name": "Christmas Carols, Vol. 1",
+        "url": "https://open.spotify.com/album/7bWrPU9hFL7sbtpDtvjrIM"
+      },
+      "artists": [
+        {
+          "name": "Texas Hill",
+          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
+        },
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193660,
+      "name": "Go Tell It on the Mountain (feat. Home Free)",
+      "url": "https://open.spotify.com/track/4QRE8h1gpjERky2LpAedbY"
+    },
+    {
+      "album": {
         "name": "God Made A Way",
         "url": "https://open.spotify.com/album/1sHDvHOITzgodxNW43WUtR"
       },
@@ -4042,7 +4064,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 292188,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/77t2jkqojne0vc9YDnJ3NP"
@@ -5244,7 +5266,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 234600,
       "name": "We Need Christmas",
       "url": "https://open.spotify.com/track/6FmtDq0oN2cHJqvS0VWBRU"
@@ -5530,7 +5552,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 93227,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr"

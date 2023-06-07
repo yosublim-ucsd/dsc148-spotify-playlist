@@ -4,7 +4,7 @@
 
 > Brand new music from Dave + Central Cee \(pictured\), Burna Boy, CMAT and more!
 
-3,913 songs - 8 day 20 hr 12 min
+3,914 songs - 8 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2875,7 +2875,7 @@
 | [Same Thing Every Day](https://open.spotify.com/track/4TonuDFhZeY5rrmkMFiiT5) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Same Thing Every Day](https://open.spotify.com/album/02H0yfRYPaeAJcnH4pklQl) | 3:14 | 2023-04-27 | 2023-05-05 |
 | [Sapphire](https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Sapphire / My Love](https://open.spotify.com/album/4MHJYdhNwFVF72lP1EoJOs) | 2:40 | 2022-12-16 | 2022-12-24 |
 | [SARAH'S SONG](https://open.spotify.com/track/4qXqizQEeb7HwvnEvMeGzD) | [Layzee Gold](https://open.spotify.com/artist/7hcfPgk1kIiXbQFbLwkTwK) | [SARAH'S SONG](https://open.spotify.com/album/0rOzWFTKMDGM94DiNzsfje) | 2:23 | 2023-01-06 | 2023-01-13 |
-| [SARIOUS \(with Ashbeck & BlazeYL\)](https://open.spotify.com/track/0jOkK6S0l6oZdRgjyU0jFF) | [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC), [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [BlazeYL](https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs) | [THANKS LONDO](https://open.spotify.com/album/5MJXm95eZ4JISyHbYRTIyt) | 2:59 | 2023-06-01 |  |
+| [SARIOUS \(with Ashbeck & BlazeYL\)](https://open.spotify.com/track/0jOkK6S0l6oZdRgjyU0jFF) | [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC), [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [BlazeYL](https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs) | [THANKSLONDO](https://open.spotify.com/album/5MJXm95eZ4JISyHbYRTIyt) | 2:59 | 2023-06-01 |  |
 | [Satellite](https://open.spotify.com/track/0DK6lGJisrNaLkiK6cjDaw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Satellite](https://open.spotify.com/album/4ulY3Mdx1N1VQ5Zn6wNnm6) | 3:28 | 2023-04-20 | 2023-04-28 |
 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 | 2023-05-04 | 2023-05-12 |
 | [Satellite 9](https://open.spotify.com/track/3qwf9TLFi1AxfNtFWiXEV1) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: Satellite 9 \| dvd](https://open.spotify.com/album/5l9YAHV3pOEF23ecMSxlZP) | 3:01 | 2022-10-28 | 2022-11-04 |
@@ -3734,7 +3734,8 @@
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-13 | 2023-01-20 |
 | [what's it like?](https://open.spotify.com/track/06UT5EKO1vsf0x1hr1AHFN) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [what's it like?](https://open.spotify.com/album/7KNOObXRkpC5GwtV14gEiD) | 3:19 | 2023-02-17 | 2023-02-24 |
 | [What's Left](https://open.spotify.com/track/00TozCuJkHJS7QmLI8BuLw) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [What's Left](https://open.spotify.com/album/1lgTSkKPOgRkjXvq6h3vll) | 3:30 | 2023-01-27 | 2023-02-03 |
-| [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-01 |  |
+| [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-01 | 2023-06-07 |
+| [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 |  |
 | [Whatever](https://open.spotify.com/track/0AwRyZIa069aRRRfLsHdor) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [48, Pt\. 2](https://open.spotify.com/album/4SF3uSCQ8AvJxULaGVNweq) | 3:22 | 2023-05-18 | 2023-05-26 |
 | [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 | 2023-05-04 | 2023-05-12 |
 | [Whatever's Inconvenient](https://open.spotify.com/track/20edSD8oKowIhOuLy2N8Jj) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Whatever's Inconvenient](https://open.spotify.com/album/4syDZp8rdgovzOrbLqkt0Z) | 4:27 | 2023-04-20 | 2023-04-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131 likes - 73 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132 likes - 73 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 68 | [My Dog](https://open.spotify.com/track/1GAZvNFMpO7wxbFZ0eSmfz) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [My Dog](https://open.spotify.com/album/6qKoCtBwejKKqRr5GJF5xM) | 2:13 |
 | 69 | [I Love My Dog](https://open.spotify.com/track/2acQOGXixZ4U0vy9qTMpFI) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [I Love My Dog](https://open.spotify.com/album/3NtqQmX1pKwwhpyUMFVIWI) | 2:59 |
 | 70 | [I Love My Pets](https://open.spotify.com/track/0Hzht1zNtH5hcTzom4wxW5) | [Music Movement & Magination](https://open.spotify.com/artist/4Wv5JjHd7TG8WBeCPH3tMe) | [Cool Creatures](https://open.spotify.com/album/0KaPrjF4OfBWgMw7h8bi2W) | 2:42 |
-| 71 | [My Pets](https://open.spotify.com/track/3OEkJKLTS9LaUvD95F7pFf) | [Toddler Time](https://open.spotify.com/artist/1vcbEEnJrrZ6NNi3jbSYGj), [The Kiwi Kids](https://open.spotify.com/artist/47JT89uuQEgzbC0azL0wox) | [Animal Songs](https://open.spotify.com/album/2NV9mGzEVEzNmdRomtHF3A) | 2:19 |
+| 71 | [My Pets](https://open.spotify.com/track/3OEkJKLTS9LaUvD95F7pFf) | [Toddler Time](https://open.spotify.com/artist/1vcbEEnJrrZ6NNi3jbSYGj) | [Animal Songs](https://open.spotify.com/album/2NV9mGzEVEzNmdRomtHF3A) | 2:19 |
 | 72 | [10 Little Kittens](https://open.spotify.com/track/6cM8FRo0LMRpkvajjfFsIJ) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Bounce, Sing, Learn, Sing](https://open.spotify.com/album/1Fx7A6waMMc2svhctLeqCK) | 2:23 |
 | 73 | [Haven't Got a Pet Yet](https://open.spotify.com/track/3KE82OPaRz4g2fCxerNkjI) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Field Trip](https://open.spotify.com/album/0iyg2QKAQBeU4UaOQSVI6l) | 2:28 |
 
-Snapshot ID: `MCxhZTU2YTFmZDBkYzE5MGRjZTBhZjA4OGE1NWVlMjQ4NWVlYjg2ZWMy`
+Snapshot ID: `MCxiMGJmZGYzMTEyNWZjMmUyYTdlZTM2NmJmZmZmMTlkMWM1OTg4NTkz`

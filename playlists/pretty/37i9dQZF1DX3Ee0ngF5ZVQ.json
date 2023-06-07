@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: William Beckmann",
-  "num_followers": 406423,
+  "num_followers": 406511,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjRmMGNiYzhkMWZiY2Q3NTkxOGFlNzFiODJlYWY0ZTA1MWJiYmU5",
+  "snapshot_id": "MCwwMzJmMGZmZjRmNzkxZTZjZWVkZjg0MzMzMDJmNDA3MThlYzhlMzk2",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I Ain't Going Nowhere",
-        "url": "https://open.spotify.com/album/6Eo6qKbzmF1J5YiiuWzYJV"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 204489,
-      "name": "I Ain't Going Nowhere",
-      "url": "https://open.spotify.com/track/0AQ3u9Uzk3IG5r7sjYH0Cu"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "'21",
         "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 204040,
       "name": "Highways",
       "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "I Ain't Going Nowhere",
+        "url": "https://open.spotify.com/album/6Eo6qKbzmF1J5YiiuWzYJV"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 204489,
+      "name": "I Ain't Going Nowhere",
+      "url": "https://open.spotify.com/track/0AQ3u9Uzk3IG5r7sjYH0Cu"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 270022,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Heaven Down Here",
         "url": "https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 215977,
       "name": "Easy on the Eyes",
       "url": "https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 270022,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Blacktop",
+        "url": "https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Drowning In Dreams",
         "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 167512,
       "name": "Where the Wildflowers Lay",
       "url": "https://open.spotify.com/track/6UGVVw3Jpck5k3IVeUWK0X"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Hurt No More",
-        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 214582,
-      "name": "Hurt No More",
-      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -811,22 +811,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Your Bar Now",
-        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
+        "name": "Hurt No More",
+        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
       },
       "artists": [
         {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
         }
       ],
-      "duration_ms": 214253,
-      "name": "Your Bar Now",
-      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
+      "duration_ms": 214582,
+      "name": "Hurt No More",
+      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Neon You",
-        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
+        "name": "Your Bar Now",
+        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
       "artists": [
         {
-          "name": "Don Louis",
-          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 187906,
-      "name": "Neon You",
-      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
+      "duration_ms": 214253,
+      "name": "Your Bar Now",
+      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Blacktop",
-        "url": "https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi"
+        "name": "Neon You",
+        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Wild as Her",
-      "url": "https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N"
+      "duration_ms": 187906,
+      "name": "Neon You",
+      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1091,38 +1091,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Down the Stairwell \u2013 Side A",
-        "url": "https://open.spotify.com/album/3pGCt22bCC6LLcNXIuR8AO"
-      },
-      "artists": [
-        {
-          "name": "David Pugh",
-          "url": "https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog"
-        }
-      ],
-      "duration_ms": 178971,
-      "name": "Beautiful Morning",
-      "url": "https://open.spotify.com/track/38Cw9mLDRWi311iOUbgjQe"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "That Drink (feat. Neal McCoy)",
         "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
       },
@@ -1143,18 +1111,50 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+        "name": "Down the Stairwell \u2013 Side A",
+        "url": "https://open.spotify.com/album/3pGCt22bCC6LLcNXIuR8AO"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "David Pugh",
+          "url": "https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog"
         }
       ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+      "duration_ms": 178971,
+      "name": "Beautiful Morning",
+      "url": "https://open.spotify.com/track/38Cw9mLDRWi311iOUbgjQe"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Sometimes I Do",
+        "url": "https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn"
+      },
+      "artists": [
+        {
+          "name": "Joe Peters",
+          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Sometimes I Do",
+      "url": "https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Sometimes I Do",
-        "url": "https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "Joe Peters",
-          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 201093,
-      "name": "Sometimes I Do",
-      "url": "https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Been Better",
+        "url": "https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4"
+      },
+      "artists": [
+        {
+          "name": "Shawn David",
+          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
+        }
+      ],
+      "duration_ms": 196507,
+      "name": "Been Better",
+      "url": "https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Josh Abbott Band and Friends, Vol. 1",
         "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 279115,
       "name": "Don't It Make You Wanna Dance?",
       "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Been Better",
-        "url": "https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4"
-      },
-      "artists": [
-        {
-          "name": "Shawn David",
-          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
-        }
-      ],
-      "duration_ms": 196507,
-      "name": "Been Better",
-      "url": "https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Chisholm Trail",
-        "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "Dalton Torres",
-          "url": "https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 187370,
-      "name": "Chisholm Trail",
-      "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "Chisholm Trail",
+        "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Dalton Torres",
+          "url": "https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 187370,
+      "name": "Chisholm Trail",
+      "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,431 likes - 33 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437 likes - 33 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 32 | [Oxycodone](https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:44 |
 | 33 | [Stars](https://open.spotify.com/track/5CMBnOjkRa3KwVDPISztEl) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 3:59 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDA3YzkwMDUwZjE5NjRhYTVmYTU3N2ZmMDU3MjAwYWUzZA==`
+Snapshot ID: `MjgxMDA5MjYsMDAwMDAwMDBjY2Y1MWExYzhiYzQzZDEzY2MwZTg1NjE3NmMwMjVmNw==`

@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Habstrakt",
-  "num_followers": 423679,
+  "num_followers": 423756,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjQwNzg2NDQ3ZDZmY2JkMThhMmJjNWE0MWI2YjNmOWRiZjdlNThh",
+  "snapshot_id": "MCw3MjM2NjEyMTUzNjA3YzM1ZDYxY2ZhMGQ1YTU4NDA3YTkxNDIwN2E3",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "SYMPHONY",
         "url": "https://open.spotify.com/album/0Llq9KaiTVbpljjRE4Eb1B"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 149706,
       "name": "SYMPHONY",
       "url": "https://open.spotify.com/track/3cPfCJLdadQ3u0T4DOTsnp"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -787,26 +787,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Hey Hey (Heard You Say)",
-        "url": "https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy"
+        "name": "The Way We Touch",
+        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
       },
       "artists": [
         {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        },
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
         }
       ],
-      "duration_ms": 233333,
-      "name": "Hey Hey (Heard You Say)",
-      "url": "https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS"
+      "duration_ms": 162580,
+      "name": "The Way We Touch",
+      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -831,22 +827,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "The Way We Touch",
-        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
+        "name": "Hey Hey (Heard You Say)",
+        "url": "https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         },
         {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
         }
       ],
-      "duration_ms": 162580,
-      "name": "The Way We Touch",
-      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
+      "duration_ms": 233333,
+      "name": "Hey Hey (Heard You Say)",
+      "url": "https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Bassline Rumble",
+        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 175969,
+      "name": "Bassline Rumble",
+      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Molotov",
         "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 178065,
       "name": "Molotov",
       "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Bassline Rumble",
-        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 175969,
-      "name": "Bassline Rumble",
-      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "The Blur",
-        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "The Blur",
-      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Drop The Mic",
         "url": "https://open.spotify.com/album/2Vgk7ORJws5bwZBdt0cWDG"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Gang Gang",
-        "url": "https://open.spotify.com/album/2UoDlleSyih3WgzHZYBElH"
+        "name": "The Blur",
+        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Gang Gang",
-      "url": "https://open.spotify.com/track/7ftiw2BSQHx7snbX0llu6a"
+      "duration_ms": 173333,
+      "name": "The Blur",
+      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 185625,
       "name": "Strut",
       "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Gang Gang",
+        "url": "https://open.spotify.com/album/2UoDlleSyih3WgzHZYBElH"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Gang Gang",
+      "url": "https://open.spotify.com/track/7ftiw2BSQHx7snbX0llu6a"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Trunk",
+        "url": "https://open.spotify.com/album/48Cw18pZx79ctaYTDAtD41"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "duration_ms": 122769,
+      "name": "Trunk",
+      "url": "https://open.spotify.com/track/3hx3VuB81vvTStn4gkke0D"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "CONTROVERSIA by Alok Vol. 008",
         "url": "https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 283125,
       "name": "Grit",
       "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Trunk",
-        "url": "https://open.spotify.com/album/48Cw18pZx79ctaYTDAtD41"
-      },
-      "artists": [
-        {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
-        }
-      ],
-      "duration_ms": 122769,
-      "name": "Trunk",
-      "url": "https://open.spotify.com/track/3hx3VuB81vvTStn4gkke0D"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Bodymorph",
+        "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "Serathrone",
+          "url": "https://open.spotify.com/artist/6VJx4L98UdyXINLjVYMHZt"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Bodymorph",
+      "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Don Malaa",
         "url": "https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP"
       },
@@ -1431,18 +1451,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/5JLP618DiRmiQbFkOv3tRe"
+        "name": "No Superstar",
+        "url": "https://open.spotify.com/album/3YUb3ygIZNpKOtFKBzJ1w8"
       },
       "artists": [
         {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        },
+        {
+          "name": "Boxter",
+          "url": "https://open.spotify.com/artist/65sT6Xz3nzLp3FXLjlLMoW"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/7Lyn64Gor9Pm8ad8Uyh4YS"
+      "duration_ms": 161153,
+      "name": "No Superstar",
+      "url": "https://open.spotify.com/track/0wnMqxdG3qdOmmgLwTgFdC"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1467,22 +1491,34 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Bodymorph",
-        "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/5JLP618DiRmiQbFkOv3tRe"
       },
       "artists": [
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "Serathrone",
-          "url": "https://open.spotify.com/artist/6VJx4L98UdyXINLjVYMHZt"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 243333,
-      "name": "Bodymorph",
-      "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
+      "duration_ms": 153600,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/7Lyn64Gor9Pm8ad8Uyh4YS"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "TEC-9",
+        "url": "https://open.spotify.com/album/36agK8BrIfyOpjrP0sMxsK"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 142734,
+      "name": "TEC-9",
+      "url": "https://open.spotify.com/track/44prQa5cc4wj0gnS5y5tt1"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1523,22 +1559,6 @@
       "duration_ms": 230742,
       "name": "Dipped In $ugar",
       "url": "https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "TEC-9",
-        "url": "https://open.spotify.com/album/36agK8BrIfyOpjrP0sMxsK"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 142734,
-      "name": "TEC-9",
-      "url": "https://open.spotify.com/track/44prQa5cc4wj0gnS5y5tt1"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1635,22 +1655,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "No Superstar",
-        "url": "https://open.spotify.com/album/3YUb3ygIZNpKOtFKBzJ1w8"
+        "name": "\u00a5\u20ac$, Pt. 1 (The Remixes)",
+        "url": "https://open.spotify.com/album/3EV7UiGjZUEBjvB8dFsy60"
       },
       "artists": [
         {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
         },
         {
-          "name": "Boxter",
-          "url": "https://open.spotify.com/artist/65sT6Xz3nzLp3FXLjlLMoW"
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 161153,
-      "name": "No Superstar",
-      "url": "https://open.spotify.com/track/0wnMqxdG3qdOmmgLwTgFdC"
+      "duration_ms": 164322,
+      "name": "No Tinder (Ootoro Remix)",
+      "url": "https://open.spotify.com/track/2EKLzBXQGMeqIRipkPPJQR"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1671,30 +1695,6 @@
       "duration_ms": 249677,
       "name": "You Only Die Once (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/1zSROLwDPEvO58gt28VKfW"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Who U With",
-        "url": "https://open.spotify.com/album/5Lfgd5wGgdP6jHaYlkWhVY"
-      },
-      "artists": [
-        {
-          "name": "Smalltown DJs",
-          "url": "https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f"
-        },
-        {
-          "name": "rrotik",
-          "url": "https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd"
-        },
-        {
-          "name": "Killa Kela",
-          "url": "https://open.spotify.com/artist/6xus0aGb1MipQik7XcSX82"
-        }
-      ],
-      "duration_ms": 161574,
-      "name": "Who U With (feat. Killa Kela)",
-      "url": "https://open.spotify.com/track/7HKsIwDpv9CqbXRkkMVkYU"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1723,26 +1723,42 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "\u00a5\u20ac$, Pt. 1 (The Remixes)",
-        "url": "https://open.spotify.com/album/3EV7UiGjZUEBjvB8dFsy60"
+        "name": "Who U With",
+        "url": "https://open.spotify.com/album/5Lfgd5wGgdP6jHaYlkWhVY"
       },
       "artists": [
         {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+          "name": "Smalltown DJs",
+          "url": "https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f"
         },
         {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+          "name": "rrotik",
+          "url": "https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd"
         },
         {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+          "name": "Killa Kela",
+          "url": "https://open.spotify.com/artist/6xus0aGb1MipQik7XcSX82"
         }
       ],
-      "duration_ms": 164322,
-      "name": "No Tinder (Ootoro Remix)",
-      "url": "https://open.spotify.com/track/2EKLzBXQGMeqIRipkPPJQR"
+      "duration_ms": 161574,
+      "name": "Who U With (feat. Killa Kela)",
+      "url": "https://open.spotify.com/track/7HKsIwDpv9CqbXRkkMVkYU"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Stack",
+        "url": "https://open.spotify.com/album/26QimsgTITriH6TD286J4d"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/5jduNsy3jdsT4UwwVTUKai"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1767,6 +1783,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Glimpse",
+        "url": "https://open.spotify.com/album/07dEI97wIBVVH9KGpacP0m"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/5AbJc4S4TOtSKQL6NLzBIm"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Block Party EP",
         "url": "https://open.spotify.com/album/0i0UghehaPAyvAKScn543o"
       },
@@ -1783,22 +1815,6 @@
       "duration_ms": 174395,
       "name": "Reality",
       "url": "https://open.spotify.com/track/2h6fLwmfDafmP1ImJFFskj"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Glimpse",
-        "url": "https://open.spotify.com/album/07dEI97wIBVVH9KGpacP0m"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Glimpse",
-      "url": "https://open.spotify.com/track/5AbJc4S4TOtSKQL6NLzBIm"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1823,6 +1839,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Get It",
+        "url": "https://open.spotify.com/album/1aew5ugGnswbfbubJMSfm9"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Get It - Radio Edit",
+      "url": "https://open.spotify.com/track/34ExSjW2JsqM9V88quCH9Z"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Burned",
         "url": "https://open.spotify.com/album/4fHVjE9mafXWU5Ptbi9OnH"
       },
@@ -1843,8 +1875,8 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Stack",
-        "url": "https://open.spotify.com/album/26QimsgTITriH6TD286J4d"
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp"
       },
       "artists": [
         {
@@ -1852,9 +1884,9 @@
           "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Stack",
-      "url": "https://open.spotify.com/track/5jduNsy3jdsT4UwwVTUKai"
+      "duration_ms": 200347,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1879,22 +1911,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Get It",
-        "url": "https://open.spotify.com/album/1aew5ugGnswbfbubJMSfm9"
-      },
-      "artists": [
-        {
-          "name": "Galoski",
-          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Get It - Radio Edit",
-      "url": "https://open.spotify.com/track/34ExSjW2JsqM9V88quCH9Z"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9"
       },
@@ -1907,26 +1923,6 @@
       "duration_ms": 207000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Dark Side",
-        "url": "https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya"
-      },
-      "artists": [
-        {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Dark Side",
-      "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1955,18 +1951,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "No Drama",
-        "url": "https://open.spotify.com/album/1CUAAq1mV9BlDgWJblzksq"
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya"
       },
       "artists": [
         {
-          "name": "KOCHAM",
-          "url": "https://open.spotify.com/artist/07gJZgbJwBIKN2DmCn7Dqu"
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
         }
       ],
-      "duration_ms": 175750,
-      "name": "No Drama",
-      "url": "https://open.spotify.com/track/1w4ljhCKKi48AA5WvJfEIF"
+      "duration_ms": 157440,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "No Drama",
+        "url": "https://open.spotify.com/album/1CUAAq1mV9BlDgWJblzksq"
+      },
+      "artists": [
+        {
+          "name": "KOCHAM",
+          "url": "https://open.spotify.com/artist/07gJZgbJwBIKN2DmCn7Dqu"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "No Drama",
+      "url": "https://open.spotify.com/track/1w4ljhCKKi48AA5WvJfEIF"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Trinity",
         "url": "https://open.spotify.com/album/0njFQTnCxfqVFWJh14Ptfd"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 222580,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/2aYs0Kg0Mt9XbmzPml3pND"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "B.T.H.D (Bring The House Down)",
-        "url": "https://open.spotify.com/album/3G3tu0CoisV0m8QlE1MXu6"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "B.T.H.D (Bring The House Down)",
-      "url": "https://open.spotify.com/track/6d39vg2NYSYH584ioqev75"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1efpvOFvmtOKiNTLh3xKmx"
       },
@@ -2135,6 +2119,42 @@
       "duration_ms": 159352,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/4RlapXgc7AWQkrn0gCx7iZ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "B.T.H.D (Bring The House Down)",
+        "url": "https://open.spotify.com/album/3G3tu0CoisV0m8QlE1MXu6"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "B.T.H.D (Bring The House Down)",
+      "url": "https://open.spotify.com/track/6d39vg2NYSYH584ioqev75"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Big & Bad Riddim",
+        "url": "https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG"
+      },
+      "artists": [
+        {
+          "name": "Vato Gonzalez",
+          "url": "https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Big & Bad Riddim",
+      "url": "https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2159,22 +2179,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Big & Bad Riddim",
-        "url": "https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG"
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/7fHMOHG8YAFLnGPvHPJTgZ"
       },
       "artists": [
         {
-          "name": "Vato Gonzalez",
-          "url": "https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG"
+          "name": "Golf Clap",
+          "url": "https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
         }
       ],
-      "duration_ms": 175238,
-      "name": "Big & Bad Riddim",
-      "url": "https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts"
+      "duration_ms": 226620,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/4kGKb76jdupromKClU6Udl"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2215,26 +2235,6 @@
       "duration_ms": 230000,
       "name": "Westcoaster - AC Slater Remix",
       "url": "https://open.spotify.com/track/3rcqrxKzMgfmJGUCDRYrgO"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/7fHMOHG8YAFLnGPvHPJTgZ"
-      },
-      "artists": [
-        {
-          "name": "Golf Clap",
-          "url": "https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN"
-        },
-        {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
-        }
-      ],
-      "duration_ms": 226620,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/4kGKb76jdupromKClU6Udl"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Usted Señalemelo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,459 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,474 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [De Música Ligera](https://open.spotify.com/track/7JJ8Tj60iPKV3X032uy0mn) | [Rēptile](https://open.spotify.com/artist/4HJ5kMnXsGIeEDi8yRMWMi) | [De Música Ligera](https://open.spotify.com/album/1FcyNl6LgNCgShTmheZKXQ) | 3:26 |
 | 50 | [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 |
 
-Snapshot ID: `MCxhZDc1OTA5NTMxMzllMzQ4Yjk4ZjgzMmRlNzZhNjViODE1NWQyYTU3`
+Snapshot ID: `MCwwMzI4MDlmNTE3N2NhNGUwYzQ1ZGRlYzhiNjA1OGVkYzQ2NzM5MzAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Folamour
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,541 likes - 99 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,544 likes - 99 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 5 | [Feels Like My Hands Are On Fire](https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:28 |
 | 6 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |
 | 7 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
-| 8 | [barla \- SHINICHI OSAWA REMIX](https://open.spotify.com/track/19LbN6WxOXuuCk1oKvA94G) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla \(SHINICHI OSAWA REMIX\)](https://open.spotify.com/album/0FkuCLlXRDMcC7KFbQs8O0) | 4:33 |
+| 8 | [barla \- SHINICHI OSAWA REMIX](https://open.spotify.com/track/1u2ve7Ju0PMxjIYAAnRzIP) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla \(SHINICHI OSAWA REMIX\)](https://open.spotify.com/album/0u1zCmHt9n4jX7FZIxeztc) | 4:33 |
 | 9 | [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 |
 | 10 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
 | 11 | [Don't Drop Dead](https://open.spotify.com/track/1NGtbDlXvF4wtzJk5mwrvI) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Midva](https://open.spotify.com/artist/3TwSL2bcc3d1HZGZY4NwqI) | [Don't Drop Dead](https://open.spotify.com/album/79o2wihQ10jYJ1POc2z8Mq) | 4:11 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 98 | [Unfolding \(Momentum 73\) \- Ron Trent Remix](https://open.spotify.com/track/5eSKAYrvRTXpLxGrAirVZ5) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Unfolding \(Momentum 73\) \[Ron Trent Remix\]](https://open.spotify.com/album/28xecaf0DFRLkdhgcdsWOS) | 8:32 |
 | 99 | [Sunrise](https://open.spotify.com/track/69lYM9QS3rkCpgYu1bv0Tz) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Sunrise](https://open.spotify.com/album/2li5OyXeNan4XE6mqs5Omj) | 4:37 |
 
-Snapshot ID: `MCxhYTQzNWI0NGM5ODk1NDdkOWM4NWQxNjA0YzBhZjUwMjMxOWJmMGY4`
+Snapshot ID: `MCxlYzczNDk2ZjlmN2M1YTdmYzJlYjA0ZmRjYWEyZDZiYjk5OWE5ZDhm`

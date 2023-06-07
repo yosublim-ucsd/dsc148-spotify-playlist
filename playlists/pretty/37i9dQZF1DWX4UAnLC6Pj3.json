@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis Alfonso Partida El Yaki en portada.",
-  "num_followers": 1119488,
+  "num_followers": 1119703,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjRjYjkwNDhkM2M1YzMwZWE5NjZjZGZiYjI2ODU0MmQwOTlmMDY3",
+  "snapshot_id": "MCwzNDliZmU2YzU5ZTQ4MTdkZTE2MDcyNmM2MjBmNDI2YTc2MjBhMzgy",
   "tracks": [
     {
       "added_at": "2023-05-26 16:32:51",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-05-26 16:32:51",
       "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Y Me Da Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
+    },
+    {
+      "added_at": "2023-05-26 16:32:51",
+      "album": {
         "name": "\u00bfCu\u00e1les Fronteras?",
         "url": "https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 180000,
       "name": "\u00bfCu\u00e1les Fronteras?",
       "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
-    },
-    {
-      "added_at": "2023-05-26 16:32:51",
-      "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Y Me Da Verg\u00fcenza",
-      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
     },
     {
       "added_at": "2023-05-26 16:32:51",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-05-26 16:32:51",
       "album": {
-        "name": "Soldado Ca\u00eddo",
-        "url": "https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 182686,
-      "name": "Soldado Ca\u00eddo",
-      "url": "https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs"
-    },
-    {
-      "added_at": "2023-05-26 16:32:51",
-      "album": {
         "name": "M En El Radar",
         "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 140546,
       "name": "M En El Radar",
       "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
+    },
+    {
+      "added_at": "2023-05-26 16:32:51",
+      "album": {
+        "name": "Soldado Ca\u00eddo",
+        "url": "https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 182686,
+      "name": "Soldado Ca\u00eddo",
+      "url": "https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs"
     },
     {
       "added_at": "2023-05-26 16:32:51",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-05-26 16:32:51",
       "album": {
+        "name": "Una Julio 70",
+        "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 175829,
+      "name": "Una Julio 70",
+      "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
+    },
+    {
+      "added_at": "2023-05-26 16:32:51",
+      "album": {
         "name": "Si Esta Botella Hablara",
         "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 188511,
       "name": "Si Esta Botella Hablara",
       "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
-    },
-    {
-      "added_at": "2023-05-26 16:32:51",
-      "album": {
-        "name": "Una Julio 70",
-        "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 175829,
-      "name": "Una Julio 70",
-      "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
     },
     {
       "added_at": "2023-05-26 16:32:51",

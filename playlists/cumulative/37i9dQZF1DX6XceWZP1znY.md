@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-756 songs - 2 day 1 hr 55 min
+757 songs - 2 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 | 2022-06-07 | 2023-04-12 |
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 | 2022-06-07 | 2023-04-02 |
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7LVsLHXVLscS5xY7q50TLT) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Koko de Iki wo Shite](https://open.spotify.com/album/37eKnOf4wa5owxHtsBZIho) | 3:36 | 2022-08-11 | 2022-11-13 |
+| [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 | 2023-05-25 |  |
 | [LEADER](https://open.spotify.com/track/7aL1ICSO4JYdRzQcxQ96lz) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [LEADER](https://open.spotify.com/album/25OW9AC6DkJlE2fD6uTLyn) | 4:05 | 2022-06-07 | 2022-07-28 |
 | [Leap of faith](https://open.spotify.com/track/0EtjeTBZiL6wcKMpRein57) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [Leap of faith](https://open.spotify.com/album/3W2pY2vDliZZtnlWvuJtwn) | 5:45 | 2022-06-07 | 2022-07-26 |
 | [Let There Be Light Again](https://open.spotify.com/track/1LmvLYFhQoAN4rp0rKghrc) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [TV ANIMATION "Sonny Boy" original soundtrack](https://open.spotify.com/album/3BDCnUJdWICWMDzamhY2fa) | 3:47 | 2022-06-07 | 2022-07-27 |
@@ -339,7 +340,7 @@
 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-04-12 |  |
 | [SLUMP \-Japanese ver.\-](https://open.spotify.com/track/5duEyPwRu0D5RVLkVORqLG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 2:16 | 2022-06-07 | 2023-05-02 |
 | [SLUMP \-Japanese ver.\-](https://open.spotify.com/track/66JOk3VWkYDxriXsuYtqDc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLUMP \-Japanese ver.\-](https://open.spotify.com/album/5ny4DPSYvFntWlN0NoCcDC) | 2:17 | 2022-06-07 | 2022-07-29 |
-| [Small world](https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Small world](https://open.spotify.com/album/2tPzJBPpHmEQfmn9xlVuLD) | 5:22 | 2022-06-07 |  |
+| [Small world](https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Small world](https://open.spotify.com/album/2tPzJBPpHmEQfmn9xlVuLD) | 5:22 | 2022-06-07 | 2023-06-07 |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-10-04 |  |
 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-07 | 2023-04-17 |
 | [SPARKLES](https://open.spotify.com/track/3heytsqAvwcOmpvJvKop80) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/7DLjM7lmuv7rlhVShdIBXN) | 4:36 | 2022-12-23 | 2023-01-27 |

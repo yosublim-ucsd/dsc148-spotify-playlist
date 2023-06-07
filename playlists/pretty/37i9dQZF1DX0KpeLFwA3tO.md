@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,674 likes - 125 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,758 likes - 125 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [PTS.DUP](https://open.spotify.com/track/3jRS2ItbdoucLPNWFbvr0E) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [PTS.DUP](https://open.spotify.com/album/4z6M5jHJyrSGpHZxbCTHii) | 2:30 |
 | 125 | [Bullet](https://open.spotify.com/track/2ctGYwu2wHsfDHWPvmKWbw) | [Split System](https://open.spotify.com/artist/37jDGGhU8pF8nOMBhodmxW) | [SPLIIT SYSTEM](https://open.spotify.com/album/3oh8hFPyPHAMH25keYm6CH) | 2:49 |
 
-Snapshot ID: `MCw1MDE0NTlhMjc5MDY1MDAwYjIxZDdiY2EzYmRlOGVmZTU5MjExMjhh`
+Snapshot ID: `MCw3MmQ1NzIyYTY5ZjBlZTkyNjE5YzZjNzkyODRjMmMwYzA3MzVkNDkz`

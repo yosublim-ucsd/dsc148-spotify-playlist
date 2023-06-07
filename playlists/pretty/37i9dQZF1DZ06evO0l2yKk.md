@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,206 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,319 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 7 | [Que Nadie Sepa](https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Que Nadie Sepa](https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr) | 3:31 |
 | 8 | [Qué No Daría](https://open.spotify.com/track/5RnAQujhg7KANiHPvLE5wV) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Cómo Te Llamas Paloma](https://open.spotify.com/album/3yBgnBHZZM4MtQccrUMGc3) | 2:49 |
 | 9 | [El Primer Tonto](https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:50 |
-| 10 | [Compréndala](https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:26 |
-| 11 | [Si Yo Fuera Él](https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Si Yo Fuera El](https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd) | 2:48 |
+| 10 | [Si Yo Fuera Él](https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Si Yo Fuera El](https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd) | 2:48 |
+| 11 | [Compréndala](https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:26 |
 | 12 | [No Te Extraño](https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Renta Un Corazón \(Reissue\)](https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t) | 3:23 |
 | 13 | [Si Ella Supiera](https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:52 |
 | 14 | [Y Como Es El](https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Amor De Unas Horas](https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR) | 2:54 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 26 | [Amor De Unas Horas](https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Amor De Unas Horas](https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR) | 3:01 |
 | 27 | [Y Que Ganaste](https://open.spotify.com/track/58f8H6UCND0m4Isp1NufSH) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Lo Mas Ranchero De...](https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3) | 3:15 |
 | 28 | [Cómo Te Llamas Paloma](https://open.spotify.com/track/2lUdyrpCivpQ68urv8NOhS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 3:23 |
-| 29 | [Con Dinero Puedes](https://open.spotify.com/track/5azatzKtdWzP6EdJgRYdH4) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [La Cosecha](https://open.spotify.com/album/2wxqA2oR1vaJMJ4wRwcUW6) | 3:23 |
-| 30 | [Nuevamente El Amor](https://open.spotify.com/track/3ADa5NLyUgz1mUGpJZ8ZGh) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Nuevamente El Amor](https://open.spotify.com/album/7qFy8pz6riHrOQLtFHjXcF) | 2:55 |
+| 29 | [Nuevamente El Amor](https://open.spotify.com/track/3ADa5NLyUgz1mUGpJZ8ZGh) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Nuevamente El Amor](https://open.spotify.com/album/7qFy8pz6riHrOQLtFHjXcF) | 2:55 |
+| 30 | [Con Dinero Puedes](https://open.spotify.com/track/5azatzKtdWzP6EdJgRYdH4) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [La Cosecha](https://open.spotify.com/album/2wxqA2oR1vaJMJ4wRwcUW6) | 3:23 |
 | 31 | [Ni Amores Ni Deudas \(feat\. Los Invasores de Nuevo León\)](https://open.spotify.com/track/37XJBZYOnErRNl7vawIwf7) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [10+10](https://open.spotify.com/album/32PDVB8vzIpO0hqyas42fY) | 2:26 |
 | 32 | [Ya Lo Sé](https://open.spotify.com/track/72cE9jrib8s3GRrRAkt5TJ) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 3:54 |
 | 33 | [Asesino A Sueldo](https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:26 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 44 | [Paso A La Reina](https://open.spotify.com/track/3CosMMnSSNSliFKYXprv3F) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 3:31 |
 | 45 | [El Señor De Las Canas](https://open.spotify.com/track/5fnLEufeYsIAK7n7BiqBuY) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [A Mis Viejos](https://open.spotify.com/album/1VZWvdtpCIi1VdP0IYgznz) | 2:47 |
 | 46 | [De Norte a Sur](https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 2:52 |
-| 47 | [Espero Que Él](https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Que Nadie Sepa](https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr) | 3:24 |
-| 48 | [Misa De Cuerpo Presente](https://open.spotify.com/track/39jp91yfW61L2bBjpucX1D) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con La Fuerza Del Corrido](https://open.spotify.com/album/37bhDovE8wMyJvO79rkUoX) | 3:13 |
+| 47 | [Misa De Cuerpo Presente](https://open.spotify.com/track/39jp91yfW61L2bBjpucX1D) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con La Fuerza Del Corrido](https://open.spotify.com/album/37bhDovE8wMyJvO79rkUoX) | 3:13 |
+| 48 | [Espero Que Él](https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Que Nadie Sepa](https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr) | 3:24 |
 | 49 | [Soy](https://open.spotify.com/track/2f91i2aiTHOwQJp2NyYhd8) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 2:47 |
 | 50 | [Te Quiero Agradecer](https://open.spotify.com/track/6dpbSR39ltvxZzul2jILPn) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Te Quiero Agradecer](https://open.spotify.com/album/4qbNVMTeJrZ3GNfIz0iEhL) | 3:23 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDBhYjZmNDc4ZDIwZTJmYTY1MDE3MDAwY2ExODJhMzdjOA==`
+Snapshot ID: `MjgxMDA5MjUsMDAwMDAwMDA1YjUwODhhZGIzOGY0NDg4M2E4ZDAxNjJmZWNkODkxNQ==`

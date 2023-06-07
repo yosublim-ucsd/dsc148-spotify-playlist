@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-602 songs - 1 day 3 hr 1 min
+603 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Breakin' up](https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Breakin' up](https://open.spotify.com/album/5BFxVlpvsWgSV3yv0fDr5H) | 1:36 | 2021-12-23 | 2022-12-24 |
 | [Breathless](https://open.spotify.com/track/7K76pNICpiDDFttIaC6AC9) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Breathless](https://open.spotify.com/album/32rbFzTwhILmdD8Uly8z05) | 1:37 | 2021-12-23 | 2022-07-28 |
 | [Breezin](https://open.spotify.com/track/5nV7xJB5Lh4ks9PCdbfViA) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/3yAPYYlji22xOiK2NyJ1Ip) | 2:35 | 2022-08-25 | 2022-08-27 |
-| [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 |  |
+| [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 | 2023-06-07 |
 | [Busy Bird](https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8) | [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV), [Mirror Box](https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F) | [Busy Bird](https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN) | 2:10 | 2023-04-25 |  |
 | [Butterflies](https://open.spotify.com/track/17HildELPzUrRMOgs4FiHG) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Butterflies](https://open.spotify.com/album/2asHs1rwL8lirE0JagjVDt) | 2:04 | 2021-12-23 | 2022-07-25 |
 | [Butterfly](https://open.spotify.com/track/46wL47Ne7Q8dEj6iRUNjQ0) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Butterfly](https://open.spotify.com/album/1RTL9I3CVJ5hWPR8O71Lhx) | 3:15 | 2021-12-23 | 2022-07-22 |
@@ -605,6 +605,7 @@
 | [YUYAKE](https://open.spotify.com/track/5yyQpRRoBp3FsivksZ4Ars) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/5eLICFFzPhy0vjnbufvHVy) | 3:00 | 2022-05-26 | 2022-07-28 |
 | [Yuzu](https://open.spotify.com/track/1IzeP9IJRMTu5edmoaHScF) | [H¥NOK¥](https://open.spotify.com/artist/4hCf7jwZpqSCKNqr8ZjR7k) | [Yuzu](https://open.spotify.com/album/0LqbxgFY5W58ebN81ocOyE) | 2:09 | 2021-12-23 | 2022-07-25 |
 | [ホリデー \- Instrumental](https://open.spotify.com/track/5hwbj7LQDhasXvoi1rQqUx) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [ホリデー \(Instrumental\)](https://open.spotify.com/album/6CJdNmuyfwwHnLy0pLdt25) | 4:00 | 2021-12-23 | 2022-07-29 |
+| [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 |  |
 | [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 | 2022-07-17 |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |

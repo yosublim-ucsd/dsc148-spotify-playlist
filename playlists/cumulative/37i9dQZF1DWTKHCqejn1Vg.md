@@ -4,13 +4,14 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-223 songs - 12 hr 14 min
+224 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+](https://open.spotify.com/track/5FZNczPCUh5scxptzYLBTO) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:42 | 2022-05-03 | 2022-07-12 |
 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 | 2022-05-03 |  |
 | [21](https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:27 | 2022-05-03 |  |
+| [24K \(feat\. Kvsh, DUT2\)](https://open.spotify.com/track/2wFBG0ZqKrsHAtPms5s1zU) | [blienty](https://open.spotify.com/artist/0WXbuQdVdZWapK6SbQCO7A), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [RESONANCE](https://open.spotify.com/album/70djbLtJZMX8tOviF3LqW6) | 2:43 | 2023-06-02 |  |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-08 |  |
 | [2nd THOTS](https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:44 | 2022-07-08 |  |
 | [2nd Thots](https://open.spotify.com/track/4vYr4W0t855qPXGPTFp5ky) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:44 | 2022-05-03 | 2022-07-29 |
@@ -95,7 +96,7 @@
 | [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 | 2022-07-08 |  |
 | [Harujongil](https://open.spotify.com/track/67TFGDlhk2GQ9ALDjqPWlE) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/6CFhQLoXy665joV93vkgU4) | 3:44 | 2022-05-03 | 2022-07-29 |
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-03 | 2022-10-08 |
-| [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-22 |  |
+| [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-22 | 2023-06-07 |
 | [haze](https://open.spotify.com/track/5tk3TXsF2wumsj8Cq24v5g) | [GRACY 그레씨](https://open.spotify.com/artist/58u1UWevJvtHatOoupz6bD) | [haze](https://open.spotify.com/album/4UFQ9QaMbdSfCgSZeFNXwM) | 2:50 | 2022-05-03 | 2022-07-14 |
 | [Heart is](https://open.spotify.com/track/1ausSMkofY5DUmCPvmO4F2) | [OA](https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A) | [Fly me away](https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ) | 3:11 | 2022-05-03 | 2022-07-29 |
 | [Henny](https://open.spotify.com/track/5hTcZKCWKGIH6ykVvNYqYX) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:46 | 2022-05-03 | 2022-06-05 |

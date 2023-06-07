@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,360 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,542 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 29 | [Free My Mind](https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Free My Mind](https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM) | 2:40 |
 | 30 | [Save Me](https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [TRIXL](https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Save Me](https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf) | 2:40 |
 | 31 | [Low \(feat\. Victor Perry\)](https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Victor Perry](https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE) | [Low \(feat\. Victor Perry\)](https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5) | 2:25 |
-| 32 | [Várias Queixas \- Remix](https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV) | [Brunetta](https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas \(Remix\)](https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs) | 2:03 |
-| 33 | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc) | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO) | 5:42 |
+| 32 | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc) | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO) | 5:42 |
+| 33 | [Várias Queixas \- Remix](https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV) | [Brunetta](https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas \(Remix\)](https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs) | 2:03 |
 | 34 | [Infinito Particular \- Bhaskar Remix](https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Infinito Particular \(Bhaskar Remix\)](https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp) | 2:40 |
 | 35 | [Me Cura](https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Me Cura](https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8) | 3:03 |
 | 36 | [Back to Beginning](https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n), [Talking Dirty](https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA) | [Back to Beginning](https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y) | 3:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [O Xote Das Meninas \- Pontifexx Remix](https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [O Xote Das Meninas \(Pontifexx Remix\)](https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT) | 3:09 |
 | 70 | [Que Dia](https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Que Dia](https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl) | 2:55 |
 
-Snapshot ID: `MCw0NGY0Nzc5ZjA4MjYxYzdlMDVmMTNjNzVjODcwMWRjYzZjMzc5NWFh`
+Snapshot ID: `MCwzNmE1MjJlODI3MWZkMzdjYjViM2ZkZGFmMmU5YTQ0YmIxZTg4N2U4`

@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 148586,
+  "num_followers": 148632,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDkyYTNmMjkwZTkzYWE4MjMxOWE2MzM1OTQ5YjFhNzVkNTg5MjZk",
+  "snapshot_id": "MCw4MzQ5OWUzNGM5MjA1MmY3YzU0ZjIxMDM0M2YzMWQ0NDA2NzY1NTVh",
   "tracks": [
     {
       "added_at": "2023-05-29 03:40:23",
@@ -395,18 +395,22 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "Lately EP",
-        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 157303,
-      "name": "Lava",
-      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
+      "duration_ms": 158726,
+      "name": "R.I.P. (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/4wJ8dJKBAxdDe5cUx8K779"
     },
     {
       "added_at": "2023-05-29 03:40:23",
@@ -427,22 +431,18 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+        "name": "Lately EP",
+        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 158726,
-      "name": "R.I.P. (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/4wJ8dJKBAxdDe5cUx8K779"
+      "duration_ms": 157303,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
     },
     {
       "added_at": "2023-05-29 03:40:23",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
-    },
-    {
-      "added_at": "2023-05-29 03:40:23",
-      "album": {
         "name": "Shawn Mendes",
         "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
       },
@@ -571,22 +555,6 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
-    },
-    {
-      "added_at": "2023-05-29 03:40:23",
-      "album": {
         "name": "Fair",
         "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
@@ -599,6 +567,38 @@
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "added_at": "2023-05-29 03:40:23",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
+    },
+    {
+      "added_at": "2023-05-29 03:40:23",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
     },
     {
       "added_at": "2023-05-29 03:40:23",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
-    },
-    {
-      "added_at": "2023-05-29 03:40:23",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 204400,
       "name": "Sorry - Original Demo",
       "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
+    },
+    {
+      "added_at": "2023-05-29 03:40:23",
+      "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
       "added_at": "2023-05-29 03:40:23",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "The Mannequin Song",
-        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 164197,
-      "name": "The Mannequin Song",
-      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
-    },
-    {
-      "added_at": "2023-05-29 03:40:23",
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 216961,
       "name": "What About Me (feat. Sosamann)",
       "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
+    },
+    {
+      "added_at": "2023-05-29 03:40:23",
+      "album": {
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
     },
     {
       "added_at": "2023-05-29 03:40:23",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 208053,
-      "name": "Feel A Way",
-      "url": "https://open.spotify.com/track/0Nt3UdaA4KrHEUSNwq9nCI"
-    },
-    {
-      "added_at": "2023-05-29 03:40:23",
-      "album": {
         "name": "Wave002",
         "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 167766,
       "name": "Free Form",
       "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2023-05-29 03:40:23",
+      "album": {
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 208053,
+      "name": "Feel A Way",
+      "url": "https://open.spotify.com/track/0Nt3UdaA4KrHEUSNwq9nCI"
     },
     {
       "added_at": "2023-05-29 03:40:23",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 238215,
-      "name": "Dearest Alfred",
-      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
-    },
-    {
-      "added_at": "2023-05-29 03:40:23",
-      "album": {
         "name": "It's Not This",
         "url": "https://open.spotify.com/album/33mhKB7yhqqtP6JjPyXLu2"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/7HzrpdEZb4RU2sUGeERyUm"
+    },
+    {
+      "added_at": "2023-05-29 03:40:23",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 238215,
+      "name": "Dearest Alfred",
+      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
     },
     {
       "added_at": "2023-05-29 03:40:23",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 194820,
-      "name": "Naturally",
-      "url": "https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI"
-    },
-    {
-      "added_at": "2023-05-29 03:40:23",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 253927,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2023-05-29 03:40:23",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 194820,
+      "name": "Naturally",
+      "url": "https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI"
     },
     {
       "added_at": "2023-05-29 03:40:23",

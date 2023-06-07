@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 181220,
       "name": "Back To College",
       "url": "https://open.spotify.com/track/6UXNYzUEn7WMmdrA3d52vE"
@@ -808,6 +808,32 @@
       "duration_ms": 213306,
       "name": "Kasoor - Acoustic",
       "url": "https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv"
+    },
+    {
+      "album": {
+        "name": "Khaali Panne",
+        "url": "https://open.spotify.com/album/3W61toZhkU8TffnOtZlmBa"
+      },
+      "artists": [
+        {
+          "name": "Meghna Mishra",
+          "url": "https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Avinash Chouhan",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Khaali Panne",
+      "url": "https://open.spotify.com/track/5JlDiKV0LaWXl82lKji0oq"
     },
     {
       "album": {
@@ -1558,7 +1584,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 274240,
       "name": "Saari Umar",
       "url": "https://open.spotify.com/track/2H3Ybag8WuTdoaGVMCDqRl"
@@ -1824,6 +1850,24 @@
       "duration_ms": 126674,
       "name": "Waqt Tham Gaya Kahin (Currious List)",
       "url": "https://open.spotify.com/track/6hQieOPS0HX8OC9R4TadKm"
+    },
+    {
+      "album": {
+        "name": "Wo Mere Saath Saath",
+        "url": "https://open.spotify.com/album/64C0SHLVUXuDXuXFzoKBjT"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304125,
+      "name": "Wo Mere Saath Saath",
+      "url": "https://open.spotify.com/track/4duYnnrZthODike5XEcARR"
     },
     {
       "album": {

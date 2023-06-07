@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 205560,
       "name": "Make a Picture",
       "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
@@ -3792,6 +3792,24 @@
       "duration_ms": 197200,
       "name": "Memory",
       "url": "https://open.spotify.com/track/21kvruyJddCLQguDk9oklX"
+    },
+    {
+      "album": {
+        "name": "Where the Redwoods Meet the Sea",
+        "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7"
     },
     {
       "album": {

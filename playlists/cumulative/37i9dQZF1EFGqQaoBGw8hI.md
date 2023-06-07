@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-593 songs - 1 day 17 hr 51 min
+594 songs - 1 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 | 2022-09-08 |  |
 | [Are We Laughing?](https://open.spotify.com/track/29UqkYV40EPwbJsl41d3A7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:06 | 2023-05-26 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/0MfjH6DpyGrBQZoaWIsv4G) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Christmas Party](https://open.spotify.com/album/69a0N3kvOVpl6cLb5RD5Dg) | 2:34 | 2022-09-08 |  |
+| [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 | 2023-06-06 |  |
 | [Back To The Aquarium](https://open.spotify.com/track/0XdP5Xlov5R5tmXN7tBYyL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:53 | 2023-06-02 |  |
 | [Bad Side of the Moon](https://open.spotify.com/track/3cRt9j0q8JaJFfRmmrWz7x) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [The First Decade](https://open.spotify.com/album/1mR3blUKlnRUVpohvNS5v5) | 3:11 | 2022-09-08 |  |
 | [Ball & Chain \- Remastered 2003](https://open.spotify.com/track/78KPKXdYxbt2pSu2WdXSjS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:28 | 2022-09-08 |  |
@@ -311,7 +312,7 @@
 | [Look Ma, No Hands](https://open.spotify.com/track/07p0uEk2UznuI56V5Xly3B) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:22 | 2022-09-08 |  |
 | [Looking Up](https://open.spotify.com/track/5fOsO9KAvay8VY7Wr6p3BY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:06 | 2022-09-08 |  |
 | [Lord Of The Flies](https://open.spotify.com/track/0FMPjB9iuFP01ware69epp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:40 | 2022-11-16 |  |
-| [Loučení](https://open.spotify.com/track/4intsoHfgFi43gtk5OCE7i) | [Zora Jandová](https://open.spotify.com/artist/50LmFlbKjhGBX8vlRHDNWz), [Martin Stropnický](https://open.spotify.com/artist/7Jj9aiJaRi6CZlmMnJWqSL) | [Tisíckrát](https://open.spotify.com/album/1VVAd7oKlLjsU037Nx058X) | 3:49 | 2023-06-05 |  |
+| [Loučení](https://open.spotify.com/track/4intsoHfgFi43gtk5OCE7i) | [Zora Jandová](https://open.spotify.com/artist/50LmFlbKjhGBX8vlRHDNWz), [Martin Stropnický](https://open.spotify.com/artist/7Jj9aiJaRi6CZlmMnJWqSL) | [Tisíckrát](https://open.spotify.com/album/1VVAd7oKlLjsU037Nx058X) | 3:49 | 2023-06-05 | 2023-06-07 |
 | [Love Builds a Garden](https://open.spotify.com/track/0CjPt6FMbL18Q2WThDHTTb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 3:34 | 2022-09-08 |  |
 | [Love Her Like Me](https://open.spotify.com/track/4QRoLbpMElBejhYvU5MSni) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:58 | 2022-09-08 |  |
 | [Love So Cold](https://open.spotify.com/track/2RmXLOSrK4LJ3zzGz5lwUA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 5:04 | 2023-05-26 |  |

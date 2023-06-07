@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Baby Gang
 
-301 songs - 13 hr 57 min
+302 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bagage](https://open.spotify.com/track/7634keaijcnpeX1jzPrNQV) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Bagage](https://open.spotify.com/album/4eLAygvtyrT2Etom1JPVGq) | 2:22 | 2022-05-11 | 2022-06-03 |
 | [BALLAS RMX \(feat\. MamboLosco, Janga ODT\)](https://open.spotify.com/track/61Tc6VFFrxANwYbKp9ZYWT) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Janga ODT](https://open.spotify.com/artist/3JHgtfIOYtS7US0NC0CRzZ), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [BALLAS RMX \(feat\. MamboLosco, Janga ODT\)](https://open.spotify.com/album/7EsYWxFYeTdJp2Ncf1HTHE) | 2:34 | 2022-05-30 | 2022-08-30 |
 | [BAMBA](https://open.spotify.com/track/0QJHIiPs1UTgJ3ZURHIBMw) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [COSA NOSTRA](https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH) | 2:15 | 2022-05-11 | 2022-06-03 |
+| [Bambola](https://open.spotify.com/track/7k0jyx1nNnHPnkhp41jem6) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Bambola](https://open.spotify.com/album/74cIsmvEjOe32y80S8UdoB) | 2:49 | 2023-06-06 |  |
 | [Bandit](https://open.spotify.com/track/0U9hvXudneGTIO3WtpVoh0) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [Bandit](https://open.spotify.com/album/2gzqXgZ8Qdzyb0H7VvXmc9) | 2:54 | 2023-02-09 | 2023-03-31 |
 | [Bandito](https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Bandito](https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh) | 2:39 | 2022-12-08 | 2023-04-21 |
 | [Batman](https://open.spotify.com/track/4jEIiFxvacRKVIIlAw3uLY) | [el 3askar](https://open.spotify.com/artist/5dx9aSpPXXCtmaDltSSAy6), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Batman](https://open.spotify.com/album/41EM84IPIMmhqzbz3KrAZm) | 2:31 | 2023-03-30 |  |
@@ -169,7 +170,7 @@
 | [MARADONA](https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:42 | 2023-01-05 | 2023-04-07 |
 | [Marciapiede \(con Tony Effe, Ernia & Rkomi\)](https://open.spotify.com/track/7nz7IQI6XfGLbpLB2ZLfXr) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:36 | 2022-09-15 | 2022-09-23 |
 | [MARE D'INVERNO](https://open.spotify.com/track/4Swgi2Bhc5tOItkVV6kRWD) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [MARE D'INVERNO](https://open.spotify.com/album/4loYrn68GcsB61ERQMaG2J) | 3:06 | 2023-04-27 | 2023-05-18 |
-| [Mariè \(feat\. Kassimi\)](https://open.spotify.com/track/5MfWyat51dW4EnIAl3HL3j) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3) | 2:54 | 2022-10-27 |  |
+| [Mariè \(feat\. Kassimi\)](https://open.spotify.com/track/5MfWyat51dW4EnIAl3HL3j) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3) | 2:54 | 2022-10-27 | 2023-06-07 |
 | [MAROCCO](https://open.spotify.com/track/5BfPmD1pXmC0Nl9bSUktSE) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [MAROCCO](https://open.spotify.com/album/4wMH2tKaGLQCCToJle0B3d) | 2:14 | 2023-06-01 |  |
 | [MASK](https://open.spotify.com/track/6P8OzV6alsFX9tBKNQ6c9s) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [MASK](https://open.spotify.com/album/2SD92ubkmpy5cnEy1Xfmpt) | 2:21 | 2022-05-11 | 2022-06-10 |
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2022-06-16 | 2023-03-31 |

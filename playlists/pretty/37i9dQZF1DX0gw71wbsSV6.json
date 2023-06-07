@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43559,
+  "num_followers": 43568,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGJmNDE3MDcxYzkwNmY1OTVlOTcwNTI3MTNlNDVhNDI5NjViMzli",
+  "snapshot_id": "MCw2MDM0NzJkMDVlZjA1YmJmN2FiNmE1Nzc4YThkNjI5ZTE1MjhiYmQ4",
   "tracks": [
     {
       "added_at": "2023-06-01 15:00:00",
@@ -435,22 +435,22 @@
     {
       "added_at": "2023-06-01 15:00:00",
       "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+        "name": "Lost At Sea",
+        "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Rob Grant",
+          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
         },
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+      "duration_ms": 187906,
+      "name": "Lost at Sea",
+      "url": "https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew"
     },
     {
       "added_at": "2023-06-01 15:00:00",
@@ -471,22 +471,22 @@
     {
       "added_at": "2023-06-01 15:00:00",
       "album": {
-        "name": "Lost At Sea",
-        "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
       "artists": [
         {
-          "name": "Rob Grant",
-          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         },
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 187906,
-      "name": "Lost at Sea",
-      "url": "https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew"
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
       "added_at": "2023-06-01 15:00:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-06-01 15:00:00",
       "album": {
+        "name": "Heart of Gold (with Bon Iver)",
+        "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 172190,
+      "name": "Heart of Gold (with Bon Iver)",
+      "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
+    },
+    {
+      "added_at": "2023-06-01 15:00:00",
+      "album": {
         "name": "Dreamin' of You",
         "url": "https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk"
       },
@@ -731,22 +751,6 @@
       "duration_ms": 188131,
       "name": "Dreamin' of You",
       "url": "https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U"
-    },
-    {
-      "added_at": "2023-06-01 15:00:00",
-      "album": {
-        "name": "someone will love you better",
-        "url": "https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "someone will love you better",
-      "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
     },
     {
       "added_at": "2023-06-01 15:00:00",
@@ -771,22 +775,18 @@
     {
       "added_at": "2023-06-01 15:00:00",
       "album": {
-        "name": "Heart of Gold (with Bon Iver)",
-        "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
+        "name": "someone will love you better",
+        "url": "https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP"
       },
       "artists": [
         {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
         }
       ],
-      "duration_ms": 172190,
-      "name": "Heart of Gold (with Bon Iver)",
-      "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
+      "duration_ms": 171213,
+      "name": "someone will love you better",
+      "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
     },
     {
       "added_at": "2023-06-01 15:00:00",
@@ -899,18 +899,22 @@
     {
       "added_at": "2023-06-01 15:00:00",
       "album": {
-        "name": "LEGEND (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
+        "name": "A Night At The Symphony",
+        "url": "https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Iceland Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
         }
       ],
-      "duration_ms": 194245,
-      "name": "Nervous - Piano Version",
-      "url": "https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e"
+      "duration_ms": 302000,
+      "name": "Let You Break My Heart Again - Live at The Symphony",
+      "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

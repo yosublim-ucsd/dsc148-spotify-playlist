@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Aperitivo, lounge, chill: musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,386 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,422 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 63 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 |
 | 64 | [I Go \- Edit](https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 3:44 |
 | 65 | [Landing](https://open.spotify.com/track/6C66qQfUEBj9dplR1a3Sar) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Inhale, Exhale, Repeat.](https://open.spotify.com/album/36grzVXLi4E3uGkydMO9Z8) | 2:24 |
-| 66 | [Leave My Home](https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP) | 3:41 |
-| 67 | [Era \- Edit](https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Era](https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8) | 3:54 |
+| 66 | [Era \- Edit](https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Era](https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8) | 3:54 |
+| 67 | [Leave My Home](https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP) | 3:41 |
 | 68 | [Dusty Sundays](https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Dusty Sundays](https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod) | 5:58 |
 | 69 | [Closer](https://open.spotify.com/track/6n44rF2nl6rF0q5DYgezS1) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Beaubien Dream](https://open.spotify.com/album/3COZ62rrbnuBooDHulY4zw) | 6:57 |
 | 70 | [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 |
 | 71 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
-| 72 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
-| 73 | [Mystery Lady \- Scorpion Kings Remix](https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(Scorpion Kings Remix\)](https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi) | 7:30 |
+| 72 | [Mystery Lady \- Scorpion Kings Remix](https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(Scorpion Kings Remix\)](https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi) | 7:30 |
+| 73 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
 | 74 | [Missing \- Todd Terry Remix](https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart \(Deluxe Edition\)](https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2) | 3:56 |
 | 75 | [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 |
 
-Snapshot ID: `MCwwODM3MGNkOWY2OGJkNGU0YzcwNWFiNTRlNGQ4MGM4YzZjNmEwNjM1`
+Snapshot ID: `MCw3NGYwNDIyMGQzYTM0NTcwZDcwMGI5ZTUxZjcyOWMyYjEyYWM2NDAw`

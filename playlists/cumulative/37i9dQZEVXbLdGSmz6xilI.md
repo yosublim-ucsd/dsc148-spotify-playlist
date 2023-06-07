@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-763 songs - 1 day 20 hr 41 min
+764 songs - 1 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-02 |  |
 | [Cuốn Cho Anh Một Điếu Nữa Đi](https://open.spotify.com/track/29cUOvKfTmx9SFDC73QHv5) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:05 | 2023-03-04 | 2023-03-06 |
 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 | 2022-03-23 | 2022-06-26 |
-| [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 | 2022-08-08 |  |
+| [Có Ai Thương Em Như Anh](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 | 2022-08-08 |  |
 | [Có Chơi Có Chịu](https://open.spotify.com/track/2pYFHEy0xp48Le5Bfw5vcX) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo) | [Có Chơi Có Chịu](https://open.spotify.com/album/4N7qnvyotrQcxAF8fKqO4e) | 3:43 | 2022-09-28 | 2022-11-16 |
 | [CÓ CHẮC YÊU LÀ ĐÂY](https://open.spotify.com/track/2z9iLlNBt1aLZUCFgXby97) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [CÓ CHẮC YÊU LÀ ĐÂY](https://open.spotify.com/album/738A5dZVHTynH0sfeL87KV) | 3:22 | 2021-03-27\* | 2023-05-10 |
 | [Có em](https://open.spotify.com/track/2Lag4WL4j3AMXzqWbEzmV6) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/13En1VmJCW0kI9AMTywYQs) | 3:38 | 2022-04-26 | 2022-08-01 |
@@ -396,6 +396,7 @@
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-25 |  |
 | [Like This](https://open.spotify.com/track/4OXtP0DpAoBW5iqiWPqKd8) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq) | [Like This](https://open.spotify.com/album/7nGWgyDCDbNLpL00j0dIup) | 2:57 | 2022-01-10 | 2022-04-18 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-03-27 | 2021-04-10 |
+| [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA) | 3:00 | 2023-06-06 |  |
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-02-25 | 2023-05-27 |
 | [Liệu Giờ](https://open.spotify.com/track/2EZtTS76x5M6hK96CLclPd) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/1aRGbHftmJqclyoYJT8q6c) | 4:18 | 2022-08-12 | 2023-01-14 |
 | [LOCO](https://open.spotify.com/track/59c0HrzmHfyQs6LgDw5cHe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/3Pr7XlWzWnX9enSVZXuPKh) | 3:11 | 2021-09-27 | 2021-10-08 |
@@ -645,7 +646,7 @@
 | [The Playah \(feat\. SlimV\) \- Special Performance](https://open.spotify.com/track/63qZf6349d3ngku9hrzLac) | [Soobin Hoang Son](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [SlimV](https://open.spotify.com/artist/2m8Bk9or6quybzoQbM0zQt) | [The Playah \(feat\. SlimV\) \[Special Performance\]](https://open.spotify.com/album/4437psfF6TPngVcOkFT90M) | 7:29 | 2021-05-19 | 2021-09-26 |
 | [THERE'S NO ONE AT ALL](https://open.spotify.com/track/7rjtRM1AgmmraeTTX8tofW) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [THERE'S NO ONE AT ALL](https://open.spotify.com/album/1ZutY9YHq5MEPDTT0wy06u) | 2:52 | 2022-04-29 | 2022-08-02 |
 | [There's No One At All \(Another Version\)](https://open.spotify.com/track/3Yfedn84e2VLXSVwmowqEn) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [There's No One At All \(Another Version\)](https://open.spotify.com/album/0d0Blbqh2qSxiej0aoJJvw) | 3:21 | 2022-07-06 | 2022-08-02 |
-| [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 | 2022-07-26 |  |
+| [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 | 2022-07-26 | 2023-06-07 |
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-07 | 2022-05-08 |
 | [Thiêu Thân](https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Sofia](https://open.spotify.com/artist/0129dJuvb9Hn0TJnTLIDnT), [Chau Dang Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Thiêu Thân](https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9) | 3:18 | 2022-06-19 | 2022-07-28 |
 | [Tháng Mấy Em Nhớ Anh?](https://open.spotify.com/track/6Fbsn9471Xd0vVsMWwhePh) | [Ha Anh Tuan](https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG) | [Tháng Mấy Em Nhớ Anh?](https://open.spotify.com/album/2abWPWzlhV9ROpN6EggZPR) | 5:00 | 2021-04-04 | 2021-11-04 |

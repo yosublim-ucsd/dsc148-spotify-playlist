@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 138972,
+  "num_followers": 139230,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjkwM2ZjYzlmZTRkMTZmYzk0NTBiODMwYzAzZDkxZjk0MDEzMjZm",
+  "snapshot_id": "MCwyYTQyMTFjNzVkOTk1N2U1MWU0YmU0NzQzOTkzYmEwMTc5NGQ4MDZi",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -425,26 +425,6 @@
       "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
     },
     {
-      "added_at": "2023-04-14 01:21:53",
-      "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Feelings",
@@ -483,6 +463,26 @@
       "duration_ms": 268956,
       "name": "Xica Xica",
       "url": "https://open.spotify.com/track/7IMU8eXXQnXiWChljmRlxh"
+    },
+    {
+      "added_at": "2023-04-14 01:21:53",
+      "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "added_at": "2023-05-09 00:16:59",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Cantos de Vision",
-        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 329719,
-      "name": "Danza de Vision",
-      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -571,6 +555,42 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2023-02-03 04:49:29",
+      "album": {
+        "name": "Porque Yo",
+        "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Porque Yo",
+      "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 329719,
+      "name": "Danza de Vision",
+      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -607,26 +627,6 @@
       "duration_ms": 273946,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
-    },
-    {
-      "added_at": "2023-02-03 04:49:29",
-      "album": {
-        "name": "Porque Yo",
-        "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Porque Yo",
-      "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "R\u00fambala",
         "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 178823,
       "name": "R\u00fambala",
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Jallalla",
         "url": "https://open.spotify.com/album/6gFDKmJvvj3Sgs4dkq6KrU"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 340616,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/5t34pVFdmAjwMXlCOzxJyy"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
     },
     {
-      "added_at": "2023-03-22 17:52:31",
-      "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
@@ -1157,20 +1141,20 @@
       "url": "https://open.spotify.com/track/2hT92797LxyO6oZsQ6zaC9"
     },
     {
-      "added_at": "2023-03-16 23:14:04",
+      "added_at": "2023-03-22 17:52:31",
       "album": {
-        "name": "Mi Gran Dolor",
-        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
       },
       "artists": [
         {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
         }
       ],
-      "duration_ms": 254908,
-      "name": "Mi Gran Dolor",
-      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1193,20 +1177,20 @@
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2023-03-16 23:14:04",
       "album": {
-        "name": "Heavenly Sweetness Sampler #3",
-        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
+        "name": "Mi Gran Dolor",
+        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
       },
       "artists": [
         {
-          "name": "Coopers",
-          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
         }
       ],
-      "duration_ms": 184750,
-      "name": "Acapulco, dos de la tard",
-      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
+      "duration_ms": 254908,
+      "name": "Mi Gran Dolor",
+      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1231,6 +1215,22 @@
       "duration_ms": 254033,
       "name": "Caf\u00e9 Com Leite - Boog\u00e1t Remix",
       "url": "https://open.spotify.com/track/5MuqsRxbN6bEgl7zYxKMw3"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Heavenly Sweetness Sampler #3",
+        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
+      },
+      "artists": [
+        {
+          "name": "Coopers",
+          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
+        }
+      ],
+      "duration_ms": 184750,
+      "name": "Acapulco, dos de la tard",
+      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1301,20 +1301,20 @@
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
     },
     {
-      "added_at": "2022-07-13 15:46:50",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Siempre Sim\u00f3n y Nunca Nel",
-        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
+        "name": "Un Canto",
+        "url": "https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "MUTA",
+          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
         }
       ],
-      "duration_ms": 241616,
-      "name": "Siempre Sim\u00f3n y Nunca Nel",
-      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
+      "duration_ms": 284915,
+      "name": "Un Canto",
+      "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
     }
   ],
   "unique_name": "Tulum Vibes",

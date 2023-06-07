@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Mall Grab & Flansie
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,106 likes - 70 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,113 likes - 70 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [Hi Haze](https://open.spotify.com/track/3R7JjLIkCy6AYt6HYZxvn9) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Hi Haze](https://open.spotify.com/album/3TgP8J8amWfuL6pIzhONGw) | 6:57 |
 | 70 | [Feels Bad](https://open.spotify.com/track/1wr53taHWvkEfp9nG0vAIM) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Feels Bad](https://open.spotify.com/album/23rwCtNkALElgFulTfNRpv) | 7:14 |
 
-Snapshot ID: `MCxmZTdiYzliNjRlODg0N2RkNDMwNmE1YjNkZjU5YTFkMDlkYmFiMTIx`
+Snapshot ID: `MCw1ZDE4ZmUxNGVmYzJmYzk4MjVmZmZjN2Y1ZGEwNmJkY2UyNTIzYWY4`

@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que los temazos no paren.",
-  "num_followers": 116919,
+  "num_followers": 116963,
   "original_name": "Enganchados: Latinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGEzYmQwMjhiOWI3MTBhYjM1OWFlYTViOGQ2MzI5NmYwZGI5YjY4",
+  "snapshot_id": "MCwyZjhkMjk4YjIwMjlhNTRiMGFiYWVlMjM4YzQ1Mjk3NGFiYTY1Mzc2",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 267826,
       "name": "Ciega, Sordomuda",
       "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Ojos Marrones (Con Sebasti\u00e1n Yatra)",
-        "url": "https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "Ojos Marrones - Con Sebasti\u00e1n Yatra",
-      "url": "https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 200586,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Ojos Marrones (Con Sebasti\u00e1n Yatra)",
+        "url": "https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "Ojos Marrones - Con Sebasti\u00e1n Yatra",
+      "url": "https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Son By 4",
-        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "A Puro Dolor - Balada",
-      "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Son By 4",
+        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "A Puro Dolor - Balada",
+      "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Numanice #2",
-        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 164141,
-      "name": "Maldivas",
-      "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -1387,22 +1371,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "M\u00e1s + Coraz\u00f3n Profundo",
-        "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
+        "name": "Numanice #2",
+        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 278626,
-      "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
+      "duration_ms": 164141,
+      "name": "Maldivas",
+      "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1419,6 +1399,26 @@
       "duration_ms": 259440,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "M\u00e1s + Coraz\u00f3n Profundo",
+        "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
     },
     {
       "added_at": "2023-05-26 03:00:00",

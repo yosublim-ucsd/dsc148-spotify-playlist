@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Corina Smith \n",
-  "num_followers": 107721,
+  "num_followers": 107746,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODk4NGM0Y2M0OGU0ODQ2MDE1YTgxMTNhM2U1ODU5OWUwYTBjY2U5",
+  "snapshot_id": "MCw2Nzc1OWNhZjk4OGNkYjExZmFhYWI0M2Q3Njg1ZWQ1YWMxMzEzODA1",
   "tracks": [
     {
       "added_at": "2023-05-12 19:50:05",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
         "name": "Estetograma",
         "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
       },
@@ -615,18 +599,38 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "DIFERENTE.",
-        "url": "https://open.spotify.com/album/6tCS53pRPRkhEqP1J02EPM"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o"
       },
       "artists": [
         {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
         }
       ],
-      "duration_ms": 181333,
-      "name": "DIFERENTE.",
-      "url": "https://open.spotify.com/track/7lGjLjd0JbhlwuxMQSIhaU"
+      "duration_ms": 198533,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Podemos Intentar",
+      "url": "https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -667,38 +671,18 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+        "name": "DIFERENTE.",
+        "url": "https://open.spotify.com/album/6tCS53pRPRkhEqP1J02EPM"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
         }
       ],
-      "duration_ms": 251106,
-      "name": "Podemos Intentar",
-      "url": "https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
-        "name": "NUDE",
-        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 175718,
-      "name": "NUDE",
-      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
+      "duration_ms": 181333,
+      "name": "DIFERENTE.",
+      "url": "https://open.spotify.com/track/7lGjLjd0JbhlwuxMQSIhaU"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -715,6 +699,22 @@
       "duration_ms": 207946,
       "name": "Weeknd<3",
       "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
+        "name": "NUDE",
+        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 175718,
+      "name": "NUDE",
+      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Curarte",
-      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 253150,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Curarte",
+      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -963,22 +963,18 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "Garabatos",
-        "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
+        "name": "No Me Busques Donde Mismo",
+        "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
       },
       "artists": [
         {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 202478,
-      "name": "Garabatos",
-      "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -999,18 +995,22 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "No Me Busques Donde Mismo",
-        "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
+        "name": "Garabatos",
+        "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
+      "duration_ms": 202478,
+      "name": "Garabatos",
+      "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "Chimbita",
-        "url": "https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 165508,
-      "name": "Chimbita",
-      "url": "https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 178626,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
+        "name": "Chimbita",
+        "url": "https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 165508,
+      "name": "Chimbita",
+      "url": "https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "Cortada en la Frente",
-        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Cortada en la Frente",
-      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 233743,
       "name": "Horas y Horas - Spotify Singles",
       "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
+        "name": "Cortada en la Frente",
+        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Cortada en la Frente",
+      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
+        "name": "5 A.M.",
+        "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "duration_ms": 182442,
+      "name": "5 A.M.",
+      "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
         "name": "Mabiland Hotline: Cobuz & Bustta",
         "url": "https://open.spotify.com/album/3f51kZQ3Lygk8MCcEqCwZz"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 169090,
       "name": "Mabiland Hotline: Cobuz & Bustta",
       "url": "https://open.spotify.com/track/343PbZqiWOFGS629yyTD9J"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
-        "name": "5 A.M.",
-        "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
-      },
-      "artists": [
-        {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
-        }
-      ],
-      "duration_ms": 182442,
-      "name": "5 A.M.",
-      "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
     },
     {
       "added_at": "2023-05-12 19:50:05",

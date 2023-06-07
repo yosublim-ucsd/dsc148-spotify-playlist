@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 166725,
+  "num_followers": 167001,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODVmYTRkMjhjMzQzMTJjYmVjZWM0YzkyZjI5YjhjOTliMjA5YjQw",
+  "snapshot_id": "MCwxNDc5ZTIxMTA0NDYwNGQ3ZDgzMzcyZjUzZjdmM2E2MGJjNjcwYWM0",
   "tracks": [
     {
       "added_at": "2022-12-30 17:55:19",
@@ -271,8 +271,8 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Fuera de Serie",
-        "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 179768,
-      "name": "Ay\u00fadame",
-      "url": "https://open.spotify.com/track/0Z8Jg2ji4tKeaGWpBidTxv"
+      "duration_ms": 241870,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "La ni\u00f1a fresa",
-      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 226813,
       "name": "Voy a Pintar Mi Raya",
       "url": "https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "La ni\u00f1a fresa",
+      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -399,38 +399,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
-        "name": "A Bailar... De Caballito!!",
-        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 241870,
-      "name": "No Bailes De Caballito",
-      "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
         "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
       },
@@ -443,6 +411,38 @@
       "duration_ms": 188773,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/12ef6MwgP0rOkJMWCgj9hR"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "Fuera de Serie",
+        "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 179768,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/0Z8Jg2ji4tKeaGWpBidTxv"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -479,18 +479,18 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Recuerdos y algo m\u00e1s",
-        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 208533,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
+      "duration_ms": 188310,
+      "name": "Vamonos de Fiesta",
+      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+        "name": "Recuerdos y algo m\u00e1s",
+        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 188310,
-      "name": "Vamonos de Fiesta",
-      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
+      "duration_ms": 208533,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Como Loco Alucino",
-        "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
       },
       "artists": [
         {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Nunca se Acabo el Encanto",
-      "url": "https://open.spotify.com/track/4UY78AVRWQycRrJHTCOxRw"
+      "duration_ms": 235554,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Nos Pertenecemos",
-        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
+        "name": "Como Loco Alucino",
+        "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
       },
       "artists": [
         {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 235554,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
+      "duration_ms": 190773,
+      "name": "Nunca se Acabo el Encanto",
+      "url": "https://open.spotify.com/track/4UY78AVRWQycRrJHTCOxRw"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Africanos Al Ataque",
-        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
-      },
-      "artists": [
-        {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "Ll\u00e9vame Rosas Y Olvida",
-      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Cosas De La Vida",
         "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 186618,
       "name": "El Guapo",
       "url": "https://open.spotify.com/track/3AhaXfZ5yQIlFWrsE0Roz0"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "Africanos Al Ataque",
+        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "Ll\u00e9vame Rosas Y Olvida",
+      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 174265,
-      "name": "C\u00f3mo Sufro",
-      "url": "https://open.spotify.com/track/2AAsziSTEQoTMIyXAunJbY"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
         "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 174453,
       "name": "La Fea",
       "url": "https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 174265,
+      "name": "C\u00f3mo Sufro",
+      "url": "https://open.spotify.com/track/2AAsziSTEQoTMIyXAunJbY"
     }
   ],
   "unique_name": "Banda: Viejitas Pero Bonitas",

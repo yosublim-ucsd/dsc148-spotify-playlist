@@ -78,7 +78,7 @@
     {
       "album": {
         "name": "ENTWURF",
-        "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
+        "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
       },
       "artists": [
         {
@@ -86,12 +86,12 @@
           "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "date_added": "2022-11-24",
+      "date_added": "2023-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170400,
       "name": "COOL (Your rainbow)",
-      "url": "https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA"
+      "url": "https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb"
     },
     {
       "album": {
@@ -106,7 +106,43 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 170400,
+      "name": "COOL (Your rainbow)",
+      "url": "https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA"
+    },
+    {
+      "album": {
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170400,
+      "name": "COOL (Your rainbow) (Inst.)",
+      "url": "https://open.spotify.com/track/6TxvDCGRRXRpvtCuQkmglf"
+    },
+    {
+      "album": {
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
       "duration_ms": 170400,
       "name": "COOL (Your rainbow) - Instrumental",
       "url": "https://open.spotify.com/track/3wFn8FZ5weDIl1xoYQtWxh"
@@ -124,10 +160,46 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 165746,
       "name": "DICE",
       "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
+    },
+    {
+      "album": {
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165746,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC"
+    },
+    {
+      "album": {
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165746,
+      "name": "DICE (Inst.)",
+      "url": "https://open.spotify.com/track/78l55gIVLzyBQJFeqQ6tt8"
     },
     {
       "album": {
@@ -142,10 +214,28 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 165746,
       "name": "DICE - Instrumental",
       "url": "https://open.spotify.com/track/5PfVBaw9AWrirnNhVRCexe"
+    },
+    {
+      "album": {
+        "name": "1st Intermixxion Single <Funky Glitter Christmas>",
+        "url": "https://open.spotify.com/album/4BDUJDquHDWsW5qH48RzHn"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190306,
+      "name": "Funky Glitter Christmas",
+      "url": "https://open.spotify.com/track/1R8kam26UwvsSOyamOzMOz"
     },
     {
       "album": {
@@ -160,7 +250,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 190306,
       "name": "Funky Glitter Christmas",
       "url": "https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy"
@@ -222,7 +312,7 @@
     {
       "album": {
         "name": "exp\u00e9rgo",
-        "url": "https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx"
+        "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
       },
       "artists": [
         {
@@ -233,6 +323,24 @@
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160146,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1"
+    },
+    {
+      "album": {
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
       "duration_ms": 160146,
       "name": "HOME",
       "url": "https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17"
@@ -286,10 +394,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 178026,
       "name": "Just Did It",
       "url": "https://open.spotify.com/track/4gUSHUCZgCj2X46uwIIOyU"
+    },
+    {
+      "album": {
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178026,
+      "name": "Just Did It",
+      "url": "https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0"
     },
     {
       "album": {
@@ -340,10 +466,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 188718,
       "name": "Love Me Like This",
       "url": "https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO"
+    },
+    {
+      "album": {
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188718,
+      "name": "Love Me Like This",
+      "url": "https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m"
     },
     {
       "album": {
@@ -448,10 +592,46 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
+    },
+    {
+      "album": {
+        "name": "AD MARE",
+        "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172936,
+      "name": "O.O",
+      "url": "https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE"
+    },
+    {
+      "album": {
+        "name": "AD MARE",
+        "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172936,
+      "name": "O.O (Inst.)",
+      "url": "https://open.spotify.com/track/1Bf5zMLyJAt3075EISPcYy"
     },
     {
       "album": {
@@ -466,7 +646,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 172936,
       "name": "O.O (Inst.)",
       "url": "https://open.spotify.com/track/4g7q1mmHaWcj9PkeUr4ghD"
@@ -484,10 +664,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 192466,
       "name": "PAXXWORD",
       "url": "https://open.spotify.com/track/4f8qVAD5rOWINdsT2rO4Mm"
+    },
+    {
+      "album": {
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "PAXXWORD",
+      "url": "https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9"
     },
     {
       "album": {
@@ -538,10 +736,46 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 168146,
       "name": "TANK",
       "url": "https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW"
+    },
+    {
+      "album": {
+        "name": "AD MARE",
+        "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168146,
+      "name": "TANK",
+      "url": "https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV"
+    },
+    {
+      "album": {
+        "name": "AD MARE",
+        "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168160,
+      "name": "TANK (Inst.)",
+      "url": "https://open.spotify.com/track/3k0K0Nh6hPt6Q3buUA4UZS"
     },
     {
       "album": {
@@ -556,7 +790,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 168160,
       "name": "TANK (Inst.)",
       "url": "https://open.spotify.com/track/7nI7r04LkhJtQupfg08MeS"
@@ -600,6 +834,24 @@
       "duration_ms": 191957,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w"
+    },
+    {
+      "album": {
+        "name": "Young, Dumb, Stupid",
+        "url": "https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190786,
+      "name": "Young, Dumb, Stupid",
+      "url": "https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973"
     },
     {
       "album": {

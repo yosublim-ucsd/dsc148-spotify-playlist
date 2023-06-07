@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Inspector en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,216 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,218 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 52 | [Si Te Vas](https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 6:00 |
 | 53 | [Y la Recuerdo de Ayer](https://open.spotify.com/track/30qRh0j4htHrsroySiDh57) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [La Rebelión](https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL) | 4:31 |
 | 54 | [Nana Punk](https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Armada Hasta los Dientes V 1.5](https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9) | 2:12 |
-| 55 | [Como un Minuto](https://open.spotify.com/track/4AO65tvVdVNVUwH3TSt4Az) | [Skaterrestres](https://open.spotify.com/artist/6DPMHNkqHRSvsxYxzbDEpO) | [Invasion](https://open.spotify.com/album/778rPdFwvmW6CItfpQph1d) | 0:57 |
-| 56 | [Manifiesto del Pinguino Asesino](https://open.spotify.com/track/7FwHzFdpM0eMMtK1cVlAvx) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:10 |
+| 55 | [Manifiesto del Pinguino Asesino](https://open.spotify.com/track/7FwHzFdpM0eMMtK1cVlAvx) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:10 |
+| 56 | [Como un Minuto](https://open.spotify.com/track/4AO65tvVdVNVUwH3TSt4Az) | [Skaterrestres](https://open.spotify.com/artist/6DPMHNkqHRSvsxYxzbDEpO) | [Invasion](https://open.spotify.com/album/778rPdFwvmW6CItfpQph1d) | 0:57 |
 | 57 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 |
 | 58 | [Me cambiaste la vida](https://open.spotify.com/track/2WhlxYJTtXQHYWG6CcnBam) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una cosa es el ska y otra cosa es el rocksteady](https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C) | 3:29 |
 | 59 | [Luna](https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Armada Hasta los Dientes V 1.5](https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9) | 3:56 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 62 | [Marichú](https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [De Todo Tengo Señor](https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz) | 2:30 |
 | 63 | [Me Amborracho](https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Entre Marzo Y Abril](https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h) | 3:17 |
 | 64 | [Espergesía](https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:34 |
-| 65 | [Skarface](https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl) | [Los Chickléts](https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp) | [La Ciudad Es...Nuestra](https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz) | 1:00 |
-| 66 | [Sweet Loneliness](https://open.spotify.com/track/2Cn1tMwzh9CIss44E57mwj) | [Travelers All Stars](https://open.spotify.com/artist/7DZB5WWuNnc86cwhzv7Uuj) | [Birth of the Fourth Wave of Ska](https://open.spotify.com/album/2yeVq9vmJ4Xto4Lnqjw6eB) | 4:09 |
+| 65 | [Sweet Loneliness](https://open.spotify.com/track/2Cn1tMwzh9CIss44E57mwj) | [Travelers All Stars](https://open.spotify.com/artist/7DZB5WWuNnc86cwhzv7Uuj) | [Birth of the Fourth Wave of Ska](https://open.spotify.com/album/2yeVq9vmJ4Xto4Lnqjw6eB) | 4:09 |
+| 66 | [Skarface](https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl) | [Los Chickléts](https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp) | [La Ciudad Es...Nuestra](https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz) | 1:00 |
 | 67 | [Que te vaya bien](https://open.spotify.com/track/6Td4LDJch1EraQYeYN059A) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Que te vaya bien](https://open.spotify.com/album/3kTb1R0C7ENAQdS6ZTbeCp) | 2:54 |
-| 68 | [Tu nombre](https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk) | [Tu nombre](https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO) | 2:53 |
-| 69 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 |
+| 68 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 |
+| 69 | [Tu nombre](https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk) | [Tu nombre](https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO) | 2:53 |
 | 70 | [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Panico Latino](https://open.spotify.com/artist/4QT18Bb3BJ647bh6TWv30O) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 |
 | 71 | [Corazón](https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Corazón](https://open.spotify.com/album/2epcEzP3HRjeb9nVjWVpbw) | 3:45 |
 | 72 | [Gata bajo la lluvia](https://open.spotify.com/track/0J2iP4xkhj6ZlQQ4mKndON) | [Los Tianguis](https://open.spotify.com/artist/1fa3AKOYR1d4MDrnPKoYxG) | [Para Toda la Galaxia vol\. 2](https://open.spotify.com/album/6luxn1l5vG8abhh9whh37a) | 4:12 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 94 | [Estereofónica](https://open.spotify.com/track/72FA2PuToTQehqORbBlwGu) | [La Hoja Ensamble](https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE) | [...y Como Dice Giles! \(Tributo a los Giles\)](https://open.spotify.com/album/08QgBZviqyuo7TJL5V7LqS) | 3:40 |
 | 95 | [La Ultima Noche](https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR) | [La Ultima Noche](https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT) | 4:08 |
 | 96 | [No Piensa En Ti](https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:09 |
-| 97 | [Amargo Adiós](https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Video Rola](https://open.spotify.com/album/68LCD69EOv3P1Pdk8OI4Ew) | 3:49 |
-| 98 | [Te He Prometido](https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:12 |
+| 97 | [Te He Prometido](https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:12 |
+| 98 | [Amargo Adiós](https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Video Rola](https://open.spotify.com/album/68LCD69EOv3P1Pdk8OI4Ew) | 3:49 |
 | 99 | [La Rubia y el Demonio](https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:06 |
 | 100 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 |
 
-Snapshot ID: `MCw0NWRjOTg1YTk4NjdhOTYxOTdmNTNkMzQ5ODE1N2JiZWNhN2M2ZjIx`
+Snapshot ID: `MCwwYTMzNTk3ZWMzMzFlYTZhMTllNTVhOGVjZDIyNDJiODkwMGY2ZmE4`

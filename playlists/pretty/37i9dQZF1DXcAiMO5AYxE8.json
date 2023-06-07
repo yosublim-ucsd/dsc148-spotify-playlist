@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 479010,
+  "num_followers": 479072,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDUyMGJlNDg3MjQ1ZTBmOTg4MWEyZDYyYWVmY2Q4NjJmZjJkZjVl",
+  "snapshot_id": "MCw5MDRmNDY4ZjZiZmQxMDI3ZTk4YjI5YWU5OTFmOTcwMjNjZTRlOThm",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI"
     },
     {
-      "added_at": "2021-07-04 17:34:32",
-      "album": {
-        "name": "The Best Of Philadelphia International Records",
-        "url": "https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ"
-      },
-      "artists": [
-        {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Ain't No Stoppin' Us Now - Single Version",
-      "url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK"
-    },
-    {
       "added_at": "2020-04-14 18:41:41",
       "album": {
         "name": "Altogether",
@@ -351,6 +335,22 @@
       "duration_ms": 198600,
       "name": "I'm in the Mood for Dancing",
       "url": "https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q"
+    },
+    {
+      "added_at": "2021-07-04 17:34:32",
+      "album": {
+        "name": "The Best Of Philadelphia International Records",
+        "url": "https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ"
+      },
+      "artists": [
+        {
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Ain't No Stoppin' Us Now - Single Version",
+      "url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK"
     },
     {
       "added_at": "2020-04-14 18:41:41",

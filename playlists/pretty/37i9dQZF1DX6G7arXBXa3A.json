@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 383797,
+  "num_followers": 383844,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjQxNTQyZTYwYzNkMGEzMTliM2IwNmZiOTQ1YTZhMDk1ZTU1ZDM2",
+  "snapshot_id": "MCw3MzQ5ZTcyZmI3NTRkY2E2MzM1NjY5MGY4ZmE1OTgyZGY3MjVjOWNh",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Inspiration (A Tribute To Nat King Cole)",
+        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 162080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Present Perfect",
         "url": "https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 582509,
       "name": "The Waltz I Blew for You",
       "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Inspiration (A Tribute To Nat King Cole)",
-        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 162080,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Quintessence",
-        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 147080,
-      "name": "Straight, No Chaser",
-      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
-    },
-    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "I Can't Turn You Loose",
@@ -875,6 +859,22 @@
       "duration_ms": 314973,
       "name": "I Can't Turn You Loose",
       "url": "https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Quintessence",
+        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Straight, No Chaser",
+      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
     },
     {
       "added_at": "2021-10-08 04:02:00",

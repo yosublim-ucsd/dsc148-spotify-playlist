@@ -4,7 +4,7 @@
 
 > When everything around you is falling apart.
 
-66 songs - 4 hr 25 min
+67 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 | 2023-05-15 |  |
 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 | 2023-05-15 |  |
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2023-05-15 |  |
+| [Kajal](https://open.spotify.com/track/0YVpNFgaEt2NFBAcUBiZU0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 2:41 | 2023-06-06 |  |
 | [Kami Hai](https://open.spotify.com/track/731U0IOIp83sTQWbQeA67N) | [Abhin & Tanish](https://open.spotify.com/artist/5o13dCj1WVvMFMcnoBEMYo) | [Kami Hai](https://open.spotify.com/album/4rvB7pU7ikqxucUAFbTQrh) | 4:12 | 2023-05-15 |  |
 | [Khud Se](https://open.spotify.com/track/5hL9yKGJAMUxfwsjFnJ0aR) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Wahaan](https://open.spotify.com/album/0sIWkQuV1D7PDH2icX4KvL) | 3:08 | 2023-05-15 |  |
 | [Khush to Hai Na](https://open.spotify.com/track/2bGCXKKxk0FyTwYeJooaJH) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Khush to Hai Na](https://open.spotify.com/album/6mgPdNVamEDDLXbbe0dtiT) | 3:11 | 2023-05-15 |  |

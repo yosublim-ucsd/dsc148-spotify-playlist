@@ -4,7 +4,7 @@
 
 > The African & West Indian diaspora united\. Cover: Joeboy
 
-404 songs - 21 hr 17 min
+405 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Jam One Kele](https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Jam One Kele](https://open.spotify.com/album/1cWUxbpDvU1n9WHga7X1m2) | 2:29 | 2023-05-15 | 2023-05-24 |
 | [Jebson](https://open.spotify.com/track/5bGNMNlRStA2aaCaGUVVcW) | [Thebelebe](https://open.spotify.com/artist/1f1kaWtEN0VoOQE9XAJa1n) | [Jebson](https://open.spotify.com/album/3WRq1Ow1fRbOYHZIeRqGQM) | 6:30 | 2021-12-20 | 2022-01-15 |
 | [Jo](https://open.spotify.com/track/6MF7A93KnwAffYjUw0G19O) | [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Jo](https://open.spotify.com/album/34Js7h4nlzmjPMtsCSM1zi) | 3:03 | 2022-05-20 | 2022-07-16 |
+| [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-24 |  |
 | [Jowo](https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:56 | 2021-12-20 | 2022-05-10 |
 | [Juice](https://open.spotify.com/track/2ufGjcxYk6SD0KBdA8gX2J) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Juice](https://open.spotify.com/album/7nUtmWS4nJ0fqEapRua3jq) | 2:36 | 2022-01-24 | 2022-07-20 |
 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 | 2021-12-20 | 2022-07-11 |
@@ -300,7 +301,7 @@
 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 | 2021-12-20 | 2022-07-10 |
 | [Random](https://open.spotify.com/track/2X2UlvDS8TP71En3V5oclh) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Daddy1](https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi), [Gold Gad](https://open.spotify.com/artist/50ICpu6bWTdtBPzqkDm19i) | [Random](https://open.spotify.com/album/0rnsTIkGzCYnd10aDwy7Rl) | 3:29 | 2022-03-21 | 2022-07-23 |
 | [Ready](https://open.spotify.com/track/7waNtRQ6G0eRpP1IoZw5gA) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ready](https://open.spotify.com/album/0KrJGbPvItMdsOioxmYkq2) | 3:18 | 2022-01-24 | 2022-07-17 |
-| [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 | 2022-11-21 |  |
+| [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 | 2022-11-21 | 2023-06-07 |
 | [Rewind](https://open.spotify.com/track/41NP4B0giu92OZIrR75vZh) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Rewind](https://open.spotify.com/album/2wz2qL6NmKPmD4n6d2cQ58) | 2:43 | 2022-05-06 | 2022-06-23 |
 | [Ringaling \(feat\. Headie One and Odeal\)](https://open.spotify.com/track/3clsaaFmHO6N6rvr77h68f) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 2:50 | 2022-01-24 | 2022-07-29 |
 | [Rise](https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Rise](https://open.spotify.com/album/0sP2usGFkkXX648EGFk5VU) | 3:00 | 2022-08-18 | 2022-09-17 |

@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-189 songs - 10 hr 52 min
+190 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Home](https://open.spotify.com/track/0uork4GhvL9OIsdpL7kMe1) | [Wooly and the Uke](https://open.spotify.com/artist/1FykDoCf7IfkRKARKdnNV6) | [Home](https://open.spotify.com/album/7LVamrPcjzGNIYOAgC4pWq) | 2:00 | 2021-12-06 | 2022-01-29 |
 | [How](https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi) | [Wooly and the Uke](https://open.spotify.com/artist/1FykDoCf7IfkRKARKdnNV6), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [How](https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4) | 2:38 | 2022-02-17 | 2022-06-11 |
 | [Hum Kahan](https://open.spotify.com/track/4lU9mJtD01KknelD2W2jX8) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Hum Kahan](https://open.spotify.com/album/6de2uubuc6Oi51s8A7PPkV) | 3:09 | 2022-02-17 | 2023-04-09 |
-| [Ijazat](https://open.spotify.com/track/0wNyBPr6W8JSC9f39FCYbT) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/4EwUuN903KFiw9IZmWlos6) | 1:30 | 2023-04-07 |  |
+| [Ijazat](https://open.spotify.com/track/0wNyBPr6W8JSC9f39FCYbT) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/4EwUuN903KFiw9IZmWlos6) | 1:30 | 2023-04-07 | 2023-06-07 |
 | [Ijazat](https://open.spotify.com/track/1XMXEyJbj8qvHtuqLbOIq6) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/1VLL0I0Y1hG0nQThZ0seJy) | 1:30 | 2023-04-07 | 2023-05-21 |
 | [Ijazat Cover](https://open.spotify.com/track/18XICD9QHduuxiewBjFZga) | [Arnob Khan Akib](https://open.spotify.com/artist/6MmkwDpS1JUxr05xRBx5Tu) | [Ijazat Cover](https://open.spotify.com/album/58Ri6HbF07OMoYoE41Qfs9) | 1:30 | 2023-04-07 | 2023-04-27 |
 | [Iltija](https://open.spotify.com/track/2gDJV55SsEtTp1apEe8k0r) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Iltija](https://open.spotify.com/album/5HElAOajKG6Tw39pANxWFi) | 5:17 | 2021-12-06 | 2022-01-29 |
@@ -169,6 +169,7 @@
 | [Slow](https://open.spotify.com/track/1VziWLNDb8KaYjJeb1F3HI) | [Gentle Robot](https://open.spotify.com/artist/4ZDRGSvFQnQUTs3438PIls) | [Breathe](https://open.spotify.com/album/1mLlCvxN1VRoBt3GRB5uMP) | 3:18 | 2021-12-06 | 2023-04-09 |
 | [Soul Jamming](https://open.spotify.com/track/3EiKsRlYzkI3IbnojcXeca) | [Waqas](https://open.spotify.com/artist/3bnpn31sQbuTzqdBscYqyL) | [Soul Jamming](https://open.spotify.com/album/3SyF9HHdvEm2jYgk2KvljG) | 2:36 | 2021-12-06 | 2022-06-17 |
 | [Soye Nahi](https://open.spotify.com/track/7Gb2D6V5xP5LAO5h5D9yQZ) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Mirande Shah](https://open.spotify.com/artist/6S0dJ9xk7KnOPgxYRjUycw) | [Bench \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Sx7jAkfJsvtAnLTjEEGQP) | 3:57 | 2021-12-06 | 2022-03-05 |
+| [Spicy](https://open.spotify.com/track/1APSHdEWYt0hlSlu5UcqJa) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Spicy](https://open.spotify.com/album/7C9tPnocJUdBMsZm9BGTDo) | 3:52 | 2023-06-06 |  |
 | [Sukoon](https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:15 | 2022-11-30 |  |
 | [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 | 2022-10-03 | 2023-04-09 |
 | [Sun Le Na](https://open.spotify.com/track/0tyK2eyMatZvNCVtbdNlmt) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Sun Le Na](https://open.spotify.com/album/1Mltm1wPVWUcp7tg7FnJCk) | 3:29 | 2022-01-18 | 2023-01-11 |

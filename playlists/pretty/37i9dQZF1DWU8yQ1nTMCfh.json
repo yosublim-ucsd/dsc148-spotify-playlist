@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Usted Se\u00f1alemelo",
-  "num_followers": 280805,
+  "num_followers": 280809,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2JhNjJkMTMyNzZlZWRkMjk4NGVkZDliNGE4Njk2ZDgzNjViMGM4",
+  "snapshot_id": "MCw4MDUwOTg4OWQwODU5N2Q2YTFhNWNjMzJiMWI0ZjkxNmQwMTI2NWI4",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "AAAAAA",
-        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+        "name": "La Petite Mort",
+        "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
       },
       "artists": [
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
         }
       ],
-      "duration_ms": 193567,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
+      "duration_ms": 291106,
+      "name": "La Petite Mort",
+      "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "La Petite Mort",
-        "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 291106,
-      "name": "La Petite Mort",
-      "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
+      "duration_ms": 193567,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Ramona Flowers",
         "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 181240,
       "name": "Ramona Flowers",
       "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Cuesta Arriba",
-        "url": "https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 164470,
-      "name": "Cuesta Arriba",
-      "url": "https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "EL PEOR",
         "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 114000,
       "name": "EL PEOR",
       "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 164470,
+      "name": "Cuesta Arriba",
+      "url": "https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -863,18 +863,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+        "name": "Mechero",
+        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 247375,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
+      "duration_ms": 155392,
+      "name": "Mechero",
+      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -895,18 +899,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
       "artists": [
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 163720,
-      "name": "Qu\u00e9date Con \u00c9l",
-      "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
+      "duration_ms": 247375,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -927,22 +931,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Mechero",
-        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 155392,
-      "name": "Mechero",
-      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
+      "duration_ms": 163720,
+      "name": "Qu\u00e9date Con \u00c9l",
+      "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Generaci\u00f3n Inmediata",
-        "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tu Tiempo",
-      "url": "https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Todo est\u00e1 bien",
         "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 376123,
       "name": "Todo est\u00e1 bien",
       "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Generaci\u00f3n Inmediata",
+        "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Tu Tiempo",
+      "url": "https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Adictos",
-        "url": "https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 237746,
-      "name": "Adictos",
-      "url": "https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Astronom\u00eda Interior",
         "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 203880,
       "name": "Movimiento",
       "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Adictos",
+        "url": "https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 237746,
+      "name": "Adictos",
+      "url": "https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY"
     },
     {
       "added_at": "2023-06-02 04:00:00",

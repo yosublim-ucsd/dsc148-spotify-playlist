@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 385502,
+  "num_followers": 385604,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGQzNjljNDgxZjkyMGU5NDFkNTA0MmQ5YTIwMGE4ZGY1YzY3OGRh",
+  "snapshot_id": "MCwyZGY0MDZhNTVmMGY1NmY5NzYzYjQ3YTk5N2VkZjNlNmVmNGM3Yjky",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Ome",
+        "url": "https://open.spotify.com/album/69ecmGWs76wJyI23HLNfjh"
+      },
+      "artists": [
+        {
+          "name": "Jenny And The Mexicats",
+          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
+        }
+      ],
+      "duration_ms": 197002,
+      "name": "Boulevard",
+      "url": "https://open.spotify.com/track/0bPh6AN7Xa7rnZzeDCrR4k"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "The Cosmic Game",
         "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 221493,
       "name": "Pela Janela",
       "url": "https://open.spotify.com/track/6kSdAjGUnb3K1A93KL0O36"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Ome",
-        "url": "https://open.spotify.com/album/69ecmGWs76wJyI23HLNfjh"
-      },
-      "artists": [
-        {
-          "name": "Jenny And The Mexicats",
-          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
-        }
-      ],
-      "duration_ms": 197002,
-      "name": "Boulevard",
-      "url": "https://open.spotify.com/track/0bPh6AN7Xa7rnZzeDCrR4k"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "A Lo Cubano",
+        "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
+      },
+      "artists": [
+        {
+          "name": "Orishas",
+          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
+        }
+      ],
+      "duration_ms": 243696,
+      "name": "A Lo Cubano",
+      "url": "https://open.spotify.com/track/5RHsMuIxbJhGJoyd8DYmn8"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 221111,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "A Lo Cubano",
-        "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
-      },
-      "artists": [
-        {
-          "name": "Orishas",
-          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
-        }
-      ],
-      "duration_ms": 243696,
-      "name": "A Lo Cubano",
-      "url": "https://open.spotify.com/track/5RHsMuIxbJhGJoyd8DYmn8"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Mettavolution",
+        "url": "https://open.spotify.com/album/14PfZxWDjz2M104JSlhV5Q"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "Electric Soul",
+      "url": "https://open.spotify.com/track/4YhqlvorKX7kd9pHLLfWz1"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Bolero Apocal\u00edptico",
         "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 232960,
       "name": "Vem Pra Mim",
       "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Mettavolution",
-        "url": "https://open.spotify.com/album/14PfZxWDjz2M104JSlhV5Q"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
-        }
-      ],
-      "duration_ms": 238760,
-      "name": "Electric Soul",
-      "url": "https://open.spotify.com/track/4YhqlvorKX7kd9pHLLfWz1"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Treinta D\u00edas",
-        "url": "https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Monedita",
-      "url": "https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Canciones del Alma",
         "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 205010,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Treinta D\u00edas",
+        "url": "https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Monedita",
+      "url": "https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Libre y en Movimiento",
+        "url": "https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0"
+      },
+      "artists": [
+        {
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 183734,
+      "name": "Libre y en Movimiento",
+      "url": "https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Arturo Sandoval",
         "url": "https://open.spotify.com/album/3tsXNHsYyzPRneHlebjQtk"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 211586,
       "name": "Arturo Sandoval",
       "url": "https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Libre y en Movimiento",
-        "url": "https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0"
-      },
-      "artists": [
-        {
-          "name": "Marina Tuset",
-          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
-        },
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 183734,
-      "name": "Libre y en Movimiento",
-      "url": "https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1191,6 +1191,22 @@
       "duration_ms": 252397,
       "name": "Pelear",
       "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Trebol (II)",
+        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
+      },
+      "artists": [
+        {
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+        }
+      ],
+      "duration_ms": 189900,
+      "name": "Lo Mismo Que Usted",
+      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Trebol (II)",
-        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
-      },
-      "artists": [
-        {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
-        }
-      ],
-      "duration_ms": 189900,
-      "name": "Lo Mismo Que Usted",
-      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Rituales",
         "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Solterona",
-        "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 179856,
-      "name": "Solterona",
-      "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Somos Hermanas",
         "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Solterona",
+        "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 179856,
+      "name": "Solterona",
+      "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Meus Momentos: Paulinho Da Viola",
-        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        },
-        {
-          "name": "Elton Medeiros",
-          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Perdoa",
-      "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Cerca de ti (feat. Georgina)",
         "url": "https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 208013,
       "name": "Cerca de ti (feat. Georgina)",
       "url": "https://open.spotify.com/track/10oji60Sz18msn5AgTQI58"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Meus Momentos: Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        },
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Perdoa",
+      "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
     },
     {
       "added_at": "2023-05-26 04:01:00",

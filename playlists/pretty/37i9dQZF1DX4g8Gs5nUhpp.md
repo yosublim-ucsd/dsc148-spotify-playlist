@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Vũ.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,014 likes - 55 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,119 likes - 55 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 30 | [Thích Em Hơi Nhiều](https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Thích Em Hơi Nhiều](https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg) | 2:51 |
 | 31 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ) | 4:04 |
 | 32 | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/album/24GVnl6IHS4453WEGwp65Y) | 3:12 |
-| 33 | [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 |
+| 33 | [Có Ai Thương Em Như Anh](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 |
 | 34 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
 | 35 | [dự báo thời tiết hôm nay mưa](https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 4:41 |
 | 36 | [Em Là](https://open.spotify.com/track/6A1IbMKwjvXibcrU1sdqKH) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A), [Onionn.](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [22](https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj) | 3:17 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 54 | [Xin Lỗi](https://open.spotify.com/track/1K3CXUYKhLYN7koLW5WQjX) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 2:07 |
 | 55 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 |
 
-Snapshot ID: `MCxjYWJlNzUzYWQzMjRlNjEyN2U0MTM1MzZiMmJjMTYzNjgzMTI5YzZi`
+Snapshot ID: `MCwyMzgzYzAyYWM3NDVjYmMzOTY4YjY4NDAzNGVmZTlhNDBmOWFmNmRm`

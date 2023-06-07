@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Russ",
-  "num_followers": 1617661,
+  "num_followers": 1617702,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDBhYzE1ZGJlMzdjMjdhMDk5NmM0YmY1Y2JjNzBkZDQwODhkY2Jj",
+  "snapshot_id": "MCw1ZjMyMWViNjIyMTZhYTJkNzkzMTYxYzAyNWY0OWQ0ZDE5NzBjOTM3",
   "tracks": [
     {
       "added_at": "2023-06-05 14:39:43",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-06-05 14:39:43",
       "album": {
-        "name": "WON'T HE DO IT",
-        "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 190310,
-      "name": "Brucifix",
-      "url": "https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns"
-    },
-    {
-      "added_at": "2023-06-05 14:39:43",
-      "album": {
         "name": "Mumble Rap 2",
         "url": "https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 154902,
       "name": "Cocaine Spoon feat. Rick Ross",
       "url": "https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6"
+    },
+    {
+      "added_at": "2023-06-05 14:39:43",
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2023-06-05 14:39:43",
@@ -755,22 +755,22 @@
     {
       "added_at": "2023-06-05 14:39:43",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+        "name": "WON'T HE DO IT",
+        "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
       },
       "artists": [
         {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         },
         {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+      "duration_ms": 190310,
+      "name": "Brucifix",
+      "url": "https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns"
     },
     {
       "added_at": "2023-06-05 14:39:43",

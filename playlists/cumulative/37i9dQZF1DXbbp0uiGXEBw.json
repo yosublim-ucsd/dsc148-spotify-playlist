@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: MIN",
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: O.lew",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -301,7 +301,7 @@
     },
     {
       "album": {
-        "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
+        "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh",
         "url": "https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA"
       },
       "artists": [
@@ -318,7 +318,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231497,
-      "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
+      "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh",
       "url": "https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM"
     },
     {
@@ -414,6 +414,24 @@
       "duration_ms": 261573,
       "name": "c\u00f4 \u0111\u01a1n s\u1edbm t\u1ed1i",
       "url": "https://open.spotify.com/track/6nwPpjXk97fYF2aOUq2fcp"
+    },
+    {
+      "album": {
+        "name": "kh\u00f4ng bi\u1ebft n\u00ean vui hay bu\u1ed3n",
+        "url": "https://open.spotify.com/album/6dGz0gicZR4i1bzBWY4D42"
+      },
+      "artists": [
+        {
+          "name": "Bao Anh",
+          "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274576,
+      "name": "c\u00f4 \u1ea5y c\u1ee7a anh \u1ea5y",
+      "url": "https://open.spotify.com/track/3Sx63dtDf3m5barUfoPjRJ"
     },
     {
       "album": {
@@ -562,7 +580,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 185217,
       "name": "Em L\u00e0 Coffee",
       "url": "https://open.spotify.com/track/2mC5v8NMmr6NjKyV7alPDu"
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 260863,
       "name": "H\u00f4m Nay T\u00f4i Bu\u1ed3n (Nashville Version)",
       "url": "https://open.spotify.com/track/1Q3hhLiYXlomgwH4oDuBeC"
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 247553,
       "name": "H\u1eb9n \u01af\u1edbc T\u1eeb H\u01b0 V\u00f4 - Live",
       "url": "https://open.spotify.com/track/2tg8L2ls1k19B2SvRKBnJh"
@@ -1543,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "M\u1ed9t Ng\u00e0y Ch\u1eb3ng N\u1eafng",
+        "url": "https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192997,
+      "name": "M\u1ed9t Ng\u00e0y Ch\u1eb3ng N\u1eafng",
+      "url": "https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA"
+    },
+    {
+      "album": {
         "name": "M\u1eddi Anh V\u00e0o Team Em",
         "url": "https://open.spotify.com/album/0qnWAQh9eqFA7JGjznCJE0"
       },
@@ -1612,6 +1648,24 @@
       "duration_ms": 179154,
       "name": "Ng\u01b0\u1eddi \u00d4m Ph\u00e1o Hoa",
       "url": "https://open.spotify.com/track/3keyZ8cXkQ57melgiAsJ5m"
+    },
+    {
+      "album": {
+        "name": "Ng\u1ecf L\u1eddi",
+        "url": "https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK"
+      },
+      "artists": [
+        {
+          "name": "Suni H\u1ea1 Linh",
+          "url": "https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235744,
+      "name": "Ng\u1ecf L\u1eddi",
+      "url": "https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0"
     },
     {
       "album": {
@@ -1756,7 +1810,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 228631,
       "name": "OK Anh \u0110\u00fang",
       "url": "https://open.spotify.com/track/50Dh4QeAljOaFDRYcedzNW"
@@ -2022,6 +2076,24 @@
       "duration_ms": 276480,
       "name": "Sau Nay, Hay Gap Lai Nhau Khi Hoa No",
       "url": "https://open.spotify.com/track/6F61DTypUBPZiZqgd76Sjn"
+    },
+    {
+      "album": {
+        "name": "Say La La",
+        "url": "https://open.spotify.com/album/2K0Xq7WvQq8Vf6SfWWZg96"
+      },
+      "artists": [
+        {
+          "name": "O.lew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156634,
+      "name": "Say La La",
+      "url": "https://open.spotify.com/track/4uruGus1jk851QbkKJ6tqf"
     },
     {
       "album": {

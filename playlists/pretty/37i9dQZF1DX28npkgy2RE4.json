@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Jenny Lewis",
-  "num_followers": 405824,
+  "num_followers": 405907,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODM0OThhNmQ1YzE1YTJiNGE3ZDAwMTgzOTI4MjAzZGUxOWZhY2Zl",
+  "snapshot_id": "MCw0ZTBmODA3YTUzNWEyOTc2OTEyYzIxY2RjYWNhYjk5ZTdjYTAyNzUw",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "I Don\u2019t Live Here Anymore",
         "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
       "artists": [
         {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
         }
       ],
-      "duration_ms": 242266,
-      "name": "Nothing Compares",
-      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -775,6 +759,22 @@
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Nothing Compares",
+      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Among Horses III",
         "url": "https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 123000,
       "name": "Francis",
       "url": "https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 223453,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "The Wolves",
-      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 271206,
-      "name": "Rae Street",
-      "url": "https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Old Flowers",
         "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 198173,
       "name": "It Must Be Someone Else\u2019s Fault",
       "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 271206,
+      "name": "Rae Street",
+      "url": "https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Turn Off The News (Build A Garden)",
-        "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
+        "name": "The Jacket",
+        "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
       },
       "artists": [
         {
-          "name": "Lukas Nelson and Promise of the Real",
-          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
         }
       ],
-      "duration_ms": 181349,
-      "name": "Turn Off The News (Build A Garden) - Acoustic",
-      "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
+      "duration_ms": 259181,
+      "name": "Everything Is Simple",
+      "url": "https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1875,34 +1875,34 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "The Jacket",
-        "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
+        "name": "Turn Off The News (Build A Garden)",
+        "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
       },
       "artists": [
         {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
         }
       ],
-      "duration_ms": 259181,
-      "name": "Everything Is Simple",
-      "url": "https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8"
+      "duration_ms": 181349,
+      "name": "Turn Off The News (Build A Garden) - Acoustic",
+      "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
     },
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+        "name": "How Long (Single Version)",
+        "url": "https://open.spotify.com/album/5msvA8WSAQxX6ras6GKJHD"
       },
       "artists": [
         {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+          "name": "Sumbuck",
+          "url": "https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ"
         }
       ],
-      "duration_ms": 210280,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
+      "duration_ms": 214234,
+      "name": "How Long (Single Version)",
+      "url": "https://open.spotify.com/track/5F1MUKe3MGBmHDDYT9XFaB"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "How Long (Single Version)",
-        "url": "https://open.spotify.com/album/5msvA8WSAQxX6ras6GKJHD"
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
       },
       "artists": [
         {
-          "name": "Sumbuck",
-          "url": "https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ"
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
         }
       ],
-      "duration_ms": 214234,
-      "name": "How Long (Single Version)",
-      "url": "https://open.spotify.com/track/5F1MUKe3MGBmHDDYT9XFaB"
+      "duration_ms": 210280,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Blue Over Blue",
-        "url": "https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7"
-      },
-      "artists": [
-        {
-          "name": "The Clientele",
-          "url": "https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Blue Over Blue",
-      "url": "https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 161972,
       "name": "Song to Make You Fall in Love With Me",
       "url": "https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Blue Over Blue",
+        "url": "https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7"
+      },
+      "artists": [
+        {
+          "name": "The Clientele",
+          "url": "https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Blue Over Blue",
+      "url": "https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -2211,22 +2211,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Snowplow",
-        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
+        "name": "Quitters",
+        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
       },
       "artists": [
         {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        },
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
         }
       ],
-      "duration_ms": 161776,
-      "name": "Snowplow",
-      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -2247,18 +2243,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Quitters",
-        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
+        "name": "Snowplow",
+        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
       "artists": [
         {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        },
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
         }
       ],
-      "duration_ms": 208911,
-      "name": "Rubberneckers",
-      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
+      "duration_ms": 161776,
+      "name": "Snowplow",
+      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Lose This Number",
+      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Nick Waterhouse",
         "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
       },
@@ -2359,6 +2375,22 @@
       "duration_ms": 200813,
       "name": "I Feel an Urge Coming On",
       "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Mariachi Static",
+        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
+      },
+      "artists": [
+        {
+          "name": "Izaak Opatz",
+          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -2383,22 +2415,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 236813,
-      "name": "Lose This Number",
-      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Mecca",
         "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 291762,
       "name": "Mecca",
       "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Mariachi Static",
-        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
-      },
-      "artists": [
-        {
-          "name": "Izaak Opatz",
-          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "Not Yet",
-      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
     },
     {
       "added_at": "2023-05-26 04:01:00",

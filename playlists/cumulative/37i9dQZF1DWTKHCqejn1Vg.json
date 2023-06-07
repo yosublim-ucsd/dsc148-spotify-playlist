@@ -59,6 +59,32 @@
     },
     {
       "album": {
+        "name": "RESONANCE",
+        "url": "https://open.spotify.com/album/70djbLtJZMX8tOviF3LqW6"
+      },
+      "artists": [
+        {
+          "name": "blienty",
+          "url": "https://open.spotify.com/artist/0WXbuQdVdZWapK6SbQCO7A"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163163,
+      "name": "24K (feat. Kvsh, DUT2)",
+      "url": "https://open.spotify.com/track/2wFBG0ZqKrsHAtPms5s1zU"
+    },
+    {
+      "album": {
         "name": "28 Reasons - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
       },
@@ -1722,7 +1748,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 209433,
       "name": "Hated you",
       "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"

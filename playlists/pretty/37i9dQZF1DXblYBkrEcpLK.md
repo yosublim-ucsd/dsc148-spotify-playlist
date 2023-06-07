@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 結束バンド Ⓒはまじあき／芳文社・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,409 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,734 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 |
 | 50 | [River](https://open.spotify.com/track/1kPoNSnxGFq5UZbGyNymsK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/5sCPmMx3ctNJX7D68kY3A4) | 3:17 |
 
-Snapshot ID: `MCw0MmUxMGQ2NDlhYWMyZmUxOWE4ODdlZDFlMTM2MzMwY2EzYTM5OWRl`
+Snapshot ID: `MCw1YjJhOWZiOWRkZTc0NWZhZTJlZGIyZDEzNWU3ZGU0YzIwYTJjMzEx`

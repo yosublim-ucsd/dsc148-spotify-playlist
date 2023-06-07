@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Ozuna
 
-347 songs - 18 hr 17 min
+350 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,12 +268,14 @@
 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 | 2023-05-05 |  |
 | [Quererte Igual](https://open.spotify.com/track/3WGMrDBAKxlTZLs6ODcKz6) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [REENCUENTRO](https://open.spotify.com/album/2goIAK7WVjJuKPixiBTT1o) | 2:50 | 2023-03-24 |  |
 | [Quizá](https://open.spotify.com/track/16Jo6ltjGuQpVquSTOy3lB) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Fin de Semana Largo](https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7) | 2:50 | 2023-02-10 | 2023-05-20 |
-| [Quizás](https://open.spotify.com/track/4cDjYh6JH1zzRvrNr0JKE8) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 2:32 | 2023-05-12 |  |
+| [Quizás](https://open.spotify.com/track/2pU6tNvGWRqTUPQCTHZdMZ) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:32 | 2023-06-02 |  |
+| [Quizás](https://open.spotify.com/track/4cDjYh6JH1zzRvrNr0JKE8) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 2:32 | 2023-05-12 | 2023-06-07 |
 | [Qué Bonito Es Lo Bonito](https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 4:16 | 2023-03-03 | 2023-05-27 |
 | [Quédate](https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Quédate](https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n) | 4:07 | 2023-05-26 | 2023-06-03 |
 | [Quédate](https://open.spotify.com/track/6bIy6UfONIv6KVbKgtmhNZ) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP2](https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g) | 4:07 | 2023-06-02 |  |
 | [recuerdo](https://open.spotify.com/track/5qSfAFZfza3eqoeYPWztRV) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [ser humano](https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx) | 3:42 | 2023-03-24 |  |
-| [rimas del verbo amar](https://open.spotify.com/track/6KN5CpFdYW50Nd0pDXCIXy) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 4:10 | 2023-05-12 |  |
+| [rimas del verbo amar](https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 4:10 | 2023-06-02 |  |
+| [rimas del verbo amar](https://open.spotify.com/track/6KN5CpFdYW50Nd0pDXCIXy) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 4:10 | 2023-05-12 | 2023-06-07 |
 | [Rompa \(feat\. Kris Floyd\)](https://open.spotify.com/track/5Xyc1MK3toy2Mso3CdTmqL) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Club16, Jota Rosa Presents Vol\. 2](https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d) | 3:02 | 2023-04-28 |  |
 | [Rápido](https://open.spotify.com/track/0v8w8V48lEUeNNMpxZvBR9) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Asimétrico](https://open.spotify.com/album/10hlN57i39PIdyhXuhMbjn) | 2:24 | 2023-01-20 | 2023-05-13 |
 | [Sasha, Sissi y el Círculo de Baba \- EADDA9223 \(feat\. Mon Laferte\)](https://open.spotify.com/track/0HdRf23VtIRpUdHH3mZc3L) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 3:58 | 2023-06-02 |  |
@@ -354,6 +356,7 @@
 | [¿Qué Hubiera Pasado?](https://open.spotify.com/track/6b7zrII4Rw44VkV0xvCBQE) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Quién Dijo Que Era Fácil?](https://open.spotify.com/album/1qLpX1AgAYXhfr3QOWycw7) | 2:36 | 2023-03-17 |  |
 | [¿Qué Le Pasó Al Niño?](https://open.spotify.com/track/3c371x88u28PmYZwvYNYF1) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Mejor Que Ayer](https://open.spotify.com/album/7xZUlvdPjQvF9OVDfwCTal) | 2:52 | 2023-01-20 | 2023-05-13 |
 | [Árboles](https://open.spotify.com/track/2mQkTcWipEgzhrOfkJOsfE) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Ciegas](https://open.spotify.com/album/6iLktFdW6hFXyDKh7RSDuA) | 2:48 | 2023-05-19 | 2023-05-27 |
-| [ódiame si quieres](https://open.spotify.com/track/081GMHsFEpJWIxNRzDVq6d) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 2:42 | 2023-05-12 |  |
+| [ódiame si quieres](https://open.spotify.com/track/081GMHsFEpJWIxNRzDVq6d) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 2:42 | 2023-05-12 | 2023-06-07 |
+| [ódiame si quieres](https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:42 | 2023-06-02 |  |
 
 \*This playlist was first scraped on 2023-01-18. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-185 songs - 10 hr 29 min
+186 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Forever](https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd) | 2:02 | 2023-02-24 |  |
 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 | 2022-10-07 |  |
 | [garden ghosts](https://open.spotify.com/track/0vi2mGOi4tQQWvzFzR51tQ) | [Sarah McCreedy](https://open.spotify.com/artist/5bWGFe8kM0mQLEUZhfMqpC), [AOIBHA](https://open.spotify.com/artist/1JQePmAx9vPWhhAzmSOVIS) | [garden ghosts](https://open.spotify.com/album/1TNfcCkt7xsH9wvkZnvuJD) | 3:44 | 2023-01-13 | 2023-04-09 |
-| [Ghost](https://open.spotify.com/track/5xWpOP3RvKvd8oz1y5HfRo) | [Callum Pitt](https://open.spotify.com/artist/15mRJDZiAQq5CI6AqnlJfd) | [Ghost](https://open.spotify.com/album/6tEpoBigcuVdWFWqza7U8f) | 4:12 | 2022-04-08 |  |
+| [Ghost](https://open.spotify.com/track/2THLqQsIwN7Q5Wf1AMNMaT) | [Callum Pitt](https://open.spotify.com/artist/15mRJDZiAQq5CI6AqnlJfd) | [Ghost](https://open.spotify.com/album/6MPxhvn8psLz9AaNq0MHzn) | 4:12 | 2023-05-19 |  |
+| [Ghost](https://open.spotify.com/track/5xWpOP3RvKvd8oz1y5HfRo) | [Callum Pitt](https://open.spotify.com/artist/15mRJDZiAQq5CI6AqnlJfd) | [Ghost](https://open.spotify.com/album/6tEpoBigcuVdWFWqza7U8f) | 4:12 | 2022-04-08 | 2023-06-07 |
 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 | 2022-05-20 |  |
 | [Girl Like You](https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz) | 1:45 | 2023-04-07 |  |
 | [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2022-04-08 | 2022-10-13 |

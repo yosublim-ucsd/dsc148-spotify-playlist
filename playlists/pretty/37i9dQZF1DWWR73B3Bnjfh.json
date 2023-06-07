@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 89766,
+  "num_followers": 89873,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2E0NGExMThlNWMzZjAyMjcwYWM5NGU1MzIwNjBiNDQyYTUwY2Vl",
+  "snapshot_id": "MCw4M2Y5ZjcyN2JiYjNhYzc5YzM5NWNkMzlmNmU2Y2ZlNzEwNTY0OWE5",
   "tracks": [
     {
       "added_at": "2023-05-31 06:56:25",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-31 06:56:25",
       "album": {
-        "name": "Volume 2 (Vol. 2)",
-        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 209012,
-      "name": "I Waited For You",
-      "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
-    },
-    {
-      "added_at": "2023-05-31 06:56:25",
-      "album": {
         "name": "Leapin' And Lopin'",
         "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 402799,
       "name": "Deep In A Dream",
       "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
+    },
+    {
+      "added_at": "2023-05-31 06:56:25",
+      "album": {
+        "name": "Volume 2 (Vol. 2)",
+        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 209012,
+      "name": "I Waited For You - Remastered 1998",
+      "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
     },
     {
       "added_at": "2023-05-31 06:56:25",
@@ -895,18 +895,22 @@
     {
       "added_at": "2023-05-31 06:56:25",
       "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
       "artists": [
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
         }
       ],
-      "duration_ms": 237640,
-      "name": "The Midnight Sun Will Never Set",
-      "url": "https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw"
+      "duration_ms": 235000,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk"
     },
     {
       "added_at": "2023-05-31 06:56:25",
@@ -927,22 +931,18 @@
     {
       "added_at": "2023-05-31 06:56:25",
       "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 235000,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk"
+      "duration_ms": 237640,
+      "name": "The Midnight Sun Will Never Set",
+      "url": "https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw"
     },
     {
       "added_at": "2023-05-31 06:56:25",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-05-31 06:56:25",
       "album": {
-        "name": "Gettin' Together!",
-        "url": "https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT"
+        "name": "Art",
+        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Why Are We Afraid?",
-      "url": "https://open.spotify.com/track/3yRb1s9m2BcKr0m5ktUDTQ"
+      "duration_ms": 333493,
+      "name": "I'm A Fool To Want",
+      "url": "https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ"
     },
     {
       "added_at": "2023-05-31 06:56:25",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-05-31 06:56:25",
       "album": {
-        "name": "Art",
-        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
+        "name": "Gettin' Together!",
+        "url": "https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT"
       },
       "artists": [
         {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 333493,
-      "name": "I'm A Fool To Want",
-      "url": "https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ"
+      "duration_ms": 218466,
+      "name": "Why Are We Afraid?",
+      "url": "https://open.spotify.com/track/3yRb1s9m2BcKr0m5ktUDTQ"
     },
     {
       "added_at": "2023-05-31 06:56:25",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-05-31 06:56:25",
       "album": {
-        "name": "Profile",
-        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
-      },
-      "artists": [
-        {
-          "name": "Duke Pearson",
-          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
-        }
-      ],
-      "duration_ms": 271946,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE"
-    },
-    {
-      "added_at": "2023-05-31 06:56:25",
-      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 346160,
       "name": "Ballad",
       "url": "https://open.spotify.com/track/0uLojEpJu5d0TFDz7FOPjm"
+    },
+    {
+      "added_at": "2023-05-31 06:56:25",
+      "album": {
+        "name": "Profile",
+        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
+      },
+      "artists": [
+        {
+          "name": "Duke Pearson",
+          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+        }
+      ],
+      "duration_ms": 271946,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE"
     },
     {
       "added_at": "2023-05-31 06:56:25",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-05-31 06:56:25",
       "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
-    },
-    {
-      "added_at": "2023-05-31 06:56:25",
-      "album": {
         "name": "Paul Bley",
         "url": "https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 189813,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/7rfQSR01yyCxP55RNl7Zyu"
+    },
+    {
+      "added_at": "2023-05-31 06:56:25",
+      "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
     },
     {
       "added_at": "2023-05-31 06:56:25",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2023-05-31 06:56:25",
       "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
+        }
+      ],
+      "duration_ms": 598866,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt"
+    },
+    {
+      "added_at": "2023-05-31 06:56:25",
+      "album": {
         "name": "Stan Getz Plays (Clef Records LPR)",
         "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 256706,
       "name": "Ernie's Tune",
       "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
-    },
-    {
-      "added_at": "2023-05-31 06:56:25",
-      "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        },
-        {
-          "name": "The Three Sounds",
-          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
-        }
-      ],
-      "duration_ms": 598866,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt"
     },
     {
       "added_at": "2023-05-31 06:56:25",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-05-31 06:56:25",
       "album": {
-        "name": "Wrapped Tight",
-        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "Intermezzo",
-      "url": "https://open.spotify.com/track/0TvvhxT76LgtvwtCDZ3Uw4"
-    },
-    {
-      "added_at": "2023-05-31 06:56:25",
-      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 311533,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/3b85Jv4nFjRZNsorLlXA0p"
+    },
+    {
+      "added_at": "2023-05-31 06:56:25",
+      "album": {
+        "name": "Wrapped Tight",
+        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "Intermezzo",
+      "url": "https://open.spotify.com/track/0TvvhxT76LgtvwtCDZ3Uw4"
     },
     {
       "added_at": "2023-05-31 06:56:25",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-05-31 06:56:25",
       "album": {
+        "name": "Blues In The Night",
+        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 355320,
+      "name": "Blues In The Night",
+      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
+    },
+    {
+      "added_at": "2023-05-31 06:56:25",
+      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 578960,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/1N3h6F9BjQRPzBn4YrGXRo"
-    },
-    {
-      "added_at": "2023-05-31 06:56:25",
-      "album": {
-        "name": "Blues In The Night",
-        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 355320,
-      "name": "Blues In The Night",
-      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
     },
     {
       "added_at": "2023-05-31 06:56:25",

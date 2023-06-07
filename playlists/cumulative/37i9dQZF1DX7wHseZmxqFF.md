@@ -4,7 +4,7 @@
 
 > The UK girl group grab the power and show their love for Pride, unfurling a no\-fail list of pop party jams and club classics.
 
-47 songs - 2 hr 39 min
+48 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Dirrty \(feat\. Redman\)](https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:58 | 2017-06-02 |  |
 | [Euphoria \(Single Version\)](https://open.spotify.com/track/4jzQKGcFzICrQPQdKOeNmi) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [2000s Smash Hits](https://open.spotify.com/album/6lyvBf6MxoCkRhPw6qKbxY) | 3:01 | 2022-11-11 | 2022-11-13 |
 | [Euphoria \- Single Version](https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv) | 3:01 | 2017-06-02 | 2022-07-29 |
-| [Euphoria \- Single Version](https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi) | 3:01 | 2022-07-29 |  |
+| [Euphoria \- Single Version](https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria \(The Alternative Mixes\)](https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu) | 3:01 | 2023-06-07 |  |
+| [Euphoria \- Single Version](https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi) | 3:01 | 2022-07-29 | 2023-06-07 |
 | [Hair \(feat\. Sean Paul\)](https://open.spotify.com/track/3vuxwU3U7VG6RU6AMrSrwM) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Between Us \(Deluxe Version\)](https://open.spotify.com/album/6XNrM2YkzSXyQ9hekFOgLN) | 3:53 | 2022-11-11 | 2022-11-13 |
 | [Hair \(feat\. Sean Paul\)](https://open.spotify.com/track/5jlsg7onynIipVy5krMaRZ) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Hair \(feat\. Sean Paul\)](https://open.spotify.com/album/6HmxS6CD2IUZZg1Oxu8AVh) | 3:53 | 2017-06-02 | 2022-07-29 |
 | [Hair \(feat\. Sean Paul\)](https://open.spotify.com/track/28STRBEo3Gp4EthtSk4MGW) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:55 | 2022-07-29 |  |

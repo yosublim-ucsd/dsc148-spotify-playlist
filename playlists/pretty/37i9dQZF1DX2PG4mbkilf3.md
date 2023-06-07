@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with The Weeknd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,110 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,212 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Perfect Timing](https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [In The Meantime...](https://open.spotify.com/album/1qUcbrfGhJtaYOpZRna9eX) | 2:10 |
 | 100 | [Dreams](https://open.spotify.com/track/3tH0vbWaVb3rzlhqlA29Nu) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Dreams](https://open.spotify.com/album/7uzN6TOWx3PIKIytVpKMyQ) | 3:15 |
 
-Snapshot ID: `MCw5NDhjOTNkNTUyZmQ4NWJjZTg3YjkzOWM3ZTA3Y2JjOGYxZjQ4YWZl`
+Snapshot ID: `MCw1NjY5NzQ5ZGM0YTAzMTEyM2RjNDQ1NmJkODZjNDFkMmQxNDMyNTFi`

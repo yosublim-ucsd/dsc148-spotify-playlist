@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: YOVNGCHIMI",
-  "num_followers": 474326,
+  "num_followers": 474515,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWQ1OTYzNTM1OTZiNDhhMjg2NGQ3YjViY2Y4MTUzZTMzNjE3Nzdh",
+  "snapshot_id": "MCwwMjRkMmQ5MzlkZTZlMjAyZTE5ZDgxZWE1NjhlMTZkZjEzMzg0MTc4",
   "tracks": [
     {
       "added_at": "2023-05-26 21:34:37",
@@ -563,22 +563,22 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
-        "name": "Todo Menso",
-        "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
+        "name": "obst\u00e1culo",
+        "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 191917,
-      "name": "Todo Menso",
-      "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
+      "duration_ms": 136341,
+      "name": "obst\u00e1culo",
+      "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -619,22 +619,22 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
-        "name": "obst\u00e1culo",
-        "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
+        "name": "Todo Menso",
+        "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
         }
       ],
-      "duration_ms": 136341,
-      "name": "obst\u00e1culo",
-      "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
+      "duration_ms": 191917,
+      "name": "Todo Menso",
+      "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
-        "name": "Par de Dosis",
-        "url": "https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Par de Dosis",
-      "url": "https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
         "name": "No Te Metas",
         "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 219452,
       "name": "No Te Metas",
       "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
+        "name": "Par de Dosis",
+        "url": "https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 231304,
+      "name": "Par de Dosis",
+      "url": "https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
         "name": "Kame Hame",
         "url": "https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 167733,
       "name": "Kame Hame",
       "url": "https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
-        "name": "VICE",
-        "url": "https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "VICE",
-      "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
+        "name": "VICE",
+        "url": "https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "VICE",
+      "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
         "name": "Joder",
         "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 149300,
       "name": "Joder",
       "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -951,6 +951,30 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
+        "name": "X5",
+        "url": "https://open.spotify.com/album/1R8bJ89ssIjfaf2nojNyXf"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "X5",
+      "url": "https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
         "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
         "url": "https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO"
       },
@@ -987,30 +1011,6 @@
       "duration_ms": 206500,
       "name": "Por Si Pego",
       "url": "https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
-        "name": "X5",
-        "url": "https://open.spotify.com/album/1R8bJ89ssIjfaf2nojNyXf"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        },
-        {
-          "name": "Galee Galee",
-          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
-        },
-        {
-          "name": "Piero 47",
-          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "X5",
-      "url": "https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -1135,22 +1135,22 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
-        "name": "Las Horas Pasan",
-        "url": "https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi"
+        "name": "Llamando A Tu Fon",
+        "url": "https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7"
       },
       "artists": [
         {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 210625,
-      "name": "Las Horas Pasan",
-      "url": "https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a"
+      "duration_ms": 207037,
+      "name": "Llamando A Tu Fon",
+      "url": "https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -1171,22 +1171,22 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
-        "name": "Llamando A Tu Fon",
-        "url": "https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7"
+        "name": "Las Horas Pasan",
+        "url": "https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         },
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
         }
       ],
-      "duration_ms": 207037,
-      "name": "Llamando A Tu Fon",
-      "url": "https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT"
+      "duration_ms": 210625,
+      "name": "Las Horas Pasan",
+      "url": "https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
+        "name": "CALI KUSH",
+        "url": "https://open.spotify.com/album/4vruQWe3VzHYxARZHs2mmQ"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Cali Kush",
+      "url": "https://open.spotify.com/track/1LnbPH4077VghifKw1SFeL"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
         "name": "Bebi Demasiado",
         "url": "https://open.spotify.com/album/1g8IVrqLI8ZwCvBSp0UoCZ"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
-        "name": "CALI KUSH",
-        "url": "https://open.spotify.com/album/4vruQWe3VzHYxARZHs2mmQ"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Cali Kush",
-      "url": "https://open.spotify.com/track/1LnbPH4077VghifKw1SFeL"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
         "name": "FERRAGAMO",
         "url": "https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
-        "name": "Una Pistola y Un Toque",
-        "url": "https://open.spotify.com/album/5JXqExeY0MLgO6EFJwZgOK"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 234726,
-      "name": "Una Pistola y Un Toque",
-      "url": "https://open.spotify.com/track/7mYDqQKN77OjUK9Dqtm14A"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
         "name": "Kachipun",
         "url": "https://open.spotify.com/album/55vu9TYS7vUdgBOp2Zo2CW"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 168080,
       "name": "Kachipun",
       "url": "https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
+        "name": "Una Pistola y Un Toque",
+        "url": "https://open.spotify.com/album/5JXqExeY0MLgO6EFJwZgOK"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 234726,
+      "name": "Una Pistola y Un Toque",
+      "url": "https://open.spotify.com/track/7mYDqQKN77OjUK9Dqtm14A"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
-        "name": "Tiempos de Lluvia",
-        "url": "https://open.spotify.com/album/5DRUcNEvB5cfiQ0SgPOZ3h"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 202152,
-      "name": "Tiempos de Lluvia",
-      "url": "https://open.spotify.com/track/1MbknaLa9YLqz4NudTNxuX"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
         "name": "El Hombre Hace Planes, Dios Se R\u00ede",
         "url": "https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 351768,
       "name": "Santo Grial",
       "url": "https://open.spotify.com/track/71CmmeQnoVpTAlMtxEevaf"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
+        "name": "Tiempos de Lluvia",
+        "url": "https://open.spotify.com/album/5DRUcNEvB5cfiQ0SgPOZ3h"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 202152,
+      "name": "Tiempos de Lluvia",
+      "url": "https://open.spotify.com/track/1MbknaLa9YLqz4NudTNxuX"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 217228,
-      "name": "G-500",
-      "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
         "name": "Holy Shit (Remix)",
         "url": "https://open.spotify.com/album/0IzxukhRLKI3fU3HIaSIC1"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 207887,
       "name": "Holy Shit - Remix",
       "url": "https://open.spotify.com/track/1OzhsvZSKTMUZRjo4al9cA"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 217228,
+      "name": "G-500",
+      "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -2067,26 +2067,6 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
-        "name": "FXCK Remix",
-        "url": "https://open.spotify.com/album/4k6SCubTn9rspGzZeQjLss"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 245446,
-      "name": "Fxck Remix",
-      "url": "https://open.spotify.com/track/2Jll95vwNEnHnFkfg9bteA"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
         "name": "Ahi voy",
         "url": "https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4"
       },
@@ -2103,6 +2083,26 @@
       "duration_ms": 225621,
       "name": "Ahi voy",
       "url": "https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
+        "name": "FXCK Remix",
+        "url": "https://open.spotify.com/album/4k6SCubTn9rspGzZeQjLss"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 245446,
+      "name": "Fxck Remix",
+      "url": "https://open.spotify.com/track/2Jll95vwNEnHnFkfg9bteA"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
+        "name": "ST\u00dcSSY",
+        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
+      },
+      "artists": [
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        }
+      ],
+      "duration_ms": 144714,
+      "name": "ST\u00dcSSY",
+      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
         "name": "Envidioso",
         "url": "https://open.spotify.com/album/11l3a3ll8Za1v8nF6sZy5Y"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 225973,
       "name": "Envidioso",
       "url": "https://open.spotify.com/track/7J4VKp49Uh2r84SK5pUa0A"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
-        "name": "ST\u00dcSSY",
-        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
-      },
-      "artists": [
-        {
-          "name": "Jovaan",
-          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
-        }
-      ],
-      "duration_ms": 144714,
-      "name": "ST\u00dcSSY",
-      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -2243,6 +2243,26 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
+        "name": "Posdata",
+        "url": "https://open.spotify.com/album/2R2tb1OIF91FBpqE7gJ8Km"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "duration_ms": 212316,
+      "name": "Posdata",
+      "url": "https://open.spotify.com/track/0KNbSGfz4A8qSNEv45kykQ"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
         "name": "Hollow Point",
         "url": "https://open.spotify.com/album/2QJz6Q6uWOfjtU3qgb4Fbn"
       },
@@ -2267,26 +2287,6 @@
       "duration_ms": 266978,
       "name": "Hollow Point",
       "url": "https://open.spotify.com/track/2ev0dGe10essRdyWrpoHpu"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
-        "name": "Posdata",
-        "url": "https://open.spotify.com/album/2R2tb1OIF91FBpqE7gJ8Km"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        }
-      ],
-      "duration_ms": 212316,
-      "name": "Posdata",
-      "url": "https://open.spotify.com/track/0KNbSGfz4A8qSNEv45kykQ"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -2791,46 +2791,6 @@
     {
       "added_at": "2023-05-26 21:34:37",
       "album": {
-        "name": "Ojos Chiquitos",
-        "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 152796,
-      "name": "Ojos Chiquitos",
-      "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
-        "name": "Wassap",
-        "url": "https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 165482,
-      "name": "Wassap",
-      "url": "https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -2859,6 +2819,62 @@
       "duration_ms": 398280,
       "name": "Siempre Ser\u00e9 (feat. Secreto El Famoso Biber\u00f3n & Pacho El Antifeka)",
       "url": "https://open.spotify.com/track/3AbJqOEvApkTuFKl1cIzTK"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
+        "name": "Wassap",
+        "url": "https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 165482,
+      "name": "Wassap",
+      "url": "https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 152796,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
+    },
+    {
+      "added_at": "2023-05-26 21:34:37",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/2YtJX0cvKYb15qco5fmkBn"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 208205,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/1ILgMB4ggj3jEUGgeFRs9K"
     },
     {
       "added_at": "2023-05-26 21:34:37",
@@ -2911,22 +2927,6 @@
       "duration_ms": 491200,
       "name": "Las Guaguas Van",
       "url": "https://open.spotify.com/track/76SUe8d76nFlVIMbcG3Dx6"
-    },
-    {
-      "added_at": "2023-05-26 21:34:37",
-      "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/2YtJX0cvKYb15qco5fmkBn"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 208205,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/1ILgMB4ggj3jEUGgeFRs9K"
     },
     {
       "added_at": "2023-05-26 21:34:37",

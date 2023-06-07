@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 104000,
+  "num_followers": 104122,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTM0NTZiN2NlMzI2OGQ3M2YwMjdmM2IwYzgyNzg3ZGZmNGQ3YzNi",
+  "snapshot_id": "MCxlMThmMDk1OTFhMDJkODJjNmFiZDRmMDM4ZDRmYWM0MjgzMDViOGZl",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
-      },
-      "artists": [
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "Sobrevivir\u00e9",
-      "url": "https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Te Hubieras Ido Antes",
         "url": "https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 193071,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
+      },
+      "artists": [
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        }
+      ],
+      "duration_ms": 219559,
+      "name": "Sobrevivir\u00e9",
+      "url": "https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
-      },
-      "artists": [
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        }
-      ],
-      "duration_ms": 196884,
-      "name": "Entre Comillas",
-      "url": "https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "En Tus Manos",
         "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
       },
@@ -1407,22 +1391,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 214180,
-      "name": "Olvido Intencional",
-      "url": "https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Pa' Olvidar",
         "url": "https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3"
       },
@@ -1439,6 +1407,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 214180,
+      "name": "Olvido Intencional",
+      "url": "https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 175822,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
+      },
+      "artists": [
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        }
+      ],
+      "duration_ms": 196884,
+      "name": "Entre Comillas",
+      "url": "https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 180165,
+      "name": "Muri\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Usted No Me Olvida (Remix)",
         "url": "https://open.spotify.com/album/3xbDrC4sy53XbHzDn3BFGB"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "De Pura Rabia",
-        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 187397,
-      "name": "De Pura Rabia",
-      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "No Pongan Esas Canciones",
         "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
       },
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
+        "name": "De Pura Rabia",
+        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 180165,
-      "name": "Muri\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
+      "duration_ms": 187397,
+      "name": "De Pura Rabia",
+      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1595,18 +1595,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Bendecida",
-        "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
+        "name": "La Conquista",
+        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
       },
       "artists": [
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 190230,
-      "name": "Bendecida",
-      "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
+      "duration_ms": 186378,
+      "name": "La Conquista",
+      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1683,22 +1687,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "La Conquista",
-        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
+        "name": "Bendecida",
+        "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 186378,
-      "name": "La Conquista",
-      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
+      "duration_ms": 190230,
+      "name": "Bendecida",
+      "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
     },
     {
       "added_at": "2023-04-14 06:00:00",

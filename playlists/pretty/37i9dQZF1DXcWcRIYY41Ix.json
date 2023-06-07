@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Valeria Castro.",
-  "num_followers": 111710,
+  "num_followers": 111781,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2U0NWYwZDQ3MmNjZmMwMTJjNGQzZWIzZjcwMzkzOWY4NWJmMmEx",
+  "snapshot_id": "MCw4NDc1YjRhNWRhYzFjYTkzMzU4ZDJkY2YyMmQxYWE5NDI0ZDY1MDgy",
   "tracks": [
     {
       "added_at": "2023-06-02 07:31:27",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-06-02 07:31:27",
       "album": {
-        "name": "mar\u00eda",
-        "url": "https://open.spotify.com/album/5Q35ux2a1t8o3zKhUkqrly"
+        "name": "Como diciembre a enero",
+        "url": "https://open.spotify.com/album/7qnIiF3WKa6eTdUvodZLzt"
       },
       "artists": [
         {
-          "name": "from",
-          "url": "https://open.spotify.com/artist/5JOOLcf9vpeO0Lk5YsHXKU"
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
         }
       ],
-      "duration_ms": 154000,
-      "name": "mar\u00eda",
-      "url": "https://open.spotify.com/track/6FyKN7OBp8EH7D01shfmjM"
+      "duration_ms": 170990,
+      "name": "Como diciembre a enero",
+      "url": "https://open.spotify.com/track/10gN65ff59oz7Sxa1PNDHF"
     },
     {
       "added_at": "2023-06-02 07:31:27",
@@ -603,42 +603,6 @@
     {
       "added_at": "2023-06-02 07:31:27",
       "album": {
-        "name": "Como diciembre a enero",
-        "url": "https://open.spotify.com/album/7qnIiF3WKa6eTdUvodZLzt"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
-        }
-      ],
-      "duration_ms": 170990,
-      "name": "Como diciembre a enero",
-      "url": "https://open.spotify.com/track/10gN65ff59oz7Sxa1PNDHF"
-    },
-    {
-      "added_at": "2023-06-02 07:31:27",
-      "album": {
-        "name": "Pobles al costat del riu",
-        "url": "https://open.spotify.com/album/6EFZKqv2ty50XH9X3IQES2"
-      },
-      "artists": [
-        {
-          "name": "Lorena \u00c1lvarez",
-          "url": "https://open.spotify.com/artist/2cbf8lSm29egE3KU2CYeTA"
-        },
-        {
-          "name": "Julio Bustamante",
-          "url": "https://open.spotify.com/artist/17uCNrAYiTCTSsXfVEJANA"
-        }
-      ],
-      "duration_ms": 226131,
-      "name": "Pobles Al Costat Del Riu",
-      "url": "https://open.spotify.com/track/6dtWqRed0RsCAm65Bg88eH"
-    },
-    {
-      "added_at": "2023-06-02 07:31:27",
-      "album": {
         "name": "Vulnerables",
         "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
       },
@@ -663,18 +627,22 @@
     {
       "added_at": "2023-06-02 07:31:27",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/4jklEmPGLA21ItDDi9wZvs"
+        "name": "Pobles al costat del riu",
+        "url": "https://open.spotify.com/album/6EFZKqv2ty50XH9X3IQES2"
       },
       "artists": [
         {
-          "name": "RIOLA",
-          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
+          "name": "Lorena \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/2cbf8lSm29egE3KU2CYeTA"
+        },
+        {
+          "name": "Julio Bustamante",
+          "url": "https://open.spotify.com/artist/17uCNrAYiTCTSsXfVEJANA"
         }
       ],
-      "duration_ms": 269647,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/61IeOSgaFJ8NmBsVAWZFxs"
+      "duration_ms": 226131,
+      "name": "Pobles Al Costat Del Riu",
+      "url": "https://open.spotify.com/track/6dtWqRed0RsCAm65Bg88eH"
     },
     {
       "added_at": "2023-06-02 07:31:27",
@@ -695,18 +663,18 @@
     {
       "added_at": "2023-06-02 07:31:27",
       "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/4jklEmPGLA21ItDDi9wZvs"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "RIOLA",
+          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
         }
       ],
-      "duration_ms": 182256,
-      "name": "TRIGAL",
-      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
+      "duration_ms": 269647,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/61IeOSgaFJ8NmBsVAWZFxs"
     },
     {
       "added_at": "2023-06-02 07:31:27",
@@ -735,22 +703,18 @@
     {
       "added_at": "2023-06-02 07:31:27",
       "album": {
-        "name": "Cero Conflicto",
-        "url": "https://open.spotify.com/album/12q8eD899Uh8CWlBtuxqSn"
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
       },
       "artists": [
         {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        },
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 202580,
-      "name": "Cero Conflicto",
-      "url": "https://open.spotify.com/track/6RSPvAQnEghzgIs3dFcgHI"
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "added_at": "2023-06-02 07:31:27",
@@ -767,6 +731,26 @@
       "duration_ms": 158560,
       "name": "L\u00e1stima",
       "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
+    },
+    {
+      "added_at": "2023-06-02 07:31:27",
+      "album": {
+        "name": "Cero Conflicto",
+        "url": "https://open.spotify.com/album/12q8eD899Uh8CWlBtuxqSn"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        },
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 202580,
+      "name": "Cero Conflicto",
+      "url": "https://open.spotify.com/track/6RSPvAQnEghzgIs3dFcgHI"
     },
     {
       "added_at": "2023-06-02 07:31:27",
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-06-02 07:31:27",
       "album": {
+        "name": "coraz\u00f3n caramelo",
+        "url": "https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd"
+      },
+      "artists": [
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "coraz\u00f3n caramelo",
+      "url": "https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj"
+    },
+    {
+      "added_at": "2023-06-02 07:31:27",
+      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
-    },
-    {
-      "added_at": "2023-06-02 07:31:27",
-      "album": {
-        "name": "coraz\u00f3n caramelo",
-        "url": "https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd"
-      },
-      "artists": [
-        {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "coraz\u00f3n caramelo",
-      "url": "https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj"
     },
     {
       "added_at": "2023-06-02 07:31:27",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2023-06-02 07:31:27",
       "album": {
+        "name": "Las Curanderas",
+        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
+      },
+      "artists": [
+        {
+          "name": "Laura Murcia",
+          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
+        }
+      ],
+      "duration_ms": 206061,
+      "name": "Las Curanderas",
+      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+    },
+    {
+      "added_at": "2023-06-02 07:31:27",
+      "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 115029,
       "name": "Las Plantas Crecen",
       "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
-    },
-    {
-      "added_at": "2023-06-02 07:31:27",
-      "album": {
-        "name": "Las Curanderas",
-        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
-      },
-      "artists": [
-        {
-          "name": "Laura Murcia",
-          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
-        }
-      ],
-      "duration_ms": 206061,
-      "name": "Las Curanderas",
-      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
     },
     {
       "added_at": "2023-06-02 07:31:27",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2023-06-02 07:31:27",
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-06-02 07:31:27",
+      "album": {
         "name": "Las Bestias Que Me Acompa\u00f1an",
         "url": "https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 191826,
       "name": "Canci\u00f3n Con Vos",
       "url": "https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c"
-    },
-    {
-      "added_at": "2023-06-02 07:31:27",
-      "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
     },
     {
       "added_at": "2023-06-02 07:31:27",
@@ -1555,6 +1539,26 @@
     {
       "added_at": "2023-06-02 07:31:27",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/05a4NybrgDKDCb97Ufwn0k"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
+        },
+        {
+          "name": "Maddy Beyton",
+          "url": "https://open.spotify.com/artist/2dOP9NOlS6h7YtuAn2EzVA"
+        }
+      ],
+      "duration_ms": 210487,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/2MDgD7iAVZNPT0hHffWYYT"
+    },
+    {
+      "added_at": "2023-06-02 07:31:27",
+      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -1623,26 +1627,6 @@
       "duration_ms": 216891,
       "name": "Yo Soy",
       "url": "https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB"
-    },
-    {
-      "added_at": "2023-06-02 07:31:27",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/05a4NybrgDKDCb97Ufwn0k"
-      },
-      "artists": [
-        {
-          "name": "Ede",
-          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
-        },
-        {
-          "name": "Maddy Beyton",
-          "url": "https://open.spotify.com/artist/2dOP9NOlS6h7YtuAn2EzVA"
-        }
-      ],
-      "duration_ms": 210487,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/2MDgD7iAVZNPT0hHffWYYT"
     },
     {
       "added_at": "2023-06-02 07:31:27",
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2023-06-02 07:31:27",
       "album": {
+        "name": "Casi tierra",
+        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "En el r\u00edo",
+      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
+    },
+    {
+      "added_at": "2023-06-02 07:31:27",
+      "album": {
         "name": "Bossanova",
         "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-06-02 07:31:27",
       "album": {
-        "name": "Casi tierra",
-        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
-      },
-      "artists": [
-        {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "En el r\u00edo",
-      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
-    },
-    {
-      "added_at": "2023-06-02 07:31:27",
-      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 322242,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+    },
+    {
+      "added_at": "2023-06-02 07:31:27",
+      "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     }
   ],
   "unique_name": "Cancionistas",

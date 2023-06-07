@@ -1,12 +1,12 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 1939622,
+  "num_followers": 1940061,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTM0NTE1NTMzMjU2YjY2M2NlZDQ5OTc2YTllOGRlZmI4ZThkMmIy",
+  "snapshot_id": "MCxkN2MyNmE1YWFkYTQxNDU1ZDc0NGE4ZWE3OTE1ZTRhM2NlODZkZTY1",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -127,22 +127,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Nothing Happens",
-        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Are You Bored Yet? (feat. Clairo)",
-      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -163,18 +159,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+        "name": "Nothing Happens",
+        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
       "artists": [
         {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+      "duration_ms": 178000,
+      "name": "Are You Bored Yet? (feat. Clairo)",
+      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Chip Chrome & The Mono-Tones (Deluxe)",
         "url": "https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 217026,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Starfucker",
         "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 277720,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 177511,
-      "name": "My Love - Edit",
-      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "misery",
         "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 139146,
       "name": "im so happy",
       "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 177511,
+      "name": "My Love - Edit",
+      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ"
-      },
-      "artists": [
-        {
-          "name": "Arlie",
-          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "big fat mouth",
-      "url": "https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "American Bollywood",
         "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 196643,
       "name": "The Walk Home",
       "url": "https://open.spotify.com/track/0sfrbCvmUUfJgZlKqXQbQ6"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ"
+      },
+      "artists": [
+        {
+          "name": "Arlie",
+          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "big fat mouth",
+      "url": "https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "supermarket",
         "url": "https://open.spotify.com/album/2rpxxVofUOFlcnFD5jriTt"
       },
@@ -2119,18 +2103,34 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
         }
       ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
+      "duration_ms": 240000,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 152993,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2147,6 +2147,22 @@
       "duration_ms": 181527,
       "name": "Stop Sign",
       "url": "https://open.spotify.com/track/58EybRsv2eC0iUfiYTmw8a"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2183,22 +2199,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Hello, All!",
-        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Goodpain",
         "url": "https://open.spotify.com/album/6Q4q3XFs8KRDj9mTfNlQSm"
       },
@@ -2213,20 +2213,20 @@
       "url": "https://open.spotify.com/track/4DHhTy2dYNd8IiW0aMQ24X"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
+        "name": "Hello, All!",
+        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
       },
       "artists": [
         {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 152993,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
+      "duration_ms": 203853,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Good Kid 3",
-        "url": "https://open.spotify.com/album/1sfZzqkDMiJiYXfO0hQPKh"
-      },
-      "artists": [
-        {
-          "name": "Good Kid",
-          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
-        }
-      ],
-      "duration_ms": 173122,
-      "name": "Osmosis",
-      "url": "https://open.spotify.com/track/7BDPv8Z4CzJFRnwWmB6C8y"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "i haunt ur dreams",
         "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
       },
@@ -2323,38 +2307,6 @@
       "duration_ms": 216665,
       "name": "i haunt ur dreams",
       "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 299546,
-      "name": "Personal Lies",
-      "url": "https://open.spotify.com/track/3HAYmp6l5lYGG8zz4qMbIX"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Slow Dances",
-        "url": "https://open.spotify.com/album/6ewPdKXdPj0Ld9tV1BCvf4"
-      },
-      "artists": [
-        {
-          "name": "Winnetka Bowling League",
-          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Slow Dances",
-      "url": "https://open.spotify.com/track/0J8x2FryJyw7OVnEGYNFQE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2375,34 +2327,50 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
+        "name": "Good Kid 3",
+        "url": "https://open.spotify.com/album/1sfZzqkDMiJiYXfO0hQPKh"
       },
       "artists": [
         {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
         }
       ],
-      "duration_ms": 275560,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
+      "duration_ms": 173122,
+      "name": "Osmosis",
+      "url": "https://open.spotify.com/track/7BDPv8Z4CzJFRnwWmB6C8y"
     },
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Orange Blood",
-        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
+        "name": "its alright :)",
+        "url": "https://open.spotify.com/album/6r8xvFmJ6SS7XU5dSfvdWB"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Kevin Walkman",
+          "url": "https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4"
         }
       ],
-      "duration_ms": 223626,
-      "name": "Johnson Song",
-      "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
+      "duration_ms": 202048,
+      "name": "its alright :)",
+      "url": "https://open.spotify.com/track/66nBMj6cwE9V6LxcpQQpFs"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 299546,
+      "name": "Personal Lies",
+      "url": "https://open.spotify.com/track/3HAYmp6l5lYGG8zz4qMbIX"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2423,18 +2391,50 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "its alright :)",
-        "url": "https://open.spotify.com/album/6r8xvFmJ6SS7XU5dSfvdWB"
+        "name": "Slow Dances",
+        "url": "https://open.spotify.com/album/6ewPdKXdPj0Ld9tV1BCvf4"
       },
       "artists": [
         {
-          "name": "Kevin Walkman",
-          "url": "https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4"
+          "name": "Winnetka Bowling League",
+          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
         }
       ],
-      "duration_ms": 202048,
-      "name": "its alright :)",
-      "url": "https://open.spotify.com/track/66nBMj6cwE9V6LxcpQQpFs"
+      "duration_ms": 232280,
+      "name": "Slow Dances",
+      "url": "https://open.spotify.com/track/0J8x2FryJyw7OVnEGYNFQE"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Johnson Song",
+      "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
     },
     {
       "added_at": "2023-05-26 04:00:00",

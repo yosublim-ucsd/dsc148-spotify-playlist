@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 28375,
+  "num_followers": 28401,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTQ1NjdkNjMxOGRjNzUzZDkxMzBkOWNjZmZhYWI0YmVlZTg2ZDcy",
+  "snapshot_id": "MCwzYzc4NzE0OGMyYjMyMGZiZjI2MDA1MDg5MGZiZTc0NWYyMjZiZTlm",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Turn On the Bass",
+        "url": "https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o"
+      },
+      "artists": [
+        {
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Turn On the Bass",
+      "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "nasty",
         "url": "https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 175505,
       "name": "nasty",
       "url": "https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Turn On the Bass",
-        "url": "https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o"
-      },
-      "artists": [
-        {
-          "name": "Sheeqo Beat",
-          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Turn On the Bass",
-      "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Lei do Baile",
+        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 212015,
+      "name": "Lei do Baile",
+      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Pree Me (Chris Lorenzo Remix)",
         "url": "https://open.spotify.com/album/3kEURw2yWBiWtOfIWvKQYJ"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 280620,
       "name": "Pree Me (Chris Lorenzo Remix)",
       "url": "https://open.spotify.com/track/6X6LIhmk6XVblq7meVQ4Kn"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Lei do Baile",
-        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        }
-      ],
-      "duration_ms": 212015,
-      "name": "Lei do Baile",
-      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -931,6 +931,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
+        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
+      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Jaiye (Aluna and Sigag Lauren Remix)",
         "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 221032,
       "name": "Jaiye (Aluna and Sigag Lauren Remix)",
       "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
-        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
-      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Another Chance (SBF17)",
-        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
-      },
-      "artists": [
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 183345,
-      "name": "Another Chance - SBF17",
-      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Nah Follow Dem",
         "url": "https://open.spotify.com/album/1XXV1sE3cJ2eshrGhwu2zg"
       },
@@ -1231,26 +1215,38 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
+        "name": "Another Chance (SBF17)",
+        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
       },
       "artists": [
         {
-          "name": "TSU Terry",
-          "url": "https://open.spotify.com/artist/0mvCpFrdf7doUhRu8AHjXT"
-        },
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
         }
       ],
-      "duration_ms": 162919,
-      "name": "Roll Call (feat. TT The Artist & Mighty Mark)",
-      "url": "https://open.spotify.com/track/0CqO3pjpupPRniIQIqfDDC"
+      "duration_ms": 183345,
+      "name": "Another Chance - SBF17",
+      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Wicked (feat. Eliza Legzdina)",
+        "url": "https://open.spotify.com/album/3SGr4NHccCw3UI1tiuhIpK"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        },
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "duration_ms": 157674,
+      "name": "Wicked (feat. Eliza Legzdina)",
+      "url": "https://open.spotify.com/track/6Bhdiee45ytzB8b2tgHdzR"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1275,22 +1271,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Wicked (feat. Eliza Legzdina)",
-        "url": "https://open.spotify.com/album/3SGr4NHccCw3UI1tiuhIpK"
+        "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
       },
       "artists": [
         {
-          "name": "lau.ra",
-          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+          "name": "TSU Terry",
+          "url": "https://open.spotify.com/artist/0mvCpFrdf7doUhRu8AHjXT"
         },
         {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
         }
       ],
-      "duration_ms": 157674,
-      "name": "Wicked (feat. Eliza Legzdina)",
-      "url": "https://open.spotify.com/track/6Bhdiee45ytzB8b2tgHdzR"
+      "duration_ms": 162919,
+      "name": "Roll Call (feat. TT The Artist & Mighty Mark)",
+      "url": "https://open.spotify.com/track/0CqO3pjpupPRniIQIqfDDC"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Bubbly",
+        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "WORK",
         "url": "https://open.spotify.com/album/6jhqBMKKpjSUNGaUv3Ar6Y"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 192000,
       "name": "WORK",
       "url": "https://open.spotify.com/track/3f6cQPVTkf8KuEni7b8bS6"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Bubbly",
-        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
-      },
-      "artists": [
-        {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1639,18 +1639,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Pepper Dem",
-        "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
+        "name": "FIJI WATER",
+        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
       },
       "artists": [
         {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+          "name": "MONEYONYOURMIND",
+          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Pepper Dem",
-      "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
+      "duration_ms": 136615,
+      "name": "FIJI WATER",
+      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1675,6 +1679,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
+      },
+      "artists": [
+        {
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "BADBOI",
         "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
       },
@@ -1691,22 +1711,6 @@
       "duration_ms": 196535,
       "name": "BADBOI",
       "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1739,6 +1743,22 @@
       "duration_ms": 188000,
       "name": "Bubble Pon Di Bed - UNIIQU3, Thai Chi Rose\u0300, Charly Gynn Remix",
       "url": "https://open.spotify.com/track/4RZDeecyMvZhHNPaWjFrCP"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
+      },
+      "artists": [
+        {
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1855,26 +1875,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "FIJI WATER",
-        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
-      },
-      "artists": [
-        {
-          "name": "MONEYONYOURMIND",
-          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
-        },
-        {
-          "name": "40k",
-          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "FIJI WATER",
-      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Hector's Revenge",
         "url": "https://open.spotify.com/album/3vt6iwhqMYXs1gh1sgLpRl"
       },
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Dapper Dan Midas",
-          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
-        }
-      ],
-      "duration_ms": 189518,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "De Todo Se Aprende (Remix)",
         "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
       },
@@ -1963,6 +1943,26 @@
       "duration_ms": 361500,
       "name": "De Todo Se Aprende - Yamil Remix",
       "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Dapper Dan Midas",
+          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
+        }
+      ],
+      "duration_ms": 189518,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
     },
     {
       "added_at": "2023-05-26 04:00:00",

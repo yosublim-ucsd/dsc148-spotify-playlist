@@ -1,12 +1,12 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3068800,
+  "num_followers": 3069166,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjEyMTQwOWFkNmNlZTlkOWMyNmY0YWZkYmIyNTY4ZTQ0NWNlNzY5",
+  "snapshot_id": "MCwxNGY3ZmI0NjU2Yzg0NjQ1ZDljNDliMThiMGVlNWIwNDJlNDZjZGY2",
   "tracks": [
     {
       "added_at": "2023-01-12 23:01:08",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u00bfY c\u00f3mo es \u00e9l?",
-      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "15 \u00c9xitos de Marisela Vol. 1",
         "url": "https://open.spotify.com/album/6YLiyX7kvfDkKu1AGhQj6z"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 213506,
       "name": "La Pareja Ideal",
       "url": "https://open.spotify.com/track/6HTBhdYFWi1wIGbm7dV7iV"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u00bfY c\u00f3mo es \u00e9l?",
+      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -467,18 +467,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Como Te Extra\u00f1o Mi Amor",
-        "url": "https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm"
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
       "artists": [
         {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        },
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 175493,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
+      "duration_ms": 248000,
+      "name": "Si la Ves (feat. Sin Bandera)",
+      "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -499,22 +503,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+        "name": "Como Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        },
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Si la Ves (feat. Sin Bandera)",
-      "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
+      "duration_ms": 175493,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
+        "name": "Franco de Vita",
+        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 240226,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 195936,
       "name": "Nuestro Juramento",
       "url": "https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
-        "name": "Franco de Vita",
-        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 240226,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
+        "name": "Completamente Tuya",
+        "url": "https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Enamorada y Herida",
+      "url": "https://open.spotify.com/track/31BsrpQphP6KiRXjvJix5R"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Completamente Tuya",
-        "url": "https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g"
+        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
+        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
       },
       "artists": [
         {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
         }
       ],
-      "duration_ms": 207066,
-      "name": "Enamorada y Herida",
-      "url": "https://open.spotify.com/track/31BsrpQphP6KiRXjvJix5R"
+      "duration_ms": 190564,
+      "name": "Sera Porque Te Amo",
+      "url": "https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1019,22 +1035,6 @@
       "duration_ms": 229040,
       "name": "Caray",
       "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
-        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
-        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 190564,
-      "name": "Sera Porque Te Amo",
-      "url": "https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Alma, coraz\u00f3n y vida",
-        "url": "https://open.spotify.com/album/4eiylM6nVpoQYl7kIkcKrY"
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
       },
       "artists": [
         {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Coraz\u00f3n m\u00e1gico",
-      "url": "https://open.spotify.com/track/2LGNlsFbufs6T6no1w8kfZ"
+      "duration_ms": 199013,
+      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
+      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+        "name": "Alma, coraz\u00f3n y vida",
+        "url": "https://open.spotify.com/album/4eiylM6nVpoQYl7kIkcKrY"
       },
       "artists": [
         {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
         }
       ],
-      "duration_ms": 199013,
-      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
-      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
+      "duration_ms": 198000,
+      "name": "Coraz\u00f3n m\u00e1gico",
+      "url": "https://open.spotify.com/track/2LGNlsFbufs6T6no1w8kfZ"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
-      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "El Ruise\u00f1or de America",
-        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },
       "artists": [
         {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 134880,
-      "name": "Reminiscencias",
-      "url": "https://open.spotify.com/track/0D337qdSUzMPXmrW20Mn5L"
+      "duration_ms": 257440,
+      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
+      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1343,6 +1327,22 @@
       "duration_ms": 188106,
       "name": "A Esa",
       "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 134880,
+      "name": "Reminiscencias",
+      "url": "https://open.spotify.com/track/0D337qdSUzMPXmrW20Mn5L"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/38sK8PSXXgZMLZujwgvNUH"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Una Estrella En El Cielo",
         "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
       },
@@ -1575,22 +1559,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "La Gran Fiesta Formose\u00f1a",
-        "url": "https://open.spotify.com/album/0jKCSRoHto29EuooePa871"
-      },
-      "artists": [
-        {
-          "name": "King Clave",
-          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Los Hombres No Deben Llorar",
-      "url": "https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "NUEVA ERA",
         "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
       },
@@ -1603,6 +1571,38 @@
       "duration_ms": 279026,
       "name": "Detr\u00e1s de Mi Ventana",
       "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/38sK8PSXXgZMLZujwgvNUH"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "La Gran Fiesta Formose\u00f1a",
+        "url": "https://open.spotify.com/album/0jKCSRoHto29EuooePa871"
+      },
+      "artists": [
+        {
+          "name": "King Clave",
+          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Los Hombres No Deben Llorar",
+      "url": "https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 210906,
-      "name": "Piel de Angel",
-      "url": "https://open.spotify.com/track/20PRqcym0a7bvokISwu3d6"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Para Toda La Vida",
         "url": "https://open.spotify.com/album/3lcEDEeQZzC0LSbrbKT6Xd"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 202266,
       "name": "Hoy Lo Vi Pasar",
       "url": "https://open.spotify.com/track/3yGTCMzOnSd66VepQCd1ZK"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 210906,
+      "name": "Piel de Angel",
+      "url": "https://open.spotify.com/track/20PRqcym0a7bvokISwu3d6"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Eres M\u00eda (Remasterizado)",
-        "url": "https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj"
-      },
-      "artists": [
-        {
-          "name": "Chiquetete",
-          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "Esta Cobard\u00eda - Remasterizado",
-      "url": "https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Pimpinela",
         "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 156306,
       "name": "D\u00edmelo Delante de Ella",
       "url": "https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Eres M\u00eda (Remasterizado)",
+        "url": "https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj"
+      },
+      "artists": [
+        {
+          "name": "Chiquetete",
+          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "Esta Cobard\u00eda - Remasterizado",
+      "url": "https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "De Nina A Mujer",
-        "url": "https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "De Ni\u00f1a a Mujer",
-      "url": "https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Camilo Superstar",
         "url": "https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 232360,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "De Nina A Mujer",
+        "url": "https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "De Ni\u00f1a a Mujer",
+      "url": "https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Mi Buen Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Mudanzas",
         "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 231967,
       "name": "Mudanzas",
       "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 262973,
+      "name": "Mi Buen Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
+        "name": "Daniela Romo",
+        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
         "name": "Pra Sempre Em Espanhol - Vol. 2",
         "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
       },
@@ -2191,22 +2207,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Daniela Romo",
-        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Coleccion definitiva (Deluxe)",
         "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
       },
@@ -2223,22 +2223,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
       },
       "artists": [
         {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 159733,
-      "name": "Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe"
+      "duration_ms": 193000,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/62nLNuTjFfyJczHfln6mw2"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -2259,18 +2255,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 193000,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/62nLNuTjFfyJczHfln6mw2"
+      "duration_ms": 159733,
+      "name": "Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Denise De Kalafe 10 Exitos",
-        "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
-      },
-      "artists": [
-        {
-          "name": "Denise De Kalafe",
-          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
-      "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "En carne viva",
         "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
       },
@@ -2375,22 +2359,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Juanello",
-        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
-      },
-      "artists": [
-        {
-          "name": "Juanello",
-          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Espejismo",
-      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Exclusive Ricchi E Poveri - 15 Exitos",
         "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
       },
@@ -2403,6 +2371,38 @@
       "duration_ms": 191792,
       "name": "Me Enamoro De Ti",
       "url": "https://open.spotify.com/track/7tK0PM1fKK0g4scuqmAnts"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Denise De Kalafe 10 Exitos",
+        "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
+      },
+      "artists": [
+        {
+          "name": "Denise De Kalafe",
+          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
+        }
+      ],
+      "duration_ms": 183213,
+      "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
+      "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Juanello",
+        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
+      },
+      "artists": [
+        {
+          "name": "Juanello",
+          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Espejismo",
+      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
-        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
+        "name": "Canta...Raphael",
+        "url": "https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g"
       },
       "artists": [
         {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
         }
       ],
-      "duration_ms": 196200,
-      "name": "Te Voy a Ense\u00f1ar a Querer",
-      "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
+      "duration_ms": 159560,
+      "name": "Yo soy aqu\u00e9l",
+      "url": "https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl"
     }
   ],
   "unique_name": "Canciones del Recuerdo",

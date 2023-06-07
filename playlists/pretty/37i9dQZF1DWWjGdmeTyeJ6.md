@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Nourished by Time\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,628 likes - 54 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,615 likes - 54 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 53 | [Where Does That Leave Me?](https://open.spotify.com/track/7JgRiufH2p2JqsvVavbvtw) | [Chelsea Berman](https://open.spotify.com/artist/7nodCh6KwfOzrvncmX4N0F) | [Where Does That Leave Me?](https://open.spotify.com/album/4VrfLVjChO54xK7tx1foCx) | 3:26 |
 | 54 | [Lack of Trying](https://open.spotify.com/track/0EOowKsuofc1SHV80HoC9W) | [Alyssa Newton](https://open.spotify.com/artist/6vauJL5c6UDFtyFawMTpxj) | [Lack of Trying](https://open.spotify.com/album/0IdvLC5aiQZ06fc8Uf8A1G) | 2:36 |
 
-Snapshot ID: `MCxjYzFiMzMxNGJhYzE0M2EzNTIyMWRiZjk4NDczY2M4ZmM2NGExNDEz`
+Snapshot ID: `MCxkODY0NmJkNTE1NTAwOWU4NjU3NDFjOWFlNjRmZGU5NTI0MDI4ZWJj`

@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-476 songs - 1 day 4 hr 33 min
+477 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Aguaepanela Fantástica](https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Aguaepanela Fantástica](https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j) | 4:15 | 2021-11-12 | 2022-07-29 |
 | [Aguardiente](https://open.spotify.com/track/5hwxQAq304yehScJtPPcCF) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/4IjGdT8iDALYm1Dpiix0Vd) | 3:16 | 2021-10-20 | 2022-07-29 |
 | [Aguardiente](https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR) | 3:16 | 2021-10-20 | 2023-05-30 |
-| [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-03-23 |  |
+| [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-03-23 | 2023-06-07 |
 | [Al Amanecer](https://open.spotify.com/track/6Wco7dkgzYPgwnGslPH0P6) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Al Amanecer](https://open.spotify.com/album/3PqbRm5TciAlJJfoHhcaIP) | 3:51 | 2021-10-20 | 2022-04-19 |
 | [Al Lao del Río](https://open.spotify.com/track/51vwF8S1EFHjqTc7wNUmbV) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Al Lao del Río](https://open.spotify.com/album/1z3uzWuaMIve49ltFd6i3L) | 3:30 | 2021-10-20 | 2022-07-29 |
 | [Alegria](https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [The Original Recordings](https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W) | 4:03 | 2021-10-20 |  |
@@ -200,6 +200,7 @@
 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 | 2021-10-20 |  |
 | [Gaviota](https://open.spotify.com/track/1odGOA1Zo7QD20tcrEIpZv) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Mû Mbana](https://open.spotify.com/artist/1r3pn7WPpSY3wZPDSDarZu) | [Gaviota](https://open.spotify.com/album/0wsfiFY8XVjZoSe1p2mJ0e) | 3:13 | 2021-10-20 | 2022-05-21 |
 | [Ghost Dance](https://open.spotify.com/track/2K8z5hrIFrCTcYRab2EEbm) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/7Jem6NliPn5sp6LVkMDlHq) | 3:38 | 2021-10-20 | 2022-04-13 |
+| [Ghost Dance](https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 3:38 | 2021-10-20 |  |
 | [Ghost Dance](https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA) | 3:38 | 2021-10-20 | 2023-04-29 |
 | [Gotica](https://open.spotify.com/track/6Zs40HTLJe4AReNqOYqe4K) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Gotica](https://open.spotify.com/album/46DpWWLhStPZ7SvqtsfU04) | 1:44 | 2023-05-25 |  |
 | [Goza el Calor](https://open.spotify.com/track/6uq5m6eRy2R6cLU6EbVCpU) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:16 | 2023-01-02 | 2023-03-18 |

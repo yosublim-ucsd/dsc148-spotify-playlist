@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 148180,
+  "num_followers": 148222,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWEwNzIxM2I1ZDljZmM0ODU1NmIxNTgxNGQzOWRjYTY2NjBlZWYx",
+  "snapshot_id": "MCwyMmE5ODdiMDY0NWJjYTAxY2U4YjQ4YjM1MmJjNjYwYzQ3ZTY3MDY1",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Melhor Dia 10 - A Rua Ensina",
         "url": "https://open.spotify.com/album/4ywpPfbLWlsNlDnJ3olYPW"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 280500,
       "name": "Melhor Dia 10 - A Rua Ensina",
       "url": "https://open.spotify.com/track/0IL7SqCFvxdDXxiAu55isz"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
-      },
-      "artists": [
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Guts Sessions #1: Menina Linda",
         "url": "https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB"
       },
@@ -1391,26 +1375,18 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Meia Hora",
-        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
       },
       "artists": [
         {
-          "name": "Gabriel Henriques",
-          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Meia Hora",
-      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1439,26 +1415,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Interfone",
         "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
       },
@@ -1483,6 +1439,50 @@
       "duration_ms": 232000,
       "name": "Interfone",
       "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+        }
+      ],
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Meia Hora",
+        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Henriques",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Meia Hora",
+      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
     },
     {
       "added_at": "2023-05-19 03:01:00",

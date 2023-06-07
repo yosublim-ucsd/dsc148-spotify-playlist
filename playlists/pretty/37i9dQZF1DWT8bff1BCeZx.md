@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,986 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,016 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 20 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
 | 21 | [Ope Mi](https://open.spotify.com/track/5Tf3Pu5PUTzdKysGXnijAQ) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em) | [As I Am: In His Image](https://open.spotify.com/album/4cY1hBJNFUtaYeOJPZ6oxK) | 4:05 |
 | 22 | [I Know Who I Am](https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud](https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq) | 6:10 |
-| 23 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 |
+| 23 | [Oluwa E Tobi](https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Kike Mudiaga](https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF) | [S\. W\. A\. G \(Saved with Amazing Grace\)](https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg) | 4:02 |
 | 24 | [When I See You](https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:32 |
-| 25 | [Oluwa E Tobi](https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Kike Mudiaga](https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF) | [S\. W\. A\. G \(Saved with Amazing Grace\)](https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg) | 4:02 |
+| 25 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 |
 | 26 | [Taking Care \- Remix](https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Taking Care](https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd) | 3:42 |
 | 27 | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz) | 3:38 |
-| 28 | [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 |
-| 29 | [Now I See](https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Now I See](https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9) | 3:11 |
+| 28 | [Now I See](https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Now I See](https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9) | 3:11 |
+| 29 | [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 |
 | 30 | [Hosanna](https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna](https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV) | 5:21 |
 | 31 | [Tambira Jehova](https://open.spotify.com/track/7vMK0yMrE3I8KIaEgaAq2r) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Vol\. 15: Live At The ICC Arena Durban \- My Gift To You](https://open.spotify.com/album/7oRxjkbJPrlps1xsyeT0sO) | 6:57 |
 | 32 | [Tobechukwu \- Live](https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:08 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 40 | [Amen](https://open.spotify.com/track/0xzJ4tttj4yidyKPgnXdYY) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Amen](https://open.spotify.com/album/5RTLtWTO9qyUzwn0Eps3cY) | 4:14 |
 | 41 | [Omeriwo](https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Omeriwo](https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP) | 3:38 |
 | 42 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 |
-| 43 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 |
-| 44 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 |
+| 43 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 |
+| 44 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 |
 | 45 | [Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day](https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5) | [Joyful Way Incorporated](https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM) | [Grateful Hearts](https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq) | 14:10 |
 | 46 | [Jehovah Praise](https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 2:19 |
 | 47 | [Joy Overflow \- Live](https://open.spotify.com/track/5FxeHgp09vEDEnd13YqBcP) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Praise Ovation \(Live Recording\)](https://open.spotify.com/album/7IOP1HGSwRMkIVcZjdcwgL) | 8:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Bianule](https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Bianule](https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl) | 4:44 |
 | 50 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 |
 
-Snapshot ID: `MCwyMWIwYjM0NmY5NGFiZjM4NjRjMGIyYjhkMzZjYzI4NmY2MTgzOTNk`
+Snapshot ID: `MCxiYzA5MTdmYWVjODhlMzA5ODdhOTkwODg3OTVjYzJhZWE4NzYwMWEx`

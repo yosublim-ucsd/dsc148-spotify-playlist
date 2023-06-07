@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 
 > Float away to the weightless sound of breakbeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,348 likes - 73 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,356 likes - 73 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 27 | [Take it Further](https://open.spotify.com/track/2YNcbIe5ez6J9pLeS0TmdL) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Take it Further](https://open.spotify.com/album/1g8uVD8Hk9ZOmjrSg1TwUb) | 4:33 |
 | 28 | [Lambert Rise](https://open.spotify.com/track/7txXvBBhA0YB5L3Bopg5e8) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Ambivalent](https://open.spotify.com/album/7dZYB94TjHB1Kub44SK9j9) | 6:34 |
 | 29 | [I'm Not Afraid \- 1\-800 Girls Remix](https://open.spotify.com/track/7i4rfYbOXoU4PRX0H8VTgA) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ), [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [I'm Not Afraid \(1\-800 GIRLS Remix\)](https://open.spotify.com/album/05VMC6G0wYMwmpHTa1Ajpn) | 5:44 |
-| 30 | [System](https://open.spotify.com/track/0iHPXA909hMEDzv5haesuj) | [AKA ORANGE](https://open.spotify.com/artist/0Hz1vYMsVy0WzWhng1HxlT) | [System](https://open.spotify.com/album/6hPqY0dIYg5xkueZ4QoOFP) | 3:46 |
+| 30 | [System](https://open.spotify.com/track/27PHqfRUFY91oZw7msSqTp) | [AKA ORANGE](https://open.spotify.com/artist/0Hz1vYMsVy0WzWhng1HxlT) | [System](https://open.spotify.com/album/4wVMMGYCNaqHBdts3Kx9ti) | 3:46 |
 | 31 | [Get Impetuous](https://open.spotify.com/track/1836eqyYDqqecU5hjTg18D) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [How The Dogs Chill, Vol.1](https://open.spotify.com/album/12KUsz5VGp0SNjfXPxNVjE) | 5:31 |
 | 32 | [Heroes](https://open.spotify.com/track/1vJBXX0MaI9a5k0fWUZXcj) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td) | [Foundation](https://open.spotify.com/album/1jb6eS8NrJUOvNLIfwRPZ6) | 5:06 |
 | 33 | [This Side Of Paradise](https://open.spotify.com/track/2jdLk1AMrWbGQBylWI025A) | [kanyalang!](https://open.spotify.com/artist/7eb7C0cWi2Cx4rNJbKOIV6) | [Sometimes I Feel Weird](https://open.spotify.com/album/0DiwLN0euVsSaseXort5cE) | 5:33 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 72 | [VTOPIA](https://open.spotify.com/track/5sV6YuXW0Cherbpb6PEpTo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [VTOPIA](https://open.spotify.com/album/50iCpCLAmZjZIZAdobVL5H) | 6:22 |
 | 73 | [Time](https://open.spotify.com/track/5CdnchxvwLJUonYfcDbgB0) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R) | [Time](https://open.spotify.com/album/2JQtRaELiP5PODbtSBa31y) | 4:07 |
 
-Snapshot ID: `MCw3ZjU3YzhjNjMzMTNjNmQzMmEwMmU2M2ExMDM2NWZmOWM5NTBkNDUz`
+Snapshot ID: `MCxmZTFhN2E2YWMyNzdlNWU2ZjUwZWQxZGI2MDk0N2VkN2MwNTc4NGY1`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of hits that will have you singing every word. Cover: Old Dominion",
-  "num_followers": 443717,
+  "num_followers": 443809,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmFlMTgzMjllYjljZDdiYjQzZmJiNWM2MzA5Yjk0ZmNhY2RiMmVl",
+  "snapshot_id": "MCxkZTEzZTBlYzNmYTFhNzg1OGIyOTEyNTQxNThlYzE3YzQ2M2NmNzIx",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Rock and A Hard Place",
-        "url": "https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place",
-      "url": "https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
       },
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+        "name": "Need A Favor",
+        "url": "https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 206106,
-      "name": "She Had Me At Heads Carolina",
-      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Need A Favor",
-        "url": "https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd"
+        "name": "One Thing At A Time (Sampler)",
+        "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO"
+      "duration_ms": 206864,
+      "name": "One Thing At A Time",
+      "url": "https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -335,6 +335,22 @@
       "duration_ms": 177266,
       "name": "Going, Going, Gone",
       "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Ballads Of The Broken",
+        "url": "https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Son Of A Sinner",
+      "url": "https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -411,22 +427,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "One Thing At A Time (Sampler)",
-        "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 206864,
-      "name": "One Thing At A Time",
-      "url": "https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Tennessee Orange",
         "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
       },
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Ballads Of The Broken",
-        "url": "https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 232093,
-      "name": "Son Of A Sinner",
-      "url": "https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -471,38 +471,6 @@
       "duration_ms": 229626,
       "name": "Love You Anyway",
       "url": "https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Religiously",
-        "url": "https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Religiously",
-      "url": "https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -571,42 +539,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "What My World Spins Around",
-        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 186790,
-      "name": "What My World Spins Around",
-      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Drunk (And I Don't Wanna Go Home)",
-        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 245625,
-      "name": "Drunk (And I Don't Wanna Go Home)",
-      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -623,18 +555,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "5 Leaf Clover",
-        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 211053,
-      "name": "5 Leaf Clover",
-      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -659,6 +591,26 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Drunk (And I Don't Wanna Go Home)",
+        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 245625,
+      "name": "Drunk (And I Don't Wanna Go Home)",
+      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
@@ -679,6 +631,22 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "5 Leaf Clover",
+        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "5 Leaf Clover",
+      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -823,34 +791,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 209760,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "I Wish Grandpas Never Died",
-      "url": "https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT"
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -891,6 +843,54 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "I Wish Grandpas Never Died",
+      "url": "https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1027,26 +1011,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "kelsea",
-        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 231832,
-      "name": "half of my hometown (feat. Kenny Chesney)",
-      "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
@@ -1063,6 +1027,26 @@
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 231832,
+      "name": "half of my hometown (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1099,6 +1083,38 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Religiously",
+      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Born Here Live Here Die Here",
+        "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "One Margarita",
+      "url": "https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "Famous Friends",
         "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Born Here Live Here Die Here",
-        "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 193426,
-      "name": "One Margarita",
-      "url": "https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB"
+      "duration_ms": 169760,
+      "name": "Water Under The Bridge",
+      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1155,38 +1171,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Beers And Sunshine",
-        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Beers And Sunshine",
-      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Water Under The Bridge",
-        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Water Under The Bridge",
-      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/00nsOLoJt01bwmsJzBFX11"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Beers And Sunshine",
+        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Beers And Sunshine",
+      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "Glad You Exist",
-      "url": "https://open.spotify.com/track/3oV2RVOmwdWdf9BmGS4Oad"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Stop Draggin' Your Boots",
         "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 164347,
       "name": "Stop Draggin' Your Boots",
       "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 144760,
+      "name": "Glad You Exist",
+      "url": "https://open.spotify.com/track/3oV2RVOmwdWdf9BmGS4Oad"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Things That We Drink To",
-        "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
-      },
-      "artists": [
-        {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
-        }
-      ],
-      "duration_ms": 194898,
-      "name": "Day Drunk",
-      "url": "https://open.spotify.com/track/7nGuT0EfqQ1TXcADEKwB6Q"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Things That We Drink To",
+        "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "duration_ms": 194898,
+      "name": "Day Drunk",
+      "url": "https://open.spotify.com/track/7nGuT0EfqQ1TXcADEKwB6Q"
     },
     {
       "added_at": "2023-06-02 04:01:00",

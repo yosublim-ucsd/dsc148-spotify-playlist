@@ -2,7 +2,7 @@
 
 ### [B.A.E.](https://open.spotify.com/playlist/37i9dQZF1DWX3387IZmjNa)
 
-> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Karri
+> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Swae Lee
 
 325 songs - 16 hr 43 min
 
@@ -38,7 +38,7 @@
 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2022-02-15 | 2022-11-19 |
 | [Be Alright](https://open.spotify.com/track/1Cwv7OzGjvpHcCGxY1Nmvk) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Here 2 Stay](https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr) | 2:34 | 2023-05-12 |  |
 | [Be Free](https://open.spotify.com/track/35uYYHfPcA5zcl8IeVXxOb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:08 | 2021-12-10 | 2022-04-09 |
-| [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-08-26 |  |
+| [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-08-26 | 2023-06-07 |
 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 | 2022-03-11 | 2022-08-13 |
 | [Bedspread \(feat\. Latto\)](https://open.spotify.com/track/62L6tkrgOonnPetLrcrAsD) | [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Catch My Good Side](https://open.spotify.com/album/7LBFXcoEewKX8j7GffVEwJ) | 2:44 | 2021-11-13 | 2021-12-11 |
 | [Best for Me](https://open.spotify.com/track/0Ad3j3QJ7W3nxeLG3w189u) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Stuy Babyz](https://open.spotify.com/artist/5fQWQX65OG6WBCmmjex1al) | [Best for Me](https://open.spotify.com/album/022EWqBKUHqjCbiCxZvqRB) | 2:52 | 2023-02-17 | 2023-04-09 |
@@ -174,7 +174,7 @@
 | [Love In The Way](https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love In The Way](https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t) | 3:41 | 2022-09-09 | 2023-01-21 |
 | [Love is...](https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Love is…](https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg) | 3:50 | 2022-07-15 | 2023-02-25 |
 | [Love Me](https://open.spotify.com/track/2PxUUGpUBoHcDUrPKNstTE) | [YXNG K.A](https://open.spotify.com/artist/3BBujITyfgwyXTQliFzUNH) | [Love Me](https://open.spotify.com/album/0TUe5E3BQ38hBXglAijbNx) | 2:26 | 2021-12-03 | 2022-05-07 |
-| [LOVE YOU BETTER](https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:09 | 2022-04-29 |  |
+| [LOVE YOU BETTER](https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:09 | 2022-04-29 | 2023-06-07 |
 | [Loyal To A Fault \(feat\. Bryson Tiller, Lil Durk\)](https://open.spotify.com/track/6QTTPp4rzMqcbWWzgrGf9c) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [What You Expect](https://open.spotify.com/album/6aLBUWVN4WcBAJeJ7nI6j1) | 4:03 | 2021-10-29 | 2022-03-12 |
 | [Luv Me Again](https://open.spotify.com/track/6jXaJ37W4yKIBOEMpjGlli) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Luv Me Again](https://open.spotify.com/album/5eJKFgn1w9nPytqjnt1x0s) | 2:07 | 2022-09-09 | 2023-02-11 |
 | [Luv U Back](https://open.spotify.com/track/2Srbi3OwVYT4l2MDXxPUGa) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Luv U Back](https://open.spotify.com/album/6n4BMT8epRMopMEfyTbOiw) | 2:19 | 2022-09-09 | 2022-10-22 |

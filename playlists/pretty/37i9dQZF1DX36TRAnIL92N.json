@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 157783,
+  "num_followers": 158339,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDhkZmQ3N2EwODQ1YjQ1NDYwZmIzYjM2ZmM2OGU4MWIzYjIwZmE2",
+  "snapshot_id": "MCxhNTA4YTExNjg4NzgxMjc3MmU1NTMyNDY5NDIwZTIxMTY2NjlhYmQx",
   "tracks": [
     {
       "added_at": "2023-06-02 14:30:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Never Go Back To Sleep",
-        "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Never Go Back To Sleep",
-      "url": "https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Never Forget",
-        "url": "https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR"
+        "name": "Never Go Back To Sleep",
+        "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
       },
       "artists": [
         {
-          "name": "Deniz Bul",
-          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
         }
       ],
-      "duration_ms": 183649,
-      "name": "Never Forget",
-      "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
+      "duration_ms": 240000,
+      "name": "Never Go Back To Sleep",
+      "url": "https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -819,6 +803,22 @@
       "duration_ms": 390447,
       "name": "Addiction - Original Mix",
       "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Never Forget",
+        "url": "https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR"
+      },
+      "artists": [
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        }
+      ],
+      "duration_ms": 183649,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
     },
     {
       "added_at": "2023-06-02 14:30:00",

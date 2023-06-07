@@ -2,9 +2,9 @@
 
 ### [EQUAL K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DX6Cy4Vr7Hu2y)
 
-> From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: aespa\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
+> From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: MIRANI\(미란이\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-328 songs - 18 hr 35 min
+329 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-18 |  |
 | [AURA](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:35 | 2022-06-01 | 2022-08-08 |
 | [Bad](https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:42 | 2023-02-28 | 2023-04-05 |
+| [BAD BOY \(feat\. BIG Naughty\)](https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Drift](https://open.spotify.com/album/5aIC9W1wlhJVl3sGmkbRyV) | 2:44 | 2023-06-06 |  |
 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 | 2021-11-21 |  |
 | [Be Happy](https://open.spotify.com/track/7nbJ3glHErMd2tcDbTYvrU) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Be Happy](https://open.spotify.com/album/6Vy2eFJEQYrZgyFvLVIsxH) | 3:35 | 2022-02-14 | 2022-07-05 |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-08-01 | 2023-06-04 |
@@ -67,7 +68,7 @@
 | [Danger](https://open.spotify.com/track/4UHUzgsVA31r4yUq5dvfb1) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [JOY](https://open.spotify.com/album/4DqTvL7XSzatTOXo0wuQ29) | 3:42 | 2022-06-18 | 2022-06-20 |
 | [Dear Diary](https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) | [Dear Diary](https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC) | 3:38 | 2021-11-21 | 2022-07-11 |
 | [Dear Me](https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 3:42 | 2021-11-21 | 2022-05-29 |
-| [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-09-21 |  |
+| [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-09-21 | 2023-06-07 |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-08-14 |
 | [Ditto](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:05 | 2023-01-04 |  |
 | [DIVE](https://open.spotify.com/track/36UWU0wqIELSR6Azb3zcgD) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [DIVE](https://open.spotify.com/album/74i7iW2GXbm50mQttVDHYy) | 3:13 | 2021-11-21 | 2022-07-10 |
@@ -161,7 +162,7 @@
 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 | 2022-04-05 | 2022-07-25 |
 | [Love In Space](https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Wish](https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf) | 3:36 | 2022-03-08 | 2022-07-28 |
 | [LOVE IS YOU](https://open.spotify.com/track/4GsdC4RqKvSkGn0Z3Lx65P) | [6일](https://open.spotify.com/artist/6aSA3NgA142nxYJhz0nQhG) | [LOVE IS YOU](https://open.spotify.com/album/5GaOf9kp8oxD3ofsMcormR) | 3:39 | 2021-11-21 | 2022-07-09 |
-| [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-24 |  |
+| [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-24 | 2023-06-07 |
 | [Love U](https://open.spotify.com/track/4x5l1gjNcoBhhWBPEMo7OQ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL) | 3:10 | 2022-02-14 | 2022-06-29 |
 | [Love War \(Feat\. BE'O\)](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Love War](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) | 3:08 | 2023-01-16 | 2023-03-29 |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-01-19 | 2022-07-29 |
@@ -328,7 +329,7 @@
 | [Zimzalabim](https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 1](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) | 3:10 | 2021-11-21 | 2022-01-20 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-31 |  |
 | [zZ\(Tired\) zZ\(피곤해\) \(With Yebit\)](https://open.spotify.com/track/6CglZ5FFyt53qOhngetABc) | [YouSungYoon 유성윤](https://open.spotify.com/artist/6zZjlVlFWAXNSPcrbIvXbB), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [zZ](https://open.spotify.com/album/2gEpwi8neJlZxWz9LxhpPd) | 3:47 | 2021-11-21 | 2022-05-21 |
-| [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 | 2022-07-07 | 2023-05-03 |
+| [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 | 2022-07-07 |  |
 | [달라달라 DALLA DALLA](https://open.spotify.com/track/6G7DuXoSGeAf6BZivJdEjF) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/2gHd5bCrj42s8nwwXBALd4) | 3:19 | 2021-11-21 | 2022-07-29 |
 | [달려! Relay](https://open.spotify.com/track/7iH3faubNoXfhxmQUzUGGq) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [달려! Relay](https://open.spotify.com/album/1QBlxNoC6ScHlfLzfLUHtK) | 3:43 | 2022-03-22 | 2022-04-13 |
 | [마음아 미안해 Sorry To Myself](https://open.spotify.com/track/4ayv4V8zga4OdRvp3jRcbD) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Dear me](https://open.spotify.com/album/4Oj08xYBeuKU93EdQ2A3ia) | 3:32 | 2021-11-21 | 2022-04-20 |

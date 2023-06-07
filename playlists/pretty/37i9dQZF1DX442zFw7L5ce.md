@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,499 likes - 44 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,541 likes - 44 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 39 | [Akasam Ammayaithe](https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu) | [Shankar Mahadevan, Gopika poornima](https://open.spotify.com/artist/2XvK1qhSh7sTup7WKTrnoi) | [Gabbar Singh](https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr) | 4:51 |
 | 40 | [Sweety](https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW) | [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Rabbit M C](https://open.spotify.com/artist/3EwmY8hOYo6ApKtlOIfgVV) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 4:25 |
 | 41 | [Buggey Bangarama](https://open.spotify.com/track/18RUE4llLj46NIQKojerlw) | [Rajesh](https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK) | [Chandamama](https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC) | 4:32 |
-| 42 | [Chitti Nadumune](https://open.spotify.com/track/4NugyVw9Of2Z4uyBXf33tX) | [Mallikarjun, Premji\(RapVocals\)](https://open.spotify.com/artist/3uytoj0Hv0kykUFD6W30RD) | [Gudumba Shankar](https://open.spotify.com/album/330aGp8Rl5dhqKoPRsY203) | 5:54 |
+| 42 | [Chitti Nadumune](https://open.spotify.com/track/4NugyVw9Of2Z4uyBXf33tX) | [Mallikarjun](https://open.spotify.com/artist/40Ce6P4AGMq3NXCDXVSZaa), [Premji\(RapVocals\)](https://open.spotify.com/artist/6BeaMGRT2JYlFb7JCBuWAi) | [Gudumba Shankar](https://open.spotify.com/album/330aGp8Rl5dhqKoPRsY203) | 5:54 |
 | 43 | [Athiloka Sundari](https://open.spotify.com/track/7agbQBEJYIaKJ8lGVdq1bv) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:14 |
 | 44 | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/track/0Vjckx1G9Nt1S4GVfVKEdo) | [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/album/3RcUaHobHgt8eRQY7fPADf) | 2:26 |
 
-Snapshot ID: `MCxjYmQ0OTE2NDlhZGNkNTQzYTgzNDVlNjA3YmIyMDE0NTQ4NTNlMmRm`
+Snapshot ID: `MCw1NTU2M2I1ZTViZmJhZjAzNjA1MGJkNGQyMzQyMTBmYmIxOTEwMDdj`

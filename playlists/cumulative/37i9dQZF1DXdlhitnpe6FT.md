@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-193 songs - 10 hr 39 min
+194 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Route 101](https://open.spotify.com/track/1Tf0xSQyh7O1bsgwjNRkCl) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp) | 3:22 | 2020-12-08 | 2022-07-29 |
 | [Sail Along Silv'ry Moon](https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:06 | 2020-12-08 | 2022-07-29 |
 | [Sail Along Silv'ry Moon](https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Sail Along Silv'ry Moon](https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn) | 2:09 | 2020-12-08 |  |
-| [Saute\-Mouton](https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The Very Best Of](https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI) | 3:00 | 2020-12-08 |  |
+| [Saute\-Mouton](https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The Very Best Of](https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI) | 3:00 | 2020-12-08 | 2023-06-07 |
 | [Se Busca](https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq) | [Bodas y 15 Años](https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss) | [20 Valses Instrumentales](https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5) | 3:26 | 2020-12-08 |  |
 | [Servizio fotografico](https://open.spotify.com/track/1UbsI84khPCr2SlJQBkwOX) | [Bruno Nicolai](https://open.spotify.com/artist/1zPQrFtF93xibAcM35FYvl) | [La dama rossa uccide sette volte \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68M4f2IyrzuzYg1jAMoLVg) | 2:02 | 2020-12-08 |  |
 | [Servizio fotografico](https://open.spotify.com/track/2DQp49OSbORnQT0Imeo61H) | [Bruno Nicolai](https://open.spotify.com/artist/1zPQrFtF93xibAcM35FYvl) | [La dama rossa uccide sette volte \(Soundtrack\)](https://open.spotify.com/album/7I6i2zWhhTC09CttcH2lY8) | 2:02 | 2020-12-08 | 2022-06-21 |
@@ -162,6 +162,7 @@
 | [Sleepy Shores](https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh) | [Johnny Pearson](https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD) | [Kpm 1000 Series: Gentle Sounds \- Volume 2](https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2) | 3:40 | 2020-12-08 |  |
 | [Soleado](https://open.spotify.com/track/3kZQQ8e85TzwzFLtJTvVz0) | [John Days](https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7) | [16 Grandes Éxitos Instrumentales](https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL) | 3:41 | 2020-12-08 | 2022-07-29 |
 | [Soleado](https://open.spotify.com/track/4n7fsjH01J5GBQsmLMZtiQ) | [Johnny Days Orchestra](https://open.spotify.com/artist/6ddwnoAVajTGZa2ikrJqaY) | [Los Recuerdos Están Hechos de Esto Vol\. 2](https://open.spotify.com/album/2xgU1k2nI3EXak38BIPHA6) | 3:40 | 2020-12-08 | 2023-05-30 |
+| [Soleado](https://open.spotify.com/track/0oZjygEjDC17poCvwnTnYu) | [Orquesta Cuerdas Y Metales](https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7) | [Presentando a La Orquesta Cuerdas y Metales](https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y) | 3:40 | 2020-12-08 |  |
 | [Something for Sellers](https://open.spotify.com/track/4Co9m7SzabppimfOHMFZKp) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Pink Panther \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2W7Ie9HmDd4fNMJmhY5AZB) | 2:47 | 2020-12-08 | 2022-07-29 |
 | [Something for Sellers \- From the Mirisch\-G & E Production "The Pink Panther"](https://open.spotify.com/track/6ilhwuaJDBhbexELtY9CJE) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Martinis With Mancini](https://open.spotify.com/album/0s6hs4iFh5wZwjsOAZIb1f) | 2:48 | 2020-12-08 | 2022-11-13 |
 | [Something for Sellers \- From the Mirisch\-G & E Production "The Pink Panther"](https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Pink Panther \- Original Soundtrack](https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy) | 2:49 | 2020-12-08 |  |

@@ -1231,6 +1231,28 @@
     },
     {
       "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
+    },
+    {
+      "album": {
         "name": "All Of The Girls You Loved Before",
         "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
       },
@@ -4690,7 +4712,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 226476,
       "name": "Cad\u00ea Seu Namorado Mo\u00e7a?",
       "url": "https://open.spotify.com/track/6F0ldIcRC6oCcn3hDukg9T"
@@ -5076,6 +5098,32 @@
       "duration_ms": 190666,
       "name": "Carol",
       "url": "https://open.spotify.com/track/4ETihwrhaIRcgAl2OwEbFY"
+    },
+    {
+      "album": {
+        "name": "Cart\u00e3o Black",
+        "url": "https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159973,
+      "name": "Cart\u00e3o Black",
+      "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"
     },
     {
       "album": {
@@ -5554,7 +5602,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 161344,
       "name": "Clickbait",
       "url": "https://open.spotify.com/track/3d1im1pw3WLuEty2k9XzTr"
@@ -5648,6 +5696,24 @@
       "duration_ms": 185666,
       "name": "Coisas Que Eu Sei",
       "url": "https://open.spotify.com/track/1ZV8n0wJ4htdpGRBEt25B6"
+    },
+    {
+      "album": {
+        "name": "Colecionador de Porqu\u00eas",
+        "url": "https://open.spotify.com/album/3ncsZ9HHmzLbPzTpA8XhyK"
+      },
+      "artists": [
+        {
+          "name": "Igor Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/398xkyrlwVAM4ZQQYdOrpB"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153034,
+      "name": "Colecionador de Porqu\u00eas",
+      "url": "https://open.spotify.com/track/2m1SByxe85M1tzoqmoE6AX"
     },
     {
       "album": {
@@ -5860,7 +5926,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 221538,
       "name": "Conex\u00f5es de M\u00e1fia (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap"
@@ -8196,16 +8262,16 @@
           "url": "https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR"
         },
         {
+          "name": "MC P\u00ea Original",
+          "url": "https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC"
+        },
+        {
           "name": "Dj Pikeno Mpc",
           "url": "https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS"
         },
         {
           "name": "Markim WF",
           "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
-        },
-        {
-          "name": "MC P\u00ea Original",
-          "url": "https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC"
         }
       ],
       "date_added": "2023-05-16",
@@ -10818,7 +10884,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 291400,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7"
@@ -14594,10 +14660,36 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 129287,
       "name": "Mano Zafe, Mano \u00cdndio",
       "url": "https://open.spotify.com/track/1pRj80g1ZF938azjy8xsJ1"
+    },
+    {
+      "album": {
+        "name": "Mant\u00e9m o Pique",
+        "url": "https://open.spotify.com/album/4RVMFRNLl65DNtpmGS2M7z"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "Mant\u00e9m o Pique",
+      "url": "https://open.spotify.com/track/4Fd1cs4q4oA95DmqiPSXhO"
     },
     {
       "album": {
@@ -15598,7 +15690,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 394883,
       "name": "Melhor Dia 11: Ilus\u00e3o com Autoestima",
       "url": "https://open.spotify.com/track/6vHa5xCUuoZikmu0cWPnIj"
@@ -19602,7 +19694,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 122666,
       "name": "Papin",
       "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
@@ -20332,7 +20424,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 251072,
       "name": "Pitbull Enraivado",
       "url": "https://open.spotify.com/track/7jWEgucKOoKvzrV9dV2E3Q"
@@ -20826,6 +20918,32 @@
       "duration_ms": 178419,
       "name": "Portal Orbital",
       "url": "https://open.spotify.com/track/1xdFNUWqA9Y6QXeetLr0ea"
+    },
+    {
+      "album": {
+        "name": "Posi\u00e7\u00e3o de Ataque",
+        "url": "https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "Posi\u00e7\u00e3o de Ataque",
+      "url": "https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk"
     },
     {
       "album": {
@@ -21492,7 +21610,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 136672,
       "name": "QUE EU VOU TE BOTAR",
       "url": "https://open.spotify.com/track/5KeRe32bIOU5rUa2MBzJnW"
@@ -21574,6 +21692,24 @@
       "duration_ms": 211464,
       "name": "Que Vamo\u2019 Hacer?",
       "url": "https://open.spotify.com/track/3Lnfbc1ZlIzIU5KmAeQNj4"
+    },
+    {
+      "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161240,
+      "name": "Queencard",
+      "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
     },
     {
       "album": {
@@ -22736,7 +22872,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 110624,
       "name": "Sea Of Problems",
       "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
@@ -23794,7 +23930,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 233038,
       "name": "Sinal",
       "url": "https://open.spotify.com/track/3fkLH5wAzni4mcXl4c6cAC"
@@ -28539,6 +28675,28 @@
     },
     {
       "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Blackway",
+          "url": "https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi"
+        },
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222306,
+      "name": "What's Up Danger (with Black Caviar)",
+      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T"
+    },
+    {
+      "album": {
         "name": "Neveroddoreven",
         "url": "https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5"
       },
@@ -28736,6 +28894,32 @@
       "duration_ms": 260361,
       "name": "Would've, Could've, Should've",
       "url": "https://open.spotify.com/track/3pUa0ZxdSeaJXm0EIydD3F"
+    },
+    {
+      "album": {
+        "name": "Wtf",
+        "url": "https://open.spotify.com/album/28IkNpZUMyuaWaADQAcwaS"
+      },
+      "artists": [
+        {
+          "name": "021 Richard",
+          "url": "https://open.spotify.com/artist/01U1Lf7mHrOLPjtfDAfvY1"
+        },
+        {
+          "name": "DJ Wkilla",
+          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
+        },
+        {
+          "name": "H4axxi",
+          "url": "https://open.spotify.com/artist/1Pe2bSGGnlBB19BzevKijn"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109137,
+      "name": "Wtf",
+      "url": "https://open.spotify.com/track/06JTWClNJgcBxk2yMqoz7e"
     },
     {
       "album": {
@@ -29206,6 +29390,28 @@
       "duration_ms": 131571,
       "name": "\u00c9 S\u00d3 UMA BOTADA NA NOVINHA",
       "url": "https://open.spotify.com/track/3z3lmicaEABOdu9PDvwRdv"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Tuf Tuf Pof Pof Vapo Vapo o Dia Inteiro",
+        "url": "https://open.spotify.com/album/6TiZnu8EBFLp5CaI10SG60"
+      },
+      "artists": [
+        {
+          "name": "Dj Olliver",
+          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
+        },
+        {
+          "name": "Mr Boy",
+          "url": "https://open.spotify.com/artist/3IuiE6aOC7vqWRHoD309uU"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "\u00c9 Tuf Tuf Pof Pof Vapo Vapo o Dia Inteiro",
+      "url": "https://open.spotify.com/track/0iORXnF3F0t9Os9P0TLNsv"
     },
     {
       "album": {

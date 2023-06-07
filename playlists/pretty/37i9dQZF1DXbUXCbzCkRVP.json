@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 33270,
+  "num_followers": 33320,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDU4ZjBkNGYwZmZjZjAyZDhmYTRjMDAyNTgxNWI5ODNlNTc0NjAw",
+  "snapshot_id": "MCxiMzJmYmFhYmNlNjIwMDcxODNmMTBiMDdiMWYzYzU0ZDc2MjA4N2Q0",
   "tracks": [
     {
       "added_at": "2023-04-28 16:38:03",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Put It",
-        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
-      },
-      "artists": [
-        {
-          "name": "TrackTribe",
-          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
-        }
-      ],
-      "duration_ms": 210260,
-      "name": "Put It",
-      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 161479,
       "name": "Blue Guitar",
       "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Put It",
+        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
+      },
+      "artists": [
+        {
+          "name": "TrackTribe",
+          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+        }
+      ],
+      "duration_ms": 210260,
+      "name": "Put It",
+      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "What's The Word?",
-        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Extra Jimmies",
-      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Don't Be Late",
         "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 166436,
       "name": "Don't Be Late",
       "url": "https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "What's The Word?",
+        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Extra Jimmies",
+      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "The Pious Bird of Good Omen",
-        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 94506,
-      "name": "Jigsaw Puzzle Blues",
-      "url": "https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 259846,
       "name": "Part Time Blues",
       "url": "https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "The Pious Bird of Good Omen",
+        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 94506,
+      "name": "Jigsaw Puzzle Blues",
+      "url": "https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Ain't That Lovin' You Baby",
-        "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Boogie in the Dark",
-      "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "The Peacock Recordings: 1949-1959",
         "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 173000,
       "name": "Ain't That Dandy",
       "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Ain't That Lovin' You Baby",
+        "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Boogie in the Dark",
+      "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Hot and Heavy",
-      "url": "https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Broken Halo",
         "url": "https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 178826,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Hot and Heavy",
+      "url": "https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq"
     }
   ],
   "unique_name": "Instrumental Blues",

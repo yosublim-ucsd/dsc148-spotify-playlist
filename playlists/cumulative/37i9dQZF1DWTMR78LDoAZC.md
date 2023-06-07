@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: Christine and the Queens.
 
-210 songs - 11 hr 52 min
+211 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 | 2021-06-22 | 2023-06-02 |
 | [BUZZCUT \(feat\. Danny Brown\)](https://open.spotify.com/track/3uOIoS7lOvzQAtbbyttHp6) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [BUZZCUT \(feat\. Danny Brown\)](https://open.spotify.com/album/71qxIkZvfyFGQKUe9YA0ry) | 3:21 | 2021-06-22 | 2022-06-01 |
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2023-01-24 |  |
-| [California Girl](https://open.spotify.com/track/0nQih7s8hEqAeQQZb44M24) | [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ) | [California Girl](https://open.spotify.com/album/6JI9ahGVM3OofcDbQjhkSl) | 3:57 | 2022-06-06 |  |
+| [California Girl](https://open.spotify.com/track/0nQih7s8hEqAeQQZb44M24) | [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ) | [California Girl](https://open.spotify.com/album/6JI9ahGVM3OofcDbQjhkSl) | 3:57 | 2022-06-06 | 2023-06-07 |
 | [California Girl](https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR) | [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ) | [California Girl](https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0) | 3:57 | 2021-06-22 | 2022-11-13 |
 | [Can't Get Enough](https://open.spotify.com/track/0EPyKu3lM7IxSPYkYsSfPz) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [Can't Get Enough](https://open.spotify.com/album/2GguHv8hgGUKKnjL8NzVU4) | 3:20 | 2021-06-22 | 2022-06-01 |
 | [Caroline](https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:36 | 2021-06-22 | 2023-06-02 |
@@ -77,6 +77,7 @@
 | [Help Myself](https://open.spotify.com/track/0GBgnbJII17LGSXjIjVHT7) | [Evvol](https://open.spotify.com/artist/21drkL18eajEqlnqSAphJm) | [The Power](https://open.spotify.com/album/18p9w3i4FrHnbJVteUocya) | 3:04 | 2021-06-22 | 2022-06-01 |
 | [How to Be Successful](https://open.spotify.com/track/4U6A6DQmPhQa80d8NdRu48) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 2:45 | 2021-06-22 | 2022-06-02 |
 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 | 2021-06-22 |  |
+| [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 | 2023-06-01 |  |
 | [I Wanna Be Your Girlfriend](https://open.spotify.com/track/1sDMeyyj2QbUQ2yBPlOtBE) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Twelve Nudes](https://open.spotify.com/album/5Pm5mcnn8gRxiY4b4qXD1P) | 3:29 | 2021-06-22 | 2022-12-06 |
 | [I'm Happy Now](https://open.spotify.com/track/4A74rEokmBC1nXf1wtMmqi) | [boy cam](https://open.spotify.com/artist/71hu9nXKCY91T5Dj2vijgh) | [I'M HAPPY NOW](https://open.spotify.com/album/2RizbLChfs7zN9k0CU5gTW) | 4:31 | 2021-06-22 | 2022-07-29 |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-06-01 |  |

@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 11 | [Blanket](https://open.spotify.com/track/08k7gNeLvsZamR6Thx8lzZ) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 3:48 |
 | 12 | [Slow Down Sonic](https://open.spotify.com/track/5hWH1tL8kaEOIuUWPMt7ei) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:45 |
 | 13 | [Dope Calypso](https://open.spotify.com/track/0SUXtdt8aLCt6ENqPwrJ2V) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 5:04 |
-| 14 | [Tinderbox](https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Tinderbox](https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89) | 3:54 |
+| 14 | [Narrow Ways](https://open.spotify.com/track/0k3F1sYirFzPz7o5MW6b2Q) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:36 |
 | 15 | [So Sentimental](https://open.spotify.com/track/6QVLOVHtYM3oCbiLkr8B8K) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:12 |
 | 16 | [Pick it Up Again](https://open.spotify.com/track/1viAAfAMoasBY2OrIiGlxC) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:10 |
 | 17 | [In The Aisle](https://open.spotify.com/track/463MctMxMjFOa8fIgC3lry) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 3:41 |
-| 18 | [Narrow Ways](https://open.spotify.com/track/0k3F1sYirFzPz7o5MW6b2Q) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:36 |
+| 18 | [Tinderbox](https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Tinderbox](https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89) | 3:54 |
 | 19 | [How To Taste](https://open.spotify.com/track/4TDUxnS5QcrrKua4AKOnPk) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:30 |
 | 20 | [Vacation Forever](https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT) | 4:28 |
 | 21 | [OK Cathedral](https://open.spotify.com/track/45ERko0Qgz1a1xAHrrKLD9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:44 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 28 | [Paper Plane](https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:01 |
 | 29 | [Here Be Dragons](https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:14 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDAzODUxZjU0NGM2YmI0NmU1MTljMTQyN2YyZGUzMjkwNg==`
+Snapshot ID: `MjgxMDA5MjUsMDAwMDAwMDA5NThjNjQ3Mjg4ZWU3MTg2ZDE5MWQzMjRjNTE2ZWVlOQ==`

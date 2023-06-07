@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,296 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,419 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 37 | [Amnésia Do Beijo \- Ao Vivo](https://open.spotify.com/track/7GCFNHzQCRFrbkklWPxihq) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7) | 3:00 |
 | 38 | [Fio de cabelo](https://open.spotify.com/track/02WgpFP2084l3r6HoH1y7h) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Fio de cabelo](https://open.spotify.com/album/5B267dbtdjO40vjv4Nwfdm) | 2:56 |
 | 39 | [Basta](https://open.spotify.com/track/3gs0Pn6FKhwAfsf4fOYkGY) | [Thayná Bitencourt](https://open.spotify.com/artist/2EiiEzyH31Lo2TLUctc2B9) | [Basta](https://open.spotify.com/album/5dISg5YCW7cDiEosyLk6Fv) | 2:21 |
-| 40 | [Aguenta o Sofrimento](https://open.spotify.com/track/1fGQYggHxscWV3LZDdoOcZ) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Aguenta o Sofrimento](https://open.spotify.com/album/6UR3uayIt7lSK0o1hAP9kE) | 2:17 |
-| 41 | [Tá Melhor que Antes \- Ao Vivo](https://open.spotify.com/track/6pP5twEqrKYVlBiNvaV9kM) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 2:26 |
+| 40 | [Tá Melhor que Antes \- Ao Vivo](https://open.spotify.com/track/6pP5twEqrKYVlBiNvaV9kM) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 2:26 |
+| 41 | [Aguenta o Sofrimento](https://open.spotify.com/track/1fGQYggHxscWV3LZDdoOcZ) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Aguenta o Sofrimento](https://open.spotify.com/album/6UR3uayIt7lSK0o1hAP9kE) | 2:17 |
 | 42 | [Mentir Pra Que \- Ao Vivo](https://open.spotify.com/track/0HTvCeTBhY5TJqupRLm7Ef) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS) | 2:41 |
 | 43 | [Indefesa \- Ao Vivo](https://open.spotify.com/track/6YF9pcp623mMZm86ciOJ9r) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 3:16 |
 | 44 | [Meu Vazio \- Ao Vivo](https://open.spotify.com/track/7eSARTuHtifSgMlxPMJhfG) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3) | [Todas As Letras \(Ao Vivo / Vol\. 2\)](https://open.spotify.com/album/5z9tSlU0kfkqLtN3t0VT81) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [O Mentiroso](https://open.spotify.com/track/3KSReOYmcUz4KeJhSsPed7) | [Rainhas da Farra](https://open.spotify.com/artist/0AEVIV7men6BB9fGD9qNd1) | [Na Ilha](https://open.spotify.com/album/3mIHXqJObDc7wRTstVTmJh) | 3:01 |
 | 50 | [Te Quero Eternamente](https://open.spotify.com/track/21pfVjpRcAXdCKnKsQoZtB) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia Fellipe Metalizada](https://open.spotify.com/album/3ZF1YPToWlPIx0lUFiymZl) | 3:03 |
 
-Snapshot ID: `MCwxY2MzNGQyMzFjOTNiN2M1Mjc5NTMzNjliNzkwNGRmMmRkYThlNjky`
+Snapshot ID: `MCw1M2M5Mjk5ZDkzZThjNWE0MTk1ZWRlMTZiYzQ1YjViMTE3NzJmMmI4`

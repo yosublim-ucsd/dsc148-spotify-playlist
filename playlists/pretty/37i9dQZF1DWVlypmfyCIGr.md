@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: クレナズム
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,695 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,714 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [オンリーナイト \- feat.サカキダイ](https://open.spotify.com/track/1bwv2j1oFVR6iZm8h9M1aY) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps), [サカキダイ](https://open.spotify.com/artist/3JS3QBpJOaU3F5hlIXU9sc) | [オンリーナイト \(feat.サカキダイ\)](https://open.spotify.com/album/3MNCcPq6ROypBq5hboAUxm) | 2:30 |
 | 80 | [kinmokusei](https://open.spotify.com/track/28ZOaUWcMSxqZaJ7u82AyR) | [capo2](https://open.spotify.com/artist/46lQpGZYqzkNtdVXhiTBal) | [kinmokusei](https://open.spotify.com/album/29YpLsWDscQmNelq9l3XyU) | 4:57 |
 
-Snapshot ID: `MCw4Zjg5NGZhZjAxZjFmYTE0OGM4YWUxYmRkMzdmODk5YjkyNzIyNzMz`
+Snapshot ID: `MCw5ZGUzMzRkNjBkMWYxYjliYzQwMTNkNjkxMmEwN2YxZmEyMDBiNzhm`

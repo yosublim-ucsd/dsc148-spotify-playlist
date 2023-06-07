@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,858 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,885 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Why 1.3 \[2012 Export Wav\]](https://open.spotify.com/track/4K0dZGCi79U9TnZNkLJpkb) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 4:53 |
 | 60 | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt) | 2:33 |
 
-Snapshot ID: `MCxjYTc1ZGMzM2QxZjBkMzc1NGU1NWE4MjFjNGI4ZTU4MDE0MWMzMzAy`
+Snapshot ID: `MCw3NGVkODk3NzBmMTk0ZGQ2MmE3NDA3YmUyY2M5MzNlYmE4YTY0ZDQ5`

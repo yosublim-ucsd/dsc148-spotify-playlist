@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-560 songs - 1 day 10 hr 44 min
+561 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/03nEmFDMGyVGYFhQHbxLpF) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/5l6ECRIbvkKPWdriaaAQe7) | 2:34 | 2023-05-22 |  |
 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u) | 2:34 | 2022-07-20 | 2023-04-30 |
 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2023-02-03 | 2023-02-18 |
-| [Drunk](https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Drunk](https://open.spotify.com/album/3Bm0NIvCFjW8EcorluiLM7) | 3:11 | 2020-12-21 |  |
+| [Drunk](https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Drunk](https://open.spotify.com/album/3Bm0NIvCFjW8EcorluiLM7) | 3:11 | 2020-12-21 | 2023-06-07 |
 | [Dry Your Eyes](https://open.spotify.com/track/2xwwhTueFfnCVRLXvja1Gu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/5wrVAAdcCRz1MaL5J7LIyk) | 4:12 | 2023-05-25 | 2023-05-27 |
 | [Dry Your Eyes](https://open.spotify.com/track/3wfyXleQB8piYZimuVLazF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/2vBwQxoey9MJ7CApSpGya9) | 4:12 | 2020-12-21 | 2022-04-13 |
 | [Dusty Eyes](https://open.spotify.com/track/3InUgSk89qd5gs6Yv20070) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB) | 4:37 | 2023-05-25 | 2023-05-27 |
@@ -392,6 +392,7 @@
 | [Patient](https://open.spotify.com/track/0EkFPnDsxNrEsXtQQp4lNv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Libbie](https://open.spotify.com/album/6ujyqyNoZfQP70wHlPwNlE) | 1:25 | 2023-01-04 | 2023-03-18 |
 | [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 | 2022-04-01 | 2023-05-27 |
 | [Paul](https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/4onPyHor2yOlVxCsIaGyHH) | 3:03 | 2020-12-21 | 2022-07-29 |
+| [Paul](https://open.spotify.com/track/2MYidPOz5NHAtKUySTzbwx) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 3:03 | 2023-05-22 |  |
 | [Paul](https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 3:03 | 2022-07-22 | 2023-06-03 |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2022-07-22 |  |
 | [People, I've been sad](https://open.spotify.com/track/0KywIrJ4Xir4tS6q61aY1W) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [People, I've been sad](https://open.spotify.com/album/4RV4rhoQAX4KH7HME6AMnA) | 4:20 | 2020-12-21 | 2022-04-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,459 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,478 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Soledad Criminal](https://open.spotify.com/track/78JWLDL4fLdGNHT26IaEPS) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Aquí Vamos Otra Vez](https://open.spotify.com/album/5M58twn7mZ9tDQstqmH6nD) | 3:09 |
 | 60 | [Quédate Cerca](https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd) | 3:35 |
 
-Snapshot ID: `MCwyM2UyMzMxMTgwZGM5NmI0MGY0OGMzNTY4MTU4NjEyNDk4ZTZlZjE4`
+Snapshot ID: `MCxlMWQyZmQ0YWQ0MzdkY2ViNWQxNzFlM2NlMmRmY2VhM2U0MjMzOWE1`

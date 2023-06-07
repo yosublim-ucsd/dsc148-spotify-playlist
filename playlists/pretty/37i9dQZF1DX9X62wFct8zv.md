@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X62wFct8zv.md) - [plain]
 
 > The best of Fleetwood Mac, together and apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,571 likes - 72 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,590 likes - 72 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X62wFct8zv.md) - [plain]
 | 58 | [Seven Wonders \- 2017 Remaster](https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:42 |
 | 59 | [Tusk](https://open.spotify.com/track/1iKVDnBTqmZErf96ldGrZe) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:30 |
 | 60 | [I Want You Back](https://open.spotify.com/track/60fa5Is5pB3ipFvX8UfltI) | [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [I'm Not Me](https://open.spotify.com/album/6gVvyTwTcY9AHnvgjD26ln) | 2:53 |
-| 61 | [Oh Pretty Woman](https://open.spotify.com/track/4Pl4oV1Itbwt9Qa17ZwbML) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Crusade](https://open.spotify.com/album/41s6VWZkQ08fumaHr9xR3o) | 3:37 |
+| 61 | [Oh Pretty Woman](https://open.spotify.com/track/4Pl4oV1Itbwt9Qa17ZwbML) | [A.C\. Williams](https://open.spotify.com/artist/7gdwj88TF6MYhFuzAZifJr), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Crusade](https://open.spotify.com/album/41s6VWZkQ08fumaHr9xR3o) | 3:37 |
 | 62 | [You Make Loving Fun \- 2004 Remaster](https://open.spotify.com/track/55mQhobuwtY7lfLAXylg1k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:36 |
 | 63 | [Gotta See Her Tonight](https://open.spotify.com/track/7uKDLztrBuHj7LRV06wh62) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [Whatcha Gonna Do? \(Bonus Track Edition\)](https://open.spotify.com/album/5NWR5XTRdYPXYqeDafvW4l) | 5:47 |
 | 64 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X62wFct8zv.md) - [plain]
 | 71 | [Say You Love Me](https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:09 |
 | 72 | [Leather and Lace](https://open.spotify.com/track/6L5c6wFGDQswebVAS3BmUw) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 3:54 |
 
-Snapshot ID: `MCw3M2RjODRkMjMxODJhNDJkYTlhZDY3NGRiZDdmOGNmY2ZjOGEzYzA3`
+Snapshot ID: `MCwwYWMwODVlZTJmNzJiY2Q1NWQxY2E2MDhhZWQ4ZTdiOTcwODJiOGRm`

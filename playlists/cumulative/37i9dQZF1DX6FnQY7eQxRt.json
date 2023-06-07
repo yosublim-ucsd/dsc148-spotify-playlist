@@ -1757,28 +1757,6 @@
     },
     {
       "album": {
-        "name": "Light & Gold",
-        "url": "https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS"
-      },
-      "artists": [
-        {
-          "name": "Eric Whitacre",
-          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
-        },
-        {
-          "name": "Eric Whitacre Singers",
-          "url": "https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN"
-        }
-      ],
-      "date_added": "2020-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255773,
-      "name": "Lux Aurumque",
-      "url": "https://open.spotify.com/track/5bUdtdODnRPeQpmMoqhvVY"
-    },
-    {
-      "album": {
         "name": "Yoga Music Classical",
         "url": "https://open.spotify.com/album/5nmhonqNdfKkr2OB2lx8gs"
       },
@@ -2964,6 +2942,28 @@
       "duration_ms": 91000,
       "name": "We Wish You a Merry Christmas: A Merry Christmas (Arr. A. Warrell for choir)",
       "url": "https://open.spotify.com/track/7raN5xL6fksTmUmkPsbP2N"
+    },
+    {
+      "album": {
+        "name": "Light & Gold",
+        "url": "https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Eric Whitacre Singers",
+          "url": "https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255773,
+      "name": "Whitacre: Lux Aurumque",
+      "url": "https://open.spotify.com/track/5bUdtdODnRPeQpmMoqhvVY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6FnQY7eQxRt"

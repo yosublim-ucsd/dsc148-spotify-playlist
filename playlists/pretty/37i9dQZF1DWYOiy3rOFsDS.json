@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
-  "num_followers": 524316,
+  "num_followers": 524392,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGExNjA3ZDQ2MWFiZWU5ZjU4OTA1OTQ1M2IxMWI3M2I5YThiYThj",
+  "snapshot_id": "MCwwMGEyNTliMzdkMmQ5MzU0N2QzNWYyOWQ5Nzk5NDJlZTAwMzNjMDg4",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Keep\u00b4n Love",
-        "url": "https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 197965,
-      "name": "La Mentira (Se Te Olvida)",
-      "url": "https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "AMA",
         "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 181090,
       "name": "Mu\u00f1equita Linda",
       "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Keep\u00b4n Love",
+        "url": "https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 197965,
+      "name": "La Mentira (Se Te Olvida)",
+      "url": "https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1"
     },
     {
       "added_at": "2023-03-17 06:00:00",

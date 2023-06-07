@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,888 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,953 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 74 | [El Oso del Dinero](https://open.spotify.com/track/5J9afgAuzZkApFxwB8qkAW) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 2:37 |
 | 75 | [Costear \- Remix](https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Eq](https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh) | [Costear \(Remix\)](https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO) | 3:44 |
 | 76 | [Superación](https://open.spotify.com/track/0llj4eHhK6l5cEKMZjrrVD) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [EL OG WEEK](https://open.spotify.com/album/1Q94qFhL5BcJvMDdUX52hY) | 3:53 |
-| 77 | [Bodak Yellow \(feat\. Messiah\) \- Latin Trap Remix](https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Bodak Yellow \(feat\. Messiah\) \[Latin Trap Remix\]](https://open.spotify.com/album/54rsFhEOGmqDxm6dbUl0uU) | 3:42 |
-| 78 | [Contamos & Guerreamos](https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Contamos & Guerreamos](https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe) | 4:48 |
+| 77 | [Contamos & Guerreamos](https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Contamos & Guerreamos](https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe) | 4:48 |
+| 78 | [Bodak Yellow \(feat\. Messiah\) \- Latin Trap Remix](https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Bodak Yellow \(feat\. Messiah\) \[Latin Trap Remix\]](https://open.spotify.com/album/54rsFhEOGmqDxm6dbUl0uU) | 3:42 |
 | 79 | [Swaggy](https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Swaggy](https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY) | 4:18 |
 | 80 | [Como Soy](https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM) | 5:12 |
 | 81 | [No Le Bajé](https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:45 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 119 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 120 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MCxjODgxZTBmZmNiMjcwZDFmNWE3YTg2NGU2YTA0NTgxMjQ2YTNmNzJl`
+Snapshot ID: `MCwwMTViNzRmOTRmZWViMWMwMzJhNzU4NjYwYWRiNWMxYTA1MmY0MDE4`

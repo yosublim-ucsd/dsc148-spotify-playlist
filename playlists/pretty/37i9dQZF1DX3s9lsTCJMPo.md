@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,183 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,246 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 8 | [Pump Me Up](https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Ultimate Party \- Pump Me Up](https://open.spotify.com/album/5Js10UyFFBh7Zpiw8pWzy3) | 4:45 |
 | 9 | [So Long](https://open.spotify.com/track/2WmNARSzCch3nzifLfn05K) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/0lE3XJtV1vvNwtyypqPymW) | 3:03 |
 | 10 | [Savannah Grass](https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/7mAs5zDNcL6GwcfIudCSl0) | 2:59 |
-| 11 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
-| 12 | [Dollar Wine](https://open.spotify.com/track/7m9QpC8iqp4GrQ6Ag0BICY) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 5:47 |
+| 11 | [Dollar Wine](https://open.spotify.com/track/7m9QpC8iqp4GrQ6Ag0BICY) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 5:47 |
+| 12 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
 | 13 | [Blame It \(On De Music0](https://open.spotify.com/track/5cbjvGUyRNzga1D4ym5ysm) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 4:18 |
 | 14 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
 | 15 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 59 | [Congo Man](https://open.spotify.com/track/6bEimNsHW93GcjvUqogT94) | [The Mighty Sparrow](https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV) | [Sparrow's Dance Party](https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ) | 6:10 |
 | 60 | [Stranger](https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D) | [Shadow](https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh) | [Just for You](https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs) | 5:38 |
 | 61 | [Wining Season \(Remix\) \(feat\. Shaggy\)](https://open.spotify.com/track/2XarXxbztfFGrFaEhdQRyy) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Wining Season](https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW) | 4:01 |
-| 62 | [In The Mean Time](https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp) | [Allison Hinds](https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8) | [Soca Gold 1998](https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME) | 4:16 |
-| 63 | [Hard Wine](https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:44 |
+| 62 | [Hard Wine](https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:44 |
+| 63 | [In The Mean Time](https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp) | [Allison Hinds](https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8) | [Soca Gold 1998](https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME) | 4:16 |
 | 64 | [Bitein Incex \(We Love De\)](https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx) | [Lovey](https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 4:13 |
 | 65 | [Miss Mary Medley: Jane / Royal Jail / Benwood Dick / Sa\-Sa\-Yea](https://open.spotify.com/track/1QjQrEMVt10aOm57zavRb3) | [The Mighty Sparrow](https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV) | [Sparrow's Dance Party](https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ) | 9:55 |
 | 66 | [This Is How](https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi) | [Crazy](https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 6:04 |
-| 67 | [Tremble It](https://open.spotify.com/track/6SAn169CqU4vFXK8osHkWI) | [Roy Cape All Stars](https://open.spotify.com/artist/4DuDowt2DHca9YTJkMQ7ne), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Roy Cape: A Calypso and Soca Anthology](https://open.spotify.com/album/5a218JENjR6SXj0pHQdsGy) | 4:08 |
-| 68 | [Bassman](https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:05 |
-| 69 | [Long Time](https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC) | [Arrow!!!](https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:50 |
-| 70 | [Craziness](https://open.spotify.com/track/5Bunj5XOX1ojVpgWMraiBk) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Xtatik Parade](https://open.spotify.com/album/73GTZfoieipDzMSPKWEN8E) | 4:34 |
-| 71 | [Follow The Leader](https://open.spotify.com/track/1R1ys9dre6RPgy2Me1zFtr) | [Nigel & Marvinn](https://open.spotify.com/artist/5Ib4o3nEuaRQmBBZ5vcZB3) | [Carnival Party](https://open.spotify.com/album/0n6T2zpvjPLpxQraa8o1Cr) | 5:05 |
+| 67 | [Bassman](https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:05 |
+| 68 | [Tremble It](https://open.spotify.com/track/6SAn169CqU4vFXK8osHkWI) | [Roy Cape All Stars](https://open.spotify.com/artist/4DuDowt2DHca9YTJkMQ7ne), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Roy Cape: A Calypso and Soca Anthology](https://open.spotify.com/album/5a218JENjR6SXj0pHQdsGy) | 4:08 |
+| 69 | [Craziness](https://open.spotify.com/track/5Bunj5XOX1ojVpgWMraiBk) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Xtatik Parade](https://open.spotify.com/album/73GTZfoieipDzMSPKWEN8E) | 4:34 |
+| 70 | [Follow The Leader](https://open.spotify.com/track/1R1ys9dre6RPgy2Me1zFtr) | [Nigel & Marvinn](https://open.spotify.com/artist/5Ib4o3nEuaRQmBBZ5vcZB3) | [Carnival Party](https://open.spotify.com/album/0n6T2zpvjPLpxQraa8o1Cr) | 5:05 |
+| 71 | [Long Time](https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC) | [Arrow!!!](https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:50 |
 | 72 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
 | 73 | [Bitin Incex](https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ) | [Ronnie McIntosh](https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH) | [Calypsoca 2002](https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs) | 4:31 |
 | 74 | [Chances](https://open.spotify.com/track/1sDkgD3gACSXmfvTfSAEFP) | [Blue Ventures Feat\. Sanell Dampster](https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 79 | [Rev the Engine](https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q) | [General Grant](https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 3:54 |
 | 80 | [How You Jamming So](https://open.spotify.com/track/19Zny2UeXxXOzCGG2H1qDE) | [Mighty Sparrow](https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w) | [Soca Anthology: Dr\. Bird \- The Mighty Sparrow](https://open.spotify.com/album/43EmMT9YD02mWcOYc01bOX) | 4:41 |
 
-Snapshot ID: `MCxlMzMxMTM0YTM5ZDI4ZGEyZGIxOTRlYzg0ZDAyNDYwNmU2YzAyYjgx`
+Snapshot ID: `MCw2ZmY1MjM3OWY3YTY0M2I5MzMwNDk2NGRjM2YzYmExZGNiNTBmZDUx`

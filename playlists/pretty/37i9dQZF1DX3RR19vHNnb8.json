@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 11447,
+  "num_followers": 11489,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGQxYTQyODMxYWZhNmE0MWRiZmUxYjM2NjI2OTMxZjA5MzRiNTZi",
+  "snapshot_id": "MCxlMDI5MzE4MGRhZWFhMDVkOGRmMGY4ZThmMDJiOWVhZThiNGNjNjk1",
   "tracks": [
     {
       "added_at": "2023-06-02 13:42:03",
@@ -59,26 +59,6 @@
     {
       "added_at": "2023-06-02 13:42:03",
       "album": {
-        "name": "LONDON (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 250722,
-      "name": "LONDON (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
-    },
-    {
-      "added_at": "2023-06-02 13:42:03",
-      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+    },
+    {
+      "added_at": "2023-06-02 13:42:03",
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
       "added_at": "2023-06-02 13:42:03",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-06-02 13:42:03",
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "duration_ms": 144168,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP"
+    },
+    {
+      "added_at": "2023-06-02 13:42:03",
+      "album": {
         "name": "Wahala",
         "url": "https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 196529,
       "name": "King of Parole",
       "url": "https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x"
-    },
-    {
-      "added_at": "2023-06-02 13:42:03",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
-        }
-      ],
-      "duration_ms": 144168,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP"
     },
     {
       "added_at": "2023-06-02 13:42:03",

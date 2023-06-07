@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,974 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,992 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 19 | [Te Soñé](https://open.spotify.com/track/7J9QZv972WMhZlxZBvswN8) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Te Soñé](https://open.spotify.com/album/1MxOELHpth8E33rUByRI37) | 3:55 |
 | 20 | [Nuestro Adios](https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:17 |
 | 21 | [Queda Restringido](https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 4:07 |
-| 22 | [Juro Por Dios \- En Vivo](https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:22 |
-| 23 | [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 |
-| 24 | [Ya Duele Menos](https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:04 |
-| 25 | [Cuidala \(En Vivo\)](https://open.spotify.com/track/1im5XPyQaApqcc37320tvU) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Erik Alexander](https://open.spotify.com/artist/1wcGLR6zJivtVU0LHUu4o9) | [Cuidala \(En Vivo\)](https://open.spotify.com/album/4cUZuVBzhtfyHKrVxcMALF) | 3:18 |
+| 22 | [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 |
+| 23 | [Juro Por Dios \- En Vivo](https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:22 |
+| 24 | [Cuidala \(En Vivo\)](https://open.spotify.com/track/1im5XPyQaApqcc37320tvU) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Erik Alexander](https://open.spotify.com/artist/1wcGLR6zJivtVU0LHUu4o9) | [Cuidala \(En Vivo\)](https://open.spotify.com/album/4cUZuVBzhtfyHKrVxcMALF) | 3:18 |
+| 25 | [Ya Duele Menos](https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:04 |
 | 26 | [No La Hagas Sufrir](https://open.spotify.com/track/30cVv2focHPXf37kpTJkfV) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [No La Hagas Sufrir](https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As) | 3:33 |
 | 27 | [Convénceme \(En Vivo\)](https://open.spotify.com/track/3U4yzfEaeIMTHrPx9vQhWO) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9) | [Dariel Party, Vol\. 1](https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3) | 4:03 |
 | 28 | [Quisiera](https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Quisiera](https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ) | 2:09 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 45 | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/track/43wBR1U2zFiH4bUqmumrOV) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/album/5n5hyfD2bMiVfui6mDFrOI) | 4:05 |
 | 46 | [Las Cosas Claras \- En Vivo](https://open.spotify.com/track/1SifK6XZXviazGWP2w1uGH) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:36 |
 | 47 | [Deja De Chingar](https://open.spotify.com/track/72qLlWqf657e3hEkP7LkHx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Deja De Chingar](https://open.spotify.com/album/0orJw54cnLfLmYPSVpkj64) | 3:19 |
-| 48 | [Ojalá \(En Vivo\)](https://open.spotify.com/track/1E0SK05wwn7LUqDE0A8YJ9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Renacido Tour 2023 \(En Vivo\)](https://open.spotify.com/album/18zVZ3JfvldtxbdKnDigRd) | 3:58 |
-| 49 | [Yo También Soy Bien Cabrón](https://open.spotify.com/track/0dWLTesLn3JYHQOID9vHqy) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Yo También Soy Bien Cabrón](https://open.spotify.com/album/6UH5kiYAjCUqL6SqJDjsQd) | 4:11 |
+| 48 | [Yo También Soy Bien Cabrón](https://open.spotify.com/track/0dWLTesLn3JYHQOID9vHqy) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Yo También Soy Bien Cabrón](https://open.spotify.com/album/6UH5kiYAjCUqL6SqJDjsQd) | 4:11 |
+| 49 | [Ojalá \(En Vivo\)](https://open.spotify.com/track/1E0SK05wwn7LUqDE0A8YJ9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Renacido Tour 2023 \(En Vivo\)](https://open.spotify.com/album/18zVZ3JfvldtxbdKnDigRd) | 3:58 |
 | 50 | [Una Pregunta Obvia](https://open.spotify.com/track/7iiOtyfWI3IJqVIV7CaEfi) | [Dariel Ramirez Y Sus Perdidos](https://open.spotify.com/artist/3acX5lZj9MKXR1NcWyMeNU), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Sesión Acústica](https://open.spotify.com/album/1DmVpertYtEh2c3YPqnVak) | 4:14 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDBiY2UyNjJmN2Y2MDc4NWYzOTVkOTg2NDU0NTJjNDczOA==`
+Snapshot ID: `MjgxMDA5MjUsMDAwMDAwMDA3YjJmNDUwNTAzMmYzYTlkM2Y0YjA0NzYwNGE3ODFhNg==`

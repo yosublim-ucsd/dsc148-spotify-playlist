@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Su凸ko D凹koi
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 板歯目 \(BANSHIMOKU\)
 
-556 songs - 1 day 6 hr 12 min
+558 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 | 2023-05-11 |
 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 | 2022-05-12 | 2023-02-14 |
 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-13 |
+| [CHILD WARNING](https://open.spotify.com/track/5ZhBFLj6OxuqHrAve6hXMK) | [Desert Of Tomorrow](https://open.spotify.com/artist/3Ruxig4cBSpuiElh8EtZvt) | [BOKU NO TOMODACHI](https://open.spotify.com/album/4zIgoJjoWvHhoz35xlfnrX) | 4:21 | 2023-06-06 |  |
 | [Chopped Grill Chicken](https://open.spotify.com/track/0KgDHXpxRbjpJVDzBbScCu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Chopped Grill Chicken](https://open.spotify.com/album/5zXUaK0xAXkUJt6yqk2B5Y) | 1:46 | 2022-05-12 | 2022-07-25 |
 | [CLOSE MY EYES](https://open.spotify.com/track/107o82eC8ysPIwxKcp3pBZ) | [Upper](https://open.spotify.com/artist/69w8lpKIuZ07GiNtdL7SCm) | [NOT OVER YET](https://open.spotify.com/album/1Ffe5GprhhUzC8KWIUWoVt) | 3:44 | 2022-06-07 | 2022-06-26 |
 | [Colorful Hip](https://open.spotify.com/track/4FCYSyFoltl1F5pZIozd1B) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [PSIKAZUKIYAMAMORI](https://open.spotify.com/album/3vglzqT2CU1OMIypbkZB3R) | 2:25 | 2023-01-10 | 2023-04-28 |
@@ -289,7 +290,7 @@
 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 | 2022-05-17 | 2022-07-29 |
 | [ROLLIE](https://open.spotify.com/track/3gt8pHDISoVa9oqaUn7SVn) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [EXPLORING OF THE SPACE](https://open.spotify.com/album/1snGcjfyD9oSQdOcUsr6NG) | 2:56 | 2022-05-19 | 2023-01-04 |
 | [ROSSOMAN](https://open.spotify.com/track/1OdL36eXdoWhN7HaaDLUIv) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [ROSSOMAN](https://open.spotify.com/album/2G0498MGtXceWoTlTmnJMK) | 3:59 | 2022-05-12 | 2022-07-22 |
-| [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 | 2022-07-21 |  |
+| [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 | 2022-07-21 | 2023-06-07 |
 | [SAKURA](https://open.spotify.com/track/7n7DT24H4RZGfMvyMC8Z2s) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R\(e\) BEST](https://open.spotify.com/album/3umPmPd8laHb83g0Wwrq8t) | 4:37 | 2022-06-14 | 2022-07-29 |
 | [Sapphire](https://open.spotify.com/track/3b2zbCDgqGcddzZpE7wJ1E) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sapphire / Back in Action](https://open.spotify.com/album/4ukPyiibVLHwTY7oMTeliC) | 2:51 | 2022-05-12 | 2022-07-20 |
 | [Say to Me](https://open.spotify.com/track/4C7blDlsxEUJmTkBFv1bUR) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Say to Me](https://open.spotify.com/album/5wcMuNXeFRiaBongYrmhl0) | 5:35 | 2022-09-27 | 2022-12-04 |
@@ -322,6 +323,7 @@
 | [Solar Kids](https://open.spotify.com/track/7vXdLVD0HARmB959nS0zuP) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [Treasure](https://open.spotify.com/album/3vhZFWyTLK9RGZD5ieQxR6) | 3:54 | 2022-07-19 | 2022-08-19 |
 | [SOLIDARITY](https://open.spotify.com/track/7zVYKpL0lfJ5I4og1vC00S) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [SOLIDARITY](https://open.spotify.com/album/7qg0TONqiLBSqLHkmJnIoS) | 2:54 | 2022-05-12 | 2022-07-24 |
 | [Soundtrack](https://open.spotify.com/track/5JAVgsqh3TQDFWdPOgy3qe) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Life In The Sun World Edition](https://open.spotify.com/album/639Xs8APvvha9KM1BlrnrF) | 2:39 | 2022-05-19 | 2022-07-25 |
+| [SPANKY ALIEN](https://open.spotify.com/track/6mVkWvOcJbXAAWxM7mfCBS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [SPANKY ALIEN](https://open.spotify.com/album/4GmCJFE6FVDsPzt56f6hzG) | 3:35 | 2023-06-06 |  |
 | [Sparkle Light](https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:13 | 2022-05-12 |  |
 | [Spilling Water](https://open.spotify.com/track/6TCCx0Ueu4YDGtXiIbxIl2) | [OWEAK](https://open.spotify.com/artist/6upXl7zerJtB7IDMcPrl21) | [Where I Belong](https://open.spotify.com/album/5glTfPmsuhDSzmnSrwdyyS) | 3:33 | 2022-05-12 | 2022-07-27 |
 | [Spineless Black](https://open.spotify.com/track/5inOkwVKe3HaVEb3cL2vFX) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [Spineless Black](https://open.spotify.com/album/4Lk3VyougEhhTTSknMOoqi) | 4:18 | 2022-05-12 | 2022-07-24 |
@@ -410,7 +412,7 @@
 | [Yuriah](https://open.spotify.com/track/36wTuS95ghkdbMrEKNakE5) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [LAUGH AT LIFE](https://open.spotify.com/album/3Z3pABiK1AJkaVtaAV37P7) | 3:07 | 2022-05-12 | 2022-06-22 |
 | [Yusho \(ALBUM Mix\)](https://open.spotify.com/track/6YLg2Q6dHcHYNLeu4ZSObj) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 3:36 | 2023-03-28 |  |
 | [Zero](https://open.spotify.com/track/5styNIwvP009zHUCdIsZlo) | [RIZE](https://open.spotify.com/artist/36wyiJipzsPL3IHMe7JzPX) | [Zero \- Single](https://open.spotify.com/album/0tyftZWAOYq3wh9bVrCR5J) | 4:11 | 2022-05-19 | 2022-07-11 |
-| [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 | 2022-07-21 |  |
+| [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 | 2022-07-21 | 2023-06-07 |
 | [ZINNIA](https://open.spotify.com/track/5NoGmXzuApY0bQXLZ9XOHm) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Oath and Night War](https://open.spotify.com/album/7dVt1eGWmxrAL3pg0IcdfC) | 3:02 | 2022-05-12 | 2022-07-24 |
 | [Z好調](https://open.spotify.com/track/4P21YYDymMRhUZlEANJo4Q) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Positive And Negative](https://open.spotify.com/album/1c6L8dn0s1409cRlFnK4UX) | 2:34 | 2022-05-12 | 2022-07-28 |
 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 | 2022-07-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,175 likes - 85 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,296 likes - 85 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 84 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 |
 | 85 | [At Your Gamut](https://open.spotify.com/track/2uJJfL2Yp7dcXTh2zdVQkN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:06 |
 
-Snapshot ID: `MCxhNTc0ZDExYjE4NzM1NjNhZjhiOTRiNTJlOWEwOWQ1NGZmM2U2Mzk5`
+Snapshot ID: `MCwzZjJmNTBmOWMyYjhhMGU5N2JhMmRjMWE2YjFmMmE0MjhjYzdmNmE1`

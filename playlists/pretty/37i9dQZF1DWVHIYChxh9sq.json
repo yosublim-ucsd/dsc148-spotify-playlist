@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 53801,
+  "num_followers": 53845,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmMxOTRlOGFlZjJiYTk1Njg4Mjc2MzFlOGE4ZTkzZDNlMTBjZGI2",
+  "snapshot_id": "MCw5YWJiZjI3ZDAyYWI5ZmEzODE1NTg0ZjJmMGU4M2Y5MDIxMjU0Mjg2",
   "tracks": [
     {
       "added_at": "2023-05-25 16:26:04",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2023-05-25 16:26:04",
       "album": {
-        "name": "El Comando del Diablo (En Vivo)",
-        "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "El Comando del Diablo - En Vivo",
-      "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
-    },
-    {
-      "added_at": "2023-05-25 16:26:04",
-      "album": {
         "name": "Las Pisteadas del Vago",
         "url": "https://open.spotify.com/album/6HgKRMle8Q9mVa3Wvot63t"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 285570,
       "name": "Las Pisteadas del Vago",
       "url": "https://open.spotify.com/track/5dHdsHTnQuiiUm9lbRpdKy"
+    },
+    {
+      "added_at": "2023-05-25 16:26:04",
+      "album": {
+        "name": "El Comando del Diablo (En Vivo)",
+        "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "El Comando del Diablo - En Vivo",
+      "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
     },
     {
       "added_at": "2023-05-25 16:26:04",
@@ -1651,22 +1651,18 @@
     {
       "added_at": "2023-05-25 16:26:04",
       "album": {
-        "name": "Disimulando (En Vivo)",
-        "url": "https://open.spotify.com/album/0PkUb03Sjsiu4t8s6RF62V"
+        "name": "En Vivo Desde la Paz",
+        "url": "https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
         }
       ],
-      "duration_ms": 202869,
-      "name": "Disimulando - En Vivo",
-      "url": "https://open.spotify.com/track/7mjkqI87JhGwAou3aWe37T"
+      "duration_ms": 458442,
+      "name": "Popurri Boleros Cadetes - En Vivo",
+      "url": "https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S"
     },
     {
       "added_at": "2023-05-25 16:26:04",
@@ -1691,22 +1687,6 @@
     {
       "added_at": "2023-05-25 16:26:04",
       "album": {
-        "name": "En Vivo Desde la Paz",
-        "url": "https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 458442,
-      "name": "Popurri Boleros Cadetes - En Vivo",
-      "url": "https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S"
-    },
-    {
-      "added_at": "2023-05-25 16:26:04",
-      "album": {
         "name": "Fuiste Mala",
         "url": "https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 204013,
       "name": "Fuiste Mala",
       "url": "https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE"
+    },
+    {
+      "added_at": "2023-05-25 16:26:04",
+      "album": {
+        "name": "Disimulando (En Vivo)",
+        "url": "https://open.spotify.com/album/0PkUb03Sjsiu4t8s6RF62V"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 202869,
+      "name": "Disimulando - En Vivo",
+      "url": "https://open.spotify.com/track/7mjkqI87JhGwAou3aWe37T"
     },
     {
       "added_at": "2023-05-25 16:26:04",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-05-25 16:26:04",
       "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
-    },
-    {
-      "added_at": "2023-05-25 16:26:04",
-      "album": {
         "name": "En vivo desde El Potrero",
         "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
       },
@@ -1987,18 +1971,18 @@
     {
       "added_at": "2023-05-25 16:26:04",
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
         }
       ],
-      "duration_ms": 211945,
-      "name": "Hace Un A\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif"
+      "duration_ms": 183893,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
       "added_at": "2023-05-25 16:26:04",
@@ -2015,6 +1999,22 @@
       "duration_ms": 183842,
       "name": "Mi Luna, Mi Estrella",
       "url": "https://open.spotify.com/track/6DW1TtzOyXRmt6I8bfb9L0"
+    },
+    {
+      "added_at": "2023-05-25 16:26:04",
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 211945,
+      "name": "Hace Un A\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif"
     },
     {
       "added_at": "2023-05-25 16:26:04",
@@ -2107,34 +2107,18 @@
     {
       "added_at": "2023-05-25 16:26:04",
       "album": {
-        "name": "En Vivo Desde Hacienda Heights",
-        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
+        "name": "Recuerdos Para Pistear (En Vivo)",
+        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
       },
       "artists": [
         {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 522409,
-      "name": "Popurri De Cumbias (En Vivo)",
-      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
-    },
-    {
-      "added_at": "2023-05-25 16:26:04",
-      "album": {
-        "name": "Una Copa Por Cada Reina",
-        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Lo Siento Mi Amor",
-      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
+      "duration_ms": 187143,
+      "name": "Edgar Guzman - En Vivo",
+      "url": "https://open.spotify.com/track/2LTE0DNDhRZqb5TQYHSl8D"
     },
     {
       "added_at": "2023-05-25 16:26:04",
@@ -2159,18 +2143,34 @@
     {
       "added_at": "2023-05-25 16:26:04",
       "album": {
-        "name": "Recuerdos Para Pistear (En Vivo)",
-        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
+        "name": "Una Copa Por Cada Reina",
+        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
         }
       ],
-      "duration_ms": 187143,
-      "name": "Edgar Guzman - En Vivo",
-      "url": "https://open.spotify.com/track/2LTE0DNDhRZqb5TQYHSl8D"
+      "duration_ms": 226466,
+      "name": "Lo Siento Mi Amor",
+      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
+    },
+    {
+      "added_at": "2023-05-25 16:26:04",
+      "album": {
+        "name": "En Vivo Desde Hacienda Heights",
+        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 522409,
+      "name": "Popurri De Cumbias (En Vivo)",
+      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
     },
     {
       "added_at": "2023-05-25 16:26:04",
@@ -2463,18 +2463,18 @@
     {
       "added_at": "2023-05-25 16:26:04",
       "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+        "name": "Los De La Noria En Vivo",
+        "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
         }
       ],
-      "duration_ms": 221893,
-      "name": "El Cajoncito - En Vivo",
-      "url": "https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ"
+      "duration_ms": 257254,
+      "name": "Popurr\u00ed El Primer Tonto / Eres Mi Droga",
+      "url": "https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs"
     },
     {
       "added_at": "2023-05-25 16:26:04",
@@ -2495,18 +2495,18 @@
     {
       "added_at": "2023-05-25 16:26:04",
       "album": {
-        "name": "Los De La Noria En Vivo",
-        "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
       "artists": [
         {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 257254,
-      "name": "Popurr\u00ed El Primer Tonto / Eres Mi Droga",
-      "url": "https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs"
+      "duration_ms": 221893,
+      "name": "El Cajoncito - En Vivo",
+      "url": "https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ"
     },
     {
       "added_at": "2023-05-25 16:26:04",
@@ -2631,18 +2631,22 @@
     {
       "added_at": "2023-05-25 16:26:04",
       "album": {
-        "name": "Corridos En Vivo",
-        "url": "https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF"
+        "name": "Flor Hermosa (En Vivo)",
+        "url": "https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00"
       },
       "artists": [
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 104480,
-      "name": "El Cholo (En Vivo)",
-      "url": "https://open.spotify.com/track/3uf95hOq9NF1FF5r4OBH3c"
+      "duration_ms": 172666,
+      "name": "Flor Hermosa - En Vivo",
+      "url": "https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0"
     },
     {
       "added_at": "2023-05-25 16:26:04",

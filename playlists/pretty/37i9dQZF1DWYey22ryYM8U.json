@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Becky G & Omega",
-  "num_followers": 594089,
+  "num_followers": 594169,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzIxYzZiZjZlMjcwMDBiZTU1MmRjMzg2MWFkZWMyN2NiZGVkMTg2",
+  "snapshot_id": "MCwzNGY3MTBlZTg5OGQ0OWRmMDU1ZTI0Nzc5ZTQ0YTAwNGExMmVlM2Qy",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -791,18 +791,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Kitipun",
-        "url": "https://open.spotify.com/album/7Hp43M9ZedO6dhIOa3O3fN"
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 216946,
-      "name": "Kitipun",
-      "url": "https://open.spotify.com/track/04elniHFWwwFHxi3SZlGI6"
+      "duration_ms": 170106,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -823,22 +827,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT"
+        "name": "Kitipun",
+        "url": "https://open.spotify.com/album/7Hp43M9ZedO6dhIOa3O3fN"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 170106,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D"
+      "duration_ms": 216946,
+      "name": "Kitipun",
+      "url": "https://open.spotify.com/track/04elniHFWwwFHxi3SZlGI6"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Si Tu Te Atreves",
-        "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 226821,
-      "name": "Si Tu Te Atreves",
-      "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "De Menor a Mayor",
         "url": "https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs"
       },
@@ -1231,6 +1211,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Si Tu Te Atreves",
+        "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 226821,
+      "name": "Si Tu Te Atreves",
+      "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Esa Soy Yo",
         "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
       },
@@ -1243,26 +1243,6 @@
       "duration_ms": 229945,
       "name": "Con Mi Amiga",
       "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Imaginarme Sin Ti",
-        "url": "https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        }
-      ],
-      "duration_ms": 236254,
-      "name": "Imaginarme Sin Ti",
-      "url": "https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1287,6 +1267,26 @@
       "duration_ms": 192452,
       "name": "Tuki Tuki",
       "url": "https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Imaginarme Sin Ti",
+        "url": "https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        }
+      ],
+      "duration_ms": 236254,
+      "name": "Imaginarme Sin Ti",
+      "url": "https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Friends & Legends",
         "url": "https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 217000,
       "name": "Una Mentirita",
       "url": "https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Las Puertas del Cielo",
-        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
-      },
-      "artists": [
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 232803,
-      "name": "Las Puertas del Cielo",
-      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Cari\u00f1o M\u00edo",
         "url": "https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 197106,
       "name": "Cari\u00f1o M\u00edo",
       "url": "https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Las Puertas del Cielo",
+        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
+      },
+      "artists": [
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 232803,
+      "name": "Las Puertas del Cielo",
+      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 193946,
       "name": "better off",
       "url": "https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv"
@@ -486,6 +486,24 @@
       "duration_ms": 181613,
       "name": "comethru",
       "url": "https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP"
+    },
+    {
+      "album": {
+        "name": "Dark Energy",
+        "url": "https://open.spotify.com/album/4OmjTbUvRXLA5KJmklQhdb"
+      },
+      "artists": [
+        {
+          "name": "Sh\u014dtaro Aoyama",
+          "url": "https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374000,
+      "name": "Dark Energy",
+      "url": "https://open.spotify.com/track/3kdhlzVT1e8XGFGSawkKPO"
     },
     {
       "album": {
@@ -3218,7 +3236,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 200653,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I"
@@ -4026,6 +4044,24 @@
       "duration_ms": 215625,
       "name": "\u30df\u30a2\u30cd",
       "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
+    },
+    {
+      "album": {
+        "name": "\u7121\u5e38\u306e\u4e16\u754c",
+        "url": "https://open.spotify.com/album/2ZWV6JcEIfHCqzDO1brQAS"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279511,
+      "name": "\u7121\u5e38\u306e\u4e16\u754c",
+      "url": "https://open.spotify.com/track/2KbOr3nSrmMELCYiy8d3Np"
     },
     {
       "album": {

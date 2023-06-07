@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Purr
 
-5,361 songs - 13 day 2 hr 3 min
+5,362 songs - 13 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5011,7 +5011,8 @@
 | [Warm](https://open.spotify.com/track/5iZvKkCu5lxr4u1MjWPM5f) | [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [Warm](https://open.spotify.com/album/2lbLrMrEzFEquOasydNaIc) | 3:26 | 2020-12-12 | 2021-02-16 |
 | [Warm](https://open.spotify.com/track/40Otjn8rGe8T5tbjK0eTbo) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Warm](https://open.spotify.com/album/1eik3ReaI8dJzF8piumicP) | 3:05 | 2019-11-09 | 2019-12-20 |
 | [Warning Sign](https://open.spotify.com/track/4E76b5eScYyjahibva76Bk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Warning Sign](https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV) | 3:26 | 2023-03-24 | 2023-05-06 |
-| [Was I Supposed To Care?](https://open.spotify.com/track/7rzjNar4ySQgXroswykQsH) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [before the afters](https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv) | 3:01 | 2023-05-19 |  |
+| [Was I Supposed To Care?](https://open.spotify.com/track/7HIbJDiEXk4VFlbV3qJTdw) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [before the afters](https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl) | 3:01 | 2023-05-19 |  |
+| [Was I Supposed To Care?](https://open.spotify.com/track/7rzjNar4ySQgXroswykQsH) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [before the afters](https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv) | 3:01 | 2023-05-19 | 2023-06-07 |
 | [Was It Something I Said](https://open.spotify.com/track/2YEnGQwfXZokCfRbTykYbo) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/038iHedcafxMeEWtzsrvye) | 3:42 | 2019-08-09 | 2019-10-04 |
 | [Wash Off](https://open.spotify.com/track/1sJ3qtj02DJVZNm64eZOjz) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Part 2 Everything Not Saved Will Be Lost](https://open.spotify.com/album/2gA6WSERaJVOWwuB0hegvp) | 4:30 | 2019-10-18 | 2019-11-22 |
 | [Waste My Time](https://open.spotify.com/track/4Zkb4kpHsK9UTnOyze1yCZ) | [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI) | [Waste My Time / Off Today](https://open.spotify.com/album/1CYTGojin5v6oKAIcwPetZ) | 3:28 | 2020-04-10 | 2020-05-15 |

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11692,
+  "num_followers": 11707,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmJlOWNjNzdhYzE1YTc4YTVjMzcyNTkyMmQzZjQ0MTRhNjZlMTRl",
+  "snapshot_id": "MCw4MGIxMzk3NjFlMjFlMDI0NWNjMDI2NDY2MjU5NWQ5YzFkM2EyNTIy",
   "tracks": [
     {
       "added_at": "2023-05-31 15:48:27",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-05-31 15:48:27",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
-        "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
-    },
-    {
-      "added_at": "2023-05-31 15:48:27",
-      "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
@@ -295,22 +279,6 @@
     {
       "added_at": "2023-05-31 15:48:27",
       "album": {
-        "name": "Errr Day",
-        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
-      },
-      "artists": [
-        {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Errr Day",
-      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
-    },
-    {
-      "added_at": "2023-05-31 15:48:27",
-      "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
       },
@@ -327,22 +295,50 @@
     {
       "added_at": "2023-05-31 15:48:27",
       "album": {
-        "name": "World Peace Project Vol.2",
-        "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
+        "name": "Errr Day",
+        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Errr Day",
+      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
+    },
+    {
+      "added_at": "2023-05-31 15:48:27",
+      "album": {
+        "name": "While You Were Sleeping, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3YjVFUQz5w1bXIi3QfqVmx"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "duration_ms": 231001,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/61OtYav1fiUCr73JwZD2Sb"
+    },
+    {
+      "added_at": "2023-05-31 15:48:27",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
       },
       "artists": [
         {
           "name": "Wonstein",
           "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        },
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
         }
       ],
-      "duration_ms": 220040,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
+      "duration_ms": 165433,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
     },
     {
       "added_at": "2023-05-31 15:48:27",
@@ -455,18 +451,22 @@
     {
       "added_at": "2023-05-31 15:48:27",
       "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
+        "name": "World Peace Project Vol.2",
+        "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
       "artists": [
         {
           "name": "Wonstein",
           "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        },
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
         }
       ],
-      "duration_ms": 165433,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
+      "duration_ms": 220040,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
     },
     {
       "added_at": "2023-05-31 15:48:27",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-05-31 15:48:27",
       "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
-    },
-    {
-      "added_at": "2023-05-31 15:48:27",
-      "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2023-05-31 15:48:27",
       "album": {
-        "name": "While You Were Sleeping, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3YjVFUQz5w1bXIi3QfqVmx"
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
       "artists": [
         {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 231001,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/61OtYav1fiUCr73JwZD2Sb"
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
       "added_at": "2023-05-31 15:48:27",
@@ -883,22 +867,6 @@
     {
       "added_at": "2023-05-31 15:48:27",
       "album": {
-        "name": "The Fairy Tale",
-        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 227054,
-      "name": "Tale",
-      "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
-    },
-    {
-      "added_at": "2023-05-31 15:48:27",
-      "album": {
         "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
       },
@@ -911,6 +879,22 @@
       "duration_ms": 164861,
       "name": "Dream about You",
       "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+    },
+    {
+      "added_at": "2023-05-31 15:48:27",
+      "album": {
+        "name": "The Fairy Tale",
+        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 227054,
+      "name": "Tale",
+      "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
     },
     {
       "added_at": "2023-05-31 15:48:27",
@@ -959,6 +943,26 @@
       "duration_ms": 220186,
       "name": "You Move Me (feat. SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
+    },
+    {
+      "added_at": "2023-05-31 15:48:27",
+      "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2023-05-31 15:48:27",
@@ -1015,26 +1019,18 @@
     {
       "added_at": "2023-05-31 15:48:27",
       "album": {
-        "name": "I LUV U (with MIRANI)",
-        "url": "https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1"
+        "name": "INTERVIEW",
+        "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
       },
       "artists": [
         {
-          "name": "Kim Jong Kook",
-          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
-        },
-        {
-          "name": "KCM",
-          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
-        },
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 235197,
-      "name": "I LUV U (with MIRANI)",
-      "url": "https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk"
+      "duration_ms": 195293,
+      "name": "Good For You",
+      "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

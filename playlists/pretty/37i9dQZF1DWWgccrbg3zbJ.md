@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,066 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,671 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 57 | [Meu Mundo Caiu](https://open.spotify.com/track/0v3BdswACvqzzTjKg3eq3n) | [Maysa](https://open.spotify.com/artist/6O67GI6ayhWHyFmOOJRLEq) | [The Music of Brazil / Maysa , Vol\. 1 / Recordings 1956 \- 1958](https://open.spotify.com/album/6Y3pcIFa5TX6GBJh3A2boh) | 3:21 |
 | 58 | [Samba De Verao](https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy) | 3:07 |
 | 59 | [Samba Da Benção](https://open.spotify.com/track/6XMDSWv7ZwM0BM0i0YJPOn) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 6:54 |
-| 60 | [Children's Games](https://open.spotify.com/track/0oiNDJWFLPQoAm35OwT66P) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Stone Flower \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel) | 3:27 |
-| 61 | [A Felicidade](https://open.spotify.com/track/28PORYgAQ5vrbwtobRlCoq) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Wonderful World Of Antonio Carlos Jobim](https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn) | 2:04 |
+| 60 | [A Felicidade](https://open.spotify.com/track/28PORYgAQ5vrbwtobRlCoq) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Wonderful World Of Antonio Carlos Jobim](https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn) | 2:04 |
+| 61 | [Children's Games](https://open.spotify.com/track/0oiNDJWFLPQoAm35OwT66P) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Stone Flower \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel) | 3:27 |
 | 62 | [Água De Beber](https://open.spotify.com/track/6R0nUSoTN00Zi8WEVhAKSU) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 2:50 |
 | 63 | [O Grande Amor](https://open.spotify.com/track/5GjCLHeNC77C0IbTkOU3tI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto Quintet](https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:27 |
 | 64 | [Dindi \- Live](https://open.spotify.com/track/48RHQgGgCGI0q2Wyyl4cJu) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Rio Revisited](https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd) | 5:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 74 | [Ela E´ Carioca](https://open.spotify.com/track/1A0AtACaHgZhiqirEEowlL) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Brasil..\. Como Te Estranho!](https://open.spotify.com/album/5ZL1AVtiM3Xk1jR3dCAwQj) | 3:08 |
 | 75 | [Doralice](https://open.spotify.com/track/1Hy8rhQjCQtscISAE6GmVP) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, o Sorriso e a Flor](https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2) | 1:27 |
 
-Snapshot ID: `MCwxNzc0MTg1YTZlNDc3MTIwMTcwZTllNjg3NjNhMzQ3NjlmNGExZjFk`
+Snapshot ID: `MCxiN2RiNTdhODJhYWE3NzA4ZjA0NmY1NzMwNDNiOTllNWY5MTJhMmFk`

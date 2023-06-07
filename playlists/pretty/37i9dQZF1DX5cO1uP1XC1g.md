@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The biggest Arabic hits all in one place\. Cover: Mohamed Ramadan
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,428 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,896 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 11 | [TMO \(with Mohamed Ramadan & Gims\)](https://open.spotify.com/track/0mmXwA9k7gSz3GYqd6MHHb) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [TMO](https://open.spotify.com/album/6hBbhCZsxvtWNeFmidjTSJ) | 3:25 |
 | 12 | [Asheq Majnoon](https://open.spotify.com/track/5orvt7dTDRMeAnP0xw5GEV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Asheq Majnoon](https://open.spotify.com/album/0NZnWtguxnWFzjx3GTJadc) | 3:41 |
 | 13 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 |
-| 14 | [Seebk Enta](https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Seebk Enta](https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO) | 4:00 |
-| 15 | [Qalbi](https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [Qalbi](https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L) | 3:06 |
-| 16 | [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 |
-| 17 | [Akher Esdar](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Akher Esdar](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 |
-| 18 | [Baad El Kalam](https://open.spotify.com/track/0Oz1kaka4qeWhjntOZTRFv) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 3:52 |
-| 19 | [Tigi Netjawaz Bilser](https://open.spotify.com/track/14lf86kzJWv7QXp0zCpYPF) | [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [Tigi Netjawaz Bilser](https://open.spotify.com/album/6ZMkHd8mFGFx2XFL5WNXmE) | 8:55 |
-| 20 | [Zrouf Mandany](https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Omry Wzekrayatoh](https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt) | 4:05 |
-| 21 | [بحبك و خايف](https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [بحبك و خايف](https://open.spotify.com/album/3cP7v2k1xLOXCsFBstKtF7) | 3:57 |
-| 22 | [Shou Badi 3ed Bzalat](https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr) | [Mohanad Zaiter](https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Shou Badi 3ed Bzalat](https://open.spotify.com/album/3Pb8hvCdDQo1NoRPJQDOG5) | 2:39 |
+| 14 | [Masahto Beaastica](https://open.spotify.com/track/0GLr8spyH3DtpfC6HLbktw) | [Ali Kakooli](https://open.spotify.com/artist/44Hq31Jx9di0TFPsmU6et9) | [Masahto Beaastica](https://open.spotify.com/album/411f2qI8Muk2T2PjWpBnoM) | 4:07 |
+| 15 | [Seebk Enta](https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Seebk Enta](https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO) | 4:00 |
+| 16 | [Qalbi](https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [Qalbi](https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L) | 3:06 |
+| 17 | [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 |
+| 18 | [Akher Esdar](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Akher Esdar](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 |
+| 19 | [Baad El Kalam](https://open.spotify.com/track/0Oz1kaka4qeWhjntOZTRFv) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 3:52 |
+| 20 | [Tigi Netjawaz Bilser](https://open.spotify.com/track/14lf86kzJWv7QXp0zCpYPF) | [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [Tigi Netjawaz Bilser](https://open.spotify.com/album/6ZMkHd8mFGFx2XFL5WNXmE) | 8:55 |
+| 21 | [Zrouf Mandany](https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Omry Wzekrayatoh](https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt) | 4:05 |
+| 22 | [بحبك و خايف](https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [بحبك و خايف](https://open.spotify.com/album/3cP7v2k1xLOXCsFBstKtF7) | 3:57 |
 | 23 | [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 |
 | 24 | [Aleb Fel Dafater](https://open.spotify.com/track/68WRDAU8QecpIyasp2BEby) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Aleb Fel Dafater](https://open.spotify.com/album/6yF1BKku71kjth4L1WEMYV) | 5:06 |
 | 25 | [بتفتكرني ساعات](https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 49 | [الكوكب](https://open.spotify.com/track/2xzL1ELxftoTGXS1LFQv2P) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [الكوكب](https://open.spotify.com/album/6hJTJtENy8pROIGgVT6NQk) | 3:58 |
 | 50 | [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 |
 
-Snapshot ID: `MCw5MDFjMDQ1ZmZlNzUxODU1N2U4OWI0NjIzMGI1YTk3YzQxN2FiMmZk`
+Snapshot ID: `MCxiNGYwYWU1OTUzNDAzYWQ3M2M0MmQwODA5MjFkMGM5Njg0MDA5MTZm`

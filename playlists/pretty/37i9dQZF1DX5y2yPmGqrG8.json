@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 313651,
+  "num_followers": 313731,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDMyZTNkNzc5NDg2ODIyMmUyZTQwY2NkNGM5MzY1Y2ZhNTg5YjRj",
+  "snapshot_id": "MCxhZGE5ZDJiNzg1MTJmYTUyMGI3YmZkYzUzODE2MGQzMTc2NTNjY2M0",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Coconut Mango",
-        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
-      },
-      "artists": [
-        {
-          "name": "Arrangement",
-          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
-        }
-      ],
-      "duration_ms": 325489,
-      "name": "Coconut Mango",
-      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "\u97f3\u306f\u5149\u308b (The Sound Is Shining)",
         "url": "https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 238003,
       "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
       "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Coconut Mango",
+        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
+      },
+      "artists": [
+        {
+          "name": "Arrangement",
+          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
+        }
+      ],
+      "duration_ms": 325489,
+      "name": "Coconut Mango",
+      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
     },
     {
       "added_at": "2023-06-02 00:49:40",

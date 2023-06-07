@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-216 songs - 18 hr 59 min
+217 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Ghosts and All](https://open.spotify.com/track/4Yaz0sGAAYLDbORbe7BIWO) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2x96hFE6R6H9MkNXjGWwib) | 8:32 | 2023-03-10 |  |
 | [Gleam \- Stilhed Rework](https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Gleam \(Stilhed Rework\)](https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB) | 4:01 | 2022-02-18 |  |
 | [Good Earth](https://open.spotify.com/track/07GU39LRsLAOdjT6FTwYKY) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Good Earth](https://open.spotify.com/album/4f79S7nCBxZ9UvqQJn8nih) | 2:15 | 2022-02-25 |  |
-| [Graveyard](https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:53 | 2022-01-28 |  |
+| [Graveyard](https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:53 | 2022-01-28 | 2023-06-07 |
 | [Greener](https://open.spotify.com/track/603qsBFMCGXburZt057Wv3) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 1:43 | 2022-01-21 |  |
 | [Guide](https://open.spotify.com/track/2CTG1DKBy6RkWtgW0uPzBt) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Guide](https://open.spotify.com/album/0zcGMU5feKA3euuyHVoBwH) | 5:14 | 2022-03-25 | 2022-07-27 |
 | [Headflush](https://open.spotify.com/track/6CyTVrujXBuPEyNICbsOO8) | [Leila Bordreuil](https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35) | [Headflush](https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj) | 4:51 | 2022-01-21 | 2022-07-29 |
@@ -152,6 +152,7 @@
 | [Rakas](https://open.spotify.com/track/55Lz2Y0x9gu0Vh7yTIk6Dj) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Rakka II](https://open.spotify.com/album/5y0y4UtptE7P7p8SZFgAZT) | 3:42 | 2022-01-21 | 2022-07-29 |
 | [Rendering Intuitions](https://open.spotify.com/track/1JsRDrH5qt8QV5wqMOjQfk) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Born Again In The Voltage](https://open.spotify.com/album/357UFd2FDdnDRYS3IdyhJs) | 6:36 | 2022-01-28 | 2022-07-17 |
 | [Retrato](https://open.spotify.com/track/4i3zoVPfErzbpCtqplEDPL) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/7daEEsVemtGgl9NONjmBZk) | 2:26 | 2022-10-14 | 2023-05-01 |
+| [Retrato](https://open.spotify.com/track/6ivI3NsiMz2JCgpkf6MK6L) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/4wFHTdeCa6rLGmm0ExoxlB) | 2:26 | 2023-04-21 |  |
 | [Ribbon](https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:06 | 2023-01-27 | 2023-05-21 |
 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 | 2022-01-21 |  |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2022-01-21 | 2022-07-28 |

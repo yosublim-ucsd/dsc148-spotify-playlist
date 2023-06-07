@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5815,
+  "num_followers": 5812,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGZlOGIzOWQ2MDJmM2E4MDg0MmNlZjJiYjIwZGI5NGM1MzBmMDY5",
+  "snapshot_id": "MCw5NjI3ODNlOTJkMWQ1MzU4YjM3Y2FiYjI5NGNlNzY0YjYzNTM0NTg2",
   "tracks": [
     {
       "added_at": "2023-05-05 08:16:27",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
+        "name": "because I'm stupid?",
+        "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
+      },
+      "artists": [
+        {
+          "name": "KIXO",
+          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
+        }
+      ],
+      "duration_ms": 151453,
+      "name": "because I'm stupid?",
+      "url": "https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
         "name": "Akita",
         "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 224293,
       "name": "Akita (Feat. hartts) (Prod. OBSN)",
       "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
-        "name": "because I'm stupid?",
-        "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
-      },
-      "artists": [
-        {
-          "name": "KIXO",
-          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
-        }
-      ],
-      "duration_ms": 151453,
-      "name": "because I'm stupid?",
-      "url": "https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
-      },
-      "artists": [
-        {
-          "name": "soowoo",
-          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "All I Have",
-      "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "babyblue",
-        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
       },
       "artists": [
         {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
         }
       ],
-      "duration_ms": 228120,
-      "name": "babyblue",
-      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
+      "duration_ms": 168480,
+      "name": "All I Have",
+      "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -463,6 +447,22 @@
       "duration_ms": 162586,
       "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
       "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 262394,
-      "name": "Sad ending (Feat. george)",
-      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
         "name": "Nonadaptation \ube44\uc801\uc751",
         "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 196666,
       "name": "Je N\u2032aime Que Toi",
       "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 262394,
+      "name": "Sad ending (Feat. george)",
+      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1"
+        "name": "3 STEPS FORWARD, 2 STEPS BACK",
+        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
       },
       "artists": [
         {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
         }
       ],
-      "duration_ms": 183281,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM"
+      "duration_ms": 293754,
+      "name": "Thread(1.11)",
+      "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -711,22 +727,6 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "3 STEPS FORWARD, 2 STEPS BACK",
-        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
-      },
-      "artists": [
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 293754,
-      "name": "Thread(1.11)",
-      "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -739,6 +739,26 @@
       "duration_ms": 221369,
       "name": "BETTER (with MINO)",
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "Die For You (feat. Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -767,26 +787,6 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "Kelsey Kuan",
-          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "Die For You (feat. Kelsey Kuan)",
-      "url": "https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
         "name": "bimil:ier vol.6 \"Cloudy\"",
         "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Like A Film : 4 Songs",
-        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
+        "name": "Kangaroo",
+        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
       },
       "artists": [
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Smile, Wait For The Flash",
-      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
+      "duration_ms": 225903,
+      "name": "Kangaroo",
+      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -835,22 +835,6 @@
       "duration_ms": 184510,
       "name": "BOKE (Remix) (feat. kojikoji)",
       "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
-        "name": "Kangaroo",
-        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 225903,
-      "name": "Kangaroo",
-      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -880,9 +864,25 @@
           "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+      "duration_ms": 134026,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
+        "name": "Like A Film : 4 Songs",
+        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Smile, Wait For The Flash",
+      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

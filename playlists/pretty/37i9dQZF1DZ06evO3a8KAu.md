@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,044 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,068 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 10 | [Que Bonito](https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Que Bonito](https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr) | 2:40 |
 | 11 | [Para Ti Papá](https://open.spotify.com/track/1kqSCTQ2KReQ2bzmEcFvnI) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Para Ti Papá](https://open.spotify.com/album/383d57AAMCzhhvbc1RKGZU) | 4:14 |
 | 12 | [Okay](https://open.spotify.com/track/61wFYRQjmlHr9CZSJdNOoA) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Okay](https://open.spotify.com/album/3eK7UxndGddxgi819TiiUY) | 2:50 |
-| 13 | [Tu Llegada](https://open.spotify.com/track/3JVFLYJKUpvTvUUnut1TvC) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tu Llegada](https://open.spotify.com/album/7zI6rJwCEJqPpsm15277vc) | 2:48 |
-| 14 | [No Nos Tocaba](https://open.spotify.com/track/6Yd8cFa5smYVyZplghtNxf) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 2:48 |
+| 13 | [No Nos Tocaba](https://open.spotify.com/track/6Yd8cFa5smYVyZplghtNxf) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 2:48 |
+| 14 | [Tu Llegada](https://open.spotify.com/track/3JVFLYJKUpvTvUUnut1TvC) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tu Llegada](https://open.spotify.com/album/7zI6rJwCEJqPpsm15277vc) | 2:48 |
 | 15 | [Corona de Rosas](https://open.spotify.com/track/6mdO5yKXfg93yFtbzrvDSw) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Corona de Rosas](https://open.spotify.com/album/4Q1qX0p6dMP8akFAvJQsw0) | 2:39 |
 | 16 | [Nunca Valiste Tanto \(En Vivo\)](https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb) | 3:15 |
 | 17 | [Te Compro \- En Vivo](https://open.spotify.com/track/0iMKw1oCEQps2Gdl3gmRt4) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [YakiFest, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z) | 3:06 |
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 24 | [El Muchacho de La Esquina](https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Muchacho de La Esquina](https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf) | 2:34 |
 | 25 | [Mi Mejor Plan Eres Tu](https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:56 |
 | 26 | [DEL Rojo](https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG) | [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [Gente del Este](https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B) | 3:06 |
-| 27 | [No Pude Salvarnos](https://open.spotify.com/track/2A4Jkc9ua349Bi8sTFrqFn) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [No Pude Salvarnos](https://open.spotify.com/album/5VYGeAiPx1ETw8duo165MW) | 3:28 |
-| 28 | [Señora](https://open.spotify.com/track/5rplIeikQOyojaE1EymFAr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Señora](https://open.spotify.com/album/65xBKn2KUEA9WmEf8sv3vH) | 4:08 |
+| 27 | [Señora](https://open.spotify.com/track/5rplIeikQOyojaE1EymFAr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Señora](https://open.spotify.com/album/65xBKn2KUEA9WmEf8sv3vH) | 4:08 |
+| 28 | [Quería Que Llorarás](https://open.spotify.com/track/7C9YdiSZd6zCiAxBCc2j8K) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 2:58 |
 | 29 | [¿Como?](https://open.spotify.com/track/2ZXgyCqFZy0zwhj8LNWIP5) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:07 |
-| 30 | [Quería Que Llorarás](https://open.spotify.com/track/7C9YdiSZd6zCiAxBCc2j8K) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 2:58 |
+| 30 | [No Pude Salvarnos](https://open.spotify.com/track/2A4Jkc9ua349Bi8sTFrqFn) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [No Pude Salvarnos](https://open.spotify.com/album/5VYGeAiPx1ETw8duo165MW) | 3:28 |
 | 31 | [Después No Hay Después](https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:18 |
 | 32 | [11:11](https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:55 |
 | 33 | [Nunca Sin Ti](https://open.spotify.com/track/3D08yHvC1hxntER3FPGMBk) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 2:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Si Hay Otra Vida](https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Hay Otra Vida](https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa) | 3:24 |
 | 51 | [Si Me Hubieras Olvidado](https://open.spotify.com/track/04TpibFGlH7XGN13e9vO5B) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:32 |
 
-Snapshot ID: `MjgwOTk0NjIsMDAwMDAwMDAxZjMyMmY1YjIwMTU5YTQxZDIwMGVhOGNmNTNlYjVhNQ==`
+Snapshot ID: `MjgxMDA5MjUsMDAwMDAwMDAxOTI5NTdjNTU5ZTI5NThiOWQ2MmMwNzAwZTZmOGQ3Mg==`

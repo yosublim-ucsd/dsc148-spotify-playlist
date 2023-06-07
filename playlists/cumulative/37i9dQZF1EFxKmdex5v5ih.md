@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-290 songs - 15 hr 47 min
+291 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Daisies](https://open.spotify.com/track/367wyLNqQMr5e8S2E6Zvpp) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:54 | 2021-12-27 |  |
 | [dance with you](https://open.spotify.com/track/2NY14rxSByaLfPZY0OA78x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:19 | 2021-12-27 |  |
 | [dark times](https://open.spotify.com/track/67dauMD2RclztbZPgMDBKk) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:06 | 2021-12-27 |  |
+| [Dear Insecurity \(feat\. Brandi Carlile\)](https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandy Clark](https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg) | 4:36 | 2023-06-06 |  |
 | [Deserve You](https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:07 | 2021-12-27 |  |
 | [Devil You Don't](https://open.spotify.com/track/5NkAWXpJOE0mDtHlK8LlWZ) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Devil You Don't](https://open.spotify.com/album/540Q9Y4nYAdnUynF4GGck6) | 3:06 | 2022-10-13 |  |
 | [Devil You Don't](https://open.spotify.com/track/6FG2yJ3fTH9I5zwpgkPayq) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Devil You Don't](https://open.spotify.com/album/5g6Oc8ALFNEWtja8kFcz0i) | 3:06 | 2021-12-27 | 2022-10-14 |

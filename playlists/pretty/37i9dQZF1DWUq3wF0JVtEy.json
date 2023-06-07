@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 919487,
+  "num_followers": 919737,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGUzZWJhZTc0MTYzNmZhZTY1Nzk0NDlmMmUzZjNiZDlmN2UyNGEw",
+  "snapshot_id": "MCwxMjg1NTM0M2M0ZWRkMzQwYmI0NTVhNjEzOTEzM2VlOGY4OWFjMTQy",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -659,6 +659,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Nightbird",
         "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 169207,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/1TeG6xwHJG8Y6fiw7PebSl"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6"
-      },
-      "artists": [
-        {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 182765,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1279,6 +1263,42 @@
       "duration_ms": 172800,
       "name": "Welcome To The Future",
       "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 182765,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Have Me All (feat. Jelita)",
+        "url": "https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Jelita",
+          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
+        }
+      ],
+      "duration_ms": 170004,
+      "name": "Have Me All (feat. Jelita)",
+      "url": "https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1307,22 +1327,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Have Me All (feat. Jelita)",
-        "url": "https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6"
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Jelita",
-          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         }
       ],
-      "duration_ms": 170004,
-      "name": "Have Me All (feat. Jelita)",
-      "url": "https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS"
+      "duration_ms": 173437,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1343,22 +1359,6 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Cheque",
-        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cheque",
-      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "AM:PM (NOTD VIP Mix)",
         "url": "https://open.spotify.com/album/6YWX0YBHfGP7NT5uGRBJjC"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 141678,
       "name": "AM:PM - NOTD VIP Mix",
       "url": "https://open.spotify.com/track/0Se62FfAmvAGrdv4tIBXIu"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/7erfcSAjDkFRRHo4bTsXit"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        }
+      ],
+      "duration_ms": 220669,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4QoMRrDVsT1RVFq7Wy6xLM"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
       },
@@ -1583,22 +1603,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/7erfcSAjDkFRRHo4bTsXit"
+        "name": "Repeating",
+        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
       },
       "artists": [
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
         }
       ],
-      "duration_ms": 220669,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4QoMRrDVsT1RVFq7Wy6xLM"
+      "duration_ms": 147420,
+      "name": "Repeating",
+      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1619,22 +1635,6 @@
       "duration_ms": 157741,
       "name": "MIRRORS",
       "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Repeating",
-        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 147420,
-      "name": "Repeating",
-      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 160047,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
     },
     {
       "added_at": "2023-05-26 04:00:00",

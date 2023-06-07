@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,007 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,006 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 45 | [Seu Nome](https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Seu Nome](https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ) | 3:11 |
 | 46 | [O Milagre do Natal](https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv) | [Alex Gonzaga, Marcus Salles e Wilian Nascimento](https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:19 |
 | 47 | [O Melhor Presente](https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:27 |
-| 48 | [A História de Cristo](https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz) | [7MUS](https://open.spotify.com/artist/33yLLoQo58B1Sq7eTfXIU8), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK) | [\#TBT](https://open.spotify.com/album/53aePMus3r7215h43aChgx) | 3:32 |
-| 49 | [Por Amor a Nós](https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:43 |
+| 48 | [Por Amor a Nós](https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:43 |
+| 49 | [A História de Cristo](https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz) | [7MUS](https://open.spotify.com/artist/33yLLoQo58B1Sq7eTfXIU8), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK) | [\#TBT](https://open.spotify.com/album/53aePMus3r7215h43aChgx) | 3:32 |
 | 50 | [O Primeiro Natal](https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [O Novo Natal](https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq) | 3:50 |
 
-Snapshot ID: `MCwxZGNmMWU5Zjk1MDI4ODlkMDc0ODBkNWUxNWU1OWE0Y2RlMjZhODVm`
+Snapshot ID: `MCxiNGY3NWE1ZmVkODMyZDRlODBjNTkwZjBhYzMyZmVjMDk0OGRiNjVh`

@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1487129,
+  "num_followers": 1487512,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2QwYzRiMmM1YWY5YWViMGFhNjFiMDRkMjY3MTAxMDRiYWFjMzNh",
+  "snapshot_id": "MCxhOTI0YTlmMjljMzc1ZDAwM2FkOTE1MmU5MGQ1MTllZWUwYWZiODky",
   "tracks": [
     {
       "added_at": "2023-06-02 13:30:00",
@@ -363,46 +363,6 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Weightless (jamesjamesjames Remix)",
-        "url": "https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "jamesjamesjames",
-          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
-        }
-      ],
-      "duration_ms": 249779,
-      "name": "Weightless - jamesjamesjames Remix",
-      "url": "https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
-        "name": "Yourney",
-        "url": "https://open.spotify.com/album/3P2oam7JHSOjZMH6IVf04U"
-      },
-      "artists": [
-        {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/7B2ytzid2B2D1Wg83Iyt66"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
         "name": "Ali Ali",
         "url": "https://open.spotify.com/album/0YOzjLEm1PqHp70POGMo02"
       },
@@ -423,6 +383,46 @@
       "duration_ms": 124000,
       "name": "Ali Ali",
       "url": "https://open.spotify.com/track/2lW57y7U7Pce21wRiMe6EA"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
+        "name": "Yourney",
+        "url": "https://open.spotify.com/album/3P2oam7JHSOjZMH6IVf04U"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/7B2ytzid2B2D1Wg83Iyt66"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
+        "name": "Weightless (jamesjamesjames Remix)",
+        "url": "https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "duration_ms": 249779,
+      "name": "Weightless - jamesjamesjames Remix",
+      "url": "https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
+        "name": "Not Over Yet (feat. Grace Grundy)",
+        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Not Over Yet (feat. Grace Grundy)",
+      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
         "name": "Tighter (feat. Jalja) [CamelPhat Remix]",
         "url": "https://open.spotify.com/album/7Kv9Cpvd2BWwMkiGqMxfUI"
       },
@@ -775,22 +795,18 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Not Over Yet (feat. Grace Grundy)",
-        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
       },
       "artists": [
         {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "Grace Grundy",
-          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
-      "duration_ms": 161904,
-      "name": "Not Over Yet (feat. Grace Grundy)",
-      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
+      "duration_ms": 147580,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -811,22 +827,6 @@
       "duration_ms": 237865,
       "name": "Numb - Joris Voorn Remix, Edit",
       "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
         "name": "Ready For More",
         "url": "https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 247991,
       "name": "Ready For More",
       "url": "https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1015,22 +1015,38 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Hypnotised / I Can Feel",
-        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
+        "name": "Made Of Gold",
+        "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
         },
         {
-          "name": "Dosem",
-          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
-      "duration_ms": 340114,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
+      "duration_ms": 198750,
+      "name": "Made Of Gold",
+      "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
+        "name": "Fibonacci",
+        "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 188483,
+      "name": "Fibonacci",
+      "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Fibonacci",
-        "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 188483,
-      "name": "Fibonacci",
-      "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
         "name": "About Us (feat. EMME)",
         "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
       },
@@ -1095,22 +1095,22 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Made Of Gold",
-        "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
+        "name": "Hypnotised / I Can Feel",
+        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
       },
       "artists": [
         {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Made Of Gold",
-      "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
+      "duration_ms": 340114,
+      "name": "Hypnotised",
+      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1151,46 +1151,6 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Disco Voyager",
-        "url": "https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Disco Voyager",
-      "url": "https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
-        "name": "Greece 2000",
-        "url": "https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Three Drives",
-          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
-        },
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        }
-      ],
-      "duration_ms": 207334,
-      "name": "Greece 2000",
-      "url": "https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
       },
@@ -1207,6 +1167,22 @@
       "duration_ms": 218000,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
+        "name": "Disco Voyager",
+        "url": "https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Disco Voyager",
+      "url": "https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1251,6 +1227,30 @@
       "duration_ms": 244543,
       "name": "Turning Away",
       "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        },
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        }
+      ],
+      "duration_ms": 207334,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1367,30 +1367,6 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Out Of Reach",
-        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
-        }
-      ],
-      "duration_ms": 255991,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
         "name": "Risky Business",
         "url": "https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k"
       },
@@ -1427,6 +1403,30 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
+        "name": "Out Of Reach",
+        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+        }
+      ],
+      "duration_ms": 255991,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
         "name": "Reminiscing",
         "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 258536,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
+        "name": "Love Run Out",
+        "url": "https://open.spotify.com/album/1mFUcbjiAdsL62jdyMkEeV"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 158192,
+      "name": "Love Run Out",
+      "url": "https://open.spotify.com/track/1w7YDOf9iWyupxYPWtaXSw"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1463,34 +1479,22 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Love Run Out",
-        "url": "https://open.spotify.com/album/1mFUcbjiAdsL62jdyMkEeV"
+        "name": "Little Darling (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
       },
       "artists": [
         {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 158192,
-      "name": "Love Run Out",
-      "url": "https://open.spotify.com/track/1w7YDOf9iWyupxYPWtaXSw"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
-        "name": "Sweet Surrender",
-        "url": "https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W"
-      },
-      "artists": [
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
         {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 191341,
-      "name": "Sweet Surrender",
-      "url": "https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K"
+      "duration_ms": 200952,
+      "name": "Little Darling - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1519,6 +1523,22 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
+        "name": "Sweet Surrender",
+        "url": "https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "duration_ms": 191341,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
         "name": "Metaphysical",
         "url": "https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 210725,
       "name": "Radiation",
       "url": "https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
-        "name": "Little Darling (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 200952,
-      "name": "Little Darling - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
     },
     {
       "added_at": "2023-06-02 13:30:00",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,447 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,489 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SHAKE SUMN](https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 |
 | 2 | [It's Crazy](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 |
 | 3 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
-| 4 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
-| 5 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
+| 4 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
+| 5 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
 | 6 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 | 7 | [Lonely \(with Lil Wayne\)](https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Lonely \(with Lil Wayne\)](https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l) | 2:34 |
 | 8 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 43 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
 | 44 | [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 |
 | 45 | [No Excuses](https://open.spotify.com/track/3FlXFKRo2w4xbc1SGvVhJ0) | [Chop Life Crew](https://open.spotify.com/artist/3nqzRwaPGt1NTRCddyBgbx), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [No Excuses](https://open.spotify.com/album/3uPpZ6wh5UYeTryNFAWWs1) | 3:14 |
-| 46 | [Wahala](https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [Wahala](https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO) | 2:42 |
-| 47 | [King of Parole](https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [King of Parole](https://open.spotify.com/album/3SxZ36WBWGwoDwXAAAS8Bk) | 3:16 |
-| 48 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 |
+| 46 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 |
+| 47 | [Wahala](https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [Wahala](https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO) | 2:42 |
+| 48 | [King of Parole](https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [King of Parole](https://open.spotify.com/album/3SxZ36WBWGwoDwXAAAS8Bk) | 3:16 |
 | 49 | [Perfect Timing](https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/2HPDq4nWDFz0rwW3Il34Ek) | 3:28 |
 | 50 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 |
 
-Snapshot ID: `MCxiZGQxYTQyODMxYWZhNmE0MWRiZmUxYjM2NjI2OTMxZjA5MzRiNTZi`
+Snapshot ID: `MCxlMDI5MzE4MGRhZWFhMDVkOGRmMGY4ZThmMDJiOWVhZThiNGNjNjk1`

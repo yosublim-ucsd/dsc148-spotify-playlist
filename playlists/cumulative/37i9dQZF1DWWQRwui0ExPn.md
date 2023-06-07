@@ -4,7 +4,7 @@
 
 > 
 
-5,656 songs - 8 day 22 hr 32 min
+5,658 songs - 8 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Autumn Theory](https://open.spotify.com/track/7hFVjyCCaIG5cJxzW5wb7l) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Autumn Theory](https://open.spotify.com/album/63evII2ogRMRVuIns9rQlT) | 1:53 | 2022-12-09 | 2023-01-20 |
 | [Ava](https://open.spotify.com/track/3Fa2LOckLbjsv8UIidDiPD) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Ava](https://open.spotify.com/album/3DpxmOQt95WC5hdA9Gj6sn) | 1:47 | 2023-05-18 |  |
 | [ave](https://open.spotify.com/track/5HhaAeZReuplSO2gpe4j2z) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [ave \| ōnsen](https://open.spotify.com/album/2yn90YWW1z9fc4r1vS2vKA) | 2:16 | 2020-05-07 | 2021-06-18 |
+| [Avenue](https://open.spotify.com/track/6nIthpvwMurzyjcAHibuqh) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Avenue](https://open.spotify.com/album/6zBxwV2KsfZnZtlcX7I01M) | 1:38 | 2023-05-31 |  |
 | [Aves del Sur](https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Aves del Sur](https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe) | 3:09 | 2021-12-17 | 2022-06-24 |
 | [Aviate](https://open.spotify.com/track/532CHPJ8XDomggcCqh9kyr) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Aviate](https://open.spotify.com/album/2aj5Rcvstgx3xt0CNviHE3) | 2:08 | 2022-04-23 | 2022-09-09 |
 | [Awake](https://open.spotify.com/track/3tRzqJdt8IJGFyVJac26cj) | [Rosehip](https://open.spotify.com/artist/3FEUxHWFYivuxwd4tjIPoT) | [Awake](https://open.spotify.com/album/7wOp0FV5sQy2sdOckuzlPC) | 3:06 | 2020-06-16 | 2021-10-02 |
@@ -872,6 +873,7 @@
 | [Charming](https://open.spotify.com/track/1WJcb1GTnvyBHYhlnuLuBs) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Charming](https://open.spotify.com/album/7GGm2Fx9xUJwhrvGLEFQ0J) | 1:50 | 2022-05-27 | 2022-09-23 |
 | [CHASE](https://open.spotify.com/track/3eU0idtZzJXksHeYVUjdzm) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [STAY HOME](https://open.spotify.com/album/4NoV1v28rhhZESZ5GcSO2b) | 2:06 | 2019-05-27 | 2020-06-12 |
 | [Chasing Cars](https://open.spotify.com/track/2P0kdHLBFlFeh8CSXjbMIg) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Chasing Cars](https://open.spotify.com/album/1lZdFcUL2O3hSY0QdJCmyW) | 1:54 | 2020-04-07 | 2020-06-24 |
+| [Chasing fog, rain, and laughing leather shoes](https://open.spotify.com/track/0B293B0NossbIM4Z0Lcjbi) | [vuefloor](https://open.spotify.com/artist/4ut8eVBaW8x99Ibio3pfVe) | [Chasing fog, rain, and laughing leather shoes](https://open.spotify.com/album/45vngSO20dZzsJKk3CycVb) | 2:12 | 2023-05-31 |  |
 | [Chasing Sunsets](https://open.spotify.com/track/3c9B9Rhk0uY8kGx9yMXEhk) | [Filae](https://open.spotify.com/artist/1fetaNfyFJu3bNYz05XTyd) | [Chasing Sunsets](https://open.spotify.com/album/1ydI38KOABCrgz8MQqnYqt) | 1:34 | 2022-09-16 | 2023-01-07 |
 | [Chateau Manoir](https://open.spotify.com/track/2lKu78Z7WWpSCIEMxDTvu4) | [Butler Earl](https://open.spotify.com/artist/75EPAxAdLTklBTdTm1GI3h) | [The Chateau](https://open.spotify.com/album/4bj0eU5j2WytTsIWDuiT7U) | 1:46 | 2022-04-15 | 2022-09-02 |
 | [Cheap Motel](https://open.spotify.com/track/3mi6jfYzvW5cy7Fsgn2bAL) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Cheap Motel](https://open.spotify.com/album/0WBvkg0rMwz5eAROSFN546) | 2:08 | 2022-07-08 | 2022-10-21 |
@@ -1269,7 +1271,7 @@
 | [Desideri](https://open.spotify.com/track/4Fly5rDxEfOuLEy83egCzd) | [Elk](https://open.spotify.com/artist/3jdACmNqyEztgTJc1aOKgN), [ᴄᴀᴍᴏᴍɪʟʟᴀ](https://open.spotify.com/artist/5HmJsQ6KlfdCz5mJxDOnwj) | [Desideri](https://open.spotify.com/album/7DsXVEzCqN8Z7cXELCBPSH) | 1:30 | 2022-04-23 | 2022-09-09 |
 | [Designated Driver](https://open.spotify.com/track/47A5wLPs1bgjCSOshT9q8x) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Designated Driver](https://open.spotify.com/album/0z2rsiDAHy5sDsGZZ5JjXI) | 2:07 | 2022-02-25 | 2022-07-29 |
 | [Desire](https://open.spotify.com/track/7sSM9aNf1VNEWA92HXSIVf) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Desire](https://open.spotify.com/album/6WphwrcyX1nhL9v4a91KEp) | 2:05 | 2020-01-03 | 2021-08-22 |
-| [desktop](https://open.spotify.com/track/2IjSMy4Fim9MpHoBnRLsz5) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [desktop](https://open.spotify.com/album/4SaJ6in9B8ecRZQOlhVxn5) | 2:18 | 2022-12-16 |  |
+| [desktop](https://open.spotify.com/track/2IjSMy4Fim9MpHoBnRLsz5) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [desktop](https://open.spotify.com/album/4SaJ6in9B8ecRZQOlhVxn5) | 2:18 | 2022-12-16 | 2023-06-07 |
 | [Desolate City](https://open.spotify.com/track/54fQhBJlBlWCCSDBvTStjJ) | [ATD Beats](https://open.spotify.com/artist/2HjWgx3XLvAeEBEP8fN2uy) | [Desolate City](https://open.spotify.com/album/4LxToHNaHwL8NDno4l28CA) | 2:41 | 2023-05-31 |  |
 | [Destination](https://open.spotify.com/track/7HGf3TDslkd4zMNB2tUAaj) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Destination](https://open.spotify.com/album/5STDVmMKX40il8ojyMIvup) | 1:48 | 2022-03-11 | 2022-07-01 |
 | [Devolving](https://open.spotify.com/track/1o11MvTRPD8vW7BhAQmWLw) | [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p) | [Devolving](https://open.spotify.com/album/7DhS7EenGeLLAJPwfuEVMA) | 1:56 | 2022-05-27 | 2022-09-23 |
@@ -1929,7 +1931,7 @@
 | [Gibbon](https://open.spotify.com/track/4GbSl6SQ3eVWJcMmqEb5Vg) | [Cherry Vans](https://open.spotify.com/artist/1TAqi3mSEZKy6tE4phpnJo), [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx) | [Gibbon](https://open.spotify.com/album/3vJT8P7LDucn5OFdz0e8Mf) | 2:23 | 2022-09-02 | 2022-12-09 |
 | [gift](https://open.spotify.com/track/0zoybpMlV54LF3OMSghowk) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [gift](https://open.spotify.com/album/2mHHVaRzqjfPMihnwBpTuD) | 2:38 | 2022-04-08 | 2022-09-02 |
 | [Gifts](https://open.spotify.com/track/2lRyDqAQiDu0Zg2ryRmIwd) | [garden lily](https://open.spotify.com/artist/5WCLBprN8XyXoTNF4XxRFc) | [Gifts](https://open.spotify.com/album/3qZcIE4LJMrShB7V39oz16) | 2:25 | 2022-10-14 | 2023-02-15 |
-| [Gigi Golfetta](https://open.spotify.com/track/08c8ngNz1zSBht3gWWvTpV) | [Toni Palermo](https://open.spotify.com/artist/38vR4Z1kT7jqSEoDQ1Roxh) | [Citywynd](https://open.spotify.com/album/00iR2yk2PzGFQ0FDfVAe0z) | 1:45 | 2022-12-23 |  |
+| [Gigi Golfetta](https://open.spotify.com/track/08c8ngNz1zSBht3gWWvTpV) | [Toni Palermo](https://open.spotify.com/artist/38vR4Z1kT7jqSEoDQ1Roxh) | [Citywynd](https://open.spotify.com/album/00iR2yk2PzGFQ0FDfVAe0z) | 1:45 | 2022-12-23 | 2023-06-07 |
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2021-07-17 | 2022-03-12 |
 | [Ginger Shot](https://open.spotify.com/track/1MRRnwQEsl2os1I1ZjPcUm) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n), [Osive](https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc) | [Ginger Shot](https://open.spotify.com/album/0TNZfawkcV33823CBAIirK) | 2:05 | 2022-04-08 | 2022-09-02 |
 | [GIRLFRIEND](https://open.spotify.com/track/4KJI1AxnJe9VuSnd8NeMn0) | [Novacane](https://open.spotify.com/artist/5tPmE63ObH7mfL62J4XXhi) | [GIRLFRIEND](https://open.spotify.com/album/4IEAriAXbUpFRdifhQX9Hu) | 5:07 | 2021-11-20 | 2022-06-03 |
@@ -2787,7 +2789,7 @@
 | [Lilac](https://open.spotify.com/track/6hRHaEUjl2cHW2P60wPywi) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Lilac](https://open.spotify.com/album/307gPdPkvlkjMIbgoyjwL1) | 2:09 | 2022-11-25 |  |
 | [Lilacs and Lavender](https://open.spotify.com/track/4WsLYVWERMCNObFkvGX1Xw) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Lilacs and Lavender](https://open.spotify.com/album/1xiF0LzadehsKiaZrgfftA) | 4:03 | 2021-11-20 | 2022-06-10 |
 | [Lilchill](https://open.spotify.com/track/7E6WGjAagxV60PvGX9ek31) | [Bonkers Beat Club](https://open.spotify.com/artist/4iOBGfQcQnaCbchbsOdEQx) | [Big Big Man](https://open.spotify.com/album/28EtX6paSslPKDaEbzCSWd) | 2:10 | 2022-04-15 | 2022-10-07 |
-| [Lilsved](https://open.spotify.com/track/15XjLdbjhgf8SKS7EG0jOF) | [Emotional thistle](https://open.spotify.com/artist/308rengQaTapxWBn0scsQk) | [Lilsved](https://open.spotify.com/album/0kP0chusqGSIHFkYvzReuB) | 2:36 | 2022-09-23 | 2023-06-03 |
+| [Lilsved](https://open.spotify.com/track/15XjLdbjhgf8SKS7EG0jOF) | [Emotional thistle](https://open.spotify.com/artist/308rengQaTapxWBn0scsQk) | [Lilsved](https://open.spotify.com/album/0kP0chusqGSIHFkYvzReuB) | 2:36 | 2022-09-23 |  |
 | [Limesoda](https://open.spotify.com/track/40WdB4RLRa1CXY2TbPUVme) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Limesoda](https://open.spotify.com/album/7e8I6tBHuXuGExlgyqeFJ7) | 2:22 | 2022-11-11 |  |
 | [liminal spaces](https://open.spotify.com/track/29gOaTqO4WCYfkJcN4MPk8) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [liminal spaces](https://open.spotify.com/album/1CrLzxoJRfm8FdafJCTDcx) | 1:50 | 2022-05-27 | 2022-10-21 |
 | [Lincoln Heights](https://open.spotify.com/track/2kyZaqz0Z9GNOgBFX1SJ3t) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Locales](https://open.spotify.com/album/52bdxIEU01DgDltwHP6uJq) | 2:07 | 2019-06-22 | 2020-10-21 |
@@ -3561,7 +3563,7 @@
 | [Oh Baby](https://open.spotify.com/track/6mhYIQwEaxLbDUAYl4SolU) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [Oh Baby](https://open.spotify.com/album/2WIxKqVafrmK6qiUIWA3SS) | 2:36 | 2021-08-22 | 2022-03-21 |
 | [Oh Well](https://open.spotify.com/track/1hDBdAiGZeMBiOKKwHnqtb) | [billsbeats](https://open.spotify.com/artist/24ogSxdy5DLO3KUmXh9WT8) | [Oh Well](https://open.spotify.com/album/53Z2C5qRHTMgDNY32TgKmd) | 1:32 | 2022-11-18 | 2022-12-09 |
 | [Oh Well](https://open.spotify.com/track/6cNJCO423GZGOwjSDP0ZfZ) | [billsbeats](https://open.spotify.com/artist/24ogSxdy5DLO3KUmXh9WT8) | [Oh Well](https://open.spotify.com/album/4DW6yiIXRGVwQgbCghDajA) | 1:32 | 2022-09-02 | 2022-11-20 |
-| [Oh, automated](https://open.spotify.com/track/0UmIog09ds7C0GUCIQp7hK) | [Troy Vibes](https://open.spotify.com/artist/5F1euTC1Sqpk3VJ4aReY41) | [Oh, automated](https://open.spotify.com/album/4gkREdZ9G7v4SF5ead99Rr) | 3:42 | 2022-09-23 |  |
+| [Oh, automated](https://open.spotify.com/track/0UmIog09ds7C0GUCIQp7hK) | [Troy Vibes](https://open.spotify.com/artist/5F1euTC1Sqpk3VJ4aReY41) | [Oh, automated](https://open.spotify.com/album/4gkREdZ9G7v4SF5ead99Rr) | 3:42 | 2022-09-23 | 2023-06-07 |
 | [ohko mayo](https://open.spotify.com/track/3y2Ya7BBilGXNrpnnjZlMt) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [ohko mayo](https://open.spotify.com/album/626nv5hjb71BAAz4TJrnOc) | 2:10 | 2022-10-14 | 2022-12-16 |
 | [Okonomiyaki](https://open.spotify.com/track/1UUkLH2O2QkYzWcOmzdVhK) | [Pinetops Winston](https://open.spotify.com/artist/3Ypfonvr3ggb1Fe3OaYpEd) | [Okonomiyaki](https://open.spotify.com/album/6evmZTypxljgaYJnMuCWwo) | 2:29 | 2023-01-06 |  |
 | [olas altas](https://open.spotify.com/track/4f4kqd71n7Qc5ldNZVtiPC) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [olas altas](https://open.spotify.com/album/1q4P1x1kDY6SeQoZDnTSAm) | 2:24 | 2023-02-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 848419,
+  "num_followers": 848648,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGU0YWFhMzAyNmRjMThlMWExMTFkOTllYTJkOTFlNGVjZTE2MmJm",
+  "snapshot_id": "MCxiYWNkOTIzNWFmZjU5ZjM4MDZiMTRmYWNkNGQyNzRlNjU2NzU2NGUx",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 211787,
       "name": "The Night They Drove Old Dixie Down",
       "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2023-01-18 21:00:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > lekker op vakantie met Anne\-Fleur! Cover: Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,059 likes - 62 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,092 likes - 62 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 7 | [Smooth Operator \- Deep House Version](https://open.spotify.com/track/6gkdWaZS8wCuv2fwB1f4v8) | [Musique Boutique](https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC) | [Smooth Operator](https://open.spotify.com/album/51pLeptQs24bS9CswmHLHp) | 3:41 |
 | 8 | [Wil Je Weten](https://open.spotify.com/track/2Toz57Z50AtzmG1WJNynrC) | [OFFICIAL KALOUTJE](https://open.spotify.com/artist/4DelmsIXEfwweSJLOcfDQn) | [Wil Je Weten](https://open.spotify.com/album/6dms2PVjRmbmsvsU94Yu0D) | 2:33 |
 | 9 | [Trainingspak](https://open.spotify.com/track/62bNZie9JmywI2z8AAEHeL) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Trainingspak](https://open.spotify.com/album/5BillhOrRDiEiHDA9LIQrS) | 2:17 |
-| 10 | [Vatos Locos](https://open.spotify.com/track/6gF0SzgjzeYSriubXBGThr) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP) | [Vatos Locos](https://open.spotify.com/album/2GlT1zfc04pKMawuOvt1GL) | 2:43 |
-| 11 | [Watching You \(feat\. Tory Lanez\)](https://open.spotify.com/track/3zNwMVpQyijGbU9HibxAZP) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Allemaal Een Droom](https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J) | 3:08 |
-| 12 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
-| 13 | [Not So Bad \(Leans Gone Cold\)](https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 3:18 |
-| 14 | [Bunda](https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm) | [Bram Krikke](https://open.spotify.com/artist/5B4zg4qSXc3znw9xUbh7mk), [Pieter Valley](https://open.spotify.com/artist/41vxXybYeV3y7FLzwPZO7k) | [Bunda](https://open.spotify.com/album/1rK2NHrwrMKitKdC58GIf1) | 1:43 |
+| 10 | [Bunda](https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm) | [Bram Krikke](https://open.spotify.com/artist/5B4zg4qSXc3znw9xUbh7mk), [Pieter Valley](https://open.spotify.com/artist/41vxXybYeV3y7FLzwPZO7k) | [Bunda](https://open.spotify.com/album/1rK2NHrwrMKitKdC58GIf1) | 1:43 |
+| 11 | [Vatos Locos](https://open.spotify.com/track/6gF0SzgjzeYSriubXBGThr) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP) | [Vatos Locos](https://open.spotify.com/album/2GlT1zfc04pKMawuOvt1GL) | 2:43 |
+| 12 | [Friesenjung](https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [Friesenjung](https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn) | 2:26 |
+| 13 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
+| 14 | [Not So Bad \(Leans Gone Cold\)](https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 3:18 |
 | 15 | [Zusje](https://open.spotify.com/track/0u3QDgpEwLLgXwnQgPPnfC) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Zusje](https://open.spotify.com/album/0SNid4vYygVVvwph9bueos) | 2:27 |
 | 16 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
 | 17 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
-| 18 | [Friesenjung](https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [Friesenjung](https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn) | 2:26 |
+| 18 | [Watching You \(feat\. Tory Lanez\)](https://open.spotify.com/track/3zNwMVpQyijGbU9HibxAZP) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Allemaal Een Droom](https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J) | 3:08 |
 | 19 | [Rocketship](https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Rocketship](https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ) | 2:36 |
 | 20 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 |
 | 21 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 61 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
 | 62 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 |
 
-Snapshot ID: `MCxmZWJkNjAwZjc1MGYyNDQ3NjI2ZDliMTRmNjRlZTNkZWUxNzhhZDg2`
+Snapshot ID: `MCw4ZGYxNDhjZTBmZmNhMGI3MDNkOWU4NjcyMjI1YjA4OWRjZjVjNWZj`

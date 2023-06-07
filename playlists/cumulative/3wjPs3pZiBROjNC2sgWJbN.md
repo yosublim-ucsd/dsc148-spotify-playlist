@@ -4,7 +4,7 @@
 
 > A collection of R&amp;B jams and viral trends feat Rihanna, Mary J\. Blige &amp; Coco Jones! Cover: Summer Walker
 
-131 songs - 7 hr 38 min
+132 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Loveeeeeee Song](https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:16 | 2022-06-09 | 2022-09-25 |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-16 | 2023-02-01 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-27 |  |
+| [moonlight \(kali uchis\) \- sped up version](https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM) | [moonlight \(kali uchis\) \[sped up version\]](https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1) | 2:36 | 2023-06-06 |  |
 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 | 2022-06-09 | 2023-02-01 |
 | [Mr\. Wrong](https://open.spotify.com/track/4rdPNHlIYUbSfa4iuQ7ccz) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Life II...The Journey Continues \(Act 1\)](https://open.spotify.com/album/7wCJISfbEMViKgxvn984Jw) | 4:01 | 2022-12-19 | 2023-02-28 |
 | [My Luv Freestyle](https://open.spotify.com/track/45V6vfnJyC6Pmi1H4jFPZU) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 3:46 | 2022-11-20 | 2023-02-01 |

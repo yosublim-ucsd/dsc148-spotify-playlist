@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 577208,
+  "num_followers": 577389,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjFmODJkMmU2M2ZjMDU1NjFhNmFmOGE5NTFjYTg4MzdmZTg4NmU0",
+  "snapshot_id": "MCw4NWMxZDRjODlmNGY2NjQ4M2M0MjlmYjg2NmFiMjY1NzNkYzgwY2Y5",
   "tracks": [
     {
       "added_at": "2023-05-26 09:41:56",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 193064,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
         "name": "These Things Will Come To Be",
         "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 202926,
       "name": "Like A Friend - Radio Edit",
       "url": "https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 193064,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
         "name": "R U 4REAL (feat. Marina Maximilian)",
         "url": "https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 189677,
       "name": "R U 4REAL (feat. Marina Maximilian)",
       "url": "https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "I WON'T STAY",
-        "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "I WON'T STAY",
-      "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/525ORJiAr0Gt29UjF1hpJU"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 276157,
       "name": "Nation",
       "url": "https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "NOSTALGIA*",
-        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
-      },
-      "artists": [
-        {
-          "name": "MATVE\u00cf",
-          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "NOSTALGIA*",
-      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Nefertari",
         "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 241160,
       "name": "Nefertari",
       "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "NOSTALGIA*",
+        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "NOSTALGIA*",
+      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
+        "name": "Far Behind",
+        "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 234685,
+      "name": "Far Behind",
+      "url": "https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
         "name": "Howl (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 289156,
       "name": "Howl - Logic1000 Remix",
       "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
-        "name": "Far Behind",
-        "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 234685,
-      "name": "Far Behind",
-      "url": "https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
+        "name": "To Be Written",
+        "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
+      },
+      "artists": [
+        {
+          "name": "Marc DePulse",
+          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        },
+        {
+          "name": "Lunar Plane",
+          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
+        }
+      ],
+      "duration_ms": 393442,
+      "name": "To Be Written - Lunar Plane Remix",
+      "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
         "name": "Fact & Fiction / Can't Get Enough",
         "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
       },
@@ -1103,26 +1127,18 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "To Be Written",
-        "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
+        "name": "Donde Chile",
+        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
       },
       "artists": [
         {
-          "name": "Marc DePulse",
-          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
-        },
-        {
-          "name": "Eleonora",
-          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
-        },
-        {
-          "name": "Lunar Plane",
-          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
         }
       ],
-      "duration_ms": 393442,
-      "name": "To Be Written - Lunar Plane Remix",
-      "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
+      "duration_ms": 434406,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1139,22 +1155,6 @@
       "duration_ms": 315026,
       "name": "Kami",
       "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
-        "name": "Donde Chile",
-        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        }
-      ],
-      "duration_ms": 434406,
-      "name": "Pura Vida",
-      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1223,62 +1223,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 241010,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
-        "name": "Come Back Around",
-        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 231349,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Restless & Wild",
         "url": "https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX"
       },
@@ -1299,6 +1243,62 @@
       "duration_ms": 403286,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 241010,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "Come Back Around",
+        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 231349,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2023-05-26 09:41:56",

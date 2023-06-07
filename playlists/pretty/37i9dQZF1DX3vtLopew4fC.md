@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Katherine Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,800 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,804 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [When You Lose Her](https://open.spotify.com/track/2RX2B72whvpTmrMjKadHoQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [When You Lose Her](https://open.spotify.com/album/4zJJ6j6z9K6FZhb5ssoZQl) | 3:56 |
 | 50 | [Cut and Dry](https://open.spotify.com/track/4cbfwZbbQ8n5uLwg4TI8vu) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Could Have Done Anything](https://open.spotify.com/album/7fYSpC2LvK5Xode0pWSpUB) | 3:24 |
 
-Snapshot ID: `MCw4MjFmOGU5ODQ5MTA3MmI3NWFlMTE0Yjk5MmJlYjE3YjljNDhkODA2`
+Snapshot ID: `MCxiOGExYWUyOTdkMmNjNzlkNWJlNzI0OGRjZDY5OGI4N2M5NTVkZDZi`

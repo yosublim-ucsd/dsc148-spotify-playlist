@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 277051,
+  "num_followers": 277242,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2M0OWM0MWQwYjM0YzY4MjdjZjdlNjBjZmQ5ZDM3YmM0NTViZTEz",
+  "snapshot_id": "MCw2NWJmZjVjYzAxYTUxYzNmNzg1ZmVjODQwNTY2YWZkMWZiYmViNjY1",
   "tracks": [
     {
       "added_at": "2020-10-06 12:32:47",
@@ -239,22 +239,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Mind Fruit",
-        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
-      },
-      "artists": [
-        {
-          "name": "Opus III",
-          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "It's a Fine Day",
-      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/4IWn4hJRmgNCv1wY8JGBrS"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 470506,
       "name": "Let Me Be Your Fantasy",
       "url": "https://open.spotify.com/track/1rQMmMklXi7k1HreHdD9Tj"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Mind Fruit",
+        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
+      },
+      "artists": [
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "It's a Fine Day",
+      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Such A Good Feeling",
-        "url": "https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp"
-      },
-      "artists": [
-        {
-          "name": "Brothers In Rhythm",
-          "url": "https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Such A Good Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 350813,
       "name": "Energy Flash",
       "url": "https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Such A Good Feeling",
+        "url": "https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp"
+      },
+      "artists": [
+        {
+          "name": "Brothers In Rhythm",
+          "url": "https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Such A Good Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -659,22 +659,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "40 Miles",
-        "url": "https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA"
-      },
-      "artists": [
-        {
-          "name": "Congress",
-          "url": "https://open.spotify.com/artist/34g0SuVnC8oefEeUlmYXBT"
-        }
-      ],
-      "duration_ms": 328829,
-      "name": "40 Miles",
-      "url": "https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "DJs Take Control",
         "url": "https://open.spotify.com/album/57CmPHHFqK8aa3Yknb3hQW"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 305613,
       "name": "DJs Take Control",
       "url": "https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "40 Miles",
+        "url": "https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA"
+      },
+      "artists": [
+        {
+          "name": "Congress",
+          "url": "https://open.spotify.com/artist/34g0SuVnC8oefEeUlmYXBT"
+        }
+      ],
+      "duration_ms": 328829,
+      "name": "40 Miles",
+      "url": "https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo"
     },
     {
       "added_at": "2020-10-06 12:32:47",

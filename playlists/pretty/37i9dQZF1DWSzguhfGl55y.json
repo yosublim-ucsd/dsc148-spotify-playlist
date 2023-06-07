@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 606619,
+  "num_followers": 606724,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDljZmQ5NjE3NTU2YzQ5NzkzODNlOGMxYjhiNGQyYTgwMTgyNDRi",
+  "snapshot_id": "MCwwYmJkMjE3OWIyMTA1MmVjNmFkZTQ0ZDRkMTAzNWI4MzhkNDkyY2Iz",
   "tracks": [
     {
       "added_at": "2023-05-31 15:07:35",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft II",
-        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "OMG!",
-      "url": "https://open.spotify.com/track/6ngfhauAytTZsaQgZyJIeK"
-    },
-    {
-      "added_at": "2023-05-31 15:07:35",
-      "album": {
         "name": "Urlaub f\u00fcrs Gehirn",
         "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 241973,
       "name": "Urlaub f\u00fcrs Gehirn",
       "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
+    },
+    {
+      "added_at": "2023-05-31 15:07:35",
+      "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft II",
+        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "OMG!",
+      "url": "https://open.spotify.com/track/6ngfhauAytTZsaQgZyJIeK"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft II",
+        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Kids (2 Finger an den Kopf)",
+      "url": "https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX"
+    },
+    {
+      "added_at": "2023-05-31 15:07:35",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 220706,
       "name": "So perfekt",
       "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
-    },
-    {
-      "added_at": "2023-05-31 15:07:35",
-      "album": {
-        "name": "Hahnenkampf",
-        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 301173,
-      "name": "Walpurgisnacht",
-      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft II",
-        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
+        "name": "Hahnenkampf",
+        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
       "artists": [
         {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Kids (2 Finger an den Kopf)",
-      "url": "https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX"
+      "duration_ms": 301173,
+      "name": "Walpurgisnacht",
+      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
-    },
-    {
-      "added_at": "2023-05-31 15:07:35",
-      "album": {
         "name": "Samy Deluxe",
         "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
       },
@@ -539,26 +523,6 @@
       "duration_ms": 343226,
       "name": "Weck mich auf",
       "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
-    },
-    {
-      "added_at": "2023-05-31 15:07:35",
-      "album": {
-        "name": "CLA$$IC",
-        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "CLA$$IC",
-      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -579,26 +543,38 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Hahnenkampf",
-        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
       "artists": [
         {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        },
-        {
-          "name": "Kuba",
-          "url": "https://open.spotify.com/artist/3RMUVIfL3EyviMrClncdOK"
-        },
-        {
-          "name": "Cannibal Rob",
-          "url": "https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk"
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
         }
       ],
-      "duration_ms": 323253,
-      "name": "Neuruppin",
-      "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+    },
+    {
+      "added_at": "2023-05-31 15:07:35",
+      "album": {
+        "name": "CLA$$IC",
+        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "CLA$$IC",
+      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -635,38 +611,26 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Bitte ziehen sie durch",
-        "url": "https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW"
+        "name": "Hahnenkampf",
+        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
       "artists": [
         {
-          "name": "Deichkind",
-          "url": "https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs"
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
         },
         {
-          "name": "Nina Tenge",
-          "url": "https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Bon Voyage (feat. Nina)",
-      "url": "https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z"
-    },
-    {
-      "added_at": "2023-05-31 15:07:35",
-      "album": {
-        "name": "4:99 - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
-      },
-      "artists": [
+          "name": "Kuba",
+          "url": "https://open.spotify.com/artist/3RMUVIfL3EyviMrClncdOK"
+        },
         {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+          "name": "Cannibal Rob",
+          "url": "https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Mit freundlichen Gr\u00fc\u00dfen",
-      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+      "duration_ms": 323253,
+      "name": "Neuruppin",
+      "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -687,18 +651,18 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+        "name": "4:99 - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
       },
       "artists": [
         {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Hammerhart",
-      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
+      "duration_ms": 215933,
+      "name": "Mit freundlichen Gr\u00fc\u00dfen",
+      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -719,6 +683,42 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
+        "name": "Bitte ziehen sie durch",
+        "url": "https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW"
+      },
+      "artists": [
+        {
+          "name": "Deichkind",
+          "url": "https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs"
+        },
+        {
+          "name": "Nina Tenge",
+          "url": "https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Bon Voyage (feat. Nina)",
+      "url": "https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z"
+    },
+    {
+      "added_at": "2023-05-31 15:07:35",
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 203920,
+      "name": "Hammerhart",
+      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
+    },
+    {
+      "added_at": "2023-05-31 15:07:35",
+      "album": {
         "name": "Mercedes Dance",
         "url": "https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 295440,
       "name": "Klar",
       "url": "https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg"
+    },
+    {
+      "added_at": "2023-05-31 15:07:35",
+      "album": {
+        "name": "Bossaura",
+        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "duration_ms": 364720,
+      "name": "Bossaura",
+      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -755,22 +771,6 @@
       "duration_ms": 209626,
       "name": "Kimnotyze",
       "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
-    },
-    {
-      "added_at": "2023-05-31 15:07:35",
-      "album": {
-        "name": "Bossaura",
-        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
-      },
-      "artists": [
-        {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        }
-      ],
-      "duration_ms": 364720,
-      "name": "Bossaura",
-      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "BLYAT",
-        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
-      },
-      "artists": [
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Nur noch Gucci",
-      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
-    },
-    {
-      "added_at": "2023-05-31 15:07:35",
-      "album": {
         "name": "Electro Ghetto (Re-Release)",
         "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
       },
@@ -895,6 +879,26 @@
       "duration_ms": 274640,
       "name": "F\u00fcchse",
       "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
+    },
+    {
+      "added_at": "2023-05-31 15:07:35",
+      "album": {
+        "name": "Irgendwie, Irgendwo, Irgendwann",
+        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
+      },
+      "artists": [
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        },
+        {
+          "name": "Dennis Dubplate",
+          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
+        }
+      ],
+      "duration_ms": 330409,
+      "name": "Irgendwie, Irgendwo, Irgendwann",
+      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

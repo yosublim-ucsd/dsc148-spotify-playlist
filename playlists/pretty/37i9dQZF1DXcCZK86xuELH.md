@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,018 likes - 72 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,050 likes - 72 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 47 | [MY WRLD 4EVR](https://open.spotify.com/track/2t0Jsf95BntJ6IrUG8VB1l) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [MYWRLD](https://open.spotify.com/album/1yltW1XSZV5CKtlWhrr9Nb) | 4:10 |
 | 48 | [1999 \- Gray Remix](https://open.spotify.com/track/3wNeeZo1gvxKEopHtvmwVt) | [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U), [Gray](https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [1999 \(Gray Remix\)](https://open.spotify.com/album/3BDDns51wSQQtTTiHzMiII) | 4:05 |
 | 49 | [Alpha](https://open.spotify.com/track/6BL79It6VyOFyi1VVNAyoB) | [Benny L](https://open.spotify.com/artist/5l4uVbRaFx2kxzudLXO2H0) | [Reactions](https://open.spotify.com/album/0DG12d6Vs2OHMP9D60BeMJ) | 6:06 |
-| 50 | [Abyss](https://open.spotify.com/track/4KXAxtfKpp4UPlVRHDNWgN) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Retrograde EP](https://open.spotify.com/album/3k34y3g2oXsNXt3a4azFPO) | 4:58 |
+| 50 | [Abyss](https://open.spotify.com/track/4bnTYYOtFHroheT49TYNHn) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Retrograde \- EP](https://open.spotify.com/album/0LlTRnnVmLfSGmkVAP9zAJ) | 4:58 |
 | 51 | [Keepin It Raw \- Calyx & Teebee Remix](https://open.spotify.com/track/7mOAczJuAKDBSiHNTNW5Q5) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [Calyx & TeeBee](https://open.spotify.com/artist/5AXHArSOd9lplw0Y5Qt5Eg) | [Keepin It Raw \(Calyx & Teebee Remix\)](https://open.spotify.com/album/4GyIgfQbUF8iYQ0L6ITZgx) | 4:10 |
 | 52 | [High Times \- Break Remix](https://open.spotify.com/track/5xNcJDT3Gswdfr2mA220ji) | [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR), [MC Fats](https://open.spotify.com/artist/7cy71t1F8aAKPjTmt6PGyd), [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [High Times \(Break Remix\)](https://open.spotify.com/album/2WbXqTa6t92T6TaICNV1HR) | 4:56 |
 | 53 | [Hit the Target](https://open.spotify.com/track/02FoZSHI4qAj5ZUj8scPXE) | [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs), [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [Hit the Target / NADS](https://open.spotify.com/album/2EfFztYISWrOtQN0Bglg6J) | 5:34 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 71 | [Rudeboy Sound](https://open.spotify.com/track/6f8IUjZxKhQkXzPfJ0c01b) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [JODIAN NATTY](https://open.spotify.com/artist/6pibD7qPgbAdzEeDSv3N58) | [Rudeboy Sound](https://open.spotify.com/album/0mU2cgfFNEjKi99abp60re) | 3:15 |
 | 72 | [Time's Up](https://open.spotify.com/track/00WzOw6iCExyF11cHPRroj) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Time's Up](https://open.spotify.com/album/4Xc9oJ4w2xCVVuwXMNl17M) | 3:47 |
 
-Snapshot ID: `MCxmNWU2ZjIxYzIxNTg3ODQyNTE5OGE3NTA1YmNlZDczYWFkYzFjMmY0`
+Snapshot ID: `MCwzZjc3MWUzYzAyYzY3NjhlMDllYjFjYjAzNzI0YzdlNjQ5M2U2NDcy`

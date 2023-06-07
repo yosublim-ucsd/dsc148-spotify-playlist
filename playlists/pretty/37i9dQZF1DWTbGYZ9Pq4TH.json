@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 168046,
+  "num_followers": 168070,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzIyZTYyMmIyMTBjOWQwOTI5ZDYwZmFkNGZjNjRmNDk0NGI4ZjRl",
+  "snapshot_id": "MCxkOWFlMjk0ZWIxODg1YTA2NmU1MmI4M2RjZTQ3N2Y2YzdkMDVmYTg5",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "duration_ms": 249417,
+      "name": "Questa nostra stupida canzone d'amore",
+      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "L'Imboscata",
         "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 205253,
       "name": "Niente Canzoni D'Amore",
       "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
-      },
-      "artists": [
-        {
-          "name": "Thegiornalisti",
-          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
-        }
-      ],
-      "duration_ms": 249417,
-      "name": "Questa nostra stupida canzone d'amore",
-      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
     },
     {
       "added_at": "2023-02-20 09:56:57",

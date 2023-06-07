@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 147780,
+  "num_followers": 148029,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmIxYTNmNTIzYTUzNWZmMjA5ZjU3ODBlNjFhMmJlYTM2YTM1OThj",
+  "snapshot_id": "MCw2Njc4YjMzZjBjMzM2MzZiNjk2NGRkYTI0ZTA1NWY1MmFlNmExYTAx",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "All at Once",
+        "url": "https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A"
+      },
+      "artists": [
+        {
+          "name": "Screaming Females",
+          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "Bird in Space",
+      "url": "https://open.spotify.com/track/4PYyyaASFb3gZ9Jh4zisiz"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Model Citizen",
         "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 192281,
       "name": "Baby, I Had an Abortion",
       "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "All at Once",
-        "url": "https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A"
-      },
-      "artists": [
-        {
-          "name": "Screaming Females",
-          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "Bird in Space",
-      "url": "https://open.spotify.com/track/4PYyyaASFb3gZ9Jh4zisiz"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 160472,
-      "name": "Happier Still",
-      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Stoned Butch Blues",
         "url": "https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 167623,
       "name": "Blood",
       "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "duration_ms": 160472,
+      "name": "Happier Still",
+      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Facades",
-        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
-      },
-      "artists": [
-        {
-          "name": "Limp Wrist",
-          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
-        }
-      ],
-      "duration_ms": 96051,
-      "name": "Thick Skin",
-      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Big Shouty",
         "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 86000,
       "name": "Big Shouty",
       "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Facades",
+        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
+      },
+      "artists": [
+        {
+          "name": "Limp Wrist",
+          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
+        }
+      ],
+      "duration_ms": 96051,
+      "name": "Thick Skin",
+      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Talk It Out",
-        "url": "https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61"
-      },
-      "artists": [
-        {
-          "name": "Sports Bra",
-          "url": "https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b"
-        }
-      ],
-      "duration_ms": 180442,
-      "name": "Precious and Perfect",
-      "url": "https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Divine Violence",
         "url": "https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 143853,
       "name": "Sissy Fists",
       "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Talk It Out",
+        "url": "https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61"
+      },
+      "artists": [
+        {
+          "name": "Sports Bra",
+          "url": "https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b"
+        }
+      ],
+      "duration_ms": 180442,
+      "name": "Precious and Perfect",
+      "url": "https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD"
     }
   ],
   "unique_name": "Queercore",

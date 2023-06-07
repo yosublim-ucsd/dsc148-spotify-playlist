@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Lil Wayne",
-  "num_followers": 88264,
+  "num_followers": 88409,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzUyNmNlYjFiY2NiZmFiNWEyM2FmMWYzYmNiZTVkNjk1ZjJkZGM5",
+  "snapshot_id": "MCxjNmFlMDFlYmM5YzNiOGY0ODdjMDdlMGY1MTE0ZWM4MjQzMmI2YTI2",
   "tracks": [
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1183,22 +1183,18 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Beg For Mercy",
-        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
       },
       "artists": [
         {
-          "name": "G-Unit",
-          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
-        },
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
         }
       ],
-      "duration_ms": 265026,
-      "name": "Wanna Get To Know You",
-      "url": "https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza"
+      "duration_ms": 254466,
+      "name": "Kick, Push",
+      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1223,18 +1219,22 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Lupe Fiasco's Food & Liquor",
-        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+        "name": "Beg For Mercy",
+        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Kick, Push",
-      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
+      "duration_ms": 265026,
+      "name": "Wanna Get To Know You",
+      "url": "https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
+        "name": "Joe Budden",
+        "url": "https://open.spotify.com/album/5qvTf1qIYr2vkIjFnj8gYD"
+      },
+      "artists": [
+        {
+          "name": "Joe Budden",
+          "url": "https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/7tDbbfzB1d52lWP8rq8zRZ"
+    },
+    {
+      "added_at": "2023-06-03 04:00:00",
+      "album": {
         "name": "Me, Myself & I",
         "url": "https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 247413,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww"
-    },
-    {
-      "added_at": "2023-06-03 04:00:00",
-      "album": {
-        "name": "Joe Budden",
-        "url": "https://open.spotify.com/album/5qvTf1qIYr2vkIjFnj8gYD"
-      },
-      "artists": [
-        {
-          "name": "Joe Budden",
-          "url": "https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/7tDbbfzB1d52lWP8rq8zRZ"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
+        "name": "What The Game's Been Missing!",
+        "url": "https://open.spotify.com/album/1UnAHcFabsZQnZbPQRuwq8"
+      },
+      "artists": [
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "There It Go (The Whistle Song)",
+      "url": "https://open.spotify.com/track/50UkypyQJbSQLaXHke5Yep"
+    },
+    {
+      "added_at": "2023-06-03 04:00:00",
+      "album": {
         "name": "The People's Champ",
         "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 228933,
       "name": "Sittin' Sidewayz (feat. Big Pokey)",
       "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
-    },
-    {
-      "added_at": "2023-06-03 04:00:00",
-      "album": {
-        "name": "What The Game's Been Missing!",
-        "url": "https://open.spotify.com/album/1UnAHcFabsZQnZbPQRuwq8"
-      },
-      "artists": [
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "There It Go (The Whistle Song)",
-      "url": "https://open.spotify.com/track/50UkypyQJbSQLaXHke5Yep"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
+        "name": "Light Poles And Pine Trees",
+        "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
+      },
+      "artists": [
+        {
+          "name": "Field Mob",
+          "url": "https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
+    },
+    {
+      "added_at": "2023-06-03 04:00:00",
+      "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
@@ -1815,22 +1835,18 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Light Poles And Pine Trees",
-        "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
+        "name": "The Big Bang",
+        "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
       },
       "artists": [
         {
-          "name": "Field Mob",
-          "url": "https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 216000,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
+      "duration_ms": 214960,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -1879,22 +1895,6 @@
       "duration_ms": 248626,
       "name": "Down And Out",
       "url": "https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC"
-    },
-    {
-      "added_at": "2023-06-03 04:00:00",
-      "album": {
-        "name": "The Big Bang",
-        "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
     }
   ],
   "unique_name": "I Love My 2000s Hip-Hop",

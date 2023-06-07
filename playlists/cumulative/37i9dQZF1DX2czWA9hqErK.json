@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "",
+  "description": "Laid back sounds to see you through your day.",
   "name": "Easy",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 174965,
       "name": "a list of all the things that I regret",
       "url": "https://open.spotify.com/track/3HIWD8T1OCwAupd0kIRUi7"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 131793,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 155841,
       "name": "Called You Out",
       "url": "https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S"
@@ -1690,6 +1690,24 @@
       "duration_ms": 158000,
       "name": "could cry just thinkin about you - Full Version",
       "url": "https://open.spotify.com/track/3H7oAhHxkEkSf9iomv2mbG"
+    },
+    {
+      "album": {
+        "name": "Courtyard Theatre",
+        "url": "https://open.spotify.com/album/3QD3YNRDTSsYLI30dBYAHm"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189306,
+      "name": "Courtyard Theatre",
+      "url": "https://open.spotify.com/track/00eAyad4JN4CFGRdZPFdF9"
     },
     {
       "album": {
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
@@ -2516,6 +2534,24 @@
       "duration_ms": 206269,
       "name": "Favorite Part",
       "url": "https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW"
+    },
+    {
+      "album": {
+        "name": "favourite girl",
+        "url": "https://open.spotify.com/album/2CY6ds96kJPwcSlaiSuZMS"
+      },
+      "artists": [
+        {
+          "name": "Rio Rainz",
+          "url": "https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "favourite girl",
+      "url": "https://open.spotify.com/track/6VaZbfreoleaP0yyWErMAf"
     },
     {
       "album": {
@@ -2829,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/71pmdc72U1xTn0LIvbp5c7"
       },
@@ -2948,7 +3002,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
@@ -3222,7 +3276,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 173196,
       "name": "Have I Ever Been",
       "url": "https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ"
@@ -3676,7 +3730,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
@@ -4930,7 +4984,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 327469,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL"
@@ -5548,7 +5602,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 221875,
       "name": "Mountaineer",
       "url": "https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3"
@@ -5944,7 +5998,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 208440,
       "name": "OCD",
       "url": "https://open.spotify.com/track/6FAdjcQl0Yi8GTu1TAM0V5"
@@ -8454,6 +8508,24 @@
       "duration_ms": 227885,
       "name": "We Cry",
       "url": "https://open.spotify.com/track/2gXbtADykoLc8IiA3NBLt3"
+    },
+    {
+      "album": {
+        "name": "We Were Never Really Friends",
+        "url": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "We Were Never Really Friends",
+      "url": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN"
     },
     {
       "album": {

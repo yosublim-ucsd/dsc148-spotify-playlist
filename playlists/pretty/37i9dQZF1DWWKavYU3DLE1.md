@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKavYU3DLE1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,663 likes - 46 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,667 likes - 46 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKavYU3DLE1.md) - [plain]
 | 45 | [The Door \(Prod\. by ZICO\)](https://open.spotify.com/track/2b5GYIMnWfhoWWnc4UFfQf) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Prison Playbook \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0ON9mWyY2zv996HpPNx2LH) | 3:20 |
 | 46 | [Pat Pat](https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst) | 3:02 |
 
-Snapshot ID: `MCw2MThkMmJhMDMwZWY1N2M5NzUxNTBiMmY2OTQ5MDkwMWZhMTY1ODJk`
+Snapshot ID: `MCxmN2VmZjdmMTkzODFmY2E4NmJjOWZjZjc3OGYyMjQwM2NhZGEzMDdj`

@@ -2943,7 +2943,7 @@
     },
     {
       "album": {
-        "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
+        "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh",
         "url": "https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA"
       },
       "artists": [
@@ -2960,7 +2960,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231497,
-      "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
+      "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh",
       "url": "https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM"
     },
     {
@@ -7586,6 +7586,28 @@
       "duration_ms": 214253,
       "name": "LILAC",
       "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "album": {
+        "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
+        "url": "https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
+      "url": "https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE"
     },
     {
       "album": {
@@ -12446,7 +12468,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 241935,
       "name": "ThichThich",
       "url": "https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP"

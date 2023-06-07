@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGYzMGJkZDBjOTg0YTI2MTAzOTk3NTIwMWI4MzIxOWZkZDE4NmM3",
+  "snapshot_id": "MCw2N2Q5ZTk2MjliYTRlNzdmMDQxMGEzZWI0ZjIwZWVkY2JiZDk0NTI0",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "El d\u00eda libre de Polux",
-        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 229010,
-      "name": "Venenos",
-      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "AMOR MINIMAL",
         "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 206750,
       "name": "Decid\u00ed",
       "url": "https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "El d\u00eda libre de Polux",
+        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 229010,
+      "name": "Venenos",
+      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Que no se corte la cadena",
-        "url": "https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 156166,
-      "name": "Que no se corte la cadena",
-      "url": "https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Una Mitad de M\u00ed",
         "url": "https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 221625,
       "name": "Una Mitad de M\u00ed",
       "url": "https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Que no se corte la cadena",
+        "url": "https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 156166,
+      "name": "Que no se corte la cadena",
+      "url": "https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "NI\u00d1A",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "NI\u00d1A",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "GARZA",
         "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+        "name": "NI\u00d1A",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
       "artists": [
         {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
         }
       ],
-      "duration_ms": 229740,
-      "name": "Pasos de Gigantes",
-      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
+      "duration_ms": 200245,
+      "name": "NI\u00d1A",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -739,6 +723,22 @@
       "duration_ms": 113852,
       "name": "Lo Nuestro",
       "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 229740,
+      "name": "Pasos de Gigantes",
+      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Estado Vegetal",
-        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Estado Vegetal",
-      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Despacio",
         "url": "https://open.spotify.com/album/2CwoLEkj3bdmZ35UEjSo4A"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 201379,
       "name": "Despacio",
       "url": "https://open.spotify.com/track/0xH1UoQhmxinSnlF3lShFS"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Estado Vegetal",
+        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Estado Vegetal",
+      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1051,6 +1051,30 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        },
+        {
+          "name": "Sergio Escribano",
+          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
+        },
+        {
+          "name": "Escaparate de Poes\u00eda",
+          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
+        }
+      ],
+      "duration_ms": 221610,
+      "name": "ELLA (CAE LA NOCHE)",
+      "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Ya No Te Quiero",
         "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
       },
@@ -1103,30 +1127,6 @@
       "duration_ms": 191158,
       "name": "PODER - Lilith: 6",
       "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        },
-        {
-          "name": "Sergio Escribano",
-          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
-        },
-        {
-          "name": "Escaparate de Poes\u00eda",
-          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
-        }
-      ],
-      "duration_ms": 221610,
-      "name": "ELLA (CAE LA NOCHE)",
-      "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "virgen suicida",
-        "url": "https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz"
-      },
-      "artists": [
-        {
-          "name": "Vicenta",
-          "url": "https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo"
-        },
-        {
-          "name": "Cabiria",
-          "url": "https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC"
-        }
-      ],
-      "duration_ms": 173689,
-      "name": "correr",
-      "url": "https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Fachada Continua",
         "url": "https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 246349,
       "name": "Fachada Continua",
       "url": "https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "virgen suicida",
+        "url": "https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz"
+      },
+      "artists": [
+        {
+          "name": "Vicenta",
+          "url": "https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo"
+        },
+        {
+          "name": "Cabiria",
+          "url": "https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC"
+        }
+      ],
+      "duration_ms": 173689,
+      "name": "correr",
+      "url": "https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Cae la Noche",
+        "url": "https://open.spotify.com/album/6f3rFnGxXGWoHWUmpxNtCR"
+      },
+      "artists": [
+        {
+          "name": "Tunacola",
+          "url": "https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2"
+        },
+        {
+          "name": "Exe",
+          "url": "https://open.spotify.com/artist/3GmyHz0dg5CbySGx3j9lOd"
+        }
+      ],
+      "duration_ms": 190681,
+      "name": "Cae la Noche",
+      "url": "https://open.spotify.com/track/0IfaQfbSQMIjDyYNCLcJ7Z"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Obsesi\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/3ll55HS0aY0jnK3UYrQRI9"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 210434,
       "name": "Obsesi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/6KJxt62PFos3WanS2aaVfN"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Cae la Noche",
-        "url": "https://open.spotify.com/album/6f3rFnGxXGWoHWUmpxNtCR"
-      },
-      "artists": [
-        {
-          "name": "Tunacola",
-          "url": "https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2"
-        },
-        {
-          "name": "Exe",
-          "url": "https://open.spotify.com/artist/3GmyHz0dg5CbySGx3j9lOd"
-        }
-      ],
-      "duration_ms": 190681,
-      "name": "Cae la Noche",
-      "url": "https://open.spotify.com/track/0IfaQfbSQMIjDyYNCLcJ7Z"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
-      },
-      "artists": [
-        {
-          "name": "Fran Quintero",
-          "url": "https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2"
-        }
-      ],
-      "duration_ms": 251261,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "OBSYDIANA",
         "url": "https://open.spotify.com/album/2Cugagycjm239pg7OyqWVb"
       },
@@ -1475,18 +1459,34 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "REMEMBER",
-        "url": "https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3"
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
       },
       "artists": [
         {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+          "name": "Fran Quintero",
+          "url": "https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2"
         }
       ],
-      "duration_ms": 207014,
-      "name": "REMEMBER",
-      "url": "https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu"
+      "duration_ms": 251261,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "As\u00ed Te Soy",
+        "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 221537,
+      "name": "As\u00ed Te Soy",
+      "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "As\u00ed Te Soy",
-        "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
+        "name": "REMEMBER",
+        "url": "https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3"
       },
       "artists": [
         {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
         }
       ],
-      "duration_ms": 221537,
-      "name": "As\u00ed Te Soy",
-      "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
+      "duration_ms": 207014,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Casinaranja",
-        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 219031,
-      "name": "Tenemos que cocinar",
-      "url": "https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Periferia",
         "url": "https://open.spotify.com/album/6YgO7igOx9TKfZ8rKBQ0y0"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 185333,
       "name": "Periferia",
       "url": "https://open.spotify.com/track/1CY1iQFjmW1m64qXSEtB8d"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Casinaranja",
+        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 219031,
+      "name": "Tenemos que cocinar",
+      "url": "https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv"
     },
     {
       "added_at": "2023-06-02 03:00:00",

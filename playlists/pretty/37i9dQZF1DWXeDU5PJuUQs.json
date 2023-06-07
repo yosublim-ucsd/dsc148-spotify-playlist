@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 119163,
+  "num_followers": 119219,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTUxOTZlMmQwMDhlNTE4M2NmOGZiNTNlZmU2MTFkZWZiMjcyZGYz",
+  "snapshot_id": "MCxlMmUzNjcxYTJlZGZlYTk0NDg4OWU1NTRiYTFjNGI4ZjNhMDBlMzdl",
   "tracks": [
     {
       "added_at": "2023-04-24 17:42:58",
@@ -143,22 +143,18 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "Un So\u00f1ador Eterno",
-        "url": "https://open.spotify.com/album/0gDwcXu8hITigvMrZci4wo"
+        "name": "En Directo - Piel Con Piel",
+        "url": "https://open.spotify.com/album/6zS1zCxRWNCfveygLzBxEx"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Magoman",
-          "url": "https://open.spotify.com/artist/17SbOgrrSKZHSTi3zEDNWc"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 165818,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/26WHTbuQHbpkx3TBNR4afU"
+      "duration_ms": 97466,
+      "name": "Conmigo te gust\u00f3",
+      "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -179,18 +175,22 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "En Directo - Piel Con Piel",
-        "url": "https://open.spotify.com/album/6zS1zCxRWNCfveygLzBxEx"
+        "name": "Un So\u00f1ador Eterno",
+        "url": "https://open.spotify.com/album/0gDwcXu8hITigvMrZci4wo"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Magoman",
+          "url": "https://open.spotify.com/artist/17SbOgrrSKZHSTi3zEDNWc"
         }
       ],
-      "duration_ms": 97466,
-      "name": "Conmigo te gust\u00f3",
-      "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
+      "duration_ms": 165818,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/26WHTbuQHbpkx3TBNR4afU"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Como Podr\u00e9",
+      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
         "name": "Tu Falta de Querer (En Vivo)",
         "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
       },
@@ -327,26 +343,6 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
-        "url": "https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
-        }
-      ],
-      "duration_ms": 364197,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
-      "url": "https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
         "name": "Y Tu Te Vas / P\u00eddeme",
         "url": "https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ"
       },
@@ -367,18 +363,22 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
+        "url": "https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
         }
       ],
-      "duration_ms": 278133,
-      "name": "Como Podr\u00e9",
-      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
+      "duration_ms": 364197,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
+      "url": "https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "10 A\u00f1os Movistar Arena",
-        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 243275,
-      "name": "Amor Sin Fronteras",
-      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
         "name": "Amiga Traidora (En Vivo)",
         "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 236736,
       "name": "Amiga Traidora - En Vivo",
       "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
+        "name": "10 A\u00f1os Movistar Arena",
+        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 243275,
+      "name": "Amor Sin Fronteras",
+      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
+        "name": "La Gira y La Serenata",
+        "url": "https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 291054,
+      "name": "Pedazo De Papel - En Vivo En El Luna Park",
+      "url": "https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
         "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
         "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 208613,
       "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
       "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
-        "name": "La Gira y La Serenata",
-        "url": "https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 291054,
-      "name": "Pedazo De Papel - En Vivo En El Luna Park",
-      "url": "https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 158958,
+      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
+      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
         "name": "20 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3"
       },
@@ -803,38 +819,6 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 158958,
-      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
-      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
-        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 131265,
-      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
-      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
         "name": "Show En Parque Recondo",
         "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 131287,
       "name": "Decir Adi\u00f3s - En Vivo",
       "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 147113,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
-        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
       "artists": [
         {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
-      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+      "duration_ms": 496146,
+      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
+      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
       },
       "artists": [
         {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
         }
       ],
-      "duration_ms": 496146,
-      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
-      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
+      "duration_ms": 328000,
+      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -947,38 +947,6 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "En Vivo Desde el Teatro Opera",
-        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 433520,
-      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
-      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
-        "name": "En Vivo 2019",
-        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 147113,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -995,6 +963,38 @@
       "duration_ms": 195973,
       "name": "Estoy Buscando un Amor - En Vivo",
       "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 131265,
+      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
+        "name": "En Vivo Desde el Teatro Opera",
+        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 433520,
+      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
+      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
     },
     {
       "added_at": "2023-04-24 17:42:58",

@@ -1,12 +1,12 @@
 {
   "description": "Move your way through the day with the dance tracks you love.",
-  "num_followers": 53566,
+  "num_followers": 53594,
   "original_name": "Dance All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjY4MGU1NjA2YjE2YTY2OTczNDhkZGMxMDAwOWRkZjRjOWRjMjlj",
+  "snapshot_id": "MCw1ZGZkOTNlODQwZWViNDc5ODBkMjVjODU1MDAyMWJkZjlkZWIxZDRk",
   "tracks": [
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Ready To Fly (Sub Focus & Dimension)",
-        "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Ready To Fly - Sub Focus & Dimension",
-      "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
+        "name": "Ready To Fly (Sub Focus & Dimension)",
+        "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Ready To Fly - Sub Focus & Dimension",
+      "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 168053,
       "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
+        "name": "Billie (loving arms)",
+        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 217265,
+      "name": "Billie (Loving Arms)",
+      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
         "name": "Isles",
         "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
       },
@@ -1803,18 +1819,38 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Billie (loving arms)",
-        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 217265,
-      "name": "Billie (Loving Arms)",
-      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
+        "name": "Forbidden Feelingz",
+        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Forbidden Feelingz",
+      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1843,42 +1879,6 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Forbidden Feelingz",
-        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 166356,
-      "name": "Forbidden Feelingz",
-      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
-        "name": "Diplo",
-        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Don't Forget My Love",
-      "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
         "name": "Damn (You\u2019ve Got Me Saying)",
         "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
       },
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Astronomia (Never Go Home)",
-        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
-      },
-      "artists": [
-        {
-          "name": "Tony Igy",
-          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
-        }
-      ],
-      "duration_ms": 156888,
-      "name": "Astronomia - Never Go Home",
-      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
         "name": "Streetside",
         "url": "https://open.spotify.com/album/138qbOSq6Wy6ubheDW8HBK"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 219428,
       "name": "Streetside",
       "url": "https://open.spotify.com/track/48nIqwRQyLtqEcGzJWykLL"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
+        "name": "Astronomia (Never Go Home)",
+        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
+      },
+      "artists": [
+        {
+          "name": "Tony Igy",
+          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
+        }
+      ],
+      "duration_ms": 156888,
+      "name": "Astronomia - Never Go Home",
+      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
     },
     {
       "added_at": "2023-05-19 16:54:38",

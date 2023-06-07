@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,396 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,417 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 44 | [Flor de Retama](https://open.spotify.com/track/44xGBoSZ8S98X3LzgUyuWK) | [Duo Retama](https://open.spotify.com/artist/12lOCts9qQhJiDDHEnao75) | [Wistu Vida](https://open.spotify.com/album/6Ow5JgeHaoriAgtP9jbDMU) | 6:28 |
 | 45 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
 | 46 | [Nuestra Promesa](https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw), [Magaly Solier](https://open.spotify.com/artist/2XftZLqhgVPUlCn4g0uBZ6) | [Nuestra Promesa](https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob) | 4:50 |
-| 47 | [Cuanto Tiempo Sin Verte](https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 3:40 |
-| 48 | [Juntito a Ti](https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7) | 5:16 |
+| 47 | [Juntito a Ti](https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7) | 5:16 |
+| 48 | [Cuanto Tiempo Sin Verte](https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 3:40 |
 | 49 | [Profesorita](https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7) | [Los Campesinos](https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ) | [Grandes Exitos](https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE) | 2:51 |
 | 50 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:30 |
 | 51 | [Sirwana](https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 3:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 |
 | 60 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
 
-Snapshot ID: `MCwwNTk2ZWRiNjMzMDZkODczMzk2NWE4YWUwYTRlZjE4MjIwMDQzZWNi`
+Snapshot ID: `MCw4N2VmNGQ1OTM2NGM1NmE2NDIxMjNhYTkxNDBjZDM3MDk2MGNiMTY5`

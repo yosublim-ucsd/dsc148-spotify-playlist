@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,560 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,773 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 99 | [time and space](https://open.spotify.com/track/6ASZIbWiYI84peOV3kFlAh) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [surfgoth](https://open.spotify.com/artist/5bOnGY1cTwZxkhK4JFLtKK) | [time and space](https://open.spotify.com/album/4cHY0W0XPI7gNInlQJOees) | 3:00 |
 | 100 | [Paradise Is Mine](https://open.spotify.com/track/2bywSV7Z2yjC0JlP79sZC8) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Paradise Is Mine](https://open.spotify.com/album/2o8zkys1fG1bnev4a3qW1T) | 9:23 |
 
-Snapshot ID: `MCw2ZjA5NzRiOGY4YTRlYTkzNzljNzhlODkyYjdiNWJlMGNlMzJmYjll`
+Snapshot ID: `MCxmODRhODYxMTJmNThkOGNlODA2NzE1NzQwMmQzMzEyM2RjOWM5MTYx`

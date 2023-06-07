@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: 10cm) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 259648,
+  "num_followers": 259871,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Nzk5Njk4MmJjOWI3MzJjYTM4MDMyOWJiMzYxYzVhNTAxOTM1M2E4",
+  "snapshot_id": "MCw0ZjRhYWZmZDE2ZmIwZjdhMmUxYWQ0OGJmMWI2ZGJkN2QzNGU1MDJh",
   "tracks": [
     {
       "added_at": "2023-05-15 04:51:05",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
-        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "Love Me Like That",
-      "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
-    },
-    {
-      "added_at": "2023-05-15 04:51:05",
-      "album": {
         "name": "My Voice - The 1st Album",
         "url": "https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 209157,
       "name": "Fine",
       "url": "https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs"
+    },
+    {
+      "added_at": "2023-05-15 04:51:05",
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Love Me Like That",
+      "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
     },
     {
       "added_at": "2023-05-15 04:51:05",
@@ -127,38 +127,6 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 3",
-        "url": "https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 214851,
-      "name": "Very, Slowly",
-      "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
-    },
-    {
-      "added_at": "2023-05-15 04:51:05",
-      "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
-    },
-    {
-      "added_at": "2023-05-15 04:51:05",
-      "album": {
         "name": "Ordinary Confession",
         "url": "https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68"
       },
@@ -175,6 +143,22 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
+        "name": "Twenty-Five Twenty-One OST Part 3",
+        "url": "https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 214851,
+      "name": "Very, Slowly",
+      "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
+    },
+    {
+      "added_at": "2023-05-15 04:51:05",
+      "album": {
         "name": "The Dream Chapter: ETERNITY",
         "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 226083,
       "name": "Maze in the Mirror",
       "url": "https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp"
+    },
+    {
+      "added_at": "2023-05-15 04:51:05",
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
     },
     {
       "added_at": "2023-05-15 04:51:05",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
-        "name": "Paint",
-        "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
-      },
-      "artists": [
-        {
-          "name": "MoonMoon",
-          "url": "https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV"
-        }
-      ],
-      "duration_ms": 188196,
-      "name": "Paint",
-      "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
-    },
-    {
-      "added_at": "2023-05-15 04:51:05",
-      "album": {
         "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
         "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 198749,
       "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
+    },
+    {
+      "added_at": "2023-05-15 04:51:05",
+      "album": {
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
+      },
+      "artists": [
+        {
+          "name": "MoonMoon",
+          "url": "https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV"
+        }
+      ],
+      "duration_ms": 188196,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
     },
     {
       "added_at": "2023-05-15 04:51:05",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Saying Hello",
+      "url": "https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX"
+    },
+    {
+      "added_at": "2023-05-15 04:51:05",
+      "album": {
         "name": "The 3rd EP",
         "url": "https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 234893,
       "name": "Rocking Chair",
       "url": "https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2"
-    },
-    {
-      "added_at": "2023-05-15 04:51:05",
-      "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D"
-      },
-      "artists": [
-        {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Saying Hello",
-      "url": "https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX"
     }
   ],
   "unique_name": "K-Pop Acoustic",

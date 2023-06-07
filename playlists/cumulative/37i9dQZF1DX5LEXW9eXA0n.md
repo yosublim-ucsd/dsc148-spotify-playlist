@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover:Melomance\(멜로망스\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover:Lim Young Woong\(임영웅\)\) \(당신의 감성에 발라드, 려요\)
 
-907 songs - 2 day 10 hr 57 min
+908 songs - 2 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Goodbye](https://open.spotify.com/track/3QQyaBhRNcDmqpWRssT7dh) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Goodbye](https://open.spotify.com/album/7AVPWq0bdemQcflSSHMfBx) | 4:48 | 2023-05-05 | 2023-05-16 |
 | [Goodbye the days I loved](https://open.spotify.com/track/6rYTjMqLaNbAGsXzAF71ZJ) | [Lydia](https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6) | [Bravo, My Life OST Part.13](https://open.spotify.com/album/7bsu6IMlTFbT6jiLejhAz3) | 3:46 | 2022-07-07 | 2022-08-02 |
 | [Goodbye To Romance\(MINSEO X Kim Eana Project\)](https://open.spotify.com/track/6qD8OvBNgiIZ7faV9zlgok) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [Goodbye To Romance\(MINSEO X Kim Eana Project\)](https://open.spotify.com/album/7rbY1TxXwT3JUEefNPSZS4) | 4:25 | 2022-12-26 | 2023-02-25 |
+| [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 | 2023-06-06 |  |
 | [Gravity](https://open.spotify.com/track/5iflfzsLm8GwB8nXeglqbQ) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5bOcT4IKuy49u5nbDH3hnn) | 3:09 | 2022-03-24 | 2022-04-18 |
 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 | 2022-06-18 | 2022-08-19 |
 | [Hangover](https://open.spotify.com/track/0vMg57uWWcnv4T3qjoXP68) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hangover](https://open.spotify.com/album/2bil4uyovEkVkPVpEAWRBp) | 3:44 | 2021-12-20 | 2022-06-14 |

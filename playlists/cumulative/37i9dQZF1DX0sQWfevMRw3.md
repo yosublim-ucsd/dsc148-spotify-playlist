@@ -2,7 +2,7 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> VAD HÄNDER YRAN??
+> JAG HAR ALDRIG BRYTT MIG OM DITT NAMN!!
 
 654 songs - 1 day 4 hr 26 min
 

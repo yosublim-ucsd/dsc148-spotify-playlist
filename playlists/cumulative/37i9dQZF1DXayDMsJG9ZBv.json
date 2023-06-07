@@ -3475,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "\u82b1\u4e00\u5301",
+        "url": "https://open.spotify.com/album/5nDlxSLsbMzLKGScoh3Yc5"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250613,
+      "name": "\u82b1\u4e00\u5301",
+      "url": "https://open.spotify.com/track/6yS6Q8iSiXqvqfjfJ67RRg"
+    },
+    {
+      "album": {
         "name": "\u5e7b\u71c8",
         "url": "https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms"
       },

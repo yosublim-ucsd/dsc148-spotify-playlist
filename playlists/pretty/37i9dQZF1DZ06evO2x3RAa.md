@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2x3RAa.md) - [plain]
 
 > This is Sonny Okosun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378 likes - 42 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 41 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,22 +33,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2x3RAa.md) - [plain]
 | 23 | [The Crown](https://open.spotify.com/track/78rbXUtsreBxUadfpJwdMy) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Crown](https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv) | 6:39 |
 | 24 | [Festival Of The Hunters](https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ozziddi For Sale](https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k) | 11:24 |
 | 25 | [What Manner Of Man](https://open.spotify.com/track/5Q1iqXx9UZtjcj6seSFi8k) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Celebrate & Worship In Caribbean Rhythms](https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq) | 4:14 |
-| 26 | [Rain](https://open.spotify.com/track/3G722OvibZcllHtM6nFpFZ) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Jungle Beat](https://open.spotify.com/album/1D1kjZRTPkBOqT1QS3bxZL) | 5:11 |
+| 26 | [No More Wars](https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: O'Nambia](https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E) | 8:08 |
 | 27 | [Jesus Christ Super Star/Miracle In Praise/Don't Be Afraid/Jesus Is The Victory/The Lord Is Good/The Lord Reigneth/F'oyin Si Aiyemi \(Yoruba\)/Chuku Nke Bi Nigwe \(Igbo\)](https://open.spotify.com/track/1GvopR7PYlYcsEsXF9gouH) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Crown](https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv) | 18:28 |
 | 28 | [Chant Of The Slaves Let My People Go](https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ozziddi For Sale](https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k) | 15:13 |
-| 29 | [Holy Mass](https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:17 |
-| 30 | [No More Wars](https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: O'Nambia](https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E) | 8:08 |
-| 31 | [Oba Erediauwa](https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Soul Jazz Records presents Nigeria Soul Power 70 \- Afro\-Funk, Afro\-Rock, Afro\-Disco](https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV) | 6:17 |
-| 32 | [Jesus King Of Kings](https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Wind Of Change](https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz) | 4:49 |
-| 33 | [War of Nations](https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:58 |
-| 34 | [3rd World](https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
+| 29 | [Rain](https://open.spotify.com/track/3G722OvibZcllHtM6nFpFZ) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Jungle Beat](https://open.spotify.com/album/1D1kjZRTPkBOqT1QS3bxZL) | 5:11 |
+| 30 | [Holy Mass](https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:17 |
+| 31 | [Jesus King Of Kings](https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Wind Of Change](https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz) | 4:49 |
+| 32 | [Oba Erediauwa](https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Soul Jazz Records presents Nigeria Soul Power 70 \- Afro\-Funk, Afro\-Rock, Afro\-Disco](https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV) | 6:17 |
+| 33 | [3rd World](https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
+| 34 | [War of Nations](https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:58 |
 | 35 | [O'nambia](https://open.spotify.com/track/79N3TPbf4Cek2jO4uU2INg) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: O'Nambia](https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E) | 7:21 |
-| 36 | [Mohammed](https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Wind Of Change](https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz) | 6:57 |
-| 37 | [Give Peace a Chance](https://open.spotify.com/track/1RYGc2JBTcgkIpYtFeNLW5) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Lagos Evergreen Golden Oldies, Vol\. 4](https://open.spotify.com/album/6LHbJ4lER1vbI5bv0EuFyE) | 7:01 |
-| 38 | [Olu Ebube \(Ibo Language\)](https://open.spotify.com/track/2Qn7UBzuG48cETAoVAn5e6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Olu Ebube](https://open.spotify.com/album/2HKflXbr5801wXTtIv32PP) | 7:58 |
-| 39 | [Jah Love](https://open.spotify.com/track/02EHJkHb9mobu0tLe86zKT) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Papa's Land](https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz) | 7:16 |
+| 36 | [Give Peace a Chance](https://open.spotify.com/track/1RYGc2JBTcgkIpYtFeNLW5) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Lagos Evergreen Golden Oldies, Vol\. 4](https://open.spotify.com/album/6LHbJ4lER1vbI5bv0EuFyE) | 7:01 |
+| 37 | [Jah Love](https://open.spotify.com/track/02EHJkHb9mobu0tLe86zKT) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Papa's Land](https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz) | 7:16 |
+| 38 | [Mohammed](https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Wind Of Change](https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz) | 6:57 |
+| 39 | [Olu Ebube \(Ibo Language\)](https://open.spotify.com/track/2Qn7UBzuG48cETAoVAn5e6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Olu Ebube](https://open.spotify.com/album/2HKflXbr5801wXTtIv32PP) | 7:58 |
 | 40 | [Tell Them](https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 9:28 |
 | 41 | [Zion](https://open.spotify.com/track/1wJCegG7JDFRGXMhm5sbiH) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Wind Of Change](https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz) | 6:01 |
-| 42 | [Don't Cry](https://open.spotify.com/track/1oZ0AbWLSlFWkqBfkkf5OU) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Super Hits](https://open.spotify.com/album/4F85r8s1BGqPBTLAcVD2ZC) | 3:38 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDAxNmZlY2E0MDdkYjkzZDVmOTM2NGY0MmNjZDI5ZWNhNA==`
+Snapshot ID: `MjgxMDA5MjYsMDAwMDAwMDA0MWZlYTdhYzFhM2I4OWY5ODUwM2U0MGRjYjVhMGFiNg==`

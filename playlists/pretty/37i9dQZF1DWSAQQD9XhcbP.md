@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 62 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/4krsMq8eb4WideabHW0fg8) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 4:30 |
 | 63 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/4zjQjevGJIUCjAJB2qbThT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 3:09 |
 | 64 | [The Holidays With You](https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg) | 2:05 |
-| 65 | [Just Like Christmas](https://open.spotify.com/track/6CuBMwtlPhbmsg4vOtE7cZ) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/7rqKrq5prPZc4tqspXvmh3) | 3:19 |
+| 65 | [Just Like Christmas](https://open.spotify.com/track/2QqXjUndwDYA3nEUyvprqo) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/4IWSjhF8wtYR7MVgMFrOkM) | 3:19 |
 | 66 | [Christmas Day](https://open.spotify.com/track/6QfjvDB63IGxWNtjySyh9F) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:28 |
 | 67 | [Christmas Eve](https://open.spotify.com/track/5QYZDXADCmEU69KXxfRxNX) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition \- 2020\)](https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8) | 3:21 |
 | 68 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 84 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
 | 85 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 
-Snapshot ID: `MCxjNGIyNTAyYTQwYzZhZDhiNzg3ZTFiNzQzNmIwYzE0ZWQyMTg2OWZh`
+Snapshot ID: `MCxhZjVlNTFjNzNiZGVjMmEzMzk0NDBlMzgzYTlkMTRiMjIyMWY1MjQ1`

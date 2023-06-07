@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,968 likes - 100 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,972 likes - 100 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 99 | [Sweet Georgia Brown \(Live\)](https://open.spotify.com/track/6ptWwk9T4s1CBWNRV1w975) | [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH), [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Clarinetwork: Live at the Village Vanguard](https://open.spotify.com/album/3brnYanZeSKFMtx9JGuqaf) | 7:25 |
 | 100 | [Air Pakistan](https://open.spotify.com/track/3KuhFmxiL8cbFdJs8LobPk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Live](https://open.spotify.com/album/7EpgY8SeCWDsNAN9rZTOUb) | 9:41 |
 
-Snapshot ID: `MCw1ZjQwYTMyMDkwOGE2MWFlNDdjMjZjZTkwMjhmZDIzNzBjYTNkNTVj`
+Snapshot ID: `MCw2Nzk2YWU0YTVhNmE0MWQ4NTAwMDMyMGYwNDBmYTE2YmU3OTc5ZGFl`

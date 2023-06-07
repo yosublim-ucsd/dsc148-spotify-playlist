@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ghita Askari\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Tac\. Artwork: Isu Kim
 
-182 songs - 10 hr 12 min
+185 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,10 @@
 | [Bako](https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Bako](https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc) | 3:03 | 2022-09-20 | 2022-11-24 |
 | [Balaleen](https://open.spotify.com/track/081geJirqbAxZUJE0u7ca7) | [Zatara](https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF) | [Balaleen](https://open.spotify.com/album/7MmRjxq4Nca5nBqSDMqNwS) | 3:12 | 2022-09-20 | 2023-01-18 |
 | [Banda](https://open.spotify.com/track/1MPM80AcWKknvhIJL8nZON) | [DADO](https://open.spotify.com/artist/3JZEJB0wz9iw5yJGqfgKsg) | [Banda](https://open.spotify.com/album/2357p5LMBTSEQYjFdXshIn) | 2:15 | 2023-01-17 | 2023-05-24 |
+| [Barcelona \(End of the Line\)](https://open.spotify.com/track/0hzN7FYPW5bZpHKQpaHT1C) | [Keh Tu](https://open.spotify.com/artist/2C9VkF4uSp8rzSq8pR4bik) | [Bedroom Promises](https://open.spotify.com/album/2C4WxtfztrmcPfWbMVjBql) | 4:00 | 2023-06-06 |  |
 | [Bashbah Emmbareh](https://open.spotify.com/track/2GXbUELoVg9MCAXh7ZyAwq) | [ZOHUD](https://open.spotify.com/artist/0HR4ZnnXwIRjOMYz0UP68D) | [Bashbah Emmbareh](https://open.spotify.com/album/2kmOdp6ZKij22qnBLhhcRj) | 3:34 | 2023-05-09 |  |
 | [Bin Nass](https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0) | [Sofco](https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0), [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Bin Nass](https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P) | 3:58 | 2022-09-20 | 2023-01-28 |
-| [Bouhdi](https://open.spotify.com/track/2NRaSmTlbNmwYYDsDMlgYR) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 3:07 | 2022-10-04 |  |
+| [Bouhdi](https://open.spotify.com/track/2NRaSmTlbNmwYYDsDMlgYR) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 3:07 | 2022-10-04 | 2023-06-07 |
 | [Breathe](https://open.spotify.com/track/2bvF4YCECIcSSplYinvLfD) | [Fell'g](https://open.spotify.com/artist/2GZ2Ds7aWRKK1sgfZGwhmv) | [Breathe](https://open.spotify.com/album/0QRPtbmSN78AztDmyK10Ij) | 2:26 | 2022-09-20 | 2022-11-16 |
 | [Breaze](https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6) | [Tamer ElDerini](https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW) | [Breaze](https://open.spotify.com/album/3xDxCUg4lEY0bmk84YmGKe) | 5:00 | 2022-09-20 | 2023-02-15 |
 | [Bye](https://open.spotify.com/track/66odrdtPiGyJNXLFvUdY0A) | [Roy YunGod](https://open.spotify.com/artist/0krZz1kM4FvOmrzu0QR3w7) | [Bye](https://open.spotify.com/album/1kBHLeaFo0wYhBydVKDzbJ) | 1:45 | 2022-09-20 | 2022-10-05 |
@@ -44,6 +45,7 @@
 | [Desert Tale](https://open.spotify.com/track/6TdpnCDgeya8E4t6Skc60K) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Desert Tale](https://open.spotify.com/album/4yuwchv1cn57wwMe8hqW7p) | 7:23 | 2022-09-20 | 2022-10-12 |
 | [Dodi and Diana](https://open.spotify.com/track/2qLXPJKlyq3AdL5BfkPLtJ) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Dodi and Diana](https://open.spotify.com/album/5BDRacsQIb2OfWeyoz1mLi) | 2:18 | 2023-03-07 |  |
 | [Dog](https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D) | [Farrah Hanna](https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z) | [Dog](https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg) | 2:51 | 2023-01-17 | 2023-05-10 |
+| [Dream Merchant](https://open.spotify.com/track/12lCB896GPVWOTIAq0JAiY) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Dream Merchant](https://open.spotify.com/album/2C0705Y1tvu30snlIOE1yT) | 2:57 | 2023-06-06 |  |
 | [El 3elba](https://open.spotify.com/track/3HMGWElTSffEE4MAZi8s9l) | [Ma\-Beyn](https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR), [Kamikazem](https://open.spotify.com/artist/0FAbIDfnnY3RRlj97zPj6h), [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [El 3elba](https://open.spotify.com/album/40rnzvnxdna70I5ENxUABY) | 3:29 | 2022-09-20 | 2022-11-09 |
 | [El Donia Beta3ti](https://open.spotify.com/track/0D7avy8sOXIcY4ZDWuHO7R) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El Donia Beta3ti](https://open.spotify.com/album/1DZgnVuOlcIiXskI9HkYMe) | 2:50 | 2022-09-20 | 2022-09-28 |
 | [Enti Wain](https://open.spotify.com/track/6DnxbM3gMaRubNRtZPPEGe) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8), [Farah Ezz](https://open.spotify.com/artist/7uxrmh9NRirDOmHxXGblih) | [Enti Wain](https://open.spotify.com/album/6my5pq16NfKv3xiY2QSbSD) | 3:38 | 2022-09-20 | 2023-01-18 |
@@ -171,6 +173,7 @@
 | [Uncovered](https://open.spotify.com/track/59aIHEHhiwvnlGCmwumfgH) | [Abdu B](https://open.spotify.com/artist/0ZOnIEMRVWqPDuqzJTkGbE) | [Uncovered](https://open.spotify.com/album/66ZJVQmOhlQAcF7yUDLtXg) | 2:32 | 2023-02-14 |  |
 | [waht if\_6](https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [waht if\_6](https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf) | 1:31 | 2023-04-05 |  |
 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 | 2023-04-26 |  |
+| [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-06 |  |
 | [What I Mean](https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [What I Mean](https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY) | 2:49 | 2022-11-08 | 2023-04-05 |
 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 | 2022-09-20 | 2022-09-28 |
 | [Words](https://open.spotify.com/track/675Tylxj87tk6TGGubnmT4) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Words](https://open.spotify.com/album/3qUeC7YPgYsC38OjSkZ7vK) | 6:37 | 2022-09-20 | 2022-10-26 |

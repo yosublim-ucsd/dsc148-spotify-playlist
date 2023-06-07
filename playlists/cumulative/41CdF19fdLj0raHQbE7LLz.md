@@ -4,7 +4,7 @@
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-129 songs - 11 hr 40 min
+131 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bodysnatcher](https://open.spotify.com/track/2ReU1R4wUEhCnrL8Q6Nf8a) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Badlands](https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD) | 3:51 | 2023-03-31 |  |
 | [Break the Mold](https://open.spotify.com/track/2NBBcHcrfVecd78wNFV2pG) | [Atroxx](https://open.spotify.com/artist/5xUFaih4LPL1He9jDdvqTw) | [Burning Whispers](https://open.spotify.com/album/5AEhATPqFhtI5CTxHyJswQ) | 4:03 | 2023-04-23 |  |
 | [Bring It On Down](https://open.spotify.com/track/42BajmF7S541Gl8eUELqKl) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Bring It On Down](https://open.spotify.com/album/07zJQUXucc05agVKLqhcNE) | 7:12 | 2022-11-25 |  |
+| [Bring Me Fire](https://open.spotify.com/track/2aaS2SpqTrtdTguznntB6x) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT), [Lisa Rudy](https://open.spotify.com/artist/3CNoq7hRz6A1jYRPulgxLt) | [Bring Me Fire EP](https://open.spotify.com/album/6NKHZlMaaSlR8ToHZSGS4K) | 4:35 | 2023-06-06 |  |
 | [Burning Whispers](https://open.spotify.com/track/3KrmBnh1wp6U0lgBEdB8Cb) | [Atroxx](https://open.spotify.com/artist/5xUFaih4LPL1He9jDdvqTw) | [Burning Whispers](https://open.spotify.com/album/5AEhATPqFhtI5CTxHyJswQ) | 4:09 | 2023-04-23 |  |
 | [Carnival of Souls \- Push Remix](https://open.spotify.com/track/4tdBYLQOTA9FzRhASJ7Skg) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT), [Push](https://open.spotify.com/artist/55Os8XqAryj0AfK6zjkCbx) | [Respekt Reworks, Vol\. 1](https://open.spotify.com/album/6iv34cW6L7o0XoKHEcheGs) | 3:29 | 2021-11-26 | 2023-04-24 |
 | [Catalepsia](https://open.spotify.com/track/59AJFyxHGuBq4KTaEJDRV3) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX) | [Catalepsia](https://open.spotify.com/album/3uCvxpEmhWNH2XNdF7IZMW) | 6:50 | 2022-04-18 |  |
@@ -123,6 +124,7 @@
 | [The Message](https://open.spotify.com/track/2J1BIrTZbRtDcivhqQIx5S) | [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Premonition](https://open.spotify.com/album/7xovWTrsRTgPzdMfgTzcOa) | 4:18 | 2023-03-09 |  |
 | [The Reason](https://open.spotify.com/track/3ILoKaswj3CFSD9ZlZDwkY) | [Kos:mo](https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr) | [The Reason](https://open.spotify.com/album/58D5Bo0B2JnaxFwBfyCA9Y) | 4:42 | 2022-11-25 |  |
 | [The Second Law of Thermodynamics](https://open.spotify.com/track/6RLQjhD5qpNkFbh3zd7KyK) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Vision of Thermodynamics, Pt\. 2](https://open.spotify.com/album/3XxDvy4NvoAEjaPKMXi3Lo) | 6:20 | 2022-02-03 | 2023-04-24 |
+| [The Unseen Path](https://open.spotify.com/track/2DcrucFg2LOT03osZQ2rkX) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Bring Me Fire EP](https://open.spotify.com/album/6NKHZlMaaSlR8ToHZSGS4K) | 3:41 | 2023-06-06 |  |
 | [Theory](https://open.spotify.com/track/4Kne6XbzVm5NjYITX3FFXt) | [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Bad Tape](https://open.spotify.com/album/0siYQE9kJjKBzcppeLKvqv) | 6:36 | 2022-02-03 | 2023-04-24 |
 | [This Trip](https://open.spotify.com/track/0FzYBZ6Pn6lZe0Sh1F8tES) | [Gary Burrows](https://open.spotify.com/artist/7g4gebdPslleCHko2QBpW3) | [One Of Us](https://open.spotify.com/album/20hmRGmvMiuPTsxvTcyV0e) | 6:01 | 2023-03-09 |  |
 | [Thorium \- Rebel Boy Remix](https://open.spotify.com/track/1fRNJGkTe8ynSXgKtaqPjD) | [A.S.H](https://open.spotify.com/artist/2ES9p7AUwZWCR0xfGsCKTC), [Rebel Boy](https://open.spotify.com/artist/3pY489HHP3Em5RAy63Vmf9) | [Respekt Reworks Vol.2](https://open.spotify.com/album/3Rq3N3SFhlSRMcFbfa0kVg) | 4:31 | 2022-03-19 | 2023-04-24 |

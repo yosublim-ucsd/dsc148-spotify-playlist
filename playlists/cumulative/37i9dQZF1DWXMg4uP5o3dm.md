@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: NOISY
 
-250 songs - 13 hr 11 min
+251 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Devil](https://open.spotify.com/track/1xKqbhFvRsZsSJa68zwN8a) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 2:40 | 2022-10-14 |  |
 | [Devil](https://open.spotify.com/track/4zvRdQWreRSHm8siX9cvzO) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Devil](https://open.spotify.com/album/6YqhEb5DxHRuzW2slbnNay) | 2:40 | 2021-07-23 | 2022-10-13 |
 | [Did It To Myself \(feat\. Lights\)](https://open.spotify.com/track/5Ye012XK2vXqZyyihlqWHy) | [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Did It To Myself \(feat\. Lights\)](https://open.spotify.com/album/66malf4KPHZOEcdmCwAVr7) | 3:09 | 2021-07-02 | 2022-07-28 |
-| [Die For A Night](https://open.spotify.com/track/5by79t0saDZCGImchg8oSY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Die For A Night](https://open.spotify.com/album/67aoFiHyWWl1N15nMxbQoP) | 3:15 | 2023-04-28 |  |
+| [Die For A Night](https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:15 | 2023-04-28 |  |
+| [Die For A Night](https://open.spotify.com/track/5by79t0saDZCGImchg8oSY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Die For A Night](https://open.spotify.com/album/67aoFiHyWWl1N15nMxbQoP) | 3:15 | 2023-04-28 | 2023-06-07 |
 | [DIE4MYBITCH](https://open.spotify.com/track/1IvwVTbMP2SlolQEV2kbrc) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [DIE4MYBITCH](https://open.spotify.com/album/1WJz78bBh6rU9L3KYkWmVV) | 2:48 | 2022-10-14 | 2022-12-04 |
 | [Dirty Little Animals \(From the series Arcane League of Legends\)](https://open.spotify.com/track/2ZuDGsKSJpQdJmpknJ7ypF) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Dirty Little Animals \(From the series Arcane League of Legends\)](https://open.spotify.com/album/2OGZHtCzPL6uk1kEPvFqIC) | 3:25 | 2021-12-07 | 2022-10-15 |
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2021-06-25 |  |

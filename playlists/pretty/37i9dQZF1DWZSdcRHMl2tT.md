@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,846 likes - 240 songs - 11 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,961 likes - 240 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 239 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 |
 | 240 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 |
 
-Snapshot ID: `MCwzMmFmODcyMjExNGY5ZGJjYzFiOGE5Mjc3NDc2NmZlNjFjOGZkZjc4`
+Snapshot ID: `MCxkMjZhNDc0Y2IwY2E4Yjc4NTU1YTAxMmY0MWM4MDU5MTYyYjVmYjU1`

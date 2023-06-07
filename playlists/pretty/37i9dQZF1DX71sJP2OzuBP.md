@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,906 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,912 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 62 | [眼淚記得你 \- 電影《想見你》主題曲](https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [眼淚記得你](https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg) | 4:04 |
 | 63 | [斷捨離](https://open.spotify.com/track/3SGelhCWnm8CU2y18TwEgp) | [施語庭](https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql) | [斷捨離](https://open.spotify.com/album/3qE0In8H2JhWbS59UsYVws) | 3:49 |
 | 64 | [Room For Two](https://open.spotify.com/track/2T7RvLmznqgV8WneaoW4EZ) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT), [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [Room For Two](https://open.spotify.com/album/4inR4ojKMWTFd5APWMriZO) | 3:30 |
-| 65 | [即使這個世界令人絕望 Silver Lining](https://open.spotify.com/track/63lhU8p2u5ZtzvLRWjAyQt) | [侑彤](https://open.spotify.com/artist/2vlL7Et8yZ8O39P0On7cbH) | [即使這個世界令人絕望 Silver Lining](https://open.spotify.com/album/5MysFAKmMxd05UGm5fMoxs) | 5:07 |
+| 65 | [即使這個世界令人絕望](https://open.spotify.com/track/63lhU8p2u5ZtzvLRWjAyQt) | [侑彤](https://open.spotify.com/artist/2vlL7Et8yZ8O39P0On7cbH) | [即使這個世界令人絕望](https://open.spotify.com/album/5MysFAKmMxd05UGm5fMoxs) | 5:07 |
 | 66 | [漾](https://open.spotify.com/track/4wZWU7YnEhj3ldeU75mhLk) | [沈默紳士](https://open.spotify.com/artist/0GV5nHc17AGtGu5Z0dG2hi) | [漾](https://open.spotify.com/album/78RU0omUbDt1bO2XAgFXPT) | 3:15 |
 | 67 | [春雨](https://open.spotify.com/track/3JBDi7NK5LIcK51hXW0gas) | [晨昏星 Morning Dusk Stars](https://open.spotify.com/artist/0L7Hbd9lDbbsJZ69DDf4Ma) | [春雨](https://open.spotify.com/album/1ZwHIELvZvKIC1EujpuoOI) | 4:06 |
 | 68 | [Let Me Tell You](https://open.spotify.com/track/2jTrgeZe6B8Fbx52ECTc7x) | [NEOSO](https://open.spotify.com/artist/7zAyW4IBReORwCaBXxQfNd) | [Let Me Tell You](https://open.spotify.com/album/7E2CZqo3O0RVeKK1gm7Lld) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [一絲不掛的憂傷](https://open.spotify.com/track/4khI7S1H8NPFTuh7jYk7eu) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [一絲不掛的憂傷](https://open.spotify.com/album/6k2QnyKj24x5BHGuiTMl45) | 3:38 |
 | 100 | [預感](https://open.spotify.com/track/7cd9FUyybSJX1gQ9ElPi2g) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 4:50 |
 
-Snapshot ID: `MCw0NWVkZmFlNTIyMjM5M2YxMzg1MzgwOGJmMzc0NWNlYmE0M2VlMWJh`
+Snapshot ID: `MCwxYzIzMmVjMDI5NDYxZDY3YTFmYmUzNWU4NWQzMGMxOWFjOGM5ZDQ5`

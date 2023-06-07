@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,834 likes - 49 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,911 likes - 49 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 14 | [I'll Just Say Yes \- Live](https://open.spotify.com/track/74pDUf3R1hfRTED2ZzZHUZ) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Worth Fighting For \(Deluxe Edition/Live\)](https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe) | 6:59 |
 | 15 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
 | 16 | [That's What I Believe](https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 5:20 |
-| 17 | [Total Praise \(with Vision\) \- Live](https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Adoration](https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp) | 4:59 |
-| 18 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
+| 17 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
+| 18 | [Total Praise \(with Vision\) \- Live](https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Adoration](https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp) | 4:59 |
 | 19 | [In Spite Of Me \- Live](https://open.spotify.com/track/5JTcaitH5HSzkqFG4nX7Dk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 8:26 |
 | 20 | [Brighter Day \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 5:40 |
 | 21 | [Miracle Worker \(feat\. Rich Tolbert Jr.\) \- Live](https://open.spotify.com/track/5ygojrfeLjr7BHp6nGh0XS) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 6:42 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 42 | [He Is](https://open.spotify.com/track/7qFOUqL4zWEXKSTzV1VMjr) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT) | 4:47 |
 | 43 | [Yahweh / Yeshua Hamashiach](https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX) | [Yahweh / Yeshua Hamashiach](https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA) | 5:45 |
 | 44 | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \- Live](https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \[Live\]](https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO) | 7:02 |
-| 45 | [Celebrate \- Live](https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:03 |
+| 45 | [He'll Take The Pain Away](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 |
 | 46 | [Ooh Wee Another Blessing](https://open.spotify.com/track/4qO2k0Q82nLpluVLwGJJNc) | [Melvin Williams](https://open.spotify.com/artist/55ahFTOpj1ZVL4upoNwOqm) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 4:13 |
-| 47 | [He'll Take The Pain Away](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 |
+| 47 | [Celebrate \- Live](https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:03 |
 | 48 | [Intentional \- Live](https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Setlist Vol\. 1 \(Live\)](https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII) | 5:38 |
 | 49 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 |
 
-Snapshot ID: `MCwzODU1ZDFlNTQ3ZDhkY2RlMWJjYWE2Y2NhYjJkN2I5OTBmZGIxYjk1`
+Snapshot ID: `MCwwZDY5NTcxYTRiOWJkMDJmNjk0YjA3M2I1ZmVlOTVhMWM4OWM2MWFm`

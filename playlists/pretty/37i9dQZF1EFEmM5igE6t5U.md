@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pQsRlWDNRHgPuNgb8hmgF">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 180 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 373 likes - 180 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 67 | [Unbreakable \- Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY \- July 2005](https://open.spotify.com/track/2DRcaAO76feWOoWCWP1cPp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Unplugged](https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg) | 4:34 |
 | 68 | [Hope](https://open.spotify.com/track/2eEKqNtBGrE30fnVt52CtS) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 2:58 |
 | 69 | [She Don't Really Care\_1 Luv](https://open.spotify.com/track/1RFYQnLeiY60S8XqSPGcp7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 6:07 |
-| 70 | [How It Feels to Fly](https://open.spotify.com/track/7ahSkRJouFINMWokIywAwG) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:42 |
-| 71 | [You Save Me \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/4vXSx9EFAd81zyACNmMIsA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:41 |
+| 70 | [You Save Me \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/4vXSx9EFAd81zyACNmMIsA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:41 |
+| 71 | [How It Feels to Fly](https://open.spotify.com/track/7ahSkRJouFINMWokIywAwG) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:42 |
 | 72 | [The Gospel](https://open.spotify.com/track/4ZmZpbcmJUVBgETosOn0sK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 3:01 |
 | 73 | [Like the Sea](https://open.spotify.com/track/3fnpMcMbhrep8wMIjKsNVS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:13 |
 | 74 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 96 | [Piano & I](https://open.spotify.com/track/3QEOzzBVrTxMtgVn2ISNgE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 1:51 |
 | 97 | [Rock wit U](https://open.spotify.com/track/3G1mHhhfk7nGKzpKinIVfk) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 5:36 |
 | 98 | [Underdog \(Nicky Jam & Rauw Alejandro Remix\)](https://open.spotify.com/track/7xaZEMkGsrqrME6vWQzHGq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Nicky Jam & Rauw Alejandro Remix\)](https://open.spotify.com/album/6aof4WPnlXmqfL1MVt2cI2) | 3:25 |
-| 99 | [Dragon Days](https://open.spotify.com/track/7q4ElMUqO1sqqdrIvQ6HEY) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:36 |
-| 100 | [Trillions \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [KEYS II](https://open.spotify.com/album/4z4IDBBvwAl3SyUOorj5M0) | 2:53 |
+| 99 | [Trillions \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [KEYS II](https://open.spotify.com/album/4z4IDBBvwAl3SyUOorj5M0) | 2:53 |
+| 100 | [Dragon Days](https://open.spotify.com/track/7q4ElMUqO1sqqdrIvQ6HEY) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:36 |
 | 101 | [Jane Doe](https://open.spotify.com/track/2GAaGPdruK38sZ4VphDd3j) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:48 |
 | 102 | [Why Do I Feel so Sad](https://open.spotify.com/track/1sfU9JyyzGBiByxyv6g8ef) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:25 |
 | 103 | [Old Memories \(Originals\)](https://open.spotify.com/track/0Rq2JIejWvQ6ibgWBSTcpu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 2:59 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 179 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 |
 | 180 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `MjgxMDAzMDAsMDAwMDAwMDBkZjg2ZWNjZWMwOWJmZDhlZDY2ZGNiNGI1ODE2YzRiYw==`
+Snapshot ID: `MjgxMDE3NDAsMDAwMDAwMDA1NmVhMTU4NjA5MmM2M2JlYTQ5Y2VkMjFkN2Q3NGIwYg==`

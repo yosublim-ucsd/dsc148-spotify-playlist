@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 638987,
+  "num_followers": 639320,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDc4ODMwM2Q5ZGI2MzVlMTQ3ZmJjNzc4ZGQwNDE1MDY2YTVmYzk4",
+  "snapshot_id": "MCwwMzIwZTkwMjk1ZjBkMWQ2YzAyNmY5MzQ1YWZjZTM4N2M0OTQzMWI1",
   "tracks": [
     {
       "added_at": "2023-05-22 17:44:46",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "Copas",
-        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 237388,
-      "name": "Copas",
-      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe"
       },
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
+        "name": "Copas",
+        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 237388,
+      "name": "Copas",
+      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "Dime Cuantas Veces",
-        "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 213959,
-      "name": "Dime Cuantas Veces",
-      "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
         "name": "7 L\u00e1grimas (Remix)",
         "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 202894,
       "name": "7 L\u00e1grimas - Remix",
       "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
+        "name": "Dime Cuantas Veces",
+        "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 213959,
+      "name": "Dime Cuantas Veces",
+      "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "Xexo",
-        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Xexo",
-      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
         "name": "The Sensation",
         "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
       },
@@ -1783,6 +1767,22 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
+        "name": "Xexo",
+        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Xexo",
+      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
         "name": "Mi Debilidad",
         "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
       },
@@ -1795,22 +1795,6 @@
       "duration_ms": 165957,
       "name": "Mi Debilidad",
       "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
-        "name": "Fing\u00edas",
-        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Fing\u00edas",
-      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -1839,6 +1823,22 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
+        "name": "Fing\u00edas",
+        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Fing\u00edas",
+      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
         "name": "Otra Noche Sin Ti",
         "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
@@ -1855,26 +1855,6 @@
       "duration_ms": 228920,
       "name": "Otra Noche Sin Ti",
       "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 195769,
-      "name": "COSITAS",
-      "url": "https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -1899,6 +1879,26 @@
       "duration_ms": 171832,
       "name": "A Mi Tambi\u00e9n ft. Alvaro Diaz, Feid",
       "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 195769,
+      "name": "COSITAS",
+      "url": "https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH"
     },
     {
       "added_at": "2023-05-22 17:44:46",

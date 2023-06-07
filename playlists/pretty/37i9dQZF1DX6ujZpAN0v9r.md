@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. my bloody valentine on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,424 likes - 143 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,799 likes - 143 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 20 | [Star Roving](https://open.spotify.com/track/7nq6qpHhCJ3pNOa3KHi8fe) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 5:38 |
 | 21 | [Tugboat](https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 3:56 |
 | 22 | [Taker](https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:28 |
-| 23 | [Dark Spring](https://open.spotify.com/track/4FskS1jBEsv5hPC0VJgqmm) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 3:24 |
+| 23 | [Gauze](https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 4:57 |
 | 24 | [Off Your Face](https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Glider](https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ) | 4:15 |
-| 25 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
-| 26 | [Gauze](https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 4:57 |
+| 25 | [Dark Spring](https://open.spotify.com/track/4FskS1jBEsv5hPC0VJgqmm) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 3:24 |
+| 26 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
 | 27 | [Leave Them All Behind \- 2001 Remaster](https://open.spotify.com/track/0t4JQeO8qLKzQFcXuTitgk) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Going Blank Again \(Expanded\)](https://open.spotify.com/album/5l70cCHX1QzN680J68rblF) | 8:17 |
 | 28 | [Souvlaki Space Station](https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 5:57 |
 | 29 | [Soon](https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 6:58 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 40 | [Souvenirs d'un autre monde](https://open.spotify.com/track/1eD8fNbyfyXWrTLokilmEM) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Souvenirs d'un autre monde](https://open.spotify.com/album/1zQQoViMwTIXwmidyqTXdF) | 6:08 |
 | 41 | [Skin Game](https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:25 |
 | 42 | [What Lies Beneath](https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Departure](https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf) | 3:53 |
-| 43 | [Not Too Soon](https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h) | 3:10 |
-| 44 | [Farewell](https://open.spotify.com/track/1zcV54IyIHMrIDhTytt3b2) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Pink](https://open.spotify.com/album/0L7mC9kTa31p3cEaFwHIgD) | 7:33 |
+| 43 | [Farewell](https://open.spotify.com/track/1zcV54IyIHMrIDhTytt3b2) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Pink](https://open.spotify.com/album/0L7mC9kTa31p3cEaFwHIgD) | 7:33 |
+| 44 | [Not Too Soon](https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h) | 3:10 |
 | 45 | [Pancake](https://open.spotify.com/track/00YCRrySf0dJ6nRCKYSAkA) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 3:15 |
 | 46 | [One](https://open.spotify.com/track/3TY2qqZZhGdk7BciNr5sS5) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Mild Orange](https://open.spotify.com/album/21ttBqlfgrFZCmIL7xVT3Y) | 4:11 |
 | 47 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 67 | [May](https://open.spotify.com/track/3hVlV66Z3PfvXwIYOTeZdi) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Encounters](https://open.spotify.com/album/0xeUhrPDwkyFJzOAADD6Bf) | 3:40 |
 | 68 | [On My Own \- 2019 remaster](https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [A Strangely Isolated Place](https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9) | 6:39 |
 | 69 | [Into the Waves](https://open.spotify.com/track/1KnNbJ2Btm3AgpGQDy9utV) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/3qIcbxymPhXoA1wOR98cLP) | 6:30 |
-| 70 | [Everybody Knows](https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:18 |
-| 71 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 4:09 |
+| 70 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 4:09 |
+| 71 | [Everybody Knows](https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:18 |
 | 72 | [Taste of Cindy](https://open.spotify.com/track/7hyvnzr9Vba4tlvIs9ZHlg) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 1:42 |
 | 73 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 |
 | 74 | [Everlastingly Yours](https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 4:29 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 79 | [Guilt](https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:13 |
 | 80 | [Blue Line Baby](https://open.spotify.com/track/24pzZtbPLW1bv6IF8WHl5U) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Blue Line Baby](https://open.spotify.com/album/7kHUFjQmaulpVgXQWTQFmj) | 4:30 |
 | 81 | [Lemonade Beauty](https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Auras](https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq) | 4:08 |
-| 82 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
-| 83 | [Surrender](https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH) | [Leave the Planet](https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk) | [Nowhere](https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo) | 3:39 |
+| 82 | [Surrender](https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH) | [Leave the Planet](https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk) | [Nowhere](https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo) | 3:39 |
+| 83 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
 | 84 | [Mercy Seat](https://open.spotify.com/track/5OY9UsxOhXpCqhAbI5csui) | [Ultra Vivid Scene](https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH) | [Ultra Vivid Scene](https://open.spotify.com/album/7LTgeT90u75BlVhweJAC5f) | 4:09 |
 | 85 | [Dark Star](https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0) | [the sleepover disaster](https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk) | [Hover](https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20) | 4:57 |
 | 86 | [Elizabeth Colour Wheel](https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl) | [Lilys](https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj) | [In the Presence of Nothing](https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP) | 6:58 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 98 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
 | 99 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 |
 | 100 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 |
-| 101 | [Lip](https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Mouth By Mouth](https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs) | 2:59 |
-| 102 | [Polyfusion](https://open.spotify.com/track/6NHnq8hdSCeWALDPWJURjh) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Quique](https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt) | 6:23 |
+| 101 | [Polyfusion](https://open.spotify.com/track/6NHnq8hdSCeWALDPWJURjh) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Quique](https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt) | 6:23 |
+| 102 | [Lip](https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Mouth By Mouth](https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs) | 2:59 |
 | 103 | [Chlorine Dream](https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L) | [Spirea X](https://open.spotify.com/artist/05x3cffNhKts722Xv2WQWb) | [Chlorine Dream](https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1) | 4:24 |
 | 104 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |
 | 105 | [Boyfriend](https://open.spotify.com/track/4TRvZ3a6QTEKbq1CsUePJp) | [Majesty Crush](https://open.spotify.com/artist/0qRadykocaVqX7C4WM8b4t) | [No\. 1 Fan](https://open.spotify.com/album/7plmL8rLmskhVCJ4uXWjXG) | 4:22 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 119 | [Sugar & Spice](https://open.spotify.com/track/1IKTUlEoNtaKAPpXAM62YT) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sugar & Spice](https://open.spotify.com/album/3uyj11Rhm2WDBkJMXdfcor) | 3:08 |
 | 120 | [Regular Disease](https://open.spotify.com/track/4YAQckxDe7qBmoIpjisNNf) | [Blind Mr\. Jones](https://open.spotify.com/artist/1rlDsPo1oKph7bAtq4Pxr9) | [Stereo Musicale](https://open.spotify.com/album/0EFJm468BAgpImJ3yJGQSP) | 4:10 |
 | 121 | [Donuts](https://open.spotify.com/track/5ClerqCRCZ4K7smUKYYg9e) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [KIN](https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd) | 6:23 |
-| 122 | [Telling Tales](https://open.spotify.com/track/3AfZWVkAf2ipi68BMVvfwq) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [Telling Tales](https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg) | 4:12 |
-| 123 | [Record Still Spinning](https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB) | [Fröst](https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE) | [Matters](https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5) | 3:29 |
+| 122 | [Record Still Spinning](https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB) | [Fröst](https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE) | [Matters](https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5) | 3:29 |
+| 123 | [Telling Tales](https://open.spotify.com/track/3AfZWVkAf2ipi68BMVvfwq) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [Telling Tales](https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg) | 4:12 |
 | 124 | [Passing Thing](https://open.spotify.com/track/0nTD0BNGH2tiAMn0A9kaQE) | [Froth](https://open.spotify.com/artist/1KtOqfwCbclwg7bgvsUJ5U) | [Outside \(briefly\)](https://open.spotify.com/album/0YclCtJHjo26eO6NvNdSl7) | 4:51 |
 | 125 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |
 | 126 | [My Dreaming Hill](https://open.spotify.com/track/4xVb769QQHzWlGR9L9Flbl) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/19EG2Pg9TBTTmXsAYmrvsc) | 6:12 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 142 | [Solar Song](https://open.spotify.com/track/02TfEK4pbzgVlrB5mSMTCP) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Écailles de lune](https://open.spotify.com/album/6b9NZDM5QhD2FViyXKwBRT) | 5:24 |
 | 143 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
 
-Snapshot ID: `MCw3ZGMyZjViN2E2ZDhkMGYyZTllMzhlNWQ2NzYyMTJmMDZhZDNlZDA3`
+Snapshot ID: `MCwwZWRmMWZkM2M4NTIxMjgyMWI4Y2MwMjBhYTdjYzY2YzFlNmU4ZTA3`

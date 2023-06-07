@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "ai no hana",
+        "url": "https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240044,
+      "name": "ai no hana",
+      "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -420,6 +438,24 @@
       "duration_ms": 177973,
       "name": "Chopstick",
       "url": "https://open.spotify.com/track/6Yv0xoR37tcxzvey8ybW5l"
+    },
+    {
+      "album": {
+        "name": "Lazy Sunday",
+        "url": "https://open.spotify.com/album/2EqGqT6xIeNpaJJe5yjFr3"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234323,
+      "name": "Cinderella Boy",
+      "url": "https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV"
     },
     {
       "album": {
@@ -813,6 +849,24 @@
     },
     {
       "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257079,
+      "name": "I\u2019m invincible",
+      "url": "https://open.spotify.com/track/7yQnZkAxSiAavC0zFRB1NI"
+    },
+    {
+      "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
@@ -867,6 +921,28 @@
     },
     {
       "album": {
+        "name": "KIMINOMAMA",
+        "url": "https://open.spotify.com/album/1zfEiFINYq6yP3aUROBvQz"
+      },
+      "artists": [
+        {
+          "name": "MUKADE",
+          "url": "https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR"
+        },
+        {
+          "name": "INMAN",
+          "url": "https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177580,
+      "name": "KIMINOMAMA",
+      "url": "https://open.spotify.com/track/4O8Dy9kthy651s3M774S1h"
+    },
+    {
+      "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
       },
@@ -896,7 +972,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
@@ -1157,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Mixed Nuts",
+        "url": "https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213438,
+      "name": "Mixed Nuts",
+      "url": "https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ"
+    },
+    {
+      "album": {
         "name": "READY TO BE",
         "url": "https://open.spotify.com/album/7MSkU2pVl6Z3QxDNMJUn1T"
       },
@@ -1291,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Nagisa",
+        "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226489,
+      "name": "Nagisa",
+      "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
+    },
+    {
+      "album": {
         "name": "strobo",
         "url": "https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY"
       },
@@ -1324,6 +1436,24 @@
       "duration_ms": 203787,
       "name": "napori",
       "url": "https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226813,
+      "name": "New Genesis",
+      "url": "https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca"
     },
     {
       "album": {
@@ -1630,6 +1760,24 @@
       "duration_ms": 204939,
       "name": "Run BTS",
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195688,
+      "name": "S-Class",
+      "url": "https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd"
     },
     {
       "album": {
@@ -1954,10 +2102,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 305509,
       "name": "Subtitle",
       "url": "https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf"
+    },
+    {
+      "album": {
+        "name": "Subtitle",
+        "url": "https://open.spotify.com/album/12sWDwrDnaBl0EagZU4sXV"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305509,
+      "name": "Subtitle",
+      "url": "https://open.spotify.com/track/4zrKPIygugUDKGFEjVwpSB"
     },
     {
       "album": {
@@ -2026,10 +2192,28 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 288099,
       "name": "TATTOO",
       "url": "https://open.spotify.com/track/36jIu8oPR1Z4cguMuHxUXA"
+    },
+    {
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/07hAM6iu7A39wR2zwfaoCL"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288099,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6wffxmLgeZTbvS1hYvLkht"
     },
     {
       "album": {
@@ -2176,6 +2360,24 @@
     {
       "album": {
         "name": "Memories",
+        "url": "https://open.spotify.com/album/1aYWdnbKO3asqDUruOl2cY"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278118,
+      "name": "W / X / Y",
+      "url": "https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP"
+    },
+    {
+      "album": {
+        "name": "Memories",
         "url": "https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5"
       },
       "artists": [
@@ -2186,7 +2388,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 278118,
       "name": "W / X / Y",
       "url": "https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49"
@@ -2226,6 +2428,24 @@
       "duration_ms": 223186,
       "name": "Walking with you",
       "url": "https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd"
+    },
+    {
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254838,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
     },
     {
       "album": {
@@ -3084,7 +3304,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 234323,
       "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
@@ -3200,7 +3420,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 184766,
       "name": "\u30c8\u30a6\u30ad\u30e7\u30a6\u30fb\u30b7\u30e3\u30f3\u30c7\u30a3\u30fb\u30e9\u30f3\u30c7\u30f4",
       "url": "https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW"
@@ -3470,7 +3690,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 254838,
       "name": "\u30db\u30ef\u30a4\u30c8\u30ce\u30a4\u30ba",
       "url": "https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo"
@@ -3506,7 +3726,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 213438,
       "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
       "url": "https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ"
@@ -3954,7 +4174,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 177580,
       "name": "\u541b\u306e\u307e\u307e",
       "url": "https://open.spotify.com/track/78NUnAsLzE6azxvuPDy9M7"
@@ -4260,7 +4480,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 240044,
       "name": "\u611b\u306e\u82b1",
       "url": "https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3"
@@ -4314,7 +4534,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 226813,
       "name": "\u65b0\u6642\u4ee3",
       "url": "https://open.spotify.com/track/28MATCYDctW5EiBa2repxb"
@@ -4718,7 +4938,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 257079,
       "name": "\u79c1\u306f\u6700\u5f37",
       "url": "https://open.spotify.com/track/5YQNjKZofFhlBCIzTVY6rW"

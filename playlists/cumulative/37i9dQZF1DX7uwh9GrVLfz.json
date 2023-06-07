@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Su\u51f8ko D\u51f9koi",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u677f\u6b6f\u76ee (BANSHIMOKU)",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -1142,6 +1142,24 @@
       "duration_ms": 203620,
       "name": "CHANGES",
       "url": "https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3"
+    },
+    {
+      "album": {
+        "name": "BOKU NO TOMODACHI",
+        "url": "https://open.spotify.com/album/4zIgoJjoWvHhoz35xlfnrX"
+      },
+      "artists": [
+        {
+          "name": "Desert Of Tomorrow",
+          "url": "https://open.spotify.com/artist/3Ruxig4cBSpuiElh8EtZvt"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261962,
+      "name": "CHILD WARNING",
+      "url": "https://open.spotify.com/track/5ZhBFLj6OxuqHrAve6hXMK"
     },
     {
       "album": {
@@ -5130,7 +5148,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 275866,
       "name": "SAKURA",
       "url": "https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe"
@@ -5714,6 +5732,24 @@
       "duration_ms": 159880,
       "name": "Soundtrack",
       "url": "https://open.spotify.com/track/5JAVgsqh3TQDFWdPOgy3qe"
+    },
+    {
+      "album": {
+        "name": "SPANKY ALIEN",
+        "url": "https://open.spotify.com/album/4GmCJFE6FVDsPzt56f6hzG"
+      },
+      "artists": [
+        {
+          "name": "\u677f\u6b6f\u76ee",
+          "url": "https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215201,
+      "name": "SPANKY ALIEN",
+      "url": "https://open.spotify.com/track/6mVkWvOcJbXAAWxM7mfCBS"
     },
     {
       "album": {
@@ -7336,7 +7372,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 182480,
       "name": "ZINNIA",
       "url": "https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh"

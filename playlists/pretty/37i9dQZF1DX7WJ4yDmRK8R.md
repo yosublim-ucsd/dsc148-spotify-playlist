@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,763 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,895 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 28 | [Pressure Drop](https://open.spotify.com/track/2EISedV2npKMtvygkykV2r) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Sweet and Dandy](https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s) | 2:56 |
 | 29 | [The Rascal King](https://open.spotify.com/track/13BRH2RILNifFRNTXbLUka) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 2:46 |
 | 30 | [Everything Went Numb](https://open.spotify.com/track/0TZ1MAPCWb2jpaKzS5Muyz) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Everything Goes Numb](https://open.spotify.com/album/5slTcrsJ9B8Q4q8rA135XE) | 3:29 |
-| 31 | [Johnny Quest Thinks We're Sellouts](https://open.spotify.com/track/3Sl62Dyoh3wI3gLIJSypnb) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Losing Streak](https://open.spotify.com/album/5cpnq6VX4FCWQJpm2tA8np) | 2:49 |
-| 32 | [In The Mirror](https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:04 |
+| 31 | [In The Mirror](https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:04 |
+| 32 | [Johnny Quest Thinks We're Sellouts](https://open.spotify.com/track/3Sl62Dyoh3wI3gLIJSypnb) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Losing Streak](https://open.spotify.com/album/5cpnq6VX4FCWQJpm2tA8np) | 2:49 |
 | 33 | [Middle Finger](https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Middle Finger](https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH) | 3:26 |
 | 34 | [Monkey Man \- 2015 Remaster](https://open.spotify.com/track/04BXsortkjpUxf1sOtLRXE) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:45 |
 | 35 | [9mm And A Three Piece Suit](https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 1:56 |
-| 36 | [Rock Fort Rock](https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 7:00 |
+| 36 | [Title Holder](https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
 | 37 | [We Will Fall Together](https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Somewhere in the Between](https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg) | 4:49 |
-| 38 | [Where'd You Go](https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [More Noise And Other Disturbances](https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO) | 3:26 |
-| 39 | [Title Holder](https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
-| 40 | [Mr\. Smiley](https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude \(2010 Re\-Issue\)](https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b) | 2:46 |
-| 41 | [Silence Is Golden But Duct Tape Is Silver](https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 3:46 |
-| 42 | [Super Rad!](https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Fury of the Aquabats!](https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM) | 3:02 |
+| 38 | [Rock Fort Rock](https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 7:00 |
+| 39 | [Mr\. Smiley](https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude \(2010 Re\-Issue\)](https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b) | 2:46 |
+| 40 | [Super Rad!](https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Fury of the Aquabats!](https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM) | 3:02 |
+| 41 | [Where'd You Go](https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [More Noise And Other Disturbances](https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO) | 3:26 |
+| 42 | [Silence Is Golden But Duct Tape Is Silver](https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 3:46 |
 | 43 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
 | 44 | [Wallflower](https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Never Look Back](https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6) | 2:23 |
 | 45 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 53 | [One Step Beyond](https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Ska and Rocksteady Collection, Vol\. 1](https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4) | 2:39 |
 | 54 | [All in Stride](https://open.spotify.com/track/49sLiyg8IcSEmtucGbSVdO) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7), [Passafire](https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ) | [Beast From The East](https://open.spotify.com/album/6qbGXpKlWDMpvFlTmbmyOh) | 4:08 |
 | 55 | [Free Time](https://open.spotify.com/track/19FG153t1MdozcTZHi8guM) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Reggae Hit L.A.](https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob) | 3:01 |
-| 56 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 |
-| 57 | [The World Is New](https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 2:11 |
-| 58 | [180 Degrees](https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:10 |
-| 59 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
+| 56 | [The World Is New](https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 2:11 |
+| 57 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 |
+| 58 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
+| 59 | [180 Degrees](https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:10 |
 | 60 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 |
 | 61 | [Unstoppable](https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Unstoppable](https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS) | 3:08 |
 | 62 | [On & On & On](https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [The Tears of a Clown](https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:40 |
 | 100 | [Stupid](https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU) | [Just Friends](https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa) | [Stupid](https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c) | 3:13 |
 
-Snapshot ID: `MCxmODVhNzAzOWE3NGUzOGNhMmQ0NTg3ZTQ0M2UzMGJjZjhmZjZhMTYx`
+Snapshot ID: `MCwwZWYyYjQ0YWVjOTI5NWJkMzIwNDc0NmZhZTk4N2ViMmNhYjg0YWMz`

@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Enjambre en portada.",
-  "num_followers": 488855,
+  "num_followers": 489054,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWZiNDI2MDkwYmZmMzQ0YTZhZTdiZDMxMDQ3ZGI0ZjU3NDM4Mzhl",
+  "snapshot_id": "MCwyODcwOGJhZDJmZWEyYmNhMDJkZDk5ZmQ5ZTZlNzFiMGYwNTk3Mjky",
   "tracks": [
     {
       "added_at": "2022-01-28 17:39:37",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Maldita Vecindad y los Hijos del Quinto Patio",
-        "url": "https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 305213,
-      "name": "Morenaza",
-      "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Reptilectric",
         "url": "https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 232288,
       "name": "Reptilectric",
       "url": "https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Maldita Vecindad y los Hijos del Quinto Patio",
+        "url": "https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 305213,
+      "name": "Morenaza",
+      "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Zo\u00e9",
-        "url": "https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 329573,
-      "name": "Deja Te Conecto",
-      "url": "https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 248939,
       "name": "Bestia",
       "url": "https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Zo\u00e9",
+        "url": "https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 329573,
+      "name": "Deja Te Conecto",
+      "url": "https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ"
     },
     {
       "added_at": "2022-01-28 17:39:37",

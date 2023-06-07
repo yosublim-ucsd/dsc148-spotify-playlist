@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 347677,
+  "num_followers": 347760,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjEyMjZlYWJhYWYxMmI0YTljNzZmMGY3NjgwMWIwZGRkOWVhYmE5",
+  "snapshot_id": "MCw4ZTU2MTgwYzQ2ZTY0ZDlmMDgxOWU0ZDUwODdkOTgzNGViYTU1MWEz",
   "tracks": [
     {
       "added_at": "2023-05-31 15:06:49",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-05-31 15:06:49",
       "album": {
-        "name": "Jam On Revenge",
-        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
-      },
-      "artists": [
-        {
-          "name": "Newcleus",
-          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
-        }
-      ],
-      "duration_ms": 383600,
-      "name": "Jam On It",
-      "url": "https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L"
-    },
-    {
-      "added_at": "2023-05-31 15:06:49",
-      "album": {
         "name": "Long Live The Kane",
         "url": "https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z"
       },
@@ -375,22 +359,34 @@
     {
       "added_at": "2023-05-31 15:06:49",
       "album": {
-        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
-        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
+        "name": "Jam On Revenge",
+        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
       },
       "artists": [
         {
-          "name": "Grandmaster Flash",
-          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
-        },
-        {
-          "name": "Grandmaster Melle Mel",
-          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
+          "name": "Newcleus",
+          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
         }
       ],
-      "duration_ms": 269666,
-      "name": "White Lines (Don't Do It)",
-      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
+      "duration_ms": 383600,
+      "name": "Jam On It",
+      "url": "https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L"
+    },
+    {
+      "added_at": "2023-05-31 15:06:49",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 302666,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
     },
     {
       "added_at": "2023-05-31 15:06:49",
@@ -411,18 +407,22 @@
     {
       "added_at": "2023-05-31 15:06:49",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
+        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "Grandmaster Flash",
+          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
+        },
+        {
+          "name": "Grandmaster Melle Mel",
+          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
         }
       ],
-      "duration_ms": 302666,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
+      "duration_ms": 269666,
+      "name": "White Lines (Don't Do It)",
+      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
     },
     {
       "added_at": "2023-05-31 15:06:49",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-31 15:06:49",
       "album": {
-        "name": "8th Wonder",
-        "url": "https://open.spotify.com/album/530KKhZLtHwDtz3BeJqWSJ"
-      },
-      "artists": [
-        {
-          "name": "The Sugarhill Gang",
-          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
-        }
-      ],
-      "duration_ms": 373293,
-      "name": "Apache",
-      "url": "https://open.spotify.com/track/4UCkX8nrBlpxjrrEqtb46a"
-    },
-    {
-      "added_at": "2023-05-31 15:06:49",
-      "album": {
         "name": "It's A Big Daddy Thing",
         "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
       },
@@ -543,34 +527,18 @@
     {
       "added_at": "2023-05-31 15:06:49",
       "album": {
-        "name": "Rhyme Pays",
-        "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
+        "name": "8th Wonder",
+        "url": "https://open.spotify.com/album/530KKhZLtHwDtz3BeJqWSJ"
       },
       "artists": [
         {
-          "name": "ICE-T",
-          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
+          "name": "The Sugarhill Gang",
+          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
         }
       ],
-      "duration_ms": 224866,
-      "name": "6 'N the Mornin'",
-      "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
-    },
-    {
-      "added_at": "2023-05-31 15:06:49",
-      "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
+      "duration_ms": 373293,
+      "name": "Apache",
+      "url": "https://open.spotify.com/track/4UCkX8nrBlpxjrrEqtb46a"
     },
     {
       "added_at": "2023-05-31 15:06:49",
@@ -591,6 +559,22 @@
     {
       "added_at": "2023-05-31 15:06:49",
       "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
+    },
+    {
+      "added_at": "2023-05-31 15:06:49",
+      "album": {
         "name": "King Of Rock (Expanded Edition)",
         "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 314146,
       "name": "King of Rock",
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2023-05-31 15:06:49",
+      "album": {
+        "name": "Rhyme Pays",
+        "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
+      },
+      "artists": [
+        {
+          "name": "ICE-T",
+          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "6 'N the Mornin'",
+      "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
     },
     {
       "added_at": "2023-05-31 15:06:49",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-05-31 15:06:49",
       "album": {
-        "name": "Planet Rock: The Album",
-        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
       "artists": [
         {
-          "name": "Afrika Bambaataa",
-          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
-        },
-        {
-          "name": "The Soulsonic Force",
-          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 383960,
-      "name": "Planet Rock - Original 12\" Version",
-      "url": "https://open.spotify.com/track/5aD3fAa1fy8XUesj3lgr19"
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2023-05-31 15:06:49",
@@ -691,6 +687,26 @@
     {
       "added_at": "2023-05-31 15:06:49",
       "album": {
+        "name": "Planet Rock: The Album",
+        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
+      },
+      "artists": [
+        {
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
+        }
+      ],
+      "duration_ms": 383960,
+      "name": "Planet Rock - Original 12\" Version",
+      "url": "https://open.spotify.com/track/5aD3fAa1fy8XUesj3lgr19"
+    },
+    {
+      "added_at": "2023-05-31 15:06:49",
+      "album": {
         "name": "In Full Gear",
         "url": "https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 288053,
       "name": "Talkin' All That Jazz",
       "url": "https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY"
-    },
-    {
-      "added_at": "2023-05-31 15:06:49",
-      "album": {
-        "name": "All World",
-        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 321986,
-      "name": "I Need Love",
-      "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
     },
     {
       "added_at": "2023-05-31 15:06:49",
@@ -739,38 +739,34 @@
     {
       "added_at": "2023-05-31 15:06:49",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+      "duration_ms": 321986,
+      "name": "I Need Love",
+      "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
     },
     {
       "added_at": "2023-05-31 15:06:49",
       "album": {
-        "name": "Planet Rock: The Album",
-        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
       },
       "artists": [
         {
-          "name": "Afrika Bambaataa",
-          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
-        },
-        {
-          "name": "The Soulsonic Force",
-          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
+          "name": "Worlds Famous Supreme Team",
+          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
         }
       ],
-      "duration_ms": 422493,
-      "name": "Looking for the Perfect Beat - Original 12\" Version",
-      "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
+      "duration_ms": 206081,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
     },
     {
       "added_at": "2023-05-31 15:06:49",
@@ -791,18 +787,22 @@
     {
       "added_at": "2023-05-31 15:06:49",
       "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
+        "name": "Planet Rock: The Album",
+        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
       },
       "artists": [
         {
-          "name": "Worlds Famous Supreme Team",
-          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
         }
       ],
-      "duration_ms": 206081,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
+      "duration_ms": 422493,
+      "name": "Looking for the Perfect Beat - Original 12\" Version",
+      "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
     },
     {
       "added_at": "2023-05-31 15:06:49",

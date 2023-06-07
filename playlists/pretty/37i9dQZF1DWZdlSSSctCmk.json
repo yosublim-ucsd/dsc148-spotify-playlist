@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 94910,
+  "num_followers": 94991,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2FjZGFkYWE2MDk2Y2IzYjNkYjc4MDA4OGZmZDI2MjFiMWIzMzNl",
+  "snapshot_id": "MCwzNTMxYzRiODJiOTU3ZGY1M2IxOTZmM2U3MWU2MDYyZmVlMTkxMzU5",
   "tracks": [
     {
       "added_at": "2023-05-26 09:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
         "name": "Final Days (Bonobo Remix)",
         "url": "https://open.spotify.com/album/7cPU3dVK7sRJKdQ6JNlAVB"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 340373,
       "name": "Final Days - Bonobo Remix",
       "url": "https://open.spotify.com/track/4RHMC3OE3oBpS32peJ6tR6"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Since Then. 2017",
-        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
-        }
-      ],
-      "duration_ms": 274080,
-      "name": "Venasque",
-      "url": "https://open.spotify.com/track/20XyCtN4HMiL1BsvXyengf"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Time out of Mind",
         "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 224840,
       "name": "Paz",
       "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Since Then. 2017",
+        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
+      },
+      "artists": [
+        {
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        }
+      ],
+      "duration_ms": 274080,
+      "name": "Venasque",
+      "url": "https://open.spotify.com/track/20XyCtN4HMiL1BsvXyengf"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "AO Longo Do Rio",
-      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Quiet Night",
         "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 212000,
       "name": "Quiet Night",
       "url": "https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "AO Longo Do Rio",
+      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Just Landed",
-        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 330973,
-      "name": "Tabarin",
-      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Pina Colada (And Other Early Tunes)",
         "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 359586,
       "name": "Under the Sea",
       "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Just Landed",
+        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 330973,
+      "name": "Tabarin",
+      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Sacred",
-        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 347317,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Le Fruit Disco",
         "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 215080,
       "name": "maracuya massage",
       "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 347317,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Single Malt",
-        "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
-      },
-      "artists": [
-        {
-          "name": "TOSZ",
-          "url": "https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Single Malt - Radio Edit",
-      "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Gentle EP",
         "url": "https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 347505,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Single Malt",
+        "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
+      },
+      "artists": [
+        {
+          "name": "TOSZ",
+          "url": "https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Single Malt - Radio Edit",
+      "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Compilation",
-        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Fakroun",
-          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
-        }
-      ],
-      "duration_ms": 257019,
-      "name": "Nisyan",
-      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "duration_ms": 257019,
+      "name": "Nisyan",
+      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1679,38 +1679,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Trying to Make it Home",
-        "url": "https://open.spotify.com/album/51mdZ0LmdmesB6Tcdk7nJi"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 342111,
-      "name": "Trying to Make it Home",
-      "url": "https://open.spotify.com/track/3Hht1URCb1TqwcZAwU4pXK"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
-        "name": "RAS",
-        "url": "https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5"
-      },
-      "artists": [
-        {
-          "name": "RAS",
-          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
-        }
-      ],
-      "duration_ms": 691760,
-      "name": "4:20",
-      "url": "https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Your Love (feat. BLAME)",
         "url": "https://open.spotify.com/album/4Lb00Y6Y4KatxxnPEtoZY9"
       },
@@ -1731,6 +1699,38 @@
       "duration_ms": 190140,
       "name": "Your Love (feat. BLAME)",
       "url": "https://open.spotify.com/track/7kYSY3ekAqu7uqSEYEHu0x"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "RAS",
+        "url": "https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5"
+      },
+      "artists": [
+        {
+          "name": "RAS",
+          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
+        }
+      ],
+      "duration_ms": 691760,
+      "name": "4:20",
+      "url": "https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Trying to Make it Home",
+        "url": "https://open.spotify.com/album/51mdZ0LmdmesB6Tcdk7nJi"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 342111,
+      "name": "Trying to Make it Home",
+      "url": "https://open.spotify.com/track/3Hht1URCb1TqwcZAwU4pXK"
     }
   ],
   "unique_name": "Balearic Beats",

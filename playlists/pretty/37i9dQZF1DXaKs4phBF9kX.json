@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1980s.",
-  "num_followers": 70861,
+  "num_followers": 70917,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjc4YzYyMzY2MTU5OGI2NTZhMjMzZjk3N2EwNDE2ODNkNDEzMjI5",
+  "snapshot_id": "MCw1NTM5OWM4NTA1ZTBjZDZjMjgzYTAyNWFiZTk1ZDQ3ZGRiZGUwNThj",
   "tracks": [
     {
       "added_at": "2023-01-18 20:42:10",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 185694,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Piece of Mind (2015 - Remaster)",
         "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 252733,
       "name": "The Trooper - 2015 Remaster",
       "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 185694,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Eat 'Em and Smile",
-        "url": "https://open.spotify.com/album/0Ali88C44gQdI065upsgKU"
-      },
-      "artists": [
-        {
-          "name": "David Lee Roth",
-          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "Yankee Rose",
-      "url": "https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Twice Shy",
         "url": "https://open.spotify.com/album/7EV1o7drnL1jKZMwzFAqH8"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 322896,
       "name": "Once Bitten Twice Shy",
       "url": "https://open.spotify.com/track/07nxmAxwhY51juyImllKD2"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Eat 'Em and Smile",
+        "url": "https://open.spotify.com/album/0Ali88C44gQdI065upsgKU"
+      },
+      "artists": [
+        {
+          "name": "David Lee Roth",
+          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "Yankee Rose",
+      "url": "https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og"
     },
     {
       "added_at": "2023-01-18 20:42:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Isyana Sarasvati
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,399 likes - 65 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,426 likes - 65 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 7 | [Bebende](https://open.spotify.com/track/6QM1lU1VMJlSROw6ZJ40u5) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Ferdinan Sule](https://open.spotify.com/artist/1CrwRIUK36rqXADc2O6YdP) | [Bebende](https://open.spotify.com/album/2l8HYZ1xJsX7GbKxvjsE3U) | 5:12 |
 | 8 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 |
 | 9 | [Khayalan Tingkat Tinggi](https://open.spotify.com/track/2hh76rbGThjiPE1vUVa9Lg) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Khayalan Tingkat Tinggi](https://open.spotify.com/album/0zjNUO3CQhuWDYZIeKT4l7) | 3:05 |
-| 10 | [Simpul](https://open.spotify.com/track/5kzE5sZTaK0hyCqYaLfN4t) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Simpul Tak Berdaya](https://open.spotify.com/album/4UlIKDydaQLNsJGRa5Dgqb) | 3:55 |
+| 10 | [Simpul](https://open.spotify.com/track/5kzE5sZTaK0hyCqYaLfN4t) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Simpul Tak Berdaya](https://open.spotify.com/album/4UlIKDydaQLNsJGRa5Dgqb) | 3:51 |
 | 11 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 |
 | 12 | [All the Time](https://open.spotify.com/track/60zomg1pGnaSrapCzO6aPG) | [The SIGIT](https://open.spotify.com/artist/4RLzLs2SHeyA0nLLlAJBg4) | [Visible Idea of Perfection](https://open.spotify.com/album/3lIr5Sb74IEw4etgpnOluC) | 3:18 |
 | 13 | [Gadog \(Feat\. Edo Wallad\)](https://open.spotify.com/track/5c3Ym8TiEBm4UiwRB0HMgg) | [Texpack](https://open.spotify.com/artist/1OmBTwOooZHrYO3YUmSTIA), [Edo Wallad](https://open.spotify.com/artist/0D04cY5W2BAhQu8WBaI2uc) | [Spin Your Wheels](https://open.spotify.com/album/57RqFaTMTeyPNl1BgBl7Y7) | 3:14 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 17 | [Bertaruh Pada Api](https://open.spotify.com/track/0TblrOwGd4j8YK0cdTRo5v) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Bertaruh Pada Api](https://open.spotify.com/album/2VOfBP9LA5KsNMFyM35iR1) | 4:30 |
 | 18 | [Repetitif](https://open.spotify.com/track/77fJ3Feec0pJOFgdkn1VZI) | [A Curious Voynich](https://open.spotify.com/artist/3KGbrizFEqtuCV3EzBYxlp) | [Fase Kedua](https://open.spotify.com/album/2b7ZUDBepcJhFZt2fAciTp) | 2:18 |
 | 19 | [Di Atas Normal](https://open.spotify.com/track/2icjHMLGHCyFngdm7zYr34) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Di Atas Normal](https://open.spotify.com/album/5iuLwZKk0Hi0VnPuFzBQbl) | 3:29 |
-| 20 | [my Mystery](https://open.spotify.com/track/36T5RCOBXJM7fXU4rKLSlP) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [my Mystery](https://open.spotify.com/album/3tfEX6ctvTwkZwzP91mQUC) | 5:12 |
+| 20 | [my Mystery](https://open.spotify.com/track/36T5RCOBXJM7fXU4rKLSlP) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [my Mystery](https://open.spotify.com/album/3tfEX6ctvTwkZwzP91mQUC) | 5:08 |
 | 21 | [Lara](https://open.spotify.com/track/1sGsoXJgOZ3wY3tveCUwWs) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [Lara](https://open.spotify.com/album/28qOVtZkeUoUdzU8JEExdG) | 5:26 |
 | 22 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 |
 | 23 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 64 | [Representasi](https://open.spotify.com/track/46QJytZHZONUQcqQVT3cMl) | [Topi Jerami](https://open.spotify.com/artist/6ZRpCV3WWjGXBhOgIvZqIA) | [Get In...](https://open.spotify.com/album/5odymU3r3v9fqnmrew7Leg) | 0:58 |
 | 65 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 |
 
-Snapshot ID: `MCwxZDY1YzViZGEzY2ZlZjVkM2E0M2IwMzk5ZTE2YTExNjgxNjNhYjI1`
+Snapshot ID: `MCwxZGQyMzUxZWY1YjkzMjVhMWI4ZDEyMGRmY2E1NGMwN2RjNTc0NTEw`

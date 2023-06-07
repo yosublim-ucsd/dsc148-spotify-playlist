@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,888 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,124 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 43 | [You've Got a Friend in Me \- Acoustic](https://open.spotify.com/track/05ZcB9Cln3VRHYS7W3bLgo) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Simply Acoustic](https://open.spotify.com/album/5GkuY9Il0OakVEzNyX7mP4) | 2:11 |
 | 44 | [What My Body Needs](https://open.spotify.com/track/7bk9NCsLE8F5LhbaPo5pRD) | [Sara Rogers](https://open.spotify.com/artist/5fEiggZSfUYOhfBqyIC4cw) | [What My Body Needs](https://open.spotify.com/album/1HkRCTZXljbfIXGprYdUPT) | 3:08 |
 | 45 | [Beautiful Boy](https://open.spotify.com/track/5cUbs8a3T4f9xdTeBqrQCy) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Instant Karma: The Amnesty International Campaign To Save Darfur \[The Complete Recordings\] \(Audio Only\)](https://open.spotify.com/album/5A5XFtOnsqgw9QzghVq5Lf) | 3:48 |
-| 46 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 |
-| 47 | [How Far I'll Go \(From "Moana"\)](https://open.spotify.com/track/1uzlv4kbOZbVnwOM0qbRqR) | [Acoustic Heartstrings](https://open.spotify.com/artist/3YcYQvh90LabrI6cVQBoG4) | [Acoustic Guitar Renditions of Disney Classics](https://open.spotify.com/album/4M0a69mBFPuE7ztCUxm0o6) | 2:51 |
+| 46 | [How Far I'll Go \(From "Moana"\)](https://open.spotify.com/track/1uzlv4kbOZbVnwOM0qbRqR) | [Acoustic Heartstrings](https://open.spotify.com/artist/3YcYQvh90LabrI6cVQBoG4) | [Acoustic Guitar Renditions of Disney Classics](https://open.spotify.com/album/4M0a69mBFPuE7ztCUxm0o6) | 2:51 |
+| 47 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 |
 | 48 | [Full Moon](https://open.spotify.com/track/6hQ5AqKiyUjyM97tWzlo0v) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Full Moon](https://open.spotify.com/album/7p0izCAkCrkKpkJlDE47FI) | 3:02 |
 | 49 | [Honey](https://open.spotify.com/track/5lLdRp4GpGKAvltZCZ7KRZ) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Honey](https://open.spotify.com/album/779oggvAt1GFSFJP3CYKMi) | 2:27 |
 | 50 | [Kindness Mantra](https://open.spotify.com/track/6BB7WGnYYH690VSE8EYxke) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Every Voice](https://open.spotify.com/album/6O2hzAFNinpSa2dlcx7DOz) | 2:49 |
 
-Snapshot ID: `MCwzY2Q4ZTUyZGJmYTc2ZDQyZDY2OWQxY2NjN2Q5NjYyMjQwMWZkOTZj`
+Snapshot ID: `MCw0OTU0YzA5MWU2ZDM2NjY5ZDA1Yzk1MGNiYTYxMjgwODRjM2QzNzZk`

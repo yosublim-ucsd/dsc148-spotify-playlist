@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 167434,
+  "num_followers": 167494,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzNjNDg4ODgxYzU5ZDg2NzVkZTlmN2JhMDI0NTI4ZTA3YjdjNGYx",
+  "snapshot_id": "MCw4N2FmZmFmNmJhMzUzMWU5ZDQ1YWJkZWY1OWMwNzg5OGRiY2YzZDJh",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -835,26 +835,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        }
-      ],
-      "duration_ms": 160979,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Color de Alegr\u00eda",
         "url": "https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 161479,
       "name": "Color de Alegr\u00eda",
       "url": "https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "duration_ms": 160979,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -903,26 +903,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Coraz\u00f3n de Piedra",
-        "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
-      },
-      "artists": [
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 221879,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "On (Deluxe)",
         "url": "https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H"
       },
@@ -939,18 +919,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Amor C\u00f3smico",
-        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
       },
       "artists": [
         {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
         }
       ],
-      "duration_ms": 179965,
-      "name": "Amor C\u00f3smico",
-      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
+      "duration_ms": 221879,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1003,6 +987,22 @@
       "duration_ms": 210612,
       "name": "123 Enemies",
       "url": "https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Amor C\u00f3smico",
+        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 179965,
+      "name": "Amor C\u00f3smico",
+      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "La Media Vuelta",
-        "url": "https://open.spotify.com/album/7I1JDxUD83LUK2KRrI76Km"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/7r96T3LmNTt7ieA9ovEo2R"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Sin Gravedad",
         "url": "https://open.spotify.com/album/3wUhVULJ1PdkhaENsajf7b"
       },
@@ -1143,22 +1123,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Futuro Contigo",
-        "url": "https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe"
+        "name": "La Media Vuelta",
+        "url": "https://open.spotify.com/album/7I1JDxUD83LUK2KRrI76Km"
       },
       "artists": [
         {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
         },
         {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         }
       ],
-      "duration_ms": 213033,
-      "name": "Futuro Contigo",
-      "url": "https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO"
+      "duration_ms": 197500,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/7r96T3LmNTt7ieA9ovEo2R"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1175,6 +1155,26 @@
       "duration_ms": 168974,
       "name": "Alante Alante",
       "url": "https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Futuro Contigo",
+        "url": "https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 213033,
+      "name": "Futuro Contigo",
+      "url": "https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Para Amarte",
-        "url": "https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Para Amarte",
-      "url": "https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Hasta La Eternidad",
         "url": "https://open.spotify.com/album/53dywng9hTIkHvljhNavG2"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 198640,
       "name": "Mi Cielo",
       "url": "https://open.spotify.com/track/53tX3nRjwvi8TvyEMW755d"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Para Amarte",
+        "url": "https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Para Amarte",
+      "url": "https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "El Fuego",
+        "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
+      },
+      "artists": [
+        {
+          "name": "Sarah La Profeta",
+          "url": "https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 190095,
+      "name": "El Fuego",
+      "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Mi Entrenador (Remix)",
         "url": "https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp"
       },
@@ -1799,26 +1819,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "El Fuego",
-        "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
-      },
-      "artists": [
-        {
-          "name": "Sarah La Profeta",
-          "url": "https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 190095,
-      "name": "El Fuego",
-      "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Picheo",
         "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
       },
@@ -1835,6 +1835,26 @@
       "duration_ms": 240500,
       "name": "Picheo",
       "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Firme Y Enfocado",
+        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        }
+      ],
+      "duration_ms": 231627,
+      "name": "Firme Y Enfocado",
+      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1871,26 +1891,6 @@
       "duration_ms": 214400,
       "name": "Un Call",
       "url": "https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Firme Y Enfocado",
-        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Pr\u00e1ctiko",
-          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
-        }
-      ],
-      "duration_ms": 231627,
-      "name": "Firme Y Enfocado",
-      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
     },
     {
       "added_at": "2022-08-27 05:04:45",

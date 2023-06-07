@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,923 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,933 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 153 | [E.T.](https://open.spotify.com/track/4kkeuVl6gF3RMqE4Nn5W3E) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:26 |
 | 154 | [So Alive](https://open.spotify.com/track/3EtDAua9G4apE9Mq9BUHcW) | [Goldbeam](https://open.spotify.com/artist/6jKZwcKkpcHRGKco0O6TuZ) | [So Alive](https://open.spotify.com/album/2emnPnBOE4EieBxX4jEh81) | 4:17 |
 | 155 | [I Like That](https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:38 |
-| 156 | [Love Can Be so Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/track/6QGzSUOiuImJb1zZeLwRiS) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Love Can Be so Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/album/4PHHnHJKFWsYthQFGGjBkC) | 3:45 |
+| 156 | [Love Can Be so Lonely, Sometimes](https://open.spotify.com/track/3aAKVbZZFQDRy6TfWMRd8T) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Love Can Be so Lonely, Sometimes](https://open.spotify.com/album/2sX9IDhE27eyzVxngyK4m2) | 3:45 |
 | 157 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
 | 158 | [Another One Bites the Dust \- Epic Trailer Version](https://open.spotify.com/track/700UEnWizRm2pVZ9pDreT5) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J), [JAXSON GAMBLE](https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI) | [Reawakenings](https://open.spotify.com/album/1CUCeOtiH3pknijQK7zduV) | 3:15 |
 | 159 | [Safe Place](https://open.spotify.com/track/7hePUTuP6GORDrsNjEA1vp) | [Aardwolves](https://open.spotify.com/artist/7kLlidqW9webTS3Qgpk0zC), [Olivia Sharpe](https://open.spotify.com/artist/41lRUvwdBoi1RGjZUUvUsH) | [Safe Place](https://open.spotify.com/album/1TtmRSBEXEeYIpxwBuFOTH) | 4:00 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 261 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 262 | [Everybody Get Up](https://open.spotify.com/track/1N33YOi540BN6xXXiP0WjL) | [Yes Yes No Maybe](https://open.spotify.com/artist/125Kdt1Do4mnDhFALzs0LT) | [Start the Fire](https://open.spotify.com/album/4c3ehhboJ1XlgNSvpFKNh1) | 3:32 |
 
-Snapshot ID: `MCxjMzhiNDc4ZDI0OWE0ODc0YTlmMDgwYTBhYmQ5N2ExYzI0OTRmMjVh`
+Snapshot ID: `MCw5MDQ1MTA1ZWU1MTg4OWZhNzk3NWE1MjFjNjdjNmVjYWYxOWQyMDlj`

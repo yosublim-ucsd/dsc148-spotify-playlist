@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633109,
+  "num_followers": 633103,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTQ0YTE3NDJhNTZhNmVlNWQ3OWZhZjkxMjQyODdkNTBmMDJlM2Zl",
+  "snapshot_id": "MCxmOGVkMGI1ZjUzN2VjYTUyMGVmMWU5Mjc4MWI3NmYxZmJiZDhmYWVi",
   "tracks": [
     {
       "added_at": "2023-06-02 15:58:17",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "My Halo Orbit",
-        "url": "https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA"
-      },
-      "artists": [
-        {
-          "name": "DEX 1200",
-          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
-        }
-      ],
-      "duration_ms": 199923,
-      "name": "My Halo Orbit",
-      "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Morgong\u00e5va",
         "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 166500,
       "name": "Morgong\u00e5va",
       "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "My Halo Orbit",
+        "url": "https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "duration_ms": 199923,
+      "name": "My Halo Orbit",
+      "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Ambientes",
-        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 120172,
-      "name": "Lagrima",
-      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Floating Hearts",
         "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Hum",
-        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
+        "name": "Ambientes",
+        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
       },
       "artists": [
         {
-          "name": "Parazal",
-          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 186542,
-      "name": "Suhpratti",
-      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
+      "duration_ms": 120172,
+      "name": "Lagrima",
+      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1163,6 +1147,22 @@
       "duration_ms": 165333,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
+      },
+      "artists": [
+        {
+          "name": "Parazal",
+          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
+        }
+      ],
+      "duration_ms": 186542,
+      "name": "Suhpratti",
+      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Lumineux",
-        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
-      },
-      "artists": [
-        {
-          "name": "Alice Rolande",
-          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
-        }
-      ],
-      "duration_ms": 217893,
-      "name": "Lumineux",
-      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Elementaries",
         "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
       },
@@ -1279,6 +1263,38 @@
       "duration_ms": 182783,
       "name": "Raising Life",
       "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Lumineux",
+        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
+      },
+      "artists": [
+        {
+          "name": "Alice Rolande",
+          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
+        }
+      ],
+      "duration_ms": 217893,
+      "name": "Lumineux",
+      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Inch Of You",
+        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "duration_ms": 147299,
+      "name": "Backwaters",
+      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1311,22 +1327,6 @@
       "duration_ms": 176571,
       "name": "Distant Voices",
       "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
-        "name": "Inch Of You",
-        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
-      },
-      "artists": [
-        {
-          "name": "Andri Hart",
-          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
-        }
-      ],
-      "duration_ms": 147299,
-      "name": "Backwaters",
-      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
+      },
+      "artists": [
+        {
+          "name": "Deep Vibrations",
+          "url": "https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Lumiere",
+      "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
         "name": "Winter Night Mist",
         "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Lumiere",
-        "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
-      },
-      "artists": [
-        {
-          "name": "Deep Vibrations",
-          "url": "https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Lumiere",
-      "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Affinity",
         "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Neend",
-        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
-      },
-      "artists": [
-        {
-          "name": "Asanah",
-          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "Neend",
-      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/7CVds6xwlcKmedbFexbYFW"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 112660,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/1tlMeO99ebk4LXwB5oqcmX"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Neend",
+        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
+      },
+      "artists": [
+        {
+          "name": "Asanah",
+          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Neend",
+      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "The Land of the Sun",
-        "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
-      },
-      "artists": [
-        {
-          "name": "Sami Yusuf",
-          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
-        }
-      ],
-      "duration_ms": 238725,
-      "name": "The Land of the Sun",
-      "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Song For Wermland",
         "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 226862,
       "name": "Song For Wermland",
       "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "The Land of the Sun",
+        "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
+      },
+      "artists": [
+        {
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        }
+      ],
+      "duration_ms": 238725,
+      "name": "The Land of the Sun",
+      "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Tenebris",
-        "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
+        "name": "The Shortest Flight",
+        "url": "https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06"
       },
       "artists": [
         {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 233174,
-      "name": "Aragorn",
-      "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
+      "duration_ms": 118600,
+      "name": "The Shortest Flight",
+      "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
     }
   ],
   "unique_name": "DayDreamer",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,440 songs - 3 day 6 hr 12 min
+1,441 songs - 3 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1065,7 +1065,7 @@
 | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\)](https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\)](https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ) | 2:21 | 2021-09-12 | 2021-09-13 |
 | [Salattu suru](https://open.spotify.com/track/2DMiIxgZGx5QLgXC5x6Qv8) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I), [Agents](https://open.spotify.com/artist/4plbeQ7a5US1Vq8OG5YDcN) | [Salattu suru](https://open.spotify.com/album/0RNCRi0O58keO3bvGaPfei) | 3:13 | 2022-04-02 | 2022-04-06 |
 | [Sama poika \(Vain elämää kausi 12\)](https://open.spotify.com/track/41mznSqza0Gz28bZMAj6gA) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Sama poika \(Vain elämää kausi 12\)](https://open.spotify.com/album/66XMNRLqrKObOkxjr5SYal) | 2:59 | 2021-11-14 | 2021-11-19 |
-| [Samaa taivasta katsotaan](https://open.spotify.com/track/6ISLBKxChtxZ5Ws6nO6Cbi) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Samaa taivasta katsotaan](https://open.spotify.com/album/6kfLDJxQGRW0ihmsGdhlR6) | 3:03 | 2023-01-21 |  |
+| [Samaa taivasta katsotaan](https://open.spotify.com/track/6ISLBKxChtxZ5Ws6nO6Cbi) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Samaa taivasta katsotaan](https://open.spotify.com/album/6kfLDJxQGRW0ihmsGdhlR6) | 3:03 | 2023-01-21 | 2023-06-07 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4hsTQQgfBnBgtBkTGKWS1G) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Samma gamla vanliga](https://open.spotify.com/album/0pDplTjct8PBplJ7s2sL6p) | 2:09 | 2021-07-08 | 2021-11-07 |
 | [Samma gamla vanliga \- Remix](https://open.spotify.com/track/3EfMGeYXw69Saa14torWpK) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Samma gamla vanliga \(Remix\)](https://open.spotify.com/album/0o4iqHMhzZiqcNbZ9WYgGK) | 3:10 | 2021-09-12 | 2023-01-04 |
 | [Sammumaton](https://open.spotify.com/track/7BI3gFHdPNtstVEetNx7w6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Sammumaton / Ram pam pam \(English version\)](https://open.spotify.com/album/70CtDYgaNgKHl6B9jo7RII) | 3:09 | 2022-11-05 | 2023-02-12 |
@@ -1143,6 +1143,7 @@
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 | 2022-05-22 |
 | [Spillways](https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 | 2022-03-12 | 2022-03-14 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-11-05 | 2022-11-07 |
+| [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-06 |  |
 | [Stadii](https://open.spotify.com/track/7EsVa6aV9uYHGIcejglJFr) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sextape II](https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR) | 3:02 | 2023-01-07 | 2023-01-16 |
 | [Stadin puistot \(feat\. AHTI\)](https://open.spotify.com/track/5Om2bI3bo28V7XKvDHYy7d) | [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Stadin puistot \(feat\. AHTI\)](https://open.spotify.com/album/2UG0q8ZsvuUp8xTgF92LlF) | 2:57 | 2023-05-20 |  |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-24 | 2023-01-01 |

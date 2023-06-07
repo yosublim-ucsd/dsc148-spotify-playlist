@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "BTTB - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270281,
+      "name": "aqua",
+      "url": "https://open.spotify.com/track/2Txp8hmiT3aqzD7CBjILo2"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
       },
@@ -1000,6 +1018,24 @@
       "duration_ms": 217997,
       "name": "building site outside",
       "url": "https://open.spotify.com/track/74UprT08Tdk1qnRldqwsbE"
+    },
+    {
+      "album": {
+        "name": "Burden Of Proof - (Opening Titles/Interrogation)",
+        "url": "https://open.spotify.com/album/6zWpQCSCFj30HykptrIlfZ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181314,
+      "name": "Burden of Proof",
+      "url": "https://open.spotify.com/track/2Gb79176OYCC8lbLtC5L1o"
     },
     {
       "album": {
@@ -2705,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Hues",
+        "url": "https://open.spotify.com/album/031jv13JunAFo2noS217gX"
+      },
+      "artists": [
+        {
+          "name": "naomi paris tokyo",
+          "url": "https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "Hues",
+      "url": "https://open.spotify.com/track/08XFNYjOUBtWjdlSpimV7A"
+    },
+    {
+      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
@@ -3099,6 +3153,24 @@
     },
     {
       "album": {
+        "name": "Ker al Loch (Four Ways)",
+        "url": "https://open.spotify.com/album/4bfXyKUGJYMxdvTq9cdQ0f"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359893,
+      "name": "Ker al Loch - Solo Piano",
+      "url": "https://open.spotify.com/track/6HKVTiraMsZQkzfyv2DlV6"
+    },
+    {
+      "album": {
         "name": "kid(Ryu Solo)",
         "url": "https://open.spotify.com/album/7nRmisV0C7V5MsE1Mq2VBX"
       },
@@ -3376,7 +3448,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 326733,
       "name": "LE TOMBEAU DE COUPERIN:V. Menuet",
       "url": "https://open.spotify.com/track/0vdUSUa8qNz4m9T73rr17v"
@@ -4134,7 +4206,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 236300,
       "name": "Monster 1",
       "url": "https://open.spotify.com/track/7DRpF8gLkdWJ01S29MVaOa"
@@ -5188,7 +5260,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 531600,
       "name": "Romance Dai 2 ban Op.50 (Beethoven)",
       "url": "https://open.spotify.com/track/2rKOIRnpxAWTu8x59bbsTE"
@@ -7508,7 +7580,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 227226,
       "name": "\u30c9\u30d3\u30e5\u30c3\u30b7\u30fc:\u5922",
       "url": "https://open.spotify.com/track/3x7A5efAHawOPeh3MML8Ge"

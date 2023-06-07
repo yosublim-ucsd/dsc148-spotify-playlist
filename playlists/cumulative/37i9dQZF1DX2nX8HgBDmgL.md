@@ -4,7 +4,7 @@
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-136 songs - 7 hr 10 min
+137 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Shining](https://open.spotify.com/track/0MQKShuvARYHgpqpy0RhET) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Shining](https://open.spotify.com/album/3JOsumvo4o0X3wzrGpVkhc) | 3:21 | 2021-11-11 | 2022-07-19 |
 | [Soniyere](https://open.spotify.com/track/0IiV3AliTVr0NyhAMHcmPj) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [Soniyere](https://open.spotify.com/album/5b8yNLbULq4RwCF7NCLsSF) | 3:24 | 2021-11-11 | 2022-07-19 |
 | [Speechless](https://open.spotify.com/track/0BpoeiBzKq1WI8dYI9p4T4) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Push Kahlon](https://open.spotify.com/artist/3smWlTVbX1PvuiETZ8QbkH) | [Speechless](https://open.spotify.com/album/12jESwb60AuJ15q45k7D8I) | 3:08 | 2021-11-11 | 2022-07-19 |
+| [STAY DOWN](https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [STAY DOWN](https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx) | 3:08 | 2023-06-06 |  |
 | [Summer Luv](https://open.spotify.com/track/1vwHEMn3RJBteolX643U9a) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Summer Luv](https://open.spotify.com/album/2weXKmabg9k3ejyWBxaNWb) | 3:01 | 2021-11-11 | 2022-07-19 |
 | [Teju](https://open.spotify.com/track/0H8sDfz5yN30bvta2t67cX) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [Teju](https://open.spotify.com/album/62mkIyXnLf1U4mrD7pjxCK) | 2:33 | 2021-11-11 | 2022-07-19 |
 | [Tere To](https://open.spotify.com/track/6WVszgfw4Z1fEC9mA0Bwtl) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Tere To](https://open.spotify.com/album/0upBrOO8Erl5HRoLTjQdmK) | 3:07 | 2021-11-11 | 2022-07-19 |

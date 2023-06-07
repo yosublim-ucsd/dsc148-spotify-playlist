@@ -1,12 +1,12 @@
 {
   "description": "welcome to the Golden State.",
-  "num_followers": 807835,
+  "num_followers": 807954,
   "original_name": "California Rock State",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjUwOWQwYzI2Y2IwNjExOGVmZDliNmVjYzhiZGVlNzU4YmM3ZjNk",
+  "snapshot_id": "MCw0YjJmNjU3YjA1NjI5ZjQxYjMwYWRhNTVkYzNmZjg2NWQ2YjhmODNl",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 256240,
-      "name": "Youth of the Nation",
-      "url": "https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "DECEMBERUNDERGROUND",
         "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 206586,
       "name": "Miss Murder",
       "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 256240,
+      "name": "Youth of the Nation",
+      "url": "https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 305899,
       "name": "California",
       "url": "https://open.spotify.com/track/7oTE1KmtU2ml9zBhv9Reao"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
     },
     {
       "added_at": "2023-02-24 05:01:00",

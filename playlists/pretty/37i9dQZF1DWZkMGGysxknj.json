@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 813249,
+  "num_followers": 813319,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGY1ZTk3NTNmYTUwMzIyMzhiMGZhNWNmNDEyYzc2ZmNmYzE5ZjAx",
+  "snapshot_id": "MCw1Y2YyMzM3Yjg4NTI2ZmZjNmViZTBjYThlN2Y0ZmQzYWVlYWQwZTkw",
   "tracks": [
     {
       "added_at": "2021-07-16 14:31:12",
@@ -791,6 +791,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Perfect (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Perfect - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "It Ain't Me Babe",
         "url": "https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 252596,
       "name": "Fade into You",
       "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Perfect (Acoustic Guitar)",
-        "url": "https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a"
-      },
-      "artists": [
-        {
-          "name": "Seth Luke",
-          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Perfect - Acoustic Guitar",
-      "url": "https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP"
     },
     {
       "added_at": "2023-04-20 00:56:09",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 130470,
-      "name": "Configuraciones Onduladas",
-      "url": "https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ"
       },
@@ -1197,20 +1181,20 @@
       "url": "https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk"
     },
     {
-      "added_at": "2023-01-03 01:00:29",
+      "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
         }
       ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
+      "duration_ms": 130470,
+      "name": "Configuraciones Onduladas",
+      "url": "https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1255,6 +1239,22 @@
       "duration_ms": 246349,
       "name": "I\u00b4m a Fool to Want You",
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
+    },
+    {
+      "added_at": "2023-01-03 01:00:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9"
       },
       "artists": [
         {
-          "name": "Jean Cruiz",
-          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
+          "name": "The Mistrals",
+          "url": "https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk"
         }
       ],
-      "duration_ms": 182118,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
+      "duration_ms": 214143,
+      "name": "Feels - Acoustic",
+      "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Feels",
-        "url": "https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9"
-      },
-      "artists": [
-        {
-          "name": "The Mistrals",
-          "url": "https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk"
-        }
-      ],
-      "duration_ms": 214143,
-      "name": "Feels - Acoustic",
-      "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Warping Youth",
         "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 311680,
       "name": "People Wither",
       "url": "https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
       },
       "artists": [
         {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+          "name": "Jean Cruiz",
+          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
+      "duration_ms": 182118,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
     },
     {
       "added_at": "2023-01-03 01:00:29",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/6TOJcfXQLaer5H4KAhrJ3v"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 133440,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/7eOt72MSwPLRZw270GA8Z6"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 213098,
       "name": "Trampoline - Acoustic",
       "url": "https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/6TOJcfXQLaer5H4KAhrJ3v"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 133440,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/7eOt72MSwPLRZw270GA8Z6"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
+      },
+      "artists": [
+        {
+          "name": "Ale Aguirre",
+          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
+        }
+      ],
+      "duration_ms": 238817,
+      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Softly / Please (Mahogany Sessions)",
         "url": "https://open.spotify.com/album/0EiZGhflsBj4D3ysECkNsm"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 170571,
       "name": "Hearts",
       "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
-      },
-      "artists": [
-        {
-          "name": "Ale Aguirre",
-          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
-        }
-      ],
-      "duration_ms": 238817,
-      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1921,6 +1921,22 @@
       "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
     },
     {
+      "added_at": "2023-05-08 21:42:21",
+      "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
+    },
+    {
       "added_at": "2021-07-16 14:31:12",
       "album": {
         "name": "Local Valley",
@@ -1935,6 +1951,22 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+    },
+    {
+      "added_at": "2023-01-03 01:00:29",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1957,36 +1989,20 @@
       "url": "https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm"
     },
     {
-      "added_at": "2023-01-03 01:00:29",
+      "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+        "name": "Urban Driftwood",
+        "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
       },
       "artists": [
         {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
         }
       ],
-      "duration_ms": 274040,
-      "name": "Shadow Captain",
-      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
-    },
-    {
-      "added_at": "2023-05-08 21:42:21",
-      "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
+      "duration_ms": 230333,
+      "name": "Juvenescence",
+      "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2027,6 +2043,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 213041,
+      "name": "Ay, Amor \u2665\ufe0e",
+      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "MILLONES",
         "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
       },
@@ -2039,22 +2071,6 @@
       "duration_ms": 187298,
       "name": "Lado B",
       "url": "https://open.spotify.com/track/4ER0Cnu2cbSV34VYP54BoK"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
     },
     {
       "added_at": "2023-01-03 01:00:29",
@@ -2071,22 +2087,6 @@
       "duration_ms": 156214,
       "name": "Wake Up With the Sun",
       "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 213041,
-      "name": "Ay, Amor \u2665\ufe0e",
-      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 179510,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Graveyard",
         "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 254296,
       "name": "Graveyard - Acoustic",
       "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 179510,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
-      },
-      "artists": [
-        {
-          "name": "Gil Cohen",
-          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/6oRie5UdfiDPjd7t4od18I"
       },
@@ -2235,6 +2219,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
+      },
+      "artists": [
+        {
+          "name": "Gil Cohen",
+          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Casa del Viento",
         "url": "https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw"
       },
@@ -2247,6 +2247,22 @@
       "duration_ms": 174489,
       "name": "Que Facil Es Hablar",
       "url": "https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "The Moons Detriment",
+        "url": "https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "The Moons Detriment",
+      "url": "https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2271,18 +2287,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "The Moons Detriment",
-        "url": "https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m"
+        "name": "Emily Alone",
+        "url": "https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX"
       },
       "artists": [
         {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
         }
       ],
-      "duration_ms": 155000,
-      "name": "The Moons Detriment",
-      "url": "https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R"
+      "duration_ms": 220189,
+      "name": "Shadow Bloom",
+      "url": "https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2319,22 +2335,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Emily Alone",
-        "url": "https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 220189,
-      "name": "Shadow Bloom",
-      "url": "https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
       },
@@ -2365,22 +2365,6 @@
       "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
     },
     {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Eleanor Rigby",
-        "url": "https://open.spotify.com/album/1mQwT2si5Tg8T3LAhPDdFQ"
-      },
-      "artists": [
-        {
-          "name": "Pomplamoose",
-          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/6ygX4sQWC4b4Ttv46b7Mx6"
-    },
-    {
       "added_at": "2023-01-03 01:00:29",
       "album": {
         "name": "Terrace Rain/Grid Search",
@@ -2399,6 +2383,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Eleanor Rigby",
+        "url": "https://open.spotify.com/album/1mQwT2si5Tg8T3LAhPDdFQ"
+      },
+      "artists": [
+        {
+          "name": "Pomplamoose",
+          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/6ygX4sQWC4b4Ttv46b7Mx6"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Ransom",
         "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
       },
@@ -2411,38 +2411,6 @@
       "duration_ms": 166698,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Runaway (Deluxe)",
-        "url": "https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 220468,
-      "name": "Hell Or High Water",
-      "url": "https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 267958,
-      "name": "Que Entre el Fr\u00edo",
-      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2467,18 +2435,34 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Detalles",
-        "url": "https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA"
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
       },
       "artists": [
         {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 204428,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq"
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Runaway (Deluxe)",
+        "url": "https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 220468,
+      "name": "Hell Or High Water",
+      "url": "https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2495,6 +2479,22 @@
       "duration_ms": 175786,
       "name": "Limoneros",
       "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Detalles",
+        "url": "https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 204428,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq"
     },
     {
       "added_at": "2021-07-16 14:31:12",

@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 19592,
+  "num_followers": 19686,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjg1NzQ4ZmNkZDNjODgwNjBkNGEwNGEyNzM1ODA2NGYzNjVhOTMz",
+  "snapshot_id": "MCxiODMyOTk5MTZiMjA3YzJmMDM4NDMyNjQ3ZWZkMzY1YmUyNDgwNjBj",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Culpables",
-        "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Culpables",
-      "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "C\u00f3mo Le Digo",
         "url": "https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 226100,
       "name": "C\u00f3mo Le Digo",
       "url": "https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Culpables",
+        "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
+        "url": "https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
+      "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 267706,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
-        "url": "https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Lenny Santos",
-          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
-      "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -623,6 +623,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 182183,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 270400,
       "name": "ODIO",
       "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1595,18 +1595,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Depues De Las 3",
-        "url": "https://open.spotify.com/album/689g0N3bKawbL7LJtyRqDQ"
+        "name": "Si No Fue Asi",
+        "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
       },
       "artists": [
         {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+          "name": "Midel",
+          "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 191460,
-      "name": "Depues De Las 3",
-      "url": "https://open.spotify.com/track/06jKQDYkunWZqiyUPln7RY"
+      "duration_ms": 185196,
+      "name": "Si No Fue Asi",
+      "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1627,22 +1631,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Si No Fue Asi",
-        "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
+        "name": "Depues De Las 3",
+        "url": "https://open.spotify.com/album/689g0N3bKawbL7LJtyRqDQ"
       },
       "artists": [
         {
-          "name": "Midel",
-          "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Si No Fue Asi",
-      "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
+      "duration_ms": 191460,
+      "name": "Depues De Las 3",
+      "url": "https://open.spotify.com/track/06jKQDYkunWZqiyUPln7RY"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Por Si Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 187046,
-      "name": "S\u00e1banas An\u00f3nimas",
-      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Una Semana",
         "url": "https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 183703,
       "name": "Una Semana",
       "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Por Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "duration_ms": 187046,
+      "name": "S\u00e1banas An\u00f3nimas",
+      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
     },
     {
       "added_at": "2022-12-09 03:00:00",

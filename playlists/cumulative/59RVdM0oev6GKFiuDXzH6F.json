@@ -3173,6 +3173,32 @@
     },
     {
       "album": {
+        "name": "Pop Pills",
+        "url": "https://open.spotify.com/album/3ypN0Pai7OCQpFAsYdcAF3"
+      },
+      "artists": [
+        {
+          "name": "KLYMVX",
+          "url": "https://open.spotify.com/artist/68PsxdwOmePEmaNZJgKBU3"
+        },
+        {
+          "name": "Luke Miller",
+          "url": "https://open.spotify.com/artist/3wr4TiFX6aXHWDrsXbwMQD"
+        },
+        {
+          "name": "Jey Aux Platines",
+          "url": "https://open.spotify.com/artist/5AMw3TbaNH7fLqCF9WG23c"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Pop Pills",
+      "url": "https://open.spotify.com/track/1BjgDV9IFM5W320YlhNXlK"
+    },
+    {
+      "album": {
         "name": "Praise Me (feat. Stefi Novo) [Andrew Mathers Remix]",
         "url": "https://open.spotify.com/album/3FUywAIGufavK8LqT5SitE"
       },

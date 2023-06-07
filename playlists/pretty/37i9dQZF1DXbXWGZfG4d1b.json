@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 18065,
+  "num_followers": 18087,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWRkY2Q5MTU0YTFhZTJjZDYyZGU5MjFmZWM3NmYzNzZmZjhlNzE1",
+  "snapshot_id": "MCwxZWE3ZTk2YjUwOWIwMWI4MDY3YWQ0MzJlYTVmZjBlMzJiMDFmNmQ3",
   "tracks": [
     {
       "added_at": "2023-06-02 17:42:52",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-02 17:42:52",
       "album": {
-        "name": "PARANOIA",
-        "url": "https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb"
-      },
-      "artists": [
-        {
-          "name": "KAKTOV",
-          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
-        }
-      ],
-      "duration_ms": 104727,
-      "name": "PARANOIA",
-      "url": "https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv"
-    },
-    {
-      "added_at": "2023-06-02 17:42:52",
-      "album": {
         "name": "Fin del Mundo",
         "url": "https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 213898,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX"
+    },
+    {
+      "added_at": "2023-06-02 17:42:52",
+      "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb"
+      },
+      "artists": [
+        {
+          "name": "KAKTOV",
+          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
+        }
+      ],
+      "duration_ms": 104727,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv"
     },
     {
       "added_at": "2023-06-02 17:42:52",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-06-02 17:42:52",
       "album": {
+        "name": "El Pr\u00f3ximo Verano",
+        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 269705,
+      "name": "El Pr\u00f3ximo Verano",
+      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
+    },
+    {
+      "added_at": "2023-06-02 17:42:52",
+      "album": {
         "name": "Bestia Beb\u00e9",
         "url": "https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 230437,
       "name": "Que No",
       "url": "https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif"
-    },
-    {
-      "added_at": "2023-06-02 17:42:52",
-      "album": {
-        "name": "El Pr\u00f3ximo Verano",
-        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 269705,
-      "name": "El Pr\u00f3ximo Verano",
-      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
     },
     {
       "added_at": "2023-06-02 17:42:52",
@@ -671,38 +671,6 @@
     {
       "added_at": "2023-06-02 17:42:52",
       "album": {
-        "name": "Soy un Extra\u00f1o",
-        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
-      },
-      "artists": [
-        {
-          "name": "L E O",
-          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
-        }
-      ],
-      "duration_ms": 154411,
-      "name": "Qu\u00e9 Decir?",
-      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
-    },
-    {
-      "added_at": "2023-06-02 17:42:52",
-      "album": {
-        "name": "Igual",
-        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 250770,
-      "name": "Igual",
-      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
-    },
-    {
-      "added_at": "2023-06-02 17:42:52",
-      "album": {
         "name": "Antibi\u00f3ticx",
         "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
       },
@@ -735,6 +703,38 @@
     {
       "added_at": "2023-06-02 17:42:52",
       "album": {
+        "name": "Soy un Extra\u00f1o",
+        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
+      },
+      "artists": [
+        {
+          "name": "L E O",
+          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
+        }
+      ],
+      "duration_ms": 154411,
+      "name": "Qu\u00e9 Decir?",
+      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
+    },
+    {
+      "added_at": "2023-06-02 17:42:52",
+      "album": {
+        "name": "Igual",
+        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 250770,
+      "name": "Igual",
+      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
+    },
+    {
+      "added_at": "2023-06-02 17:42:52",
+      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
+    },
+    {
+      "added_at": "2023-06-02 17:42:52",
+      "album": {
+        "name": "Wandering Rebel",
+        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
     },
     {
       "added_at": "2023-06-02 17:42:52",
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-06-02 17:42:52",
       "album": {
-        "name": "Wandering Rebel",
-        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
-      },
-      "artists": [
-        {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
-    },
-    {
-      "added_at": "2023-06-02 17:42:52",
-      "album": {
         "name": "HORA DE IRTE MIXTAPE",
         "url": "https://open.spotify.com/album/5x1j2CtNYKsIsvYvTsyeTX"
       },
@@ -979,6 +979,26 @@
     {
       "added_at": "2023-06-02 17:42:52",
       "album": {
+        "name": "El bosque del recuerdo",
+        "url": "https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q"
+      },
+      "artists": [
+        {
+          "name": "Lara Pedrosa",
+          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 166945,
+      "name": "Melodia de extra\u00f1ar",
+      "url": "https://open.spotify.com/track/2LLqpGXCDOaCFq6kGxqdD7"
+    },
+    {
+      "added_at": "2023-06-02 17:42:52",
+      "album": {
         "name": "Corriendo",
         "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
       },
@@ -1007,6 +1027,38 @@
       "duration_ms": 145407,
       "name": "5A",
       "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+    },
+    {
+      "added_at": "2023-06-02 17:42:52",
+      "album": {
+        "name": "Jard\u00edn Secreto",
+        "url": "https://open.spotify.com/album/73sOVogAh0frrxkzHpKBs6"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 232454,
+      "name": "Jardin Secreto",
+      "url": "https://open.spotify.com/track/0IygTofvuok3zLmPQgjtbw"
+    },
+    {
+      "added_at": "2023-06-02 17:42:52",
+      "album": {
+        "name": "Ochocientos Envolventes al Sol",
+        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
+      },
+      "artists": [
+        {
+          "name": "Juan Mango",
+          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
+        }
+      ],
+      "duration_ms": 250517,
+      "name": "800 Vueltas Envolventes",
+      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
     },
     {
       "added_at": "2023-06-02 17:42:52",
@@ -1043,58 +1095,6 @@
       "duration_ms": 190393,
       "name": "M\u00e1gica Intuici\u00f3n",
       "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
-    },
-    {
-      "added_at": "2023-06-02 17:42:52",
-      "album": {
-        "name": "Jard\u00edn Secreto",
-        "url": "https://open.spotify.com/album/73sOVogAh0frrxkzHpKBs6"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 232454,
-      "name": "Jardin Secreto",
-      "url": "https://open.spotify.com/track/0IygTofvuok3zLmPQgjtbw"
-    },
-    {
-      "added_at": "2023-06-02 17:42:52",
-      "album": {
-        "name": "El bosque del recuerdo",
-        "url": "https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q"
-      },
-      "artists": [
-        {
-          "name": "Lara Pedrosa",
-          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 166945,
-      "name": "Melodia de extra\u00f1ar",
-      "url": "https://open.spotify.com/track/2LLqpGXCDOaCFq6kGxqdD7"
-    },
-    {
-      "added_at": "2023-06-02 17:42:52",
-      "album": {
-        "name": "Ochocientos Envolventes al Sol",
-        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
-      },
-      "artists": [
-        {
-          "name": "Juan Mango",
-          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
-        }
-      ],
-      "duration_ms": 250517,
-      "name": "800 Vueltas Envolventes",
-      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
     },
     {
       "added_at": "2023-06-02 17:42:52",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-06-02 17:42:52",
       "album": {
+        "name": "El Disparo",
+        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 209241,
+      "name": "El Disparo",
+      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
+    },
+    {
+      "added_at": "2023-06-02 17:42:52",
+      "album": {
         "name": "Ultravioleta",
         "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
       },
@@ -1295,18 +1311,22 @@
     {
       "added_at": "2023-06-02 17:42:52",
       "album": {
-        "name": "El Disparo",
-        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
         }
       ],
-      "duration_ms": 209241,
-      "name": "El Disparo",
-      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
+      "duration_ms": 208822,
+      "name": "AMORA",
+      "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
     },
     {
       "added_at": "2023-06-02 17:42:52",
@@ -1335,22 +1355,18 @@
     {
       "added_at": "2023-06-02 17:42:52",
       "album": {
-        "name": "AMORA",
-        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+        "name": "Sigo Dando Amor",
+        "url": "https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu"
       },
       "artists": [
         {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        },
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
         }
       ],
-      "duration_ms": 208822,
-      "name": "AMORA",
-      "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
+      "duration_ms": 281750,
+      "name": "Sigo Dando Amor",
+      "url": "https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm"
     },
     {
       "added_at": "2023-06-02 17:42:52",
@@ -1367,22 +1383,6 @@
       "duration_ms": 166133,
       "name": "Este Debe Ser el Lugar",
       "url": "https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99"
-    },
-    {
-      "added_at": "2023-06-02 17:42:52",
-      "album": {
-        "name": "Sigo Dando Amor",
-        "url": "https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu"
-      },
-      "artists": [
-        {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
-        }
-      ],
-      "duration_ms": 281750,
-      "name": "Sigo Dando Amor",
-      "url": "https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm"
     },
     {
       "added_at": "2023-06-02 17:42:52",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-06-02 17:42:52",
       "album": {
+        "name": "\u00c9xodo Mental",
+        "url": "https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "duration_ms": 196951,
+      "name": "\u00c9xodo Mental",
+      "url": "https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD"
+    },
+    {
+      "added_at": "2023-06-02 17:42:52",
+      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 236890,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
-    },
-    {
-      "added_at": "2023-06-02 17:42:52",
-      "album": {
-        "name": "\u00c9xodo Mental",
-        "url": "https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 196951,
-      "name": "\u00c9xodo Mental",
-      "url": "https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD"
     },
     {
       "added_at": "2023-06-02 17:42:52",

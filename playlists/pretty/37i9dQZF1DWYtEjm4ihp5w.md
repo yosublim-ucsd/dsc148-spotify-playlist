@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Demon324
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,466 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,518 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Sucré Salé](https://open.spotify.com/track/7scditB0ba2LS1MI2tH5J2) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/75mFVbvIfN96IFsX2TbJvT) | 2:20 |
 | 50 | [La Weed](https://open.spotify.com/track/3Qe4g2M8lld0lmyE2LLRNk) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:10 |
 
-Snapshot ID: `MCwwMDk3Nzk0YjFlNmNiM2MzNzk4ZjcyYzA1M2FjNDE4YjZiYzNlYjA2`
+Snapshot ID: `MCwwYTA3Zjc4MDQ1ZGM3ZDM3MGY5ZDU4YTU3YjY3NGIxNGRlNDhkYzI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,647 likes - 150 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,878 likes - 150 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [The Nighthawks Are Out](https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Long Cool World](https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o) | 5:16 |
 | 150 | [Book of Memories](https://open.spotify.com/track/5DR6USTGyxwdUKAiULZGYs) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Catching Rabbits](https://open.spotify.com/album/2OZngTNbmegPhnUPITvkTy) | 2:58 |
 
-Snapshot ID: `MCwwMmIyNjg5MjQ0MzE4ZGZiYTE3M2UzOGJmNDQyY2E4YjMwMGE3ZmY1`
+Snapshot ID: `MCxkY2UyMjQ0NjU5ZmNhMzI3ZDcyN2JiNDQ1ZDlkNjkwYzk2N2Y2ZjUw`

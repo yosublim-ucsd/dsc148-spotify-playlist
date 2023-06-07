@@ -488,7 +488,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 199640,
       "name": "Ladies Man",
       "url": "https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a"
@@ -690,6 +690,24 @@
       "duration_ms": 224040,
       "name": "Pink Elephant",
       "url": "https://open.spotify.com/track/5SMpDEyuUY8vKmWiQar4BF"
+    },
+    {
+      "album": {
+        "name": "Rapid City Muscle Car",
+        "url": "https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224052,
+      "name": "Pink Elephant",
+      "url": "https://open.spotify.com/track/09ixyQNF20bjWpzg4zytga"
     },
     {
       "album": {

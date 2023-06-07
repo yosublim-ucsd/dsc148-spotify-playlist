@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> IAI QUAL VAI SE
+> NO PAPÊ FAZ ASSÊ VENEVENEVENEME toma toma toma toma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,596 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,414 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 |
-| 2 | [Pitbull Enraivado](https://open.spotify.com/track/7jWEgucKOoKvzrV9dV2E3Q) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [POLLY HITMADO](https://open.spotify.com/album/2iQVaMwqHCSOtQaWvALe80) | 4:11 |
-| 3 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 |
+| 2 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 |
+| 3 | [Pitbull Enraivado](https://open.spotify.com/track/7jWEgucKOoKvzrV9dV2E3Q) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [POLLY HITMADO](https://open.spotify.com/album/2iQVaMwqHCSOtQaWvALe80) | 4:11 |
 | 4 | [Papin](https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY) | [Tamborzão Raiz](https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW) | 2:02 |
 | 5 | [Não Para](https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Charles New](https://open.spotify.com/artist/7CK5FIA9viaFGVnDnfbuw8) | [Não Para](https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re) | 3:00 |
 | 6 | [Wonderful Brazilian Pagode](https://open.spotify.com/track/1MmUMIQwRkHKvOPH8mQjpU) | [MacGrath](https://open.spotify.com/artist/0q2zucJKzLaaOWh50pYzjW) | [Wonderful Brazilian Pagode](https://open.spotify.com/album/59JcV8EcQeNk6ptU9W6KAA) | 4:48 |
-| 7 | [Ela Voltou de Perna Bamba](https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP), [MC Pê Original](https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC) | [Ela Voltou de Perna Bamba](https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs) | 3:19 |
+| 7 | [Ela Voltou de Perna Bamba](https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [MC Pê Original](https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Ela Voltou de Perna Bamba](https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs) | 3:19 |
 | 8 | [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 |
 | 9 | [QUE EU VOU TE BOTAR](https://open.spotify.com/track/5KeRe32bIOU5rUa2MBzJnW) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Menor do Engenho](https://open.spotify.com/artist/48OIkMByRxvJ6bxHrnCwLS) | [QUE EU VOU TE BOTAR](https://open.spotify.com/album/5fUkvbwQFcdsOHtEd1IkC3) | 2:16 |
 | 10 | [085 \- Ao Vivo](https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 2:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 59 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 |
 | 60 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCwyM2VmYmE3Zjg2ZTc5OGJkNzFiNzNhZTc0ZTE0MWJkN2Q5Zjc4M2Jk`
+Snapshot ID: `MCxiODY5NTc0NWQ3ZjFkOWE0Zjg4NTYwZjkzYjBjMGRmZDlkODZjOTUy`

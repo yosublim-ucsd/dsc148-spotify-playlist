@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "New Hip Hop from India. Cover- Tsumyoki",
+  "description": "New Hip Hop from India. Cover- Munawar Faruqui",
   "name": "Taaza hai bro!",
   "tracks": [
     {
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "King Of Indian Hip Hop",
+        "url": "https://open.spotify.com/album/6CiopvBPnSPd7G6l3qbbHt"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440869,
+      "name": "King Of Indian Hip Hop",
+      "url": "https://open.spotify.com/track/21noylFh40f8j2lyWah95R"
+    },
+    {
+      "album": {
         "name": "King Of The Streets (Intro)",
         "url": "https://open.spotify.com/album/4bLCFr5ikH6eMXO9T5QLZ5"
       },
@@ -1580,6 +1598,36 @@
       "duration_ms": 137931,
       "name": "LOVESICK",
       "url": "https://open.spotify.com/track/5kKacCe5JukBnFGa11NFJ1"
+    },
+    {
+      "album": {
+        "name": "Madari",
+        "url": "https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8"
+      },
+      "artists": [
+        {
+          "name": "Munawar Faruqui",
+          "url": "https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl"
+        },
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        },
+        {
+          "name": "Farhan Khan",
+          "url": "https://open.spotify.com/artist/24ltYRztptq8hTRRVqhRdX"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201151,
+      "name": "Madari (feat. Karan Kanchan)",
+      "url": "https://open.spotify.com/track/6mn6FTPISyKwCo4On7CmVZ"
     },
     {
       "album": {
@@ -2128,6 +2176,24 @@
       "duration_ms": 191437,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/5qox4CsUE4Lq669aGbZDnm"
+    },
+    {
+      "album": {
+        "name": "STAY DOWN",
+        "url": "https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx"
+      },
+      "artists": [
+        {
+          "name": "ZZ",
+          "url": "https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188059,
+      "name": "STAY DOWN",
+      "url": "https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 57701,
+  "num_followers": 57780,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTY2MGE3Yzc5NWIyNTA2ZDY3NTc0Y2Q2MTQ3YTcxYjg4NTIyMjdi",
+  "snapshot_id": "MCw0OTVmYTg2MTgzZGZmMDhjYzMyZDg1MWM5MzZlNDFjMzRhZTczMTBh",
   "tracks": [
     {
       "added_at": "2023-05-22 14:21:52",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 230040,
+      "name": "Going To Chicago",
+      "url": "https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
         "name": "My Feeling For the Blues",
         "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 216093,
       "name": "I Ain't Blue - 2008 Remaster",
       "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
-        "name": "Somebody Loan Me A Dime",
-        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 230040,
-      "name": "Going To Chicago",
-      "url": "https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 261092,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
         "name": "Buffalo Nichols",
         "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
-        "name": "That's It! / Duke Recordings Vol. III",
-        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Driftin' Blues - Single Version",
-      "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
         "name": "Come to Find",
         "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 301733,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Driftin' Blues - Single Version",
+      "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
-        "name": "Country Blues Guitar",
-        "url": "https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO"
-      },
-      "artists": [
-        {
-          "name": "Rory Block",
-          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
-        },
-        {
-          "name": "Stefan Grossman",
-          "url": "https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Walking Blues",
-      "url": "https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
         "name": "Sun Records Originals: Mystery Train",
         "url": "https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 144400,
       "name": "Mystery Train - Remastered 2022",
       "url": "https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
+        "name": "Country Blues Guitar",
+        "url": "https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO"
+      },
+      "artists": [
+        {
+          "name": "Rory Block",
+          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
+        },
+        {
+          "name": "Stefan Grossman",
+          "url": "https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Walking Blues",
+      "url": "https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
-        "name": "Solid Air",
-        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
-      },
-      "artists": [
-        {
-          "name": "John Martyn",
-          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "The Easy Blues",
-      "url": "https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
         "name": "For Blind Willie",
         "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 361970,
       "name": "Lord I Just Can't Keep from Crying",
       "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
+        "name": "Solid Air",
+        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
+      },
+      "artists": [
+        {
+          "name": "John Martyn",
+          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "The Easy Blues",
+      "url": "https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Tell Me Baby",
-      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 298293,
       "name": "Outside (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
+        "name": "Racing To A Red Light",
+        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Racing To A Red Light",
+      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
         "name": "Too Wet to Plow",
         "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
-        "name": "Racing To A Red Light",
-        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Racing To A Red Light",
-      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
         "name": "A Soul to Claim",
         "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 236182,
       "name": "Money Talks",
       "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
+        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
+        "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
+      },
+      "artists": [
+        {
+          "name": "Jo Ann Kelly",
+          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
+        }
+      ],
+      "duration_ms": 216186,
+      "name": "Someday Baby Blues",
+      "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -1251,22 +1267,6 @@
       "duration_ms": 200987,
       "name": "The Future Ain't What It Used to Be",
       "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
-        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
-        "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
-      },
-      "artists": [
-        {
-          "name": "Jo Ann Kelly",
-          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
-        }
-      ],
-      "duration_ms": 216186,
-      "name": "Someday Baby Blues",
-      "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
+        "name": "The Ballad of Lampshade Ed",
+        "url": "https://open.spotify.com/album/4KU9nwpcEZ7a9dLCK54h4t"
+      },
+      "artists": [
+        {
+          "name": "The Curse of K.K. Hammond",
+          "url": "https://open.spotify.com/artist/4TQUTH8e8BgMZDvrdmmGxf"
+        },
+        {
+          "name": "David & the Devil",
+          "url": "https://open.spotify.com/artist/7GcZ1tsQ800s4vKDoN3d2C"
+        }
+      ],
+      "duration_ms": 206471,
+      "name": "The Ballad of Lampshade Ed",
+      "url": "https://open.spotify.com/track/7ixLX2F07QhrX4JEOJuFeX"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1407,26 +1427,6 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
-        "name": "The Ballad of Lampshade Ed",
-        "url": "https://open.spotify.com/album/4KU9nwpcEZ7a9dLCK54h4t"
-      },
-      "artists": [
-        {
-          "name": "The Curse of K.K. Hammond",
-          "url": "https://open.spotify.com/artist/4TQUTH8e8BgMZDvrdmmGxf"
-        },
-        {
-          "name": "David & the Devil",
-          "url": "https://open.spotify.com/artist/7GcZ1tsQ800s4vKDoN3d2C"
-        }
-      ],
-      "duration_ms": 206471,
-      "name": "The Ballad of Lampshade Ed",
-      "url": "https://open.spotify.com/track/7ixLX2F07QhrX4JEOJuFeX"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
         "name": "Devil Got My Woman",
         "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
       },
@@ -1439,22 +1439,6 @@
       "duration_ms": 315000,
       "name": "Devil Got My Woman",
       "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
-        "name": "Hangover Blues",
-        "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "Hangover Blues",
-      "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
+        "name": "Hangover Blues",
+        "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
       },
       "artists": [
         {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
         }
       ],
-      "duration_ms": 209400,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+      "duration_ms": 244746,
+      "name": "Hangover Blues",
+      "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
       },
       "artists": [
         {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
         }
       ],
-      "duration_ms": 205201,
-      "name": "Back on Top",
-      "url": "https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU"
+      "duration_ms": 209400,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -1555,6 +1539,22 @@
       "duration_ms": 288240,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 205201,
+      "name": "Back on Top",
+      "url": "https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR"
-      },
-      "artists": [
-        {
-          "name": "Marc Amacher",
-          "url": "https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0"
-        }
-      ],
-      "duration_ms": 252253,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/1upnWLTSKwbTDFYujFU6Tu"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
         "name": "Mystery Man",
         "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 291295,
       "name": "T.B. Blues",
       "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR"
+      },
+      "artists": [
+        {
+          "name": "Marc Amacher",
+          "url": "https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/1upnWLTSKwbTDFYujFU6Tu"
     },
     {
       "added_at": "2023-05-22 14:21:52",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-05-22 14:21:52",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 134093,
-      "name": "Rainy Day Blues",
-      "url": "https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7"
-    },
-    {
-      "added_at": "2023-05-22 14:21:52",
-      "album": {
         "name": "Dirtiest Little Darling / Railroad Bill",
         "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 211999,
       "name": "Dirtiest Little Darling",
       "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
+    },
+    {
+      "added_at": "2023-05-22 14:21:52",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 134093,
+      "name": "Rainy Day Blues",
+      "url": "https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7"
     },
     {
       "added_at": "2023-05-22 14:21:52",

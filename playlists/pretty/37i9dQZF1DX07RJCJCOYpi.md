@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: MJ Nebreda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,735,127 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,735,089 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 47 | [Flow Hijuepu](https://open.spotify.com/track/4bhJGQXbTQdw3GLNTr3RMZ) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Flow Hijuepu](https://open.spotify.com/album/0q2ZHI3j41g1U1zN0bEfJ8) | 2:53 |
 | 48 | [EXTASI](https://open.spotify.com/track/7x3j9aoz4TFFbteaEhTxBD) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [EXTASI](https://open.spotify.com/album/3MVQ9Twt0scstIGS1aAn5p) | 2:37 |
 
-Snapshot ID: `MCwzZjgxZTRiOTgzM2E0Y2EwZDdkMzk2NzA4ZDUxMTE0OTY5YjdkMjJk`
+Snapshot ID: `MCxiNDk5Yjg2NTBhODU4MjY2MmVjZTNiYmZlN2NlMWIyZDQ1MzliNDRl`

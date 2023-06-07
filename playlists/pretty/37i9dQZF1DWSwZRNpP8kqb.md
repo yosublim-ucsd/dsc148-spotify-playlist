@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,102 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,121 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 17 | [La Llorona \(Zamba\)](https://open.spotify.com/track/6Bf4pzA5VozuflkSxWAdmS) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD) | [Hasta El Cielo Mi Alma](https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4) | 3:21 |
 | 18 | [Oración Del Remanso](https://open.spotify.com/track/7qzvssyQLOwo1fycCSEQCK) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesion del Viento](https://open.spotify.com/album/0TgYYZdef8PHVqbaB8FLKe) | 4:28 |
 | 19 | [Chacarera De Un Triste](https://open.spotify.com/track/1Fy3NTZvDisJEACyUIpt1p) | [Natalia Barrionuevo](https://open.spotify.com/artist/3HsEpr0lLwltdTesdpkyfC) | [Folk](https://open.spotify.com/album/52oH9mSQNhPl2TskvtDrOM) | 2:36 |
-| 20 | [Amor del Monte](https://open.spotify.com/track/23BlW00INye3PrZl18b1uT) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Despertar](https://open.spotify.com/album/3wzVIA9ktCBYnUFXr3XAl8) | 2:36 |
+| 20 | [Trinchera](https://open.spotify.com/track/6SwzfwoDWstfVc0Gy2BAaa) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [Trinchera, Vol\. 1](https://open.spotify.com/album/2iid4MS5HmrfRpJwHAt31G) | 3:18 |
 | 21 | [Diez Noches de Desvelo](https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [El Amor Es Así](https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ) | 2:56 |
-| 22 | [Trinchera](https://open.spotify.com/track/6SwzfwoDWstfVc0Gy2BAaa) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [Trinchera, Vol\. 1](https://open.spotify.com/album/2iid4MS5HmrfRpJwHAt31G) | 3:18 |
+| 22 | [Amor del Monte](https://open.spotify.com/track/23BlW00INye3PrZl18b1uT) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Despertar](https://open.spotify.com/album/3wzVIA9ktCBYnUFXr3XAl8) | 2:36 |
 | 23 | [Endechas](https://open.spotify.com/track/4JXMKuZaDOpsp8d5OpOZgA) | [Tamara Castro](https://open.spotify.com/artist/6qZ4SF1cQH0Uhf5GMnAY2T) | [La Patria Digna](https://open.spotify.com/album/7ql7ekqJjXUoW4RYItZZiy) | 2:34 |
 | 24 | [Doña Ubenza](https://open.spotify.com/track/1ca4mFvkjGHuu40zFzx5df) | [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [Coplas de Sangre, Vol\. 5](https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK) | 3:28 |
 | 25 | [Días para Celebrar](https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 2:20 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 43 | [De Los Dias, Los Mas Lindos](https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Remedio Pal Alma](https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi) | 3:38 |
 | 44 | [En el Fresco de la Noche](https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [Cría](https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8) | 5:40 |
 | 45 | [La Flor del Jazmín](https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Abrazo](https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ) | 2:46 |
-| 46 | [Entre Algarroba y Durazno](https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM) | [Clara Cantore](https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe) | [Entre Algarroba y Durazno](https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC) | 4:10 |
-| 47 | [Cuando Llegue el Alba](https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI) | [Yamila Cafrune](https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV) | [Herencia](https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ) | 3:57 |
+| 46 | [Cuando Llegue el Alba](https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI) | [Yamila Cafrune](https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV) | [Herencia](https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ) | 3:57 |
+| 47 | [Entre Algarroba y Durazno](https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM) | [Clara Cantore](https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe) | [Entre Algarroba y Durazno](https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC) | 4:10 |
 | 48 | [Campo Afuera](https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG) | [Paola Arias](https://open.spotify.com/artist/5qZQs9TjnHu0KrGsRa1zIt), [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [Uno Más 6](https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf) | 2:23 |
 | 49 | [Lavanderas de Rio Chico](https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [Lorena Canta al Cuchi](https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0) | 4:20 |
 | 50 | [Vuelve a Sonar](https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Vuelve a Sonar](https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL) | 2:44 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 56 | [La Luminosa](https://open.spotify.com/track/4LaPXJhWXZeFphemEgp6M0) | [Don Olimpio](https://open.spotify.com/artist/0S9BuBCtPWNNiQgvXvk1y9), [Agustín Lumerman](https://open.spotify.com/artist/0ohmaLwafoITPezmLL9WtE), [Juan Pablo Di Leone](https://open.spotify.com/artist/6oDkfDNI4obD3rvv8WRpU9) | [Mi Fortuna](https://open.spotify.com/album/5S5fXBVVgU0E56OKh5dowP) | 3:37 |
 | 57 | [Pajarito](https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Pajarito](https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK) | 2:44 |
 | 58 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 |
-| 59 | [La Estrella Azul](https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF), [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Humanas Voces](https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac) | 3:09 |
-| 60 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
-| 61 | [Tierra, Tan Sólo](https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Tierra, Tan Sólo](https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar) | 3:52 |
+| 59 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
+| 60 | [Tierra, Tan Sólo](https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Tierra, Tan Sólo](https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar) | 3:52 |
+| 61 | [La Estrella Azul](https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF), [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Humanas Voces](https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac) | 3:09 |
 | 62 | [El seclanteño](https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Rosa De Los Vientos](https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy) | 4:46 |
 | 63 | [Zamba del Renacer](https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Victoria Morán](https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB) | [Aleteo](https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2) | 3:32 |
 | 64 | [La Noche Sin Ti](https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh) | [Mariel Trimaglio](https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu) | [La Noche Sin Ti](https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU) | 4:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 |
 | 75 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
 
-Snapshot ID: `MCxhZTE1ZTdhNDNhM2I0YTRlOWEzZjMxY2QxN2VkNmVmYzNhNjI3NDMx`
+Snapshot ID: `MCw0M2NlMzg2ODhlZTUyMTIyM2JmNDkxY2I4Mzc2MzNiMjQ2ODM0Y2Q2`

@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring KHEA.",
-  "num_followers": 4697,
+  "num_followers": 4729,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTgzMGU1OTU4YjNhYzFiN2M0NGYyMjc1MGQwMGZlMTI2ZGFjNTRk",
+  "snapshot_id": "MCwyMTZkZDFkZDllNzQ5YmIzYzY5YmI1Y2VkZmI4MWQ5YTI4YmFkNTk3",
   "tracks": [
     {
       "added_at": "2023-06-05 23:10:06",
@@ -96,7 +96,7 @@
       "added_at": "2023-06-05 23:10:06",
       "album": {
         "name": "rimas del verbo amar",
-        "url": "https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5"
+        "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
       },
       "artists": [
         {
@@ -106,7 +106,7 @@
       ],
       "duration_ms": 162746,
       "name": "\u00f3diame si quieres",
-      "url": "https://open.spotify.com/track/081GMHsFEpJWIxNRzDVq6d"
+      "url": "https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm"
     },
     {
       "added_at": "2023-06-05 23:10:06",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-06-05 23:10:06",
       "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 184195,
-      "name": "Lentamente",
-      "url": "https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L"
-    },
-    {
-      "added_at": "2023-06-05 23:10:06",
-      "album": {
         "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
         "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 186045,
       "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
+    },
+    {
+      "added_at": "2023-06-05 23:10:06",
+      "album": {
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 184195,
+      "name": "Lentamente",
+      "url": "https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L"
     },
     {
       "added_at": "2023-06-05 23:10:06",

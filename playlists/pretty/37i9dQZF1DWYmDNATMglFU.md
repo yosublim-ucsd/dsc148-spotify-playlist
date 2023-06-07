@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. lauren sanderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,254 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,306 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 18 | [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 |
 | 19 | [Alright](https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Alright](https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9) | 3:22 |
 | 20 | [sound in my head](https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [you were good to me \(deluxe\)](https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T) | 2:31 |
-| 21 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF) | 3:06 |
+| 21 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/0BIVeIl2HY2fElVxUCD9RV) | 3:06 |
 | 22 | [have u got a light?](https://open.spotify.com/track/4OUZX15W3IEdabaQXkfhcW) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Somber Hills](https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P) | [have u got a light?](https://open.spotify.com/album/2AkXths30HAnhoXb6Is4gM) | 2:03 |
 | 23 | [slippery slope](https://open.spotify.com/track/4phL2G8BkO2jiksWSgQjms) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [i love my dog](https://open.spotify.com/album/50IiyPghwNtbBAds4Qkdr8) | 2:19 |
 | 24 | [Certified Depressant](https://open.spotify.com/track/69kWNJKHnRH73WkKPT3QU4) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/4sI51hGGXuzZYCBnSC7LMs) | 2:49 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
 | 85 | [I Don't Like You..OK](https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG), [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Untouched Hearts \- EP](https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO) | 1:52 |
 
-Snapshot ID: `MCxiMDE4ZDBlMmVlMWE0YTcyZmY5YmQ0YTUwODQ4NTRkYTc0ZjllNjk1`
+Snapshot ID: `MCwyNjQ2Yjg5NWNiNWRiMGVmZGM4NTMyNzM0MDU1NjMxNzZkYjk4M2Y5`

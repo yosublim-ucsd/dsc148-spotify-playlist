@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Chappell Roan
 
-1,666 songs - 3 day 12 hr 42 min
+1,667 songs - 3 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1614,7 +1614,8 @@
 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 | 2023-05-19 |  |
 | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/track/63CGV6P4cEYZvUgvVhZWAl) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/album/5QKRK4MEDqyjPmX4dErfTw) | 3:12 | 2021-06-16 | 2022-07-16 |
 | [what's the matter with you](https://open.spotify.com/track/51ov0GSQflAdL1IRga0zSF) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [what's the matter with you](https://open.spotify.com/album/30rzHPzFWkagAe2AiPKOBY) | 3:16 | 2022-10-14 | 2022-10-29 |
-| [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 |  |
+| [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 | 2023-06-07 |
+| [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 |  |
 | [Whatever You Want](https://open.spotify.com/track/4ZSrRU8pPoieBahQ0ZMefB) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Whatever You Want](https://open.spotify.com/album/1b8kG4SDFHlIUpFiOlPhkL) | 3:04 | 2023-01-20 | 2023-02-04 |
 | [Whatever You Want](https://open.spotify.com/track/3qskzElWxkInIwK3zm8WW7) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Whatever You Want](https://open.spotify.com/album/7uPYJlZtWuThRn1hZHxOSG) | 3:20 | 2020-06-12 | 2021-11-10 |
 | [When I Die](https://open.spotify.com/track/0GXnZ1eaJ2TmbFXrDX7pnU) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [When I Die](https://open.spotify.com/album/6wjps6LANkpBonwtE1VXw8) | 2:37 | 2019-05-26\* | 2021-05-27 |

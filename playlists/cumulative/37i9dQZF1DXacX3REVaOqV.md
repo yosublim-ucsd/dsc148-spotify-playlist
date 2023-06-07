@@ -4,7 +4,7 @@
 
 > The best in house music
 
-322 songs - 23 hr 3 min
+323 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Cortez \- Laidback Luke 1997 Remix](https://open.spotify.com/track/5mRbflnp2y4Dxe9GLVq8JO) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [Cortez \(Laidback Luke's 1997 Remix\)](https://open.spotify.com/album/3wRcmlQ9jYqH1nT82M83ew) | 3:53 | 2022-12-08 | 2023-02-01 |
 | [Cosmic Witch \(feat\. Anané\) \- Mochakk Remix](https://open.spotify.com/track/6DFsOKG0Xlf441cChjW8lV) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Anane](https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Cosmic Witch \(feat\. Anané\) \[Mochakk Remix\]](https://open.spotify.com/album/38fWBTKNq37hFnBRCruAVm) | 4:00 | 2023-02-02 |  |
 | [Cuttin](https://open.spotify.com/track/2SLX3GGCWpZyZO95L21MuA) | [DJ Dove](https://open.spotify.com/artist/4d6dDvAt5jdSDAhH33UabE) | [Cuttin](https://open.spotify.com/album/54sLvR7jIk07lqJMONPkqv) | 3:14 | 2022-04-14 | 2022-07-29 |
+| [D.A.N.C.E.](https://open.spotify.com/track/0MZRo88rWKsWlRzM61Tyv2) | [Superlover](https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO) | [D.A.N.C.E.](https://open.spotify.com/album/43ZNEDJJifJJZk7hFa9pvO) | 4:35 | 2023-05-31 |  |
 | [D.A.N.C.E.](https://open.spotify.com/track/2mhRsvVVfukHWklTrRpnCB) | [Superlover](https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO) | [D.A.N.C.E.](https://open.spotify.com/album/0qaub7PZVrrkzZ0A99YsAn) | 4:35 | 2022-04-14 | 2023-05-11 |
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-09-15 |  |
 | [Dance \- Hills Mix](https://open.spotify.com/track/6YPTwdX857pt8aukdjWqBW) | [Os Digitalistas](https://open.spotify.com/artist/5O4Wo1qbQZNpzBYC2qNahm) | [Dance \(Hills Mix\)](https://open.spotify.com/album/4PejagKHSIAq3Qy3LdqDUB) | 2:59 | 2022-07-28 | 2023-02-10 |
@@ -179,7 +180,7 @@
 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta) | 3:13 | 2022-07-28 | 2022-11-21 |
 | [Love Nor Money](https://open.spotify.com/track/409lSJ3BoGROb8UqcoVPDC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Love Nor Money](https://open.spotify.com/album/5bDSA6cISLFXwLOl5BdFZl) | 2:50 | 2023-04-06 |  |
 | [Love Recycled 1](https://open.spotify.com/track/0fBzgsaU1cDoS5dFI34dSB) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Love Recycled EP](https://open.spotify.com/album/4BH7j7VQwM6V3C45tTRYj6) | 7:29 | 2022-04-14 | 2022-10-14 |
-| [Love Somebody Else \- Sandy Rivera & Aruhtra's Mix](https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX) | [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [Aruhtra](https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv), [April Morgan](https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz) | [Love Somebody Else](https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn) | 2:40 | 2022-04-14 |  |
+| [Love Somebody Else \- Sandy Rivera & Aruhtra's Mix](https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX) | [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [Aruhtra](https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv), [April Morgan](https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz) | [Love Somebody Else](https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn) | 2:40 | 2022-04-14 | 2023-06-07 |
 | [Love Story](https://open.spotify.com/track/6g99OTGhJ4BnXDHerdufGR) | [Layo & Bushwacka!](https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc) | [Night Works](https://open.spotify.com/album/3P5IxDoyVaExcDP8IcGkK1) | 5:12 | 2022-06-20 | 2022-06-23 |
 | [Lovelee Dae \- Original](https://open.spotify.com/track/3CUZhJEreKw7B80VTL9K6e) | [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN) | [Lovelee Dae](https://open.spotify.com/album/2ZxEsmg67xjh02SjNbQuaQ) | 7:36 | 2022-04-20 | 2023-04-07 |
 | [Loving U](https://open.spotify.com/track/0fEMbkLjNZ4V33KO4mLdP5) | [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [Loving U](https://open.spotify.com/album/2uwg3LXH6aitHO3qDIgH4j) | 3:01 | 2022-04-14 | 2022-07-28 |

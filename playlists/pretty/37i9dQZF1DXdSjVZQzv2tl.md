@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Simone Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,263,140 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,265,708 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Mal Feito \- Ao Vivo](https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Mal Feito \(Ao Vivo\)](https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I) | 2:57 |
 | 50 | [Não Sei o Que Lá](https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei o Que Lá](https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye) | 2:49 |
 
-Snapshot ID: `MCw3MjE3YjBiNDI1MWUzMjAxNGM5Yjk4NDI2ZGU1OGE1N2RjYWZkNzdk`
+Snapshot ID: `MCwwYjU2OTllNWIxZDZhNjY5MDBjZDY4NTE1NWExZGRkNjY2MTM2NzE1`

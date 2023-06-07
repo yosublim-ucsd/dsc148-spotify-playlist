@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: AB6IX
 
-809 songs - 1 day 20 hr 51 min
+810 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,8 @@
 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-17 | 2022-06-30 |
 | [Love Me Crazy](https://open.spotify.com/track/0Ecg38NuC10SNJzxi1sudZ) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Love Me Crazy \- SM STATION](https://open.spotify.com/album/0qRkKheCFfVQIQOYa0fP2D) | 3:00 | 2023-03-06 | 2023-04-21 |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2021-08-05 | 2021-11-12 |
-| [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-20 |  |
+| [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-20 | 2023-06-07 |
+| [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 | 2023-05-30 |  |
 | [Love Note!](https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Love Note!](https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq) | 3:14 | 2022-07-13 | 2022-09-09 |
 | [Love or Die](https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:05 | 2023-02-17 | 2023-05-16 |
 | [Love Right Back \(feat\. TAEIL of NCT, lIlBOI\)](https://open.spotify.com/track/1XAjHcWjzNbYlVi9uSp1ko) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:14 | 2021-10-16 | 2021-12-02 |

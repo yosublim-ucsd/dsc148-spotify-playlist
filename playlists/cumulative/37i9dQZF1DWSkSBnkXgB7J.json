@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-05",
-  "description": "Everything you need to hear from the most exciting artists. Handpicked by our editors. Cover: BiGSaM.",
+  "description": "Everything you need to hear from the most exciting artists. Handpicked by our editors. Cover: Mohammed Saeed.",
   "name": "RADAR ARABIA",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 201379,
       "name": "3abali",
       "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
@@ -46,6 +46,24 @@
       "duration_ms": 201379,
       "name": "3abali",
       "url": "https://open.spotify.com/track/5IfQ6aRrUAAZvR0in4uoyA"
+    },
+    {
+      "album": {
+        "name": "7 PM",
+        "url": "https://open.spotify.com/album/2dFBkn85KWOQ2JwcPuJtt2"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "7 PM",
+      "url": "https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3"
     },
     {
       "album": {
@@ -150,7 +168,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 243200,
       "name": "Astahlik",
       "url": "https://open.spotify.com/track/2qCz9zvGLV479cUTzeXjNq"
@@ -334,7 +352,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 192765,
       "name": "Drama",
       "url": "https://open.spotify.com/track/3d4Tcv2Cjq51lPoTTU6dse"
@@ -432,7 +450,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 200533,
       "name": "FAWDA",
       "url": "https://open.spotify.com/track/5WxlfJ1bzFVP2keqmQnMTC"
@@ -534,7 +552,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 257238,
       "name": "Hawelna Keter",
       "url": "https://open.spotify.com/track/6tc1iDgFurBNcXQa8QjKrd"
@@ -962,7 +980,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 200699,
       "name": "Met3ala2 Beeky",
       "url": "https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO"
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 251176,
       "name": "Wojoud Efterady",
       "url": "https://open.spotify.com/track/0kd00pkjvrTrK8dDKmwMCr"
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 196695,
       "name": "\u062c\u0627\u064a\u064a \u0644\u0643",
       "url": "https://open.spotify.com/track/5O2M4jyybgemMnEycvY0d7"
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 164515,
       "name": "\u0642\u0644\u0628\u064a \u0627\u0644\u062c\u0627\u0645\u062f",
       "url": "https://open.spotify.com/track/2b6UTABkSjxidB4zavLW4Z"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 173254,
       "name": "\u0643\u0648\u0646\u064a",
       "url": "https://open.spotify.com/track/4nmZ8hzRX14xtcQr1i5PIk"
@@ -1824,7 +1842,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 186031,
       "name": "\u064a\u0627 \u062d\u0628\u064a\u0628\u0629",
       "url": "https://open.spotify.com/track/4rS1EJLl0OJyXkfijXih7Y"

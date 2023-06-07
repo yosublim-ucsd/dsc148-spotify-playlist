@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 54999,
+  "num_followers": 55106,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTRlM2U5MjZiOTA2MWFkNjRmMDhkNTM3N2M2YTVlZTg2ODY0MmI2",
+  "snapshot_id": "MCw3YjE4NzI1MTNmNTYxZTdlYTM2ODJiOWRkZjZiNjFjN2IxNWE2ZmRm",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -571,46 +571,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Leave",
-        "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
-      },
-      "artists": [
-        {
-          "name": "The Szns",
-          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
-        },
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        }
-      ],
-      "duration_ms": 174635,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "miles",
-        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "miles (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Space and Time",
         "url": "https://open.spotify.com/album/1Wv3UDxtjeoUYbWzMoWNyk"
       },
@@ -635,6 +595,46 @@
       "duration_ms": 190615,
       "name": "Space and Time",
       "url": "https://open.spotify.com/track/2NHtAJhXVOnSIN2lZhbpWz"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 162196,
+      "name": "miles (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
+      },
+      "artists": [
+        {
+          "name": "The Szns",
+          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
+        },
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 174635,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "All I Need (VIP)",
-        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "All I Need - VIP",
-      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "We Are Young (Jersey Club)",
         "url": "https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 109124,
       "name": "We Are Young (Jersey Club)",
       "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "All I Need (VIP)",
+        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "All I Need - VIP",
+      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
     },
     {
       "added_at": "2023-05-26 04:00:00",

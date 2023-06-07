@@ -1,12 +1,12 @@
 {
-  "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana e dai suoi alleati. Asteria in cover! \u2728 ",
-  "num_followers": 5551,
+  "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Asteria in cover! \u2728 ",
+  "num_followers": 5556,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzJkODZlNTA4YTgwNTYzMmEyNjgyMmE2MWVjZjAxYTZlODZjZTBm",
+  "snapshot_id": "MCxlNDU0YTZiZGI0Mzk1YWUzYzJlZWRlYmI2MDRjMjAyYjA5YmFiZDA0",
   "tracks": [
     {
       "added_at": "2023-06-05 14:55:38",
@@ -863,26 +863,18 @@
     {
       "added_at": "2023-06-05 14:55:38",
       "album": {
-        "name": "CLUB TOPPERIA",
-        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
+        "name": "Raffaella (1978)",
+        "url": "https://open.spotify.com/album/5LHjd1x4xdCt1SO5rJeypj"
       },
       "artists": [
         {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "LA NI\u00d1A",
-          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
-        },
-        {
-          "name": "BigMama",
-          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
         }
       ],
-      "duration_ms": 155400,
-      "name": "XTC (feat. LA NI\u00d1A & BigMama)",
-      "url": "https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy"
+      "duration_ms": 227613,
+      "name": "Tanti auguri",
+      "url": "https://open.spotify.com/track/46vuDoOH9wmr0CDpomHdR4"
     },
     {
       "added_at": "2023-06-05 14:55:38",
@@ -919,30 +911,6 @@
     {
       "added_at": "2023-06-05 14:55:38",
       "album": {
-        "name": "Dulce de Leche (feat. M\u00a5SS KETA) [M\u00a5SS KETA remix]",
-        "url": "https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla"
-      },
-      "artists": [
-        {
-          "name": "boyrebecca",
-          "url": "https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo"
-        },
-        {
-          "name": "ilromantico",
-          "url": "https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh"
-        },
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        }
-      ],
-      "duration_ms": 186234,
-      "name": "Dulce de Leche (feat. M\u00a5SS KETA) - M\u00a5SS KETA remix",
-      "url": "https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ"
-    },
-    {
-      "added_at": "2023-06-05 14:55:38",
-      "album": {
         "name": "Lingua in Fiamme",
         "url": "https://open.spotify.com/album/2LKM66yAYt1a0XS0jCdymF"
       },
@@ -955,22 +923,6 @@
       "duration_ms": 183196,
       "name": "Lingua in Fiamme",
       "url": "https://open.spotify.com/track/66dUFD7kK9aHU4AwKJeMEL"
-    },
-    {
-      "added_at": "2023-06-05 14:55:38",
-      "album": {
-        "name": "Raffaella (1978)",
-        "url": "https://open.spotify.com/album/5LHjd1x4xdCt1SO5rJeypj"
-      },
-      "artists": [
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "Tanti auguri",
-      "url": "https://open.spotify.com/track/46vuDoOH9wmr0CDpomHdR4"
     },
     {
       "added_at": "2023-06-05 14:55:38",
@@ -1011,6 +963,22 @@
     {
       "added_at": "2023-06-05 14:55:38",
       "album": {
+        "name": "FOREVER SPEEDING THROUGH DARKNESS",
+        "url": "https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO"
+      },
+      "artists": [
+        {
+          "name": "European Vampire",
+          "url": "https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS"
+        }
+      ],
+      "duration_ms": 231774,
+      "name": "LANCIA DELTA INTEGRALE",
+      "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
+    },
+    {
+      "added_at": "2023-06-05 14:55:38",
+      "album": {
         "name": "REGNO DEI CUORI",
         "url": "https://open.spotify.com/album/5B0ZeZfp2B8DnX4AcqHIf9"
       },
@@ -1031,46 +999,6 @@
       "duration_ms": 202792,
       "name": "REGNO DEI CUORI",
       "url": "https://open.spotify.com/track/6ccU7LnsRFPt1Y6fUCcHHl"
-    },
-    {
-      "added_at": "2023-06-05 14:55:38",
-      "album": {
-        "name": "FOREVER SPEEDING THROUGH DARKNESS",
-        "url": "https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO"
-      },
-      "artists": [
-        {
-          "name": "European Vampire",
-          "url": "https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS"
-        }
-      ],
-      "duration_ms": 231774,
-      "name": "LANCIA DELTA INTEGRALE",
-      "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
-    },
-    {
-      "added_at": "2023-06-05 14:55:38",
-      "album": {
-        "name": "CLUB TOPPERIA",
-        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "Kiddy Smile",
-          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
-        },
-        {
-          "name": "David Blank",
-          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "MOVESET (feat. Kiddy Smile & David Blank)",
-      "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
     },
     {
       "added_at": "2023-06-05 14:55:38",
@@ -1115,22 +1043,6 @@
     {
       "added_at": "2023-06-05 14:55:38",
       "album": {
-        "name": "La Suora",
-        "url": "https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk"
-      },
-      "artists": [
-        {
-          "name": "Romina Falconi",
-          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
-        }
-      ],
-      "duration_ms": 183311,
-      "name": "La Suora",
-      "url": "https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq"
-    },
-    {
-      "added_at": "2023-06-05 14:55:38",
-      "album": {
         "name": "Fammi sapere",
         "url": "https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0"
       },
@@ -1163,18 +1075,18 @@
     {
       "added_at": "2023-06-05 14:55:38",
       "album": {
-        "name": "Numeri primi",
-        "url": "https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH"
+        "name": "La Suora",
+        "url": "https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk"
       },
       "artists": [
         {
-          "name": "HU",
-          "url": "https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6"
+          "name": "Romina Falconi",
+          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
         }
       ],
-      "duration_ms": 168009,
-      "name": "Millemila",
-      "url": "https://open.spotify.com/track/6DT748xDp7JJMVwdFikBiO"
+      "duration_ms": 183311,
+      "name": "La Suora",
+      "url": "https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq"
     },
     {
       "added_at": "2023-06-05 14:55:38",
@@ -1199,22 +1111,18 @@
     {
       "added_at": "2023-06-05 14:55:38",
       "album": {
-        "name": "Morsi",
-        "url": "https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa"
+        "name": "Numeri primi",
+        "url": "https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH"
       },
       "artists": [
         {
-          "name": "Ditonellapiaga",
-          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
-        },
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+          "name": "HU",
+          "url": "https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Repito - Populous Remix",
-      "url": "https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw"
+      "duration_ms": 168009,
+      "name": "Millemila",
+      "url": "https://open.spotify.com/track/6DT748xDp7JJMVwdFikBiO"
     },
     {
       "added_at": "2023-06-05 14:55:38",
@@ -1235,6 +1143,26 @@
       "duration_ms": 150834,
       "name": "Mami Daddy",
       "url": "https://open.spotify.com/track/5VHcNSkMpkjiw245BovVm2"
+    },
+    {
+      "added_at": "2023-06-05 14:55:38",
+      "album": {
+        "name": "Morsi",
+        "url": "https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa"
+      },
+      "artists": [
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        },
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Repito - Populous Remix",
+      "url": "https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw"
     },
     {
       "added_at": "2023-06-05 14:55:38",
@@ -1275,30 +1203,6 @@
     {
       "added_at": "2023-06-05 14:55:38",
       "album": {
-        "name": "Giovanna Hardcore (P:Gold Remix by Obi Baby & Lorenzo Lsp)",
-        "url": "https://open.spotify.com/album/6Yu9S6msBjiFwLOKKFqBef"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "Obi Baby",
-          "url": "https://open.spotify.com/artist/2N6ycpKKVOBashcsykeFIm"
-        },
-        {
-          "name": "Lorenzo LSP",
-          "url": "https://open.spotify.com/artist/3FrxwQZ9a63FthLgFFowOT"
-        }
-      ],
-      "duration_ms": 354285,
-      "name": "Giovanna Hardcore (P:Gold Remix by Obi Baby & Lorenzo Lsp)",
-      "url": "https://open.spotify.com/track/313f54gz797kJ6Cr7hKszt"
-    },
-    {
-      "added_at": "2023-06-05 14:55:38",
-      "album": {
         "name": "Nuda",
         "url": "https://open.spotify.com/album/5q3Qt3eOUcVfSxeeWrVIHs"
       },
@@ -1319,22 +1223,6 @@
     {
       "added_at": "2023-06-05 14:55:38",
       "album": {
-        "name": "Superomantico",
-        "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
-      },
-      "artists": [
-        {
-          "name": "Vergo",
-          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
-        }
-      ],
-      "duration_ms": 161302,
-      "name": "Superomantico",
-      "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
-    },
-    {
-      "added_at": "2023-06-05 14:55:38",
-      "album": {
         "name": "Zucchero",
         "url": "https://open.spotify.com/album/2cXFVGdObf28i68Sl6GMPs"
       },
@@ -1351,6 +1239,114 @@
       "duration_ms": 233920,
       "name": "Honey - Original mix",
       "url": "https://open.spotify.com/track/5AGGlWNS6to8ccEt4goFd8"
+    },
+    {
+      "added_at": "2023-06-05 14:55:38",
+      "album": {
+        "name": "Superomantico",
+        "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
+      },
+      "artists": [
+        {
+          "name": "Vergo",
+          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
+        }
+      ],
+      "duration_ms": 161302,
+      "name": "Superomantico",
+      "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
+    },
+    {
+      "added_at": "2023-06-05 14:55:38",
+      "album": {
+        "name": "We're So Lovely (Hard Ton Remix)",
+        "url": "https://open.spotify.com/album/1AtJBkGpJIZb8Ftl2bkWdj"
+      },
+      "artists": [
+        {
+          "name": "Daddy Squad",
+          "url": "https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj"
+        },
+        {
+          "name": "Hard Ton",
+          "url": "https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK"
+        }
+      ],
+      "duration_ms": 254186,
+      "name": "We're So Lovely - Hard Ton Remix",
+      "url": "https://open.spotify.com/track/6qxn9Wge4mHwcDhr8R6R0p"
+    },
+    {
+      "added_at": "2023-06-05 14:55:38",
+      "album": {
+        "name": "Maison Belissimo",
+        "url": "https://open.spotify.com/album/2rQu03UOssXQjmatsLxWfb"
+      },
+      "artists": [
+        {
+          "name": "Bruno Belissimo",
+          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
+        },
+        {
+          "name": "Kuntessa",
+          "url": "https://open.spotify.com/artist/3vJiNTj6tI54H1wa61rDlU"
+        }
+      ],
+      "duration_ms": 234349,
+      "name": "Play With Myself",
+      "url": "https://open.spotify.com/track/2oSAdln9nEAmkeXyKZuHBu"
+    },
+    {
+      "added_at": "2023-06-05 14:55:38",
+      "album": {
+        "name": "LA POLICE",
+        "url": "https://open.spotify.com/album/1wwK4u12VfUgXNsXUjE2km"
+      },
+      "artists": [
+        {
+          "name": "SPLENDORE",
+          "url": "https://open.spotify.com/artist/0WeNBS6jjzTYWe3eywkuuq"
+        },
+        {
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX"
+        },
+        {
+          "name": "Pan Dan",
+          "url": "https://open.spotify.com/artist/4vfG2njRnPeOTEq3OpW3T6"
+        }
+      ],
+      "duration_ms": 203624,
+      "name": "LA POLICE",
+      "url": "https://open.spotify.com/track/1cTi2HkrcMPbyVoqzNUqwr"
+    },
+    {
+      "added_at": "2023-06-05 14:55:38",
+      "album": {
+        "name": "Blush Beat - The Remixes",
+        "url": "https://open.spotify.com/album/6PnzeNea8JTfMSNYRWfOYg"
+      },
+      "artists": [
+        {
+          "name": "Club Domani",
+          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
+        },
+        {
+          "name": "Stephanie Glitter",
+          "url": "https://open.spotify.com/artist/5BDKqi6ps6jHrpvY8wL1MI"
+        },
+        {
+          "name": "EMMANUELLE",
+          "url": "https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5"
+        },
+        {
+          "name": "Jerry Bouthier",
+          "url": "https://open.spotify.com/artist/0odCQ1NOW9JfbEKDE2FaAb"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "Blush Beat (Jerry Bouthier Remix)",
+      "url": "https://open.spotify.com/track/2RPnepLVtZ7UxvQu5oF68e"
     }
   ],
   "unique_name": "GLOW Italia",

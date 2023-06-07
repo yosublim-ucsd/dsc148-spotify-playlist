@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332306,
+      "name": "Chosen to Deserve",
+      "url": "https://open.spotify.com/track/1c2meJL1RaGILGSw9Lnj0P"
+    },
+    {
+      "album": {
         "name": "Chosen to Deserve",
         "url": "https://open.spotify.com/album/7geMCLNLhOhoutnVYES6t9"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 332306,
       "name": "Chosen to Deserve",
       "url": "https://open.spotify.com/track/4Qw9BVghOFfjUyVWV26m2Q"

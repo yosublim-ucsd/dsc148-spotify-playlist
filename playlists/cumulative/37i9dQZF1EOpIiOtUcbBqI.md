@@ -28,6 +28,6 @@
 | [Twice is Love](https://open.spotify.com/episode/10wmKba9ZiYqvC9hVg7WwG) | [Kpopcast](https://open.spotify.com/show/3PVkEesfbyNHwjnqx0KYCA) | [Kpopcast](https://open.spotify.com/show/3PVkEesfbyNHwjnqx0KYCA) | 40:33 | 2020-11-27 | 2023-01-20 |
 | [Welcome](https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [On Record](https://open.spotify.com/album/6Tja0wl37TsdQx2o6Ev5zH) | 0:12 | 2020-11-27 |  |
 | [You, Who?](https://open.spotify.com/track/4oklfRljGkpZjzpc5vt6qj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/7mVurXzE8Gs5x5UqV0BwTQ) | 3:39 | 2020-11-27 |  |
-| [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2020-11-27 |  |
+| [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2020-11-27 |  |
 
 \*This playlist was first scraped on 2023-01-17. Prior content cannot be recovered.

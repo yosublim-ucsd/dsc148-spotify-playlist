@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-137 songs - 7 hr 31 min
+138 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-11-16 | 2022-06-10 |
 | [Always You](https://open.spotify.com/track/0QElfro8gS3kcaoCmp931j) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Water](https://open.spotify.com/album/7neio4srvDRACrUSTdpMMf) | 4:29 | 2021-11-16 | 2022-01-22 |
 | [Attitude](https://open.spotify.com/track/7uYJ0WKppTOPPIDA4A968n) | [BE3K](https://open.spotify.com/artist/5CTU3qCfIjCOYMfzaPogFk), [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [BVTCHKWE3N](https://open.spotify.com/album/4br4HYIZRBuZOfuUSUeFV1) | 2:33 | 2021-11-16 | 2022-04-23 |
-| [Below Me \(feat\. Sasha Go Hard\) \- Total Freedom's Jezzy Pride Mix](https://open.spotify.com/track/6AU1xxNwZ841KfmMXrpac8) | [Faze Miyake](https://open.spotify.com/artist/02r0OqwedodVoAScdnZ2bD), [Sasha Go Hard](https://open.spotify.com/artist/747j7S28EFewbA0BXxLSsC) | [Faze Miyake](https://open.spotify.com/album/4W5e4ezYm49DbmL9NbO2TR) | 3:39 | 2021-11-16 |  |
+| [Below Me \(feat\. Sasha Go Hard\) \- Total Freedom's Jezzy Pride Mix](https://open.spotify.com/track/6AU1xxNwZ841KfmMXrpac8) | [Faze Miyake](https://open.spotify.com/artist/02r0OqwedodVoAScdnZ2bD), [Sasha Go Hard](https://open.spotify.com/artist/747j7S28EFewbA0BXxLSsC) | [Faze Miyake](https://open.spotify.com/album/4W5e4ezYm49DbmL9NbO2TR) | 3:39 | 2021-11-16 | 2023-06-07 |
+| [Below Me \- Total Freedom's Jezzy Pride Mix](https://open.spotify.com/track/0L7P4SXPlJhAibG8Ds73ls) | [Faze Miyake](https://open.spotify.com/artist/02r0OqwedodVoAScdnZ2bD), [Sasha Go Hard](https://open.spotify.com/artist/747j7S28EFewbA0BXxLSsC) | [Faze Miyake](https://open.spotify.com/album/4fN1nGAIO9BYMwqmVgabQi) | 3:39 | 2022-06-09 |  |
 | [BIA BIA \(feat\. Lil Jon\)](https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:05 | 2021-11-16 |  |
 | [Bite Me \(an Hipertition Pre Action\)](https://open.spotify.com/track/2lBNLLu69EADxMPbbi0l2Z) | [Imaabs](https://open.spotify.com/artist/72XTGSo6ca4qEKtXDclrg4) | [Descifrar](https://open.spotify.com/album/4LvuQHI4B7EfqmQEk0fBMI) | 3:00 | 2021-11-16 | 2022-01-29 |
 | [Black Madonna](https://open.spotify.com/track/4kl1UmmOKbfu1sCyxRwRnD) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K) | [Black Madonna](https://open.spotify.com/album/4f1mTOqhb60GHBocDFGsTh) | 2:09 | 2021-11-16 |  |

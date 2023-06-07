@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,171 likes - 174 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,162 likes - 174 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 109 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/3kVnoW7oDuuovp1SyMj9Kb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:04 |
 | 110 | [Cathedrals](https://open.spotify.com/track/3ix3bHsj4H8ceIuMe4T5T9) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Standing Still](https://open.spotify.com/album/5dfqwRqPagZSKyB6qRTW2X) | 3:57 |
 | 111 | [Christmas Dream](https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl) | [Almost Christmas](https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Maybe This Christmas, Vol\. 7: Country Sleigh Ride](https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2) | 2:57 |
-| 112 | [White Christmas](https://open.spotify.com/track/2wlJBkzRgcwXRRlElfuxm6) | [Lewis & Leigh](https://open.spotify.com/artist/4B2rbEj97bSOuTPsw9px2A) | [White Christmas](https://open.spotify.com/album/3jqnBd9kMYNQfh1WVGJZpd) | 1:34 |
+| 112 | [White Christmas](https://open.spotify.com/track/1iJ43ZraxrD7MRYEQsOCGF) | [Lewis & Leigh](https://open.spotify.com/artist/4B2rbEj97bSOuTPsw9px2A), [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7), [Alva Leigh](https://open.spotify.com/artist/0Gfyhc754mTJyx0XAxXnD5) | [White Christmas](https://open.spotify.com/album/3OSaz8W8p6TCSw9pv8Wtgm) | 1:34 |
 | 113 | [Two Turtle Doves](https://open.spotify.com/track/0otPi3y1f7sSWgHGo42ep0) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd) | 4:10 |
 | 114 | [Save Christmas Day For Me](https://open.spotify.com/track/0qrgsgJluraNxaeAKSOHjt) | [Red Sky July](https://open.spotify.com/artist/3oXTJUnPdJxYL1Uo2UcIrc) | [Save Christmas Day For Me](https://open.spotify.com/album/5qtav2tingA5jzP3Uuuhxw) | 3:44 |
 | 115 | [Away in a Manger](https://open.spotify.com/track/71QJmnikBUIwP97sk8KSg5) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Christmas Songs](https://open.spotify.com/album/5sTk7csBMRu9jPsxnJkev3) | 2:39 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 173 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 174 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 
-Snapshot ID: `MCwwODFhNjE3NzJiMmVkYjdiYmQzNzFhMjYwNGMzNWUwNDY0M2QyYjgy`
+Snapshot ID: `MCw0ZTQ0OGI0NjcxNWMzODcxY2ExNDk3ZjJkZGUyYTNmNjMzYjQwOWE3`

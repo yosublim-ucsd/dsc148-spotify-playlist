@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Magdalena Bay",
-  "num_followers": 1701563,
+  "num_followers": 1701549,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWQzNWEwN2VkODY4NWVhYmQxMzBlYzRiNjhhNDcwODBlZWY4OWZi",
+  "snapshot_id": "MCw4ZmVmN2M1Y2E3NTRkMDViNDM3ZjBhNjE4ODI2NTY3MGRiOTNiZjM1",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -156,7 +156,7 @@
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "What's up",
-        "url": "https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk"
+        "url": "https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL"
       },
       "artists": [
         {
@@ -166,7 +166,7 @@
       ],
       "duration_ms": 172881,
       "name": "What's up",
-      "url": "https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO"
+      "url": "https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH"
     },
     {
       "added_at": "2023-04-10 21:20:08",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 178617,
       "name": "Looking For Somebody (To Love)",
       "url": "https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 262623,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 262623,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "summer camp",
+        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 172354,
+      "name": "sunny day",
+      "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
+    },
+    {
       "added_at": "2023-04-21 04:19:11",
       "album": {
         "name": "Blades",
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Blue Spirits",
-        "url": "https://open.spotify.com/album/5tIgIR92xz6HfKOTOnHIfk"
-      },
-      "artists": [
-        {
-          "name": "DWLLRS",
-          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "Blue Spirits",
-      "url": "https://open.spotify.com/track/4Z3Mmn6cIeuKprHQyyAbXQ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Cognitive Dissonance",
         "url": "https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb"
       },
@@ -685,20 +685,20 @@
       "url": "https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "summer camp",
-        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
+        "name": "Blue Spirits",
+        "url": "https://open.spotify.com/album/5tIgIR92xz6HfKOTOnHIfk"
       },
       "artists": [
         {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
         }
       ],
-      "duration_ms": 172354,
-      "name": "sunny day",
-      "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
+      "duration_ms": 188307,
+      "name": "Blue Spirits",
+      "url": "https://open.spotify.com/track/4Z3Mmn6cIeuKprHQyyAbXQ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -753,20 +753,20 @@
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "mini mix vol. 3",
-        "url": "https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM"
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
       },
       "artists": [
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
         }
       ],
-      "duration_ms": 137187,
-      "name": "Top Dog",
-      "url": "https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm"
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -789,20 +789,20 @@
       "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+        "name": "mini mix vol. 3",
+        "url": "https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM"
       },
       "artists": [
         {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+      "duration_ms": 137187,
+      "name": "Top Dog",
+      "url": "https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/2IKix80lBA5ppm6096p5U7"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Joker & Rainbow",
@@ -955,6 +939,22 @@
       "duration_ms": 176546,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Petals on the Moon",
-        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 256945,
-      "name": "Petals on the Moon",
-      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Everything Is Boring",
@@ -1217,20 +1201,36 @@
       "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
       },
       "artists": [
         {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 141290,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
+      "duration_ms": 213271,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Petals on the Moon",
+        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 256945,
+      "name": "Petals on the Moon",
+      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
     }
   ],
   "unique_name": "Indie Pop",

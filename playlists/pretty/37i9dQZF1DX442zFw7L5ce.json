@@ -1,12 +1,12 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Pooja Hegde",
-  "num_followers": 36499,
+  "num_followers": 36541,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQ0OTE2NDlhZGNkNTQzYTgzNDVlNjA3YmIyMDE0NTQ4NTNlMmRm",
+  "snapshot_id": "MCw1NTU2M2I1ZTViZmJhZjAzNjA1MGJkNGQyMzQyMTBmYmIxOTEwMDdj",
   "tracks": [
     {
       "added_at": "2022-10-13 05:39:22",
@@ -776,8 +776,12 @@
       },
       "artists": [
         {
-          "name": "Mallikarjun, Premji(RapVocals)",
-          "url": "https://open.spotify.com/artist/3uytoj0Hv0kykUFD6W30RD"
+          "name": "Mallikarjun",
+          "url": "https://open.spotify.com/artist/40Ce6P4AGMq3NXCDXVSZaa"
+        },
+        {
+          "name": "Premji(RapVocals)",
+          "url": "https://open.spotify.com/artist/6BeaMGRT2JYlFb7JCBuWAi"
         }
       ],
       "duration_ms": 354716,

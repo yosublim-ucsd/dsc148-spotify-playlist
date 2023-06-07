@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 
 > Relax to the calming sounds of choral music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,128 likes - 79 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,221 likes - 79 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [O Magnum Mysterium: O magnum mysterium](https://open.spotify.com/track/0S0YKiEdR9cT9pYgEaTevF) | [Morten Lauridsen](https://open.spotify.com/artist/4EV7a9KODMBPJTCgIl9Bmk), [Chamber Choir Of Europe](https://open.spotify.com/artist/1TQJoqACwhfrAKXA9WwO4v), [Nicol Matt](https://open.spotify.com/artist/6yAWv145sy4X8JuioX2niU) | [Lauridsen: O Magnum Mysterium / Lux Aeterna / Madrigali / Les Chansons Des Roses](https://open.spotify.com/album/2KpDg5XbaWzQWepVfDpefT) | 6:55 |
-| 2 | [The Seal Lullaby](https://open.spotify.com/track/1ZqzUiCQICQmjtpbFZYwnt) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Eric Whitacre Singers](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN) | [Light & Gold](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) | 4:13 |
+| 2 | [Whitacre: The Seal Lullaby](https://open.spotify.com/track/1ZqzUiCQICQmjtpbFZYwnt) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Eric Whitacre Singers](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN) | [Light & Gold](https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS) | 4:13 |
 | 3 | [The Road Home](https://open.spotify.com/track/3vA1AS2PWl4RePRCiR36lb) | [Stephen Paulus](https://open.spotify.com/artist/4WoqkIaM67iDWsXNQM6hri), [Conspirare](https://open.spotify.com/artist/0VvrkPoertmEH3SJDw129Z), [Craig Hella Johnson](https://open.spotify.com/artist/7FWsBTlD40WptG48Z5zBJp) | [Requiem \- Howells & Pizzetti: Requiems / Whitacre, Grantham, Paulus & Gilkyson](https://open.spotify.com/album/2JnuTQPS1i9AW2pkd7SQB6) | 3:56 |
 | 4 | [Nimrod \(Lux Aeterna\)](https://open.spotify.com/track/1aJcDNDrKduMegTZzOemVd) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Lux](https://open.spotify.com/album/0sqRF0UZjwVg7ecgSwr7Wh) | 3:52 |
 | 5 | [Media Vita](https://open.spotify.com/track/4htAzv3rkpAzCjo2pW12id) | [Kerensa Briggs](https://open.spotify.com/artist/36QRQEhytT1w0kRiF3g27b), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35) | [Media Vita](https://open.spotify.com/album/21ruoumhxcMcRsD08UF9Mj) | 3:00 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 | 78 | [Os justi](https://open.spotify.com/track/5y41AyXVAt68eHyY2Z75sP) | [Anton Bruckner](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [A Choral Tapestry](https://open.spotify.com/album/7GYUPGkWZHeYqC6bZUT68x) | 4:42 |
 | 79 | [Allá se me ponga el sol à 4](https://open.spotify.com/track/7A14bdlIw9CU10VMdXe8Rg) | [Juan Ponce](https://open.spotify.com/artist/6VmMKWrL3Ppmv49NFd0QH5), [Huelgas Ensemble](https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM), [Paul Van Nevel](https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1) | [Allá se me ponga el sol à 4](https://open.spotify.com/album/63GCQSLn5ST8LSG0P2yDG4) | 2:55 |
 
-Snapshot ID: `MCxhY2Y5ZjhmMjRiOGVmNTJkZGViMmM5Y2IzOThkZDk1NmRmNTU1YzY4`
+Snapshot ID: `MCwxN2FlZmQ5NWE5ZTQ2MmNlNmFjOTI0MjYxM2M0MDBhNjkwMGIyNDY5`

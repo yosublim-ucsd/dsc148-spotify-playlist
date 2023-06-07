@@ -663,6 +663,28 @@
     },
     {
       "album": {
+        "name": "CHIARA",
+        "url": "https://open.spotify.com/album/69mPOJbmv7YG94RvpyCFu1"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174379,
+      "name": "CHIARA",
+      "url": "https://open.spotify.com/track/5e40oQfE0eeHdTvYLjRBPe"
+    },
+    {
+      "album": {
         "name": "Fenice",
         "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
       },

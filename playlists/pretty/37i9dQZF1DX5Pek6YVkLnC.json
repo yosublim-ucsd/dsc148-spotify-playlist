@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Dei V",
-  "num_followers": 227697,
+  "num_followers": 227712,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzFjMWVlMTkyOTg5YWZlZDQ4ZjIyNDk3Mjk5MDdhMTEzYTVlN2Qx",
+  "snapshot_id": "MCwxMjY2ZTlmNzk2NDAzNjUwOWIyN2I1OTFjYjI1YzhkYzM4Y2U4ZDQ1",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -659,6 +659,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "FANTASMA | AVC",
+        "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 285074,
+      "name": "FANTASMA | AVC",
+      "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Bandidos",
         "url": "https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 277217,
       "name": "On Fleek",
       "url": "https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "FANTASMA | AVC",
-        "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 285074,
-      "name": "FANTASMA | AVC",
-      "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
     },
     {
       "added_at": "2023-06-02 04:00:00",

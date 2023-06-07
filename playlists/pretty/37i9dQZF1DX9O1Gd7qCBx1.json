@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 186796,
+  "num_followers": 186803,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzBjNmZkZDcwNDFiNDQ2MGExMWVmM2NlY2M0YjQyZDQzYzU1N2Zj",
+  "snapshot_id": "MCw0ODYzMDQyOTAzNjYxMTkzYTg1ZTIyYjcxMjI3N2RjN2MwZjA0Y2I1",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -791,6 +791,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Rey Az\u00facar",
+        "url": "https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 258226,
+      "name": "Muerte Querida - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 247453,
       "name": "Los Versos de la Catrina",
       "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Rey Az\u00facar",
-        "url": "https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 258226,
-      "name": "Muerte Querida - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
-      },
-      "artists": [
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Pasajeros",
-      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Ruego",
         "url": "https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 220684,
       "name": "Ruego",
       "url": "https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
+      },
+      "artists": [
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Cantando Con la Muerte",
-        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
-      },
-      "artists": [
-        {
-          "name": "Los Folkloristas",
-          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Coplas del Muerto (Coplas) [M\u00e9xico]",
-      "url": "https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Contestadas Y Rancheras",
         "url": "https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 138541,
       "name": "La Catr\u00edna Pobre",
       "url": "https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Cantando Con la Muerte",
+        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
+      },
+      "artists": [
+        {
+          "name": "Los Folkloristas",
+          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Coplas del Muerto (Coplas) [M\u00e9xico]",
+      "url": "https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Dulce Muerte",
-        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
-      },
-      "artists": [
-        {
-          "name": "BuenRostro",
-          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Dulce Muerte",
-      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/6z318RVGyQyRloFxI7o2nS"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 213509,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/4jk5x2HEwHyB7c03N3v4fo"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Dulce Muerte",
+        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
+      },
+      "artists": [
+        {
+          "name": "BuenRostro",
+          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Dulce Muerte",
+      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
-      },
-      "artists": [
-        {
-          "name": "Susana Harp",
-          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
-        }
-      ],
-      "duration_ms": 207280,
-      "name": "La Catrina",
-      "url": "https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Chicavasco",
         "url": "https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 254280,
       "name": "El Funeral De Tacho",
       "url": "https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
+      },
+      "artists": [
+        {
+          "name": "Susana Harp",
+          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
+        }
+      ],
+      "duration_ms": 207280,
+      "name": "La Catrina",
+      "url": "https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt"
     },
     {
       "added_at": "2021-11-01 17:39:36",

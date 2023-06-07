@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Daniel Allan\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,249 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,301 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Temptress](https://open.spotify.com/track/2GNBtVWgzPHoIKSg5SJcdK) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Xoul Trap](https://open.spotify.com/album/5Um5poRe3QTntqiqCUQG5R) | 6:21 |
 | 100 | [A Bit Too Much](https://open.spotify.com/track/1ECYQUZqeB5Dn8kiJPTLcZ) | [Dila Vladuçak](https://open.spotify.com/artist/7D8ssM44NhVUyRpJyXDbzl), [Yikes](https://open.spotify.com/artist/78j8yyA3RI06vgd4tmZgiO) | [A Bit Too Much](https://open.spotify.com/album/6SiQrzKArzZCSMqcmrLWlS) | 3:17 |
 
-Snapshot ID: `MCw0NTljMDI5NjI4ZTE5YWI1MTc2NDY3MDEwNTVkNDIwMzUyMTBmOTgx`
+Snapshot ID: `MCw0NTU0ZGQ5NTM5ZDRlOTYwZTM2MGRjMGFlZjNmMzU5OTQwMGY5NDA2`

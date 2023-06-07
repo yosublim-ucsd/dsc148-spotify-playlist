@@ -4,7 +4,7 @@
 
 > Lately I've been dressing for revenge
 
-254 songs - 14 hr 1 min
+255 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Crush](https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Crush](https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ) | 4:02 | 2022-01-29 | 2022-04-21 |
 | [Cult Leader](https://open.spotify.com/track/1STwouYZSMXAaJ0nCrCsun) | [Cute Whore](https://open.spotify.com/artist/1N91cyUEOTgbI7s90LzhiE) | [Cult Leader](https://open.spotify.com/album/4huVKlLQxEzWjftYB6aRjp) | 5:43 | 2022-03-28 | 2022-07-25 |
 | [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 | 2022-04-22 | 2022-08-31 |
-| [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 | 2022-01-27 |  |
+| [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 | 2022-01-27 | 2023-06-07 |
 | [Dangerous Woman](https://open.spotify.com/track/2h1IPjP471JJRSShTHRUhi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/4lVR2fg3DAUQpGVJ6DciHW) | 3:55 | 2022-01-27 | 2022-04-21 |
 | [Dangerous Woman](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:55 | 2022-01-27 |  |
 | [Dark Lady](https://open.spotify.com/track/7ckF0HeHGMOEjNqW5GoTqq) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Universal Masters Collection](https://open.spotify.com/album/6SlRWiNTV4uuona6bAUWId) | 3:25 | 2022-04-18 | 2022-04-21 |
@@ -198,6 +198,7 @@
 | [Rät](https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:14 | 2022-01-27 |  |
 | [Savage \(Nightcore Remix\)](https://open.spotify.com/track/3Lr5In46gkpTLh3qdB1pZ5) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu), [Nightcore](https://open.spotify.com/artist/01lcJgyxgaU5P3fCeBog99) | [Savage \(Nightcore Remix\)](https://open.spotify.com/album/0eFhdrArPRniOJjOgJtlv3) | 2:33 | 2022-04-28 | 2022-04-29 |
 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 | 2022-03-28 | 2022-12-19 |
+| [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 | 2023-06-05 |  |
 | [Self Sabotage](https://open.spotify.com/track/2iOFAc4K3JE5NSPvfc4lQR) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Self Sabotage](https://open.spotify.com/album/5vbA7Khi7o9efh7BEOorrj) | 2:55 | 2022-07-15 | 2022-07-23 |
 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 | 2022-06-30 |  |
 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-09-04 | 2022-10-30 |

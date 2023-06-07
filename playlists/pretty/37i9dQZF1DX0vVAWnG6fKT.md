@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,816 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,924 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 10 | [Slipping Around \- 1949 Single](https://open.spotify.com/track/0y9SSRXRLA9cAbRd4rxL8O) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87), [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [The Complete Capitol Hits Of Margaret Whiting](https://open.spotify.com/album/3Zm1rm9czcHwe6kWvErjUm) | 2:11 |
 | 11 | [Walking The Floor Over You \- 1941 Edit](https://open.spotify.com/track/7vDYwBSPs5Wpn3XI6oqMM9) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [Retrospective, Vol\. 1](https://open.spotify.com/album/3NBmNvF2zHDafsRjPejumd) | 2:39 |
 | 12 | [Chattanoogie Shoe Shine Boy \- 1949 Single Version](https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 2:49 |
-| 13 | [Wildwood Flower](https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [Can The Circle Be Unbroken: Country Music's First Family](https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd) | 3:15 |
-| 14 | [Riders In The Sky](https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV) | [Sons of the Pioneers](https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68) | [Cool Water \(With Bonus Tracks\)](https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7) | 2:21 |
+| 13 | [Riders In The Sky](https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV) | [Sons of the Pioneers](https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68) | [Cool Water \(With Bonus Tracks\)](https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7) | 2:21 |
+| 14 | [Wildwood Flower](https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [Can The Circle Be Unbroken: Country Music's First Family](https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd) | 3:15 |
 | 15 | [Can the Circle Be Unbroken](https://open.spotify.com/track/07IuSThN6YHAAollCnu1Ln) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [Can The Circle Be Unbroken: Country Music's First Family](https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd) | 3:07 |
 | 16 | [Blue Moon of Kentucky](https://open.spotify.com/track/3x95FfMhVfB3ZNIufQ1IF3) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe \(1945\-1949\)](https://open.spotify.com/album/22ZtRsfdL79zD3AW149x98) | 3:00 |
 | 17 | [Cold, Cold Heart](https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Memorial Album \(Expanded Edition\)](https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS) | 2:45 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 57 | [Beer Drinking Blues](https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm) | [Eddie Noack](https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp) | [Rhythm & Booze](https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g) | 2:44 |
 | 58 | [Born to Lose](https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY) | [Ted Daffan's Texans](https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq) | [Columbia Country Classics Volume 1: The Golden Age](https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V) | 2:39 |
 | 59 | [Slowpoke](https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM) | [Pee Wee King](https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2) | [Country Hoedown](https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId) | 2:56 |
-| 60 | [Take an Old Cold 'Tater \(and Wait\)](https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [16 Biggest Hits](https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q) | 2:47 |
-| 61 | [Filipino Baby](https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn) | [Cowboy Copas](https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi) | [Copasetic](https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK) | 2:46 |
+| 60 | [Filipino Baby](https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn) | [Cowboy Copas](https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi) | [Copasetic](https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK) | 2:46 |
+| 61 | [Take an Old Cold 'Tater \(and Wait\)](https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [16 Biggest Hits](https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q) | 2:47 |
 | 62 | [Texarkana Baby](https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:41 |
 | 63 | [My Poncho Pony](https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:54 |
 | 64 | [So, Round, So Firm, So Fully Packed](https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [The Very Best Of](https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Milk Cow Blues](https://open.spotify.com/track/2gtvsPwY1z8nzu9Z58uS5b) | [Maddox Brothers](https://open.spotify.com/artist/7Fisqlq3RjJ10LKE0j3ODP), [Rose Maddox](https://open.spotify.com/artist/30ubKuh11o6hVK83WNBgm0) | [America's Most Colorful Hillbilly Band](https://open.spotify.com/album/3xnXV1xll55o3m41ykrgeQ) | 3:10 |
 | 70 | [Cherokee Maiden](https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:53 |
 
-Snapshot ID: `MCxmYTM2ZGEwNjIxODI2YWRkZTg3MjVlYzQwODA2NTI4OWY0NmU4ZmZh`
+Snapshot ID: `MCw2MGRhYTNkZWIzZDgyNjQyZWM4ODQ0MDYwYzgwM2FiNGM5ZDFkYmY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Dave & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,938 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,150 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [hue\_man nature](https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [hue\_man nature](https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v) | 1:40 |
 | 100 | [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 |
 
-Snapshot ID: `MCwxN2JjMGQyMjUwYWY2OGYxYjdjZjllZmExM2I3YWE5MjEyNWI0MTA3`
+Snapshot ID: `MCw5NzFlNmMwZjliYTU1YmIyMWJmNmZmMGE0Y2M3OGQxNWNhYjg0Nzhl`

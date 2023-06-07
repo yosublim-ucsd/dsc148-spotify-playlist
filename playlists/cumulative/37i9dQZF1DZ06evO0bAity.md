@@ -4,7 +4,7 @@
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-73 songs - 3 hr 49 min
+74 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Gina Works At Hearts](https://open.spotify.com/track/1pmYyUaRadqP14vF2U4YjC) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/70EcL4uWQPwy6tXI5L2004) | 3:37 | 2023-04-02 | 2023-04-19 |
 | [Gina Works At Hearts](https://open.spotify.com/track/3kq7FM2Ot4S1y4Gh5IPpii) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:37 | 2022-09-16 |  |
 | [Golden Retriever](https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:21 | 2022-10-09 |  |
-| [Grounded or Dead](https://open.spotify.com/track/6M7nNhyPts6QFD7xaDu2On) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:53 | 2023-06-03 |  |
+| [Grounded or Dead](https://open.spotify.com/track/6M7nNhyPts6QFD7xaDu2On) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:53 | 2023-06-03 | 2023-06-07 |
 | [Guillotine](https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 2:11 | 2022-09-28 |  |
 | [High](https://open.spotify.com/track/2lzezhXlYVSwah9ZVlZ5fg) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:24 | 2022-09-18 | 2022-10-08 |
 | [Hope for the Best](https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:07 | 2023-06-03 |  |
@@ -49,6 +49,7 @@
 | [LA Lightning](https://open.spotify.com/track/6bv660I7JXw2FjGVjih77E) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 3:16 | 2022-09-25 | 2022-10-02 |
 | [Less Out Of Sync](https://open.spotify.com/track/5q4MPKCtF5IlDQgxSvQwmX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:07 | 2022-09-16 |  |
 | [Like People](https://open.spotify.com/track/4Pa9lwNySYtucuHEsCyA1R) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 4:01 | 2022-09-16 |  |
+| [Love & Destruction](https://open.spotify.com/track/2S9kwb2VoCxX8jY5SuLNiX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:37 | 2023-06-06 |  |
 | [Make Yourself Mad](https://open.spotify.com/track/575WHTkmnohs1agEfIoRGS) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Make Yourself Mad](https://open.spotify.com/album/7gRumG1rTgiTrHuH6S7Fxe) | 2:40 | 2022-09-16 |  |
 | [My Mind is Eating Me Alive](https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:38 | 2023-06-03 |  |
 | [Nightmare Wrecker](https://open.spotify.com/track/5yuaGKyNmZ4km7BaD5vB0I) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 2:39 | 2022-09-16 |  |

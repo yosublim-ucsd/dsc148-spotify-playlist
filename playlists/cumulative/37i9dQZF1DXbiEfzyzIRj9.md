@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Folamour
 
-214 songs - 15 hr 48 min
+215 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Anthem](https://open.spotify.com/track/32j6yW6LbubEqw6Mkm6CLr) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [NO MOON](https://open.spotify.com/album/0jjpIghhdru6YcD8S5JyZD) | 6:37 | 2023-03-16 | 2023-04-09 |
 | [Ase \- DJ Shu\-Ma Radio Edit](https://open.spotify.com/track/71xNovSBAgBx9fv0J8SP7P) | [Hideo Kobayashi](https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM), [Motoharu](https://open.spotify.com/artist/04CqkEZiDoI9li9KATOyFX), [DJ Shu\-Ma](https://open.spotify.com/artist/0eoXzMplwSO3hHkf7rhqds) | [Ase Remixes](https://open.spotify.com/album/7IbX83cAoDuOn8yMeeR7pl) | 4:49 | 2023-03-16 |  |
 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 | 2023-03-16 |  |
-| [barla \- SHINICHI OSAWA REMIX](https://open.spotify.com/track/19LbN6WxOXuuCk1oKvA94G) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla \(SHINICHI OSAWA REMIX\)](https://open.spotify.com/album/0FkuCLlXRDMcC7KFbQs8O0) | 4:33 | 2023-05-19 |  |
+| [barla \- SHINICHI OSAWA REMIX](https://open.spotify.com/track/19LbN6WxOXuuCk1oKvA94G) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla \(SHINICHI OSAWA REMIX\)](https://open.spotify.com/album/0FkuCLlXRDMcC7KFbQs8O0) | 4:33 | 2023-05-19 | 2023-06-07 |
+| [barla \- SHINICHI OSAWA REMIX](https://open.spotify.com/track/1u2ve7Ju0PMxjIYAAnRzIP) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla \(SHINICHI OSAWA REMIX\)](https://open.spotify.com/album/0u1zCmHt9n4jX7FZIxeztc) | 4:33 | 2023-05-25 |  |
 | [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 | 2023-03-16 |  |
 | [Bliss](https://open.spotify.com/track/44RvlfCAkKSaYI0XsxUHrU) | [Fybe:One](https://open.spotify.com/artist/27KCpRYUXOIJIjOSPqBTSw), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Bliss](https://open.spotify.com/album/1rS8jtRpGvJtvsfBUwvOzj) | 4:24 | 2023-05-19 |  |
 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-16 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,842 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,851 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 |
-| 2 | [Sina Bae](https://open.spotify.com/track/6lW5Bt2zFGbCOovCXlC1ZI) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Art Lust](https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8) | 2:59 |
+| 2 | [Sina Bae](https://open.spotify.com/track/6lW5Bt2zFGbCOovCXlC1ZI) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Art Lust](https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8) | 2:56 |
 | 3 | [Yamenizidi](https://open.spotify.com/track/52Hrsu0VFAePA3n2iBJMTF) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Yamenizidi](https://open.spotify.com/album/0zYMkOpb7gzgoNzWyZ0yxq) | 3:35 |
 | 4 | [Sita Sita](https://open.spotify.com/track/45Ii0U4wJk9YcIuPRYkLuJ) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Flavour](https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H) | 3:33 |
 | 5 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Bella Ciao](https://open.spotify.com/track/7z9Aqb5WrAf8v2UyWXKzle) | [Izabell](https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al), [Kriminell Kunst](https://open.spotify.com/artist/7EJNCcEc74APLevQVDgINC) | [Bella Ciao](https://open.spotify.com/album/3UgIdYdg7kFsBv8RGV5llw) | 3:28 |
 | 60 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 |
 
-Snapshot ID: `MCw0YmE3YjlhYTViNDRkNzJlZTgxYjhjMDBiYjNhZTczYmJkNzE4ZGU4`
+Snapshot ID: `MCw3ZDI0MjZiNTM0NjRlYmQ0ODZjYWVmMDJiMjQ2ZDY0MDBhZTcyN2Yw`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 145165,
+  "num_followers": 145237,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTg4ZDZjM2ZmNTFjYjFlYzEyMWU4YzllNmIwNTcyNWY1N2YyZTll",
+  "snapshot_id": "MCwzMjhmNjM0MzM3MDA2NzI4ZGZlZDA1OWUwYmJmZmJmNzRiNzczMWM4",
   "tracks": [
     {
       "added_at": "2023-05-19 15:42:50",
@@ -115,18 +115,18 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+        "name": "Tu Amor O Tu Desprecio",
+        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+      "duration_ms": 209506,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
     },
     {
       "added_at": "2023-05-19 15:42:50",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
-        "name": "Tu Amor O Tu Desprecio",
-        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 209506,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
     },
     {
       "added_at": "2023-05-19 15:42:50",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. 3",
+        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 281129,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
+    },
+    {
+      "added_at": "2023-05-19 15:42:50",
+      "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. 3",
-        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 281129,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
-    },
-    {
-      "added_at": "2023-05-19 15:42:50",
-      "album": {
         "name": "C\u00f3mo Te Voy a Olvidar",
         "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
       },
@@ -739,26 +739,6 @@
       "duration_ms": 161239,
       "name": "Yo Tomo Licor",
       "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2023-05-19 15:42:50",
-      "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2023-05-19 15:42:50",
@@ -831,6 +811,26 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2023-05-19 15:42:50",
+      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -887,30 +887,6 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
-        "name": "Perrito Malvado",
-        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Marita",
-          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Perrito Malvado",
-      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
-    },
-    {
-      "added_at": "2023-05-19 15:42:50",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -927,18 +903,18 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
-        "name": "25 Exitos Vol. 1 (USA)",
-        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
+        "name": "En El Ojo Del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
       },
       "artists": [
         {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         }
       ],
-      "duration_ms": 190173,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+      "duration_ms": 193826,
+      "name": "EL Gil De Tu Ex",
+      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
     },
     {
       "added_at": "2023-05-19 15:42:50",
@@ -975,6 +951,22 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
+        "name": "25 Exitos Vol. 1 (USA)",
+        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+    },
+    {
+      "added_at": "2023-05-19 15:42:50",
+      "album": {
         "name": "Me Gusta Todo De Ti",
         "url": "https://open.spotify.com/album/3kvLgFBMMD55vLEuBjJUpU"
       },
@@ -991,34 +983,26 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
-        "name": "En El Ojo Del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
+        "name": "Perrito Malvado",
+        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "EL Gil De Tu Ex",
-      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
-    },
-    {
-      "added_at": "2023-05-19 15:42:50",
-      "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
         {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Marita",
+          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
         }
       ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+      "duration_ms": 280895,
+      "name": "Perrito Malvado",
+      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
     },
     {
       "added_at": "2023-05-19 15:42:50",
@@ -1035,6 +1019,22 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
+    },
+    {
+      "added_at": "2023-05-19 15:42:50",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2023-05-19 15:42:50",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
-        "name": "De Enero a Enero",
-        "url": "https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g"
-      },
-      "artists": [
-        {
-          "name": "Tamb\u00f3 Tamb\u00f3",
-          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "La Cumbita",
-      "url": "https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV"
-    },
-    {
-      "added_at": "2023-05-19 15:42:50",
-      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2023-05-19 15:42:50",
+      "album": {
+        "name": "De Enero a Enero",
+        "url": "https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g"
+      },
+      "artists": [
+        {
+          "name": "Tamb\u00f3 Tamb\u00f3",
+          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "La Cumbita",
+      "url": "https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV"
     },
     {
       "added_at": "2023-05-19 15:42:50",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
-        "name": "Soplando Fuerte / Un Fen\u00f3meno Natural",
-        "url": "https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC"
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Una R\u00e1faga De Amor",
-      "url": "https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN"
+      "duration_ms": 169640,
+      "name": "La Cumbia De La Cerveza",
+      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
     },
     {
       "added_at": "2023-05-19 15:42:50",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+        "name": "Soplando Fuerte / Un Fen\u00f3meno Natural",
+        "url": "https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC"
       },
       "artists": [
         {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 169640,
-      "name": "La Cumbia De La Cerveza",
-      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
+      "duration_ms": 182293,
+      "name": "Una R\u00e1faga De Amor",
+      "url": "https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN"
     },
     {
       "added_at": "2023-05-19 15:42:50",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-05-19 15:42:50",
       "album": {
-        "name": "Los Reyes De Los Sonidos",
-        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "El Paso Del Gigante",
-      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
-    },
-    {
-      "added_at": "2023-05-19 15:42:50",
-      "album": {
         "name": "Grupo Play (La poes\u00eda musical)",
         "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 185453,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+    },
+    {
+      "added_at": "2023-05-19 15:42:50",
+      "album": {
+        "name": "Los Reyes De Los Sonidos",
+        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "El Paso Del Gigante",
+      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
     },
     {
       "added_at": "2023-05-19 15:42:50",

@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 155401,
       "name": "Breezin",
       "url": "https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8"
@@ -11444,6 +11444,24 @@
       "duration_ms": 240750,
       "name": "\u30db\u30ea\u30c7\u30fc - Instrumental",
       "url": "https://open.spotify.com/track/5hwbj7LQDhasXvoi1rQqUx"
+    },
+    {
+      "album": {
+        "name": "\u5149\u306e\u3088\u3046\u306b",
+        "url": "https://open.spotify.com/album/77NDqgGxatgBntyyD9634e"
+      },
+      "artists": [
+        {
+          "name": "Yuri Hiranuma",
+          "url": "https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140253,
+      "name": "\u5149\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0"
     },
     {
       "album": {

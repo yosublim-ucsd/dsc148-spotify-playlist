@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,426 likes - 78 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,485 likes - 78 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 | 65 | [I'm Fine](https://open.spotify.com/track/7dEGm9JbqHyh60FqfAVNtO) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Shalo](https://open.spotify.com/artist/4BMEYRbUzMmF2irwPhVIwx) | [Believe & Achieve: Episode 1](https://open.spotify.com/album/6juc7FCEHM5jrh3lfNDlVa) | 3:31 |
 | 66 | [My Hood](https://open.spotify.com/track/5IeuKkd8EE5prwJX77iW03) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Durt](https://open.spotify.com/album/2A9YfiOYh4jJ7qsLeUdnDM) | 4:31 |
 | 67 | [Big Man / All You Gotta Do](https://open.spotify.com/track/5g7PCqiSmTwXS5xAgnZfJT) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Project Black & Red \(Deluxe\)](https://open.spotify.com/album/447HOYdbu6WTJcrwK3vghn) | 4:34 |
-| 68 | [Keepin' It Real \(feat\. Stormzy\)](https://open.spotify.com/track/32ryh8zbFiGQshi0XuYcaN) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Live & Direct](https://open.spotify.com/album/4zCmTbDeY0ceuXSKQEi48Q) | 3:44 |
+| 68 | [Keepin' It Real](https://open.spotify.com/track/7hJs7lR1zm1lpx556oR5Kr) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Live & Direct](https://open.spotify.com/album/04KrsKLMhPEvHrIfSDQnrC) | 3:44 |
 | 69 | [21 Gun Salute \(feat\. Wretch 32\) \- Interlude](https://open.spotify.com/track/1mBrlBHhzALlEKpUeWdOzT) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Gang Signs & Prayer](https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW) | 2:26 |
 | 70 | [Not That Deep \(feat\. Deepee, Swift, Sleeks, Inch, Littlez, Reeko, K9\) \- Section Remix](https://open.spotify.com/track/39bMhNCFdhEquRuglWptpI) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Deepee](https://open.spotify.com/artist/3Wm7360Oxqx7Fu4h3LfbHX), [Inch](https://open.spotify.com/artist/3J3hhEGpzgTmNeDO5Js5Gu), [K9](https://open.spotify.com/artist/12cju0b8O0q2PcND81DZyE), [Littlez](https://open.spotify.com/artist/4IRb8rAMlRnNQ2p3hrIfb4), [Reeko](https://open.spotify.com/artist/7lWXLanCRGVkiZxWZFDM9u), [Sleeks](https://open.spotify.com/artist/18UMkfg7oAqJ92nqPvHkPW), [Swift](https://open.spotify.com/artist/5xVULiv3wBC0T0lMG20mEC) | [Not That Deep \- EP](https://open.spotify.com/album/3FuPHbz5iUP8PPsTceDKGy) | 4:00 |
 | 71 | [The Blow Back](https://open.spotify.com/track/31pZmYjJI95sg0ykkXAf5E) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Dubz](https://open.spotify.com/artist/43jySAjj0BKSQDAr6yloo3) | [Landlord](https://open.spotify.com/album/2JckMCvStjcfDrJ3EK2y0n) | 6:02 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 | 77 | [Look Like \(feat\. JMC, Jadakiss & Stormzy\)](https://open.spotify.com/track/57CtjJsx9jwTQDiO4ShMAe) | [Charlie Sloth](https://open.spotify.com/artist/3ICo3DF8pXFJEdzph2b6gh), [JMC](https://open.spotify.com/artist/33R5xZXaJcXP5TXA3tydgO), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [The Plug](https://open.spotify.com/album/2QzCZabgxczZat17TC4x52) | 3:50 |
 | 78 | [Chains \- Stormzy Remix](https://open.spotify.com/track/3IgShuJaI7JUFK3A0ncjJf) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Chains](https://open.spotify.com/album/1gs9NA48hWHDS35qVOonZi) | 3:49 |
 
-Snapshot ID: `MCxkZGRlMmFkZDhkN2E1NWU5OTQ4NjFkYWRlZDU1NTQ5ODBmODg5ZWVl`
+Snapshot ID: `MCwzOTk2OTViMTRiNjEwZjgxNGUwNjFlYmVjYWQ2OWU4ZTA2Y2IzODA5`

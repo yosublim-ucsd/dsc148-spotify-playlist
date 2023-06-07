@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,697 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,710 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 20 | [Getcha Sum](https://open.spotify.com/track/768qdMIjYNWCROHwU7PIQw) | [HaSizzle](https://open.spotify.com/artist/22mB4zQKJDI9I7ZnYs80iX), [Anjelika Jelly Joseph](https://open.spotify.com/artist/2nuE9rQG1CdFcI2VtoEFJt) | [Getcha Sum](https://open.spotify.com/album/40rSl9pniqFZABdYN48Ldn) | 4:24 |
 | 21 | [shaolin mantis](https://open.spotify.com/track/1BpwSnBDn0bHRhr5Hzjl7R) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [shaolin mantis](https://open.spotify.com/album/7GVtxQM7wvRDZtHCTRiXgI) | 4:10 |
 | 22 | [De Otra Forma](https://open.spotify.com/track/2Fs8YMvVL0GXhzA2OBvCgU) | [Sueuga](https://open.spotify.com/artist/2m5Jdjj6b1N9EhtqzHaVdw) | [Como El Viento, Vuelve](https://open.spotify.com/album/4wzr8PFNtJWdU9yxqzHGbJ) | 4:40 |
-| 23 | [Below Me \(feat\. Sasha Go Hard\) \- Total Freedom's Jezzy Pride Mix](https://open.spotify.com/track/6AU1xxNwZ841KfmMXrpac8) | [Faze Miyake](https://open.spotify.com/artist/02r0OqwedodVoAScdnZ2bD), [Sasha Go Hard](https://open.spotify.com/artist/747j7S28EFewbA0BXxLSsC) | [Faze Miyake](https://open.spotify.com/album/4W5e4ezYm49DbmL9NbO2TR) | 3:39 |
+| 23 | [Below Me \- Total Freedom's Jezzy Pride Mix](https://open.spotify.com/track/0L7P4SXPlJhAibG8Ds73ls) | [Faze Miyake](https://open.spotify.com/artist/02r0OqwedodVoAScdnZ2bD), [Sasha Go Hard](https://open.spotify.com/artist/747j7S28EFewbA0BXxLSsC) | [Faze Miyake](https://open.spotify.com/album/4fN1nGAIO9BYMwqmVgabQi) | 3:39 |
 | 24 | [TOB](https://open.spotify.com/track/0qtCevNHGfRNnRP8uNV7bo) | [Molly Brazy](https://open.spotify.com/artist/6apXk5PGvEVbgXOTyk6fP1) | [TOB](https://open.spotify.com/album/6c8NWlFlOn09wqS2NdDc3P) | 1:30 |
 | 25 | [Come Unto Me](https://open.spotify.com/track/4wsnl8vM0OvOj2a2KLY4yc) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Water](https://open.spotify.com/album/2D5DPrv69Besl8VmuQENg9) | 5:27 |
 | 26 | [I Can See The Future](https://open.spotify.com/track/2zC1lEtZQ8nByZXkjTpjMb) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [I Can See The Future](https://open.spotify.com/album/4m9jQTUHctvkH6DFGnOVZ0) | 2:56 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 80 | [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 |
 | 81 | [The Richest Garden in your Memory](https://open.spotify.com/track/1NnmRSDbEyJmeC7gufEOiw) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 2:57 |
 
-Snapshot ID: `MCwzNzA4MzIyOGM4NGI1NDI0ZGQ4YTBkYTkyMWUzOGY2ZGQxYjU3OWU3`
+Snapshot ID: `MCwxOWVjNGI2OTljMmYwYTFlNWY0MTQzNGViNDE3YzE2NzNhZDIwZjQ0`

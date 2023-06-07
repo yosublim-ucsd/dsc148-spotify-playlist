@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 20190,
+  "num_followers": 20227,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjA2N2I5Mjg3MWQ3YmU5MGI4Y2ZlNDU4MWFkNDQxZTQxNmRlMTlj",
+  "snapshot_id": "MCw3MmZmYWRkODY2ZGExYzQyZDliZThjNjZkZTQzOTQzMjBiNjMyYTQ2",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 144493,
-      "name": "Just Your Fool",
-      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Electric Mud",
         "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 217640,
       "name": "Tom Cat",
       "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 144493,
+      "name": "Just Your Fool",
+      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "I Got What It Takes",
         "url": "https://open.spotify.com/album/6Ia8ZSI8AkeaSz7ILpd7MU"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 222866,
       "name": "I Got What It Takes",
       "url": "https://open.spotify.com/track/4HiVCsnJH9P35ASXLL60ip"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -423,30 +423,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "The Super, Super Blues Band",
-        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 289173,
-      "name": "Goin' Down Slow",
-      "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "On The Boards",
         "url": "https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 144933,
       "name": "Outside Woman Blues",
       "url": "https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "The Super, Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 289173,
+      "name": "Goin' Down Slow",
+      "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "A Hard Road",
-      "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 321800,
       "name": "Mannish Boy",
       "url": "https://open.spotify.com/track/5vZOZXF9p5v2ttJKk5Vo0L"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "A Hard Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "A Hard Road",
+      "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "The Howlin' Wolf Album",
-        "url": "https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 311240,
-      "name": "Built For Comfort",
-      "url": "https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Door To Door",
         "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 182493,
       "name": "Searchin' For A Woman",
       "url": "https://open.spotify.com/track/4flr62w4ZvsSOyWuivV0WA"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "The Howlin' Wolf Album",
+        "url": "https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 311240,
+      "name": "Built For Comfort",
+      "url": "https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1175,22 +1175,6 @@
       "duration_ms": 134693,
       "name": "Shiver 'N Shake",
       "url": "https://open.spotify.com/track/5B2kT9wJ3EQJDSJKrHGbd2"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Door To Door",
-        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Callin' For My Darlin'",
-      "url": "https://open.spotify.com/track/1X6ZMDWmDRWmyyx94DrvxM"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Talkin' Some Sense",
-        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
+        "name": "Door To Door",
+        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
       },
       "artists": [
         {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
         }
       ],
-      "duration_ms": 171968,
-      "name": "Lightnin' Strikes One More Time",
-      "url": "https://open.spotify.com/track/0jJ4yI4iNcmUDmb9EtWDZg"
+      "duration_ms": 182666,
+      "name": "Callin' For My Darlin'",
+      "url": "https://open.spotify.com/track/1X6ZMDWmDRWmyyx94DrvxM"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+        "name": "Talkin' Some Sense",
+        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
         }
       ],
-      "duration_ms": 139626,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
+      "duration_ms": 171968,
+      "name": "Lightnin' Strikes One More Time",
+      "url": "https://open.spotify.com/track/0jJ4yI4iNcmUDmb9EtWDZg"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1331,8 +1315,24 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 139626,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
       },
       "artists": [
         {
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 125106,
-      "name": "Still Got The Blues",
-      "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+      "duration_ms": 126226,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Free Form Patterns",
+        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Give Me Time to Think",
+      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 150693,
       "name": "Highway 60",
       "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Free Form Patterns",
-        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Give Me Time to Think",
-      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1463,8 +1463,8 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
       },
       "artists": [
         {
@@ -1472,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 126226,
-      "name": "Confessin' The Blues",
-      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
+      "duration_ms": 125106,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Knockout R&B",
-        "url": "https://open.spotify.com/album/1KORQ02DZiosXe7jbdqxb1"
-      },
-      "artists": [
-        {
-          "name": "The Muleskinners",
-          "url": "https://open.spotify.com/artist/39rvSxWDfec4IFpnsF3YMo"
-        }
-      ],
-      "duration_ms": 130106,
-      "name": "Why Don't You Write Back to Me",
-      "url": "https://open.spotify.com/track/3twEpu6BbsrVnn941gMBR4"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "When Girls Do It",
         "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 178480,
       "name": "I'm Checkin' Up",
       "url": "https://open.spotify.com/track/1PmlMR88OMXyn7eCtqQwUP"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Knockout R&B",
+        "url": "https://open.spotify.com/album/1KORQ02DZiosXe7jbdqxb1"
+      },
+      "artists": [
+        {
+          "name": "The Muleskinners",
+          "url": "https://open.spotify.com/artist/39rvSxWDfec4IFpnsF3YMo"
+        }
+      ],
+      "duration_ms": 130106,
+      "name": "Why Don't You Write Back to Me",
+      "url": "https://open.spotify.com/track/3twEpu6BbsrVnn941gMBR4"
     },
     {
       "added_at": "2023-01-27 16:34:16",

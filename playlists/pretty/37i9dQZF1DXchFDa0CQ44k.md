@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 
 > Form a circle and hold hands, it's time to Dabke! Cover: Mohammad Assaf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,782 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,824 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 44 | [Zareef Al Tool](https://open.spotify.com/track/4vhtERQbfYJHIe86HGH1W8) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 8:12 |
 | 45 | [Ya Aasal](https://open.spotify.com/track/2qIYndgPCXthIaBjnVv7Dr) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Aasal](https://open.spotify.com/album/1Gq60ipemX1b0qAe69Jed3) | 3:30 |
 | 46 | [Wahad Tnean](https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Wahad Tnean](https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt) | 3:07 |
-| 47 | [لا عشقان](https://open.spotify.com/track/7bOEaL0GW2AAakyEc50kxN) | [Naeim Al Sheikh](https://open.spotify.com/artist/0iSa5DviqQDtan4rfuFSAM) | [لا عشقان](https://open.spotify.com/album/5SaE2UlcKdpUCrOlh3lZde) | 3:26 |
-| 48 | [Ya Wallo](https://open.spotify.com/track/3nDciOoTFeDd1wWfSh1hx0) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ya Wallo](https://open.spotify.com/album/0zgYVQ0iSDSCrknQn65skX) | 2:51 |
-| 49 | [من الآخر](https://open.spotify.com/track/5Izw7BxDnTesneXx34MPs0) | [Wafeek Habib](https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY) | [من الآخر](https://open.spotify.com/album/7MdUlmnd8kVsiWdzVPxr9r) | 3:57 |
-| 50 | [يامهرة](https://open.spotify.com/track/38CVcpWpiCftQQXaoW2h77) | [Hani Mitwasi](https://open.spotify.com/artist/5m8fc8h0xd4QfpJzcPI9NK) | [يامهرة](https://open.spotify.com/album/337XZCYPpBVgNF53Efmr5J) | 4:37 |
+| 47 | [Ya Wallo](https://open.spotify.com/track/3nDciOoTFeDd1wWfSh1hx0) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ya Wallo](https://open.spotify.com/album/0zgYVQ0iSDSCrknQn65skX) | 2:51 |
+| 48 | [لا عشقان](https://open.spotify.com/track/7bOEaL0GW2AAakyEc50kxN) | [Naeim Al Sheikh](https://open.spotify.com/artist/0iSa5DviqQDtan4rfuFSAM) | [لا عشقان](https://open.spotify.com/album/5SaE2UlcKdpUCrOlh3lZde) | 3:26 |
+| 49 | [يامهرة](https://open.spotify.com/track/38CVcpWpiCftQQXaoW2h77) | [Hani Mitwasi](https://open.spotify.com/artist/5m8fc8h0xd4QfpJzcPI9NK) | [يامهرة](https://open.spotify.com/album/337XZCYPpBVgNF53Efmr5J) | 4:37 |
+| 50 | [من الآخر](https://open.spotify.com/track/5Izw7BxDnTesneXx34MPs0) | [Wafeek Habib](https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY) | [من الآخر](https://open.spotify.com/album/7MdUlmnd8kVsiWdzVPxr9r) | 3:57 |
 | 51 | [Ghayrek Ma B Yehla](https://open.spotify.com/track/392SSLReIukwCPuM4ci0w8) | [Ali Al Deek](https://open.spotify.com/artist/4gJE3vuk92stqZIRWieUe8), [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3), [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [Ali Hits](https://open.spotify.com/album/1RL5PDCpMACLDpuIMTsXeI) | 6:16 |
 | 52 | [Nezlat Al Dabka](https://open.spotify.com/track/4w8qgtRYJ24A9zfxlNTDff) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 10:08 |
-| 53 | [Ahla Sabiyyi](https://open.spotify.com/track/29RO49exsxezSkdZLRKvK4) | [Jad Ezzedine](https://open.spotify.com/artist/76Bde0ICsFrWu9Bzv2atL3) | [Ahla Sabiyyi](https://open.spotify.com/album/2xkWxkBmOlCGsnCIFtbJNU) | 3:49 |
-| 54 | [Ah Ya Hanan](https://open.spotify.com/track/2ZL2WO6HvgbLGNwePzohU9) | [Moudy Nassar](https://open.spotify.com/artist/7Mafn4uzAseQADYkXx3VrP) | [Ah Ya Hanan](https://open.spotify.com/album/4c4akh3TVGYCLaN9RhwKXw) | 3:21 |
-| 55 | [Chou Kan Badi](https://open.spotify.com/track/41A30e95vtUZWtg9GxZmKT) | [Naji Osta](https://open.spotify.com/artist/4bgldXaGu7WvZpkW1NfyBp) | [Chou Kan Badi](https://open.spotify.com/album/00IObiyCatT9dgrwgCYOmy) | 3:58 |
-| 56 | [Number One](https://open.spotify.com/track/2nRDYg5oPbvLtrDD2oEnRq) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Number One](https://open.spotify.com/album/5RjAy45kTmJuYJMYBmnjvE) | 3:22 |
+| 53 | [Number One](https://open.spotify.com/track/2nRDYg5oPbvLtrDD2oEnRq) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Number One](https://open.spotify.com/album/5RjAy45kTmJuYJMYBmnjvE) | 3:22 |
+| 54 | [Ahla Sabiyyi](https://open.spotify.com/track/29RO49exsxezSkdZLRKvK4) | [Jad Ezzedine](https://open.spotify.com/artist/76Bde0ICsFrWu9Bzv2atL3) | [Ahla Sabiyyi](https://open.spotify.com/album/2xkWxkBmOlCGsnCIFtbJNU) | 3:49 |
+| 55 | [Ah Ya Hanan](https://open.spotify.com/track/2ZL2WO6HvgbLGNwePzohU9) | [Moudy Nassar](https://open.spotify.com/artist/7Mafn4uzAseQADYkXx3VrP) | [Ah Ya Hanan](https://open.spotify.com/album/4c4akh3TVGYCLaN9RhwKXw) | 3:21 |
+| 56 | [Chou Kan Badi](https://open.spotify.com/track/41A30e95vtUZWtg9GxZmKT) | [Naji Osta](https://open.spotify.com/artist/4bgldXaGu7WvZpkW1NfyBp) | [Chou Kan Badi](https://open.spotify.com/album/00IObiyCatT9dgrwgCYOmy) | 3:58 |
 | 57 | [Habib Hebbak](https://open.spotify.com/track/4XGlYQTcgEHD1WbMgipNWI) | [Majd Moussaly](https://open.spotify.com/artist/2qE29yka4xvCI58mYGLEDG) | [Layali Beirut, Vol\. III](https://open.spotify.com/album/5jGAjPoPiqsjuOvb0IBTmr) | 4:07 |
 | 58 | [Halali Ya Mali \- original](https://open.spotify.com/track/2SqOPpcVQbWYTZpTbWMYQw) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL), [Tamim Asadi](https://open.spotify.com/artist/3ESHX6bPM5q2x8McjsZEMG) | [Afrah](https://open.spotify.com/album/5COJbBMySaSZseXXFFq6mh) | 6:55 |
 | 59 | [Betshelle](https://open.spotify.com/track/5BKxfHmQ4as0V3oGqwzZRx) | [Wafeek Habib](https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY) | [Wafeek Habib Mix](https://open.spotify.com/album/6XDNIhu3Zd7607mSyuU5s4) | 4:41 |
-| 60 | [Ach'hadlak](https://open.spotify.com/track/11Jp7Vr2b27YFeWeafF7XR) | [Wissam Al Rached](https://open.spotify.com/artist/5oFRthuA92B8mtcg1sCjS7) | [Ach'hadlak](https://open.spotify.com/album/4PRwROFXegkxVhizqno7Es) | 4:48 |
+| 60 | [Ya Qasi](https://open.spotify.com/track/1wqkh4IqBHf9xBtlvtQfqw) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ya Qasi](https://open.spotify.com/album/4RFu9gMMbiSQmW9yGLjesO) | 3:28 |
 
-Snapshot ID: `MCwyZDNkY2Q1OTgyODVkM2ExZWQ4ODdhYTU4ZDI3ODRhNzIwOGFmYmE2`
+Snapshot ID: `MCw1ZGMyZGFhNTZhNDM3ZGRjYWYyNGY3Nzc3MmYxY2QxNzNkZmQ2MmRh`

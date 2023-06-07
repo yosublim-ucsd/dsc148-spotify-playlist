@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 72916,
+  "num_followers": 72994,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmRmYzA5OTAwNGFkYWRhMTc3ZmViYTNmNGFjM2I5ODEzMGY4YzVh",
+  "snapshot_id": "MCw4MmUzNDQ2MWIzZGZmYjgzMWM5MWVlOGNkZGVjYzZhNjgzYTRkY2Uw",
   "tracks": [
     {
       "added_at": "2023-01-19 17:27:16",
@@ -419,22 +419,18 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Diana & Marvin",
-        "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        },
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
         }
       ],
-      "duration_ms": 190440,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -471,18 +467,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
+        "name": "Diana & Marvin",
+        "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
       "artists": [
         {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+      "duration_ms": 190440,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "Pride Classics",
+        "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 326586,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "On The Rise",
         "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 288040,
       "name": "Cada Um, Cada Um",
       "url": "https://open.spotify.com/track/6cPQ0JkBDj9bVn3qFfhWse"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "Pride Classics",
-        "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 326586,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
     },
     {
       "added_at": "2023-01-19 17:27:16",

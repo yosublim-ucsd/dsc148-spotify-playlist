@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,689 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,764 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Cats \(Not The Musical\)](https://open.spotify.com/track/6VjTBUdQS6CPwmFeIMtBUb) | [Feale](https://open.spotify.com/artist/1ZxOC2uaCSxUiRtAcEVzc2) | [Indoor Activities](https://open.spotify.com/album/4GXJkEPwG65tf7kdOapEIo) | 4:23 |
 | 50 | [Clever Girl](https://open.spotify.com/track/1PyXhPgECarpISE31xvOLi) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Clever Girl](https://open.spotify.com/album/5h5DO6f9Ql9BEX0r0d1EZb) | 2:24 |
 
-Snapshot ID: `MCwwNDg4YzNkZGE3YzJkNGEyMmQzOWYwMjBlZDRiZDEwMmY4NmFjYzcz`
+Snapshot ID: `MCw5OTczODAyOGNkMWQ4OTA2NDJmMDk4YTY5OWQwOTc5YzFiMWUzYTNh`

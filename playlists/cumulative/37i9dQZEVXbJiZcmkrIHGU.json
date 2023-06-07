@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -6662,7 +6662,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 167821,
       "name": "Cinnamon Roll",
       "url": "https://open.spotify.com/track/4GUrzAwDBOyEMQTo42GGzf"
@@ -23511,6 +23511,40 @@
     },
     {
       "album": {
+        "name": "M\u00e4dchen auf dem Pferd",
+        "url": "https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Octavian",
+          "url": "https://open.spotify.com/artist/0rKRcoCpKA2jLHuIXXn80i"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157058,
+      "name": "M\u00e4dchen auf dem Pferd",
+      "url": "https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq"
+    },
+    {
+      "album": {
         "name": "M\u00f6rder II",
         "url": "https://open.spotify.com/album/3s7RClFPQIbl02EKg5Zfow"
       },
@@ -26216,6 +26250,28 @@
       "duration_ms": 137847,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
+    },
+    {
+      "album": {
+        "name": "Partysau",
+        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
+      },
+      "artists": [
+        {
+          "name": "Malle Kalle",
+          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
+        },
+        {
+          "name": "Danergy",
+          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115680,
+      "name": "Partysau",
+      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
     },
     {
       "album": {
@@ -31720,7 +31776,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"

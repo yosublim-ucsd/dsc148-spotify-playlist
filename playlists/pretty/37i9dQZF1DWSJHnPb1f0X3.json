@@ -1,12 +1,12 @@
 {
   "description": "Upbeat dance pop to keep your heart pumping.",
-  "num_followers": 3982714,
+  "num_followers": 3983577,
   "original_name": "Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzVhNTY0NzZiODZmZGI5OGZiNGJiODFmYzEwYjVkYWI1MjIyZGU5",
+  "snapshot_id": "MCw5MGMwYTczNmQzMzBjZmVmNjQzZGQ0NjU5OGU4MjRkMWY2NWIxZGZm",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Saturday/Sunday",
-        "url": "https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 166572,
-      "name": "Saturday/Sunday",
-      "url": "https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "My Heart Goes (La Di Da)",
         "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Saturday/Sunday",
+        "url": "https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 166572,
+      "name": "Saturday/Sunday",
+      "url": "https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
@@ -1495,6 +1515,26 @@
       "duration_ms": 170785,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/22sKunNSPMCy2lvSLOY5yX"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1555,26 +1595,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Self Destruction Mode",
-        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 147836,
-      "name": "Self Destruction Mode",
-      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "One Last Time (with R3HAB) (feat. Enny-Mae)",
         "url": "https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX"
       },
@@ -1599,26 +1619,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        }
-      ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS"
       },
@@ -1635,34 +1635,6 @@
       "duration_ms": 147139,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "In Your Arms (For An Angel)",
-        "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
-        },
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        }
-      ],
-      "duration_ms": 150476,
-      "name": "In Your Arms (For An Angel)",
-      "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1743,26 +1715,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Walker Racing League",
-        "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 136563,
-      "name": "Running Out Of Roses",
-      "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Next To You (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
       },
@@ -1807,6 +1759,34 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "In Your Arms (For An Angel)",
+        "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        },
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        }
+      ],
+      "duration_ms": 150476,
+      "name": "In Your Arms (For An Angel)",
+      "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Hear Me Say",
         "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 190772,
       "name": "Hear Me Say",
       "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Walker Racing League",
+        "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 136563,
+      "name": "Running Out Of Roses",
+      "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 202406,
-      "name": "iPad",
-      "url": "https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Mad Love (Remixes)",
         "url": "https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 200893,
       "name": "Mad Love - Blinkie Remix",
       "url": "https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 202406,
+      "name": "iPad",
+      "url": "https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6"
     },
     {
       "added_at": "2023-06-02 04:00:00",

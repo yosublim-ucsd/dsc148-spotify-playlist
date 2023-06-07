@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 668103,
+  "num_followers": 668412,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDRmOWVkNjA3ZjUyNDdkY2RjYmVhMGY3ZDdiMTZmYWM5NDY0OGQ0",
+  "snapshot_id": "MCwyOTFkMTA5YzQ1OTg3OTQ1YWE0Zjg2OTRhN2MzNzI1NmIyZGI4NTQ2",
   "tracks": [
     {
       "added_at": "2023-06-05 16:15:05",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "From 2 to 3",
-        "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 257006,
-      "name": "Give Up Baby Go",
-      "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "Asc. Scorpio",
         "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 166601,
       "name": "Asc. Scorpio",
       "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "From 2 to 3",
+        "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 257006,
+      "name": "Give Up Baby Go",
+      "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -503,18 +503,22 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Coney Island Baby",
-        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+        "name": "Talk It Out",
+        "url": "https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5"
       },
       "artists": [
         {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        },
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 159093,
-      "name": "Charley's Girl",
-      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+      "duration_ms": 190726,
+      "name": "Talk It Out",
+      "url": "https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -535,6 +539,22 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
+        "name": "Coney Island Baby",
+        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Charley's Girl",
+      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 164933,
       "name": "Spooky (Single Version)",
       "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
-        "name": "Talk It Out",
-        "url": "https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        },
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 190726,
-      "name": "Talk It Out",
-      "url": "https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
         "name": "Mecury Rising",
         "url": "https://open.spotify.com/album/4d2j7pkXqc2EmAVOqgPQWU"
       },
@@ -983,18 +999,22 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+        "name": "You Ain't The Problem (Claptone Remix)",
+        "url": "https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+      "duration_ms": 164714,
+      "name": "You Ain't The Problem - Claptone Remix",
+      "url": "https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1027,26 +1047,6 @@
       "duration_ms": 219335,
       "name": "Free - Single Version",
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
-        "name": "You Ain't The Problem (Claptone Remix)",
-        "url": "https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 164714,
-      "name": "You Ain't The Problem - Claptone Remix",
-      "url": "https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+        "name": "The Dandelion",
+        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
         }
       ],
-      "duration_ms": 218408,
-      "name": "Come On In",
-      "url": "https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr"
+      "duration_ms": 219884,
+      "name": "The Dandelion",
+      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1187,38 +1187,18 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "The Dandelion",
-        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
       "artists": [
         {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 219884,
-      "name": "The Dandelion",
-      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        },
-        {
-          "name": "Florent F",
-          "url": "https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Didn't I - Florent F Rework",
-      "url": "https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI"
+      "duration_ms": 218408,
+      "name": "Come On In",
+      "url": "https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1243,26 +1223,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Slow Song (with Dragonette)",
-        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 253723,
-      "name": "Slow Song (with Dragonette)",
-      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "You and Me and Everything",
         "url": "https://open.spotify.com/album/0lRuRo9qWAokYKUW6PeJiY"
       },
@@ -1279,18 +1239,42 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        },
+        {
+          "name": "Florent F",
+          "url": "https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij"
         }
       ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+      "duration_ms": 225640,
+      "name": "Didn't I - Florent F Rework",
+      "url": "https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "Slow Song (with Dragonette)",
+        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "duration_ms": 253723,
+      "name": "Slow Song (with Dragonette)",
+      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1323,6 +1307,22 @@
       "duration_ms": 238669,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1667,34 +1667,18 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
       "artists": [
         {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
         }
       ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
-        "name": "Introducing...",
-        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Ride with Me",
-      "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1711,22 +1695,6 @@
       "duration_ms": 209561,
       "name": "Walk the Streets of Love",
       "url": "https://open.spotify.com/track/3pwe1XZL72gTCoeA3SI1eO"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Malibu Man",
-      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1751,18 +1719,66 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+        "name": "Introducing...",
+        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
       "artists": [
         {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+      "duration_ms": 232760,
+      "name": "Ride with Me",
+      "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Malibu Man",
+      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1795,22 +1811,6 @@
       "duration_ms": 191037,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "The Hi Records Singles Collection",
-        "url": "https://open.spotify.com/album/6gFbwjfZlO5NKSFD5THsSJ"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 195178,
-      "name": "I Tried to Tell Myself",
-      "url": "https://open.spotify.com/track/3gVz8BKr8qaGvBs0mnpGi1"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "From Liberty Street",
         "url": "https://open.spotify.com/album/6edYKJPDkKIJv0mDYpVT0K"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 259795,
       "name": "Highschool Steady",
       "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "The Hi Records Singles Collection",
+        "url": "https://open.spotify.com/album/6gFbwjfZlO5NKSFD5THsSJ"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 195178,
+      "name": "I Tried to Tell Myself",
+      "url": "https://open.spotify.com/track/3gVz8BKr8qaGvBs0mnpGi1"
     },
     {
       "added_at": "2023-06-05 16:15:05",

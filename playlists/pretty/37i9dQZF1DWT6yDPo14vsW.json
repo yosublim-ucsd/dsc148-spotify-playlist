@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 300622,
+  "num_followers": 300719,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzFmMDIwNmIwOTI5ZWU2MDNiNTllNDk4NzcyZDI4MjY3OWMzOGEy",
+  "snapshot_id": "MCw1NDk0NTM0YmRhNjliY2YxN2RkOGRjYTk4OTYxMzYwYWYwM2VjMDc2",
   "tracks": [
     {
       "added_at": "2023-03-06 17:05:24",
@@ -1335,34 +1335,18 @@
     {
       "added_at": "2023-03-06 17:05:24",
       "album": {
-        "name": "Destino",
-        "url": "https://open.spotify.com/album/7ntYRtIyF3vFEDORFx91VS"
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/1fhwcQfIUv8yeKny1kx2bn"
       },
       "artists": [
         {
-          "name": "Antonio Orozco",
-          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
         }
       ],
-      "duration_ms": 234964,
-      "name": "Mi H\u00e9roe",
-      "url": "https://open.spotify.com/track/01SoeJJ3ICXaWLBp1jnWk8"
-    },
-    {
-      "added_at": "2023-03-06 17:05:24",
-      "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "No S\u00e9 Olvidar",
-      "url": "https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk"
+      "duration_ms": 216986,
+      "name": "Solo Importas Tu",
+      "url": "https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX"
     },
     {
       "added_at": "2023-03-06 17:05:24",
@@ -1383,18 +1367,34 @@
     {
       "added_at": "2023-03-06 17:05:24",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/1fhwcQfIUv8yeKny1kx2bn"
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 216986,
-      "name": "Solo Importas Tu",
-      "url": "https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX"
+      "duration_ms": 261000,
+      "name": "No S\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk"
+    },
+    {
+      "added_at": "2023-03-06 17:05:24",
+      "album": {
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/7ntYRtIyF3vFEDORFx91VS"
+      },
+      "artists": [
+        {
+          "name": "Antonio Orozco",
+          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
+        }
+      ],
+      "duration_ms": 234964,
+      "name": "Mi H\u00e9roe",
+      "url": "https://open.spotify.com/track/01SoeJJ3ICXaWLBp1jnWk8"
     },
     {
       "added_at": "2023-03-06 17:05:24",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-03-06 17:05:24",
       "album": {
-        "name": "Estrella Guia",
-        "url": "https://open.spotify.com/album/0bJDginBxFe7sM7Vz8gAAQ"
+        "name": "Desde Siempre",
+        "url": "https://open.spotify.com/album/7GFpQchXpnoqDimteHViUX"
       },
       "artists": [
         {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Amame",
-      "url": "https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO"
+      "duration_ms": 278826,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/4SjWlauTM2FSmHfe62rDPW"
     },
     {
       "added_at": "2023-03-06 17:05:24",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-03-06 17:05:24",
       "album": {
-        "name": "Desde Siempre",
-        "url": "https://open.spotify.com/album/7GFpQchXpnoqDimteHViUX"
+        "name": "Estrella Guia",
+        "url": "https://open.spotify.com/album/0bJDginBxFe7sM7Vz8gAAQ"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
         }
       ],
-      "duration_ms": 278826,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/4SjWlauTM2FSmHfe62rDPW"
+      "duration_ms": 245720,
+      "name": "Amame",
+      "url": "https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO"
     },
     {
       "added_at": "2023-03-06 17:05:24",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-03-06 17:05:24",
       "album": {
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Tu Respiraci\u00f3n",
+      "url": "https://open.spotify.com/track/5bVCHIQgZ4Jcr6DFmnYqRo"
+    },
+    {
+      "added_at": "2023-03-06 17:05:24",
+      "album": {
         "name": "Confesiones",
         "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 248613,
       "name": "Cuando Se Va el Amor",
       "url": "https://open.spotify.com/track/5Kw7AEL0Hq69Ky7WxRFseh"
-    },
-    {
-      "added_at": "2023-03-06 17:05:24",
-      "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Tu Respiraci\u00f3n",
-      "url": "https://open.spotify.com/track/5bVCHIQgZ4Jcr6DFmnYqRo"
     },
     {
       "added_at": "2023-03-06 17:05:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,671 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,801 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 43 | [Personal Jesus](https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:19 |
 | 44 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 45 | [House of the Rising Sun](https://open.spotify.com/track/2SgQsZIWs0UC01ibNOBu7q) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 4:07 |
-| 46 | [Landslide \- Remastered](https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Deluxe\)](https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53) | 3:10 |
-| 47 | [Survivor](https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Survivor](https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs) | 3:13 |
+| 46 | [Survivor](https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Survivor](https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs) | 3:13 |
+| 47 | [Landslide \- Remastered](https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Deluxe\)](https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53) | 3:10 |
 | 48 | [Africa](https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:58 |
 | 49 | [God's Gonna Cut You Down](https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [God's Gonna Cut You Down](https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf) | 2:40 |
 | 50 | [Somebody That I Used to Know](https://open.spotify.com/track/100lHmeZbp3OvinYgotmVc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Somebody That I Used to Know](https://open.spotify.com/album/65ixH4ZXPcOExEvKveYoWO) | 3:29 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 58 | [I Just Don't Know What to Do With Myself](https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 2:46 |
 | 59 | [Easy](https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 3:06 |
 | 60 | [Dream On](https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm) | [Blacktop Mojo](https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2) | [Burn the Ships](https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi) | 4:25 |
-| 61 | [Ring of Fire](https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 3:50 |
-| 62 | [What a Wonderful World](https://open.spotify.com/track/04cdEVbQPb8BJb7593e5fO) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/4QkB5FT0hN3KWQeeF5Bih5) | 2:23 |
+| 61 | [What a Wonderful World](https://open.spotify.com/track/04cdEVbQPb8BJb7593e5fO) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/4QkB5FT0hN3KWQeeF5Bih5) | 2:23 |
+| 62 | [Ring of Fire](https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 3:50 |
 | 63 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
 | 64 | [Take on Me](https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:43 |
 | 65 | [Blinding Lights](https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Come Together \- Live From Fox Theatre Detroit, MI/2012](https://open.spotify.com/track/02LrmnkHvOcQo6L2RBdfqu) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4qq3w5Bfb46Rw9kE6QSYNT) | 3:46 |
 | 100 | [Eleanor Rigby](https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Eleanor Rigby](https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5) | 2:57 |
 
-Snapshot ID: `MCxiNWIzMWYxNTJjNGE2ZDYwYmM4ZGVkNTg2NzExNTljMjI1ZDQwMjBh`
+Snapshot ID: `MCw2MDFmZWE3NjExODhmZGQxOTVhOGI0MDkzYjVjOWE2YWEyYWE0ODU0`

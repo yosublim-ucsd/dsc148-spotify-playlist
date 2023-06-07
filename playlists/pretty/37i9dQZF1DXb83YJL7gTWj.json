@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 251997,
+  "num_followers": 252019,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDkxMmE0OTZlMTBjOWMxOTg5NDZkMmE1MTBiMWM2NTViNzU0Zjc1",
+  "snapshot_id": "MCxjYmNjZTBmZmI3MWY3ZDZkYTQxNmNiOGViNmUzMGYzMDdmZTZlZjRj",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "For Tonight",
-        "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "For Tonight",
-      "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "THE END OF EVERYTHING",
         "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 144377,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "For Tonight",
+        "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 193821,
+      "name": "For Tonight",
+      "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 284305,
+      "name": "This Is How It Feels (with Laufey)",
+      "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 161829,
       "name": "All Night Parking (with Erroll Garner) Interlude",
       "url": "https://open.spotify.com/track/496vIKS2INz840xZaKncvR"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 284305,
-      "name": "This Is How It Feels (with Laufey)",
-      "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Conversations in the Dark",
-        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Conversations in the Dark",
-      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 209621,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Conversations in the Dark",
+        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Conversations in the Dark",
+      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "Heart of Gold (with Bon Iver)",
+        "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 206267,
-      "name": "This Time Tomorrow",
-      "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
+      "duration_ms": 172190,
+      "name": "Heart of Gold (with Bon Iver)",
+      "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1111,6 +1115,22 @@
       "duration_ms": 274992,
       "name": "Dreams - Piano Version",
       "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 206267,
+      "name": "This Time Tomorrow",
+      "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1143,26 +1163,6 @@
       "duration_ms": 242000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Heart of Gold (with Bon Iver)",
-        "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
-      },
-      "artists": [
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 172190,
-      "name": "Heart of Gold (with Bon Iver)",
-      "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 176413,
-      "name": "New",
-      "url": "https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "No Right To Love You",
         "url": "https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 262066,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 176413,
+      "name": "New",
+      "url": "https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Songs to Break Up To",
+        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 166139,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
       },
@@ -1391,8 +1407,8 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
       },
       "artists": [
         {
@@ -1400,25 +1416,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 189722,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Songs to Break Up To",
-        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 166139,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD"
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 262333,
       "name": "Heading for Home (feat. John Legend)",
       "url": "https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 189722,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
     },
     {
       "added_at": "2023-06-02 04:00:00",

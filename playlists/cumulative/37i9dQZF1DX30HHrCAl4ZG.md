@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music from Beach Fossils.
 
-1,013 songs - 2 day 7 hr 4 min
+1,014 songs - 2 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,7 +931,8 @@
 | [Truman](https://open.spotify.com/track/5OagYkkgI5ko13uqTlbfuk) | [Lance Redeker](https://open.spotify.com/artist/1F8HRVc2bSFoyrzKZgRh7M) | [Truman](https://open.spotify.com/album/46VLPMyF84k0km6aWeIYBP) | 3:28 | 2021-06-07 | 2022-06-11 |
 | [Try Try Try](https://open.spotify.com/track/5RIVwMLtGIriw8JS73Fleg) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:51 | 2022-04-01 | 2022-06-29 |
 | [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 | 2022-10-14 | 2022-11-19 |
-| [TV in the Gas Pump](https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [TV in the Gas Pump](https://open.spotify.com/album/1KCYvFcQ0eLIx9Kpmr4WgX) | 2:22 | 2023-03-24 |  |
+| [TV in the Gas Pump](https://open.spotify.com/track/0o65GCofNQEUgkAIoWPjrb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 2:22 | 2023-03-24 |  |
+| [TV in the Gas Pump](https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [TV in the Gas Pump](https://open.spotify.com/album/1KCYvFcQ0eLIx9Kpmr4WgX) | 2:22 | 2023-03-24 | 2023-06-07 |
 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 | 2022-07-15 | 2022-12-09 |
 | [u dont kno me](https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [u dont kno me](https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp) | 3:59 | 2022-03-22 | 2022-09-03 |
 | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/track/7p7VCAr8VI5R901BMeahSZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/album/0DOaKJODUuLUSnCNdzty8n) | 4:44 | 2021-07-23 | 2022-01-13 |

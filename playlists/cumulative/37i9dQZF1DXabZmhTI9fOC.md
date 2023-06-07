@@ -4,7 +4,7 @@
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-311 songs - 16 hr 59 min
+312 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,8 +195,9 @@
 | [Livin Every Day](https://open.spotify.com/track/0ekl5RaaDhISPtPmkOVOd2) | [Kaya Ka$h](https://open.spotify.com/artist/6QuZkHjInozjNbXM2UwQSw) | [Push It](https://open.spotify.com/album/4XzL2CHy05G5jNXQjLqTA3) | 2:45 | 2022-08-05 |  |
 | [Look Back In Love](https://open.spotify.com/track/7eYNW1CIT8EkldGcSnrnjh) | [Summerdrive](https://open.spotify.com/artist/5RASv130lmR8GyP0EcQLjJ) | [Be The Change](https://open.spotify.com/album/3KgzhcNSixTtFIPGoJk3Qg) | 3:16 | 2022-08-12 |  |
 | [Lose Your Head](https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH) | 3:19 | 2022-08-05 |  |
+| [Love Can Be so Lonely, Sometimes](https://open.spotify.com/track/3aAKVbZZFQDRy6TfWMRd8T) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Love Can Be so Lonely, Sometimes](https://open.spotify.com/album/2sX9IDhE27eyzVxngyK4m2) | 3:45 | 2022-08-08 |  |
 | [Love Can Be So Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/track/6AynlgSKxWXPaTQUawcUrP) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Love Can Be So Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/album/1ficXqTVv3Kx2ONOZGANx2) | 3:45 | 2022-08-08 | 2022-12-02 |
-| [Love Can Be so Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/track/6QGzSUOiuImJb1zZeLwRiS) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Love Can Be so Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/album/4PHHnHJKFWsYthQFGGjBkC) | 3:45 | 2022-08-08 |  |
+| [Love Can Be so Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/track/6QGzSUOiuImJb1zZeLwRiS) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Love Can Be so Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/album/4PHHnHJKFWsYthQFGGjBkC) | 3:45 | 2022-08-08 | 2023-06-07 |
 | [Love Is A Losing Game](https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:34 | 2022-08-12 |  |
 | [Love Tonight \(David Guetta Remix Edit\)](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 | 2022-07-29 |  |
 | [Lovefool](https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Lovefool](https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT) | 3:10 | 2022-07-21 |  |

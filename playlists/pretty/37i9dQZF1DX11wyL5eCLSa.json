@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Usted Se\u00f1alemelo en Portada. ",
-  "num_followers": 150947,
+  "num_followers": 150969,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTkxNjBhZjNjMGI2MWM0NmRhM2QwMWQ1NDRmZTg5NDcyOGI0ZTE4",
+  "snapshot_id": "MCxkNjQzMGFmMWFmNzNhZDNlNTIwOWEyMThkZDYzNWQ4YTZkYTlkODUw",
   "tracks": [
     {
       "added_at": "2023-06-02 20:58:28",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-06-02 20:58:28",
       "album": {
-        "name": "ECOS",
-        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f"
-    },
-    {
-      "added_at": "2023-06-02 20:58:28",
-      "album": {
         "name": "Greta Garbo",
         "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 215346,
       "name": "Nuestros mundos no obedecen a tus mapas",
       "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
+    },
+    {
+      "added_at": "2023-06-02 20:58:28",
+      "album": {
+        "name": "ECOS",
+        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f"
     },
     {
       "added_at": "2023-06-02 20:58:28",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-06-02 20:58:28",
       "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 270906,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
-    },
-    {
-      "added_at": "2023-06-02 20:58:28",
-      "album": {
         "name": "Tiempos Mejores",
         "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 203320,
       "name": "Amiga - Bonus Track",
       "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
+    },
+    {
+      "added_at": "2023-06-02 20:58:28",
+      "album": {
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 270906,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
     },
     {
       "added_at": "2023-06-02 20:58:28",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-02 20:58:28",
       "album": {
-        "name": "El Accidente",
-        "url": "https://open.spotify.com/album/3tBnzfpisn2oyDgD1TPxjB"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 245694,
-      "name": "El Accidente",
-      "url": "https://open.spotify.com/track/0wchDmvHOahKI191E7X448"
-    },
-    {
-      "added_at": "2023-06-02 20:58:28",
-      "album": {
         "name": "EL FINAL",
         "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 232283,
       "name": "EL FINAL",
       "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
+    },
+    {
+      "added_at": "2023-06-02 20:58:28",
+      "album": {
+        "name": "El Accidente",
+        "url": "https://open.spotify.com/album/3tBnzfpisn2oyDgD1TPxjB"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 245694,
+      "name": "El Accidente",
+      "url": "https://open.spotify.com/track/0wchDmvHOahKI191E7X448"
     },
     {
       "added_at": "2023-06-02 20:58:28",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-06-02 20:58:28",
       "album": {
-        "name": "Yo Sabr\u00e9 Qu\u00e9 Hacer",
-        "url": "https://open.spotify.com/album/1Em5tVCOcTebi6IQVdPN5k"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Vetusta Morla",
-          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
-        }
-      ],
-      "duration_ms": 208766,
-      "name": "Yo Sabr\u00e9 Qu\u00e9 Hacer",
-      "url": "https://open.spotify.com/track/0t73UshN8WwtgM6VPxz8Yb"
-    },
-    {
-      "added_at": "2023-06-02 20:58:28",
-      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn"
       },
@@ -843,22 +823,6 @@
     {
       "added_at": "2023-06-02 20:58:28",
       "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 179024,
-      "name": "Paradoja",
-      "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
-    },
-    {
-      "added_at": "2023-06-02 20:58:28",
-      "album": {
         "name": "S\u00f3lo D\u2019Lira",
         "url": "https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9"
       },
@@ -875,6 +839,42 @@
       "duration_ms": 234416,
       "name": "Money In The Bank",
       "url": "https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP"
+    },
+    {
+      "added_at": "2023-06-02 20:58:28",
+      "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 179024,
+      "name": "Paradoja",
+      "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
+    },
+    {
+      "added_at": "2023-06-02 20:58:28",
+      "album": {
+        "name": "Yo Sabr\u00e9 Qu\u00e9 Hacer",
+        "url": "https://open.spotify.com/album/1Em5tVCOcTebi6IQVdPN5k"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+        }
+      ],
+      "duration_ms": 208766,
+      "name": "Yo Sabr\u00e9 Qu\u00e9 Hacer",
+      "url": "https://open.spotify.com/track/0t73UshN8WwtgM6VPxz8Yb"
     },
     {
       "added_at": "2023-06-02 20:58:28",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-06-02 20:58:28",
       "album": {
-        "name": "Almas Rotas",
-        "url": "https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
       "artists": [
         {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Almas Rotas",
-      "url": "https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW"
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2023-06-02 20:58:28",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-06-02 20:58:28",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+        "name": "Almas Rotas",
+        "url": "https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
         }
       ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+      "duration_ms": 225000,
+      "name": "Almas Rotas",
+      "url": "https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW"
     },
     {
       "added_at": "2023-06-02 20:58:28",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-06-02 20:58:28",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
+        "name": "No Estoy",
+        "url": "https://open.spotify.com/album/1O776s0DpVKXrEvv2k5MVg"
       },
       "artists": [
         {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
+          "name": "Kinder Malo",
+          "url": "https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0"
         }
       ],
-      "duration_ms": 162758,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+      "duration_ms": 153901,
+      "name": "No Estoy",
+      "url": "https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG"
     },
     {
       "added_at": "2023-06-02 20:58:28",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-06-02 20:58:28",
       "album": {
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+    },
+    {
+      "added_at": "2023-06-02 20:58:28",
+      "album": {
         "name": "Cassie of the Dead",
         "url": "https://open.spotify.com/album/2roYlUsSAh7z2cbx4NE6F8"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 167142,
       "name": "Cassie of the Dead",
       "url": "https://open.spotify.com/track/3KD5jeFJm2KYZ3k02Z5xc5"
-    },
-    {
-      "added_at": "2023-06-02 20:58:28",
-      "album": {
-        "name": "No Estoy",
-        "url": "https://open.spotify.com/album/1O776s0DpVKXrEvv2k5MVg"
-      },
-      "artists": [
-        {
-          "name": "Kinder Malo",
-          "url": "https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0"
-        }
-      ],
-      "duration_ms": 153901,
-      "name": "No Estoy",
-      "url": "https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG"
     },
     {
       "added_at": "2023-06-02 20:58:28",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2023-06-02 20:58:28",
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/43aKWfRS65Whr7j0tXhUkc"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        },
+        {
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/24L7z0NN7h2Na2Dn5ckdIV"
+    },
+    {
+      "added_at": "2023-06-02 20:58:28",
+      "album": {
         "name": "In Between Thoughts...A New World",
         "url": "https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3"
       },
@@ -1467,22 +1487,18 @@
     {
       "added_at": "2023-06-02 20:58:28",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/43aKWfRS65Whr7j0tXhUkc"
+        "name": "C\u00e1llame",
+        "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
       },
       "artists": [
         {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        },
-        {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 147400,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/24L7z0NN7h2Na2Dn5ckdIV"
+      "duration_ms": 187693,
+      "name": "C\u00e1llame",
+      "url": "https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp"
     },
     {
       "added_at": "2023-06-02 20:58:28",
@@ -1503,22 +1519,6 @@
       "duration_ms": 165986,
       "name": "\u00c1rbol",
       "url": "https://open.spotify.com/track/6MkWgZNpY548ccjs2PJSyq"
-    },
-    {
-      "added_at": "2023-06-02 20:58:28",
-      "album": {
-        "name": "C\u00e1llame",
-        "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "C\u00e1llame",
-      "url": "https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp"
     },
     {
       "added_at": "2023-06-02 20:58:28",

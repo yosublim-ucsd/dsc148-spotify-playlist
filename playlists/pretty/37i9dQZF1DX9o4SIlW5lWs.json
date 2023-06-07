@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 167051,
+  "num_followers": 167183,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGE0MGUxYTIwYmM4MjIyZjg2Mzc4OTYzN2ZjODA4NjZjOWM4MDNh",
+  "snapshot_id": "MCxlYzhiMzAzYzUyOWFhMjZhODdkM2Q3YjU1MzEzN2ViZjc2ODFiZTVi",
   "tracks": [
     {
       "added_at": "2023-06-02 21:26:29",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-06-02 21:26:29",
       "album": {
+        "name": "Soplando Fuerte / Un Fen\u00f3meno Natural",
+        "url": "https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Una R\u00e1faga De Amor",
+      "url": "https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN"
+    },
+    {
+      "added_at": "2023-06-02 21:26:29",
+      "album": {
         "name": "El \u00daltimo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
-    },
-    {
-      "added_at": "2023-06-02 21:26:29",
-      "album": {
-        "name": "Soplando Fuerte / Un Fen\u00f3meno Natural",
-        "url": "https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Una R\u00e1faga De Amor",
-      "url": "https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN"
     },
     {
       "added_at": "2023-06-02 21:26:29",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-02 21:26:29",
       "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
-    },
-    {
-      "added_at": "2023-06-02 21:26:29",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 197616,
       "name": "Entre el Cielo Vos y Yo",
       "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
+    },
+    {
+      "added_at": "2023-06-02 21:26:29",
+      "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
     },
     {
       "added_at": "2023-06-02 21:26:29",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-06-02 21:26:29",
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+    },
+    {
+      "added_at": "2023-06-02 21:26:29",
+      "album": {
         "name": "Maravillosa Esta Noche",
         "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 187533,
       "name": "Vete de Mi Lado",
       "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
-    },
-    {
-      "added_at": "2023-06-02 21:26:29",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2023-06-02 21:26:29",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-02 21:26:29",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
-    },
-    {
-      "added_at": "2023-06-02 21:26:29",
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 203340,
       "name": "Mil L\u00e1grimas",
       "url": "https://open.spotify.com/track/3bEjthWPk4EjDuV8vcrP9p"
+    },
+    {
+      "added_at": "2023-06-02 21:26:29",
+      "album": {
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2023-06-02 21:26:29",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-06-02 21:26:29",
       "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
-    },
-    {
-      "added_at": "2023-06-02 21:26:29",
-      "album": {
         "name": "Lo Que Son las Cosas",
         "url": "https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 235035,
       "name": "Lo Que Son las Cosas",
       "url": "https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq"
+    },
+    {
+      "added_at": "2023-06-02 21:26:29",
+      "album": {
+        "name": "No Llores",
+        "url": "https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "duration_ms": 256702,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
     }
   ],
   "unique_name": "Cumbia y Romance",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 114357,
+  "num_followers": 114385,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODNlM2NlM2FhMGFhZDc2ZDMxZjlkZGIyYjg3M2U4ZjUzYjAyNzM1",
+  "snapshot_id": "MCw2YzM0MTQ1Y2VlMjI0ZDMzOWE0OGRlN2E1NjRlZTVjZmQ5OTRhOTg1",
   "tracks": [
     {
       "added_at": "2023-06-02 03:41:44",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-06-02 03:41:44",
       "album": {
+        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+    },
+    {
+      "added_at": "2023-06-02 03:41:44",
+      "album": {
         "name": "15b",
         "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 163566,
       "name": "15b",
       "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
-    },
-    {
-      "added_at": "2023-06-02 03:41:44",
-      "album": {
-        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 176920,
-      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
     },
     {
       "added_at": "2023-06-02 03:41:44",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-02 03:41:44",
       "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
-    },
-    {
-      "added_at": "2023-06-02 03:41:44",
-      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 186400,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+    },
+    {
+      "added_at": "2023-06-02 03:41:44",
+      "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2023-06-02 03:41:44",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-06-02 03:41:44",
       "album": {
-        "name": "Desastre Solar",
-        "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
-      },
-      "artists": [
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Deixa Acontecer",
-      "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
-    },
-    {
-      "added_at": "2023-06-02 03:41:44",
-      "album": {
         "name": "Rua Tr\u00eas",
         "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 154647,
       "name": "Rua Tr\u00eas",
       "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
+    },
+    {
+      "added_at": "2023-06-02 03:41:44",
+      "album": {
+        "name": "Desastre Solar",
+        "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
+      },
+      "artists": [
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Deixa Acontecer",
+      "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
     },
     {
       "added_at": "2023-06-02 03:41:44",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-06-02 03:41:44",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2023-06-02 03:41:44",
-      "album": {
         "name": "Alumi\u00f4",
         "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 204116,
       "name": "Alumi\u00f4",
       "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
+    },
+    {
+      "added_at": "2023-06-02 03:41:44",
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2023-06-02 03:41:44",

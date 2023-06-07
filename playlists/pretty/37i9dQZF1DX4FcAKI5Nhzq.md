@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: AB6IX
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,525 likes - 52 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,619 likes - 52 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 40 | [Chico malo](https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Chico malo](https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9) | 2:39 |
 | 41 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 |
 | 42 | [Madness](https://open.spotify.com/track/7n21DchMhEHga46iMecQHW) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [INCENSE](https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z) | 2:57 |
-| 43 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 |
+| 43 | [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 |
 | 44 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
 | 45 | [Lights Out](https://open.spotify.com/track/1z7X7lFkoF2KRoDaxUfN99) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [\[BILLION MUSIC PROJECT VOL.1\]](https://open.spotify.com/album/5WyawwlLnlCHeLGChPaJii) | 3:21 |
 | 46 | [BLUE CHECK \(Feat\. Jay Park, Jessi\) \(Prod\. by Slom\)](https://open.spotify.com/track/7aNA0yQbOYu3HKWv9zElJX) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:28 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 51 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
 | 52 | [Poppy \(Korean Ver.\)](https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Poppy \(Korean Ver.\)](https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu) | 2:58 |
 
-Snapshot ID: `MCwyYTg0NTc5YTU4YTkwMzIzZTYzZGM3Y2EwZWNlYzczODU5MTM2ZTY2`
+Snapshot ID: `MCw4ODlkZDE5MzEyZWUzOTA2MzNlMDA4YjU2NGMxMGYwODkxOWE5ZGI5`

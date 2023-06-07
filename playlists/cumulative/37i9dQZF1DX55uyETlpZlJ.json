@@ -565,6 +565,28 @@
     },
     {
       "album": {
+        "name": "HUBBALLI SONG",
+        "url": "https://open.spotify.com/album/5QzcCrWpYxTmnw5UxlmF5R"
+      },
+      "artists": [
+        {
+          "name": "Ismail Attar",
+          "url": "https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31"
+        },
+        {
+          "name": "Pushpa Aradhya",
+          "url": "https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "HUBBALLI SONG",
+      "url": "https://open.spotify.com/track/4epAvvYgRA0zRI90ud8jFD"
+    },
+    {
+      "album": {
         "name": "Ibbani",
         "url": "https://open.spotify.com/album/5BObiTpBbLQlv6ydqZPIQ5"
       },
@@ -910,6 +932,24 @@
       "duration_ms": 177600,
       "name": "Mallige Hoova",
       "url": "https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS"
+    },
+    {
+      "album": {
+        "name": "Manadaalada Maatu",
+        "url": "https://open.spotify.com/album/0LmYdvdjouZveQPz7pl8F3"
+      },
+      "artists": [
+        {
+          "name": "Chetan Pavate",
+          "url": "https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188573,
+      "name": "Manadaalada Maatu",
+      "url": "https://open.spotify.com/track/7d77j1xDRzw69uQkFlGEHY"
     },
     {
       "album": {

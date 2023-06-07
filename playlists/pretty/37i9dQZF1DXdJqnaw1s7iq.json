@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 3732,
+  "num_followers": 4006,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODllMWEzOWY4NWVmNGNlMGFjMjViMGEwODdhODFlOGRjNzNmMDcx",
+  "snapshot_id": "MCw4YjZhODRjNDE4NzI4MzAxOWExZDVlNDBmMzRlY2YxMTU1NDAyNzcy",
   "tracks": [
     {
       "added_at": "2023-05-17 20:35:57",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Freetown Sound",
+        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 225747,
+      "name": "Best to You",
+      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Sylvan Esso",
         "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 148706,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Freetown Sound",
-        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 225747,
-      "name": "Best to You",
-      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 324173,
+      "name": "Flip Ya Lid",
+      "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Elder Island",
         "url": "https://open.spotify.com/album/5wyOoFvt08gMtEsiG42iPZ"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "In A Space Outta Sound",
-        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
+        "name": "Life of Leisure",
+        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 324173,
-      "name": "Flip Ya Lid",
-      "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
+      "duration_ms": 168680,
+      "name": "New Theory",
+      "url": "https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -815,22 +831,6 @@
       "duration_ms": 244202,
       "name": "Sunlight (feat. Years and Years) - Darius Remix",
       "url": "https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Life of Leisure",
-        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "New Theory",
-      "url": "https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Odyssey / Sonne",
         "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 290201,
       "name": "Recovery",
       "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT"
-      },
-      "artists": [
-        {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
-        }
-      ],
-      "duration_ms": 75429,
-      "name": "Easy Fraction",
-      "url": "https://open.spotify.com/track/6auiShWekyq8tyecMpJ5Cf"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT"
+      },
+      "artists": [
+        {
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
+        }
+      ],
+      "duration_ms": 75429,
+      "name": "Easy Fraction",
+      "url": "https://open.spotify.com/track/6auiShWekyq8tyecMpJ5Cf"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Begin",
         "url": "https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 250706,
       "name": "Treat Me Like Fire",
       "url": "https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Easier",
-        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 308741,
-      "name": "Gimme Some",
-      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 308741,
+      "name": "Gimme Some",
+      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Movements",
         "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Underwaterfall",
-        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
-      },
-      "artists": [
-        {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
-        }
-      ],
-      "duration_ms": 260064,
-      "name": "Underwaterfall",
-      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 312000,
       "name": "Nothing - Original Mix",
       "url": "https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Underwaterfall",
+        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 260064,
+      "name": "Underwaterfall",
+      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Tremors",
         "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 233017,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
     },
     {
       "added_at": "2023-05-17 20:35:57",

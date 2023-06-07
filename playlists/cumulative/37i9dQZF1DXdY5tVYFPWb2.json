@@ -765,6 +765,28 @@
     },
     {
       "album": {
+        "name": "Tokyo City Pop\u201cPortrait\u201dProduced by Kanako Hara",
+        "url": "https://open.spotify.com/album/2QvxjUgOLWYIqMvwMvIwZg"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u3089\u304b\u306a\u3053",
+          "url": "https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj"
+        },
+        {
+          "name": "Zuma (Nijiirozamurai)",
+          "url": "https://open.spotify.com/artist/2mGHftJVrPjfQJyfNu7OyZ"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236440,
+      "name": "Blind Touch",
+      "url": "https://open.spotify.com/track/3gZLOJ26mpO1rCLcA40GPv"
+    },
+    {
+      "album": {
         "name": "BLIZZARD (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/3kCaoPjv4u2Usa6kO7S6vu"
       },
@@ -1076,6 +1098,24 @@
       "duration_ms": 190633,
       "name": "CHASE",
       "url": "https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa"
+    },
+    {
+      "album": {
+        "name": "Choice",
+        "url": "https://open.spotify.com/album/1EuDLCs4gaDRUugmdzfRb4"
+      },
+      "artists": [
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231363,
+      "name": "Choice",
+      "url": "https://open.spotify.com/track/14vLQiD5BPqGUo72cJ3ONE"
     },
     {
       "album": {
@@ -2100,7 +2140,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 267593,
       "name": "Friday overnight",
       "url": "https://open.spotify.com/track/78mCSOawC0iznrUKJdM9Zn"
@@ -3406,7 +3446,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 269569,
       "name": "MAGIC WAYS",
       "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
@@ -3428,6 +3468,24 @@
       "duration_ms": 203375,
       "name": "Make You, Make Me",
       "url": "https://open.spotify.com/track/0griATJYc9f9hCmHbuwBV1"
+    },
+    {
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/4w5XnMaC67Apk06K1eDd7s"
+      },
+      "artists": [
+        {
+          "name": "Asilo",
+          "url": "https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226784,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/18IkQ9FJd7BW261aQAbH9Z"
     },
     {
       "album": {
@@ -3486,7 +3544,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 246613,
       "name": "Midnight Dew",
       "url": "https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD"
@@ -3696,6 +3754,24 @@
       "duration_ms": 190906,
       "name": "MOON NIGHT",
       "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/51oMK7as2eEqVsTUkjTo8f"
+      },
+      "artists": [
+        {
+          "name": "Barbara",
+          "url": "https://open.spotify.com/artist/5L4cL58h70X4usTwKuvmQk"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180474,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7BJ1ZW2oHkE0UfKFZ2WBsr"
     },
     {
       "album": {
@@ -4102,7 +4178,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 160298,
       "name": "NO TIME",
       "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
@@ -4186,7 +4262,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 298544,
       "name": "One Q",
       "url": "https://open.spotify.com/track/0JVnEBW7PvPo2tbUy0j6m3"
@@ -4573,6 +4649,36 @@
     },
     {
       "album": {
+        "name": "Purple Sunset",
+        "url": "https://open.spotify.com/album/0IFs1LexzGsEOlaRflGTQ3"
+      },
+      "artists": [
+        {
+          "name": "Fixional Cities",
+          "url": "https://open.spotify.com/artist/2jxEE7jYzc8xgXGTYNARTj"
+        },
+        {
+          "name": "Osamu Fukuzawa",
+          "url": "https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F"
+        },
+        {
+          "name": "Masaya Wada",
+          "url": "https://open.spotify.com/artist/3fHO9CmcvdkDk6KwIaBMlV"
+        },
+        {
+          "name": "Sho Kamijo",
+          "url": "https://open.spotify.com/artist/0BIsQY0ptusqjW5IMyNqpe"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209978,
+      "name": "Purple Sunset",
+      "url": "https://open.spotify.com/track/03AkajGxPe98c5o5whQoja"
+    },
+    {
+      "album": {
         "name": "puzzle (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol"
       },
@@ -4624,7 +4730,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 273719,
       "name": "Rain Of Your Heart",
       "url": "https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O"
@@ -4794,6 +4900,24 @@
       "duration_ms": 224177,
       "name": "Rhythm of Your Heart",
       "url": "https://open.spotify.com/track/4jffPANCVwBpUPmbj3cS9F"
+    },
+    {
+      "album": {
+        "name": "RIDE ON TIME",
+        "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
+      },
+      "artists": [
+        {
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244752,
+      "name": "RIDE ON TIME",
+      "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
     },
     {
       "album": {
@@ -5722,7 +5846,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 194017,
       "name": "Structure Of Romance (feat. Kyoko Koizumi)",
       "url": "https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4"
@@ -6671,6 +6795,24 @@
     },
     {
       "album": {
+        "name": "utero",
+        "url": "https://open.spotify.com/album/2hnGGL3rxG01Wt1WkW2i3P"
+      },
+      "artists": [
+        {
+          "name": "YOHLU",
+          "url": "https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288341,
+      "name": "utero",
+      "url": "https://open.spotify.com/track/21p5MYnOKZGvJ0OKT3a1HR"
+    },
+    {
+      "album": {
         "name": "The Lover",
         "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
       },
@@ -6884,6 +7026,28 @@
       "duration_ms": 303721,
       "name": "Wind Path (Kaze no Yukusaki) - with Jin Suzuki, Kazuki Inoue from Laura day romance",
       "url": "https://open.spotify.com/track/5qIM3pAqIU4Dcl3QapkpTY"
+    },
+    {
+      "album": {
+        "name": "WINDY SUMMER (Cover)",
+        "url": "https://open.spotify.com/album/2LFaMKaaTbd70dHI3cRC1l"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "WINDY SUMMER - Cover",
+      "url": "https://open.spotify.com/track/2ZTsJLuGom7SjIoY5ynrvA"
     },
     {
       "album": {
@@ -8434,7 +8598,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 226432,
       "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
       "url": "https://open.spotify.com/track/6aAOQW6aYVfb1RZTpseu5K"
@@ -8906,6 +9070,28 @@
       "duration_ms": 257083,
       "name": "\u541b\u306f1000%",
       "url": "https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306f1000% feat. \u30df\u30ba\u30ce\u30de\u30ea (from paris match)",
+        "url": "https://open.spotify.com/album/3owjP8KGMy2LE1alSWSQSI"
+      },
+      "artists": [
+        {
+          "name": "PAPER MOON PROJECT",
+          "url": "https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9"
+        },
+        {
+          "name": "\u30df\u30ba\u30ce\u30de\u30ea (from paris match)",
+          "url": "https://open.spotify.com/artist/1YDvWXGgyyceWTsBziydY7"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279577,
+      "name": "\u541b\u306f1000% feat. \u30df\u30ba\u30ce\u30de\u30ea (from paris match)",
+      "url": "https://open.spotify.com/track/7fbisFzuaxYSmIjhPhYotu"
     },
     {
       "album": {
@@ -9892,7 +10078,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 320754,
       "name": "\u7121\u6dfb\u52a0",
       "url": "https://open.spotify.com/track/6XjFPsbkATcM5XQP13WPMv"

@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Fridayy",
-  "num_followers": 41744,
+  "num_followers": 41743,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTkxY2Q4NDM3OGU0MzM4NDU0MmI2N2MzYzkzOTlmZDViOTgwYmJl",
+  "snapshot_id": "MCw1NjhmNGNlZWQ0N2ZjZTlhZjViOWZiZTU0M2I4MzFmNGRlMzc5YzVk",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Big Vibez",
-        "url": "https://open.spotify.com/album/7xO5Ggc0dlOfWwxy0a1kZB"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        }
-      ],
-      "duration_ms": 166808,
-      "name": "Big Vibez",
-      "url": "https://open.spotify.com/track/7a1ICdYKiQPHYmxH740gfM"
-    },
-    {
       "added_at": "2022-09-09 04:09:30",
       "album": {
         "name": "C BOTH SIDES",
@@ -939,6 +923,22 @@
       "duration_ms": 129882,
       "name": "CYCLOPS",
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Big Vibez",
+        "url": "https://open.spotify.com/album/7xO5Ggc0dlOfWwxy0a1kZB"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 166808,
+      "name": "Big Vibez",
+      "url": "https://open.spotify.com/track/7a1ICdYKiQPHYmxH740gfM"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Outside Freestyle",
+        "url": "https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Outside Freestyle",
+      "url": "https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "A Little Crazy",
@@ -979,22 +995,6 @@
       "duration_ms": 198000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Outside Freestyle",
-        "url": "https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Outside Freestyle",
-      "url": "https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Kissing On Your Tattoos",
-        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 153599,
-      "name": "Kissing On Your Tattoos",
-      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Archives & Lullabies",
@@ -1063,6 +1047,22 @@
       "duration_ms": 211384,
       "name": "Nurture",
       "url": "https://open.spotify.com/track/0OdRKPM36edHZ8OEpbrDCu"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kissing On Your Tattoos",
+        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 153599,
+      "name": "Kissing On Your Tattoos",
+      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1121,6 +1121,26 @@
       "url": "https://open.spotify.com/track/13i0JmpLVk1mzj8lGAkOOo"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 203136,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Obsession (feat. Muni Long) [Remix]",
@@ -1139,6 +1159,26 @@
       "duration_ms": 201869,
       "name": "Obsession (feat. Muni Long) - Remix",
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1181,42 +1221,6 @@
       "url": "https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Love Scars II",
-        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Scorpio Moon",
-        "url": "https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Scorpio Moon",
-      "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
-    },
-    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Feels",
@@ -1251,6 +1255,22 @@
       "duration_ms": 130021,
       "name": "Sadboy",
       "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Scorpio Moon",
+        "url": "https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Scorpio Moon",
+      "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
     },
     {
       "added_at": "2022-09-23 04:09:12",
@@ -1357,26 +1377,6 @@
       "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 203136,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Riptide",
@@ -1391,6 +1391,22 @@
       "duration_ms": 194400,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
+    },
+    {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL"
+      },
+      "artists": [
+        {
+          "name": "Kenya Vaun",
+          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
+        }
+      ],
+      "duration_ms": 187484,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1445,22 +1461,6 @@
       "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL"
-      },
-      "artists": [
-        {
-          "name": "Kenya Vaun",
-          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
-        }
-      ],
-      "duration_ms": 187484,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Not a Statistic",
@@ -1497,20 +1497,20 @@
       "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Indifferent",
-        "url": "https://open.spotify.com/album/7kLfcydCvC99ExE7Sogptd"
+        "name": "Right My Wrongs",
+        "url": "https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P"
       },
       "artists": [
         {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
         }
       ],
-      "duration_ms": 157976,
-      "name": "Indifferent",
-      "url": "https://open.spotify.com/track/2C0UG7bGDIRzatEp7OMqqm"
+      "duration_ms": 151730,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1529,20 +1529,20 @@
       "url": "https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Right My Wrongs",
-        "url": "https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P"
+        "name": "Indifferent",
+        "url": "https://open.spotify.com/album/7kLfcydCvC99ExE7Sogptd"
       },
       "artists": [
         {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 151730,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
+      "duration_ms": 157976,
+      "name": "Indifferent",
+      "url": "https://open.spotify.com/track/2C0UG7bGDIRzatEp7OMqqm"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1649,6 +1649,26 @@
       "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/1x9usTHpyE6vG4z9OlwuFk"
+      },
+      "artists": [
+        {
+          "name": "Jay Burna",
+          "url": "https://open.spotify.com/artist/6EAdSOUIcqfNLu6yXEdwqr"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 306149,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/5o8k3588i3ImSV6cCLfVHj"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "B.E.D",
@@ -1713,42 +1733,6 @@
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Dreams 2 Reality",
-        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 170937,
-      "name": "Divide",
-      "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/1x9usTHpyE6vG4z9OlwuFk"
-      },
-      "artists": [
-        {
-          "name": "Jay Burna",
-          "url": "https://open.spotify.com/artist/6EAdSOUIcqfNLu6yXEdwqr"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 306149,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/5o8k3588i3ImSV6cCLfVHj"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "About You",
@@ -1763,6 +1747,22 @@
       "duration_ms": 157714,
       "name": "About You",
       "url": "https://open.spotify.com/track/7buqGYXBMa9fO7st8ITboc"
+    },
+    {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Dreams 2 Reality",
+        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 170937,
+      "name": "Divide",
+      "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
     }
   ],
   "unique_name": "Some Kinda Way",

@@ -4,7 +4,7 @@
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-176 songs - 10 hr 31 min
+178 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Gotta Go](https://open.spotify.com/track/0xq4ZTcmwBfkPGo4RRKmMe) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) | 3:41 | 2019-12-04 | 2022-07-29 |
 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 | 2019-12-04 |  |
 | [Growl](https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:27 | 2019-12-04 |  |
-| [Hands Up](https://open.spotify.com/track/01TE1eGP7ewSGHbL3IJ1CS) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Hands Up](https://open.spotify.com/album/31ts1gO00pptOFCiXxVbBM) | 3:18 | 2019-12-04 |  |
+| [Hands Up](https://open.spotify.com/track/01TE1eGP7ewSGHbL3IJ1CS) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Hands Up](https://open.spotify.com/album/31ts1gO00pptOFCiXxVbBM) | 3:18 | 2019-12-04 | 2023-06-07 |
+| [Hands Up](https://open.spotify.com/track/5RENkTP0he793Basw1Stto) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Hands Up](https://open.spotify.com/album/1PPU2sGpyQVivVTBLyrjJx) | 3:18 | 2019-12-04 |  |
 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 | 2019-12-04 |  |
 | [Hate](https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Act\. 7](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) | 3:36 | 2019-12-04 |  |
 | [HER](https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [HER](https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3) | 2:59 | 2019-12-04 |  |
@@ -171,7 +172,8 @@
 | [Why So Lonely](https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Why So Lonely](https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx) | 3:26 | 2019-12-04 |  |
 | [Yanghwa BRDG](https://open.spotify.com/track/6BcOOZoCGPaUuEPGNqGQx2) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/73IzxTtOgb1ANBiJVzw7Nt) | 3:49 | 2019-12-04 | 2022-07-29 |
 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 | 2019-12-04 |  |
-| [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 | 2019-12-04 |  |
+| [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 | 2019-12-04 |  |
+| [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 | 2019-12-04 | 2023-06-07 |
 | [You’re the Best](https://open.spotify.com/track/2GbF32jk2VyATjqFmUkpTR) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Melting](https://open.spotify.com/album/4x2afg5wUzbfURyzacNACm) | 3:50 | 2019-12-04 | 2022-07-29 |
 | [You’re the Best](https://open.spotify.com/track/3BUZUCu1uHaTvroizwqLHt) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Melting](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) | 3:50 | 2019-12-04 |  |
 | [기대해](https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [기대](https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM) | 3:16 | 2019-12-04 |  |

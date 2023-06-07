@@ -4,7 +4,7 @@
 
 > Listen to the soundtrack of the SBS Mon\-Tue drama CHEER UP and the songs recommended by the cast! \(SBS 월, 화 드라마 치얼업의 사운드 트랙과 배우진이 추천하는 노래를 들어보세요!\)
 
-33 songs - 1 hr 58 min
+34 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,9 @@
 | [Way to Go](https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Gee \- The First Mini Album](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) | 3:03 | 2022-10-04 |  |
 | [WE LIKE 2 PARTY](https://open.spotify.com/track/07gp2fnoTbVCsRJYazycI4) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:15 | 2022-10-04 |  |
 | [wish](https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:41 | 2022-10-04 |  |
+| [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 | 2022-12-06 |  |
 | [그대에게](https://open.spotify.com/track/5NwzyQJvDC2haL3vDiuuNb) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [99 Crom Live & Homemade Cookies](https://open.spotify.com/album/0Wu5rnQAIwQCExLBOki1lF) | 5:34 | 2022-10-04 |  |
 | [넘어와 \(Feat\. 백예린\)](https://open.spotify.com/track/7LN1f9jAIu7yxBzsLMN7RB) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Limbo](https://open.spotify.com/album/48ScAfcD1Dy3gMPhjhTzek) | 4:26 | 2022-10-04 |  |
-| [예뻤어 You Were Beautiful](https://open.spotify.com/track/75oevn5AunR1yAalrm6VL2) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 February](https://open.spotify.com/album/52mBcbwJ0Im0XCIXv4hPLs) | 4:43 | 2022-10-04 |  |
+| [예뻤어 You Were Beautiful](https://open.spotify.com/track/75oevn5AunR1yAalrm6VL2) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 February](https://open.spotify.com/album/52mBcbwJ0Im0XCIXv4hPLs) | 4:43 | 2022-10-04 | 2023-06-07 |
 
 \*This playlist was first scraped on 2022-10-05. Prior content cannot be recovered.

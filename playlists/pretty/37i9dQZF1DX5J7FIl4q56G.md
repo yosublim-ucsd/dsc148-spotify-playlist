@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Pupil Slicer
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,716 likes - 55 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,813 likes - 55 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 51 | [GHOSTS](https://open.spotify.com/track/5yrsGjwX5Jx6la1Az7IGJj) | [Les Tambours du Bronx](https://open.spotify.com/artist/2l0mjzEtb8EoHuvtzvRScT) | [GHOSTS](https://open.spotify.com/album/5BTUUgPQdSF0bI8EIpPZFX) | 3:13 |
 | 52 | [Eyelids Of The New Dawn](https://open.spotify.com/track/0kF7H8sXmY6hRTzmLXeYCj) | [Atlases](https://open.spotify.com/artist/3J0Xvj8KIkSVIURJlZBQhj) | [Between The Day & I](https://open.spotify.com/album/6FpupbhJzZXNzMWGJv4Unq) | 4:35 |
 | 53 | [The Chains](https://open.spotify.com/track/1gdT2fJqewZNdUOBDa56Mb) | [Body Stuff](https://open.spotify.com/artist/7IFvh8WYrZfahoaCOAQtKD) | [The Chains](https://open.spotify.com/album/6IMDzaTIVEH06tO8ERYndO) | 5:47 |
-| 54 | [Solar Witch](https://open.spotify.com/track/59tgpJap3pxVGFKeJcm843) | [Thantifaxath](https://open.spotify.com/artist/7DcSKG8ruWMgHsUh1rqZFh) | [Hive Mind Necrosis](https://open.spotify.com/album/33j7lFZ3OdXerDKwdVHLJf) | 6:01 |
+| 54 | [Solar Witch](https://open.spotify.com/track/59tgpJap3pxVGFKeJcm843) | [Thantifaxath](https://open.spotify.com/artist/7DcSKG8ruWMgHsUh1rqZFh) | [Hive Mind Narcosis](https://open.spotify.com/album/33j7lFZ3OdXerDKwdVHLJf) | 6:01 |
 | 55 | [From the Rafters](https://open.spotify.com/track/5ulRodnS24iqppMEZQQa53) | [Death Ray Vision](https://open.spotify.com/artist/3W8CcPW3tnk7aCxruUEFx2) | [From the Rafters](https://open.spotify.com/album/65cIOtNeHasQRWPb2cRYIg) | 2:27 |
 
-Snapshot ID: `MCw1ODdmZjA5ZmZjN2JkYmRiZDdjMmQ4YmQ3MTZiNjdiZWRmNmYxMDlk`
+Snapshot ID: `MCw1Y2VhZjBmZDUyOWM4YjcwMTMxZmYzYTRjMDVhODU0ZGM1M2M5MTI4`

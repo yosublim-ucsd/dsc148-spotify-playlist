@@ -1,12 +1,12 @@
 {
   "description": "la primavera non \u00e8 una stagione, \u00e8 un mood \ud83c\udf37",
-  "num_followers": 57407,
+  "num_followers": 57410,
   "original_name": "primavera chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjM4ZWViMTQwNTYzMTNhYWE0NDgyZjBjNTZiMDBmMmU2YmJhOWY2",
+  "snapshot_id": "MCw1MTYzNmVjMjIxM2M1NjMwZjhlYmExNjdlMWRhYzAyM2Q5NGMzYmQ2",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 170826,
       "name": "Galway Girl",
       "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 172213,
       "name": "Lights Up",
       "url": "https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "this is what losing someone feels like",
-        "url": "https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 172325,
-      "name": "this is what losing someone feels like",
-      "url": "https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 405320,
       "name": "Up&Up",
       "url": "https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "this is what losing someone feels like",
+        "url": "https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 172325,
+      "name": "this is what losing someone feels like",
+      "url": "https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "To Be Loved",
         "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 199266,
       "name": "It's a Beautiful Day",
       "url": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 163049,
+      "name": "WORTHLESS",
+      "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Wings Of Time (From the Motion Picture Dungeons & Dragons: Honor Among Thieves)",
         "url": "https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 168786,
       "name": "Wings Of Time - From the Motion Picture Dungeons & Dragons: Honor Among Thieves",
       "url": "https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Lean On Me",
-        "url": "https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs"
-      },
-      "artists": [
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 182497,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Lean On Me",
+        "url": "https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs"
+      },
+      "artists": [
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 182497,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Absence of You",
         "url": "https://open.spotify.com/album/0kg5NHyGzMboxjrWtWOo00"
       },
@@ -1443,6 +1459,22 @@
       "duration_ms": 194745,
       "name": "Absence of You",
       "url": "https://open.spotify.com/track/3fk4yTACtSqCzDol4mBPdt"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1479,22 +1511,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 268600,
       "name": "This Life",
       "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 163049,
-      "name": "WORTHLESS",
-      "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Weekend Vibe",
-        "url": "https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "Weekend Vibe",
-      "url": "https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "The Art Of Celebration",
         "url": "https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 224169,
       "name": "My Lighthouse",
       "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Weekend Vibe",
+        "url": "https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "Weekend Vibe",
+      "url": "https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL"
     },
     {
       "added_at": "2023-04-21 04:01:00",

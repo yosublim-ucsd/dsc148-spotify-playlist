@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 583929,
+  "num_followers": 584101,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZlMzJkODc3NGE1NzlkZjA3YTQ1YTE4MDUyYjQ4ZmI4NzA5M2I3",
+  "snapshot_id": "MCw2ZThkZmZkNTg1ZjczNzkwOGU0MWFiOTU0MTcxNDYwYjBhMGZmZTQz",
   "tracks": [
     {
       "added_at": "2023-02-18 03:29:19",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Great Are You Lord EP",
-        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
-      },
-      "artists": [
-        {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        }
-      ],
-      "duration_ms": 232379,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Double Take - Chris Tomlin",
         "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 267066,
       "name": "Amazing Grace (My Chains Are Gone)",
       "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Out of Body",
-        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
       },
       "artists": [
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
         }
       ],
-      "duration_ms": 207066,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN"
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+        "name": "God Is on the Move",
+        "url": "https://open.spotify.com/album/717joDA6v1pvhMq13mCSfV"
       },
       "artists": [
         {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
         }
       ],
-      "duration_ms": 200680,
-      "name": "Never Been a Moment",
-      "url": "https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE"
+      "duration_ms": 176615,
+      "name": "God Is on the Move",
+      "url": "https://open.spotify.com/track/72aVbNngCMhTFl31ydjHCG"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "God Is on the Move",
-        "url": "https://open.spotify.com/album/717joDA6v1pvhMq13mCSfV"
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
       },
       "artists": [
         {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 176615,
-      "name": "God Is on the Move",
-      "url": "https://open.spotify.com/track/72aVbNngCMhTFl31ydjHCG"
+      "duration_ms": 200680,
+      "name": "Never Been a Moment",
+      "url": "https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1491,22 +1491,6 @@
       "duration_ms": 298226,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Mercy Is A Song",
-      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Mercy Is A Song",
+      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 264320,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 192926,
+      "name": "Fear No More",
+      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1579,22 +1595,6 @@
       "duration_ms": 226866,
       "name": "Your Love Defends Me",
       "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 192926,
-      "name": "Fear No More",
-      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Worthy Of Your Name (Live)",
-        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Brett Younker",
-          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
-        }
-      ],
-      "duration_ms": 459466,
-      "name": "Build My Life - Live",
-      "url": "https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Fill This Place (Live)",
         "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 248854,
       "name": "I'm Listening - Radio Version",
       "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Worthy Of Your Name (Live)",
+        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Brett Younker",
+          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
+        }
+      ],
+      "duration_ms": 459466,
+      "name": "Build My Life - Live",
+      "url": "https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim"
     }
   ],
   "unique_name": "Everyday Inspiration",

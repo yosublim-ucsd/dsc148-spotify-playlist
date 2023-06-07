@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it\. Cover: BOYS LIKE GIRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,604 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,702 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,17 +75,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 65 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 |
 | 66 | [Friends With Benefits](https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Friends With Benefits](https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N) | 3:07 |
 | 67 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 2:49 |
-| 68 | [Don't Get Me Wrong](https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Don't Get Me Wrong](https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm) | 2:53 |
-| 69 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
+| 68 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
+| 69 | [Don't Get Me Wrong](https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Don't Get Me Wrong](https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm) | 2:53 |
 | 70 | [California Girl](https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [California Girl](https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q) | 2:53 |
 | 71 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 |
 | 72 | [MASOCHIST](https://open.spotify.com/track/1fDGlJAUBDeCgWYqhna9jN) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [MASOCHIST](https://open.spotify.com/album/2NM15uX3nFGvD6nnJUCuPK) | 2:44 |
 | 73 | [FUNERAL](https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [FUNERAL](https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd) | 3:01 |
-| 74 | [Head in the Clouds](https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 2:55 |
-| 75 | [Insanity](https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [Insanity](https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm) | 3:03 |
-| 76 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 |
-| 77 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 |
-| 78 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 |
+| 74 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 |
+| 75 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 |
+| 76 | [Head in the Clouds](https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 2:55 |
+| 77 | [Insanity](https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [Insanity](https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm) | 3:03 |
+| 78 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 |
 | 79 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 |
 | 80 | [cough drops](https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cough drops](https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph) | 2:43 |
 | 81 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 99 | [Only Wanna Be With You](https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Only Wanna Be With You](https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ) | 3:10 |
 | 100 | [Middle Of A Breakup](https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:20 |
 
-Snapshot ID: `MCxlOWM3YzJkNGU4MzIxNDcxMjYwOTc3ZjhhNzM5YjZhYjFmNDJiN2U1`
+Snapshot ID: `MCwzNDZjODBhY2FlNzEyNmFmYTIwNjM5NWQwMmJkOWIwY2IzZmJkODMx`

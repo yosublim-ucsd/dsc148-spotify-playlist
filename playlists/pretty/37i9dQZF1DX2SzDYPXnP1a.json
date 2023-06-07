@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 21110,
+  "num_followers": 21241,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2E5ZjhmOTI2ODc5MzQ5MzliYzg3MmJlNzZmZTU3MjE1Y2E4Y2Vk",
+  "snapshot_id": "MCxhZDQ2NmM2MDdmYTZmZTFlNTk5ZTdkN2MyMWI5NmNkNjNiNzFlMTEz",
   "tracks": [
     {
       "added_at": "2023-01-27 18:17:38",
@@ -275,22 +275,18 @@
     {
       "added_at": "2023-01-27 18:17:38",
       "album": {
-        "name": "Cowboy Killer",
-        "url": "https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf"
+        "name": "Welcome to the Show",
+        "url": "https://open.spotify.com/album/72pR0B18ynMrGZmLf0L2YF"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        },
-        {
-          "name": "Ryan Charles",
-          "url": "https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 132506,
-      "name": "Cowboy Killer",
-      "url": "https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd"
+      "duration_ms": 160520,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/0ZyATfTcQN9uXNbdJEDlAP"
     },
     {
       "added_at": "2023-01-27 18:17:38",
@@ -327,18 +323,22 @@
     {
       "added_at": "2023-01-27 18:17:38",
       "album": {
-        "name": "Welcome to the Show",
-        "url": "https://open.spotify.com/album/72pR0B18ynMrGZmLf0L2YF"
+        "name": "Cowboy Killer",
+        "url": "https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Ryan Charles",
+          "url": "https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS"
         }
       ],
-      "duration_ms": 160520,
-      "name": "Welcome to the Show",
-      "url": "https://open.spotify.com/track/0ZyATfTcQN9uXNbdJEDlAP"
+      "duration_ms": 132506,
+      "name": "Cowboy Killer",
+      "url": "https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd"
     },
     {
       "added_at": "2023-01-27 18:17:38",

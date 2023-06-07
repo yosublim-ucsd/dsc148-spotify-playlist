@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,266 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,673 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 54 | [Go Go Wine](https://open.spotify.com/track/4uQjPCRQJF2QGTKh2vp45a) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Kingston Story \(Deluxe Edition\)](https://open.spotify.com/album/3Ekq3FY8u4AMUDmgoK5FJU) | 3:23 |
 | 55 | [Party Shot \(Ravin Part\. 2\)](https://open.spotify.com/track/0rGKPQZZxLlNBPfhYQ2JU1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [When Mi Party](https://open.spotify.com/album/0tE82B0ff2X8Ss6JSMqpMH) | 3:50 |
 | 56 | [Gyal Bruk Out](https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Raw as Eva](https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha) | 2:42 |
-| 57 | [Everything Fi Hold Him](https://open.spotify.com/track/7v2IaYqhKoMndOWt6Krsgd) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:46 |
-| 58 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
+| 57 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
+| 58 | [Everything Fi Hold Him](https://open.spotify.com/track/7v2IaYqhKoMndOWt6Krsgd) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:46 |
 | 59 | [Kotch](https://open.spotify.com/track/0V64KIinm3gUN04DhxEHwW) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch](https://open.spotify.com/album/0oprdfurN8Dhv9mdLl0iPC) | 3:15 |
 | 60 | [Likes](https://open.spotify.com/track/0L7ByJIFyro93nWs7wwioM) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:18 |
 | 61 | [Nah Let Go](https://open.spotify.com/track/39ThJ78YJf1Ouyb63rjYFu) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 79 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 2:47 |
 | 80 | [Punanny Medley](https://open.spotify.com/track/5GEid99RgStd0cQIhAlGHQ) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on), [Ward 21](https://open.spotify.com/artist/0iRwqSYn7fG3WkEBYQpcqJ), [Harry Toddler](https://open.spotify.com/artist/4ytwWK7bEj7noRfvIVDsgj), [Lexxus](https://open.spotify.com/artist/6LCFuJlEO46XKJlT3ZguIa), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Baby G](https://open.spotify.com/artist/5s2H4Qminkygl0u2u8fTbk), [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Admiral Bailey](https://open.spotify.com/artist/1zYGgHaZVz4Q2NrPngXiCx) | [Strictly The Best Vol\. 25](https://open.spotify.com/album/3dY688fGsIBNj7AcgKOU7d) | 3:51 |
 
-Snapshot ID: `MCwzN2U2MTc4ZDUxYWM3YjI5MDkxMjlmOTMxZjFiODBhYjIwYWI5YjBl`
+Snapshot ID: `MCxjNTVlNGQ5MjE5MjJjZjZlYzU3NDI4MGIzZDQ0NGQzMjFiMTU3YmJh`

@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que prende la fiesta!",
-  "num_followers": 575234,
+  "num_followers": 575453,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDZjMzA2ZjE0Zjc4OTIwOWZiMjA5ODU1Y2YxMjdhNTk3MjYyNTRj",
+  "snapshot_id": "MCxhZjQzYTE5NmI3ZWFiMDcwYmJiNDljZGZmM2MzYWRhZmUzNDRjY2Fk",
   "tracks": [
     {
       "added_at": "2023-06-05 18:33:43",
@@ -407,18 +407,22 @@
     {
       "added_at": "2023-06-05 18:33:43",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+      "duration_ms": 267786,
+      "name": "Ella Y Yo - Featuring Don Omar",
+      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
     },
     {
       "added_at": "2023-06-05 18:33:43",
@@ -483,22 +487,18 @@
     {
       "added_at": "2023-06-05 18:33:43",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 267786,
-      "name": "Ella Y Yo - Featuring Don Omar",
-      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2023-06-05 18:33:43",
@@ -535,6 +535,26 @@
       "duration_ms": 170058,
       "name": "Vida Gangster",
       "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
+    },
+    {
+      "added_at": "2023-06-05 18:33:43",
+      "album": {
+        "name": "Volv\u00ed",
+        "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230125,
+      "name": "Volv\u00ed",
+      "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
     },
     {
       "added_at": "2023-06-05 18:33:43",
@@ -627,26 +647,6 @@
     {
       "added_at": "2023-06-05 18:33:43",
       "album": {
-        "name": "Volv\u00ed",
-        "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230125,
-      "name": "Volv\u00ed",
-      "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
-    },
-    {
-      "added_at": "2023-06-05 18:33:43",
-      "album": {
         "name": "King Of Kings",
         "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 307910,
       "name": "Sola (Remix)",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
-    },
-    {
-      "added_at": "2023-06-05 18:33:43",
-      "album": {
-        "name": "El Efecto",
-        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "El Efecto",
-      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
     },
     {
       "added_at": "2023-06-05 18:33:43",
@@ -831,6 +811,26 @@
       "duration_ms": 176142,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "added_at": "2023-06-05 18:33:43",
+      "album": {
+        "name": "El Efecto",
+        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "El Efecto",
+      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
     },
     {
       "added_at": "2023-06-05 18:33:43",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2023-06-05 18:33:43",
       "album": {
-        "name": "Butakera",
-        "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        }
-      ],
-      "duration_ms": 143402,
-      "name": "Butakera",
-      "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
-    },
-    {
-      "added_at": "2023-06-05 18:33:43",
-      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+    },
+    {
+      "added_at": "2023-06-05 18:33:43",
+      "album": {
+        "name": "Butakera",
+        "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 143402,
+      "name": "Butakera",
+      "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
     },
     {
       "added_at": "2023-06-05 18:33:43",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2023-06-05 18:33:43",
       "album": {
+        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 158086,
+      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
+    },
+    {
+      "added_at": "2023-06-05 18:33:43",
+      "album": {
         "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
         "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 229426,
       "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
       "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
-    },
-    {
-      "added_at": "2023-06-05 18:33:43",
-      "album": {
-        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 158086,
-      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
     },
     {
       "added_at": "2023-06-05 18:33:43",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2023-06-05 18:33:43",
       "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
+    },
+    {
+      "added_at": "2023-06-05 18:33:43",
+      "album": {
         "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
         "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
       },
@@ -1971,22 +1987,6 @@
     {
       "added_at": "2023-06-05 18:33:43",
       "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
-    },
-    {
-      "added_at": "2023-06-05 18:33:43",
-      "album": {
         "name": "Temporada de Reggaet\u00f3n",
         "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
@@ -1999,26 +1999,6 @@
       "duration_ms": 146815,
       "name": "TOP 5",
       "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
-    },
-    {
-      "added_at": "2023-06-05 18:33:43",
-      "album": {
-        "name": "Peipper | DJ TAO Turreo Sessions #15",
-        "url": "https://open.spotify.com/album/5gQXupkao8XDSevgJCCZhc"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 133607,
-      "name": "Peipper | DJ TAO Turreo Sessions #15",
-      "url": "https://open.spotify.com/track/52tKOYrwES8h7CIv7KjJd8"
     },
     {
       "added_at": "2023-06-05 18:33:43",
@@ -2051,6 +2031,26 @@
       "duration_ms": 212406,
       "name": "Tak Tiki Tak",
       "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
+    },
+    {
+      "added_at": "2023-06-05 18:33:43",
+      "album": {
+        "name": "Peipper | DJ TAO Turreo Sessions #15",
+        "url": "https://open.spotify.com/album/5gQXupkao8XDSevgJCCZhc"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 133607,
+      "name": "Peipper | DJ TAO Turreo Sessions #15",
+      "url": "https://open.spotify.com/track/52tKOYrwES8h7CIv7KjJd8"
     },
     {
       "added_at": "2023-06-05 18:33:43",

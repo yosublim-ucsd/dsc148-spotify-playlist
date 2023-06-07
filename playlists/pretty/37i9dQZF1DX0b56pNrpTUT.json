@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 6034,
+  "num_followers": 6060,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWE3ZDc1MTkxNjU5MGYzNjU0Y2I2M2ZhN2JhMGNkYWM0OGNlMTM3",
+  "snapshot_id": "MCxhYzBjMzJmNmY1Y2NkYThhOWQ5ODk3MjFjNTFhYTcxNjc4YmE5NjE2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -215,22 +215,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Touch Me (feat. Kehlani) [Remix]",
-        "url": "https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ"
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 187951,
-      "name": "Touch Me (feat. Kehlani) - Remix",
-      "url": "https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy"
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -255,18 +251,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
+        "name": "Touch Me (feat. Kehlani) [Remix]",
+        "url": "https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ"
       },
       "artists": [
         {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+      "duration_ms": 187951,
+      "name": "Touch Me (feat. Kehlani) - Remix",
+      "url": "https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy"
     },
     {
       "added_at": "2022-10-01 16:00:00",

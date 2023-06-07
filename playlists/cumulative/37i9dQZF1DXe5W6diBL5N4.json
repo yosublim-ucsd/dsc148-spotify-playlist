@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: XODIAC)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: TAEYONG(\ud0dc\uc6a9))",
   "name": "New Music K-Pop",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 134360,
       "name": "#DONMALIKSMTM11",
       "url": "https://open.spotify.com/track/1rzhbR6ZTIUe9a35Q53bBb"
+    },
+    {
+      "album": {
+        "name": "Unlock My World",
+        "url": "https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169906,
+      "name": "#menow",
+      "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
     },
     {
       "album": {
@@ -34751,6 +34769,24 @@
     },
     {
       "album": {
+        "name": "Grain of Sand",
+        "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220309,
+      "name": "Grain of Sand",
+      "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
+    },
+    {
+      "album": {
         "name": "mother tongue",
         "url": "https://open.spotify.com/album/6SLOuqIcXh82MAYRlmJEb9"
       },
@@ -53513,6 +53549,24 @@
     },
     {
       "album": {
+        "name": "Beginning is the First Kiss (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/5N1C8ku1f0eBcsPPlNOvxI"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260733,
+      "name": "Love from a Real Heart(2023)",
+      "url": "https://open.spotify.com/track/0Muf8pCSuf50DOoWs9ABVz"
+    },
+    {
+      "album": {
         "name": "Love Has Come",
         "url": "https://open.spotify.com/album/7pLEQP2V4TkCTCr2n2vhzV"
       },
@@ -67795,6 +67849,32 @@
     },
     {
       "album": {
+        "name": "Over The Mountain (Prod. dress)",
+        "url": "https://open.spotify.com/album/7rWOcf4qhHuQssqWnXqyNo"
+      },
+      "artists": [
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214273,
+      "name": "Over The Mountain (Prod. dress)",
+      "url": "https://open.spotify.com/track/5AHXMr5z1TfXXi91ZpsYhG"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/1WuXGnoEW3POjOwzaO3We2"
       },
@@ -77258,6 +77338,24 @@
       "duration_ms": 227002,
       "name": "Shake - Live",
       "url": "https://open.spotify.com/track/70u1cegwxHgpubSGoee101"
+    },
+    {
+      "album": {
+        "name": "SHALALA - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "SHALALA",
+      "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Nortec: Bostich + Fussible en portada.",
-  "num_followers": 54467,
+  "num_followers": 54474,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjg0YjNjZGJjY2Y3YWZlODBhMDdkOGYzYWMzZTRmOGNlMWRmZDcz",
+  "snapshot_id": "MCw5NWJiZmU1ZDMxYmJlNGQ2OGEwMGIzZWY2YTZiOGE3YzU1MGE1ODkw",
   "tracks": [
     {
       "added_at": "2023-06-02 16:21:34",
@@ -731,30 +731,6 @@
     {
       "added_at": "2023-06-02 16:21:34",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
-      },
-      "artists": [
-        {
-          "name": "Alfred Beck",
-          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
-        },
-        {
-          "name": "Riallo",
-          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
-        },
-        {
-          "name": "Sapir Amar",
-          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
-    },
-    {
-      "added_at": "2023-06-02 16:21:34",
-      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 154687,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
+    },
+    {
+      "added_at": "2023-06-02 16:21:34",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
+      },
+      "artists": [
+        {
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+        },
+        {
+          "name": "Riallo",
+          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
+        },
+        {
+          "name": "Sapir Amar",
+          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
     },
     {
       "added_at": "2023-06-02 16:21:34",
@@ -851,34 +851,6 @@
     {
       "added_at": "2023-06-02 16:21:34",
       "album": {
-        "name": "Time (feat. Alexia Langis)",
-        "url": "https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi"
-      },
-      "artists": [
-        {
-          "name": "Alfred Beck",
-          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
-        },
-        {
-          "name": "Tadeo Fernandez",
-          "url": "https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS"
-        },
-        {
-          "name": "Riallo",
-          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
-        },
-        {
-          "name": "Alexia Langis",
-          "url": "https://open.spotify.com/artist/1KnmhAncqCZIhgi2vD9x5x"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Time (feat. Alexia Langis)",
-      "url": "https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G"
-    },
-    {
-      "added_at": "2023-06-02 16:21:34",
-      "album": {
         "name": "Thousand Drums",
         "url": "https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd"
       },
@@ -919,6 +891,34 @@
       "duration_ms": 222000,
       "name": "Just Leave The Past Behind - Human Version",
       "url": "https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq"
+    },
+    {
+      "added_at": "2023-06-02 16:21:34",
+      "album": {
+        "name": "Time (feat. Alexia Langis)",
+        "url": "https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi"
+      },
+      "artists": [
+        {
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+        },
+        {
+          "name": "Tadeo Fernandez",
+          "url": "https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS"
+        },
+        {
+          "name": "Riallo",
+          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
+        },
+        {
+          "name": "Alexia Langis",
+          "url": "https://open.spotify.com/artist/1KnmhAncqCZIhgi2vD9x5x"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Time (feat. Alexia Langis)",
+      "url": "https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G"
     },
     {
       "added_at": "2023-06-02 16:21:34",

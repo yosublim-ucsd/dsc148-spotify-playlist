@@ -10743,24 +10743,6 @@
     },
     {
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/78UPrGFWBDSbLCUlqga72R"
-      },
-      "artists": [
-        {
-          "name": "idrcauaurltm",
-          "url": "https://open.spotify.com/artist/4WSwucg9ocUGsSD2LZXlhj"
-        }
-      ],
-      "date_added": "2023-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215733,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/3c9R9NHTzL1stAbIUQsxSy"
-    },
-    {
-      "album": {
         "name": "insomnia",
         "url": "https://open.spotify.com/album/6yIjDBG1Xsw7qwSNFCZRML"
       },
@@ -10780,6 +10762,24 @@
       "duration_ms": 70214,
       "name": "insomnia",
       "url": "https://open.spotify.com/track/7C4TFXQvXt9RKrFkwk7Eps"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/78UPrGFWBDSbLCUlqga72R"
+      },
+      "artists": [
+        {
+          "name": "M.A.G",
+          "url": "https://open.spotify.com/artist/7ejjae37TLnTILAEN2u2vj"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215733,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/3c9R9NHTzL1stAbIUQsxSy"
     },
     {
       "album": {

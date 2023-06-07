@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,107 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,110 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CHẮC LÀ SAY ÒI](https://open.spotify.com/track/798WQMqGeOrfTFepsCF3r7) | [24k.Right](https://open.spotify.com/artist/5p2tOFduPQAD4eJYUojfUt), [Max Benderz](https://open.spotify.com/artist/0ZDirTwCdmoL4RpbXxiRvj) | [CHẮC LÀ SAY ÒI](https://open.spotify.com/album/6BJ9LUWp8AqbKahQ0TnUZk) | 3:24 |
+| 1 | [CHẮC LÀ SAY ÒI](https://open.spotify.com/track/798WQMqGeOrfTFepsCF3r7) | [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [Max Benderz](https://open.spotify.com/artist/0ZDirTwCdmoL4RpbXxiRvj) | [CHẮC LÀ SAY ÒI](https://open.spotify.com/album/6BJ9LUWp8AqbKahQ0TnUZk) | 3:24 |
 | 2 | [HUNGOVER \(feat\. Vũ Cát Tường\)](https://open.spotify.com/track/5cxX6mL978HKzOMcGqKD8v) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT), [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Hungover \(feat\. Vũ Cát Tường\)](https://open.spotify.com/album/4y3eau8LhHk8VDoDWB7HWQ) | 5:29 |
 | 3 | [tỉnh thức sau giấc ngủ đông](https://open.spotify.com/track/4Xai78OB5OKQI9EFYcCzxD) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 3:47 |
 | 4 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 59 | [Obsessed](https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Obsessed](https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav) | 2:28 |
 | 60 | [STAY FOR A WHILE](https://open.spotify.com/track/3krMz49aQyQny6U65HNHvA) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [STAY FOR A WHILE](https://open.spotify.com/album/3kaF1ubPMNkq47EkGptClH) | 3:47 |
 
-Snapshot ID: `MCwxM2Q2Y2I3NzJiMDhkZmRjMzAwYTg0MDI3ZDQwOGQ4OGI3ZmE2ZmEy`
+Snapshot ID: `MCxiYTQ2NzEyMjlkZmMwMTUyMDQxMjU5NWY5MWU2NjY2MWNkODZkMjg3`

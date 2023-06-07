@@ -4,13 +4,14 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-352 songs - 5 day 11 hr 50 min
+353 songs - 5 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 | 2022-05-25 |  |
 | [1/1 Singing Bowl \(Ascension\)](https://open.spotify.com/track/5aGcszkgFp1DOnxziXZrUw) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Meditations](https://open.spotify.com/album/79EfVLabvmR4nUhpr2rF8s) | 20:53 | 2022-05-25 |  |
-| [14:31](https://open.spotify.com/track/3gpLIMd0ySkcorvVIMtmTp) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 14:38 | 2022-05-25 |  |
+| [14:31](https://open.spotify.com/track/31NqxiLbyEYuH2voZoHk61) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 14:31 | 2023-01-27 |  |
+| [14:31](https://open.spotify.com/track/3gpLIMd0ySkcorvVIMtmTp) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 14:38 | 2022-05-25 | 2023-06-07 |
 | [17:43](https://open.spotify.com/track/7almtV6686k9AcE2FFOYip) | [Nico Seel](https://open.spotify.com/artist/39DOxPvEw50bnpSDBxrDGl) | [Für Immer, dein weißes Rauschen](https://open.spotify.com/album/1WxCOFCZ5qOS7ELpMBQ1Xo) | 17:28 | 2022-05-25 |  |
 | [20,880 Breaths](https://open.spotify.com/track/6EmOhzudC2WiEGFj0o5mru) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Thoughts or Feelings?](https://open.spotify.com/album/5vMoeKUXBSkrIuXxgkB7YC) | 1:31:38 | 2022-05-25 |  |
 | [2679 miles away](https://open.spotify.com/track/4B4jWWkkgJ13lSbph0T3GQ) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Paradoxically, forgetting](https://open.spotify.com/album/4Pwr8F2x5SWLapkvscTJVN) | 13:55 | 2022-12-20 |  |

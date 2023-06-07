@@ -1,13 +1,29 @@
 {
-  "description": "Everything you need to hear from the most exciting artists. Handpicked by our editors. Cover: BiGSaM.",
-  "num_followers": 5506,
+  "description": "Everything you need to hear from the most exciting artists. Handpicked by our editors. Cover: Mohammed Saeed.",
+  "num_followers": 5514,
   "original_name": "RADAR ARABIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2IwYTdmYjIwY2ZhYjdhOWQzOTNhYjY2MjI2NDllOTdlNTdmZjI0",
+  "snapshot_id": "MCxlMTVlN2Q3ZjEyZTQ5NTZmY2VmYzQyNGE1NWQ3MmE2YzM5MWI3NTBm",
   "tracks": [
+    {
+      "added_at": "2023-06-07 01:13:51",
+      "album": {
+        "name": "7 PM",
+        "url": "https://open.spotify.com/album/2dFBkn85KWOQ2JwcPuJtt2"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "7 PM",
+      "url": "https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3"
+    },
     {
       "added_at": "2023-03-01 17:31:27",
       "album": {
@@ -75,22 +91,6 @@
       "duration_ms": 205034,
       "name": "\u062f\u064a\u062f\u064a",
       "url": "https://open.spotify.com/track/5pr1lDwkRKvlUaqlLdA008"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
-        "name": "\u064a\u0627 \u0628\u0627\u063a\u064a\u0629",
-        "url": "https://open.spotify.com/album/5r1nnBiexkEb6NG9Dvlfro"
-      },
-      "artists": [
-        {
-          "name": "Bigsam",
-          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
-        }
-      ],
-      "duration_ms": 197537,
-      "name": "\u064a\u0627 \u0628\u0627\u063a\u064a\u0629",
-      "url": "https://open.spotify.com/track/4VEJSIx2XA4MZbNzRDLQNz"
     },
     {
       "added_at": "2023-03-01 17:31:27",
@@ -191,6 +191,22 @@
       "duration_ms": 210821,
       "name": "Manni Asef",
       "url": "https://open.spotify.com/track/27Xo0Tkk9E8OftqyR98wXx"
+    },
+    {
+      "added_at": "2023-03-01 17:31:27",
+      "album": {
+        "name": "\u064a\u0627 \u0628\u0627\u063a\u064a\u0629",
+        "url": "https://open.spotify.com/album/5r1nnBiexkEb6NG9Dvlfro"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "duration_ms": 197537,
+      "name": "\u064a\u0627 \u0628\u0627\u063a\u064a\u0629",
+      "url": "https://open.spotify.com/track/4VEJSIx2XA4MZbNzRDLQNz"
     },
     {
       "added_at": "2023-03-01 17:31:27",
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-03-01 17:31:27",
       "album": {
-        "name": "\u0642\u0644\u0628\u064a \u0627\u0644\u062c\u0627\u0645\u062f",
-        "url": "https://open.spotify.com/album/3565Rc8S4fHuL16tJ7RyUM"
-      },
-      "artists": [
-        {
-          "name": "Yahia Alaa",
-          "url": "https://open.spotify.com/artist/2gX2GqX7m8cUJILhJp0NVa"
-        }
-      ],
-      "duration_ms": 164515,
-      "name": "\u0642\u0644\u0628\u064a \u0627\u0644\u062c\u0627\u0645\u062f",
-      "url": "https://open.spotify.com/track/2b6UTABkSjxidB4zavLW4Z"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
         "name": "\u0647\u064a\u062f\u0627 \u062d\u0627\u0644\u064a",
         "url": "https://open.spotify.com/album/04BUdm7whYgxcyPrre29LX"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-01 17:31:27",
       "album": {
-        "name": "FAWDA",
-        "url": "https://open.spotify.com/album/2sKwWuqZcp3yjmVgrNBhAx"
-      },
-      "artists": [
-        {
-          "name": "Khalid Assiri",
-          "url": "https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb"
-        }
-      ],
-      "duration_ms": 200533,
-      "name": "FAWDA",
-      "url": "https://open.spotify.com/track/5WxlfJ1bzFVP2keqmQnMTC"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
         "name": "Zabatna",
         "url": "https://open.spotify.com/album/2q0BFnd8N5N0v5kEx8uih4"
       },
@@ -887,154 +871,6 @@
       "duration_ms": 224853,
       "name": "Is It On",
       "url": "https://open.spotify.com/track/3eAbgCZEVjCswZQBx72mcP"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
-        "name": "\u062c\u0627\u064a\u064a \u0644\u0643",
-        "url": "https://open.spotify.com/album/2QrMIPEdF4w9TBiaGBGio7"
-      },
-      "artists": [
-        {
-          "name": "Abdu B",
-          "url": "https://open.spotify.com/artist/0ZOnIEMRVWqPDuqzJTkGbE"
-        }
-      ],
-      "duration_ms": 196695,
-      "name": "\u062c\u0627\u064a\u064a \u0644\u0643",
-      "url": "https://open.spotify.com/track/5O2M4jyybgemMnEycvY0d7"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
-        "name": "\u0643\u0648\u0646\u064a",
-        "url": "https://open.spotify.com/album/1TAeZ2WnLp3PRhFLpO3ETs"
-      },
-      "artists": [
-        {
-          "name": "Oma",
-          "url": "https://open.spotify.com/artist/0m0lZ1flHVDnhBWMAaZ9OD"
-        }
-      ],
-      "duration_ms": 173254,
-      "name": "\u0643\u0648\u0646\u064a",
-      "url": "https://open.spotify.com/track/4nmZ8hzRX14xtcQr1i5PIk"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
-        "name": "Astahlik",
-        "url": "https://open.spotify.com/album/20vCcB2a5j1MSStibILx1n"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Burhan",
-          "url": "https://open.spotify.com/artist/7pWG2cgMJbZmMd2a0TqZJ0"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Astahlik",
-      "url": "https://open.spotify.com/track/2qCz9zvGLV479cUTzeXjNq"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
-      },
-      "artists": [
-        {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        },
-        {
-          "name": "Samer Doumet",
-          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
-        }
-      ],
-      "duration_ms": 201379,
-      "name": "3abali",
-      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
-        "name": "Hawelna Keter",
-        "url": "https://open.spotify.com/album/4qFvAkgf4FfCDKZvOV8JLn"
-      },
-      "artists": [
-        {
-          "name": "Meery",
-          "url": "https://open.spotify.com/artist/7v4YgvdfeIZLwqbrASG50n"
-        }
-      ],
-      "duration_ms": 257238,
-      "name": "Hawelna Keter",
-      "url": "https://open.spotify.com/track/6tc1iDgFurBNcXQa8QjKrd"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/5rONkE94pV9zuGG7eiYjmg"
-      },
-      "artists": [
-        {
-          "name": "Alaa Al Hendi",
-          "url": "https://open.spotify.com/artist/6r7at5fcu4jX0fRlZEyOxn"
-        }
-      ],
-      "duration_ms": 192765,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/3d4Tcv2Cjq51lPoTTU6dse"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
-        "name": "Met3ala2 Beeky",
-        "url": "https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7"
-      },
-      "artists": [
-        {
-          "name": "Ahmed El Ruby",
-          "url": "https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf"
-        }
-      ],
-      "duration_ms": 200699,
-      "name": "Met3ala2 Beeky",
-      "url": "https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
-        "name": "Wojoud Efterady",
-        "url": "https://open.spotify.com/album/25NYgltgevJgJjQATySzkQ"
-      },
-      "artists": [
-        {
-          "name": "Mirelle Mokhtar",
-          "url": "https://open.spotify.com/artist/72qojRuTcRlpvPehi30h7p"
-        }
-      ],
-      "duration_ms": 251176,
-      "name": "Wojoud Efterady",
-      "url": "https://open.spotify.com/track/0kd00pkjvrTrK8dDKmwMCr"
-    },
-    {
-      "added_at": "2023-03-01 17:31:27",
-      "album": {
-        "name": "\u064a\u0627 \u062d\u0628\u064a\u0628\u0629",
-        "url": "https://open.spotify.com/album/10OMhjxG7IiOFCnbrrU7c4"
-      },
-      "artists": [
-        {
-          "name": "Alawar",
-          "url": "https://open.spotify.com/artist/7hlFz8LW0RDvHdf22JSJVq"
-        }
-      ],
-      "duration_ms": 186031,
-      "name": "\u064a\u0627 \u062d\u0628\u064a\u0628\u0629",
-      "url": "https://open.spotify.com/track/4rS1EJLl0OJyXkfijXih7Y"
     }
   ],
   "unique_name": "RADAR ARABIA",

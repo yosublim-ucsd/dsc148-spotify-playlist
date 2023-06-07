@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-382 songs - 1 day 0 hr 13 min
+383 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Losing You](https://open.spotify.com/track/3ASaECH1ebS3BKpizNHk35) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Losing You](https://open.spotify.com/album/4eekFhEz7Ifb3KpTKkjxBa) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Lost in the Country](https://open.spotify.com/track/77XbmhGmIedQyragDU6cq3) | [Trace Mountains](https://open.spotify.com/artist/7sLtFQOS2kTEnMPTFLFU1t) | [Lost in the Country](https://open.spotify.com/album/29Lcw12vdKldc1n41YluvA) | 5:22 | 2022-03-25 | 2022-04-20 |
 | [Mad At Me](https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [Mad At Me](https://open.spotify.com/album/3jo28hZqatoB93dyt9nMQt) | 3:38 | 2023-01-09 | 2023-02-17 |
-| [Make a Picture](https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Inside Problems](https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE) | 3:25 | 2022-06-10 |  |
+| [Make a Picture](https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Inside Problems](https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE) | 3:25 | 2022-06-10 | 2023-06-07 |
 | [Making All Things New](https://open.spotify.com/track/0g3Vm5xbQsDslbTeN9SwEb) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Making All Things New](https://open.spotify.com/album/0nDRdz3cU4IjwlkHs08dp2) | 2:39 | 2022-03-25 | 2022-04-21 |
 | [Making All Things New](https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Making All Things New](https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU) | 2:39 | 2022-06-10 | 2023-01-10 |
 | [Manifest](https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 5:17 | 2021-12-17 |  |
@@ -211,6 +211,7 @@
 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 | 2022-06-10 |  |
 | [McKenzie](https://open.spotify.com/track/6r105oew3DqGLUEIYRMk9L) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [McKenzie](https://open.spotify.com/album/5EK1qziAlurOZINUJC1yPe) | 3:14 | 2021-12-17 | 2022-07-29 |
 | [Memory](https://open.spotify.com/track/21kvruyJddCLQguDk9oklX) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Memory](https://open.spotify.com/album/32yZcwzjlxC3mY9rWciv8P) | 3:17 | 2022-03-25 | 2022-10-17 |
+| [Memory](https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 3:17 | 2023-03-24 |  |
 | [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 | 2022-06-10 | 2023-03-04 |
 | [Mighty Soul](https://open.spotify.com/track/2wzoFtHi2oX6FXr9EtBizB) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Mighty Soul](https://open.spotify.com/album/6T7wqhIl7v7jj5yMIZXozN) | 1:57 | 2021-12-17 | 2022-07-29 |
 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 | 2021-12-17 |  |

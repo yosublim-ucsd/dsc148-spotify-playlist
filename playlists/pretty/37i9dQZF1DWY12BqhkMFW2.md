@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,866 likes - 35 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,966 likes - 35 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 20 | [Sara Smile](https://open.spotify.com/track/0aqVhoenCvorCVcEZEfiLS) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:32 |
 | 21 | [This Is for the Lover In You \(feat\. LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels\)](https://open.spotify.com/track/1blZP5x1XQSqQFpTy12rFh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Howard Hewett](https://open.spotify.com/artist/3S78Gzhp1D01i1x2KGXrnh), [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Jeffrey Daniels](https://open.spotify.com/artist/4LJ9G2mHQIu6z4NFvg5EhJ) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 3:59 |
 | 22 | [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 |
-| 23 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 |
-| 24 | [How Come You Don't Call Me](https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:57 |
+| 23 | [How Come You Don't Call Me](https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:57 |
+| 24 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 |
 | 25 | [Yearning For Your Love](https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 4:56 |
 | 26 | [You And I](https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap) | [O'Bryan](https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31) | [The Best Of O'Bryan](https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1) | 3:58 |
 | 27 | [Love's In Need Of Love Today](https://open.spotify.com/track/6eCeCP4MhQGPNAKPi6YD9p) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Sonna](https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf) | [Love's In Need Of Love Today](https://open.spotify.com/album/067timXrQdiROAy7dHLpIP) | 4:12 |
@@ -42,6 +42,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 32 | [If Only You Knew](https://open.spotify.com/track/5G9j51Sxq2YjpNxeRkpcnJ) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [I Missed Us](https://open.spotify.com/album/11nfQrY5KJRrnqSyvR3Fn8) | 5:09 |
 | 33 | [Open Your Eyes](https://open.spotify.com/track/6zteCNciM9nCkDUa86oH3R) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Sketches Of A Man](https://open.spotify.com/album/7JmLvvLBFLczkeKOuEmeiH) | 3:21 |
 | 34 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
-| 35 | [What's Going On \- Live At Spotify, NY/2012](https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Spotify Sessions](https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K) | 4:41 |
+| 35 | [It Never Rains \(In SoCal\)](https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s) | 4:16 |
 
-Snapshot ID: `MCw1N2RmZjgwZTI5MjA2NWJiOWM5NmYzY2IxMTAzOTIzNmIwZTNmMzQ1`
+Snapshot ID: `MCw3NTkzMzY3YzU0YWJkYjkwMWRiNGYxZjdlNzNmYTBiMmJkMTc5ODZl`

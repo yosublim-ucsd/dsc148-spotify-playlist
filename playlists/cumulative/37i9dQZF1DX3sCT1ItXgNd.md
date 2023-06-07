@@ -2,9 +2,9 @@
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
-> Lo mejor y lo último del pop en español\. Foto: Marta Santos
+> Lo mejor y lo último del pop en español\. Foto: Aitana
 
-168 songs - 8 hr 28 min
+170 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [CABI](https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CABI](https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N) | 2:01 | 2023-03-21 | 2023-04-04 |
 | [Campeón](https://open.spotify.com/track/4nOq3daqKP7XXSDckP6zyS) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Campeón](https://open.spotify.com/album/1upIoTXyEpfmtNVsTfBure) | 2:34 | 2023-05-22 |  |
 | [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 | 2023-04-17 | 2023-05-04 |
+| [CARDIO](https://open.spotify.com/track/1YLyCvXW50Jd7W4F3ZcAAY) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CARDIO](https://open.spotify.com/album/4KI149spTqotwFjNUbrAl8) | 2:22 | 2023-06-06 |  |
 | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF) | 3:04 | 2023-04-03 | 2023-05-20 |
-| [Cerquita de Ti](https://open.spotify.com/track/2ZvG0cav3yJVaKYMLvTRod) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Cerquita de Ti](https://open.spotify.com/album/62ZwyYS8G5aiN1lseBgoGc) | 3:15 | 2023-05-19 |  |
+| [Cerquita de Ti](https://open.spotify.com/track/2ZvG0cav3yJVaKYMLvTRod) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Cerquita de Ti](https://open.spotify.com/album/62ZwyYS8G5aiN1lseBgoGc) | 3:15 | 2023-05-19 | 2023-06-07 |
 | [Chica Pretty](https://open.spotify.com/track/7Gz1murbRFFspT9zauscvz) | [Elena Torres](https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Chica Pretty](https://open.spotify.com/album/5TZgUYZIUDYi6mGFipICr0) | 3:02 | 2023-04-03 | 2023-04-18 |
 | [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 | 2023-05-03 |  |
 | [Como Yo](https://open.spotify.com/track/0fJ8nk6iQayq0WCqq0ZbWr) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Esta Vida Es Un Jaleo](https://open.spotify.com/album/4W1o9T3ghMa61HFLUAIOHj) | 3:26 | 2023-03-13 | 2023-04-18 |
@@ -86,6 +87,7 @@
 | [LA SANTA](https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA SANTA](https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8) | 2:45 | 2023-03-21 |  |
 | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 | 2023-03-13 | 2023-06-02 |
 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 | 2023-03-28 | 2023-04-11 |
+| [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 | 2023-06-06 |  |
 | [Lentamente](https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:04 | 2023-03-23 | 2023-04-14 |
 | [llámame dentro de 5 años](https://open.spotify.com/track/4iqKBpvChifJ6FeUF6OzQM) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [llámame dentro de 5 años](https://open.spotify.com/album/6eAV0zPzmGciqGfl4SyQSM) | 2:59 | 2023-03-13 | 2023-04-04 |
 | [Los del Espacio](https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Los del Espacio](https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU) | 5:38 | 2023-06-01 |  |
@@ -122,7 +124,7 @@
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-05-09 |  |
 | [Nochentera](https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nochentera](https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v) | 3:22 | 2023-03-13 |  |
 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 | 2023-03-13 | 2023-04-26 |
-| [P.M.](https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [P.M.](https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk) | 2:38 | 2023-05-19 |  |
+| [P.M.](https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [P.M.](https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk) | 2:38 | 2023-05-19 | 2023-06-07 |
 | [Pared Y Espada](https://open.spotify.com/track/5PbtLcDMOl5kTIc6LtMk9H) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Pared Y Espada](https://open.spotify.com/album/1KSXm02g4woDdBbUbqFM8G) | 2:57 | 2023-04-03 | 2023-04-18 |
 | [París](https://open.spotify.com/track/2LEMMY4VZYBBAglkhYRjcZ) | [Eles](https://open.spotify.com/artist/3XSoyETJ3bgL1OZZVVPTZ6), [Porto](https://open.spotify.com/artist/1AiEOgwte8Uf207KWuGnbM) | [París](https://open.spotify.com/album/0PO6wrDNYsZeXK7QSeQmfg) | 2:52 | 2023-04-10 | 2023-04-26 |
 | [PAS](https://open.spotify.com/track/4NiPgL5Vicj6rVks2Ismc5) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [PAS](https://open.spotify.com/album/5uQp7mNaf5hiVAfphFjjoc) | 2:46 | 2023-03-21 | 2023-04-14 |

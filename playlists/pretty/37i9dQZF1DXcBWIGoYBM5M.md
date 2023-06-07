@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBWIGoYBM5M.md) - [plain]
 
 > Taylor Swift is on top of the Hottest 50!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,765,187 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,770,342 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBWIGoYBM5M.md) - [plain]
 | 49 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 50 | [Angel Pt 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/4g1Ant3Me43Cm5Lx91bV8e) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Angel Pt 1 \(feat\. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack\)](https://open.spotify.com/album/0zPSvQqWCWIjuzvn29GhUK) | 2:55 |
 
-Snapshot ID: `MCxiZGZjYmNiYzdiNmY5MzgxZDBhY2ExZTg1ZGFhMTg5ZGYxOWFkOTVk`
+Snapshot ID: `MCxlOGZmOWQ3NmI4MTk3YmFjY2RjOWE4NGFhZDc0YzNhNTZlNmYwYTg4`

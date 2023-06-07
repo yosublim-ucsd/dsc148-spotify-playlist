@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Speakers Corner Quartet",
-  "num_followers": 288001,
+  "num_followers": 288073,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjEyYmFiMjI2MjdlZjllMmNlNmQ1YjEyYThhOTg2NzA3YmNhNTQ4",
+  "snapshot_id": "MCw5Zjc3YjY3Mjk1NmRjOTY0ZDgxNzYxYWYwNDk4Y2JlMzljM2QxZjcz",
   "tracks": [
     {
       "added_at": "2023-06-01 23:00:00",
@@ -575,30 +575,6 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
-        "url": "https://open.spotify.com/album/7L63PL897aTm0Xu1pt8Fbo"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Charlie Stacey",
-          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
-        }
-      ],
-      "duration_ms": 319040,
-      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
-      "url": "https://open.spotify.com/track/3cWCTxaFlebwEnQXibNwAu"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
         "name": "Leader",
         "url": "https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 215413,
       "name": "Leader",
       "url": "https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -647,26 +647,42 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
+        "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
+        "url": "https://open.spotify.com/album/7L63PL897aTm0Xu1pt8Fbo"
       },
       "artists": [
         {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         },
         {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         },
         {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
         }
       ],
-      "duration_ms": 204120,
-      "name": "It's All Good",
-      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
+      "duration_ms": 319040,
+      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
+      "url": "https://open.spotify.com/track/3cWCTxaFlebwEnQXibNwAu"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -687,22 +703,6 @@
       "duration_ms": 220001,
       "name": "Woe Is Me",
       "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "What If Nile Rodgers And Fela Kuti Were Friends",
-        "url": "https://open.spotify.com/album/37ddo5CFyRpim7tx97apXC"
-      },
-      "artists": [
-        {
-          "name": "All Day Breakfast Cafe",
-          "url": "https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd"
-        }
-      ],
-      "duration_ms": 490509,
-      "name": "What If Nile Rodgers And Fela Kuti Were Friends",
-      "url": "https://open.spotify.com/track/3VeOPOlEAwZU0d4jBMcBbA"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
         "name": "Saturnine",
         "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "Something I Said",
-        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
+        "name": "What If Nile Rodgers And Fela Kuti Were Friends",
+        "url": "https://open.spotify.com/album/37ddo5CFyRpim7tx97apXC"
       },
       "artists": [
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "All Day Breakfast Cafe",
+          "url": "https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd"
         }
       ],
-      "duration_ms": 196235,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
+      "duration_ms": 490509,
+      "name": "What If Nile Rodgers And Fela Kuti Were Friends",
+      "url": "https://open.spotify.com/track/3VeOPOlEAwZU0d4jBMcBbA"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -911,6 +895,22 @@
       "duration_ms": 220204,
       "name": "The Way You Look At Me",
       "url": "https://open.spotify.com/track/1xnarNBibYchqPjKRuwZzO"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -943,6 +943,22 @@
       "duration_ms": 400800,
       "name": "Words Left Unspoken",
       "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/3HwldKeTaesvpyA8V56f4b"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 349036,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/2Vxu4YbLsRwRe3f9iMqabD"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -1003,38 +1019,6 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 352633,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
-        "name": "Parasite",
-        "url": "https://open.spotify.com/album/3HwldKeTaesvpyA8V56f4b"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 349036,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/2Vxu4YbLsRwRe3f9iMqabD"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
         "name": "Cristo Redentor",
         "url": "https://open.spotify.com/album/0Q6KVFaY1maAfgYqOvEUEO"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 320253,
       "name": "Cristo Redentor",
       "url": "https://open.spotify.com/track/3EdjA9lVqxP4iRDpEs2H6Q"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 352633,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -1079,6 +1079,22 @@
       "duration_ms": 204254,
       "name": "Statue",
       "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "Friday Film Special",
+        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "Friday Film Special",
+      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "Friday Film Special",
-        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 249675,
-      "name": "Friday Film Special",
-      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
         "name": "The Morning Side of Love",
         "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "Love Theme For Leisure Trip",
-        "url": "https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT"
-      },
-      "artists": [
-        {
-          "name": "Hemai",
-          "url": "https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz"
-        },
-        {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
-        }
-      ],
-      "duration_ms": 209020,
-      "name": "Love Theme For Leisure Trip",
-      "url": "https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
         "name": "My Voice",
         "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
       },
@@ -1227,22 +1207,6 @@
       "duration_ms": 271040,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
-    },
-    {
-      "added_at": "2023-06-01 23:00:00",
-      "album": {
-        "name": "Berlin 1",
-        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 302160,
-      "name": "Berlin 1",
-      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -1263,22 +1227,22 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
-        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
+        "name": "Love Theme For Leisure Trip",
+        "url": "https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT"
       },
       "artists": [
         {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+          "name": "Hemai",
+          "url": "https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz"
         },
         {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
-      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+      "duration_ms": 209020,
+      "name": "Love Theme For Leisure Trip",
+      "url": "https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -1295,6 +1259,42 @@
       "duration_ms": 298533,
       "name": "Age Of Ascent",
       "url": "https://open.spotify.com/track/73sqtnhstOOj2fiqVGCA4X"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "Berlin 1",
+        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 302160,
+      "name": "Berlin 1",
+      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
+        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
+      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
     },
     {
       "added_at": "2023-06-01 23:00:00",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2023-06-01 23:00:00",
       "album": {
-        "name": "Berlin 1 (Rework)",
-        "url": "https://open.spotify.com/album/0EEWlwUdioPbc0vDHfKIRj"
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
       },
       "artists": [
         {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        },
-        {
-          "name": "Louis VI",
-          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 185625,
-      "name": "Berlin 1 - Rework",
-      "url": "https://open.spotify.com/track/4m3dbiaVg1DIUAHlx4X2A1"
+      "duration_ms": 220853,
+      "name": "We Give Thanks",
+      "url": "https://open.spotify.com/track/6FIREyvQivhLO6wQ9BdHwn"
     },
     {
       "added_at": "2023-06-01 23:00:00",

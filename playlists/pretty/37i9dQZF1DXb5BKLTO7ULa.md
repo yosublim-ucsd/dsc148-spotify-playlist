@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Antoon, Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,667 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,689 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Slow Pace Of Time \[Feat\. Charlie Gabriel\]](https://open.spotify.com/track/3BXlWG4SqubAmdcGac4cNR) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o), [Charlie Gabriel](https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK) | [What If I EP](https://open.spotify.com/album/2R49Epd53NfwBsHuPO9PZu) | 4:29 |
 | 99 | [Close Your Eyes And Let Go](https://open.spotify.com/track/2PqYPNXOafS80V9zLxDFfo) | [Heijmat](https://open.spotify.com/artist/3GEzxiBIFJaEK3Y5Ozl60J), [ZOE ASKA](https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE) | [Close Your Eyes And Let Go](https://open.spotify.com/album/44e1j1coASaxrcHKVY0MFL) | 3:29 |
 
-Snapshot ID: `MCxhNDYxMmY0ZGQ2ZDE5NTVmZGJlMWRkMjgwYTViOWM0NmY3ZTMwNjNi`
+Snapshot ID: `MCxmOGYwMDU5NDgyZmQ5YWU3YTVkMDdiODZjOTdkMjNmYjI0Yzg1NWIy`

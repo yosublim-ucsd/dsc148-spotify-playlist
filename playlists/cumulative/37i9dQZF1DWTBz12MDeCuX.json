@@ -3683,6 +3683,24 @@
     },
     {
       "album": {
+        "name": "Crazy Girls",
+        "url": "https://open.spotify.com/album/154oJT2twqCFdna5UI2MyE"
+      },
+      "artists": [
+        {
+          "name": "TOOPOOR",
+          "url": "https://open.spotify.com/artist/2G9tNsytSp4gYKZxONzFw2"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Crazy Girls",
+      "url": "https://open.spotify.com/track/6cSDNYoWlMxzVfJLn6H301"
+    },
+    {
+      "album": {
         "name": "Phonk MixTape (Remix)",
         "url": "https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u"
       },
@@ -7449,6 +7467,28 @@
     },
     {
       "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319493,
+      "name": "Hummingbird (Metro Boomin & James Blake)",
+      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
+    },
+    {
+      "album": {
         "name": "Hundred Miles",
         "url": "https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde"
       },
@@ -8924,7 +8964,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 194613,
       "name": "Kompliziert (Beatgees Single Mix)",
       "url": "https://open.spotify.com/track/3Ps99GTz3XutGg1o1XNQcn"
@@ -10526,6 +10566,24 @@
       "duration_ms": 189544,
       "name": "mona lisa",
       "url": "https://open.spotify.com/track/4ZQ1aAbr7ZNScyUawToAvo"
+    },
+    {
+      "album": {
+        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
     },
     {
       "album": {
@@ -13266,7 +13324,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
@@ -14268,7 +14326,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 97970,
       "name": "snooze",
       "url": "https://open.spotify.com/track/3kA2bMlaDfycWaqCT3E31K"

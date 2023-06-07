@@ -4,7 +4,7 @@
 
 > Certi amori bruciano di più\. Cover: Geolier
 
-127 songs - 6 hr 37 min
+128 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Cenere](https://open.spotify.com/track/45xyKCey4BM3fMeFEsF1Hp) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Cenere](https://open.spotify.com/album/1lrhX79POrz4wSmgD4aeGg) | 2:50 | 2022-05-03 |  |
 | [Centro \(feat\. Coez\)](https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Back Home](https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We) | 3:04 | 2022-05-03 |  |
 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 | 2022-10-27 |  |
+| [CHIARA](https://open.spotify.com/track/5e40oQfE0eeHdTvYLjRBPe) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CHIARA](https://open.spotify.com/album/69mPOJbmv7YG94RvpyCFu1) | 2:54 | 2023-06-06 |  |
 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2022-05-03 |  |
 | [Ciao Baby](https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:06 | 2022-05-19 |  |
 | [Cigni](https://open.spotify.com/track/13oN9FI7RngmoUqDJ38FCv) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/2hHDTcf1MzvkDdFm0CEujn) | 2:51 | 2022-05-03 | 2022-05-13 |

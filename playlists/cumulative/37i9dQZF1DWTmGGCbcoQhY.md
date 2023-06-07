@@ -4,7 +4,7 @@
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-238 songs - 15 hr 52 min
+239 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 | 2021-11-30 |  |
 | [La Muñequita Fea](https://open.spotify.com/track/3Ua9fZLumeONPtLnkkUHbI) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:28 | 2021-11-30 |  |
 | [La Negra Soledad](https://open.spotify.com/track/3kpcviKw1dnRaRQ2I0YJvA) | [Sonido Fantasma](https://open.spotify.com/artist/1ORyDxYHunP1e8CJwCUnnW) | [Las Mejores Cumbias Con Acordeon \(Vol\. 3\)](https://open.spotify.com/album/18mgtFLfE0wHDPOgL0EeOa) | 3:36 | 2022-06-07 | 2022-11-13 |
+| [La Pobreza \- Rebajada](https://open.spotify.com/track/3So0GAT6AmSS4gK4GM53pz) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [La Pobreza \(Rebajada\)](https://open.spotify.com/album/1d71zPm5q6MfRtKFRzhZm5) | 2:46 | 2023-04-28 |  |
 | [La Princesa Talibana](https://open.spotify.com/track/7B7WVfPyjkowmWCvb1SXxd) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:18 | 2022-06-07 |  |
 | [La Triste Despedida](https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif) | [Grupo Ju\-Juy](https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m) | [Un Monton De Estrellas](https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH) | 4:43 | 2023-01-10 |  |
 | [Lagrimas de Escarcha](https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Los Exitos de Tiberio y Sus Gatos Negros](https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj) | 3:44 | 2021-11-30 |  |
@@ -199,7 +200,7 @@
 | [Si Te Hubieras Quedado](https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ) | [Grupo la Ley Siete de Enrike Fortunato](https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI) | [Si Te Hubieras Quedado](https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F) | 4:38 | 2022-03-08 |  |
 | [Sin Censura](https://open.spotify.com/track/1lAqzEHhPQdTPOIPfYOfjc) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Sin Censura](https://open.spotify.com/album/5ZD8xjHeIxf6EJg3Xp1FkY) | 3:26 | 2022-12-09 | 2023-01-11 |
 | [Solo Tu](https://open.spotify.com/track/3SJfj2pDuRYhNn9fLwMT5g) | [Los Piratas de Tony Mey](https://open.spotify.com/artist/2Ilxa6TGuc2YwL3a1fp0hl) | [Sentimiento de Cumbia](https://open.spotify.com/album/0jroY5Ek16BmPPvwD1pPcB) | 5:07 | 2022-03-08 | 2022-11-13 |
-| [Solo Tu](https://open.spotify.com/track/1PZOhTwLZSMkpXAWi7dUZR) | [Los Piratas de Tony Mey](https://open.spotify.com/artist/2Ilxa6TGuc2YwL3a1fp0hl) | [Solo Tu](https://open.spotify.com/album/22IBF7b0Xvsdzo1VBdDTGG) | 5:07 | 2022-06-07 |  |
+| [Solo Tu](https://open.spotify.com/track/1PZOhTwLZSMkpXAWi7dUZR) | [Los Piratas de Tony Mey](https://open.spotify.com/artist/2Ilxa6TGuc2YwL3a1fp0hl) | [Solo Tu](https://open.spotify.com/album/22IBF7b0Xvsdzo1VBdDTGG) | 5:07 | 2022-06-07 | 2023-06-07 |
 | [Solo una Noche](https://open.spotify.com/track/2UBLFphvbPCnnau4kxBWOU) | [El Grupo De Mayor Impacto Apasionadoz](https://open.spotify.com/artist/3UoG37LDn0i3I43VIeS2J8) | [Y De Nuevo Otra Vez !!!](https://open.spotify.com/album/04h1TCgDD9MFwQ63HZAD2A) | 3:47 | 2022-10-27 | 2023-05-27 |
 | [Solo una noche](https://open.spotify.com/track/4xw8WhjE2N4GEbpvuBPXlp) | [Grupo Apasionadoz](https://open.spotify.com/artist/77OaNaVi2ujQNhBVk4jod3) | [Y llegó papá](https://open.spotify.com/album/7AP4rtW2IBFtsKs9rtto6t) | 3:47 | 2022-11-12 | 2022-11-13 |
 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 | 2021-11-30 |  |

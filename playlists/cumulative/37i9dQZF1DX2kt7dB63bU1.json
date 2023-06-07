@@ -4856,12 +4856,12 @@
       },
       "artists": [
         {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
           "name": "Robin Mckelle",
           "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        },
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
         }
       ],
       "date_added": "2023-06-02",

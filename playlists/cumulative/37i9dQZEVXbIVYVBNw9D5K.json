@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 141968,
       "name": "10MG",
       "url": "https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4"
@@ -3192,7 +3192,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 208037,
       "name": "Diken Mi G\u00fcl M\u00fc?",
       "url": "https://open.spotify.com/track/0QQ1BLUudNdqOHg3FpFnYH"
@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 208037,
       "name": "Diken Mi G\u00fcl M\u00fc?",
       "url": "https://open.spotify.com/track/4IjSOaCoGkP9Lqd5U8YeP0"
@@ -5758,7 +5758,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 185333,
       "name": "Herkes Gibisin",
       "url": "https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj"
@@ -13058,7 +13058,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 171641,
       "name": "ZOR",
       "url": "https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT"
@@ -13396,6 +13396,24 @@
       "duration_ms": 172178,
       "name": "\u015eimdiki Akl\u0131m",
       "url": "https://open.spotify.com/track/3mcvBUQFQLzklDgU1bBnaW"
+    },
+    {
+      "album": {
+        "name": "LATIN VIRGIN",
+        "url": "https://open.spotify.com/album/0tBoIz7IZw9s9bM7lQRlqA"
+      },
+      "artists": [
+        {
+          "name": "ALIZADE",
+          "url": "https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145794,
+      "name": "\u015eU AN",
+      "url": "https://open.spotify.com/track/1G2ipJnWC0v0rSPPpzjoek"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbIVYVBNw9D5K"

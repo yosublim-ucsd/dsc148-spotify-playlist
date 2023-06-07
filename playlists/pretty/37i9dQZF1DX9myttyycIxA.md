@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Homeschool
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,859 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,865 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 50 | [Your Love](https://open.spotify.com/track/1d9NEfD71ZmPWEVy2AwmHD) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Your Love](https://open.spotify.com/album/42R0x8BUI7OPVA7iN3az1r) | 4:15 |
 | 51 | [Germaphobe](https://open.spotify.com/track/7etS3cjv6GvXvLmpdNDMS0) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [Germaphobe](https://open.spotify.com/album/0HpqNDpCRilFNZso1M2XJX) | 4:20 |
 | 52 | [Faster Than The Medicine](https://open.spotify.com/track/7D6aVgVt0iCxzP185qMJFr) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Star Eaters Delight](https://open.spotify.com/album/00119SbrFWBZbw3jtrvZbV) | 4:25 |
-| 53 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 |
+| 53 | [Bath County](https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 3:10 |
 | 54 | [nothing special](https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [nothing special](https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB) | 3:23 |
 | 55 | [Lay Me Down](https://open.spotify.com/track/4NpDlGwphr2dyvTarnuwn0) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Lay Me Down](https://open.spotify.com/album/0zJRL59dhMIe2PbFJDQN1p) | 4:07 |
 | 56 | [Hot and Clumsy](https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Hot and Clumsy](https://open.spotify.com/album/4mVZsDCMoexn0hrJxFy9f6) | 4:31 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 81 | [Locket](https://open.spotify.com/track/0DKeB7jEvtKNoNgNhyJi81) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Locket](https://open.spotify.com/album/5uijemnh4nVq5ZXeAtf79R) | 2:53 |
 | 82 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 |
 | 83 | [Quotidian](https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Eventide](https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj) | 4:32 |
-| 84 | [TV in the Gas Pump](https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [TV in the Gas Pump](https://open.spotify.com/album/1KCYvFcQ0eLIx9Kpmr4WgX) | 2:22 |
+| 84 | [TV in the Gas Pump](https://open.spotify.com/track/0o65GCofNQEUgkAIoWPjrb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 2:22 |
 | 85 | [Loaded Gun](https://open.spotify.com/track/7mH0fZKktrJ5Hbijrnp7OF) | [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [I Am Bubblegum](https://open.spotify.com/album/45YoZEm1LM9BkOFKTBsjM3) | 3:42 |
 | 86 | [Toe](https://open.spotify.com/track/1Z7LSyAta9hXgcPs14yLLt) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Toe](https://open.spotify.com/album/1JJFNlAqSGHhfLJtN435dI) | 2:22 |
 | 87 | [Gentleman](https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk) | [Lonely Pirate Committee](https://open.spotify.com/artist/2vsjCgyBZaH29ekrJRrpf2) | [Gentleman](https://open.spotify.com/album/4C3xU3ky500oslwuJPv16X) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [All Good Fun](https://open.spotify.com/track/51Rn2Zin9vYbf3Mfn02RdX) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Mo Lowda & the Humble](https://open.spotify.com/album/4qyQfforE8s0Vy1iBHEwuq) | 3:40 |
 | 100 | [Costumes](https://open.spotify.com/track/31vJeKw9YQBoKLzw1pbxvy) | [Aubrey Key](https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS) | [Costumes](https://open.spotify.com/album/5NQ3LtPwZHIfxtXFB69LL9) | 2:16 |
 
-Snapshot ID: `MCxmYTY4NzJkNDgzNDdkOWU5YzRkOGM1Zjk3ZWZhZDZjMjc0MjIwMDkz`
+Snapshot ID: `MCwzMTUzMjU4YzdjNWU2ZjEzMTFmMzJiMTc4MGM0YTM5ZDhkYWViMWMx`

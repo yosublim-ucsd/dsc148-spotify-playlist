@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- Sona Mohapatra
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,730 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,783 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 38 | [Savera](https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry) | [Savera \- Single](https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N) | 4:05 |
 | 39 | [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 |
 | 40 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 |
-| 41 | [Barsan Lagi](https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Barsan Lagi](https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4) | 3:39 |
-| 42 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 |
+| 41 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 |
+| 42 | [Barsan Lagi](https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Barsan Lagi](https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4) | 3:39 |
 | 43 | [Bhagirathi](https://open.spotify.com/track/1FKR1MFGHdjrIMoel4VyXc) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Ambi Subramaniam](https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 4:13 |
 | 44 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 |
 | 45 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [Rang Na](https://open.spotify.com/track/1FZTOS0J00x7DOZSPy7O4r) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW), [Harshit Chauhan](https://open.spotify.com/artist/3gxPqYrwdyntStcjSNp6wg) | [Rang Na](https://open.spotify.com/album/3eSpfU1vDX4HTPrguHSQjT) | 4:14 |
 | 50 | [Justaju: The Essence of Love](https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV) | [Raahein Gharana](https://open.spotify.com/artist/1DilhiF5W5TuadHjgoYnMR) | [Justaju: The Essence of Love](https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45) | 5:02 |
 
-Snapshot ID: `MCxmZmViMWViMTVlOTk5MjlhMmQ3MWYyNTkzNmI0YTk0OWZhMjJlYWFm`
+Snapshot ID: `MCw0MWU0YmM5MGVlNTE3NmM0YmJkNGI0ZjRkZGE1Zjk1YzhiMTljNjM3`

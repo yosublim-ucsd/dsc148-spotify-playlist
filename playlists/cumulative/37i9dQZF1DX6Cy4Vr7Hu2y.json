@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: aespa) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: MIRANI(\ubbf8\ub780\uc774)) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "EQUAL K-Pop",
   "tracks": [
     {
@@ -388,6 +388,28 @@
       "duration_ms": 282680,
       "name": "Bad",
       "url": "https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg"
+    },
+    {
+      "album": {
+        "name": "The Drift",
+        "url": "https://open.spotify.com/album/5aIC9W1wlhJVl3sGmkbRyV"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164266,
+      "name": "BAD BOY (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF"
     },
     {
       "album": {
@@ -1086,7 +1108,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 165746,
       "name": "DICE",
       "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
@@ -2830,7 +2852,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 188718,
       "name": "Love Me Like This",
       "url": "https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO"
@@ -5932,7 +5954,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 209482,
       "name": "\uadf8\ub300\ub77c\ub294 \uc2dc",
       "url": "https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl"

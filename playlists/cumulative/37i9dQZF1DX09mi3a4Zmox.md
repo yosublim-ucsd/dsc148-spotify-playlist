@@ -4,7 +4,7 @@
 
 > Música para enamorarse.
 
-180 songs - 11 hr 27 min
+181 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Punto Y Aparte](https://open.spotify.com/track/6RiV6DnCbfc0b2KbNvumdP) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Punto Y Aparte](https://open.spotify.com/album/36TBAPNsVzBMiu84mlyEPT) | 3:30 | 2022-02-01 | 2022-09-07 |
 | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/track/2QnN3woxO9KqDd1DAW0zUF) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/album/24IaXitockhdYJSE4flwTG) | 2:59 | 2022-02-01 | 2022-07-03 |
 | [Quítame Ese Hombre Del Corazón](https://open.spotify.com/track/41MbmJ4NShxvMc8KrsmiiE) | [Pilar Montenegro](https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF) | [Yo Sé Que Te Acordarás Pop Latino \(Vol\. 2\)](https://open.spotify.com/album/7wdGqytcLvhJCFkE2t5pNZ) | 3:44 | 2023-04-04 | 2023-05-10 |
-| [rimas del verbo amar](https://open.spotify.com/track/6KN5CpFdYW50Nd0pDXCIXy) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 4:10 | 2023-05-12 |  |
+| [rimas del verbo amar](https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 4:10 | 2023-05-26 |  |
+| [rimas del verbo amar](https://open.spotify.com/track/6KN5CpFdYW50Nd0pDXCIXy) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 4:10 | 2023-05-12 | 2023-06-07 |
 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 | 2021-12-06 |  |
 | [Será Mejor Que Te Vayas](https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:59 | 2022-02-01 |  |
 | [Si Tú La Quieres \- Versión Balada](https://open.spotify.com/track/3c5KjQlxwrWBf7oBN8nU2k) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [En Tus Planes](https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F) | 4:52 | 2021-12-06 | 2022-09-10 |

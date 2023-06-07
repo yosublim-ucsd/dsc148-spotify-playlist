@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 231602,
+  "num_followers": 231772,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmMxYjQxZDRlODBkNDZkZTBlYjZmNDA2YWM5MTcxY2FjNDI3Zjk0",
+  "snapshot_id": "MCwzNTZhNDI2ZTc4YWJjMTg0Nzc0OWU3MzU4YWJlZTIyMzQ1NWZlZDUw",
   "tracks": [
     {
       "added_at": "2022-08-24 01:39:55",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Ciega, Sordomuda",
-      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "La Historia... Los \u00c9xitos",
         "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 273763,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Ciega, Sordomuda",
+      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 205373,
       "name": "A Dios Le Pido",
       "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
         "name": "Atrevido Y Diferente",
         "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 247893,
       "name": "Todo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "Nek (spanish version)",
         "url": "https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 225239,
       "name": "Laura no est\u00e0",
       "url": "https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 259440,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
         "name": "M\u00e1s + Coraz\u00f3n Profundo",
         "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 278626,
       "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -991,26 +991,6 @@
       "duration_ms": 235893,
       "name": "Pasos de gigantes",
       "url": "https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
-        "name": "Coti",
-        "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Nada Fue Un Error",
-      "url": "https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -1131,22 +1111,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Cara De Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "Qu\u00e9 Hay de Malo",
-      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
       },
@@ -1159,6 +1123,22 @@
       "duration_ms": 207516,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Cara De Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "Qu\u00e9 Hay de Malo",
+      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -1431,22 +1411,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Amor Y Control",
-        "url": "https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 352440,
-      "name": "Amor y Control",
-      "url": "https://open.spotify.com/track/303cDwi274kSEH0NSR73AX"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "Pegame Tu Vicio",
         "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
       },
@@ -1459,6 +1423,22 @@
       "duration_ms": 303293,
       "name": "Pegame Tu Vicio",
       "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Amor Y Control",
+        "url": "https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 352440,
+      "name": "Amor y Control",
+      "url": "https://open.spotify.com/track/303cDwi274kSEH0NSR73AX"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -1507,6 +1487,22 @@
       "duration_ms": 289802,
       "name": "Las Amo a Las Dos",
       "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Cabas",
+        "url": "https://open.spotify.com/album/3zOiYPGZRhvWJioOQh4O8s"
+      },
+      "artists": [
+        {
+          "name": "Cabas",
+          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Mi Bombom",
+      "url": "https://open.spotify.com/track/29ET4ONM7UGb5fIbLfHoDK"
     }
   ],
   "unique_name": "\u00a1A Limpiar con Ritmo!",

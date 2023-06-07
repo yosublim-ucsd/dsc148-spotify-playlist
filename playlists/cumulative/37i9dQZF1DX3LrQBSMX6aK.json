@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 1560235,
       "name": "Raga Shyam Kalyan (Feat. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat)",
       "url": "https://open.spotify.com/track/3PU0yoxLdbZFmvTFnEyFy5"
@@ -1776,6 +1776,48 @@
       "duration_ms": 689100,
       "name": "Vrindavan Sojourn",
       "url": "https://open.spotify.com/track/4P1I8fZOObedYQoftl6Vqn"
+    },
+    {
+      "album": {
+        "name": "When Kailasha muses (From the Album \"Manoyatri\")",
+        "url": "https://open.spotify.com/album/3VdeDvnTdasqNTpI6HqjJV"
+      },
+      "artists": [
+        {
+          "name": "Swapan Chaudhuri",
+          "url": "https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT"
+        },
+        {
+          "name": "Taufiq Qureshi",
+          "url": "https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X"
+        },
+        {
+          "name": "Ambi Subramanium",
+          "url": "https://open.spotify.com/artist/4Aw3AcWOYL6hgQKhUJybut"
+        },
+        {
+          "name": "Avra Banerjee",
+          "url": "https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3"
+        },
+        {
+          "name": "Mainak Nag Chowdhury",
+          "url": "https://open.spotify.com/artist/1icoDoBNO8lzirfgkgA8wH"
+        },
+        {
+          "name": "Raghab Chatterjee",
+          "url": "https://open.spotify.com/artist/6de3NMC8U7wqL5nW4rLvVA"
+        },
+        {
+          "name": "Tamal Kanti Halder",
+          "url": "https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534514,
+      "name": "When Kailasha muses",
+      "url": "https://open.spotify.com/track/6bBEd2hBTjDWEw22v4At5i"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3LrQBSMX6aK"

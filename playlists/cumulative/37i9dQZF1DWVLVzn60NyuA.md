@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-415 songs - 22 hr 1 min
+416 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Pam Pam](https://open.spotify.com/track/0bwggp9wrFlopQffgG4Rhb) | [Ketchup](https://open.spotify.com/artist/1k1u0kjSZiPC7myovUsekH) | [Skilahmatic](https://open.spotify.com/album/7MZVojSUyO9HNyq4nBMS2D) | 3:10 | 2022-07-28 | 2023-04-07 |
 | [Pam Pam](https://open.spotify.com/track/0onCpID636LlzqZ1OXJcRk) | [Ketchup](https://open.spotify.com/artist/1k1u0kjSZiPC7myovUsekH) | [Pam Pam](https://open.spotify.com/album/3NwwILNuIUnDBTCcAYXIZ3) | 3:10 | 2021-12-16 | 2022-04-23 |
 | [Pamela](https://open.spotify.com/track/53LQQoBP6sBVFvNr3q3Fa0) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Pamela](https://open.spotify.com/album/5AIExSdYDginy6AWai1uFE) | 3:55 | 2021-12-16 | 2023-04-07 |
-| [Pami](https://open.spotify.com/track/089MJDjJ7qJmMWcmD3J4c8) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Pami](https://open.spotify.com/album/4fjfAYCr7TDteiCVSX4IlM) | 2:41 | 2023-04-07 |  |
+| [Pami](https://open.spotify.com/track/089MJDjJ7qJmMWcmD3J4c8) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Pami](https://open.spotify.com/album/4fjfAYCr7TDteiCVSX4IlM) | 2:41 | 2023-04-07 | 2023-06-07 |
 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 | 2021-12-28 | 2022-04-21 |
 | [Pandemia](https://open.spotify.com/track/0RVqLLQE5EdCL3xIQc0DWK) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Pandemia](https://open.spotify.com/album/0zLvsXd527Lg8rAJRFERnq) | 2:58 | 2021-12-16 | 2022-01-11 |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-05-31 |  |
@@ -349,6 +349,7 @@
 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 | 2022-04-14 | 2023-02-10 |
 | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD) | 4:11 | 2022-07-25 | 2022-12-25 |
 | [Sugarcane \- Remix](https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sugarcane \(Remix\)](https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN) | 4:11 | 2022-12-20 | 2023-06-05 |
+| [Sugarcane \- Remix](https://open.spotify.com/track/6NuG2JgERZZXvvjmtjOFix) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 4:11 | 2023-05-31 |  |
 | [Summertime](https://open.spotify.com/track/0fQeh4MYcX7VvRwfeSjnwz) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Strictly The Best Vol\. 45](https://open.spotify.com/album/44J9e1B5poRr0yEprAGbbS) | 3:13 | 2021-12-16 | 2022-01-23 |
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-05-11 | 2022-07-14 |
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-16 | 2023-04-07 |

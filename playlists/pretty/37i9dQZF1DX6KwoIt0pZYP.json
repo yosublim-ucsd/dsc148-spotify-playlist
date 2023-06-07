@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 166970,
+  "num_followers": 167234,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmU1MjJmMzU3MGJhMjA2ZmM5MDZkNjVmNDg0MTZlZjdjYWI0ZjU5",
+  "snapshot_id": "MCw0OTJhZDNlNDEyYjk0NmQ2NmY4OTJjYTFmNmU5NmQxZmViZmM3Yjc5",
   "tracks": [
     {
       "added_at": "2023-05-18 16:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
         "name": "Slow (with Ciara)",
         "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 192181,
       "name": "Slow (with Ciara)",
       "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
+        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
       },
       "artists": [
         {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+          "name": "Michael Wong",
+          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
         }
       ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+      "duration_ms": 246000,
+      "name": "\u7ae5\u8a71",
+      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
-        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
       },
       "artists": [
         {
-          "name": "Michael Wong",
-          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
         }
       ],
-      "duration_ms": 246000,
-      "name": "\u7ae5\u8a71",
-      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "Steal The Show",
-        "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        },
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Steal The Show",
-      "url": "https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "Xeno",
         "url": "https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 190946,
       "name": "Thinking Bout You",
       "url": "https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "Steal The Show",
+        "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        },
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Steal The Show",
+      "url": "https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
+        "name": "Things I Could Never Say to You",
+        "url": "https://open.spotify.com/album/6R2naLxf7L5f1G2OLTY6wC"
+      },
+      "artists": [
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Things I Could Never Say to You",
+      "url": "https://open.spotify.com/track/2J4ZN4hnqbF4UFsVtJB7Ox"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
         "name": "your love",
         "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 155923,
       "name": "your love",
       "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
-        "name": "Things I Could Never Say to You",
-        "url": "https://open.spotify.com/album/6R2naLxf7L5f1G2OLTY6wC"
-      },
-      "artists": [
-        {
-          "name": "Noni",
-          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Things I Could Never Say to You",
-      "url": "https://open.spotify.com/track/2J4ZN4hnqbF4UFsVtJB7Ox"
     },
     {
       "added_at": "2023-05-18 16:00:00",

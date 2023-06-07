@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Utsavi Jha
 
-238 songs - 14 hr 8 min
+239 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Ek Din](https://open.spotify.com/track/6hFeEa1XPaw2bbHi8eFt4x) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Ek Din](https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1) | 5:00 | 2022-08-05 |  |
 | [Ek Pal](https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Ek Pal](https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl) | 4:31 | 2022-10-13 |  |
 | [Everything's Fine?](https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Everything's Fine?](https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8) | 4:19 | 2021-12-06 | 2022-01-11 |
-| [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 | 2022-01-31 |  |
+| [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 | 2022-01-31 | 2023-06-07 |
 | [Faasle](https://open.spotify.com/track/3vKclvEn6o2UyHl9WR6958) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Bitter Sweet](https://open.spotify.com/album/1x1xYzNzlziGfjTGmYCKUl) | 3:08 | 2022-01-10 | 2023-01-11 |
 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2022-01-10 | 2022-06-21 |
 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 | 2021-12-06 | 2022-03-22 |
@@ -127,6 +127,7 @@
 | [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-02-22 |  |
 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 | 2023-05-18 |  |
 | [Khoya](https://open.spotify.com/track/042J1bbhYbWcal95ZPOuJe) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM) | [Khoya](https://open.spotify.com/album/2D8X4Z53wmX6LNs0SpBFV1) | 2:58 | 2022-05-06 |  |
+| [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 | 2023-06-06 |  |
 | [Khushiyon Ke Pal](https://open.spotify.com/track/3chiE90csYmQ8UIZvuT9gH) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Khushiyon Ke Pal](https://open.spotify.com/album/6evDJ3PMbBfWrzWg4mLOK0) | 2:41 | 2022-08-22 |  |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2022-02-04 |  |
 | [Khwaab](https://open.spotify.com/track/7xOogdepAEsl16t7TFSJwA) | [The Lost Symbols](https://open.spotify.com/artist/5ABVMc7CPQJ9RZHoBFuXpa) | [The Diary](https://open.spotify.com/album/7DdCtXE6CQGdDXXbBXoin1) | 4:08 | 2021-12-06 | 2023-01-11 |

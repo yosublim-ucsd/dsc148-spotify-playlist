@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 128856,
+  "num_followers": 128959,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmYwMjEyNDhiMjNiY2ZkMzgwNWNlMmExN2EzYzI1Mzk2YWViYjJj",
+  "snapshot_id": "MCwyMGFkYzI4YzlhYzJhZmZhNjAwNjQyMjc3NWMxODhmYzhiZDA0OGI1",
   "tracks": [
     {
       "added_at": "2022-11-07 14:28:30",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Sea Notes",
-        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
-      },
-      "artists": [
-        {
-          "name": "Joanna Finnis",
-          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "Flight of the Sea Birds",
-      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Calm Water",
         "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 260729,
       "name": "Calm Water",
       "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Sea Notes",
+        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
+      },
+      "artists": [
+        {
+          "name": "Joanna Finnis",
+          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "Flight of the Sea Birds",
+      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
       },
       "artists": [
         {
-          "name": "Simon Antonio",
-          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
         }
       ],
-      "duration_ms": 202105,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
+      },
+      "artists": [
+        {
+          "name": "Simon Antonio",
+          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "On The Verge Of Collapse",
         "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 168224,
       "name": "We All Grieve Differently",
       "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
-      },
-      "artists": [
-        {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
-        }
-      ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Floating on Land",
-        "url": "https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X"
-      },
-      "artists": [
-        {
-          "name": "Svvn",
-          "url": "https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Floating on Land",
-      "url": "https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Living Rooms",
         "url": "https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 175384,
       "name": "Living Rooms",
       "url": "https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Floating on Land",
+        "url": "https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X"
+      },
+      "artists": [
+        {
+          "name": "Svvn",
+          "url": "https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "Floating on Land",
+      "url": "https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -579,22 +579,6 @@
       "duration_ms": 141610,
       "name": "Islands",
       "url": "https://open.spotify.com/track/6nEE1lj51T4efni3T2NxET"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
-      },
-      "artists": [
-        {
-          "name": "Franco Robert",
-          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -631,6 +615,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
+      },
+      "artists": [
+        {
+          "name": "Franco Robert",
+          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "How Time Works",
         "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
       },
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
+      },
+      "artists": [
+        {
+          "name": "Jack Hopkins",
+          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
+        }
+      ],
+      "duration_ms": 232105,
+      "name": "R\u00eaverie",
+      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "The Last Gate",
         "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
@@ -683,18 +699,34 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
+        "name": "Melody of Hope (2021 Version)",
+        "url": "https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS"
       },
       "artists": [
         {
-          "name": "Jack Hopkins",
-          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
+          "name": "Justus R\u00fcmenapp",
+          "url": "https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl"
         }
       ],
-      "duration_ms": 232105,
-      "name": "R\u00eaverie",
-      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
+      "duration_ms": 111687,
+      "name": "Melody of Hope - 2021 Version",
+      "url": "https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -715,22 +747,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Melody of Hope (2021 Version)",
-        "url": "https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS"
-      },
-      "artists": [
-        {
-          "name": "Justus R\u00fcmenapp",
-          "url": "https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl"
-        }
-      ],
-      "duration_ms": 111687,
-      "name": "Melody of Hope - 2021 Version",
-      "url": "https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 132755,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -795,8 +795,8 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "S\u00f3liton",
-        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
+        "name": "EGUZKIA GALDU",
+        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 122347,
-      "name": "S\u00f3liton",
-      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
+      "duration_ms": 161981,
+      "name": "EGUZKIA GALDU",
+      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
-      },
-      "artists": [
-        {
-          "name": "Norman D\u00fcck",
-          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
-        }
-      ],
-      "duration_ms": 136932,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Words Left Unspoken",
         "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
       },
@@ -891,8 +875,24 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "EGUZKIA GALDU",
-        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "duration_ms": 136932,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "S\u00f3liton",
+        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
       },
       "artists": [
         {
@@ -900,25 +900,9 @@
           "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 161981,
-      "name": "EGUZKIA GALDU",
-      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Adventure",
-        "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud Valanejad",
-          "url": "https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor"
-        }
-      ],
-      "duration_ms": 222909,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
+      "duration_ms": 122347,
+      "name": "S\u00f3liton",
+      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -939,6 +923,22 @@
       "duration_ms": 248613,
       "name": "Piano Trio No. 2 in E Minor, Op. 92: III. Andante con moto",
       "url": "https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Valanejad",
+          "url": "https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor"
+        }
+      ],
+      "duration_ms": 222909,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
     },
     {
       "added_at": "2022-11-07 14:28:30",

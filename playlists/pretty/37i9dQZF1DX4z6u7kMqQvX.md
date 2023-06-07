@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,920 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,942 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 5 | [Parque Acuático](https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Parque Acuático](https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636) | 2:52 |
 | 6 | [Desde Que Te Fuiste](https://open.spotify.com/track/27lvwmEhKxTVHmA0vOE8zH) | [Persse](https://open.spotify.com/artist/6rKyjr2gRyn5roNM7QR6qT) | [PROEZA](https://open.spotify.com/album/00DZjWUwBTk7FRBJihDJsM) | 2:44 |
 | 7 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
-| 8 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 |
-| 9 | [La Declaración](https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [La Declaración](https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn) | 4:37 |
+| 8 | [La Declaración](https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [La Declaración](https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn) | 4:37 |
+| 9 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 |
 | 10 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 |
 | 11 | [Agua Marfil](https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S) | 4:11 |
 | 12 | [Estábamos Tan Bien](https://open.spotify.com/track/3uRSGfI30pIW4efbKh4age) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Camas Separadas](https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3) | 3:41 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 56 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 |
 | 57 | [Cuando Estamos los Dos](https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Portales](https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd) | 3:17 |
 | 58 | [Si No Es Así](https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU) | [Un Vaso de Agua](https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN) | 1:28 |
-| 59 | [Desde Dentro](https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [En el Caribe También Pasa Esto](https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp) | 4:26 |
-| 60 | [Love](https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Love](https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ) | 3:24 |
+| 59 | [Love](https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Love](https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ) | 3:24 |
+| 60 | [Desde Dentro](https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [En el Caribe También Pasa Esto](https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp) | 4:26 |
 | 61 | [Confía](https://open.spotify.com/track/1SXPlj3wH0Luz40LmBFjso) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Confía](https://open.spotify.com/album/6OBErs3AYUFKYyZYDDavCU) | 3:04 |
 | 62 | [Cerca de Ti](https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Cerca de Ti](https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem) | 2:37 |
 | 63 | [Fuji](https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr) | 4:38 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 65 | [Romeo y Violeta](https://open.spotify.com/track/4nVoM4pJT8CUTAJbenU2bx) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Romeo y Violeta](https://open.spotify.com/album/68s41NxvS7FDQzVdNfqryX) | 3:50 |
 | 66 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 |
 | 67 | [Sueño Tsunami](https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv) | 2:57 |
-| 68 | [INFINITO](https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [INFINITO](https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8) | 3:05 |
-| 69 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
+| 68 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
+| 69 | [INFINITO](https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [INFINITO](https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8) | 3:05 |
 | 70 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 |
 | 71 | [Louvre](https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Louvre](https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP) | 2:49 |
 | 72 | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp) | 4:49 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 97 | [Ni una Gota de Amor](https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Ni una Gota de Amor](https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y) | 2:31 |
 | 98 | [Imán](https://open.spotify.com/track/0l4CmNAlJ4r2uIgJMK8yLD) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 2:18 |
 | 99 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
-| 100 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 |
+| 100 | [Debajo de la Superficie](https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 4:37 |
 
-Snapshot ID: `MCwwMjk4Nzc5ZDkwYWMzOTk0YzRjYWI0N2FlODdkMGI5YmI2ZDEyZWJi`
+Snapshot ID: `MCw2YzAyYzljMzk5ZmY3OTYzZGQ0YTg0NWM2NjliYjFiM2ZlNTk1NDg0`

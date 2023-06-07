@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,876 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,018 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,31 +28,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 18 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 |
 | 19 | [Vibrant Air](https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 4:11 |
 | 20 | [I Needed](https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj) | [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [I Needed / Intercession, On Behalf](https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p) | 6:37 |
-| 21 | [Pastis](https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Pastis](https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV) | 4:04 |
-| 22 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
+| 21 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
+| 22 | [Pastis](https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Pastis](https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV) | 4:04 |
 | 23 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
 | 24 | [Back to My Place](https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Back To My Place](https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg) | 4:05 |
 | 25 | [elope](https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [elope](https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8) | 4:53 |
-| 26 | [The Body Move](https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [What It Is \(2.0\)](https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay) | 5:36 |
-| 27 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 |
+| 26 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 |
+| 27 | [The Body Move](https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [What It Is \(2.0\)](https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay) | 5:36 |
 | 28 | [100 reasons](https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H) | [kemt](https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX) | [lo\-fi\_house.zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 6:15 |
-| 29 | [Pulse Mode](https://open.spotify.com/track/6vCrvEmvRIDVwed2tAto5i) | [Gene On Earth](https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj) | [Lazybones](https://open.spotify.com/album/0irCXpj4fTA1ZcsFvOjS4M) | 5:47 |
-| 30 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
-| 31 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
+| 29 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
+| 30 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
+| 31 | [Pulse Mode](https://open.spotify.com/track/6vCrvEmvRIDVwed2tAto5i) | [Gene On Earth](https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj) | [Lazybones](https://open.spotify.com/album/0irCXpj4fTA1ZcsFvOjS4M) | 5:47 |
 | 32 | [Mellina](https://open.spotify.com/track/1PacOKtN0fJ6qMCS52aoA4) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Mellina](https://open.spotify.com/album/4CXjoh2vLBZZxCLkYx6Fcw) | 2:29 |
-| 33 | [Orbits of Dust](https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Orbits of Dust](https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP) | 6:00 |
-| 34 | [Love Is](https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys), [Cazeaux O.S.L.O](https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f) | [Love Is](https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX) | 3:30 |
-| 35 | [I Knew It](https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS), [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [I Knew It](https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei) | 3:44 |
-| 36 | [Obscure](https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY) | [LYANE](https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK) | [Obscure](https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F) | 2:33 |
+| 33 | [Love Is](https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys), [Cazeaux O.S.L.O](https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f) | [Love Is](https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX) | 3:30 |
+| 34 | [Orbits of Dust](https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Orbits of Dust](https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP) | 6:00 |
+| 35 | [Obscure](https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY) | [LYANE](https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK) | [Obscure](https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F) | 2:33 |
+| 36 | [I Knew It](https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS), [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [I Knew It](https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei) | 3:44 |
 | 37 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
-| 38 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |
-| 39 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 |
+| 38 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 |
+| 39 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |
 | 40 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 |
 | 41 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 |
 | 42 | [Deep \-N\- Dirty](https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Late Night Basix Vol\. 2](https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l) | 5:59 |
 | 43 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 |
-| 44 | [10Min JAM\_V2](https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [10Min JAM\_V2](https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D) | 1:39 |
-| 45 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |
+| 44 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |
+| 45 | [10Min JAM\_V2](https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [10Min JAM\_V2](https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D) | 1:39 |
 | 46 | [The Sayers](https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ) | [Klein Zage](https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T) | [The Sayers](https://open.spotify.com/album/68xZqClzXImxguG14MkDjk) | 4:53 |
 | 47 | [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 |
 | 48 | [Me at the Zoo \- Cody Currie Remix](https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Fidelity Radio Club \(Toy Tonics Remixes\)](https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT) | 4:17 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 57 | [14 Joints in a Spaceship](https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h) | [\_tillus](https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y) | [14 Joints in a Spaceship](https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6) | 5:40 |
 | 58 | [YOU CAN DO IT](https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq) | 2:56 |
 | 59 | [Milkyway](https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Milkyway](https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ) | 3:27 |
-| 60 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
+| 60 | [Lofi Vs\. House](https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages, Vol\. 2](https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT) | 2:58 |
 
-Snapshot ID: `MCw2MzkwOWFkMDliOGIzZTA3ZDIzZjlkM2IwY2I3MmFhODlhYzI1OGY3`
+Snapshot ID: `MCxkMzRlYjU4OGQzZDczMTIyOWVjZTA0YjY0NTQ2MmUyMGYxMjM0NDIx`

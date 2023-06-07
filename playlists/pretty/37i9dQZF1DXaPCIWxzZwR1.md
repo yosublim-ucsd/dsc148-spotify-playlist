@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Nessa Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,553 likes - 96 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,777 likes - 96 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 95 | [I Raised Your Boyfriend](https://open.spotify.com/track/7u5VlSd8HxCNjeB4txesJ6) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [I Raised Your Boyfriend](https://open.spotify.com/album/0Apz8ymj3oeGthfJz2RAo9) | 2:42 |
 | 96 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 |
 
-Snapshot ID: `MCwyZWU0NWJlYjZjZTA2MTRhY2U3ZjVmMjNhOTk2OTJmZTRjZTc3OGJi`
+Snapshot ID: `MCw3Y2M1NGJlOTAzMTIxMjkxYTYxZDk2M2ZkMWZkZjMyZWZiZGJhMzM0`

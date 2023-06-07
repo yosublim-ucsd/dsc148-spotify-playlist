@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,742 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,871 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 49 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 |
 | 50 | [cold door handles](https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [nobody else](https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW) | 2:26 |
 
-Snapshot ID: `MCw0MjkyMWE2NjE5NWU4ODk0ZGQ2YmIzMjExYjY0N2FkMTFiOWRjYTFk`
+Snapshot ID: `MCxiNzcwNTIyNTVlNWI4N2RmYWUzYjA2ZmZhMDk1NTJmMjA1NzkzZGQx`

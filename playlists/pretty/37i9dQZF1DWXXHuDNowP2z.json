@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 89934,
+  "num_followers": 90053,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTVhNjFlN2UyMGE0ZjljOTJmYmQ0MTAxMTUzYWM2N2MzNGYyZGRk",
+  "snapshot_id": "MCw5ZjUwNDFhODNkNzhlNjVmMGMzNjIwMDQzNDk4NmM3MDNjMTEyZjNh",
   "tracks": [
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 165887,
       "name": "Un Cari\u00f1o Como Tu - En Vivo",
       "url": "https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
-        "name": "Fuiste Mala",
-        "url": "https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
+        "name": "Norte\u00f1o, Vol. 2",
+        "url": "https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Un Cari\u00f1o Como T\u00fa",
+      "url": "https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
         "name": "A Mover el Guayin",
         "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 224722,
       "name": "Flor de Pi\u00f1a",
       "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
-        "name": "Norte\u00f1o, Vol. 2",
-        "url": "https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Un Cari\u00f1o Como T\u00fa",
-      "url": "https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Los Saxofones Alegres",
-        "url": "https://open.spotify.com/album/1ZTsiWVHSH0dUmU7zUZBzB"
-      },
-      "artists": [
-        {
-          "name": "Identidad",
-          "url": "https://open.spotify.com/artist/27C7ZMfb3rHz90wbayV6ka"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "Macarena",
-      "url": "https://open.spotify.com/track/6wHtHL2V5CSqIudRKlD7iU"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Con Sangre Ranchera",
         "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 136752,
       "name": "A Qui\u00e9n No Le Gusta Eso",
       "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Los Saxofones Alegres",
+        "url": "https://open.spotify.com/album/1ZTsiWVHSH0dUmU7zUZBzB"
+      },
+      "artists": [
+        {
+          "name": "Identidad",
+          "url": "https://open.spotify.com/artist/27C7ZMfb3rHz90wbayV6ka"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/6wHtHL2V5CSqIudRKlD7iU"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "De Parranda Lives Vol. 1",
-        "url": "https://open.spotify.com/album/2kUdqdhDF2HocpD7WSwjkr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 242229,
-      "name": "Dime donde y cuando - Live",
-      "url": "https://open.spotify.com/track/04FuzddvcEMzYIbJZR302j"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "10 Pa' Huapanguear",
         "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 169740,
       "name": "El Mariachi (Huapango)",
       "url": "https://open.spotify.com/track/4T9zeXSlH6sWDDFeEEiCZX"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "De Parranda Lives Vol. 1",
+        "url": "https://open.spotify.com/album/2kUdqdhDF2HocpD7WSwjkr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 242229,
+      "name": "Dime donde y cuando - Live",
+      "url": "https://open.spotify.com/track/04FuzddvcEMzYIbJZR302j"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
-      },
-      "artists": [
-        {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
-        }
-      ],
-      "duration_ms": 219923,
-      "name": "El Son de la Rabia",
-      "url": "https://open.spotify.com/track/43RsJKvBwxrseYFwUqkroO"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Una No Es Ninguna",
         "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 289691,
       "name": "El Toro Pinto",
       "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "duration_ms": 219923,
+      "name": "El Son de la Rabia",
+      "url": "https://open.spotify.com/track/43RsJKvBwxrseYFwUqkroO"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj"
-      },
-      "artists": [
-        {
-          "name": "Los Garcia Bros.",
-          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "El Comet",
-      "url": "https://open.spotify.com/track/5Xhj8ErKSsIwwA50HtzBmC"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Cuarentena",
         "url": "https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 223880,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/1BMYzxO9iuPGmi5jeR6HS3"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "La Trayectoria",
+        "url": "https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj"
+      },
+      "artists": [
+        {
+          "name": "Los Garcia Bros.",
+          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "El Comet",
+      "url": "https://open.spotify.com/track/5Xhj8ErKSsIwwA50HtzBmC"
     },
     {
       "added_at": "2023-04-21 19:03:12",

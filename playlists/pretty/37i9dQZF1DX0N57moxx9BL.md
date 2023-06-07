@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,633 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,752 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 8 | [Deathgrip](https://open.spotify.com/track/3Ucq1gQdwgIuhytmI1CEyj) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Deathgrip](https://open.spotify.com/album/1MK5aZeXCgg0zXvwdRdcDW) | 4:14 |
 | 9 | [Not Dead Yet](https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [Not Dead Yet](https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO) | 3:36 |
 | 10 | [Surviving The Game](https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:58 |
-| 11 | [HEAVEN DON'T CRY](https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [HEAVEN DON'T CRY](https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX) | 4:25 |
-| 12 | [Before I Cave In](https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Before I Cave In](https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr) | 4:20 |
+| 11 | [Before I Cave In](https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Before I Cave In](https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr) | 4:20 |
+| 12 | [HEAVEN DON'T CRY](https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [HEAVEN DON'T CRY](https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX) | 4:25 |
 | 13 | [Yours Again](https://open.spotify.com/track/57fh50SS5Igc0u6LuHuZHN) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [of Beauty and Rage](https://open.spotify.com/album/4Kn0DsnXrrWm4buuVNIyBJ) | 4:49 |
 | 14 | [Let Go](https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Three Nails](https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc) | 3:30 |
 | 15 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 26 | [I Won't Look Back](https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [I Won't Look Back](https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn) | 3:20 |
 | 27 | [Dreamcatcher](https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX) | [Night Argent](https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid) | [The Fear](https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1) | 3:23 |
 | 28 | [ANOTHER PLACE](https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [EXILE](https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3) | 4:16 |
-| 29 | [Lazarus](https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP) | [Bellarive](https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX) | [Before There Was](https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX) | 5:04 |
-| 30 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 |
+| 29 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 |
+| 30 | [Lazarus](https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP) | [Bellarive](https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX) | [Before There Was](https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX) | 5:04 |
 | 31 | [Deadman](https://open.spotify.com/track/5hRTySOfrVVhDNOya4IML9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 5:13 |
 | 32 | [Have A Little Faith](https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Have A Little Faith](https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q) | 2:39 |
 | 33 | [The Executioner](https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [The Executioner](https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT) | 4:07 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 45 | [Undefeated](https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK) | 3:06 |
 | 46 | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q) | [Matt Moore](https://open.spotify.com/artist/2BK2I4WCQKbUFGDpddVFuf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl) | 3:53 |
 | 47 | [All That Matters](https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [All That Matters](https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5) | 3:17 |
-| 48 | [Surviving The Wasteland](https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Surviving The Wasteland](https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx) | 3:18 |
+| 48 | [Mirror Mirror](https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x) | [Random Hero](https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA) | [The Covering](https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP) | 3:26 |
 | 49 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 |
 | 50 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 |
-| 51 | [Mirror Mirror](https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x) | [Random Hero](https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA) | [The Covering](https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP) | 3:26 |
+| 51 | [Surviving The Wasteland](https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Surviving The Wasteland](https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx) | 3:18 |
 | 52 | [Tell Me](https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ) | [As We Ascend](https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1) | [Farewell to Midnight](https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH) | 3:34 |
 | 53 | [This Is Not the End](https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9) | [Safemode](https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN) | [Colorblind](https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt) | 4:26 |
 | 54 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 66 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 |
 | 67 | [Send Forth Laborers](https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R) | [Pennell](https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D) | 5:33 |
 | 68 | [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 3:24 |
-| 69 | [Balconies](https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [Real Emotion](https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL) | 4:14 |
+| 69 | [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 |
 | 70 | [Lower East Side](https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl) | 3:31 |
-| 71 | [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 |
+| 71 | [Balconies](https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [Real Emotion](https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL) | 4:14 |
 | 72 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 |
 | 73 | [Way You Love Me](https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW) | 3:53 |
 | 74 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [The Truth](https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju) | [I Am Spartacus](https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l) | [Unite](https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi) | 4:17 |
 | 80 | [Voices](https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Death Stare](https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i) | 4:08 |
 
-Snapshot ID: `MCw4MjFmM2UyMGJmNjM0ZTFjNGI2MTVlYTYyZmRjOWYwNjQxZTU4NmMz`
+Snapshot ID: `MCw4NTQyNTVkNmYxZjJlYTM3OWExMjNjYTA2ZTVkMGNlZmM0N2MzYzRh`

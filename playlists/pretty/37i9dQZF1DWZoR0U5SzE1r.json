@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 256811,
+  "num_followers": 256930,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjVlODRkOWVhYjBhNTMzODRmN2VlODU2ODE3NmZkOGZmNWE2MzM0",
+  "snapshot_id": "MCwwNjRhZmI4ZDE1YjBkYzdjOGU3N2I2NWYzOTZlMzQxOGE1ZGYzOTA4",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Death Of Death",
-        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Where The Spirit Of The Lord Is",
-      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Simple Gospel (Live)",
         "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 360000,
       "name": "Simple Gospel (Live)",
       "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Death Of Death",
+        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Where The Spirit Of The Lord Is",
+      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Already Done",
-        "url": "https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z"
-      },
-      "artists": [
-        {
-          "name": "Free Worship",
-          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Already Done",
-      "url": "https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Dancing On The Waves (Live)",
         "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 269040,
       "name": "Dancing On The Waves - Live At The Wheelhouse",
       "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Already Done",
+        "url": "https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Already Done",
+      "url": "https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Fill This Place (Studio Version)",
+        "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Fill This Place (Studio Version)",
+      "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
       },
@@ -1307,6 +1323,26 @@
       "duration_ms": 547251,
       "name": "Rain Your Glory Down - Live",
       "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Nothing Ordinary",
+        "url": "https://open.spotify.com/album/6WRkJUXDC0TpsnMhVrJ6DM"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 217226,
+      "name": "Every Beat (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/2np5AM9Unlb73qyCi1r82W"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1331,22 +1367,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Fill This Place (Studio Version)",
-        "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Fill This Place (Studio Version)",
-      "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Easy Never Needed You",
         "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 272000,
       "name": "Just Want You",
       "url": "https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Nothing Ordinary",
-        "url": "https://open.spotify.com/album/6WRkJUXDC0TpsnMhVrJ6DM"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 217226,
-      "name": "Every Beat (feat. Seth Condrey)",
-      "url": "https://open.spotify.com/track/2np5AM9Unlb73qyCi1r82W"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Speak",
-        "url": "https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI"
-      },
-      "artists": [
-        {
-          "name": "Bethany Music",
-          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "Speak",
-      "url": "https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Love Makes Us Strong (Live)",
         "url": "https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 448719,
       "name": "Jesus, You're Beautiful (Live)",
       "url": "https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI"
+      },
+      "artists": [
+        {
+          "name": "Bethany Music",
+          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV"
     },
     {
       "added_at": "2020-06-26 04:02:00",

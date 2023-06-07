@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 291818,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/2BvqUVpsRPqg9U7cPS7W2N"
@@ -1348,6 +1348,24 @@
       "duration_ms": 191328,
       "name": "Nothing Is Easy",
       "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
+    },
+    {
+      "album": {
+        "name": "notice",
+        "url": "https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7"
+      },
+      "artists": [
+        {
+          "name": "Maya Randle",
+          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155165,
+      "name": "notice",
+      "url": "https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar"
     },
     {
       "album": {

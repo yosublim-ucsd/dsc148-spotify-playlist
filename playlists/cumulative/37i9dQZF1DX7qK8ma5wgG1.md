@@ -4,7 +4,7 @@
 
 > Songs for a broken heart
 
-187 songs - 10 hr 34 min
+189 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [If The World Was Ending](https://open.spotify.com/track/6dTBKBqIN4324sThIkZpMj) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If The World Was Ending](https://open.spotify.com/album/6O8WMZ6dzjh78hqQANhRPv) | 3:28 | 2021-12-16 | 2022-03-30 |
 | [if this is the last time](https://open.spotify.com/track/2ccNaerby1wXA993dY6XsR) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [if this is the last time](https://open.spotify.com/album/3G2RelPzbgYpjSIsi0YS0J) | 3:23 | 2021-12-16 | 2022-03-30 |
 | [If We're Being Honest](https://open.spotify.com/track/6CfAtjogau9v9kmtZVrNG8) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [If We're Being Honest](https://open.spotify.com/album/6fktnVCm6NnlMd7pVcvweN) | 3:55 | 2021-12-16 | 2022-04-05 |
-| [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-11-08 |  |
+| [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-11-08 | 2023-06-07 |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 | 2022-03-29 | 2023-02-15 |
 | [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2023-01-10 | 2023-02-01 |
 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2023-01-31 |  |
@@ -166,12 +166,14 @@
 | [Talk](https://open.spotify.com/track/1r5MwvQZLff9Y2o1QCMY9N) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Warm](https://open.spotify.com/album/5eed330fRyfporIAak7ZmH) | 2:52 | 2022-09-20 | 2023-05-06 |
 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2021-12-16 |  |
 | [The Hardest Part \- Acoustic](https://open.spotify.com/track/0rYhl022XHl0RPay00dGdh) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part \(Acoustic\)](https://open.spotify.com/album/34e0sR4qdjjB7l1nrVAL9x) | 2:55 | 2022-09-06 |  |
+| [The Pretender](https://open.spotify.com/track/1z7PADWKXVsbEitOVLlC69) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:40 | 2023-06-06 |  |
 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-29 | 2022-09-07 |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2021-12-16 | 2023-05-06 |
 | [trust issues](https://open.spotify.com/track/5jQVx40dbpDsstcwlhpk9u) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [trust issues](https://open.spotify.com/album/3DENi04ImVVBYhh3zpfXIN) | 2:14 | 2023-01-31 |  |
 | [Trying My Best](https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:42 | 2022-09-06 |  |
-| [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-08-02 |  |
+| [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-08-02 | 2023-06-07 |
 | [Two Places at Once](https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Two Places at Once \(Part I\)](https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v) | 3:19 | 2023-02-14 |  |
+| [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-06-06 |  |
 | [Unconditional](https://open.spotify.com/track/2SSwlNE1JKhLZAjtKjxg6O) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [For My Father](https://open.spotify.com/album/2hSfGDpXs6fs1Bj3VxCRhA) | 3:23 | 2021-12-16 | 2022-02-15 |
 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 | 2021-12-16 | 2022-09-07 |
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2021-12-16 | 2022-08-03 |

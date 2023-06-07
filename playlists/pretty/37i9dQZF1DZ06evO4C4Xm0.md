@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,784 likes - 51 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,802 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 39 | [Hardly Me \- Instrumental](https://open.spotify.com/track/3X6nQIGR66C4VCgG9Cxqtq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:50 |
 | 40 | [Prophecy Theme](https://open.spotify.com/track/2FOZhjP4KGNWoLnUb7pkK1) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C6579KEvJj9AWaZtjSflC) | 4:21 |
 | 41 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 |
-| 42 | [I'll Come Running \- 2004 Digital Remaster](https://open.spotify.com/track/6ZWVeMysm8Q8zZu3lKnY2v) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:49 |
-| 43 | [Strange Light \- Remastered 2005](https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 2:09 |
-| 44 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 |
+| 42 | [Strange Light \- Remastered 2005](https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 2:09 |
+| 43 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 |
+| 44 | [I'll Come Running \- 2004 Digital Remaster](https://open.spotify.com/track/6ZWVeMysm8Q8zZu3lKnY2v) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:49 |
 | 45 | [Ultramarine](https://open.spotify.com/track/5OfT4ZkwMlowogOBJoYdGH) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 2:27 |
-| 46 | [In Dark Trees \- 2004 Digital Remaster](https://open.spotify.com/track/41RiTUEXw8uoCtLd8pcHVy) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 2:31 |
-| 47 | [Sparrowfall \(1\) \- Remastered 2005](https://open.spotify.com/track/7DRYIvDSGHCJk9FMck3a7c) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:10 |
-| 48 | [Chéri \- Instrumental](https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:25 |
+| 46 | [Sparrowfall \(1\) \- Remastered 2005](https://open.spotify.com/track/7DRYIvDSGHCJk9FMck3a7c) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:10 |
+| 47 | [Chéri \- Instrumental](https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:25 |
+| 48 | [In Dark Trees \- 2004 Digital Remaster](https://open.spotify.com/track/41RiTUEXw8uoCtLd8pcHVy) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 2:31 |
 | 49 | [LUX 1.1](https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:42 |
-| 50 | [Golden Hours \- 2004 Digital Remaster](https://open.spotify.com/track/0ikLV7zMypPFyLH57cKpRO) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 4:00 |
-| 51 | [Line In The Sand](https://open.spotify.com/track/6J4POnSPt3RcoWW5zUHVtl) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [goddess](https://open.spotify.com/artist/2UgwBiqMsWyiPeqv4Ed3pi) | [Line In The Sand](https://open.spotify.com/album/20BFfzO2b1Swuq5cBThsW0) | 3:02 |
+| 50 | [Line In The Sand](https://open.spotify.com/track/6J4POnSPt3RcoWW5zUHVtl) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [goddess](https://open.spotify.com/artist/2UgwBiqMsWyiPeqv4Ed3pi) | [Line In The Sand](https://open.spotify.com/album/20BFfzO2b1Swuq5cBThsW0) | 3:02 |
+| 51 | [Kazakhstan 1](https://open.spotify.com/track/47rI9POL2cdrqMinrSwRuq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Kazakhstan](https://open.spotify.com/album/4YThNflqsqidUr0Z1ETy80) | 3:11 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDBjZTkxZWY3NWVlODI3MGMwY2FhMjExZmZiNDE4MDdjMw==`
+Snapshot ID: `MjgxMDA5MjYsMDAwMDAwMDBhMDQ5NDIyMmUwNjhkMGFhZGQwNGQwMjhlODdkYWYyYw==`

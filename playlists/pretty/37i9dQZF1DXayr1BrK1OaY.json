@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 168885,
+  "num_followers": 169077,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjI5NTdkYTJmYTk3MThmNTQ2M2RhN2ExYjkzNzM3NGJkOTA5MDk4",
+  "snapshot_id": "MCxlNzExYWZiOTAyODM4NGFmZTBjOGM5OTQ4MDdlZDA0ZjU2Y2IyY2M0",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -151,18 +151,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
         }
       ],
-      "duration_ms": 578040,
-      "name": "Innerbloom",
-      "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -183,22 +187,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+      "duration_ms": 578040,
+      "name": "Innerbloom",
+      "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Safe In My Arms / YourLove",
         "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
       },
@@ -907,18 +923,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+        "name": "Little Planets - Remix",
+        "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "RIZ LA VIE",
+          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
+        },
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+      "duration_ms": 240000,
+      "name": "Little Planets - Remix",
+      "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -943,26 +963,6 @@
       "duration_ms": 238048,
       "name": "Rain On Me - Purple Disco Machine Remix - Edit",
       "url": "https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Little Planets - Remix",
-        "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
-      },
-      "artists": [
-        {
-          "name": "RIZ LA VIE",
-          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
-        },
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Little Planets - Remix",
-      "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC"
-      },
-      "artists": [
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 193422,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 193422,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "What's Your Pleasure?",
-        "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 331933,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/0EtcGmf2mVZbHWq2ZGP3t7"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "All That I Lost",
         "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 259838,
       "name": "All That I Lost",
       "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "What's Your Pleasure?",
+        "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 331933,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/0EtcGmf2mVZbHWq2ZGP3t7"
     },
     {
       "added_at": "2023-05-26 04:00:00",

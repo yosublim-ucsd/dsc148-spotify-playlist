@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,521 likes - 90 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,573 likes - 90 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 16 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 |
 | 17 | [Ships On The Ocean](https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 4:09 |
 | 18 | [Blues On The Bay](https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 2:47 |
-| 19 | [Broken & Blue \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 4:22 |
-| 20 | [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 |
+| 19 | [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 |
+| 20 | [Broken & Blue \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 4:22 |
 | 21 | [Loneliest Road That I Know](https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6) | [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Give In Kind](https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW) | 4:17 |
 | 22 | [I Need Your Love](https://open.spotify.com/track/3yBEPXPZ8XcQrrMZRPLlNF) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 2:22 |
 | 23 | [Driftin' Blues \- Single Version](https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:28 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 35 | [Sweet Little Angel](https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
 | 36 | [A Fool No More](https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [Man of the World: The Anthology 1968\-1988](https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o) | 7:44 |
 | 37 | [Same Old Blues](https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:34 |
-| 38 | [When Will You Tell Him About Me?](https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [The Chicago Way](https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS) | 4:29 |
-| 39 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
+| 38 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
+| 39 | [When Will You Tell Him About Me?](https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [The Chicago Way](https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS) | 4:29 |
 | 40 | [Please Tell Me Why](https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Jackie Sings The Blues](https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4) | 2:04 |
 | 41 | [Groaning the Blues \- Live at the Fillmore, San Francisco, 1994](https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Nothing But the Blues \(Live\)](https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc) | 7:10 |
 | 42 | [I Got News For You](https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp) | [Andrew Brown](https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:01 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 81 | [Blues Stay Away From Me](https://open.spotify.com/track/0gKGDH5XsrWGH7pojMcXSY) | [Mamie Minch](https://open.spotify.com/artist/5FpYyf3AOAl5YXVxAuYfzW), [Tamar Korn](https://open.spotify.com/artist/2OWPS13qorm1Vj3wxUO5lF) | [The Best of the 5th Annual Brooklyn Folk Festival](https://open.spotify.com/album/2yTbT5DQqjSn3ly5oypYhw) | 4:12 |
 | 82 | [Love & Gravity](https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR) | [Matt Katsis](https://open.spotify.com/artist/3uql1lp6c9CcJL2tjzKrkv) | [Love & Gravity](https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB) | 3:48 |
 | 83 | [Down On My Knees](https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji) | [King Leo](https://open.spotify.com/artist/24Y1QM5HxIVWItCw16bw1C) | [Down On My Knees](https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa) | 3:33 |
-| 84 | [Hard Living Alone](https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Marshall Texas Is My Home](https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb) | 3:04 |
-| 85 | [Sometimes I Worry](https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Roll and Tumble](https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW) | 3:25 |
+| 84 | [Sometimes I Worry](https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Roll and Tumble](https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW) | 3:25 |
+| 85 | [Hard Living Alone](https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Marshall Texas Is My Home](https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb) | 3:04 |
 | 86 | [Hold That Train](https://open.spotify.com/track/0YnoAn9FBUopgdwEOTsGlE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [My Kind Of Blues](https://open.spotify.com/album/6nnI1qK92ewOpEerMB9Lhw) | 3:59 |
 | 87 | [Since My Baby Gone](https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY) | [Just The Big Three Trio](https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED) | 3:00 |
 | 88 | [Trouble](https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 4:11 |
 | 89 | [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 |
 | 90 | [Unfair Lovers](https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [Rare Oldies Jazz: Eddy Boyd](https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6) | 3:03 |
 
-Snapshot ID: `MCxjMGU2YTAxMjZlNDBlMzU1ZTM0NzQwNGQ0YzE0NDU2OTExNTdkNDg1`
+Snapshot ID: `MCw4ZmVmZTk3YmJmMjk5YTA1MmYwODFkNTk4Nzk4MjRjNjcwNjc2OGFh`

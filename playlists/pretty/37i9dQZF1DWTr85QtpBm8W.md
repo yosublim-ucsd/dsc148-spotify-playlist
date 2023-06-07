@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,022 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,092 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 11 | [Oto](https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 3:49 |
 | 12 | [Aegina Airlines](https://open.spotify.com/track/2qvXaAyYLBo6PaP85cb1Xn) | [The Dead Texan](https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT) | [The Dead Texan](https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo) | 2:48 |
 | 13 | [Tears From The Compound Eye](https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 4:03 |
-| 14 | [Pop 1](https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 5:11 |
-| 15 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
+| 14 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
+| 15 | [Pop 1](https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 5:11 |
 | 16 | [01 Ghosts I](https://open.spotify.com/track/3M17PrywlQbpMskEKvdaea) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Ghosts I\-IV](https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp) | 2:48 |
 | 17 | [Will She Come Back](https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 5:00 |
 | 18 | [Piano Aquieu](https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 10:56 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 26 | [Night Bus](https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx) | 2:13 |
 | 27 | [V](https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Tape Chants](https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC) | 1:16 |
 | 28 | [Sherbet Head](https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 2:41 |
-| 29 | [Sheets Two](https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 2:38 |
-| 30 | [Opalescent](https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 2:11 |
+| 29 | [Opalescent](https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 2:11 |
+| 30 | [Sheets Two](https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 2:38 |
 | 31 | [Sin Nanna](https://open.spotify.com/track/5Io6W7GqRsXUZnl1O0fcb0) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Black One](https://open.spotify.com/album/3oFLD6FiLtAe1Ykq3wWuPf) | 2:17 |
 | 32 | [From The Same Hill \- Remastered 2005](https://open.spotify.com/track/6KXkRnKRmVes2BfNzN7bnX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 3:00 |
 | 33 | [Requiem for Dying Mothers, Pt\. 1](https://open.spotify.com/track/4iCjh6ybA5uiLSIAlcrFuV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 6:37 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 55 | [Borderlands](https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [An Imaginary Country](https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R) | 4:46 |
 | 56 | [The Unfinished](https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Lambent Material](https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht) | 4:38 |
 | 57 | [Interlude](https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Songs for the Broken Hearted](https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC) | 2:20 |
-| 58 | [Daumen](https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Geisterfaust](https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC) | 8:06 |
-| 59 | [There Is A Number Of Small Things](https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Yesterday Was Dramatic – Today Is OK](https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2) | 6:31 |
+| 58 | [There Is A Number Of Small Things](https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Yesterday Was Dramatic – Today Is OK](https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2) | 6:31 |
+| 59 | [Daumen](https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Geisterfaust](https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC) | 8:06 |
 | 60 | [Your Guts Are Like Mine](https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Telegraphs in Negative / Mouths Trapped in Static](https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka) | 2:15 |
 | 61 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 |
 | 62 | [Sol](https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [Orchid](https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s) | 10:02 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 90 | [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 |
 | 91 | [Raamat](https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [MP3 Collection](https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg) | 7:18 |
 | 92 | [Into Stressa](https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 3:56 |
-| 93 | [Welk](https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79) | 6:18 |
-| 94 | [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 |
+| 93 | [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 |
+| 94 | [Welk](https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79) | 6:18 |
 | 95 | [Verdantique](https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq) | [Nudge](https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO) | [As Good As Gone](https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ) | 0:45 |
 | 96 | [So Long Orpheus](https://open.spotify.com/track/1LQKgRnOvDnghW6I4Hs6GV) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [24 Postcards In Full Colour](https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e) | 2:23 |
 | 97 | [De Storm](https://open.spotify.com/track/6mVclchrniUeZKwLxMAT9p) | [Kreng](https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ) | [L’Autopsie Phénoménale de Dieu](https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [The Orchardist](https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:07 |
 | 100 | [Swarm](https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Steel Wound](https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0) | 4:00 |
 
-Snapshot ID: `MCwyMDk0YTU0M2ZlODBiOGViOWNmYTVlM2VmMTJlYTIyMGQ0NzhjMmVi`
+Snapshot ID: `MCxjOTRiM2Q0MjYxNWZhZDNmMTI1NTJmMjBiNDE1ZTNkNzk5ODRmNTdl`

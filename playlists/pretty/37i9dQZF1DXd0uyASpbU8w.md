@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ?si=COtmDMSiSym5NTpKmzvwkQ">The Weeknd</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,428 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,463 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 35 | [Amaphupho](https://open.spotify.com/track/45hTW7vepklO2ZNSEAoFYs) | [Vico da sporo](https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [UNDERRATED 2.0](https://open.spotify.com/album/2ZNqWRe7AbH6HRiTwtFvkX) | 6:58 |
 | 36 | [I'll Be There](https://open.spotify.com/track/2KBKgHyAZGEaz35kI8nF1J) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [I'll Be There](https://open.spotify.com/album/4eRtkYASppwiN9Et4oNaYK) | 2:57 |
 | 37 | [Inombolo](https://open.spotify.com/track/6vVpLYKQGpUgxQyMPnB4OS) | [Skweletu](https://open.spotify.com/artist/0uW67UxcYtWZRPZO3Zaobf) | [Nonakele](https://open.spotify.com/album/4D8gBTFlJral7KOmL92MKA) | 4:17 |
-| 38 | [Gemini's](https://open.spotify.com/track/1PFi8Yu9sE9Gm6I0PXW6XX) | [Kayrendasoul](https://open.spotify.com/artist/3DZkJt4m4kPKYPtRKkvPkX), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Anjunadeep Explorations 22](https://open.spotify.com/album/4DC9IfMdaEhUTU343byhka) | 3:49 |
+| 38 | [Gemini's](https://open.spotify.com/track/1PFi8Yu9sE9Gm6I0PXW6XX) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Anjunadeep Explorations 22](https://open.spotify.com/album/4DC9IfMdaEhUTU343byhka) | 3:49 |
 | 39 | [Keep It Rolling](https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Keep It Rolling](https://open.spotify.com/album/2YIfWZjgVJWrrSTZJot3Mp) | 2:50 |
 | 40 | [Without You](https://open.spotify.com/track/4NH496Sf2JEOvDRxEuIBc4) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Without You](https://open.spotify.com/album/1QmznZxsQ9lUSEYO8KK58j) | 2:23 |
 | 41 | [Millions of Us \- Part 2](https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Millions of Us](https://open.spotify.com/album/0sUJTQiCZB1iu5NXenCyJA) | 5:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 69 | [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 |
 | 70 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0) | 3:58 |
 
-Snapshot ID: `MCwwNzI2ZjIyMGNiOTgwMGI5ZDg5NWMwNDU3YzQ2MGVmM2YwMzk1NTNj`
+Snapshot ID: `MCxlN2I2NjQwMWYwMDgzNTI1YzY3MTY4YjA1MjRhNzJhYTVhNTY4ZGVk`

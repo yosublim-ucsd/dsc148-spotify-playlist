@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: boygenius
 
-97 songs - 6 hr 43 min
+98 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Carthage](https://open.spotify.com/track/5T2rPvGAbs5Z6CLXXbh3jX) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 5:30 | 2023-02-23 | 2023-05-01 |
 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 | 2023-05-19 |  |
 | [Chamomile](https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Chamomile](https://open.spotify.com/album/5QLep18EqyzRJ50cz1BzWb) | 3:37 | 2023-04-21 |  |
-| [Chosen to Deserve](https://open.spotify.com/track/4Qw9BVghOFfjUyVWV26m2Q) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Chosen to Deserve](https://open.spotify.com/album/7geMCLNLhOhoutnVYES6t9) | 5:32 | 2023-02-23 |  |
+| [Chosen to Deserve](https://open.spotify.com/track/1c2meJL1RaGILGSw9Lnj0P) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 5:32 | 2023-06-02 |  |
+| [Chosen to Deserve](https://open.spotify.com/track/4Qw9BVghOFfjUyVWV26m2Q) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Chosen to Deserve](https://open.spotify.com/album/7geMCLNLhOhoutnVYES6t9) | 5:32 | 2023-02-23 | 2023-06-07 |
 | [Cinnamon](https://open.spotify.com/track/6KqgHLhsyScGQtoclGOnHv) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower](https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3) | 2:53 | 2023-02-23 |  |
 | [Cold Nights](https://open.spotify.com/track/193hTIvHqhYRYYxh6HweYR) | [Guantanamo Bay Surf Club](https://open.spotify.com/artist/5JO05d5V4vSBMq5JAzmEoF) | [Cold Nights](https://open.spotify.com/album/0c5KkHDXYu3MTbRqbk4ZNM) | 4:11 | 2023-05-12 |  |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-04-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,622 likes - 117 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,732 likes - 117 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 2 | [You Need Me \(feat\. Maxine Ashley & Sun\-El Musician\)](https://open.spotify.com/track/2ieFaRzeA5yfRjanzaBS8Q) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 6:15 |
 | 3 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 |
 | 4 | [Horizon Red \- Black Coffee Remix](https://open.spotify.com/track/5iBtd2rolPOVUHB2E43Z66) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Horizon Red \(Black Coffee Remix\)](https://open.spotify.com/album/31LCf0hztvBsdB0HB5T2TC) | 9:25 |
-| 5 | [Zulu \- Edit](https://open.spotify.com/track/4qTW584MYElJ0FrONOIyFs) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo](https://open.spotify.com/artist/1QFkERAzKnyz7FUo6GmlYL), [Kyaku Kyadaff](https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9) | [Zulu](https://open.spotify.com/album/7kMDY1tby0hSMTCJDXKbzB) | 2:59 |
+| 5 | [Zulu \- Edit](https://open.spotify.com/track/4qTW584MYElJ0FrONOIyFs) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c), [Kyaku Kyadaff](https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9) | [Zulu](https://open.spotify.com/album/7kMDY1tby0hSMTCJDXKbzB) | 2:59 |
 | 6 | [Losing My Religion](https://open.spotify.com/track/7xF4m3N4NhUeLVbMnnwOnk) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Losing My Religion](https://open.spotify.com/album/2ClVRUJPXI9Bd6AEqfD7lK) | 4:28 |
 | 7 | [Yebba's Heartbreak \(Show My Love\) \- Drega & Skyewanda Cover](https://open.spotify.com/track/1KiycPFo0UH4WCyMdBC2iE) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG), [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1) | [Yebba's Heartbreak \(Show My Love\) \[Drega & Skyewanda Cover\]](https://open.spotify.com/album/5vhv22WO5tDJ8n7jnWVTHl) | 6:44 |
 | 8 | [Thula](https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Khonaye](https://open.spotify.com/artist/05QAPP670eYB6veuT6aSzO) | [Thula EP](https://open.spotify.com/album/2QyWyvrhEVnBaLG4loqEi1) | 7:21 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 116 | [Flava \(feat\. Una Rams & Tellaman\)](https://open.spotify.com/track/2mhkxRse3yU8bx6zJuiNI7) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 4:29 |
 | 117 | [I'm Fallin \(feat\. RY X\)](https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 7:42 |
 
-Snapshot ID: `MCw4ZTZiNGVhMDJmNDJhNGU5MTVkYzE2MTA1YThlZGMwYzIzOGFiNmY3`
+Snapshot ID: `MCwzYzIwMDBiMDQ0ZmZlNTc2YTE0ZjM3YzBlZmMxMjg5NWRiNWRjNDk1`

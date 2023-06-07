@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Masahto Beaastica",
+        "url": "https://open.spotify.com/album/411f2qI8Muk2T2PjWpBnoM"
+      },
+      "artists": [
+        {
+          "name": "Ali Kakooli",
+          "url": "https://open.spotify.com/artist/44Hq31Jx9di0TFPsmU6et9"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247290,
+      "name": "Masahto Beaastica",
+      "url": "https://open.spotify.com/track/0GLr8spyH3DtpfC6HLbktw"
+    },
+    {
+      "album": {
         "name": "Matkhafesh Yamma",
         "url": "https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75"
       },
@@ -4102,7 +4120,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 159600,
       "name": "Shou Badi 3ed Bzalat",
       "url": "https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr"

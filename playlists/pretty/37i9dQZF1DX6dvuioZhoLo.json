@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 275930,
+  "num_followers": 276048,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTgyNDA0YmEwYjY1ZWMyY2E3ZWYwYmMzOWE0MThmMmU4NTdmMGJh",
+  "snapshot_id": "MCxmY2UwYTJiMmY5NDNlZjkzOGFjMWJmZDE4NDY1NjFkYmIwODY3ZDFh",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Canyons of my Mind",
+        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+      },
+      "artists": [
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Real Class Act",
         "url": "https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Canyons of my Mind",
-        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
-      },
-      "artists": [
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
+      },
+      "artists": [
+        {
+          "name": "Skylar Gudasz",
+          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Forever and Then Some",
         "url": "https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 273440,
       "name": "Four Years of Chances",
       "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
-      },
-      "artists": [
-        {
-          "name": "Skylar Gudasz",
-          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
-        }
-      ],
-      "duration_ms": 286146,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 228962,
-      "name": "I Feel Like Hank Williams Tonight",
-      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
       "artists": [
         {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 166231,
-      "name": "P-Town",
-      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
+      "duration_ms": 228962,
+      "name": "I Feel Like Hank Williams Tonight",
+      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Road to Heaven",
-        "url": "https://open.spotify.com/album/5RCUWKlWpbFjt5TgRns9aA"
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
       "artists": [
         {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
         }
       ],
-      "duration_ms": 223091,
-      "name": "Road to Heaven",
-      "url": "https://open.spotify.com/track/0kmJsk0yNfxB1ICbKRpUzZ"
+      "duration_ms": 166231,
+      "name": "P-Town",
+      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1423,6 +1407,38 @@
       "duration_ms": 189871,
       "name": "Still Miss the Way",
       "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "Keep the Home Fires Burnin'",
+      "url": "https://open.spotify.com/track/2keaeiBZLASPTQNG7artle"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Road to Heaven",
+        "url": "https://open.spotify.com/album/5RCUWKlWpbFjt5TgRns9aA"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "duration_ms": 223091,
+      "name": "Road to Heaven",
+      "url": "https://open.spotify.com/track/0kmJsk0yNfxB1ICbKRpUzZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1475,34 +1491,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
+        "name": "Broken Wing",
+        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
       },
       "artists": [
         {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+          "name": "Evil",
+          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
         }
       ],
-      "duration_ms": 183626,
-      "name": "Keep the Home Fires Burnin'",
-      "url": "https://open.spotify.com/track/2keaeiBZLASPTQNG7artle"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Field Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Diamond Joe",
-      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
+      "duration_ms": 275114,
+      "name": "Broken Wing",
+      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1519,6 +1519,22 @@
       "duration_ms": 250080,
       "name": "You Don't Scare Me",
       "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Field Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Diamond Joe",
+      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1551,22 +1567,6 @@
       "duration_ms": 274333,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Broken Wing",
-        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
-      },
-      "artists": [
-        {
-          "name": "Evil",
-          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
-        }
-      ],
-      "duration_ms": 275114,
-      "name": "Broken Wing",
-      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
     },
     {
       "added_at": "2023-05-19 04:00:00",

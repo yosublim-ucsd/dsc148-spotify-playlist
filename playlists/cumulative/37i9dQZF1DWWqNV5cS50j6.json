@@ -10161,6 +10161,24 @@
     },
     {
       "album": {
+        "name": "heaven",
+        "url": "https://open.spotify.com/album/6P3AsR6fFqtaR4uDv7pfbC"
+      },
+      "artists": [
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120133,
+      "name": "heaven",
+      "url": "https://open.spotify.com/track/5gEoep9RwLEy8hFJMne9ad"
+    },
+    {
+      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/01l3MwF9ObfZSnKPCGo8bs"
       },
@@ -16894,7 +16912,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 246935,
       "name": "OPEN LETTER (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/7ketv9r8Hm9lBpQdDekCXI"
@@ -24998,10 +25016,28 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-07",
       "duration_ms": 116128,
       "name": "ur the only one i'm talking to",
       "url": "https://open.spotify.com/track/1UKBcM9Xs7k0bmbjeNivNn"
+    },
+    {
+      "album": {
+        "name": "before the afters",
+        "url": "https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116128,
+      "name": "ur the only one i'm talking to",
+      "url": "https://open.spotify.com/track/2mfOpCyCrtoI0SGDM45LxW"
     },
     {
       "album": {
@@ -25528,7 +25564,7 @@
     {
       "album": {
         "name": "before the afters",
-        "url": "https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv"
+        "url": "https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl"
       },
       "artists": [
         {
@@ -25539,6 +25575,24 @@
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 181051,
+      "name": "Was I Supposed To Care?",
+      "url": "https://open.spotify.com/track/7HIbJDiEXk4VFlbV3qJTdw"
+    },
+    {
+      "album": {
+        "name": "before the afters",
+        "url": "https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
       "duration_ms": 181051,
       "name": "Was I Supposed To Care?",
       "url": "https://open.spotify.com/track/7rzjNar4ySQgXroswykQsH"

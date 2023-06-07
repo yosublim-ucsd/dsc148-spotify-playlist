@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: tofusmell \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,769 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,826 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Cowboy in London](https://open.spotify.com/track/5QC7cT16JXayKU12sefJkA) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Cowboy in London](https://open.spotify.com/album/6OsovHPbu2W1ilfBj86VtO) | 3:25 |
 | 100 | [is there something for me?](https://open.spotify.com/track/3Jlh73nzDpIXkSnvZyOU1J) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [is there something for me?](https://open.spotify.com/album/7ECfin3AA5UE4lRbtEvzQx) | 2:39 |
 
-Snapshot ID: `MCw2NDY3ZDkyM2E0N2MzMTE2M2NlMjZmMjBjZDVmNDNmMWYzZDFmNjVm`
+Snapshot ID: `MCw1YmE4OWFiMzRjZmM1MzVkNjQxM2Q4YjI4MGU1Yjk0MzFkNjMwZWM1`

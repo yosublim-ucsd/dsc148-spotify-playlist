@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,489 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,668 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 44 | [Bayo 17](https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:41 |
 | 45 | [Secreto De Confesión \- En Vivo](https://open.spotify.com/track/43MLA97SYGqGbSoT7tSVAg) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Secreto De Confesión \(En Vivo\)](https://open.spotify.com/album/5ZrBQ9O755ENcevMCv3sJf) | 2:57 |
 | 46 | [El Apache](https://open.spotify.com/track/6JtzRe7OZeTp3np1d3qULV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:48 |
-| 47 | [El Dinero No Me Cambia \- En Vivo](https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Dinero No Me Cambia \(En Vivo\)](https://open.spotify.com/album/5iVAYE7Ra3Avw3ygesMP2Z) | 3:16 |
+| 47 | [Seguimos Bateando \- En Vivo](https://open.spotify.com/track/5smmZhNxvXuacsJ6pEzMDw) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Seguimos Bateando \(En Vivo\)](https://open.spotify.com/album/428LK3nKU8Wf0HE6KY1oYv) | 2:24 |
 | 48 | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG) | 3:51 |
-| 49 | [Seguimos Bateando \- En Vivo](https://open.spotify.com/track/5smmZhNxvXuacsJ6pEzMDw) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Seguimos Bateando \(En Vivo\)](https://open.spotify.com/album/428LK3nKU8Wf0HE6KY1oYv) | 2:24 |
+| 49 | [El Dinero No Me Cambia \- En Vivo](https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Dinero No Me Cambia \(En Vivo\)](https://open.spotify.com/album/5iVAYE7Ra3Avw3ygesMP2Z) | 3:16 |
 | 50 | [Con Muchas Ganas \(En Vivo\)](https://open.spotify.com/track/1oTk6S6kcUuekg3SmrLpG5) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Con Muchas Ganas \(En Vivo\)](https://open.spotify.com/album/2a8WVnHLCJ1UJLKI1xNz0S) | 4:31 |
 | 51 | [El Nano](https://open.spotify.com/track/6QeQdtPudjr0dcr9fcT8qv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Nano](https://open.spotify.com/album/0lwkPnZICyG9OkD77unsot) | 2:40 |
 
-Snapshot ID: `MjgwOTk0NjMsMDAwMDAwMDA4MWNiNmZhNmM2ZGZhMWYzMzIzMmQ2MWY4ODBhNzBkNg==`
+Snapshot ID: `MjgxMDA5MjYsMDAwMDAwMDA5ZTQ1YTM5MDJiOWNkOTlmYThkN2E5ODBjZjM1YWRhMA==`

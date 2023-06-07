@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Chayanne",
-  "num_followers": 1906735,
+  "num_followers": 1906846,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjI2NmJiNWM0Njc5YjQ0MGM2MmQ0YjM4YzYxZmNjNGEzNzVkMzIw",
+  "snapshot_id": "MCxkOWFkOTViNzVkMTRiYTY0OTA3YzM3ZGIxMTI3YTAzZjE0YTllNGNl",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "duration_ms": 165855,
+      "name": "La Noche Perfecta",
+      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Directo Al Corazon",
         "url": "https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 239866,
       "name": "No Tengo Suerte En El Amor",
       "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        }
-      ],
-      "duration_ms": 165855,
-      "name": "La Noche Perfecta",
-      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Sin Tu Amor",
-        "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 161835,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "La Historia\u2026Mis \u00c9xitos",
         "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
       },
@@ -1123,22 +1107,6 @@
       "duration_ms": 264013,
       "name": "Me Puedo Matar",
       "url": "https://open.spotify.com/track/5nHpjvTs9EQoK755qThyHt"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Consuelo",
-        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Consuelo",
-      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1175,6 +1143,38 @@
       "duration_ms": 171391,
       "name": "LA FALTA QUE ME HACES - Bachata Version",
       "url": "https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Consuelo",
+        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Consuelo",
+      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Sin Tu Amor",
+        "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 161835,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/1CP85ckXcd1esaXdw8WVpN"
+      },
+      "artists": [
+        {
+          "name": "Lil Eddie",
+          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
+        }
+      ],
+      "duration_ms": 253753,
+      "name": "Vivir\u00e9",
+      "url": "https://open.spotify.com/track/4Cvkj8t7pNQLfLpHMoKkMC"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Sangre De Mis Venas",
         "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 213693,
       "name": "Volvio el dolor",
       "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Vivir\u00e9",
-        "url": "https://open.spotify.com/album/1CP85ckXcd1esaXdw8WVpN"
-      },
-      "artists": [
-        {
-          "name": "Lil Eddie",
-          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
-        }
-      ],
-      "duration_ms": 253753,
-      "name": "Vivir\u00e9",
-      "url": "https://open.spotify.com/track/4Cvkj8t7pNQLfLpHMoKkMC"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Friends & Legends",
         "url": "https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 217000,
       "name": "Una Mentirita",
       "url": "https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
     },
     {
       "added_at": "2023-06-02 04:00:00",

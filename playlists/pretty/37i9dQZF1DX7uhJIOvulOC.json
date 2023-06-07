@@ -1,12 +1,12 @@
 {
   "description": "There are 7 billions ways to listen to this playlist...Listen to all the tracks from Kaleidoscope, now streaming on Netflix. ",
-  "num_followers": 4296,
+  "num_followers": 4311,
   "original_name": "Kaleidoscope Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yjc0ODZjN2M2ZDk2MDVhNTcxOGIzNDBhODkzZWRlYjExMDExOGE0",
+  "snapshot_id": "MCxmYzEyNzE0NTA5MDU1NzU4NDQ1ZjE5YTk4N2Y0ZjhkMTgyNTg3Nzhh",
   "tracks": [
     {
       "added_at": "2023-01-12 21:31:48",
@@ -95,6 +95,14 @@
         "url": "https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB"
       },
       "artists": [
+        {
+          "name": "Mick Jagger",
+          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+        },
+        {
+          "name": "Keith Richards",
+          "url": "https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH"
+        },
         {
           "name": "The Rolling Stones",
           "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"

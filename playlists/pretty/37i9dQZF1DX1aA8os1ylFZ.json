@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 231463,
+  "num_followers": 231490,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2IwMGU5ODQ2YTc3ZmM0N2U4MTQ1NTQzNDZkNDM4MTJiMTU5ZDcz",
+  "snapshot_id": "MCxmYmRiNTQ5NTViYTBjNTJkY2I0Mzg5NDIwMzc4NmJjMzE5MmZiZmRk",
   "tracks": [
     {
       "added_at": "2023-06-01 22:01:00",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 166623,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 166623,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "GLU",
-        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 262711,
-      "name": "GLU",
-      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Crash & Burn",
         "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 147096,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "GLU",
+        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 262711,
+      "name": "GLU",
+      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 152574,
-      "name": "Plot Twist",
-      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 173968,
       "name": "Softly",
       "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152574,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 196641,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "Insensitive",
         "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 201592,
       "name": "Goofy",
       "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 196641,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Y3",
-        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Save Me, Pt. 2",
         "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 151569,
       "name": "Save Me, Pt. 2",
       "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "P.G.N.L.",
+        "url": "https://open.spotify.com/album/6i1S9izMd6VpzEjovsMfgT"
+      },
+      "artists": [
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "duration_ms": 144064,
+      "name": "P.G.N.L.",
+      "url": "https://open.spotify.com/track/5X7eCLVnUIxEcjGsJCKIsz"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "I Love You And Its Getting Worse",
         "url": "https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 179112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "P.G.N.L.",
-        "url": "https://open.spotify.com/album/6i1S9izMd6VpzEjovsMfgT"
-      },
-      "artists": [
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        }
-      ],
-      "duration_ms": 144064,
-      "name": "P.G.N.L.",
-      "url": "https://open.spotify.com/track/5X7eCLVnUIxEcjGsJCKIsz"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1643,22 +1643,18 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Overture",
-        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL"
       },
       "artists": [
         {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        },
-        {
-          "name": "Joshua J",
-          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
+          "name": "K. Roosevelt",
+          "url": "https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu"
         }
       ],
-      "duration_ms": 221492,
-      "name": "Say Yes (Turquoise) (feat. Joshua J)",
-      "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
+      "duration_ms": 178348,
+      "name": "Pleasure & Pain",
+      "url": "https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1683,18 +1679,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL"
+        "name": "Overture",
+        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
       "artists": [
         {
-          "name": "K. Roosevelt",
-          "url": "https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu"
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        },
+        {
+          "name": "Joshua J",
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
         }
       ],
-      "duration_ms": 178348,
-      "name": "Pleasure & Pain",
-      "url": "https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0"
+      "duration_ms": 221492,
+      "name": "Say Yes (Turquoise) (feat. Joshua J)",
+      "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
     },
     {
       "added_at": "2023-06-01 22:01:00",
