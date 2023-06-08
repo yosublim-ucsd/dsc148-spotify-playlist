@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Himonshu Parikh
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,057 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,081 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yaad](https://open.spotify.com/track/4P0LkIqpdn3v9udP5yWRl9) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Rajat Arora](https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7) | [Yaad](https://open.spotify.com/album/0AvvCzztJAisAUEbkHz6Cx) | 2:36 |
-| 2 | [wine & chill](https://open.spotify.com/track/7s3XwJTLkIdX7XsLjbttzq) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [wine & chill](https://open.spotify.com/album/1zefQRMCMUfhzc1amKryYw) | 3:59 |
-| 3 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 |
-| 4 | [Antariksh](https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Antariksh](https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj) | 2:45 |
-| 5 | [Kahaniyaan](https://open.spotify.com/track/3K7LMKRmC4Dg6yLx9iw9Qg) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Kahaniyaan](https://open.spotify.com/album/2BLdrymcISPnxRzGCs2k28) | 3:36 |
-| 6 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 |
+| 2 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 |
+| 3 | [Antariksh](https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Antariksh](https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj) | 2:45 |
+| 4 | [Kahaniyaan](https://open.spotify.com/track/3K7LMKRmC4Dg6yLx9iw9Qg) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Kahaniyaan](https://open.spotify.com/album/2BLdrymcISPnxRzGCs2k28) | 3:36 |
+| 5 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 |
+| 6 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 |
 | 7 | [Kyun Ruthi Ho](https://open.spotify.com/track/23x1eViO9lEWP6uyk88mJv) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Kyun Ruthi Ho](https://open.spotify.com/album/1xIorZwe7jA7FZcz5gefuB) | 3:18 |
 | 8 | [Milan](https://open.spotify.com/track/1BI9irBUCtnXev21pUTfMJ) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Milan](https://open.spotify.com/album/1MJ13VB6N8lso4u6kTSixy) | 4:03 |
-| 9 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 |
+| 9 | [wine & chill](https://open.spotify.com/track/7s3XwJTLkIdX7XsLjbttzq) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [wine & chill](https://open.spotify.com/album/1zefQRMCMUfhzc1amKryYw) | 3:59 |
 | 10 | [love you the same](https://open.spotify.com/track/60FGfdYuoYiMdowZ9SoLxy) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [LYTS](https://open.spotify.com/album/4JU6oNxVeI004JSA2Fv8E7) | 3:38 |
 | 11 | [Tu Hi Bataa](https://open.spotify.com/track/4fYXlzFQbUQtztEKRhZVZB) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Hi Bataa](https://open.spotify.com/album/3CMJ3Av3LO1Dtmz4WlbMnn) | 2:27 |
 | 12 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Dil Ho Tum](https://open.spotify.com/track/4z0cWwPjd0rOkBl0HhyIH6) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Dil Ho Tum](https://open.spotify.com/album/30ArQwlmCra7hvdeQR5FsF) | 2:38 |
 | 50 | [Umeed](https://open.spotify.com/track/7bB5bp6jqWUNgaOEMCvIMa) | [Chapati](https://open.spotify.com/artist/1RaIosj4dit2OLWs19hTVW), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Umeed](https://open.spotify.com/album/21OQ7LcUgwPWGOjGUmlpwJ) | 3:54 |
 
-Snapshot ID: `MCwyNDgzMzIyNjMyYWMzMWY3ZTdmMmIyYzQwMmU5YWNhMDIxODlmMDA3`
+Snapshot ID: `MCw3NDMyNjIxZDA5NjI0NGU2YmI5M2IxMTVjZjZhNGM5YjcwOGMxNzg4`

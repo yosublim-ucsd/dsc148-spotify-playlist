@@ -2,7 +2,7 @@
 
 ### [Ska Latino ](https://open.spotify.com/playlist/37i9dQZF1DXdNw9eeM3mpo)
 
-> 100 % ska latinoamericano\. Los Caligaris en portada.
+> 100 % ska latinoamericano\. Los Fabulosos Cadillacs en portada.
 
 279 songs - 17 hr 14 min
 

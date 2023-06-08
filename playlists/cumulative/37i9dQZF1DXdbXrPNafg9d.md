@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Purr
 
-5,362 songs - 13 day 2 hr 6 min
+5,363 songs - 13 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -823,7 +823,8 @@
 | [Change](https://open.spotify.com/track/5WZGUtMLcqOMPem9J7PzVs) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Change](https://open.spotify.com/album/0RmOC132NVM3iENECtcmYb) | 6:04 | 2021-10-29 | 2022-02-05 |
 | [Change My Mind](https://open.spotify.com/track/7y1kGRMsoBW5IL0rOBp5qn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Change My Mind](https://open.spotify.com/album/6yphXLC7doIHYZl5R4cCA5) | 3:28 | 2021-12-10 | 2022-02-19 |
 | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/track/0pFx0KHtJVFzfjrQQB1FoR) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Jesse](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/album/5n3pUtUIrPAV5CqujbDGh1) | 3:29 | 2021-06-26 | 2021-08-07 |
-| [Change Your Mind](https://open.spotify.com/track/45KJZeYbF0N1tezwHWpeiz) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Change Your Mind](https://open.spotify.com/album/22PlF1r7TVJujwnutC9vb1) | 3:57 | 2023-05-19 |  |
+| [Change Your Mind](https://open.spotify.com/track/1tsNTi7wiL0jOhs6kDmZRC) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 3:57 | 2023-05-19 |  |
+| [Change Your Mind](https://open.spotify.com/track/45KJZeYbF0N1tezwHWpeiz) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Change Your Mind](https://open.spotify.com/album/22PlF1r7TVJujwnutC9vb1) | 3:57 | 2023-05-19 | 2023-06-08 |
 | [Change Your Mind](https://open.spotify.com/track/1uvt28tCYTd1bbSnxKamO6) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Change Your Mind](https://open.spotify.com/album/5KV0E4YT061WRst4J9fptX) | 2:36 | 2020-10-24 | 2020-12-22 |
 | [Changephobia](https://open.spotify.com/track/7cYSdIfUBqVefOSWcW4p0y) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7nDAioCBVXisIee3pdRR10) | 3:50 | 2021-04-10 | 2021-05-29 |
 | [changer](https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [changer](https://open.spotify.com/album/21aXm7ct1WdqEoOd1Ss5fW) | 3:28 | 2023-05-19 | 2023-05-23 |

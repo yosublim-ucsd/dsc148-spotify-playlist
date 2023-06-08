@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > Con licuachela en mano y perreando hasta el piso\. Chencho Corleone en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,534 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,551 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 26 | [Lento](https://open.spotify.com/track/6bMSP5IyrfELhfMy93KPYT) | [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Reggaeton Latino Y Más](https://open.spotify.com/album/5CYsAeq9qjHS4HXS90K3kV) | 1:50 |
 | 27 | [Piripituchy](https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Piripituchy](https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW) | 3:00 |
 | 28 | [Bandolera](https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Bandolera](https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN) | 3:14 |
-| 29 | [Toto](https://open.spotify.com/track/3IWcUkdKHKCd8yC6WImYnl) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Toto](https://open.spotify.com/album/7uCR5vxsTuVHaqd8nMWoDV) | 2:57 |
-| 30 | [Nebuleo \(feat\. DJ Blass\)](https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Club16, Jota Rosa Presents Vol\. 2](https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d) | 2:18 |
-| 31 | [Me Dice Daddy](https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Dice Daddy](https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs) | 3:03 |
+| 29 | [Me Dice Daddy](https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Dice Daddy](https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs) | 3:03 |
+| 30 | [Toto](https://open.spotify.com/track/3IWcUkdKHKCd8yC6WImYnl) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Toto](https://open.spotify.com/album/7uCR5vxsTuVHaqd8nMWoDV) | 2:57 |
+| 31 | [Nebuleo \(feat\. DJ Blass\)](https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Club16, Jota Rosa Presents Vol\. 2](https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d) | 2:18 |
 | 32 | [TUER](https://open.spotify.com/track/7v8klmTCgbUUXblgOWTZBY) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [TUER](https://open.spotify.com/album/2pObyrcegzMolYO1FfnGXl) | 2:58 |
 | 33 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 |
 | 34 | [Romance y Bellakera](https://open.spotify.com/track/1K5liUyu6GsrP07E3ukGHO) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Romance y Bellakera](https://open.spotify.com/album/2HuZtjQmKRHNQy0hd5u8p2) | 4:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 69 | [Bellaqueo](https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s) | [Bellaqueo](https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw) | 2:14 |
 | 70 | [Liberache](https://open.spotify.com/track/09kxHgZk9WPBfi5KVb1YhK) | [La Kikada](https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5) | [Liberache](https://open.spotify.com/album/2hPyRRndq3AFbSTWEqBBmU) | 2:18 |
 
-Snapshot ID: `MCwwN2E3ODVhN2UzYzU0MTgyNjMxNWE2NDhiZDAxNjA4ODE3YjVlMjc2`
+Snapshot ID: `MCw2YjVkZTU0YTVlYTlmNmI3OTJmM2Q2NGI1NzQ5MzYxZWQ5ZWNiODc5`

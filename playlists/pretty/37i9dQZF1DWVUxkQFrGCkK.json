@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 171562,
+  "num_followers": 171693,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTUyYTZiYzNjYTQ3YWRlYWY5MWU2NmFiMjMyYzAyMDhkZWY1MTVl",
+  "snapshot_id": "MCw4NWRlYmY5YTg3ZGZkZjk1YTgwOWQ0MDM0ZmRmNDg3ZWM3YzJlZjBj",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1475,6 +1475,30 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/2kjZNNrlthQ6IYg7wTFwRJ"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        }
+      ],
+      "duration_ms": 285853,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/4F37VC3DflPXQcwbrnoi0Y"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Tramuntana",
         "url": "https://open.spotify.com/album/3Cwmn46NId4XNE7YO6vqXg"
       },
@@ -1507,22 +1531,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "AFRAID",
-        "url": "https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "AFRAID",
-      "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Capricorn Sun",
         "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
       },
@@ -1539,26 +1547,18 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/2kjZNNrlthQ6IYg7wTFwRJ"
+        "name": "AFRAID",
+        "url": "https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y"
       },
       "artists": [
         {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "Maz (BR)",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "Coach Harrison",
-          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
         }
       ],
-      "duration_ms": 285853,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/4F37VC3DflPXQcwbrnoi0Y"
+      "duration_ms": 208000,
+      "name": "AFRAID",
+      "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "The Girl Next Door",
+        "url": "https://open.spotify.com/album/3wICNStLechQsYN4jYg4Bl"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Yamagucci",
+          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
+        }
+      ],
+      "duration_ms": 348387,
+      "name": "The Girl Next Door",
+      "url": "https://open.spotify.com/track/7cYd9okXFfOgz9GG4n0wKl"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Various Artists",
         "url": "https://open.spotify.com/album/6EZn2dAuXo3M6U99YvxSyW"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 220971,
       "name": "Songs About It",
       "url": "https://open.spotify.com/track/43WIanLaoa2ek6Lh5crviQ"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "The Girl Next Door",
-        "url": "https://open.spotify.com/album/3wICNStLechQsYN4jYg4Bl"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Yamagucci",
-          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
-        }
-      ],
-      "duration_ms": 348387,
-      "name": "The Girl Next Door",
-      "url": "https://open.spotify.com/track/7cYd9okXFfOgz9GG4n0wKl"
     },
     {
       "added_at": "2023-06-01 22:00:00",

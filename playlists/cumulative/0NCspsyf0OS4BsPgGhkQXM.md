@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-752 songs - 1 day 16 hr 59 min
+753 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Centuries](https://open.spotify.com/track/5Uz5yzV9MX0LbAMfLECWDv) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9) | [Centuries](https://open.spotify.com/album/7El2SBa5cZW6jCDCMk9mvs) | 2:50 | 2022-05-06 | 2022-06-04 |
 | [change in my pocket](https://open.spotify.com/track/5eh3a7z5uNOCIGVQyLbzZH) | [updog](https://open.spotify.com/artist/1s5ZfyjywLsAr7PY4pmldn) | [change in my pocket](https://open.spotify.com/album/6VsrWRONeJv13dGNw80CNH) | 2:18 | 2022-10-10 | 2022-11-11 |
 | [Change Myself](https://open.spotify.com/track/1mcFzni5rOzqPwGI5ktsZW) | [Flapjax](https://open.spotify.com/artist/7JohQNyszOkmblZwR1t7nx), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Change Myself](https://open.spotify.com/album/5CX4qPbT6ehjdIA59TAbyT) | 2:30 | 2022-05-06 | 2022-06-04 |
+| [Chase](https://open.spotify.com/track/6bA7IuKfEx8ivbQ8Gt5EfX) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn) | [Chase](https://open.spotify.com/album/270mL6pNQmo42SIiUTUHD0) | 2:00 | 2023-06-07 |  |
 | [Chemicals \- Remix](https://open.spotify.com/track/7b0s7YrkrtOuGPODdOOSc4) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Chemicals \(Remix\)](https://open.spotify.com/album/4YwQ3ECvPNLVBWjvv6KE81) | 2:34 | 2022-09-09 | 2022-10-22 |
 | [Child](https://open.spotify.com/track/2b7pg2yQClSHO04Qsf4FqI) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby) | [Child](https://open.spotify.com/album/0h8CGB1yL8KDwvRTXczkeR) | 4:40 | 2022-06-08 | 2022-07-09 |
 | [Chloroform](https://open.spotify.com/track/6aa913g2FXGeTLQBB3uIDe) | [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [SØR](https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi) | [Chloroform](https://open.spotify.com/album/3u4NNr4nbfqBgAWrvFd20E) | 2:27 | 2022-01-20 | 2022-02-17 |
@@ -302,7 +303,7 @@
 | [Homage](https://open.spotify.com/track/0eWUslxrHn5olmaKkxtcQi) | [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6), [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8) | [Homage](https://open.spotify.com/album/64Hu5WoZutU7QwjNj5fPwl) | 2:52 | 2022-09-02 | 2022-10-08 |
 | [Homecoming](https://open.spotify.com/track/4DgfI5iFjc4gvYdfVM5cMb) | [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Homecoming](https://open.spotify.com/album/6i0xJsbZ1VGfXGH8tF8Gl4) | 3:35 | 2023-01-13 | 2023-02-22 |
 | [Hometown](https://open.spotify.com/track/4sg4KlbvzMR070faLSq32T) | [ZEVY](https://open.spotify.com/artist/3Rr9ksBPquEWyD9fP2VBZk), [kill k3nny](https://open.spotify.com/artist/24U5B7X9xSqnuTFMH9xuFh) | [Hometown](https://open.spotify.com/album/7CfyXYVDROykswJGFOskj4) | 2:51 | 2022-10-14 | 2022-11-24 |
-| [Horizon](https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc) | [NIO](https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Horizon](https://open.spotify.com/album/3SohBXVe0oMpjKJCD6c91V) | 4:41 | 2023-05-24 | 2023-06-03 |
+| [Horizon](https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc) | [NIO](https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Horizon](https://open.spotify.com/album/3SohBXVe0oMpjKJCD6c91V) | 4:41 | 2023-05-24 |  |
 | [Hostage](https://open.spotify.com/track/5wKxi3JW9BTfJAo1BgkiK6) | [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL), [ELECTRA](https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL) | [Hostage](https://open.spotify.com/album/3SSC2OkWsz4lUIAmOLAnPt) | 3:48 | 2023-02-24 | 2023-06-03 |
 | [how you like me now](https://open.spotify.com/track/4dbQFY2jSgKrMWu6et132u) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS), [STAHL](https://open.spotify.com/artist/70urRuTXP7M2orf9bvn3DS) | [how you like me now](https://open.spotify.com/album/3tEwNQkSdTz12dyhG0g45k) | 2:04 | 2022-02-18 | 2022-03-19 |
 | [Human](https://open.spotify.com/track/3Y01ciVMNWp7hNCjP9J4Gc) | [TRUU](https://open.spotify.com/artist/7kd90G2LsciMJH8MeQ4lHL) | [Human](https://open.spotify.com/album/3yQJSRbBjg5blygtrOzrnS) | 2:30 | 2022-01-14 | 2022-02-05 |

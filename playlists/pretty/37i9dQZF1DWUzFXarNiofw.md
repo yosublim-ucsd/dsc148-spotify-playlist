@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Phabo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,722 likes - 150 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,966 likes - 150 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 149 | [Worked Up](https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Forgotten Flowers](https://open.spotify.com/album/1fqJVOKRj2A4nBmVAoDFLK) | 3:10 |
 | 150 | [Before the World Ends](https://open.spotify.com/track/75PPriKhCpWpwxlT77byRK) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Before the World Ends](https://open.spotify.com/album/4j0ZjGoCDfC3SpTrOhZRbf) | 3:00 |
 
-Snapshot ID: `MCwwYjg1ZGZiYzk1YWU2ZmY4Mjc3MmZmNmUzMzViZjMyZjQ1MDk5OGJh`
+Snapshot ID: `MCxjYmM5MWMyNjAyNTA0ZjM3NDQ4MTM4NTZiOTJlZjdlZDA3Mjc5OTEz`

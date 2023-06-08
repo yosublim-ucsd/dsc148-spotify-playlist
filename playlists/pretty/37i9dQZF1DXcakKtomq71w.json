@@ -1,32 +1,28 @@
 {
   "description": "<a href=\"spotify:artist:3UlAQex8nw3vquHcmY8fpb\">Sinego's</a> favorite tracks. Updated regularly. Curated by Sinego. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 22882,
+  "num_followers": 22940,
   "original_name": "Sinego's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDdkYTU3ZjQxZDE4MWQ0NWVlNTVjOTUyMmIyYjg3NmE1ZGE4YTdm",
+  "snapshot_id": "MCxhM2ZkYmZkNWRjZDRhY2FlNTQ2ZDNiMzhkNGFmOTliYTBmODkzYThk",
   "tracks": [
     {
-      "added_at": "2023-06-05 14:31:32",
+      "added_at": "2023-06-07 18:03:54",
       "album": {
-        "name": "El Malevo",
-        "url": "https://open.spotify.com/album/39ukTi4wrf4DhhgN6XMXJz"
+        "name": "Benjam\u00edn Carri\u00f3n",
+        "url": "https://open.spotify.com/album/0UacT2HwlzcN9bnbtqI98k"
       },
       "artists": [
         {
           "name": "Sinego",
           "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
         }
       ],
-      "duration_ms": 180495,
-      "name": "El Malevo",
-      "url": "https://open.spotify.com/track/4M6FeHLeqfJmkicHQsTRV8"
+      "duration_ms": 177786,
+      "name": "Benjam\u00edn Carri\u00f3n",
+      "url": "https://open.spotify.com/track/2wJvLzX1W7VQSx0wuTgxCp"
     },
     {
       "added_at": "2023-06-05 14:31:32",
@@ -103,6 +99,26 @@
       "duration_ms": 269711,
       "name": "GOOD TIMES - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
+    },
+    {
+      "added_at": "2023-06-05 14:31:32",
+      "album": {
+        "name": "El Malevo",
+        "url": "https://open.spotify.com/album/39ukTi4wrf4DhhgN6XMXJz"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 180495,
+      "name": "El Malevo",
+      "url": "https://open.spotify.com/track/4M6FeHLeqfJmkicHQsTRV8"
     },
     {
       "added_at": "2023-06-05 14:31:32",

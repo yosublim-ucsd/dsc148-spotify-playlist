@@ -898,10 +898,36 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 214091,
       "name": "Mood",
       "url": "https://open.spotify.com/track/3nPkGBhK2Fw74dDZK6gaYT"
+    },
+    {
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/0VKN2qmWQ3D9Jc6nDfB8Wp"
+      },
+      "artists": [
+        {
+          "name": "Dj Coby",
+          "url": "https://open.spotify.com/artist/5RVtVsW826awhgeS98eM0L"
+        },
+        {
+          "name": "Jiggy Drama",
+          "url": "https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY"
+        },
+        {
+          "name": "Elkin Robinson",
+          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214091,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/6d9mRyiNJe7AGcPlxaLxXv"
     },
     {
       "album": {

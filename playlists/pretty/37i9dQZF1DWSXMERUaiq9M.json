@@ -1,12 +1,12 @@
 {
   "description": "love peace techno",
-  "num_followers": 27390,
+  "num_followers": 27799,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjlmM2FhM2IyODc4ZWE3MjFhMTI4MjkyNDkxMmNlNDQ3MzkzZTBj",
+  "snapshot_id": "MCwwZDhkZTFjMzdhNGZkODZiM2Y5NzE1MWZhOWEwYmY5OWYwOWY2ZjUx",
   "tracks": [
     {
       "added_at": "2023-06-05 09:57:45",
@@ -819,22 +819,18 @@
     {
       "added_at": "2023-06-05 09:57:45",
       "album": {
-        "name": "Keine Liebe, Kein Rave",
-        "url": "https://open.spotify.com/album/2iL5gzdjVQsTsUI7i8KxDq"
+        "name": "Give Me Your Love (Baby)",
+        "url": "https://open.spotify.com/album/3wDJ4kUp6DqTWo75eofx6U"
       },
       "artists": [
         {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        },
-        {
-          "name": "Kiki Solvej",
-          "url": "https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW"
+          "name": "Christian Rogers",
+          "url": "https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE"
         }
       ],
-      "duration_ms": 260250,
-      "name": "Keine Liebe, Kein Rave",
-      "url": "https://open.spotify.com/track/0UkGdrKm6PaVCxTwPzP2xX"
+      "duration_ms": 136793,
+      "name": "Give Me Your Love (Baby)",
+      "url": "https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H"
     },
     {
       "added_at": "2023-06-05 09:57:45",
@@ -855,18 +851,22 @@
     {
       "added_at": "2023-06-05 09:57:45",
       "album": {
-        "name": "Give Me Your Love (Baby)",
-        "url": "https://open.spotify.com/album/3wDJ4kUp6DqTWo75eofx6U"
+        "name": "Keine Liebe, Kein Rave",
+        "url": "https://open.spotify.com/album/2iL5gzdjVQsTsUI7i8KxDq"
       },
       "artists": [
         {
-          "name": "Christian Rogers",
-          "url": "https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE"
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Kiki Solvej",
+          "url": "https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW"
         }
       ],
-      "duration_ms": 136793,
-      "name": "Give Me Your Love (Baby)",
-      "url": "https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H"
+      "duration_ms": 260250,
+      "name": "Keine Liebe, Kein Rave",
+      "url": "https://open.spotify.com/track/0UkGdrKm6PaVCxTwPzP2xX"
     },
     {
       "added_at": "2023-06-05 09:57:45",

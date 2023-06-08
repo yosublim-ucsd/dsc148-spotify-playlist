@@ -4,13 +4,13 @@
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-706 songs - 1 day 18 hr 8 min
+707 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Nights](https://open.spotify.com/track/2mb32CDk3XusDc87vjeAoG) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Truce \- EP](https://open.spotify.com/album/5qeKpDQFyotJjLh61pUZQo) | 4:00 | 2021-08-10 |  |
 | [11 Blocks](https://open.spotify.com/track/7nZBRPj89rgeZ5eBLp2J7P) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [11 Blocks](https://open.spotify.com/album/57rHDJLhLfj9IrMxzaj8UX) | 3:42 | 2021-08-10 |  |
-| [90's Honey](https://open.spotify.com/track/4ygDeLod53IBCO4RnKREIj) | [Sophomore](https://open.spotify.com/artist/4uAFBCjJVGXAlRRE74ITal) | [90's Honey](https://open.spotify.com/album/0dOalXvwV3CJhIxc2C5OgD) | 3:12 | 2022-02-10 |  |
+| [90's Honey](https://open.spotify.com/track/4ygDeLod53IBCO4RnKREIj) | [Sophomore](https://open.spotify.com/artist/4uAFBCjJVGXAlRRE74ITal) | [90's Honey](https://open.spotify.com/album/0dOalXvwV3CJhIxc2C5OgD) | 3:12 | 2022-02-10 | 2023-06-08 |
 | [A Different Way](https://open.spotify.com/track/6LvdozquoSOWcBMfvrtwpV) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Euphoric Pop](https://open.spotify.com/album/5EmsjkHHj0hffC1dm1BFiQ) | 3:18 | 2022-05-11 | 2022-11-14 |
 | [A Different Way \(with Lauv\)](https://open.spotify.com/track/0Wv5wuenRLI3BcwgT3HPIP) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [A Different Way \(with Lauv\)](https://open.spotify.com/album/4urwuJbStO1K5ph63U7AZv) | 3:18 | 2021-08-10 | 2022-07-29 |
 | [A Different Way \(with Lauv\)](https://open.spotify.com/track/1YMBg7rOjxzbya0fPOYfNX) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [A Different Way \(with Lauv\)](https://open.spotify.com/album/4PSoaA9rxBDYfrROdI17b9) | 3:18 | 2022-05-11 |  |
@@ -183,6 +183,7 @@
 | [Elastic Heart](https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:17 | 2021-08-10 | 2022-07-29 |
 | [Euphoria \(Single Version\)](https://open.spotify.com/track/4jzQKGcFzICrQPQdKOeNmi) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [2000s Smash Hits](https://open.spotify.com/album/6lyvBf6MxoCkRhPw6qKbxY) | 3:01 | 2022-05-11 | 2022-11-13 |
 | [Euphoria \- Single Version](https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv) | 3:01 | 2021-08-10 | 2022-07-29 |
+| [Euphoria \- Single Version](https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria \(The Alternative Mixes\)](https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu) | 3:01 | 2022-11-29 |  |
 | [Euphoria \- Single Version](https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi) | 3:01 | 2022-05-11 | 2023-06-07 |
 | [everytime](https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 2:52 | 2021-11-10 |  |
 | [Explosions](https://open.spotify.com/track/2AMEPKeicePOewTaGLYqec) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon](https://open.spotify.com/album/4754Cgv1sdfwTpdVX83xAC) | 4:03 | 2022-05-11 |  |

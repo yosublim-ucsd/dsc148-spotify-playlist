@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Tony Junior & Ecstatic
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,316 likes - 86 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,446 likes - 86 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 85 | [We Go Down](https://open.spotify.com/track/5BJbGqKyn6BF9xOWy28QeO) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [We Go Down](https://open.spotify.com/album/1MCJhDB8iFCg0rEUS3itOy) | 2:57 |
 | 86 | [Top Of The World](https://open.spotify.com/track/4zbfmYp5spMFXDNjNBefTS) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Top Of The World](https://open.spotify.com/album/7ICOtTbQURxr3mvKIhFjwh) | 2:57 |
 
-Snapshot ID: `MCxiM2RhNzNlNzI5NDU1NzliNjU4MmI1ZjVhMGY5ZGVhZmQwY2I5N2U0`
+Snapshot ID: `MCw3NzZmNzE0MzJkZTAxYzVjZmY2NjI2ODdiNjQ5ZDgxNTM2NWE2NGYx`

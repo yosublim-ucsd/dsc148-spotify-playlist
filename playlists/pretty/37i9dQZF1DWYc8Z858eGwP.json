@@ -1,12 +1,12 @@
 {
   "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=oCk7z0ZBTPy4Sytc5eYEXQ\">Xenia Manasseh</a>",
-  "num_followers": 83852,
+  "num_followers": 83889,
   "original_name": "RADAR Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGY3OThjODBlOTBiZGU1MmU2NTQ0ZjM5ZDAyODU5NmVhNjExYWFj",
+  "snapshot_id": "MCwxMGZhYTUwNzliY2MwNmM3YThiZTRmYmQ1YzA5MGY1OTQ0ZTM4NzIy",
   "tracks": [
     {
       "added_at": "2023-06-02 09:58:43",
@@ -724,16 +724,20 @@
           "url": "https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN"
         },
         {
+          "name": "Yithi Sonke",
+          "url": "https://open.spotify.com/artist/06v0EvPeHN47AOUwK6oX7v"
+        },
+        {
+          "name": "The Alpha Boyz",
+          "url": "https://open.spotify.com/artist/01PpFoPwMJfNTM5DJCAfb3"
+        },
+        {
           "name": "ilovelethu",
           "url": "https://open.spotify.com/artist/6s6sk1cuHD56i0iF6d2107"
         },
         {
           "name": "PD Jokes",
           "url": "https://open.spotify.com/artist/6sV9pBi3guVOWBgoT85qS1"
-        },
-        {
-          "name": "The Alpha Boyz",
-          "url": "https://open.spotify.com/artist/01PpFoPwMJfNTM5DJCAfb3"
         }
       ],
       "duration_ms": 355000,

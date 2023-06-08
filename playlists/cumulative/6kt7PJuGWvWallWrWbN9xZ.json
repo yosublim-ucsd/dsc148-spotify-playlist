@@ -1619,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "IF I DON'T TEXT YOU FIRST",
+        "url": "https://open.spotify.com/album/3qLQdJWPOyV49WdLfuyVDV"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133547,
+      "name": "IF I DON'T TEXT YOU FIRST",
+      "url": "https://open.spotify.com/track/2lNb0SzyOEHizMxlpT9HM6"
+    },
+    {
+      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },

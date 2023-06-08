@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: The Lottery Winners",
+  "description": "Boss music for boss people. Cover: Sam Fender ",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 230467,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 225240,
       "name": "Big Deal",
       "url": "https://open.spotify.com/track/71V2WDbjwMTVPhbKzX8r0j"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 190206,
       "name": "Bite",
       "url": "https://open.spotify.com/track/2y0x5oohwPiUANKG4kqtEB"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 175463,
       "name": "Changing Trends",
       "url": "https://open.spotify.com/track/14X8VWSbK3ghd2gVgOvf52"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 271813,
       "name": "Day Glow",
       "url": "https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 212560,
       "name": "Feels So Real",
       "url": "https://open.spotify.com/track/3FT6FDtU2POsP0XAcqtAsh"
@@ -722,6 +722,24 @@
       "duration_ms": 254379,
       "name": "Full Round Table",
       "url": "https://open.spotify.com/track/2mX022csmPILfLhGGwctqn"
+    },
+    {
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189360,
+      "name": "Getting Started",
+      "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
     },
     {
       "album": {
@@ -826,7 +844,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 157756,
       "name": "Hull Sky",
       "url": "https://open.spotify.com/track/3KTFknLMGHEH7yaxCjDrS7"
@@ -848,6 +866,24 @@
       "duration_ms": 137319,
       "name": "Hummus and Pitta",
       "url": "https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa"
+    },
+    {
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237986,
+      "name": "Hypersonic Missiles",
+      "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
     },
     {
       "album": {
@@ -898,7 +934,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 209640,
       "name": "I Never Wanted to Be Alone (F**king Feelings)",
       "url": "https://open.spotify.com/track/749rpRQcFBB6PNwJ2dPOFJ"
@@ -1402,7 +1438,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 264240,
       "name": "Over and over",
       "url": "https://open.spotify.com/track/41mJD5RHlzYqnDLOVhX5f6"
@@ -1589,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297933,
+      "name": "Seventeen Going Under",
+      "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
+    },
+    {
+      "album": {
         "name": "Do It Differently",
         "url": "https://open.spotify.com/album/5mi8hQT8Y4RbfSu8l6zaws"
       },
@@ -1690,7 +1744,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 202000,
       "name": "That Was A Joke",
       "url": "https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg"
@@ -1816,7 +1870,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 214240,
       "name": "The Sulking Poet",
       "url": "https://open.spotify.com/track/4RpGkjgHNP8DjB6mp7uvsz"
@@ -1870,7 +1924,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 272720,
       "name": "Time Comes Around",
       "url": "https://open.spotify.com/track/0c5RPTaGarzbe2aMltCHji"
@@ -1888,7 +1942,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 203485,
       "name": "Timing",
       "url": "https://open.spotify.com/track/3WySGZnIvL3tw7y66xMqNF"
@@ -1906,7 +1960,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 195421,
       "name": "Tired Minds",
       "url": "https://open.spotify.com/track/4ltKJxYykFeDCVLTMIaN8f"

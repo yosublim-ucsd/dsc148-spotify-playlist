@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-366 songs - 21 hr 4 min
+367 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Fragile \(feat\. Melanie Fontana\)](https://open.spotify.com/track/1UqkLxHHcQixRPYesIkHXu) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Melanie Fontana](https://open.spotify.com/artist/2CFNHBel5Q4lnOlXiOM09z) | [Fragile \(feat\. Melanie Fontana\)](https://open.spotify.com/album/62dR038JPyEd8u2MW5FyRz) | 3:53 | 2022-01-07 |  |
 | [Friends with the Rain](https://open.spotify.com/track/4LZmqD0ImQzd6nkHWL9Y8k) | [Swif7](https://open.spotify.com/artist/31qwjgvIiGA2TSON0W5Yka) | [Friends With The Rain](https://open.spotify.com/album/7wRUUwC9QY1Bek7ReLUuhV) | 3:27 | 2022-10-07 |  |
 | [From Atoms To Pixels](https://open.spotify.com/track/4AePvZi230wC0eAodJekoe) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Sekai](https://open.spotify.com/artist/4T5B6T18yziN16acvy3XtT) | [From Atoms To Pixels](https://open.spotify.com/album/4XsHvYSqnnzR3C7BRn9aZV) | 4:00 | 2023-03-10 | 2023-05-04 |
+| [From Here](https://open.spotify.com/track/3viaISPcLXL62vZlWLZjuR) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [From Here](https://open.spotify.com/album/1QIXJRH5rokpdb17cZioyF) | 3:33 | 2023-05-26 |  |
 | [From Me \- Icarus Remix](https://open.spotify.com/track/5Z01Ak7WyuJHl2ykICS8BF) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Bernache](https://open.spotify.com/artist/3hK7zrlyCSC3oKnpVL6g5L), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Juvenile \(Remixed\)](https://open.spotify.com/album/3yjnnlJE5S5cbRQ1zGOFsf) | 3:58 | 2022-07-14 | 2022-08-06 |
 | [From The Start](https://open.spotify.com/track/74wHiizV0lG0YBHq2Cxn0j) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA) | [Exobolt 008](https://open.spotify.com/album/2evf2RWFyaA9syHGU9n2Wq) | 3:37 | 2022-01-07 | 2022-07-28 |
 | [Full Circle \- William Crooks Remix](https://open.spotify.com/track/4ALJcAs0hpc0lHfYqHf4Ll) | [Wave Racer](https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0), [William Crooks](https://open.spotify.com/artist/6RQSaarEM4qarzwuWvKvPw) | [Full Circle \(William Crooks Remix\)](https://open.spotify.com/album/40rTmUprramNnl93N5Fjtd) | 2:39 | 2022-07-14 | 2022-08-06 |
@@ -229,7 +230,7 @@
 | [New Game](https://open.spotify.com/track/6OgI1DGU5UW5e1C1yIA7a4) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [New Game](https://open.spotify.com/album/4poCBKXCGIqjWNuHUKET5i) | 2:22 | 2022-01-07 | 2022-06-20 |
 | [Night Flying](https://open.spotify.com/track/0M8GrO8R44w1ykJ3MUGUyT) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY), [灰島銀華 \(CV: 澁谷梓希\)](https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2) | [Night Flying](https://open.spotify.com/album/53mbELBH9Aam49AtzMi8qP) | 2:30 | 2022-01-07 | 2022-07-11 |
 | [Nightmare](https://open.spotify.com/track/4gju0eLLPyroDWo12jCvkp) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Julianne Aurora](https://open.spotify.com/artist/4iSahGBKE7lJonRcxzhpPM) | [Nightmare](https://open.spotify.com/album/6nizpLBANHSAwi429FBwLV) | 3:23 | 2022-02-25 |  |
-| [Ninja Re Bang Bang \- Steve Aoki Remix](https://open.spotify.com/track/3M23gGWtJEE3CKe8jZWKMe) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Ninja Re Bang Bang \(Steve Aoki Remix\)](https://open.spotify.com/album/1eURWsLjOVmcHhayeMGGAK) | 3:36 | 2022-08-05 |  |
+| [Ninja Re Bang Bang \- Steve Aoki Remix](https://open.spotify.com/track/3M23gGWtJEE3CKe8jZWKMe) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Ninja Re Bang Bang \(Steve Aoki Remix\)](https://open.spotify.com/album/1eURWsLjOVmcHhayeMGGAK) | 3:36 | 2022-08-05 | 2023-06-08 |
 | [Nintendo](https://open.spotify.com/track/42Ssb6yMwryGmjz2i4TNCs) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Nintendo](https://open.spotify.com/album/1a4nP3SMKTsTgoiQ2U6LQN) | 3:19 | 2022-08-19 | 2022-10-27 |
 | [Nirvana](https://open.spotify.com/track/1KdEqgbQtzGffswF29Jc5U) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 2:32 | 2022-07-14 | 2022-08-06 |
 | [No One Else Will](https://open.spotify.com/track/6g3txmuT9t6OR3fnIBYYEq) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [No One Else Will](https://open.spotify.com/album/2GfYnALEt3vM8mA529GUbX) | 4:16 | 2023-05-26 |  |

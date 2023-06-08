@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Hanna Kim\(해나킴\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,697 likes - 95 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,711 likes - 95 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 26 | [Honeymoon](https://open.spotify.com/track/5fFhTTd6pmgBpysk2ozGtg) | [ZXQ](https://open.spotify.com/artist/7x9SoabYD4wuOML2PQ6onB) | [Honeymoon](https://open.spotify.com/album/6SFC5vD6tvizIL3ghFJOQe) | 2:24 |
 | 27 | [actually i\`m from jazz](https://open.spotify.com/track/0r4ko5ssD3NFWed4YimMbW) | [Coa White](https://open.spotify.com/artist/6pE3JDwvWDbjv1TqLRDjiP) | [actually i\`m from jazz](https://open.spotify.com/album/1LoAeJfQAX6xh8jgXzRgwu) | 4:23 |
 | 28 | [Nevertheless](https://open.spotify.com/track/0jfwrKYnr9d13wBPeQetsG) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Nevertheless](https://open.spotify.com/album/4j00saS37ayCSxeA0JLoUn) | 4:01 |
-| 29 | [Artemis In My Pluto](https://open.spotify.com/track/14rVKMBXB7yncPlstFwt8u) | [sun Lee](https://open.spotify.com/artist/0MpLSPJhglRKRhGoE689kS) | [In the eNd, i find MY heART](https://open.spotify.com/album/54NVZYARZKQhFC7QT6ldym) | 3:09 |
+| 29 | [Artemis In My Pluto](https://open.spotify.com/track/3leuAjdy8RnqLKgvlvPqLT) | [sun Lee](https://open.spotify.com/artist/0MpLSPJhglRKRhGoE689kS) | [In the eNd, i find MY heART](https://open.spotify.com/album/0TFlnShNuQwOiePmTlx8CF) | 3:09 |
 | 30 | [Take Courage, Take Heart \- Shake It Off](https://open.spotify.com/track/2iP9edjDEFjmpT4t6BuPRO) | [yesun](https://open.spotify.com/artist/3XUw63l5EYScAl395My20X) | [Take Courage, Take Heart \- Shake It Off](https://open.spotify.com/album/6zsh1oqFy6bexb9uXPc9Rc) | 6:23 |
 | 31 | [welcoming the moon trip](https://open.spotify.com/track/0PxQ9PisOytpkqMEngzDgk) | [dongyi](https://open.spotify.com/artist/6KBuSEyXlphYJhk7vGAZYU) | [welcoming the moon trip](https://open.spotify.com/album/2nfCnfYJrLPPYWAqmapxer) | 4:24 |
 | 32 | [Winter Wonderland](https://open.spotify.com/track/7hVGDWmkXtSIv5XwJuc4AW) | [YUNSEOKCHEOL TRIO](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) | [2022 Christmas VIBE \-YUNSEOKCHEOL TRIO](https://open.spotify.com/album/7k7BizMxs5mnIhtfghbS04) | 5:11 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 94 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 95 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCxjNTE4YmZkOGQ2YjZlNjY1YTUwNjFiODMwYjQ0OTc1OWJmNGU4MDVj`
+Snapshot ID: `MCw4M2RlYWY4ODE3Y2VlZGY5MDFkMTY1ZTM0MjY1NGNlNzMzMzRlZGZj`

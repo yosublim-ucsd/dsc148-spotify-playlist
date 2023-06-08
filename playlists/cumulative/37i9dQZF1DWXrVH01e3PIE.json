@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Milo j en la casa del Trap Argentino.",
+  "description": "ECKO en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -826,6 +826,24 @@
       "duration_ms": 181500,
       "name": "CON OTRA",
       "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
+    },
+    {
+      "album": {
+        "name": "Mafia Lirical",
+        "url": "https://open.spotify.com/album/16NCoucptRbqb2VoMbmt3V"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170787,
+      "name": "Coron\u00e9",
+      "url": "https://open.spotify.com/track/0BcheiZV7WuB5M9yGAFtwB"
     },
     {
       "album": {

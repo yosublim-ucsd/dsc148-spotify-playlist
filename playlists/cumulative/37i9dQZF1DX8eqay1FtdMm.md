@@ -2,7 +2,7 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the vocalists representing Korea! \(Cover:Rothy\(로시\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
+> Meet the vocalists representing Korea! \(Cover:SURAN\(수란\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
 405 songs - 1 day 2 hr 28 min
 

@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 268400,
       "name": "Le jardin",
       "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
@@ -3412,6 +3412,24 @@
       "duration_ms": 369917,
       "name": "Marginalia #119",
       "url": "https://open.spotify.com/track/3gOEYrmxejidBqgxgeTpJ0"
+    },
+    {
+      "album": {
+        "name": "Marginalia III",
+        "url": "https://open.spotify.com/album/5bxEIUrZQe4luI0JNDpd2r"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Marginalia #48",
+      "url": "https://open.spotify.com/track/1lsshCSpBo3z9DfjaGWxeb"
     },
     {
       "album": {

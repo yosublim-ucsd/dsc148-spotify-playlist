@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2528,
+  "num_followers": 2532,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWM0NjI0NjU3ZWVmYTY1ZGVjYTZjZWExNTc3ZWVhZjVhOTQ1NzM2",
+  "snapshot_id": "MCwwNGY3N2ZiZjBkYTI1MjJlNDA1NDZkNWYyY2I5ZThiZmIyZDBkZDAw",
   "tracks": [
     {
       "added_at": "2023-05-02 09:12:26",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
-        "name": "Unlock My Boss, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7fc4t7MRmxZkQWxPHjVoHh"
-      },
-      "artists": [
-        {
-          "name": "WOO JEE WON",
-          "url": "https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU"
-        }
-      ],
-      "duration_ms": 241259,
-      "name": "Am I living like a dream?",
-      "url": "https://open.spotify.com/track/4mOf7FNqxwLer8Skri59Li"
-    },
-    {
-      "added_at": "2023-05-02 09:12:26",
-      "album": {
         "name": "sleeplessness",
         "url": "https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC"
       },
@@ -479,22 +463,18 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
-        "name": "How To Love (Feat.Paul Kim)",
-        "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
+        "name": "Unlock My Boss, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7fc4t7MRmxZkQWxPHjVoHh"
       },
       "artists": [
         {
-          "name": "Peakboy",
-          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
-        },
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "WOO JEE WON",
+          "url": "https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU"
         }
       ],
-      "duration_ms": 180000,
-      "name": "How To Love (Feat.Paul Kim)",
-      "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
+      "duration_ms": 241259,
+      "name": "Am I living like a dream?",
+      "url": "https://open.spotify.com/track/4mOf7FNqxwLer8Skri59Li"
     },
     {
       "added_at": "2023-05-02 09:12:26",
@@ -519,6 +499,26 @@
       "duration_ms": 254826,
       "name": "To us (feat. wave to earth & WAVY)",
       "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
+    },
+    {
+      "added_at": "2023-05-02 09:12:26",
+      "album": {
+        "name": "How To Love (Feat.Paul Kim)",
+        "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
+      },
+      "artists": [
+        {
+          "name": "Peakboy",
+          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "How To Love (Feat.Paul Kim)",
+      "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
     },
     {
       "added_at": "2023-05-02 09:12:26",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
+        "name": "BAD BLOOD - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR-D&E",
+          "url": "https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "To you, Tomorrow",
+      "url": "https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG"
+    },
+    {
+      "added_at": "2023-05-02 09:12:26",
+      "album": {
         "name": "YOU (feat .Beenzino)",
         "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
-        "name": "BAD BLOOD - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta"
+        "name": "Is It Bearable?",
+        "url": "https://open.spotify.com/album/7E8Q8ycL1y0MrKx1ZxEA4q"
       },
       "artists": [
         {
-          "name": "SUPER JUNIOR-D&E",
-          "url": "https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI"
+          "name": "Monni",
+          "url": "https://open.spotify.com/artist/4XG3yZFXFRMrbOIWk6pYrb"
         }
       ],
-      "duration_ms": 244360,
-      "name": "To you, Tomorrow",
-      "url": "https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG"
+      "duration_ms": 218013,
+      "name": "Is It Bearable?",
+      "url": "https://open.spotify.com/track/6qWhCzdKecYenhHAJYRtHZ"
     },
     {
       "added_at": "2023-05-02 09:12:26",
@@ -763,22 +779,6 @@
       "duration_ms": 201003,
       "name": "\ud750\ub974\ub294 \uc2dc\uac04 \uc18d\uc5d0 \uc6b0\ub9ac\ub294 \uc544\ub984\ub2e4\uc6cc What A Beautiful Night",
       "url": "https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71"
-    },
-    {
-      "added_at": "2023-05-02 09:12:26",
-      "album": {
-        "name": "Is It Bearable?",
-        "url": "https://open.spotify.com/album/7E8Q8ycL1y0MrKx1ZxEA4q"
-      },
-      "artists": [
-        {
-          "name": "Monni",
-          "url": "https://open.spotify.com/artist/4XG3yZFXFRMrbOIWk6pYrb"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Is It Bearable?",
-      "url": "https://open.spotify.com/track/6qWhCzdKecYenhHAJYRtHZ"
     },
     {
       "added_at": "2023-05-02 09:12:26",

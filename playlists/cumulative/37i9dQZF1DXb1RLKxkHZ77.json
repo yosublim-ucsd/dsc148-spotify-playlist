@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Cinta Tiada Batas",
+        "url": "https://open.spotify.com/album/6OAI3NOZazrdSqcITWz9OT"
+      },
+      "artists": [
+        {
+          "name": "Waode",
+          "url": "https://open.spotify.com/artist/1iU8z5mT1cM2GpMZ9JRemX"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245431,
+      "name": "Cinta Tiada Batas",
+      "url": "https://open.spotify.com/track/44eaCuGcfusDtWnp8xqt5h"
+    },
+    {
+      "album": {
         "name": "damai",
         "url": "https://open.spotify.com/album/33HANwlr58QfWVi771AUSk"
       },
@@ -820,7 +838,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 200556,
       "name": "damai",
       "url": "https://open.spotify.com/track/105xhd7hg95C3DlEczChRU"
@@ -958,7 +976,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 211544,
       "name": "Dinda",
       "url": "https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w"
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 215000,
       "name": "KUDRAT",
       "url": "https://open.spotify.com/track/7vBaqHHtNJOyxcMShuqJZL"
@@ -2301,6 +2319,24 @@
     },
     {
       "album": {
+        "name": "Malampagi",
+        "url": "https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO"
+      },
+      "artists": [
+        {
+          "name": "Saixse",
+          "url": "https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246225,
+      "name": "Malampagi",
+      "url": "https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy"
+    },
+    {
+      "album": {
         "name": "Mandrem",
         "url": "https://open.spotify.com/album/2sU2zcfZTeHoWZ03ClnH1h"
       },
@@ -2500,7 +2536,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 237444,
       "name": "Menyendiri",
       "url": "https://open.spotify.com/track/7b0SApXENfKS1hio1j2rz4"
@@ -2748,6 +2784,24 @@
       "duration_ms": 206058,
       "name": "Nang",
       "url": "https://open.spotify.com/track/7mDvcKlMxONKaDWgYNIKmX"
+    },
+    {
+      "album": {
+        "name": "Nanti Kita Seperti Ini",
+        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209647,
+      "name": "Nanti Kita Seperti Ini",
+      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
     },
     {
       "album": {
@@ -3086,7 +3140,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 259859,
       "name": "Rindunya Rindu",
       "url": "https://open.spotify.com/track/3nfrPh4JIl4l4JmIkf07gl"
@@ -3278,6 +3332,28 @@
       "duration_ms": 285522,
       "name": "Sama-Sama (Lagu Tema \"JUANG\")",
       "url": "https://open.spotify.com/track/4xJDuICdepVuATjr9Tzph8"
+    },
+    {
+      "album": {
+        "name": "Sambut",
+        "url": "https://open.spotify.com/album/2KChBr7mEZ1X55YMZVO1u1"
+      },
+      "artists": [
+        {
+          "name": "Fimie Don",
+          "url": "https://open.spotify.com/artist/1zXDRPtYIB5xIK8oH4Bht0"
+        },
+        {
+          "name": "Faizal Tahir",
+          "url": "https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Sambut",
+      "url": "https://open.spotify.com/track/2trfesA8NiTSjV1WBUFiIW"
     },
     {
       "album": {
@@ -3898,7 +3974,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 267600,
       "name": "Tak Pantas Terluka",
       "url": "https://open.spotify.com/track/1zyYrAztUAlOHO9wHyZU0P"
@@ -3978,6 +4054,24 @@
       "duration_ms": 235991,
       "name": "Tega",
       "url": "https://open.spotify.com/track/0heJfKKROo8ELfJH94RUYe"
+    },
+    {
+      "album": {
+        "name": "Tega",
+        "url": "https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275900,
+      "name": "Tega",
+      "url": "https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM"
     },
     {
       "album": {
@@ -4216,6 +4310,28 @@
       "duration_ms": 224000,
       "name": "Top Boi",
       "url": "https://open.spotify.com/track/49dHs04lUC9EmyhuXRFaJQ"
+    },
+    {
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/6X4KUt8RZEuJnlXXX04JC9"
+      },
+      "artists": [
+        {
+          "name": "Elsya",
+          "url": "https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p"
+        },
+        {
+          "name": "Aan Story",
+          "url": "https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218073,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/6bOW2X3ffFoOpMfDoz91Q6"
     },
     {
       "album": {

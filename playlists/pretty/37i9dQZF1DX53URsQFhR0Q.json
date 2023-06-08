@@ -1,12 +1,12 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 812,
+  "num_followers": 817,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM0MDgyOGUxM2UwNzZmY2FhMTA3MGM2MTE3ODk3MGE1YTIyODMy",
+  "snapshot_id": "MCw3MDI0MjVlYjhhMjA2MTY0ZmM0Zjk5OGFhNzgzYTlkZmE2NGIzYjI3",
   "tracks": [
     {
       "added_at": "2023-04-06 15:07:44",
@@ -559,8 +559,8 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0"
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 318146,
-      "name": "Mema Meni So",
-      "url": "https://open.spotify.com/track/3Rr1Y9nXzMpjqZcsKvzydb"
+      "duration_ms": 301400,
+      "name": "Aseda Nwom",
+      "url": "https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Dom Hene",
-        "url": "https://open.spotify.com/album/5L9oBLWrIOhMdCCrFYK0SC"
-      },
-      "artists": [
-        {
-          "name": "Comfort Annor",
-          "url": "https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Me Ndi Nkugu",
-      "url": "https://open.spotify.com/track/6pTwhtIBK0NjkIOlH2cOd1"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
         "name": "Ghana Gospel Classics, Vol. 1",
         "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 324179,
       "name": "Nyame Do Me",
       "url": "https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Dom Hene",
+        "url": "https://open.spotify.com/album/5L9oBLWrIOhMdCCrFYK0SC"
+      },
+      "artists": [
+        {
+          "name": "Comfort Annor",
+          "url": "https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Me Ndi Nkugu",
+      "url": "https://open.spotify.com/track/6pTwhtIBK0NjkIOlH2cOd1"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -719,8 +719,8 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 301400,
-      "name": "Aseda Nwom",
-      "url": "https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm"
+      "duration_ms": 318146,
+      "name": "Mema Meni So",
+      "url": "https://open.spotify.com/track/3Rr1Y9nXzMpjqZcsKvzydb"
     },
     {
       "added_at": "2023-04-06 15:07:44",

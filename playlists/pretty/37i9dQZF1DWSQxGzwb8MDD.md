@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,792 likes - 98 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,818 likes - 98 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 36 | [Engage](https://open.spotify.com/track/6KvBIlsbdO0Sl0dSBgWzaZ) | [SAAH](https://open.spotify.com/artist/0Cf61dBT2Tl6zWH3xT1mIP) | [Phalanx Pt.2](https://open.spotify.com/album/5EGjNvCBAC1FKB1EHRHEBX) | 4:46 |
 | 37 | [DRIVE TRIBE](https://open.spotify.com/track/7ADNFJuTuGj3ODIFXli1TD) | [RIOT CODE](https://open.spotify.com/artist/014MCldxKfmqOwFhWcTmwo) | [DRIVE TRIBE](https://open.spotify.com/album/22drnq9LN9GAH9qKcQEziR) | 5:37 |
 | 38 | [Uncle John From Jamaica \- M.I.K.E RMX](https://open.spotify.com/track/647KUXj2VDUrJMSgwH7FEd) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj), [M.I.K.E.](https://open.spotify.com/artist/2FClSTHSkbKYByTy7dnBQq) | [Uncle John From Jamaica](https://open.spotify.com/album/1KpQYeV8Zz5ZRN6ngHMyxv) | 7:21 |
-| 39 | [Greece 2000](https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000](https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n) | 3:54 |
+| 39 | [Greece 2000](https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG) | [Greece 2000](https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n) | 3:54 |
 | 40 | [Lalala \(Want Somebody\) \- Paul Copping Remix \- Mixed](https://open.spotify.com/track/0kWHisVJWHDw4rVWDW6CoB) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Paul Copping](https://open.spotify.com/artist/08Ud2vOMOXOzu5VmDjX01s) | [SPF INFINI](https://open.spotify.com/album/0KBtPnnOmwFAavBUglB9iU) | 5:03 |
 | 41 | [Knock You Out](https://open.spotify.com/track/2YQQlWVMI8G7JaizPhhKRa) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Moments of Extasy](https://open.spotify.com/album/0kFZb785BtcE80lGnCTbLd) | 5:42 |
 | 42 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 97 | [Larme De Fond](https://open.spotify.com/track/4ooL57idmtn9s4oFo90FT7) | [Seul Ensemble](https://open.spotify.com/artist/3ZygKshkxks8NKLDR2yMa3) | [127VA001](https://open.spotify.com/album/3IdDojGeH3Mzy2YNxUceH1) | 6:55 |
 | 98 | [To the vibe \(rework\)](https://open.spotify.com/track/51Kc6kYlpkoPAGj91BEcx2) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 7:36 |
 
-Snapshot ID: `MCxiMGE4YWM1NjI2ZmU1ZjcxNjkxZWZlZDFlNWVkY2UzOTMxMTZlNjlh`
+Snapshot ID: `MCw4MjY2NDQ0MGMzYWEwZTg1OGJjNzE4ZjUzOWQ3MWIxMjVlYmIyYjZi`

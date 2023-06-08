@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=Kjnu6Xy4SuqnEzK8bcP6BQ">Prince Kaybee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,620 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,680 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Lobela](https://open.spotify.com/track/195c6cDeMpBqYxaSQ65cwZ) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Lobela](https://open.spotify.com/album/0CeY1p6mvixO7vDTeyIOWX) | 7:37 |
 | 50 | [Phambili](https://open.spotify.com/track/04ZqwR6S9KRMEPMBtgHjAu) | [Claudio Wade](https://open.spotify.com/artist/6UdImHYJJIQrSLA1lpI7ya), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D), [Claudio](https://open.spotify.com/artist/3yZTQuteUZgfg58YrcnjHc) | [WIND & WAVES](https://open.spotify.com/album/0e3ie0yx8hNDpAbh4uiuYz) | 3:52 |
 
-Snapshot ID: `MCw3YmFkNWRkYzA1NDI2NWU3ZGUwNmM0OGZkMTk1NmM5NmZlYjQxNWUz`
+Snapshot ID: `MCxkOWY2MmQ3NWY3M2Y2ZjU4MzdhY2M4ZTE0MjE1MDZhY2E5NGUyZjhm`

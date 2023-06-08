@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,770 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,850 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [Insubordination](https://open.spotify.com/track/2geW0ZSZzuJYzlyi95kAl9) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Insubordination](https://open.spotify.com/album/4xPjb8cJKvMyuWBXBYz602) | 4:03 |
 | 50 | [Millions \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/4FueImbcTZOR7aC9FidrdT) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [WAR LORD](https://open.spotify.com/album/2fSrLZtl8ASjDyohkKT8LG) | 3:23 |
 
-Snapshot ID: `MCw0MTBiYzM4YmUwZmNiNTYwZTFhOGZmZTJjOWViYzNkNmZkZWZjYzIx`
+Snapshot ID: `MCxkZWRjNjg3MDNjZDgyMjA3YjhhNDkwYjBiOGY2OWFmMzU0YzU3M2Nm`

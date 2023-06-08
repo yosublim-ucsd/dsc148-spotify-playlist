@@ -1712,10 +1712,28 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 231363,
       "name": "Choice",
       "url": "https://open.spotify.com/track/14vLQiD5BPqGUo72cJ3ONE"
+    },
+    {
+      "album": {
+        "name": "Choice",
+        "url": "https://open.spotify.com/album/47L62WQ7xaNkV45eLqB1Yr"
+      },
+      "artists": [
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231363,
+      "name": "Choice",
+      "url": "https://open.spotify.com/track/16av5XEj9HsVrdfbuicXF5"
     },
     {
       "album": {
@@ -5294,6 +5312,24 @@
       "duration_ms": 277333,
       "name": "Kink",
       "url": "https://open.spotify.com/track/0ElSHxC8ZfIHBlJG6qCSjN"
+    },
+    {
+      "album": {
+        "name": "Kohaku",
+        "url": "https://open.spotify.com/album/2ISxhwPjPjLKNyow9Eg5dU"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243666,
+      "name": "Kohaku",
+      "url": "https://open.spotify.com/track/16OedAwrCLAUctyBCgO45o"
     },
     {
       "album": {
@@ -9874,7 +9910,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 211327,
       "name": "SUPERNOVA",
       "url": "https://open.spotify.com/track/1sjPeakADwAfjZHis1svgO"
@@ -11692,7 +11728,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 176810,
       "name": "Who are you ?",
       "url": "https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs"
@@ -14788,7 +14824,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 243666,
       "name": "\u7425\u73c0",
       "url": "https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci"

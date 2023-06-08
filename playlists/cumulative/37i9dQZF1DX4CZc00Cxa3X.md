@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-251 songs - 20 hr 24 min
+252 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Solar](https://open.spotify.com/track/3GYZJXSAt8ojUjsNSXkrTW) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Orchestral Tape Studies](https://open.spotify.com/album/1YPb5GHEbDyd6unbqP9nAP) | 6:07 | 2022-08-19 |  |
 | [Space 5](https://open.spotify.com/track/3hj4aPlRreailkV20LbAYK) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:00 | 2022-03-17 | 2022-09-13 |
 | [Space for Two](https://open.spotify.com/track/0VWNucGNl6Yk8UklayMWPE) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x), [Henrik Meierkord](https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D) | [Space for Two](https://open.spotify.com/album/1rMqROH0BzhHytklKUW7dB) | 6:24 | 2023-04-21 |  |
+| [Spaceport](https://open.spotify.com/track/5hgfR5dUsgxjPdTxNkrjid) | [Urbanski](https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE) | [Everdome \(Original Metaverse Soundtrack\)](https://open.spotify.com/album/1jd5bynLwqAumt7g8jqTnZ) | 2:17 | 2023-06-05 |  |
 | [Sparrow Arc Tall](https://open.spotify.com/track/3iaMYZGYYQNHQ8CzsbNV1O) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Sparrow Arc Tall](https://open.spotify.com/album/4Gsw06a8dhF4Ynw4AlKuBP) | 2:04 | 2022-09-12 | 2023-01-21 |
 | [Sphere](https://open.spotify.com/track/0VK4bArF8c44yZbo5T0Kji) | [Headphone Activist](https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk) | [Sphere](https://open.spotify.com/album/6f1IdXeR63Q4jkvzDojC2w) | 2:52 | 2022-12-31 |  |
 | [Spinnaker on a Southerly](https://open.spotify.com/track/6zrdZQiLJvaIMWzuCOyyIC) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:07 | 2022-03-17 | 2022-08-23 |
@@ -210,7 +211,7 @@
 | [Swan Song](https://open.spotify.com/track/1WwQftXuQb5qaSQtvXabL3) | [Eyolf](https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8), [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Swan Song](https://open.spotify.com/album/1e1iZUHplnFCBXtYmJ0VpE) | 3:07 | 2022-03-17 | 2023-01-07 |
 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2023-05-19 | 2023-06-06 |
 | [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 | 2023-01-06 |  |
-| [Sycamore Screen](https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Ornaments of Decay](https://open.spotify.com/album/4gMDSEK0JiYAeSq9hmK0ir) | 6:40 | 2023-03-16 |  |
+| [Sycamore Screen](https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Ornaments of Decay](https://open.spotify.com/album/4gMDSEK0JiYAeSq9hmK0ir) | 6:40 | 2023-03-16 | 2023-06-08 |
 | [TAN / 潭](https://open.spotify.com/track/0Bj6OvrKGn2Ifcv3ztKFIn) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 1:57 | 2022-03-30 | 2022-09-13 |
 | [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 | 2022-03-17 | 2023-03-18 |
 | [Tapir](https://open.spotify.com/track/20MXBhQSpsngsyWdn7lwjF) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Tapir](https://open.spotify.com/album/3GR4fQQerubloHGRzyqrtr) | 3:05 | 2023-03-11 |  |

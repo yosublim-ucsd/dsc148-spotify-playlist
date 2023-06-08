@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 55106,
+  "num_followers": 55214,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjE4NzI1MTNmNTYxZTdlYTM2ODJiOWRkZjZiNjFjN2IxNWE2ZmRm",
+  "snapshot_id": "MCwzMTRlM2U5MjZiOTA2MWFkNjRmMDhkNTM3N2M2YTVlZTg2ODY0MmI2",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "We Are Young (Jersey Club)",
-        "url": "https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 109124,
-      "name": "We Are Young (Jersey Club)",
-      "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "All I Need (VIP)",
         "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 195310,
       "name": "All I Need - VIP",
       "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "We Are Young (Jersey Club)",
+        "url": "https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj"
+      },
+      "artists": [
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 109124,
+      "name": "We Are Young (Jersey Club)",
+      "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
     },
     {
       "added_at": "2023-05-26 04:00:00",

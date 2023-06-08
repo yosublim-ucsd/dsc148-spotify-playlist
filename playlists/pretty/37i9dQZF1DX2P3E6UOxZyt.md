@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Asiaboy禁藥王&Lizi栗子
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,343 likes - 67 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,349 likes - 67 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [有用的人](https://open.spotify.com/track/79MHMyklRL1T0NoYGkhgLH) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [DJ SON666](https://open.spotify.com/artist/5cgN93xzHu4TYOKq0chcP2) | [有用的人](https://open.spotify.com/album/2J81arI6Y1cr1FJTjqdVZm) | 3:25 |
 | 67 | [F.O.](https://open.spotify.com/track/1UtMrFhIMqr7JxJvmizLM7) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [F.O.](https://open.spotify.com/album/79zFhhB0UfgTwdPaVv1drX) | 3:21 |
 
-Snapshot ID: `MCwyZmI3ZTBjYjZjMDQyYTA2YzM5MTEyNmU0ODhkYTI2NzJlMzc2MGQ4`
+Snapshot ID: `MCw1NzMxNjRiYWE5YjVmZmRjYmVhMWExZTczMDU3NDJkY2I2MjhmNjc3`

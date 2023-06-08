@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Delfina Dib
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,596 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,617 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 2 | [One Love](https://open.spotify.com/track/2SfnV0AOAn3e5id2Yg5qJz) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:50 |
 | 3 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 |
 | 4 | [Horas](https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Horas](https://open.spotify.com/album/1geeDTUcLFv7vgDH0v0C3a) | 3:51 |
-| 5 | [Mood](https://open.spotify.com/track/3nPkGBhK2Fw74dDZK6gaYT) | [Dj Coby](https://open.spotify.com/artist/5RVtVsW826awhgeS98eM0L), [Jiggy Drama](https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Mood](https://open.spotify.com/album/12yvwITULcBXb6QA0M71RZ) | 3:34 |
+| 5 | [Mood](https://open.spotify.com/track/6d9mRyiNJe7AGcPlxaLxXv) | [Dj Coby](https://open.spotify.com/artist/5RVtVsW826awhgeS98eM0L), [Jiggy Drama](https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Mood](https://open.spotify.com/album/0VKN2qmWQ3D9Jc6nDfB8Wp) | 3:34 |
 | 6 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
 | 7 | [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 |
 | 8 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 59 | [badwine](https://open.spotify.com/track/2qfyOSgCVt8mdVVxxhp4tI) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [badwine](https://open.spotify.com/album/0DBQL19G6VKFlLXWlltmfl) | 2:19 |
 | 60 | [Mente Daña](https://open.spotify.com/track/2JrzG3ZKfeZX7TJGuMaWd8) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Mente Daña](https://open.spotify.com/album/2oYLLwsCfOC9fvO9XRODIa) | 3:03 |
 
-Snapshot ID: `MCxkM2E4ZWQyMGNmZjQxNGI5ZGIzNzdmNGY3MzAxMWYxNjUzM2VjYWRk`
+Snapshot ID: `MCw0ZWIzNzA0ZDljMDUxYzdmODMxMDEwZWIxNTIwZDNkYTRjY2YyOTVk`

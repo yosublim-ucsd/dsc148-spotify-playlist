@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,250 likes - 65 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,296 likes - 65 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 | 36 | [Making Me Nervous \- Sighter & Konaefiz Remix](https://open.spotify.com/track/5r8IOZiUR3jwXzhAlYkwPH) | [Brad Sucks](https://open.spotify.com/artist/13yy1c4aDXIWu2zfvtvGLn), [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Konaefiz](https://open.spotify.com/artist/7d2PyJyMVaEv9R4Uq3bzOr) | [Making Me Nervous \(Sighter & Konaefiz Remix\)](https://open.spotify.com/album/373BRwEkG5RGippR3xWAqP) | 5:29 |
 | 37 | [A Real Good Time \- Libra Remix](https://open.spotify.com/track/5ttx47ANI7Z6HuDflC3Xd9) | [Burn In Noise](https://open.spotify.com/artist/3O4xHzuHaiM4UVNlSd44xK), [Loud](https://open.spotify.com/artist/2nhTi1cXehDDk7kRCRyBkR), [Libra](https://open.spotify.com/artist/4Up75wJWV1RbAZBasM5sqw) | [A Real Good Time \(Libra Remix\)](https://open.spotify.com/album/1uo0s3MIECrcQ90tzsmsC2) | 9:17 |
 | 38 | [Lock and Load](https://open.spotify.com/track/667zFP4gxrykQXB8ftEDLZ) | [Harmonika](https://open.spotify.com/artist/2mbshn7PMiWfICvtzY0JbI) | [Lock and Load](https://open.spotify.com/album/09CHJiBIUAGBOvUTGJJQo1) | 5:32 |
-| 39 | [Sonne](https://open.spotify.com/track/1YRcnz76HV4akHIgtUsskx) | [Sonik Sun](https://open.spotify.com/artist/2aPCuXM9q0ckGWkdt9frsj), [Alex Wyze](https://open.spotify.com/artist/0c4A6gfgOt5Tc54LqLofFw), [Alaan Lara](https://open.spotify.com/artist/375Qyr12mY0JzX6hZYCsSp), [Muzik Dealerz](https://open.spotify.com/artist/0VK4jyNtmxSxjvW2YpTvOg) | [Sonne](https://open.spotify.com/album/6yhokZpMZuT2VW8jTdTs5a) | 6:07 |
+| 39 | [Sonne](https://open.spotify.com/track/1YRcnz76HV4akHIgtUsskx) | [Sonik Sun](https://open.spotify.com/artist/2aPCuXM9q0ckGWkdt9frsj), [Alex Wyze](https://open.spotify.com/artist/5F7VkOKbb7WIQFfFu7B5mQ), [Alaan Lara](https://open.spotify.com/artist/375Qyr12mY0JzX6hZYCsSp), [Muzik Dealerz](https://open.spotify.com/artist/0VK4jyNtmxSxjvW2YpTvOg) | [Sonne](https://open.spotify.com/album/6yhokZpMZuT2VW8jTdTs5a) | 6:07 |
 | 40 | [Karma](https://open.spotify.com/track/3nLBqiDoxZYk0M8cI1lBhc) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Karma](https://open.spotify.com/album/3FNMvlWkcvXiwH9bV2Kct4) | 5:53 |
 | 41 | [Live Spirit \- Original Mix](https://open.spotify.com/track/5XKj2XoGrCFrbkyYHV64Y5) | [Fresh Drop](https://open.spotify.com/artist/6wlfDafUCKXnI1czm6uXZi) | [Live Spirit](https://open.spotify.com/album/7uICS90aPpS93qz6xVNYWG) | 5:54 |
 | 42 | [Kazahi](https://open.spotify.com/track/5djymDPX9E9k6kHzEukIeS) | [Vermont \(BR\)](https://open.spotify.com/artist/7aS93G9e7XG0GCUATQjqv0), [Bandi](https://open.spotify.com/artist/66Vf4RDefmPzXlAyDRb998) | [Kazahi](https://open.spotify.com/album/3kSLdwL7gY5hr4RcNdXElT) | 6:25 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 | 64 | [Focus](https://open.spotify.com/track/7gNgqRZaXarUWWirped72i) | [Telepatic](https://open.spotify.com/artist/5sEhJmaZzJgVskCBaOTgIa) | [Focus](https://open.spotify.com/album/4Bv7WZLfpA7pv11QaMBUnN) | 7:08 |
 | 65 | [DMT](https://open.spotify.com/track/6NHRWtAQTtCELvv3h0pGYq) | [Becker](https://open.spotify.com/artist/3WTaU5om1axaFsKlKchl2U), [Labirinto](https://open.spotify.com/artist/4ISuKZJYpsbU6JPD3vq0p1) | [DMT](https://open.spotify.com/album/2mIZCsIe92lDHxDC7BCxo5) | 7:30 |
 
-Snapshot ID: `MCwwY2Y3YmEwYTE3MDRkYjNiOTJiYTBmOTdjNTUyYWMxZThjM2I5YmY5`
+Snapshot ID: `MCw3Mzk0MTVhNWFlODFlNDI3OWQ2MjEyNWRjZWZiZjY0ZGU3M2E4YjFi`

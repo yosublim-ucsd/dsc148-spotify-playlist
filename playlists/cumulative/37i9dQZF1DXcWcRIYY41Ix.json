@@ -5965,6 +5965,28 @@
     },
     {
       "album": {
+        "name": "Que f\u00e1cil",
+        "url": "https://open.spotify.com/album/6gsLr8mGa6KbDUsIvtHbKg"
+      },
+      "artists": [
+        {
+          "name": "Nico Bereciartua",
+          "url": "https://open.spotify.com/artist/79KJ0gUMjDNnDWrT9szmZM"
+        },
+        {
+          "name": "Felipe Agote",
+          "url": "https://open.spotify.com/artist/6rndegDL7G9OKSuYeDef6F"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245750,
+      "name": "Que f\u00e1cil",
+      "url": "https://open.spotify.com/track/1QUYvBpZnkjJfdxwvHRkma"
+    },
+    {
+      "album": {
         "name": "COMO LA PIEL",
         "url": "https://open.spotify.com/album/10dIiIjAArMNO3PCLtex1H"
       },

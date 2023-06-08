@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "\u00c9chale",
+        "url": "https://open.spotify.com/album/5NlWnz4YflzjQ84vc8x8mW"
+      },
+      "artists": [
+        {
+          "name": "Chelo Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Peor Que Mi Ex",
+      "url": "https://open.spotify.com/track/7vJWa0MkrA1Dbc5qCfys9B"
+    },
+    {
+      "album": {
         "name": "Por Ejemplo",
         "url": "https://open.spotify.com/album/2hPh0n7Rf4pk5lrgsiTLCM"
       },

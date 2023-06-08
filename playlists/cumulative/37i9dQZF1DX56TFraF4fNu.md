@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Delfina Dib
 
-64 songs - 3 hr 36 min
+65 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Mente Daña](https://open.spotify.com/track/2JrzG3ZKfeZX7TJGuMaWd8) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Mente Daña](https://open.spotify.com/album/2oYLLwsCfOC9fvO9XRODIa) | 3:03 | 2023-03-31 |  |
 | [Mi Carta](https://open.spotify.com/track/7zuM6FYdo5XhiocMPDkc0Q) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Mi Carta](https://open.spotify.com/album/7InwQskC3pAszRS5AMlutM) | 3:04 | 2023-03-31 |  |
 | [Migas](https://open.spotify.com/track/61CeB3Wd4hkun9MhuO0fES) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Migas](https://open.spotify.com/album/5lZC1pTFVb0b5rz6j86now) | 4:01 | 2023-03-31 |  |
-| [Mood](https://open.spotify.com/track/3nPkGBhK2Fw74dDZK6gaYT) | [Dj Coby](https://open.spotify.com/artist/5RVtVsW826awhgeS98eM0L), [Jiggy Drama](https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Mood](https://open.spotify.com/album/12yvwITULcBXb6QA0M71RZ) | 3:34 | 2023-04-14 |  |
+| [Mood](https://open.spotify.com/track/3nPkGBhK2Fw74dDZK6gaYT) | [Dj Coby](https://open.spotify.com/artist/5RVtVsW826awhgeS98eM0L), [Jiggy Drama](https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Mood](https://open.spotify.com/album/12yvwITULcBXb6QA0M71RZ) | 3:34 | 2023-04-14 | 2023-06-08 |
+| [Mood](https://open.spotify.com/track/6d9mRyiNJe7AGcPlxaLxXv) | [Dj Coby](https://open.spotify.com/artist/5RVtVsW826awhgeS98eM0L), [Jiggy Drama](https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Mood](https://open.spotify.com/album/0VKN2qmWQ3D9Jc6nDfB8Wp) | 3:34 | 2023-04-21 |  |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2023-03-31 |  |
 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 | 2023-03-31 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2023-03-31 | 2023-04-15 |

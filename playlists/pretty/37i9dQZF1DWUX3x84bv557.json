@@ -1,12 +1,12 @@
 {
   "description": "Zo\u00eb Tauran (Spotify <a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR-artiest</a>) op de cover van de vernieuwde Je Moerstaal! ",
-  "num_followers": 154503,
+  "num_followers": 154552,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTNkYzRmZGQ3YTcyYTk3MjllZGE3YTFhYjNlNGI2Y2E3YjRjODBk",
+  "snapshot_id": "MCxkMWRjYmZlOTAzOTkyYzBjODRmZjFhNWQxNWI0NDE4ZjJhNjkzMGQ0",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -119,6 +119,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Hete Vuren",
+        "url": "https://open.spotify.com/album/0SyMTDaEflhei96E47gcEa"
+      },
+      "artists": [
+        {
+          "name": "Pjotr",
+          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
+        },
+        {
+          "name": "Melissa Lopes",
+          "url": "https://open.spotify.com/artist/67qIVZfLi2zNpwqyrrOMCP"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Hete Vuren",
+      "url": "https://open.spotify.com/track/1oBM2lPmoio5W8VA3bF0zL"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Alles Vergeven",
         "url": "https://open.spotify.com/album/7DuamzfHwRc03kH3Nu53Yg"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 172091,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/2M6sp60mWuRoGHapvKDapT"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Hete Vuren",
-        "url": "https://open.spotify.com/album/0SyMTDaEflhei96E47gcEa"
-      },
-      "artists": [
-        {
-          "name": "Pjotr",
-          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
-        },
-        {
-          "name": "Melissa Lopes",
-          "url": "https://open.spotify.com/artist/67qIVZfLi2zNpwqyrrOMCP"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Hete Vuren",
-      "url": "https://open.spotify.com/track/1oBM2lPmoio5W8VA3bF0zL"
     },
     {
       "added_at": "2023-06-01 22:00:00",

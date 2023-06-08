@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Pupil Slicer
 
-3,660 songs - 10 day 7 hr 15 min
+3,661 songs - 10 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2329,7 +2329,8 @@
 | [Outer Gods Exodvs](https://open.spotify.com/track/6OV6ZWY1zCKNPyWL9vHHSZ) | [Dav Dralleon](https://open.spotify.com/artist/5V8x0GqH9GCBPl1fYeOhuB) | [Kthullu](https://open.spotify.com/album/10oYTRB7OGp6LslyFt0grk) | 4:35 | 2022-11-25 | 2022-12-03 |
 | [Outset](https://open.spotify.com/track/6CQojH7ypPnDzTmQqpZF4q) | [Solitaris](https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM) | [Siwa](https://open.spotify.com/album/1gzemnp5YPNIugGVdYr3zI) | 2:08 | 2023-03-10 | 2023-03-18 |
 | [Outsider](https://open.spotify.com/track/44Ludwkb7H5Rqok1jQBlQM) | [Element Eighty](https://open.spotify.com/artist/4Iyvo65peG4ImDz5AzTqQB) | [Outsider](https://open.spotify.com/album/3lIiaTUR954SScdhOyQPKt) | 4:16 | 2023-01-06 | 2023-01-14 |
-| [Outsider](https://open.spotify.com/track/6QzpOnLnIs96PFZ831d6zU) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/2WukwhVY6nvzF3OSAwdmYb) | 4:05 | 2023-06-02 |  |
+| [Outsider](https://open.spotify.com/track/2QQqlUWiLDROQJ6MGpL3o5) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/1BVsgwH1tbz8ga50B3Sqda) | 4:05 | 2023-06-02 |  |
+| [Outsider](https://open.spotify.com/track/6QzpOnLnIs96PFZ831d6zU) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/2WukwhVY6nvzF3OSAwdmYb) | 4:05 | 2023-06-02 | 2023-06-08 |
 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 | 2022-05-13 | 2022-05-20 |
 | [Over the Horizon Radar](https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Over the Horizon Radar](https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss) | 5:23 | 2022-04-22 | 2022-04-29 |
 | [Overall](https://open.spotify.com/track/3DlqHtVbVtpWBNEeI85cVh) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Overall](https://open.spotify.com/album/73OwLmHDJOZQQgQlYbqwGX) | 3:52 | 2022-11-04 | 2022-11-12 |

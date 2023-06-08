@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Unlock My World",
+        "url": "https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169906,
+      "name": "#menow",
+      "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
+    },
+    {
+      "album": {
         "name": "COMPLETE WITH YOU",
         "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
       },
@@ -1965,6 +1983,28 @@
     },
     {
       "album": {
+        "name": "Gray Area",
+        "url": "https://open.spotify.com/album/0gmKUw9qApOkn5fu60umGe"
+      },
+      "artists": [
+        {
+          "name": "Eisen",
+          "url": "https://open.spotify.com/artist/3PCjoyPl787XcqM2W7GfnO"
+        },
+        {
+          "name": "Lkon",
+          "url": "https://open.spotify.com/artist/4Vaf5s0Tl6qaZpRKgT7frK"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Gray Area",
+      "url": "https://open.spotify.com/track/15UqGWRj2UJzQSdgTLsYev"
+    },
+    {
+      "album": {
         "name": "HAPPENING",
         "url": "https://open.spotify.com/album/2I4HYm29uKgBjRtPpiFULg"
       },
@@ -2128,6 +2168,24 @@
       "duration_ms": 181432,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
+    },
+    {
+      "album": {
+        "name": "Hello & Goodbye",
+        "url": "https://open.spotify.com/album/1nMU9isJO8vTagFsPHFUyB"
+      },
+      "artists": [
+        {
+          "name": "WE'D",
+          "url": "https://open.spotify.com/artist/7trC9e4GPEaZxz3CLvrKdL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189504,
+      "name": "Hello & Goodbye",
+      "url": "https://open.spotify.com/track/450FHuomgvdo8A2R2c4heJ"
     },
     {
       "album": {
@@ -2916,7 +2974,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 212509,
       "name": "Kimchi Fried Rice",
       "url": "https://open.spotify.com/track/5Y5loSGPxq7ZUB9TNimi1H"
@@ -3180,7 +3238,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 185485,
       "name": "LOVE YOU! (Feat. Tablo)",
       "url": "https://open.spotify.com/track/2jhWyW4kNrVnN2wpu9jhVZ"
@@ -3806,6 +3864,24 @@
       "duration_ms": 194520,
       "name": "OHIO",
       "url": "https://open.spotify.com/track/3fxIgoqvwprUbhV1XEHrG5"
+    },
+    {
+      "album": {
+        "name": "WHO!",
+        "url": "https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167986,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d"
     },
     {
       "album": {
@@ -4662,7 +4738,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 195000,
       "name": "Sing!",
       "url": "https://open.spotify.com/track/5rYLgQjPbhGjzqDqekXEzM"
@@ -4922,7 +4998,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 178534,
       "name": "Summer Mirage",
       "url": "https://open.spotify.com/track/7ATDaIKPRWkUwSBFf8IYIL"
@@ -5768,7 +5844,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 154000,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/6VlmSckVaiPu6XOIdqwFX2"
@@ -5960,6 +6036,24 @@
       "duration_ms": 190840,
       "name": "what is life?",
       "url": "https://open.spotify.com/track/45O9E7K3A2nPSAfe3hI36E"
+    },
+    {
+      "album": {
+        "name": "WHERE \u00dc AT?",
+        "url": "https://open.spotify.com/album/6HLY5PiTfW5ZZeJiN0fSGB"
+      },
+      "artists": [
+        {
+          "name": "$\u00dcN",
+          "url": "https://open.spotify.com/artist/29ohWkb65t6UDWczu78uyZ"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163252,
+      "name": "WHERE \u00dc AT?",
+      "url": "https://open.spotify.com/track/3Px3O6rUyKsBezqhLrajom"
     },
     {
       "album": {

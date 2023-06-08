@@ -4,7 +4,7 @@
 
 > The African & West Indian diaspora united\. Cover: Joeboy
 
-405 songs - 21 hr 20 min
+406 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 | 2021-12-20 | 2022-11-01 |
 | [Higher \(feat\. JKING & Billymaree\)](https://open.spotify.com/track/577o8dF3FtOvCMiN56ilmz) | [DJ Discretion](https://open.spotify.com/artist/08CmTveAFjDqu36A2pKe1A), [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [Higher \(feat\. JKING & Billymaree\)](https://open.spotify.com/album/1PrLMFlEKDhPXANZVOYn45) | 3:47 | 2022-07-12 | 2022-07-18 |
 | [Hold](https://open.spotify.com/track/7vNuWM68PF5O5rBWtWXvnl) | [Chunkz](https://open.spotify.com/artist/3Lpx3ZSrsLeaVD9zKtGPiG), [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Hold](https://open.spotify.com/album/3RMoaI57RpJEoMIIXvnZd9) | 3:08 | 2021-12-20 | 2022-07-28 |
-| [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-21 |  |
+| [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-21 | 2023-06-08 |
+| [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 | 2023-05-24 |  |
 | [Holy F4k](https://open.spotify.com/track/4lzWu0lHUWhiRV9egR0i2c) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5yiN8tQsir65PQwHejdHpz), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Holy F4k](https://open.spotify.com/album/624JazNcZcbFjWu943ZBZ8) | 3:15 | 2021-12-20 | 2022-04-23 |
 | [Homecoming Freestyle](https://open.spotify.com/track/6MGro2R6Bx8zFsl8axO4nM) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Homecoming Freestyle](https://open.spotify.com/album/07I5P5PXGXGVyxspY6POWQ) | 3:12 | 2021-12-20 | 2022-07-25 |
 | [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 | 2023-04-21 | 2023-05-19 |

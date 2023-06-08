@@ -4208,7 +4208,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 142000,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/6rzBDEJ3V3VRuc42OeRe9f"
@@ -62006,6 +62006,28 @@
       "duration_ms": 153533,
       "name": "The Puzzle",
       "url": "https://open.spotify.com/track/5elOqkA9x9ZnDlIXhe4zPo"
+    },
+    {
+      "album": {
+        "name": "The Reason Why",
+        "url": "https://open.spotify.com/album/6qNQiDC3zXQFthkAH84aVd"
+      },
+      "artists": [
+        {
+          "name": "Pabzzz",
+          "url": "https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192518,
+      "name": "The Reason Why",
+      "url": "https://open.spotify.com/track/6mDM4uzwqnttXIFkua3OJ1"
     },
     {
       "album": {

@@ -2432,10 +2432,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 231666,
       "name": "Through Being Blue Over You",
       "url": "https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V"
+    },
+    {
+      "album": {
+        "name": "You Broke Me",
+        "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "Through Being Blue Over You",
+      "url": "https://open.spotify.com/track/6CRyXQeDAsBMm210T8Ev8X"
     },
     {
       "album": {

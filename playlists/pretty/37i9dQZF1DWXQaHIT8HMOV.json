@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 1529,
+  "num_followers": 1530,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWEyODNjMjQ3OGVlMDBiZjA0ZGE1ODZhZjk4NDQ0MDk3OTM2ODk4",
+  "snapshot_id": "MCw5ZWVhMTBhYTE0NDc3OGZkNTBlZjYxZGQ4MGM3NzAyY2RlYWU1MGJi",
   "tracks": [
     {
       "added_at": "2023-06-02 16:13:50",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Sembera",
-        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
-      },
-      "artists": [
-        {
-          "name": "Geosteady",
-          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Sembera",
-      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
-    },
-    {
-      "added_at": "2023-06-02 16:13:50",
-      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 133537,
       "name": "Belinda",
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
+      },
+      "artists": [
+        {
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
       "added_at": "2023-06-02 16:13:50",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
       },
       "artists": [
         {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
       "added_at": "2023-06-02 16:13:50",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
       },
       "artists": [
         {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
         }
       ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
     },
     {
       "added_at": "2023-06-02 16:13:50",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Plan Ki",
-        "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Plan Ki",
-      "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
-    },
-    {
-      "added_at": "2023-06-02 16:13:50",
-      "album": {
         "name": "Bbuba",
         "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
+        "name": "Plan Ki",
+        "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Plan Ki",
+      "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
         "name": "Bulamu",
         "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
       },
@@ -791,6 +791,42 @@
       "duration_ms": 193246,
       "name": "Bulamu",
       "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
+        "name": "Nothing (Remix)",
+        "url": "https://open.spotify.com/album/5HXT6evuxXlZWxtlZfngUl"
+      },
+      "artists": [
+        {
+          "name": "ELIJAH KITAKA",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        },
+        {
+          "name": "The Mith",
+          "url": "https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf"
+        },
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        },
+        {
+          "name": "Wonder Jr",
+          "url": "https://open.spotify.com/artist/4ZVv4tXo58qTVMrmHlvXBs"
+        },
+        {
+          "name": "TimothyCODE",
+          "url": "https://open.spotify.com/artist/60JDOqQkDDSJsJvj5YSGCA"
+        },
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        }
+      ],
+      "duration_ms": 290400,
+      "name": "Nothing - Remix",
+      "url": "https://open.spotify.com/track/3N43i0lIHOir3AiR1ipwxf"
     },
     {
       "added_at": "2023-06-02 16:13:50",
@@ -879,54 +915,26 @@
     {
       "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Nothing (Remix)",
-        "url": "https://open.spotify.com/album/5HXT6evuxXlZWxtlZfngUl"
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/3TPSJTBY0UhdQNt7NSlYwT"
       },
       "artists": [
         {
-          "name": "ELIJAH KITAKA",
-          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+          "name": "Chwezimadeit",
+          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
         },
         {
-          "name": "The Mith",
-          "url": "https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf"
+          "name": "Andy Muzic",
+          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
         },
         {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        },
-        {
-          "name": "Wonder Jr",
-          "url": "https://open.spotify.com/artist/4ZVv4tXo58qTVMrmHlvXBs"
-        },
-        {
-          "name": "TimothyCODE",
-          "url": "https://open.spotify.com/artist/60JDOqQkDDSJsJvj5YSGCA"
-        },
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+          "name": "Kyvo Bouy",
+          "url": "https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky"
         }
       ],
-      "duration_ms": 290400,
-      "name": "Nothing - Remix",
-      "url": "https://open.spotify.com/track/3N43i0lIHOir3AiR1ipwxf"
-    },
-    {
-      "added_at": "2023-06-02 16:13:50",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"
-      },
-      "artists": [
-        {
-          "name": "Jesse10s",
-          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
-        }
-      ],
-      "duration_ms": 174905,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J"
+      "duration_ms": 173196,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg"
     }
   ],
   "unique_name": "Made In Uganda",

@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-262 songs - 23 hr 30 min
+263 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Back on the beat](https://open.spotify.com/track/52q5MqCCKzUjYE06orhDxX) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Back on the beat](https://open.spotify.com/album/2IOOiVxPT2N3fOYQJlubz1) | 5:10 | 2023-03-15 |  |
 | [Ballad for K](https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD) | [Ruhi Erdogan](https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9) | [Ballad for K](https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl) | 3:55 | 2022-02-24 | 2022-03-12 |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-11-12 | 2023-01-03 |
-| [Beatrice](https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK) | [Let's Face the Music](https://open.spotify.com/album/68a61URtiemSLZn6UcHizY) | 4:17 | 2022-09-16 |  |
+| [Beatrice](https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK) | [Let's Face the Music](https://open.spotify.com/album/68a61URtiemSLZn6UcHizY) | 4:17 | 2022-09-16 | 2023-06-08 |
 | [Bee Blues](https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Ode](https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e) | 6:42 | 2020-03-31 | 2022-10-12 |
 | [Black Narcissus](https://open.spotify.com/track/69ond5qxNhicqpCxYseO4h) | [Charlie Wilder Band](https://open.spotify.com/artist/6UYNORrztDMx6aNjhzwJTV) | [Ev'rytime We Say Goodbye](https://open.spotify.com/album/1Up43SfdvFghh3BAE1yBgG) | 2:38 | 2022-09-16 | 2022-10-12 |
 | [Blue Ballad](https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:34 | 2020-03-31 | 2022-04-21 |
@@ -99,6 +99,7 @@
 | [How I Sing](https://open.spotify.com/track/77eZBHfUgVSPqatPpsdY1m) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [How I Sing](https://open.spotify.com/album/3MjBszHfA4TdioPXyDoKR4) | 3:36 | 2022-11-12 | 2022-12-24 |
 | [How long has this been going on](https://open.spotify.com/track/1eudeH9mGBFQFS4G3bod7F) | [The Smooth Sounds](https://open.spotify.com/artist/4Z8nV1Gr7Lv05JRKvsNhW8) | [How long has this been going on](https://open.spotify.com/album/2f1DPfjTwVrn2Ktf7qWxY8) | 3:18 | 2023-02-16 |  |
 | [Humble](https://open.spotify.com/track/7AzjbpL6a4ZtsPvDvGHOfp) | [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0), [Sebastian Sternal](https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Clarence Penn](https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh) | [The Good Spirits, Pt\. 2](https://open.spotify.com/album/1bXKh7MCMtdstPtz3CMVmm) | 6:15 | 2023-01-03 | 2023-01-17 |
+| [I Guess I'll Have to Forget](https://open.spotify.com/track/2EhDOBGOiJGJkiBcdxz7ga) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:26 | 2023-06-01 |  |
 | [I Miss You](https://open.spotify.com/track/4Hus6AQNHezUdbBKuo1aE8) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Within a Dream](https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4) | 4:18 | 2020-03-31 | 2022-10-06 |
 | [I Should Care](https://open.spotify.com/track/7gRa0lT64mARp2ccsk3tNN) | [Back Room Jazz Trio](https://open.spotify.com/artist/0QsYYreXejEBRLCOp8v6bP) | [If You Could See Me Now](https://open.spotify.com/album/4t6mWcSyJBwJw17VkCrFb1) | 4:10 | 2022-11-12 |  |
 | [I Think of You](https://open.spotify.com/track/5O7gq2BSiX0UhDgPMLbayr) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD), [Kristian Leth](https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5) | [Classics](https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM) | 7:03 | 2022-05-19 | 2022-09-21 |

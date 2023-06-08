@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u3002 *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/318754?utm_source=spotify.com&utm_medium=referral\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u304b\u3089\u65b0\u7740\u60c5\u5831\u3092\u30ad\u30e3\u30c3\u30c1! ",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u3002 *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/318971?utm_source=spotify.com&utm_medium=referral\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u304b\u3089\u65b0\u7740\u60c5\u5831\u3092\u30ad\u30e3\u30c3\u30c1! ",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -892,6 +892,24 @@
       "duration_ms": 234082,
       "name": "Agust D",
       "url": "https://open.spotify.com/track/6AknCCsxOsrJ2mkSdCtET1"
+    },
+    {
+      "album": {
+        "name": "ai ga minoru",
+        "url": "https://open.spotify.com/album/5LE2lQzIBkYERUD8mvkZOr"
+      },
+      "artists": [
+        {
+          "name": "tabehiro",
+          "url": "https://open.spotify.com/artist/6cpY1gxeuged4kIxdA9KYH"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220243,
+      "name": "ai ga minoru",
+      "url": "https://open.spotify.com/track/5fayTMjOo52p8tIJzWfPYY"
     },
     {
       "album": {
@@ -1996,6 +2014,28 @@
       "duration_ms": 248000,
       "name": "Bad Night",
       "url": "https://open.spotify.com/track/6iqBxITQpEILbhSPb5RthA"
+    },
+    {
+      "album": {
+        "name": "us (Sunset Rollercoaster & JORDANN)",
+        "url": "https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        },
+        {
+          "name": "Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222352,
+      "name": "Balloon - Sunset Rollercoaster Remake",
+      "url": "https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH"
     },
     {
       "album": {
@@ -3578,10 +3618,28 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 231363,
       "name": "Choice",
       "url": "https://open.spotify.com/track/14vLQiD5BPqGUo72cJ3ONE"
+    },
+    {
+      "album": {
+        "name": "Choice",
+        "url": "https://open.spotify.com/album/47L62WQ7xaNkV45eLqB1Yr"
+      },
+      "artists": [
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231363,
+      "name": "Choice",
+      "url": "https://open.spotify.com/track/16av5XEj9HsVrdfbuicXF5"
     },
     {
       "album": {
@@ -5132,6 +5190,28 @@
     {
       "album": {
         "name": "Drippin' Summer",
+        "url": "https://open.spotify.com/album/6fqbPpEbCmdkJd7ULsl5ob"
+      },
+      "artists": [
+        {
+          "name": "Slowly",
+          "url": "https://open.spotify.com/artist/1xyCErBdMepyjc2Lv6v6my"
+        },
+        {
+          "name": "Mizuki Ohira",
+          "url": "https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264720,
+      "name": "Drippin' Summer",
+      "url": "https://open.spotify.com/track/2K0Sb58NrX27WjtkZb2rmW"
+    },
+    {
+      "album": {
+        "name": "Drippin' Summer",
         "url": "https://open.spotify.com/album/49j2kw5cUzVZyD1f49xoMH"
       },
       "artists": [
@@ -5146,7 +5226,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 264720,
       "name": "Drippin' Summer",
       "url": "https://open.spotify.com/track/52ZV4FoBB1qr8Df7FbnsjY"
@@ -7850,10 +7930,28 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 187425,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/1rhPpFbyMssL3Rc9wSAO54"
+    },
+    {
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/6OcS9PBcKQtBpiubt9w2zf"
+      },
+      "artists": [
+        {
+          "name": "FOMARE",
+          "url": "https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187425,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/4gApHF6PIQByk71asnPt2L"
     },
     {
       "album": {
@@ -8570,6 +8668,24 @@
       "duration_ms": 137725,
       "name": "I GUESS IT'S LOVE?",
       "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
+    },
+    {
+      "album": {
+        "name": "I Inside the Old I Dying",
+        "url": "https://open.spotify.com/album/46ItYQNVmibRsjkzXIDKFs"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "I Inside the Old I Dying",
+      "url": "https://open.spotify.com/track/5l1fhxvwZBIlMqY1ZsbnNd"
     },
     {
       "album": {
@@ -10404,6 +10520,24 @@
       "duration_ms": 239500,
       "name": "Koewo",
       "url": "https://open.spotify.com/track/0VkBmuJMv574JUlQC0gDot"
+    },
+    {
+      "album": {
+        "name": "Kohaku",
+        "url": "https://open.spotify.com/album/2ISxhwPjPjLKNyow9Eg5dU"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243666,
+      "name": "Kohaku",
+      "url": "https://open.spotify.com/track/16OedAwrCLAUctyBCgO45o"
     },
     {
       "album": {
@@ -12348,6 +12482,24 @@
     {
       "album": {
         "name": "Survive",
+        "url": "https://open.spotify.com/album/5ZbWHSBmK2s9fMc4LGFfW7"
+      },
+      "artists": [
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145533,
+      "name": "Money in the Bag",
+      "url": "https://open.spotify.com/track/643IlbTQDcBYaSaElkDwbb"
+    },
+    {
+      "album": {
+        "name": "Survive",
         "url": "https://open.spotify.com/album/66h3Rl2YuI2Dt1mf0uuycY"
       },
       "artists": [
@@ -12358,7 +12510,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 145533,
       "name": "Money in the Bag",
       "url": "https://open.spotify.com/track/6nwUFWwOdT1ahHuXpwKKEH"
@@ -12698,6 +12850,32 @@
     {
       "album": {
         "name": "My Life",
+        "url": "https://open.spotify.com/album/7gdAMtRYRjZsylJXBaH6Xf"
+      },
+      "artists": [
+        {
+          "name": "Mall Boyz",
+          "url": "https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp"
+        },
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        },
+        {
+          "name": "gummyboy",
+          "url": "https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191334,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5Qvh1GFlIL2qSmZ7Yj4br6"
+    },
+    {
+      "album": {
+        "name": "My Life",
         "url": "https://open.spotify.com/album/6PVwAtphh0yqkkixCjUTVh"
       },
       "artists": [
@@ -12716,7 +12894,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 191334,
       "name": "My Life",
       "url": "https://open.spotify.com/track/6XsV41mcwGI6jcliMIJbEP"
@@ -13578,10 +13756,32 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 196363,
       "name": "NOV.17",
       "url": "https://open.spotify.com/track/04cG1O8pRZwsF5Avbu1Iww"
+    },
+    {
+      "album": {
+        "name": "Unbirth",
+        "url": "https://open.spotify.com/album/742YZtJhgErwlbtYkBz4VW"
+      },
+      "artists": [
+        {
+          "name": "DALU",
+          "url": "https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm"
+        },
+        {
+          "name": "OZworld",
+          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "NOV.17",
+      "url": "https://open.spotify.com/track/3OJS6HeImDKO5cUhbAftm0"
     },
     {
       "album": {
@@ -15328,10 +15528,50 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 208280,
       "name": "RACE TO THE HEAVENS",
       "url": "https://open.spotify.com/track/3KKvsf2LKgoVkutzxDMQGO"
+    },
+    {
+      "album": {
+        "name": "Moonsault",
+        "url": "https://open.spotify.com/album/4Sk4dSSfea2Ajz40uY3QmS"
+      },
+      "artists": [
+        {
+          "name": "pavilion",
+          "url": "https://open.spotify.com/artist/1TSRXSGEbdwPcXwiDDI68w"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208280,
+      "name": "Race to the Heavens",
+      "url": "https://open.spotify.com/track/72Dan0HZ6AsIdBYKG4ZHma"
+    },
+    {
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/2jcQccclbIrYd4eLWqmtkU"
+      },
+      "artists": [
+        {
+          "name": "SKYE",
+          "url": "https://open.spotify.com/artist/49sJZCQvc3KN6s9VCMnbUa"
+        },
+        {
+          "name": "Raine",
+          "url": "https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229666,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/51tyiooJ6VrGTsaEQt7H5X"
     },
     {
       "album": {
@@ -20646,10 +20886,28 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 288341,
       "name": "utero",
       "url": "https://open.spotify.com/track/21p5MYnOKZGvJ0OKT3a1HR"
+    },
+    {
+      "album": {
+        "name": "utero",
+        "url": "https://open.spotify.com/album/1YhDLOpAS5jG9ZW9Bq1IVc"
+      },
+      "artists": [
+        {
+          "name": "YOHLU",
+          "url": "https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288341,
+      "name": "utero",
+      "url": "https://open.spotify.com/track/3KbgSgkkK3lPLRwwmbwzSc"
     },
     {
       "album": {
@@ -21526,6 +21784,24 @@
     {
       "album": {
         "name": "Wedding Day",
+        "url": "https://open.spotify.com/album/7tipwtuR6b0Pz6VsW465dR"
+      },
+      "artists": [
+        {
+          "name": "Ayaka Hirahara",
+          "url": "https://open.spotify.com/artist/0AzJGufY9eXWy5wHZWQ71H"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207867,
+      "name": "Wedding Day",
+      "url": "https://open.spotify.com/track/1tP36Pg4Vwys6BSnkQiWIe"
+    },
+    {
+      "album": {
+        "name": "Wedding Day",
         "url": "https://open.spotify.com/album/7D12WuEP2z05yqK5hgnAO3"
       },
       "artists": [
@@ -21536,7 +21812,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 207867,
       "name": "Wedding Day",
       "url": "https://open.spotify.com/track/26nJDSHlB0xWTccvL2icjU"
@@ -21802,6 +22078,28 @@
     {
       "album": {
         "name": "WINDY SUMMER (Cover)",
+        "url": "https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "WINDY SUMMER - Cover",
+      "url": "https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH"
+    },
+    {
+      "album": {
+        "name": "WINDY SUMMER (Cover)",
         "url": "https://open.spotify.com/album/2LFaMKaaTbd70dHI3cRC1l"
       },
       "artists": [
@@ -21816,7 +22114,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 213506,
       "name": "WINDY SUMMER - Cover",
       "url": "https://open.spotify.com/track/2ZTsJLuGom7SjIoY5ynrvA"
@@ -26580,7 +26878,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 229666,
       "name": "\u30e9\u30b8\u30aa",
       "url": "https://open.spotify.com/track/4CIp3DAzzXzly8oF4BUlF4"
@@ -28892,7 +29190,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 220243,
       "name": "\u611b\u304c\u5b9f\u308b",
       "url": "https://open.spotify.com/track/614oKU6NJbD82eda9FrO8i"
@@ -30582,7 +30880,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 243666,
       "name": "\u7425\u73c0",
       "url": "https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci"
@@ -32230,10 +32528,28 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 227520,
       "name": "\u975e\u91c8\u8fe6\u69d8",
       "url": "https://open.spotify.com/track/0ISLo2LSNYK8skSqMVfrzP"
+    },
+    {
+      "album": {
+        "name": "BREAK",
+        "url": "https://open.spotify.com/album/6KjRIkoBAyqmVUQwtFkwMd"
+      },
+      "artists": [
+        {
+          "name": "703goushitsu",
+          "url": "https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227520,
+      "name": "\u975e\u91c8\u8fe6\u69d8",
+      "url": "https://open.spotify.com/track/4kg1gipTPUX20y8eJbBCXT"
     },
     {
       "album": {

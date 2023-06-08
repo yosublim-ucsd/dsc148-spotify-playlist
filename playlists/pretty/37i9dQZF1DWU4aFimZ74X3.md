@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,458 likes - 31 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,575 likes - 31 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Around The World](https://open.spotify.com/track/1gsbM54z2EPqErHfiPIIhy) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 5:06 |
+| 1 | [around the world](https://open.spotify.com/track/0smQd1tF4A9r5CbfG17rJf) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [around the world](https://open.spotify.com/album/206j597w8irspKeIREfftU) | 5:10 |
 | 2 | [SPACE BOY](https://open.spotify.com/track/4P9oqOrFDijZRN7TWP4OUZ) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:56 |
 | 3 | [NO ONE SLEEP IN TOKYO](https://open.spotify.com/track/6tinyeimCbUv1CPuPBBQOH) | [EDO BOYS](https://open.spotify.com/artist/2qlGGrGnWPs3oqIib0oTSf) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 5:02 |
 | 4 | [SCRAMBLE EYES](https://open.spotify.com/track/37cSzvBW0363UMwg4pOIGj) | [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk), [A\-One](https://open.spotify.com/artist/6fhECpcjjpePBtGwTbVn6B) | [SCRAMBLE EYES](https://open.spotify.com/album/64ed3RytU7vmzSFS8WFuJR) | 4:08 |
@@ -38,6 +38,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 28 | [The Top \- Extended Ver.](https://open.spotify.com/track/0soHG17CsBtQqjX7Ygvfwt) | [KEN BLAST](https://open.spotify.com/artist/2UqOfH9sWaoyHyOtlRNp7P) | [Super Eurobeat Vol.217](https://open.spotify.com/album/0RllqPOD1JcWeaUcZAWCeX) | 4:36 |
 | 29 | [Wheelpower And Go! \- Extended mix](https://open.spotify.com/track/54qcESwnWTtQBsTIEmPmJB) | [Dejo](https://open.spotify.com/artist/3rgGi7LiN9mc5q3yHSZj0e), [Bon](https://open.spotify.com/artist/3l0ICzv4v8DpBYkDTBqRju) | [Bratt Sinclaire Eurobeat Style Vol.14](https://open.spotify.com/album/1602NuLcMSIF1chdZewiEg) | 5:08 |
 | 30 | [Adrenaline](https://open.spotify.com/track/5lxcV6KE2x3am3gtBCzYUc) | [Ace](https://open.spotify.com/artist/0eF7CXsaTUjvCiiGkgKRQT) | [Super Eurobeat Vol\. 225](https://open.spotify.com/album/3epa4cuYMhq2Y3nkjNtGKI) | 4:22 |
-| 31 | [Rage Your Dream](https://open.spotify.com/track/0dQtjOhjyMMAwyMZRAOKsU) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:31 |
+| 31 | [Rage your dream](https://open.spotify.com/track/4n54JaXMZLwJ3qUPnLh8TC) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Rage your dream](https://open.spotify.com/album/6fdW8U59XKOZcHIAe1DWud) | 4:32 |
 
-Snapshot ID: `MCwwMDhhODJhNDU4M2UwNTBmZWJkYmY5ZjJkY2E1MjYwNWQ4ZTEyMmU0`
+Snapshot ID: `MCw2ZmNiMjA0ODBhZGExNDQ1OThjM2FhOWQ0OTY4MzYzMGIxZDczZjM2`

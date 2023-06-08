@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,646 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,680 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 23 | [Selamat Tinggal Kasih \- From "Cidro Asmoro"](https://open.spotify.com/track/2aIDECu2euEBfAqZrawoAM) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Selamat Tinggal Kasih \(From "Cidro Asmoro"\)](https://open.spotify.com/album/0sS6FE67HV8uJV5ceyGBp2) | 4:51 |
 | 24 | [Starburst](https://open.spotify.com/track/5IEJqncPB2x6IEyA02WNOD) | [Alien Child](https://open.spotify.com/artist/6V92XS4WAzuXsOi1EXsGcF) | [Starburst](https://open.spotify.com/album/3iZqFhrBxwelgqXQO0zgfc) | 3:00 |
 | 25 | [switch](https://open.spotify.com/track/6A4XsPmI6glgApuoxfPwth) | [Rinni Wulandari](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [switch](https://open.spotify.com/album/2Zb4aAsyr1zjhladO2rQfW) | 3:25 |
-| 26 | [LEBIH INDAH](https://open.spotify.com/track/12wsbqOkFywZx7fLB9Hcwa) | [The Groove](https://open.spotify.com/artist/4QaAmS47H6ZCc5JtXP5933), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [SEJIWA](https://open.spotify.com/album/2jmOoRVvC5c1B4wHAFURqI) | 3:53 |
+| 26 | [Lebih Indah](https://open.spotify.com/track/12wsbqOkFywZx7fLB9Hcwa) | [The Groove](https://open.spotify.com/artist/4QaAmS47H6ZCc5JtXP5933), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [SEJIWA](https://open.spotify.com/album/2jmOoRVvC5c1B4wHAFURqI) | 3:53 |
 | 27 | [Motion](https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Motion](https://open.spotify.com/album/2R9a1Kl1u7OT9WlUjVyvVd) | 2:28 |
 | 28 | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/track/7JKIP5eWwPfpijXDU5EmZf) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9) | 2:38 |
 | 29 | [Alright](https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Alright](https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ) | 2:52 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 98 | [Time To Heal](https://open.spotify.com/track/4pNSnFdR9E5WxbQ8e2HEK2) | [Slowtide](https://open.spotify.com/artist/41f1vHXmxOA75UN3dSP9vQ), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Time To Heal](https://open.spotify.com/album/4DxU8hOSO8ADfLe1ZETByN) | 3:40 |
 | 99 | [Falling Again \(feat\. guardin\)](https://open.spotify.com/track/4BsCEHOIZqwKCV1blNUckP) | [Galvanic](https://open.spotify.com/artist/3GQj08iHefTniyhHjCVBov), [Smeyeul.](https://open.spotify.com/artist/4IXRiE1MOvty3H8tQ0KvTO), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [Falling Again \(feat\. guardin\)](https://open.spotify.com/album/4nLFd4CXZVSqjqNKhXUcaT) | 3:29 |
 
-Snapshot ID: `MCw5N2ZmYmNkYmVlZjEzYThkYzI3Y2MxMDUxOWEzMzBhNjY3ZmQ4ZGZh`
+Snapshot ID: `MCxhZjkyYThhZmQyZTY3N2MzOGMwZTVlYjQ4YzNkMTIyZmIwNWFhMTkx`

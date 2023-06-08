@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-821 songs - 1 day 18 hr 38 min
+822 songs - 1 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Csokko](https://open.spotify.com/track/38qhsm0c4QVk6BMhtvZFWv) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [Csokko](https://open.spotify.com/album/72PNr1fXIAE9PXpbMaIT7o) | 2:42 | 2023-04-21 |  |
 | [Csússz le](https://open.spotify.com/track/2aWeyLCeCpburBwF0uI7Ls) | [Analog Balaton](https://open.spotify.com/artist/0IUu1vSCfCZJrLHUOgHNWJ), [6363](https://open.spotify.com/artist/6dglJzfnBc11OgGSZE0SVl) | [Csússz le](https://open.spotify.com/album/01HMWLFq2qZgWTPWlI2KTt) | 4:55 | 2022-10-21 | 2022-10-23 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-01-01 | 2023-01-03 |
+| [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-07 |  |
 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2023-06-04 | 2023-06-06 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [DAY 1000](https://open.spotify.com/track/5v3NWwG7HRa2ozXKsa8bhA) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Beatrick](https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m) | [PLAYBÁNIA](https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h) | 1:39 | 2022-09-03 | 2022-09-10 |
@@ -618,7 +619,7 @@
 | [Rossz esték](https://open.spotify.com/track/3Xourl4xRz7cfHMznl0PlR) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS), [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Rossz esték](https://open.spotify.com/album/6KG8xtkCbi3uTb5INTqbmu) | 3:24 | 2021-11-27 | 2022-08-12 |
 | [Rossz kéz](https://open.spotify.com/track/36BUjFSteZsyz3VWU88VlO) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:44 | 2023-02-03 | 2023-03-04 |
 | [Rosszfiú](https://open.spotify.com/track/457W946TugABcCGbS3Af2b) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz) | [Holdvilág Club Hotel & Casino](https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS) | 3:39 | 2022-04-23 | 2022-04-25 |
-| [Rosszlány](https://open.spotify.com/track/2DlC1q5HjHwf4VAxDOvfPR) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Rosszlány](https://open.spotify.com/album/412yyBe1KPIfPxXH0aRTrV) | 1:56 | 2023-05-06 |  |
+| [Rosszlány](https://open.spotify.com/track/2DlC1q5HjHwf4VAxDOvfPR) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Rosszlány](https://open.spotify.com/album/412yyBe1KPIfPxXH0aRTrV) | 1:56 | 2023-05-06 | 2023-06-08 |
 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 | 2022-12-24 | 2022-12-27 |
 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 | 2021-08-29 | 2021-11-21 |
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2021-05-20 | 2021-08-29 |

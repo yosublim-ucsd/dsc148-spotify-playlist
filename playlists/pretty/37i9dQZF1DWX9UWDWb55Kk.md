@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,151 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,199 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 70 | [Dime](https://open.spotify.com/track/0wyV7uIeaON89oWBcL0AA6) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Dime](https://open.spotify.com/album/3en3ILNZj2XjDqrljiz1VQ) | 2:48 |
 | 71 | [BAGDAD \- Cap.7: Liturgia](https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:02 |
 | 72 | [Indestructibles](https://open.spotify.com/track/1mRbGtScYckQQFBV787DxE) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Fue Eléctrico \(Edición Deluxe\)](https://open.spotify.com/album/38X0FvPYfXUnwQOWN8paq4) | 3:54 |
-| 73 | [Pa Tra](https://open.spotify.com/track/2R1u7QKplJXe05TqfQtPKr) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf), [Yaniduv](https://open.spotify.com/artist/6emom1eFrk0MYc84EUMOJk), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI), [Nipo809](https://open.spotify.com/artist/24jgLzPtbvGaTKKjvE7UMj) | [Pa Tra](https://open.spotify.com/album/5QdRkeax5cPyOeFgqH4lMF) | 2:33 |
+| 73 | [Pa Tra](https://open.spotify.com/track/7i5zxFusd0L1w229nZWOR8) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf), [Yaniduv](https://open.spotify.com/artist/6emom1eFrk0MYc84EUMOJk), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI), [Nipo809](https://open.spotify.com/artist/24jgLzPtbvGaTKKjvE7UMj) | [Pa Tra](https://open.spotify.com/album/3YpxnsL6cZD7eOkW36ECbO) | 2:33 |
 | 74 | [Hoy No Me Puedo Levantar](https://open.spotify.com/track/5afJQLK9s5W8LmhjWtcBfk) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Hoy No Me Puedo Levantar](https://open.spotify.com/album/6QTQI32uInC7dOUnY6VQzw) | 2:23 |
 | 75 | [Do That](https://open.spotify.com/track/6Uwx3rTu2joE2bVyxUCgU2) | [Octopvs To The Party](https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8), [Lasai](https://open.spotify.com/artist/4jm1fGGclMs7yvK3BgFDsN) | [Do That](https://open.spotify.com/album/5tRdDiBlya1zt47CdmJ6p9) | 2:41 |
 | 76 | [Bills](https://open.spotify.com/track/7rlCeTnjn0plPZkVAcctPZ) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills](https://open.spotify.com/album/6ItEjseW8RWuVTDLd1vcnp) | 3:24 |
@@ -186,7 +186,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 176 | [Resistiré](https://open.spotify.com/track/2oI6d7XcMz1AMTQhDopV5J) | [Duo Dinamico](https://open.spotify.com/artist/1TiGxAkU8w0xBCVFOP6Ttl) | [En Forma](https://open.spotify.com/album/1o1XBaN4Jinqh1j3MrEzI2) | 4:01 |
 | 177 | [Wild Ones](https://open.spotify.com/track/2Nfwhr89NY1PKY0Cb4If7o) | [The Rassle](https://open.spotify.com/artist/1w7xqTJFKpD7XS03t0KkuU) | [Wild Ones](https://open.spotify.com/album/3HmVyQwJj2ectPIPdP9zHF) | 4:05 |
 | 178 | [Take Me with You](https://open.spotify.com/track/7g4x9Np42hShfS2hxpFxLa) | [Monika](https://open.spotify.com/artist/60YJi3abieLZxGxwtBv7Jh) | [Secret in the Dark](https://open.spotify.com/album/0zNkxFt5g1hJi64XE4Zw67) | 5:06 |
-| 179 | [Swipe It Off](https://open.spotify.com/track/6oBm0LyHOSPAHUyaCWkGVQ) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Brazzabelle](https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr) | [Swipe It Off](https://open.spotify.com/album/58U88uG7iregTvZAFKIQsZ) | 2:29 |
+| 179 | [Swipe It Off](https://open.spotify.com/track/5EkkonCZXg6dRf9wSBqEtT) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Brazzabelle](https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr) | [Swipe It Off](https://open.spotify.com/album/4ZIqYLcgit6njZ4RjHMZck) | 2:25 |
 | 180 | [Move Your Feet](https://open.spotify.com/track/670lqX7FWkegmFz41iUrVY) | [DESTABILIZED](https://open.spotify.com/artist/4nu031RbrdRCeIMN9o6PTP) | [Move Your Feet](https://open.spotify.com/album/2eG5jBTdn3Q5I8ffJNb5Sv) | 3:22 |
 | 181 | [Strained Are We](https://open.spotify.com/track/5IQynlcf86jvfQYj2UkYXJ) | [UNDERHER](https://open.spotify.com/artist/450wFwmuEK6ytahAaWlhbX) | [Dark Souls EP](https://open.spotify.com/album/7I7HkWDAGmsNIrDpkH3pAI) | 7:04 |
 | 182 | [No More Time](https://open.spotify.com/track/04tChTd9e3doey94izHAhA) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Many Nights](https://open.spotify.com/album/7sYMpykonUmETY57kACYgL) | 3:15 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCw3MmU4MDFlMzQ2YzljODA4MDE0YmE4YTE5ZTNkYWUxOTQ5ZGViNjEx`
+Snapshot ID: `MCw5NGY4YTlhNWFhMzRiYmM5NTE0YjBlMzI1MTk4NDFjNmE5ZjUwMTZj`

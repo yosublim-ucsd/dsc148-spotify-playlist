@@ -1694,10 +1694,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 200138,
       "name": "Half My Fault",
       "url": "https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P"
+    },
+    {
+      "album": {
+        "name": "A Little Calamity",
+        "url": "https://open.spotify.com/album/7clOVsfQ9IkT4GjjTbtBEZ"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200138,
+      "name": "Half My Fault",
+      "url": "https://open.spotify.com/track/7gucs6k5y19L9OfkuZ61ZP"
     },
     {
       "album": {

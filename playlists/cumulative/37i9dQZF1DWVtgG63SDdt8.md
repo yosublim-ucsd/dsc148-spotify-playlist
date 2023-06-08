@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H?si=4f21d1419eed49e3">TuKool Tiff</a>
 
-3,679 songs - 10 day 8 hr 13 min
+3,680 songs - 10 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2139,7 +2139,8 @@
 | [My Light](https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light](https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2) | 2:27 | 2023-02-24 |  |
 | [My Lover](https://open.spotify.com/track/6ZpfJmd40iArYfoXpi6tq5) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [My Lover](https://open.spotify.com/album/3aFg0FSMqY5qJB263VR7vX) | 2:47 | 2023-02-10 | 2023-02-18 |
 | [My Mind](https://open.spotify.com/track/21Vb2z3wNcORpBhx5NM1Ad) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf) | [My Mind](https://open.spotify.com/album/7tl7xjg32Ge7akPMHzCHRa) | 2:58 | 2023-05-12 | 2023-05-27 |
-| [My Moment](https://open.spotify.com/track/7HgwQJaUb3jef5Sk3VbB03) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [My Moment](https://open.spotify.com/album/3Yf0sq4nzzrma77O2J88tt) | 2:39 | 2023-05-26 |  |
+| [My Moment](https://open.spotify.com/track/77VsGl6vy7XgpzEk4tsGp4) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [My Moment](https://open.spotify.com/album/7mN6Oi9wcGnIdnulaAtKDe) | 2:39 | 2023-06-02 |  |
+| [My Moment](https://open.spotify.com/track/7HgwQJaUb3jef5Sk3VbB03) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [My Moment](https://open.spotify.com/album/3Yf0sq4nzzrma77O2J88tt) | 2:39 | 2023-05-26 | 2023-06-08 |
 | [My Offering](https://open.spotify.com/track/2xxP4wiB4PQAWco6qRyGF9) | [SONS THE BAND](https://open.spotify.com/artist/0HRtriOgRf9dPnJJf9mNqL), [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij) | [My Offering](https://open.spotify.com/album/6Q7mOF34hmHU24V517izf1) | 9:53 | 2022-06-17 | 2022-07-02 |
 | [My Old Friend \(feat\. Drew Holcomb\)](https://open.spotify.com/track/5NSZSbrwUSGUxKzU766vq1) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT) | [My Old Friend \(feat\. Drew Holcomb\)](https://open.spotify.com/album/5ZyjbTGKpFOiI3NdcRWk6z) | 3:23 | 2022-06-03 | 2022-06-18 |
 | [My Redeemer Lives](https://open.spotify.com/track/159qzas5yQe7RSqGEGtSMK) | [Michael R\. Hicks](https://open.spotify.com/artist/37jKFfAIHyQolYpr9fu0Eu), [Yahosh Bonner](https://open.spotify.com/artist/0S2PueVg0I0JvOtqP9ICIS) | [My Redeemer Lives](https://open.spotify.com/album/6Mu3iLxqQdoLlrZmG9ny1O) | 3:22 | 2023-03-03 | 2023-03-18 |

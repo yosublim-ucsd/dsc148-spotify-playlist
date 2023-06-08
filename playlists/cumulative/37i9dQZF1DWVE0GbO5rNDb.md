@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-291 songs - 14 hr 24 min
+292 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-24 |  |
 | [GO](https://open.spotify.com/track/2s0lm5AwB5xoul4SOftEMw) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe) | [GO](https://open.spotify.com/album/6cQ8DdwVVQgD4WmPQ4X8MK) | 2:31 | 2022-05-30 | 2022-07-09 |
 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 | 2023-05-04 |  |
+| [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-06-07 |  |
 | [Got You For Life](https://open.spotify.com/track/4kln9ecLNpOwjIiueHy7Yq) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt), [Ruhde](https://open.spotify.com/artist/1xLhhhPXc6NUNxUXDG5Psb) | [Got You For Life](https://open.spotify.com/album/1JIcujaJ1JCY6yH5h1HhfS) | 2:31 | 2022-05-17 | 2022-07-26 |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2022-05-13 | 2023-03-18 |
 | [Happy Kids](https://open.spotify.com/track/3nVJ4tGeLFR6HUiz3e7qAe) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Happy Kids](https://open.spotify.com/album/792bNRtVnNsqWfKSabIwgz) | 2:57 | 2022-05-30 | 2022-06-01 |
@@ -142,7 +143,7 @@
 | [Kissed by the Sun](https://open.spotify.com/track/58mNefoSsSkSC15ly4ZEMu) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt) | [Kissed by the Sun](https://open.spotify.com/album/5NRS1J7Ri5Ic1SAOx0xihE) | 2:47 | 2022-05-30 | 2023-05-16 |
 | [Knew That Second](https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Trygge](https://open.spotify.com/artist/50fazcvxDiXlzBHusOK6gu) | [Knew That Second](https://open.spotify.com/album/79SkOcwPqz3dsNo2dKTigJ) | 2:40 | 2022-05-06 | 2022-07-29 |
 | [Leave A Little Love](https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y) | 3:07 | 2022-05-06 |  |
-| [Legit](https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz) | [Erlandsson](https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Legit](https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH) | 2:59 | 2022-10-01 |  |
+| [Legit](https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz) | [Erlandsson](https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Legit](https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH) | 2:59 | 2022-10-01 | 2023-06-08 |
 | [Let Go \- Radio Edit](https://open.spotify.com/track/0oYBG9S6VAKLlNZm3TH0LH) | [Roken](https://open.spotify.com/artist/4D1p1yzMg6CpJYkV4m9999), [BLANE](https://open.spotify.com/artist/301wVPignZNHLb3h8zdCmJ) | [Let Go](https://open.spotify.com/album/4clFGkkOCBeF0YYzMoIvxx) | 3:12 | 2022-06-24 | 2023-05-05 |
 | [Let the Sun Shine \- Purple Disco Machine Remix](https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Let the Sun Shine \(Purple Disco Machine Remix\)](https://open.spotify.com/album/6UhfjhKAcnH61ZGR9zZNFh) | 2:46 | 2022-05-06 | 2022-07-29 |
 | [Lies](https://open.spotify.com/track/7I5XQpe29kmU86T37nhJip) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Lies](https://open.spotify.com/album/1OSNncFtXpvRdzatk0TEjM) | 3:16 | 2022-05-13 | 2022-06-03 |

@@ -4,7 +4,7 @@
 
 > It's a good day to be a My Day!
 
-132 songs - 7 hr 56 min
+135 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,15 +86,18 @@
 | [Not Fine](https://open.spotify.com/track/6W8dT3CMFlVIwfsnnYLL0D) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr) | 3:35 | 2020-05-12 |  |
 | [Not Mine](https://open.spotify.com/track/09vCm1gYxlBSi6ijArnczi) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr) | 3:15 | 2020-05-12 |  |
 | [Not Mine](https://open.spotify.com/track/67C8NRYbI2XwiYilezmxZQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:15 | 2020-05-12 | 2023-06-07 |
-| [ONE](https://open.spotify.com/track/01ZedLPM6De5HPt5crdRQf) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: Negentropy \- Chaos Swallowed up in Love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:18 | 2021-04-19 |  |
+| [ONE](https://open.spotify.com/track/01ZedLPM6De5HPt5crdRQf) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: Negentropy \- Chaos Swallowed up in Love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:18 | 2021-04-19 | 2023-06-08 |
+| [ONE](https://open.spotify.com/track/1OhCgra07fEThNjnRleZqy) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj) | 3:18 | 2021-04-19 |  |
 | [Only](https://open.spotify.com/track/0pl5A0K1kXws0xkClbd6iN) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:57 | 2021-04-19 | 2023-06-07 |
 | [Only](https://open.spotify.com/track/4CFSn8D1ZGNTzQiVEKvJV8) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj) | 3:57 | 2021-04-19 |  |
 | [OUCH](https://open.spotify.com/track/3YftGIMRfazVINtT3mcM3k) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:17 | 2020-05-12 | 2023-06-07 |
 | [OUCH](https://open.spotify.com/track/4e3ojkw2uMECuKuPOQhwx3) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr) | 3:17 | 2020-05-12 |  |
-| [Out of the Blue](https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt) | 3:16 | 2021-09-30 |  |
+| [Out of the Blue](https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt) | 3:16 | 2021-09-30 | 2023-06-08 |
+| [Out of the Blue \(Duet with Song Heejin\)](https://open.spotify.com/track/2tsqYaAoyvZ53hUKXTrBfq) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/6J8ozqrMlo6p3PmcTwFM6Y) | 3:16 | 2021-09-30 |  |
 | [Right Through Me](https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:37 | 2021-07-05 |  |
 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 | 2021-07-05 | 2023-06-07 |
-| [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth, Part\. 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2020-05-12 |  |
+| [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth, Part\. 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2020-05-12 | 2023-06-08 |
+| [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 | 2020-05-12 |  |
 | [so let’s love](https://open.spotify.com/track/0p3flPNocJa64LB7pZDiTZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj) | 3:42 | 2021-04-19 |  |
 | [so let’s love](https://open.spotify.com/track/7IDUo5rlyHw08w8l3UpAcE) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:42 | 2021-04-19 | 2023-06-07 |
 | [Somehow](https://open.spotify.com/track/1tVXHdJZbv9H5ZHpJ4zpHZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 3:22 | 2020-05-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The freshest pop sounds. Cover: Iniko",
-  "num_followers": 199103,
+  "num_followers": 199135,
   "original_name": "New Pop Revolution",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWQzMjI3NTdhNzc3N2E4NjAwNDZjMjA2MGVkMTJjZmVhNjg0Zjli",
+  "snapshot_id": "MCw3Y2IyOWMwNWZkZDc5MzlkZGNjOTg1M2E1ZTA4MjFiNDA2ZjdkOTgz",
   "tracks": [
     {
       "added_at": "2023-06-02 13:35:41",
@@ -692,17 +692,21 @@
       "added_at": "2023-06-02 13:35:41",
       "album": {
         "name": "I Wrote A Song",
-        "url": "https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu"
+        "url": "https://open.spotify.com/album/5qlydNF8Z6kousaKWE5jRB"
       },
       "artists": [
         {
           "name": "Mae Muller",
           "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
         }
       ],
       "duration_ms": 165151,
       "name": "I Wrote A Song",
-      "url": "https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn"
+      "url": "https://open.spotify.com/track/3Us6ao4g3k4Kt4vvGJGCrR"
     },
     {
       "added_at": "2023-06-02 13:35:41",

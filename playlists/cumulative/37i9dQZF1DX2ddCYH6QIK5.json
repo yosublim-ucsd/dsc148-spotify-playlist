@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Elto, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: AMBRA, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Aus Meinem Kopf",
+        "url": "https://open.spotify.com/album/6x1XarY8fnlXU2Tdq9kFIN"
+      },
+      "artists": [
+        {
+          "name": "Good.Smelling",
+          "url": "https://open.spotify.com/artist/0XNdKbe2ojgQfPBBnOZJVW"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178005,
+      "name": "Aus Meinem Kopf",
+      "url": "https://open.spotify.com/track/6kEhRpnVG9rr1keGuS8B5O"
+    },
+    {
+      "album": {
         "name": "Aus Versehen",
         "url": "https://open.spotify.com/album/0DKnHfkVsduQ3BqgFUPPeE"
       },
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 176421,
       "name": "BFF (Best Fake Friend)",
       "url": "https://open.spotify.com/track/11UyNYD9NIuWmJhu8GQYSs"
@@ -1420,6 +1438,24 @@
       "duration_ms": 183914,
       "name": "Black Sesame",
       "url": "https://open.spotify.com/track/7wxKP5puWTtABvOfDKDZR1"
+    },
+    {
+      "album": {
+        "name": "BLACKOUT",
+        "url": "https://open.spotify.com/album/0Pm4JhQmpOIPOfNs48wMBI"
+      },
+      "artists": [
+        {
+          "name": "AMBRA",
+          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/6yyo0W4QhL87StAC9Z0ZzR"
     },
     {
       "album": {
@@ -1716,7 +1752,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 299210,
       "name": "Bobby",
       "url": "https://open.spotify.com/track/7AfzWYm0vklsPlSAanrIrF"
@@ -2034,7 +2070,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 163654,
       "name": "Call Me What You Want",
       "url": "https://open.spotify.com/track/62WB67RNKnvO0R1dKbexEi"
@@ -2158,6 +2194,24 @@
       "duration_ms": 168491,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/1Fd8AUBFy6c815N5VTBpc0"
+    },
+    {
+      "album": {
+        "name": "Indoor Activities",
+        "url": "https://open.spotify.com/album/4GXJkEPwG65tf7kdOapEIo"
+      },
+      "artists": [
+        {
+          "name": "Feale",
+          "url": "https://open.spotify.com/artist/1ZxOC2uaCSxUiRtAcEVzc2"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263882,
+      "name": "Cats (Not The Musical)",
+      "url": "https://open.spotify.com/track/6VjTBUdQS6CPwmFeIMtBUb"
     },
     {
       "album": {
@@ -3586,7 +3640,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 153002,
       "name": "Eh besser",
       "url": "https://open.spotify.com/track/2Wpje7xs4zkVXJPiHkBOy3"
@@ -4052,7 +4106,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 159181,
       "name": "Fall out the Loop",
       "url": "https://open.spotify.com/track/2JG1FB9qqUHYBxuo43T4Ql"
@@ -4323,6 +4377,24 @@
     },
     {
       "album": {
+        "name": "Follow Your Love",
+        "url": "https://open.spotify.com/album/1KK6EL915z7sOeNgCVGAAq"
+      },
+      "artists": [
+        {
+          "name": "Simon Benitez",
+          "url": "https://open.spotify.com/artist/3FYGFbhXnSHjHgwLIAihQF"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208032,
+      "name": "Follow Your Love",
+      "url": "https://open.spotify.com/track/1OzOXBwfvdpPJk0T5p2Ftn"
+    },
+    {
+      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/1zkgKmKl0xwGctO0NRo0wz"
       },
@@ -4576,7 +4648,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 216243,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/1VAsYBxWFEYU9ikOhuCqeG"
@@ -6506,7 +6578,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 186927,
       "name": "Jessiwhat",
       "url": "https://open.spotify.com/track/0tUwFlK44pv6GDwXCmK0DD"
@@ -6950,6 +7022,24 @@
       "duration_ms": 133062,
       "name": "Lass mich gehen",
       "url": "https://open.spotify.com/track/34GfArgwrSQQHocMFMapiA"
+    },
+    {
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/0HcJAYxLG2dUCPZtCwhLt3"
+      },
+      "artists": [
+        {
+          "name": "Padi",
+          "url": "https://open.spotify.com/artist/3BqbpG4GyEmaybhZSclexV"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/3ReVWeeH0a44SLYlfrvJuB"
     },
     {
       "album": {
@@ -8415,6 +8505,24 @@
     },
     {
       "album": {
+        "name": "Never Change",
+        "url": "https://open.spotify.com/album/5qNOrbWKvVCnS7sUYSRqQJ"
+      },
+      "artists": [
+        {
+          "name": "Mildfire",
+          "url": "https://open.spotify.com/artist/5AmEjGxZFTnqYZHRI8JuWA"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "Never Change",
+      "url": "https://open.spotify.com/track/3Drhe1fCYzpPbzojJxThXW"
+    },
+    {
+      "album": {
         "name": "Never Taught To Treasure",
         "url": "https://open.spotify.com/album/3MXHrJ9KY3LEXSlLvPnphQ"
       },
@@ -8628,6 +8736,24 @@
       "duration_ms": 322000,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/1QE8Kb0Sb9FsQXS585oka8"
+    },
+    {
+      "album": {
+        "name": "Not Close Enough To You",
+        "url": "https://open.spotify.com/album/22AyXlxL8ouHS5XYTTWcO3"
+      },
+      "artists": [
+        {
+          "name": "Felie",
+          "url": "https://open.spotify.com/artist/61gMlW3h5f0y57dAMqAqNY"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "Not Close Enough To You",
+      "url": "https://open.spotify.com/track/14iqL2LF1ylry92sdS35ed"
     },
     {
       "album": {
@@ -9652,7 +9778,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 172417,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/4k1NDIbiXQK78QfVH6kadP"
@@ -10788,7 +10914,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 195442,
       "name": "Smile",
       "url": "https://open.spotify.com/track/5WtqZvo6FpwsslVE9MdrU8"
@@ -11236,7 +11362,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 425173,
       "name": "Storyteller",
       "url": "https://open.spotify.com/track/2hWkEkHNeR1xCTbNKYWX6D"
@@ -11330,6 +11456,24 @@
       "duration_ms": 192465,
       "name": "STRUGGLE",
       "url": "https://open.spotify.com/track/0LEERa0B2yvLwwJjrJMHSA"
+    },
+    {
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2d9et68Mnz9XeyPOq4bZ0g"
+      },
+      "artists": [
+        {
+          "name": "Noah Luard",
+          "url": "https://open.spotify.com/artist/3ahcsg6njkPGqxiziZZlTW"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174607,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1JHhyEM8FNdJejI8USxNiR"
     },
     {
       "album": {
@@ -12030,6 +12174,24 @@
       "duration_ms": 164477,
       "name": "tonight",
       "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
+    },
+    {
+      "album": {
+        "name": "for a while",
+        "url": "https://open.spotify.com/album/2e34cV5hpEMKdDfCx73JxV"
+      },
+      "artists": [
+        {
+          "name": "asendorf",
+          "url": "https://open.spotify.com/artist/78b89wKKyPuekXMDuievU4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188531,
+      "name": "too good to be alone",
+      "url": "https://open.spotify.com/track/6jovJqluxcDmJSVDPUYSVP"
     },
     {
       "album": {
@@ -13209,6 +13371,24 @@
     },
     {
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/7fsWs83NwxAvFXnYmuSFKD"
+      },
+      "artists": [
+        {
+          "name": "Niels Angne",
+          "url": "https://open.spotify.com/artist/1nikDBFAskCzmHMrKTFTGZ"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125537,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/4vRgJ27enjkkr4dGcW8aKZ"
+    },
+    {
+      "album": {
         "name": "Who Is She",
         "url": "https://open.spotify.com/album/6Dl6OB6Uy06aPbUxRqsdXC"
       },
@@ -13527,6 +13707,24 @@
     },
     {
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/5CZXFoBQOUz09H4y2gb7qg"
+      },
+      "artists": [
+        {
+          "name": "Wannanelly",
+          "url": "https://open.spotify.com/artist/4uwxmhZH1x9hNPFo2D9QtT"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193464,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2zsrxAAFXM0Q8lOtDak3XR"
+    },
+    {
+      "album": {
         "name": "You Can't Escape the Future",
         "url": "https://open.spotify.com/album/7dakmFDwm0vjxBhjFlrMSX"
       },
@@ -13700,7 +13898,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 241014,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/2gNydDHdLHUjYJCv97nSge"

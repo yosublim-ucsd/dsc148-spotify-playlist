@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 28885,
+  "num_followers": 28945,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGNlN2RkYWI1M2Q4NGNkNTA1ODUzN2U4NTVlZDMzOTc1ZTYzNzUw",
+  "snapshot_id": "MCw2MzRiZTAxMjZkMDJhYjNkZjlkYTY0NDcwN2VjYjE2YTNlODI1N2Yw",
   "tracks": [
     {
       "added_at": "2023-05-26 11:50:26",
@@ -875,18 +875,26 @@
     {
       "added_at": "2023-05-26 11:50:26",
       "album": {
-        "name": "Your Good Times Will Come",
-        "url": "https://open.spotify.com/album/1ZhTIMvd5OlrytEfwekpUR"
+        "name": "Trips #2: Vietnam",
+        "url": "https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY"
       },
       "artists": [
         {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        },
+        {
+          "name": "B\u00e8o D\u1ea1t M\u00e2y Tr\u00f4i",
+          "url": "https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM"
+        },
+        {
+          "name": "HCMC Students",
+          "url": "https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK"
         }
       ],
-      "duration_ms": 290753,
-      "name": "Your Good Times Will Come",
-      "url": "https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH"
+      "duration_ms": 440341,
+      "name": "Ho Chi Min",
+      "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
     }
   ],
   "unique_name": "Rooftop Sunset",

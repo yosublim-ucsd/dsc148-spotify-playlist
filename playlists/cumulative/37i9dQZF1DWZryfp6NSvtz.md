@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: FEVER 333
 
-3,697 songs - 8 day 17 hr 43 min
+3,698 songs - 8 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2347,7 +2347,8 @@
 | [Out the Door](https://open.spotify.com/track/3sSILvMDzKAk2PG4TLJoJM) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Out the Door](https://open.spotify.com/album/0Yr5rPIOoT1QlwpfUgHfDp) | 2:45 | 2022-09-01 | 2022-09-09 |
 | [Outlaw Love](https://open.spotify.com/track/0cfWKN9jyNERP4iN4ayHeS) | [The Districts](https://open.spotify.com/artist/3HZgaiR960RFqx9d4LPraD) | [Outlaw Love](https://open.spotify.com/album/5LZTboCb3mKXhVG9wxAJpF) | 4:03 | 2022-01-06 | 2022-01-14 |
 | [Outlook](https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Outlook](https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07) | 3:51 | 2023-04-21 | 2023-04-29 |
-| [Outsider](https://open.spotify.com/track/6QzpOnLnIs96PFZ831d6zU) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/2WukwhVY6nvzF3OSAwdmYb) | 4:05 | 2023-06-02 |  |
+| [Outsider](https://open.spotify.com/track/2QQqlUWiLDROQJ6MGpL3o5) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/1BVsgwH1tbz8ga50B3Sqda) | 4:05 | 2023-06-02 |  |
+| [Outsider](https://open.spotify.com/track/6QzpOnLnIs96PFZ831d6zU) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/2WukwhVY6nvzF3OSAwdmYb) | 4:05 | 2023-06-02 | 2023-06-08 |
 | [Outta My League](https://open.spotify.com/track/3jue5AUk1PyEoT38MykCp9) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [Outta My League](https://open.spotify.com/album/7ocylI2VcwNt5M7I7TBKUa) | 2:13 | 2023-05-05 | 2023-05-13 |
 | [Outta Their Minds](https://open.spotify.com/track/6iNDWZ9cwhSRq4bdVtaywB) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Outta Their Minds](https://open.spotify.com/album/3YE8YcamB8Unws67TQQkrh) | 2:48 | 2023-02-24 | 2023-03-04 |
 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 | 2023-04-14 | 2023-04-22 |

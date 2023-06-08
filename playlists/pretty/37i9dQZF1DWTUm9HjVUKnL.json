@@ -1,13 +1,45 @@
 {
   "description": "Dive into the full collection of Spotify Singles recordings. Cover: Cat Burns. ",
-  "num_followers": 216953,
+  "num_followers": 216971,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Yjc0NTNmNmVjZGQzZjY1Zjc0MGVhNTBlM2ExMjIwMWI0ZjcyZTQw",
+  "snapshot_id": "MCwxZTdhMjJiYzY0OGE3ZDJhMjNjMGMyNTM0ZTY0ZmNjMjUxMDUzZjAz",
   "tracks": [
+    {
+      "added_at": "2023-06-07 15:02:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+    },
+    {
+      "added_at": "2023-06-07 15:02:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 289461,
+      "name": "Army Of Me - Spotify Single",
+      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
     {
       "added_at": "2023-05-31 14:11:31",
       "album": {

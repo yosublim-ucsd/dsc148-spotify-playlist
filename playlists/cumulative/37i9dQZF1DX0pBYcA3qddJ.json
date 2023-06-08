@@ -3154,7 +3154,7 @@
     {
       "album": {
         "name": "Ker al Loch (Four Ways)",
-        "url": "https://open.spotify.com/album/4bfXyKUGJYMxdvTq9cdQ0f"
+        "url": "https://open.spotify.com/album/0Dj7gv30Jz736jF3SRYtzS"
       },
       "artists": [
         {
@@ -3165,6 +3165,24 @@
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 359893,
+      "name": "Ker al Loch - Solo Piano",
+      "url": "https://open.spotify.com/track/3wS3AQejgbN67aLHiODBiM"
+    },
+    {
+      "album": {
+        "name": "Ker al Loch (Four Ways)",
+        "url": "https://open.spotify.com/album/4bfXyKUGJYMxdvTq9cdQ0f"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-08",
       "duration_ms": 359893,
       "name": "Ker al Loch - Solo Piano",
       "url": "https://open.spotify.com/track/6HKVTiraMsZQkzfyv2DlV6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,547 likes - 80 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,601 likes - 80 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 61 | [Shoto Asha](https://open.spotify.com/track/5mzRmPqR9zvr2QfS8pkHOW) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Shoto Asha](https://open.spotify.com/album/0rvy3iL4b5Ckb6dGLTQD1A) | 3:40 |
 | 62 | [Aushomapto](https://open.spotify.com/track/1S10omnF4NT8QhcLNSxRse) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Aushomapto 1](https://open.spotify.com/album/7whmpn7eMWOJjZUaYd2AIS) | 4:59 |
 | 63 | [ONUBHUTI](https://open.spotify.com/track/6gOYHUPMviZ9kNdIkNgKjq) | [Arbovirus](https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle) | [ONUBHUTI](https://open.spotify.com/album/5Gs4vwvB68JbP2TbBtsigY) | 3:59 |
-| 64 | [Obhiman](https://open.spotify.com/track/3DK8pt5Ky1Ii4QblF5iBsI) | [Black](https://open.spotify.com/artist/1qA4YCACKNrNV3foCbUTSr) | [Amar Prithibi](https://open.spotify.com/album/5RZpZjnmV9bsX6GGNAXGwZ) | 4:36 |
+| 64 | [Obhiman](https://open.spotify.com/track/3DK8pt5Ky1Ii4QblF5iBsI) | [Black](https://open.spotify.com/artist/4gtC4UjNWYeviDzZreoDXd) | [Amar Prithibi](https://open.spotify.com/album/5RZpZjnmV9bsX6GGNAXGwZ) | 4:36 |
 | 65 | [School](https://open.spotify.com/track/63gXEUNweGMKkvhfkSPMzL) | [Arbovirus](https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle) | [Bishesh Droshtobyo](https://open.spotify.com/album/42zNimPtaGN07Axu6kXFfG) | 4:19 |
 | 66 | [Eden](https://open.spotify.com/track/53NYK7ZRLBErAMdJNBJEoo) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Eden](https://open.spotify.com/album/5LtAT3Wo7DQ8dDCiR0bN1T) | 4:18 |
 | 67 | [Jadukar](https://open.spotify.com/track/6O8n8QgQwT7GobevUzeks7) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Perfume](https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7) | 4:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 79 | [Beatles](https://open.spotify.com/track/7eNQLrONUBz1Ae2QkJpzI6) | [Firoze Jong](https://open.spotify.com/artist/3CmrTjyQr0mLwtJO0uIrUq) | [Beatles](https://open.spotify.com/album/5KbfOmpfR9GJml6ai5JnDo) | 4:34 |
 | 80 | [Jhornar Moto Chonchol](https://open.spotify.com/track/7cvpKBUE9F3GVLEuZxZECM) | [Dreek](https://open.spotify.com/artist/28tTpWnB5Cg33acyjyY8iV) | [Dreek Singles](https://open.spotify.com/album/1jHm7l2DTG2VDoFvqnGo5I) | 5:09 |
 
-Snapshot ID: `MCwwMDIyMjgxZDhkNjg2ODNhOWUxNjBkZjk3MjI2MmQ3ZjUxOGRmZDA3`
+Snapshot ID: `MCw0ZDEzODBjMjU1YjRlYmRmYzdmMGYzZWE1YWJmYWZiNTgwZDBlZmIx`

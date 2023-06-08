@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-372 songs - 21 hr 24 min
+373 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Everything's Gonna Be Alright](https://open.spotify.com/track/2NEBP8SXEqwZt2PRdPXXuy) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [No Zip Code](https://open.spotify.com/album/5XI9vNFt9hCV5pWSTvkmQv) | 3:49 | 2019-10-26 | 2022-04-17 |
 | [Eyes On You](https://open.spotify.com/track/2u7Nm46dAujcAi5Rw79CJL) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Eyes On You](https://open.spotify.com/album/3yYIlnqvZvOs6R0nyee7sg) | 3:02 | 2019-05-28 | 2022-07-29 |
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2019-05-27 | 2023-03-28 |
-| [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2023-03-10 |  |
+| [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2023-03-10 | 2023-06-08 |
 | [Famous](https://open.spotify.com/track/2HGymMoOdB4ZYv0AAqYmgF) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Famous](https://open.spotify.com/album/7rxL9Pb48sXuFODVaL0RHA) | 3:12 | 2019-06-23 | 2019-08-10 |
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2022-03-04 | 2022-07-29 |
 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 | 2022-05-13 |  |
@@ -253,6 +253,7 @@
 | [Ride \(feat\. Macy Maloy\)](https://open.spotify.com/track/1CoOHJAHtKEDnUBrp3nKAB) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Macy Maloy](https://open.spotify.com/artist/5JhkYX4FCP6FRmxrGEQoda) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0) | 4:01 | 2019-06-23 | 2020-02-06 |
 | [Right Girl Wrong Time](https://open.spotify.com/track/1ZzUE9vPvsVMCNu2e7OepO) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Right Girl Wrong Time](https://open.spotify.com/album/7rimqdFFxMEBQYjyiTAXHW) | 3:42 | 2019-06-25 | 2021-10-11 |
 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 | 2019-06-23 | 2022-06-09 |
+| [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 | 2023-05-18 |  |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2023-03-16 | 2023-06-07 |
 | [Roll All Night](https://open.spotify.com/track/3XiXmvA4lX3UxVgPmPrLah) | [Whitney Duncan](https://open.spotify.com/artist/7D3IiPrIsSWfMFHEqEOCUB) | [Roll All Night](https://open.spotify.com/album/5f1wim1kBVZ2JCJgWcVa6N) | 4:11 | 2019-10-26 | 2022-04-18 |
 | [Roll With It](https://open.spotify.com/track/7bNX2Fgb4MjPrYbkHaCNwV) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Easton Corbin](https://open.spotify.com/album/7I6ulIzRMJ8Bmz5rFBAvpA) | 3:27 | 2019-10-26 | 2022-04-20 |

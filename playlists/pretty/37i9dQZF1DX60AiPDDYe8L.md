@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 
 > Las mejores canciones de la reina del pop argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,546 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,584 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 | 59 | [Como Tú](https://open.spotify.com/track/1nC3XXneEcPbQXPjFAc1zT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Como Tú](https://open.spotify.com/album/1iQXKHgwIP2jttVdHkRRqD) | 2:46 |
 | 60 | [Diva](https://open.spotify.com/track/4QVmV6QHriSb4TkaxvTuZm) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Diva](https://open.spotify.com/album/56gWk6z0ms5UVpKiHpQQO0) | 3:06 |
 
-Snapshot ID: `MCw2NmY2MWE4ODVmYWU1NTRmMzcxMDBhMmIyZmM0MzEzOWVmZjNhMzMy`
+Snapshot ID: `MCxhNWE1M2IzYzk2ZGE0NTBjNTc3NjY0NWYzMTBiMDQzNjMwY2M1MWFl`

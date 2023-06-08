@@ -5939,6 +5939,24 @@
     },
     {
       "album": {
+        "name": "We're Not Here to Be Loved",
+        "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122265,
+      "name": "Closet",
+      "url": "https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/4vdHY7cdRkKTebKoEM6yaE"
       },
@@ -19845,7 +19863,7 @@
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 230894,
+      "duration_ms": 230893,
       "name": "My Ordinary Life",
       "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
     },
@@ -29196,6 +29214,24 @@
       "duration_ms": 176844,
       "name": "The Principal",
       "url": "https://open.spotify.com/track/7fYNunIzTO7yAHBQtvq8Fc"
+    },
+    {
+      "album": {
+        "name": "We're Not Here to Be Loved",
+        "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191236,
+      "name": "The Razor's Apple",
+      "url": "https://open.spotify.com/track/0rFdjHoldrbHIBeUIjxi5a"
     },
     {
       "album": {

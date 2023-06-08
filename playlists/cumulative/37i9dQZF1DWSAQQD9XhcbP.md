@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-122 songs - 6 hr 47 min
+123 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [White Christmas \- Spotify Singles \- Holiday, Recorded at Air Studios, London](https://open.spotify.com/track/1A4Yu7C7lCylnun5R1bX3q) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 3:12 | 2022-12-05 | 2023-01-07 |
 | [White Christmas \- Spotify Singles \- Holiday, Recorded at Air Studios, London](https://open.spotify.com/track/7F9oCEKbqjN99cV5HpvYER) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [White Christmas \(Spotify Singles \- Holiday, Recorded at Air Studios, London\)](https://open.spotify.com/album/1gDgPEEeuFPfRMASQWU8A0) | 3:12 | 2022-12-05 |  |
 | [White Winter Hymnal \(Fleet Foxes Cover\)](https://open.spotify.com/track/0qEFmBL2k8pb2OWgW490X8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 2:47 | 2021-12-23 |  |
-| [Winter Song](https://open.spotify.com/track/3FptdbTXMaDXU6jd5nBGat) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Winter's Calling](https://open.spotify.com/album/0FAlzSri49UKFIAVkBoePG) | 4:31 | 2021-12-23 |  |
+| [Winter Song](https://open.spotify.com/track/0q17bBvODfs0CheoGjDDR4) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Winter's Calling](https://open.spotify.com/album/7bxtKj1CULqgolcJkUWCa0) | 4:31 | 2022-12-05 |  |
+| [Winter Song](https://open.spotify.com/track/3FptdbTXMaDXU6jd5nBGat) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Winter's Calling](https://open.spotify.com/album/0FAlzSri49UKFIAVkBoePG) | 4:31 | 2021-12-23 | 2023-06-08 |
 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 | 2021-12-23 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

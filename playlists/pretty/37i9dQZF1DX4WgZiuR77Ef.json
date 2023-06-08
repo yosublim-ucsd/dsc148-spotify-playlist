@@ -1,12 +1,12 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 395651,
+  "num_followers": 395681,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzYyNjExNDcxNTljMGZmYWQzYjk2ZDYxZmU0ZTc5ZDg2NTc3YThh",
+  "snapshot_id": "MCwyNGQ5MTkwYjkyZWI1NTVmZWE2NTZhNmM5NWMwNGFmYzNhOWI5NzUz",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -123,7 +123,7 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Bump The Man",
+        "name": "Bump The Man (Live)",
         "url": "https://open.spotify.com/album/1av1bz04u2EpaydQ5ecCpa"
       },
       "artists": [
@@ -137,7 +137,7 @@
         }
       ],
       "duration_ms": 291053,
-      "name": "Bump The Man",
+      "name": "Bump The Man - Live",
       "url": "https://open.spotify.com/track/0Bwy62vMCaxtEdgRCh4jh5"
     },
     {

@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Get Ready To Dance",
+        "url": "https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167857,
+      "name": "Everything I Need",
+      "url": "https://open.spotify.com/track/1g9eAXqn01rtonJSVeSmPI"
+    },
+    {
+      "album": {
         "name": "Firestarter",
         "url": "https://open.spotify.com/album/1qisOburOSHmodwNMGltzp"
       },

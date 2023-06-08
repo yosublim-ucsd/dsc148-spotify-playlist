@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Viva Suecia.
 
-277 songs - 18 hr 5 min
+278 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Dicen](https://open.spotify.com/track/1oBZYZy9FcHDVgKkjoseFN) | [ERRE](https://open.spotify.com/artist/4JEY5WEJnYy38hhcpWb1f2), [Pol 3.14](https://open.spotify.com/artist/4P9xDIEyrtAeXRI6xOl2TS) | [Dicen](https://open.spotify.com/album/6vlZfIIEJ0ol3iIQWM1zdK) | 2:16 | 2023-04-27 | 2023-05-12 |
 | [Dime por Qué](https://open.spotify.com/track/30hb88AQAdHSvSeZaml0oe) | [Gato Ventura](https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ) | [Dime por Qué](https://open.spotify.com/album/1QLorYr3Di0Q16CkBxdDF1) | 2:30 | 2022-10-06 | 2022-11-25 |
 | [Dime Que Me Quieres \- Versión 2023](https://open.spotify.com/track/4M0QpqN0H0ZY9PbxqiqeLk) | [Alejo Stivel](https://open.spotify.com/artist/7mGfdRd3PB4mRMPymFQM7n) | [Dime Que Me Quieres \(Versión 2023\)](https://open.spotify.com/album/74rxfPoSqb7R86oIuaSAx9) | 3:33 | 2023-02-16 | 2023-03-03 |
-| [Dolores se llamaba Lola](https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Ese día piensa en mí](https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu) | 5:11 | 2023-05-11 |  |
+| [Dolores se llamaba Lola](https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Ese día piensa en mí](https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu) | 5:11 | 2023-05-11 | 2023-06-08 |
 | [Dolores Se Llamaba Lola \- Remastered](https://open.spotify.com/track/2R8705oC8pTL8JwvpidmMT) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Ese Día Piensa en Mí \(Remastered\)](https://open.spotify.com/album/6RkLfsx8IskPcVGZybrd5y) | 5:09 | 2022-05-19 | 2022-07-29 |
 | [Dos clavos a mis alas \- Versión Molinos](https://open.spotify.com/track/0iPW5ZPxZhqPk9K1Z8VAxk) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Dos clavos a mis alas \(Versión Molinos\)](https://open.spotify.com/album/36pVtmmtG5MvQoBdyL9T5Q) | 4:45 | 2022-10-06 | 2022-10-28 |
 | [Dulce condena](https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [¡Hasta luego!](https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH) | 4:41 | 2022-05-19 |  |
@@ -145,6 +145,7 @@
 | [Ininteligible](https://open.spotify.com/track/6t2H68ea16ggJMqOngaHnN) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Ininteligible](https://open.spotify.com/album/21apSkaSzhLuBoTjoq2h5z) | 6:43 | 2022-05-30 | 2022-06-24 |
 | [inocentes](https://open.spotify.com/track/7nALJR0g08zgdAfNIEX1Ub) | [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [inocentes](https://open.spotify.com/album/2F25kGMdeJ9qNA5Yk1eDSR) | 3:28 | 2023-01-26 | 2023-02-10 |
 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 | 2022-05-19 | 2023-06-07 |
+| [Insurreccion \(En Directo\)](https://open.spotify.com/track/6xnHAQ96sirlw7Gm4ppqxG) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [El Último de la Fila, los Burros & los Rápidos...Historia de una Banda \(Autobiografía Sónica\)](https://open.spotify.com/album/7ah8WaQyfxS1d0NpIwSB3A) | 2:14 | 2023-06-01 |  |
 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 | 2022-05-19 |  |
 | [Insurrección \- 2008 Remaster](https://open.spotify.com/track/7803rmspVDTFR78bj5KLPk) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Enemigos de lo ajeno \(2008 Remaster\)](https://open.spotify.com/album/5EnwReRtJtSNMVNEd5KwLZ) | 2:13 | 2022-05-19 |  |
 | [Jaula de Oro](https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jaula de Oro](https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv) | 3:58 | 2023-04-27 |  |

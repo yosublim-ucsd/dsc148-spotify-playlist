@@ -1,12 +1,12 @@
 {
   "description": "Mientras la gente no deje de aplaudir, Chente no deja de cantar. Por siempre, Vicente Fern\u00e1ndez.",
-  "num_followers": 908944,
+  "num_followers": 909362,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGExODE2MTk1YzI1NTFmYWY3NDg0ZTM2NDljNDQ0ODhjYTE0OGQ3",
+  "snapshot_id": "MCxjYTQ3NmJhZDgwMTQxY2RhZWY3MjcyMWZiNDJkNjMwM2Y3NzU0M2Vh",
   "tracks": [
     {
       "added_at": "2023-05-02 17:44:11",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-05-02 17:44:11",
       "album": {
-        "name": "El Idolo De Mexico",
-        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
-    },
-    {
-      "added_at": "2023-05-02 17:44:11",
-      "album": {
         "name": "Por Tu Maldito Amor",
         "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 238000,
       "name": "Por Tu Maldito Amor",
       "url": "https://open.spotify.com/track/4pFrn7MBtpwXlsyO5CbCj2"
+    },
+    {
+      "added_at": "2023-05-02 17:44:11",
+      "album": {
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
     },
     {
       "added_at": "2023-05-02 17:44:11",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-02 17:44:11",
       "album": {
-        "name": "Entre El Amor Y Yo",
-        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Bohemio de Afici\u00f3n",
-      "url": "https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd"
-    },
-    {
-      "added_at": "2023-05-02 17:44:11",
-      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 182746,
       "name": "Cuando Yo Quer\u00eda Ser Grande",
       "url": "https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv"
+    },
+    {
+      "added_at": "2023-05-02 17:44:11",
+      "album": {
+        "name": "Entre El Amor Y Yo",
+        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Bohemio de Afici\u00f3n",
+      "url": "https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd"
     },
     {
       "added_at": "2023-05-02 17:44:11",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-05-02 17:44:11",
       "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "El Hombre Que M\u00e1s Te Am\u00f3",
+      "url": "https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk"
+    },
+    {
+      "added_at": "2023-05-02 17:44:11",
+      "album": {
         "name": "Un Azteca en el Azteca (En Vivo)",
         "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
       },
@@ -559,8 +575,8 @@
     {
       "added_at": "2023-05-02 17:44:11",
       "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO"
+        "name": "Mi Viejo",
+        "url": "https://open.spotify.com/album/6H1Ru58NKY7aNmHNEic44G"
       },
       "artists": [
         {
@@ -568,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 196520,
-      "name": "El Hombre Que M\u00e1s Te Am\u00f3",
-      "url": "https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk"
+      "duration_ms": 190653,
+      "name": "Mi Viejo",
+      "url": "https://open.spotify.com/track/5jmuiCbNU1SEvFKqMadOZR"
     },
     {
       "added_at": "2023-05-02 17:44:11",
@@ -591,22 +607,6 @@
       "duration_ms": 214213,
       "name": "Perd\u00f3n (with Alejandro Fern\u00e1ndez) - Remasterizado 2005",
       "url": "https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk"
-    },
-    {
-      "added_at": "2023-05-02 17:44:11",
-      "album": {
-        "name": "Mi Viejo",
-        "url": "https://open.spotify.com/album/6H1Ru58NKY7aNmHNEic44G"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Mi Viejo",
-      "url": "https://open.spotify.com/track/5jmuiCbNU1SEvFKqMadOZR"
     },
     {
       "added_at": "2023-05-02 17:44:11",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-05-02 17:44:11",
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Guadalajara - En Vivo",
-      "url": "https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV"
-    },
-    {
-      "added_at": "2023-05-02 17:44:11",
-      "album": {
         "name": "Ya No Insistas Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 204056,
       "name": "Ya No Insistas Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
+    },
+    {
+      "added_at": "2023-05-02 17:44:11",
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Guadalajara - En Vivo",
+      "url": "https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV"
     },
     {
       "added_at": "2023-05-02 17:44:11",

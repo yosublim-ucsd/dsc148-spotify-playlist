@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z30XHoglcl.md) - [plain]
 
 > EDM's ever stable <a href="spotify:artist:0CbeG1224FS58EUx4tPevZ">Timmy Trumpet</a>  spins his favorite summer anthems in his most recent mix for Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,023 likes - 31 songs - 59 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 27,089 likes - 31 songs - 59 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z30XHoglcl.md) - [plain]
 | 30 | [How To Save A Life \(feat\. loafers & The High\) \- Mixed](https://open.spotify.com/track/6Vxl0NY9KCvN30s50X83xr) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [loafers](https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [How To Save A Life \(feat\. loafers & The High\) \[Mixed\]](https://open.spotify.com/album/3iAn5jK8e7Tg7smu7rj6VP) | 2:59 |
 | 31 | [The Elite \- Mixed](https://open.spotify.com/track/48dLS5Y0NsoT05MntuAoUJ) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [The Elite \(Mixed\)](https://open.spotify.com/album/3ppjh8vGJ7ypHcAEBY8WA5) | 1:56 |
 
-Snapshot ID: `MCw5ZjIxNWU3ZGI3NGFiYmFkM2IzN2ZiZTI2MTlkNzJlNWY1ZjdmZGM3`
+Snapshot ID: `MCw5ZmFhM2E4MmUzNzY4MjVkYjQ4NWJjYmNhN2VhZTM2ODQ2MTUxMmM5`

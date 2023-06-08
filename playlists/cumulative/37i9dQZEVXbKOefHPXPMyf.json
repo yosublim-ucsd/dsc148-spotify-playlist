@@ -3089,6 +3089,28 @@
     },
     {
       "album": {
+        "name": "BRAZILIAN DAN\u00c7A PHONK",
+        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118194,
+      "name": "BRAZILIAN DAN\u00c7A PHONK",
+      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV"
       },
@@ -6300,7 +6322,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 214920,
       "name": "Don't ever say love me (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
@@ -16826,10 +16848,28 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 270140,
       "name": "Pacto (IA)",
       "url": "https://open.spotify.com/track/1WAvLgob7u4DJSp35wGsm0"
+    },
+    {
+      "album": {
+        "name": "Pacto IA",
+        "url": "https://open.spotify.com/album/1EInhHwR6PzSYggxRdzgj0"
+      },
+      "artists": [
+        {
+          "name": "Mangel",
+          "url": "https://open.spotify.com/artist/0QfVid09bM0oC4XLQwifPA"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270053,
+      "name": "Pacto IA",
+      "url": "https://open.spotify.com/track/4PDeCK3IO8P6UQfnSnW5Sn"
     },
     {
       "album": {
@@ -18512,7 +18552,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 231644,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect"
@@ -23140,7 +23180,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 115324,
       "name": "TrapTelly",
       "url": "https://open.spotify.com/track/5L9u1w2MgYKkStdDoqjw0T"

@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 180604,
       "name": "Catch Your Drift",
       "url": "https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi"
@@ -1250,6 +1250,24 @@
       "duration_ms": 188665,
       "name": "Enta",
       "url": "https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi"
+    },
+    {
+      "album": {
+        "name": "Everlasting Dance",
+        "url": "https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1"
+      },
+      "artists": [
+        {
+          "name": "Llunr",
+          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203231,
+      "name": "Everlasting Dance",
+      "url": "https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv"
     },
     {
       "album": {

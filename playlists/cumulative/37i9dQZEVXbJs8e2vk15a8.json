@@ -2003,6 +2003,32 @@
     },
     {
       "album": {
+        "name": "BALADINHA SINISTRA",
+        "url": "https://open.spotify.com/album/4VtwEXsNAQ9n5dekSnzhsO"
+      },
+      "artists": [
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        },
+        {
+          "name": "$pidxrs?808",
+          "url": "https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118646,
+      "name": "BALADINHA SINISTRA",
+      "url": "https://open.spotify.com/track/6wntHk37oMHAqt71RrZOeF"
+    },
+    {
+      "album": {
         "name": "Bambini",
         "url": "https://open.spotify.com/album/1nzam6bSPMrrNSbQShE5AQ"
       },
@@ -7480,7 +7506,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 278000,
       "name": "HABLA",
       "url": "https://open.spotify.com/track/0eD8HwEktgTG5ZOeUxyCUx"
@@ -13080,7 +13106,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 188662,
       "name": "Nube",
       "url": "https://open.spotify.com/track/2msWHBUKh6SZjsHe0ZSEXE"
@@ -13657,6 +13683,24 @@
     },
     {
       "album": {
+        "name": "pa la europa",
+        "url": "https://open.spotify.com/album/0P24alIzKw71sxcA6q8urs"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219730,
+      "name": "pa la europa",
+      "url": "https://open.spotify.com/track/1jXlz6LX86tN8LYY9tcNPE"
+    },
+    {
+      "album": {
         "name": "Pa La Europa",
         "url": "https://open.spotify.com/album/1wuxxtmnD0DAsMEHmqMcgu"
       },
@@ -13668,7 +13712,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 219753,
       "name": "Pa La Europa",
       "url": "https://open.spotify.com/track/0MoTNY46hAvSVq2CdN1xHk"
@@ -15556,7 +15600,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 231644,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect"
@@ -17586,7 +17630,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 197040,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
@@ -21122,7 +21166,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 195555,
       "name": "X5",
       "url": "https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk"

@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: سيف مجدي
 
-150 songs - 9 hr 13 min
+151 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Boleka](https://open.spotify.com/track/4nj0TWlpj3hPgx8jTgkFzF) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8), [G\. Oka](https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py) | [Boleka](https://open.spotify.com/album/6PvzO5ytpicA0jDEPBgTqy) | 2:23 | 2022-11-23 |  |
 | [Dawla](https://open.spotify.com/track/5BedaQpN3d92CLUVewl94E) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Dawla](https://open.spotify.com/album/2pERipFZNzfQPbKR19Od0B) | 2:56 | 2021-12-16 | 2022-02-17 |
 | [Eda Eda](https://open.spotify.com/track/5srxSzbtZ1t2mL4QfQafYx) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t) | [Eda Eda](https://open.spotify.com/album/0QUDkGByI09jn1SNEaALOp) | 2:44 | 2021-12-16 | 2022-03-10 |
-| [El 3aw \- العو](https://open.spotify.com/track/3yCO77szbEBiah3kTM70QM) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El 3aw \- العو](https://open.spotify.com/album/7pduZbuDZ53U3jeDTYJQej) | 3:28 | 2021-12-16 |  |
+| [El 3aw \- العو](https://open.spotify.com/track/3yCO77szbEBiah3kTM70QM) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El 3aw \- العو](https://open.spotify.com/album/7pduZbuDZ53U3jeDTYJQej) | 3:28 | 2021-12-16 | 2023-06-08 |
 | [El 7akode](https://open.spotify.com/track/4chzmhWx0yfEO7y7feyWYs) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [G\. Oka](https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py) | [El 7akode](https://open.spotify.com/album/2xPN9Gwah9tFEBq660w8Mw) | 3:05 | 2023-05-30 |  |
 | [El Melouk \- الملوك](https://open.spotify.com/track/04vHPXVGnb51q13NBoW22W) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [El Melouk \- الملوك](https://open.spotify.com/album/3eMTz433EZ3pEHtszeiIL2) | 3:15 | 2021-12-16 | 2023-05-31 |
 | [Enta Habibi Yala](https://open.spotify.com/track/1X4b08iGSB0OuT5o8fa6vm) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Enta Habibi Yala](https://open.spotify.com/album/4HF55ccNWOTKzhzVX3h4Lw) | 3:34 | 2022-06-20 |  |
@@ -54,6 +54,7 @@
 | [امبابه خط احمر](https://open.spotify.com/track/3tHO4bS7JzQmvQ5oRkb9NG) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f), [Biano](https://open.spotify.com/artist/574o3MQdD1Elms1LrN7KKC) | [امبابه خط احمر](https://open.spotify.com/album/0IT9G5uKu2dJcxRRABWGo0) | 3:25 | 2021-12-16 | 2022-01-11 |
 | [انا ابن ابويا وامى](https://open.spotify.com/track/3QYMACVt8nWKbhUSeIIG9O) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [انا ابن ابويا وامى](https://open.spotify.com/album/20XKmOhwuqBTNeJumwYqv1) | 5:25 | 2022-01-10 | 2022-07-29 |
 | [انا ابن ابويا وامى](https://open.spotify.com/track/661ndLkk7B8QFmCeRpeWqc) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [عصام صاصا](https://open.spotify.com/artist/76QlRkE5afjaqYuqN4kufF) | [انا ابن ابويا وامى](https://open.spotify.com/album/228oDfy2FJciEJIn92PnMA) | 5:25 | 2022-07-19 | 2022-10-25 |
+| [انا خاظف الانظار انا اعلي من الدولار](https://open.spotify.com/track/0uR3R0iyWsomKkOFrjJPQe) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [اسلام الملاح](https://open.spotify.com/artist/373OyCSwtScIDXdVuY3FbG) | [انا خاظف الانظار انا اعلي من الدولار](https://open.spotify.com/album/3ghuJFhSa7c8kTmY5zJgXz) | 3:04 | 2023-06-07 |  |
 | [انا راجع يا شوية جواجع](https://open.spotify.com/track/5oZ6qfK8eACA82PxhUKeN7) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7), [Nour Eltot](https://open.spotify.com/artist/73XccIf98HDXk4ZeJNe6Hq) | [انا راجع يا شوية جواجع](https://open.spotify.com/album/1j4Bs2KzSO65Aj7SQU6t1R) | 3:26 | 2022-11-23 |  |
 | [انا سيرتي يا خصمي مزولاك](https://open.spotify.com/track/3JBzFBmDt0pyRzZiCDCsUi) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [انا سيرتي يا خصمي مزولاك](https://open.spotify.com/album/1KklmmJko1LMjCaIjiKlrL) | 2:57 | 2023-02-07 | 2023-03-25 |
 | [انا غلط وانت صح](https://open.spotify.com/track/1FdmNIhPF6ygJlgoM9rt8S) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [انا غلط وانت صح](https://open.spotify.com/album/3qpB9MldixtzVCFNsAa4Z2) | 2:48 | 2022-07-19 |  |

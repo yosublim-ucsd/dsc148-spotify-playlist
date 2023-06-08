@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-363 songs - 23 hr 11 min
+365 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [Ou La La La \(All Eyes on Us\)](https://open.spotify.com/track/76lQS2DYoej5DDhDB9ijGm) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Vibe City Utah](https://open.spotify.com/album/1HCyJ22S5a7vZyL4eHk8YF) | 2:17 | 2022-04-08 |  |
 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 | 2021-09-01 |  |
 | [Outer Love](https://open.spotify.com/track/1wVMKkf2TbM7MtdnrlyB5k) | [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b) | [March Nineteen](https://open.spotify.com/album/2YYu2I0cb2YfOUq4C65Q7F) | 3:12 | 2021-09-01 |  |
-| [Pa Tra](https://open.spotify.com/track/2R1u7QKplJXe05TqfQtPKr) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf), [Yaniduv](https://open.spotify.com/artist/6emom1eFrk0MYc84EUMOJk), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI), [Nipo809](https://open.spotify.com/artist/24jgLzPtbvGaTKKjvE7UMj) | [Pa Tra](https://open.spotify.com/album/5QdRkeax5cPyOeFgqH4lMF) | 2:33 | 2021-09-01 |  |
+| [Pa Tra](https://open.spotify.com/track/2R1u7QKplJXe05TqfQtPKr) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf), [Yaniduv](https://open.spotify.com/artist/6emom1eFrk0MYc84EUMOJk), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI), [Nipo809](https://open.spotify.com/artist/24jgLzPtbvGaTKKjvE7UMj) | [Pa Tra](https://open.spotify.com/album/5QdRkeax5cPyOeFgqH4lMF) | 2:33 | 2021-09-01 | 2023-06-08 |
+| [Pa Tra](https://open.spotify.com/track/7i5zxFusd0L1w229nZWOR8) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf), [Yaniduv](https://open.spotify.com/artist/6emom1eFrk0MYc84EUMOJk), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI), [Nipo809](https://open.spotify.com/artist/24jgLzPtbvGaTKKjvE7UMj) | [Pa Tra](https://open.spotify.com/album/3YpxnsL6cZD7eOkW36ECbO) | 2:33 | 2021-09-01 |  |
 | [Paradise Lost](https://open.spotify.com/track/4lwKxX3qBqfa82ZeWUJEQB) | [Metro](https://open.spotify.com/artist/0YFjT675XQQLPuwiBnWRdH) | [Heaven Only Knows](https://open.spotify.com/album/1H6WIx83ce7Pl3PPt85m0v) | 2:57 | 2021-09-01 |  |
 | [París](https://open.spotify.com/track/72tS8Wv5j4sHGTxVWQ6nwc) | [Vega Almohalla](https://open.spotify.com/artist/5XGMdl7ZEKx6q1WI3i3oWc), [Zazo & Gxurmet](https://open.spotify.com/artist/2Nqj0SeShPGwB7O88EOvTM) | [Amor](https://open.spotify.com/album/4JMllsIVKsbX9qGExapqRN) | 2:50 | 2021-09-01 |  |
 | [Permanent vacation](https://open.spotify.com/track/6RLzR5wjugdBKzaoPrrKJd) | [Modern Ruin](https://open.spotify.com/artist/4cKQl1wHAssze6XTKQwPJm) | [Unemployment Line Disco](https://open.spotify.com/album/00xfuXJwBODesUybW1GouI) | 6:19 | 2022-11-24 |  |
@@ -307,7 +308,8 @@
 | [Suck it to me](https://open.spotify.com/track/5K742zA0bNwZLYGo42fokz) | [Almodóvar & McNamara](https://open.spotify.com/artist/2syaHC0AjH86OataAecv1d) | [La Movida: The New Wave In Spain](https://open.spotify.com/album/1zAYUmbZs56jK6l5sewvVt) | 7:20 | 2022-04-08 |  |
 | [Sun Skin Air](https://open.spotify.com/track/1hbhPTc1daDTwZHddvXyCE) | [SUN SILVA](https://open.spotify.com/artist/5f84MJAiHgRVmGpDOQI1fU) | [Sun Skin Air](https://open.spotify.com/album/6NRyjVUbyvQgr1n1cbTUyT) | 4:45 | 2022-11-24 |  |
 | [Sunset](https://open.spotify.com/track/4PMmwowVLOajPdiKnrU1vK) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8) | 5:26 | 2021-09-01 |  |
-| [Swipe It Off](https://open.spotify.com/track/6oBm0LyHOSPAHUyaCWkGVQ) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Brazzabelle](https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr) | [Swipe It Off](https://open.spotify.com/album/58U88uG7iregTvZAFKIQsZ) | 2:29 | 2021-09-01 |  |
+| [Swipe It Off](https://open.spotify.com/track/5EkkonCZXg6dRf9wSBqEtT) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Brazzabelle](https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr) | [Swipe It Off](https://open.spotify.com/album/4ZIqYLcgit6njZ4RjHMZck) | 2:25 | 2021-09-01 |  |
+| [Swipe It Off](https://open.spotify.com/track/6oBm0LyHOSPAHUyaCWkGVQ) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Brazzabelle](https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr) | [Swipe It Off](https://open.spotify.com/album/58U88uG7iregTvZAFKIQsZ) | 2:29 | 2021-09-01 | 2023-06-08 |
 | [Synrise](https://open.spotify.com/track/4SD5ttMTZP2HF3EP9bWe4W) | [GOOSE](https://open.spotify.com/artist/3gAnduA93Ykv75yNrwXhz5) | [Synrise](https://open.spotify.com/album/56XubiYgiBFYFV7TrYIzWC) | 5:31 | 2022-11-24 |  |
 | [Só Nós Dois](https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Só Nós Dois](https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3) | 3:48 | 2022-04-08 |  |
 | [Tabú, Tabú](https://open.spotify.com/track/1bddnaoOGRbTlY2OUVyTHa) | [Sola](https://open.spotify.com/artist/4qCTpj3iNdkNXe2NaFZ9om) | [Sola](https://open.spotify.com/album/688MeN08VNjM1EOdGrbeVC) | 4:30 | 2022-11-24 |  |

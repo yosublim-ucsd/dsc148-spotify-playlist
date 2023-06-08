@@ -2,7 +2,7 @@
 
 ### [Deep Bass / Melodic Bass / 140](https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP)
 
-> Deep Bass \- Melodic Bass
+> Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
 213 songs - 13 hr 32 min
 

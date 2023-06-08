@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5309,
+  "num_followers": 5321,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWMxMTcxZTFhMTI4MTIyNmM1Yzc2MmI5NTFhM2JhZTUyN2NjNzhh",
+  "snapshot_id": "MCwxYjdjMjNiZTk2Mjc4MmMwMzZmZjQ0ZDM5MzE0NDM2YmIwMDkzY2Nh",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "The Forbidden Marriage, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI"
-      },
-      "artists": [
-        {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
-        }
-      ],
-      "duration_ms": 213823,
-      "name": "Do You Know That",
-      "url": "https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Jewel (feat. KURO)",
         "url": "https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 181377,
       "name": "Jewel (feat. KURO)",
       "url": "https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "The Forbidden Marriage, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI"
+      },
+      "artists": [
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+        }
+      ],
+      "duration_ms": 213823,
+      "name": "Do You Know That",
+      "url": "https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "Kim Hyung Joong 1",
+        "url": "https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyung Joong",
+          "url": "https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5"
+        }
+      ],
+      "duration_ms": 269872,
+      "name": "\uadf8\ub7ac\ub098\ubd10",
+      "url": "https://open.spotify.com/track/4bDrbZHIKab9oKdEmkO4TU"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 251105,
       "name": "Wanna be her",
       "url": "https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "Kim Hyung Joong 1",
-        "url": "https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyung Joong",
-          "url": "https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5"
-        }
-      ],
-      "duration_ms": 269872,
-      "name": "\uadf8\ub7ac\ub098\ubd10",
-      "url": "https://open.spotify.com/track/4bDrbZHIKab9oKdEmkO4TU"
     },
     {
       "added_at": "2023-05-02 09:09:27",

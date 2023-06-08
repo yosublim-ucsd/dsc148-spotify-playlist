@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo:  GreenWoodz",
-  "num_followers": 36871,
+  "num_followers": 36876,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTIyMTcyMDEyZGRiZTVlMjkxZTJiOTA3MTA3Mzk3YWE4NmU2YjE5",
+  "snapshot_id": "MCxkMTAxZmVmNzdmMThhYTNiYWVmYzg2ODNlMzViMTkxOTIzMWRkMjEz",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Zaza",
-        "url": "https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 148717,
-      "name": "Zaza",
-      "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Business (feat. Naza)",
         "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
       },
@@ -231,38 +215,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Eyes contact (feat. Franglish)",
-        "url": "https://open.spotify.com/album/486EpOJ7Wc1e2iv43XypPJ"
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ"
       },
       "artists": [
         {
-          "name": "Gambino La MG",
-          "url": "https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 189708,
-      "name": "Eyes contact (feat. Franglish)",
-      "url": "https://open.spotify.com/track/3OqZ59YSwGBoC9s3ARWJd7"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Freestyle LVL UP 2",
-        "url": "https://open.spotify.com/album/69poeNuEJvR2UGMqWDV8wF"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 149064,
-      "name": "Freestyle LVL UP 2",
-      "url": "https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1"
+      "duration_ms": 148717,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -283,6 +247,42 @@
       "duration_ms": 197017,
       "name": "Money",
       "url": "https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Freestyle LVL UP 2",
+        "url": "https://open.spotify.com/album/69poeNuEJvR2UGMqWDV8wF"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 149064,
+      "name": "Freestyle LVL UP 2",
+      "url": "https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Eyes contact (feat. Franglish)",
+        "url": "https://open.spotify.com/album/486EpOJ7Wc1e2iv43XypPJ"
+      },
+      "artists": [
+        {
+          "name": "Gambino La MG",
+          "url": "https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 189708,
+      "name": "Eyes contact (feat. Franglish)",
+      "url": "https://open.spotify.com/track/3OqZ59YSwGBoC9s3ARWJd7"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "London Fever",
+        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "London Fever",
+      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "London Fever",
-        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "London Fever",
-      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Freestyle LVL UP 3",
         "url": "https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 200976,
       "name": "Freestyle LVL UP 3",
       "url": "https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "M\u00e9t\u00e9o",
+        "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 182970,
+      "name": "M\u00e9t\u00e9o",
+      "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -395,18 +411,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "M\u00e9t\u00e9o",
-        "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
+        "name": "Salement",
+        "url": "https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk"
       },
       "artists": [
         {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
         }
       ],
-      "duration_ms": 182970,
-      "name": "M\u00e9t\u00e9o",
-      "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
+      "duration_ms": 163034,
+      "name": "Salement",
+      "url": "https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -443,26 +463,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Salement",
-        "url": "https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        },
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Salement",
-      "url": "https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Pardonne-moi",
         "url": "https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "amnezia",
-        "url": "https://open.spotify.com/album/5ZKQDqhe3plohxAlowQ16t"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "amnezia",
-      "url": "https://open.spotify.com/track/223sTsABqhXPsTAXVF4EGL"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Charlotte",
         "url": "https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 214041,
       "name": "Charlotte",
       "url": "https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "amnezia",
+        "url": "https://open.spotify.com/album/5ZKQDqhe3plohxAlowQ16t"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "amnezia",
+      "url": "https://open.spotify.com/track/223sTsABqhXPsTAXVF4EGL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -531,22 +531,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "BBM",
-        "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b"
       },
       "artists": [
         {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
         }
       ],
-      "duration_ms": 179164,
-      "name": "BBM",
-      "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
+      "duration_ms": 192859,
+      "name": "Halla",
+      "url": "https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -575,38 +571,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Dieu, mes Fr\u00e8res et le Fer",
-        "url": "https://open.spotify.com/album/0sqjvWznAZpm2OV2FakaaY"
+        "name": "BBM",
+        "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
       },
       "artists": [
         {
-          "name": "HD La Rel\u00e8ve",
-          "url": "https://open.spotify.com/artist/3EguGZpwO69eFcoNj0vqW4"
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
         },
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 164100,
-      "name": "Elastiqu\u00e9",
-      "url": "https://open.spotify.com/track/7F5HJiph7AkAozWdKDF0F5"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Chrome",
-        "url": "https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b"
-      },
-      "artists": [
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 192859,
-      "name": "Halla",
-      "url": "https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv"
+      "duration_ms": 179164,
+      "name": "BBM",
+      "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -627,6 +607,26 @@
       "duration_ms": 166385,
       "name": "\u00c9ternel",
       "url": "https://open.spotify.com/track/4c21nWt1yyheyxXQAXxp6q"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Dieu, mes Fr\u00e8res et le Fer",
+        "url": "https://open.spotify.com/album/0sqjvWznAZpm2OV2FakaaY"
+      },
+      "artists": [
+        {
+          "name": "HD La Rel\u00e8ve",
+          "url": "https://open.spotify.com/artist/3EguGZpwO69eFcoNj0vqW4"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 164100,
+      "name": "Elastiqu\u00e9",
+      "url": "https://open.spotify.com/track/7F5HJiph7AkAozWdKDF0F5"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -675,6 +675,22 @@
       "duration_ms": 172373,
       "name": "Les brais\u00e9s",
       "url": "https://open.spotify.com/track/3Gjvu9dgeOooeEUhPtPIg5"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Les choses qu'on fait",
+        "url": "https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 196725,
+      "name": "Les choses qu'on fait",
+      "url": "https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -743,22 +759,6 @@
       "duration_ms": 168163,
       "name": "Iggy Pop",
       "url": "https://open.spotify.com/track/7lPHuXGYIAohOih9mg7kSq"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Les choses qu'on fait",
-        "url": "https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 196725,
-      "name": "Les choses qu'on fait",
-      "url": "https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC"
     },
     {
       "added_at": "2023-06-02 04:00:00",

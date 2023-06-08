@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-179 songs - 10 hr 50 min
+180 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Messe pour le temps présent: 2\. Psyché rock](https://open.spotify.com/track/1SeFJKXiXP8o374gDUylL9) | [Pierre Henry](https://open.spotify.com/artist/5ITPNl5P6R6cFbw4DAcMAY), [Michel Colombier](https://open.spotify.com/artist/5zl0vKMseEhdyXv88He8WQ) | [Pierre Henry: Messe Pour Le Temps Present](https://open.spotify.com/album/6ACougWynxWAGeeDveMD6P) | 2:51 | 2021-08-17 |  |
 | [Mixed Waste 4.2](https://open.spotify.com/track/27gmgvQ1KMiqTwpIVeQx9u) | [Baiyon](https://open.spotify.com/artist/2ibBdk29W8yH1KPD6oZdaj) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:11 | 2021-08-17 |  |
 | [Moog Power](https://open.spotify.com/track/3r6cHXQQt0BUVC6vEUUzh2) | [Hugo Montenegro](https://open.spotify.com/artist/0JBc7Jztn7EdEVjyMCN6Wi) | [Moog Power](https://open.spotify.com/album/66PzcvhyMJwlp9062pIGiX) | 2:54 | 2021-08-17 |  |
+| [Moon Journey](https://open.spotify.com/track/2KT1zr64KJosXMcpueH5A5) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Moon Journey](https://open.spotify.com/album/2iYxQTXWXf9bViocIGzSVv) | 6:18 | 2023-06-08 |  |
 | [Motorama](https://open.spotify.com/track/70RSgTp3AuCOenN3RXlef2) | [Gerhard Narholz](https://open.spotify.com/artist/7uvEwug4pon5M8ktDXyx3q), [Manuel Landy](https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco) | [Retro Synth POP](https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2) | 3:10 | 2021-08-17 | 2022-10-14 |
 | [Motorama \- Remastered](https://open.spotify.com/track/0sbggktIScAieeCmClifPw) | [Manuel Landy](https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco) | [Retro Synth Pop](https://open.spotify.com/album/001ZKrEwFq82rNcR538IFT) | 3:10 | 2021-08-17 |  |
 | [Mushrooms \(Raag Multani\)](https://open.spotify.com/track/2ELgcsJO8lNU8MdagrlaoM) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c) | 1:52 | 2021-11-12 |  |

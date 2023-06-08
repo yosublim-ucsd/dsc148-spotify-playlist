@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Kevin Morby
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,647 likes - 149 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,705 likes - 149 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 |
 | 149 | [I Know](https://open.spotify.com/track/6rYnkkiwRDrJlNnkV1jc0R) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [I Know](https://open.spotify.com/album/26Y1K8zcHQ47LUM53dlie5) | 4:14 |
 
-Snapshot ID: `MCxmY2U2NTQzMzBjNWY2ZDA5ZjIyNjFlYTBkYjQ3OTk5ZGU0YzFhZGQ1`
+Snapshot ID: `MCxmZDlkMjZlYmEwODI3ZTE4MDYwZjZkYWFhNjBkNDM3NTMwZWQxZWM0`

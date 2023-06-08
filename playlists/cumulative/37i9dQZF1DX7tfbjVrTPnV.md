@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-253 songs - 16 hr 12 min
+254 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dry Town \(Demo\)](https://open.spotify.com/track/6Stz1ACN3hgkPpY1DShA4Z) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Dry Town \(Demo\)](https://open.spotify.com/album/71v9uww2ohOHLHTKw8SSgw) | 2:55 | 2021-11-11 | 2022-07-29 |
 | [Dusty Old Man](https://open.spotify.com/track/2Srh0DDIMbirFH3rRSzKLO) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Dusty Old Man](https://open.spotify.com/album/0n03AglCe68fjvdJeyj833) | 3:47 | 2021-11-11 | 2022-07-29 |
 | [Dusty Old Man](https://open.spotify.com/track/5Vi7Nm5Eug5NWvCDzIMqOX) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Stitch of the World](https://open.spotify.com/album/76lhcMjk7j4oTTHV1HLZgs) | 3:47 | 2022-04-22 | 2023-04-29 |
+| [Dusty Old Man](https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Stitch of the World](https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD) | 3:47 | 2023-02-24 |  |
 | [East Virginia Blues](https://open.spotify.com/track/1fqHUqYBIsG2Ssz4CaHiKZ) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Happy Prisoner: The Bluegrass Sessions](https://open.spotify.com/album/3WVvNhEvAjTKjYUNubfHtd) | 3:34 | 2021-11-11 |  |
 | [End Of The End Of The World](https://open.spotify.com/track/2ka6UfbB6rRjnvpUv1VIjA) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/6GCiOsk7Wrlt2CRfcwW8MF) | 2:18 | 2021-11-11 | 2022-07-29 |
 | [End Of The End Of The World](https://open.spotify.com/track/5BIk3eHSQMMyCFTOXRo6OF) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP) | 2:18 | 2022-04-22 | 2023-05-01 |
@@ -159,7 +160,7 @@
 | [Moonshiner](https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 4:23 | 2021-11-11 |  |
 | [Mother, Son and Holy Ghost](https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [For the Birds](https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH) | 5:38 | 2022-09-23 |  |
 | [My Favorite Picture Of You](https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [My Favorite Picture Of You](https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo) | 3:32 | 2021-11-11 |  |
-| [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-11-11 |  |
+| [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-11-11 | 2023-06-08 |
 | [Night Still Comes](https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You \(Deluxe Edition\)](https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5) | 3:47 | 2022-04-22 |  |
 | [Night Still Comes](https://open.spotify.com/track/34n6Ea7xmSq23tzClOer3w) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You \[Deluxe Edition\]](https://open.spotify.com/album/1lZeuZHmv7Mzngg8UEIRPo) | 3:47 | 2021-11-11 | 2022-07-29 |
 | [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 | 2022-10-14 |  |

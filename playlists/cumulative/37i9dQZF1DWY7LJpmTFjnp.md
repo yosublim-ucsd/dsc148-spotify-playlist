@@ -2,7 +2,7 @@
 
 ### [La + Chingona](https://open.spotify.com/playlist/37i9dQZF1DWY7LJpmTFjnp)
 
-> Una dosis con lo más chingón pa'l gusto mexicano\. Molotov en portada.
+> Una dosis con lo más chingón pa'l gusto mexicano\. Los Bunkers en portada.
 
 144 songs - 9 hr 17 min
 

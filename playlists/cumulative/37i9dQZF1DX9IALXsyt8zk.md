@@ -2,9 +2,9 @@
 
 ### [RADAR Korea](https://open.spotify.com/playlist/37i9dQZF1DX9IALXsyt8zk)
 
-> Unearthing up\-and\-coming Korean acts\. Cover: Huh!\(허성현\)
+> Unearthing up\-and\-coming Korean acts\. Cover: LE SSERAFIM \(르세라핌\)
 
-236 songs - 12 hr 54 min
+239 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ALARM](https://open.spotify.com/track/6b44AK3LX4Umv2e3Q6enC8) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ALARM](https://open.spotify.com/album/4eW3NKZ1foDDZXR1Z39EaQ) | 3:23 | 2022-09-05 | 2023-02-16 |
 | [ALIVE](https://open.spotify.com/track/1tjDKrtdCKtVCGEG35jqdI) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/5HYN8soZop2qOtyuUnTobz) | 3:06 | 2022-05-26 | 2023-02-01 |
 | [All Beginning \(Feat\. J.O.Y\)](https://open.spotify.com/track/0cF3kJkzLd8dUe96nJ6gdB) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [99 Moments](https://open.spotify.com/album/1a2O5z7zmRSY0g97M9wz2V) | 2:37 | 2022-05-11 | 2022-09-06 |
+| [ANTIFRAGILE](https://open.spotify.com/track/0bMoNdAnxNR0OuQbGDovrr) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 | 2023-06-07 |  |
 | [Anymore](https://open.spotify.com/track/3vKX4347uUOuEECpHJwITb) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Anymore \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/2A6nEYKyCf7nF5uGlR24Ds) | 2:47 | 2022-04-20 | 2022-07-05 |
 | [ATHLETIC GIRL](https://open.spotify.com/track/0qu54GVbhmBFjpsgiG32PL) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [ATHLETIC GIRL](https://open.spotify.com/album/3Weg79SFmoXNRUSn08QSPZ) | 3:32 | 2022-01-06 | 2023-01-12 |
 | [AURORA](https://open.spotify.com/track/41GURJxjE5urzLnrw2O2sI) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [cignature 3rd EP Album ‘My Little Aurora’](https://open.spotify.com/album/0Bhl5VhnxFho8slGxiBgZK) | 3:26 | 2023-01-31 | 2023-05-02 |
@@ -73,6 +74,7 @@
 | [Excuses](https://open.spotify.com/track/41xVl4Xpbmgb1u5ypTNuZi) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Excuses](https://open.spotify.com/album/2DfyWdoLS1GO89aUyh05WJ) | 3:16 | 2022-04-20 | 2022-07-05 |
 | [Fall In Love](https://open.spotify.com/track/6KlGgR6HTAob4tXJpBpkfA) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Our D\-Day \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4ADxULhP0HEEExDwvdgFKc) | 3:24 | 2023-02-15 |  |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-05 | 2023-01-12 |
+| [FEARLESS \(2023 Ver.\)](https://open.spotify.com/track/4K8jDTlNhZWEdnzZVGRMtN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 2:48 | 2023-06-07 |  |
 | [Fill Me Up](https://open.spotify.com/track/2x1Dcdn6dgzuLopYDPfIcd) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [Fill Me Up](https://open.spotify.com/album/15wEQBEIZ9X8LABzjFc1M6) | 2:57 | 2023-02-15 |  |
 | [Fire Saturday](https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Fire Saturday](https://open.spotify.com/album/51cLLBwum2814O6R3iEtyq) | 3:21 | 2021-12-30 | 2023-01-12 |
 | [Fix Me](https://open.spotify.com/track/6zRh1dXMxFn2WyeobMagJd) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Fix Me](https://open.spotify.com/album/2jzxhDFOZmjtk6JIi4pKd1) | 2:29 | 2021-12-30 | 2022-01-28 |
@@ -222,6 +224,7 @@
 | [Twinkle, Twinkle](https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [A Dream Of ILY:1](https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG) | 3:21 | 2023-01-11 | 2023-05-02 |
 | [Umbrella \(feat\. Ashley Alisha & prettyhappy\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 | 2022-07-04 | 2023-02-01 |
 | [UNBELIEVABLE](https://open.spotify.com/track/1DWPQVnwUJg75OxoV2JH5v) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [UNBELIEVABLE](https://open.spotify.com/album/5D3Qk2qFw5pM6E2uCZ15Ke) | 2:45 | 2022-04-20 | 2022-05-12 |
+| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-06-07 |  |
 | [Universe\_](https://open.spotify.com/track/6zVDBEprS3mo8p0WV9MtLr) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Planet Nine : VOYAGER](https://open.spotify.com/album/2mM97mU3Xh4IvV51Dwq8Ky) | 3:36 | 2022-01-06 | 2022-04-21 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-07-04 | 2023-02-01 |
 | [VERTIGO](https://open.spotify.com/track/761N2tK3hPrtgoQttXSu50) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [VERTIGO](https://open.spotify.com/album/40Lrh44oMTvelKzpKmj91M) | 3:22 | 2021-12-30 | 2022-01-22 |

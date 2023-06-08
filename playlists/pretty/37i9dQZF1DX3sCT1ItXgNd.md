@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor y lo último del pop en español\. Foto: Aitana
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,820 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,985 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 74 | [HONG KONG](https://open.spotify.com/track/6kLzCjDUYV9b6jRykKAd8e) | [Clari Cremaschi](https://open.spotify.com/artist/6Z1grWIzJvaRMAn5XFmDly), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [HONG KONG](https://open.spotify.com/album/6HDMJTazTiLnskQO30BXAC) | 2:34 |
 | 75 | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k) | 2:46 |
 
-Snapshot ID: `MCwwNGNiOGQ3YTcwMjZiNjAwMzBjMjcwMjQyYzVmYWY1ZjI0ZjRkNzFi`
+Snapshot ID: `MCxjYTljZDQ1N2I4YTFkMGY2YjcyNGQwMWY2NGVhYjcyNzU0MjllOWUz`

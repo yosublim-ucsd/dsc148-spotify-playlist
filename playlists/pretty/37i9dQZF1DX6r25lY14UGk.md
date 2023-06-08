@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,275 likes - 120 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,308 likes - 120 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ABC You A G](https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS), [Stella Freelon](https://open.spotify.com/artist/07a4pfP7i1yw280o7TWBCk) | [AnceStars](https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc) | 1:53 |
-| 2 | [Hand To Hold](https://open.spotify.com/track/7vGPAcgiQQClmZFeA4T4kL) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Hand To Hold](https://open.spotify.com/album/0udXK70wTEH0UoOvLTHdmg) | 2:13 |
+| 2 | [Hand To Hold](https://open.spotify.com/track/7vGPAcgiQQClmZFeA4T4kL) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR), [Joff Bush](https://open.spotify.com/artist/2lzb2enQmjDzP3un9pjsKg) | [Hand To Hold](https://open.spotify.com/album/0udXK70wTEH0UoOvLTHdmg) | 2:13 |
 | 3 | [Look Up! There's a Rainbow!](https://open.spotify.com/track/0lSQ1XbRZrvlYo7XvrIYJ2) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [Swimming \(from the Welcome to the Flea Circus EP\)](https://open.spotify.com/album/1GxtdUkKs1RA07jxn0irO7) | 2:04 |
 | 4 | [Train Is Coming](https://open.spotify.com/track/76sV3pmK4aaTb9tdwL2d0O) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Train Is Coming](https://open.spotify.com/album/11D3dlxcvp4YHOc1qICJeo) | 2:06 |
 | 5 | [Help You Do The Work](https://open.spotify.com/track/4odnaqDDzJuQPTQ69AC7wJ) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS), [Jarrett Johnson](https://open.spotify.com/artist/7s9DvOkGwaNtMa4jPXPpLt) | [AnceStars](https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc) | 2:48 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 119 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 |
 | 120 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 |
 
-Snapshot ID: `MCwxNWRjNTFlZTgyOTkzNmRlNzhkODA1ZGNhOWQxNGVmODU0YWQ2NTll`
+Snapshot ID: `MCwxMGFmNjk4MGYwNzY1YmQxOWY4ZjIyMGM3MTRjNzI5NDZhZDMyM2Q1`

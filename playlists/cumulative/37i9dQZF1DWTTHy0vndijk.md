@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Feverse \(피버스\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-343 songs - 19 hr 21 min
+344 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,8 @@
 | [YOO\-HOO](https://open.spotify.com/track/2CBvv5Zy31FNdRsFH4lkhr) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [YOO\-HOO](https://open.spotify.com/album/1M4i6D5dQyFwbYl1czh7Qi) | 3:27 | 2022-02-14 | 2022-07-25 |
 | [YooHoo](https://open.spotify.com/track/16t8Ao3DlWXJZspLvRL9Yo) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [Letter From Secret](https://open.spotify.com/album/1fPe2YXY9HBC7STj06tK90) | 3:24 | 2022-03-29 | 2022-04-21 |
 | [You&I](https://open.spotify.com/track/2QiWUA1Jk1QZ2aYH87dfrC) | [UNI.T](https://open.spotify.com/artist/3iui2F01zrPbNx91td4LJZ) | [line](https://open.spotify.com/album/0JTo1wOJtMlFnDaa1SZozo) | 3:19 | 2021-11-29 | 2022-07-15 |
-| [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-13 |  |
+| [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 | 2023-05-09 |  |
+| [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-13 | 2023-06-08 |
 | [날 바라바라봐 LOOK AT ME](https://open.spotify.com/track/6fNZs2SjBVvsT1xYOVuPDq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [twicetagram](https://open.spotify.com/album/7dOZAeST5qCpfpQRAHq9sa) | 3:13 | 2022-01-26 | 2022-06-16 |
 | [내 다리를 봐](https://open.spotify.com/track/7tHD9W1csiXXcfYL9v5Rba) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [Be Ambitious](https://open.spotify.com/album/3YZ0la892g3mx8f9ZVcK5q) | 3:24 | 2022-01-17 | 2022-04-20 |
 | [다시 해줘 Do it again](https://open.spotify.com/track/1HON0JUwVn1N8cnxcUTIC4) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE STORY BEGINS](https://open.spotify.com/album/3uLLMZwXdtGAD3BAB12jUM) | 3:26 | 2022-02-09 | 2022-06-25 |

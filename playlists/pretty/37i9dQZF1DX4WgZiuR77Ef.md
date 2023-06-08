@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,651 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,681 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 3 | [B Side Ft\. Fred Wesley \- Xtended Mix](https://open.spotify.com/track/3zylRbtWMhzHbfFazm2qeM) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Mary Pearce](https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg), [Charlotte Kelly](https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4), [Richie Stevens](https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl) | [B Side Ft\. Fred Wesley \- Xtended Mix](https://open.spotify.com/album/0ZQ01132OLcip3FakPJUDf) | 4:00 |
 | 4 | [Never Coming Down](https://open.spotify.com/track/19IwWASH8eydtU2qIgTLGT) | [The Next Movement](https://open.spotify.com/artist/3o22jwVEWoJFyDIXzPlWrP) | [Never Coming Down](https://open.spotify.com/album/370Zhy11smbAyJ6tLAgt1g) | 4:15 |
 | 5 | [All Night](https://open.spotify.com/track/7BxtPjKUqjVf7RItM6mxZl) | [Lack Of Afro](https://open.spotify.com/artist/5e3Z7HYpiVcP3TlU0a4yap), [Jack Tyson Charles](https://open.spotify.com/artist/6PqhbDGZhMuzNL9VmeSfFi) | [All Night](https://open.spotify.com/album/7EPIP4WWSQ68j9RhSjkiKL) | 3:51 |
-| 6 | [Bump The Man](https://open.spotify.com/track/0Bwy62vMCaxtEdgRCh4jh5) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Bump The Man](https://open.spotify.com/album/1av1bz04u2EpaydQ5ecCpa) | 4:51 |
+| 6 | [Bump The Man \- Live](https://open.spotify.com/track/0Bwy62vMCaxtEdgRCh4jh5) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Bump The Man \(Live\)](https://open.spotify.com/album/1av1bz04u2EpaydQ5ecCpa) | 4:51 |
 | 7 | [Get out Your Ear's Way](https://open.spotify.com/track/0oQnNNdsHV00hIiMnKUUAq) | [Lachy Doley](https://open.spotify.com/artist/5ep1j3SaxtyVV4lLHHkjfI), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Get out Your Ear's Way](https://open.spotify.com/album/2xn2UW5EFRug6ecA4SyHXw) | 4:15 |
 | 8 | [B What U R](https://open.spotify.com/track/6WiZWymC6kOGvjUy0nmzTN) | [Stone Foundation](https://open.spotify.com/artist/0rVkv5DwsmIbQg2ECWMQGT), [Shirley Jones](https://open.spotify.com/artist/7722txNx6G1Q5u0kS7WaZn) | [B What U R](https://open.spotify.com/album/3E9k29nIhPhVgpxFAvqrxA) | 3:21 |
 | 9 | [Boots In Place](https://open.spotify.com/track/2R9P0B1TsHzLTMrGQb9JGE) | [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [George Porter Jr.](https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a), [Floki Sessions](https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj), [Erica Falls](https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Nikki Glaspie](https://open.spotify.com/artist/6qHV34ZuWE31v0NihuQbWv) | [Boots In Place](https://open.spotify.com/album/592HLqXY8YKBQ97UwXTDcg) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 |
 | 100 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 
-Snapshot ID: `MCwzMzYyNjExNDcxNTljMGZmYWQzYjk2ZDYxZmU0ZTc5ZDg2NTc3YThh`
+Snapshot ID: `MCwyNGQ5MTkwYjkyZWI1NTVmZWE2NTZhNmM5NWMwNGFmYzNhOWI5NzUz`

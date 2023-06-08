@@ -1562,10 +1562,28 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 187425,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/1rhPpFbyMssL3Rc9wSAO54"
+    },
+    {
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/6OcS9PBcKQtBpiubt9w2zf"
+      },
+      "artists": [
+        {
+          "name": "FOMARE",
+          "url": "https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187425,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/4gApHF6PIQByk71asnPt2L"
     },
     {
       "album": {
@@ -2164,6 +2182,24 @@
       "duration_ms": 239500,
       "name": "Koewo",
       "url": "https://open.spotify.com/track/0VkBmuJMv574JUlQC0gDot"
+    },
+    {
+      "album": {
+        "name": "Kohaku",
+        "url": "https://open.spotify.com/album/2ISxhwPjPjLKNyow9Eg5dU"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243666,
+      "name": "Kohaku",
+      "url": "https://open.spotify.com/track/16OedAwrCLAUctyBCgO45o"
     },
     {
       "album": {
@@ -8014,7 +8050,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 243666,
       "name": "\u7425\u73c0",
       "url": "https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci"

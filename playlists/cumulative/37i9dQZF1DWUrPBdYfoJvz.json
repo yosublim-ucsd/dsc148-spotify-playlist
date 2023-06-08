@@ -442,10 +442,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 255000,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/6CKJ2QzsTscK6qzeYTuAqa"
+    },
+    {
+      "album": {
+        "name": "Astrosat",
+        "url": "https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED"
+      },
+      "artists": [
+        {
+          "name": "Applefish",
+          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/7v94S5INpGvZ6WLrV7wFNK"
     },
     {
       "album": {
@@ -486,6 +504,24 @@
     {
       "album": {
         "name": "Astrosat",
+        "url": "https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED"
+      },
+      "artists": [
+        {
+          "name": "Applefish",
+          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Astrosat",
+      "url": "https://open.spotify.com/track/0WbJUUbu4swufvj49wHYWm"
+    },
+    {
+      "album": {
+        "name": "Astrosat",
         "url": "https://open.spotify.com/album/4h7Oys2gq6TWIHDTXMr0J3"
       },
       "artists": [
@@ -514,7 +550,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 300000,
       "name": "Astrosat",
       "url": "https://open.spotify.com/track/6sfLKBnf6ZogXdpViAxEJP"

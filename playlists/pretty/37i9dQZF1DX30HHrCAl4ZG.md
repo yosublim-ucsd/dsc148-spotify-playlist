@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from Beach Fossils.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,383 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,409 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [My Year \(This Is Going To Be\)](https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/3DnuVIeelvxu2wm0wei74W) | 3:03 |
 | 100 | [For You](https://open.spotify.com/track/5lJOWTcuCJm34M2y9G04zK) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [For You](https://open.spotify.com/album/1RDbdhWq1OiU2x1Tco0Vpw) | 3:48 |
 
-Snapshot ID: `MCw5N2UzNzcyNTAwYWI3Y2RlYjBjMTRkYzJjYmZlYzIxOTlhYmM2NjY5`
+Snapshot ID: `MCw3ZTgyMDQ1NjI4Nzg3ZjAzOTgyNmM4NzYyOTYxNTNmMmRlZjJjNjFi`

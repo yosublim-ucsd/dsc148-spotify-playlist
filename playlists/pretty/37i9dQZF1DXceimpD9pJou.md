@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu?si=XZLcAG\-8QDmEXy6\_1onvyg">Vaes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,405 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,428 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Un Encuentro Contigo \(El León Está Rugiendo\) \- Live](https://open.spotify.com/track/5UDuAm1THgjm86AzcW1TjM) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p), [Jordan Mateo](https://open.spotify.com/artist/08pfhhOAWEOz1ZSMnYxJ06) | [Un Encuentro Contigo \(El León Está Rugiendo\) \[Live\]](https://open.spotify.com/album/65jey4f8YhkERNbxqFKgCj) | 11:42 |
 | 100 | [Proclamaré](https://open.spotify.com/track/4tkwy3THJwN6Rbs9Kyg9Vy) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Proclamaré](https://open.spotify.com/album/03QvJ92RNKRHXRvBjid26E) | 5:28 |
 
-Snapshot ID: `MCxhYTkzNmM4ZDBiNzI3OGM2YTVhZTIxNTY1NmIzNmM1MzE2MWJjZDI3`
+Snapshot ID: `MCwwZDJlOWEwNTg3NTQxYTBkMTE5NDIyODAzOWM3MTJkZWE2ZWJjYjk3`

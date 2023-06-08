@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-285 songs - 14 hr 21 min
+286 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Don't Left Me](https://open.spotify.com/track/5mBeCgCZbOczw4BBZoXzIa) | [CØDE](https://open.spotify.com/artist/7c5R9FOE8ceL55E6KUE1pj) | [Don't Left Me](https://open.spotify.com/album/5qf8tXchpT9rDcrx08UV8B) | 2:17 | 2023-03-24 |  |
 | [Don't Want To Feel](https://open.spotify.com/track/5WZogsNGbF8m0FU68f9pV4) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL) | [Don't Want To Feel](https://open.spotify.com/album/21C6omxO7GWCKW9CSKictI) | 3:31 | 2023-04-22 |  |
 | [Down For Anything](https://open.spotify.com/track/22PGa3sM5Hb8B21u0iymi2) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [Down For Anything](https://open.spotify.com/album/6u2FL1r8zNSaUwGs3GVAdu) | 2:29 | 2023-05-05 |  |
+| [Dracula](https://open.spotify.com/track/6blc90YlYH5QrY51TZqoh7) | [Duke Gray](https://open.spotify.com/artist/08fXho1e3xrXDBYXuiVj5y), [MANGASLAYERS](https://open.spotify.com/artist/2PLofrapbcSOGa6VBEFwyi), [diGi](https://open.spotify.com/artist/626KJQ9bodKgZe7Qa329VL) | [Dracula](https://open.spotify.com/album/7cBNQNJJXSae298SXA8ZS9) | 2:49 | 2023-06-07 |  |
 | [Dreamatic](https://open.spotify.com/track/7Ahq8UweaUdoBHwVR76suu) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Dreamatic](https://open.spotify.com/album/15b6oP9UfGUyEYJpv2V150) | 3:48 | 2022-10-19 | 2023-04-28 |
 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 | 2023-04-06 |  |
 | [Drop In The Ocean](https://open.spotify.com/track/2sPGbO0TWLwBCL2Q1i1e6H) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Harry Taylor](https://open.spotify.com/artist/290yQM2xoSurRtxeDSMUmC), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [Drop In The Ocean](https://open.spotify.com/album/2T53UGJPnAa9kjl28eOLU1) | 2:43 | 2023-01-19 |  |

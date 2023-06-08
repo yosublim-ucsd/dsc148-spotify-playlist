@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 21354,
+  "num_followers": 21383,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjQxNmNkNTM5ZTE5NDgwYTMyNjg3YjAzYWEyOTYzZGVhZjNmMGRh",
+  "snapshot_id": "MCwyMjNhMGZhNmNjOGYyODU4ZDg1ODkxODc3NmRmNDVlMWNjNzE5NDM0",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:35",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
-        "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
-      },
-      "artists": [
-        {
-          "name": "Antonio Mach\u00edn",
-          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
-        }
-      ],
-      "duration_ms": 187129,
-      "name": "Somos (Bolero) - Remastered",
-      "url": "https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Hoy y Ayer",
         "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Mexican Love Songs",
-        "url": "https://open.spotify.com/album/6RVVjKPl18XM1KR5Hf8ldV"
+        "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
+        "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
       },
       "artists": [
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Antonio Mach\u00edn",
+          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
         }
       ],
-      "duration_ms": 161400,
-      "name": "Vaya Con Dios",
-      "url": "https://open.spotify.com/track/4qDzXNAvShqtZtG87bajiB"
+      "duration_ms": 187129,
+      "name": "Somos (Bolero) - Remastered",
+      "url": "https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -799,6 +783,22 @@
       "duration_ms": 194093,
       "name": "Recordar\u00e9 tu amor (remastered)",
       "url": "https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Mexican Love Songs",
+        "url": "https://open.spotify.com/album/6RVVjKPl18XM1KR5Hf8ldV"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Vaya Con Dios",
+      "url": "https://open.spotify.com/track/4qDzXNAvShqtZtG87bajiB"
     },
     {
       "added_at": "2023-02-17 20:56:35",

@@ -4,12 +4,13 @@
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-37 songs - 3 hr 0 min
+39 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adrenaline](https://open.spotify.com/track/5lxcV6KE2x3am3gtBCzYUc) | [Ace](https://open.spotify.com/artist/0eF7CXsaTUjvCiiGkgKRQT) | [Super Eurobeat Vol\. 225](https://open.spotify.com/album/3epa4cuYMhq2Y3nkjNtGKI) | 4:22 | 2022-05-24 |  |
-| [Around The World](https://open.spotify.com/track/1gsbM54z2EPqErHfiPIIhy) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 5:06 | 2022-05-24 |  |
+| [Around The World](https://open.spotify.com/track/1gsbM54z2EPqErHfiPIIhy) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 5:06 | 2022-05-24 | 2023-06-08 |
+| [around the world](https://open.spotify.com/track/0smQd1tF4A9r5CbfG17rJf) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [around the world](https://open.spotify.com/album/206j597w8irspKeIREfftU) | 5:10 | 2022-05-24 |  |
 | [BACK ON THE ROCKS](https://open.spotify.com/track/71vDXik9RZPIueEK69F3p6) | [MEGA NRG MAN](https://open.spotify.com/artist/3PIG5hkfeomy1hf4Xo33Wl) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:48 | 2022-05-24 |  |
 | [BEAT OF THE RISING SUN](https://open.spotify.com/track/2cNvVnLsMqgBuI6mBk2fRz) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 4:03 | 2022-05-24 |  |
 | [BURNING UP FOR YOU](https://open.spotify.com/track/71rGEpOqD1jKIl7hp9Lq12) | [Sara](https://open.spotify.com/artist/1ApMxbInC1s0ynRxzbNyy8) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:49 | 2022-05-24 |  |
@@ -33,7 +34,8 @@
 | [Mikado \- Extended Version](https://open.spotify.com/track/54NEJSOTHGKN7YIeA7Co6f) | [Dave MC Loud](https://open.spotify.com/artist/1CFcGw5BNYY6IeGrnQJnp5) | [Eurobeat Kudos 11](https://open.spotify.com/album/41qwgG9ANvVk3I2sxiv2df) | 6:03 | 2022-05-24 |  |
 | [NIGHT OF FIRE](https://open.spotify.com/track/0u8X3nQwowVw29hMAzCoUd) | [NIKO](https://open.spotify.com/artist/0F0Gp5ED6hZPeOJMkLTdCj) | [SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 5:09 | 2022-05-24 |  |
 | [NO ONE SLEEP IN TOKYO](https://open.spotify.com/track/6tinyeimCbUv1CPuPBBQOH) | [EDO BOYS](https://open.spotify.com/artist/2qlGGrGnWPs3oqIib0oTSf) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 5:02 | 2022-05-24 |  |
-| [Rage Your Dream](https://open.spotify.com/track/0dQtjOhjyMMAwyMZRAOKsU) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:31 | 2022-05-24 |  |
+| [Rage Your Dream](https://open.spotify.com/track/0dQtjOhjyMMAwyMZRAOKsU) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:31 | 2022-05-24 | 2023-06-08 |
+| [Rage your dream](https://open.spotify.com/track/4n54JaXMZLwJ3qUPnLh8TC) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Rage your dream](https://open.spotify.com/album/6fdW8U59XKOZcHIAe1DWud) | 4:32 | 2022-05-24 |  |
 | [Remember Me](https://open.spotify.com/track/5Yhp3C2edvgSCeklFAeOvZ) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [Super Eurobeat Vol.84](https://open.spotify.com/album/677rqn1UF3mT3yht8ZiHXl) | 4:19 | 2022-05-24 |  |
 | [RUNNING IN THE 90'S](https://open.spotify.com/track/6DlPa2rrVK3BygXJ48WYo3) | [Max Coveri](https://open.spotify.com/artist/4aFf48VQYRT631OJGgVwUv) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:43 | 2022-05-24 |  |
 | [SAVE ME](https://open.spotify.com/track/6Ee9rv8tUY0SfVhiZS2fqn) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:32 | 2022-05-24 |  |

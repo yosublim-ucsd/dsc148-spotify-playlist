@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Pupil Slicer
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,813 likes - 55 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,906 likes - 55 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 26 | [Dab City](https://open.spotify.com/track/7JuEenZ3e3S3uQLQLRPWmN) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Dab City](https://open.spotify.com/album/3iW9wCTIdcjmyj8c6rMmzH) | 11:50 |
 | 27 | [...And They Prayed On My Downfall](https://open.spotify.com/track/5wzZu0wvOJol60ZeunAbWf) | [Santa Cruz](https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri) | [...And They Prayed On My Downfall](https://open.spotify.com/album/0EJXcsEPrHBXDZEnoq2ufo) | 3:36 |
 | 28 | [Beyond Remedy](https://open.spotify.com/track/5K8o6kFpZCk2bg5fGALV3P) | [Arrow Minds](https://open.spotify.com/artist/3hbsahnDfum7FiOyCLS4Wq), [Evergreen Terrace](https://open.spotify.com/artist/5YQUrpDa5dkmo9Vk8hHQP9) | [Beyond Remedy](https://open.spotify.com/album/4nmlUpzaeAwO3gQINnRhqm) | 3:11 |
-| 29 | [Outsider](https://open.spotify.com/track/6QzpOnLnIs96PFZ831d6zU) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/2WukwhVY6nvzF3OSAwdmYb) | 4:05 |
+| 29 | [Outsider](https://open.spotify.com/track/2QQqlUWiLDROQJ6MGpL3o5) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/1BVsgwH1tbz8ga50B3Sqda) | 4:05 |
 | 30 | [Ignorance Is Fear](https://open.spotify.com/track/6ZlQfPJNxAXY9mp2sSoSQc) | [NECROTTED](https://open.spotify.com/artist/7khBSLZWST1HqSjWpEFlXl), [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU), [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [Ignorance Is Fear](https://open.spotify.com/album/1xJx5MGrw9Z73I3jWWLXp8) | 3:02 |
 | 31 | [DTF](https://open.spotify.com/track/4YmsamyhXfk3blN6DIYkNe) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [DTF](https://open.spotify.com/album/0JaCDhgzIHcCJ2rOOHdOIn) | 3:28 |
 | 32 | [Splitting the Soul \(feat\. Ihsahn\)](https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd) | [Einar Solberg](https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [16](https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG) | 6:22 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 54 | [Solar Witch](https://open.spotify.com/track/59tgpJap3pxVGFKeJcm843) | [Thantifaxath](https://open.spotify.com/artist/7DcSKG8ruWMgHsUh1rqZFh) | [Hive Mind Narcosis](https://open.spotify.com/album/33j7lFZ3OdXerDKwdVHLJf) | 6:01 |
 | 55 | [From the Rafters](https://open.spotify.com/track/5ulRodnS24iqppMEZQQa53) | [Death Ray Vision](https://open.spotify.com/artist/3W8CcPW3tnk7aCxruUEFx2) | [From the Rafters](https://open.spotify.com/album/65cIOtNeHasQRWPb2cRYIg) | 2:27 |
 
-Snapshot ID: `MCw1Y2VhZjBmZDUyOWM4YjcwMTMxZmYzYTRjMDVhODU0ZGM1M2M5MTI4`
+Snapshot ID: `MCw1ODdmZjA5ZmZjN2JkYmRiZDdjMmQ4YmQ3MTZiNjdiZWRmNmYxMDlk`

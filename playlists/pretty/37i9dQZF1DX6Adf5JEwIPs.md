@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Jasiel Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,116 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,051 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [EPA](https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [EPA](https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq) | 2:57 |
 | 2 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 |
-| 3 | [Los Chiquinarcos \- En Vivo](https://open.spotify.com/track/3mpj2US9h2mHqO2FYTU2wk) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Los Chiquinarcos \(En Vivo\)](https://open.spotify.com/album/5fzhrKGlhdhCUiXQgtOXUz) | 2:45 |
+| 3 | [Los Chiquinarcos \- En Vivo](https://open.spotify.com/track/3mpj2US9h2mHqO2FYTU2wk) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Los Chiquinarcos \(En Vivo\)](https://open.spotify.com/album/5fzhrKGlhdhCUiXQgtOXUz) | 2:44 |
 | 4 | [Hola Corazon](https://open.spotify.com/track/6ORShteqEvwD05X23ueOWL) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [De Todo Un Poco](https://open.spotify.com/album/5JLggGooTKu0989Q6IiaBm) | 3:09 |
 | 5 | [Ramón Arellano](https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Ramón Arellano](https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D) | 3:13 |
 | 6 | [Mi Estilo](https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Mi Estilo](https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq) | 4:45 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 23 | [Bélicos](https://open.spotify.com/track/0ZBJ2CiEklcFJi7poASQNx) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Bélicos](https://open.spotify.com/album/15iEjUuDkI13T602uakZ4f) | 2:52 |
 | 24 | [No Le Cuenten](https://open.spotify.com/track/29HO5XOpTXTjFNr2m8xUwQ) | [Jose Villarreal](https://open.spotify.com/artist/02qtde8veYObRnk68N35sP) | [No Le Cuenten](https://open.spotify.com/album/3h8gIavmE2MEnD7z6Um394) | 2:20 |
 | 25 | [Mi 45](https://open.spotify.com/track/3s4R8HDKVlcHQI9LQTPUsq) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [Mi 45](https://open.spotify.com/album/6z5rQbPOwT2ZOo5VlCo1HN) | 2:24 |
-| 26 | [El Jessy](https://open.spotify.com/track/1ShS4CeMAsuTKuAbE6dMA2) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [El Jessy](https://open.spotify.com/album/1frZG7cwuuu7fgRe4EBPls) | 3:19 |
+| 26 | [El Jessy](https://open.spotify.com/track/1ShS4CeMAsuTKuAbE6dMA2) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [El Jessy](https://open.spotify.com/album/1frZG7cwuuu7fgRe4EBPls) | 3:11 |
 | 27 | [El 27 o el Perris \(En vivo\)](https://open.spotify.com/track/0udgZnph5ZoN80iZjAUz39) | [Los Zares de Culiacan](https://open.spotify.com/artist/60esOxwQGvvqlcMyGYJhDq), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [El 27 o el Perris \(En vivo\)](https://open.spotify.com/album/4rOSnIugGWgWmnjYceI2Vk) | 2:44 |
 | 28 | [La Caperucita](https://open.spotify.com/track/3MGsthYZjz56Lyl7bUkagd) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [La Caperucita](https://open.spotify.com/album/77H7hHwHygcwxjggrhcN1b) | 3:05 |
 | 29 | [Pensando A Futuro](https://open.spotify.com/track/3zz0aWh3gDD0RAnirp1Le1) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Pensando A Futuro](https://open.spotify.com/album/31yrEVhDDaDpREAYlrSDTA) | 2:27 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 44 | [NO SIRVIO DE NADA](https://open.spotify.com/track/34kuHt20Ww02atSkfZhAuE) | [Patricio Valdez](https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5) | [NO SIRVIO DE NADA](https://open.spotify.com/album/6hjieQug5xJ8bbEgiCSqu7) | 3:34 |
 | 45 | [Que Bien Se Ve](https://open.spotify.com/track/0YVLdgp3vEgqIBQsKQVhTp) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg) | [Que Bien Se Ve](https://open.spotify.com/album/2aBk8okpNfyMJx1C2DWem5) | 4:06 |
 
-Snapshot ID: `MCw1MjYyYTZlOGY5ZWQyNzRjNjVjZWYwNzQ5MGEyYmI5YWVhNDM2NzRj`
+Snapshot ID: `MCw1Mzk5MWIyNTk3NjA5YzNlMDg2Nzc0NmE3YjAyMTZjMjhkNjQwNDk2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,466 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,501 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Proceed](https://open.spotify.com/track/41Ta2RtJux73U0xxE8oS93) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [World Class Trouble Solvers](https://open.spotify.com/album/2XdJ8pSuKFgaxUTmjaAh8d) | 2:03 |
 | 50 | [BRIGHT LIGHTS](https://open.spotify.com/track/7EtjmcfEq1o0jq9hhDtxg4) | [Afta Hill](https://open.spotify.com/artist/2QyfQWgIraqOxY6uBmwP6f) | [BRIGHT LIGHTS](https://open.spotify.com/album/7souShPEx912BRb3ZCF959) | 1:52 |
 
-Snapshot ID: `MCxkNjJiZjFmOTllZjg5OGYxZjQ2ZTE4ZDk3N2VlNGFmNzI5NDNmZjFl`
+Snapshot ID: `MCxiNTllNDZjNmUxY2QwM2ZlNGUxNmZjODM2YzUzMDFjMTRhYmEzOWEz`

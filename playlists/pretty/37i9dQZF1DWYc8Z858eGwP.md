@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=oCk7z0ZBTPy4Sytc5eYEXQ">Xenia Manasseh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,852 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,889 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 36 | [Tight Condition](https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Continental Playlist](https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ) | 2:43 |
 | 37 | [Lemonade](https://open.spotify.com/track/4p8Hbw6wPv0u0w7LFj8n78) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Lemonade](https://open.spotify.com/album/65zVZXGlHRn46RPsh7Bnbz) | 2:34 |
 | 38 | [Lovin 21](https://open.spotify.com/track/4QboxKsKXMP6J2wKSJwdeN) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Lovin 21](https://open.spotify.com/album/25uPeqo8AAB9Hp46oYquY5) | 3:15 |
-| 39 | [Lotto](https://open.spotify.com/track/380AIR4IYW4Ni3O3shTXa2) | [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN), [ilovelethu](https://open.spotify.com/artist/6s6sk1cuHD56i0iF6d2107), [PD Jokes](https://open.spotify.com/artist/6sV9pBi3guVOWBgoT85qS1), [The Alpha Boyz](https://open.spotify.com/artist/01PpFoPwMJfNTM5DJCAfb3) | [Yithi Sonke](https://open.spotify.com/album/1lKKprGwnEwYdDschpWkR1) | 5:55 |
+| 39 | [Lotto](https://open.spotify.com/track/380AIR4IYW4Ni3O3shTXa2) | [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN), [Yithi Sonke](https://open.spotify.com/artist/06v0EvPeHN47AOUwK6oX7v), [The Alpha Boyz](https://open.spotify.com/artist/01PpFoPwMJfNTM5DJCAfb3), [ilovelethu](https://open.spotify.com/artist/6s6sk1cuHD56i0iF6d2107), [PD Jokes](https://open.spotify.com/artist/6sV9pBi3guVOWBgoT85qS1) | [Yithi Sonke](https://open.spotify.com/album/1lKKprGwnEwYdDschpWkR1) | 5:55 |
 | 40 | [AVAILABU](https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 |
 | 41 | [Too Early](https://open.spotify.com/track/4qZ8vQpRFqS15RGdE8skco) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Too Early](https://open.spotify.com/album/2ysvTBST3QhzfQWaAmSKLS) | 3:26 |
 | 42 | [No Love in Lagos](https://open.spotify.com/track/4chodBBB3GGkZ9J5E1Aned) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [1DA SHALL NEVER END](https://open.spotify.com/album/71DBsdMhCN3FgBRM1YicpT) | 3:14 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 54 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
 | 55 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 |
 
-Snapshot ID: `MCxkMGY3OThjODBlOTBiZGU1MmU2NTQ0ZjM5ZDAyODU5NmVhNjExYWFj`
+Snapshot ID: `MCwxMGZhYTUwNzliY2MwNmM3YThiZTRmYmQ1YzA5MGY1OTQ0ZTM4NzIy`

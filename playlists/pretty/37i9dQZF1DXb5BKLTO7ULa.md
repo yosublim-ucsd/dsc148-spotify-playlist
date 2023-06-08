@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Antoon, Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,689 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,720 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 72 | [PRESSURE](https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [PRESSURE](https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7) | 4:19 |
 | 73 | [30](https://open.spotify.com/track/6xUlSA4dVkxCeSOb2GeYIt) | [Richard Cejer](https://open.spotify.com/artist/2s1dVWuPyOdBkHOFU59v14), [m\. demian](https://open.spotify.com/artist/70p3C65pwNTbiyKUAJ4EAo) | [30](https://open.spotify.com/album/1gpYbPQu0GEuvimuN4guEn) | 4:03 |
 | 74 | [Anywhere](https://open.spotify.com/track/5BiB9w5K8EKxLZdSd2MYIa) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Anywhere](https://open.spotify.com/album/719065Ibz4lqwB9wr8cYNG) | 3:50 |
-| 75 | [Repent](https://open.spotify.com/track/6QvdT4W0W66JZG2Lsf5W1u) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Repent](https://open.spotify.com/album/5YpSuMVamsS1LjbUNvhjZi) | 5:45 |
+| 75 | [Repent \- Live](https://open.spotify.com/track/6QvdT4W0W66JZG2Lsf5W1u) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Repent \(Live\)](https://open.spotify.com/album/5YpSuMVamsS1LjbUNvhjZi) | 5:45 |
 | 76 | [LANGE ADEM.](https://open.spotify.com/track/2BetVD7ltIcY1ERlRHHmN0) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD) | [LANGE ADEM.](https://open.spotify.com/album/3MUpqaHo3goUoWDbqYGu51) | 2:55 |
 | 77 | [CELEBRATE THE STRUGGLE](https://open.spotify.com/track/3LzPQfKe3gvVY4dQxZm1Bj) | [The Cool Quest](https://open.spotify.com/artist/7eW7XlHPEaGBY5JION7Vw9) | [CELEBRATE THE STRUGGLE](https://open.spotify.com/album/1uckI6K9ar5HXNtDCyBpVy) | 2:54 |
 | 78 | [Hyper Hyper](https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Hyper Hyper](https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi) | 2:58 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Slow Pace Of Time \[Feat\. Charlie Gabriel\]](https://open.spotify.com/track/3BXlWG4SqubAmdcGac4cNR) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o), [Charlie Gabriel](https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK) | [What If I EP](https://open.spotify.com/album/2R49Epd53NfwBsHuPO9PZu) | 4:29 |
 | 99 | [Close Your Eyes And Let Go](https://open.spotify.com/track/2PqYPNXOafS80V9zLxDFfo) | [Heijmat](https://open.spotify.com/artist/3GEzxiBIFJaEK3Y5Ozl60J), [ZOE ASKA](https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE) | [Close Your Eyes And Let Go](https://open.spotify.com/album/44e1j1coASaxrcHKVY0MFL) | 3:29 |
 
-Snapshot ID: `MCxmOGYwMDU5NDgyZmQ5YWU3YTVkMDdiODZjOTdkMjNmYjI0Yzg1NWIy`
+Snapshot ID: `MCxhNDYxMmY0ZGQ2ZDE5NTVmZGJlMWRkMjgwYTViOWM0NmY3ZTMwNjNi`

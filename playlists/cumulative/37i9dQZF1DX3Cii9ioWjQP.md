@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Hanna Kim\(해나킴\)\)
 
-144 songs - 10 hr 27 min
+145 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Sorrowful Memory](https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9) | [Ha Dong Yeon](https://open.spotify.com/artist/37HjETdZEtntIoddJLvk0C) | [Jinxed at First \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1) | 3:33 | 2022-07-08 |  |
 | [actually i\`m from jazz](https://open.spotify.com/track/0r4ko5ssD3NFWed4YimMbW) | [Coa White](https://open.spotify.com/artist/6pE3JDwvWDbjv1TqLRDjiP) | [actually i\`m from jazz](https://open.spotify.com/album/1LoAeJfQAX6xh8jgXzRgwu) | 4:23 | 2023-02-07 |  |
 | [Annual plant](https://open.spotify.com/track/3Odx622SRpsHSylBSbfsaw) | [MANIK](https://open.spotify.com/artist/4GuAt23tHwuuKLW2gRZAWc) | [Annual plant](https://open.spotify.com/album/0fa0ZARLeWnBSdaYQK1BaK) | 4:21 | 2023-02-07 |  |
-| [Artemis In My Pluto](https://open.spotify.com/track/14rVKMBXB7yncPlstFwt8u) | [sun Lee](https://open.spotify.com/artist/0MpLSPJhglRKRhGoE689kS) | [In the eNd, i find MY heART](https://open.spotify.com/album/54NVZYARZKQhFC7QT6ldym) | 3:09 | 2023-02-07 |  |
+| [Artemis In My Pluto](https://open.spotify.com/track/14rVKMBXB7yncPlstFwt8u) | [sun Lee](https://open.spotify.com/artist/0MpLSPJhglRKRhGoE689kS) | [In the eNd, i find MY heART](https://open.spotify.com/album/54NVZYARZKQhFC7QT6ldym) | 3:09 | 2023-02-07 | 2023-06-08 |
+| [Artemis In My Pluto](https://open.spotify.com/track/3leuAjdy8RnqLKgvlvPqLT) | [sun Lee](https://open.spotify.com/artist/0MpLSPJhglRKRhGoE689kS) | [In the eNd, i find MY heART](https://open.spotify.com/album/0TFlnShNuQwOiePmTlx8CF) | 3:09 | 2023-04-14 |  |
 | [Bambi](https://open.spotify.com/track/75IjhFxQkIvCzP16IyR5Ob) | [정수연](https://open.spotify.com/artist/7az0Pd2sKjDBXMxPxhd6Qn) | [Bambi](https://open.spotify.com/album/0qKGgiSj0etZBTFrqMwPZ7) | 4:22 | 2022-05-03 |  |
 | [Behind](https://open.spotify.com/track/6HvtI4dnFqS2YHxQxSRN5R) | [Hyena Park](https://open.spotify.com/artist/1FPKbjt3JFJCUL0Tjo4V4E) | [JAZZ DIVA](https://open.spotify.com/album/46RpUdfLtkuprdnQh69cPb) | 5:21 | 2022-05-03 |  |
 | [Best Friend](https://open.spotify.com/track/32bStQb6gjhmWLoiAAYSno) | [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Retrospect](https://open.spotify.com/album/4Eb1dLsvOh15opaO5bVCru) | 2:47 | 2023-01-05 |  |

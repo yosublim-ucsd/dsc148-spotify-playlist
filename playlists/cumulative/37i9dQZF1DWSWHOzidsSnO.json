@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Mujeres de los Andes, a todo volumen! Con Vale en portada.",
+  "description": "\u00a1Mujeres de los Andes, a todo volumen! Con Paola Navarrete en portada.",
   "name": "EQUAL Andes",
   "tracks": [
     {
@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 186405,
       "name": "Aquello",
       "url": "https://open.spotify.com/track/19jPCXbSmUU5pFmYCZl1NN"
@@ -1063,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "Distinta",
+        "url": "https://open.spotify.com/album/2R9q8Vw1SIrg9lMxvqGaY9"
+      },
+      "artists": [
+        {
+          "name": "Martina La Peligrosa",
+          "url": "https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186179,
+      "name": "Distinta",
+      "url": "https://open.spotify.com/track/2fs7BuWEsmOR7tuY7ZJWHY"
+    },
+    {
+      "album": {
         "name": "Curao",
         "url": "https://open.spotify.com/album/1FWlRjAwpcQCab5c4KinaJ"
       },
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 217636,
       "name": "En Todas Partes",
       "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
@@ -1194,6 +1212,24 @@
       "duration_ms": 149000,
       "name": "ENM\u00daSAME",
       "url": "https://open.spotify.com/track/3cY6e5pfLpYk5uiT5RdYcv"
+    },
+    {
+      "album": {
+        "name": "Eres (Como El Mar)",
+        "url": "https://open.spotify.com/album/64MHMIzRYXbn47ks6iezXi"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208749,
+      "name": "Eres (Como El Mar)",
+      "url": "https://open.spotify.com/track/0MiVynTf6cgHAdF7Bg9Bzh"
     },
     {
       "album": {
@@ -1540,7 +1576,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 271975,
       "name": "Invasi\u00f3n Coste\u00f1a",
       "url": "https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys"
@@ -2744,6 +2780,24 @@
       "duration_ms": 189077,
       "name": "Prom\u00e9teme",
       "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
+    },
+    {
+      "album": {
+        "name": "QLQ",
+        "url": "https://open.spotify.com/album/12SrWPi6P4YE75GutgfxN2"
+      },
+      "artists": [
+        {
+          "name": "Briella",
+          "url": "https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149052,
+      "name": "QLQ",
+      "url": "https://open.spotify.com/track/4AIohYuFOuGlck4a4WPwer"
     },
     {
       "album": {

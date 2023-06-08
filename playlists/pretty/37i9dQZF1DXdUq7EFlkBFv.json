@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 7424,
+  "num_followers": 7451,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmEwYWFlZjNjNDZiOGY1ZmVmNzMyN2I2NmVlMzlhYzM1NzUzNDMy",
+  "snapshot_id": "MCw1Yzk4OTZhNjMwOWM5ZWRhMjg0M2RmODc0ZjNiOGU1ODg0NzlhYmE5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Outside (Better Days)",
-        "url": "https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI"
-      },
-      "artists": [
-        {
-          "name": "MO3",
-          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
-        },
-        {
-          "name": "Og Bobby Billions",
-          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
-        }
-      ],
-      "duration_ms": 215495,
-      "name": "Outside (Better Days)",
-      "url": "https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "In The Name Of Gee (Still Most Hated)",
         "url": "https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 158427,
       "name": "Top (Remix) feat. Lil Durk",
       "url": "https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Outside (Better Days)",
+        "url": "https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI"
+      },
+      "artists": [
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        },
+        {
+          "name": "Og Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        }
+      ],
+      "duration_ms": 215495,
+      "name": "Outside (Better Days)",
+      "url": "https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -731,26 +731,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "2055 (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/2jGGIrYGbhJPHOmBF5R90N"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 119715,
-      "name": "2055 (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/74ruhOVvor6O8R91cyrzK0"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Just A Matter of Slime",
         "url": "https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 186894,
       "name": "Thugged Out (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/0uRsQ1Q3ZPuXTEkEeUXNNf"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "2055 (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/2jGGIrYGbhJPHOmBF5R90N"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 119715,
+      "name": "2055 (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/74ruhOVvor6O8R91cyrzK0"
     },
     {
       "added_at": "2022-10-01 16:17:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TAEYONG\(태용\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,974 likes - 632 songs - 1 day 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,211 likes - 632 songs - 1 day 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -641,4 +641,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 631 | [Play](https://open.spotify.com/track/2eOKRPK5ShMn9B4a0XeZnl) | [Taylor](https://open.spotify.com/artist/388sAC0WYTJWunGAr0P8Hj) | [Stealer : The treasure keeper, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4yffRNp0hKE1DznHnTn8Np) | 2:43 |
 | 632 | [SEONGSU FREESTYLE](https://open.spotify.com/track/4a2vlQKgijgytFMuTGsWiF) | [UNDER SEONGSU BRIDGE](https://open.spotify.com/artist/7ySSnCpBooi2C2OU1L7Dpt) | [SEONGSU FREESTYLE](https://open.spotify.com/album/1tRcboOCES3xP14mhB25B0) | 3:01 |
 
-Snapshot ID: `MCxhNTI1ZGRjODJiMmRmMzE2YzM0OGRkODkyMzZhYzFiZjBhMWU5MjU1`
+Snapshot ID: `MCw5ZGE3YjZkNjA2ZTE5ZDk1NDhjYTU3ODk5YzNmOTNhOGNlODYzOGI0`

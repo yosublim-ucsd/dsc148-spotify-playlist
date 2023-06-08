@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: My Ugly Clementine",
-  "num_followers": 26406,
+  "num_followers": 26547,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGZjZDczODUxYjFhZDlhOGY3ZjY0MjczNmQ4NGIxZjVmOTA5ZDll",
+  "snapshot_id": "MCwzOTA3OGUzYmFhM2I2YzliMDhjNTFmMmU2M2RiMTgyZjYzYzc3ZDg1",
   "tracks": [
     {
       "added_at": "2023-06-06 22:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "ANTI",
-        "url": "https://open.spotify.com/album/7zVJWO7TYb0NAuyYpI5pSL"
-      },
-      "artists": [
-        {
-          "name": "BOUNTY & COCOA",
-          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "ANTI",
-      "url": "https://open.spotify.com/track/7jtAl9ic1lF5w7ZNX72mk5"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "BadBitchSide",
         "url": "https://open.spotify.com/album/0HtKuHesys8Y2KtY41F6RT"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 137492,
       "name": "BadBitchSide",
       "url": "https://open.spotify.com/track/3pWY06wwVs7i74skzmLcse"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/7zVJWO7TYb0NAuyYpI5pSL"
+      },
+      "artists": [
+        {
+          "name": "BOUNTY & COCOA",
+          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "ANTI",
+      "url": "https://open.spotify.com/track/7jtAl9ic1lF5w7ZNX72mk5"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
+        "name": "powerpuff girl",
+        "url": "https://open.spotify.com/album/2pyC2xsBMW1Vhn1JgZLxCv"
+      },
+      "artists": [
+        {
+          "name": "CARAMELLA",
+          "url": "https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ"
+        }
+      ],
+      "duration_ms": 114973,
+      "name": "powerpuff girl",
+      "url": "https://open.spotify.com/track/5YF9p1smYRawOJ0377rqpI"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
         "name": "Weil mein Herz ein L\u00fcgner ist",
         "url": "https://open.spotify.com/album/0oWjd42XhGoe0jSyr9ng6P"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 222631,
       "name": "FEMINEM",
       "url": "https://open.spotify.com/track/1CFMvvYaeRTM3EjnBgNUUj"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
-        "name": "powerpuff girl",
-        "url": "https://open.spotify.com/album/2pyC2xsBMW1Vhn1JgZLxCv"
-      },
-      "artists": [
-        {
-          "name": "CARAMELLA",
-          "url": "https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ"
-        }
-      ],
-      "duration_ms": 114973,
-      "name": "powerpuff girl",
-      "url": "https://open.spotify.com/track/5YF9p1smYRawOJ0377rqpI"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Chardonnay",
         "url": "https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH"
       },
@@ -367,18 +351,18 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Polly Pocket",
-        "url": "https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF"
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
       },
       "artists": [
         {
-          "name": "Nya Polo",
-          "url": "https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         }
       ],
-      "duration_ms": 169917,
-      "name": "Polly Pocket",
-      "url": "https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4"
+      "duration_ms": 201600,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -395,6 +379,22 @@
       "duration_ms": 134040,
       "name": "Lieber f\u00fcr mich",
       "url": "https://open.spotify.com/track/671auplSl17WIJSefMXsjN"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Polly Pocket",
+        "url": "https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF"
+      },
+      "artists": [
+        {
+          "name": "Nya Polo",
+          "url": "https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "Polly Pocket",
+      "url": "https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
+        "name": "Roll the Dice",
+        "url": "https://open.spotify.com/album/4h90wABKg7XSFkJxcsFzhc"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Roll the Dice",
+      "url": "https://open.spotify.com/track/0lWjdNnMq8SbeSulckVQMY"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
         "name": "Lose My Mind EP",
         "url": "https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Roll the Dice",
-        "url": "https://open.spotify.com/album/4h90wABKg7XSFkJxcsFzhc"
+        "name": "Direct Flight To Seattle",
+        "url": "https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr"
       },
       "artists": [
         {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+          "name": "Christin Nichols",
+          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Roll the Dice",
-      "url": "https://open.spotify.com/track/0lWjdNnMq8SbeSulckVQMY"
+      "duration_ms": 245234,
+      "name": "Direct Flight To Seattle",
+      "url": "https://open.spotify.com/track/79JtOQixt6WItl0FOy616K"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -655,18 +671,18 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Direct Flight To Seattle",
-        "url": "https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr"
+        "name": "Is it weird?",
+        "url": "https://open.spotify.com/album/1wtljFgyAcMtr0mDSpRZ7Z"
       },
       "artists": [
         {
-          "name": "Christin Nichols",
-          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
+          "name": "JISKA",
+          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
         }
       ],
-      "duration_ms": 245234,
-      "name": "Direct Flight To Seattle",
-      "url": "https://open.spotify.com/track/79JtOQixt6WItl0FOy616K"
+      "duration_ms": 181451,
+      "name": "Is it weird?",
+      "url": "https://open.spotify.com/track/4CTC48IGRZiCPIbG1TKjIn"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -683,22 +699,6 @@
       "duration_ms": 143800,
       "name": "Lauf",
       "url": "https://open.spotify.com/track/7d8mo4A255IToerZNguieR"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
-        "name": "Is it weird?",
-        "url": "https://open.spotify.com/album/1wtljFgyAcMtr0mDSpRZ7Z"
-      },
-      "artists": [
-        {
-          "name": "JISKA",
-          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
-        }
-      ],
-      "duration_ms": 181451,
-      "name": "Is it weird?",
-      "url": "https://open.spotify.com/track/4CTC48IGRZiCPIbG1TKjIn"
     },
     {
       "added_at": "2023-06-06 22:00:00",

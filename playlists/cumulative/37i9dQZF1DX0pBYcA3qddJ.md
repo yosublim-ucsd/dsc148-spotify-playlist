@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-427 songs - 1 day 4 hr 33 min
+428 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Jolene From Her Own Perspective](https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [zannie](https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd) | [Jolene From Her Own Perspective](https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj) | 3:27 | 2022-10-20 | 2022-11-04 |
 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-10-27 |  |
 | [kagerou \(sketch in kinkazan\)](https://open.spotify.com/track/6uHTl8q1uoeEEfIYJz4fYm) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [kagerou \(sketch in kinkazan\)](https://open.spotify.com/album/669dUQ5bfD8v5LThoi6rx2) | 3:41 | 2022-11-22 | 2022-12-02 |
-| [Ker al Loch \- Solo Piano](https://open.spotify.com/track/6HKVTiraMsZQkzfyv2DlV6) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Ker al Loch \(Four Ways\)](https://open.spotify.com/album/4bfXyKUGJYMxdvTq9cdQ0f) | 5:59 | 2023-06-06 |  |
+| [Ker al Loch \- Solo Piano](https://open.spotify.com/track/3wS3AQejgbN67aLHiODBiM) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Ker al Loch \(Four Ways\)](https://open.spotify.com/album/0Dj7gv30Jz736jF3SRYtzS) | 5:59 | 2023-06-06 |  |
+| [Ker al Loch \- Solo Piano](https://open.spotify.com/track/6HKVTiraMsZQkzfyv2DlV6) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Ker al Loch \(Four Ways\)](https://open.spotify.com/album/4bfXyKUGJYMxdvTq9cdQ0f) | 5:59 | 2023-06-06 | 2023-06-08 |
 | [kid\(Ryu Solo\)](https://open.spotify.com/track/5dYfy7fcDq4p5i9ZwtMAZo) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [kid\(Ryu Solo\)](https://open.spotify.com/album/7nRmisV0C7V5MsE1Mq2VBX) | 4:13 | 2023-03-21 |  |
 | [Kinderszenen, Op\. 15: No\. 1, Von fremden Ländern und Menschen](https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Schumann: Kinderszenen; Arabesque; Fantasie; Träumerei](https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2) | 1:33 | 2022-10-20 |  |
 | [koe](https://open.spotify.com/track/1BzU2vS7ve3Whi4a6z6zDw) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [koe](https://open.spotify.com/album/1Wk84xuIWUDWFX9ZD4xXmE) | 2:24 | 2023-06-01 |  |

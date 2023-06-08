@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Moon Journey",
+        "url": "https://open.spotify.com/album/2iYxQTXWXf9bViocIGzSVv"
+      },
+      "artists": [
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378661,
+      "name": "Moon Journey",
+      "url": "https://open.spotify.com/track/2KT1zr64KJosXMcpueH5A5"
+    },
+    {
+      "album": {
         "name": "Retro Synth POP",
         "url": "https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2"
       },

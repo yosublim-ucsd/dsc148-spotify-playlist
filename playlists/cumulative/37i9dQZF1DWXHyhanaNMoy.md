@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: Chivv & DJ Wale
 
-548 songs - 1 day 0 hr 37 min
+550 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Mood](https://open.spotify.com/track/0qqbNTj8OkWlNTJEEgzJQf) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Workout Music 2022](https://open.spotify.com/album/4aegtSjryhnuq0Kz5IUaZh) | 2:31 | 2022-11-10 | 2022-11-13 |
 | [Mood](https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA) | 2:31 | 2022-08-24 | 2022-08-28 |
 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 | 2022-08-25 | 2022-12-09 |
+| [Moscato](https://open.spotify.com/track/0O0qqeFUMjMgusToxLWXFh) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Moscato](https://open.spotify.com/album/5KAfXsur99a2zCDVublp40) | 2:36 | 2023-06-07 |  |
 | [Moët, Vodka, Henny](https://open.spotify.com/track/2WPrtBzxEFywU09psLTrbp) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Moët, Vodka, Henny](https://open.spotify.com/album/2cgDQCOCGSiDpkx83OTddV) | 2:07 | 2023-06-01 | 2023-06-06 |
 | [Mysterious](https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Mysterious](https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY) | 2:44 | 2022-10-13 | 2022-11-11 |
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-07-14 | 2022-08-26 |
@@ -396,6 +397,7 @@
 | [Paro](https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro](https://open.spotify.com/album/7Kt404MeesjKF910O5fTop) | 3:24 | 2022-11-03 | 2023-03-18 |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-30 | 2023-06-01 |
 | [Passa Passa](https://open.spotify.com/track/4CuiTKxzI5IYB4C9DteyRW) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Passa Passa](https://open.spotify.com/album/559Ym4G6Nd0rQdLRnM1PR4) | 2:39 | 2022-11-18 | 2022-12-09 |
+| [PASSA PASSA PASSA](https://open.spotify.com/track/6x7LwtkzFYwcCKJgvNt7Io) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [PASSA PASSA PASSA](https://open.spotify.com/album/397MNayWWypQlvNyOhGMWg) | 3:34 | 2023-06-07 |  |
 | [Paz](https://open.spotify.com/track/0zPR15MfQqMMotAnKesKR4) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Paz](https://open.spotify.com/album/7lQMPfBaZEewTGeyPXz46u) | 3:06 | 2023-05-12 | 2023-06-02 |
 | [Peace of Mind](https://open.spotify.com/track/5cA9gN7FcgVjBBTMATujsd) | [NAVI](https://open.spotify.com/artist/5DCwmxnCqNVMljhthee6ti) | [Alleen Mezelf](https://open.spotify.com/album/0lW7OvNzMxbK5uqxdPKgCT) | 2:30 | 2023-02-16 | 2023-04-28 |
 | [Penalty](https://open.spotify.com/track/32flSlu3UjvNsC6Hxyw1tR) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd) | [Penalty](https://open.spotify.com/album/50QMcpuIkq2AkVcPijab0i) | 2:19 | 2023-03-09 | 2023-03-25 |

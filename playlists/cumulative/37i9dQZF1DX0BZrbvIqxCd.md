@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-278 songs - 14 hr 48 min
+279 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Foolish Believer](https://open.spotify.com/track/4g8l3EuCs25mLop6LXQlAF) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Foolish Believer](https://open.spotify.com/album/78H9jH7T6uJfMEgOgHrTKk) | 3:41 | 2020-11-20 | 2022-07-29 |
 | [Fools Gold](https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Nothing Grows Here](https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p) | 4:16 | 2020-11-20 | 2022-07-27 |
 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 | 2020-11-20 |  |
-| [From The Outside](https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:05 | 2020-11-20 |  |
+| [From The Outside](https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:05 | 2020-11-20 | 2023-06-08 |
 | [Frontier Glitch](https://open.spotify.com/track/0W34bI7SxjxnoMN7AozW12) | [Strike Anywhere](https://open.spotify.com/artist/5rWh48V4824rLBdMja6sO8) | [Frontier Glitch](https://open.spotify.com/album/79Mra2R8KLO1In0MjGVW61) | 1:36 | 2020-11-20 | 2022-06-30 |
 | [Fuck Authority](https://open.spotify.com/track/0xekz0DISgwV4pa1Gt3ui2) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/17s6WD0fjRtOzg0RrG7nSQ) | 3:16 | 2020-11-20 | 2022-07-29 |
 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 | 2020-11-20 |  |
@@ -206,6 +206,7 @@
 | [PTA](https://open.spotify.com/track/6Y4VJFUqPlvZqXw6BABsvA) | [The Lawrence Arms](https://open.spotify.com/artist/0aQ8Ow9YAkGxr5bbehjkcS) | [PTA](https://open.spotify.com/album/1g6hz2L9IwwICr96O10DlT) | 1:54 | 2020-11-20 | 2022-02-23 |
 | [Pursuit of Liberty](https://open.spotify.com/track/46QmqGEZWXTNCN0uv3oKCw) | [Bad Cop, Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Pursuit of Liberty](https://open.spotify.com/album/5mSka34yO6kgDgHa6IauoF) | 3:23 | 2020-11-20 | 2022-07-19 |
 | [Reckless Paradise](https://open.spotify.com/track/3hjCqnOScnTmhv2Xvvv8Mq) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Reckless Paradise](https://open.spotify.com/album/1zYdvy9dnTxx75KLhqZ9xD) | 3:24 | 2020-11-20 | 2022-07-29 |
+| [Reckless Paradise](https://open.spotify.com/track/5DyopyvTi9Lt4Hpe1JGbD2) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis Of Faith](https://open.spotify.com/album/0xwYNuGTVa31IWnADrA3tb) | 3:24 | 2020-11-20 |  |
 | [Reckless Paradise](https://open.spotify.com/track/6sQD8a5zZ09yA60YkeqDRS) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis Of Faith](https://open.spotify.com/album/3PvuvoZpz2XWzVKMOi52hW) | 3:24 | 2020-11-20 | 2022-11-13 |
 | [Reunions Suck](https://open.spotify.com/track/0vCjMfjcDGQTVy8KiC8RAs) | [We Set Signals](https://open.spotify.com/artist/4XM7gdCotrXDsX0MA1LwAP) | [Reunions Suck](https://open.spotify.com/album/3A3NPoLO5DrjFjwvoeDMJi) | 2:47 | 2020-11-20 | 2022-07-27 |
 | [REV001](https://open.spotify.com/track/1848Fg5mU5Dk14CaahuasP) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [REV001](https://open.spotify.com/album/0zIkU9A6r0UjwIaIs2qMCg) | 3:10 | 2020-11-20 | 2022-02-17 |

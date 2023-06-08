@@ -699,6 +699,28 @@
     },
     {
       "album": {
+        "name": "Karuppu Thamizhan",
+        "url": "https://open.spotify.com/album/3UBx6ayDK4ui8eTwIS4xna"
+      },
+      "artists": [
+        {
+          "name": "Vidushaan",
+          "url": "https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB"
+        },
+        {
+          "name": "Hust",
+          "url": "https://open.spotify.com/artist/3CmUrno6q826poiuTNBuXG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196835,
+      "name": "Karuppu Thamizhan",
+      "url": "https://open.spotify.com/track/213XAXx73s9XRJ38DJMlYH"
+    },
+    {
+      "album": {
         "name": "Lord Poetry",
         "url": "https://open.spotify.com/album/4illQIaW2DayH6iEItSC7x"
       },

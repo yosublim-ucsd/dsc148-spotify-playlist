@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Frada in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,579 likes - 76 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,586 likes - 76 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 75 | [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/4fVRM7JsozbVr1z9ApEixY) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:57 |
 | 76 | [TOY BOY](https://open.spotify.com/track/7AjDCxjAG0o2i8B2aS3J1M) | [babyfacesucco](https://open.spotify.com/artist/2dvN642bZTN1Qkm52H5V0s) | [TOY BOY](https://open.spotify.com/album/668Jgd4NnnSN6kEF7Wrhlv) | 2:49 |
 
-Snapshot ID: `MCw0OGE2ZDVmYzBmNzlmNDRhOGJlOWU3NWQ3YmEyOWNiNmRmMmQ2NGYw`
+Snapshot ID: `MCwwN2Y1ZTU1YTM0NjNlMDBhYzVkNzA2MDAyMDk0YTJhMzZhZDkwYzI5`

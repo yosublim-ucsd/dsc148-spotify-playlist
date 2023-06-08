@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Chara",
-  "num_followers": 96751,
+  "num_followers": 96800,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTU4MWUxMWRjZmRhM2QwMTBmY2E4NWY1Y2M0ZGIxNzYzOTIyMDhh",
+  "snapshot_id": "MCxjYmJlOGQyM2VlZjEyMjM0NTZkNTExMWE1OGJlMGQ0NTM4NTBlMjgy",
   "tracks": [
     {
       "added_at": "2023-06-06 15:00:00",
@@ -180,7 +180,7 @@
       "added_at": "2023-06-06 15:00:00",
       "album": {
         "name": "WINDY SUMMER (Cover)",
-        "url": "https://open.spotify.com/album/2LFaMKaaTbd70dHI3cRC1l"
+        "url": "https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF"
       },
       "artists": [
         {
@@ -188,13 +188,13 @@
           "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
         },
         {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy"
         }
       ],
       "duration_ms": 213506,
       "name": "WINDY SUMMER - Cover",
-      "url": "https://open.spotify.com/track/2ZTsJLuGom7SjIoY5ynrvA"
+      "url": "https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -251,8 +251,8 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "\u30e9\u30b8\u30aa",
-        "url": "https://open.spotify.com/album/5A9Q2UfqZ2YMXpCOPsDPPL"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/2jcQccclbIrYd4eLWqmtkU"
       },
       "artists": [
         {
@@ -265,8 +265,8 @@
         }
       ],
       "duration_ms": 229666,
-      "name": "\u30e9\u30b8\u30aa",
-      "url": "https://open.spotify.com/track/4CIp3DAzzXzly8oF4BUlF4"
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/51tyiooJ6VrGTsaEQt7H5X"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -467,18 +467,26 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "L7 Blues",
-        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+        "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
+        "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
       },
       "artists": [
         {
           "name": "LANA",
           "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
         }
       ],
-      "duration_ms": 141974,
-      "name": "L7 Blues",
-      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+      "duration_ms": 193039,
+      "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
+      "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -635,26 +643,18 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
-        "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
       "artists": [
         {
           "name": "LANA",
           "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        },
-        {
-          "name": "Candee",
-          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
-        },
-        {
-          "name": "ZOT on the WAVE",
-          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
         }
       ],
-      "duration_ms": 193039,
-      "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
-      "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -947,38 +947,6 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "UTA'S SONGS ONE PIECE FILM RED",
-        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "The World's Continuation",
-      "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
-        "name": "Wedding Day",
-        "url": "https://open.spotify.com/album/7D12WuEP2z05yqK5hgnAO3"
-      },
-      "artists": [
-        {
-          "name": "\u5e73\u539f\u7dbe\u9999",
-          "url": "https://open.spotify.com/artist/2dG2McYlq4NOdcDSsDhzPQ"
-        }
-      ],
-      "duration_ms": 207867,
-      "name": "Wedding Day",
-      "url": "https://open.spotify.com/track/26nJDSHlB0xWTccvL2icjU"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 195013,
       "name": "Suki Lie",
       "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "Wedding Day",
+        "url": "https://open.spotify.com/album/7tipwtuR6b0Pz6VsW465dR"
+      },
+      "artists": [
+        {
+          "name": "Ayaka Hirahara",
+          "url": "https://open.spotify.com/artist/0AzJGufY9eXWy5wHZWQ71H"
+        }
+      ],
+      "duration_ms": 207867,
+      "name": "Wedding Day",
+      "url": "https://open.spotify.com/track/1tP36Pg4Vwys6BSnkQiWIe"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "The World's Continuation",
+      "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "Without Love",
-        "url": "https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71"
+        "name": "I knew",
+        "url": "https://open.spotify.com/album/2h744OhmRWGvyBqhRxcKMa"
       },
       "artists": [
         {
-          "name": "LMYK",
-          "url": "https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg"
+          "name": "LOZAREENA",
+          "url": "https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV"
         }
       ],
-      "duration_ms": 247104,
-      "name": "Without Love",
-      "url": "https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp"
+      "duration_ms": 289960,
+      "name": "I knew",
+      "url": "https://open.spotify.com/track/22fzmCpT5dx66zMfbrsOEL"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1255,18 +1255,34 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "I knew",
-        "url": "https://open.spotify.com/album/2h744OhmRWGvyBqhRxcKMa"
+        "name": "Without Love",
+        "url": "https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71"
       },
       "artists": [
         {
-          "name": "LOZAREENA",
-          "url": "https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV"
+          "name": "LMYK",
+          "url": "https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg"
         }
       ],
-      "duration_ms": 289960,
-      "name": "I knew",
-      "url": "https://open.spotify.com/track/22fzmCpT5dx66zMfbrsOEL"
+      "duration_ms": 247104,
+      "name": "Without Love",
+      "url": "https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "missing",
+        "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 189565,
+      "name": "missing",
+      "url": "https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 237115,
       "name": "n.o.y.b (feat. Furui Riho)",
       "url": "https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
-        "name": "missing",
-        "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 189565,
-      "name": "missing",
-      "url": "https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1332,7 +1332,7 @@
           "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
         }
       ],
-      "duration_ms": 240044,
+      "duration_ms": 242792,
       "name": "ai no hana",
       "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
     },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "\u9b54\u6cd5",
-        "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
-      },
-      "artists": [
-        {
-          "name": "satomoka",
-          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
-        }
-      ],
-      "duration_ms": 258974,
-      "name": "\u9b54\u6cd5",
-      "url": "https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
         "name": "PRIVATE",
         "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 208133,
       "name": "Season",
       "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "Space Orphans",
+        "url": "https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 275630,
+      "name": "Space Orphans",
+      "url": "https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "Space Orphans",
-        "url": "https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo"
+        "name": "\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "satomoka",
+          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
         }
       ],
-      "duration_ms": 275630,
-      "name": "Space Orphans",
-      "url": "https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg"
+      "duration_ms": 258974,
+      "name": "\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "STAR",
-        "url": "https://open.spotify.com/album/1T3cfCAGazVAsH9RXXcHwL"
-      },
-      "artists": [
-        {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/5bwPyia2DynSxLYUrv43mH"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
         "name": "Inori",
         "url": "https://open.spotify.com/album/4owR8s4kYTyqTM995UaXOf"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 215333,
       "name": "Inori",
       "url": "https://open.spotify.com/track/45RVt1QEw92zIv7pFwYJ7j"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/1T3cfCAGazVAsH9RXXcHwL"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/5bwPyia2DynSxLYUrv43mH"
     },
     {
       "added_at": "2023-06-06 15:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-06-06 15:00:00",
       "album": {
-        "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
-        "url": "https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Sala Kurokawa",
-          "url": "https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15"
-        }
-      ],
-      "duration_ms": 264963,
-      "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
-      "url": "https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC"
-    },
-    {
-      "added_at": "2023-06-06 15:00:00",
-      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 192954,
       "name": "Pre-Romance",
       "url": "https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I"
+    },
+    {
+      "added_at": "2023-06-06 15:00:00",
+      "album": {
+        "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
+        "url": "https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Sala Kurokawa",
+          "url": "https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15"
+        }
+      ],
+      "duration_ms": 264963,
+      "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
+      "url": "https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC"
     }
   ],
   "unique_name": "Women's Voice",

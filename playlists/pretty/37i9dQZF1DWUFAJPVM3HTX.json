@@ -1,13 +1,197 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: Nana Fofie. Updates every Wednesday.",
-  "num_followers": 198168,
+  "description": "The best new R&B by independent artists and labels. Cover: Tejy. Updates every Wednesday.",
+  "num_followers": 198484,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDljMDJhYmFmY2I2NTNlNmEyODM0ZjEyYWYxM2FkYmM0ZGU5OWVi",
+  "snapshot_id": "MCw2NWY4MzZmNDI4Y2ZiY2VlNTI3NGE0YzA3N2M1ZGUzNzAwMTFlMDU2",
   "tracks": [
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Runner Up",
+        "url": "https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg"
+      },
+      "artists": [
+        {
+          "name": "Tejy",
+          "url": "https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk"
+        }
+      ],
+      "duration_ms": 172275,
+      "name": "Runner Up",
+      "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
+    },
+    {
+      "added_at": "2023-06-07 18:51:39",
+      "album": {
+        "name": "I Lay",
+        "url": "https://open.spotify.com/album/6tpBTjH8adtHgfx0hdPlFL"
+      },
+      "artists": [
+        {
+          "name": "Kaien Cruz",
+          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
+        }
+      ],
+      "duration_ms": 142343,
+      "name": "I Lay",
+      "url": "https://open.spotify.com/track/7mENpuXFCcZ68NNqaZHxPW"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/4auWAJfSus9yXyOkJDo0pr"
+      },
+      "artists": [
+        {
+          "name": "Cxrno",
+          "url": "https://open.spotify.com/artist/1iKmg6IgBEKSUEnHr6KLom"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0TP1mvSLxP2NK4gzOJEd6T"
+    },
+    {
+      "added_at": "2023-06-07 18:51:39",
+      "album": {
+        "name": "Tap Out",
+        "url": "https://open.spotify.com/album/0XZ4HJY86aCgXAfQ1WxHOG"
+      },
+      "artists": [
+        {
+          "name": "Remey Williams",
+          "url": "https://open.spotify.com/artist/5PjEH2MNklNpDLPVtUvH0i"
+        }
+      ],
+      "duration_ms": 174608,
+      "name": "Tap Out",
+      "url": "https://open.spotify.com/track/53L8Z3iPEpm59LbpGMDRrY"
+    },
+    {
+      "added_at": "2023-06-07 18:51:39",
+      "album": {
+        "name": "Mirror Neurons",
+        "url": "https://open.spotify.com/album/2nS82J3wkyFN0vDSSy44DU"
+      },
+      "artists": [
+        {
+          "name": "B.K. Habermehl",
+          "url": "https://open.spotify.com/artist/64QWRxLk9KP6yTX9NK7COY"
+        }
+      ],
+      "duration_ms": 273299,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/3hnmXz92iEXfQ5NhMAB0wH"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
+    },
+    {
+      "added_at": "2023-06-07 18:51:39",
+      "album": {
+        "name": "I Should\u2019ve Known Better",
+        "url": "https://open.spotify.com/album/4OVGn4lCl1F52SixDsfrP8"
+      },
+      "artists": [
+        {
+          "name": "Gio Genesis",
+          "url": "https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m"
+        }
+      ],
+      "duration_ms": 209739,
+      "name": "I Should\u2019ve Known Better",
+      "url": "https://open.spotify.com/track/3g8hX7M6RT71NOJknerE2B"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "HOURS",
+        "url": "https://open.spotify.com/album/5BK8UrYPUsQy1BXHez9xO8"
+      },
+      "artists": [
+        {
+          "name": "Blession",
+          "url": "https://open.spotify.com/artist/45c0zrANgdnOB4oelXQ4kA"
+        }
+      ],
+      "duration_ms": 163455,
+      "name": "HOURS",
+      "url": "https://open.spotify.com/track/7DZCMZn37OHcKLQlPweWBe"
+    },
+    {
+      "added_at": "2023-06-07 18:51:39",
+      "album": {
+        "name": "Perfect Time",
+        "url": "https://open.spotify.com/album/37XopOBRQkGV97TfiIKhzy"
+      },
+      "artists": [
+        {
+          "name": "ADIV",
+          "url": "https://open.spotify.com/artist/2rXuvyxrA1q0C135s66DYn"
+        },
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        }
+      ],
+      "duration_ms": 227848,
+      "name": "Perfect Time",
+      "url": "https://open.spotify.com/track/5fv1dCJWPSXmX2PKDRdwZc"
+    },
+    {
+      "added_at": "2023-06-07 18:51:39",
+      "album": {
+        "name": "10FT",
+        "url": "https://open.spotify.com/album/77Rmp58si3hxeVSdPpVcxK"
+      },
+      "artists": [
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "duration_ms": 137007,
+      "name": "10FT",
+      "url": "https://open.spotify.com/track/7CNTVxQDAma8lVqAxBLKPI"
+    },
+    {
+      "added_at": "2023-06-07 18:51:39",
+      "album": {
+        "name": "So Fine",
+        "url": "https://open.spotify.com/album/4ylmrLhNH0pCfHrn8igunU"
+      },
+      "artists": [
+        {
+          "name": "Jahmal Brown",
+          "url": "https://open.spotify.com/artist/5cok7ahWUq6Xo5t53bTHUj"
+        },
+        {
+          "name": "Tariq Mason",
+          "url": "https://open.spotify.com/artist/44vTp6oinp9bCtQAstw7pe"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "So Fine",
+      "url": "https://open.spotify.com/track/0fm1FCriScUIoRUM3B1r6S"
+    },
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
@@ -27,22 +211,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
-      },
-      "artists": [
-        {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
-        }
-      ],
-      "duration_ms": 140898,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
@@ -55,54 +223,6 @@
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Runner Up",
-        "url": "https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg"
-      },
-      "artists": [
-        {
-          "name": "Tejy",
-          "url": "https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk"
-        }
-      ],
-      "duration_ms": 172275,
-      "name": "Runner Up",
-      "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "HOURS",
-        "url": "https://open.spotify.com/album/5BK8UrYPUsQy1BXHez9xO8"
-      },
-      "artists": [
-        {
-          "name": "Blession",
-          "url": "https://open.spotify.com/artist/45c0zrANgdnOB4oelXQ4kA"
-        }
-      ],
-      "duration_ms": 163455,
-      "name": "HOURS",
-      "url": "https://open.spotify.com/track/7DZCMZn37OHcKLQlPweWBe"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/4auWAJfSus9yXyOkJDo0pr"
-      },
-      "artists": [
-        {
-          "name": "Cxrno",
-          "url": "https://open.spotify.com/artist/1iKmg6IgBEKSUEnHr6KLom"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0TP1mvSLxP2NK4gzOJEd6T"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -151,6 +271,74 @@
       "duration_ms": 318361,
       "name": "Something Different",
       "url": "https://open.spotify.com/track/7kjU2PdLXMBZfPnAgX1ZuA"
+    },
+    {
+      "added_at": "2023-06-07 18:51:39",
+      "album": {
+        "name": "INA CRUELER",
+        "url": "https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        },
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "duration_ms": 146409,
+      "name": "guilt2001",
+      "url": "https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "ACT I",
+        "url": "https://open.spotify.com/album/0YofvHPoWeMmRrrXdy65HY"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        }
+      ],
+      "duration_ms": 170011,
+      "name": "Crying On The Subway",
+      "url": "https://open.spotify.com/track/1x47Q3svMRGRxtW2m6r1vW"
+    },
+    {
+      "added_at": "2023-06-07 18:51:39",
+      "album": {
+        "name": "Deadly",
+        "url": "https://open.spotify.com/album/2QeUntIQtJZAmhFUgofgCz"
+      },
+      "artists": [
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Deadly",
+      "url": "https://open.spotify.com/track/4XmSDRFLboYwqMgIBBQz9l"
+    },
+    {
+      "added_at": "2023-06-07 18:51:39",
+      "album": {
+        "name": "Could It Be",
+        "url": "https://open.spotify.com/album/3gq2ExVPSOe3VtPAN1Rawz"
+      },
+      "artists": [
+        {
+          "name": "SNACKIE",
+          "url": "https://open.spotify.com/artist/4tQuTF6MDLLvtVbUT8IsbE"
+        }
+      ],
+      "duration_ms": 192874,
+      "name": "Could It Be",
+      "url": "https://open.spotify.com/track/6EfPRY52PtJOwYhFESgxCb"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -203,22 +391,6 @@
       "duration_ms": 176906,
       "name": "Kind and Nasty",
       "url": "https://open.spotify.com/track/7w1SCVdXT4EwWLDjodMyjf"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "ACT I",
-        "url": "https://open.spotify.com/album/0YofvHPoWeMmRrrXdy65HY"
-      },
-      "artists": [
-        {
-          "name": "Annie Tracy",
-          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
-        }
-      ],
-      "duration_ms": 170011,
-      "name": "Crying On The Subway",
-      "url": "https://open.spotify.com/track/1x47Q3svMRGRxtW2m6r1vW"
     },
     {
       "added_at": "2023-06-02 04:00:00",

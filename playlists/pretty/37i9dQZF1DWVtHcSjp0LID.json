@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 57105,
+  "num_followers": 57140,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjAwNGIyNTMwMWM5MTg0YmRhZGJhYjVmOTY0MjFhNmM4YjQ2ZjM1",
+  "snapshot_id": "MCw1NzQ5ZDIzMDhjMjkwNzY0ZDljZjc4MzM0MDliMmY0ZDFjN2ExZWRi",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Forward Escape",
-        "url": "https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L"
-      },
-      "artists": [
-        {
-          "name": "Tipper",
-          "url": "https://open.spotify.com/artist/1soJ22UMyjIw6SYFtoFJwe"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "Gulch",
-      "url": "https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Ibb & Obb (Original Soundtrack)",
         "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 154781,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Forward Escape",
+        "url": "https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L"
+      },
+      "artists": [
+        {
+          "name": "Tipper",
+          "url": "https://open.spotify.com/artist/1soJ22UMyjIw6SYFtoFJwe"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "Gulch",
+      "url": "https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -727,18 +727,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Caturne V - EP",
-        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
+        "name": "Between Dreams and Reality EP",
+        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
       "artists": [
         {
-          "name": "Aemone",
-          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        },
+        {
+          "name": "Niko Schwind",
+          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
         }
       ],
-      "duration_ms": 252959,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
+      "duration_ms": 528410,
+      "name": "Between Dreams and Reality - Niko Schwind Remix",
+      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -759,22 +763,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Between Dreams and Reality EP",
-        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
+        "name": "Caturne V - EP",
+        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
       },
       "artists": [
         {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        },
-        {
-          "name": "Niko Schwind",
-          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+          "name": "Aemone",
+          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
         }
       ],
-      "duration_ms": 528410,
-      "name": "Between Dreams and Reality - Niko Schwind Remix",
-      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
+      "duration_ms": 252959,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Kill Frenzy",
-        "url": "https://open.spotify.com/album/5K9V9bm1Bn9xVviaCP5f0w"
-      },
-      "artists": [
-        {
-          "name": "Fouk",
-          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
-        }
-      ],
-      "duration_ms": 355540,
-      "name": "Lefty's Bar",
-      "url": "https://open.spotify.com/track/3zsDzU5rmhseMKqSaJUjKc"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "What I Saw That Night",
         "url": "https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 420465,
       "name": "What I Saw That Night",
       "url": "https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Kill Frenzy",
+        "url": "https://open.spotify.com/album/5K9V9bm1Bn9xVviaCP5f0w"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        }
+      ],
+      "duration_ms": 355540,
+      "name": "Lefty's Bar",
+      "url": "https://open.spotify.com/track/3zsDzU5rmhseMKqSaJUjKc"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Dazed & Confused",
-        "url": "https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2"
-      },
-      "artists": [
-        {
-          "name": "Supernaive",
-          "url": "https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Opal Waltz",
-      "url": "https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "The Scientific Method, Vol 2",
         "url": "https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 315733,
       "name": "Overhead",
       "url": "https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Dazed & Confused",
+        "url": "https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2"
+      },
+      "artists": [
+        {
+          "name": "Supernaive",
+          "url": "https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq"
+        }
+      ],
+      "duration_ms": 223060,
+      "name": "Opal Waltz",
+      "url": "https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Occasional Magic Remixes EP",
-        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
-      },
-      "artists": [
-        {
-          "name": "Yppah",
-          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
-        },
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 330145,
-      "name": "Occasional Magic - Ulrich Schnauss Remix",
-      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Sky Float Sun",
         "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 331203,
       "name": "Bonder",
       "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Occasional Magic Remixes EP",
+        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
+      },
+      "artists": [
+        {
+          "name": "Yppah",
+          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
+        },
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "duration_ms": 330145,
+      "name": "Occasional Magic - Ulrich Schnauss Remix",
+      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
     },
     {
       "added_at": "2022-07-15 17:34:15",

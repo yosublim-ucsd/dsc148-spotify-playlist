@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,481 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,488 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 42 | [Dead Summer](https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Dead Summer](https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5) | 2:45 |
 | 43 | [PLG](https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:29 |
 | 44 | [Bando](https://open.spotify.com/track/3TockaqZaBW4hPSP5UqdzE) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Cerbère](https://open.spotify.com/album/4FXtD2a2crSUwtpZsrgsfA) | 3:57 |
-| 45 | [Krève](https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Indélébile](https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf) | 2:46 |
-| 46 | [Astral Drill](https://open.spotify.com/track/3P2nTvpN0ehBz8etebwtam) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [Free Cdf2](https://open.spotify.com/album/1j1pDD3I8KnwFepYoybEnh) | 2:35 |
+| 45 | [Astral Drill](https://open.spotify.com/track/3P2nTvpN0ehBz8etebwtam) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [Free Cdf2](https://open.spotify.com/album/1j1pDD3I8KnwFepYoybEnh) | 2:35 |
+| 46 | [Krève](https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Indélébile](https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf) | 2:46 |
 | 47 | [Jack Sparrow](https://open.spotify.com/track/3l84IuZ7KdXYT1cFbDyh8G) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:16 |
 | 48 | [Chill?](https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Fouette Saint\-Patrick](https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce) | 2:43 |
 | 49 | [Badman](https://open.spotify.com/track/6JmVD6HWmhgUKMqAz11qIk) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Bonhomme Pendu \(Chapitre 3\)](https://open.spotify.com/album/590NTKVPSghzSqjd7QX5fn) | 3:26 |
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 83 | [Parle\-Moé Don D'ça](https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb) | [Temple de la Renommée](https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A) | 3:47 |
 | 84 | [Remember](https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1) | [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Remember](https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0) | 3:30 |
 | 85 | [FLX](https://open.spotify.com/track/205afVnJDjzQsh60Zzmxdl) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Le sens des paroles](https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck) | 4:05 |
-| 86 | [Day Off](https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Day Off](https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK) | 3:32 |
-| 87 | [Fanny](https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Aujourd'hui ou jamais](https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J) | 4:21 |
+| 86 | [Fanny](https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Aujourd'hui ou jamais](https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J) | 4:21 |
+| 87 | [Day Off](https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Day Off](https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK) | 3:32 |
 | 88 | [Peace and Love](https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Océan](https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL) | 5:05 |
 | 89 | [Aliens](https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO) | [Charlie Shulz](https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz), [Kamiyada](https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP) | [Aliens](https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke) | 3:00 |
 | 90 | [Henny](https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Henny](https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z) | 3:47 |
-| 91 | [Décoller](https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Jungle Music](https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ) | 4:25 |
-| 92 | [Bloom](https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [...At Least My Mom Loves Me](https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU) | 4:03 |
+| 91 | [Bloom](https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [...At Least My Mom Loves Me](https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU) | 4:03 |
+| 92 | [Décoller](https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Jungle Music](https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ) | 4:25 |
 | 93 | [Fais ton shift](https://open.spotify.com/track/4rXzUQCQQSfa8pybnq5Wok) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [David Lee](https://open.spotify.com/artist/1e3fh39USNb6tlHc9UMuwf), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 4:22 |
 | 94 | [Ça fait mal](https://open.spotify.com/track/1sAB7fCrQ4YUIdoP24qlO1) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Micro](https://open.spotify.com/artist/0QAE7vtf7znl9nN6822bM5) | [Sainte\-Foy](https://open.spotify.com/album/7BEPwXmSWLXN8iaNP3683g) | 4:12 |
 | 95 | [Loin](https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Wow](https://open.spotify.com/track/3T1bB8PzL5Gi0XlvB9hDxU) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Soft](https://open.spotify.com/artist/24tG8onRIqNr5bFhVkROUF), [VNCE CARTER](https://open.spotify.com/artist/11zy6I3LeMtIrIztaTl5rO) | [Canicule, Vol.1](https://open.spotify.com/album/31u0rjLg49Ae8T7VHysfwP) | 2:25 |
 | 100 | [back](https://open.spotify.com/track/5TyT9YnF3S0Z4DfqUSO96b) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ) | [wesh](https://open.spotify.com/album/12eqi4scCGaiOQRJkR2ZfF) | 2:50 |
 
-Snapshot ID: `MCxjNjBiNjI5NDFiYWFhNzYzZjdmNDFjYzYwNWI1NWIxNGI4ZTBiMjQ1`
+Snapshot ID: `MCxhNzBiYzYyYTc4NjQzNWIyNGI2ZTIxODljNjVkNzYxNzc0ZTg2YmI5`

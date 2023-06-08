@@ -1,12 +1,12 @@
 {
   "description": "What in the stutter/rainy/tremolo house list did I just create??",
-  "num_followers": 12414,
+  "num_followers": 12434,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGM1YTlhYjg3ZDQ4OWU1MGRkODYyZTZhMmE3YjNkN2M1NjRkMDAy",
+  "snapshot_id": "MCxjOTUyNTkzMzZlNDc1MjE2MTM5ZTdjNjgxNGUwMzBlNTE2MWI3M2Ri",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Breaking Apart",
-        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
-      },
-      "artists": [
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 275958,
-      "name": "Breaking Apart",
-      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Little Planets - Remix",
         "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 240000,
       "name": "Little Planets - Remix",
       "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Breaking Apart",
+        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 275958,
+      "name": "Breaking Apart",
+      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -983,26 +983,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Run Till Dark (with Now United) (Arcando Remix)",
-        "url": "https://open.spotify.com/album/3CndXGZ1kldW1imbZb3NAG"
+        "name": "Apart Of Me (feat. Devault)",
+        "url": "https://open.spotify.com/album/3PYBio81S8I34o8qhInL5Y"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "OTR",
+          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
         },
         {
-          "name": "Now United",
-          "url": "https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6"
-        },
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         }
       ],
-      "duration_ms": 186870,
-      "name": "Run Till Dark (with Now United) (Arcando Remix)",
-      "url": "https://open.spotify.com/track/6D9sUOLZ8BW9HVQoiKh3Pb"
+      "duration_ms": 198750,
+      "name": "Apart Of Me (feat. Devault)",
+      "url": "https://open.spotify.com/track/00xf3YI4zSlumejNs1HDiM"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1039,22 +1035,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Apart Of Me (feat. Devault)",
-        "url": "https://open.spotify.com/album/3PYBio81S8I34o8qhInL5Y"
+        "name": "Run Till Dark (with Now United) (Arcando Remix)",
+        "url": "https://open.spotify.com/album/3CndXGZ1kldW1imbZb3NAG"
       },
       "artists": [
         {
-          "name": "OTR",
-          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+          "name": "Now United",
+          "url": "https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6"
+        },
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Apart Of Me (feat. Devault)",
-      "url": "https://open.spotify.com/track/00xf3YI4zSlumejNs1HDiM"
+      "duration_ms": 186870,
+      "name": "Run Till Dark (with Now United) (Arcando Remix)",
+      "url": "https://open.spotify.com/track/6D9sUOLZ8BW9HVQoiKh3Pb"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "yes 2 heaven",
-        "url": "https://open.spotify.com/album/7cOYMlDXp28Bg5KpoFWSOB"
-      },
-      "artists": [
-        {
-          "name": "Sokrat",
-          "url": "https://open.spotify.com/artist/3Gxx3Kl9GqBPyKoUNHMxuB"
-        },
-        {
-          "name": "simOne",
-          "url": "https://open.spotify.com/artist/0THaJJT8yNpEdMs4vpJEYR"
-        },
-        {
-          "name": "Melo Nada",
-          "url": "https://open.spotify.com/artist/3dSDscTTyLXCuoav0Tr14p"
-        }
-      ],
-      "duration_ms": 255047,
-      "name": "yes 2 heaven",
-      "url": "https://open.spotify.com/track/2SFvNyfzLs7sv40WLqn5xE"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Loved Ones",
         "url": "https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu"
       },
@@ -1507,26 +1483,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Need Somebody (Icarus Remix)",
-        "url": "https://open.spotify.com/album/5ZmEZhwaAUEkkkhRUhGUFM"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        },
-        {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
-        }
-      ],
-      "duration_ms": 284003,
-      "name": "Need Somebody (Icarus Remix)",
-      "url": "https://open.spotify.com/track/42Axq8KVKQLestbSsQG1Qe"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "up all night",
         "url": "https://open.spotify.com/album/700Q6CYdEBvPoT9Q2gIEdi"
       },
@@ -1547,6 +1503,26 @@
       "duration_ms": 201230,
       "name": "up all night",
       "url": "https://open.spotify.com/track/1McYEltUcrkVnR6G547NDT"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Need Somebody (Icarus Remix)",
+        "url": "https://open.spotify.com/album/5ZmEZhwaAUEkkkhRUhGUFM"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        },
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "duration_ms": 284003,
+      "name": "Need Somebody (Icarus Remix)",
+      "url": "https://open.spotify.com/track/42Axq8KVKQLestbSsQG1Qe"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1683,22 +1659,18 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "See This Through",
-        "url": "https://open.spotify.com/album/3mr6nOha9myNvBwMEMAA4y"
+        "name": "nintendo 64",
+        "url": "https://open.spotify.com/album/00nsuf3f7BVivDVU7ZNmpT"
       },
       "artists": [
         {
-          "name": "Alex Metric",
-          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
-        },
-        {
-          "name": "Dot Major",
-          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
         }
       ],
-      "duration_ms": 283408,
-      "name": "See This Through",
-      "url": "https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx"
+      "duration_ms": 125142,
+      "name": "goldeneye 007",
+      "url": "https://open.spotify.com/track/6DeccmTFZxuJ7nv7Cx2GFe"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1723,18 +1695,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Silence In The Hollow",
-        "url": "https://open.spotify.com/album/6Vdy9cA047Y1a0AbDSQjGQ"
+        "name": "See This Through",
+        "url": "https://open.spotify.com/album/3mr6nOha9myNvBwMEMAA4y"
       },
       "artists": [
         {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
         }
       ],
-      "duration_ms": 204878,
-      "name": "Silence In The Hollow",
-      "url": "https://open.spotify.com/track/3NGe0uPXUFfutwKaskELsQ"
+      "duration_ms": 283408,
+      "name": "See This Through",
+      "url": "https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1755,18 +1731,34 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "nintendo 64",
-        "url": "https://open.spotify.com/album/00nsuf3f7BVivDVU7ZNmpT"
+        "name": "notice",
+        "url": "https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7"
       },
       "artists": [
         {
-          "name": "wes mills",
-          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+          "name": "Maya Randle",
+          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
         }
       ],
-      "duration_ms": 125142,
-      "name": "goldeneye 007",
-      "url": "https://open.spotify.com/track/6DeccmTFZxuJ7nv7Cx2GFe"
+      "duration_ms": 155165,
+      "name": "notice",
+      "url": "https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Silence In The Hollow",
+        "url": "https://open.spotify.com/album/6Vdy9cA047Y1a0AbDSQjGQ"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Silence In The Hollow",
+      "url": "https://open.spotify.com/track/3NGe0uPXUFfutwKaskELsQ"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1811,6 +1803,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "feelslikewerefalling",
+        "url": "https://open.spotify.com/album/0n8vdluADIPcKgDqKihrns"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        },
+        {
+          "name": "In Explosions",
+          "url": "https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "feelslikewerefalling",
+      "url": "https://open.spotify.com/track/5AQTaXJSHYCBnqDXcX0Qpu"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Isolate (Jacana People Remix)",
         "url": "https://open.spotify.com/album/1De74ejTitVpfGKijS6SIP"
       },
@@ -1827,22 +1839,6 @@
       "duration_ms": 244673,
       "name": "Isolate - Jacana People Remix",
       "url": "https://open.spotify.com/track/4gaVbud6ZqzIgse5t5kzYw"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "notice",
-        "url": "https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7"
-      },
-      "artists": [
-        {
-          "name": "Maya Randle",
-          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
-        }
-      ],
-      "duration_ms": 155165,
-      "name": "notice",
-      "url": "https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar"
     }
   ],
   "unique_name": "Emotional Dance",

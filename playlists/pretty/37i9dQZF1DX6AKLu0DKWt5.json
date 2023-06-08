@@ -1,12 +1,12 @@
 {
   "description": "Music from TV shows and films nominated for the 80th Golden Globe Awards. Watch Jan 10, 2023 on NBC.",
-  "num_followers": 5562,
+  "num_followers": 5564,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzNkN2FjOGI1MGZiMjYzZWM0ZDVkYzg0Njc2ZjQ0MGIzNmE2ZGQ3",
+  "snapshot_id": "MCwxY2IyNjY4ZTA5ZWZmYzlhMTBmMDc4Y2Y4ZDQ2ZDgyMWVlZDM1YWMy",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
+        "name": "Empire of Light (Original Score)",
+        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 317026,
+      "name": "Empire Of Light",
+      "url": "https://open.spotify.com/track/6O22GpPxzXC3lnaiGZsGXa"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
         "name": "George & Tammy (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 165752,
       "name": "Stand By Your Man",
       "url": "https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Empire of Light (Original Score)",
-        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 317026,
-      "name": "Empire Of Light",
-      "url": "https://open.spotify.com/track/6O22GpPxzXC3lnaiGZsGXa"
     },
     {
       "added_at": "2022-12-21 17:45:34",

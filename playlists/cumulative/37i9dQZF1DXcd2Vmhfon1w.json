@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "CASANOVA",
+        "url": "https://open.spotify.com/album/5FCBY0PBrrrPLJVyJIVRxt"
+      },
+      "artists": [
+        {
+          "name": "Recycled J",
+          "url": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "CASANOVA",
+      "url": "https://open.spotify.com/track/2YNtUj9qvvmaSe4DIvJedT"
+    },
+    {
+      "album": {
         "name": "Chatarra",
         "url": "https://open.spotify.com/album/1dZrdu4MxyX2gBuN4CWCC1"
       },
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 194991,
       "name": "De Los M\u00edos",
       "url": "https://open.spotify.com/track/6642UGRd8Ts5NoXTGGomwx"
@@ -1578,10 +1596,36 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 200515,
       "name": "Fumando Serio",
       "url": "https://open.spotify.com/track/0ECx1tOxvuJi9NYFwYazAl"
+    },
+    {
+      "album": {
+        "name": "El Tobog\u00e1n",
+        "url": "https://open.spotify.com/album/3jhyjf7IB2QtpXpJ519hpV"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        },
+        {
+          "name": "Bejo",
+          "url": "https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u"
+        },
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155733,
+      "name": "Give me the Kush",
+      "url": "https://open.spotify.com/track/1Haj4x0Yv65dpL6URdPg4L"
     },
     {
       "album": {
@@ -1855,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193165,
+      "name": "Ja Morant",
+      "url": "https://open.spotify.com/track/74Y6PcHH1FU0ZXb34GHbsB"
+    },
+    {
+      "album": {
         "name": "Kazike",
         "url": "https://open.spotify.com/album/1kfkqYuwTD8S0PJxNngGdG"
       },
@@ -1874,6 +1936,36 @@
       "duration_ms": 234666,
       "name": "Kazike",
       "url": "https://open.spotify.com/track/7w91FpEfNhusidwN3Xz7hK"
+    },
+    {
+      "album": {
+        "name": "Kurosawa",
+        "url": "https://open.spotify.com/album/6NO60vTg71nt4e397VOlz3"
+      },
+      "artists": [
+        {
+          "name": "Prok",
+          "url": "https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Ayax y Prok",
+          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
+        },
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258709,
+      "name": "Kurosawa",
+      "url": "https://open.spotify.com/track/65WhbNdDsoCwVEa8hv2WQB"
     },
     {
       "album": {
@@ -2359,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/4vqSKeqWuKOJSUjm2NWtB5"
+      },
+      "artists": [
+        {
+          "name": "Serko",
+          "url": "https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/7smmyEpJwuZn1CZi0K7pLj"
+    },
+    {
+      "album": {
         "name": "Marte",
         "url": "https://open.spotify.com/album/0v67Ba06TaCsZgFuTO11kU"
       },
@@ -2754,6 +2864,32 @@
       "duration_ms": 172982,
       "name": "Nanai",
       "url": "https://open.spotify.com/track/67IUEsbUdToIjiUl1H3QWN"
+    },
+    {
+      "album": {
+        "name": "Navajas y Percebes 2",
+        "url": "https://open.spotify.com/album/4jTQKJXlc8Koin33gYIxCA"
+      },
+      "artists": [
+        {
+          "name": "Ill Peke\u00f1o",
+          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
+        },
+        {
+          "name": "Tensei One",
+          "url": "https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7"
+        },
+        {
+          "name": "Ergo Pro",
+          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236234,
+      "name": "Navajas y Percebes 2",
+      "url": "https://open.spotify.com/track/2rFTeKTGDMiDMpxGorjBY5"
     },
     {
       "album": {
@@ -3168,7 +3304,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 203366,
       "name": "RAPI\u00d1A | Barracudas #3",
       "url": "https://open.spotify.com/track/4kvp38IVCQgMSuixcPz00L"
@@ -3208,6 +3344,28 @@
       "duration_ms": 273548,
       "name": "Reproches",
       "url": "https://open.spotify.com/track/7aKXQCV7TaA56bnhXTxJFn"
+    },
+    {
+      "album": {
+        "name": "RUIDO",
+        "url": "https://open.spotify.com/album/5gIf9EL4XI9VG1hgXhyGyd"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187059,
+      "name": "RUIDO",
+      "url": "https://open.spotify.com/track/1k8dEIK2NDebaHUiyq3Qt5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H?si=4f21d1419eed49e3">TuKool Tiff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,346 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,477 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 52 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 |
 | 53 | [on my own](https://open.spotify.com/track/3oRO90HlbMfCWUhteNrqTf) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [on my own](https://open.spotify.com/album/0qYokH1pgLkugeVIksKUca) | 2:10 |
 | 54 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 |
-| 55 | [My Moment](https://open.spotify.com/track/7HgwQJaUb3jef5Sk3VbB03) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [My Moment](https://open.spotify.com/album/3Yf0sq4nzzrma77O2J88tt) | 2:39 |
+| 55 | [My Moment](https://open.spotify.com/track/77VsGl6vy7XgpzEk4tsGp4) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [My Moment](https://open.spotify.com/album/7mN6Oi9wcGnIdnulaAtKDe) | 2:39 |
 | 56 | [The Home I Have In You](https://open.spotify.com/track/6kk2Gdj2FnKpUeNmfvBal2) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Simple & Sweet](https://open.spotify.com/album/1XG6YpiR8IvUEjCuKhjS87) | 4:28 |
 | 57 | [TOO INVOLVED](https://open.spotify.com/track/4QYrRTg2rkqnoPdHepRmGZ) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [TOO INVOLVED](https://open.spotify.com/album/2LDELsGYsX6gi3Z7JCtv4E) | 3:03 |
 | 58 | [GO WITH THE GHOST](https://open.spotify.com/track/1ArrMOlOFWYmrst6DTV95C) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [GO WITH THE GHOST](https://open.spotify.com/album/3PpbucB0CCYMdTvJThYsvf) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Live Up To Your Name \- Live](https://open.spotify.com/track/54AXvQkn2hfJuYmfFPhTSD) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Mariah Bernard](https://open.spotify.com/artist/6D0WktW7tmmY9L5EoNMZDR), [Legacy Worship](https://open.spotify.com/artist/6ihwUDKKZIHy8jxd9COmPx) | [Live Up To Your Name](https://open.spotify.com/album/63l5v5rdrfz6SjSQLhQdOx) | 4:47 |
 | 100 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5FAu0KGhpZkr6P1OgwJ2mW) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Karlee Lloyd](https://open.spotify.com/artist/7s9G3GrP5esjiwJjBh7xvi) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/3gK6mFQOVjU5gu4JNw8CWp) | 4:40 |
 
-Snapshot ID: `MCwyMmE4Mzk2NjQ3YWI1ZGU0N2E5MmRiMDgwNzA1OWViYjFiYTliODJh`
+Snapshot ID: `MCwyZGJiOTc3OTk5YmU0OTg3YjA4NTJkNGU4ZjU4NDE1MzhkM2E4Y2Nh`

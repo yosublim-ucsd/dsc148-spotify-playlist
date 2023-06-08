@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:3VBPvCalDAaE5MJHkMAuDk\">Ophelia Lia</a>",
+  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:1HVA7XWQZ5OZgJLhSaTDXA\">Il Mago Del Gelato</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 164651,
       "name": "! (demo)",
       "url": "https://open.spotify.com/track/3TsAhSlSD7riJAbVixnz6c"
@@ -342,6 +342,24 @@
       "duration_ms": 192592,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/3nNlSuhWBqoOCdN1eze4Dj"
+    },
+    {
+      "album": {
+        "name": "Addio, addio amici a Dio",
+        "url": "https://open.spotify.com/album/18lp0mcmGb4vjTGznlMbEg"
+      },
+      "artists": [
+        {
+          "name": "paolo.alneon",
+          "url": "https://open.spotify.com/artist/4EOHC7Fi1B0kKa7g49tSQd"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168932,
+      "name": "3 respiri",
+      "url": "https://open.spotify.com/track/1dpunMfBlBZJNH2O22hdDc"
     },
     {
       "album": {
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 151442,
       "name": "atomika",
       "url": "https://open.spotify.com/track/55hyU0Oin2CY6K1yJMaGjB"
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 113818,
       "name": "brutto sogno",
       "url": "https://open.spotify.com/track/4udZvpaUKKwTiCk1aK77YN"
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 208124,
       "name": "Carletto",
       "url": "https://open.spotify.com/track/1QeT4Wmjtwm47zsZcqXB8C"
@@ -5321,6 +5339,24 @@
     },
     {
       "album": {
+        "name": "gli alberi",
+        "url": "https://open.spotify.com/album/2g7HzqXKplCe0HsoJ8npnU"
+      },
+      "artists": [
+        {
+          "name": "Enea",
+          "url": "https://open.spotify.com/artist/4AbkLl6EgZ6BiIZ9SX40dj"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149277,
+      "name": "gli alberi",
+      "url": "https://open.spotify.com/track/4v695VZ97Q0pylXUXmezYU"
+    },
+    {
+      "album": {
         "name": "goddamn",
         "url": "https://open.spotify.com/album/2VWCy3ui3OjSa6gqhxSHTR"
       },
@@ -5492,6 +5528,24 @@
       "duration_ms": 152470,
       "name": "Haribo",
       "url": "https://open.spotify.com/track/1qkOYFTHPLOstClyd32y00"
+    },
+    {
+      "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/4ZQooS9fZGzdDnjzf717vh"
+      },
+      "artists": [
+        {
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/0PcnJsn1uvofOmM4U2rtBm"
     },
     {
       "album": {
@@ -7852,7 +7906,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 128906,
       "name": "Milano sei tossica",
       "url": "https://open.spotify.com/track/1jxdBO6W0M7L9AcGfM5ZeL"
@@ -8544,7 +8598,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 168791,
       "name": "Neutral",
       "url": "https://open.spotify.com/track/690oGzYVBsc4Wb28GuhWB9"
@@ -10982,7 +11036,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 175234,
       "name": "Quanto \u00e8 semplice",
       "url": "https://open.spotify.com/track/3G9vyuzdUliB1jMbwDeCM6"
@@ -11750,6 +11804,24 @@
       "duration_ms": 171428,
       "name": "Santa Barbara",
       "url": "https://open.spotify.com/track/0FR32DeyHC4UhnPujAbMMh"
+    },
+    {
+      "album": {
+        "name": "Saturate",
+        "url": "https://open.spotify.com/album/3nfSOpQt2JeiL7eRfPSQLl"
+      },
+      "artists": [
+        {
+          "name": "TECHNOIR",
+          "url": "https://open.spotify.com/artist/1RS1JwEkPQM8W9lsTfVFwI"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259703,
+      "name": "Saturate",
+      "url": "https://open.spotify.com/track/6SIvVOCualFNdP42Qa9Ave"
     },
     {
       "album": {
@@ -13267,6 +13339,24 @@
     },
     {
       "album": {
+        "name": "Tavolo per due",
+        "url": "https://open.spotify.com/album/0UvvJoF4H5iUZq8g4G96ui"
+      },
+      "artists": [
+        {
+          "name": "Peligro",
+          "url": "https://open.spotify.com/artist/5frSoUKC7ordrJUgUzYU2I"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142597,
+      "name": "Tavolo per due",
+      "url": "https://open.spotify.com/track/7Hszqc3N0KvIlhDDr9f39t"
+    },
+    {
+      "album": {
         "name": "Te soltanto",
         "url": "https://open.spotify.com/album/6WkpabHhNwIhz3VOdWRhy4"
       },
@@ -13390,6 +13480,28 @@
       "duration_ms": 192288,
       "name": "The Waves Are Calling Us",
       "url": "https://open.spotify.com/track/2WxnZWGdkGZNSaSRwIB9xA"
+    },
+    {
+      "album": {
+        "name": "disco-teca",
+        "url": "https://open.spotify.com/album/6rSsz54SUKdgNAR0AXWRRc"
+      },
+      "artists": [
+        {
+          "name": "Malvax",
+          "url": "https://open.spotify.com/artist/5rxTrWSZXwqJbhwXpR8886"
+        },
+        {
+          "name": "GALASSIE",
+          "url": "https://open.spotify.com/artist/7uh7wtN8jxoPL6GRPEChqs"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "ti giuro ti giuro ti giuro",
+      "url": "https://open.spotify.com/track/2D7GF205b7QNoMEyUl91lD"
     },
     {
       "album": {
@@ -14002,6 +14114,24 @@
       "duration_ms": 156000,
       "name": "UNA RAPINA",
       "url": "https://open.spotify.com/track/39gNEi6O7BuA4LZdizJa4b"
+    },
+    {
+      "album": {
+        "name": "UNA STUPIDA CANZONE",
+        "url": "https://open.spotify.com/album/4l9RgYyxXPsCHK6yTvh2sh"
+      },
+      "artists": [
+        {
+          "name": "Yuma",
+          "url": "https://open.spotify.com/artist/3TSbPuX2fNmCbH5Zkz0gKT"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "UNA STUPIDA CANZONE",
+      "url": "https://open.spotify.com/track/0EP2Xtp5141PfJRF70ET6j"
     },
     {
       "album": {

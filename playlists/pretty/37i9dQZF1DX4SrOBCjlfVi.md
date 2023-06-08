@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Moneybagg Yo, Gunna, and more\. Cover: Toosii
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,970 likes - 52 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,093 likes - 52 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 51 | [WHITE CAPRICE](https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [REAL B\*TCHES DON'T DIE!](https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX) | 3:16 |
 | 52 | [Edna \(Capes\)](https://open.spotify.com/track/0u3rPAewRgSd5PVTdjBBgb) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Edna \(Capes\)](https://open.spotify.com/album/4vYaBCjcql0eewlAfLNNVP) | 3:12 |
 
-Snapshot ID: `MCxmZGVlNTQ0NTEwYzhkZmNkMzkzZjJhYjczNzUyOTQxOGVkMDEwNTk0`
+Snapshot ID: `MCxlOGM2YWMyOWZlNjU2ZWE5MzcyYzBlNjgwNWFkZGZhZGNiNjg5MjIx`

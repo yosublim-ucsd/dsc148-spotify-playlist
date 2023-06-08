@@ -4,7 +4,7 @@
 
 > Ven a Spotify EQUAL Fest Madrid a celebrar el talento femenino\. Entradas <a href="https://www.ticketmaster.es/event/35863?subchannel\_id=67&brand=planetevents">aquí</a>\. Foto: Ana Mena.
 
-733 songs - 1 day 14 hr 0 min
+734 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,8 @@
 | [Me desplom](https://open.spotify.com/track/54BpDEIZHcFDDTBN3vlj0M) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Me desplom](https://open.spotify.com/album/07RgKVRUB56h7wh1qHoI5H) | 2:38 | 2022-05-31 | 2022-07-06 |
 | [Me Duele](https://open.spotify.com/track/2fMChfNtLRY5B64yrnlBnV) | [Maria Carrasco](https://open.spotify.com/artist/1qGBgzWSpJpug7j0D7CQVw) | [Me Duele](https://open.spotify.com/album/5lOaEFAfSs4meISm5m91pt) | 3:32 | 2022-11-08 | 2022-12-01 |
 | [Me Enamora](https://open.spotify.com/track/6SPwsGI1IMrflIj83XglJX) | [Lorena Santos](https://open.spotify.com/artist/5ACW0L3lAgfRihTOhV8awe), [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Me Enamora](https://open.spotify.com/album/0J35hFeVvMTuRiklnGihyI) | 3:24 | 2022-02-01 | 2022-03-08 |
-| [Me He Pillao x Ti](https://open.spotify.com/track/07TRc0Glkk8wDVq3eC5f2Z) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:22 | 2023-06-06 |  |
+| [Me Enamoro](https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 2:44 | 2023-06-07 |  |
+| [Me He Pillao x Ti](https://open.spotify.com/track/07TRc0Glkk8wDVq3eC5f2Z) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:22 | 2023-06-06 | 2023-06-08 |
 | [Me He Pillao x Ti](https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Me He Pillao x Ti](https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG) | 3:22 | 2023-02-28 | 2023-04-05 |
 | [Me iré](https://open.spotify.com/track/0sOKefIUhjoUmsWG0QHHV3) | [Nena Daconte](https://open.spotify.com/artist/58ZTr51uERVdMQbfDbc5B3) | [Casi Perfecto](https://open.spotify.com/album/595HMdHcid8S3YgcDn2Est) | 4:11 | 2023-04-04 | 2023-05-03 |
 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 | 2022-05-31 | 2023-02-02 |

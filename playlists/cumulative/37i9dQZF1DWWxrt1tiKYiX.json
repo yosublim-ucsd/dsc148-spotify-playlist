@@ -1504,10 +1504,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 191000,
       "name": "I Wrote A Song - Acoustic",
       "url": "https://open.spotify.com/track/00EC5CH3rcbU2eCgUBnyJS"
+    },
+    {
+      "album": {
+        "name": "I Wrote A Song",
+        "url": "https://open.spotify.com/album/5qlydNF8Z6kousaKWE5jRB"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "I Wrote A Song - Acoustic",
+      "url": "https://open.spotify.com/track/3RKom6cYaG4eVGYkCgzat8"
     },
     {
       "album": {

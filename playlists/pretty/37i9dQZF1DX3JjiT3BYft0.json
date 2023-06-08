@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 56946,
+  "num_followers": 56993,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjMzOTFmMjNjODVlZmFiYmViNzUyZjlkZmJhMTgzODUzYTUzZjNk",
+  "snapshot_id": "MCxmZWU5YTk1NTNlMTIwNmM5N2JlODJlZDBjOTEzODlmNTc1YWM2YjZm",
   "tracks": [
     {
       "added_at": "2023-05-30 15:00:00",
@@ -683,6 +683,38 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
+        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+        "url": "https://open.spotify.com/album/3T2Swbk2WotBJA6sXka0mY"
+      },
+      "artists": [
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u30e2\u30ab",
+          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
+        },
+        {
+          "name": "\u30ea\u30b5",
+          "url": "https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy"
+        },
+        {
+          "name": "\u82b1\u97f3",
+          "url": "https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf"
+        },
+        {
+          "name": "\u3064\u3050\u307f",
+          "url": "https://open.spotify.com/artist/0WVuJfe3JrP97oz0EJYFLr"
+        }
+      ],
+      "duration_ms": 238835,
+      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+      "url": "https://open.spotify.com/track/0BFyIMS0AV0nQPey197CAh"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
         "name": "See you! \u301c\u305d\u308c\u305e\u308c\u306e\u660e\u65e5\u3078\u301c",
         "url": "https://open.spotify.com/album/28jD62i4cZTV3y9hh6aj0l"
       },
@@ -731,38 +763,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-        "url": "https://open.spotify.com/album/3T2Swbk2WotBJA6sXka0mY"
-      },
-      "artists": [
-        {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
-        },
-        {
-          "name": "\u30e2\u30ab",
-          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
-        },
-        {
-          "name": "\u30ea\u30b5",
-          "url": "https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy"
-        },
-        {
-          "name": "\u82b1\u97f3",
-          "url": "https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf"
-        },
-        {
-          "name": "\u3064\u3050\u307f",
-          "url": "https://open.spotify.com/artist/0WVuJfe3JrP97oz0EJYFLr"
-        }
-      ],
-      "duration_ms": 238835,
-      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-      "url": "https://open.spotify.com/track/0BFyIMS0AV0nQPey197CAh"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "TITLE IDOL",
         "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 282300,
-      "name": "ONE OF US",
-      "url": "https://open.spotify.com/track/3Eu6OI5GREV2RVksFaYgMo"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "\u97f3\u4e00\u4f1a",
         "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 282013,
       "name": "\u97f3\u4e00\u4f1a",
       "url": "https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 282300,
+      "name": "ONE OF US",
+      "url": "https://open.spotify.com/track/3Eu6OI5GREV2RVksFaYgMo"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
+        "name": "\u97f3\u4e00\u4f1a",
+        "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "\u5f71\u8272\u821e",
+      "url": "https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
         "name": "\u30af\u30a4\u30f3\u30c6\u30a3\u30d7\u30eb\u2606\u3059\u307e\u3044\u308b",
         "url": "https://open.spotify.com/album/7jSTcMdYALUXD6hZWdsw5J"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 271022,
       "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
       "url": "https://open.spotify.com/track/0o4od2HRigwdtMGZdRnwXA"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "\u97f3\u4e00\u4f1a",
-        "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
-      },
-      "artists": [
-        {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "\u5f71\u8272\u821e",
-      "url": "https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
-        "url": "https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS"
+        "name": "Wahl",
+        "url": "https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz"
       },
       "artists": [
         {
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 235766,
-      "name": "Proud of oneself",
-      "url": "https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0"
+      "duration_ms": 304600,
+      "name": "\u7d04\u675f",
+      "url": "https://open.spotify.com/track/0mMlO2uGxvX8Mr11RSB4y9"
     }
   ],
   "unique_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",

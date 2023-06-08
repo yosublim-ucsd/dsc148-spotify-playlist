@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 5863,
+  "num_followers": 5887,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTNjMTZhYTk4Zjc3ZjIwZTZhNmRkZDY4MGY4YTY1NGI4NjNmYjI3",
+  "snapshot_id": "MCw5ODQyNWIwNzhlNzUxOWZjZDQ3MjI4ODQ4NWE1MjU4Y2NiMTM2OTdm",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -579,30 +579,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "My Life 4Hunnid",
-        "url": "https://open.spotify.com/album/3g2sgN6wC92EwuEA9hLbH0"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 216953,
-      "name": "Surgery",
-      "url": "https://open.spotify.com/track/3RniWkfPXJGxxM4IeBBRCe"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "My Life 4Hunnid",
+        "url": "https://open.spotify.com/album/3g2sgN6wC92EwuEA9hLbH0"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 216953,
+      "name": "Surgery",
+      "url": "https://open.spotify.com/track/3RniWkfPXJGxxM4IeBBRCe"
     },
     {
       "added_at": "2022-10-01 20:31:11",

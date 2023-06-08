@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: RAYE
 
-877 songs - 2 day 3 hr 32 min
+878 songs - 2 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [call](https://open.spotify.com/track/2SMmWQjdyfqeFBWEtYSPER) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [Coby Grant](https://open.spotify.com/artist/0KIAa5HfMdRsbfhxzDcNVY) | [call](https://open.spotify.com/album/0LxAOZQclMnkk54tHzBfiI) | 2:05 | 2019-12-04 | 2020-01-27 |
 | [Call](https://open.spotify.com/track/12TWXbhPnlu0fcUaMTG8l5) | [Harleighblu](https://open.spotify.com/artist/4cEYh7S0lnB9zj30tzPorE), [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Call](https://open.spotify.com/album/1atZpFxR0gzUGfZ982IiSf) | 3:15 | 2019-10-08 | 2019-11-22 |
 | [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 | 2020-05-01 | 2020-06-10 |
+| [Called it Love](https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Called it Love](https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a) | 3:06 | 2023-06-02 |  |
 | [Can I Get Your Name](https://open.spotify.com/track/1wET3dkqtfjxz3RJGNa9HK) | [Angela Muñoz](https://open.spotify.com/artist/0LYpHdjPJEKhjh3euGHngh), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Introspection](https://open.spotify.com/album/0p3UIQvC5dbx02Ovq6VGqH) | 3:57 | 2020-06-29 | 2023-02-04 |
 | [can you hear me](https://open.spotify.com/track/02M384e2IGqWVmzjTlgqoC) | [The Recall](https://open.spotify.com/artist/0K0IzvbeiQsLrkxBtWcAsc) | [can you hear me](https://open.spotify.com/album/6oQuxrLRlGioERgrINJ6Uh) | 3:25 | 2021-04-20 | 2022-04-21 |
 | [Can't Fight](https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Can't Fight](https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq) | 3:10 | 2020-05-22 | 2020-07-10 |
@@ -321,7 +322,7 @@
 | [Going Through](https://open.spotify.com/track/42BOdzpGLyJrVqtDozov4H) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK) | [Going Through](https://open.spotify.com/album/5IHzSqvCDBjCH4E2RkH20O) | 3:01 | 2020-06-12 | 2020-09-11 |
 | [Gold](https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 2:46 | 2022-07-22 |  |
 | [Gold Plated](https://open.spotify.com/track/7pk2h8CZaVkXu5g43FChqX) | [Odette Peters](https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW), [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Gold Plated](https://open.spotify.com/album/3ICy60LNQtfL07SqlJkuTy) | 3:35 | 2020-05-01 | 2022-07-28 |
-| [Gold Plated](https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Odette Peters](https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW) | [Gold Plated](https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB) | 3:35 | 2022-07-22 |  |
+| [Gold Plated](https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Odette Peters](https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW) | [Gold Plated](https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB) | 3:35 | 2022-07-22 | 2023-06-08 |
 | [Gone](https://open.spotify.com/track/69BhPwanJ4VB5lin3lIQ2a) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Nerve](https://open.spotify.com/album/32vakhO6s5UJzCAAHJExLu) | 4:32 | 2020-10-16 | 2022-07-29 |
 | [Gone \[Feat\. YBN Cordae, Bilal, Herbie Hancock\]](https://open.spotify.com/track/5Dc2XqowT9KluHHGTA8nIN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fuck Yo Feelings](https://open.spotify.com/album/5SFtk75uqfjUGXEjLsgdMl) | 3:44 | 2019-10-15 | 2019-11-20 |
 | [Gonna Be Good](https://open.spotify.com/track/0F0sYdzTgagF5bc0W7n5OX) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Gonna Be Good](https://open.spotify.com/album/5LdXNTovL1G4H1XQyLE19o) | 3:32 | 2020-09-02 | 2020-10-02 |

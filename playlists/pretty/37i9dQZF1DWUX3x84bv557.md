@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Zoë Tauran \(Spotify <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR\-artiest</a>\) op de cover van de vernieuwde Je Moerstaal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,503 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,552 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 4 | [Zweven](https://open.spotify.com/track/41kC0OKOvxxccg9AZcIVlg) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Zweven](https://open.spotify.com/album/7jyJPYHgvDIsHElJio5fnQ) | 2:46 |
 | 5 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 |
 | 6 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 |
-| 7 | [Alles Vergeven](https://open.spotify.com/track/0mlq1DTHPuugqFxb5ZRyju) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles Vergeven](https://open.spotify.com/album/7DuamzfHwRc03kH3Nu53Yg) | 2:49 |
-| 8 | [Small Talk](https://open.spotify.com/track/2M6sp60mWuRoGHapvKDapT) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Small Talk](https://open.spotify.com/album/3lCs6eE88aVxRpgFCkVYkO) | 2:52 |
-| 9 | [Hete Vuren](https://open.spotify.com/track/1oBM2lPmoio5W8VA3bF0zL) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Melissa Lopes](https://open.spotify.com/artist/67qIVZfLi2zNpwqyrrOMCP) | [Hete Vuren](https://open.spotify.com/album/0SyMTDaEflhei96E47gcEa) | 2:27 |
+| 7 | [Hete Vuren](https://open.spotify.com/track/1oBM2lPmoio5W8VA3bF0zL) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Melissa Lopes](https://open.spotify.com/artist/67qIVZfLi2zNpwqyrrOMCP) | [Hete Vuren](https://open.spotify.com/album/0SyMTDaEflhei96E47gcEa) | 2:27 |
+| 8 | [Alles Vergeven](https://open.spotify.com/track/0mlq1DTHPuugqFxb5ZRyju) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles Vergeven](https://open.spotify.com/album/7DuamzfHwRc03kH3Nu53Yg) | 2:49 |
+| 9 | [Small Talk](https://open.spotify.com/track/2M6sp60mWuRoGHapvKDapT) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Small Talk](https://open.spotify.com/album/3lCs6eE88aVxRpgFCkVYkO) | 2:52 |
 | 10 | [Goed Nieuws](https://open.spotify.com/track/1qSTVPUUf1JGUc5NpIZ6mB) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Goed Nieuws](https://open.spotify.com/album/3iAznDDuEi5gm0XP4cAF1s) | 3:43 |
 | 11 | [Laat Mij 'M Zijn](https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Meesterwerk](https://open.spotify.com/album/6tOUUlBUw8hSyZWnvzu5im) | 2:51 |
 | 12 | [Altijd Al Beloofd](https://open.spotify.com/track/33PP2svLoyHP37hG5zChe0) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Altijd Al Beloofd](https://open.spotify.com/album/3y0c9HEcdDwFX29z1iWApy) | 2:46 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Aan](https://open.spotify.com/track/5Yoe79keJ0xoIeYC4I9HLK) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Aan](https://open.spotify.com/album/6bcsjxw1agsRZeWfGCFVvk) | 2:38 |
 | 90 | [Oceaan](https://open.spotify.com/track/6JXQqhnF6ACLhMPXCF64rM) | [Cheyenne Toney](https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8) | [Oceaan](https://open.spotify.com/album/6wkRFzlwXWQWMyAtWyAvWi) | 3:07 |
 
-Snapshot ID: `MCxkZTNkYzRmZGQ3YTcyYTk3MjllZGE3YTFhYjNlNGI2Y2E3YjRjODBk`
+Snapshot ID: `MCxkMWRjYmZlOTAzOTkyYzBjODRmZjFhNWQxNWI0NDE4ZjJhNjkzMGQ0`

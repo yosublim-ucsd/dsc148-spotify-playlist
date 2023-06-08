@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 21797,
+  "num_followers": 21815,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmUwZjVjOTQxMjE1MmExYWMxNWIxOGRjNTg5MGRlNTYwMDAwOWNm",
+  "snapshot_id": "MCw5NzRiYTAwMTVlZDczM2Y3ZTc3N2RjZWMxNmU4ZGVjYzU1YzMyNTc5",
   "tracks": [
     {
       "added_at": "2022-12-05 10:46:12",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "Bafaker Kteer",
-        "url": "https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi"
-      },
-      "artists": [
-        {
-          "name": "Reina Khoury",
-          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
-        }
-      ],
-      "duration_ms": 200337,
-      "name": "Bafaker Kteer",
-      "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
-    },
-    {
-      "added_at": "2022-12-05 10:46:12",
-      "album": {
         "name": "Black Iris",
         "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
       },
@@ -759,8 +743,24 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "Ya Saad",
-        "url": "https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q"
+        "name": "Bafaker Kteer",
+        "url": "https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi"
+      },
+      "artists": [
+        {
+          "name": "Reina Khoury",
+          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
+        }
+      ],
+      "duration_ms": 200337,
+      "name": "Bafaker Kteer",
+      "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
+    },
+    {
+      "added_at": "2022-12-05 10:46:12",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
         }
       ],
-      "duration_ms": 244690,
-      "name": "Ya Saad",
-      "url": "https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B"
+      "duration_ms": 208560,
+      "name": "Pedazos de mi vida",
+      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
     },
     {
       "added_at": "2022-12-05 10:46:12",
@@ -891,8 +891,8 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
+        "name": "Ya Saad",
+        "url": "https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
         }
       ],
-      "duration_ms": 208560,
-      "name": "Pedazos de mi vida",
-      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
+      "duration_ms": 244690,
+      "name": "Ya Saad",
+      "url": "https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B"
     },
     {
       "added_at": "2022-12-05 10:46:12",

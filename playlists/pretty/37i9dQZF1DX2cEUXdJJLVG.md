@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,673 likes - 181 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,719 likes - 181 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 64 | [Wait Till The Morning](https://open.spotify.com/track/1MLF2YamXA1ELOgbQ6Ivtf) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T), [New Body Electric](https://open.spotify.com/artist/3h0OzibApOQzdvIGPEVavo), [Efraïm Trujillo](https://open.spotify.com/artist/6QMEYX8YSAruSN9r8EHgv5) | [I Wanna Go Home](https://open.spotify.com/album/15W0lTLQPOJWHnjR5c3RYS) | 2:45 |
 | 65 | [Clinging On Me](https://open.spotify.com/track/2EGyiht9vLt5NQ2KOdWOml) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [On My Way](https://open.spotify.com/album/0QsRnX70CLkR37iaYpqoLG) | 5:04 |
 | 66 | [Down This Path](https://open.spotify.com/track/0lpVYjvv6KxqIK2tzjxURU) | [Edmund Paquin](https://open.spotify.com/artist/1sj2E6vznD7CD6tbImjcOh), [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [Owen Chow](https://open.spotify.com/artist/5KINTUf4vKBPacOKbjV7R7) | [Down This Path](https://open.spotify.com/album/47pnzCgYCKlZpp5MfzDAQW) | 3:22 |
-| 67 | [Glorious Game](https://open.spotify.com/track/7s88KE6XfHDLyuQahHHuYk) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Glorious Game](https://open.spotify.com/album/0gsCTUrsjKnfF3TgYkgtEn) | 3:53 |
+| 67 | [Glorious Game](https://open.spotify.com/track/1EbvT0QXJmpAFCv8uoR8qT) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Glorious Game](https://open.spotify.com/album/73IZHjXw93CWjWoDpmQ6Vy) | 3:53 |
 | 68 | [Slide All Night](https://open.spotify.com/track/1pou1vJsBUcH1y7UmFmDVp) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:55 |
 | 69 | [Competition](https://open.spotify.com/track/5dn0MR5bno68I4XDlbqmzI) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Competition](https://open.spotify.com/album/0rrHKCszdH61BLjgwOu8cn) | 3:20 |
 | 70 | [Workin' All Day](https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 5:58 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 180 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 |
 | 181 | [Show You the World](https://open.spotify.com/track/5ier31vbYr7fGn5hK7Y8pR) | [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94), [Jessica Pham](https://open.spotify.com/artist/5cFluXh5aSPpf6ne9VAyIz) | [Show You The World](https://open.spotify.com/album/2R19WR5owthJuZvKKx3P0K) | 3:36 |
 
-Snapshot ID: `MCwyMDM4YmVlMmQyMmUzYzI1N2YxNTRhMWViZjFiZjNmZDA5Y2UzODZl`
+Snapshot ID: `MCxlMDNlNWY1ODFmN2ViNTk5ZjQwNTJmNGFiNDNmZjkzYTc0MTg5ZTFi`

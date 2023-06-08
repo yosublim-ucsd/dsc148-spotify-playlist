@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: Ryan Beatty
 
-2,250 songs - 5 day 1 hr 3 min
+2,253 songs - 5 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 | 2022-08-05 | 2022-09-10 |
 | [All Dressed In White](https://open.spotify.com/track/4I0Btf4tqaK9HewG27RvqC) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen \(Deluxe\)](https://open.spotify.com/album/5zzd05ffaL9xuXwQkVuxoF) | 2:00 | 2020-02-14 | 2020-03-13 |
 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 | 2019-08-08 | 2019-11-14 |
+| [all i do is try my best](https://open.spotify.com/track/2u0jaGY3UtmxaNXzACnxPO) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [all i do is try my best](https://open.spotify.com/album/64hMpVUUfv4De0CK76WQYr) | 2:49 | 2023-06-07 |  |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-08 | 2022-10-12 |
 | [all i ever wanted \(was you\)](https://open.spotify.com/track/3Lq24mWk6irXyj6CBccvjV) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [all i ever wanted \(was you\)](https://open.spotify.com/album/3Z4Xf5uITELZqCZhD6QGbp) | 2:30 | 2022-04-20 | 2023-02-16 |
 | [ALL I GOT](https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [ALL I GOT](https://open.spotify.com/album/2kPLJYUX6MoKvRLXhNTue2) | 3:14 | 2023-04-14 | 2023-05-13 |
@@ -346,6 +347,7 @@
 | [Cariño](https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:18 | 2022-02-25 | 2022-05-19 |
 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2021-01-27 | 2021-06-05 |
 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 | 2020-11-27 | 2021-03-19 |
+| [Caroline](https://open.spotify.com/track/2qCRXP0tE2x8OFWQYi8JGA) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Caroline](https://open.spotify.com/album/4dj2FGFvNa16zE6wrIK38X) | 2:49 | 2023-06-07 |  |
 | [caroline](https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [caroline](https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd) | 3:18 | 2022-06-22 | 2022-10-07 |
 | [caroline](https://open.spotify.com/track/73Moxwjn2ElzQBIMstG2ga) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [caroline](https://open.spotify.com/album/5KYKojZe2Kx6lRcUdvNTkp) | 3:18 | 2022-06-22 | 2022-10-13 |
 | [Carpenter](https://open.spotify.com/track/51NHBYYoBLDqgp5COax2JC) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Carpenter](https://open.spotify.com/album/4xi4w7FjmZVR3UAvmotbAE) | 3:19 | 2023-01-12 | 2023-01-28 |
@@ -1020,7 +1022,7 @@
 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 | 2020-03-03 | 2020-07-29 |
 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 | 2023-03-15 |  |
 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 | 2023-04-07 |  |
-| [im nothing thats all i am](https://open.spotify.com/track/3oDBYKthsd3DGliEdGfWcx) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [im nothing thats all i am](https://open.spotify.com/album/2ayUmTStEfjW9Km9juAR73) | 2:57 | 2023-05-19 |  |
+| [im nothing thats all i am](https://open.spotify.com/track/3oDBYKthsd3DGliEdGfWcx) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [im nothing thats all i am](https://open.spotify.com/album/2ayUmTStEfjW9Km9juAR73) | 2:57 | 2023-05-19 | 2023-06-08 |
 | [Imagine U](https://open.spotify.com/track/6rsuqpfWuNMpaektrYV906) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Imagine U](https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo) | 3:09 | 2020-04-09 | 2020-07-29 |
 | [Impress You](https://open.spotify.com/track/1ErdywFnm0dfwqzVwvtZ9O) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Impress You](https://open.spotify.com/album/7LoFWSATc3Vpu8Uv49D4oP) | 3:13 | 2020-09-10 | 2020-11-11 |
 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 | 2023-03-17 | 2023-04-20 |
@@ -2167,6 +2169,7 @@
 | [Who Am I But Someone](https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Who Am I But Someone](https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43) | 2:42 | 2022-03-18 | 2022-06-16 |
 | [Who Cares \(Never Inside Throwaway\)](https://open.spotify.com/track/4QOdODlBcVna8HLnCoyMPx) | [Wavehouse](https://open.spotify.com/artist/6KmoJrBEZ3yQbcJxANqcRp) | [Old Huron John Songs That I Deleted](https://open.spotify.com/album/30cNKlZBKs5ong4FqATXXs) | 3:29 | 2020-08-21 | 2020-09-17 |
 | [who hurt you](https://open.spotify.com/track/6sBAlJ2mhfHHxf8XLURHSO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:28 | 2022-04-15 | 2022-06-10 |
+| [Who Is Afraid Of Blue](https://open.spotify.com/track/6XMPzkE6lxZm9ZyejFbbgC) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 4:35 | 2023-06-07 |  |
 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 | 2020-08-04 | 2022-03-18 |
 | [Why Can't I?](https://open.spotify.com/track/4z4PB23xYTg1oANmyZovsw) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Liz Phair](https://open.spotify.com/album/0rbgxvTKe3Y4VRar4sIYzT) | 3:28 | 2021-03-06 | 2021-03-14 |
 | [why do i do that](https://open.spotify.com/track/74ghwSkVzbegV8Iv2Y2BqM) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc), [Chaos Canine](https://open.spotify.com/artist/2tZK5LSQQ3wuyWcHnI93NR) | [why do i do that](https://open.spotify.com/album/7DUt8tkbMVz0fBBLDqHWXf) | 2:24 | 2022-06-15 | 2022-08-20 |
@@ -2188,7 +2191,7 @@
 | [Wish I Was](https://open.spotify.com/track/46wtbqcPC4C3WrWGas15ry) | [Kim Deal](https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY) | [Wish I Was](https://open.spotify.com/album/6xbpmDdtL3NgWGjv6j1pYq) | 4:10 | 2023-02-03 | 2023-02-22 |
 | [WISH U WERE...](https://open.spotify.com/track/4Vbv5Ny93RPp0oKjXM7Nkb) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [WISH U WERE...](https://open.spotify.com/album/3doCUrKMWi3vvYsYntr0D5) | 2:03 | 2020-09-30 | 2020-10-20 |
 | [Wish You Were Gay](https://open.spotify.com/track/4suMbpl3KKlF1RokG5m1D4) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Wish You Were Gay](https://open.spotify.com/album/1JV6u7gohGqAl8x8Rt4DRa) | 3:11 | 2019-07-30\* | 2019-08-08 |
-| [Wish You Were Gay](https://open.spotify.com/track/1UOgQpv8Ofd3OtlmpCjmTM) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Sideline Star](https://open.spotify.com/album/50XzEQE4WzsW2XH1UWIsBD) | 3:11 | 2023-06-01 |  |
+| [Wish You Were Gay](https://open.spotify.com/track/1UOgQpv8Ofd3OtlmpCjmTM) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Sideline Star](https://open.spotify.com/album/50XzEQE4WzsW2XH1UWIsBD) | 3:11 | 2023-06-01 | 2023-06-08 |
 | [Wish You Were Sober](https://open.spotify.com/track/50JEoj7rigjIYJaPb0uMsZ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wish You Were Sober](https://open.spotify.com/album/5ktpHCAtbI7aOA8WFpqQu3) | 2:48 | 2020-03-19 | 2020-04-09 |
 | [Wishful Thinking](https://open.spotify.com/track/06Xh1KvQofFghlSt33mFjc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:33 | 2019-07-30\* | 2020-11-20 |
 | [wishuwerehere](https://open.spotify.com/track/6ouflVakFDbhMaRKfv2jvF) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [wishuwerehere](https://open.spotify.com/album/1cWmMEtvycWbC65ncuL2zs) | 2:14 | 2023-04-07 | 2023-04-20 |

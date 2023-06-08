@@ -4,7 +4,7 @@
 
 > 
 
-1,776 songs - 4 day 0 hr 16 min
+1,778 songs - 4 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Clay](https://open.spotify.com/track/05timrNREm3y0Swwkl9TX0) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [U Want The Scoop?](https://open.spotify.com/album/4X8orytXoZlQs9AiMOZIxW) | 2:45 | 2022-10-08 |  |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2022-09-08 |  |
 | [Closer To You](https://open.spotify.com/track/3r2TFFPynN97CgmzXKal5X) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:04 | 2021-08-05 |  |
+| [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 | 2023-06-07 |  |
 | [Cloud99 \(As Above Mix\)](https://open.spotify.com/track/5FbJG8bTkeDjTWUEgsGzQG) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Gemini](https://open.spotify.com/album/4vdHY7cdRkKTebKoEM6yaE) | 3:20 | 2023-02-26 |  |
 | [Club Cyberia](https://open.spotify.com/track/3OPwVR3dVHEuWkNYk6LsQl) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Abandon The Flesh !](https://open.spotify.com/album/5UbQTFCWSpqzy8ZwviEJQ6) | 1:36 | 2022-10-13 |  |
 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 | 2021-08-05 |  |
@@ -1559,6 +1560,7 @@
 | [The Perfect Girl](https://open.spotify.com/track/7kOc8ZyNRLJcwzFlv7szaT) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 2:35 | 2021-12-30 |  |
 | [The Pot](https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 6:21 | 2021-08-05 |  |
 | [The Principal](https://open.spotify.com/track/7fYNunIzTO7yAHBQtvq8Fc) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 2:56 | 2021-08-05 |  |
+| [The Razor's Apple](https://open.spotify.com/track/0rFdjHoldrbHIBeUIjxi5a) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 3:11 | 2023-06-07 |  |
 | [The Realness \(feat\. Eric Kupper\)](https://open.spotify.com/track/1oSUTFfnEwftOTRxpLKWOY) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [Realness](https://open.spotify.com/album/0K3AROBOn8bwPWw08R5EL1) | 3:25 | 2021-08-05 |  |
 | [The Rhythm Of The Night](https://open.spotify.com/track/3oJal8I3Hm2Vn8G6fQp6aD) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [One Day OST](https://open.spotify.com/album/4I14rBJcenKWxc5S6TFL59) | 3:24 | 2021-08-05 |  |
 | [The Technogaia Accelerates Technology And You!](https://open.spotify.com/track/3GgawMNjv4Oppa0XQ7FnmP) | [Kaizo Slumber](https://open.spotify.com/artist/2UUvyxJDBsg7jnRwMAxNND) | [The Kaizo Manifesto](https://open.spotify.com/album/2nrxw6vRiM5Lb0WIeCV48O) | 2:44 | 2023-06-01 |  |

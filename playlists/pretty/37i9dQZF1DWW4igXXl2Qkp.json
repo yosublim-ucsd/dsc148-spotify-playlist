@@ -1,12 +1,12 @@
 {
   "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: That Mexican OT",
-  "num_followers": 210355,
+  "num_followers": 210560,
   "original_name": "Fresh Finds: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDMzNDE0NTNmZjAzYWYxZmEyMDIxMmRlMjUwZjQ5YTk1NTMxYTYz",
+  "snapshot_id": "MCxjOGViNDM5NDIwYmQwNDVmMzgyMjc0Zjc4YWViMmYwYWI0MDgxMTFi",
   "tracks": [
     {
       "added_at": "2023-05-31 13:09:44",
@@ -33,20 +33,128 @@
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
     },
     {
-      "added_at": "2023-05-31 13:09:44",
+      "added_at": "2023-06-07 16:00:00",
       "album": {
-        "name": "Edna (Capes)",
-        "url": "https://open.spotify.com/album/4vYaBCjcql0eewlAfLNNVP"
+        "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
+        "url": "https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H"
       },
       "artists": [
         {
-          "name": "Ben Reilly",
-          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 192364,
-      "name": "Edna (Capes)",
-      "url": "https://open.spotify.com/track/0u3rPAewRgSd5PVTdjBBgb"
+      "duration_ms": 240000,
+      "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
+      "url": "https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V"
+    },
+    {
+      "added_at": "2023-06-07 16:00:00",
+      "album": {
+        "name": "RECKLESS & RATCHET",
+        "url": "https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "RECKLESS & RATCHET",
+      "url": "https://open.spotify.com/track/6J34RvjJj3xQuezQOjbKL2"
+    },
+    {
+      "added_at": "2023-05-17 16:00:00",
+      "album": {
+        "name": "Makin It Sound",
+        "url": "https://open.spotify.com/album/0JUVW9JVy1ZMpLzOrh8opj"
+      },
+      "artists": [
+        {
+          "name": "Da Crook",
+          "url": "https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Makin It Sound",
+      "url": "https://open.spotify.com/track/7m86xBkIzjSNxbaqA0rIcJ"
+    },
+    {
+      "added_at": "2023-04-19 18:25:52",
+      "album": {
+        "name": "Trimmer",
+        "url": "https://open.spotify.com/album/1IsIWos17vXf7s6GEGSfAE"
+      },
+      "artists": [
+        {
+          "name": "Trigga500k",
+          "url": "https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Trimmer",
+      "url": "https://open.spotify.com/track/5FRQGuVPpvX94JkAMAYgn6"
+    },
+    {
+      "added_at": "2023-05-17 16:00:00",
+      "album": {
+        "name": "The Last Dance",
+        "url": "https://open.spotify.com/album/66U307HBY3iMZk6afuh0Rr"
+      },
+      "artists": [
+        {
+          "name": "Pyrex Pryce",
+          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
+        }
+      ],
+      "duration_ms": 189496,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/6pZMDwkmvrqt2ubqpLGRQy"
+    },
+    {
+      "added_at": "2023-04-26 16:00:00",
+      "album": {
+        "name": "First Day In (Cheatcode)",
+        "url": "https://open.spotify.com/album/0i8FWTLpzeKv0dH9v5T11l"
+      },
+      "artists": [
+        {
+          "name": "PM FRVR",
+          "url": "https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X"
+        }
+      ],
+      "duration_ms": 127638,
+      "name": "First Day In (Cheatcode)",
+      "url": "https://open.spotify.com/track/7sflVMFqFip5szn0Hq9aqp"
+    },
+    {
+      "added_at": "2023-06-07 16:00:00",
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/2hwRTHtYc3ZtGVl2yEUNQG"
+      },
+      "artists": [
+        {
+          "name": "Coach Tev",
+          "url": "https://open.spotify.com/artist/51nmCCHes2y60eOYg1D1Jx"
+        }
+      ],
+      "duration_ms": 199495,
+      "name": "Dynasty",
+      "url": "https://open.spotify.com/track/1SCys1pf11OD6TU2U9kOH1"
     },
     {
       "added_at": "2023-05-25 04:45:39",
@@ -69,52 +177,36 @@
       "url": "https://open.spotify.com/track/4mKmzyigBgcn7Wu2PS3gll"
     },
     {
-      "added_at": "2023-04-19 18:25:52",
+      "added_at": "2023-06-07 16:00:00",
       "album": {
-        "name": "Trimmer",
-        "url": "https://open.spotify.com/album/1IsIWos17vXf7s6GEGSfAE"
+        "name": "FOR MY PEOPLE",
+        "url": "https://open.spotify.com/album/5gmAqjpakk1u1oYPEDVI8Z"
       },
       "artists": [
         {
-          "name": "Trigga500k",
-          "url": "https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx"
+          "name": "CNN Mikey",
+          "url": "https://open.spotify.com/artist/5T41qdCf8LNxshaBPYWwnF"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Trimmer",
-      "url": "https://open.spotify.com/track/5FRQGuVPpvX94JkAMAYgn6"
+      "duration_ms": 196491,
+      "name": "FOR MY PEOPLE",
+      "url": "https://open.spotify.com/track/26kzaZRG99XSmjGxNQu4SC"
     },
     {
-      "added_at": "2023-04-26 16:00:00",
+      "added_at": "2023-05-31 13:09:44",
       "album": {
-        "name": "First Day In (Cheatcode)",
-        "url": "https://open.spotify.com/album/0i8FWTLpzeKv0dH9v5T11l"
+        "name": "Edna (Capes)",
+        "url": "https://open.spotify.com/album/4vYaBCjcql0eewlAfLNNVP"
       },
       "artists": [
         {
-          "name": "PM FRVR",
-          "url": "https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X"
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
         }
       ],
-      "duration_ms": 127638,
-      "name": "First Day In (Cheatcode)",
-      "url": "https://open.spotify.com/track/7sflVMFqFip5szn0Hq9aqp"
-    },
-    {
-      "added_at": "2023-05-17 16:00:00",
-      "album": {
-        "name": "The Last Dance",
-        "url": "https://open.spotify.com/album/66U307HBY3iMZk6afuh0Rr"
-      },
-      "artists": [
-        {
-          "name": "Pyrex Pryce",
-          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
-        }
-      ],
-      "duration_ms": 189496,
-      "name": "The Last Dance",
-      "url": "https://open.spotify.com/track/6pZMDwkmvrqt2ubqpLGRQy"
+      "duration_ms": 192364,
+      "name": "Edna (Capes)",
+      "url": "https://open.spotify.com/track/0u3rPAewRgSd5PVTdjBBgb"
     },
     {
       "added_at": "2023-05-24 16:00:00",
@@ -131,6 +223,22 @@
       "duration_ms": 141888,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP"
+    },
+    {
+      "added_at": "2023-06-07 16:00:00",
+      "album": {
+        "name": "Mr Brash",
+        "url": "https://open.spotify.com/album/74wEqu8uH8hfAOoRRLQgKv"
+      },
+      "artists": [
+        {
+          "name": "8SZN",
+          "url": "https://open.spotify.com/artist/753JaXwtDiTrkoralInWtD"
+        }
+      ],
+      "duration_ms": 185062,
+      "name": "Mr Brash",
+      "url": "https://open.spotify.com/track/1jWjinqN5I8g9lv7ayD4dM"
     },
     {
       "added_at": "2023-05-17 16:00:00",
@@ -169,6 +277,42 @@
       "url": "https://open.spotify.com/track/0Gm3lagTye1zcIJkF8wh7c"
     },
     {
+      "added_at": "2023-06-07 16:00:00",
+      "album": {
+        "name": "Well Aware",
+        "url": "https://open.spotify.com/album/4YYgsS6Ww5UYi5Fzu2EfFy"
+      },
+      "artists": [
+        {
+          "name": "JayRock Jax",
+          "url": "https://open.spotify.com/artist/6k635rX8nRndwDBkU38gk1"
+        },
+        {
+          "name": "Tay Rose",
+          "url": "https://open.spotify.com/artist/68xKQQU8pn172y1W2qElaW"
+        }
+      ],
+      "duration_ms": 189805,
+      "name": "Well Aware",
+      "url": "https://open.spotify.com/track/05mULOCr08nOY9eqNaaAOH"
+    },
+    {
+      "added_at": "2023-06-07 16:00:00",
+      "album": {
+        "name": "WHYSOSIRIUS",
+        "url": "https://open.spotify.com/album/0fZAeI5kqwYpJei6BBcrhX"
+      },
+      "artists": [
+        {
+          "name": "Ron Obasi",
+          "url": "https://open.spotify.com/artist/29KfYICTuOD697jzZVqTEs"
+        }
+      ],
+      "duration_ms": 192939,
+      "name": "U ME N' EARTH",
+      "url": "https://open.spotify.com/track/04KtHGmuHHyP9UjB6qid1n"
+    },
+    {
       "added_at": "2023-05-24 16:00:00",
       "album": {
         "name": "lost n' found",
@@ -199,22 +343,6 @@
       "duration_ms": 146440,
       "name": "Stickz & Stonez",
       "url": "https://open.spotify.com/track/4fptYpDyXXNUPtwZ4u8r0R"
-    },
-    {
-      "added_at": "2023-05-17 16:00:00",
-      "album": {
-        "name": "Makin It Sound",
-        "url": "https://open.spotify.com/album/0JUVW9JVy1ZMpLzOrh8opj"
-      },
-      "artists": [
-        {
-          "name": "Da Crook",
-          "url": "https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Makin It Sound",
-      "url": "https://open.spotify.com/track/7m86xBkIzjSNxbaqA0rIcJ"
     },
     {
       "added_at": "2023-05-31 13:09:44",
@@ -895,22 +1023,6 @@
     {
       "added_at": "2023-04-12 16:34:45",
       "album": {
-        "name": "How Did I End Up Here (Deluxe)",
-        "url": "https://open.spotify.com/album/2XpCNiDKLOB8kWh1P6154H"
-      },
-      "artists": [
-        {
-          "name": "Duvy",
-          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
-        }
-      ],
-      "duration_ms": 172120,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/2cmhewaI5xCtAsW6pQoKKM"
-    },
-    {
-      "added_at": "2023-04-12 16:34:45",
-      "album": {
         "name": "Skyloft",
         "url": "https://open.spotify.com/album/7gFzcPiUzCUjTQW44zrRHw"
       },
@@ -1131,22 +1243,6 @@
     {
       "added_at": "2023-04-12 16:34:45",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/0ivFRiA5GHzoE7OiM3GNum"
-      },
-      "artists": [
-        {
-          "name": "ItsWill",
-          "url": "https://open.spotify.com/artist/4OiW70QEFqUjcIksQm6EPe"
-        }
-      ],
-      "duration_ms": 149304,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2ew6Sp4DaM7K3zqgQK3hDc"
-    },
-    {
-      "added_at": "2023-04-12 16:34:45",
-      "album": {
         "name": "Rockin' & Rollin",
         "url": "https://open.spotify.com/album/4C1Bcy0lQFUH2jVOthpeXY"
       },
@@ -1175,82 +1271,6 @@
       "duration_ms": 157358,
       "name": "Gave you love",
       "url": "https://open.spotify.com/track/6Z0qDARZTHdj2YkauHJDpw"
-    },
-    {
-      "added_at": "2023-04-12 16:34:45",
-      "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/2aSexfVzRxiaHa2mPeSZD0"
-      },
-      "artists": [
-        {
-          "name": "Joe West",
-          "url": "https://open.spotify.com/artist/4ep4KPv7HsOHDILejOScCK"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "I'm Him",
-      "url": "https://open.spotify.com/track/2cAqVc1Hrry0OpnyOLmsEv"
-    },
-    {
-      "added_at": "2023-04-12 16:34:45",
-      "album": {
-        "name": "eyes can't see",
-        "url": "https://open.spotify.com/album/44cxZeSL4zjzch6LLmpx45"
-      },
-      "artists": [
-        {
-          "name": "Angelo Mota",
-          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
-        },
-        {
-          "name": "Cj Francis IV",
-          "url": "https://open.spotify.com/artist/32dFQz3nhj2uhF49xMJhFD"
-        }
-      ],
-      "duration_ms": 230501,
-      "name": "eyes can't see",
-      "url": "https://open.spotify.com/track/0kKt6R53daDfAC3Fd8EcGu"
-    },
-    {
-      "added_at": "2023-04-12 16:34:45",
-      "album": {
-        "name": "Don't Talk 2 Me",
-        "url": "https://open.spotify.com/album/1ZC0pflUsQkkYxVcie04YR"
-      },
-      "artists": [
-        {
-          "name": "JODY SUMMERS",
-          "url": "https://open.spotify.com/artist/1gL1oFmpEyzt73ZaBjXXAx"
-        },
-        {
-          "name": "WIL$ON",
-          "url": "https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI"
-        },
-        {
-          "name": "Scottie Le'Jour",
-          "url": "https://open.spotify.com/artist/0tueJYXAR9dx6KPDWZz0nn"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Don't Talk 2 Me",
-      "url": "https://open.spotify.com/track/59Yw62BGuKjzYlceUfC7L8"
-    },
-    {
-      "added_at": "2023-04-12 16:34:45",
-      "album": {
-        "name": "My Man (Freestyle)",
-        "url": "https://open.spotify.com/album/4894VocVu0Qm90wKyU76XD"
-      },
-      "artists": [
-        {
-          "name": "Jeed",
-          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "My Man (Freestyle)",
-      "url": "https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY"
     },
     {
       "added_at": "2023-04-12 16:34:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66?si=TgXhOz4JQsSkJKckxtJQ3Q">Nkosazana Daughter</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,387 likes - 50 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,106 likes - 50 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Izono](https://open.spotify.com/track/4BIGl9cDzyw1znsjRytGLd) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Amukelani](https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO) | 9:20 |
 | 50 | [Thesha \(feat\. LeeMckrazy, TyroneDee & TitoM\)](https://open.spotify.com/track/2iVtgTMwkEGe4kBP39F9Tu) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [TumeloZa](https://open.spotify.com/artist/5kQTsoT4lo0N0UhxQhHQu2), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [TyroneDee](https://open.spotify.com/artist/3j7EkMzdIv1vAMhetEs5mX), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k) | [Thesha \(feat\. LeeMckrazy, TyroneDee & TitoM\)](https://open.spotify.com/album/3D9DZmp6NtPluNdhVCqHXj) | 8:00 |
 
-Snapshot ID: `MCwwNjQ2YzMwYTU2ZDIxZjliMmRmNzhjNmVlMjIzZjFjNjljZWU1MDk2`
+Snapshot ID: `MCw5MGNjYjE1ZDU3NzBkNDE5ZDIzYWU1NTA0MWYzZGQzN2EwZmFhZTVh`

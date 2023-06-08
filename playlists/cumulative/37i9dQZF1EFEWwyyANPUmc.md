@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Cwc7OU92zsScsUHw2wW0y">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-55 songs - 2 hr 51 min
+56 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Dutch \(feat\. Emy Perez\)](https://open.spotify.com/track/5Z6JZqMoveVuOC9IPoROmo) | [Rave Radio](https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Dutch \(feat\. Emy Perez\)](https://open.spotify.com/album/63O2ghuH6gd9LklYmroIFv) | 2:26 | 2022-06-04 | 2022-07-28 |
 | [El Mundo Baila](https://open.spotify.com/track/7ec664OOg6lMzOLz8aztZ8) | [B'Elle](https://open.spotify.com/artist/3Bp4EXpyHUtJn0HNOk7RVz) | [El Mundo Baila](https://open.spotify.com/album/6gfawBHQ4lX5d1G7stPJkt) | 2:36 | 2022-06-04 |  |
 | [Es Amor \(What Is Love\) \(feat\. Nicky Jam & Emy Perez\)](https://open.spotify.com/track/568HkRjcNnuFYjtfH1rqMo) | [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Es Amor \(What Is Love\) \(feat\. Nicky Jam & Emy Perez\)](https://open.spotify.com/album/6VNA1VvqRbL9qfqhsWEYWT) | 3:05 | 2022-06-04 |  |
+| [Everything I Need](https://open.spotify.com/track/1g9eAXqn01rtonJSVeSmPI) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Get Ready To Dance](https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5) | 2:47 | 2023-06-07 |  |
 | [Firestarter](https://open.spotify.com/track/0QFq6Cgos9qVMGcPgC9fcs) | [Lennert Wolfs](https://open.spotify.com/artist/0T4Qr97ftW9NtSvoyqBvAt), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Firestarter](https://open.spotify.com/album/1qisOburOSHmodwNMGltzp) | 2:36 | 2022-06-04 |  |
 | [Get Loud](https://open.spotify.com/track/4Qc8QOOGFtxtnfIvG2QwXa) | [Mike Hawkins](https://open.spotify.com/artist/0eW2N88UpBG0giW7LJOaY2), [Kazu](https://open.spotify.com/artist/2OnRP9Tjxupbg23o1NekP0), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Family Matters, Vol\. 1](https://open.spotify.com/album/6D7ltbx4sEldooTWzlCGXX) | 2:54 | 2022-06-04 |  |
 | [Ghetto Gossip](https://open.spotify.com/track/4MxzbBZw5fCFketoXuOTBM) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 3:32 | 2022-06-04 |  |

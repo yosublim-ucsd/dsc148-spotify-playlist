@@ -34,10 +34,28 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 306680,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/1gsbM54z2EPqErHfiPIIhy"
+    },
+    {
+      "album": {
+        "name": "around the world",
+        "url": "https://open.spotify.com/album/206j597w8irspKeIREfftU"
+      },
+      "artists": [
+        {
+          "name": "m.o.v.e",
+          "url": "https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "around the world",
+      "url": "https://open.spotify.com/track/0smQd1tF4A9r5CbfG17rJf"
     },
     {
       "album": {

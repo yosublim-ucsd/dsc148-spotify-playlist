@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Valeria Castro.
 
-406 songs - 1 day 0 hr 42 min
+407 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Puto Pillada](https://open.spotify.com/track/7dVhIL98jntUf9qR5WiUa8) | [Sabe](https://open.spotify.com/artist/1B5MSSz9S1b7hWzpiWZ7yY) | [Puto Pillada](https://open.spotify.com/album/3uOKDxkIsC2leRK6qP4P85) | 2:52 | 2023-05-12 |  |
 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 | 2022-08-19 |  |
 | [Que entre el frío](https://open.spotify.com/track/12OU5vEQio4792IRVMr2B6) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/0RAoYFdwdNtRG19pGJK8Be) | 4:27 | 2021-12-24 | 2022-01-28 |
+| [Que fácil](https://open.spotify.com/track/1QUYvBpZnkjJfdxwvHRkma) | [Nico Bereciartua](https://open.spotify.com/artist/79KJ0gUMjDNnDWrT9szmZM), [Felipe Agote](https://open.spotify.com/artist/6rndegDL7G9OKSuYeDef6F) | [Que fácil](https://open.spotify.com/album/6gsLr8mGa6KbDUsIvtHbKg) | 4:05 | 2023-06-02 |  |
 | [Quien lo diría](https://open.spotify.com/track/6baaaCha2pprxQv6GmZvXv) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/10dIiIjAArMNO3PCLtex1H) | 4:35 | 2021-12-24 | 2022-07-29 |
 | [Quien lo diría](https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:35 | 2022-07-22 |  |
 | [Quiero y duelo](https://open.spotify.com/track/4zGE9bLIHl1LpnaLpi6RUp) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF) | [Quiero y duelo](https://open.spotify.com/album/1gWUpDkJV4XIrd5Xm0FvjW) | 2:36 | 2022-12-23 | 2023-02-25 |

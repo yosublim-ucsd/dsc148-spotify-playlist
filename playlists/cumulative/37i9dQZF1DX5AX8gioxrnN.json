@@ -2203,6 +2203,32 @@
     },
     {
       "album": {
+        "name": "Party and Bullshit",
+        "url": "https://open.spotify.com/album/6WKXu5ynFZNdLjtUoWL0Vq"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        },
+        {
+          "name": "jazyxd",
+          "url": "https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY"
+        },
+        {
+          "name": "ofk",
+          "url": "https://open.spotify.com/artist/1f7ye5Xc99Iq2CKuHYJM5O"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217048,
+      "name": "Party and Bullshit",
+      "url": "https://open.spotify.com/track/1FmHGLw986ZNyMDWmwmdY4"
+    },
+    {
+      "album": {
         "name": "Party And Bullshit",
         "url": "https://open.spotify.com/album/6U6tX7k9GFIMQWm2PYDSBh"
       },
@@ -2258,7 +2284,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 217000,
       "name": "Party and Bullshit - 2008 Remaster",
       "url": "https://open.spotify.com/track/6jCGzZn0gFeRlbqdaJhw6T"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,542 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,717 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 34 | [Infinito Particular \- Bhaskar Remix](https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Infinito Particular \(Bhaskar Remix\)](https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp) | 2:40 |
 | 35 | [Me Cura](https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Me Cura](https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8) | 3:03 |
 | 36 | [Back to Beginning](https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n), [Talking Dirty](https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA) | [Back to Beginning](https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y) | 3:15 |
-| 37 | [Um Dia Inteiro](https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Um Dia Inteiro](https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo) | 3:04 |
+| 37 | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2) | 2:39 |
 | 38 | [Never Let Me Go](https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Never Let Me Go](https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K) | 3:03 |
-| 39 | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2) | 2:39 |
+| 39 | [Um Dia Inteiro](https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Um Dia Inteiro](https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo) | 3:04 |
 | 40 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL) | [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Pro Dia Nascer Feliz](https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk) | 3:23 |
 | 41 | [Tô de Férias](https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Tô de Férias](https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec) | 2:48 |
 | 42 | [Somebody That You Loved](https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Somebody That You Loved](https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79) | 3:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [O Xote Das Meninas \- Pontifexx Remix](https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [O Xote Das Meninas \(Pontifexx Remix\)](https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT) | 3:09 |
 | 70 | [Que Dia](https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Que Dia](https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl) | 2:55 |
 
-Snapshot ID: `MCwzNmE1MjJlODI3MWZkMzdjYjViM2ZkZGFmMmU5YTQ0YmIxZTg4N2U4`
+Snapshot ID: `MCw0NGY0Nzc5ZjA4MjYxYzdlMDVmMTNjNzVjODcwMWRjYzZjMzc5NWFh`

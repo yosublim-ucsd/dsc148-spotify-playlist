@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,360 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,398 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 79 | [COLOMBIANA](https://open.spotify.com/track/2tVTu15UvnTdQxEYDbV1DS) | [Capo 13](https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI) | [COLOMBIANA](https://open.spotify.com/album/2FThiLOrlhKaGlxNRMQ5Sz) | 1:55 |
 | 80 | [Homicide](https://open.spotify.com/track/1Vnuzbfuj8WCwK5QWEBKZD) | [Artie](https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE) | [Homicide](https://open.spotify.com/album/2XIuHPp2PdrbKjD6COSolz) | 2:48 |
 
-Snapshot ID: `MCw2OTE2NTllOGUxYzUyNWQ2OTQxZGI4OWQyOWQ5YThhZDIwNzM5M2Ri`
+Snapshot ID: `MCw5ODYyMjJkYjM5YjBkYmI4MjNlZDNhYzk1NGIxYjJhODRhODc4NTNm`

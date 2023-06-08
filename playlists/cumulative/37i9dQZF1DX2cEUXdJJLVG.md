@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-253 songs - 15 hr 16 min
+254 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [GEEK OUT!](https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES), [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [GEEK OUT!](https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X) | 3:04 | 2023-03-23 |  |
 | [Get It Right](https://open.spotify.com/track/1zB3PXJUnLtaKwh8BFgrPZ) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Get It Right](https://open.spotify.com/album/0ZHtV08dK9qMw9g3cSCpz8) | 3:08 | 2022-09-09 |  |
 | [Give It a Go](https://open.spotify.com/track/2aUPmWTy3eTfbVFx3BVaE9) | [Curtis Cole](https://open.spotify.com/artist/3nHifOdw3FgOxPAlg4kzTl), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Give It a Go](https://open.spotify.com/album/1z44wef0na78nNIvld0NcQ) | 2:46 | 2022-12-15 |  |
-| [Glorious Game](https://open.spotify.com/track/7s88KE6XfHDLyuQahHHuYk) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Glorious Game](https://open.spotify.com/album/0gsCTUrsjKnfF3TgYkgtEn) | 3:53 | 2023-03-20 |  |
+| [Glorious Game](https://open.spotify.com/track/1EbvT0QXJmpAFCv8uoR8qT) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Glorious Game](https://open.spotify.com/album/73IZHjXw93CWjWoDpmQ6Vy) | 3:53 | 2023-06-01 |  |
+| [Glorious Game](https://open.spotify.com/track/7s88KE6XfHDLyuQahHHuYk) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Glorious Game](https://open.spotify.com/album/0gsCTUrsjKnfF3TgYkgtEn) | 3:53 | 2023-03-20 | 2023-06-08 |
 | [Go](https://open.spotify.com/track/2VXoiz9P6W9jG48Gv3bTHO) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Go](https://open.spotify.com/album/5Jr1eGcMKChuU0gQdxeF5b) | 4:12 | 2022-09-09 |  |
 | [Golden Ticket \(feat\. Masego & Common\) \- Jarreau Vandal Remix](https://open.spotify.com/track/635RdIGruLSPftwtbEqAaY) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Golden Ticket \(feat\. Masego & Common\) \- Jarreau Vandal Remix](https://open.spotify.com/album/0G6kIQpWb9Zu8efIrpGvp2) | 3:49 | 2022-09-09 |  |
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2022-09-09 |  |

@@ -1,13 +1,57 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127178,
+  "num_followers": 127181,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDIzOCwzMDk2YzA0ZDU3ZTI0MjE0Yzg1MjU3OWQ5Yjg5YmQ0OTIwZTY3Yjcx",
+  "snapshot_id": "NDI0NCxhZmYwNzZjZjVlNDdlNDg3ZGM2MWViMWVhMDNlYjNhOGFmYTIyN2Zl",
   "tracks": [
+    {
+      "added_at": "2023-06-07 18:18:59",
+      "album": {
+        "name": "N\u00e3o Sei Parar",
+        "url": "https://open.spotify.com/album/3DH0NYxAi5Mw8YpmHXgAMb"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Afterclapp",
+          "url": "https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "N\u00e3o Sei Parar",
+      "url": "https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys"
+    },
+    {
+      "added_at": "2023-06-07 18:07:59",
+      "album": {
+        "name": "BANG YOUR HEAD",
+        "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 204798,
+      "name": "BANG YOUR HEAD",
+      "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
+    },
     {
       "added_at": "2023-06-05 19:08:42",
       "album": {
@@ -1075,38 +1119,6 @@
       "duration_ms": 137142,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8"
-    },
-    {
-      "added_at": "2023-03-15 18:50:41",
-      "album": {
-        "name": "Diving In",
-        "url": "https://open.spotify.com/album/1WWPOc87xTKMigQYkmDRn9"
-      },
-      "artists": [
-        {
-          "name": "Stonebank",
-          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Diving In",
-      "url": "https://open.spotify.com/track/7amcoQCeUQxCNullGD7V7F"
-    },
-    {
-      "added_at": "2023-03-14 16:36:52",
-      "album": {
-        "name": "Moonstone",
-        "url": "https://open.spotify.com/album/4kcRF7VJVx69pJXecrPDyi"
-      },
-      "artists": [
-        {
-          "name": "Aether",
-          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Moonstone",
-      "url": "https://open.spotify.com/track/2QWxkFKhi9YUtrQmf9JHxU"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

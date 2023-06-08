@@ -6424,7 +6424,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
@@ -7982,6 +7982,24 @@
       "duration_ms": 117142,
       "name": "R2F",
       "url": "https://open.spotify.com/track/13LhzupnoFTNb9A5nMGr7u"
+    },
+    {
+      "album": {
+        "name": "RAGNAROK",
+        "url": "https://open.spotify.com/album/21iXpwif0hx1bu32KMAiDp"
+      },
+      "artists": [
+        {
+          "name": "YARMAK",
+          "url": "https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213447,
+      "name": "RAGNAROK",
+      "url": "https://open.spotify.com/track/2too3Pi9ZnJtwt6koMJEmF"
     },
     {
       "album": {
@@ -13924,7 +13942,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 216000,
       "name": "\u0414\u043e\u0434\u043e\u043c\u0443 (feat. Skofka)",
       "url": "https://open.spotify.com/track/7kKTYTHULdERuHGCkVyLVD"
@@ -21834,7 +21852,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "\u0456\u043d\u0448\u0430 \u043b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,121 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,133 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [Golden Rose](https://open.spotify.com/track/2ToqvpqSyMtlywxIXEurR7) | [Melina Do Rosario](https://open.spotify.com/artist/0cSEtYQdOXcBDyslRAAd9h) | [Golden Rose](https://open.spotify.com/album/6MUIT43wo28K5mD2ivBO7N) | 2:41 |
 | 100 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 |
 
-Snapshot ID: `MCw4YWVhNTdkNTg0NTdkZjg3YjI0Njk4YTIxYTNjYzVhY2JlZWU2ODg4`
+Snapshot ID: `MCw4OTg2YWM1NTBhNTExNWZmNzFkOWUzOWMyMmIwZDFlYThiMDVlZTI0`

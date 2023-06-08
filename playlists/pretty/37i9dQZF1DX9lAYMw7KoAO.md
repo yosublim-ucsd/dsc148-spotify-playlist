@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here! Cover:  <a href="https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"> Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,781 likes - 81 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,798 likes - 81 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 80 | [Wayε Me Yie](https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Wayε Me Yie](https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr) | 5:03 |
 | 81 | [COME AND SEE](https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Assignment](https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK) | 4:22 |
 
-Snapshot ID: `MCwzMTNkMWVkYTUwYTZkOGFmM2UxZTRkMmY1ZDczZjllNTAxOTlmYjQ2`
+Snapshot ID: `MCw3YWNlNzAyZjFkOWYxNzVjNzE3YjhiNjlkMjA0MjYyM2ExMDk0NTNm`

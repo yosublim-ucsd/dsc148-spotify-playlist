@@ -1373,6 +1373,32 @@
     },
     {
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/7cBNQNJJXSae298SXA8ZS9"
+      },
+      "artists": [
+        {
+          "name": "Duke Gray",
+          "url": "https://open.spotify.com/artist/08fXho1e3xrXDBYXuiVj5y"
+        },
+        {
+          "name": "MANGASLAYERS",
+          "url": "https://open.spotify.com/artist/2PLofrapbcSOGa6VBEFwyi"
+        },
+        {
+          "name": "diGi",
+          "url": "https://open.spotify.com/artist/626KJQ9bodKgZe7Qa329VL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169426,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/6blc90YlYH5QrY51TZqoh7"
+    },
+    {
+      "album": {
         "name": "Dreamatic",
         "url": "https://open.spotify.com/album/15b6oP9UfGUyEYJpv2V150"
       },

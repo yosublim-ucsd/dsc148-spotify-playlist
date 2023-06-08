@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
-> Solo éxitos locales pasados, chapados en oro\. Dharius en portada
+> Solo éxitos locales pasados, chapados en oro\. C\-Kan en portada
 
 101 songs - 6 hr 25 min
 

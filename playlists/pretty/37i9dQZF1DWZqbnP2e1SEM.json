@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321190,
+  "num_followers": 321200,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2RiMDU2Y2I2ZTdhOTdmNDgzZmE3MTI5ODljYmYyZmEzNmI4MDBh",
+  "snapshot_id": "MCw1MTdiNzlhMmMzNmJmMWM1MDZkOGViYWUyMzRjZGNkNmI0OGJlYTdm",
   "tracks": [
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/5O8uBUqc6rzlrS9YYCGeiX"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
         "name": "Selecta",
         "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 237458,
-      "name": "West Indies",
-      "url": "https://open.spotify.com/track/5O8uBUqc6rzlrS9YYCGeiX"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/7u1ntC7BodnMAw78I502bN"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 189849,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3N91W3DTKztqbzPbOEw4Pf"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK"
       },
@@ -1727,26 +1747,6 @@
       "duration_ms": 206988,
       "name": "Roadside (feat. AJ Tracey)",
       "url": "https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/7u1ntC7BodnMAw78I502bN"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 189849,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/3N91W3DTKztqbzPbOEw4Pf"
     },
     {
       "added_at": "2022-06-20 14:23:17",

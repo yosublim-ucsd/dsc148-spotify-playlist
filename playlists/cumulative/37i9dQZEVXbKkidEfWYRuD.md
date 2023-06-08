@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,116 songs - 2 day 3 hr 48 min
+1,117 songs - 2 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [MONEY FLOW](https://open.spotify.com/track/7DOkGpObmhDr1ehcvN1GkR) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [LIL MORTY 3](https://open.spotify.com/album/2YtMe6ByCgYKIO4uu76xGv) | 2:27 | 2022-12-03 | 2022-12-05 |
 | [MONEYDEALER](https://open.spotify.com/track/3bKGBW6oxVWekfkfZ2BJqw) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [MONEYDEALER](https://open.spotify.com/album/4n9BQVu07XjxoncNbAusUR) | 2:16 | 2021-11-21 | 2021-11-22 |
 | [MONEYKEN LOVE](https://open.spotify.com/track/2DHX9faMGUQQTwD1Ot4ch2) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [QUEEN OF RAP](https://open.spotify.com/album/4lvy6drxoogEkNehP9RLwR) | 2:16 | 2022-07-13 | 2023-01-05 |
-| [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 | 2023-06-06 |  |
+| [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 | 2023-06-06 | 2023-06-08 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2021-09-19 | 2021-10-17 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-03-30 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-09-19 |
@@ -418,6 +418,7 @@
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-16 |  |
 | [quinque](https://open.spotify.com/track/6QRn5fvEBJ1SIcW0ee3fBI) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [quinque](https://open.spotify.com/album/53CyHLyv7xmdkbrJfPiBoR) | 2:30 | 2022-07-16 | 2022-07-21 |
 | [R2F](https://open.spotify.com/track/13LhzupnoFTNb9A5nMGr7u) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [Gra Gra / R2F](https://open.spotify.com/album/1yxIPuGgpyoLCb6CSkj5X2) | 1:57 | 2023-04-01 | 2023-04-03 |
+| [RAGNAROK](https://open.spotify.com/track/2too3Pi9ZnJtwt6koMJEmF) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [RAGNAROK](https://open.spotify.com/album/21iXpwif0hx1bu32KMAiDp) | 3:33 | 2023-06-07 |  |
 | [Rampampam](https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Rampampam](https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj) | 3:20 | 2021-06-20 | 2022-02-06 |
 | [RANDOM](https://open.spotify.com/track/6N1ZQIxGpxQvtfzye58KQw) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:05 | 2021-03-27 | 2021-03-31 |
 | [RARARA](https://open.spotify.com/track/0QfXH1HCcHst7uxU1gFyqG) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [RARARA](https://open.spotify.com/album/2eGJ3n9s52nKKthwT9Bwl6) | 2:03 | 2022-06-25 | 2022-07-03 |
@@ -718,7 +719,7 @@
 | [Доверял](https://open.spotify.com/track/4K4yT28O5Gq1gWR3psNn3B) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 4:30 | 2021-12-18 | 2021-12-19 |
 | [Додому](https://open.spotify.com/track/6gtK39SLszESqJFu2SkId3) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [8 марабу](https://open.spotify.com/album/2Q0kX7go1YkwNVix8e1Chw) | 2:49 | 2023-03-02 |  |
 | [Додому \(feat\. Skofka\)](https://open.spotify.com/track/0pqPu0m8qE45yJWqXEmpWe) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Skofka](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Додому \(feat\. Skofka\)](https://open.spotify.com/album/3ISIsSUP4H51ic7RbZFECH) | 3:36 | 2021-06-20 | 2021-07-25 |
-| [Додому \(feat\. Skofka\)](https://open.spotify.com/track/7kKTYTHULdERuHGCkVyLVD) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Skofka](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [ЙО\-ЙО \(feat\. Skofka\)](https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc) | 3:36 | 2021-07-25 |  |
+| [Додому \(feat\. Skofka\)](https://open.spotify.com/track/7kKTYTHULdERuHGCkVyLVD) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Skofka](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [ЙО\-ЙО \(feat\. Skofka\)](https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc) | 3:36 | 2021-07-25 | 2023-06-08 |
 | [Дом Периньон](https://open.spotify.com/track/0i8YObgqnjZYoYJOQbwLHq) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2), [Eldzhey](https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN) | [Дом Периньон](https://open.spotify.com/album/2BzlnRShyxnyPh5Dp9uEeT) | 2:54 | 2021-09-19 | 2021-12-08 |
 | [Домино](https://open.spotify.com/track/6GyZQ9o0dBU9V0NIjGPz2r) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:18 | 2021-04-10 | 2022-05-08 |
 | [Домой](https://open.spotify.com/track/5bA2HBafCfregvLZV4idXb) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Домой](https://open.spotify.com/album/57NDWrCgxTDXI0RNYN9uQs) | 2:52 | 2021-12-12 | 2022-01-25 |
@@ -1123,6 +1124,6 @@
 | [Ящик](https://open.spotify.com/track/7uzOXyjNgbyYjrYpmeAjsN) | [ATL](https://open.spotify.com/artist/2n6CVwo43YvjiTgcPxYWrf) | [Ящик](https://open.spotify.com/album/3jY7BEOadfEujvpG2g2lm6) | 3:27 | 2021-11-21 | 2021-11-25 |
 | [Імперії впадуть](https://open.spotify.com/track/1t0gvj21K9Fscs5fxm4UJ9) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Імперії впадуть](https://open.spotify.com/album/1TqtbPIimI2tdzotfacuku) | 5:05 | 2021-11-21 | 2021-11-22 |
 | [інша любов](https://open.spotify.com/track/24s8SuDR01re1GxkELG7d0) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/4zcUoQhejdz93W8CS1Yzsx) | 4:08 | 2022-07-16 | 2022-10-18 |
-| [інша любов](https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/1v4P2Q4F6T31loiqLmREFg) | 4:08 | 2022-10-17 | 2023-06-07 |
+| [інша любов](https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/1v4P2Q4F6T31loiqLmREFg) | 4:08 | 2022-10-17 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

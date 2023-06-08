@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 56789,
+  "num_followers": 56914,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmI1YmIyMDEzMWQ1ZTdhZTMzZjIxMTc3ZTQ3MzFjMzFkNjg2ZDAz",
+  "snapshot_id": "MCxhMzU1N2E5ZWFjZjRkZmYwNGY3NzA2ODBlYzg5NzllZWRmMjdlOThh",
   "tracks": [
     {
       "added_at": "2023-04-04 13:57:02",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
-        "name": "Pop That",
-        "url": "https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Pop That",
-      "url": "https://open.spotify.com/track/1EpF7SUZOEdYXAJF6QC43Z"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
         "name": "Fantasea",
         "url": "https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 193749,
       "name": "Fierce",
       "url": "https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
+        "name": "Pop That",
+        "url": "https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Pop That",
+      "url": "https://open.spotify.com/track/1EpF7SUZOEdYXAJF6QC43Z"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -789,6 +789,22 @@
       "url": "https://open.spotify.com/track/1qbzrgjYqA84EOKisIqdz1"
     },
     {
+      "added_at": "2023-04-20 09:52:39",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/2pqDpDsdxlZZFdNNrEE29C"
+    },
+    {
       "added_at": "2023-04-04 13:57:02",
       "album": {
         "name": "Mugler",
@@ -809,22 +825,6 @@
       "url": "https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi"
     },
     {
-      "added_at": "2023-04-20 09:52:39",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/2pqDpDsdxlZZFdNNrEE29C"
-    },
-    {
       "added_at": "2023-04-04 13:57:02",
       "album": {
         "name": "UP N DOWN",
@@ -839,26 +839,6 @@
       "duration_ms": 197419,
       "name": "UP N DOWN",
       "url": "https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Taste My Body",
-        "url": "https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO"
-      },
-      "artists": [
-        {
-          "name": "James Indigo",
-          "url": "https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1"
-        },
-        {
-          "name": "TAAHLIAH",
-          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
-        }
-      ],
-      "duration_ms": 134068,
-      "name": "Taste My Body",
-      "url": "https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -883,6 +863,26 @@
       "duration_ms": 178203,
       "name": "FMU",
       "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
+        "name": "Taste My Body",
+        "url": "https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO"
+      },
+      "artists": [
+        {
+          "name": "James Indigo",
+          "url": "https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1"
+        },
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "duration_ms": 134068,
+      "name": "Taste My Body",
+      "url": "https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6"
     },
     {
       "added_at": "2023-04-04 13:57:02",

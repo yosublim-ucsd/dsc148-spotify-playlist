@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 195398,
       "name": "4evaaa",
       "url": "https://open.spotify.com/track/0uq8z2z0DUJNRgxv3DfqT3"
@@ -4008,7 +4008,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 237641,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/0GEQmn1fPbeQOHVT6YDgFR"
@@ -4688,7 +4688,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 164610,
       "name": "Cold Blood",
       "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
@@ -9792,7 +9792,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 191845,
       "name": "H-A-P-P-Y",
       "url": "https://open.spotify.com/track/7jseeQmEFs7vp8pIQcXkaO"
@@ -12249,6 +12249,24 @@
     },
     {
       "album": {
+        "name": "isolation",
+        "url": "https://open.spotify.com/album/0CSsz8tNAwFgEpcQqdRxVO"
+      },
+      "artists": [
+        {
+          "name": "jite",
+          "url": "https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217034,
+      "name": "isolation",
+      "url": "https://open.spotify.com/track/1jEpUbMKvy6LJuXTVjABmn"
+    },
+    {
+      "album": {
         "name": "It's Been a Little Heavy Lately",
         "url": "https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe"
       },
@@ -12420,6 +12438,24 @@
       "duration_ms": 183440,
       "name": "Jimmy Jimmy (feat. AJ Tracey)",
       "url": "https://open.spotify.com/track/4Iv2jOCKQakC3YWhijrRKK"
+    },
+    {
+      "album": {
+        "name": "Glasshead",
+        "url": "https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197014,
+      "name": "Jonny's Habit",
+      "url": "https://open.spotify.com/track/09YcDy6I05RGXAq6gPDVr0"
     },
     {
       "album": {
@@ -14236,6 +14272,24 @@
       "duration_ms": 93667,
       "name": "MANDELA EFFECT",
       "url": "https://open.spotify.com/track/2nnWeyvnHG5SBq7hg1u1Jh"
+    },
+    {
+      "album": {
+        "name": "manga",
+        "url": "https://open.spotify.com/album/2AaKUhc03Yf7s03PlKwlvW"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150867,
+      "name": "manga",
+      "url": "https://open.spotify.com/track/3KfJAVveynU2IDLHdykBSB"
     },
     {
       "album": {
@@ -16080,6 +16134,28 @@
       "duration_ms": 202253,
       "name": "No One Gets Me (feat. RMR)",
       "url": "https://open.spotify.com/track/0SBnx2rzXbh1Gt2WmmMX0g"
+    },
+    {
+      "album": {
+        "name": "Control Freak",
+        "url": "https://open.spotify.com/album/1CdGXtmDl8sakZOlOOAwXl"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "annonXL",
+          "url": "https://open.spotify.com/artist/7G3FmxYGrHlmOMqoG2lHdA"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116156,
+      "name": "No Place Here (feat. annonXL)",
+      "url": "https://open.spotify.com/track/5gAPeHJRjeTirQxYQT2qeE"
     },
     {
       "album": {
@@ -24940,7 +25016,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 204608,
       "name": "until my heart stops beating",
       "url": "https://open.spotify.com/track/4lLD8aU0V105kUOYj3h4sJ"
@@ -24980,6 +25056,24 @@
       "duration_ms": 187273,
       "name": "upside down",
       "url": "https://open.spotify.com/track/6bfZzQWM6AJU8ER00jY2rx"
+    },
+    {
+      "album": {
+        "name": "ur self",
+        "url": "https://open.spotify.com/album/2a2IAYIlm36nakwtZKuLWU"
+      },
+      "artists": [
+        {
+          "name": "sagacious",
+          "url": "https://open.spotify.com/artist/0wzoSAAL4Yq5ph8q28HXEU"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176094,
+      "name": "ur self",
+      "url": "https://open.spotify.com/track/6tfoSWteKyW43Cf0Usdywm"
     },
     {
       "album": {
@@ -26829,6 +26923,24 @@
     },
     {
       "album": {
+        "name": "mile \u200eend (kiss ur friends)",
+        "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "\u200edemo",
+      "url": "https://open.spotify.com/track/6SNURWhdb4YKYERP8sBgBx"
+    },
+    {
+      "album": {
         "name": "\u200efriends /\u200e wasted",
         "url": "https://open.spotify.com/album/1AMzDzS35VwDrPZ880KQYp"
       },
@@ -27002,7 +27114,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 144166,
       "name": "\u200ewedgie",
       "url": "https://open.spotify.com/track/7rG0ambeXy4HZsTCuFnAgX"

@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Luanna e novos talentos brasileiros no horizonte.",
-  "num_followers": 421758,
+  "num_followers": 421770,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzdmMTY4OTBlOGQzYzFjZGRiMzVhZjc0ZDY3MTM0Y2NiOTYzMDIz",
+  "snapshot_id": "MCxmM2Y3M2Q4NmMzOTFhY2YxMGRkZmI1N2EwOGVjNDE1ZWI1Mjc4OTM0",
   "tracks": [
     {
       "added_at": "2023-04-24 21:27:43",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "PATY",
-        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
-      },
-      "artists": [
-        {
-          "name": "Welisson",
-          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "PATY",
-      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "8KG",
         "url": "https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 132923,
       "name": "8KG",
       "url": "https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "PATY",
+        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "PATY",
+      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1491,30 +1491,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Se Fecha",
-        "url": "https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB"
-      },
-      "artists": [
-        {
-          "name": "Hate Rct",
-          "url": "https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7"
-        },
-        {
-          "name": "Noze",
-          "url": "https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc"
-        },
-        {
-          "name": "OG L",
-          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Se Fecha",
-      "url": "https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "Vai Com Calma",
         "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
       },
@@ -1555,6 +1531,30 @@
       "duration_ms": 218038,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/4LVy45tSEfOwGA9Pp1Kho6"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "Se Fecha",
+        "url": "https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB"
+      },
+      "artists": [
+        {
+          "name": "Hate Rct",
+          "url": "https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7"
+        },
+        {
+          "name": "Noze",
+          "url": "https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc"
+        },
+        {
+          "name": "OG L",
+          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Se Fecha",
+      "url": "https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5"
     },
     {
       "added_at": "2023-04-24 21:27:43",

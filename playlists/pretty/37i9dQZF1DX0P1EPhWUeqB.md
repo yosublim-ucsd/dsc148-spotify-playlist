@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 
 > Desde el corazón del rancho, las mejores interpretaciones en vivo\. Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,904 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,956 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 | 49 | [Pongamonos de Acuerdo \(En Vivo\)](https://open.spotify.com/track/2HO9zqs79FIww8Fr2ntSY9) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Hasta Que Amanezca \(En Vivo\)](https://open.spotify.com/album/0rYJq4WZGAeNCorqFaLSKO) | 2:45 |
 | 50 | [A Cuánto Me Quedé \(En Vivo\)](https://open.spotify.com/track/15P5oTWgYS0DRtuurDBzJG) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [En Vivo Desde el Foro Mic\-On](https://open.spotify.com/album/5hJa5h4rstcR2Y3GEv964s) | 3:10 |
 
-Snapshot ID: `MCxlMzY0NWY2ZGM0NzU1YzNmMWI4MzE4ZDJlNjZkNTU2NWRlNjEzYjUz`
+Snapshot ID: `MCxjOTc2YzQ3ZmQxMDY1OWMzOGJlYjA0YWM0NWMwZmM1NjYyYjE1ZDBk`

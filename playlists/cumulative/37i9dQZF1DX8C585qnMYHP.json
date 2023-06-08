@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new Experimental by independent artists and labels, with Fuensanta on cover. Artwork Thami Nabil. Updates every Wednesday.",
+  "description": "The best new Experimental by independent artists and labels, with Yama Warashi on cover. Artwork Thami Nabil. Updates every Wednesday.",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 327662,
       "name": "Balloon",
       "url": "https://open.spotify.com/track/52rmKsylzbi9agOdkggmJ0"
@@ -2570,6 +2570,24 @@
       "duration_ms": 228395,
       "name": "Be Like Water",
       "url": "https://open.spotify.com/track/5rtpUO69EPGFmOIEEDGbrf"
+    },
+    {
+      "album": {
+        "name": "Outbound 5.1",
+        "url": "https://open.spotify.com/album/4AeXlrnJDR4YsA1ympQRdc"
+      },
+      "artists": [
+        {
+          "name": "Julian Stetter",
+          "url": "https://open.spotify.com/artist/5LItxzjKC2W1nRnxGflkkj"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436890,
+      "name": "Bear",
+      "url": "https://open.spotify.com/track/00Kq9F35KrFQ99KoT32b8V"
     },
     {
       "album": {
@@ -2934,6 +2952,24 @@
       "duration_ms": 292573,
       "name": "Blood Quantum",
       "url": "https://open.spotify.com/track/6J6A3SuiMvLPBtkaGsThyj"
+    },
+    {
+      "album": {
+        "name": "Cicada Lullaby",
+        "url": "https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb"
+      },
+      "artists": [
+        {
+          "name": "Ans M",
+          "url": "https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219546,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5LGOOykNx9oLF5mxysIyYa"
     },
     {
       "album": {
@@ -3476,7 +3512,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 266284,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8"
@@ -5404,7 +5440,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 143568,
       "name": "derbyshire",
       "url": "https://open.spotify.com/track/1mBjl5UvDaAHxIqvyVbBEI"
@@ -5744,6 +5780,24 @@
       "duration_ms": 177157,
       "name": "Disuelta",
       "url": "https://open.spotify.com/track/4SPUd69r54Ovg4pzYi7Id8"
+    },
+    {
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
       "album": {
@@ -6370,7 +6424,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 199894,
       "name": "Echo Drift",
       "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
@@ -7381,6 +7435,24 @@
     },
     {
       "album": {
+        "name": "False Dawn",
+        "url": "https://open.spotify.com/album/30tBohXeGFj54i1GJk9exo"
+      },
+      "artists": [
+        {
+          "name": "Kate Carr",
+          "url": "https://open.spotify.com/artist/7c6D5NGiJJHQt8OW5xYrJ0"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1644221,
+      "name": "False Dawn",
+      "url": "https://open.spotify.com/track/28KDQ7ENkgRytD9eErP62Z"
+    },
+    {
+      "album": {
         "name": "la peau des yeux",
         "url": "https://open.spotify.com/album/6S3tOlii7RuSlATsT0U7Yn"
       },
@@ -7400,7 +7472,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 185250,
       "name": "FANT\u00d4MES",
       "url": "https://open.spotify.com/track/7Cjizwb3enVuXDN8iQIOUN"
@@ -7444,6 +7516,28 @@
       "duration_ms": 989090,
       "name": "Fata Morgana 1",
       "url": "https://open.spotify.com/track/3mhaYYLCf3Eex5FzveLZ8S"
+    },
+    {
+      "album": {
+        "name": "Pornopop: Abhorrence",
+        "url": "https://open.spotify.com/album/5HG3H9i27tbErMLy2euqVS"
+      },
+      "artists": [
+        {
+          "name": "BABYNYMPH",
+          "url": "https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB"
+        },
+        {
+          "name": "Augalas",
+          "url": "https://open.spotify.com/artist/2AVCIHAdYfMKZdOmMjLT1J"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61000,
+      "name": "Fatality",
+      "url": "https://open.spotify.com/track/6bq2m1soYmjqtJ0YllOl4w"
     },
     {
       "album": {
@@ -7736,7 +7830,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 134741,
       "name": "find me again",
       "url": "https://open.spotify.com/track/3LoUBHfGeTTwHeK93282eQ"
@@ -9650,7 +9744,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 220942,
       "name": "Hoarsely Cry",
       "url": "https://open.spotify.com/track/4taKjUGdjOotBxLuaaCw5F"
@@ -10210,7 +10304,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 340000,
       "name": "I don't know the dialect hard to tell / Nie znam gwary ci\u0119\u017cko stwierdzi\u0107",
       "url": "https://open.spotify.com/track/2X1QB9EMditpc8RukmJnkT"
@@ -10622,7 +10716,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 243466,
       "name": "Illa Sera",
       "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
@@ -11040,6 +11134,24 @@
       "duration_ms": 387692,
       "name": "Inc\u00f3gnita",
       "url": "https://open.spotify.com/track/2at8cqZnv7NSXdh7t9SA7u"
+    },
+    {
+      "album": {
+        "name": "Infinite Spin",
+        "url": "https://open.spotify.com/album/0gqsBfjoHpwRX6JRrfWmiZ"
+      },
+      "artists": [
+        {
+          "name": "Lomond Campbell",
+          "url": "https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248074,
+      "name": "Infinite Spin",
+      "url": "https://open.spotify.com/track/6NVCeKcMGdTIFbaTKhraFM"
     },
     {
       "album": {
@@ -13323,6 +13435,24 @@
     },
     {
       "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
+    },
+    {
+      "album": {
         "name": "Malaak",
         "url": "https://open.spotify.com/album/6Yrneh7gxkYUNNdwgmrT8f"
       },
@@ -15333,6 +15463,24 @@
     },
     {
       "album": {
+        "name": "Nightpainting",
+        "url": "https://open.spotify.com/album/65yS0rgtwgp3XxH3oX4VvN"
+      },
+      "artists": [
+        {
+          "name": "Paark",
+          "url": "https://open.spotify.com/artist/1WqKPRIyc3iLqATQR0DGYc"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220285,
+      "name": "Nightpainting",
+      "url": "https://open.spotify.com/track/0ZbSaHwd5OOiLdr3srsjMN"
+    },
+    {
+      "album": {
         "name": "No couchette Part 1",
         "url": "https://open.spotify.com/album/3u5i37eKleelAkBOIHFErB"
       },
@@ -16304,7 +16452,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 344000,
       "name": "Organillero",
       "url": "https://open.spotify.com/track/2nKARUyGponBvzJcFGpclt"
@@ -18691,6 +18839,24 @@
     },
     {
       "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214466,
+      "name": "Saku Saku (\u30b5\u30af\u30b5\u30af)",
+      "url": "https://open.spotify.com/track/75QD1PVCs0B2yWSqexcZ1P"
+    },
+    {
+      "album": {
         "name": "Salis (Inspired by \u2018The Outlaw Ocean\u2019 a book by Ian Urbina)",
         "url": "https://open.spotify.com/album/1BXwhrrfjlNbWUptjdKEoK"
       },
@@ -21053,6 +21219,24 @@
     },
     {
       "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
+    },
+    {
+      "album": {
         "name": "Because of a Flower",
         "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
       },
@@ -21498,6 +21682,24 @@
       "duration_ms": 213439,
       "name": "The Assistant (Marten)",
       "url": "https://open.spotify.com/track/0dhgu651oJJ044oo6oIAk0"
+    },
+    {
+      "album": {
+        "name": "The Ballad of Ultima Thule",
+        "url": "https://open.spotify.com/album/2KOqESdie3mzLkVmv0Uvra"
+      },
+      "artists": [
+        {
+          "name": "iconDARK",
+          "url": "https://open.spotify.com/artist/6d1V3auz4z3WMSNuX54gvR"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363828,
+      "name": "The Ballad of Ultima Thule",
+      "url": "https://open.spotify.com/track/4zxm4cBGsKORkT6o4WqH11"
     },
     {
       "album": {
@@ -22982,7 +23184,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 163269,
       "name": "Track 2",
       "url": "https://open.spotify.com/track/4zw9OaUPhpNzmlgcL9idu7"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Aditya Rikhari , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Deepika Seth , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -948,7 +948,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 118114,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/2LcMo61rvsjTYoB1C4PIR0"
@@ -2333,6 +2333,28 @@
     },
     {
       "album": {
+        "name": "Chalte Jaanaa",
+        "url": "https://open.spotify.com/album/1OUkQnuzxhQknljjd26BPz"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi Tripathi",
+          "url": "https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi"
+        },
+        {
+          "name": "Joell",
+          "url": "https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235560,
+      "name": "Chalte Jaanaa",
+      "url": "https://open.spotify.com/track/3NneoN6Z0PxZLiXbxBhjjx"
+    },
+    {
+      "album": {
         "name": "Chanchal Mann",
         "url": "https://open.spotify.com/album/1IMwoJfW0B35HYFUnLdKYh"
       },
@@ -2944,7 +2966,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 235094,
       "name": "Dheemi",
       "url": "https://open.spotify.com/track/09yLuL7dXwPvHykgfXvBZz"
@@ -3332,7 +3354,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 201923,
       "name": "Do I Really Do?",
       "url": "https://open.spotify.com/track/27BPOjJJJH7rKS807KdZHP"
@@ -3354,6 +3376,24 @@
       "duration_ms": 180963,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/2wKfQRv4kxSRd6suL1R9Cu"
+    },
+    {
+      "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/4qgn3rp6i2P6P20lnjf99A"
+      },
+      "artists": [
+        {
+          "name": "Vyom Singh Rajput",
+          "url": "https://open.spotify.com/artist/7fldcpZbS6DA18xe3YlsEj"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/0lMixoUCAHneWbYrB1iSH2"
     },
     {
       "album": {
@@ -3466,7 +3506,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 175237,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/1vEFwR8NnBq7JseboO4Itm"
@@ -4256,6 +4296,24 @@
       "duration_ms": 134205,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/0nH0ipq7ifYGJRSf0SCHR4"
+    },
+    {
+      "album": {
+        "name": "From This Day On",
+        "url": "https://open.spotify.com/album/0wCx8cyrpP2dW2Ydhlvpvn"
+      },
+      "artists": [
+        {
+          "name": "Takar Nabam",
+          "url": "https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147802,
+      "name": "From This Day On",
+      "url": "https://open.spotify.com/track/5acfp5J8PEffPWQexXlYzi"
     },
     {
       "album": {
@@ -6857,6 +6915,28 @@
     },
     {
       "album": {
+        "name": "Kahin Duur",
+        "url": "https://open.spotify.com/album/0495dR3BKjqWYHg8lIMcxq"
+      },
+      "artists": [
+        {
+          "name": "Deepika Seth",
+          "url": "https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv"
+        },
+        {
+          "name": "Imon",
+          "url": "https://open.spotify.com/artist/3bY660IbtBeAyjjch0QsjA"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302448,
+      "name": "Kahin Duur",
+      "url": "https://open.spotify.com/track/23tYMxghqCY59uRIAjlG7l"
+    },
+    {
+      "album": {
         "name": "Kaise Kaati Raatein",
         "url": "https://open.spotify.com/album/6ZxiKYEoeVgWjr2MgQAcXa"
       },
@@ -7306,6 +7386,28 @@
       "duration_ms": 200375,
       "name": "Khushiyaan",
       "url": "https://open.spotify.com/track/3M61BeNxgrMmeoVmFj5ZjL"
+    },
+    {
+      "album": {
+        "name": "Khushiyo Ke Geet",
+        "url": "https://open.spotify.com/album/7Gq0WEalVZylBnQnJ7YvRy"
+      },
+      "artists": [
+        {
+          "name": "Khushnuma Panchi",
+          "url": "https://open.spotify.com/artist/1uJ2OBo04Gtr2cqWCv9wXI"
+        },
+        {
+          "name": "Funk Central",
+          "url": "https://open.spotify.com/artist/50CIqCGCzUFsFuQEC2pe84"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185581,
+      "name": "Khushiyo Ke Geet",
+      "url": "https://open.spotify.com/track/5Wnp5EwUGhQJjV8RSPqB5T"
     },
     {
       "album": {
@@ -8232,6 +8334,24 @@
       "duration_ms": 214736,
       "name": "Madhaniya",
       "url": "https://open.spotify.com/track/0wL7Oinb6A06LIvZksJl9j"
+    },
+    {
+      "album": {
+        "name": "Madly Raving Sphere",
+        "url": "https://open.spotify.com/album/3qFI3kYpyTU9J1GcnNce85"
+      },
+      "artists": [
+        {
+          "name": "Jo Shy",
+          "url": "https://open.spotify.com/artist/3dGrlw7Q1uchukqr9p6OlP"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178314,
+      "name": "Madly Raving Sphere",
+      "url": "https://open.spotify.com/track/5s8lMIoTopvNEhIsLlZmiC"
     },
     {
       "album": {
@@ -9292,7 +9412,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 198913,
       "name": "my heart",
       "url": "https://open.spotify.com/track/3e2XrZgJGxJwPAOVIvb2Sn"
@@ -9456,6 +9576,24 @@
       "duration_ms": 223269,
       "name": "Naina",
       "url": "https://open.spotify.com/track/5SJ6qJaUj9jXLqRJzmUxQF"
+    },
+    {
+      "album": {
+        "name": "Naina",
+        "url": "https://open.spotify.com/album/5mkInUmWjzB0LJsxxdtHqM"
+      },
+      "artists": [
+        {
+          "name": "Nawazishein",
+          "url": "https://open.spotify.com/artist/6NzyJwnJyzqEGckUegHVmd"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311029,
+      "name": "Naina",
+      "url": "https://open.spotify.com/track/7sNuQrU1sPEAagkMCaretx"
     },
     {
       "album": {
@@ -10534,7 +10672,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 149787,
       "name": "Pills",
       "url": "https://open.spotify.com/track/6MHiexInIFCArLL6o7yZNA"
@@ -12252,7 +12390,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 291283,
       "name": "Simpler Times",
       "url": "https://open.spotify.com/track/2fmBEAxGrQHfqJwv3v8e7H"
@@ -14020,7 +14158,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 191503,
       "name": "Tu Hai Wajah",
       "url": "https://open.spotify.com/track/7jtYi8pnXd1wZ3ULmBlnuL"
@@ -14776,6 +14914,24 @@
       "duration_ms": 190153,
       "name": "Waqt Ke Pare",
       "url": "https://open.spotify.com/track/1Dnc1FMkRpBNK0WxPZ3n75"
+    },
+    {
+      "album": {
+        "name": "Waqt Ki Baatein",
+        "url": "https://open.spotify.com/album/03HhyxE11ugOiG3IyPb5ar"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dev",
+          "url": "https://open.spotify.com/artist/1MrcJcceEpRyYpVPm4ObP0"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282222,
+      "name": "Waqt Ki Baatein",
+      "url": "https://open.spotify.com/track/0yjDNJ0p6KH8SCLb9ZOlFI"
     },
     {
       "album": {

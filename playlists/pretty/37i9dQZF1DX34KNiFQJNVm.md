@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Hariel, The Weeknd com Playboi Carti e Madonna, Iguinho e Lulinha, Mc Pedrinho, Michel Teló com Clayton & Romário e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,877,744 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,877,970 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 36 | [Deus Me Honrou](https://open.spotify.com/track/08Am9M1y1BuHKTnbFpJ24n) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY) | [Deus Me Honrou](https://open.spotify.com/album/0su5yhshNigVS4TjopIAq6) | 2:06 |
 | 37 | [Macumbinha](https://open.spotify.com/track/5pY7pYPhDq7gMyAb4WPYOA) | [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv), [DJ Seduty](https://open.spotify.com/artist/5UmXYUwWfD7eeTj1gPT7yg), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Macumbinha](https://open.spotify.com/album/20bJzcTlglTjwbQigHshnQ) | 2:32 |
 | 38 | [Seu Namorado é Playboy](https://open.spotify.com/track/73JahDSn0kwEHFZtJzYXf0) | [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Nord Gang](https://open.spotify.com/artist/5i1hyePuUBJf1Yxv5V5WqA) | [Seu Namorado é Playboy](https://open.spotify.com/album/57bzWfU1i2nCCEzAord7Kz) | 2:39 |
-| 39 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Ths](https://open.spotify.com/artist/5dT6kOihM0CeJJ8O4JR5sh) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
+| 39 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
 | 40 | [Bom Malandro](https://open.spotify.com/track/6SVzTUMPTde6IPmV9h9DMk) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT) | [Bom Malandro](https://open.spotify.com/album/6I7152NeA4322oACHy16Kh) | 3:43 |
 | 41 | [Pai de Moleque](https://open.spotify.com/track/6sGK0gtDBCsLXqoy4EpTCt) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [DJ Dan Tá Ligado](https://open.spotify.com/artist/3mzo8dpOOwDvtPm2s2SNM3) | [Pai de Moleque](https://open.spotify.com/album/0WajGiBMWn7cMHgSjn5Zi6) | 2:15 |
 | 42 | [Plexo Solar](https://open.spotify.com/track/10Sqffs1pz1d6OvH0uxgHj) | [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Dassalu](https://open.spotify.com/album/6x8n0iGSeiG79InFBDmVpt) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Daydream](https://open.spotify.com/track/6JukP705SOkqUR8lvtFu0F) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [I Got My Eyes Fixed](https://open.spotify.com/album/2aig0xx4sYdxXSydJfX4j6) | 2:36 |
 | 100 | [Triptamina](https://open.spotify.com/track/0X8Hlp5uBjxnKHchFD8W6A) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [Triptamina](https://open.spotify.com/album/3vrmD0UDdhvUuwV5N3foZi) | 2:55 |
 
-Snapshot ID: `MCxjZDFkMmFlMjY5MjlkNDYxOWNhMzAwMDU1YTM4ZjJjOTQxY2I3YTIw`
+Snapshot ID: `MCw3Yjg3MTNkYTMyMWY1YWQxMjUzZTBhOTdlMzIwMzYzNGU2YWIyNmYz`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 281916,
+  "num_followers": 282064,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTI4YzllNGEwMWM2MzgwZDBkN2ZkODIzZDdmOGFhZWI1NDg0MmQz",
+  "snapshot_id": "MCxmZmQyMmE0ZTk2MzQzYWRjNDI1ZDgyMDEzNzI5ZTk2NDQyMTU5MzU3",
   "tracks": [
     {
       "added_at": "2023-05-05 05:09:11",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "A Drug Against War",
-      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Chapter II",
         "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 394285,
       "name": "Jim Jones",
       "url": "https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "A Drug Against War",
+      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "HY\u00cbNA",
-        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 302940,
-      "name": "HY\u00cbNA",
-      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Project Regeneration, Vol. 1",
         "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 215280,
       "name": "Bring You Down (Project Regeneration)",
       "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "HY\u00cbNA",
+        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 302940,
+      "name": "HY\u00cbNA",
+      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Bits and Razors",
+        "url": "https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb"
+      },
+      "artists": [
+        {
+          "name": "Rabbit Junk",
+          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
+        }
+      ],
+      "duration_ms": 243446,
+      "name": "Bits and Razors",
+      "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Rock Ain't Dead",
         "url": "https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 229512,
       "name": "Medicate Me",
       "url": "https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Bits and Razors",
-        "url": "https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb"
-      },
-      "artists": [
-        {
-          "name": "Rabbit Junk",
-          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
-        }
-      ],
-      "duration_ms": 243446,
-      "name": "Bits and Razors",
-      "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "TILL THE END",
+        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
+      },
+      "artists": [
+        {
+          "name": "NA CHUI",
+          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "TILL THE END",
+      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Don't Question Me",
         "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 201184,
       "name": "Don't Question Me",
       "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "TILL THE END",
-        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
-      },
-      "artists": [
-        {
-          "name": "NA CHUI",
-          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "TILL THE END",
-      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/6YlEOQA5byMK5kM6CbZGXA"
+      },
+      "artists": [
+        {
+          "name": "Processor",
+          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
+        }
+      ],
+      "duration_ms": 187422,
+      "name": "Justice Way",
+      "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Front By Front",
         "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 255133,
       "name": "Torpedoes",
       "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/6YlEOQA5byMK5kM6CbZGXA"
-      },
-      "artists": [
-        {
-          "name": "Processor",
-          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
-        }
-      ],
-      "duration_ms": 187422,
-      "name": "Justice Way",
-      "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Dirty Freddy (Remix)",
-        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
-      },
-      "artists": [
-        {
-          "name": "Extize",
-          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
-        },
-        {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Dirty Freddy - Remix",
-      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Prey & Obey",
         "url": "https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 203636,
       "name": "Black Lipstick",
       "url": "https://open.spotify.com/track/0jXfVK691dITawcnze17h2"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Dirty Freddy (Remix)",
+        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
+      },
+      "artists": [
+        {
+          "name": "Extize",
+          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
+        },
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dirty Freddy - Remix",
+      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1587,22 +1587,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Into the Void (Remix Contest Compilation)",
-        "url": "https://open.spotify.com/album/456DhMrNFieRfFOI8R4p18"
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
       },
       "artists": [
         {
           "name": "Celldweller",
           "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        },
-        {
-          "name": "Hard Box",
-          "url": "https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3"
         }
       ],
-      "duration_ms": 219123,
-      "name": "Into the Void - HARD BOX Remix",
-      "url": "https://open.spotify.com/track/4gmrTnVyc2Ud9KMWnl05Fh"
+      "duration_ms": 362482,
+      "name": "A Matter of Time",
+      "url": "https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q"
     },
     {
       "added_at": "2023-05-05 05:09:11",

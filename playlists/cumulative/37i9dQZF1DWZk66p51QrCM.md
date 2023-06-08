@@ -2,7 +2,7 @@
 
 ### [F1 23 Official Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DWZk66p51QrCM)
 
-> The Official EA SPORTS F1 2023 Soundtrack.
+> The Official EA SPORTS F1 23 Soundtrack
 
 34 songs - 2 hr 10 min
 

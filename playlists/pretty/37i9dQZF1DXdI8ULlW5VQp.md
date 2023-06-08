@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Vivir Quintana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,163 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,177 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 74 | [Migas de Pan](https://open.spotify.com/track/0BHkbp6rhWlfNTsDagl1ib) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Migas de Pan](https://open.spotify.com/album/7ezflwSFfjpqAWJ222pe0y) | 3:09 |
 | 75 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 |
 
-Snapshot ID: `MCw5YTk0MzMyN2JlYTNlZWMwYjE5Mjg5NTcxMWJiNmJhZWVkOTgwYWYz`
+Snapshot ID: `MCxiYmNkNTQyYTc2YTY5M2Y5YzJhMzMyNTJjOWZhNjk5MzZkM2Q4ZTJj`

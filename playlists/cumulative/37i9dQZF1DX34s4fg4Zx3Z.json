@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Linh Ka; thi\u1ebft k\u1ebf: Isu Kim",
+  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: NAM23; thi\u1ebft k\u1ebf: Isu Kim",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -5574,7 +5574,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 136981,
       "name": "d\u00e0nh cho em h\u00f4m nay",
       "url": "https://open.spotify.com/track/6imuP8Owi26RaU4ls8lY3s"
@@ -5592,7 +5592,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 184916,
       "name": "D\u00e3 Man",
       "url": "https://open.spotify.com/track/6JcrBC8Tbfqm665dIuSq2I"
@@ -9542,7 +9542,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-08",
       "duration_ms": 308052,
       "name": "L\u00eanh \u0110\u00eanh",
       "url": "https://open.spotify.com/track/45BLirLuAU5syFhdT8aFsc"
@@ -18119,6 +18119,32 @@
     },
     {
       "album": {
+        "name": "V\u01b0\u1eddn Sao B\u0103ng",
+        "url": "https://open.spotify.com/album/3WxF3E7xYRgu2DxVsvZEG2"
+      },
+      "artists": [
+        {
+          "name": "Snowz",
+          "url": "https://open.spotify.com/artist/1CBABbAg1qMq4dwzOoLm3D"
+        },
+        {
+          "name": "puppy",
+          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
+        },
+        {
+          "name": "JayKem",
+          "url": "https://open.spotify.com/artist/4WlJ3FqLRJh5SbvlDiuQKa"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227888,
+      "name": "V\u01b0\u1eddn Sao B\u0103ng",
+      "url": "https://open.spotify.com/track/1BQqU1AeGKVvxB789bKaQm"
+    },
+    {
+      "album": {
         "name": "V\u1ea5n V\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/6cBjgnnNKPiMEEcIuJC0V0"
       },
@@ -18265,6 +18291,28 @@
     },
     {
       "album": {
+        "name": "V\u1ec1 N\u0103m Th\u00e1ng Sau N\u00e0y (feat. D Aces)",
+        "url": "https://open.spotify.com/album/0DdZXBHIEpZL9wSw876uM4"
+      },
+      "artists": [
+        {
+          "name": "B\u01a1",
+          "url": "https://open.spotify.com/artist/14Hk06CVNkpu9cvTvUQivi"
+        },
+        {
+          "name": "D Aces",
+          "url": "https://open.spotify.com/artist/60tSwWmk52m7UJXoVDLqYa"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279850,
+      "name": "V\u1ec1 N\u0103m Th\u00e1ng Sau N\u00e0y (feat. D Aces)",
+      "url": "https://open.spotify.com/track/2hm0zneWHp95ahOp3tZ4id"
+    },
+    {
+      "album": {
         "name": "V\u1ecb Son M\u00f4i",
         "url": "https://open.spotify.com/album/2w9o4LzSgNXR4hUpyzEAgO"
       },
@@ -18390,6 +18438,24 @@
       "duration_ms": 218649,
       "name": "Welcome to Saigon",
       "url": "https://open.spotify.com/track/7eUaysrEDnuxzlDucvJfoa"
+    },
+    {
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/1KCalmUJTCWEwdoxXmhjzG"
+      },
+      "artists": [
+        {
+          "name": "Drixen",
+          "url": "https://open.spotify.com/artist/0gsKMaZgIDuvSSlXR1IJKd"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283969,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/12I0OXbxXbBQoXMK8vaZyt"
     },
     {
       "album": {

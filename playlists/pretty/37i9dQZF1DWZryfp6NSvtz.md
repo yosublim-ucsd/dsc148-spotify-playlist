@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,764 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,847 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 21 | [Sublimest](https://open.spotify.com/track/1pdxWrutsSXxdl1TwLJ8XA) | [Healing](https://open.spotify.com/artist/1oFMAPEoTCmYdcBBBwAxs0) | [Sublimest](https://open.spotify.com/album/7gZH4gIEJqbBKX9Ieax7Cx) | 2:59 |
 | 22 | [Not a Friend](https://open.spotify.com/track/13iuIktdvv32Xz9P8GO5Mq) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Not A Friend](https://open.spotify.com/album/4lu2cHvOHdrtlTH0RSOS8f) | 3:19 |
 | 23 | [Roll the Dice](https://open.spotify.com/track/0lWjdNnMq8SbeSulckVQMY) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Roll the Dice](https://open.spotify.com/album/4h90wABKg7XSFkJxcsFzhc) | 3:36 |
-| 24 | [Outsider](https://open.spotify.com/track/6QzpOnLnIs96PFZ831d6zU) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/2WukwhVY6nvzF3OSAwdmYb) | 4:05 |
+| 24 | [Outsider](https://open.spotify.com/track/2QQqlUWiLDROQJ6MGpL3o5) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/1BVsgwH1tbz8ga50B3Sqda) | 4:05 |
 | 25 | [Good Old Days](https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Pour It Out Into The Night](https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK) | 4:22 |
 | 26 | [\(Make the Music Go\) Boom](https://open.spotify.com/track/7mjQknb3FC7VJqTMuuAuuo) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Mindsets](https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO) | 3:30 |
 | 27 | [OTHER SIDE OF THE RAINBOW](https://open.spotify.com/track/4GsesitvquwKM2doPy68wk) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [OTHER SIDE OF THE RAINBOW](https://open.spotify.com/album/4BFH5CUZSM4uxuYFMAFNk6) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Cats \(Not The Musical\)](https://open.spotify.com/track/6VjTBUdQS6CPwmFeIMtBUb) | [Feale](https://open.spotify.com/artist/1ZxOC2uaCSxUiRtAcEVzc2) | [Indoor Activities](https://open.spotify.com/album/4GXJkEPwG65tf7kdOapEIo) | 4:23 |
 | 50 | [Clever Girl](https://open.spotify.com/track/1PyXhPgECarpISE31xvOLi) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Clever Girl](https://open.spotify.com/album/5h5DO6f9Ql9BEX0r0d1EZb) | 2:24 |
 
-Snapshot ID: `MCw5OTczODAyOGNkMWQ4OTA2NDJmMDk4YTY5OWQwOTc5YzFiMWUzYTNh`
+Snapshot ID: `MCwwNDg4YzNkZGE3YzJkNGEyMmQzOWYwMjBlZDRiZDEwMmY4NmFjYzcz`

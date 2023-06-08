@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Nick Schilder
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,436 likes - 150 songs - 7 hr 55 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,425 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 43 | [New Horizon](https://open.spotify.com/track/65TAeIqldndBSti0cJnRSj) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [New Horizon](https://open.spotify.com/album/1rQ795yaynVBewq66k21Js) | 5:15 |
 | 44 | [Color Blue \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/1vXC5g4aZM3MwILJvdmXf5) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Sasson \(FR\)](https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Color Blue \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/6zQTMCQPdzNyhOEWXcCtYk) | 4:06 |
 | 45 | [Night In Milan](https://open.spotify.com/track/5WZp98NX90Oqy2mAQcwleA) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Night In Milan](https://open.spotify.com/album/5mjEC5XuALfFLI7XlpnAXL) | 2:34 |
-| 46 | [Nobody Knows \(feat\. WYNNE\) \- Pham Remix](https://open.spotify.com/track/4Frzz96208Kkano0aw24JX) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Nobody Knows \(feat\. WYNNE\) \[Pham Remix\]](https://open.spotify.com/album/7ttlNPjg2MD6uD3ICxKzY0) | 3:42 |
+| 46 | [Nobody Knows \(feat\. WYNNE\) \- Pham Remix](https://open.spotify.com/track/4Frzz96208Kkano0aw24JX) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS), [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3) | [Nobody Knows \(feat\. WYNNE\) \[Pham Remix\]](https://open.spotify.com/album/7ttlNPjg2MD6uD3ICxKzY0) | 3:42 |
 | 47 | [Do Me Like That](https://open.spotify.com/track/21Ue2abwTWwP5oVMsCHhPD) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Do Me Like That](https://open.spotify.com/album/0vqnR6D9vm3nS5HZZbBUeH) | 2:30 |
 | 48 | [Shapeshift](https://open.spotify.com/track/2dmAVsqNbWBGRw6U7eYjxH) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Shapeshift](https://open.spotify.com/album/6SYxK1RZzOQMwkt2JkGIwU) | 4:06 |
 | 49 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |

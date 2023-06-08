@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-171 songs - 9 hr 28 min
+172 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [i don't wanna know \- acoustic](https://open.spotify.com/track/3dNEnD700nYq0TY0w6AJjs) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/6w5WeoBQSHL9FFmk6ZiYOG) | 3:06 | 2022-12-09 | 2023-04-01 |
 | [i don't wanna know \- acoustic](https://open.spotify.com/track/4Z5LVvODOf8KDgxa0DCwG1) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/0BYCTsWZVvFKhjtlzIYNxd) | 3:06 | 2022-07-15 | 2023-02-15 |
 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 | 2022-01-28 |  |
-| [I Wrote A Song \- Acoustic](https://open.spotify.com/track/00EC5CH3rcbU2eCgUBnyJS) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song \(Acoustic\)](https://open.spotify.com/album/2xnlu6naZOCUeiYQZW6ke3) | 3:11 | 2023-04-14 |  |
+| [I Wrote A Song \- Acoustic](https://open.spotify.com/track/00EC5CH3rcbU2eCgUBnyJS) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song \(Acoustic\)](https://open.spotify.com/album/2xnlu6naZOCUeiYQZW6ke3) | 3:11 | 2023-04-14 | 2023-06-08 |
+| [I Wrote A Song \- Acoustic](https://open.spotify.com/track/3RKom6cYaG4eVGYkCgzat8) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song](https://open.spotify.com/album/5qlydNF8Z6kousaKWE5jRB) | 3:11 | 2023-05-19 |  |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/4OQE489ScQdhBcELfacJw0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 3:07 | 2022-10-14 | 2022-12-03 |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/4dgY5vCvBBSylaRvgEd6dj) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 3:07 | 2022-07-15 | 2022-11-17 |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/6bnT4Xhs1lkOHgFjHq6M3b) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [i'm so tired..\. \(Stripped \- Live in LA\)](https://open.spotify.com/album/3bKSufZXpfGRvQ5qKBLJNh) | 3:07 | 2022-01-28 | 2022-07-29 |
