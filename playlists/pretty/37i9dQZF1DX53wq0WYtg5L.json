@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 540014,
+  "num_followers": 540063,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGM4YjQ2MmUxMTVhMTZmMTNiOGY2M2VmMzBhMzgyZjNhYzlmZWQ0",
+  "snapshot_id": "MCw4MGMyZDM2YTczMDNlOTM0NjhlYjk3ZDQ5YmY4YjU4NDJkNmM4YTBi",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -683,18 +683,22 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
+        "name": "Fernando De La Mora Interpreta A Rub\u00e9n Fuentes (feat. Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/4bh55n600iD6h3tMa2HbWF"
       },
       "artists": [
         {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+          "name": "Fernando De La Mora",
+          "url": "https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt"
+        },
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 165040,
-      "name": "Jesucita en Chihuahua",
-      "url": "https://open.spotify.com/track/0FB1dzNYU2blChwDT0s0Bd"
+      "duration_ms": 214120,
+      "name": "Qu\u00e9 Bonita Es Mi Tierra (feat. Mariachi Vargas de Tecalitl\u00e1n)",
+      "url": "https://open.spotify.com/track/0mB37B9FDCsKSmjiSdEfci"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -715,22 +719,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Fernando De La Mora Interpreta A Rub\u00e9n Fuentes (feat. Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/4bh55n600iD6h3tMa2HbWF"
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
       },
       "artists": [
         {
-          "name": "Fernando De La Mora",
-          "url": "https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt"
-        },
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
         }
       ],
-      "duration_ms": 214120,
-      "name": "Qu\u00e9 Bonita Es Mi Tierra (feat. Mariachi Vargas de Tecalitl\u00e1n)",
-      "url": "https://open.spotify.com/track/0mB37B9FDCsKSmjiSdEfci"
+      "duration_ms": 165040,
+      "name": "Jesucita en Chihuahua",
+      "url": "https://open.spotify.com/track/0FB1dzNYU2blChwDT0s0Bd"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -831,6 +831,26 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
+        "name": "Rancheras",
+        "url": "https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0"
+      },
+      "artists": [
+        {
+          "name": "Fernando De La Mora",
+          "url": "https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt"
+        },
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 425600,
+      "name": "Huapangos: La Noche y T\u00fa / Tres Consejos / La del Rebozo Blanco / La Verdolaga",
+      "url": "https://open.spotify.com/track/7yntezTde0vZ1ZWjUnCp4R"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
         "name": "Mariachi Azteca",
         "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 165506,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/67kE2nwzQzr9v7OOWfireQ"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Rancheras",
-        "url": "https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0"
-      },
-      "artists": [
-        {
-          "name": "Fernando De La Mora",
-          "url": "https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt"
-        },
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 425600,
-      "name": "Huapangos: La Noche y T\u00fa / Tres Consejos / La del Rebozo Blanco / La Verdolaga",
-      "url": "https://open.spotify.com/track/7yntezTde0vZ1ZWjUnCp4R"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1484,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 168053,
-      "name": "El carrettero",
-      "url": "https://open.spotify.com/track/0XUNHaJR3KXWnD04OuAOtE"
+      "duration_ms": 196000,
+      "name": "Zopilote mojado",
+      "url": "https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1500,9 +1500,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Zopilote mojado",
-      "url": "https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L"
+      "duration_ms": 168053,
+      "name": "El carrettero",
+      "url": "https://open.spotify.com/track/0XUNHaJR3KXWnD04OuAOtE"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Pepe Aguilar Con Tambora",
-        "url": "https://open.spotify.com/album/6t4HD7n8phLI7hrcMfxXL3"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 130647,
-      "name": "La Vaquilla",
-      "url": "https://open.spotify.com/track/2gtvXZKt40nfgRmnBaqZu0"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Lo Mejor De La M\u00fasica Mexicana",
         "url": "https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 167106,
       "name": "All\u00e1 En El Rancho Grande",
       "url": "https://open.spotify.com/track/26LABlj8Jq3a0uKYnp2bf9"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Pepe Aguilar Con Tambora",
+        "url": "https://open.spotify.com/album/6t4HD7n8phLI7hrcMfxXL3"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 130647,
+      "name": "La Vaquilla",
+      "url": "https://open.spotify.com/track/2gtvXZKt40nfgRmnBaqZu0"
     },
     {
       "added_at": "2022-09-12 17:32:54",

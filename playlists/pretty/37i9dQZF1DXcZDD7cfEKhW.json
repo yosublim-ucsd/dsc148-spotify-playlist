@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Ava Max",
-  "num_followers": 3410498,
+  "num_followers": 3408972,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDU3ZmExZDUyNjVmZGYxYzI4YzY1ZGY4MTMyMDMzNTBkNTVhY2Yz",
+  "snapshot_id": "MCw0NzE0OTg1NjZjODE4ZGM3ZjZjZmUwNmJkMzZiNzQ4ODMxNmQzNmRl",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -251,26 +251,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Lose You (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 156404,
-      "name": "Lose You - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 149565,
       "name": "Bad Memories - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Lose You (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 156404,
+      "name": "Lose You - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Dawn FM (Alternate World)",
+        "url": "https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 238032,
+      "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
+      "url": "https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
         "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 176000,
       "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
       "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Dawn FM (Alternate World)",
-        "url": "https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 238032,
-      "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
-      "url": "https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1511,6 +1511,30 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "By Your Side (feat. Tom Grennan) [Oliver Heldens Remix]",
+        "url": "https://open.spotify.com/album/0fWC4Bvc2DNduV9qLKoPZR"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 238064,
+      "name": "By Your Side (feat. Tom Grennan) - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/3ZFosXgzvmN6wXs9wTaIxh"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
         "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
       },
@@ -1551,30 +1575,6 @@
       "duration_ms": 165269,
       "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
       "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "By Your Side (feat. Tom Grennan) [Oliver Heldens Remix]",
-        "url": "https://open.spotify.com/album/0fWC4Bvc2DNduV9qLKoPZR"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 238064,
-      "name": "By Your Side (feat. Tom Grennan) - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/3ZFosXgzvmN6wXs9wTaIxh"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1907,6 +1907,34 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt"
+      },
+      "artists": [
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "IT'S YOU (feat. keshi) [ARMNHMR Remix]",
         "url": "https://open.spotify.com/album/4K87GTtvuKzOZYXFjt7Baw"
       },
@@ -1995,34 +2023,6 @@
       "duration_ms": 215919,
       "name": "Beautiful - Benny Benassi Remix",
       "url": "https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) [Ti\u00ebsto Remix]",
-        "url": "https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt"
-      },
-      "artists": [
-        {
-          "name": "Axel Rulay",
-          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN"
     },
     {
       "added_at": "2023-05-19 04:01:00",

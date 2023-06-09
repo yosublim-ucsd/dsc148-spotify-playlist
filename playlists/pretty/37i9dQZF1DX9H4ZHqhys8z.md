@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Ellize
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,198 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,195 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 4 | [Identity Crisis](https://open.spotify.com/track/1F0PpKg5Q6W0L12vSc04u0) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [Identity Crisis](https://open.spotify.com/album/6fPwvK7Ddis487JlqS12x3) | 3:03 |
 | 5 | [Gurise?](https://open.spotify.com/track/683SWdCa6PzYLmsbSI6Glb) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [Gurise?](https://open.spotify.com/album/0frj4Dbrw6gBt1zE2Ehp1p) | 2:46 |
 | 6 | [Avissos](https://open.spotify.com/track/3SYEgDtTvkPb3cZbvnHVbN) | [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [Avissos](https://open.spotify.com/album/1n3OlPK3pdyGmybi0t0y35) | 3:02 |
-| 7 | [Θ\. CINEMA](https://open.spotify.com/track/1T4jPyEwa4XRnbPA2h8f8c) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH), [DJ Tune](https://open.spotify.com/artist/5yD9OVO5dKEteEVps9qG3v), [Jay Starr](https://open.spotify.com/artist/6URi35MZoSTimeBvixyJyE) | [The Bwoi with the plan](https://open.spotify.com/album/0b75UFaQJTJLIErjW9FjHh) | 3:21 |
+| 7 | [Θ\. CINEMA](https://open.spotify.com/track/1T4jPyEwa4XRnbPA2h8f8c) | [DJ Tune](https://open.spotify.com/artist/5yD9OVO5dKEteEVps9qG3v), [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH), [Jay Starr](https://open.spotify.com/artist/6URi35MZoSTimeBvixyJyE) | [The Bwoi with the plan](https://open.spotify.com/album/0b75UFaQJTJLIErjW9FjHh) | 3:21 |
 | 8 | [Moni Mou](https://open.spotify.com/track/6FnY677B1fIAi0GVma6fOn) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Moni Mou](https://open.spotify.com/album/4340fgIIgtmb4mNki3nJ01) | 2:26 |
 | 9 | [Niose](https://open.spotify.com/track/1mhTchTMDaLdc5YuW5zVRm) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Niose](https://open.spotify.com/album/5tfYnmfal8IHv1sfnQZKrH) | 3:07 |
 | 10 | [Psifiakos Kosmos](https://open.spotify.com/track/5Yj4cuyJid55keb7q2oJ8I) | [Luisa](https://open.spotify.com/artist/1mzeq2AB4aYZwPfrU03C98), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Psifiakos Kosmos](https://open.spotify.com/album/0g6Vf3WYzpgV3doox4WfYG) | 3:51 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 19 | [A Summer Love](https://open.spotify.com/track/11Mrfqdy3P8DnkWQI5MRmt) | [Kalliope Pouska](https://open.spotify.com/artist/6Kic93NL5qA2B8yFjBjahX) | [A Summer Love](https://open.spotify.com/album/4jyF5bMu5r0PsUhxDZH6nn) | 3:02 |
 | 20 | [Hara Mazi Kai Ponos](https://open.spotify.com/track/0aIxzVlqNdFhLSN0fJVMAa) | [Natalia Lampadaki](https://open.spotify.com/artist/0heqGjrLYIMGtdlwtqtxXT), [Giannis Papageorgiou](https://open.spotify.com/artist/4m6sXP23uZD9nQNPb7Y1n0) | [Hara Mazi Kai Ponos](https://open.spotify.com/album/71CPrEK2njMcqddjOYVjae) | 4:10 |
 | 21 | [Decor](https://open.spotify.com/track/0LI6X562j35N9GqAPjmuwj) | [Xenia Gargali](https://open.spotify.com/artist/1ei2KEiexDEehzyu4oEddP), [Periklis Biskinis](https://open.spotify.com/artist/4ZmLaIa9DllCHlLdmfZpd3) | [Decor](https://open.spotify.com/album/6uAVFw4xSam5V8ZX95jQRh) | 2:48 |
-| 22 | [Kane me na se Misiso](https://open.spotify.com/track/5d5IhsWtLAF3VqusKAnGFu) | [Yama](https://open.spotify.com/artist/5PmSkZlPqZxUzN0pdSnL5J) | [Kane me na se Misiso](https://open.spotify.com/album/7mBBSUsSgKuuEhHqIsKefJ) | 3:06 |
+| 22 | [Kati Eho Pathei Me Ta Matia Sou](https://open.spotify.com/track/3g86J2SiQ7t6yFVtkSUpYJ) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Unplugged](https://open.spotify.com/album/4PYZNvvfwQPrmQvhezg5CD) | 3:06 |
 | 23 | [Mi Milas](https://open.spotify.com/track/0XEvweAMtxdcSOfNdrF1sT) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Mi Milas](https://open.spotify.com/album/4QRjhM7jDsfWukybZStXEX) | 2:58 |
 | 24 | [O Hartis](https://open.spotify.com/track/77veey2PBLf6KBMShrI0H7) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [O Hartis](https://open.spotify.com/album/6ESMhTCrJMvxRMrM3BFbRI) | 3:47 |
 | 25 | [Páli](https://open.spotify.com/track/6qtXBZ4tjzLcobqjZhjgeD) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH) | [Páli](https://open.spotify.com/album/4lyphonCgrDLgvqgtvf3V9) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Oi Nihtes Oi Monahikes Mou](https://open.spotify.com/track/2gu6wZm9n1Uy2CcjMkllVk) | [Malu](https://open.spotify.com/artist/7yRdQVDlefMJhDk3vbhjah) | [Oi Nihtes Oi Monahikes Mou](https://open.spotify.com/album/1oHI6G9Pkd1xDix1iyLmIW) | 3:56 |
 | 50 | [LATHI](https://open.spotify.com/track/5lQfoQ3mPD7hDomKjjMwhV) | [Rima](https://open.spotify.com/artist/57YDpbS3CGnSQfRNpSsiNK), [LADELE](https://open.spotify.com/artist/0XpIr8mls2t9j5bNsjbw7C), [City Center](https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr), [Electabaz](https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf) | [POV](https://open.spotify.com/album/56qe0cN1r6xtHLpli7lYjz) | 2:59 |
 
-Snapshot ID: `MCxjNjc1YzBiOThmZmEwZDc4MzA1OTZiY2IxZDE1NjU3YTkyYmQ4NzA5`
+Snapshot ID: `MCwxMzM3MjNlNjhjZTNkNTVhNjQwYTNhNjMzMjY2YmI5ZjhhNzkxMzlj`

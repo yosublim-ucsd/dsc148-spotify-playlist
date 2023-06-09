@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUcT0QzTFbgH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUcT0QzTFbgH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUcT0QzTFbgH)
 
-### [I May Destroy You](https://open.spotify.com/playlist/37i9dQZF1DWUcT0QzTFbgH)
+### [I May Destroy You Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWUcT0QzTFbgH)
 
-> All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
+> All the music from Michaela Coel’s HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">Max</a>
 
 116 songs - 7 hr 19 min
 

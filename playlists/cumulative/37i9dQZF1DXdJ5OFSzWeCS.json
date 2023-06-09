@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Birds Come Morning",
+        "url": "https://open.spotify.com/album/5yoXBNJxPNTRIWyqYROgO2"
+      },
+      "artists": [
+        {
+          "name": "Aryan Armstrong",
+          "url": "https://open.spotify.com/artist/5PDN3kzgUe0ns31NnvSfCp"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Birds Come Morning",
+      "url": "https://open.spotify.com/track/1EKfN9J9WgAKLUmXFtUzXu"
+    },
+    {
+      "album": {
         "name": "Das Freundliche Monster",
         "url": "https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8"
       },
@@ -5729,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "Mother Goose",
+        "url": "https://open.spotify.com/album/4A1pcvNFojNbbThb5mNNq4"
+      },
+      "artists": [
+        {
+          "name": "Myla Watson",
+          "url": "https://open.spotify.com/artist/4UsO7PCgseF2b8wqm28l6Y"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96700,
+      "name": "Mother Goose",
+      "url": "https://open.spotify.com/track/1ZOWHiKOpJoZZM5ccVYGjj"
+    },
+    {
+      "album": {
         "name": "Mother's Boy",
         "url": "https://open.spotify.com/album/3qXsVGnY1X5F5HNDXEUrml"
       },
@@ -5870,6 +5906,24 @@
       "duration_ms": 103750,
       "name": "My Dolly and Me",
       "url": "https://open.spotify.com/track/6OWya70yLaThea5fDuQINP"
+    },
+    {
+      "album": {
+        "name": "My Dream Castle",
+        "url": "https://open.spotify.com/album/7tjCZosYj0BoToFKrGxv2h"
+      },
+      "artists": [
+        {
+          "name": "Lea van der Eule",
+          "url": "https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104750,
+      "name": "My Dream Castle",
+      "url": "https://open.spotify.com/track/3yGLnfiBUXZFILOkgOdGxw"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,251 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,261 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [君のこころは輝いてるかい? \- Hard Rock Ver.](https://open.spotify.com/track/3FIWb5GZIh5P7RBD6jxUNQ) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 4:36 |
+| 1 | [幻日ミステリウム](https://open.spotify.com/track/6svEV2VqOwqDFxp6LgQwRh) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [幻日ミステリウム](https://open.spotify.com/album/50ol5HzlvAPwmc54JVF8UX) | 3:29 |
 | 2 | [Believe again](https://open.spotify.com/track/3aYg7E9EixRCtQQX5SZuat) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:41 |
 | 3 | [コットンキャンディえいえいおー!](https://open.spotify.com/track/10N2sb4vrtmSs5DeZyV5c8) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album 〜RED GEM WINK〜](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:18 |
 | 4 | [Guilty Night, Guilty Kiss!](https://open.spotify.com/track/7LZRj9JzVDBrwV0Uxtjnba) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 49 | [Never giving up!](https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92) | [高海千歌 \(CV.伊波杏樹\) from Aqours](https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno) | [LoveLive! Sunshine!! Takami Chika First Solo Concert Album 〜One More Sunshine Story〜](https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp) | 3:54 |
 | 50 | [Braveheart Coaster](https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [Braveheart Coaster](https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn) | 4:26 |
 
-Snapshot ID: `MCwxMzY1YmU1MmVmOTg5MTBmYTcwMmIyOTAzNDQ1ZTVjMGM2OWQ0NzU0`
+Snapshot ID: `MCxlMGMyMjAyNDM2MzIzMThlOWRhMzExMjg2YTBiMjczOTllOWVmMmVi`

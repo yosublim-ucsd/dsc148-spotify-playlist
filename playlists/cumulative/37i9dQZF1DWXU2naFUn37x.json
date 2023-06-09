@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Cover: Baby Gang",
+  "description": "La casa dello street rap italiano. Cover: Shiva",
   "name": "Street Culto",
   "tracks": [
     {
@@ -933,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Santana Season",
+        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166358,
+      "name": "Bibidi Bobidi Bu (feat. Paky)",
+      "url": "https://open.spotify.com/track/0wSpx49DTwBplnkeqH6zep"
+    },
+    {
+      "album": {
         "name": "Big VROOM Big Ah Ah",
         "url": "https://open.spotify.com/album/5uqthSZzxmDYVXErwPgkUG"
       },
@@ -1128,7 +1150,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 158297,
       "name": "Braquages",
       "url": "https://open.spotify.com/track/5X4mISo6fLNbc2cn6W38A7"
@@ -1820,7 +1842,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 167804,
       "name": "Cup",
       "url": "https://open.spotify.com/track/5tZLWsGOFHRBxZ96ZRe67z"
@@ -1928,7 +1950,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 163270,
       "name": "Diario del Bando 2",
       "url": "https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP"
@@ -2124,6 +2146,28 @@
       "duration_ms": 206101,
       "name": "Easy (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/0DpTRR4HyiDJH4Waoj9hXU"
+    },
+    {
+      "album": {
+        "name": "Santana Season",
+        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173225,
+      "name": "Elicotteri (feat. Geolier)",
+      "url": "https://open.spotify.com/track/6Hr11KoNJPsTYtZJHXQgKO"
     },
     {
       "album": {
@@ -2440,7 +2484,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 157209,
       "name": "Fid\u00e8le",
       "url": "https://open.spotify.com/track/04nSLIugSHc12J7v4ansEL"
@@ -3773,6 +3817,32 @@
     },
     {
       "album": {
+        "name": "Metropolitana",
+        "url": "https://open.spotify.com/album/4VFiQpAxljv9ikIK9QXTEQ"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Mojobeatz",
+          "url": "https://open.spotify.com/artist/1Pwd1KP0QpMW7BZq6EdTB0"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179067,
+      "name": "Metropolitana",
+      "url": "https://open.spotify.com/track/2LefQOKsenY4CsqByGwNDC"
+    },
+    {
+      "album": {
         "name": "Mh Ah Ah",
         "url": "https://open.spotify.com/album/1zEEoBK5gEw6JoBlm6Y0sy"
       },
@@ -4504,6 +4574,28 @@
       "duration_ms": 163118,
       "name": "Pararara",
       "url": "https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G"
+    },
+    {
+      "album": {
+        "name": "Pas De Salam",
+        "url": "https://open.spotify.com/album/3XmmEZ7dvQw18C8KsRKWhf"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        },
+        {
+          "name": "Keta",
+          "url": "https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159742,
+      "name": "Pas De Salam",
+      "url": "https://open.spotify.com/track/4odaNK2WriH7cXdTOaOxKH"
     },
     {
       "album": {
@@ -6317,6 +6409,28 @@
     },
     {
       "album": {
+        "name": "UNO, DUE E TRE (feat. Neima Ezza)",
+        "url": "https://open.spotify.com/album/4IPtQv7AcN7ObxDQ8wX1B4"
+      },
+      "artists": [
+        {
+          "name": "Kilimoney",
+          "url": "https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "UNO, DUE E TRE (feat. Neima Ezza)",
+      "url": "https://open.spotify.com/track/15wHsZvGEuT8W2KsEydgFu"
+    },
+    {
+      "album": {
         "name": "Vada come vada",
         "url": "https://open.spotify.com/album/1uiCVnEYRbmcRACX7cfq8S"
       },
@@ -6714,7 +6828,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 217190,
       "name": "ZONDA",
       "url": "https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53"

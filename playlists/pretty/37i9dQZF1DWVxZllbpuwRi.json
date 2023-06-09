@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 629281,
+  "num_followers": 629265,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjI3ZWU5YzY5YmU0YWJiOTc0ZjY4YmIzODViNjM4ZTRkZjM3MmIz",
+  "snapshot_id": "MCw5Yzc0MWYwNTgzZGI3ZDk1YWIzZDFiZjNjNzgyNDUyMjEyMTBiYzY0",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "A Lua (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "A Lua - Spotify Singles",
+      "url": "https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "One Touch",
         "url": "https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 197875,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "A Lua (Spotify Singles)",
-        "url": "https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "A Lua - Spotify Singles",
-      "url": "https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "CHAMA MEU NOME",
-        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FORASTEIRO",
-      "url": "https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Silent Sun",
         "url": "https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 171245,
       "name": "Silent Sun",
       "url": "https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "CHAMA MEU NOME",
+        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "FORASTEIRO",
+      "url": "https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "REALVERSO: Lado A",
+        "url": "https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ"
+      },
+      "artists": [
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "VER\u00c3O DOS MEUS SONHOS",
+      "url": "https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Savages",
         "url": "https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 175020,
       "name": "Savages",
       "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "REALVERSO: Lado A",
-        "url": "https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ"
-      },
-      "artists": [
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "VER\u00c3O DOS MEUS SONHOS",
-      "url": "https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -2063,22 +2063,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Light Years Away",
-        "url": "https://open.spotify.com/album/0fdGfbskip7l2MA5jWB3LF"
+        "name": "POTINHO",
+        "url": "https://open.spotify.com/album/2vhu177PuIf5IZQiuESQG7"
       },
       "artists": [
         {
-          "name": "Pontifexx",
-          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
         },
         {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
         }
       ],
-      "duration_ms": 223333,
-      "name": "Light Years Away",
-      "url": "https://open.spotify.com/track/4Kq4Mn0NElRTqcrLxpKzH3"
+      "duration_ms": 177274,
+      "name": "POTINHO",
+      "url": "https://open.spotify.com/track/7wYZrv7HWbscIMnJZ6hj03"
     }
   ],
   "unique_name": "Ver\u00e3o Forever",

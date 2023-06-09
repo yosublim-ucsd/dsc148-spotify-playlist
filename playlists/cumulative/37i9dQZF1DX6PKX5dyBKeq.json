@@ -687,6 +687,32 @@
     },
     {
       "album": {
+        "name": "Purple Hearts",
+        "url": "https://open.spotify.com/album/7Et7I5XV9sRMc47uuKRfuY"
+      },
+      "artists": [
+        {
+          "name": "Youngs Teflon",
+          "url": "https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv"
+        },
+        {
+          "name": "Tiny Boost",
+          "url": "https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240002,
+      "name": "3 Dimensions",
+      "url": "https://open.spotify.com/track/0EOMZzZ4Czq4B1yVvjHvBb"
+    },
+    {
+      "album": {
         "name": "Polaris",
         "url": "https://open.spotify.com/album/5fGw4eLl2lRXDt7oFnNYGu"
       },
@@ -1880,7 +1906,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 191808,
       "name": "Amplify",
       "url": "https://open.spotify.com/track/3Yst8fBmKcLK7OEPeXB7tm"
@@ -3578,6 +3604,24 @@
       "duration_ms": 189913,
       "name": "Big 44 No Safety",
       "url": "https://open.spotify.com/track/4au9yBuFmAWHMCsyGR6h9V"
+    },
+    {
+      "album": {
+        "name": "Big Bad IVD",
+        "url": "https://open.spotify.com/album/3qH8RgYwwuEXMuR7zKfeug"
+      },
+      "artists": [
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153970,
+      "name": "Big Bad IVD",
+      "url": "https://open.spotify.com/track/3MqJ2tJjCaSNNBknUxLJSW"
     },
     {
       "album": {
@@ -8562,7 +8606,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 229090,
       "name": "Double Back",
       "url": "https://open.spotify.com/track/2y6HWRKDNkX7AmMXkAN6wN"
@@ -9713,6 +9757,24 @@
     },
     {
       "album": {
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/2VZAtWEvKIReS3GDF38Kyf"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/1rukVwJA2iC5Sx3wq2TliI"
+    },
+    {
+      "album": {
         "name": "Everything Gangster (feat. Morrisson)",
         "url": "https://open.spotify.com/album/5RVs6DlGHYsv3vAar9Vnc9"
       },
@@ -10208,7 +10270,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 198904,
       "name": "Female Plugged In Special",
       "url": "https://open.spotify.com/track/6lg7cwdu29FWYuEbN16fjk"
@@ -11078,7 +11140,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 178000,
       "name": "Galore",
       "url": "https://open.spotify.com/track/4xAZoHCDP7K07zCdmJFpR0"
@@ -17364,7 +17426,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 179343,
       "name": "Multi-Mill Plans (feat. Squeeks)",
       "url": "https://open.spotify.com/track/1FPa57YsG8aNqL1krD650Z"
@@ -19377,6 +19439,28 @@
     },
     {
       "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307973,
+      "name": "Our 25th Birthday",
+      "url": "https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd"
+    },
+    {
+      "album": {
         "name": "Out In The O",
         "url": "https://open.spotify.com/album/65vlxXW8XRny2aaCOXStT4"
       },
@@ -19428,6 +19512,24 @@
       "duration_ms": 160880,
       "name": "Outcome",
       "url": "https://open.spotify.com/track/2q6vrESx360IzxFBQjuyCy"
+    },
+    {
+      "album": {
+        "name": "Outings",
+        "url": "https://open.spotify.com/album/6ZdcnQXEiP6JGjydmvvyaZ"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Outings",
+      "url": "https://open.spotify.com/track/6hL6yqDgATebDYnao2AgLV"
     },
     {
       "album": {
@@ -21313,6 +21415,28 @@
     },
     {
       "album": {
+        "name": "Community Service",
+        "url": "https://open.spotify.com/album/0I5RObKA3W5XHTzoEBh5v3"
+      },
+      "artists": [
+        {
+          "name": "PS Hitsquad",
+          "url": "https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc"
+        },
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174320,
+      "name": "Rah",
+      "url": "https://open.spotify.com/track/7qC86Z9uvPyDiTlO8Kubd3"
+    },
+    {
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/6r5hTnWswsrvSdhB6uTJEn"
       },
@@ -22526,7 +22650,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 195735,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/7vNpYNJCqBgPA85xylPIsK"
@@ -23714,7 +23838,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 189322,
       "name": "Skeem Set",
       "url": "https://open.spotify.com/track/0CrZGWJgOdWYDXxuM48gCe"
@@ -24362,6 +24486,24 @@
       "duration_ms": 180000,
       "name": "South",
       "url": "https://open.spotify.com/track/0pPkAoyVe0hq69OyUGikzP"
+    },
+    {
+      "album": {
+        "name": "Spaceships",
+        "url": "https://open.spotify.com/album/7zEdWQZzm0vsMCLa8P7AXB"
+      },
+      "artists": [
+        {
+          "name": "Loski",
+          "url": "https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189405,
+      "name": "Spaceships",
+      "url": "https://open.spotify.com/track/7mHRSNvCAIn6pc4av4L7iQ"
     },
     {
       "album": {
@@ -27284,7 +27426,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 150000,
       "name": "Tuxedo",
       "url": "https://open.spotify.com/track/1vOh6ena822ZsQu4jV6Ltl"

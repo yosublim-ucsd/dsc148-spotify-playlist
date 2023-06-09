@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Haller",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Katha Pauer",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 193086,
       "name": "110 km/h",
       "url": "https://open.spotify.com/track/019qHAL5i793FKmBomt6Py"
+    },
+    {
+      "album": {
+        "name": "f\u00fchl halt mal",
+        "url": "https://open.spotify.com/album/1FgTLbH6Rbd6M4ac5pgHHw"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126589,
+      "name": "16. Etage",
+      "url": "https://open.spotify.com/track/0Au8OwQu8FtlEQAPYoiDVR"
     },
     {
       "album": {
@@ -446,7 +464,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 101106,
       "name": "AUS MEIN KOPF",
       "url": "https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr"
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 174037,
       "name": "Du liegst falsch",
       "url": "https://open.spotify.com/track/3OKQKDJIIBRHvJbfyajUov"
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 127866,
       "name": "Fluch",
       "url": "https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI"
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 212500,
       "name": "Ich Riech Gern An B\u00fcchern",
       "url": "https://open.spotify.com/track/2rUr2JheHPRs9bfDsyF6xk"
@@ -2355,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "Jil Sander Sun",
+        "url": "https://open.spotify.com/album/6CK3LlfNyo5rmkDIBoRUPg"
+      },
+      "artists": [
+        {
+          "name": "Betterov",
+          "url": "https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207414,
+      "name": "Jil Sander Sun",
+      "url": "https://open.spotify.com/track/4IlShOKmFooAGyTkGfZ0gX"
+    },
+    {
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/5pmizTJIFtVWJpb1PkKljc"
       },
@@ -2414,7 +2450,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 142624,
       "name": "Kalte Welt (feat. Henning May)",
       "url": "https://open.spotify.com/track/3py2uVHWLf0OfA2b2XLSnk"
@@ -2472,6 +2508,24 @@
       "duration_ms": 180186,
       "name": "Katharina",
       "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
+    },
+    {
+      "album": {
+        "name": "Kaviar in Dubai",
+        "url": "https://open.spotify.com/album/06nM50CXpNgEMxqYUsXEjO"
+      },
+      "artists": [
+        {
+          "name": "Pannakotta",
+          "url": "https://open.spotify.com/artist/0KZvih5KsKy0qUMUDAEPfD"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191632,
+      "name": "Kaviar in Dubai",
+      "url": "https://open.spotify.com/track/4aDiJIDqubp3vguy9sIEz3"
     },
     {
       "album": {
@@ -3495,6 +3549,24 @@
     },
     {
       "album": {
+        "name": "PRiNZESSiN",
+        "url": "https://open.spotify.com/album/77pzd3wtag6QL9bThafT9L"
+      },
+      "artists": [
+        {
+          "name": "Luzine",
+          "url": "https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154394,
+      "name": "PRiNZESSiN",
+      "url": "https://open.spotify.com/track/0w5qokcBPOrdqefqp3vNQZ"
+    },
+    {
+      "album": {
         "name": "profilbild//NieGeh\u00f6rt",
         "url": "https://open.spotify.com/album/2iZWOTHWm8fcgbCRAPKqg5"
       },
@@ -3842,6 +3914,28 @@
       "duration_ms": 199173,
       "name": "so wie du",
       "url": "https://open.spotify.com/track/2LMr8Uoxt0HC211XmThWAF"
+    },
+    {
+      "album": {
+        "name": "sommernacht",
+        "url": "https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135320,
+      "name": "sommernacht",
+      "url": "https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-694 songs - 1 day 10 hr 51 min
+695 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 | 2022-02-10 | 2022-05-17 |
 | [Cai de vagarinho até embaixo](https://open.spotify.com/track/2p04GXqx4j9sggMTFJpEBa) | [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS), [DJ Braga Oficial](https://open.spotify.com/artist/5icwIVKIEdJwzeHjQ6XYJG) | [Cai de vagarinho até embaixo](https://open.spotify.com/album/0HximOntVcjaDrMQcPxUXq) | 2:13 | 2021-03-27 | 2021-05-06 |
 | [Calma Amiga INTERLUDE](https://open.spotify.com/track/4OEXVeacL0PktT4itDyReM) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 1:09 | 2023-02-10 | 2023-02-12 |
-| [Cama Embrasa](https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Cama Embrasa](https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI) | 2:58 | 2023-06-02 |  |
+| [Cama Embrasa](https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Cama Embrasa](https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI) | 2:58 | 2023-06-02 | 2023-06-09 |
 | [caos / flor \*\*\*](https://open.spotify.com/track/21XUWkizYGllIRpib9Cq6X) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:31 | 2021-07-21 | 2021-07-24 |
 | [Capitão do Povo](https://open.spotify.com/track/6TprH6zDp2oAB4YGtOpWgt) | [Capitão do Povo](https://open.spotify.com/artist/3B3sVt5n7eQ1HBPYh9Wonq) | [Capitão do Povo](https://open.spotify.com/album/2MhCvp4sYqv1QoalR3ONxx) | 2:12 | 2022-10-31 | 2022-11-02 |
 | [Cara da Derrota \- Ao Vivo](https://open.spotify.com/track/2bWVxK5GlPtS4D3FcLjGgQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Goiânia \(Ao Vivo\)](https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT) | 2:41 | 2022-12-17 | 2023-02-11 |
@@ -148,6 +148,7 @@
 | [Chamo Teu Vulgo Malvadão](https://open.spotify.com/track/4mdlehe2znCTAzlFhrOa09) | [mc jhenny](https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6), [DJ KOSTA 22](https://open.spotify.com/artist/5cS7sjRxRrlA7v6uWpEoTb), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Chamo Teu Vulgo Malvadão](https://open.spotify.com/album/1UFSko3MbHV1QOsUQBHQGE) | 1:58 | 2021-07-04 | 2021-08-25 |
 | [Chega E Senta \- Ao Vivo](https://open.spotify.com/track/2ookQf9qP2qiBuNFnNXyfl) | [John Amplificado](https://open.spotify.com/artist/2zjdf1M6DGPcBFnvEYmydy) | [Chega E Senta \(Ao Vivo\)](https://open.spotify.com/album/0eziIhq1gZZXL7sfS5E1aS) | 2:33 | 2021-08-16 | 2021-12-11 |
 | [Cheiro de Balada \- Ao Vivo](https://open.spotify.com/track/2ykYxd8UGHOsdjP3Z5jSHh) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2aeDFXeS2WvKqIfXQyKRGa) | 2:51 | 2022-08-07 | 2022-12-28 |
+| [Chorei na Vaquejada](https://open.spotify.com/track/6xRDvureEBwHgwAYDufbJL) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Som de Paredão](https://open.spotify.com/album/3zkgXeNKtGuhk9yUgihh8z) | 2:37 | 2023-06-08 |  |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-07-30 | 2022-08-01 |
 | [Cidade Inteira](https://open.spotify.com/track/7J3QMuDCSv56jRSiD9jFBF) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Cidade Inteira](https://open.spotify.com/album/2neGOdvdIFmfTaO6zjyCW8) | 3:34 | 2021-03-27\* | 2021-04-21 |
 | [Ciumeira \- Ao Vivo](https://open.spotify.com/track/7D5F5BzIon5zhzQrOU2pdN) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 3:10 | 2021-11-08 | 2021-11-12 |

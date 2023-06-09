@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: NIKO NIKO TAN TAN
 
-883 songs - 2 day 6 hr 33 min
+884 songs - 2 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [DubStory](https://open.spotify.com/track/7rnbYYEaz20FaXfpzUHkqq) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [TOKYO OLD SCHOOL](https://open.spotify.com/album/6MnBxETQ3RwIKPvqpU5ssb) | 4:30 | 2023-02-21 | 2023-03-29 |
 | [D・T・F](https://open.spotify.com/track/061MFvSxejBkapUzNkOEia) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [D・T・F](https://open.spotify.com/album/2euKaGrPxK3Y1T2g8Ws3t1) | 3:31 | 2022-04-27 | 2022-06-15 |
 | [Eadgb](https://open.spotify.com/track/3Xzc2XEAocSqgmYwOHWMYe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:34 | 2023-04-06 | 2023-05-31 |
-| [EDEN](https://open.spotify.com/track/4jRREEnEK7gta1bdJsYyDD) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [EDEN](https://open.spotify.com/album/53wQpWZuveMWCC8woe9rmO) | 3:39 | 2023-04-04 |  |
+| [EDEN](https://open.spotify.com/track/4jRREEnEK7gta1bdJsYyDD) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [EDEN](https://open.spotify.com/album/53wQpWZuveMWCC8woe9rmO) | 3:39 | 2023-04-04 | 2023-06-09 |
 | [Eien No Shonen](https://open.spotify.com/track/7kqwsjBG0cdUsCjIzo28jP) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Eien No Shonen](https://open.spotify.com/album/6xUc4STKf3dg4GY4h14vYu) | 4:03 | 2022-12-31 | 2023-01-04 |
 | [Eien No Shonen](https://open.spotify.com/track/5uvPrkePnmZytwqYMnbLWo) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 4:08 | 2023-01-03 | 2023-01-13 |
 | [enemy](https://open.spotify.com/track/1qCnJZRn6iAXbWOCfiFhak) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [enemy](https://open.spotify.com/album/4qRXeEzlFMUJozSzXGCDX4) | 3:46 | 2022-12-20 | 2023-02-22 |
@@ -250,7 +250,7 @@
 | [Kokoro](https://open.spotify.com/track/5oGi5k0lEGM5Akm8zyBfJ2) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Kokoro](https://open.spotify.com/album/0SCTqTl7d70z4t0Fgrjyw6) | 4:41 | 2022-09-08 | 2022-10-12 |
 | [Konasu](https://open.spotify.com/track/3Y20L4awtBhLLYYINVxEjl) | [Kibayashi](https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws) | [Konasu](https://open.spotify.com/album/7pDXspq2BUAehCgmLadAUX) | 3:46 | 2022-10-18 | 2022-11-16 |
 | [KUSENINARU](https://open.spotify.com/track/0PqYyAaYsokYAhZDdf9B7M) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [KUSENINARU](https://open.spotify.com/album/0qlxMNfpJFDbWnPBsxuxuI) | 3:26 | 2022-12-22 | 2023-01-13 |
-| [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-03-14 |  |
+| [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-03-14 | 2023-06-09 |
 | [Ladder Lottery](https://open.spotify.com/track/5RlDY900FPy0SPd77PCxhP) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Ladder Lottery](https://open.spotify.com/album/6JvkDaCryLnjhr79T2fP6U) | 3:31 | 2022-12-06 | 2023-01-13 |
 | [landmark](https://open.spotify.com/track/62tLXNKaqiikAuHZLX0Nlz) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [landmark](https://open.spotify.com/album/17CIPmeFbsVxWX48vMFhdQ) | 4:57 | 2022-04-19 | 2022-05-25 |
 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 | 2022-09-08 | 2022-10-28 |
@@ -479,7 +479,7 @@
 | [true to true](https://open.spotify.com/track/1mbk4FTeAZ5OfEM2ISWf3n) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [true to true](https://open.spotify.com/album/2pQASrevvjkllTgYeAVSG2) | 3:02 | 2022-06-14 | 2022-08-05 |
 | [Try it](https://open.spotify.com/track/6uiJDc0yjQ9hBVIpQ0ZZw2) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Try it](https://open.spotify.com/album/3acGxNAVqRP0UCLT0rQpuR) | 3:41 | 2023-02-01 | 2023-02-22 |
 | [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 | 2023-02-01 | 2023-02-22 |
-| [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-01-31 | 2023-03-15 |
+| [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-01-31 |  |
 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 | 2023-05-02 |  |
 | [Twerk](https://open.spotify.com/track/1t1aGqZkoJzfVGez7vxHxk) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Twerk](https://open.spotify.com/album/79XEt2UODb6oAWgh9sGmnI) | 2:28 | 2022-07-12 | 2023-02-02 |
 | [U](https://open.spotify.com/track/729FKEauTfVhvHOspPcJUX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [U](https://open.spotify.com/album/3XBZh0UYt02nctSy4tsKU3) | 2:57 | 2022-02-17 | 2022-03-23 |
@@ -692,6 +692,7 @@
 | [ワンルーム](https://open.spotify.com/track/1IZjP9p8OvqJ6Niar0KIEK) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 5:35 | 2022-07-26 | 2022-08-03 |
 | [一弦](https://open.spotify.com/track/05uQEjzJxKTpGXbB0el7lX) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [oidaki](https://open.spotify.com/album/5ruTjVEuHfYAsVcV53GIU9) | 3:34 | 2023-02-21 | 2023-04-09 |
 | [一筋差す](https://open.spotify.com/track/3nUxOIrdcQ63xKVg0PpXzn) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [一筋差す](https://open.spotify.com/album/1GxaPl9ZoBUyicgM43GUUm) | 3:05 | 2022-12-31 | 2023-01-13 |
+| [七等星](https://open.spotify.com/track/6Hhm0xkX1GWjKOzsLoPoso) | [米澤森人](https://open.spotify.com/artist/1Qe02gmlgbCvJsKM1CRqLU) | [七等星](https://open.spotify.com/album/11xHFA2zWuSRbdsfnCspDH) | 3:32 | 2023-06-08 |  |
 | [世田谷代田](https://open.spotify.com/track/27B6088aPHsSSEyQ7wMcZ8) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [世田谷代田](https://open.spotify.com/album/5hRvRnJcXZkJsV5yA8xE7V) | 4:46 | 2022-03-22 | 2022-05-11 |
 | [世界が僕を嫌いになっても \(2023 ver.\)](https://open.spotify.com/track/4PrieVZcLYKhv90hNGt9i9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [世界が僕を嫌いになっても \(2023 ver.\)](https://open.spotify.com/album/0vbubUchyOq3wbOG0MZIQK) | 4:32 | 2023-04-27 | 2023-04-29 |
 | [世間の歩き方 \-The Guide to Life in Public\-](https://open.spotify.com/track/1GWnxsoRijVWpxRCgD4OBj) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [世間の歩き方 \-The Guide to Life in Public\-](https://open.spotify.com/album/2Izrvd9XdffSNVZCnJaHdi) | 3:38 | 2022-02-17 | 2022-03-02 |

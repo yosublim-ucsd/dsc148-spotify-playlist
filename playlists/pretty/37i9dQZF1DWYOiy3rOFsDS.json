@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
-  "num_followers": 524478,
+  "num_followers": 524534,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGExNjA3ZDQ2MWFiZWU5ZjU4OTA1OTQ1M2IxMWI3M2I5YThiYThj",
+  "snapshot_id": "MCwwMGEyNTliMzdkMmQ5MzU0N2QzNWYyOWQ5Nzk5NDJlZTAwMzNjMDg4",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -187,18 +187,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Asondeguerra",
-        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Elisabeth Roma",
+          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
         }
       ],
-      "duration_ms": 188373,
-      "name": "Mi Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/5fF0fb0VFihGDHFshDLi2Z"
+      "duration_ms": 297664,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -219,22 +223,18 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
+        "name": "Asondeguerra",
+        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
       },
       "artists": [
         {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        },
-        {
-          "name": "Elisabeth Roma",
-          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 297664,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
+      "duration_ms": 188373,
+      "name": "Mi Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/5fF0fb0VFihGDHFshDLi2Z"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "A Que No Me Dejas",
-        "url": "https://open.spotify.com/album/1RBxYmkmyQrYUZ84ifjotd"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 321323,
-      "name": "A Que No Me Dejas",
-      "url": "https://open.spotify.com/track/4s5D7IM9z6xDVwOg9r8Hqp"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 183026,
       "name": "Amor de Cabaret (with R\u00edo Roma)",
       "url": "https://open.spotify.com/track/5JeyXbf7CrVQ8DqwFikN0P"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "A Que No Me Dejas",
+        "url": "https://open.spotify.com/album/1RBxYmkmyQrYUZ84ifjotd"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 321323,
+      "name": "A Que No Me Dejas",
+      "url": "https://open.spotify.com/track/4s5D7IM9z6xDVwOg9r8Hqp"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
-        "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 170518,
-      "name": "Noche No Te Vayas",
-      "url": "https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Tu Amor No Vale un Bolero",
         "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 206710,
       "name": "Tu Amor No Vale un Bolero",
       "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
+        "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "duration_ms": 170518,
+      "name": "Noche No Te Vayas",
+      "url": "https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "AMA",
         "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 181090,
       "name": "Mu\u00f1equita Linda",
       "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2023-03-17 06:00:00",

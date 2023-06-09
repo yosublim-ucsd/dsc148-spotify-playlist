@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. Cover: Ado",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. Cover: YOASOBI",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 285692,
       "name": "CANDY CANDY - Moe Shop Remix",
       "url": "https://open.spotify.com/track/28d5jK6lX3Mipdta6dQWjJ"
@@ -385,6 +385,32 @@
     },
     {
       "album": {
+        "name": "Galnia",
+        "url": "https://open.spotify.com/album/6WHM2nvsIWkeW7tMnsPoPw"
+      },
+      "artists": [
+        {
+          "name": "Haruko Tajima",
+          "url": "https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2"
+        },
+        {
+          "name": "Marukido",
+          "url": "https://open.spotify.com/artist/2TGGk4cLMH1vGMAktQBhZT"
+        },
+        {
+          "name": "valknee",
+          "url": "https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307764,
+      "name": "Galnia",
+      "url": "https://open.spotify.com/track/3eM90CEzFz0LqRoQI6IVMr"
+    },
+    {
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/4cY8JBsitqaJxGjIIu7eVQ"
       },
@@ -400,7 +426,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 147069,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/3ysqNFNj4Qhyu8cwKD7pV0"
@@ -658,7 +684,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 213666,
       "name": "Line of sight",
       "url": "https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw"
@@ -698,7 +724,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 125500,
       "name": "Love You!!!!!!",
       "url": "https://open.spotify.com/track/0yBv5KMvxpcb9H3LXhWfJP"
@@ -782,6 +808,32 @@
       "duration_ms": 237354,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/73SsGfqjQv6oUxDaC9w8es"
+    },
+    {
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7gdAMtRYRjZsylJXBaH6Xf"
+      },
+      "artists": [
+        {
+          "name": "Mall Boyz",
+          "url": "https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp"
+        },
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        },
+        {
+          "name": "gummyboy",
+          "url": "https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191334,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5Qvh1GFlIL2qSmZ7Yj4br6"
     },
     {
       "album": {
@@ -1510,7 +1562,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 182082,
       "name": "\u308f\u305f\u3057\u3001\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/082cQcc5Hg01f2vcH8ceTV"
@@ -1550,6 +1602,24 @@
       "duration_ms": 190493,
       "name": "\u30b7\u30eb\u30fb\u30f4\u30fb\u30d7\u30ec\u30b8\u30c7\u30f3\u30c8",
       "url": "https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m"
+    },
+    {
+      "album": {
+        "name": "Ghost Pop",
+        "url": "https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148521,
+      "name": "\u30c0\u30fc\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/1dRZX4cj6zGKKylcAydIG1"
     },
     {
       "album": {
@@ -1604,6 +1674,24 @@
       "duration_ms": 149226,
       "name": "\u30ed\u30de\u30f3\u30b9\u5ba3\u8a00",
       "url": "https://open.spotify.com/track/7ph7HRUsxYcKLRFTaYCQYQ"
+    },
+    {
+      "album": {
+        "name": "Gallery",
+        "url": "https://open.spotify.com/album/5hLfzMZGHXrYAHA9UTxi1U"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251353,
+      "name": "\u51e1\u4eba\u69d8",
+      "url": "https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je"
     },
     {
       "album": {
@@ -1760,7 +1848,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 253066,
       "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
       "url": "https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa"
@@ -1804,6 +1892,42 @@
       "duration_ms": 218017,
       "name": "\u821e\u53f0\u306e\u4e0a\u3067",
       "url": "https://open.spotify.com/track/51SCBTWn7HbmBRPRHNB8Re"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u4e00\u5301",
+        "url": "https://open.spotify.com/album/5nDlxSLsbMzLKGScoh3Yc5"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250613,
+      "name": "\u82b1\u4e00\u5301",
+      "url": "https://open.spotify.com/track/6yS6Q8iSiXqvqfjfJ67RRg"
+    },
+    {
+      "album": {
+        "name": "\u3059\u308b\u3069\u3044\u3055\u3055\u304f\u308c",
+        "url": "https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234117,
+      "name": "\u8cb4\u65b9\u306e\u604b\u4eba\u306b\u306a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-252 songs - 20 hr 27 min
+253 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [The Barren Burren](https://open.spotify.com/track/0Pbb9QkJ6eiO8p73l88A72) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW), [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [The Barren Burren / Resurrect Inside](https://open.spotify.com/album/14RYGdSs40FdXpmyljQgE8) | 8:04 | 2023-05-19 | 2023-06-06 |
 | [The Revenant Main Theme \(Alva Noto Remodel\)](https://open.spotify.com/track/1gAMCezhYq7VO20SzaGdcZ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 2:56 | 2023-05-19 | 2023-06-06 |
 | [The Signals From the Abyss](https://open.spotify.com/track/1BtGXDNmvkFfC5W8rU2od2) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/5lb8k3A7i5h38XOLRJDWk1) | 7:48 | 2022-07-08 | 2022-07-29 |
-| [The Signals From the Abyss](https://open.spotify.com/track/6yJWaFqw7Umwe3LYpMjgyh) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/2b2NKMGXqjTtRkHQVXjkBS) | 7:48 | 2023-03-16 |  |
+| [The Signals From the Abyss](https://open.spotify.com/track/6yJWaFqw7Umwe3LYpMjgyh) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/2b2NKMGXqjTtRkHQVXjkBS) | 7:48 | 2023-03-16 | 2023-06-09 |
 | [Then](https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Then](https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc) | 3:27 | 2022-09-12 |  |
 | [They Being Dead Yet Speaketh \- Pt.3 \- From „The Miners’ Hymns” Soundtrack](https://open.spotify.com/track/0EVfcXz7EgfOHjniBA8nqy) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Miners’ Hymns \(Original Soundtrack\)](https://open.spotify.com/album/02mbXjMS4qDuZjPXKOLNTA) | 3:44 | 2022-03-17 | 2022-05-31 |
 | [This Is What I Wanted to Tell You \- Group Listening Remix](https://open.spotify.com/track/2CtX0WqmREcZvi09m9awBx) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78), [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [Basement Tapes](https://open.spotify.com/album/0mVdQU5dMnhqxwdlMDoOGc) | 8:54 | 2022-03-30 | 2022-04-21 |
@@ -253,6 +253,7 @@
 | [where thoughts fade](https://open.spotify.com/track/7zEnnB85gJjC2ZRjTRkXlH) | [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [night songs](https://open.spotify.com/album/4HgM0Ms4FM24xEEpgZDWSO) | 6:06 | 2022-08-17 |  |
 | [Wild Violet](https://open.spotify.com/track/3BjmShZfoFt4INhXp9a7Xk) | [Ilyas Ahmed](https://open.spotify.com/artist/0GQ41PAPwwmrEv0DJzpTI3) | [Behold Killers](https://open.spotify.com/album/5CCHGN6Hr0YvYWo2l0JyXI) | 8:56 | 2022-03-30 | 2022-04-21 |
 | [winter fingertips](https://open.spotify.com/track/6gJAiEEQ21ayJHERPL0qYJ) | [monosleep](https://open.spotify.com/artist/2rHHKIugCALDXcAaYryNCt) | [a world of possibility](https://open.spotify.com/album/6w6EdQV1km9T25x209Q4sx) | 6:32 | 2022-06-17 |  |
+| [Wish](https://open.spotify.com/track/3ONVbdiqc73LTVnLQhfQPj) | [Ben Bondy](https://open.spotify.com/artist/7iWASaTHnteWNmrXH3IDCg) | [Ben Bondy](https://open.spotify.com/album/6Lnw0MWwRAmOQ0rbaF9npw) | 4:19 | 2023-06-05 |  |
 | [wistful](https://open.spotify.com/track/3MRsE4kOIhk4FNTTwu3X6w) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [wistful](https://open.spotify.com/album/0CIzRlVNXg18ThmbWglFtu) | 2:37 | 2022-11-11 | 2023-01-21 |
 | [XI](https://open.spotify.com/track/6XjpafgvNltjXJzvnPIauV) | [Hiroshi Ebina](https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx), [IDRA](https://open.spotify.com/artist/2hESzaxeYE9Iecec5TwYCH) | [Circle](https://open.spotify.com/album/5KMGm1fqywv05tCAJKjWwe) | 4:27 | 2022-07-08 |  |
 | [Zero Gravity](https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX) | [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Zero Gravity](https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox) | 2:39 | 2022-05-06 |  |

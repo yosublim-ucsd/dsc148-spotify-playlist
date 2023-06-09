@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: أميمة طالب
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,027 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,059 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,18 +18,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 8 | [Shof Galbi](https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK) | [Eman AlShmety](https://open.spotify.com/artist/6m0P4htB7F19GZ2VYlpofd) | [Shof Galbi](https://open.spotify.com/album/0bL0jJFjvRneRInaGQDVkf) | 3:49 |
 | 9 | [Entebhlek](https://open.spotify.com/track/19xth9Xqzirpot7cy1nWfZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Entebhlek](https://open.spotify.com/album/5kxIt7TKG05RmoD5815UfQ) | 3:59 |
 | 10 | [Ana Lak](https://open.spotify.com/track/0Ko4fZhRKlgdbBrEx5tsqR) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Ana Lak](https://open.spotify.com/album/74HJ9ReJsCKeYEbc3Nl24b) | 3:35 |
-| 11 | [عشق سيده](https://open.spotify.com/track/2mPhU96WHlnj19ADPxAq63) | [عبدالله مبارك](https://open.spotify.com/artist/4n96Q1BZ2AAOwob61UfgWx), [شيخة العسلاوي](https://open.spotify.com/artist/70sogpOUuPnVGPGPA9m6gY), [محمد شايع](https://open.spotify.com/artist/6DtYDF0YfObTa33SQYi7Re) | [عشق سيده](https://open.spotify.com/album/4t2lgjxCV5Ep8kwCdGPpF4) | 3:32 |
-| 12 | [Sadmat Omri](https://open.spotify.com/track/6XztCmGblAwpXwD4lJMKKi) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:02 |
-| 13 | [الا قلبي](https://open.spotify.com/track/5D8y7if4bfLuBDoJgnDhH8) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الا قلبي](https://open.spotify.com/album/4BuPfZI61xaTcTFgvKv9Ox) | 4:12 |
-| 14 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 |
-| 15 | [أحبك قالها](https://open.spotify.com/track/77w1p4dEGzUhxiR0k10Bbx) | [ناصر الكبيسي](https://open.spotify.com/artist/3UAqsB8c3Qibe5O7UqHQko) | [أحبك قالها](https://open.spotify.com/album/7sWEgexaoBAQJsssQYnb0I) | 5:10 |
-| 16 | [مكانك](https://open.spotify.com/track/3QLwspqylF5pypDsi63F8r) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [مكانك](https://open.spotify.com/album/6shrlkAp819uLJ9WNXT2DN) | 3:48 |
-| 17 | [Hawah Al Galb](https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hawah Al Galb](https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT) | 3:16 |
-| 18 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 |
-| 19 | [ما عرفتك](https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ما عرفتك](https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7) | 5:39 |
-| 20 | [Sha'a Rabi](https://open.spotify.com/track/3xHc0sVjmX3wELp4Gl2bQf) | [Fahad El Salem](https://open.spotify.com/artist/4qVn0gcHkdthKF07tD8F7D), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Sha'a Rabi](https://open.spotify.com/album/4DwOVSEePfdMFjAiyXyghG) | 4:26 |
-| 21 | [Ya Sokar Eldonia](https://open.spotify.com/track/0NKILlxphoywpUSzHMNKst) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Sokar Eldonia](https://open.spotify.com/album/2KBT9b6WRIiz5d2ETHk77b) | 4:35 |
-| 22 | [Sowbna](https://open.spotify.com/track/1d1CzLZnMfRnCiNXSyslBz) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sowbna](https://open.spotify.com/album/7hP48MdXp4xUdsI201ZGiY) | 3:22 |
+| 11 | [Ana A7tereg](https://open.spotify.com/track/3NzkzuF7YhWevZKf0rvwk8) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ana A7tereg](https://open.spotify.com/album/1J5aVon8xDBJyOHPZU3n13) | 4:31 |
+| 12 | [عشق سيده](https://open.spotify.com/track/2mPhU96WHlnj19ADPxAq63) | [عبدالله مبارك](https://open.spotify.com/artist/4n96Q1BZ2AAOwob61UfgWx), [شيخة العسلاوي](https://open.spotify.com/artist/70sogpOUuPnVGPGPA9m6gY), [محمد شايع](https://open.spotify.com/artist/6DtYDF0YfObTa33SQYi7Re) | [عشق سيده](https://open.spotify.com/album/4t2lgjxCV5Ep8kwCdGPpF4) | 3:32 |
+| 13 | [Sadmat Omri](https://open.spotify.com/track/6XztCmGblAwpXwD4lJMKKi) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:02 |
+| 14 | [الا قلبي](https://open.spotify.com/track/5D8y7if4bfLuBDoJgnDhH8) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الا قلبي](https://open.spotify.com/album/4BuPfZI61xaTcTFgvKv9Ox) | 4:12 |
+| 15 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 |
+| 16 | [أحبك قالها](https://open.spotify.com/track/77w1p4dEGzUhxiR0k10Bbx) | [ناصر الكبيسي](https://open.spotify.com/artist/3UAqsB8c3Qibe5O7UqHQko) | [أحبك قالها](https://open.spotify.com/album/7sWEgexaoBAQJsssQYnb0I) | 5:10 |
+| 17 | [مكانك](https://open.spotify.com/track/3QLwspqylF5pypDsi63F8r) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [مكانك](https://open.spotify.com/album/6shrlkAp819uLJ9WNXT2DN) | 3:48 |
+| 18 | [Hawah Al Galb](https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hawah Al Galb](https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT) | 3:16 |
+| 19 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 |
+| 20 | [ما عرفتك](https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ما عرفتك](https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7) | 5:39 |
+| 21 | [Sha'a Rabi](https://open.spotify.com/track/3xHc0sVjmX3wELp4Gl2bQf) | [Fahad El Salem](https://open.spotify.com/artist/4qVn0gcHkdthKF07tD8F7D), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Sha'a Rabi](https://open.spotify.com/album/4DwOVSEePfdMFjAiyXyghG) | 4:26 |
+| 22 | [Ya Sokar Eldonia](https://open.spotify.com/track/0NKILlxphoywpUSzHMNKst) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Sokar Eldonia](https://open.spotify.com/album/2KBT9b6WRIiz5d2ETHk77b) | 4:35 |
 | 23 | [معكازي](https://open.spotify.com/track/68vRWVHLdGaKFI5SYcDVVa) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣](https://open.spotify.com/album/5sBNL3QLKoRAJ88mgVppqZ) | 4:57 |
 | 24 | [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 |
 | 25 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [يا طير \(feat\. Daffy\)](https://open.spotify.com/track/0sq1pHRicXP7CyuDg9N9lo) | [Bashar AlShatti](https://open.spotify.com/artist/6fqcvzx5yorkIOK2HwL9hU), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [يا طير \(feat\. Daffy\)](https://open.spotify.com/album/3wSmueX8VqBpdriZXGLgqP) | 3:25 |
 | 50 | [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 |
 
-Snapshot ID: `MCw4YWYzZmQyOGZiYTliYjgzMTg3YTlkNTZjNzExNGYzMTRkMzVjZmI4`
+Snapshot ID: `MCwzZjY3MmM2ODY2NjZhODE2ZmUxOTYzMjI0MzQwYWFkMzFhMmVlYTRl`

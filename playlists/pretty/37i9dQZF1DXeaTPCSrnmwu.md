@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,813 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,830 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 47 | [Señor Danzon](https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ) | [Guy Barker](https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG), [Bernardo Sassetti](https://open.spotify.com/artist/7zRQh7uzMB0kDd1VwJNsUf) | [Cuba Cuba](https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX) | 3:28 |
 | 48 | [Y Se Enamoró La Luna](https://open.spotify.com/track/1L1622NXu08mj8wNhuMoDW) | [Sergio Monroy](https://open.spotify.com/artist/0d5ZCkfHIwK6lWcSjvOO4f) | [Como Un Juego](https://open.spotify.com/album/1D5XMlM3oXIkuTnA5aWjEF) | 4:39 |
 | 49 | [Acercate Mas\-Nosotros](https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:08 |
-| 50 | [History Repeats Itself](https://open.spotify.com/track/4hP9yHCx4TLnDZu8nEszUO) | [Jose Carcavelos](https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H) | [History Repeats Itself](https://open.spotify.com/album/0avdV4IQXLLuRcNthYZXeV) | 1:54 |
+| 50 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 |
 
-Snapshot ID: `MCw1M2ZmMTU3NWYyZmQzMTc1MjY0MTViYzVmMzAwNWZkYTE0ZTE5ZDBk`
+Snapshot ID: `MCw3OGZhNTZhM2Y2NDcyNTM3MTg5ZjRjNmYyYmY3YTJlMzlmZjQ1ZmM3`

@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 63088,
+  "num_followers": 63102,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWUxMDFjNjA4ZTgzYzA2MGI5YjQ4ODVjNTNlYjNkMzNhOGQ2YTFk",
+  "snapshot_id": "MCwwYzdmY2MwYTVlNjYzMDUyZjJhYWRjZDM1ZTNmZTYxZGExODJmN2Ew",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
     },
     {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+    },
+    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Tim Maia 1973",
@@ -809,20 +825,24 @@
       "url": "https://open.spotify.com/track/6eDMElxeeKXs4DHTb0dGP0"
     },
     {
-      "added_at": "2022-06-07 14:45:28",
+      "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Trem-Bala",
-        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
       "artists": [
         {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 180319,
-      "name": "Trem-Bala",
-      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+      "duration_ms": 233544,
+      "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -847,26 +867,6 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Elis & Tom",
-        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 233544,
-      "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -965,20 +965,20 @@
       "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
     },
     {
-      "added_at": "2022-06-07 14:45:28",
+      "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Ao vivo",
-        "url": "https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA"
+        "name": "Tim Maia 1971",
+        "url": "https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A"
       },
       "artists": [
         {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 323373,
-      "name": "Do fundo do nosso quintal - Ao vivo",
-      "url": "https://open.spotify.com/track/2ypG5kEdrAHSOVXhSkJfxe"
+      "duration_ms": 244178,
+      "name": "Voc\u00ea",
+      "url": "https://open.spotify.com/track/5c12DVTlsyFbxmysLw0Vll"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -997,20 +997,20 @@
       "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
+      "added_at": "2022-06-07 14:45:28",
       "album": {
-        "name": "Tim Maia 1971",
-        "url": "https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A"
+        "name": "Ao vivo",
+        "url": "https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
         }
       ],
-      "duration_ms": 244178,
-      "name": "Voc\u00ea",
-      "url": "https://open.spotify.com/track/5c12DVTlsyFbxmysLw0Vll"
+      "duration_ms": 323373,
+      "name": "Do fundo do nosso quintal - Ao vivo",
+      "url": "https://open.spotify.com/track/2ypG5kEdrAHSOVXhSkJfxe"
     },
     {
       "added_at": "2021-08-18 22:14:03",

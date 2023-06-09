@@ -1,31 +1,15 @@
 {
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Aaron",
-  "num_followers": 384359,
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Olly",
+  "num_followers": 384363,
   "original_name": "GENERAZIONE Z",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjRlN2Q2OTU2MWY3YTFjOWJhZmNmOWI1NDJjY2E5ODI1M2JlM2I2",
+  "snapshot_id": "MCxlYThmMTYwNmM3YmNlNDljMDVkMWY5NWQ3MWJlYTMxOGI1NWY0YTcy",
   "tracks": [
     {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Anni 70",
-        "url": "https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE"
-      },
-      "artists": [
-        {
-          "name": "wax",
-          "url": "https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS"
-        }
-      ],
-      "duration_ms": 147619,
-      "name": "Anni 70",
-      "url": "https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Ci pensiamo domani",
         "url": "https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf"
@@ -41,26 +25,26 @@
       "url": "https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Universale",
-        "url": "https://open.spotify.com/album/7jg6xJn7nWX7ewwruRG8sj"
+        "name": "Anni 70",
+        "url": "https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE"
       },
       "artists": [
         {
-          "name": "Aaron",
-          "url": "https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0"
+          "name": "wax",
+          "url": "https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS"
         }
       ],
-      "duration_ms": 211386,
-      "name": "Bianco luna",
-      "url": "https://open.spotify.com/track/2e50IuXTFJQNupiDZSD8Ge"
+      "duration_ms": 147619,
+      "name": "Anni 70",
+      "url": "https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "La Notte Vola - RMX (feat. Lorella Cuccarini)",
-        "url": "https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA"
+        "name": "Tutto con te",
+        "url": "https://open.spotify.com/album/1kcuGFGOcoGsWi2GUTdwFJ"
       },
       "artists": [
         {
@@ -70,18 +54,14 @@
         {
           "name": "JVLI",
           "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
-        },
-        {
-          "name": "Lorella Cuccarini",
-          "url": "https://open.spotify.com/artist/6vwWMr71jvuVrDQu92Li7U"
         }
       ],
-      "duration_ms": 142714,
-      "name": "La Notte Vola - RMX (feat. Lorella Cuccarini)",
-      "url": "https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv"
+      "duration_ms": 158400,
+      "name": "Tutto con te",
+      "url": "https://open.spotify.com/track/7CPbIZIGKE8tPLUuLMVujK"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "bellissimissima <3",
         "url": "https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns"
@@ -97,59 +77,7 @@
       "url": "https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Tulipani Blu",
-        "url": "https://open.spotify.com/album/5szcJT2NHzGev98dSKMLpN"
-      },
-      "artists": [
-        {
-          "name": "Matteo Romano",
-          "url": "https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b"
-        },
-        {
-          "name": "Luigi Strangis",
-          "url": "https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "Tulipani Blu",
-      "url": "https://open.spotify.com/track/5zBrVEBLgFYJAT63YoxFuO"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Innamorato",
-      "url": "https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "UN'ALTRA ORA",
-        "url": "https://open.spotify.com/album/3iT5RWQ1wA7nQEDtD3kILJ"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "UN'ALTRA ORA",
-      "url": "https://open.spotify.com/track/6mikeU6YbM7bmvxtICEcrM"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "TANGO",
         "url": "https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs"
@@ -165,159 +93,7 @@
       "url": "https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "wax",
-        "url": "https://open.spotify.com/album/6K5XgWDGcyt0GlCDiS5zDs"
-      },
-      "artists": [
-        {
-          "name": "wax",
-          "url": "https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS"
-        }
-      ],
-      "duration_ms": 153071,
-      "name": "Storie",
-      "url": "https://open.spotify.com/track/5TscVUsNQOV4TCOKbht9zu"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Altamente Mia",
-        "url": "https://open.spotify.com/album/2DsrAMSZE08IvsVnluai0A"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
-        }
-      ],
-      "duration_ms": 172718,
-      "name": "Altamente Mia",
-      "url": "https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "a Testa in gi\u00f9",
-        "url": "https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J"
-      },
-      "artists": [
-        {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
-        }
-      ],
-      "duration_ms": 166346,
-      "name": "a Testa in gi\u00f9",
-      "url": "https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "CHIAMO",
-        "url": "https://open.spotify.com/album/4Kfp3DudUiFoQamrhT4c44"
-      },
-      "artists": [
-        {
-          "name": "Lortex",
-          "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
-        }
-      ],
-      "duration_ms": 156850,
-      "name": "LEI \u00c8",
-      "url": "https://open.spotify.com/track/1WMq8hzihEHUzXbvHqNWVt"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Voglia di vivere",
-        "url": "https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 184757,
-      "name": "Mani vuote",
-      "url": "https://open.spotify.com/track/7y5x72eyuqYwXWk3VHjqhj"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Cos\u00ec Come Sei",
-        "url": "https://open.spotify.com/album/6a4FSCfn5xOXi2TSTH03DR"
-      },
-      "artists": [
-        {
-          "name": "Albe",
-          "url": "https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Cos\u00ec Come Sei",
-      "url": "https://open.spotify.com/track/39refPH7JbYZZZ1NrBEa0f"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Roma",
-        "url": "https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI"
-      },
-      "artists": [
-        {
-          "name": "Il Tre",
-          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
-        }
-      ],
-      "duration_ms": 150130,
-      "name": "Roma",
-      "url": "https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Polvere",
-        "url": "https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM"
-      },
-      "artists": [
-        {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "JVLI",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
-        }
-      ],
-      "duration_ms": 166791,
-      "name": "Polvere",
-      "url": "https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Mi prender\u00f2 cura di te",
-        "url": "https://open.spotify.com/album/6xuSbljTKxMckE902CiYdO"
-      },
-      "artists": [
-        {
-          "name": "Aaron",
-          "url": "https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mi prender\u00f2 cura di te",
-      "url": "https://open.spotify.com/track/69lNcHEZlBjYEZ2N4kI3QU"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "ORIGAMI ALL'ALBA",
         "url": "https://open.spotify.com/album/282p191UnQOp3i5NREMfYL"
@@ -341,7 +117,547 @@
       "url": "https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Innamorato",
+      "url": "https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "UN'ALTRA ORA",
+        "url": "https://open.spotify.com/album/3iT5RWQ1wA7nQEDtD3kILJ"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "UN'ALTRA ORA",
+      "url": "https://open.spotify.com/track/6mikeU6YbM7bmvxtICEcrM"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "ARANCIATA",
+        "url": "https://open.spotify.com/album/0I9Kc8iR7JAf52TITuMyhK"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "ARANCIATA",
+      "url": "https://open.spotify.com/track/4X24I8ugXKgRgdtC9LzmlP"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Altamente Mia",
+        "url": "https://open.spotify.com/album/2DsrAMSZE08IvsVnluai0A"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "duration_ms": 172718,
+      "name": "Altamente Mia",
+      "url": "https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Cos\u00ec Come Sei",
+        "url": "https://open.spotify.com/album/6a4FSCfn5xOXi2TSTH03DR"
+      },
+      "artists": [
+        {
+          "name": "Albe",
+          "url": "https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Cos\u00ec Come Sei",
+      "url": "https://open.spotify.com/track/39refPH7JbYZZZ1NrBEa0f"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Tulipani Blu",
+        "url": "https://open.spotify.com/album/5szcJT2NHzGev98dSKMLpN"
+      },
+      "artists": [
+        {
+          "name": "Matteo Romano",
+          "url": "https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b"
+        },
+        {
+          "name": "Luigi Strangis",
+          "url": "https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "Tulipani Blu",
+      "url": "https://open.spotify.com/track/5zBrVEBLgFYJAT63YoxFuO"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Polvere",
+        "url": "https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "duration_ms": 166791,
+      "name": "Polvere",
+      "url": "https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/0QwnfupfwKZFlsPY7dYqqM"
+      },
+      "artists": [
+        {
+          "name": "Aka 7even",
+          "url": "https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc"
+        }
+      ],
+      "duration_ms": 153195,
+      "name": "Rock N Roll",
+      "url": "https://open.spotify.com/track/3iIFvER6NUxnJc9Zv5BhsN"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Santana Season",
+        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 183321,
+      "name": "Arsenico",
+      "url": "https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI"
+      },
+      "artists": [
+        {
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
+        }
+      ],
+      "duration_ms": 150130,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Balla (come la domenica)",
+        "url": "https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z"
+      },
+      "artists": [
+        {
+          "name": "Deddy",
+          "url": "https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR"
+        },
+        {
+          "name": "Paps'n'Skar",
+          "url": "https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV"
+        }
+      ],
+      "duration_ms": 166056,
+      "name": "Balla (come la domenica)",
+      "url": "https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Granita",
+        "url": "https://open.spotify.com/album/7wAn4PdtIwEv9dhb78Ywbj"
+      },
+      "artists": [
+        {
+          "name": "LDA",
+          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Granita",
+      "url": "https://open.spotify.com/track/70ZfnDxMxzFlCVdsZgpLSv"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Mi Pensi Ancora",
+        "url": "https://open.spotify.com/album/3WVYb9E0xwiAK6ouuXEw9g"
+      },
+      "artists": [
+        {
+          "name": "Diego Lazzari",
+          "url": "https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH"
+        }
+      ],
+      "duration_ms": 164485,
+      "name": "Mi Pensi Ancora",
+      "url": "https://open.spotify.com/track/7GqoXNz3AIKj48FbUcCABR"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "piumone",
+        "url": "https://open.spotify.com/album/3A46BaAEMjifTPqxKM3FRa"
+      },
+      "artists": [
+        {
+          "name": "Valerio Mazzei",
+          "url": "https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi"
+        }
+      ],
+      "duration_ms": 144760,
+      "name": "piumone",
+      "url": "https://open.spotify.com/track/4NCZEtgd1WgLB5KsV6WMwK"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Niente da perdere",
+        "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 166214,
+      "name": "Niente da perdere",
+      "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "4ever",
+        "url": "https://open.spotify.com/album/3E2Zx1fkrNW15jOFv3xav2"
+      },
+      "artists": [
+        {
+          "name": "Blake el Diablo",
+          "url": "https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL"
+        }
+      ],
+      "duration_ms": 163428,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/3AFk1sRGNVSMQRlGGjKFWH"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Scivola",
+        "url": "https://open.spotify.com/album/2wYSqbGIQePGdEMCcKKufh"
+      },
+      "artists": [
+        {
+          "name": "Federica_",
+          "url": "https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Scivola",
+      "url": "https://open.spotify.com/track/4xWsKYuIZS3Y5wSk7S5HyS"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Pensando a lei",
+        "url": "https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 176245,
+      "name": "Pensando a lei",
+      "url": "https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Ogni Volta Che Ti Penso",
+        "url": "https://open.spotify.com/album/2GSCcTIlSByimd2Q3GVtJ6"
+      },
+      "artists": [
+        {
+          "name": "Ludwig",
+          "url": "https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Ogni Volta Che Ti Penso",
+      "url": "https://open.spotify.com/track/7rOLgYuO5vBxVCWITRTJyP"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Le Cose In Comune",
+        "url": "https://open.spotify.com/album/1tFaJjfjNZCbc81buL2Um0"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "duration_ms": 151624,
+      "name": "Le Cose In Comune",
+      "url": "https://open.spotify.com/track/1rVPV7us0kW0mXBgoNKAYK"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Cicatrice",
+        "url": "https://open.spotify.com/album/7fL67B6qXHYa4rRK1I2lsG"
+      },
+      "artists": [
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "duration_ms": 151260,
+      "name": "Cicatrice",
+      "url": "https://open.spotify.com/track/0epSbGpKaNemoWZaVEjS9S"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "SUPEREROI",
+        "url": "https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "SUPEREROI",
+      "url": "https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/2uneWiq89MM88wczRm3dv9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Green",
+          "url": "https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK"
+        },
+        {
+          "name": "Macs",
+          "url": "https://open.spotify.com/artist/6HVUM2E6gjSKOp5NZbEqau"
+        }
+      ],
+      "duration_ms": 143224,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/54wc6ODYOxQu1ctjPpzuVp"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Voglia di vivere",
+        "url": "https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 184757,
+      "name": "Mani vuote",
+      "url": "https://open.spotify.com/track/7y5x72eyuqYwXWk3VHjqhj"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Mi prender\u00f2 cura di te",
+        "url": "https://open.spotify.com/album/6xuSbljTKxMckE902CiYdO"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mi prender\u00f2 cura di te",
+      "url": "https://open.spotify.com/track/69lNcHEZlBjYEZ2N4kI3QU"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "La Notte Vola - RMX (feat. Lorella Cuccarini)",
+        "url": "https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        },
+        {
+          "name": "Lorella Cuccarini",
+          "url": "https://open.spotify.com/artist/6vwWMr71jvuVrDQu92Li7U"
+        }
+      ],
+      "duration_ms": 142714,
+      "name": "La Notte Vola - RMX (feat. Lorella Cuccarini)",
+      "url": "https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Tutta Roma a piedi",
+        "url": "https://open.spotify.com/album/1f1NfHnvtq8BG1Hb6eFeoA"
+      },
+      "artists": [
+        {
+          "name": "DANDY TURNER",
+          "url": "https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w"
+        }
+      ],
+      "duration_ms": 171112,
+      "name": "Tutta Roma a piedi",
+      "url": "https://open.spotify.com/track/4pcbLkCCVMRkZEo3rMd4SD"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "CHIAMO",
+        "url": "https://open.spotify.com/album/4Kfp3DudUiFoQamrhT4c44"
+      },
+      "artists": [
+        {
+          "name": "Lortex",
+          "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
+        }
+      ],
+      "duration_ms": 156850,
+      "name": "LEI \u00c8",
+      "url": "https://open.spotify.com/track/1WMq8hzihEHUzXbvHqNWVt"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "a Testa in gi\u00f9",
+        "url": "https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 166346,
+      "name": "a Testa in gi\u00f9",
+      "url": "https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "UMORE 02",
+        "url": "https://open.spotify.com/album/3qHLK79NjRXMyU8gwZThYK"
+      },
+      "artists": [
+        {
+          "name": "Luca Re",
+          "url": "https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8"
+        }
+      ],
+      "duration_ms": 201864,
+      "name": "TRA LA GENTE",
+      "url": "https://open.spotify.com/track/0VmdKZCuVJ8LVQBwKrgfuQ"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "wax",
+        "url": "https://open.spotify.com/album/6K5XgWDGcyt0GlCDiS5zDs"
+      },
+      "artists": [
+        {
+          "name": "wax",
+          "url": "https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS"
+        }
+      ],
+      "duration_ms": 153071,
+      "name": "Storie",
+      "url": "https://open.spotify.com/track/5TscVUsNQOV4TCOKbht9zu"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Universale",
+        "url": "https://open.spotify.com/album/7jg6xJn7nWX7ewwruRG8sj"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "Bianco luna",
+      "url": "https://open.spotify.com/track/2e50IuXTFJQNupiDZSD8Ge"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "MISS",
         "url": "https://open.spotify.com/album/2qXQEILrMAiwH9IdcKJNCd"
@@ -361,7 +677,43 @@
       "url": "https://open.spotify.com/track/3vlTKfJa18JHBlzrrERz4u"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "TI AMO E NON LO SAI",
+        "url": "https://open.spotify.com/album/2o6QoLo9MSGFa6vRYwFYLU"
+      },
+      "artists": [
+        {
+          "name": "Berna",
+          "url": "https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "TI AMO E NON LO SAI",
+      "url": "https://open.spotify.com/track/5qJxdzS42qg8quay4i4kZE"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "PER AVERTI (feat. Rkomi)",
+        "url": "https://open.spotify.com/album/4ZXWhGsqfY4pyJIxmN53Kp"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 207058,
+      "name": "PER AVERTI (feat. Rkomi)",
+      "url": "https://open.spotify.com/track/6oHLm5t10rVyFzTdYu0xGx"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "BELLU GUAGLIONE",
         "url": "https://open.spotify.com/album/0YN7JhcGmsUfQGHL8SNDEb"
@@ -377,7 +729,7 @@
       "url": "https://open.spotify.com/track/5rtsLnalGnYd4iNYmm8qmI"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "SOGNO",
         "url": "https://open.spotify.com/album/1sqrJ50Bu6DKuuRNQE7pk7"
@@ -401,43 +753,7 @@
       "url": "https://open.spotify.com/track/3nYJsu8sOEhD0PWJPDttWn"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Balla (come la domenica)",
-        "url": "https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z"
-      },
-      "artists": [
-        {
-          "name": "Deddy",
-          "url": "https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR"
-        },
-        {
-          "name": "Paps'n'Skar",
-          "url": "https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV"
-        }
-      ],
-      "duration_ms": 166056,
-      "name": "Balla (come la domenica)",
-      "url": "https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Granita",
-        "url": "https://open.spotify.com/album/7wAn4PdtIwEv9dhb78Ywbj"
-      },
-      "artists": [
-        {
-          "name": "LDA",
-          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "Granita",
-      "url": "https://open.spotify.com/track/70ZfnDxMxzFlCVdsZgpLSv"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "IL BENE NEL MALE",
         "url": "https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ"
@@ -453,231 +769,7 @@
       "url": "https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "piumone",
-        "url": "https://open.spotify.com/album/3A46BaAEMjifTPqxKM3FRa"
-      },
-      "artists": [
-        {
-          "name": "Valerio Mazzei",
-          "url": "https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "piumone",
-      "url": "https://open.spotify.com/track/4NCZEtgd1WgLB5KsV6WMwK"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Lentiggini",
-        "url": "https://open.spotify.com/album/2dE1ZqDY6kZWVbPEoQyfaf"
-      },
-      "artists": [
-        {
-          "name": "CITRIESTE",
-          "url": "https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2"
-        },
-        {
-          "name": "G Ferrari",
-          "url": "https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Lentiggini",
-      "url": "https://open.spotify.com/track/0xhmDNqppAu9RINKppTci8"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Scivola",
-        "url": "https://open.spotify.com/album/2wYSqbGIQePGdEMCcKKufh"
-      },
-      "artists": [
-        {
-          "name": "Federica_",
-          "url": "https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Scivola",
-      "url": "https://open.spotify.com/track/4xWsKYuIZS3Y5wSk7S5HyS"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Il meglio di me (feat. Nashley)",
-        "url": "https://open.spotify.com/album/0a1OtqBBLzHf6h1qagBFKq"
-      },
-      "artists": [
-        {
-          "name": "Alek",
-          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
-        },
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 166411,
-      "name": "Il meglio di me (feat. Nashley)",
-      "url": "https://open.spotify.com/track/1Fq5jm18up2C5yJaqSKb3C"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Non Mi Va",
-        "url": "https://open.spotify.com/album/11UvXQ70qJ3ct1kxgzHRRc"
-      },
-      "artists": [
-        {
-          "name": "NIVEO",
-          "url": "https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS"
-        }
-      ],
-      "duration_ms": 179710,
-      "name": "Non Mi Va",
-      "url": "https://open.spotify.com/track/3ljUzyyjKC1TWQdbIo2mib"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Pensando a lei",
-        "url": "https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 176245,
-      "name": "Pensando a lei",
-      "url": "https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Ogni Volta Che Ti Penso",
-        "url": "https://open.spotify.com/album/2GSCcTIlSByimd2Q3GVtJ6"
-      },
-      "artists": [
-        {
-          "name": "Ludwig",
-          "url": "https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Ogni Volta Che Ti Penso",
-      "url": "https://open.spotify.com/track/7rOLgYuO5vBxVCWITRTJyP"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Ammore Malamente",
-        "url": "https://open.spotify.com/album/5pydbU79C724udCB6btJsy"
-      },
-      "artists": [
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        },
-        {
-          "name": "LDA",
-          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
-        }
-      ],
-      "duration_ms": 191140,
-      "name": "Basta (feat. LDA)",
-      "url": "https://open.spotify.com/track/13EWG0TWbIVmyzd2ohpE0B"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Le Cose In Comune",
-        "url": "https://open.spotify.com/album/1tFaJjfjNZCbc81buL2Um0"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        }
-      ],
-      "duration_ms": 151624,
-      "name": "Le Cose In Comune",
-      "url": "https://open.spotify.com/track/1rVPV7us0kW0mXBgoNKAYK"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Cicatrice",
-        "url": "https://open.spotify.com/album/7fL67B6qXHYa4rRK1I2lsG"
-      },
-      "artists": [
-        {
-          "name": "CLARA",
-          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
-        }
-      ],
-      "duration_ms": 151260,
-      "name": "Cicatrice",
-      "url": "https://open.spotify.com/track/0epSbGpKaNemoWZaVEjS9S"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "CONCERTO",
-        "url": "https://open.spotify.com/album/0byn2frtBA5gvoiTGZQcfr"
-      },
-      "artists": [
-        {
-          "name": "Calma",
-          "url": "https://open.spotify.com/artist/56sJBZ0NubEJ6Y6QOldl1T"
-        },
-        {
-          "name": "Ascanio",
-          "url": "https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "CONCERTO",
-      "url": "https://open.spotify.com/track/2ysCFTZocsMr672oxUUsAl"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "un <3 in due",
-        "url": "https://open.spotify.com/album/7IczajoDqLhhoQut0uFoR6"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "un <3 in due",
-      "url": "https://open.spotify.com/track/722fnHldLfC5ZI4QWdT3ak"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "SUPEREROI",
-        "url": "https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn"
-      },
-      "artists": [
-        {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "SUPEREROI",
-      "url": "https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Giovane e triste",
         "url": "https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1"
@@ -693,43 +785,7 @@
       "url": "https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "L'amore",
-        "url": "https://open.spotify.com/album/3O3bGsrKhF06wffdqtWPop"
-      },
-      "artists": [
-        {
-          "name": "Sina",
-          "url": "https://open.spotify.com/artist/2BYuUplSlEUC7pg9W05d3F"
-        }
-      ],
-      "duration_ms": 188148,
-      "name": "L'amore",
-      "url": "https://open.spotify.com/track/190VoJtCTqxLE6QlHY83fW"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Creatura bellissima",
-        "url": "https://open.spotify.com/album/2dD8MKY6wdNvCv1hgM3LDX"
-      },
-      "artists": [
-        {
-          "name": "Drama",
-          "url": "https://open.spotify.com/artist/2h16TAqr8VkUs8ddUxOS6w"
-        },
-        {
-          "name": "PATRIK",
-          "url": "https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca"
-        }
-      ],
-      "duration_ms": 219774,
-      "name": "Creatura bellissima",
-      "url": "https://open.spotify.com/track/0X8RXxTg4p2Uxn1QMaPaqR"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Conosciuti ad una festa",
         "url": "https://open.spotify.com/album/1rKyOWRJqsskIkiW8RYIN6"
@@ -749,7 +805,7 @@
       "url": "https://open.spotify.com/track/6FdzapNtOI7AwSqV3N6yKX"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "spero ti ci strozzi",
         "url": "https://open.spotify.com/album/4lvFDCOwH3l37sKGlRVYdv"
@@ -765,55 +821,23 @@
       "url": "https://open.spotify.com/track/1XhQa1CedzdHSrdBTR39hW"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "non\u00e8funny :(",
-        "url": "https://open.spotify.com/album/2jcDug6uGALt9aJBnSx5PY"
+        "name": "26 modi",
+        "url": "https://open.spotify.com/album/5cwb5WacM5mr8mASyaTe4Y"
       },
       "artists": [
         {
-          "name": "Ethos",
-          "url": "https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7"
+          "name": "Federica_",
+          "url": "https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g"
         }
       ],
-      "duration_ms": 149318,
-      "name": "non\u00e8funny :(",
-      "url": "https://open.spotify.com/track/4kk1oRW9H7xJO37Wm2PvXO"
+      "duration_ms": 186000,
+      "name": "26 modi",
+      "url": "https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Voglia di vivere",
-        "url": "https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 160136,
-      "name": "Vita morte e miracoli",
-      "url": "https://open.spotify.com/track/6lg1cQeODHXiQv5xAiLVT2"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Mi dici no",
-        "url": "https://open.spotify.com/album/7kucGDV4yLeypdoUrwmxDc"
-      },
-      "artists": [
-        {
-          "name": "Astra",
-          "url": "https://open.spotify.com/artist/6AJksxv4G7xtCRMyrYtZHQ"
-        }
-      ],
-      "duration_ms": 152498,
-      "name": "Mi dici no",
-      "url": "https://open.spotify.com/track/5qsyzcSuPmtOsU42oYvl78"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Male",
         "url": "https://open.spotify.com/album/0nndqYNjqMbfwSk4xShONI"
@@ -829,43 +853,7 @@
       "url": "https://open.spotify.com/track/1EMmeaIX1LEl1FrNJkK0eJ"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Fammi capire",
-        "url": "https://open.spotify.com/album/4kRNlOJ8ZDQv43ec2QPFwm"
-      },
-      "artists": [
-        {
-          "name": "Samurai Jay",
-          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
-        },
-        {
-          "name": "DANI",
-          "url": "https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "Fammi capire",
-      "url": "https://open.spotify.com/track/2vGTPYu3T8lrkcA2pCBRQ6"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 175378,
-      "name": "Scusa",
-      "url": "https://open.spotify.com/track/7w9URuxEODwcChkFCpsf5Q"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "SE MI LASCI DOMANI",
         "url": "https://open.spotify.com/album/23w6agrUntnc6Ok1A18gvD"
@@ -881,7 +869,7 @@
       "url": "https://open.spotify.com/track/4Z8Rrgk9MYwcvMGbxZluuX"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P"
@@ -897,7 +885,7 @@
       "url": "https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "mon amie freestyle",
         "url": "https://open.spotify.com/album/7KmLYmRPkDkkRsK8llzJuE"
@@ -913,7 +901,7 @@
       "url": "https://open.spotify.com/track/5mC23FcCHeUWjsARR60Jqb"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Se poi domani",
         "url": "https://open.spotify.com/album/6gsgGDGj0bfP46w0xCISQ2"
@@ -929,7 +917,7 @@
       "url": "https://open.spotify.com/track/32XKm4CJzVNRUCzkhQoX13"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "The Sea Beyond (Original TV Series Soundtrack)",
         "url": "https://open.spotify.com/album/1x1DFGOBEtllKlV1PwwzG5"
@@ -957,7 +945,7 @@
       "url": "https://open.spotify.com/track/6P1AALlzkAOIyU6iBuQ9nU"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "KARMA (Prod. JARO)",
         "url": "https://open.spotify.com/album/3V2h9lYkkoihli6Ff6GAb6"
@@ -977,7 +965,7 @@
       "url": "https://open.spotify.com/track/03Wz7SdrLcfP0f2waHHWtx"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Fammi morire",
         "url": "https://open.spotify.com/album/3Cg3jbGc848IssQcMO1Isy"
@@ -997,23 +985,7 @@
       "url": "https://open.spotify.com/track/1mqMoMzSTXzCFcJiCj1aPs"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Niente da perdere",
-        "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 166214,
-      "name": "Niente da perdere",
-      "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Parlami",
         "url": "https://open.spotify.com/album/1XWrPc7GoTh1vQ5WAd575N"
@@ -1033,7 +1005,7 @@
       "url": "https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
@@ -1053,7 +1025,7 @@
       "url": "https://open.spotify.com/track/4XULNbLgh1OiOuYMbPOmyN"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "You Make Me So Happy",
         "url": "https://open.spotify.com/album/7k6SSz0PxoLOzEPjhpBfhP"
@@ -1073,7 +1045,7 @@
       "url": "https://open.spotify.com/track/7qHjjgaBZxth738ejGDqhw"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "MARE DI GUAI",
         "url": "https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0"
@@ -1089,7 +1061,7 @@
       "url": "https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Mi Chiamava",
         "url": "https://open.spotify.com/album/36L5nkadvAcwSfw2gUpKdi"
@@ -1105,7 +1077,7 @@
       "url": "https://open.spotify.com/track/2baCLofmkvBXoBWLKqO8Re"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Non Piove Pi\u00f9",
         "url": "https://open.spotify.com/album/4z92PMJqC8PYduMcJu0Os3"
@@ -1121,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6CJC0Dgf1oMOr8dlQKKMOs"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Cambiami La Vita",
         "url": "https://open.spotify.com/album/1xeUPCllh2Zy5zRSx568mi"
@@ -1137,7 +1109,7 @@
       "url": "https://open.spotify.com/track/0PnPBuAw3Vm1TsZiHqkKb0"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "RAVE, ECLISSI",
         "url": "https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I"
@@ -1153,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3U8TFdchz8dK1nYYgZgd9f"
     },
     {
-      "added_at": "2023-06-01 22:01:00",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "CHI SONO VERAMENTE EP",
         "url": "https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI"
@@ -1167,74 +1139,6 @@
       "duration_ms": 170760,
       "name": "Chi Sono Veramente",
       "url": "https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "PER AVERTI (feat. Rkomi)",
-        "url": "https://open.spotify.com/album/4ZXWhGsqfY4pyJIxmN53Kp"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 207058,
-      "name": "PER AVERTI (feat. Rkomi)",
-      "url": "https://open.spotify.com/track/6oHLm5t10rVyFzTdYu0xGx"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "CARTAGINE",
-        "url": "https://open.spotify.com/album/3hgvPTGT9PCpe9HgXewDwy"
-      },
-      "artists": [
-        {
-          "name": "Emanuele Aloia",
-          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
-        }
-      ],
-      "duration_ms": 190222,
-      "name": "CARTAGINE",
-      "url": "https://open.spotify.com/track/0Z2Rq6nsVIYSe4lSWfFDUa"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Acquario",
-        "url": "https://open.spotify.com/album/6f3ZuFBT8frX2VHmB8MtzB"
-      },
-      "artists": [
-        {
-          "name": "Piccolo G",
-          "url": "https://open.spotify.com/artist/5OIYMOg9lPLouzN3jIerv2"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Acquario",
-      "url": "https://open.spotify.com/track/3wikKu086inCKfjx0divwd"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "26 modi",
-        "url": "https://open.spotify.com/album/5cwb5WacM5mr8mASyaTe4Y"
-      },
-      "artists": [
-        {
-          "name": "Federica_",
-          "url": "https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "26 modi",
-      "url": "https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU"
     }
   ],
   "unique_name": "GENERAZIONE Z",

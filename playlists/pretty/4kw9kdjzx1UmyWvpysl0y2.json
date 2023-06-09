@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127181,
+  "num_followers": 127188,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDI0NCxhZmYwNzZjZjVlNDdlNDg3ZGM2MWViMWVhMDNlYjNhOGFmYTIyN2Zl",
+  "snapshot_id": "NDI0Nyw5NTZiOThlZjkwN2Q4M2EyYmFmODA1MDMyYjJhZDFlYzM0NTg0NTcz",
   "tracks": [
+    {
+      "added_at": "2023-06-08 18:27:08",
+      "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/789y4j9o32eMfjaWAPsqyF"
+      },
+      "artists": [
+        {
+          "name": "Teminite",
+          "url": "https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF"
+        },
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/61kmDZXjXGBWh8YnWjFCQY"
+    },
     {
       "added_at": "2023-06-07 18:18:59",
       "album": {
@@ -1103,22 +1123,6 @@
       "duration_ms": 165857,
       "name": "Riot",
       "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
-    },
-    {
-      "added_at": "2023-03-16 17:44:39",
-      "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV"
-      },
-      "artists": [
-        {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

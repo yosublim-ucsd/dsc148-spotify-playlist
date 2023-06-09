@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester",
-  "num_followers": 112695,
+  "num_followers": 112706,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTNhNzMwMThhZDgzZjkzODM0OWNmMDZlNmQxYTc3MDlkZDIzZmQ4",
+  "snapshot_id": "MCw2YWE1MmJhNDRmYTQ2YjJkMjQzMWVmZmJmNGY3NzkyMzMzOTU4NDU0",
   "tracks": [
     {
       "added_at": "2023-05-24 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-03-21 00:57:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 267802,
-      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
         "name": "Wide Open Spaces - Spotify Singles",
         "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 240224,
       "name": "Wide Open Spaces - Spotify Singles",
       "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 267802,
+      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
     },
     {
       "added_at": "2023-03-21 00:57:42",

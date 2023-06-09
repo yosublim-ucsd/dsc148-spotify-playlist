@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Matchbox Twenty",
-  "num_followers": 1248707,
+  "num_followers": 1249048,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWQyNDYxNjRiZDg2N2E4ZWI5MTU0OTg5MjJiY2YxY2VmYzk1Mjk0",
+  "snapshot_id": "MCwwMGYyOThhNGJjYTJkYWM2ZDAxNGE4MTllMWNiZDg2YTQwY2YyNWM4",
   "tracks": [
     {
       "added_at": "2023-01-18 21:25:04",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Laid",
-        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Eve 6",
         "url": "https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 219466,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Laid",
+        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 363800,
-      "name": "Take A Picture",
-      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "All The Pain Money Can Buy",
         "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 257093,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Title Of Record (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 363800,
+      "name": "Take A Picture",
+      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
+        "name": "Duncan Sheik",
+        "url": "https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf"
+      },
+      "artists": [
+        {
+          "name": "Duncan Sheik",
+          "url": "https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0"
+        }
+      ],
+      "duration_ms": 254546,
+      "name": "Barely Breathing",
+      "url": "https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
         "name": "Fashion Nugget",
         "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 273066,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
-        "name": "Duncan Sheik",
-        "url": "https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf"
-      },
-      "artists": [
-        {
-          "name": "Duncan Sheik",
-          "url": "https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0"
-        }
-      ],
-      "duration_ms": 254546,
-      "name": "Barely Breathing",
-      "url": "https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1303,22 +1303,6 @@
       "duration_ms": 196333,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/6JGQ98So2ik5GVI9ydQ2Yh"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1399,6 +1383,22 @@
       "duration_ms": 140480,
       "name": "Connection",
       "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/6JGQ98So2ik5GVI9ydQ2Yh"
     },
     {
       "added_at": "2023-01-18 21:25:04",

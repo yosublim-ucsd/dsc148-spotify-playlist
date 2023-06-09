@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Phabo
 
-1,101 songs - 2 day 10 hr 55 min
+1,102 songs - 2 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,7 +622,8 @@
 | [Mama](https://open.spotify.com/track/4OUa1gJtyDER6NIvc7UM9v) | [Larrenwong](https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz) | [Songs That I Hate to Sing](https://open.spotify.com/album/5M46rpIqXw0R1nfzXoQQMW) | 3:30 | 2022-07-15 | 2022-09-10 |
 | [Marvin](https://open.spotify.com/track/4B9pkP1vAVHU35xHFekMTo) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB) | [Marvin](https://open.spotify.com/album/6N7BbixouvGZuD4VmjpIY7) | 2:44 | 2022-04-29 | 2022-05-21 |
 | [Marvin \- A COLORS SHOW](https://open.spotify.com/track/23XcjGXBJgeb6aLDb0ctKI) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB) | [Marvin \- A COLORS SHOW](https://open.spotify.com/album/6Ellw4Bij0X79QNjWoX8dM) | 2:44 | 2022-03-18 | 2022-04-09 |
-| [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:51 | 2023-05-05 |  |
+| [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:51 | 2023-05-05 | 2023-06-09 |
+| [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0rjjTjhUsMy3Akhy3zduKK) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:51 | 2023-05-05 |  |
 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 | 2022-07-01 | 2022-07-23 |
 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 | 2021-12-17 | 2022-02-26 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-06-17 | 2022-07-16 |

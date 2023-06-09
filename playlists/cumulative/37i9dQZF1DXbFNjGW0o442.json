@@ -3173,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "Rompe Paga",
+        "url": "https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB"
+      },
+      "artists": [
+        {
+          "name": "Blanco Teta",
+          "url": "https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Perro",
+      "url": "https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P"
+    },
+    {
+      "album": {
         "name": "Lo Que Dur\u00f3 la Vida de Alguien",
         "url": "https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v"
       },
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 246357,
       "name": "Volar despierto",
       "url": "https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9"

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Scooby",
-  "num_followers": 30112,
+  "num_followers": 30142,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTBhZDk4ZWYxMTU4NWQzYzAwODA0ZDMzMDAzODIyMDBjNDY1MzI2",
+  "snapshot_id": "MCw2ZDQzYTZkYzkzNzE1NmY4MTI3Y2QwYWUyMDlmYjU1N2IzMTM3OTE4",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -475,18 +475,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Lembro",
-        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
+        "name": "Sirenes",
+        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
       },
       "artists": [
         {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Lembro",
-      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
+      "duration_ms": 230000,
+      "name": "Sirenes",
+      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -519,26 +527,18 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Sirenes",
-        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
+        "name": "Lembro",
+        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
       },
       "artists": [
         {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Sirenes",
-      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
+      "duration_ms": 164571,
+      "name": "Lembro",
+      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -879,22 +879,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "40\u02da.40 Deluxe",
-        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
+        "name": "Sobe O Morro",
+        "url": "https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl"
       },
       "artists": [
         {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         },
         {
-          "name": "Korsain",
-          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Kenner",
-      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
+      "duration_ms": 162352,
+      "name": "Sobe O Morro",
+      "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -943,26 +947,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Sobe O Morro",
-        "url": "https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl"
+        "name": "40\u02da.40 Deluxe",
+        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
       },
       "artists": [
         {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
         },
         {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+          "name": "Korsain",
+          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Sobe O Morro",
-      "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
+      "duration_ms": 197000,
+      "name": "Kenner",
+      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "FILHO PR\u00d3DIGO 2",
-        "url": "https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2"
-      },
-      "artists": [
-        {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        }
-      ],
-      "duration_ms": 133168,
-      "name": "RJ CLIMA HOSTIL",
-      "url": "https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "BlackNoir",
         "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 164623,
       "name": "BlackNoir",
       "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "FILHO PR\u00d3DIGO 2",
+        "url": "https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        }
+      ],
+      "duration_ms": 133168,
+      "name": "RJ CLIMA HOSTIL",
+      "url": "https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Penit\u00eancia",
+        "url": "https://open.spotify.com/album/39D29Bvxy0SzMxhy3XlvCV"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        },
+        {
+          "name": "Uk Drill",
+          "url": "https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Penit\u00eancia",
+      "url": "https://open.spotify.com/track/4VHLsF3FSZBTa2ifRs5caq"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Versos Fortes",
         "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Penit\u00eancia",
-        "url": "https://open.spotify.com/album/39D29Bvxy0SzMxhy3XlvCV"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        },
-        {
-          "name": "Uk Drill",
-          "url": "https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Penit\u00eancia",
-      "url": "https://open.spotify.com/track/4VHLsF3FSZBTa2ifRs5caq"
     },
     {
       "added_at": "2023-05-19 03:01:00",

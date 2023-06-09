@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Joe Goddard, Fiorious",
+  "description": "New music off the beaten track. Cover: Jayda G",
   "name": "OFF POP",
   "tracks": [
     {
@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "All The Things We Say / Move Me",
+        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231105,
+      "name": "All The Things We Say",
+      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+    },
+    {
+      "album": {
         "name": "Hermetica",
         "url": "https://open.spotify.com/album/7hpMuiN4TsnHWqqndo6IMK"
       },
@@ -526,7 +544,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 131707,
       "name": "Bad",
       "url": "https://open.spotify.com/track/7vIpp7o0OPjbLHPb7TNAHY"
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 259120,
       "name": "Do Nothing",
       "url": "https://open.spotify.com/track/6CgsQGQXleG4nxzr4rRp1A"
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
@@ -2942,7 +2960,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 174921,
       "name": "I Promise",
       "url": "https://open.spotify.com/track/1f1cI1rxKrMCLr5pD8rjX3"
@@ -3589,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "Light Me Up",
+        "url": "https://open.spotify.com/album/2wq3M6JEjYay1f3xM5vCa1"
+      },
+      "artists": [
+        {
+          "name": "When Saints Go Machine",
+          "url": "https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201977,
+      "name": "Light Me Up",
+      "url": "https://open.spotify.com/track/19m8G0779uE4Y0TZtqv9uj"
+    },
+    {
+      "album": {
         "name": "Like The Old Days",
         "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
       },
@@ -4012,7 +4048,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 224287,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf"
@@ -4804,6 +4840,28 @@
       "duration_ms": 330545,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/0YDIy9Ixkh7dH36GanI1YJ"
+    },
+    {
+      "album": {
+        "name": "Parfaite",
+        "url": "https://open.spotify.com/album/5FP684jxUuq0q4luOBmN4L"
+      },
+      "artists": [
+        {
+          "name": "Thor Rixon",
+          "url": "https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX"
+        },
+        {
+          "name": "Elodie Gervaise",
+          "url": "https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258363,
+      "name": "Parfaite",
+      "url": "https://open.spotify.com/track/1fPvKAh8ZzVJ4yo25Wl1oi"
     },
     {
       "album": {
@@ -5947,6 +6005,24 @@
     },
     {
       "album": {
+        "name": "Territory Day",
+        "url": "https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326232,
+      "name": "Territory Day",
+      "url": "https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78"
+    },
+    {
+      "album": {
         "name": "The Dark, The Light",
         "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
       },
@@ -6162,7 +6238,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 174896,
       "name": "Tighten It Up",
       "url": "https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u"
@@ -6620,6 +6696,24 @@
       "duration_ms": 178586,
       "name": "what would i give",
       "url": "https://open.spotify.com/track/5nalxn6TBuHgo53VGBux9F"
+    },
+    {
+      "album": {
+        "name": "Guy",
+        "url": "https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202375,
+      "name": "When She Dance",
+      "url": "https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8"
     },
     {
       "album": {

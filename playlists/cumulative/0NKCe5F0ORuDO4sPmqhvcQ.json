@@ -1095,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "bones (sinking like stones)",
+        "url": "https://open.spotify.com/album/6k6xY3yJXv4Oahumtpeshj"
+      },
+      "artists": [
+        {
+          "name": "44 Ardent",
+          "url": "https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "bones (sinking like stones)",
+      "url": "https://open.spotify.com/track/1Tzysw6XT9b5hCdM3PS4wI"
+    },
+    {
+      "album": {
         "name": "bowl",
         "url": "https://open.spotify.com/album/73jtXrGlrqd16QDbA6ZgHU"
       },

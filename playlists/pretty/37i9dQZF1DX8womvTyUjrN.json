@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: BORJA & Vale",
-  "num_followers": 278718,
+  "num_followers": 278745,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGI4MjVjZmNlN2EyNmE4ZmQ3ZWM2ZmRjMmVkNjAwOGEyOGRlMTM1",
+  "snapshot_id": "MCxkOTIwNDIwZWQzYTJiMDk1MzA0Yjc2ZmZhMDY5ZTg0NGZjOTIyZGQ5",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 180329,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "No Me Controles",
         "url": "https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 162149,
       "name": "No Me Controles",
       "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 180329,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd"
     },
     {
       "added_at": "2023-06-02 04:00:00",

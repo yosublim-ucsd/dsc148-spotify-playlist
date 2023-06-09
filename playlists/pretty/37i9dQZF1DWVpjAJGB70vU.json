@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 30 years of Alan Jackson's classic hit \"Chattahoochee\" on 90s Country! ",
-  "num_followers": 1585438,
+  "num_followers": 1585457,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzdhZGIwNGNmMDc5NTNiODgxODMyMmE4YjAxZDM0NTk0MzRkZTNk",
+  "snapshot_id": "MCw5NzUxMjRiNTFiY2UyNWIxMTVlNDk0Yjc4OGQ3YTE0Zjk0MmRlYzJi",
   "tracks": [
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "The Greatest Hits Collection",
-        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "Tall, Tall Trees",
-      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
         "name": "I'm From The Country",
         "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 213973,
       "name": "I'm From The Country - Single Version",
       "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
+    },
+    {
+      "added_at": "2023-05-17 04:00:00",
+      "album": {
+        "name": "The Greatest Hits Collection",
+        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "Tall, Tall Trees",
+      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "Here In The Real World",
-        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
+        "name": "Honky Tonk Attitude",
+        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 185373,
-      "name": "Chasin' That Neon Rainbow",
-      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+      "duration_ms": 272066,
+      "name": "John Deere Green",
+      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "Honky Tonk Attitude",
-        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
+        "name": "Here In The Real World",
+        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 272066,
-      "name": "John Deere Green",
-      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
+      "duration_ms": 185373,
+      "name": "Chasin' That Neon Rainbow",
+      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 260493,
-      "name": "Gone Country",
-      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
       },
       "artists": [
         {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
+      "duration_ms": 260493,
+      "name": "Gone Country",
+      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
     },
     {
       "added_at": "2023-05-17 04:00:00",

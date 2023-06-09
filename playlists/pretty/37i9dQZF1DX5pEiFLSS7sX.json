@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 173425,
+  "num_followers": 173530,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzA1ZmFkM2MwMTk4ODNhMDI1M2MzODU5ZTRlMjBkNzczM2U0Y2E3",
+  "snapshot_id": "MCxhNjIxZTIwMWE2ZDM3ZGMyZDk2OGU3OGQ3M2NmZjQwMDVhODY2MWFl",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/5qA5acnPNB7v1vdZdbA0lA"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Live From New York",
         "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 489453,
       "name": "Holy Spirit - Live",
       "url": "https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/5qA5acnPNB7v1vdZdbA0lA"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Heaven Is Where You Are",
+        "url": "https://open.spotify.com/album/2HwC7uEfppbjefeQByqkhl"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 198835,
+      "name": "Heaven Is Where You Are",
+      "url": "https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "There Is More (Live)",
         "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 490000,
       "name": "New Wine - Live",
       "url": "https://open.spotify.com/track/1MX4dx6yNvAH2GjIVsUF4h"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Heaven Is Where You Are",
-        "url": "https://open.spotify.com/album/2HwC7uEfppbjefeQByqkhl"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 198835,
-      "name": "Heaven Is Where You Are",
-      "url": "https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -479,30 +479,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Pat Barrett",
-        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 323520,
-      "name": "Sails",
-      "url": "https://open.spotify.com/track/5IvlWYwqxT4HiJMUOyhXOV"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -527,6 +503,30 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Pat Barrett",
+        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 323520,
+      "name": "Sails",
+      "url": "https://open.spotify.com/track/5IvlWYwqxT4HiJMUOyhXOV"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "After All These Years",
         "url": "https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS"
       },
@@ -539,26 +539,6 @@
       "duration_ms": 241613,
       "name": "For The One",
       "url": "https://open.spotify.com/track/1ddwacpPT1g1cA2WhL40sI"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
-        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 464000,
-      "name": "Pursue / All I Need Is You - Medley/Live",
-      "url": "https://open.spotify.com/track/58TKUOfACHyUpWE5DisSVF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -595,26 +575,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Have It All (Live)",
-        "url": "https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        }
-      ],
-      "duration_ms": 485396,
-      "name": "Be Enthroned - Live",
-      "url": "https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -635,6 +595,46 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "duration_ms": 485396,
+      "name": "Be Enthroned - Live",
+      "url": "https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
+        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 464000,
+      "name": "Pursue / All I Need Is You - Medley/Live",
+      "url": "https://open.spotify.com/track/58TKUOfACHyUpWE5DisSVF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "On My Side",
-        "url": "https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 284946,
-      "name": "Throne Room",
-      "url": "https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Yeshua (Spontaneous) [Live]",
         "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 417230,
       "name": "Yeshua (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "On My Side",
+        "url": "https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 284946,
+      "name": "Throne Room",
+      "url": "https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 276521,
-      "name": "Your Love is Strong",
-      "url": "https://open.spotify.com/track/5G1cfJXrmxRlxxvunorfWZ"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "More Like Jesus (Live)",
         "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 338694,
       "name": "More Like Jesus - Live",
       "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 276521,
+      "name": "Your Love is Strong",
+      "url": "https://open.spotify.com/track/5G1cfJXrmxRlxxvunorfWZ"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 214330,
-      "name": "You Won't Let Go",
-      "url": "https://open.spotify.com/track/5QcsUp7WqZqH4gpXPOpIoP"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Moments (Live)",
         "url": "https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 426699,
       "name": "God, You\u2019re So Good - Live",
       "url": "https://open.spotify.com/track/3OBG99yPHZwjhPpALz17jm"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 214330,
+      "name": "You Won't Let Go",
+      "url": "https://open.spotify.com/track/5QcsUp7WqZqH4gpXPOpIoP"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Mention Of Your Name",
+        "url": "https://open.spotify.com/album/1jAhwQDRVeCX1f80Woc8ST"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 326706,
+      "name": "Mention Of Your Name",
+      "url": "https://open.spotify.com/track/1uXkEGf3fmK2OkdoDvJdH0"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 431933,
       "name": "To The End",
       "url": "https://open.spotify.com/track/7qKk8olaMUdcOTcU3Txl34"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Mention Of Your Name",
-        "url": "https://open.spotify.com/album/1jAhwQDRVeCX1f80Woc8ST"
-      },
-      "artists": [
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 326706,
-      "name": "Mention Of Your Name",
-      "url": "https://open.spotify.com/track/1uXkEGf3fmK2OkdoDvJdH0"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 283746,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 282546,
       "name": "Tethered",
       "url": "https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 283746,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
     },
     {
       "added_at": "2020-09-04 04:02:00",

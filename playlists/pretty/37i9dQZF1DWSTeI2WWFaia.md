@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Russ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,764 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,783 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [MOTHERLESS \- Single Version](https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [MOTHERLESS](https://open.spotify.com/album/445ASNvZBCiKxGuT7Ds7UQ) | 3:33 |
 | 50 | [Monogram](https://open.spotify.com/track/1uVmhpMQ3ELh8grPOg0D82) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [WON'T HE DO IT](https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc) | 2:25 |
 
-Snapshot ID: `MCwwNDBhYzE1ZGJlMzdjMjdhMDk5NmM0YmY1Y2JjNzBkZDQwODhkY2Jj`
+Snapshot ID: `MCw1ZjMyMWViNjIyMTZhYTJkNzkzMTYxYzAyNWY0OWQ0ZDE5NzBjOTM3`

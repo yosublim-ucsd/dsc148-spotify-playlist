@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 695321,
+  "num_followers": 695360,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTQxOTkzYzk4MTliMWRmZmY2MDNhZmIwNGMyODNlMWVlMGU3MjIx",
+  "snapshot_id": "MCw3NGNlNzRlMmMzNTg0Mzk5NjViZjNhMDgxYzc2NGM2OGQwZGY1Njg4",
   "tracks": [
     {
       "added_at": "2023-06-07 02:51:32",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
-        "name": "sail away",
-        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "sail away",
-      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
-    },
-    {
-      "added_at": "2023-06-07 02:51:32",
-      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 264493,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
+    },
+    {
+      "added_at": "2023-06-07 02:51:32",
+      "album": {
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "sail away",
+      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
     },
     {
       "added_at": "2023-06-07 02:51:32",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
-        "name": "What Am I Missing?",
-        "url": "https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "What Am I Missing?",
-      "url": "https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE"
-    },
-    {
-      "added_at": "2023-06-07 02:51:32",
-      "album": {
         "name": "Could It Get Better Than This",
         "url": "https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 162608,
       "name": "Just A Little While",
       "url": "https://open.spotify.com/track/4ofr8ORQ9w1QuxGLBwRiQk"
+    },
+    {
+      "added_at": "2023-06-07 02:51:32",
+      "album": {
+        "name": "What Am I Missing?",
+        "url": "https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "What Am I Missing?",
+      "url": "https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE"
     },
     {
       "added_at": "2023-06-07 02:51:32",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
+        "name": "It Will Never Be The Same",
+        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2023-06-07 02:51:32",
+      "album": {
         "name": "KEEP IT UP",
         "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
-        "name": "It Will Never Be The Same",
-        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
+        "name": "Youth is Only Ever Fun in Retrospect",
+        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
       },
       "artists": [
         {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
         }
       ],
-      "duration_ms": 250362,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+      "duration_ms": 225653,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
     },
     {
       "added_at": "2023-06-07 02:51:32",
@@ -1091,22 +1107,6 @@
       "duration_ms": 219000,
       "name": "Fred Astaire",
       "url": "https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx"
-    },
-    {
-      "added_at": "2023-06-07 02:51:32",
-      "album": {
-        "name": "Youth is Only Ever Fun in Retrospect",
-        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "She Said",
-      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
     },
     {
       "added_at": "2023-06-07 02:51:32",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
-        "name": "tryhard",
-        "url": "https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Daphne Blue",
-      "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
-    },
-    {
-      "added_at": "2023-06-07 02:51:32",
-      "album": {
         "name": "Coming of Age",
         "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 279691,
       "name": "Post Humorous",
       "url": "https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr"
+    },
+    {
+      "added_at": "2023-06-07 02:51:32",
+      "album": {
+        "name": "tryhard",
+        "url": "https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "Daphne Blue",
+      "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
     },
     {
       "added_at": "2023-06-07 02:51:32",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "BRIGHTSIDE",
-      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
-    },
-    {
-      "added_at": "2023-06-07 02:51:32",
-      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 196739,
       "name": "Lose",
       "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "added_at": "2023-06-07 02:51:32",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "BRIGHTSIDE",
+      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
     },
     {
       "added_at": "2023-06-07 02:51:32",

@@ -4,7 +4,7 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-276 songs - 17 hr 37 min
+277 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Blue Romance](https://open.spotify.com/track/7AL3evf6T03lEluSTET854) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Blue Romance](https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH) | 4:02 | 2021-12-14 |  |
 | [Blueberry Street](https://open.spotify.com/track/6YeUTstb4pY8jUE3xWhX0d) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:15 | 2022-06-08 |  |
 | [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2021-12-14 | 2022-05-04 |
+| [Bridges](https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Bridges](https://open.spotify.com/album/5zZQGomSy4wpZaWL34x6fK) | 2:53 | 2023-06-08 |  |
 | [Brigas nunca mais](https://open.spotify.com/track/0BznBDSocQlKKja9oOer64) | [Stefano Bollani Trio](https://open.spotify.com/artist/15V5EYZA64Qd08o4tEZGli) | [Stone In The Water](https://open.spotify.com/album/5iF4YLfNRevhsh7WMFuWrU) | 6:24 | 2022-01-27 | 2022-10-28 |
 | [Brother Rabbit](https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Brother Rabbit](https://open.spotify.com/album/0mO4xPzkwqsq9N9nvBGM18) | 2:57 | 2023-01-05 |  |
 | [Café International](https://open.spotify.com/track/6mWHwX0VNVDyWVF0j6qQ56) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Café International](https://open.spotify.com/album/0bBBE6Q90Fvr4Ka2EO0ObZ) | 3:30 | 2023-03-23 |  |
@@ -128,7 +129,7 @@
 | [Lament](https://open.spotify.com/track/4t9htJTfaYIZJLDYMqrTCs) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Imagination](https://open.spotify.com/album/6HjWBzHz7sMtXfJ5tlFUqG) | 2:50 | 2021-12-14 |  |
 | [Landing](https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Landing](https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ) | 3:01 | 2021-12-14 | 2022-09-30 |
 | [Last Time](https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Last Time](https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH) | 3:31 | 2022-12-01 |  |
-| [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2021-12-14 |  |
+| [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2021-12-14 | 2023-06-09 |
 | [Lazy Steps](https://open.spotify.com/track/5fhQ6woeIt71IEPs9q0Zd5) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lazy Steps](https://open.spotify.com/album/2nyieRloloSNbpfwfAoHAj) | 3:48 | 2023-02-09 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-06-08 |  |
 | [Life in Space](https://open.spotify.com/track/1Z6vzQHFSxqJcgJfqPz3aZ) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 2:47 | 2022-11-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 176489,
+  "num_followers": 176753,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjUyNmM5ODlmNWQ2ZjM5MTI1ZDFmNjg2OWNkZjdhMzMxMzhmOWVk",
+  "snapshot_id": "MCxlZGFiNDBhMDkxNDdmNjRlOWFlZDM4Nzg3MTkxYmU4NWQxMzRjY2E1",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Journal of Ardency",
-        "url": "https://open.spotify.com/album/7twFekZ3zmVFkbChsA42bG"
-      },
-      "artists": [
-        {
-          "name": "Class Actress",
-          "url": "https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl"
-        }
-      ],
-      "duration_ms": 225306,
-      "name": "Journal of Ardency",
-      "url": "https://open.spotify.com/track/6GEIpzW14NtOjqHejbcSRE"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Gorilla Manor",
         "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 266053,
       "name": "Wide Eyes",
       "url": "https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Journal of Ardency",
+        "url": "https://open.spotify.com/album/7twFekZ3zmVFkbChsA42bG"
+      },
+      "artists": [
+        {
+          "name": "Class Actress",
+          "url": "https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "Journal of Ardency",
+      "url": "https://open.spotify.com/track/6GEIpzW14NtOjqHejbcSRE"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Teen Dream",
-        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 288720,
-      "name": "Zebra",
-      "url": "https://open.spotify.com/track/6asU049doNupkVllo61luh"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 330306,
       "name": "Santa Monica Dream",
       "url": "https://open.spotify.com/track/2aaHkPnIpvGRD1FEnKYIte"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Teen Dream",
+        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/6asU049doNupkVllo61luh"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "One Life Stand",
-        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
+        "name": "The Suburbs (Deluxe)",
+        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 321496,
-      "name": "One Life Stand",
-      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
+      "duration_ms": 279746,
+      "name": "Modern Man",
+      "url": "https://open.spotify.com/track/5VWRCDKukSgYRAhXMriSCu"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Suburbs (Deluxe)",
-        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
+        "name": "One Life Stand",
+        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
       },
       "artists": [
         {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 279746,
-      "name": "Modern Man",
-      "url": "https://open.spotify.com/track/5VWRCDKukSgYRAhXMriSCu"
+      "duration_ms": 321496,
+      "name": "One Life Stand",
+      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 301400,
+      "name": "We Used to Wait",
+      "url": "https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Contra",
         "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 202589,
       "name": "Get Some",
       "url": "https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 301400,
-      "name": "We Used to Wait",
-      "url": "https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU"
     },
     {
       "added_at": "2021-10-05 08:40:49",

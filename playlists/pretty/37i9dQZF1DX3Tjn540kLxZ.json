@@ -1,12 +1,12 @@
 {
   "description": "all-day bops you can always rely on \u25e1\u0308\n",
-  "num_followers": 167638,
+  "num_followers": 167699,
   "original_name": "free refills",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDRhMzVkZTgzNjE2MmE4M2Q0YzAwZjA4YzZmZDA5ZGE3NDI3NzEw",
+  "snapshot_id": "MCwzMTA1ZThhMjU3YjQzODk3NDdiMTMyZDhiZjRkYzUyNzQyNWJmNjEx",
   "tracks": [
     {
       "added_at": "2023-02-10 00:29:15",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
     },
     {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
-    },
-    {
       "added_at": "2023-01-18 17:37:10",
       "album": {
         "name": "the record",
@@ -903,6 +887,22 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "then i met her",
-      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "then i met her",
+      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
+        "name": "Landmark",
+        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 245456,
+      "name": "Way It Goes",
+      "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
         "name": "Do you miss me?",
         "url": "https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Landmark",
-        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 245456,
-      "name": "Way It Goes",
-      "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
+      "duration_ms": 211453,
+      "name": "Mountain Sound",
+      "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1699,22 +1715,6 @@
       "duration_ms": 143530,
       "name": "The Kiss Of Venus (Dominic Fike)",
       "url": "https://open.spotify.com/track/28kOGtTZzbfQ8fMmTwjRFq"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Mountain Sound",
-      "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "I Still Have Faith In You / Don't Shut Me Down",
-        "url": "https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Don't Shut Me Down",
-      "url": "https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "For A Minute",
         "url": "https://open.spotify.com/album/2751qfhddwsCitLsJwhbvS"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 108984,
       "name": "For A Minute",
       "url": "https://open.spotify.com/track/2zAKwUD7TVTt8qTxa9bnQJ"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "I Still Have Faith In You / Don't Shut Me Down",
+        "url": "https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Don't Shut Me Down",
+      "url": "https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
+        "name": "girlfriend",
+        "url": "https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 133150,
+      "name": "girlfriend",
+      "url": "https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 177397,
       "name": "What, Me Worry?",
       "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
-        "name": "girlfriend",
-        "url": "https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 133150,
-      "name": "girlfriend",
-      "url": "https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/6PyZGb1rB7oLKCICWTmGYa"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 221973,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/6PyZGb1rB7oLKCICWTmGYa"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 285833,
-      "name": "The Birthday Party",
-      "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Z",
         "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 219642,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3oUSdLtRYOSvXcLMrHctv7"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 285833,
+      "name": "The Birthday Party",
+      "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
     },
     {
       "added_at": "2023-01-04 23:35:04",

@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Jazzy.",
-  "num_followers": 1823866,
+  "num_followers": 1824313,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWRhMjM4YjA1YTVmZDBiNjcyZTZhMTA1NWEyMDhlMTk5MzU1Nzg3",
+  "snapshot_id": "MCw1NmVjNGRmMDRhMzc5MzJkOGZiOWI1NWQ2OWEzZTkwODA5ODg1ZDI1",
   "tracks": [
     {
       "added_at": "2023-06-02 16:00:00",
@@ -1403,6 +1403,50 @@
     {
       "added_at": "2023-06-02 16:00:00",
       "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 241804,
+      "name": "Feels Just Like it",
+      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
+    },
+    {
+      "added_at": "2023-06-02 16:00:00",
+      "album": {
+        "name": "Gotta Let You Go",
+        "url": "https://open.spotify.com/album/6yCg2t2ZZ7LBjIHsR3DVND"
+      },
+      "artists": [
+        {
+          "name": "Felix Leiter",
+          "url": "https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO"
+        },
+        {
+          "name": "Ango Tamarin",
+          "url": "https://open.spotify.com/artist/7uSgmPTHeYgIu7Q5JwQpQy"
+        },
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "duration_ms": 167097,
+      "name": "Gotta Let You Go",
+      "url": "https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX"
+    },
+    {
+      "added_at": "2023-06-02 16:00:00",
+      "album": {
         "name": "U Ok?",
         "url": "https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7"
       },
@@ -1439,50 +1483,6 @@
       "duration_ms": 205429,
       "name": "Lennon",
       "url": "https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck"
-    },
-    {
-      "added_at": "2023-06-02 16:00:00",
-      "album": {
-        "name": "Gotta Let You Go",
-        "url": "https://open.spotify.com/album/6yCg2t2ZZ7LBjIHsR3DVND"
-      },
-      "artists": [
-        {
-          "name": "Felix Leiter",
-          "url": "https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO"
-        },
-        {
-          "name": "Ango Tamarin",
-          "url": "https://open.spotify.com/artist/7uSgmPTHeYgIu7Q5JwQpQy"
-        },
-        {
-          "name": "Dominica",
-          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
-        }
-      ],
-      "duration_ms": 167097,
-      "name": "Gotta Let You Go",
-      "url": "https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX"
-    },
-    {
-      "added_at": "2023-06-02 16:00:00",
-      "album": {
-        "name": "Light Places",
-        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 241804,
-      "name": "Feels Just Like it",
-      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
     },
     {
       "added_at": "2023-06-02 16:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-06-02 16:00:00",
       "album": {
-        "name": "We Don\u2019t Need (Club Edit)",
-        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 158462,
-      "name": "We Don\u2019t Need - Club Edit",
-      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
-    },
-    {
-      "added_at": "2023-06-02 16:00:00",
-      "album": {
         "name": "Make Me Happy (feat. Might Delete Later)",
         "url": "https://open.spotify.com/album/6weN60IhSCAWjhlt6jjaKs"
       },
@@ -1647,6 +1631,38 @@
       "duration_ms": 204545,
       "name": "Make Me Happy (feat. Might Delete Later)",
       "url": "https://open.spotify.com/track/3O4mzMMjxZpCQUSYtq4So4"
+    },
+    {
+      "added_at": "2023-06-02 16:00:00",
+      "album": {
+        "name": "We Don\u2019t Need (Club Edit)",
+        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 158462,
+      "name": "We Don\u2019t Need - Club Edit",
+      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
+    },
+    {
+      "added_at": "2023-06-02 16:00:00",
+      "album": {
+        "name": "what we had was real",
+        "url": "https://open.spotify.com/album/0mAxfupLpuSvfiHeaerkBV"
+      },
+      "artists": [
+        {
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "what we had was real",
+      "url": "https://open.spotify.com/track/7lPVC3ppoIixU2PH2KcvTK"
     },
     {
       "added_at": "2023-06-02 16:00:00",
@@ -1687,22 +1703,6 @@
       "duration_ms": 174220,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
-    },
-    {
-      "added_at": "2023-06-02 16:00:00",
-      "album": {
-        "name": "what we had was real",
-        "url": "https://open.spotify.com/album/0mAxfupLpuSvfiHeaerkBV"
-      },
-      "artists": [
-        {
-          "name": "Rommii",
-          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "what we had was real",
-      "url": "https://open.spotify.com/track/7lPVC3ppoIixU2PH2KcvTK"
     },
     {
       "added_at": "2023-06-02 16:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-06-02 16:00:00",
       "album": {
+        "name": "Throw Your Hands",
+        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 191408,
+      "name": "Throw Your Hands",
+      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
+    },
+    {
+      "added_at": "2023-06-02 16:00:00",
+      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/58I1R2JazZYiVUek5rtvFY"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 151428,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/1pa7rBVipooMGzVN0Nausx"
-    },
-    {
-      "added_at": "2023-06-02 16:00:00",
-      "album": {
-        "name": "Throw Your Hands",
-        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 191408,
-      "name": "Throw Your Hands",
-      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
     },
     {
       "added_at": "2023-06-02 16:00:00",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2023-06-02 16:00:00",
       "album": {
-        "name": "La Tarde",
-        "url": "https://open.spotify.com/album/44kW2NEni5fjuXMamBEXzL"
-      },
-      "artists": [
-        {
-          "name": "Jude & Frank",
-          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
-        },
-        {
-          "name": "AtcG",
-          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
-        }
-      ],
-      "duration_ms": 163440,
-      "name": "La Tarde",
-      "url": "https://open.spotify.com/track/1jny0xjkmeZiS2CvuJLuRX"
-    },
-    {
-      "added_at": "2023-06-02 16:00:00",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2023-06-02 16:00:00",
+      "album": {
+        "name": "La Tarde",
+        "url": "https://open.spotify.com/album/44kW2NEni5fjuXMamBEXzL"
+      },
+      "artists": [
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "AtcG",
+          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "La Tarde",
+      "url": "https://open.spotify.com/track/1jny0xjkmeZiS2CvuJLuRX"
     },
     {
       "added_at": "2023-06-02 16:00:00",
@@ -2351,22 +2351,18 @@
     {
       "added_at": "2023-06-02 16:00:00",
       "album": {
-        "name": "Back To This (feat. SoShy)",
-        "url": "https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0"
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
       },
       "artists": [
         {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Soshy",
-          "url": "https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp"
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
         }
       ],
-      "duration_ms": 157142,
-      "name": "Back To This (feat. SoShy)",
-      "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2023-06-02 16:00:00",
@@ -2391,6 +2387,26 @@
     {
       "added_at": "2023-06-02 16:00:00",
       "album": {
+        "name": "Back To This (feat. SoShy)",
+        "url": "https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Soshy",
+          "url": "https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Back To This (feat. SoShy)",
+      "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
+    },
+    {
+      "added_at": "2023-06-02 16:00:00",
+      "album": {
         "name": "Get On Down",
         "url": "https://open.spotify.com/album/09D39Cwhfq3VNYp9gw16cz"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 185760,
       "name": "Get On Down",
       "url": "https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY"
-    },
-    {
-      "added_at": "2023-06-02 16:00:00",
-      "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     }
   ],
   "unique_name": "Housewerk",

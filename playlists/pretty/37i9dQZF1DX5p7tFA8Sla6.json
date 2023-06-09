@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 48641,
+  "num_followers": 48674,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzdlZTlkMTQxMjgxMWZhNzgzYmY2ZTQyOWQ0ZWYzZGZkYjMyYzU3",
+  "snapshot_id": "MCxkNTFjM2ZlYjY4M2Q1YWI5YjdhMzM4Yjg0NWEzYzYxY2Y2MWY4YjQ3",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -91,22 +91,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Jungle Boogie",
-      "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Meters",
         "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 186853,
       "name": "Cissy Strut",
       "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Jungle Boogie",
+      "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -875,22 +875,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Death or Devotion",
-        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 365200,
-      "name": "Highly Compatible",
-      "url": "https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Everybody Want Sum",
         "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 288253,
       "name": "Sheez Music",
       "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Death or Devotion",
+        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "duration_ms": 365200,
+      "name": "Highly Compatible",
+      "url": "https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Mindblastin'",
-        "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
+        "name": "Amplified Experiment",
+        "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
       },
       "artists": [
         {
-          "name": "The Soul Motivators",
-          "url": "https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU"
+          "name": "The APX",
+          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
+        },
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL"
         }
       ],
-      "duration_ms": 261184,
-      "name": "Mindblastin'",
-      "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
+      "duration_ms": 165450,
+      "name": "F.y.g",
+      "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1667,22 +1671,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Amplified Experiment",
-        "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
+        "name": "Mindblastin'",
+        "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
       },
       "artists": [
         {
-          "name": "The APX",
-          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
-        },
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL"
+          "name": "The Soul Motivators",
+          "url": "https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU"
         }
       ],
-      "duration_ms": 165450,
-      "name": "F.y.g",
-      "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
+      "duration_ms": 261184,
+      "name": "Mindblastin'",
+      "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
     },
     {
       "added_at": "2019-08-22 14:26:16",

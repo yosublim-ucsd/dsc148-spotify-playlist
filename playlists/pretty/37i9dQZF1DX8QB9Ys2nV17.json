@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 172136,
+  "num_followers": 172145,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDg2Njg1MDM2M2M5OGY1NWY1ZjFhYzJjNmQ1ODNiMWQyMmRmMTBj",
+  "snapshot_id": "MCwyMTI4Y2ZlYjNiMmVkMWVmMWFmNDYzNTQ0MTk1YWIyZGIzZjY1MTI4",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Voodoo in the Shadows",
-        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
-      },
-      "artists": [
-        {
-          "name": "Fiona Boyes",
-          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
-        }
-      ],
-      "duration_ms": 255106,
-      "name": "Party at Red's",
-      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Hannah Wicklund & The Steppin Stones",
         "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 243396,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/19isNY7Hvhg0Mw7skGLHqT"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Voodoo in the Shadows",
+        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
+      },
+      "artists": [
+        {
+          "name": "Fiona Boyes",
+          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
+        }
+      ],
+      "duration_ms": 255106,
+      "name": "Party at Red's",
+      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ain't Got No Troubles",
-        "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
-      },
-      "artists": [
-        {
-          "name": "Eden Brent",
-          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Tricky Thing",
         "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 271733,
       "name": "Tricky Thing",
       "url": "https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ain't Got No Troubles",
+        "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
+      },
+      "artists": [
+        {
+          "name": "Eden Brent",
+          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ina Forsman",
-        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
-      },
-      "artists": [
-        {
-          "name": "Ina Forsman",
-          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Now You Want Me Back",
-      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Masters of War",
         "url": "https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 296413,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ina Forsman",
+        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
+      },
+      "artists": [
+        {
+          "name": "Ina Forsman",
+          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Now You Want Me Back",
+      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
     },
     {
       "added_at": "2022-03-08 14:01:09",

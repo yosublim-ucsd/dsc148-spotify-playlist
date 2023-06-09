@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-595 songs - 1 day 10 hr 31 min
+596 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Above Heaven](https://open.spotify.com/track/6n7uPRWtnrKCpkXd6NzqQG) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Above Heaven](https://open.spotify.com/album/75tfVG2HRiW7ztY7LhIBw2) | 4:19 | 2022-06-12 | 2022-06-22 |
 | [Above It All](https://open.spotify.com/track/0J3e3pldo7uAns4dpLxLR0) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [Endymion](https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj) | [Above It All](https://open.spotify.com/album/2JM7txKRk2BHEL5Px58BGQ) | 3:08 | 2021-12-16 | 2022-07-25 |
 | [Absolution](https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Absolution](https://open.spotify.com/album/6Opch7uhVZoJKdUCutnqjp) | 3:44 | 2023-01-27 |  |
+| [Activation](https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Activation](https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES) | 2:55 | 2023-06-08 |  |
 | [Addicted to the Bass](https://open.spotify.com/track/4UJie4npIuGkiA8rkndBS6) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Addicted to the Bass](https://open.spotify.com/album/41KaCzTpncIdTC7Z55ALY4) | 3:31 | 2021-12-16 | 2023-02-24 |
 | [Adrenaline Rush](https://open.spotify.com/track/3KJNFnaEdc42wHpbCEDTC2) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [Invector](https://open.spotify.com/artist/6dzkjHwlCSs5uy93DoiZ1s), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Adrenaline Rush](https://open.spotify.com/album/5DTRttW1jq1bIzc298rvg4) | 4:26 | 2022-08-18 | 2022-12-13 |
 | [Africa \(Shinzo Radio Edit\)](https://open.spotify.com/track/3Gnyu3henEnnYl6LeUt2Dj) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Nick Skitz](https://open.spotify.com/artist/0b56YzqAu22jh2CDUYvbbx), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Africa \(The Remixes\)](https://open.spotify.com/album/339hhBU7RbxyYhXVfXBagi) | 4:11 | 2022-05-29 | 2022-12-06 |
@@ -109,7 +110,7 @@
 | [Das Boot](https://open.spotify.com/track/0iNIsiJLxEBeqCcKzvBT9A) | [Noisecontrollers](https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [Das Boot](https://open.spotify.com/album/4keZc58AKTGa5DEXWKBsa2) | 3:53 | 2022-07-22 |  |
 | [Das Boot](https://open.spotify.com/track/3b7voqOsxGV1gMcHVSri8N) | [Noisecontrollers](https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [Das Boot](https://open.spotify.com/album/2fhsIYPA8hvZ7DTAOLDkta) | 3:53 | 2021-12-16 | 2022-07-29 |
 | [Das Boot](https://open.spotify.com/track/3dVVJDkYN8snyIICAvUbB0) | [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI), [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Chrono](https://open.spotify.com/artist/1TpWd2shGijXDcCqFnzwOs) | [Das Boot](https://open.spotify.com/album/4akEyaFtn3nhD1AH8IHira) | 4:08 | 2022-06-12 | 2022-06-27 |
-| [Death Or Glory](https://open.spotify.com/track/4PQ0ckfbPTkcxzFiIXAzG3) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Death Or Glory](https://open.spotify.com/album/4hWYpsuKXpJ0YYRJAaAPFB) | 3:41 | 2023-03-30 |  |
+| [Death Or Glory](https://open.spotify.com/track/4PQ0ckfbPTkcxzFiIXAzG3) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Death Or Glory](https://open.spotify.com/album/4hWYpsuKXpJ0YYRJAaAPFB) | 3:41 | 2023-03-30 | 2023-06-09 |
 | [Deep End \- Maxtreme Remix](https://open.spotify.com/track/3eKF84e3XvQjaKoPYMbBk1) | [Stupid Whizkid](https://open.spotify.com/artist/653kl2UPuje4mZQJEwukkv), [DROPiXX](https://open.spotify.com/artist/708jzcyxbTzDceNVOT9kKV), [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j) | [Deep End \(Maxtreme Remix\)](https://open.spotify.com/album/503FY6ehD3u23Sa66wdJIC) | 3:03 | 2021-12-16 |  |
 | [Deep In My Soul](https://open.spotify.com/track/7nziCzPuyKub9Ra5o5OSEy) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Deep In My Soul](https://open.spotify.com/album/4i23NCktx67U67gbmNfxuL) | 4:01 | 2022-09-08 | 2023-02-10 |
 | [Defend The Hard](https://open.spotify.com/track/322CxP5qqwIpfLzuOjWZOh) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Defend The Hard](https://open.spotify.com/album/4cxOD1bhalINrn4lw5FO6j) | 3:40 | 2022-01-19 | 2023-04-07 |

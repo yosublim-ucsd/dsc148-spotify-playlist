@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Hariel, The Weeknd com Playboi Carti e Madonna, Iguinho e Lulinha, Mc Pedrinho, Michel Teló com Clayton & Romário e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,877,970 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,878,211 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Daydream](https://open.spotify.com/track/6JukP705SOkqUR8lvtFu0F) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [I Got My Eyes Fixed](https://open.spotify.com/album/2aig0xx4sYdxXSydJfX4j6) | 2:36 |
 | 100 | [Triptamina](https://open.spotify.com/track/0X8Hlp5uBjxnKHchFD8W6A) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [Triptamina](https://open.spotify.com/album/3vrmD0UDdhvUuwV5N3foZi) | 2:55 |
 
-Snapshot ID: `MCw3Yjg3MTNkYTMyMWY1YWQxMjUzZTBhOTdlMzIwMzYzNGU2YWIyNmYz`
+Snapshot ID: `MCxjZDFkMmFlMjY5MjlkNDYxOWNhMzAwMDU1YTM4ZjJjOTQxY2I3YTIw`

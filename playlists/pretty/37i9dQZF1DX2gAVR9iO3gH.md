@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó featuring Sebastian Yatra, Manuel Turizo & Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,343 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,370 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 37 | [LOS POBRES Y LOS RICOS](https://open.spotify.com/track/6mYeBTeXcz25ZeAwjW6apF) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [LOS POBRES Y LOS RICOS](https://open.spotify.com/album/6LDa3nMGDUFrNxGpXI21nV) | 3:19 |
 | 38 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 |
 | 39 | [Que Rico](https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s) | [Un Titico](https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX), [El Dany MG](https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG) | [Que Rico](https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx) | 2:37 |
-| 40 | [De Revista \- Remix](https://open.spotify.com/track/0jEs4lbM1tLANAulsyDfjR) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [De Revista \(Remix\)](https://open.spotify.com/album/4t9Zm2EFBwVerXHe93ypW3) | 3:59 |
-| 41 | [La Que Quiero Yo](https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Que Quiero Yo](https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB) | 3:09 |
+| 40 | [La Que Quiero Yo](https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Que Quiero Yo](https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB) | 3:09 |
+| 41 | [De Revista \- Remix](https://open.spotify.com/track/0jEs4lbM1tLANAulsyDfjR) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [De Revista \(Remix\)](https://open.spotify.com/album/4t9Zm2EFBwVerXHe93ypW3) | 3:59 |
 | 42 | [Un Inclinao \- Prod\. by Ernesto Losa, Cuban Deejays](https://open.spotify.com/track/0Cl4Uf9dFMnOeAsPnOF222) | [Bebeshito](https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS), [Cuban Deejays](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Un Inclinao \(Prod\. by Ernesto Losa, Cuban Deejays\)](https://open.spotify.com/album/4hRclDUmKnI7jBR4nDERZG) | 2:53 |
 | 43 | [Otro Trago](https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tamoarriba](https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V) | 3:30 |
 | 44 | [Men2](https://open.spotify.com/track/3rsR6s7AkrzzUB1xEOxy25) | [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu) | [Men2](https://open.spotify.com/album/7MQyeVe7Tu5FfzmrQiCVUd) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 49 | [Tiempo \- Remix](https://open.spotify.com/track/3kDGPYMconPbEogwnb1ue6) | [Yomil](https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU), [Alex Duvall](https://open.spotify.com/artist/3slclAGfrwhEidYb97ut8I), [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Cesarito pues](https://open.spotify.com/artist/3i7yVYVbHwEMTT5t06ytNf), [Melodiako](https://open.spotify.com/artist/5wV7LiyDb9RXJyWZ9B4lDK) | [Tiempo \(Remix\)](https://open.spotify.com/album/53QCigxhuwtgSUUr2evXWg) | 3:25 |
 | 50 | [Que Rico](https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s) | [Un Titico](https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX), [El Dany MG](https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG) | [Que Rico](https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx) | 2:37 |
 
-Snapshot ID: `MCw2MjI5ZTU3YzE3MjcwNmM2OTQ2MWQ5MjI5MmIwMmZiNTY3NDRjZWNm`
+Snapshot ID: `MCw1ZGViZDlkZmU5ZjQ5MTkwZmJmYzJlOTk2YWM1ZWM3ODcwM2NkYmUw`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,380 songs - 2 day 23 hr 24 min
+1,381 songs - 2 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Cara Mia](https://open.spotify.com/track/1TxSLtHZ3cqnyTJSkzt0SY) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Cara Mia](https://open.spotify.com/album/01fEvBkM2FjXBZd2xW4Cqe) | 3:31 | 2022-10-31 | 2022-11-18 |
 | [Cara Mia](https://open.spotify.com/track/4GGAC3gKzO5N9Vb8IQv0fQ) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Så mycket bättre 2022 – Tolkningarna](https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon) | 3:31 | 2022-11-17 | 2022-11-23 |
 | [Caravaggio](https://open.spotify.com/track/5Bv6jNkvB82p6NCeaFsVuA) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Caravaggio](https://open.spotify.com/album/06bvnTPXXc3ozKuXnimVZj) | 2:12 | 2021-09-24 | 2021-10-17 |
-| [Cataleya](https://open.spotify.com/track/0UPqn8FGqnHqBjrkTHnFm7) | [A\-nine](https://open.spotify.com/artist/6kvttKDg5ioVprwcaiqWV1) | [Cataleya](https://open.spotify.com/album/75W4jn9e1wEy3eENSsDBNl) | 2:40 | 2023-06-06 | 2023-06-08 |
+| [Cataleya](https://open.spotify.com/track/0UPqn8FGqnHqBjrkTHnFm7) | [A\-nine](https://open.spotify.com/artist/6kvttKDg5ioVprwcaiqWV1) | [Cataleya](https://open.spotify.com/album/75W4jn9e1wEy3eENSsDBNl) | 2:40 | 2023-06-06 |  |
 | [Catfish](https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:30 | 2022-09-08 | 2022-10-18 |
 | [CATWALK](https://open.spotify.com/track/5YoHjWEXKCkJbRcvs8846Y) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [CATWALK](https://open.spotify.com/album/0G2HYdfhqWeyuigwQdObeX) | 2:01 | 2023-05-22 |  |
 | [CCTV](https://open.spotify.com/track/3zx5ne2XxVwFcPg4t6OxRC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [CCTV](https://open.spotify.com/album/2g8aREJdHnVxe5cedBfLbQ) | 2:24 | 2021-09-08 | 2021-10-17 |
@@ -1052,7 +1052,7 @@
 | [Say Less](https://open.spotify.com/track/2XmTl3CSWGHauyjArJMMIT) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Say Less](https://open.spotify.com/album/5V0EcF3NlXeYoMDB9kWTz2) | 2:11 | 2022-07-16 | 2022-07-25 |
 | [Say Oui](https://open.spotify.com/track/2vJ7YiM4Sc0VqGb9OWrZyr) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Say Oui](https://open.spotify.com/album/1YCtHrTMT1tv8hAzYUJDja) | 2:36 | 2021-10-10 | 2021-10-23 |
 | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT) | 2:55 | 2023-04-01 | 2023-04-09 |
-| [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 |  |
+| [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-06-09 |
 | [Schack](https://open.spotify.com/track/2B4GEg6cLD3YlzOIBdOD7x) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Schack](https://open.spotify.com/album/1n7deqmRb4GVEgsNoFyGLZ) | 2:29 | 2022-11-19 | 2022-12-03 |
 | [SE DIG OMKRING](https://open.spotify.com/track/29zXVASHgYRx5mmDQmhUZr) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W) | [SE DIG OMKRING](https://open.spotify.com/album/1z1mrFk2fxJniRhwhckodf) | 3:07 | 2022-03-05 | 2022-03-11 |
 | [SE MIG](https://open.spotify.com/track/0djNuMqEv8KCVE0tUQyyrJ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [SE MIG](https://open.spotify.com/album/1hH4uUsYGsiZBFi9XlzoX9) | 3:18 | 2021-05-30 | 2021-10-17 |
@@ -1110,7 +1110,7 @@
 | [Sober](https://open.spotify.com/track/0vuyiZejJnlgQpxy6XK7u2) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Sober](https://open.spotify.com/album/0MpphkdrO0WciFt7MihbEC) | 3:01 | 2023-02-20 | 2023-03-14 |
 | [Socker Och Vatten](https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Vatten](https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa) | 3:18 | 2022-03-26 | 2022-03-30 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-14 | 2022-01-23 |
-| [Sol, vind och vatten](https://open.spotify.com/track/0lwJH1BDr8Z4wfXvi6yC9y) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Ted](https://open.spotify.com/album/7pY0hwPU10gaH4qDsDFA6d) | 3:09 | 2021-06-27 |  |
+| [Sol, vind och vatten](https://open.spotify.com/track/0lwJH1BDr8Z4wfXvi6yC9y) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Ted](https://open.spotify.com/album/7pY0hwPU10gaH4qDsDFA6d) | 3:09 | 2021-06-27 | 2023-06-09 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-16 |
 | [Soldier of Heaven](https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Soldier Of Heaven](https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C) | 3:38 | 2022-01-08 | 2022-01-10 |
 | [Solvalla](https://open.spotify.com/track/1kXOujFqMAZklF7jXhzcg1) | [Macky](https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk) | [Solvalla](https://open.spotify.com/album/0UesPMN4BblmCI5unGURx7) | 2:45 | 2021-08-22 | 2021-08-29 |
@@ -1308,6 +1308,7 @@
 | [Vidare](https://open.spotify.com/track/6ENpYA1F7bnLlJvN0bEJR3) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Vidare](https://open.spotify.com/album/44pixg7S5zZibeAZzCzmkO) | 2:39 | 2022-07-02 | 2022-07-10 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-30 |
 | [Vill ha dej](https://open.spotify.com/track/1gprScNuzOM4pOQuE2VQk7) | [Style](https://open.spotify.com/artist/5dkIWtbRmQoX1YLilwg4KJ) | [12 Bästa](https://open.spotify.com/album/2m7XdoXPUU5fJjb9qY4qCf) | 3:39 | 2021-06-27 | 2021-06-28 |
+| [Vill va med dig](https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Vill va med dig](https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI) | 2:48 | 2023-06-08 |  |
 | [Visa vid vindens ängar](https://open.spotify.com/track/0fmQ692NrBq51GSFVNV3og) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Luften bor i mina steg](https://open.spotify.com/album/58nibN4cRCN643kIiqIG5W) | 5:14 | 2022-06-25 | 2022-06-27 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-31 |
 | [VOI](https://open.spotify.com/track/6pUm3MoTibn5ql3VkNCghC) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [VOI](https://open.spotify.com/album/4IsIz3slcNGveMr1uJ8CuJ) | 2:42 | 2021-04-26 | 2023-02-06 |

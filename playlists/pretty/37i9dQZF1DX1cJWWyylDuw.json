@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: The Acacia Strain",
-  "num_followers": 121862,
+  "num_followers": 122084,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDg4Yjg3YTk5MjQ0NzJkNDdmMGZhMTQ1Zjg3OGEzMTViMWQ0ZTUx",
+  "snapshot_id": "MCwyYzFhMTMzMmRhNWU1NWY3ZWUyMGNhN2E2OTJiYTY4NGQzYjQ4MzYy",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Outrun",
-        "url": "https://open.spotify.com/album/2MxaRRkncFrg3v422FUHxN"
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
       },
       "artists": [
         {
-          "name": "Veil Of Maya",
-          "url": "https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1"
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
         }
       ],
-      "duration_ms": 225768,
-      "name": "Outrun",
-      "url": "https://open.spotify.com/track/2CruovQVFC9NdqOM40tObf"
+      "duration_ms": 131142,
+      "name": "Pigs Ear",
+      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
+        "name": "Outrun",
+        "url": "https://open.spotify.com/album/2MxaRRkncFrg3v422FUHxN"
       },
       "artists": [
         {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+          "name": "Veil Of Maya",
+          "url": "https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1"
         }
       ],
-      "duration_ms": 131142,
-      "name": "Pigs Ear",
-      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
+      "duration_ms": 225768,
+      "name": "Outrun",
+      "url": "https://open.spotify.com/track/2CruovQVFC9NdqOM40tObf"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Nihilus",
-        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Nihilus",
-      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Behind the Hand of God",
         "url": "https://open.spotify.com/album/7kLGqxeAyPv2PYRk8dUYBp"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 200307,
       "name": "Behind the Hand of God",
       "url": "https://open.spotify.com/track/3c34ZTRGIuBX6MfRJmmqOW"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Nihilus",
+        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Nihilus",
+      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/1TqxaBXzqepHJHcI2QAoRu"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Vermin",
-        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 218923,
-      "name": "Vermin",
-      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
-    },
-    {
       "added_at": "2023-05-01 16:06:30",
       "album": {
         "name": "Anti-Fetish",
@@ -1335,6 +1319,22 @@
       "duration_ms": 238625,
       "name": "Anti-Fetish",
       "url": "https://open.spotify.com/track/2fc6YX69npgSxNM1pBHBgf"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Vermin",
+        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 218923,
+      "name": "Vermin",
+      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "FRESH BONES",
-        "url": "https://open.spotify.com/album/7kPz7t2SmzZfcpvkCXQSAW"
-      },
-      "artists": [
-        {
-          "name": "The Acacia Strain",
-          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
-        }
-      ],
-      "duration_ms": 148560,
-      "name": "FRESH BONES",
-      "url": "https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Caved In",
         "url": "https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 199186,
       "name": "Satanic Panic",
       "url": "https://open.spotify.com/track/2VQGwuPW5yKa4CximuFlQh"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "FRESH BONES",
+        "url": "https://open.spotify.com/album/7kPz7t2SmzZfcpvkCXQSAW"
+      },
+      "artists": [
+        {
+          "name": "The Acacia Strain",
+          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "duration_ms": 148560,
+      "name": "FRESH BONES",
+      "url": "https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1491,34 +1491,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Eulogy of Ashes",
-        "url": "https://open.spotify.com/album/6ONX9NbHxKJMPIbflN7Kff"
-      },
-      "artists": [
-        {
-          "name": "Vulvodynia",
-          "url": "https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J"
-        }
-      ],
-      "duration_ms": 243029,
-      "name": "Eulogy of Ashes",
-      "url": "https://open.spotify.com/track/2vC5N2LWZS6tW3bi7NvhS7"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Stained In Rot",
-        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
+        "name": "Befouler (feat. Alex Terrible)",
+        "url": "https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD"
       },
       "artists": [
         {
           "name": "Ov Sulfur",
           "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        },
+        {
+          "name": "Alex Terrible",
+          "url": "https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO"
         }
       ],
-      "duration_ms": 254500,
-      "name": "Stained In Rot",
-      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
+      "duration_ms": 223190,
+      "name": "Befouler (feat. Alex Terrible)",
+      "url": "https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1535,6 +1523,22 @@
       "duration_ms": 221810,
       "name": "Hellmouth",
       "url": "https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Eulogy of Ashes",
+        "url": "https://open.spotify.com/album/6ONX9NbHxKJMPIbflN7Kff"
+      },
+      "artists": [
+        {
+          "name": "Vulvodynia",
+          "url": "https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J"
+        }
+      ],
+      "duration_ms": 243029,
+      "name": "Eulogy of Ashes",
+      "url": "https://open.spotify.com/track/2vC5N2LWZS6tW3bi7NvhS7"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1587,6 +1591,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Stained In Rot",
+        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "Stained In Rot",
+      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Bleed the Future",
         "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 229000,
       "name": "King Ov Fire",
       "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Befouler (feat. Alex Terrible)",
-        "url": "https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        },
-        {
-          "name": "Alex Terrible",
-          "url": "https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO"
-        }
-      ],
-      "duration_ms": 223190,
-      "name": "Befouler (feat. Alex Terrible)",
-      "url": "https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Rot With Me",
+        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
+      },
+      "artists": [
+        {
+          "name": "For the Likes of You",
+          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
+        }
+      ],
+      "duration_ms": 286735,
+      "name": "Rot With Me",
+      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "I Hope We Make It Out of This Alive",
         "url": "https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx"
       },
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Rot With Me",
-        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
+        "name": "Paranoid Skizoid",
+        "url": "https://open.spotify.com/album/3HX4nigXg6PaUMBhDgAFXO"
       },
       "artists": [
         {
-          "name": "For the Likes of You",
-          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
+          "name": "DeadSquad",
+          "url": "https://open.spotify.com/artist/2By8ec9DQOnN2aiiFyrQ82"
         }
       ],
-      "duration_ms": 286735,
-      "name": "Rot With Me",
-      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
+      "duration_ms": 182084,
+      "name": "Paranoid Skizoid",
+      "url": "https://open.spotify.com/track/15KxR0KLfryV2yNKU8WFf3"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1719,22 +1735,6 @@
       "duration_ms": 179876,
       "name": "Choky",
       "url": "https://open.spotify.com/track/5VIqmAis57fVSZ66761QHn"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Paranoid Skizoid",
-        "url": "https://open.spotify.com/album/3HX4nigXg6PaUMBhDgAFXO"
-      },
-      "artists": [
-        {
-          "name": "DeadSquad",
-          "url": "https://open.spotify.com/artist/2By8ec9DQOnN2aiiFyrQ82"
-        }
-      ],
-      "duration_ms": 182084,
-      "name": "Paranoid Skizoid",
-      "url": "https://open.spotify.com/track/15KxR0KLfryV2yNKU8WFf3"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Price of Grace",
-        "url": "https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd"
-      },
-      "artists": [
-        {
-          "name": "Convictions",
-          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
-        }
-      ],
-      "duration_ms": 247282,
-      "name": "The Price of Grace",
-      "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "How To Live And How To Lose",
         "url": "https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 255400,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "The Price of Grace",
+        "url": "https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd"
+      },
+      "artists": [
+        {
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+        }
+      ],
+      "duration_ms": 247282,
+      "name": "The Price of Grace",
+      "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Downer",
-        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Traumadoll - Withdrawal Edition",
-      "url": "https://open.spotify.com/track/3twv46z3wIFAG3sKbOi8SO"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Death Whistle",
         "url": "https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 353138,
       "name": "Death Whistle",
       "url": "https://open.spotify.com/track/6t5wPcC3CtQjzn5O7i4yVg"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Downer",
+        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Traumadoll - Withdrawal Edition",
+      "url": "https://open.spotify.com/track/3twv46z3wIFAG3sKbOi8SO"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
-      },
-      "artists": [
-        {
-          "name": "Bleeding Through",
-          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
-        }
-      ],
-      "duration_ms": 234294,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Downer",
         "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 218471,
       "name": "Kimo",
       "url": "https://open.spotify.com/track/5AkX89uLg47wse4Z1g6oil"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "duration_ms": 234294,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI"
     },
     {
       "added_at": "2023-04-28 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Xam\u00e3",
-  "num_followers": 112038,
+  "num_followers": 112134,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTE0MTYyMGU1MDI4NWI5NzM2MmY5OWE3NmUzODM0MjI3NDhhZTEz",
+  "snapshot_id": "MCw5NjdmMmY2MTU0MzU5MjAzMGRmMDM0ZmQxMmZkYjg5OThjY2YxZmE2",
   "tracks": [
     {
       "added_at": "2023-06-02 03:01:00",
@@ -503,34 +503,6 @@
     {
       "added_at": "2023-06-02 03:01:00",
       "album": {
-        "name": "VAI POR MIM",
-        "url": "https://open.spotify.com/album/1KcKl235anOEDbD1cIeTbl"
-      },
-      "artists": [
-        {
-          "name": "GDM",
-          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 147645,
-      "name": "VAI POR MIM",
-      "url": "https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY"
-    },
-    {
-      "added_at": "2023-06-02 03:01:00",
-      "album": {
         "name": "Viz\u00e3o de Cria 2",
         "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
       },
@@ -571,6 +543,34 @@
       "duration_ms": 306141,
       "name": "Viz\u00e3o de Cria 2",
       "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
+    },
+    {
+      "added_at": "2023-06-02 03:01:00",
+      "album": {
+        "name": "VAI POR MIM",
+        "url": "https://open.spotify.com/album/1KcKl235anOEDbD1cIeTbl"
+      },
+      "artists": [
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 147645,
+      "name": "VAI POR MIM",
+      "url": "https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY"
     },
     {
       "added_at": "2023-06-02 03:01:00",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2023-06-02 03:01:00",
       "album": {
+        "name": "Cria da BXD",
+        "url": "https://open.spotify.com/album/4wY4YlF9tkcXNHuTV5M6n2"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 121379,
+      "name": "Cria da BXD",
+      "url": "https://open.spotify.com/track/1eA0BSAtKGOOyjddOLBigX"
+    },
+    {
+      "added_at": "2023-06-02 03:01:00",
+      "album": {
         "name": "Para\u00edso Tropical",
         "url": "https://open.spotify.com/album/6dQ1cpSICVmtZlvulFbkjy"
       },
@@ -1183,30 +1207,6 @@
       "duration_ms": 420000,
       "name": "Para\u00edso Tropical",
       "url": "https://open.spotify.com/track/0eKQyaQbK3NvD7ksy7l25q"
-    },
-    {
-      "added_at": "2023-06-02 03:01:00",
-      "album": {
-        "name": "Cria da BXD",
-        "url": "https://open.spotify.com/album/4wY4YlF9tkcXNHuTV5M6n2"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 121379,
-      "name": "Cria da BXD",
-      "url": "https://open.spotify.com/track/1eA0BSAtKGOOyjddOLBigX"
     },
     {
       "added_at": "2023-06-02 03:01:00",

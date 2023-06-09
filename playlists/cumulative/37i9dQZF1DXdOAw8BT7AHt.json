@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The best in new punk rock music. Cover: Lambrini Girls",
+  "description": "The best in new punk rock music. Cover: Sprints",
   "name": "The Punk List",
   "tracks": [
     {
@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Adore Adore Adore",
+        "url": "https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi"
+      },
+      "artists": [
+        {
+          "name": "Sprints",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157766,
+      "name": "Adore Adore Adore",
+      "url": "https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI"
+    },
+    {
+      "album": {
         "name": "MY BRAIN AFTER THERAPY",
         "url": "https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 197660,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
@@ -305,6 +323,24 @@
     },
     {
       "album": {
+        "name": "'Til the Wheels Fall Off",
+        "url": "https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213435,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY"
+    },
+    {
+      "album": {
         "name": "Night Gnomes",
         "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
       },
@@ -428,7 +464,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 230857,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6m4BBz6Ui5oQKXNmiy1QOg"
@@ -464,7 +500,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 135466,
       "name": "Choose Your Fighter",
       "url": "https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU"
@@ -522,6 +558,24 @@
       "duration_ms": 147535,
       "name": "Country Life",
       "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
+    },
+    {
+      "album": {
+        "name": "Cry To Heaven",
+        "url": "https://open.spotify.com/album/5mY2RBEc4jQmWzXaW9evvM"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269260,
+      "name": "Cry To Heaven",
+      "url": "https://open.spotify.com/track/5oqVYnqZOZJDmwD3BtcJty"
     },
     {
       "album": {
@@ -1229,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "How To Live With Yourself / Smoke Screen / Kill Something",
+        "url": "https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165173,
+      "name": "How To Live With Yourself",
+      "url": "https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY"
+    },
+    {
+      "album": {
         "name": "I WENT TO HELL AND BACK",
         "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
       },
@@ -1584,6 +1656,24 @@
       "duration_ms": 190735,
       "name": "Madge's Declaration",
       "url": "https://open.spotify.com/track/547Ad3KBxWgNCmLbot2vf5"
+    },
+    {
+      "album": {
+        "name": "Formal Growth In The Desert",
+        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177559,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
     },
     {
       "album": {
@@ -1968,7 +2058,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 274386,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx"
@@ -2210,10 +2300,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 225179,
       "name": "So Trendy",
       "url": "https://open.spotify.com/track/0XcFrS0wGmXpuJlBAcL6s4"
+    },
+    {
+      "album": {
+        "name": "Social Lubrication",
+        "url": "https://open.spotify.com/album/6xbQJnAG6xGf9Oiy6ovhTk"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208812,
+      "name": "Social Lubrication",
+      "url": "https://open.spotify.com/track/1cg8EBH7yBCJIi7V0vMhf6"
     },
     {
       "album": {
@@ -2481,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145367,
+      "name": "Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83"
+    },
+    {
+      "album": {
         "name": "THE UNRAVELING OF PUPTHEBAND",
         "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
@@ -2600,7 +2726,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 186996,
       "name": "Waste",
       "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
@@ -2654,7 +2780,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 127213,
       "name": "Who Do We Not Save",
       "url": "https://open.spotify.com/track/0gL0Au51CmhJy7R5Oo70WE"

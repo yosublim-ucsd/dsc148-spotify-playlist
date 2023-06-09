@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,547 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,558 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 15 | [Aló](https://open.spotify.com/track/5X05GodF8j6g6Zx35bQP0B) | [Terry Joe](https://open.spotify.com/artist/2Npb4qJMwRjjv2ZUHOuP4q) | [Aló](https://open.spotify.com/album/6kO0ndhbVxaSo9CvvSGVr7) | 2:17 |
 | 16 | [snooze](https://open.spotify.com/track/3kA2bMlaDfycWaqCT3E31K) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [snooze](https://open.spotify.com/album/7bBMH6oTsYRZkL1pr2HwEy) | 1:37 |
 | 17 | [Die frühen Jahre](https://open.spotify.com/track/0ZQVtF9HsJXfpWX3P8Ba9C) | [Dota Kehr](https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga), [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Die frühen Jahre](https://open.spotify.com/album/250anWITcrgT8EeUOudi2A) | 3:43 |
-| 18 | [Too Late To Move On](https://open.spotify.com/track/3dpf0TzNlYHtO2UIPtf7MF) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [Too Late To Move On](https://open.spotify.com/album/7FrVCTcqXnk62p8QDxR3Ii) | 2:31 |
-| 19 | [On My Own](https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [On My Own](https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP) | 2:34 |
+| 18 | [On My Own](https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [On My Own](https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP) | 2:34 |
+| 19 | [Too Late To Move On](https://open.spotify.com/track/3dpf0TzNlYHtO2UIPtf7MF) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [Too Late To Move On](https://open.spotify.com/album/7FrVCTcqXnk62p8QDxR3Ii) | 2:31 |
 | 20 | [Chardonnay](https://open.spotify.com/track/7CtzSZgxabb1QDh5B7GI4b) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Chardonnay](https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH) | 2:20 |
 | 21 | [Come Alive](https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
 | 22 | [Lieber für mich](https://open.spotify.com/track/671auplSl17WIJSefMXsjN) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Lieber für mich](https://open.spotify.com/album/2fws4o7IMCnaDjOEvigDRV) | 2:14 |
@@ -34,20 +34,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 24 | [Better Off](https://open.spotify.com/track/4L9YBaBP34DCEoETaQHk7S) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [Better Off](https://open.spotify.com/album/3IbJi8T9OfwEWCk8Oybljo) | 2:45 |
 | 25 | [So bin ich halt / blablabla](https://open.spotify.com/track/6utOJJy9KE3GxeIeAMAS9H) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [So bin ich halt / blablabla](https://open.spotify.com/album/5g0qVROyAjzBdxShAaWFdT) | 2:10 |
 | 26 | [Warning Signs](https://open.spotify.com/track/1Fj3PeeNmoLHaYLJcDTO5d) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [SOAMI](https://open.spotify.com/album/0mTbr4UVWZVZ06SldpT0ZL) | 3:25 |
-| 27 | [Baddest Bitch](https://open.spotify.com/track/7I6QE73aDl2Z4wthmcMKUM) | [Rosa](https://open.spotify.com/artist/3CqgA23LfBqxcZdfVClLl9) | [Welle Vol\. 1](https://open.spotify.com/album/2GWCBBS26Bp4eVSWNbnAsV) | 2:53 |
-| 28 | [Waterloo](https://open.spotify.com/track/2GuZ9qPfVYUIIZp8aQrqbI) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Waterloo](https://open.spotify.com/album/036QUi4yi6JQ8gRUGjrDx2) | 2:49 |
+| 27 | [Waterloo](https://open.spotify.com/track/2GuZ9qPfVYUIIZp8aQrqbI) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Waterloo](https://open.spotify.com/album/036QUi4yi6JQ8gRUGjrDx2) | 2:49 |
+| 28 | [Baddest Bitch](https://open.spotify.com/track/7I6QE73aDl2Z4wthmcMKUM) | [Rosa](https://open.spotify.com/artist/3CqgA23LfBqxcZdfVClLl9) | [Welle Vol\. 1](https://open.spotify.com/album/2GWCBBS26Bp4eVSWNbnAsV) | 2:53 |
 | 29 | [Rosa Pillen](https://open.spotify.com/track/5spRLdyJ5pUl6UO6WH57Uu) | [SHARI](https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS) | [Rosa Pillen](https://open.spotify.com/album/0bRYhJINUfUf863VcCthEN) | 2:16 |
 | 30 | [Wenn ich mal Kinder hab](https://open.spotify.com/track/2uPQKiYAGy5th6mnJYjI26) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Wenn ich mal Kinder hab](https://open.spotify.com/album/2PaaxZrYkVSKbyqrpuKhPO) | 3:18 |
 | 31 | [The House of House](https://open.spotify.com/track/6cyctoQI5xU2ZI5MLslxPs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [The House of House EP](https://open.spotify.com/album/7wkd8RasRwQYJ07htKGEIN) | 3:36 |
 | 32 | [eye to eye](https://open.spotify.com/track/19RHyDJTYWnZq54f3UyCgl) | [may](https://open.spotify.com/artist/0xCMgjZjdbW6hsiCRR05Cn) | [eye to eye](https://open.spotify.com/album/40OD1XXC6HSpcEJyDwZj5G) | 2:15 |
 | 33 | [lovin myself](https://open.spotify.com/track/1RT4OQ8ChZkhEgcp7rmq6i) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [lovin myself](https://open.spotify.com/album/1kqoyz9SCrYbsaprObOXun) | 2:47 |
 | 34 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
-| 35 | [In Theory Depression](https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR) | 3:09 |
-| 36 | [Roll the Dice](https://open.spotify.com/track/0lWjdNnMq8SbeSulckVQMY) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Roll the Dice](https://open.spotify.com/album/4h90wABKg7XSFkJxcsFzhc) | 3:36 |
+| 35 | [Roll the Dice](https://open.spotify.com/track/0lWjdNnMq8SbeSulckVQMY) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Roll the Dice](https://open.spotify.com/album/4h90wABKg7XSFkJxcsFzhc) | 3:36 |
+| 36 | [In Theory Depression](https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR) | 3:09 |
 | 37 | [Lose My Mind \- Original Mix](https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Lose My Mind EP](https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9) | 6:21 |
 | 38 | [Killer](https://open.spotify.com/track/5IrenNXIBzq2YPD8Qbo3Gj) | [Brenda Blitz](https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd) | [Killer](https://open.spotify.com/album/4vovkbUOIW9zkyZQy0WilV) | 2:35 |
-| 39 | [Direct Flight To Seattle](https://open.spotify.com/track/79JtOQixt6WItl0FOy616K) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Direct Flight To Seattle](https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr) | 4:05 |
-| 40 | [Paradies](https://open.spotify.com/track/0KUkgvA7qnnJ6QF5RGGXZq) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Risiko](https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF) | 3:57 |
+| 39 | [Paradies](https://open.spotify.com/track/0KUkgvA7qnnJ6QF5RGGXZq) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Risiko](https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF) | 3:57 |
+| 40 | [Direct Flight To Seattle](https://open.spotify.com/track/79JtOQixt6WItl0FOy616K) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Direct Flight To Seattle](https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr) | 4:05 |
 | 41 | [Is it weird?](https://open.spotify.com/track/4CTC48IGRZiCPIbG1TKjIn) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Is it weird?](https://open.spotify.com/album/1wtljFgyAcMtr0mDSpRZ7Z) | 3:01 |
 | 42 | [Lauf](https://open.spotify.com/track/7d8mo4A255IToerZNguieR) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Lauf](https://open.spotify.com/album/6xYlmcdkzu7vopLPtjdxxE) | 2:23 |
 | 43 | [Sie reden so laut](https://open.spotify.com/track/0yzLAV4bq5nxDuNYL7beas) | [Bipolar Feminin](https://open.spotify.com/artist/7HOiyvAQxMFt0gvH3IcAsX) | [Ein fragiles System](https://open.spotify.com/album/79GMIRMBiDngaFQjxQNqfF) | 2:27 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 46 | [Made For This](https://open.spotify.com/track/6QH11lJR1WmF7fcsNehgm9) | [Maria Basel](https://open.spotify.com/artist/7bG0R0A7ysGORFgSyyuWfR) | [Made For This](https://open.spotify.com/album/0NaoFudz9gsW1T2zrbOTSe) | 3:50 |
 | 47 | [Nothing At All](https://open.spotify.com/track/5Iv1gAJNpxBX0KpfoAhAnK) | [Louisa Laos](https://open.spotify.com/artist/0D6kOkvNWkdwl7NLHOFF8W) | [INTRO](https://open.spotify.com/album/4eRX0RliGlT4HkZxcTkbiG) | 2:58 |
 | 48 | [Eyelash](https://open.spotify.com/track/779ESA2JH0Fs8nP2e3XfTK) | [Zylva](https://open.spotify.com/artist/0qLyc7ekSn9O9tQviQObWM) | [Eyelash](https://open.spotify.com/album/7uGixAf1AuGjkCtoeBBcbu) | 2:59 |
-| 49 | [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 |
-| 50 | [Kookoo](https://open.spotify.com/track/0QmlqqHjplKegcZv8IoDOD) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [All Eyes On The Revolution](https://open.spotify.com/album/2kOxElxYMxesQOsshjNJGU) | 3:58 |
+| 49 | [Kookoo](https://open.spotify.com/track/0QmlqqHjplKegcZv8IoDOD) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [All Eyes On The Revolution](https://open.spotify.com/album/2kOxElxYMxesQOsshjNJGU) | 3:58 |
+| 50 | [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 |
 
-Snapshot ID: `MCwzOTA3OGUzYmFhM2I2YzliMDhjNTFmMmU2M2RiMTgyZjYzYzc3ZDg1`
+Snapshot ID: `MCw0OGZjZDczODUxYjFhZDlhOGY3ZjY0MjczNmQ4NGIxZjVmOTA5ZDll`

@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 152625,
+  "num_followers": 152648,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzIxODM2ZWRkZDFiNmRhNjU1ZmI0OGUzYTFiODU4ZjlkNzdjY2Vl",
+  "snapshot_id": "MCxlODVmNzg5ZTVjNjM0ZTI0MjNhY2E5ZGVhMDQzYTFkOTI0ZDQyM2I1",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Darling Arithmetic",
-        "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Everything I Am Is Yours",
-      "url": "https://open.spotify.com/track/281ioxkZbJ3p9hCvjD2bon"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Darling Arithmetic",
+        "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Everything I Am Is Yours",
+      "url": "https://open.spotify.com/track/281ioxkZbJ3p9hCvjD2bon"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Dancing On My Own (Acoustic)",
-        "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 253482,
-      "name": "Dancing On My Own - Acoustic",
-      "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 219066,
       "name": "please",
       "url": "https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Dancing On My Own (Acoustic)",
+        "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 253482,
+      "name": "Dancing On My Own - Acoustic",
+      "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "#Covers",
         "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "10 Summers",
-        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
-      },
-      "artists": [
-        {
-          "name": "Ashley Singh",
-          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "10 Summers",
-      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 236653,
       "name": "Two People",
       "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "10 Summers",
+        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
+      },
+      "artists": [
+        {
+          "name": "Ashley Singh",
+          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "10 Summers",
+      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Bigger Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
-      },
-      "artists": [
-        {
-          "name": "Crying Day Care Choir",
-          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
-        }
-      ],
-      "duration_ms": 288731,
-      "name": "Bigger Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 230440,
       "name": "This Is What It Takes",
       "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Bigger Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "duration_ms": 288731,
+      "name": "Bigger Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Sometimes It's Something, Sometimes It's Nothing at All",
-        "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 118826,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Here With Me - Acoustic",
         "url": "https://open.spotify.com/album/0R8V2wckybjZhV0lclGaNt"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 164478,
       "name": "Here With Me - Acoustic",
       "url": "https://open.spotify.com/track/0Dc3gJMT5I1NrHsjVywWvI"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Sometimes It's Something, Sometimes It's Nothing at All",
+        "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Clean Eyes",
-        "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 222810,
-      "name": "Clean Eyes - Acoustic",
-      "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Chasing After the Moon",
         "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 238994,
       "name": "Chasing After the Moon",
       "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Clean Eyes",
+        "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 222810,
+      "name": "Clean Eyes - Acoustic",
+      "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I'm on Fire",
-        "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 140130,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "When the Party's Over",
         "url": "https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 154732,
       "name": "When the Party's Over",
       "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "I'm on Fire",
+        "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 140130,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
     },
     {
       "added_at": "2023-02-10 06:37:00",

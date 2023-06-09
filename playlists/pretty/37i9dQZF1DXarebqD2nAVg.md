@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,016 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,154 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 13 | [falling down](https://open.spotify.com/track/7hFLiKigpVlcmFSryIEff8) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Esuna](https://open.spotify.com/album/1QcMDjbzVWyju8NQaptAll) | 1:36 |
 | 14 | [I Don't Sleep](https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Sleep](https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE) | 1:45 |
 | 15 | [You're in My Head](https://open.spotify.com/track/6xLeyTBwtgC1hQWFJ1vlC2) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na) | 1:37 |
-| 16 | [disappear](https://open.spotify.com/track/3x1edFtdUWSV6bFmAdHO3u) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [disappear](https://open.spotify.com/album/3innYFypOVQEwccHtItsh6) | 1:49 |
-| 17 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 |
+| 16 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 |
+| 17 | [disappear](https://open.spotify.com/track/3x1edFtdUWSV6bFmAdHO3u) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [disappear](https://open.spotify.com/album/3innYFypOVQEwccHtItsh6) | 1:49 |
 | 18 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 |
 | 19 | [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 |
 | 20 | [Think About U \(feat\. Joji\)](https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Elsewhere](https://open.spotify.com/album/1gGfFfbRfgFUdEt0moggLS) | 2:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 45 | [Memories Fade](https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:27 |
 | 46 | [can't tell](https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La) | [loftii](https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [leaving us](https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC) | 2:49 |
 | 47 | [Wretched](https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8) | 2:10 |
-| 48 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
-| 49 | [cold door handles](https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [nobody else](https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW) | 2:26 |
-| 50 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 |
+| 48 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 |
+| 49 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
+| 50 | [cold door handles](https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [nobody else](https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW) | 2:26 |
 
-Snapshot ID: `MCw0MjkyMWE2NjE5NWU4ODk0ZGQ2YmIzMjExYjY0N2FkMTFiOWRjYTFk`
+Snapshot ID: `MCxiNzcwNTIyNTVlNWI4N2RmYWUzYjA2ZmZhMDk1NTJmMjA1NzkzZGQx`

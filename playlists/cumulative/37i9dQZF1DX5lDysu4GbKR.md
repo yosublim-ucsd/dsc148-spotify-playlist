@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-184 songs - 11 hr 5 min
+185 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Here Before](https://open.spotify.com/track/1GRop5Dgbsq0X0zq9jy3R9) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 4:29 | 2022-06-16 |  |
 | [Here Before](https://open.spotify.com/track/2G2qENlHGYoYTRvGz7rMiV) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [II](https://open.spotify.com/album/1kuGSLgkcjZV9idGLT4AkQ) | 4:29 | 2021-12-09 | 2022-07-29 |
 | [Here Before](https://open.spotify.com/track/4NVDb2IBFPZaM2YgIaQQKC) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 4:29 | 2022-11-03 | 2022-11-13 |
+| [Hiding](https://open.spotify.com/track/3TtaRCNXoXdILzYfhtBxmu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Hiding](https://open.spotify.com/album/3bUCBkQCU0nxwbwiwqZ1K0) | 3:17 | 2023-06-08 |  |
 | [High Stakes](https://open.spotify.com/track/1aGkUVrkbCU0VsbhMtDA9D) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [High Stakes](https://open.spotify.com/album/3jRhDfVPGPSw7A8jODjbLB) | 2:00 | 2021-12-09 | 2022-01-14 |
 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 | 2023-02-17 |  |
 | [Hit And Run \(Acoustic Version\)](https://open.spotify.com/track/2lYzTx7NDIUxF4yMHLzozs) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Hit And Run \(Acoustic Version\)](https://open.spotify.com/album/0KE0S54WCmXk139uyrQjmz) | 3:11 | 2021-12-09 |  |
@@ -135,7 +136,7 @@
 | [Our Song](https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 | 2022-08-25 |  |
 | [Painted Blue](https://open.spotify.com/track/4acYmlGd0jWWotNeLJ9hVT) | [Joshua Thew](https://open.spotify.com/artist/3BAw5djzZW90BLlWnzf9yv) | [Painted Blue](https://open.spotify.com/album/4G2IuCo9rNQTu6iT9Jl068) | 2:48 | 2022-05-05 |  |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2021-12-09 | 2022-07-29 |
-| [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 | 2022-06-16 |  |
+| [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 | 2022-06-16 | 2023-06-09 |
 | [Paper Thin](https://open.spotify.com/track/7lrsiXMsUzWsqofMaL3U8e) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Chill Hits](https://open.spotify.com/album/3jjQUZkrzqOtfwHBKa5uoz) | 4:58 | 2022-11-03 | 2022-11-13 |
 | [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 | 2022-08-25 |  |
 | [pass you by](https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/06AsoKSZYbdlX0a01Z3RFt) | 4:05 | 2021-12-09 | 2022-10-13 |

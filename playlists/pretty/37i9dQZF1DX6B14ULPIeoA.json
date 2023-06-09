@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 42680,
+  "num_followers": 42752,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWRiZjlhNThjYmVkM2IyYWU4OWYwNTJkZDE2NDU1M2I1MGI3MDJm",
+  "snapshot_id": "MCxjNGU2NDI4NTIzNDAzOTg0NzdlYzQ3YzI4OTkzZTdhMTRhZTAyNDhm",
   "tracks": [
     {
       "added_at": "2022-09-23 18:17:22",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Luna Lunera",
-        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
-      },
-      "artists": [
-        {
-          "name": "Cortando Troncos",
-          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "Luna Lunera",
-      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Bolero Mientras Tanto",
         "url": "https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 179000,
       "name": "Bolero Mientras Tanto",
       "url": "https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Luna Lunera",
+        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
+      },
+      "artists": [
+        {
+          "name": "Cortando Troncos",
+          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Un Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
-      },
-      "artists": [
-        {
-          "name": "M.O.Y.A.",
-          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
-        }
-      ],
-      "duration_ms": 251294,
-      "name": "Un Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Yo Ya No Vuelvo Contigo",
         "url": "https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 232727,
       "name": "Yo Ya No Vuelvo Contigo",
       "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Un Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
+      },
+      "artists": [
+        {
+          "name": "M.O.Y.A.",
+          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
+        }
+      ],
+      "duration_ms": 251294,
+      "name": "Un Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "La Puerta Negra",
-        "url": "https://open.spotify.com/album/73yWEfBEFLueOketILhoIg"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 147250,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 192000,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "La Puerta Negra",
+        "url": "https://open.spotify.com/album/73yWEfBEFLueOketILhoIg"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 147250,
+      "name": "La Puerta Negra",
+      "url": "https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Tristango",
-        "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Isidoro",
-          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
-        }
-      ],
-      "duration_ms": 199230,
-      "name": "Tristango",
-      "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Exitos de Juan Zaizar",
         "url": "https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 204320,
       "name": "Cruz de olvido",
       "url": "https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Tristango",
+        "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
+        }
+      ],
+      "duration_ms": 199230,
+      "name": "Tristango",
+      "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Pero Te Vas A Arrepentir",
-        "url": "https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp"
-      },
-      "artists": [
-        {
-          "name": "Astrud Bonfa",
-          "url": "https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7"
-        }
-      ],
-      "duration_ms": 266582,
-      "name": "Pero Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Chacra",
         "url": "https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 127068,
       "name": "Brisas",
       "url": "https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Pero Te Vas A Arrepentir",
+        "url": "https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp"
+      },
+      "artists": [
+        {
+          "name": "Astrud Bonfa",
+          "url": "https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7"
+        }
+      ],
+      "duration_ms": 266582,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "El Viaje",
-        "url": "https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D"
       },
       "artists": [
         {
-          "name": "Juan Jose Moreno",
-          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
+          "name": "Mariachi Arco Iris",
+          "url": "https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna"
         }
       ],
-      "duration_ms": 168196,
-      "name": "El Viaje",
-      "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
+      "duration_ms": 202849,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx"
     }
   ],
   "unique_name": "Caf\u00e9 de Olla",

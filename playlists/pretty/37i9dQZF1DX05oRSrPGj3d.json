@@ -1,12 +1,12 @@
 {
   "description": "Texas' own Parker McCollum is taking over to celebrate the release of his new album \"Never Enough\"! ",
-  "num_followers": 227521,
+  "num_followers": 227640,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2E2ODU5ODQyNWIwYTg1YTg4N2ZjMjA4ZGUyN2QzYjM1Y2E1YzIw",
+  "snapshot_id": "MCxiMTNiOTY1NDllZjA4Yzk0OGU2ZjkwNDdhOWE2NzU4MjIxMGMzODcy",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Blink You'll Miss It",
-        "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 212819,
-      "name": "Damn Good Goodbye",
-      "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Borrowed Time",
         "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 197997,
       "name": "Why",
       "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Blink You'll Miss It",
+        "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
+      },
+      "artists": [
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "duration_ms": 212819,
+      "name": "Damn Good Goodbye",
+      "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Rose Queen",
-        "url": "https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "She Likes the Beatles",
-      "url": "https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Resurrection EP",
         "url": "https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 211973,
       "name": "Texas Rain",
       "url": "https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Rose Queen",
+        "url": "https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "She Likes the Beatles",
+      "url": "https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Wicked Twisted Road",
-        "url": "https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC"
-      },
-      "artists": [
-        {
-          "name": "Reckless Kelly",
-          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Wicked Twisted Road",
-      "url": "https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Casey Donahew Band",
         "url": "https://open.spotify.com/album/6n3Xw5SEV5i3wuLHTYr2OU"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 220586,
       "name": "White Trash Story",
       "url": "https://open.spotify.com/track/6h0FOQxhnq0iqVsf0I9WsZ"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Wicked Twisted Road",
+        "url": "https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC"
+      },
+      "artists": [
+        {
+          "name": "Reckless Kelly",
+          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Wicked Twisted Road",
+      "url": "https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Cross Canadian Ragweed",
-        "url": "https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI"
-      },
-      "artists": [
-        {
-          "name": "Cross Canadian Ragweed",
-          "url": "https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0"
-        }
-      ],
-      "duration_ms": 319200,
-      "name": "17",
-      "url": "https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Every Single Kiss",
         "url": "https://open.spotify.com/album/3HiJgnMpdeQ2vwhEZxuZNr"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 206210,
       "name": "Every Single Kiss",
       "url": "https://open.spotify.com/track/4UGnIq5oeMkckBMX6D1Ktj"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Cross Canadian Ragweed",
+        "url": "https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI"
+      },
+      "artists": [
+        {
+          "name": "Cross Canadian Ragweed",
+          "url": "https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0"
+        }
+      ],
+      "duration_ms": 319200,
+      "name": "17",
+      "url": "https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN"
     },
     {
       "added_at": "2023-05-12 04:00:00",

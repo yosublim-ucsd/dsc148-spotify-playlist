@@ -4,11 +4,12 @@
 
 > love peace techno
 
-97 songs - 7 hr 7 min
+98 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Addicted To Bass](https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Addicted To Bass](https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR) | 5:51 | 2023-04-18 |  |
+| [All about you](https://open.spotify.com/track/1jRkIIqpKw9WGlxOExgL67) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA), [EntzugszKlinique](https://open.spotify.com/artist/2KfUKuzYq61DbEqQzGgHZN), [ScubaPro](https://open.spotify.com/artist/60pNbc1sAEJ8iNuArbgIFM) | [All about you](https://open.spotify.com/album/6b86qlj0FMqPaNZiwwc7Hu) | 2:34 | 2023-06-05 |  |
 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 | 2023-03-25 |  |
 | [All The Things She Said \- Teaboy Flip](https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J) | [TEABOY](https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x) | [All The Things She Said \(Teaboy Flip\)](https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe) | 2:44 | 2023-03-10 |  |
 | [Atlantyda](https://open.spotify.com/track/0ChvWY0uRIGvXfhqvv8jC1) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [The World Of Monnom Black II](https://open.spotify.com/album/1Qmlt7Lujv1VgCP44rCKJT) | 6:36 | 2023-03-10 | 2023-04-19 |
@@ -52,7 +53,7 @@
 | [Keine Liebe, Kein Rave](https://open.spotify.com/track/0UkGdrKm6PaVCxTwPzP2xX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Kiki Solvej](https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW) | [Keine Liebe, Kein Rave](https://open.spotify.com/album/2iL5gzdjVQsTsUI7i8KxDq) | 4:20 | 2023-03-21 |  |
 | [Knife Talk](https://open.spotify.com/track/5zzf3tCyakWfASFtPs2mBl) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Knife Talk](https://open.spotify.com/album/0WYWT38s9EtYYatYZLiNvW) | 2:52 | 2023-03-10 | 2023-04-07 |
 | [Leave it to the vibe](https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 6:58 | 2023-05-18 | 2023-05-27 |
-| [Love & Peace](https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC), [3rd Dale Universe](https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N) | [Love & Peace](https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK) | 6:00 | 2023-03-10 |  |
+| [Love & Peace](https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC), [3rd Dale Universe](https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N) | [Love & Peace](https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK) | 6:00 | 2023-03-10 | 2023-06-09 |
 | [Love Express](https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:41 | 2023-05-18 |  |
 | [Love Song](https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q) | [Love Song](https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU) | 2:56 | 2023-04-06 | 2023-05-09 |
 | [Luft \- Blue Hawaii, DJ Kirby Remix](https://open.spotify.com/track/4aqxIaQLsEkeqqKQC3jsAg) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ), [DJ Kirby](https://open.spotify.com/artist/5OaPThfnN888Dy4mpAEBcD) | [Luft \(Blue Hawaii, DJ Kirby Remix\)](https://open.spotify.com/album/7HBdKsAK6pjrkGi10GC3cz) | 3:26 | 2023-04-18 | 2023-04-28 |

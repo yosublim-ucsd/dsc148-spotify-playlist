@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 166679,
+  "num_followers": 166921,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDIyYzY2N2IzOTk3OGI2NzM1YmM0NmI5NjRmYzA1MGFlZWYxMGY0",
+  "snapshot_id": "MCw4NjAyMmI3ZWI5MTMzNGE4MzkwZDhjMWI0ODdlMjZkMzQ5M2M0OTUx",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -303,22 +303,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 126893,
-      "name": "Spanish Flea",
-      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Paul Mauriat. Grandes Exitos",
         "url": "https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 156519,
       "name": "Love is Blue",
       "url": "https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 126893,
+      "name": "Spanish Flea",
+      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -543,6 +543,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 221174,
+      "name": "Fandango",
+      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Grandes Favoritas Instrumentales,Vol. 4",
         "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 175906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 221174,
-      "name": "Fandango",
-      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -659,6 +659,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Tribute to Richard Clayderman: Collection",
         "url": "https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL"
       },
@@ -707,38 +723,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "101% Cine",
-        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
-      },
-      "artists": [
-        {
-          "name": "Sounds Unlimited",
-          "url": "https://open.spotify.com/artist/7rPQaO8pCTGS9N9vPlieel"
-        }
-      ],
-      "duration_ms": 131255,
-      "name": "P\u00eddele Al Tiempo Que Vuelva",
-      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Franck Pourcel : Originals, vol. 8",
         "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+        "name": "101% Cine",
+        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
       },
       "artists": [
         {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+          "name": "Sounds Unlimited",
+          "url": "https://open.spotify.com/artist/7rPQaO8pCTGS9N9vPlieel"
         }
       ],
-      "duration_ms": 125920,
-      "name": "Tijuana Taxi",
-      "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
+      "duration_ms": 131255,
+      "name": "P\u00eddele Al Tiempo Que Vuelva",
+      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -807,18 +791,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Las No. 1 Instrumentales",
-        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
       },
       "artists": [
         {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
         }
       ],
-      "duration_ms": 353680,
-      "name": "Lluvia de Primavera",
-      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
+      "duration_ms": 125920,
+      "name": "Tijuana Taxi",
+      "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -859,6 +843,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Las No. 1 Instrumentales",
+        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+      },
+      "artists": [
+        {
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+        }
+      ],
+      "duration_ms": 353680,
+      "name": "Lluvia de Primavera",
+      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "The Sting",
         "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "14 Estelares",
-        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Il",
-      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Pure Instrumental Memories",
         "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "El Sonido de la Flauta de Pan - The Sound Of The Panflute",
-        "url": "https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl"
+        "name": "14 Estelares",
+        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
       },
       "artists": [
         {
-          "name": "Mario Gonzales Guerra",
-          "url": "https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU"
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
         }
       ],
-      "duration_ms": 198387,
-      "name": "Flauta de Pan",
-      "url": "https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ"
+      "duration_ms": 197093,
+      "name": "Il",
+      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -951,6 +935,22 @@
       "duration_ms": 128785,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "El Sonido de la Flauta de Pan - The Sound Of The Panflute",
+        "url": "https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl"
+      },
+      "artists": [
+        {
+          "name": "Mario Gonzales Guerra",
+          "url": "https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU"
+        }
+      ],
+      "duration_ms": 198387,
+      "name": "Flauta de Pan",
+      "url": "https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Instrumental History, The Best",
+        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Marchetti",
+          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "L'Incontro - 1M1",
+      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Guantanamera",
         "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Instrumental History, The Best",
-        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
+        "name": "Born Losers",
+        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
       "artists": [
         {
-          "name": "Giovanni Marchetti",
-          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
+          "name": "The Sidewalk Sounds",
+          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
         }
       ],
-      "duration_ms": 170333,
-      "name": "L'Incontro - 1M1",
-      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
+      "duration_ms": 121333,
+      "name": "Billy Jack's Theme",
+      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Born Losers",
-        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
-      },
-      "artists": [
-        {
-          "name": "The Sidewalk Sounds",
-          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
-        }
-      ],
-      "duration_ms": 121333,
-      "name": "Billy Jack's Theme",
-      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 #1's: One Hit Wonders",
         "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 202805,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1307,6 +1291,22 @@
       "duration_ms": 383933,
       "name": "Piano",
       "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Santo & Johnny",
-        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 135493,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "A Regar La Polilla",
         "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 200411,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Santo & Johnny",
+        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 135493,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Presentando a La Orquesta Cuerdas y Metales",
+        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Cuerdas Y Metales",
+          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/0oZjygEjDC17poCvwnTnYu"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Honeymoon in South America",
         "url": "https://open.spotify.com/album/0ws2zLdFiEZNztPGi1Jwem"
       },
@@ -1795,22 +1811,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Presentando a La Orquesta Cuerdas y Metales",
-        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Cuerdas Y Metales",
-          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Soleado",
-      "url": "https://open.spotify.com/track/0oZjygEjDC17poCvwnTnYu"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "16 Joyas Del New Age",
         "url": "https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto"
       },
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Unforgettable Sounds of Esquivel",
-        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
-      },
-      "artists": [
-        {
-          "name": "Mr. Ho's Orchestrotica",
-          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
-        }
-      ],
-      "duration_ms": 161773,
-      "name": "Andalucia",
-      "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Michel Legrand y Su Gran Orquesta",
         "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 159586,
       "name": "Kiss of Fire",
       "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Unforgettable Sounds of Esquivel",
+        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ho's Orchestrotica",
+          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
+        }
+      ],
+      "duration_ms": 161773,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
     }
   ],
   "unique_name": "Golden Instrumentals",

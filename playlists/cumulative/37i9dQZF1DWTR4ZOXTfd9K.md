@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-134 songs - 13 hr 52 min
+136 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Body And Soul](https://open.spotify.com/track/3u2Y2K3dlBY5QRIwdTnCHu) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [Modernistic](https://open.spotify.com/album/7rPdZr6OPrShZWy3aob80V) | 3:46 | 2022-10-06 |  |
 | [Boo's Blues](https://open.spotify.com/track/1bnnJsnSGD4hmNG7J0BMFG) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 3:25 | 2021-12-02 | 2022-09-23 |
 | [Book Of Slim](https://open.spotify.com/track/4qRyiKJFPLlaEma8BDaVML) | [Gene Harris & The Three Sounds](https://open.spotify.com/artist/7wpE9ePlaLVOdFrSs9BX8B) | [Elegant Soul \(Reissue\)](https://open.spotify.com/album/2HWvhHLaJg5WIcT7lWwdtX) | 3:23 | 2021-12-02 |  |
+| [Bow and Arrow](https://open.spotify.com/track/0sI3WcshNAV85OwSGIUv9O) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [In Real Time](https://open.spotify.com/album/2zkgkyuC0eyxS2d73xTc2o) | 6:17 | 2023-06-08 |  |
 | [Bright Eyes \- Live](https://open.spotify.com/track/5c17qhp5zR2gs61XNEpAnC) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Breathe](https://open.spotify.com/album/1VmQzWa2H4IRjpVReN8LDY) | 7:25 | 2021-12-02 |  |
 | [Broad Way Blues](https://open.spotify.com/track/3ASbn4OVbcg1tnSjmdyREe) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 8:43 | 2021-12-02 |  |
 | [Cantaloupe Island \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 5:33 | 2021-12-02 |  |
@@ -45,6 +46,7 @@
 | [Congalegre](https://open.spotify.com/track/547xPOmLdBpM4X9B2lIW8B) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [Headin' South](https://open.spotify.com/album/3zLWpN31cZL0isbgDtdcXy) | 4:24 | 2021-12-02 |  |
 | [Cool Struttin'](https://open.spotify.com/track/7CnOzCWGrTINcDExG6u99y) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Cool Struttin' \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX) | 9:23 | 2021-12-02 |  |
 | [Cristo Redentor \- Remastered](https://open.spotify.com/track/0Xfq6BeOHdzf16gk9y8a1P) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [A New Perspective \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3LG1c3DYgaEtCxea2z7ZSa) | 5:43 | 2021-12-02 |  |
+| [Dance Kobina](https://open.spotify.com/track/0x1ouEGnLQh4Iyv3EpNSmV) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Dance Kobina](https://open.spotify.com/album/0AUn2s7xXGY4ZGWArU66QA) | 6:24 | 2023-06-08 |  |
 | [De\-Dah \- Remastered](https://open.spotify.com/track/6WWkfAJdWLvJcUs9wq33Ou) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Memorial Album \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ) | 4:51 | 2021-12-02 |  |
 | [Despedida: Del Mar](https://open.spotify.com/track/1C3AzSSId1i7zNHT2dIcwC) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [The Afro Latin Jazz Ensemble](https://open.spotify.com/artist/7y70hqKZab5NLVqqPKGYFE) | [Despedida: Del Mar](https://open.spotify.com/album/4hUqg8JQQZ0MriH98delXF) | 5:42 | 2021-12-02 | 2022-10-07 |
 | [Dig Dis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:09 | 2021-12-02 |  |
@@ -59,7 +61,7 @@
 | [G.G.](https://open.spotify.com/track/4cirs0aWDKwYw1ehlRy30v) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Mr\. Jones](https://open.spotify.com/album/226bVJEQsu9W1nUvSefYJc) | 5:46 | 2021-12-02 |  |
 | [Gangsterism On Canvas](https://open.spotify.com/track/3KVKimpQ2S6X3IZxKbR8ot) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [Soundtrack To Human Motion](https://open.spotify.com/album/5DEgkcPpvX1PSNVSbq0PAS) | 4:37 | 2021-12-02 | 2022-10-07 |
 | [Gato's Gift](https://open.spotify.com/track/4askDmHBmHLiKnd96n13FZ) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Who Are You?](https://open.spotify.com/album/4xq8VBZYwExP31yuSidyZg) | 6:08 | 2021-12-02 |  |
-| [Gazelle Suite](https://open.spotify.com/track/6IYxQ0EqUnhEEsJuoWi0iv) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Dance Kobina](https://open.spotify.com/album/0AUn2s7xXGY4ZGWArU66QA) | 5:27 | 2023-02-06 |  |
+| [Gazelle Suite](https://open.spotify.com/track/6IYxQ0EqUnhEEsJuoWi0iv) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Dance Kobina](https://open.spotify.com/album/0AUn2s7xXGY4ZGWArU66QA) | 5:27 | 2023-02-06 | 2023-06-09 |
 | [Geo Rose](https://open.spotify.com/track/2yj1dE8qFszO6OTdCN19wW) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Civilization](https://open.spotify.com/album/77pQEd70AJ5WKOcbSIRl15) | 7:26 | 2021-12-02 |  |
 | [Grace And Mercy](https://open.spotify.com/track/6AFJ6v57ZevcNCR2mJHDKf) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [Omega](https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0) | 6:49 | 2021-12-02 | 2022-02-03 |
 | [Harlem River Drive](https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh) | [Bobbi Humphrey](https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON) | [Blacks And Blues](https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv) | 7:50 | 2021-12-02 |  |
@@ -127,7 +129,7 @@
 | [The Duke](https://open.spotify.com/track/6RQBoUXjtB1YmUjtPb9WbA) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:45 | 2021-12-02 |  |
 | [The Moontrane \- Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998](https://open.spotify.com/track/4ZAcQgIlpV5z7k7evEF0MJ) | [Larry Young](https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq) | [Unity \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5a8cjdV55tR5l2noku0vVv) | 7:21 | 2021-12-02 |  |
 | [The Nearness Of You](https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:07 | 2022-10-06 |  |
-| [The Sidewinder](https://open.spotify.com/track/3DeSfcOZOa7DUhLB4LVrpd) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:05 | 2021-12-02 |  |
+| [The Sidewinder](https://open.spotify.com/track/3DeSfcOZOa7DUhLB4LVrpd) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:05 | 2021-12-02 | 2023-06-09 |
 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 | 2021-12-02 |  |
 | [The Windjammer](https://open.spotify.com/track/2YqY5cZyFA4G1F8Ni1PL1Q) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Green Is Beautiful](https://open.spotify.com/album/6ZeCLbP7BArydb5ueOPysy) | 5:42 | 2022-10-06 |  |
 | [These Are Soulful Days](https://open.spotify.com/track/77w5ciHOxfV1CyTIoE1iWw) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [These Are Soulful Days](https://open.spotify.com/album/1yDQ8iFIOquXATNe0hztWi) | 6:50 | 2022-10-06 |  |

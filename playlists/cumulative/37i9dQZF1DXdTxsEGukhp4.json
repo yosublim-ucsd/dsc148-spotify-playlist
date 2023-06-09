@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "friend zone",
+        "url": "https://open.spotify.com/album/3qMXmvkiIRMT4vpINRTlUA"
+      },
+      "artists": [
+        {
+          "name": "TENSONG",
+          "url": "https://open.spotify.com/artist/4gg2Eg18OeqjqzfWtsBTMG"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278250,
+      "name": "friend zone",
+      "url": "https://open.spotify.com/track/1v4apcOGX4tE9ezbLbbkXE"
+    },
+    {
+      "album": {
         "name": "Over There That",
         "url": "https://open.spotify.com/album/1WJ9FbcbVCiKrA7XAjTFtJ"
       },
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 241834,
       "name": "INTERNET YAMERO",
       "url": "https://open.spotify.com/track/4F2NudCv50tC2Bqc3dgn9v"
@@ -856,7 +874,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 220000,
       "name": "KANPAI FUNK",
       "url": "https://open.spotify.com/track/7jrtlAd4BEyw7EPoY9OByq"
@@ -936,7 +954,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 141974,
       "name": "L7 Blues",
       "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
@@ -954,7 +972,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 207166,
       "name": "LADY",
       "url": "https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv"
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 253200,
       "name": "Pa Pi Pu Pe POP!",
       "url": "https://open.spotify.com/track/6sAaPOTjwisyye2fyavqKd"
@@ -1508,6 +1526,24 @@
       "duration_ms": 244106,
       "name": "Shining One",
       "url": "https://open.spotify.com/track/7DTKSwO1kTAJDu9Q5U73UZ"
+    },
+    {
+      "album": {
+        "name": "SHIRANKEDO",
+        "url": "https://open.spotify.com/album/50jKgnGadc6pN3jqsOOGsb"
+      },
+      "artists": [
+        {
+          "name": "NBSK",
+          "url": "https://open.spotify.com/artist/5ZgcfbWT9FmgXCGAEFocpu"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213823,
+      "name": "SHIRANKEDO",
+      "url": "https://open.spotify.com/track/6ctuvjSpWsuY64Db3XVV7p"
     },
     {
       "album": {
@@ -1873,6 +1909,46 @@
     },
     {
       "album": {
+        "name": "Boku",
+        "url": "https://open.spotify.com/album/59W6AyzntW2vjcElppqce8"
+      },
+      "artists": [
+        {
+          "name": "8",
+          "url": "https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190979,
+      "name": "With You on This Planet",
+      "url": "https://open.spotify.com/track/1DxgPJ57x2s8nmeKMHOwGl"
+    },
+    {
+      "album": {
+        "name": "7/27 (Deluxe)",
+        "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214480,
+      "name": "Work from Home (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "album": {
         "name": "Yoidoreshirazu",
         "url": "https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA"
       },
@@ -1968,7 +2044,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 216477,
       "name": "\u3053\u3053\u308d\u306e\u3053\u308a",
       "url": "https://open.spotify.com/track/1cqKVIGbfrsy3BdQK0atQ8"
@@ -2494,6 +2570,42 @@
       "duration_ms": 268320,
       "name": "\u4f1a\u3044\u305f\u3044\u308f",
       "url": "https://open.spotify.com/track/5g1SvaEtzlKEqre9FbPQEc"
+    },
+    {
+      "album": {
+        "name": "\u4ffa\u306f\u6700\u9ad8!!!",
+        "url": "https://open.spotify.com/album/6LaYjcUU8f4Y8aa4FNeQ1C"
+      },
+      "artists": [
+        {
+          "name": "Hiromi Go",
+          "url": "https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "\u4ffa\u306f\u6700\u9ad8!!!",
+      "url": "https://open.spotify.com/track/1ufjsJqgxVEugpPstfj4Qk"
+    },
+    {
+      "album": {
+        "name": "Gallery",
+        "url": "https://open.spotify.com/album/5hLfzMZGHXrYAHA9UTxi1U"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251353,
+      "name": "\u51e1\u4eba\u69d8",
+      "url": "https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je"
     },
     {
       "album": {

@@ -23,6 +23,62 @@
     },
     {
       "album": {
+        "name": "Awesome God",
+        "url": "https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Bee bar",
+          "url": "https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438000,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg"
+    },
+    {
+      "album": {
+        "name": "Awuhluleki",
+        "url": "https://open.spotify.com/album/0A4UDDjYJUQ49QJ0o1j6PB"
+      },
+      "artists": [
+        {
+          "name": "Divine Souls SA",
+          "url": "https://open.spotify.com/artist/6x0fooeMPXI8qdkXBTb5EV"
+        },
+        {
+          "name": "Sabata Masoka",
+          "url": "https://open.spotify.com/artist/79cxKeoJbBmcmSUiDUZTcy"
+        },
+        {
+          "name": "Andiswa Mbantsa",
+          "url": "https://open.spotify.com/artist/6NbmNuJtCAVkMar0ylwD7J"
+        },
+        {
+          "name": "Nozuko Yekani",
+          "url": "https://open.spotify.com/artist/0SqWzR979J9et0af5eaN5c"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304559,
+      "name": "Awuhluleki",
+      "url": "https://open.spotify.com/track/2bfeBqV3zS6moeaq5AFQ5m"
+    },
+    {
+      "album": {
         "name": "Basheshe Bahleke",
         "url": "https://open.spotify.com/album/4tU5X737hd9Kr8wYEa4JTw"
       },
@@ -398,7 +454,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 307849,
       "name": "Imisebenzi Yakho",
       "url": "https://open.spotify.com/track/2fNijmMXShZ4ns3DpgPOFG"
@@ -1100,7 +1156,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 349753,
       "name": "Silapha",
       "url": "https://open.spotify.com/track/2wJUqVEPkLXTVw261oQE8c"
@@ -1158,7 +1214,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 217142,
       "name": "Take Heart",
       "url": "https://open.spotify.com/track/3YANTnjzNjI2OHeVEDgiAf"
@@ -1375,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Ukunxanela Komoya Wakho",
+        "url": "https://open.spotify.com/album/566j14AsYwCWJW4GrjUVWi"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230295,
+      "name": "Ukunxanela Komoya Wakho",
+      "url": "https://open.spotify.com/track/0WeTsHx1DqIdPF51XGbAGa"
+    },
+    {
+      "album": {
         "name": "Egameni LikaJesu",
         "url": "https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R"
       },
@@ -1390,6 +1464,24 @@
       "duration_ms": 256746,
       "name": "Ulwandle",
       "url": "https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ"
+    },
+    {
+      "album": {
+        "name": "Joyous Celebration, Vol. 17 (Grateful) [Live]",
+        "url": "https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272640,
+      "name": "Umbhedesho - Live",
+      "url": "https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9"
     },
     {
       "album": {
@@ -1480,7 +1572,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 250000,
       "name": "UThixo Babhem",
       "url": "https://open.spotify.com/track/6hohFbVUUZ8nLXwVFzQcyh"

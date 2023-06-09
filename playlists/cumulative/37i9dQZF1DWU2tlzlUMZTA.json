@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Bloody Daddy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Sd5XckyAsTOXGXwjQd8ED"
+      },
+      "artists": [
+        {
+          "name": "GD47",
+          "url": "https://open.spotify.com/artist/6GoLWfS71I2gXBtCiKCceD"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229925,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/1WPs49cOzviyirquav1Tua"
+    },
+    {
+      "album": {
         "name": "Bluff Master (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5sASM5OybJgExUWUXLH2eQ"
       },

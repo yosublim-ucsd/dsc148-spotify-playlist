@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,373 likes - 48 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,420 likes - 48 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 16 | [Chrysomallousa](https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq) | [Demetris Mesimeris](https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A) | [Chrysomallousa](https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m) | 3:39 |
 | 17 | [Counting Colors](https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi) | [GrandVille](https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK) | [GrandVille](https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY) | 6:08 |
 | 18 | [Al Infierno que Vayas](https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2023](https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR) | 2:15 |
-| 19 | [What Can I Do?](https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A) | [The Black Belles](https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1) | [What Can I Do?](https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b) | 3:06 |
-| 20 | [Eric \(Long Live The King\)](https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX), [The Black Tide](https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk) | [Eric \(Long Live The King\)](https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h) | 3:24 |
+| 19 | [Eric \(Long Live The King\)](https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX), [The Black Tide](https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk) | [Eric \(Long Live The King\)](https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h) | 3:24 |
+| 20 | [What Can I Do?](https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A) | [The Black Belles](https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1) | [What Can I Do?](https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b) | 3:06 |
 | 21 | [Sweet Tooth](https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Sweet Tooth](https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq) | 2:11 |
 | 22 | [Ramble No More](https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Ramble No More](https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC) | 2:55 |
 | 23 | [She Moved On](https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [She Moved On](https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU) | 2:47 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 33 | [Rubber Hits the Road](https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44) | [SUSU](https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv) | [Rubber Hits the Road](https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz) | 3:01 |
 | 34 | [Go Down Swinging](https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA) | [Hacienda](https://open.spotify.com/artist/5PFOoYivDdyFBYkDiku1E3) | [Go Down Swinging](https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC) | 3:13 |
 | 35 | [Gotta Bleed \- Remix](https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt) | [Bacon Fat Louis](https://open.spotify.com/artist/6smClsEV3ACst2Jul8FxAk), [miXendorp](https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP) | [Gotta Bleed \(Remix\)](https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe) | 3:34 |
-| 36 | [The Great Beyond](https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq) | [Dudley Taft](https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ) | [Guitar Kingdom](https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y) | 3:20 |
-| 37 | [Rag Doll](https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT) | [Jenny Teator](https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b) | [Rag Doll](https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6) | 2:49 |
+| 36 | [Rag Doll](https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT) | [Jenny Teator](https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b) | [Rag Doll](https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6) | 2:49 |
+| 37 | [The Great Beyond](https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq) | [Dudley Taft](https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ) | [Guitar Kingdom](https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y) | 3:20 |
 | 38 | [Cassanova Kirk Daniel](https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3) | [Mittch](https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV) | [Cassanova Kirk Daniel](https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR) | 3:23 |
 | 39 | [Porcelain God](https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb) | [Ingrid and the Ministers](https://open.spotify.com/artist/7s0yVj46UXMWsJLk8lKr4A) | [Porcelain God](https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd) | 4:21 |
 | 40 | [Old Road](https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO) | [Keegan McInroe](https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0) | [Old Road](https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb) | 5:11 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 44 | [Walk The Wire](https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp) | [Brent Lindsay](https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO) | [Walk The Wire](https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X) | 2:04 |
 | 45 | [Got till it's gone](https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR) | [Atomic stooges](https://open.spotify.com/artist/1AHSOjhowaZiCL7BNmTGzL), [好口博章](https://open.spotify.com/artist/6tbpVzAKDTNSkdwhx7TGEA) | [Got till it's gone](https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA) | 3:48 |
 | 46 | [Dynamite A Tribute to Muddy Waters \- Radio Edit](https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Dynamite A Tribute to Muddy Waters \(Radio Edit\)](https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru) | 2:42 |
-| 47 | [Flood of 2019](https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq) | [Aaron Reynolds & Tombstone Mind](https://open.spotify.com/artist/6jusbN97Wy0bKDBLQ42V46) | [Flood of 2019](https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv) | 3:59 |
-| 48 | [Make It Easy](https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw) | [Mike Lerman](https://open.spotify.com/artist/4MPoosgdIp2c3xJVKrAMgs) | [Make It Easy](https://open.spotify.com/album/2Z1XbDAlAnf5ijTZDi6n6V) | 3:24 |
+| 47 | [Make It Easy](https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw) | [Mike Lerman](https://open.spotify.com/artist/4MPoosgdIp2c3xJVKrAMgs) | [Make It Easy](https://open.spotify.com/album/2Z1XbDAlAnf5ijTZDi6n6V) | 3:24 |
+| 48 | [Flood of 2019](https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq) | [Aaron Reynolds & Tombstone Mind](https://open.spotify.com/artist/6jusbN97Wy0bKDBLQ42V46) | [Flood of 2019](https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv) | 3:59 |
 
-Snapshot ID: `MCxlNDU2YTVhNDVjZGUwMTA3MTlkODA5MDYyYWFlOGE4M2Q4NDgwOGNj`
+Snapshot ID: `MCxmYjQzNTkwMGQ4MmFkNmJkYTdjNmI0Mzg4NzI5MGM0MmYyMmMzYTU5`

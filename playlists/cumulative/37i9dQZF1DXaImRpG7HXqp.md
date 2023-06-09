@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-560 songs - 1 day 0 hr 22 min
+567 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Falling down](https://open.spotify.com/track/265UhzmTXz9jOKFJiUGxbH) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Falling down](https://open.spotify.com/album/1Iyt3NkLvCXzDhp6SiBJSQ) | 2:47 | 2023-02-24 |  |
 | [Fantasie](https://open.spotify.com/track/4HGQtaThav55ugWtulzE5z) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Fantasie](https://open.spotify.com/album/2h8pgJJhpUebg8tG3G1ij7) | 1:55 | 2023-06-02 |  |
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2022-01-19 | 2023-04-22 |
+| [Fields of rice](https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Fields of rice](https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w) | 1:47 | 2023-06-08 |  |
 | [Filtered Memories](https://open.spotify.com/track/1FLkGNK408TKdrnvB5cjn9) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Filtered Memories](https://open.spotify.com/album/5KHso3zphlK86NbZR3E0cK) | 1:44 | 2021-12-08 | 2022-06-10 |
 | [First Light](https://open.spotify.com/track/5eIg1epMoq4ZRNPEy0W7wH) | [Bill Valentino](https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN) | [First Light](https://open.spotify.com/album/0S5xUJOjVtl6g3WXVGi5ED) | 1:42 | 2023-05-12 |  |
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-12 |  |
@@ -239,7 +240,7 @@
 | [In Love Again](https://open.spotify.com/track/3fPLzICJgsoHFWL17jCWb7) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Isla de Pascua](https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM) | 2:57 | 2022-01-19 |  |
 | [In My Life](https://open.spotify.com/track/3iHl3j3lY8habgtnr7D9KT) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [In My Life](https://open.spotify.com/album/2v8kp1duuU3WEwWjy5n5OW) | 2:04 | 2022-06-17 | 2022-07-08 |
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 |  |
-| [in the barrel](https://open.spotify.com/track/08t0y9ckkd4D3INWzucet3) | [Heitor de Lima](https://open.spotify.com/artist/5FNGrj7hvqzeskFQMeCZe5) | [seaflowers](https://open.spotify.com/album/2m79xabOBSNymQfPqWdIt0) | 3:00 | 2021-12-08 |  |
+| [in the barrel](https://open.spotify.com/track/08t0y9ckkd4D3INWzucet3) | [Heitor de Lima](https://open.spotify.com/artist/5FNGrj7hvqzeskFQMeCZe5) | [seaflowers](https://open.spotify.com/album/2m79xabOBSNymQfPqWdIt0) | 3:00 | 2021-12-08 | 2023-06-09 |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2021-12-08 | 2022-04-06 |
 | [Infatuated](https://open.spotify.com/track/4snLhsoeQDkuYpjSmnGlUV) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Infatuated](https://open.spotify.com/album/2kIwwzu3FAJcZRxA5P0eFH) | 2:45 | 2023-02-24 |  |
 | [Infatuation](https://open.spotify.com/track/1RKWZJKvFfuPDroaYPnaNA) | [Kay Meine](https://open.spotify.com/artist/1YCpuDhM5Ounw7IiCBypuB) | [Infatuation](https://open.spotify.com/album/7eyl64vJR6DiBHa8TAzgRL) | 2:14 | 2021-12-08 |  |
@@ -415,6 +416,7 @@
 | [Sapphire](https://open.spotify.com/track/7Iil1UUDVl8lHs1t4XtblP) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Sapphire](https://open.spotify.com/album/5RKqIrbcvGmC1SPDN9X6l1) | 1:59 | 2022-10-14 |  |
 | [Sarabande In A Major](https://open.spotify.com/track/7MnFIm6VgmpsvN0Ont5Wsd) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Sarabande In A Major](https://open.spotify.com/album/0cOdJ0RJ6AaWWPqEhap8G0) | 1:39 | 2021-12-08 |  |
 | [Satellites](https://open.spotify.com/track/241ZXbv26EbLNmVADe6yDK) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [West End](https://open.spotify.com/album/2ze5UXnapC2cmlXG70feQ3) | 2:36 | 2021-12-08 | 2023-05-13 |
+| [Saudade](https://open.spotify.com/track/5ya9oJXawpEtTT64juebsM) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Saudade](https://open.spotify.com/album/5Zh8cgGWYAc5qRLwTvPXcF) | 2:42 | 2023-06-08 |  |
 | [Savage Silhouettes](https://open.spotify.com/track/3Xg0edgHJLSNyfjwtHHcCh) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Savage Silhouettes](https://open.spotify.com/album/2eYTNL3P3wVZA8kdHgnWxa) | 2:06 | 2022-11-25 |  |
 | [Say it First](https://open.spotify.com/track/629DN0qMDPVhEyQnQ3LxHy) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Say it First](https://open.spotify.com/album/6YdeDCvJraTDzS5F7BPXrQ) | 2:56 | 2022-10-28 |  |
 | [Searching](https://open.spotify.com/track/2Th9eX05sSxseR88r9fQnE) | [Donatella Monza](https://open.spotify.com/artist/3jP7DTsE4kq5Gi0KRmO045) | [Searching](https://open.spotify.com/album/3uRBe6voWCE80tm3tC65TY) | 1:37 | 2023-03-24 |  |
@@ -453,6 +455,7 @@
 | [sonnenkerze](https://open.spotify.com/track/7kwwhAnyPuAFnMccLJwfB8) | [Alexander Mane](https://open.spotify.com/artist/5N2ZZuM02DNnOCXt94LFmu) | [moon tides](https://open.spotify.com/album/6oBU6aev2mlzkB6vkGcJfH) | 3:24 | 2021-12-08 |  |
 | [Sorrowful Disappearance](https://open.spotify.com/track/73N0xkf8N6FJQXBb6o6V0l) | [Sara Gadshill](https://open.spotify.com/artist/22RQ7nqf0fvL5ThmEP0cyD) | [Sorrowful Disappearance](https://open.spotify.com/album/5FWpJFZunTh3KsWAXwK5L8) | 2:29 | 2021-12-08 |  |
 | [SOS](https://open.spotify.com/track/4Bbp5cIa0seUWq4at7xblM) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [SOS](https://open.spotify.com/album/4W1mcPXdm2gLWJU2SChCcs) | 3:40 | 2022-08-12 | 2023-02-25 |
+| [Sounds Of Serenity](https://open.spotify.com/track/5B0UFZVEyMx0no2huGzZcH) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Sound Of Serenity](https://open.spotify.com/album/7mpN7Yxh7nS71Nd1YVvzRz) | 3:03 | 2023-06-08 |  |
 | [South](https://open.spotify.com/track/6Gv5nMj7F4bBMz6nR1QHYq) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [North](https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF) | 2:34 | 2022-04-05 | 2023-06-03 |
 | [Sphinx](https://open.spotify.com/track/740LzA4Z4ArwYZGSU61X6S) | [Benito Novelli](https://open.spotify.com/artist/3V3Cv0iaImcAuGxsaESGyC) | [La Massana](https://open.spotify.com/album/5sFOpgxafc8hRzyzADz0q3) | 2:40 | 2021-12-08 | 2023-02-25 |
 | [Spirited Away](https://open.spotify.com/track/4lE04Ccceo6nUADycSJZ4y) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Spirited Away](https://open.spotify.com/album/0IeQHK1faB5zkb1NbmCa3c) | 2:03 | 2021-12-08 | 2022-07-08 |
@@ -463,6 +466,7 @@
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2021-12-08 | 2022-04-06 |
 | [Stilla](https://open.spotify.com/track/2yPOn4HIWksnWp6g6yOTDj) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Stilla](https://open.spotify.com/album/5aF8QIEgX26Lky64XDJAcS) | 2:23 | 2022-07-01 | 2022-07-29 |
 | [Stillness](https://open.spotify.com/track/2p3iq2SPXRJRX1U4xqfE0P) | [The Bare Bones](https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU) | [Stillness](https://open.spotify.com/album/5G267WWwhC7FrWXq8PpIpV) | 2:10 | 2022-06-03 | 2022-07-29 |
+| [Storyteller](https://open.spotify.com/track/7d9uanPShS0NVsESqcArCa) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Storyteller](https://open.spotify.com/album/3Du4mTpGliNy0e7qAIdR3G) | 3:01 | 2023-06-08 |  |
 | [Strada Nuova](https://open.spotify.com/track/45EsspfzGgIN8Ny4b9baQr) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Strada Nuova](https://open.spotify.com/album/1eA4Mfi8x3auSnR5EJ6pMA) | 2:18 | 2022-07-08 |  |
 | [Strange Encounter](https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Strange Encounter](https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m) | 2:20 | 2023-03-24 |  |
 | [Strange Trails](https://open.spotify.com/track/5T59Qef05DQSA32kj2mw7t) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Strange Trails](https://open.spotify.com/album/2vhSHo4z27kq67g7MUfDau) | 2:01 | 2022-04-22 | 2023-06-03 |
@@ -495,9 +499,11 @@
 | [The Loom of Autumn](https://open.spotify.com/track/0y8Czkxwgpfu5909kUYEOu) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [The Loom of Autumn](https://open.spotify.com/album/19ID42lD65HQLVv77tvj0P) | 1:58 | 2022-09-09 |  |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2021-12-08 | 2022-07-08 |
 | [The Poconos](https://open.spotify.com/track/0ds1reOHuK7CCsu3nIzZXj) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [The Poconos](https://open.spotify.com/album/3A40QGZkO7BxsX5pwDr017) | 2:51 | 2021-12-08 | 2023-02-25 |
+| [The Stillness Within](https://open.spotify.com/track/2zSvZfdq6ZJpxmH2RbpoQ8) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [The Stillness Within](https://open.spotify.com/album/7pfveCDNbixSABr4bVIfJZ) | 2:59 | 2023-06-08 |  |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-21 |  |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-24 |  |
 | [Thousand Years Ago](https://open.spotify.com/track/03ii6bJVPO1xJNNsG9QvIB) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Thousand Years Ago](https://open.spotify.com/album/336D8kHYPubaAtmgCsVMMv) | 2:19 | 2022-05-13 |  |
+| [Through Wildflowers](https://open.spotify.com/track/1iZz8nbflA5fifQldcXwb3) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Through Wildflowers](https://open.spotify.com/album/74Y1eBKeQVPlr0RxbeMORi) | 2:00 | 2023-06-08 |  |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-21 |  |
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-23 | 2023-03-10 |
 | [Toque Suave](https://open.spotify.com/track/1fGMb8mMRfE81obtzM8K8p) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Toque Suave](https://open.spotify.com/album/76YZGj9oQn2KWzRdcuS4Y9) | 2:34 | 2022-08-05 |  |
@@ -540,6 +546,7 @@
 | [Waterfall](https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO) | [Pether Walth](https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1) | [Waterfall](https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl) | 1:52 | 2023-05-12 |  |
 | [Way Harder Than I Thought](https://open.spotify.com/track/0aInkt9zWTzd5TeBoUXS74) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Way Harder Than I Thought](https://open.spotify.com/album/54k6cq8bMjnlDjVWSinIN5) | 3:04 | 2021-12-08 | 2023-05-13 |
 | [Wees Hier](https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq) | [Adrianne Mercier](https://open.spotify.com/artist/06urGGaPJJnDlxhUHO0TCn) | [Wees Hier](https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q) | 1:54 | 2023-02-24 |  |
+| [Welcome Another Morning](https://open.spotify.com/track/5sGlEWMqEvNwKQZWUbsGDc) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Welcome Another Morning](https://open.spotify.com/album/60wQBZH2QIzedGgphfwBTj) | 3:04 | 2023-06-08 |  |
 | [Welcomed By The Forest](https://open.spotify.com/track/3rJhEXYvo24oB4s2LAsKYv) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Welcomed By The Forest](https://open.spotify.com/album/4K9IY6EW8bxTbCpeprxQKz) | 2:57 | 2022-08-12 | 2022-12-10 |
 | [We´re Ok](https://open.spotify.com/track/5A06rT73B83damBvMVwp6A) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [We´re Ok](https://open.spotify.com/album/76w4CGhDqw94xOmbrYuGML) | 3:23 | 2021-12-08 | 2022-07-08 |
 | [What a Difference a Day Makes](https://open.spotify.com/track/3xycjyPvZDlpTpqId5hWVJ) | [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [What a Difference a Day Makes](https://open.spotify.com/album/5PlCJsUofnUpyBRpc7rV7H) | 2:38 | 2023-01-20 | 2023-04-22 |

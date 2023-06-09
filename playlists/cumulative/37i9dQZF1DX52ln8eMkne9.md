@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-295 songs - 22 hr 5 min
+296 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | ['Round Midnight](https://open.spotify.com/track/11Ixvu6JuymPvgpOhQlR1M) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 5:51 | 2021-12-17 | 2022-07-29 |
 | ['Round Midnight](https://open.spotify.com/track/33nFpxA8wfc2dKw5lFw7PF) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 5:51 | 2023-05-30 |  |
 | ['S Wonderful](https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 2:50 | 2021-12-17 |  |
-| ['Tis Autumn](https://open.spotify.com/track/0VUDiPnBlf13otxOPzSPd9) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Pat LaBarbera](https://open.spotify.com/artist/5RUD9RUhciOcJG5dL8s3Ja) | ['Tis Autumn](https://open.spotify.com/album/2SU5rrWTBsP4snnjoHBtyD) | 4:35 | 2022-09-27 |  |
+| ['Tis Autumn](https://open.spotify.com/track/0VUDiPnBlf13otxOPzSPd9) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Pat LaBarbera](https://open.spotify.com/artist/5RUD9RUhciOcJG5dL8s3Ja) | ['Tis Autumn](https://open.spotify.com/album/2SU5rrWTBsP4snnjoHBtyD) | 4:35 | 2022-09-27 | 2023-06-09 |
 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 | 2022-02-18 |  |
 | [A Bad Case Of The Blues](https://open.spotify.com/track/6Mdh8mHdajX5slhofHJkKB) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Gold](https://open.spotify.com/album/1H1HA3q5mq61SFUs9HIhoT) | 2:37 | 2021-12-17 |  |
 | [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2021-12-17 | 2022-03-05 |
@@ -73,6 +73,7 @@
 | [Dream a Little Dream of Me](https://open.spotify.com/track/7x571g4w2cwwr6A3Dhjtn5) | [Grasiela Piasson](https://open.spotify.com/artist/4Pj02WhBGYtttMP4iud5hn), [Guga Stroeter](https://open.spotify.com/artist/6AZWEt3SrpxmPIuzT10RSk) | [Grasiela Piasson & Guga Stroeter](https://open.spotify.com/album/1bZ1IxMM8lVMtMVkLWqSZ4) | 4:09 | 2022-03-10 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2021-12-17 |  |
 | [East of the Sun and West of the Moon](https://open.spotify.com/track/0hed9Q52TtwFLRMgK0M98e) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:21 | 2022-03-10 |  |
+| [Eat It Too](https://open.spotify.com/track/4as16KAbhjo5MPSo58ilez) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/6DeT7vD5VN5vGj9vnTji0d) | 3:46 | 2023-06-08 |  |
 | [Embraceable You](https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:51 | 2021-12-17 |  |
 | [Emily](https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI) | [Ben Besiakov](https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4) | [The Art of Jazz with Ben Besiakov](https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3) | 5:19 | 2021-12-17 |  |
 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7zPr0wXnW2zTeWA4MNxRQy) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 4:00 | 2023-05-30 |  |

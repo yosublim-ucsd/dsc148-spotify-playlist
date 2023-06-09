@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,717 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,991 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 22 | [Tempos Modernos](https://open.spotify.com/track/2crmkMh5RfynAf9EqeMzJl) | [Make U Sweat](https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Tempos Modernos](https://open.spotify.com/album/63zhf4PV2rfoHI0kdk7W5s) | 3:35 |
 | 23 | [The Truth](https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [The Truth](https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj) | 3:13 |
 | 24 | [It's Your Life](https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW), [Marina Diniz](https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy) | [It's Your Life](https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8) | 2:40 |
-| 25 | [Adrenalizou \- Gabriel Boni Remix](https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Gabriel Boni](https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24) | [Adrenalizou \(Gabriel Boni Remix\)](https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0) | 3:34 |
+| 25 | [Algum Ritmo \- Remix](https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Algum Ritmo \(Remix\)](https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2) | 3:17 |
 | 26 | [Home](https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Home](https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa) | 3:44 |
-| 27 | [Algum Ritmo \- Remix](https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Algum Ritmo \(Remix\)](https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2) | 3:17 |
+| 27 | [Adrenalizou \- Gabriel Boni Remix](https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Gabriel Boni](https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24) | [Adrenalizou \(Gabriel Boni Remix\)](https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0) | 3:34 |
 | 28 | [Fica Tudo Bem \- Bhaskar Remix](https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Fica Tudo Bem \(Bhaskar Remix\)](https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t) | 2:54 |
 | 29 | [Free My Mind](https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Free My Mind](https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM) | 2:40 |
 | 30 | [Save Me](https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [TRIXL](https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Save Me](https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf) | 2:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [O Xote Das Meninas \- Pontifexx Remix](https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [O Xote Das Meninas \(Pontifexx Remix\)](https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT) | 3:09 |
 | 70 | [Que Dia](https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Que Dia](https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl) | 2:55 |
 
-Snapshot ID: `MCw0NGY0Nzc5ZjA4MjYxYzdlMDVmMTNjNzVjODcwMWRjYzZjMzc5NWFh`
+Snapshot ID: `MCwzNmE1MjJlODI3MWZkMzdjYjViM2ZkZGFmMmU5YTQ0YmIxZTg4N2U4`

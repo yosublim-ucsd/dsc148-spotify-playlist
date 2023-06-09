@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,697 likes - 48 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,708 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 6 | [Mean](https://open.spotify.com/track/3PXi72ZtSqx1PZc40KS0Qj) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Beautiful Havoc](https://open.spotify.com/album/62m2Y4PVeyW4TbmPSBvb0x) | 2:05 |
 | 7 | [I Am \(feat\. Flo Milli\)](https://open.spotify.com/track/4E7ZbuJH3NddjnMWLstkRq) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [After The Rain](https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6) | 3:02 |
 | 8 | [Beef FloMix](https://open.spotify.com/track/7qdFz1dTJqgdVe6NA4F4DP) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:27 |
-| 9 | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/track/5H7IzRvSCGY2p7jjuCu6g1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/album/4c5Sf3ULy1kAbqD0DGIFFy) | 3:40 |
-| 10 | [Rodeo Remix \(feat\. Flo Milli\) \[Sped Up Version\]](https://open.spotify.com/track/59802nBw0MFfy5D0KywW2a) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo Remix \(feat\. Flo Milli\) \[Sped Up Version\]](https://open.spotify.com/album/2qJA56ITockA3bdWlUJEK2) | 3:07 |
+| 9 | [Rodeo Remix \(feat\. Flo Milli\) \[Sped Up Version\]](https://open.spotify.com/track/59802nBw0MFfy5D0KywW2a) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo Remix \(feat\. Flo Milli\) \[Sped Up Version\]](https://open.spotify.com/album/2qJA56ITockA3bdWlUJEK2) | 3:07 |
+| 10 | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/track/5H7IzRvSCGY2p7jjuCu6g1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/album/4c5Sf3ULy1kAbqD0DGIFFy) | 3:40 |
 | 11 | [Nasty Dancer](https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Nasty Dancer](https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k) | 2:17 |
 | 12 | [May I](https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:43 |
 | 13 | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O) | 3:20 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 47 | [Back It Up](https://open.spotify.com/track/23LAuKGYTIW6rrCiZqvDZG) | [Trap Beckham](https://open.spotify.com/artist/5AK2gJtEA2SWI9lBywSZjN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Back It Up](https://open.spotify.com/album/5JEiyCKJvndbtLtj9fSmA3) | 3:05 |
 | 48 | [Good](https://open.spotify.com/track/5wwF03ucQEDL2JO6aAUCSi) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Bleu Vandross 3](https://open.spotify.com/album/5gNVVayf3ReHePkP9HeDgz) | 2:42 |
 
-Snapshot ID: `MjgxMDIzMzUsMDAwMDAwMDBlZjcxZjA1ZWUzMDExZDI3YTMwMWZjY2IyMGQ4OGExYg==`
+Snapshot ID: `MjgxMDM3NzgsMDAwMDAwMDBiNDMwOTA3NjczZGU3NTIzODQ1MGZhM2YyNGRhMTU2NQ==`

@@ -982,7 +982,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 236413,
       "name": "Cigarrito",
       "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 276360,
       "name": "Devil Came to Me",
       "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 311866,
       "name": "Dolores se llamaba Lola",
       "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 170225,
       "name": "El Gran Almac\u00e9n",
       "url": "https://open.spotify.com/track/4KylRhBLaADfRK1hvckASR"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 244890,
       "name": "Letras Absurdas",
       "url": "https://open.spotify.com/track/5wOxmAdbz3ihLAiHxxX7ts"
@@ -3306,7 +3306,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 252933,
       "name": "Maneras de Vivir (Single Estudio)",
       "url": "https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB"
@@ -3628,7 +3628,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 205400,
       "name": "Nelly",
       "url": "https://open.spotify.com/track/6E0pZMYmvV68vfmZhQiSSB"
@@ -4274,7 +4274,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 189533,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/70FKk6lWEZ86laY9qm3Rxg"
@@ -4364,7 +4364,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 196517,
       "name": "Revoluci\u00f3n turra - En directo Razzmatazz",
       "url": "https://open.spotify.com/track/000bhyTmlJJJnWzA2xrhAa"
@@ -5016,6 +5016,24 @@
       "duration_ms": 182169,
       "name": "Trocito de Cielo",
       "url": "https://open.spotify.com/track/4Cr2O3m84McsJNOT1IRclx"
+    },
+    {
+      "album": {
+        "name": "Tu mejor versi\u00f3n",
+        "url": "https://open.spotify.com/album/3OIuajzXCZCmYByotVFN1o"
+      },
+      "artists": [
+        {
+          "name": "Rulo y la contrabanda",
+          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192573,
+      "name": "Tu mejor versi\u00f3n",
+      "url": "https://open.spotify.com/track/4jcJAVg8tLaAI6bGZkQHCW"
     },
     {
       "album": {

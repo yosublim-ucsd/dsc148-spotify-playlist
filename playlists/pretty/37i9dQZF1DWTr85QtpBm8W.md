@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,143 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,207 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 11 | [Oto](https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 3:49 |
 | 12 | [Aegina Airlines](https://open.spotify.com/track/2qvXaAyYLBo6PaP85cb1Xn) | [The Dead Texan](https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT) | [The Dead Texan](https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo) | 2:48 |
 | 13 | [Tears From The Compound Eye](https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 4:03 |
-| 14 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
-| 15 | [Pop 1](https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 5:11 |
+| 14 | [Pop 1](https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 5:11 |
+| 15 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
 | 16 | [01 Ghosts I](https://open.spotify.com/track/3M17PrywlQbpMskEKvdaea) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Ghosts I\-IV](https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp) | 2:48 |
 | 17 | [Will She Come Back](https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 5:00 |
 | 18 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 23 | [Amreik](https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Copia](https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ) | 3:18 |
 | 24 | [Requiem for Dying Mothers, Pt\. 2](https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 7:37 |
 | 25 | [The Six Million Dollar Sandwich](https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly) | [The Dead Texan](https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT) | [The Dead Texan](https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo) | 3:02 |
-| 26 | [Night Bus](https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx) | 2:13 |
-| 27 | [V](https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Tape Chants](https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC) | 1:16 |
+| 26 | [V](https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Tape Chants](https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC) | 1:16 |
+| 27 | [Night Bus](https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx) | 2:13 |
 | 28 | [Sherbet Head](https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 2:41 |
 | 29 | [Opalescent](https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 2:11 |
 | 30 | [Sin Nanna](https://open.spotify.com/track/5Io6W7GqRsXUZnl1O0fcb0) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Black One](https://open.spotify.com/album/3oFLD6FiLtAe1Ykq3wWuPf) | 2:17 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 54 | [How Distant Your Heart](https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 4:03 |
 | 55 | [Borderlands](https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [An Imaginary Country](https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R) | 4:46 |
 | 56 | [The Unfinished](https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Lambent Material](https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht) | 4:38 |
-| 57 | [Interlude](https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Songs for the Broken Hearted](https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC) | 2:20 |
-| 58 | [There Is A Number Of Small Things](https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Yesterday Was Dramatic – Today Is OK](https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2) | 6:31 |
+| 57 | [There Is A Number Of Small Things](https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Yesterday Was Dramatic – Today Is OK](https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2) | 6:31 |
+| 58 | [Interlude](https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Songs for the Broken Hearted](https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC) | 2:20 |
 | 59 | [Daumen](https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Geisterfaust](https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC) | 8:06 |
 | 60 | [Your Guts Are Like Mine](https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Telegraphs in Negative / Mouths Trapped in Static](https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka) | 2:15 |
 | 61 | [Sol](https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [Orchid](https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s) | 10:02 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 73 | [Anfangtastisch \- Remastered 2022](https://open.spotify.com/track/4HwEPEnSRL5LZaH9luAKue) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 1:14 |
 | 74 | [Ba Ba](https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ba Ba Ti Ki Di Do](https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q) | 6:12 |
 | 75 | [Already There](https://open.spotify.com/track/1KhqU5oOQeHSMkmFCUsU4j) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [Glider](https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI) | 5:41 |
-| 76 | [Waves](https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [Prism of Eternal Now](https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn) | 6:44 |
-| 77 | [Coral Gables](https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Through the Cardial Window](https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU) | 5:50 |
+| 76 | [Coral Gables](https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Through the Cardial Window](https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU) | 5:50 |
+| 77 | [Waves](https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [Prism of Eternal Now](https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn) | 6:44 |
 | 78 | [Btwn You + Me](https://open.spotify.com/track/2c29Sowwtuf7U3Thnh24nK) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Songs for the Broken Hearted](https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC) | 6:18 |
 | 79 | [The Direction Was Foggy or Cloudy](https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:11 |
 | 80 | [Aparaquasynthe \- Remastered 2022](https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 5:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [The Orchardist](https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:07 |
 | 100 | [Swarm](https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Steel Wound](https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0) | 4:00 |
 
-Snapshot ID: `MCwyNDdiNDY1M2M5YjFkMjUxMDliNjIwZTM5OTNhN2U3Zjk5MjY5YTgw`
+Snapshot ID: `MCw0M2IzOGE1MDQ1MDBlYmVjNGJmNDIyOWE1ZWUwYzc1MTI4NGViOWI2`

@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM5NTA0MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM5NTkwNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
         "url": "https://open.spotify.com/album/2uXRznzlQXF6TXkrYVO7zA"
@@ -45,23 +45,7 @@
       "url": "https://open.spotify.com/track/371eYP4pjqR2C0Vw38u0uk"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
-      "album": {
-        "name": "Part of Your World (From \"The Little Mermaid\")",
-        "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
-      },
-      "artists": [
-        {
-          "name": "Halle",
-          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Part of Your World - From \"The Little Mermaid\"",
-      "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
-    },
-    {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Tanpa Aku",
         "url": "https://open.spotify.com/album/1KpqsIwGr9EutOjnJl4HaH"
@@ -77,39 +61,23 @@
       "url": "https://open.spotify.com/track/1rvMhV6FQggO28NYyxfV0G"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
-        "name": "Smooth Operator",
-        "url": "https://open.spotify.com/album/51pLeptQs24bS9CswmHLHp"
+        "name": "Part of Your World (From \"The Little Mermaid\")",
+        "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
       },
       "artists": [
         {
-          "name": "Musique Boutique",
-          "url": "https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC"
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
         }
       ],
-      "duration_ms": 221982,
-      "name": "Smooth Operator - Deep House Version",
-      "url": "https://open.spotify.com/track/6gkdWaZS8wCuv2fwB1f4v8"
+      "duration_ms": 214373,
+      "name": "Part of Your World - From \"The Little Mermaid\"",
+      "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
-      "album": {
-        "name": "D\u017eanum",
-        "url": "https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y"
-      },
-      "artists": [
-        {
-          "name": "Teya Dora",
-          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
-        }
-      ],
-      "duration_ms": 174045,
-      "name": "D\u017eanum",
-      "url": "https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz"
-    },
-    {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Zanaka (Deluxe)",
         "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
@@ -125,7 +93,39 @@
       "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
+      "album": {
+        "name": "Smooth Operator",
+        "url": "https://open.spotify.com/album/51pLeptQs24bS9CswmHLHp"
+      },
+      "artists": [
+        {
+          "name": "Musique Boutique",
+          "url": "https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC"
+        }
+      ],
+      "duration_ms": 221982,
+      "name": "Smooth Operator - Deep House Version",
+      "url": "https://open.spotify.com/track/6gkdWaZS8wCuv2fwB1f4v8"
+    },
+    {
+      "added_at": "2023-06-08 11:16:51",
+      "album": {
+        "name": "D\u017eanum",
+        "url": "https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y"
+      },
+      "artists": [
+        {
+          "name": "Teya Dora",
+          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
+        }
+      ],
+      "duration_ms": 174045,
+      "name": "D\u017eanum",
+      "url": "https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz"
+    },
+    {
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Shoti Sped Up",
         "url": "https://open.spotify.com/album/2EOonF7VdwCRgRgEEQvyO9"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/14Vsn26hOxfbgVb4etM9jd"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "T\u00e1 OK",
         "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Trauma",
         "url": "https://open.spotify.com/album/6X4KUt8RZEuJnlXXX04JC9"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/6bOW2X3ffFoOpMfDoz91Q6"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "The Lost Soul Down",
         "url": "https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Ela Voltou de Perna Bamba",
         "url": "https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs"
@@ -241,27 +241,23 @@
       "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+        "name": "Sequ\u00eancia da Dz7",
+        "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
         }
       ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
+      "duration_ms": 119184,
+      "name": "Sequ\u00eancia da Dz7",
+      "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Khayaal",
         "url": "https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG"
@@ -281,7 +277,7 @@
       "url": "https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "ANYWAY",
         "url": "https://open.spotify.com/album/64MZHXV7IglO8LE8KplSRw"
@@ -301,23 +297,27 @@
       "url": "https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
-        "name": "Sequ\u00eancia da Dz7",
-        "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
       },
       "artists": [
         {
-          "name": "TRASHXRL",
-          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 119184,
-      "name": "Sequ\u00eancia da Dz7",
-      "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "PHONKGASKAR",
         "url": "https://open.spotify.com/album/2B6eFuLza7i5gwzzWgASFI"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "GOOD LOYAL THOTS",
         "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Blame Brett",
         "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
@@ -385,27 +385,7 @@
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
-      "album": {
-        "name": "D\u00fcnya",
-        "url": "https://open.spotify.com/album/4OANCg2XGfMsaP3bMhazsu"
-      },
-      "artists": [
-        {
-          "name": "Y\u0131ld\u0131z Usmonova",
-          "url": "https://open.spotify.com/artist/7J9o5Hdc4fNz21SsIBztYK"
-        },
-        {
-          "name": "Ya\u015far G\u00fcna\u00e7g\u00fcn",
-          "url": "https://open.spotify.com/artist/5h9ueyfXGdgh1rkRQFixkj"
-        }
-      ],
-      "duration_ms": 270140,
-      "name": "Seni Severdim (feat. Ya\u015far )",
-      "url": "https://open.spotify.com/track/4wafsaGv4ofwEBmDyp4qsA"
-    },
-    {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "All Eyez on Me (Remix)",
         "url": "https://open.spotify.com/album/50p2LtMcvV2ryHOGHO20uK"
@@ -429,7 +409,27 @@
       "url": "https://open.spotify.com/track/6DPK3fVzuAXaKAqs6M9AXJ"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
+      "album": {
+        "name": "D\u00fcnya",
+        "url": "https://open.spotify.com/album/4OANCg2XGfMsaP3bMhazsu"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Usmonova",
+          "url": "https://open.spotify.com/artist/7J9o5Hdc4fNz21SsIBztYK"
+        },
+        {
+          "name": "Ya\u015far G\u00fcna\u00e7g\u00fcn",
+          "url": "https://open.spotify.com/artist/5h9ueyfXGdgh1rkRQFixkj"
+        }
+      ],
+      "duration_ms": 270140,
+      "name": "Seni Severdim (feat. Ya\u015far )",
+      "url": "https://open.spotify.com/track/4wafsaGv4ofwEBmDyp4qsA"
+    },
+    {
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "I feel",
         "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "What It Is (Versions)",
         "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Giving Me",
         "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
@@ -513,55 +513,7 @@
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
-      "album": {
-        "name": "UNFORGIVEN",
-        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
-      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
-    },
-    {
-      "added_at": "2023-06-07 11:51:19",
-      "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
-      },
-      "artists": [
-        {
-          "name": "Iniko",
-          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
-    },
-    {
-      "added_at": "2023-06-07 11:51:19",
-      "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
-    },
-    {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Nanti Kita Seperti Ini",
         "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
@@ -577,23 +529,55 @@
       "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
-        "name": "Midnights (The Til Dawn Edition)",
-        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 234466,
-      "name": "Hits Different",
-      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
+    },
+    {
+      "added_at": "2023-06-08 11:16:51",
+      "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "CCC",
         "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
@@ -613,23 +597,23 @@
       "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
-        "name": "No digas nada",
-        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
+        "name": "Fictional",
+        "url": "https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5"
       },
       "artists": [
         {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "Khloe Rose",
+          "url": "https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm"
         }
       ],
-      "duration_ms": 222545,
-      "name": "No digas nada",
-      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
+      "duration_ms": 223400,
+      "name": "Fictional",
+      "url": "https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "MATHEMATICAL DISRESPECT",
         "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
@@ -645,7 +629,7 @@
       "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Chale Jaana Phir",
         "url": "https://open.spotify.com/album/7Co0Nyse7oM3Us1KCulBpn"
@@ -669,55 +653,23 @@
       "url": "https://open.spotify.com/track/04ChFQZCKl2yRcvc0VR7qN"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
-        "name": "Geri D\u00f6nemedim",
-        "url": "https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC"
+        "name": "No digas nada",
+        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
       },
       "artists": [
         {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         }
       ],
-      "duration_ms": 138640,
-      "name": "Geri D\u00f6nemedim",
-      "url": "https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq"
+      "duration_ms": 222545,
+      "name": "No digas nada",
+      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
-      "album": {
-        "name": "Fictional",
-        "url": "https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5"
-      },
-      "artists": [
-        {
-          "name": "Khloe Rose",
-          "url": "https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Fictional",
-      "url": "https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS"
-    },
-    {
-      "added_at": "2023-06-07 11:51:19",
-      "album": {
-        "name": "g\u00f6zlerindeki ay",
-        "url": "https://open.spotify.com/album/3TMj9dY2lRO6TriDsDQWr6"
-      },
-      "artists": [
-        {
-          "name": "Mavi",
-          "url": "https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "g\u00f6zlerindeki ay",
-      "url": "https://open.spotify.com/track/5Ll8YoELGiZ3jeoaY3TABg"
-    },
-    {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Past Lives",
         "url": "https://open.spotify.com/album/4mtlhZ8dDdNnXCFu5AzFv8"
@@ -733,7 +685,39 @@
       "url": "https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Hits Different",
+      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+    },
+    {
+      "added_at": "2023-06-08 11:16:51",
+      "album": {
+        "name": "g\u00f6zlerindeki ay",
+        "url": "https://open.spotify.com/album/3TMj9dY2lRO6TriDsDQWr6"
+      },
+      "artists": [
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "g\u00f6zlerindeki ay",
+      "url": "https://open.spotify.com/track/5Ll8YoELGiZ3jeoaY3TABg"
+    },
+    {
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Na Roja Nuvve (From \"Kushi\") - Single",
         "url": "https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS"
@@ -753,7 +737,23 @@
       "url": "https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
+      "album": {
+        "name": "Geri D\u00f6nemedim",
+        "url": "https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "Geri D\u00f6nemedim",
+      "url": "https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq"
+    },
+    {
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Na Contram\u00e3o",
         "url": "https://open.spotify.com/album/0TqLSBctNqzky2bUakAMVb"
@@ -797,7 +797,27 @@
       "url": "https://open.spotify.com/track/7kJ0aTB5gLMYrJjYft3Vx6"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Blackway",
+          "url": "https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi"
+        },
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        }
+      ],
+      "duration_ms": 222306,
+      "name": "What's Up Danger (with Black Caviar)",
+      "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T"
+    },
+    {
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
@@ -817,7 +837,23 @@
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
+      "album": {
+        "name": "summer flows 0.02",
+        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "seasons",
+      "url": "https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh"
+    },
+    {
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Little Girl Gone",
         "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
@@ -833,23 +869,7 @@
       "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
-      "album": {
-        "name": "Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
-    },
-    {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Haryana Hood",
         "url": "https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj"
@@ -865,7 +885,7 @@
       "url": "https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl"
     },
     {
-      "added_at": "2023-06-07 11:51:19",
+      "added_at": "2023-06-08 11:16:51",
       "album": {
         "name": "Can\u0131n Sa\u011f Olsun",
         "url": "https://open.spotify.com/album/6fpX97EwxmnNGNYeBneybh"
@@ -883,22 +903,6 @@
       "duration_ms": 179617,
       "name": "Can\u0131n Sa\u011f Olsun",
       "url": "https://open.spotify.com/track/0mYqW8vhiw9rgwSwB21JQz"
-    },
-    {
-      "added_at": "2023-06-07 11:51:19",
-      "album": {
-        "name": "summer flows 0.02",
-        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "seasons",
-      "url": "https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh"
     }
   ],
   "unique_name": "Viral 50 - Global",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 6057,
+  "num_followers": 6071,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODVmMWE5ZWMzOTRiZmZhYjAxYTZmMjJiOTk4MzI5MGY4NmYxYzkx",
+  "snapshot_id": "MCwwOGFjYTI1ZGIwMTc3MzVjNjE0MTZhZDljZDJkMGRlMGRjODE0ZGZi",
   "tracks": [
     {
       "added_at": "2023-05-26 07:19:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
-        "name": "Aqu\u00ed Me Tienes",
-        "url": "https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 157259,
-      "name": "Aqui\u0301 Me Tienes",
-      "url": "https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR"
-    },
-    {
-      "added_at": "2023-05-26 07:19:00",
-      "album": {
         "name": "Perdiendo el Control",
         "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 202221,
       "name": "Perdiendo el Control",
       "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
+    },
+    {
+      "added_at": "2023-05-26 07:19:00",
+      "album": {
+        "name": "Aqu\u00ed Me Tienes",
+        "url": "https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 157259,
+      "name": "Aqui\u0301 Me Tienes",
+      "url": "https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR"
     },
     {
       "added_at": "2023-05-26 07:19:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
-        "name": "Renacido",
-        "url": "https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hill",
-          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
-        }
-      ],
-      "duration_ms": 225304,
-      "name": "Este Momento",
-      "url": "https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX"
-    },
-    {
-      "added_at": "2023-05-26 07:19:00",
-      "album": {
         "name": "Sun a Shine",
         "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 172069,
       "name": "Sun a Shine",
       "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
+    },
+    {
+      "added_at": "2023-05-26 07:19:00",
+      "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+        }
+      ],
+      "duration_ms": 225304,
+      "name": "Este Momento",
+      "url": "https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX"
     },
     {
       "added_at": "2023-05-26 07:19:00",

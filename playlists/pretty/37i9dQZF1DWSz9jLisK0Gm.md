@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSz9jLisK0Gm.md) - [plain]
 
 > Yksi kaikkien aikojen suurimmista on poissa\. Kiitos kaikesta, Vesa\-Matti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,438 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,439 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSz9jLisK0Gm.md) - [plain]
 | 69 | [On suuri sun rantas autius](https://open.spotify.com/track/4t1gvtrnzXxm34WfFuLnXp) | [Vesa\-Matti Loiri](https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt) | [Tunnelmoiden](https://open.spotify.com/album/2EtxBsv1FisK5Rxxx66sWB) | 4:51 |
 | 70 | [Coming Home Baby](https://open.spotify.com/track/6eFGQnMbJ5ToRQWPa3DJiS) | [Vesa\-Matti Loiri](https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt) | [4 + 20](https://open.spotify.com/album/7g2sH9ELTUWGviDno6Eups) | 6:06 |
 
-Snapshot ID: `MCw4NGJhMTQ0ODM5MTkzMTg5NzhkOTRiZjlkNDc2ZjIyMDZkMDlhZGFi`
+Snapshot ID: `MCwzMzNmMmI5NjFkYzJmOGNhMDkwZGU4ZTEwOWIxMmMzNTBjMzU1ZTQ2`

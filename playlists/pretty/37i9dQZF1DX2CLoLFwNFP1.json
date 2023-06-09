@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 23376,
+  "num_followers": 23458,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGE3MDM0NmM1MWYxODVmZmE0Y2EyNjQzMjIyYzBlMWUzNzFjN2Qw",
+  "snapshot_id": "MCxkMDYzNWE5ZDkxNDNhMTQwMmQ2NGM0NzE4MjIxYThlZDhhMDUxNjY4",
   "tracks": [
     {
       "added_at": "2023-05-29 03:38:14",
@@ -279,26 +279,6 @@
     {
       "added_at": "2023-05-29 03:38:14",
       "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 192585,
-      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
-      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
-    },
-    {
-      "added_at": "2023-05-29 03:38:14",
-      "album": {
         "name": "Point Of View: U",
         "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 181506,
       "name": "Love The Way (Feat. Jay Park & punchnello)",
       "url": "https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF"
+    },
+    {
+      "added_at": "2023-05-29 03:38:14",
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 192585,
+      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
+      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
     },
     {
       "added_at": "2023-05-29 03:38:14",

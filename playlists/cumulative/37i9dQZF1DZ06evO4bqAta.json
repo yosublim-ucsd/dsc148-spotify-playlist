@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 412200,
       "name": "A Hard Rain's A-Gonna Fall",
       "url": "https://open.spotify.com/track/7ny2ATvjtKszCpLpfsGnVQ"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 356706,
       "name": "Ballad of a Thin Man",
       "url": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 171106,
       "name": "Love Minus Zero",
       "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 157933,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 247866,
       "name": "Positively 4th Street - Single Version",
       "url": "https://open.spotify.com/track/4heMx0OAwfILu13Lf0VbBM"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 166706,
       "name": "She Belongs to Me",
       "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Song to Woody",
       "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
@@ -1672,6 +1672,24 @@
       "duration_ms": 303506,
       "name": "What Was It You Wanted",
       "url": "https://open.spotify.com/track/7otGDRpzw5bouxUwI5m08I"
+    },
+    {
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265946,
+      "name": "When I Paint My Masterpiece",
+      "url": "https://open.spotify.com/track/43Wx5R35qqNVNOuk6GrRKR"
     },
     {
       "album": {

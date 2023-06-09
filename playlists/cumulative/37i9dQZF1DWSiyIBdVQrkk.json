@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197183,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
+    },
+    {
+      "album": {
         "name": "A Vibe (feat. Wiz Khalifa)",
         "url": "https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw"
       },
@@ -901,6 +923,24 @@
     },
     {
       "album": {
+        "name": "COCONUT WATA (SIP)",
+        "url": "https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185720,
+      "name": "COCONUT WATA (SIP)",
+      "url": "https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo"
+    },
+    {
+      "album": {
         "name": "Cold & Clear",
         "url": "https://open.spotify.com/album/08ON867DuEeQi8HzI7mZID"
       },
@@ -984,7 +1024,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 242230,
       "name": "Cool Down",
       "url": "https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe"
@@ -2874,7 +2914,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 234057,
       "name": "Lady In Red",
       "url": "https://open.spotify.com/track/5OJ3X6sG29MQH3FgeYg66k"
@@ -3605,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "Mi Deh Yah",
+        "url": "https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu"
+      },
+      "artists": [
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227404,
+      "name": "Mi Deh Yah",
+      "url": "https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035"
+    },
+    {
+      "album": {
         "name": "Million Times",
         "url": "https://open.spotify.com/album/42EPgrQJsO48gpuFV2xAOq"
       },
@@ -4116,6 +4174,24 @@
       "duration_ms": 259200,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw"
+    },
+    {
+      "album": {
+        "name": "Jah Love Surround Me",
+        "url": "https://open.spotify.com/album/5TUwg8z4VvkkeR8GGtdJz2"
+      },
+      "artists": [
+        {
+          "name": "Zamunda",
+          "url": "https://open.spotify.com/artist/7FjI2O0iKV8rvlHjiqZaPg"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218551,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/5YcRugjrGIBL6TjcmaDaqI"
     },
     {
       "album": {
@@ -6376,7 +6452,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 228600,
       "name": "Tempted to Touch",
       "url": "https://open.spotify.com/track/24kv7kR0Cz8ZBWFx4Kq50A"
@@ -6926,7 +7002,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 240488,
       "name": "Undeniable (feat. Kaylan Arnold)",
       "url": "https://open.spotify.com/track/3FXA9dJbftFcgOoMiGYH0u"

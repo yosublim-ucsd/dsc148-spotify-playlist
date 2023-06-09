@@ -2,9 +2,9 @@
 
 ### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
-> Les hits dancehall du moment\. Photo : Blaiz Fayah
+> Les hits dancehall du moment\. Photo : Shenseea
 
-259 songs - 11 hr 58 min
+260 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [6ex In The Morning](https://open.spotify.com/track/1nwNvEXXoKKmJCpQDtXdkC) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [In Too Deep](https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy) | 2:40 | 2022-11-17 | 2023-01-06 |
 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 | 2023-01-26 | 2023-03-03 |
 | [Acteur](https://open.spotify.com/track/7aqraZFHYT0Ayge14i3YKz) | [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq) | [Acteur](https://open.spotify.com/album/3DmfmZlQcNnK5H332CHaEf) | 2:38 | 2023-02-23 | 2023-04-28 |
-| [African Queen](https://open.spotify.com/track/4ggPheLG888XYYFbm53DYz) | [Tiwony](https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa), [Awadi](https://open.spotify.com/artist/36EmM57Ar1BOJDnHR4iIwc) | [Frequency](https://open.spotify.com/album/5Fp2m1oy0ECWpObKzS9xiE) | 3:28 | 2023-04-27 |  |
+| [African Queen](https://open.spotify.com/track/4ggPheLG888XYYFbm53DYz) | [Tiwony](https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa), [Awadi](https://open.spotify.com/artist/36EmM57Ar1BOJDnHR4iIwc) | [Frequency](https://open.spotify.com/album/5Fp2m1oy0ECWpObKzS9xiE) | 3:28 | 2023-04-27 | 2023-06-09 |
 | [AH WA DO DEM](https://open.spotify.com/track/0mjsPJT6SMwpQvIRHwvU3W) | [Tiwony](https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB) | [Ah wa do dem](https://open.spotify.com/album/2H6Si7tmU9EdlKxQl7AoGA) | 2:47 | 2022-06-09 | 2022-09-09 |
 | [Amaré](https://open.spotify.com/track/67y2KuPVBWnrCx7WgSrd6M) | [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA) | [Empreinte](https://open.spotify.com/album/2d3dlA16tR1IgxoJhkGrmv) | 3:14 | 2022-09-08 | 2022-10-14 |
 | [Ami + +](https://open.spotify.com/track/1C8GLU188MZJGK2YKFVfbd) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [Ami + +](https://open.spotify.com/album/6kGZVP8zR6tZGzz0QKVJJK) | 2:44 | 2022-05-05 | 2022-07-22 |
@@ -242,6 +242,7 @@
 | [Toni\-Ann Singh \(feat\. Popcaan\)](https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:55 | 2022-09-08 | 2023-02-24 |
 | [Too Hot](https://open.spotify.com/track/5YIvwu6p04xoP8MM1jUxCq) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [Too Hot](https://open.spotify.com/album/0h56vBwhxwsXIYJ7zefydW) | 2:00 | 2023-02-02 | 2023-05-12 |
 | [Touch Yuh Head](https://open.spotify.com/track/3Uz7hukmuZrWgndrVa0iXS) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Monsta Boss](https://open.spotify.com/artist/1M84HVHheuNfv1GbnDMqBb) | [Touch Yuh Head](https://open.spotify.com/album/4oQEwqssWbXMmrGfaTd3UC) | 2:49 | 2022-04-21 | 2022-07-01 |
+| [Toxic](https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:35 | 2023-06-08 |  |
 | [Tremor](https://open.spotify.com/track/3PXtntjqL9xJxtW270fDQX) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Tremor](https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU) | 2:06 | 2023-02-23 | 2023-05-26 |
 | [Tropics](https://open.spotify.com/track/4a2RUg8Jwp3bLl5eh7ZYJ0) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [P Skinna](https://open.spotify.com/artist/2vGSsUbRGtgfwCvGyJCJSV), [Liondub](https://open.spotify.com/artist/7HuGtUW71ocVHeaeasyFlB) | [Tropics](https://open.spotify.com/album/0Gi5mHgVkU5YKS48OMkriL) | 2:57 | 2022-01-06 | 2022-04-29 |
 | [Tun Up](https://open.spotify.com/track/4b1vWqoVyMlB3nPVMicTF9) | [KARYO](https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59), [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [DVTTY](https://open.spotify.com/artist/7KfMurt9HFz4Kbt8rSuYO1) | [Tun Up](https://open.spotify.com/album/3wuwCumxjJccdtu5j9q0jP) | 2:11 | 2023-03-16 | 2023-06-02 |
@@ -259,7 +260,7 @@
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 | 2023-01-06 | 2023-04-21 |
 | [Weekend](https://open.spotify.com/track/5WMGYicc8RIo80wdcbiLTx) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Weekend](https://open.spotify.com/album/3Z6ZcEMuSZcYSImbBwrOBD) | 3:10 | 2022-03-10 | 2022-06-03 |
 | [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 | 2021-12-22 | 2022-03-11 |
-| [Whine it up](https://open.spotify.com/track/0r6CB4zVdoH4ejbtRV61yS) | [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Maureen](https://open.spotify.com/artist/3Twl47OChsk36T8krOfUvp), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Whine it up](https://open.spotify.com/album/6OJiOlpsFDPX74ZAgtmBSK) | 2:18 | 2022-10-13 |  |
+| [Whine it up](https://open.spotify.com/track/0r6CB4zVdoH4ejbtRV61yS) | [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Maureen](https://open.spotify.com/artist/3Twl47OChsk36T8krOfUvp), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Whine it up](https://open.spotify.com/album/6OJiOlpsFDPX74ZAgtmBSK) | 2:18 | 2022-10-13 | 2023-06-09 |
 | [Whine O'Clock](https://open.spotify.com/track/1jAVJ1836ceDp2ozcNs6Uh) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [Whine O'Clock](https://open.spotify.com/album/6OoO4JDWKvR6gOX84s7Tft) | 2:21 | 2022-01-13 | 2022-05-27 |
 | [Whine Up](https://open.spotify.com/track/5Rg4Qaga7HQsuDJrRXiF7v) | [Goldn.B](https://open.spotify.com/artist/4gGacdwZmUxzVWDOoGMomn), [KILLI](https://open.spotify.com/artist/2VHuInTKPsBGsCDFn5WkxW) | [Whine Up](https://open.spotify.com/album/6zRqfCNWYiA4kvKHm7Rrpo) | 2:39 | 2022-08-25 | 2022-10-28 |
 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 | 2022-01-27 | 2022-06-10 |

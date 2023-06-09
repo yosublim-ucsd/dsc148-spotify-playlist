@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Barbi Recanati.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,158 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,163 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 22 | [ULTRASONICO](https://open.spotify.com/track/2W4qLB4rniOvtnt5ywiEGo) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 2:53 |
 | 23 | [La Casa De Tu Mamá](https://open.spotify.com/track/347RGsSgCXlzIlZYb2gEwu) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [La Casa De Tu Mamá](https://open.spotify.com/album/05SDUU6l3vytYY5Jld0b00) | 3:13 |
 | 24 | [Otro Vals](https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Otro Vals](https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm) | 3:42 |
-| 25 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
-| 26 | [Cancionero](https://open.spotify.com/track/3HMU4dE6cDSIg91lJyTkc5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Crisis de Amor](https://open.spotify.com/album/0xKZ1qAIGC60qmenFk94uC) | 4:29 |
+| 25 | [Cancionero](https://open.spotify.com/track/3HMU4dE6cDSIg91lJyTkc5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Crisis de Amor](https://open.spotify.com/album/0xKZ1qAIGC60qmenFk94uC) | 4:29 |
+| 26 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
 | 27 | [Destino](https://open.spotify.com/track/6m0T4tuJZvjTZAaUTlpRGX) | [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [En vivo en El Xirgu](https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ) | 1:35 |
 | 28 | [Estoy Enojada](https://open.spotify.com/track/6VR6R6qQiI1zOJeJ8WMugS) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz) | [KELP](https://open.spotify.com/album/45TfiSTgYPdsXQpBCy0ll1) | 2:19 |
-| 29 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
-| 30 | [Máscara de miel](https://open.spotify.com/track/4uwdJZMOKe3uHQ4QbG68p3) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Máscara de miel](https://open.spotify.com/album/0g6t7fhvdN04FAXuTFXywA) | 3:02 |
+| 29 | [Máscara de miel](https://open.spotify.com/track/4uwdJZMOKe3uHQ4QbG68p3) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Máscara de miel](https://open.spotify.com/album/0g6t7fhvdN04FAXuTFXywA) | 3:02 |
+| 30 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
 | 31 | [De chispa fuego](https://open.spotify.com/track/4D1OaK6yej6RknDhKvAyc7) | [Privia](https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4) | [De chispa fuego](https://open.spotify.com/album/7GUzCwTB2tvoXHof5vxWds) | 2:41 |
 | 32 | [Tengo Ganas](https://open.spotify.com/track/3hNzGgphB8bQxS6EtdqLtO) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 4:00 |
 | 33 | [Casa](https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casa](https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Aplaudan](https://open.spotify.com/track/536hF72EgZwGrnxAfKMiAS) | [Maria Florencia Silva](https://open.spotify.com/artist/3lPDxSUaNbNXR3h4U8PYUu), [Animales de Poder](https://open.spotify.com/artist/0HHIbLHHbWHtLokGrFztwF) | [Aplaudan](https://open.spotify.com/album/77Z2tqEa6SgV7HO2ii5Gsk) | 3:40 |
 | 50 | [Manantyal](https://open.spotify.com/track/7rHTj0MTKl1Rv0o9Dz1Kpx) | [La Fresca](https://open.spotify.com/artist/3DU2p6FkSfiywxL4yLyN4E) | [Manantyal](https://open.spotify.com/album/0CSuboW9EoF7uV2cORlrzK) | 3:15 |
 
-Snapshot ID: `MCw0NGFhMWI3ZWVhZTQwOTRjMGY2OWUxN2I2N2M5NTg1ZGZmYTQ5Yjk2`
+Snapshot ID: `MCw5NTkwNmEwODU5NDkyZmIzYjliYjgwMGRjMDczYzA2ZjEyNzkxNzRh`

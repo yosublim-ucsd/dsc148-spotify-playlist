@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Bajo Perfil
 
-126 songs - 6 hr 37 min
+128 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Así Es El Amor](https://open.spotify.com/track/77p3dPEiKwY597PAB3w106) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [SS23](https://open.spotify.com/album/0XYT6Otzt0i7LWvhxV8yeu) | 3:37 | 2023-05-19 | 2023-05-28 |
 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 | 2023-05-19 |  |
 | [Blindado El Carro](https://open.spotify.com/track/1WQrzKMetBmUPBvQOFpvAz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Golpes De La Vida](https://open.spotify.com/album/5dVtllLtLJfLdBEwhzREF7) | 3:08 | 2023-05-19 | 2023-05-24 |
-| [Blindado El Carro](https://open.spotify.com/track/5f3GDXYaa2pLYqm2vKqoLY) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Golpes De La Vida](https://open.spotify.com/album/1iQv3FKUCzdJOiSSC1O4ZP) | 3:09 | 2023-05-19 |  |
+| [Blindado El Carro](https://open.spotify.com/track/5f3GDXYaa2pLYqm2vKqoLY) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Golpes De La Vida](https://open.spotify.com/album/1iQv3FKUCzdJOiSSC1O4ZP) | 3:09 | 2023-05-19 | 2023-06-09 |
+| [Blindado El Carro](https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:09 | 2023-05-26 |  |
 | [Borracho De Cantina](https://open.spotify.com/track/3Nk0mBAQIVeCrCjfoJx3iP) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [¿En Qué Les Molesta?](https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw) | 2:48 | 2023-05-19 |  |
 | [Bravisísimo](https://open.spotify.com/track/6ahhzI2K3fnws0BwBTUOgI) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [La Ratonera](https://open.spotify.com/album/2HKfS0djtKD4VEybHS2eSu) | 2:28 | 2023-05-19 |  |
 | [Brilla Una Cadena](https://open.spotify.com/track/4W2uoWmNAfnr8TrHWl3DMy) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Angelitos Pt\. 1](https://open.spotify.com/album/53YPLsCDz7sHSdBiNbHR1c) | 2:04 | 2023-05-19 |  |
@@ -52,7 +53,8 @@
 | [El Yuko \(En Vivo\)](https://open.spotify.com/track/2tTHGLNxwZ4vIL3hYppWvl) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Desde La Capital Del Corrido, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/60ZMVCYSqlQ5ncMIH0Z92q) | 2:43 | 2023-05-19 |  |
 | [El Árbol de La Horca \(En Vivo\)](https://open.spotify.com/track/6mmadD66p96rNoxoMUgVj9) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Desde El Rancho \(En Vivo\)](https://open.spotify.com/album/1sgo3AhOzBSVAKkIVSjTrD) | 3:58 | 2023-05-19 |  |
 | [En Una De Pista](https://open.spotify.com/track/2P2LeA91YUbrp4uGVqnWIz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/5dVtllLtLJfLdBEwhzREF7) | 3:00 | 2023-05-19 | 2023-05-26 |
-| [En Una De Pista](https://open.spotify.com/track/2OTGlJ4IK34BghD0aa9Q6i) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/1iQv3FKUCzdJOiSSC1O4ZP) | 3:01 | 2023-05-19 |  |
+| [En Una De Pista](https://open.spotify.com/track/2OTGlJ4IK34BghD0aa9Q6i) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/1iQv3FKUCzdJOiSSC1O4ZP) | 3:01 | 2023-05-19 | 2023-06-09 |
+| [En Una De Pista](https://open.spotify.com/track/0e2sClDxK89Jsomfg1FQNZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:01 | 2023-05-26 |  |
 | [Entre Mas Te Miro](https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:39 | 2023-05-19 |  |
 | [Fruta Prohibida \(En Vivo\)](https://open.spotify.com/track/5m9nkKTgo3D4vrFG7yVW2Q) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Fruta Prohibida \(En Vivo\)](https://open.spotify.com/album/6YdurIed4b8G10sqyiRi5Y) | 2:43 | 2023-05-19 |  |
 | [Fue La Tentación](https://open.spotify.com/track/02etrm7YrkxifAYChqAVPQ) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:17 | 2023-05-19 |  |

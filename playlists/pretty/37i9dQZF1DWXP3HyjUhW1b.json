@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed est\u00e1n las meras-meras de nuestro cancionero. Pedro Infante en portada.",
-  "num_followers": 308096,
+  "num_followers": 308170,
   "original_name": "Cancionero Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTZjOWVhMmQxZWJkYTQ4ODExNTBhNzVjNjIzOGIxNzVjYzQ4NDg5",
+  "snapshot_id": "MCxkNTA4NmUzMDY1MTkyMjdiMGIzODUxZDUwZTkwZjg1ZjFlODFiZTY2",
   "tracks": [
     {
       "added_at": "2022-09-12 18:34:57",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-09-12 18:34:57",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
-    },
-    {
-      "added_at": "2022-09-12 18:34:57",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 234000,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
+    },
+    {
+      "added_at": "2022-09-12 18:34:57",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
     },
     {
       "added_at": "2022-09-12 18:34:57",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-12 18:34:57",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "M\u00e9xico En La Piel",
-      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
-    },
-    {
-      "added_at": "2022-09-12 18:34:57",
-      "album": {
         "name": "Mi Mexico",
         "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 288160,
       "name": "Mi Talism\u00e1n",
       "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
+    },
+    {
+      "added_at": "2022-09-12 18:34:57",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "M\u00e9xico En La Piel",
+      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
     },
     {
       "added_at": "2022-09-12 18:34:57",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-12 18:34:57",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
-    },
-    {
-      "added_at": "2022-09-12 18:34:57",
-      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 229200,
       "name": "T\u00fa Lo Decidiste",
       "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
+    },
+    {
+      "added_at": "2022-09-12 18:34:57",
+      "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
     },
     {
       "added_at": "2022-09-12 18:34:57",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-09-12 18:34:57",
       "album": {
-        "name": "Amores",
-        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Es Demasiado Tarde - Remasterizado",
-      "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
-    },
-    {
-      "added_at": "2022-09-12 18:34:57",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
         "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 490753,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
+    },
+    {
+      "added_at": "2022-09-12 18:34:57",
+      "album": {
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Es Demasiado Tarde - Remasterizado",
+      "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
     },
     {
       "added_at": "2022-09-12 18:34:57",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-09-12 18:34:57",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
-    },
-    {
-      "added_at": "2022-09-12 18:34:57",
-      "album": {
         "name": "A 10 a\u00f1os....un recuerdo permanente",
         "url": "https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 136826,
       "name": "En El Ultimo Trago",
       "url": "https://open.spotify.com/track/2NHHppsOEAr4SUTJzHSmEt"
+    },
+    {
+      "added_at": "2022-09-12 18:34:57",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
     },
     {
       "added_at": "2022-09-12 18:34:57",
@@ -1759,38 +1759,6 @@
     {
       "added_at": "2022-09-12 18:34:57",
       "album": {
-        "name": "Lo Mejor De El Piporro",
-        "url": "https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643"
-      },
-      "artists": [
-        {
-          "name": "El Piporro",
-          "url": "https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q"
-        }
-      ],
-      "duration_ms": 135964,
-      "name": "El Taconazo",
-      "url": "https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX"
-    },
-    {
-      "added_at": "2022-09-12 18:34:57",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 324365,
-      "name": "La Malaguen\u0303a",
-      "url": "https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima"
-    },
-    {
-      "added_at": "2022-09-12 18:34:57",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
         "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
@@ -1807,6 +1775,22 @@
     {
       "added_at": "2022-09-12 18:34:57",
       "album": {
+        "name": "Lo Mejor De El Piporro",
+        "url": "https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643"
+      },
+      "artists": [
+        {
+          "name": "El Piporro",
+          "url": "https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q"
+        }
+      ],
+      "duration_ms": 135964,
+      "name": "El Taconazo",
+      "url": "https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX"
+    },
+    {
+      "added_at": "2022-09-12 18:34:57",
+      "album": {
         "name": "Cien a\u00f1os... pensando en ti",
         "url": "https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 212706,
       "name": "Cien a\u00f1os",
       "url": "https://open.spotify.com/track/1Ag6NwYwfBxZuNixLMT5a8"
+    },
+    {
+      "added_at": "2022-09-12 18:34:57",
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 324365,
+      "name": "La Malaguen\u0303a",
+      "url": "https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima"
     },
     {
       "added_at": "2022-09-12 18:34:57",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2022-09-12 18:34:57",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA"
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/4RjkV0J5IxjqbDbqNzmeGC"
       },
       "artists": [
         {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+          "name": "Francisco \"Charro\" Avitia",
+          "url": "https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok"
         }
       ],
-      "duration_ms": 210280,
-      "name": "Caminos de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/01N7WLJxshd4dDhK7f3WVe"
+      "duration_ms": 189933,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/6sqNESQ8bbQsiVHkfLTTD8"
     },
     {
       "added_at": "2022-09-12 18:34:57",

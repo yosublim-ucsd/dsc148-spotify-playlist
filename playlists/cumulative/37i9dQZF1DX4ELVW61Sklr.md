@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-135 songs - 8 hr 53 min
+136 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Ghetto Christmas \(with 6LACK & Summer Walker\)](https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:35 | 2021-12-15 |  |
 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 | 2021-12-15 |  |
 | [Give Love On Christmas Day](https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Best Of/20th Century \- Christmas](https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy) | 4:09 | 2021-12-15 |  |
+| [Give Love On Christmas Day](https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [A Special Christmas](https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC) | 3:49 | 2022-11-25 |  |
 | [Give Love on Christmas Day \(feat\. Undecided Future\)](https://open.spotify.com/track/5Npvm8MgQLhYYuaXCJcUbj) | [Keedron Bryant](https://open.spotify.com/artist/2l5DDUyyMSmNBLCSa0BIIX), [Undecided Future](https://open.spotify.com/artist/1sBCqmBIRFzk6RdVeSIhbl) | [The Best Time of Year](https://open.spotify.com/album/18LUOo28gPoTcexH8ojZFQ) | 3:10 | 2021-12-15 | 2022-07-29 |
 | [Give Love on Christmas Day \- Recorded at Spotify Studios NYC \- Spotify Singles \- Christmas](https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Give Love on Christmas Day \- Recorded at Spotify Studios NYC \(Spotify Singles \- Christmas\)](https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183) | 3:45 | 2021-12-15 | 2022-11-26 |
 | [Glory To The King \- His Gift Version](https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:10 | 2021-12-15 |  |
@@ -58,7 +59,7 @@
 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 | 2021-12-15 |  |
 | [I Saw Mommy Kissing Santa Claus \- Live At Union Chapel / BBC Radio 2](https://open.spotify.com/track/4lcOoKiLjBddCcg9FkeIJL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [I Saw Mommy Kissing Santa Claus \(Live At Union Chapel / BBC Radio 2\)](https://open.spotify.com/album/6dqlzQqdAogeEjI8ORSXAj) | 2:12 | 2021-12-15 |  |
 | [I Want To Come Home For Christmas](https://open.spotify.com/track/4QnmL9qudlFqNHJWGbFdXP) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Another Kind Of Christmas](https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe) | 3:40 | 2022-11-25 |  |
-| [I Want To Come Home For Christmas \- SaLaAM ReMi Remix](https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Save The World Remix Suite](https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9) | 4:59 | 2022-11-25 |  |
+| [I Want To Come Home For Christmas \- SaLaAM ReMi Remix](https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Save The World Remix Suite](https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9) | 4:59 | 2022-11-25 | 2023-06-09 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/5Dxh4Vuy9eBI8h99kqwGfn) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:11 | 2021-12-15 | 2022-11-26 |
 | [In Love at Christmas](https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 3:57 | 2022-11-25 | 2023-04-02 |
 | [It's Christmas \(All Over The World\)](https://open.spotify.com/track/5mhTmyVJvZLUXGpbyCNTXD) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Christmas All Over The World](https://open.spotify.com/album/3eQ9tz14sXjPXXNH0sGlFP) | 4:17 | 2021-12-15 | 2022-07-27 |

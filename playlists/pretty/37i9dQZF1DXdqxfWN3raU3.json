@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Latin Mafia en portada.",
-  "num_followers": 98315,
+  "num_followers": 98362,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2ZkY2U1ZGU5ZjY5YzI4MTQ4NDdiOGZmNWUzYjZjNWI4ZmYxYWZi",
+  "snapshot_id": "MCw3ZDFiNzc5MjczYzg5YWE2ZjM5NjlkNjY3MWM3NjlkNzRhNzdmNDI0",
   "tracks": [
     {
       "added_at": "2023-06-02 06:00:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "Labios de Vainilla",
+        "url": "https://open.spotify.com/album/46VuvNSBHEzy3fbIIAapKl"
+      },
+      "artists": [
+        {
+          "name": "OPYI",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Parece un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1DXAuCkxL3hdcLjBkvUxgN"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Labios de Vainilla",
-        "url": "https://open.spotify.com/album/46VuvNSBHEzy3fbIIAapKl"
-      },
-      "artists": [
-        {
-          "name": "OPYI",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Parece un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1DXAuCkxL3hdcLjBkvUxgN"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
         "name": "EST\u00c1 CABR\u00d3N",
         "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 184585,
       "name": "EST\u00c1 CABR\u00d3N",
       "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "IGUAL",
+        "url": "https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9"
+      },
+      "artists": [
+        {
+          "name": "Lee Eye",
+          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "IGUAL",
+      "url": "https://open.spotify.com/track/3FMJBg2c0tysqTmlUkgqD3"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Daydream (Spanish Remix)",
         "url": "https://open.spotify.com/album/2xVWVzBR57HyJPmt9TMICI"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 207748,
       "name": "Daydream - Spanish Remix",
       "url": "https://open.spotify.com/track/5RriIikFF42bJrUjNyoOZG"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "IGUAL",
-        "url": "https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9"
-      },
-      "artists": [
-        {
-          "name": "Lee Eye",
-          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "IGUAL",
-      "url": "https://open.spotify.com/track/3FMJBg2c0tysqTmlUkgqD3"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "amable",
-        "url": "https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 198890,
-      "name": "amable",
-      "url": "https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 202986,
       "name": "Todo",
       "url": "https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "amable",
+        "url": "https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 198890,
+      "name": "amable",
+      "url": "https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 233105,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Navegantes",
         "url": "https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 243664,
       "name": "Navegantes",
       "url": "https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN"
-      },
-      "artists": [
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        }
-      ],
-      "duration_ms": 233105,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "QCVH",
+        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
+      },
+      "artists": [
+        {
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+        }
+      ],
+      "duration_ms": 136973,
+      "name": "QCVH",
+      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Quiz\u00e1s",
         "url": "https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 248550,
       "name": "Quiz\u00e1s",
       "url": "https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "QCVH",
-        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
-      },
-      "artists": [
-        {
-          "name": "Jass Reyes",
-          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
-        }
-      ],
-      "duration_ms": 136973,
-      "name": "QCVH",
-      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1827,30 +1827,6 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Niebla",
-        "url": "https://open.spotify.com/album/3u26C5eFglqaZhmwpKsE8t"
-      },
-      "artists": [
-        {
-          "name": "Emporio",
-          "url": "https://open.spotify.com/artist/67rfT6Gea3omy1Ksii2J88"
-        },
-        {
-          "name": "MOL",
-          "url": "https://open.spotify.com/artist/0kcjwgqgT7QdNONFwVgQQX"
-        },
-        {
-          "name": "Yung Bruno",
-          "url": "https://open.spotify.com/artist/2Yekv6cj8wteQT7yLwEbSG"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Niebla",
-      "url": "https://open.spotify.com/track/1sBW6oqy3NzQ5VFWuvL3u6"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
         "name": "La Musa",
         "url": "https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA"
       },
@@ -1863,6 +1839,22 @@
       "duration_ms": 101739,
       "name": "La Musa",
       "url": "https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/7mf8M3rvY415MLnakBrboi"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 185843,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/5pFhpiXdm55l9tbjo1cIP9"
     }
   ],
   "unique_name": "R&B Latino",

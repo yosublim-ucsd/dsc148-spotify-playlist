@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tedua
 
-112 songs - 6 hr 10 min
+113 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Ti ricorderai di me \(feat\. Vegas Jones\) \- prod\. Strage](https://open.spotify.com/track/0fBDL8yd1xfCF594H33qcD) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Teoria Del Contrario Mixtape Vol\. 2](https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx) | 2:26 | 2023-03-17 | 2023-04-14 |
 | [Tre Winston \(feat\. Chakra & Yung Snapp\) \- prod\. Kanesh](https://open.spotify.com/track/6CCFwUKqPxiR48VoU2paUa) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Teoria Del Contrario Mixtape Vol\. 2](https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx) | 3:18 | 2023-03-17 | 2023-04-21 |
 | [Tutto Di Me](https://open.spotify.com/track/2OPbCVmIYfDo6KVvPmcBfL) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 3:55 | 2022-04-28 | 2022-05-20 |
+| [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 | 2023-06-08 |  |
 | [Univers](https://open.spotify.com/track/2hL3IwpnKgRkM2M1yGiLmA) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:32 | 2022-04-28 | 2022-05-20 |
 | [Vertigini](https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Mowgli](https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX) | 3:23 | 2022-04-28 |  |
 | [Vestiti D’Odio \(con PSICOLOGI\)](https://open.spotify.com/track/3NLE4ioQE8aWxoJjk2IQTC) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [Mr\. Monkey](https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if) | [Vestiti D’Odio \(con PSICOLOGI\)](https://open.spotify.com/album/00yrlb5Oun1DVBxkAwthTx) | 2:51 | 2022-04-28 |  |

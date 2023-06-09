@@ -2253,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "THINKIN OF LOVE",
+        "url": "https://open.spotify.com/album/3U7xyPQenMvi49yBs7Gn1h"
+      },
+      "artists": [
+        {
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274164,
+      "name": "THINKIN OF LOVE",
+      "url": "https://open.spotify.com/track/4voUYsm1JO1mtAjfTjB3k5"
+    },
+    {
+      "album": {
         "name": "Tibay 'Yan",
         "url": "https://open.spotify.com/album/1AM76pz4GPDyqOItxyECaB"
       },

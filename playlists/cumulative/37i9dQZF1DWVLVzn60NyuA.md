@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-417 songs - 22 hr 8 min
+418 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Bruddah](https://open.spotify.com/track/3QHsfDrqAmuS6yUVuI3tad) | [Darrell Cole](https://open.spotify.com/artist/7MfUUL2EyTCm4rLuvbK72a) | [Bruddah](https://open.spotify.com/album/598LuzcbVG0bkLVFXtSG0z) | 3:58 | 2021-12-16 | 2022-07-29 |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-06-09 |  |
 | [Burdens Heavy](https://open.spotify.com/track/0il2VwVzkVst3YUdWZJHO2) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [The Healer Riddim](https://open.spotify.com/album/30WeIpYX5ycJR5cxrwD04I) | 3:52 | 2021-12-16 | 2022-05-13 |
+| [Business \(feat\. Naza\)](https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Business \(feat\. Naza\)](https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF) | 2:50 | 2023-06-08 |  |
 | [C'est Cuit](https://open.spotify.com/track/0JDtFS9XpFWctjYt65qg7u) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [C'est Cuit](https://open.spotify.com/album/3V6Xx5NJlyadV42AFR12ct) | 2:36 | 2021-12-16 | 2022-07-29 |
 | [C'est Cuit \(feat\. Aya Nakamura & Swae Lee\)](https://open.spotify.com/track/5JfbkEPTaqnAVy9ITdphCl) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:36 | 2022-07-28 |  |
 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 | 2022-06-16 |  |
@@ -138,7 +139,7 @@
 | [Finders Keepers](https://open.spotify.com/track/06BD7TeUR6mYbF6cWyzvZt) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Finders Keepers](https://open.spotify.com/album/0GHwcubAh10ID1apl4n22z) | 4:31 | 2021-12-16 | 2022-07-26 |
 | [Fine Wine & Hennessy](https://open.spotify.com/track/63yTeYugkFyU8DEsVFamix) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Slim Jxmmi](https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu) | [Afrowave 3](https://open.spotify.com/album/79dXMRWb9dGw08ud6M87GH) | 3:10 | 2021-12-16 | 2023-02-10 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-03-31 |  |
-| [Fini](https://open.spotify.com/track/0JJSn1Fq32PgxrqQtPpbeC) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Fini](https://open.spotify.com/album/5KvaprWGjxV4RqG1PaQW8t) | 2:53 | 2022-07-28 |  |
+| [Fini](https://open.spotify.com/track/0JJSn1Fq32PgxrqQtPpbeC) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Fini](https://open.spotify.com/album/5KvaprWGjxV4RqG1PaQW8t) | 2:53 | 2022-07-28 | 2023-06-09 |
 | [Flauta](https://open.spotify.com/track/7gb0ExDXKPpCeLQrBswGw5) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Flauta](https://open.spotify.com/album/0i4LVKJavys4CSPpKYxL3g) | 3:09 | 2022-05-25 | 2023-02-20 |
 | [Flex](https://open.spotify.com/track/4Bozf61W7Tv1Vyp18kLZy1) | [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91) | [Flex](https://open.spotify.com/album/04N20XOzapV3mpffLeigNZ) | 3:19 | 2021-12-16 | 2023-04-07 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-28 |  |

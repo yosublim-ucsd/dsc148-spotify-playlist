@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 255358,
+  "num_followers": 255412,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2Q1ZGNiYTVlNjk2MTdlMzRmODYwOWE3NDdkMDQxOTA3NjQ4MDU1",
+  "snapshot_id": "MCxmMDBmNzY1ZGEzN2E3MmVkOTcyMjY5ZDVjMjYwMDE1OTU4MGE1Zjc2",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Idle Mind",
-        "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
-      },
-      "artists": [
-        {
-          "name": "Anna Mieke",
-          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
-        }
-      ],
-      "duration_ms": 295265,
-      "name": "Warped Window",
-      "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Idle Mind",
+        "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
+      },
+      "artists": [
+        {
+          "name": "Anna Mieke",
+          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
+        }
+      ],
+      "duration_ms": 295265,
+      "name": "Warped Window",
+      "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Held Down",
-        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Love More",
         "url": "https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
       "artists": [
         {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 201936,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
+      "duration_ms": 247933,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 208242,
       "name": "Vessel",
       "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 201936,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Love of Her Life",
-        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Reid",
-          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
-        }
-      ],
-      "duration_ms": 241503,
-      "name": "Love of Her Life",
-      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Pictures of Flowers",
         "url": "https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 260458,
       "name": "Pictures of Flowers",
       "url": "https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Love of Her Life",
+        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Reid",
+          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
+        }
+      ],
+      "duration_ms": 241503,
+      "name": "Love of Her Life",
+      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "My Love Is Cool",
-        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Turn To Dust",
-      "url": "https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "I Don't Want To Let You Down b/w All Over Again",
         "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 242893,
       "name": "I Don't Want to Let You Down",
       "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Turn To Dust",
+      "url": "https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv"
     },
     {
       "added_at": "2023-05-19 04:00:00",

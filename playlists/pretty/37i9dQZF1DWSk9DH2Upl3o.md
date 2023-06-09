@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,368 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,417 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [Jones Wood](https://open.spotify.com/track/1OpFysVRkTntwZvsLatw25) | [The Whags](https://open.spotify.com/artist/0sSvO4hBwHX96HiNK2W9u4) | [Jones Wood](https://open.spotify.com/album/0P5MO5Z0J9zyfYOMN1BEc5) | 4:05 |
 | 100 | [The $1000 Question](https://open.spotify.com/track/1HgB8yD2d196KAW5gCGq9k) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [RAAR Trio](https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The $1000 Question](https://open.spotify.com/album/0997PFcgH2xVoUO4Ez3WIY) | 6:54 |
 
-Snapshot ID: `MCw4NTI0YmMzMjM5YWUwMDE3NzE5ODc1NDI1NjZkOGI0OTExZjc4NzBi`
+Snapshot ID: `MCw2NzhlZGExNjRiMjU2ZTYxMDM5OGEwZjQ3YzEzZTQxNTNhMmNlYjEz`

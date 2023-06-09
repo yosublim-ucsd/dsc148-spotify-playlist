@@ -11189,6 +11189,28 @@
     },
     {
       "album": {
+        "name": "Sad & Alone",
+        "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165431,
+      "name": "Sad & Alone",
+      "url": "https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B"
+    },
+    {
+      "album": {
         "name": "Sangria (feat. Denzel Curry)",
         "url": "https://open.spotify.com/album/5JUzMtOlM52YO5rzdQwg38"
       },
@@ -12048,6 +12070,10 @@
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
       "date_added": "2023-05-19",
@@ -13690,7 +13716,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 216013,
       "name": "Us vs. Them (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg"

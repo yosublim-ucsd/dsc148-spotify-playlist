@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love Cover: The Last Dinner Party",
+  "description": "Music that's hard to define but easy to love Cover: Vacations",
   "name": "Front Left",
   "tracks": [
     {
@@ -930,7 +930,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 189061,
       "name": "Are You All In?",
       "url": "https://open.spotify.com/track/3wsRCFsnAde4Ko1fMJ6wCg"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 319963,
       "name": "Baby again..",
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 197802,
       "name": "backseat",
       "url": "https://open.spotify.com/track/4uPxXynOy7JphMHeSiQFjm"
@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 122094,
       "name": "Brain Freeze",
       "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
@@ -2677,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "is nothing sacred?",
+        "url": "https://open.spotify.com/album/5NX9yYMvKC9zBAIbRpJ3yd"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "cindy",
+      "url": "https://open.spotify.com/track/0YZCAtwtnboKKuNO3nV32j"
+    },
+    {
+      "album": {
         "name": "Clara (the night is dark)",
         "url": "https://open.spotify.com/album/6nneI0xOh7SR2zvzHcvB5g"
       },
@@ -3124,7 +3142,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
@@ -4092,7 +4110,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 162156,
       "name": "Don't Hate Me",
       "url": "https://open.spotify.com/track/740fSe2KremXUF2V6e4KnG"
@@ -5350,7 +5368,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 267987,
       "name": "Final Blow",
       "url": "https://open.spotify.com/track/2tj1nEkME9JONtBiaytjcG"
@@ -5444,6 +5462,24 @@
       "duration_ms": 254407,
       "name": "Flight's Booked",
       "url": "https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO"
+    },
+    {
+      "album": {
+        "name": "Flimsier",
+        "url": "https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239910,
+      "name": "Flimsier",
+      "url": "https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI"
     },
     {
       "album": {
@@ -9776,7 +9812,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 208101,
       "name": "Lost In The Rush",
       "url": "https://open.spotify.com/track/4YGMBDcyxKCg6ucyeYEhOI"
@@ -9838,6 +9874,24 @@
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
+    },
+    {
+      "album": {
+        "name": "Love Type",
+        "url": "https://open.spotify.com/album/67Uko1GwOThHjiLWdY0fZ2"
+      },
+      "artists": [
+        {
+          "name": "POOLCLVB",
+          "url": "https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215605,
+      "name": "Love Type",
+      "url": "https://open.spotify.com/track/1e9T91CPoRcdX9oiGRYjmi"
     },
     {
       "album": {
@@ -10337,6 +10391,24 @@
     },
     {
       "album": {
+        "name": "Midwest",
+        "url": "https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248135,
+      "name": "Midwest",
+      "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
+    },
+    {
+      "album": {
         "name": "Milkumana",
         "url": "https://open.spotify.com/album/61pSGvjh5hOQf9USTTEUr9"
       },
@@ -10392,6 +10464,24 @@
       "duration_ms": 138000,
       "name": "minnesota is a place that exists",
       "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
+    },
+    {
+      "album": {
+        "name": "Miss My Baby",
+        "url": "https://open.spotify.com/album/4W6PR5apYRQPEE0XgCf1JO"
+      },
+      "artists": [
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "Miss My Baby",
+      "url": "https://open.spotify.com/track/1zPH2g5FVXJ3xYevbN4oTi"
     },
     {
       "album": {
@@ -10790,7 +10880,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
@@ -11922,7 +12012,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 223345,
       "name": "Overstimulated",
       "url": "https://open.spotify.com/track/5nkPdWhaqCIfLTrLn6Fr05"
@@ -15644,7 +15734,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"

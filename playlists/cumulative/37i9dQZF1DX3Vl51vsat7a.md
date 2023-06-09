@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: southstar
 
-201 songs - 10 hr 55 min
+203 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Diese Nacht](https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 2:34 | 2022-09-15 |  |
 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:27 | 2021-12-16 | 2022-09-02 |
 | [Don't U Dare](https://open.spotify.com/track/3CQuzM93RAg867gQ0mVAw7) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Don't U Dare](https://open.spotify.com/album/2YV91Zb0tDaxAsT2mmBDFP) | 2:42 | 2022-02-10 | 2022-05-27 |
+| [DREI2EINS](https://open.spotify.com/track/5sJw10xQQv0yEO6g6O5TOn) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [DREI2EINS](https://open.spotify.com/album/2BThnUgTLMb7XLDabWnlFR) | 2:07 | 2023-06-08 |  |
 | [echo](https://open.spotify.com/track/39rdOcmqMFRCoxaFLSXB00) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [echo](https://open.spotify.com/album/1FVtCp6xQpGoxrTJcUJ5jz) | 3:13 | 2022-11-17 | 2023-03-25 |
 | [Eins sein](https://open.spotify.com/track/1cIk7YqCnsVEv6FGRFLLrU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Eins sein](https://open.spotify.com/album/7uFZmTPubuC0o8gV4ODoL6) | 2:52 | 2021-12-16 | 2022-01-14 |
 | [End of the Road](https://open.spotify.com/track/3BfRjAclEFihCqLguT8Ch7) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [End of the Road](https://open.spotify.com/album/77eNqATHOvAle5qBQqBHtM) | 2:39 | 2021-12-16 | 2022-04-29 |
@@ -93,7 +94,7 @@
 | [I'M A LITTLE](https://open.spotify.com/track/36lARxuQqwXnvALPNeVjtK) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [I'M A LITTLE](https://open.spotify.com/album/5zCcIO7yJLAznBPxohaZzb) | 2:38 | 2021-12-16 | 2022-07-22 |
 | [I'm Boring](https://open.spotify.com/track/3ctzBJ2yOva67pX2PSaS1o) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [I'm Boring](https://open.spotify.com/album/0flQZoTrG15C0XVFX7qCdV) | 3:20 | 2022-11-17 | 2023-05-05 |
 | [I'm Boring](https://open.spotify.com/track/40Xc96R5OS3s0zacs6wPte) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [I'm Boring](https://open.spotify.com/album/2UPFVcOuNlf2Yl3C6LDxpO) | 3:20 | 2021-12-16 | 2022-11-24 |
-| [ich gehör wieder mir](https://open.spotify.com/track/4PpGmzid7fvGFayn8icZRF) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [ich gehör wieder mir](https://open.spotify.com/album/6Et0Q8bXMXOSChFgXgvvv8) | 2:57 | 2022-09-15 |  |
+| [ich gehör wieder mir](https://open.spotify.com/track/4PpGmzid7fvGFayn8icZRF) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [ich gehör wieder mir](https://open.spotify.com/album/6Et0Q8bXMXOSChFgXgvvv8) | 2:57 | 2022-09-15 | 2023-06-09 |
 | [Ich wünschte, du wärst verloren](https://open.spotify.com/track/40eThGfQt1VehllIdIsQdr) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Ich wünschte, du wärst verloren](https://open.spotify.com/album/79H3xVO9RldV3NOFMHR3ui) | 2:40 | 2021-12-16 | 2022-02-04 |
 | [iClout \(feat\. EARTHGANG\)](https://open.spotify.com/track/61dvMPhVqB2iWGHQU6BjyK) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Digital Tears](https://open.spotify.com/album/6dEZTAWhslVOPZc3SU18oD) | 4:22 | 2021-12-16 | 2022-07-01 |
 | [Immer wenn du weinst](https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Immer wenn du weinst](https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB) | 2:30 | 2021-12-16 |  |
@@ -131,6 +132,7 @@
 | [Neues Geld](https://open.spotify.com/track/0ohdHACL1eACasCxA1UXa8) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Neues Geld](https://open.spotify.com/album/7tqHzLMSERvb6cs6aOzLPz) | 2:28 | 2022-05-12 | 2022-09-09 |
 | [New 68](https://open.spotify.com/track/5hMIBsn64hajBIKbFJAsf6) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [New 68](https://open.spotify.com/album/0R1JPqXUR7sXSq67zGMRqO) | 3:30 | 2021-12-16 | 2022-05-20 |
 | [New Era](https://open.spotify.com/track/3qhW02v4Yo6d5lPhxE6iZb) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [New Era EP](https://open.spotify.com/album/49LqNtUITrajPTnpwyC8tA) | 3:41 | 2021-12-16 | 2022-04-08 |
+| [nie wieder wegrennen](https://open.spotify.com/track/1E9inOEvd8MyLeosUaOFNP) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [nie wieder wegrennen](https://open.spotify.com/album/2PuC50H1fnvm82PWEG4sja) | 2:10 | 2023-06-08 |  |
 | [Nirvana](https://open.spotify.com/track/09QQd4SG87DKuel4BVYkfT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 3:31 | 2022-12-15 | 2023-04-14 |
 | [Nirvana](https://open.spotify.com/track/5xl244VVxvCmvUEAJn40CW) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/64l6m4xbHEHyiEeMkHlMk2) | 3:31 | 2022-12-01 | 2022-12-17 |
 | [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 | 2022-06-09 | 2022-07-22 |

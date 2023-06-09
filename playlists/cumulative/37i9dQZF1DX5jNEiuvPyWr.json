@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : DTF",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Lazer MMZ",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 121038,
       "name": "16 appels manqu\u00e9s",
       "url": "https://open.spotify.com/track/5aJOVLvDSbKvg3vDFCNlIV"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 161377,
       "name": "Ambiance d'hiver",
       "url": "https://open.spotify.com/track/2eAmTZ6vURJ4kUg4XVPjia"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 210352,
       "name": "Baby Mama",
       "url": "https://open.spotify.com/track/5ClOFvLqn08NldYWLqwbmw"
@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "BUSHIDO",
+        "url": "https://open.spotify.com/album/7HB4kGkzfiiUs9dbx4SYWJ"
+      },
+      "artists": [
+        {
+          "name": "Lazer MMZ",
+          "url": "https://open.spotify.com/artist/5Ae1qozZeLofVqeQjJswoD"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167280,
+      "name": "B\u00c2TIMENT",
+      "url": "https://open.spotify.com/track/3djwU36d3HOnRbAHXIrQSN"
+    },
+    {
+      "album": {
         "name": "Le prix d'une vie",
         "url": "https://open.spotify.com/album/1J0oOhZtBR13n0Q2QuIhyr"
       },
@@ -825,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/0q1e1w6uP6NBZAGuXR6RCr"
+      },
+      "artists": [
+        {
+          "name": "HK La Paille",
+          "url": "https://open.spotify.com/artist/4NSdzXHjbwdR28akJRT9KY"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181192,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/34mOxGOvrQ9shQ2lbPs6Lk"
+    },
+    {
+      "album": {
         "name": "Cicatrice",
         "url": "https://open.spotify.com/album/22CGW1ncY9rhzp7I98DZeo"
       },
@@ -956,6 +992,24 @@
       "duration_ms": 232720,
       "name": "COMPTER",
       "url": "https://open.spotify.com/track/0U2vjRDorfKwjoTFcr9BBP"
+    },
+    {
+      "album": {
+        "name": "COOOOL",
+        "url": "https://open.spotify.com/album/1qZ5Be3r7fNWH2SWfplHl2"
+      },
+      "artists": [
+        {
+          "name": "Nallas",
+          "url": "https://open.spotify.com/artist/5p3YfFowJftLjDnkny1ILZ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206706,
+      "name": "COOOOL",
+      "url": "https://open.spotify.com/track/4nhqACNPqh3MA6kwZO3BEK"
     },
     {
       "album": {
@@ -2534,7 +2588,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 176413,
       "name": "Miami Vice",
       "url": "https://open.spotify.com/track/7okGX2stmpuVyyCm2CSbXa"
@@ -2636,6 +2690,24 @@
       "duration_ms": 189230,
       "name": "MONEYBAG",
       "url": "https://open.spotify.com/track/4o68P6N8JucUg9apYhAtF9"
+    },
+    {
+      "album": {
+        "name": "MONSTRE",
+        "url": "https://open.spotify.com/album/4uO4T4DRguciMPzatC7ceT"
+      },
+      "artists": [
+        {
+          "name": "Chanje",
+          "url": "https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136997,
+      "name": "MONSTRE",
+      "url": "https://open.spotify.com/track/0ZZT2IPhWsLFrOgpkgEgGD"
     },
     {
       "album": {
@@ -3034,7 +3106,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 180834,
       "name": "PERDU D'AVANCE",
       "url": "https://open.spotify.com/track/32CtvOn0vsV5VlGk5JeZpg"
@@ -3752,6 +3824,24 @@
       "duration_ms": 146440,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf"
+    },
+    {
+      "album": {
+        "name": "Sommeil",
+        "url": "https://open.spotify.com/album/3RGTGN8rYGaVUuxKIPE7dz"
+      },
+      "artists": [
+        {
+          "name": "Kidaki",
+          "url": "https://open.spotify.com/artist/5N12NARVDJvkSSRye0G49M"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211595,
+      "name": "Sommeil",
+      "url": "https://open.spotify.com/track/6eVVipPZh3JEKvlEQYFznu"
     },
     {
       "album": {

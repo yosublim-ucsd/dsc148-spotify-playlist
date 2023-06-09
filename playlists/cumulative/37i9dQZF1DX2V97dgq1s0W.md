@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> Beautifully chilled vocals from around the world\. Cover: Cleo Sol
+> Beautifully chilled vocals from around the world\. Cover: Mahalia & Jojo
 
-130 songs - 6 hr 44 min
+132 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [candy reign \(!\)](https://open.spotify.com/track/35cVkyTqIGkwpg7OhIl5TE) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [candy reign \(!\)](https://open.spotify.com/album/0z0crJtgrHGrqPXX3BitF2) | 2:18 | 2023-02-23 | 2023-05-15 |
 | [Casamigos](https://open.spotify.com/track/5zpsRcW4tF8kUgJY7NvbcX) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Casamigos](https://open.spotify.com/album/0fhG0rYGnIX8l9lzn9WRed) | 2:22 | 2023-05-14 |  |
 | [Changed](https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Changed](https://open.spotify.com/album/1VegKoKvndG9a3jhnseFTD) | 3:15 | 2023-05-14 |  |
+| [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 | 2023-06-08 |  |
 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 | 2023-02-23 |  |
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 4:04 | 2023-02-23 | 2023-05-15 |
 | [Dance Again](https://open.spotify.com/track/1Da22brPeT2yJYp8nWCduw) | [Hunnah](https://open.spotify.com/artist/5ALJQTH4K9eghzib4UhiqV) | [Dance Again](https://open.spotify.com/album/5KGdvqy1ARUVQ1lFW3Dw9N) | 1:24 | 2023-02-23 |  |
@@ -108,6 +109,7 @@
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2023-02-23 | 2023-05-15 |
 | [Right My Wrongs](https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Right My Wrongs](https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P) | 2:31 | 2023-05-14 |  |
 | [Right My Wrongs \- Acoustic](https://open.spotify.com/track/6nKq3nK5J03pDbXPqapI1x) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Right My Wrongs \(Acoustic\)](https://open.spotify.com/album/0GHvzb0AAfYy32swXfZ5oF) | 2:50 | 2023-05-14 |  |
+| [Ritual](https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME) | 3:56 | 2023-06-08 |  |
 | [Room 69 \- Acoustic version](https://open.spotify.com/track/3mmJDYnT5mowOO8JzX339t) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/0vzqawXZNRIlR6o8ruxXDK) | 2:50 | 2023-05-14 |  |
 | [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 | 2023-02-23 |  |
 | [Safe Place](https://open.spotify.com/track/5Lw5G1npf7nzIpLZIedTsj) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Safe Place](https://open.spotify.com/album/1FV0FZQ4aFnt1HkpNRL2o4) | 3:35 | 2023-02-23 | 2023-05-15 |
@@ -132,7 +134,7 @@
 | [Try Peace...](https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Try Peace...](https://open.spotify.com/album/3qThDnd30yCBWBmpu4nE8Y) | 3:40 | 2023-02-23 | 2023-05-15 |
 | [Undercover Lover](https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Undercover Lover](https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP) | 2:32 | 2023-05-14 |  |
 | [Villain](https://open.spotify.com/track/3n4qXxdaubi3pQaMYRWK9S) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [Villain](https://open.spotify.com/album/6J1aRRFw6FyBV071gYsvqk) | 2:26 | 2023-05-14 |  |
-| [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 | 2023-03-24 |  |
+| [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 | 2023-03-24 | 2023-06-09 |
 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/76HTR3j128J2G6ipyh6XAd) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/1HotRLNhfRzXIFmtjGFaUo) | 2:46 | 2023-05-14 |  |
 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 | 2023-05-14 |  |
 | [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 | 2023-02-23 | 2023-05-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Daddy Yankee & Omar Courtz",
-  "num_followers": 695314,
+  "num_followers": 695315,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTcyODgwYTMxYzRlN2NmYTM4MzEyZTMxMWRmYzI1OTJkODI0ZTg2",
+  "snapshot_id": "MCxhZjkwYzlmNmQ4YmViOTQ5Zjc0MjM3NzQ5NGNiMDdlM2MyMDA4N2M0",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -339,6 +339,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 214123,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Emociones 1.5",
         "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 284021,
       "name": "Pacto (feat. Luar La L)",
       "url": "https://open.spotify.com/track/2whW1Q8KTOODkGDakLZa6V"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 214123,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "L\u00e1grimas pa otro d\u00eda",
-        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
-      },
-      "artists": [
-        {
-          "name": "DELLAFUENTE",
-          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
-        }
-      ],
-      "duration_ms": 124110,
-      "name": "No te lo niego, ma dol\u00edo",
-      "url": "https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Sigues Con El (Remix)",
         "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "L\u00e1grimas pa otro d\u00eda",
+        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        }
+      ],
+      "duration_ms": 124110,
+      "name": "No te lo niego, ma dol\u00edo",
+      "url": "https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "NO HAY LEY",
         "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 186091,
-      "name": "Air France",
-      "url": "https://open.spotify.com/track/6wrHRPtw1Z37iP5PGDbS6g"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Estoy Bien",
         "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 168000,
       "name": "Estoy Bien",
       "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 186091,
+      "name": "Air France",
+      "url": "https://open.spotify.com/track/6wrHRPtw1Z37iP5PGDbS6g"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Umaye",
+        "url": "https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Umaye",
+      "url": "https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "1% (Remix)",
         "url": "https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Umaye",
-        "url": "https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7"
-      },
-      "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Umaye",
-      "url": "https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Lo Tengo",
         "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 167442,
       "name": "LO TENGO",
       "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Gatita Gangster",
-        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Gatita Gangster",
-      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -855,6 +835,26 @@
       "duration_ms": 201091,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Gatita Gangster",
+        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Gatita Gangster",
+      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -911,22 +911,6 @@
       "duration_ms": 147561,
       "name": "For Ya",
       "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Una Ni\u00f1a In\u00fatil",
-        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 228506,
       "name": "Otra Noche Sin Ti",
       "url": "https://open.spotify.com/track/6xvaSd27eSA5kQlFRYhWZF"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Una Ni\u00f1a In\u00fatil",
+        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 176236,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "La Mitad",
-        "url": "https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 176236,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "La Ideal",
-        "url": "https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        },
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        }
-      ],
-      "duration_ms": 213983,
-      "name": "La Ideal",
-      "url": "https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Cheers to the Best Memories",
         "url": "https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA"
       },
@@ -1651,6 +1627,30 @@
       "duration_ms": 176030,
       "name": "Somebody That You Don't Know (feat. Rauw Alejandro)",
       "url": "https://open.spotify.com/track/0lljBJMLGcTLm5Zn4KxQBH"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "La Ideal",
+        "url": "https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "duration_ms": 213983,
+      "name": "La Ideal",
+      "url": "https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,531 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,621 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Mistakes](https://open.spotify.com/track/6Z54FF1uTQ4LeE6McKizwN) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [From Hell to Here](https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6) | 3:14 |
 | 60 | [Head First](https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Head First](https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7) | 3:32 |
 
-Snapshot ID: `MCw4NzY2YjhlY2NmMTQ1OWU4Y2RjNDA3ZjRiY2E2NTY3MGRkNTY0NWE0`
+Snapshot ID: `MCxkOWZkZTA2NjEyODUxMGJlYTJlNDc0OTNhZWRmMTA5MjRmOWE4Njlk`

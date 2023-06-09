@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 54756,
+  "num_followers": 54847,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTVmODdhYjBhNGE2ZjU0MThjM2RjM2ZmZTA2NTliNzhkZWRhOTdl",
+  "snapshot_id": "MCwyY2Y5Y2E4ZDUyOWIxNTI3N2M0ZWZhOGY0ZmQ5NTI3M2M4ZGExZTQ3",
   "tracks": [
     {
       "added_at": "2023-06-02 16:01:37",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Reasons For Being",
-        "url": "https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS"
-      },
-      "artists": [
-        {
-          "name": "Deep Watch",
-          "url": "https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd"
-        }
-      ],
-      "duration_ms": 176390,
-      "name": "Reasons For Being",
-      "url": "https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
         "name": "Sea Of Colors",
         "url": "https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 184250,
       "name": "Sea Of Colors",
       "url": "https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
+        "name": "Reasons For Being",
+        "url": "https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS"
+      },
+      "artists": [
+        {
+          "name": "Deep Watch",
+          "url": "https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd"
+        }
+      ],
+      "duration_ms": 176390,
+      "name": "Reasons For Being",
+      "url": "https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Rituals",
-      "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
         "name": "Lights on Water",
         "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 217600,
       "name": "Lights on Water",
       "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
-      },
-      "artists": [
-        {
-          "name": "Halcyon Shores",
-          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
       },
@@ -1035,18 +1019,34 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Dream Away",
-        "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
       },
       "artists": [
         {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+          "name": "Halcyon Shores",
+          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
         }
       ],
-      "duration_ms": 124615,
-      "name": "Dream Away",
-      "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
+      "duration_ms": 170958,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Sammram",
-        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+        "name": "Dream Away",
+        "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
       },
       "artists": [
         {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
         }
       ],
-      "duration_ms": 206624,
-      "name": "Sammram",
-      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
+      "duration_ms": 124615,
+      "name": "Dream Away",
+      "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Quiet Hours",
-        "url": "https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v"
+        "name": "Amoralis",
+        "url": "https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL"
       },
       "artists": [
         {
-          "name": "Scandinavian Nights",
-          "url": "https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL"
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
         }
       ],
-      "duration_ms": 187118,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA"
+      "duration_ms": 211948,
+      "name": "Amoralis",
+      "url": "https://open.spotify.com/track/23MYtqj4lVBxHhb9kxMpfJ"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
+        "name": "Sleep - Vol 4",
+        "url": "https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC"
+      },
+      "artists": [
+        {
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+        }
+      ],
+      "duration_ms": 255578,
+      "name": "Reinstatement",
+      "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
         "name": "Calming Water",
         "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Amoralis",
-        "url": "https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL"
+        "name": "Quiet Hours",
+        "url": "https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v"
       },
       "artists": [
         {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+          "name": "Scandinavian Nights",
+          "url": "https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL"
         }
       ],
-      "duration_ms": 211948,
-      "name": "Amoralis",
-      "url": "https://open.spotify.com/track/23MYtqj4lVBxHhb9kxMpfJ"
+      "duration_ms": 187118,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA"
     },
     {
       "added_at": "2023-06-02 16:01:37",
@@ -1231,38 +1247,6 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Sleep - Vol 4",
-        "url": "https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC"
-      },
-      "artists": [
-        {
-          "name": "Crystalsong",
-          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
-        }
-      ],
-      "duration_ms": 255578,
-      "name": "Reinstatement",
-      "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
-      },
-      "artists": [
-        {
-          "name": "Sleeping Clouds",
-          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
-    },
-    {
-      "added_at": "2023-06-02 16:01:37",
-      "album": {
         "name": "Tokyo Drifting",
         "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
@@ -1279,18 +1263,34 @@
     {
       "added_at": "2023-06-02 16:01:37",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
+        "name": "Expanded Reality",
+        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
       },
       "artists": [
         {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+          "name": "Axial Flow",
+          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
+      "duration_ms": 162857,
+      "name": "Expanded Reality",
+      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
+    },
+    {
+      "added_at": "2023-06-02 16:01:37",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Clouds",
+          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

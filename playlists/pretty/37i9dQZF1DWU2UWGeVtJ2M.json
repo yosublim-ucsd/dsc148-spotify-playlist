@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 148676,
+  "num_followers": 148723,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDkyYTNmMjkwZTkzYWE4MjMxOWE2MzM1OTQ5YjFhNzVkNTg5MjZk",
+  "snapshot_id": "MCw4MzQ5OWUzNGM5MjA1MmY3YzU0ZjIxMDM0M2YzMWQ0NDA2NzY1NTVh",
   "tracks": [
     {
       "added_at": "2023-05-29 03:40:23",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
       },
       "artists": [
         {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+      "duration_ms": 153905,
+      "name": "wait it out",
+      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
     },
     {
       "added_at": "2023-05-29 03:40:23",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
       "artists": [
         {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
         }
       ],
-      "duration_ms": 153905,
-      "name": "wait it out",
-      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2023-05-29 03:40:23",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
-        "name": "Play Me Something Nice",
-        "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 201301,
-      "name": "Play Me Something Nice",
-      "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
-    },
-    {
-      "added_at": "2023-05-29 03:40:23",
-      "album": {
         "name": "Chilombo (Deluxe)",
         "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 196000,
       "name": "Summer 2020",
       "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
+    },
+    {
+      "added_at": "2023-05-29 03:40:23",
+      "album": {
+        "name": "Play Me Something Nice",
+        "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 201301,
+      "name": "Play Me Something Nice",
+      "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
     },
     {
       "added_at": "2023-05-29 03:40:23",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-05-29 03:40:23",
       "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 188478,
+      "name": "Holding the Gun",
+      "url": "https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz"
+    },
+    {
+      "added_at": "2023-05-29 03:40:23",
+      "album": {
         "name": "Two Sides",
         "url": "https://open.spotify.com/album/03ir5ImoetQFACvTPTn4sK"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 226195,
       "name": "Two Sides",
       "url": "https://open.spotify.com/track/0HN3K1Y4sRJIHZmI2s5pU1"
-    },
-    {
-      "added_at": "2023-05-29 03:40:23",
-      "album": {
-        "name": "Truth Is",
-        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 188478,
-      "name": "Holding the Gun",
-      "url": "https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

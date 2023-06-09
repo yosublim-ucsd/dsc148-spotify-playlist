@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,340 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 2 | [Brush Your Teeth](https://open.spotify.com/track/1NtMwloRp8OIVwWGipngkw) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 1:12 |
 | 3 | [No Me Quiero Bañar](https://open.spotify.com/track/1q1kUQzASshxcEb5jcMWeO) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Salta Sin Parar](https://open.spotify.com/album/6ZHDbA5xHesrQC8IvKQhrg) | 3:40 |
 | 4 | [Tres Pecesitos](https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav) | [Muñequitas Elizabeth](https://open.spotify.com/artist/1SyPH4ZiGzMG2nBSdX0VwS) | [20 Éxitos 20 Aniversario](https://open.spotify.com/album/5yMrbHsMkW16azJB96x3tB) | 1:07 |
-| 5 | [Baile del marinero](https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo) | [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [20 Grandes Éxitos](https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi) | 2:34 |
-| 6 | [Bate Con La Cucharita](https://open.spotify.com/track/7H3ELsx12mCquQRYs4v7YP) | [Canticuénticos](https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr) | [Algo Que Decirte](https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf) | 2:45 |
+| 5 | [Bate Con La Cucharita](https://open.spotify.com/track/7H3ELsx12mCquQRYs4v7YP) | [Canticuénticos](https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr) | [Algo Que Decirte](https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf) | 2:45 |
+| 6 | [Baile del marinero](https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo) | [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [20 Grandes Éxitos](https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi) | 2:34 |
 | 7 | [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 |
 | 8 | [La Merienda \- Remasterizado](https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:43 |
 | 9 | [Drivin' in My Car](https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Ralph's World](https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa) | 2:49 |
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 23 | [El Baño del Elefantito](https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC) | [Leoncito Alado](https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5) | [Leoncito Alado](https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S) | 1:23 |
 | 24 | [Rise And Shine](https://open.spotify.com/track/0NW7dYHm3TxI5CQtXYOIhs) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First: Once Upon a Princess](https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF) | 2:56 |
 | 25 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
-| 26 | [Brush Brush Brush](https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:32 |
-| 27 | [Leche Con Pan](https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu, vol\. 1](https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq) | 2:35 |
+| 26 | [Leche Con Pan](https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu, vol\. 1](https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq) | 2:35 |
+| 27 | [Brush Brush Brush](https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:32 |
 | 28 | [The Potty Song](https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW) | [Miss Kitty](https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx) | [Please Come To My Party](https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9) | 2:24 |
 | 29 | [Nice 'N' Clean](https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:49 |
 | 30 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
 | 31 | [The Potty Dance Song](https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 1:06 |
 | 32 | [Good Morning](https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff) | [Love to Sing](https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz) | [With You](https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv) | 2:11 |
-| 33 | [El Primer Día de Escuela](https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [El Primer Día de Escuela](https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX) | 2:38 |
-| 34 | [Aguita Y Jabon](https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal) | [Cantando con Adriana](https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk) | [Bailaré junto a ti](https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh) | 1:41 |
+| 33 | [Aguita Y Jabon](https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal) | [Cantando con Adriana](https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk) | [Bailaré junto a ti](https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh) | 1:41 |
+| 34 | [El Primer Día de Escuela](https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [El Primer Día de Escuela](https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX) | 2:38 |
 | 35 | [Fixin' My Hair](https://open.spotify.com/track/34AjttGzdQFz3rXmQakgR7) | [The Sesame Street Follicles](https://open.spotify.com/artist/6fFWIeOC1k2cboPOFDEDaQ), [Sesame Street's Kevin](https://open.spotify.com/artist/2ONAq9vAVfLxNm2HOmA8lv), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 1:32 |
 | 36 | [Kids Just Love to Brush](https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9) | [Sesame Street's Bicuspids](https://open.spotify.com/artist/32xzvYpAc8iQSohhQ81QXF), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 2:51 |
 | 37 | [Please and Thank You Song](https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 0:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 49 | [Please and Thank You Song](https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Children's Songs for Family, Friends & Siblings from LittleBabyBum](https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV) | 1:31 |
 | 50 | [Del plato a la boca](https://open.spotify.com/track/6azaeRET8nonPwKhlOjS8D) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Musi](https://open.spotify.com/album/3hQg3lG0o4lk7cs931Lfby) | 1:04 |
 
-Snapshot ID: `MCw2MWQ1NjNiODc5MWQ5NDZjOTA5MDZlMDNkYjAzODk3NDc0OTkxYjk0`
+Snapshot ID: `MCw1N2ViZmM1MzhhY2VjNGNiZmVmMGE5OTY5NTA2NjE3ZjgwNmJhMzNi`

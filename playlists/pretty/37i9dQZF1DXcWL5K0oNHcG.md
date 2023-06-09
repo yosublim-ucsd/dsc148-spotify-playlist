@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Benjamin Jephta Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,389 likes - 79 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,496 likes - 79 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 78 | [Quarter Tone Starlings](https://open.spotify.com/track/4Kou33jl3KK0KrpPN2hQ94) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Speech of Species](https://open.spotify.com/album/2tAb4BGrTnwx8i3SJnhucF) | 3:51 |
 | 79 | [Constant Vacillation](https://open.spotify.com/track/3J9RmqaC9QrSbGvUoJLbXU) | [Phillip Dornbuschs Projektor](https://open.spotify.com/artist/784qF4tCaf6i2Ry59SG4mk), [Phillip Dornbusch](https://open.spotify.com/artist/6t72xraCq8QnZxzoaiBrmL), [Johanna Summer](https://open.spotify.com/artist/0Zx06mGEXdxz7NyRKtRy7V), [Johannes Mann](https://open.spotify.com/artist/3i0MIjxoRi3GxvmMTToI9K), [Philip Dornbusch](https://open.spotify.com/artist/54TQEM9rmDtbxsJ82ErYkj), [Roger Kintopf](https://open.spotify.com/artist/1H0KjWfOU9280ZaxzPcXf8) | [Re\|construct](https://open.spotify.com/album/7lopMJoLsCzgJ65aivW2ey) | 6:50 |
 
-Snapshot ID: `MCwwMTA4YTk1MDZhZDY2NGIxNWRmMmM2NmZjMTY4NjFkMzYxNjAzOGFm`
+Snapshot ID: `MCwzMmJjZGY3MWM1YmFkMDc1MWUwMGJiNmVmMDIwMmI5ZjcwNDgwNjg3`

@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: My Ugly Clementine",
-  "num_followers": 26547,
+  "num_followers": 26558,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTA3OGUzYmFhM2I2YzliMDhjNTFmMmU2M2RiMTgyZjYzYzc3ZDg1",
+  "snapshot_id": "MCw0OGZjZDczODUxYjFhZDlhOGY3ZjY0MjczNmQ4NGIxZjVmOTA5ZDll",
   "tracks": [
     {
       "added_at": "2023-06-06 22:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Too Late To Move On",
-        "url": "https://open.spotify.com/album/7FrVCTcqXnk62p8QDxR3Ii"
-      },
-      "artists": [
-        {
-          "name": "Lahra",
-          "url": "https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ"
-        }
-      ],
-      "duration_ms": 151472,
-      "name": "Too Late To Move On",
-      "url": "https://open.spotify.com/track/3dpf0TzNlYHtO2UIPtf7MF"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 154000,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Too Late To Move On",
+        "url": "https://open.spotify.com/album/7FrVCTcqXnk62p8QDxR3Ii"
+      },
+      "artists": [
+        {
+          "name": "Lahra",
+          "url": "https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ"
+        }
+      ],
+      "duration_ms": 151472,
+      "name": "Too Late To Move On",
+      "url": "https://open.spotify.com/track/3dpf0TzNlYHtO2UIPtf7MF"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Welle Vol. 1",
-        "url": "https://open.spotify.com/album/2GWCBBS26Bp4eVSWNbnAsV"
-      },
-      "artists": [
-        {
-          "name": "Rosa",
-          "url": "https://open.spotify.com/artist/3CqgA23LfBqxcZdfVClLl9"
-        }
-      ],
-      "duration_ms": 173118,
-      "name": "Baddest Bitch",
-      "url": "https://open.spotify.com/track/7I6QE73aDl2Z4wthmcMKUM"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Waterloo",
         "url": "https://open.spotify.com/album/036QUi4yi6JQ8gRUGjrDx2"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 169777,
       "name": "Waterloo",
       "url": "https://open.spotify.com/track/2GuZ9qPfVYUIIZp8aQrqbI"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Welle Vol. 1",
+        "url": "https://open.spotify.com/album/2GWCBBS26Bp4eVSWNbnAsV"
+      },
+      "artists": [
+        {
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/3CqgA23LfBqxcZdfVClLl9"
+        }
+      ],
+      "duration_ms": 173118,
+      "name": "Baddest Bitch",
+      "url": "https://open.spotify.com/track/7I6QE73aDl2Z4wthmcMKUM"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "In Theory Depression",
-        "url": "https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR"
-      },
-      "artists": [
-        {
-          "name": "THALA",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "In Theory Depression",
-      "url": "https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Roll the Dice",
         "url": "https://open.spotify.com/album/4h90wABKg7XSFkJxcsFzhc"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 216706,
       "name": "Roll the Dice",
       "url": "https://open.spotify.com/track/0lWjdNnMq8SbeSulckVQMY"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "In Theory Depression",
+        "url": "https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR"
+      },
+      "artists": [
+        {
+          "name": "THALA",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "In Theory Depression",
+      "url": "https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Direct Flight To Seattle",
-        "url": "https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr"
-      },
-      "artists": [
-        {
-          "name": "Christin Nichols",
-          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
-        }
-      ],
-      "duration_ms": 245234,
-      "name": "Direct Flight To Seattle",
-      "url": "https://open.spotify.com/track/79JtOQixt6WItl0FOy616K"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Risiko",
         "url": "https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 237357,
       "name": "Paradies",
       "url": "https://open.spotify.com/track/0KUkgvA7qnnJ6QF5RGGXZq"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Direct Flight To Seattle",
+        "url": "https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr"
+      },
+      "artists": [
+        {
+          "name": "Christin Nichols",
+          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
+        }
+      ],
+      "duration_ms": 245234,
+      "name": "Direct Flight To Seattle",
+      "url": "https://open.spotify.com/track/79JtOQixt6WItl0FOy616K"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Deutschrap Sommerhits 2023 by STOKED",
-        "url": "https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe"
-      },
-      "artists": [
-        {
-          "name": "futurebae",
-          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
-        }
-      ],
-      "duration_ms": 173928,
-      "name": "Trostpflaster",
-      "url": "https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "All Eyes On The Revolution",
         "url": "https://open.spotify.com/album/2kOxElxYMxesQOsshjNJGU"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 238016,
       "name": "Kookoo",
       "url": "https://open.spotify.com/track/0QmlqqHjplKegcZv8IoDOD"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Deutschrap Sommerhits 2023 by STOKED",
+        "url": "https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe"
+      },
+      "artists": [
+        {
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+        }
+      ],
+      "duration_ms": 173928,
+      "name": "Trostpflaster",
+      "url": "https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW"
     }
   ],
   "unique_name": "EQUAL GSA",

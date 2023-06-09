@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Konyikeh\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,990 likes - 74 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,112 likes - 74 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 73 | [The One You Call \- Chores Remix](https://open.spotify.com/track/5aIJ1byGRrPtarNvpTlC1U) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa), [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I) | [The One You Call \(Chores Remix\)](https://open.spotify.com/album/0Uwz24RMjkWbNrYNed65yj) | 4:03 |
 | 74 | [Ma Ruler](https://open.spotify.com/track/1BfL9RO7NFFoETay56tLal) | [Haiku Hands](https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye) | [Ma Ruler](https://open.spotify.com/album/2XuPJJ3PcjGrBwg2YN6j5m) | 3:13 |
 
-Snapshot ID: `MCwxZTJmODY1M2RkMDRjYWYyMzExZWQ1NWU0Y2IxOTdjNzBjN2NmYWVj`
+Snapshot ID: `MCwyMDBkMzgxYTlkZTI1N2VlZWE5NDNiOGE4ZTMyNjAzYWE1MjNkZTYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله المخلص
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,677 likes - 49 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,729 likes - 49 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 48 | [مسموح](https://open.spotify.com/track/47vhMaoRykFM1C4HspBXG0) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [مسموح](https://open.spotify.com/album/2sE39ge2pRfWG4UGdaqd0Q) | 3:21 |
 | 49 | [فيني مايكفيني](https://open.spotify.com/track/5np7Iyt9i8EDmKSpSVJR58) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [فيني مايكفيني](https://open.spotify.com/album/3x0qCf5FPJ96XQS1X4xUvt) | 3:25 |
 
-Snapshot ID: `MCw0MDQ3NjQxMWU5ZmIyMWM5YzkzNTRhZmI0NjE5ZjY0NzhjM2VmZmRk`
+Snapshot ID: `MCxkMWQzNDY5NzRhOTY1YmU0MWVjYWNjNTBkOWJjYzliNTQ3MmQzMTZh`

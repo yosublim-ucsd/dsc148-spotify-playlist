@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: SAGOSAID
 
-952 songs - 2 day 12 hr 14 min
+953 songs - 2 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,7 @@
 | [かつて天才だった俺たちへ \(feat\. ASOBOiSM\)](https://open.spotify.com/track/7hEGeTypOtmAiNKaKVPxqn) | [AFTER HOURS](https://open.spotify.com/artist/0tt41FYRZVpxGMpgCaOmGi), [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D) | [かつて天才だった俺たちへ \(feat\. ASOBOiSM\)](https://open.spotify.com/album/0aY7cHP9Q2gj7NlpIrEyWb) | 3:26 | 2022-05-31 | 2022-06-10 |
 | [かはたれ時に](https://open.spotify.com/track/3fVGAML0tngj8CyUJSPFfM) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [かはたれ時に](https://open.spotify.com/album/1EWa05O03VPx0aJlNSEMSd) | 3:11 | 2022-11-01 | 2022-11-09 |
 | [かみさま](https://open.spotify.com/track/5LmRV82wzYcX3rLSkB6D1k) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [かみさま/サンクチュアリ](https://open.spotify.com/album/2CxEoP6oJFyMcQLuhxgYM5) | 3:53 | 2022-06-23 | 2022-07-10 |
-| [きらきら](https://open.spotify.com/track/32lWfnbzsZTX02L3935VF7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [きらきら](https://open.spotify.com/album/411ShZaP7vuopafIAwrgZp) | 4:32 | 2023-03-02 |  |
+| [きらきら](https://open.spotify.com/track/32lWfnbzsZTX02L3935VF7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [きらきら](https://open.spotify.com/album/411ShZaP7vuopafIAwrgZp) | 4:32 | 2023-03-02 | 2023-06-09 |
 | [きれいなわたし](https://open.spotify.com/track/0f0O7RMVcvyqS4qXHYsSnq) | [Manatsu Nagahara](https://open.spotify.com/artist/7eiPZxPx3fflpweXb8NbnJ) | [imagination](https://open.spotify.com/album/3c4wcYK91AIYwZQhy8iI14) | 3:08 | 2022-11-01 | 2022-11-16 |
 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 | 2023-02-14 | 2023-03-08 |
 | [くそったれ人生最悪の](https://open.spotify.com/track/6io2UWI9uzsPdDK8FHtN6a) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/7nQ435Y6QnPyoigXh3CJx4) | 4:24 | 2023-02-14 | 2023-02-16 |
@@ -719,6 +719,7 @@
 | [二人](https://open.spotify.com/track/2CTQoSqM12EmpsGehHtwl0) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [二人](https://open.spotify.com/album/0gJ3CcBtRCLuYtQW4I90cx) | 4:14 | 2022-06-14 | 2022-07-23 |
 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 | 2022-11-08 | 2023-05-31 |
 | [交差点](https://open.spotify.com/track/2OSlif0ZfiSjEWpDMFE5PA) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [交差点](https://open.spotify.com/album/61dC5V6eLuvLGpJKZqLSWO) | 4:29 | 2022-06-07 | 2022-07-26 |
+| [人生オーバー](https://open.spotify.com/track/1WofPyCiUQ9I1XgczV8HV1) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [人生オーバー](https://open.spotify.com/album/1RBao56wV7JfUNLPFQoVN5) | 3:34 | 2023-06-06 |  |
 | [今日の歌](https://open.spotify.com/track/53h744IVUMFPmYW38sdxUr) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [今日の歌](https://open.spotify.com/album/42NaaOoNPj8UAuhlNfLS0w) | 3:54 | 2022-06-02 | 2022-07-17 |
 | [仏だけ徒歩](https://open.spotify.com/track/7MEMAyebsx7YiRYN4EOlpQ) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [仏だけ徒歩](https://open.spotify.com/album/4bs0xtr8DorVBNUHeQ2Kvp) | 3:33 | 2022-06-02 | 2022-07-12 |
 | [会いに来て](https://open.spotify.com/track/068tBNbcqxk7WGleGTlKCm) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 4:12 | 2022-06-07 | 2022-07-07 |

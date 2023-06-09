@@ -1,13 +1,45 @@
 {
-  "description": "Dive into the full collection of Spotify Singles recordings. Cover: Cat Burns. ",
-  "num_followers": 216971,
+  "description": "The full collection of Spotify Singles recordings. Cover: Bad Snacks.\nFeeling inspired? Check out Bad Snacks's exclusive sound pack for <a href=\u201chttps://soundtrap.com\u201d>Soundtrap, </a>  Spotify\u2019s digital music studio for songwriters and beat makers. \n",
+  "num_followers": 216983,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTdhMjJiYzY0OGE3ZDJhMjNjMGMyNTM0ZTY0ZmNjMjUxMDUzZjAz",
+  "snapshot_id": "MCxjYzMxZjY4OTZiZGVjNGM2NjQzNWM4NmMzZTU0MzRiYWEwZjMzY2Nh",
   "tracks": [
+    {
+      "added_at": "2023-06-08 16:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS"
+      },
+      "artists": [
+        {
+          "name": "Bad Snacks",
+          "url": "https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy"
+        }
+      ],
+      "duration_ms": 163992,
+      "name": "Technicolor - Spotify Singles",
+      "url": "https://open.spotify.com/track/0RgltCLC6gLdDX6UR7Noei"
+    },
+    {
+      "added_at": "2023-06-08 16:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS"
+      },
+      "artists": [
+        {
+          "name": "Bad Snacks",
+          "url": "https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "You Get What You Give - Spotify Singles",
+      "url": "https://open.spotify.com/track/67Z8vS45C4PrIRrLWIkavo"
+    },
     {
       "added_at": "2023-06-07 15:02:44",
       "album": {

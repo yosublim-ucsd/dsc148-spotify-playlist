@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-547 songs - 16 hr 22 min
+550 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Bill the Fox](https://open.spotify.com/track/7h78CM43KEjbHXU8uHXCjP) | [Wilford Ware](https://open.spotify.com/artist/5fWCtKlxGJegVWtTpHOgWv) | [Bill the Fox](https://open.spotify.com/album/0dbrJwbAwDpWyN9swRr51P) | 1:22 | 2022-02-10 |  |
 | [Bingo](https://open.spotify.com/track/5if4GDGhivH8IDwVR1OJ2A) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Are You Sleeping?](https://open.spotify.com/album/4ZEclSmnKvxIzMBxEepeCt) | 1:47 | 2022-05-16 | 2022-11-26 |
 | [Bingo Was His Name\-O](https://open.spotify.com/track/6mS9rTpNhhc9B5y9eNwzas) | [Sandy Blau](https://open.spotify.com/artist/6p8V4tzveoaAM4qoQepvDl) | [Bingo Was His Name\-O](https://open.spotify.com/album/6kSDyVbJkosMpIx9zLYE1j) | 1:16 | 2022-10-28 |  |
+| [Birds Come Morning](https://open.spotify.com/track/1EKfN9J9WgAKLUmXFtUzXu) | [Aryan Armstrong](https://open.spotify.com/artist/5PDN3kzgUe0ns31NnvSfCp) | [Birds Come Morning](https://open.spotify.com/album/5yoXBNJxPNTRIWyqYROgO2) | 2:21 | 2023-06-08 |  |
 | [Bitte Mama](https://open.spotify.com/track/1PNefrcvvs6O5KJR6QNSSK) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Das Freundliche Monster](https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8) | 1:04 | 2022-02-10 | 2022-10-29 |
 | [Björnen sover](https://open.spotify.com/track/2179FfIqKBSjRq5fjjUuJX) | [Denise Hill\-Williams](https://open.spotify.com/artist/7qpzJgi2rjgvb6vfzt5co2) | [Björnen sover](https://open.spotify.com/album/4yczm0APpt4XuHSYimOs8h) | 1:38 | 2022-12-23 | 2023-06-03 |
 | [Blanket Fort](https://open.spotify.com/track/0jNKlhSCNAld9EINknedg4) | [Nina Vince](https://open.spotify.com/artist/2KoJvZFREiN0DNPVmT70gD) | [Blanket Fort](https://open.spotify.com/album/5hHnlWJSFGhvN4L5YLg4if) | 1:07 | 2022-02-10 |  |
@@ -326,6 +327,7 @@
 | [Morning Has Broken](https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Morning Has Broken](https://open.spotify.com/album/4VfjuDo8r7kVuyqQPN9fdG) | 2:55 | 2022-02-10 | 2022-10-08 |
 | [Mors lilla lathund](https://open.spotify.com/track/5Jq90wk4NwAaVJdaruXXU9) | [Eliza Butler](https://open.spotify.com/artist/2lL0yNKcO6E6PMUtUQJoss) | [Mors lilla lathund](https://open.spotify.com/album/4TYVIR8uu7Jj0d3uqRGTMS) | 1:41 | 2023-02-10 |  |
 | [Mors Lilla Olle \- Piano Version](https://open.spotify.com/track/77X9hoxQd2nmxNbLqniA9Z) | [Algot Malkolmsson](https://open.spotify.com/artist/4BV3JZZRbxITWwgpbgZHtQ) | [Mors Lilla Olle](https://open.spotify.com/album/6T95pqyEwi7mdO2jTwSuuz) | 0:51 | 2022-10-07 | 2023-06-03 |
+| [Mother Goose](https://open.spotify.com/track/1ZOWHiKOpJoZZM5ccVYGjj) | [Myla Watson](https://open.spotify.com/artist/4UsO7PCgseF2b8wqm28l6Y) | [Mother Goose](https://open.spotify.com/album/4A1pcvNFojNbbThb5mNNq4) | 1:36 | 2023-06-08 |  |
 | [Mother's Boy](https://open.spotify.com/track/6xL4s3iiG9qb891mRjjaK8) | [Viveca Chavez](https://open.spotify.com/artist/4EdUbbF1yCAbM3hOmLeXKb) | [Mother's Boy](https://open.spotify.com/album/3qXsVGnY1X5F5HNDXEUrml) | 1:41 | 2022-12-23 |  |
 | [Mój Anioł](https://open.spotify.com/track/6vuyQpRo2hobQiVXfYrhBl) | [Jolanda Novak](https://open.spotify.com/artist/12Jx6Bt5MqHJS4AtWJl6JB) | [Mój Anioł](https://open.spotify.com/album/5DjpUSAvFfIwZcuNWNHwbf) | 1:37 | 2022-02-10 | 2022-07-01 |
 | [Mr\. Cat](https://open.spotify.com/track/4eIZdb7KkPKcXhmWimNTE1) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Mr\. Cat](https://open.spotify.com/album/2wzOOWuEcaYrpkLQWX3bMy) | 2:00 | 2022-02-10 | 2023-01-13 |
@@ -334,6 +336,7 @@
 | [My Best Friend](https://open.spotify.com/track/3Pjr6fXxRACoqhYLJYMFAm) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [My Best Friend](https://open.spotify.com/album/08eD65rw3Zz8t7MpZdImn0) | 2:01 | 2022-09-02 |  |
 | [My Bonnie](https://open.spotify.com/track/7x0fGEkhYCC91G8bUjE5BA) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [My Bonnie](https://open.spotify.com/album/1qfOQ6KkwYh3TXZ4idE7nR) | 2:37 | 2022-11-25 |  |
 | [My Dolly and Me](https://open.spotify.com/track/6OWya70yLaThea5fDuQINP) | [Amala Dalton](https://open.spotify.com/artist/1r7NEL763CcvXXJ1OXw5FJ) | [My Dolly and Me](https://open.spotify.com/album/7eL1oomj56CxC23VsjeYf4) | 1:43 | 2022-02-10 |  |
+| [My Dream Castle](https://open.spotify.com/track/3yGLnfiBUXZFILOkgOdGxw) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Dream Castle](https://open.spotify.com/album/7tjCZosYj0BoToFKrGxv2h) | 1:44 | 2023-06-08 |  |
 | [My Favorite Toy](https://open.spotify.com/track/6tBmkK8y3EvMPz5g01V8Hi) | [Snugglesnooze](https://open.spotify.com/artist/53tyuFj1nXxKIBJLoExGVB) | [Just A Little Nap](https://open.spotify.com/album/0Q44FIZxx8dDtYlesKZUCY) | 1:34 | 2023-04-07 |  |
 | [My Island](https://open.spotify.com/track/4Waz0yg5uriDfqPwT4BX6Q) | [Silas Prescott](https://open.spotify.com/artist/4N90rB7wRgVHa0LKPWtKcw) | [My Island](https://open.spotify.com/album/7JJqOe5hV5qzp37zmWjZdW) | 1:25 | 2022-02-10 |  |
 | [My Little Love](https://open.spotify.com/track/6vhjJAHpk2e8Czv2WCubVT) | [Stephani Scotty](https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH) | [My Little Love](https://open.spotify.com/album/4V4eMPAb6Rlx4SwgMco0cV) | 1:24 | 2022-04-25 |  |

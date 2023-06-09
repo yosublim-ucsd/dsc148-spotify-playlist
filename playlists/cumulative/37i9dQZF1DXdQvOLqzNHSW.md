@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-561 songs - 1 day 10 hr 47 min
+563 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 | 2022-08-31 | 2023-04-30 |
 | [Future Visions](https://open.spotify.com/track/3nvwZycm39npL1xU9ifn0s) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Future Visions](https://open.spotify.com/album/5Hizp5jZT5nVmNeLI2e2o7) | 3:57 | 2023-05-25 | 2023-05-27 |
 | [Galaxy Surfing](https://open.spotify.com/track/0tI9jtQuJynzivmpQFc4Gx) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Ezra's Garden](https://open.spotify.com/album/2BtznmYidvZ9JQWhcmXVTZ) | 3:22 | 2022-05-06 | 2023-05-27 |
+| [Get It Together \- Télépopmusik Lofi Flip](https://open.spotify.com/track/0JfWDfnnfkGa30FXFnogyl) | [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce), [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo), [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF) | [Get It Together \(Télépopmusik Lofi Flip\)](https://open.spotify.com/album/57mmXGq1pgO0OaLU235fzN) | 3:36 | 2023-06-08 |  |
 | [Get Me Back in the Game](https://open.spotify.com/track/4K9n5qyCUGYBtfuJAgh23X) | [LL Burns](https://open.spotify.com/artist/7Bg1G4G1VPEZHfy55wqKNS) | [Get Me Back in the Game](https://open.spotify.com/album/2ZmCrPaswCSKEy1yIfgJ5W) | 4:32 | 2020-12-21 | 2022-04-21 |
 | [Girl](https://open.spotify.com/track/1wQBI2DEYltF2XlKs07D7G) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Girl](https://open.spotify.com/album/1XDMRGqkkBwQYLgNKCGFlt) | 3:31 | 2022-10-13 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:14 | 2022-10-16 | 2022-10-20 |
@@ -218,6 +219,7 @@
 | [good days](https://open.spotify.com/track/0bzRnAmbac20MQSkYClr8Z) | [surf bagel](https://open.spotify.com/artist/38YfrSySicHwZBiHjHcMua) | [good days](https://open.spotify.com/album/7EvSFyzwjb4ZryeC695Jh1) | 2:28 | 2023-05-25 | 2023-05-27 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-05-01 | 2022-07-09 |
 | [Gospel](https://open.spotify.com/track/4q8AGDL52LwEQMjq1k9d5F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer \(Standard Version\)](https://open.spotify.com/album/3hvjTC9OSOrf6SFQmfqLNX) | 4:29 | 2020-12-21 | 2022-04-19 |
+| [Gravity](https://open.spotify.com/track/69AUOZ9MmyiNrA0FqjWcrg) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Gravity](https://open.spotify.com/album/5oURkWqLT3VyVALJgjTxuv) | 3:25 | 2023-06-08 |  |
 | [Great American Novel](https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Great American Novel](https://open.spotify.com/album/5EJkQ3cn2Wripdg8dYyDCu) | 3:54 | 2020-12-21 | 2022-04-17 |
 | [Habitual Love](https://open.spotify.com/track/5JOnQCQ9OGn7hY23aCkdlL) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Both](https://open.spotify.com/album/0hox2EUyClXESGW5BupW8F) | 3:18 | 2020-12-21 | 2022-04-16 |
 | [Half Life](https://open.spotify.com/track/3Rmld8jmFs7VbpeeGrNrDt) | [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Half Life](https://open.spotify.com/album/0hN61WMhZ4dPKR6ReAj0UO) | 3:07 | 2021-06-25 | 2023-05-27 |
@@ -226,7 +228,7 @@
 | [Hannah Hunt](https://open.spotify.com/track/3t87C08isN6yw2DnWOorLm) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn) | 3:57 | 2020-12-21 | 2022-04-20 |
 | [Hannah Hunt](https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:57 | 2022-07-22 |  |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-01-04 | 2023-05-23 |
-| [Heathens](https://open.spotify.com/track/7pcHdXhS40SXVNiJUIncS9) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Heathens](https://open.spotify.com/album/0CSZ8UcbD9luY4JRoiRvoE) | 3:20 | 2023-05-26 |  |
+| [Heathens](https://open.spotify.com/track/7pcHdXhS40SXVNiJUIncS9) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Heathens](https://open.spotify.com/album/0CSZ8UcbD9luY4JRoiRvoE) | 3:20 | 2023-05-26 | 2023-06-09 |
 | [Heiwa](https://open.spotify.com/track/2N4oiyHvkK6twOne6PqSzO) | [Mansur Brown](https://open.spotify.com/artist/1ky3oGuE5XOsOzqiFEGwqR) | [Heiwa](https://open.spotify.com/album/6yxxttrP1qsdqnJA4qX3BX) | 5:42 | 2022-07-22 | 2023-05-27 |
 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-02-03 | 2023-02-11 |
 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-21 | 2022-10-07 |
@@ -455,7 +457,7 @@
 | [Someone To Stay](https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Someone To Stay](https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l) | 4:14 | 2020-12-21 | 2022-04-19 |
 | [Sometimes I Don't](https://open.spotify.com/track/3sgacAzOpMt2IfwDv7BZwe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Sometimes I Don't](https://open.spotify.com/album/6sY0SxEXmu9JEYDxKAiCMb) | 2:30 | 2020-12-21 | 2022-04-18 |
 | [Soon Soon](https://open.spotify.com/track/2vHMsgLQaxDYqHvkLrPw65) | [Praything](https://open.spotify.com/artist/7pidPnHnMa0lzlF0rElbMW) | [Soon Soon](https://open.spotify.com/album/5P4BaJ5km2xDv96ZfkULSU) | 4:41 | 2020-12-21 | 2022-04-19 |
-| [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 | 2023-06-01 |  |
+| [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 | 2023-06-01 | 2023-06-09 |
 | [Sorry](https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Sorry](https://open.spotify.com/album/6j4oMq6GQubGAHoYqEGrwY) | 3:00 | 2021-05-01 | 2023-05-27 |
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2022-07-22 |  |
 | [Souvenir](https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH) | 3:32 | 2020-12-21 | 2022-04-04 |

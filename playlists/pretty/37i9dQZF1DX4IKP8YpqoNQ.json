@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 24094,
+  "num_followers": 24099,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWI3YTk1NjRiMWIwOTg4Njg1ZDRiYmNjZjlhNjc2ZWJiOGE5NGM2",
+  "snapshot_id": "MCxhZDUyOWYxNDgyNjliYWQxYzQ0MjczNDVkOGM1ZjYyYjYxNWFmMTUw",
   "tracks": [
     {
       "added_at": "2023-05-15 07:15:38",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Sam Cooke At The Copa (Live From Copacabana, New York City/July 7 & 8, 1964)",
-        "url": "https://open.spotify.com/album/0LmHN5Es93TYwXBSDn36lu"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 295626,
-      "name": "Try A Little Tenderness / (I Love You) For Sentimental Reasons / You Send Me - Live",
-      "url": "https://open.spotify.com/track/1PBk81bJudnKT10GllH8HW"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 244213,
       "name": "Beyond - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Sam Cooke At The Copa (Live From Copacabana, New York City/July 7 & 8, 1964)",
+        "url": "https://open.spotify.com/album/0LmHN5Es93TYwXBSDn36lu"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 295626,
+      "name": "Try A Little Tenderness / (I Love You) For Sentimental Reasons / You Send Me - Live",
+      "url": "https://open.spotify.com/track/1PBk81bJudnKT10GllH8HW"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Like a Ship (Live from Strange Manor)",
-        "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
       },
       "artists": [
         {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 309493,
-      "name": "Like a Ship - Live from Strange Manor",
-      "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
+      "duration_ms": 388293,
+      "name": "Boogie Nights / All Night - Live Version",
+      "url": "https://open.spotify.com/track/60Lw7vJQ3kA2qkXuBHjgXk"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+        "name": "Like a Ship (Live from Strange Manor)",
+        "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
         }
       ],
-      "duration_ms": 388293,
-      "name": "Boogie Nights / All Night - Live Version",
-      "url": "https://open.spotify.com/track/60Lw7vJQ3kA2qkXuBHjgXk"
+      "duration_ms": 309493,
+      "name": "Like a Ship - Live from Strange Manor",
+      "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 330493,
+      "name": "On & On - Live",
+      "url": "https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Fela With Ginger Baker Live!",
         "url": "https://open.spotify.com/album/4muZmxBESyBUEW61rIF0D5"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 465280,
       "name": "Let's Start (feat. Ginger Baker) - Live",
       "url": "https://open.spotify.com/track/7nM9ZnOD6nL04E5dOjjZiw"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 330493,
-      "name": "On & On - Live",
-      "url": "https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Black Pumas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
+        "name": "MTV Unplugged No. 2.0",
+        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
       },
       "artists": [
         {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 344053,
-      "name": "OCT 33 - Live In Studio",
-      "url": "https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ"
+      "duration_ms": 226666,
+      "name": "I Remember - Live",
+      "url": "https://open.spotify.com/track/7vXnfKmzcCXJgRei61vmIc"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "MTV Unplugged No. 2.0",
-        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
+        "name": "Black Pumas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 226666,
-      "name": "I Remember - Live",
-      "url": "https://open.spotify.com/track/7vXnfKmzcCXJgRei61vmIc"
+      "duration_ms": 344053,
+      "name": "OCT 33 - Live In Studio",
+      "url": "https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "You Don't Know My Name - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-      "url": "https://open.spotify.com/track/2YpcIMAlj3xnB1Vr3qFYL1"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Natural Wonder",
         "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "'Live' At The Apollo (Vol. II)",
-        "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
       "artists": [
         {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 247106,
-      "name": "That's Life - Live At The Apollo Theater, 1967",
-      "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
+      "duration_ms": 215800,
+      "name": "You Don't Know My Name - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
+      "url": "https://open.spotify.com/track/2YpcIMAlj3xnB1Vr3qFYL1"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -791,6 +775,22 @@
       "duration_ms": 452500,
       "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
       "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "'Live' At The Apollo (Vol. II)",
+        "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
+      },
+      "artists": [
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "duration_ms": 247106,
+      "name": "That's Life - Live At The Apollo Theater, 1967",
+      "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Coming Home - Live at SXSW 2015",
-      "url": "https://open.spotify.com/track/6KgfC7SPNby1wdzkB6EgTJ"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 310091,
       "name": "Claustrophobic (feat. Keyon Harrold) - Live",
       "url": "https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Coming Home - Live at SXSW 2015",
+      "url": "https://open.spotify.com/track/6KgfC7SPNby1wdzkB6EgTJ"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 308066,
       "name": "Misty Blue - Live",
       "url": "https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Weekend in London (Live)",
-        "url": "https://open.spotify.com/album/0cMVOOJ8JydjzNx5hFnxbD"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 374800,
-      "name": "The Ghetto - Live",
-      "url": "https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Live on Soundstage",
         "url": "https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 273933,
       "name": "I Keep Forgettin' - Live",
       "url": "https://open.spotify.com/track/3lLdweMPFav5srRwselDyG"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Weekend in London (Live)",
+        "url": "https://open.spotify.com/album/0cMVOOJ8JydjzNx5hFnxbD"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 374800,
+      "name": "The Ghetto - Live",
+      "url": "https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live At The London Palladium",
-        "url": "https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 381626,
-      "name": "Let's Get It On - Live At The London Palladium/1976",
-      "url": "https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 469625,
       "name": "Black Man In A White World - Live From Spotify London",
       "url": "https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Live At The London Palladium",
+        "url": "https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 381626,
+      "name": "Let's Get It On - Live At The London Palladium/1976",
+      "url": "https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3"
     },
     {
       "added_at": "2023-05-15 07:15:38",

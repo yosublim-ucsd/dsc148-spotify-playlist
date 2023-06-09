@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Felly
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,598 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,649 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [wanna know](https://open.spotify.com/track/2ndm1VnWUzQfz5boYElZq8) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS), [JD Moon](https://open.spotify.com/artist/3aFZe6Sx7dHhVkeKO2H7e9) | [wanna know](https://open.spotify.com/album/6UWlNXrYXJzvrTwFyB2BzB) | 2:11 |
 | 100 | [When I Get Lonely](https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [When I Get Lonely](https://open.spotify.com/album/13FMlTKRNL5akAlum5tc5O) | 2:21 |
 
-Snapshot ID: `MCxiNGY1MGI2NjJhN2JhZDg5NjY3NjI3ZTViMGNhZDZjNjNmODZlNWEy`
+Snapshot ID: `MCxhMGVlOTkzYjBlZmRiNTk4MzQ4YzlkNDdkNjU2ZjQwYThiNzI3MWQ1`

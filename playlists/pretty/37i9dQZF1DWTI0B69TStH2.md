@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Ola Poskrop, stas, świtała \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,441 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,440 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Właściwy Czas](https://open.spotify.com/track/3HXwjK7BSSAceUqmnKBoFF) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Właściwy Czas](https://open.spotify.com/album/3WkuoFiyL63WtqQJIbClNQ) | 3:55 |
 | 100 | [No Control](https://open.spotify.com/track/3a070aD9TFw9k90yOVQ340) | [ŻYŃY](https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY) | [No Control](https://open.spotify.com/album/7w4tpmJIj7lxCGtIH0bkT8) | 4:38 |
 
-Snapshot ID: `MCxhMzA3ZjMwODRlOGQ5MGU1OTA4YTg0Mzg5ZDMzYTI5NTU2N2M5YWI5`
+Snapshot ID: `MCw2ZDMzZGVjNjMzM2UwZTllM2UxOWJkNTI2MDhhZmVlYTU5MzMxMzVk`

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Gold Mine",
+        "url": "https://open.spotify.com/album/3bwxkMrG2hvk8b5FkXLQ02"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber",
+          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159506,
+      "name": "A Gold Mine",
+      "url": "https://open.spotify.com/track/35fRFE9tuodu0faHKmMStZ"
+    },
+    {
+      "album": {
         "name": "A Lonely Night",
         "url": "https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj"
       },
@@ -1432,6 +1450,24 @@
       "duration_ms": 226893,
       "name": "Emily",
       "url": "https://open.spotify.com/track/0VhprMWn19tc19W04Vz5Gc"
+    },
+    {
+      "album": {
+        "name": "Entitled to it",
+        "url": "https://open.spotify.com/album/1sOY5lgk4il7M6zCOK0Dit"
+      },
+      "artists": [
+        {
+          "name": "Hamilton Jones",
+          "url": "https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207139,
+      "name": "Entitled to it",
+      "url": "https://open.spotify.com/track/0bwStnI8IMa1wFwC7yvufp"
     },
     {
       "album": {
@@ -4117,6 +4153,24 @@
     },
     {
       "album": {
+        "name": "My Blue Heaven",
+        "url": "https://open.spotify.com/album/0gdVpIK1SWCHzpFSaO34Bf"
+      },
+      "artists": [
+        {
+          "name": "Art Beckett",
+          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Poor Butterfly",
+      "url": "https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X"
+    },
+    {
+      "album": {
         "name": "prelude to a kiss",
         "url": "https://open.spotify.com/album/218dJkcubcykiRq5fUVovq"
       },
@@ -4654,6 +4708,24 @@
       "duration_ms": 210836,
       "name": "Somewhere over the Rainbow",
       "url": "https://open.spotify.com/track/4MTIqMeNkjU8TF4u7fVVyV"
+    },
+    {
+      "album": {
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128446,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/3luZtWjidc0Pt03uGMJM6E"
     },
     {
       "album": {
@@ -5845,6 +5917,24 @@
     },
     {
       "album": {
+        "name": "Whispers of jazz in the Wind",
+        "url": "https://open.spotify.com/album/2J1cpf0a5F0zKdmDEW7c5x"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Thomas",
+          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140790,
+      "name": "Whispers of jazz in the Wind",
+      "url": "https://open.spotify.com/track/0GpaPE4QF3ROdwAMThhfVu"
+    },
+    {
+      "album": {
         "name": "I'd Never Lie to You",
         "url": "https://open.spotify.com/album/7dDDmbvO3WZWZ3gyhQVqiw"
       },
@@ -5914,6 +6004,24 @@
       "duration_ms": 116393,
       "name": "Witness of Love",
       "url": "https://open.spotify.com/track/0sX45CnQ5ugC1yUzfiKCSB"
+    },
+    {
+      "album": {
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157744,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ"
     },
     {
       "album": {

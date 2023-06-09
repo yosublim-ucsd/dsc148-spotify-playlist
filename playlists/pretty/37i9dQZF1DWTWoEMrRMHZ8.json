@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Ana Vilela",
-  "num_followers": 340069,
+  "num_followers": 340101,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjA5ZDhiNDlmZGQzZmVhZDNkNjFkZDc0ZGRkY2RiZTQxOTFlZGQ4",
+  "snapshot_id": "MCw3MjNmNGE5ODcwZDRlMzZlODRiYTBjYWExMTFjMDM4ZTM5NWE2MTE1",
   "tracks": [
     {
       "added_at": "2023-06-02 03:39:33",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Negra \u00d3pera",
-        "url": "https://open.spotify.com/album/12ruJLnnZM4RlCAlxPSq6f"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 267308,
-      "name": "Acender as Velas",
-      "url": "https://open.spotify.com/track/4EeEwcqSLV8QmguC33sxE6"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Evid\u00eancias",
         "url": "https://open.spotify.com/album/53TgszUvzimrVfwxBGDZ7h"
       },
@@ -467,26 +447,6 @@
       "duration_ms": 313038,
       "name": "Evid\u00eancias",
       "url": "https://open.spotify.com/track/1Ide6WO5z4akgcXx6MWKB3"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
-        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
-        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
-      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -507,6 +467,46 @@
       "duration_ms": 222186,
       "name": "Lisboa",
       "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Negra \u00d3pera",
+        "url": "https://open.spotify.com/album/12ruJLnnZM4RlCAlxPSq6f"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 267308,
+      "name": "Acender as Velas",
+      "url": "https://open.spotify.com/track/4EeEwcqSLV8QmguC33sxE6"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
+        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
+      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Tarde Em Itapu\u00e3",
-        "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Tarde Em Itapu\u00e3",
-      "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Dr\u00e3o (Remasterizado)",
         "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 216933,
       "name": "Quase um Segundo",
       "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Tarde Em Itapu\u00e3",
+        "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "Mo\u00e7o",
+        "url": "https://open.spotify.com/album/1jkJEFhHM2zjCT9QFDpiXs"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        }
+      ],
+      "duration_ms": 267890,
+      "name": "Mo\u00e7o",
+      "url": "https://open.spotify.com/track/547mtUkBn129AOO8hc0xBE"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "Acabou",
         "url": "https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim"
       },
@@ -1039,6 +1055,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "\u00c9 Preciso Perdoar",
+        "url": "https://open.spotify.com/album/4gByp1kmVWGA7V90369Bkz"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "\u00c9 Preciso Perdoar",
+      "url": "https://open.spotify.com/track/0krzUBNYlpOtWN9alUDP3r"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "Ao Vivo no Coala Festival 2022",
         "url": "https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO"
       },
@@ -1067,58 +1099,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "\u00c9 Preciso Perdoar",
-        "url": "https://open.spotify.com/album/4gByp1kmVWGA7V90369Bkz"
-      },
-      "artists": [
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "\u00c9 Preciso Perdoar",
-      "url": "https://open.spotify.com/track/0krzUBNYlpOtWN9alUDP3r"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
-        "name": "Mo\u00e7o",
-        "url": "https://open.spotify.com/album/1jkJEFhHM2zjCT9QFDpiXs"
-      },
-      "artists": [
-        {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
-        }
-      ],
-      "duration_ms": 267890,
-      "name": "Mo\u00e7o",
-      "url": "https://open.spotify.com/track/547mtUkBn129AOO8hc0xBE"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
-        "name": "Jaqueira",
-        "url": "https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 166565,
-      "name": "Voz do Destino",
-      "url": "https://open.spotify.com/track/7Iec2eWfv49sfUzOmIOc8z"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "ESTRELA",
         "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 185777,
       "name": "ESTRELA",
       "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Jaqueira",
+        "url": "https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 166565,
+      "name": "Voz do Destino",
+      "url": "https://open.spotify.com/track/7Iec2eWfv49sfUzOmIOc8z"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Twoth Pick",
-        "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
-      },
-      "artists": [
-        {
-          "name": "RodCebrian",
-          "url": "https://open.spotify.com/artist/6WI7bOFkiqdWBZapqy1iIu"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "Essa Menina",
-      "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Alceu Valen\u00e7a e Paulo Rafael",
         "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 190468,
       "name": "Tenho Sede",
       "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Twoth Pick",
+        "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
+      },
+      "artists": [
+        {
+          "name": "RodCebrian",
+          "url": "https://open.spotify.com/artist/6WI7bOFkiqdWBZapqy1iIu"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Essa Menina",
+      "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Baby e Pepeu (Ao Vivo no Noites Cariocas)",
-        "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        },
-        {
-          "name": "Baby Do Brasil",
-          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
-        }
-      ],
-      "duration_ms": 261056,
-      "name": "Planeta V\u00eanus - Ao Vivo no Noites Cariocas",
-      "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 235437,
       "name": "Passarinha",
       "url": "https://open.spotify.com/track/6pHX4yF2JKjZdSk25DWJKv"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
+        "name": "Baby e Pepeu (Ao Vivo no Noites Cariocas)",
+        "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        },
+        {
+          "name": "Baby Do Brasil",
+          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+        }
+      ],
+      "duration_ms": 261056,
+      "name": "Planeta V\u00eanus - Ao Vivo no Noites Cariocas",
+      "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "De Longe Toda Serra \u00c9 Azul",
+        "url": "https://open.spotify.com/album/03GfLlRj4Ni6dzy7M3cHgA"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Da\u00edra",
+          "url": "https://open.spotify.com/artist/3ar2aVkdnUx3nDRAhYw3JW"
+        }
+      ],
+      "duration_ms": 177825,
+      "name": "De Longe Toda Serra \u00c9 Azul",
+      "url": "https://open.spotify.com/track/6dLdOv1iSkJ4Ub9cq5roVM"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "Se N\u00e3o For Amor",
         "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
       },
@@ -1615,26 +1635,6 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
-        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        },
-        {
-          "name": "Orquestra Ouro Preto",
-          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
-        }
-      ],
-      "duration_ms": 319000,
-      "name": "Papel Mach\u00ea",
-      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
         "name": "Seu Anjo",
         "url": "https://open.spotify.com/album/6kd1kQHUp1gACNL05u6jez"
       },
@@ -1651,22 +1651,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "De Longe Toda Serra \u00c9 Azul",
-        "url": "https://open.spotify.com/album/03GfLlRj4Ni6dzy7M3cHgA"
+        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
+        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
       },
       "artists": [
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
         },
         {
-          "name": "Da\u00edra",
-          "url": "https://open.spotify.com/artist/3ar2aVkdnUx3nDRAhYw3JW"
+          "name": "Orquestra Ouro Preto",
+          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
         }
       ],
-      "duration_ms": 177825,
-      "name": "De Longe Toda Serra \u00c9 Azul",
-      "url": "https://open.spotify.com/track/6dLdOv1iSkJ4Ub9cq5roVM"
+      "duration_ms": 319000,
+      "name": "Papel Mach\u00ea",
+      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
+        "name": "P\u00e3o",
+        "url": "https://open.spotify.com/album/7uL1lwBbAbrdHyPFKd1H6q"
+      },
+      "artists": [
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+        }
+      ],
+      "duration_ms": 157840,
+      "name": "P\u00e3o",
+      "url": "https://open.spotify.com/track/76Y6aibRSSe1qn7IYVv31J"
+    },
+    {
+      "added_at": "2023-06-02 03:39:33",
+      "album": {
         "name": "De: Terra; Para: Humanidade",
         "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
       },
@@ -1815,18 +1831,18 @@
     {
       "added_at": "2023-06-02 03:39:33",
       "album": {
-        "name": "P\u00e3o",
-        "url": "https://open.spotify.com/album/7uL1lwBbAbrdHyPFKd1H6q"
+        "name": "Sobre N\u00f3s",
+        "url": "https://open.spotify.com/album/4ISIv55VN8nA9IlnGdeUEW"
       },
       "artists": [
         {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+          "name": "LOFRAN",
+          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
         }
       ],
-      "duration_ms": 157840,
-      "name": "P\u00e3o",
-      "url": "https://open.spotify.com/track/76Y6aibRSSe1qn7IYVv31J"
+      "duration_ms": 184320,
+      "name": "Sobre N\u00f3s",
+      "url": "https://open.spotify.com/track/7ohl7yuUZovJaz7e4U8KNY"
     },
     {
       "added_at": "2023-06-02 03:39:33",
@@ -1843,22 +1859,6 @@
       "duration_ms": 170991,
       "name": "Poliamor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1FHekq82sUo96aiyKCSk9W"
-    },
-    {
-      "added_at": "2023-06-02 03:39:33",
-      "album": {
-        "name": "Sobre N\u00f3s",
-        "url": "https://open.spotify.com/album/4ISIv55VN8nA9IlnGdeUEW"
-      },
-      "artists": [
-        {
-          "name": "LOFRAN",
-          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Sobre N\u00f3s",
-      "url": "https://open.spotify.com/track/7ohl7yuUZovJaz7e4U8KNY"
     },
     {
       "added_at": "2023-06-02 03:39:33",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. zand",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. jazmin bean",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -932,6 +932,24 @@
       "duration_ms": 123452,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/3PqKbBKxV2mSgfWNwNAAjW"
+    },
+    {
+      "album": {
+        "name": "Blood Moon",
+        "url": "https://open.spotify.com/album/6r3HU3ki94cYtWx6HHmTP8"
+      },
+      "artists": [
+        {
+          "name": "NILUM",
+          "url": "https://open.spotify.com/artist/0fGJBiUwuNB0HTmxkRGl1l"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148607,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/6fS288Kz880FVHHsjLfEr9"
     },
     {
       "album": {
@@ -2087,6 +2105,28 @@
     },
     {
       "album": {
+        "name": "Death Before Designer (feat. SosMula)",
+        "url": "https://open.spotify.com/album/19nFdELhwOhpFp3FwR7Sfp"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        },
+        {
+          "name": "SosMula",
+          "url": "https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122360,
+      "name": "Death Before Designer (feat. SosMula)",
+      "url": "https://open.spotify.com/track/3hqDihPfqmf5tpybblro6a"
+    },
+    {
+      "album": {
         "name": "Death Wish",
         "url": "https://open.spotify.com/album/6wU1BcX0FRXBFHyNZ7XtQP"
       },
@@ -3001,6 +3041,28 @@
     },
     {
       "album": {
+        "name": "Feel Something (feat. Izzy Spears)",
+        "url": "https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        },
+        {
+          "name": "Izzy Spears",
+          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133307,
+      "name": "Feel Something (feat. Izzy Spears)",
+      "url": "https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC"
+    },
+    {
+      "album": {
         "name": "Thank You For Being Here",
         "url": "https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C"
       },
@@ -3789,6 +3851,24 @@
     },
     {
       "album": {
+        "name": "gothgirl1",
+        "url": "https://open.spotify.com/album/0eRVnOBK3emNs2TAqaaK09"
+      },
+      "artists": [
+        {
+          "name": "cumgirl8",
+          "url": "https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233038,
+      "name": "gothgirl1",
+      "url": "https://open.spotify.com/track/5oie4LMrwBeiIuOJRRP6wK"
+    },
+    {
+      "album": {
         "name": "Grail",
         "url": "https://open.spotify.com/album/5TH3X1bHH2YHqWua1F7uIV"
       },
@@ -3804,7 +3884,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 172884,
       "name": "Grail",
       "url": "https://open.spotify.com/track/06PzkPjLzVkPnw0V98CufI"
@@ -3840,7 +3920,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 186666,
       "name": "GUNSLINGER",
       "url": "https://open.spotify.com/track/5FeS825T9XlsvmGwxzL3Dn"
@@ -5330,7 +5410,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 201000,
       "name": "KSALOL KRAZY",
       "url": "https://open.spotify.com/track/1mGLc2hq1aiGuuL9qed8WS"
@@ -5829,6 +5909,24 @@
     },
     {
       "album": {
+        "name": "Lowlife",
+        "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233626,
+      "name": "Lowlife",
+      "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
+    },
+    {
+      "album": {
         "name": "My Agenda",
         "url": "https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF"
       },
@@ -6312,7 +6410,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 209777,
       "name": "Most Viewed (Himera's Dream)",
       "url": "https://open.spotify.com/track/2TrvMlffH5wuqAaU17t50K"
@@ -7054,6 +7152,24 @@
       "duration_ms": 118167,
       "name": "perfume",
       "url": "https://open.spotify.com/track/4gCUtwksS3BTHgzzzWjBl6"
+    },
+    {
+      "album": {
+        "name": "Piggie",
+        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178789,
+      "name": "Piggie",
+      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
     },
     {
       "album": {
@@ -8684,7 +8800,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 117476,
       "name": "Stick Dat",
       "url": "https://open.spotify.com/track/7qcif4D117Sy0S4HvT6FPp"
@@ -10184,7 +10300,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 114342,
       "name": "You & I",
       "url": "https://open.spotify.com/track/5yxXbY0npSW5ddLAtxCV83"

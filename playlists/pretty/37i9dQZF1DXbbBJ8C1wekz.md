@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,691 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,744 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 57 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
 | 58 | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/album/2Dbj2cJCZs8E77JG5ED1C1) | 2:51 |
 | 59 | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp) | 3:33 |
-| 60 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
+| 60 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
 
-Snapshot ID: `MCw0MWJiOGNlNGQzZjEyN2JkNzU4NjljMjE3ODFmZTExYWU0NjdkYTFj`
+Snapshot ID: `MCxjZGUyMGY3YmFjNjlmMWE0ZDVkYjQyZWY4ZWZlZjg3NmMwZjIwNjk1`

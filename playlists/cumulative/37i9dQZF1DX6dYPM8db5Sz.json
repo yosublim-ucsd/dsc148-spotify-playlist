@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"http://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi\">Teagan Lee</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=teqXkrAlT8aQUdbJL1KbeA\">HONEYMOAN</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 194853,
       "name": "85",
       "url": "https://open.spotify.com/track/3aA2ckaNAxezqR7jwPJqeJ"
+    },
+    {
+      "album": {
+        "name": "A day in the water",
+        "url": "https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241661,
+      "name": "A day in the water",
+      "url": "https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o"
     },
     {
       "album": {
@@ -182,7 +200,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 127091,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/00O1FkJbc1d6ylPS8XTGup"
@@ -388,6 +406,28 @@
       "duration_ms": 228181,
       "name": "Bait",
       "url": "https://open.spotify.com/track/54Fs529fifiDt3qDBWaIjl"
+    },
+    {
+      "album": {
+        "name": "us (Sunset Rollercoaster & JORDANN)",
+        "url": "https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        },
+        {
+          "name": "Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222352,
+      "name": "Balloon - Sunset Rollercoaster Remake",
+      "url": "https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH"
     },
     {
       "album": {
@@ -702,7 +742,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 189624,
       "name": "Boyhood",
       "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
@@ -1403,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222186,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL"
+    },
+    {
+      "album": {
         "name": "Dream State",
         "url": "https://open.spotify.com/album/2akH8BvfJ3sqfsLM7Lmab7"
       },
@@ -1475,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Echo Chamber",
+        "url": "https://open.spotify.com/album/0sYRNATuYHwK1B0URrrGrh"
+      },
+      "artists": [
+        {
+          "name": "Gothe",
+          "url": "https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188769,
+      "name": "Echo Chamber",
+      "url": "https://open.spotify.com/track/75ne9KISAYB2bD46rfk3R2"
+    },
+    {
+      "album": {
         "name": "Emotionally Indiscreet",
         "url": "https://open.spotify.com/album/7Cg2tTY1i6SG1gFlxfULyY"
       },
@@ -1486,7 +1562,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 165750,
       "name": "Emotionally Indiscreet",
       "url": "https://open.spotify.com/track/4sK7vYw3oiMWDxQ90m0Wqc"
@@ -1544,7 +1620,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 155690,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7Br9wfxnSnIh2y3PbQ1SOE"
@@ -1922,7 +1998,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 164196,
       "name": "Give A Little Kindness",
       "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
@@ -1958,7 +2034,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 209958,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/79nvFhgWdJqI238YcO7cLo"
@@ -2132,6 +2208,24 @@
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
+    },
+    {
+      "album": {
+        "name": "Hidden Stars",
+        "url": "https://open.spotify.com/album/5YK1VxnEiDgsqrvqsVcXhl"
+      },
+      "artists": [
+        {
+          "name": "Rowan Stuart",
+          "url": "https://open.spotify.com/artist/2Vh3ok1AQZa05LZInly68a"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215294,
+      "name": "Hidden Stars",
+      "url": "https://open.spotify.com/track/2LjIst0MFxVFMS5mxsUycd"
     },
     {
       "album": {
@@ -2529,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "i'm gonna make it",
+        "url": "https://open.spotify.com/album/0lQSjQ2XsaOzr2gsBLG8eG"
+      },
+      "artists": [
+        {
+          "name": "MOONGA K.",
+          "url": "https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197068,
+      "name": "i'm gonna make it",
+      "url": "https://open.spotify.com/track/32fGWDDzVNXfZNYsYepW0m"
+    },
+    {
+      "album": {
         "name": "If God Is The Pigeon",
         "url": "https://open.spotify.com/album/58Ybnqt8CX2Ty3B2UsJLwW"
       },
@@ -2767,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "jupiter.",
+        "url": "https://open.spotify.com/album/2zNMrqKCMmhilQa9GOzrPJ"
+      },
+      "artists": [
+        {
+          "name": "JUCINDA",
+          "url": "https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226754,
+      "name": "jupiter.",
+      "url": "https://open.spotify.com/track/77cN45k7QH6aRbZZzyhcU4"
+    },
+    {
+      "album": {
         "name": "Halcyon Days",
         "url": "https://open.spotify.com/album/7MJFN5eNvnS74BdUIy3sO2"
       },
@@ -2850,7 +2980,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
@@ -3324,6 +3454,24 @@
       "duration_ms": 221547,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/44hgSB3LnMNh81WtOvgBOa"
+    },
+    {
+      "album": {
+        "name": "Monster Brain",
+        "url": "https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217737,
+      "name": "Monster Brain",
+      "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
     },
     {
       "album": {
@@ -4199,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "Heaven Is a Junkyard",
+        "url": "https://open.spotify.com/album/1k5sG5y99N3xzVzxoJcmVA"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216851,
+      "name": "Rabbit",
+      "url": "https://open.spotify.com/track/2YUM2QFAUS7LQTGvfw10wp"
+    },
+    {
+      "album": {
         "name": "Raise Me Up",
         "url": "https://open.spotify.com/album/4f7DsT5qVrvPvMEcVWhVOp"
       },
@@ -4697,6 +4863,24 @@
     },
     {
       "album": {
+        "name": "Sit Right",
+        "url": "https://open.spotify.com/album/21A2eVciYbz82Cu6i8wyCi"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201060,
+      "name": "Sit Right",
+      "url": "https://open.spotify.com/track/3d53nYqXuydZPnU4AjeE4W"
+    },
+    {
+      "album": {
         "name": "Skip to the Present",
         "url": "https://open.spotify.com/album/38w9omFsu7BjToXXhmAUgR"
       },
@@ -4820,7 +5004,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 205847,
       "name": "Standing In Our Way - Edit",
       "url": "https://open.spotify.com/track/5LLnCilV4qlbYRFuNGYljJ"
@@ -4944,6 +5128,24 @@
       "duration_ms": 147690,
       "name": "Sugar Candy Mountain",
       "url": "https://open.spotify.com/track/1eCvXu2HZcDCGexOOaqFpP"
+    },
+    {
+      "album": {
+        "name": "SUNSET BOULEVARD",
+        "url": "https://open.spotify.com/album/2bDtLGY7SLz3zyzO7sgoWm"
+      },
+      "artists": [
+        {
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132821,
+      "name": "SUNSET BOULEVARD",
+      "url": "https://open.spotify.com/track/4HAU3eDlJK5ofZLhrZKcSR"
     },
     {
       "album": {
@@ -5160,7 +5362,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 186640,
       "name": "The Caring",
       "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
@@ -5214,7 +5416,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 261724,
       "name": "The Things We Dare Not Tell",
       "url": "https://open.spotify.com/track/1bIXMzlYYkaIBMRH7vG1Lu"
@@ -5972,7 +6174,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 212818,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr"

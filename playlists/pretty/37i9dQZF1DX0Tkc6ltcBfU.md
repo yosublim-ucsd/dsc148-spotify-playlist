@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164,615 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,866 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 34 | [No Love For A Thug](https://open.spotify.com/track/2IyD3ugrNb0LIV4x2RyHIP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [No Love For A Thug](https://open.spotify.com/album/0pYqfL98U56ocG8caO8uBe) | 5:05 |
 | 35 | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/album/6Op5Oqgnb443EjcHdAR5eY) | 3:06 |
 | 36 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 |
-| 37 | [Supafly \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0lkZ62PtOr82RFbVJVk8Yn) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Supafly \(feat\. BigXthaPlug / FAST X Soundtrack\)](https://open.spotify.com/album/2fIo1CPdRHVae7GbQdpi3b) | 2:58 |
+| 37 | [Supafly \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0lkZ62PtOr82RFbVJVk8Yn) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Supafly \(feat\. BigXthaPlug / FAST X Soundtrack\)](https://open.spotify.com/album/2fIo1CPdRHVae7GbQdpi3b) | 2:58 |
 | 38 | [Wig Splitter](https://open.spotify.com/track/2VUZU4RAaSdIjnpKaWOVCW) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Where The Flowers Don't Die](https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf) | 2:17 |
 | 39 | [Common Ground](https://open.spotify.com/track/2OZfJcpzSFApBxUA0gXuJz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:40 |
 | 40 | [Embarrassed \(feat\. Travis Scott\)](https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [STILL HUMBLE](https://open.spotify.com/track/3GKQZZoHZ2MrfvQtipT5f9) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [STILL HUMBLE](https://open.spotify.com/album/6wO8JOuEelcIK5XVju4hm2) | 3:25 |
 | 50 | [Monster](https://open.spotify.com/track/48SOSe8sqpQuQqDdzQ56iB) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Monster](https://open.spotify.com/album/05xL551uw7yJyDWjM0LAF9) | 2:36 |
 
-Snapshot ID: `MCw2YWUwMDlmYzJiNTAxNjFkYTJmNmZkZDRkYzE0ZjAxZjA4MmM3YWJm`
+Snapshot ID: `MCxhZmVlMzc1M2YwNWUwNTBjYTkwMjY2NzUyNTExMjY5NGIwNzg1MmJk`

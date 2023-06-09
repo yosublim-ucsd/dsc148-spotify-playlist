@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 
 > This is Binomio de Oro de América\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,422 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,453 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 49 | [Un Osito Dormilón \(Marraneo Time T2\) \- Acústico En Vivo](https://open.spotify.com/track/4Sxvf3mGZU5Rf1YZ7YaGKp) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Un Osito Dormilón \(Marraneo Time T2\) \[Acústico En Vivo\]](https://open.spotify.com/album/5rt1wvH3VB4KaZVGzWfvHi) | 4:47 |
 | 50 | [Sigue Tu Camino](https://open.spotify.com/track/1Ku8R7GC0hwdtzLiMyxLv8) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [La Combinacion Vallenata Vol\. 3](https://open.spotify.com/album/3YvmSceIoFKWBoUPb2VciJ) | 5:16 |
 
-Snapshot ID: `MjgxMDIzMzUsMDAwMDAwMDAwMDQ3MzdjNzM1NzQ4ZTg1ZjNjOTE4MmE1OTA3ZDI0Yw==`
+Snapshot ID: `MjgxMDM3NzgsMDAwMDAwMDBmYjg3ZGI5OTlhMWFiNjVmNDUyNjg3YzZhMWRjMzI4ZQ==`

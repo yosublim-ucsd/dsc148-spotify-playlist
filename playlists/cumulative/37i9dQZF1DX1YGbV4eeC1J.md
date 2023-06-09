@@ -4,7 +4,7 @@
 
 > Exceptionally vivid Swahili love stories for you and yours
 
-85 songs - 4 hr 55 min
+87 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,14 +33,14 @@
 | [Jinadi](https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Jinadi](https://open.spotify.com/album/7pS8jFmqBRfhGk7tgFz2Cp) | 2:38 | 2022-11-10 | 2023-01-20 |
 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 | 2022-05-26 |  |
 | [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-24 |  |
-| [Mae Wendi](https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:43 | 2022-05-26 |  |
+| [Mae Wendi](https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:43 | 2022-05-26 | 2023-06-09 |
 | [Mahaba](https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mahaba](https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x) | 3:16 | 2023-02-16 |  |
 | [Malaika](https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/3yPFOMzNH7EAJVDPZpyMsj) | 3:42 | 2022-05-26 | 2023-04-21 |
 | [Mapenzi](https://open.spotify.com/track/5j3kPTLuJu2xH7tGjrmAYr) | [Gilad](https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ) | [Asante](https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF) | 4:35 | 2022-05-26 | 2022-11-18 |
 | [Mapenzi](https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Karata 3](https://open.spotify.com/album/0eJGPJNelIGnxeFMsbIlS4) | 3:17 | 2022-05-26 | 2023-03-03 |
 | [Mapenzi](https://open.spotify.com/track/2e2dNpszZC0sCEuvfKVyQu) | [Kidum Kibido](https://open.spotify.com/artist/78NwwxOZkV9sNsdIYDWN9D) | [The Best Of Kidum Kibido](https://open.spotify.com/album/0W8soVwIq910Q2NYsDSZd7) | 5:53 | 2022-05-26 | 2023-05-12 |
 | [Mapenzi](https://open.spotify.com/track/3aLDDpMZhXKMfIFzd5nTfP) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 3:14 | 2022-12-09 |  |
-| [Mapenzi Hisia](https://open.spotify.com/track/2NUmT9bkWTOKwXyphQgm1I) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Mapenzi Hisia](https://open.spotify.com/album/5swq13J3dliwnstBBplZ3I) | 3:42 | 2022-05-26 |  |
+| [Mapenzi Hisia](https://open.spotify.com/track/2NUmT9bkWTOKwXyphQgm1I) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Mapenzi Hisia](https://open.spotify.com/album/5swq13J3dliwnstBBplZ3I) | 3:42 | 2022-05-26 | 2023-06-09 |
 | [Maradonna](https://open.spotify.com/track/4KTHSeSyn3oo4dOqxheLPn) | [Tanasha Donna](https://open.spotify.com/artist/4pCGeC6vPX6UaEZhLSucym) | [Maradonna](https://open.spotify.com/album/2FWGVLe0Dk9jmc5upTmZs2) | 3:33 | 2022-07-07 | 2022-12-10 |
 | [Marry Me \(feat\. Marioo\)](https://open.spotify.com/track/0TS6oda4nNVHwn8k9V7SJu) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 3:45 | 2022-08-25 |  |
 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 | 2023-05-11 |  |
@@ -55,6 +55,7 @@
 | [My Boo](https://open.spotify.com/track/7MR6B14XLBuEt167xbdWB5) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Fancy Fingers](https://open.spotify.com/artist/1xdz3e3xkRKYMS9TqgIbi5) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:02 | 2023-04-20 |  |
 | [My Vow](https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [My Vow](https://open.spotify.com/album/77d7j2x9rppA6mBZIgPALC) | 3:57 | 2022-05-26 |  |
 | [Na Yule](https://open.spotify.com/track/3yXTg2aoTSA2IFo0XfEz8o) | [Ruby](https://open.spotify.com/artist/2ypTfYYhRIQFIYj6bdnKa6) | [Na Yule](https://open.spotify.com/album/2l5qQbYLacq6YJt78xdfZn) | 3:51 | 2022-05-26 | 2023-04-07 |
+| [Naisha](https://open.spotify.com/track/5d5bOX4rcX8PaF3KqCKu0D) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Inside Out](https://open.spotify.com/album/305UoRlLjJxe9uJoT2GUnR) | 3:01 | 2023-06-08 |  |
 | [Nakufa](https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Amlyoto](https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP) | [Nakufa](https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH) | 4:55 | 2022-05-26 |  |
 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 | 2022-10-27 |  |
 | [Nampenda](https://open.spotify.com/track/6bY6Rrr3enYLfJK7djbgZQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Nampenda](https://open.spotify.com/album/0xhgXtc2IbEFcG7K12Olkb) | 3:37 | 2023-03-24 |  |
@@ -83,6 +84,7 @@
 | [Sina Neno](https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Sina Neno](https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD) | 3:04 | 2022-05-26 |  |
 | [Single](https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Single](https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb) | 2:16 | 2023-01-19 |  |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 |  |
+| [Sunina](https://open.spotify.com/track/5CBvhD0E4XClAsdpug6KWK) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Sunina](https://open.spotify.com/album/5t77HSTbhdvM1n7KEh9urC) | 3:04 | 2023-06-08 |  |
 | [Super Woman](https://open.spotify.com/track/5xIH3YUZQb4XKsZREACXhL) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Super Woman](https://open.spotify.com/album/2kUOQ8kdl8fA67IoHn784p) | 3:09 | 2022-09-23 | 2023-03-31 |
 | [Sweet](https://open.spotify.com/track/3JwIlZFxkPtRukbvRp9mcC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Sweet](https://open.spotify.com/album/1GosMCPkYYZnd4m4cN54RS) | 3:07 | 2023-05-04 |  |
 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 | 2022-05-26 |  |

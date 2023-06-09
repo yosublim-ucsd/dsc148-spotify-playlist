@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: DaBoii
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,444 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,528 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 47 | [Burpees](https://open.spotify.com/track/5WD5g7tYyq19mRgyFRtSUv) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [Burpees](https://open.spotify.com/album/61JX6PxXt6rQ1UzluiHXNv) | 2:45 |
 | 48 | [IT'S OVER](https://open.spotify.com/track/0XzoYkyEvXmeg180c97tWW) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Kollect Kall](https://open.spotify.com/album/1l93oDZaNAsTF0GqsRa3m0) | 2:29 |
 | 49 | [Sandcastles](https://open.spotify.com/track/4Pbygk2v96q46GcpkFXsPy) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Sandcastles](https://open.spotify.com/album/3HL4Ly3lvYntdBZIfdvuPK) | 2:50 |
-| 50 | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \- Trailer Anthem](https://open.spotify.com/track/0sKJExQWRKxd76gSSwrsaI) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \[Trailer Anthem\]](https://open.spotify.com/album/2gtzhUrfhH4VsoiWeQqSmX) | 2:27 |
+| 50 | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \- Trailer Anthem](https://open.spotify.com/track/0sKJExQWRKxd76gSSwrsaI) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \[Trailer Anthem\]](https://open.spotify.com/album/2gtzhUrfhH4VsoiWeQqSmX) | 2:27 |
 | 51 | [Summer Reign \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ELl4Rhgv6oqSbqWIomjs3) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:55 |
 | 52 | [I Don't Mean](https://open.spotify.com/track/1M25T7ROXQUulWjvzRgCB1) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Mike Free](https://open.spotify.com/artist/6iEOdI9RcimOiNzbfhhuTO) | [Free 03](https://open.spotify.com/album/2UfVYQnUerGa6XhbJYlaWS) | 2:09 |
 | 53 | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g) | 3:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 59 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 |
 | 60 | [Need Love](https://open.spotify.com/track/1Pr1PSWRXycRomdCGCvUU3) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Need Love](https://open.spotify.com/album/7mcTO6enAPyVjPZgjzehKj) | 2:29 |
 
-Snapshot ID: `MCwxYjVhZWYwNzk2ZjAwYWJhYWEwMTM1ZDVjNzkyYmNjOWQwYzBjZDQ0`
+Snapshot ID: `MCwzMWY4YWYwNTAyZGFiM2JjMjMxZWEyODU3MWQwOTU1NjNmZWE3NzEz`

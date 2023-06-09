@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ATLAS
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Praesun
 
-344 songs - 20 hr 44 min
+345 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [ก็ฉันน่ะแอบชอบ \(For a while\)](https://open.spotify.com/track/4LJlTY8XrrrcNpfdExSF5C) | [MINDCLAZZ](https://open.spotify.com/artist/03QoOnekzBDpx7QbLatRwz) | [ก็ฉันน่ะแอบชอบ \(For a while\)](https://open.spotify.com/album/0qCrf2o0g0OMdYRC2fmexj) | 4:14 | 2022-06-02 | 2022-06-10 |
 | [ก๊อก ก๊อก](https://open.spotify.com/track/5apV16Mj5WQ3OW2qPxMuu4) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [ก๊อก ก๊อก](https://open.spotify.com/album/6Bq2DNYOVC2UhJ8OetxqEf) | 3:06 | 2022-10-26 | 2022-11-12 |
 | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/track/2mhcGG5JdEotXGF4kDTjGM) | [TON THANASIT](https://open.spotify.com/artist/6zOWc1PkZQNr5mDOgWyc9x) | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/album/58zEDQELi0atD10fgzGpym) | 3:41 | 2022-08-31 | 2022-09-24 |
+| [ขี้หยอก \(Kidjing\)](https://open.spotify.com/track/7I1n3XD4PbUyS8ZhMz6xhE) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ขี้หยอก \(Kidjing\)](https://open.spotify.com/album/52rV9x3w4aN1BpTRLijUaA) | 3:40 | 2023-06-08 |  |
 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 | 2022-07-28 | 2022-10-05 |
 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 | 2022-05-26 |  |
 | [ข้อสอบ](https://open.spotify.com/track/3djIwknyvdh9STESkxpS62) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [ข้อสอบ](https://open.spotify.com/album/4kavHltvGrYIDk80daVY65) | 2:51 | 2022-09-02 | 2022-09-24 |
@@ -177,7 +178,7 @@
 | [บอยพาโบ้](https://open.spotify.com/track/1H9SZd5MauKXDaY0vxYJzv) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [BABB BUM BUM](https://open.spotify.com/album/6KNC1U2jopk3FbzkKkPiLC) | 3:42 | 2023-04-12 | 2023-05-26 |
 | [บานปลาย \(best wishes\)](https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [บานปลาย \(best wishes\)](https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA) | 4:49 | 2022-05-26 |  |
 | [ปล่อยจอย](https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Pimma PiXXiE](https://open.spotify.com/artist/0ZhLq2xUkUlc3YPuoWa6SE) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 3:28 | 2022-08-18 |  |
-| [ปังปัง \(Unit Grande\)](https://open.spotify.com/track/4FSpUOfa8dLaT6hULA1W23) | [The Glass Girls](https://open.spotify.com/artist/72q461mIuWFuDIMTys5Als) | [ปังปัง \(Unit Grande\)](https://open.spotify.com/album/0ddQPOtTCIt3kMku9b0muZ) | 3:02 | 2023-06-01 |  |
+| [ปังปัง \(Unit Grande\)](https://open.spotify.com/track/4FSpUOfa8dLaT6hULA1W23) | [The Glass Girls](https://open.spotify.com/artist/72q461mIuWFuDIMTys5Als) | [ปังปัง \(Unit Grande\)](https://open.spotify.com/album/0ddQPOtTCIt3kMku9b0muZ) | 3:02 | 2023-06-01 | 2023-06-09 |
 | [ปีนไม่ไหว \- From Future วิศวะสุดหล่อกับคุณหมอของผม](https://open.spotify.com/track/4afl2R8ZC6lk3CUKkhD6dm) | [Bever Patsapon](https://open.spotify.com/artist/4OV6Ord5kzWXZC2agBXlXK) | [ปีนไม่ไหว \(From Future วิศวะสุดหล่อกับคุณหมอของผม\)](https://open.spotify.com/album/4vOVnGAxp6ml513x1Ee4p0) | 3:36 | 2023-02-23 | 2023-03-03 |
 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \[feat\. Aheye of 4EVE\]](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 | 2023-05-10 |  |
 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\)](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 | 2022-05-26 | 2022-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,510 likes - 52 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,580 likes - 52 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 51 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 |
 | 52 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/7JWyqEGZGlWEONYvvpFTdQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing the Piano 12122020](https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU) | 5:46 |
 
-Snapshot ID: `MCxiODg1ZDNjNmMwZGJkYTJhMTllMjFlMWEyYWJjNGZlMTU0Y2EwYjVj`
+Snapshot ID: `MCw0ZDc3ZDQ2MDY4MWI3ZDkxMGFhMTYwZTE0OTQwYTc4MGRlYmFmODk3`

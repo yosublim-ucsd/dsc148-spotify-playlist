@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2052037,
+  "num_followers": 2052024,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM0NjgsYWQ4NGE1MTJmN2UwYjJmYWQyNjU1ZWE1ZjZhMzFkMTI2NWYyNWE0NQ==",
+  "snapshot_id": "MTM0NzAsNTVlOTdmOGMwZmY5MTQ0MjdjM2JkZjkwMWYwODFhYWFjNTNlNzc3ZQ==",
   "tracks": [
     {
       "added_at": "2023-06-07 23:30:31",
@@ -231,6 +231,26 @@
       "duration_ms": 250285,
       "name": "Blue KNY Factory Remix - KNY Factory Remix",
       "url": "https://open.spotify.com/track/2Be2IeraxfBRyyZoID1cx2"
+    },
+    {
+      "added_at": "2023-06-09 01:39:03",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/4e2QxrBv9chCtzQRIWCzN8"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 202714,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
     },
     {
       "added_at": "2023-06-07 23:30:31",

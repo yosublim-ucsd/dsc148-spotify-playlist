@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-716 songs - 1 day 13 hr 55 min
+717 songs - 1 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [sugar](https://open.spotify.com/track/2d6CmdLPd1rOi7zdQK6kBg) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [sugar](https://open.spotify.com/album/15RYAPvGvUvil1Vu8sI5Xi) | 3:05 | 2022-06-02 | 2022-07-19 |
 | [Sugarcoat](https://open.spotify.com/track/0QZXe8qvnNNXPgxrgWxPAv) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Sugarcoat](https://open.spotify.com/album/3PxDqpm3zy3vS7WSpxQMuh) | 2:25 | 2021-12-16 | 2022-04-01 |
 | [Sun](https://open.spotify.com/track/4xMPJOd0L8RbrKVHW1x0t3) | [Name The Pet](https://open.spotify.com/artist/3ud4LE50NSFZxHYDSURGyM), [Janne Schaffer](https://open.spotify.com/artist/1FdRWg2tqR4I7jjA29vWYU) | [Sun](https://open.spotify.com/album/4thDfq25JgSDpeTdrypZLM) | 3:45 | 2021-12-16 | 2022-02-16 |
+| [Sun In Her Eyes](https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Sun In Her Eyes](https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj) | 3:20 | 2023-06-08 |  |
 | [Sunny Days](https://open.spotify.com/track/53sdGp5FZgcpVsg5NPbbiL) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [sometime/Sunny Days](https://open.spotify.com/album/5qWgpA67k7vP42pW2RtHmd) | 4:03 | 2022-03-10 | 2022-04-25 |
 | [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-09-15 | 2023-01-27 |
 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2023-05-18 |  |
@@ -601,7 +602,7 @@
 | [Superstar](https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Superstar](https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5) | 3:10 | 2023-05-19 |  |
 | [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-12 | 2022-09-26 |
 | [Svart Suit Cadillac](https://open.spotify.com/track/2hT4mY6jWEhm3Vnbgz5LyP) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL), [Michel Dida](https://open.spotify.com/artist/0IQrfexpeCXMmHFX2jnT1Q) | [Svart Suit Cadillac](https://open.spotify.com/album/7rFae5BckcN7YgxYtEgCvO) | 3:38 | 2022-03-10 | 2022-04-02 |
-| [Svarta Moln \(From Songland\)](https://open.spotify.com/track/73A3kioiMa6CXW89cdTWXz) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Svarta Moln \(From Songland\)](https://open.spotify.com/album/5qtU1cUDJu0pfNhdk3IDDy) | 3:11 | 2023-05-04 |  |
+| [Svarta Moln \(From Songland\)](https://open.spotify.com/track/73A3kioiMa6CXW89cdTWXz) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Svarta Moln \(From Songland\)](https://open.spotify.com/album/5qtU1cUDJu0pfNhdk3IDDy) | 3:11 | 2023-05-04 | 2023-06-09 |
 | [Svikare](https://open.spotify.com/track/0djxbv8PpRoOwWZzf8iw6Q) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Svikare](https://open.spotify.com/album/2o6z5Nj3RGx9uL6sAE8Shb) | 2:41 | 2023-01-19 | 2023-02-12 |
 | [Svår](https://open.spotify.com/track/57tokFFxMm6U2oUVyrIVkl) | [Nina Bring](https://open.spotify.com/artist/6jzQtWmDttXXZbdmLrOd2j) | [Svår](https://open.spotify.com/album/71B5YM1pJ7ZgMXX82ZgD06) | 3:16 | 2022-01-13 | 2022-04-01 |
 | [Sweet Jackie](https://open.spotify.com/track/1S4LYxSNKv8NGGl5Jnledy) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sweet Jackie](https://open.spotify.com/album/5BUAq7X644KHxL5cGWIUVH) | 2:46 | 2021-12-16 | 2022-03-11 |

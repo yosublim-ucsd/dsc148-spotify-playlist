@@ -2,9 +2,9 @@
 
 ### [Legends Only](https://open.spotify.com/playlist/37i9dQZF1DX5a39zUmS7Hn)
 
-> New music and timeless tracks from legends only\. Cover: Dolly Parton
+> New music and timeless tracks from legends only\. Cover: Noel Gallagher
 
-255 songs - 18 hr 18 min
+257 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:17 | 2022-12-02 |  |
 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 | 2022-07-28 |  |
 | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG) | 4:24 | 2022-04-08 | 2022-07-29 |
+| [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 | 2023-06-08 |  |
 | [Elevator Boots \- Single Edit](https://open.spotify.com/track/3jZ6v2I4mK5ugVYwht4Mfx) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Elevator Boots](https://open.spotify.com/album/7BqWW8M4L2IyA9Cl6CssD2) | 3:56 | 2022-04-08 | 2022-07-28 |
 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 | 2022-04-08 |  |
 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-07-28 | 2022-09-11 |
@@ -181,7 +182,7 @@
 | [Range Rover Bitch](https://open.spotify.com/track/0CgJ1v2IDbrp4JAYeGhfYz) | [Taylor Hawkins](https://open.spotify.com/artist/6bI8H2TnlKYGJSo52wcTP4) | [Kota](https://open.spotify.com/album/0NpLbHiynJPixcHeGdd2Kb) | 2:49 | 2022-04-08 | 2022-05-28 |
 | [Realize](https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:37 | 2022-08-18 | 2022-11-13 |
 | [Remember We Were Lovers](https://open.spotify.com/track/51TM4SSltkpKkL0ZlrpfCg) | [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o), [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta), [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Remember We Were Lovers](https://open.spotify.com/album/4nqCtPyJLpPpr2H087hKNC) | 4:16 | 2022-06-06 | 2022-07-05 |
-| [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-04-21 |  |
+| [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-04-21 | 2023-06-09 |
 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 | 2022-12-02 |  |
 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 | 2022-04-08 | 2022-07-29 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-02-10 |  |
@@ -211,7 +212,7 @@
 | [Start!](https://open.spotify.com/track/4svNZgdVZNtpWKbb7nsaLs) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 2:29 | 2022-04-08 | 2022-07-29 |
 | [Step On \- 2007 Remaster](https://open.spotify.com/track/4gAU0cHQJFxj1n2ZDiEIzG) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Pills 'N' Thrills And Bellyaches \(Collector's Edition\)](https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ) | 5:18 | 2022-04-08 | 2022-07-29 |
 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 | 2022-12-16 | 2023-01-12 |
-| [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 | 2022-07-28 |  |
+| [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 | 2022-07-28 | 2023-06-09 |
 | [Sweet Bird of Truth](https://open.spotify.com/track/1MH1Zfq6vJZEWf904atike) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Sweet Bird of Truth](https://open.spotify.com/album/17CUZ4KfTly5aMB73aM1b7) | 3:46 | 2022-05-27 | 2022-06-06 |
 | [Teach Me To Tango](https://open.spotify.com/track/5oIrbqdUT5z05cld5cXbaI) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Zoom In EP](https://open.spotify.com/album/5xaZbHax4UZEtgBUCsFRyy) | 3:07 | 2022-04-08 | 2022-07-27 |
 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 | 2022-04-08 | 2022-07-28 |
@@ -249,6 +250,7 @@
 | [Under Pressure](https://open.spotify.com/track/5oidljiMjeJTWUGZ4TfFea) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Best of Bowie](https://open.spotify.com/album/2PEAajl89bIS4eWMk7zlbV) | 3:57 | 2022-04-08 | 2022-07-28 |
 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 | 2022-07-28 |  |
 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 4:08 | 2022-04-08 | 2022-07-29 |
+| [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 | 2023-06-08 |  |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2022-07-28 |  |
 | [Vortex](https://open.spotify.com/track/3QVr6B3vpfFXJvgZCfeQXe) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Vortex](https://open.spotify.com/album/5auf3E3cyfNxNPLafWt7pX) | 4:38 | 2022-05-27 | 2022-06-30 |
 | [Vortex](https://open.spotify.com/track/58ZtTGuySqYHlquNK2ryyI) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Vortex](https://open.spotify.com/album/2yTgZSjCAn1w9n7hnyb78L) | 4:38 | 2022-05-27 | 2022-07-05 |

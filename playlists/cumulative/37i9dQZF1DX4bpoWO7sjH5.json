@@ -474,24 +474,6 @@
     {
       "album": {
         "name": "De Bel\u00e9n a Jerusal\u00e9n",
-        "url": "https://open.spotify.com/album/07lWzo5gngjVzM5BNhVrzy"
-      },
-      "artists": [
-        {
-          "name": "Jesus Worship Center",
-          "url": "https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI"
-        }
-      ],
-      "date_added": "2022-12-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249374,
-      "name": "De Bel\u00e9n a Jerusal\u00e9n",
-      "url": "https://open.spotify.com/track/1RVrCARf52ZUmHg3ou5Qpw"
-    },
-    {
-      "album": {
-        "name": "De Bel\u00e9n a Jerusal\u00e9n",
         "url": "https://open.spotify.com/album/0Hp4uKftPNw2I1C2hjCWCL"
       },
       "artists": [
@@ -506,6 +488,24 @@
       "duration_ms": 249375,
       "name": "De Bel\u00e9n a Jerusal\u00e9n",
       "url": "https://open.spotify.com/track/3EZasVLqN6bkIp4xDkUXpT"
+    },
+    {
+      "album": {
+        "name": "De Bel\u00e9n a Jerusal\u00e9n (Live)",
+        "url": "https://open.spotify.com/album/07lWzo5gngjVzM5BNhVrzy"
+      },
+      "artists": [
+        {
+          "name": "Jesus Worship Center",
+          "url": "https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249374,
+      "name": "De Bel\u00e9n a Jerusal\u00e9n - Live",
+      "url": "https://open.spotify.com/track/1RVrCARf52ZUmHg3ou5Qpw"
     },
     {
       "album": {

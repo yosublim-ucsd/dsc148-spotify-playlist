@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
+      },
+      "artists": [
+        {
+          "name": "Rosebud Nash",
+          "url": "https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
+    },
+    {
+      "album": {
         "name": "All of me - Acoustic",
         "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
       },
@@ -413,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hodge",
+          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192975,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
+    },
+    {
+      "album": {
         "name": "breakeven",
         "url": "https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO"
       },
@@ -442,7 +478,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 228970,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/6rOVa2IctGd0B4mdP66Ym5"
@@ -644,7 +680,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 192461,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
@@ -932,7 +968,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 181039,
       "name": "Funny Face",
       "url": "https://open.spotify.com/track/4OwJUKO2xmpPy8CoauqhaT"
@@ -1372,7 +1408,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 212157,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
@@ -2190,7 +2226,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 230555,
       "name": "Santa Monica",
       "url": "https://open.spotify.com/track/5cEJdYcgOYcW6dzeDyVbpf"
@@ -2316,7 +2352,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 201384,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/02S7iCZmsVUkaWABeU4lhn"
@@ -2800,7 +2836,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 233150,
       "name": "When I Get There",
       "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"

@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring pluko",
-  "num_followers": 753637,
+  "num_followers": 753710,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTM2ZDQxMWJhODhmNDk1ZGI2NmQzZDFkMjY1YTM5MTE0YWRjYzVl",
+  "snapshot_id": "MCw4MTZjYjEyOWRkNDA2ZTlkZTZmNDk3Njc3N2FhMDRhYTUwY2JmMjdl",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Arrived Anxious, Left Bored",
-        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 164506,
-      "name": "SKY SKY 1.3 [2016 Export Wav]",
-      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Daybreak (with Zachary Knowles)",
         "url": "https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 140666,
       "name": "Daybreak (with Zachary Knowles)",
       "url": "https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 164506,
+      "name": "SKY SKY 1.3 [2016 Export Wav]",
+      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Superdream",
-        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Pale Blue Dot",
-      "url": "https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 241979,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Superdream",
+        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Pale Blue Dot",
+      "url": "https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -887,6 +887,30 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        }
+      ],
+      "duration_ms": 226978,
+      "name": "Empty Room - Cabu Remix",
+      "url": "https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Good Lies",
         "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
       },
@@ -923,22 +947,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
-      },
-      "artists": [
-        {
-          "name": "MONSS",
-          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
-        }
-      ],
-      "duration_ms": 197832,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
@@ -955,26 +963,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
       },
       "artists": [
         {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        },
-        {
-          "name": "Cabu",
-          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
         }
       ],
-      "duration_ms": 226978,
-      "name": "Empty Room - Cabu Remix",
-      "url": "https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd"
+      "duration_ms": 197832,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "A Mere Blip In Your Timeline",
-        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
-      },
-      "artists": [
-        {
-          "name": "OBLVYN",
-          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
-        }
-      ],
-      "duration_ms": 206390,
-      "name": "A Mere Blip In Your Timeline",
-      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "see str8",
         "url": "https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 240000,
       "name": "see str8",
       "url": "https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "A Mere Blip In Your Timeline",
+        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
+      },
+      "artists": [
+        {
+          "name": "OBLVYN",
+          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+        }
+      ],
+      "duration_ms": 206390,
+      "name": "A Mere Blip In Your Timeline",
+      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
-      },
-      "artists": [
-        {
-          "name": "Rome in Silver",
-          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
-        }
-      ],
-      "duration_ms": 183445,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 192063,
       "name": "slomo (with Tohji & Midas The Jagaban)",
       "url": "https://open.spotify.com/track/1siKLsvJLmVM8fBzJrpBNy"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        }
+      ],
+      "duration_ms": 183445,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        },
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        }
-      ],
-      "duration_ms": 169003,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/6TAhNtHs5NGaEViqb1uINw"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 220869,
       "name": "Fool",
       "url": "https://open.spotify.com/track/1bDclm0e8PVf7t8D0UEl1i"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "duration_ms": 169003,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Fuck Right Off",
+        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "duration_ms": 159252,
+      "name": "Fuck Right Off",
+      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Shellshock (Edit)",
         "url": "https://open.spotify.com/album/2ljDGMcczlIKC69aNczUno"
       },
@@ -1875,18 +1891,42 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Fuck Right Off",
-        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
+        "name": "THIS IS THE END.",
+        "url": "https://open.spotify.com/album/4HT9o2Bh2GfsQgA2MX1ml1"
       },
       "artists": [
         {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
         }
       ],
-      "duration_ms": 159252,
-      "name": "Fuck Right Off",
-      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+      "duration_ms": 170320,
+      "name": "THIS IS THE END.",
+      "url": "https://open.spotify.com/track/3c727sTs0LEbcIvLbGijTo"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Back Now",
+        "url": "https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Ethan Dufault",
+          "url": "https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Back Now",
+      "url": "https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1915,22 +1955,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "THIS IS THE END.",
-        "url": "https://open.spotify.com/album/4HT9o2Bh2GfsQgA2MX1ml1"
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
       "artists": [
         {
-          "name": "bear bear & friends",
-          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
-        },
-        {
-          "name": "Gill Chang",
-          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
         }
       ],
-      "duration_ms": 170320,
-      "name": "THIS IS THE END.",
-      "url": "https://open.spotify.com/track/3c727sTs0LEbcIvLbGijTo"
+      "duration_ms": 92307,
+      "name": "And then it came together",
+      "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1951,42 +1987,6 @@
       "duration_ms": 247619,
       "name": "JIYO",
       "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 92307,
-      "name": "And then it came together",
-      "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Back Now",
-        "url": "https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO"
-      },
-      "artists": [
-        {
-          "name": "Last Heroes",
-          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
-        },
-        {
-          "name": "Ethan Dufault",
-          "url": "https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Back Now",
-      "url": "https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "all you'll get from me is my company",
+        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
+      },
+      "artists": [
+        {
+          "name": "After Wes",
+          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "all you'll get from me is my company",
+      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "UNI(*)N",
         "url": "https://open.spotify.com/album/3TaL0VJMILKcVl1XgLkc4X"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 169032,
       "name": "INSANE",
       "url": "https://open.spotify.com/track/3OuOeSwZvd51cx78yuUXJA"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "all you'll get from me is my company",
-        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
-      },
-      "artists": [
-        {
-          "name": "After Wes",
-          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "all you'll get from me is my company",
-      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2315,26 +2315,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Say No More",
-        "url": "https://open.spotify.com/album/2w9zybMMHYpsk6K5TAxKgW"
-      },
-      "artists": [
-        {
-          "name": "Daktyl",
-          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
-        },
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        }
-      ],
-      "duration_ms": 176778,
-      "name": "Say No More",
-      "url": "https://open.spotify.com/track/7MtQH3yThW341BJOEyvxVR"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "CHAMELEON",
         "url": "https://open.spotify.com/album/6fNxqFoLyiGMpiKc68tN0i"
       },
@@ -2351,6 +2331,26 @@
       "duration_ms": 186093,
       "name": "CHAMELEON",
       "url": "https://open.spotify.com/track/7bz3aBvfS99RkIumQnM7Fo"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Say No More",
+        "url": "https://open.spotify.com/album/2w9zybMMHYpsk6K5TAxKgW"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 176778,
+      "name": "Say No More",
+      "url": "https://open.spotify.com/track/7MtQH3yThW341BJOEyvxVR"
     },
     {
       "added_at": "2023-06-02 04:00:00",

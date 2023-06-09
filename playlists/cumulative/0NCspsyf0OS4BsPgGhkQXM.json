@@ -7833,6 +7833,28 @@
     },
     {
       "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/4e2QxrBv9chCtzQRIWCzN8"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202714,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
+    },
+    {
+      "album": {
         "name": "Latch",
         "url": "https://open.spotify.com/album/5xBztmX0iNuO0hIzvMMUkR"
       },

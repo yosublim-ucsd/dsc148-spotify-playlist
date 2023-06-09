@@ -1,12 +1,12 @@
 {
   "description": "Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Raffaella Carr\u00e0",
-  "num_followers": 18493,
+  "num_followers": 18515,
   "original_name": "EQUAL Italia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2RhOTMyNTVkZWQ1NWM1NDJiMzIwNTdmODhlYzBjNTQ4YTI1MjQz",
+  "snapshot_id": "MCxhNzQ3ZTAwNWU0YTRmMGQ1MmZkYTFjZmRiNDMzZmRlMzc1YTE3ZTU3",
   "tracks": [
     {
       "added_at": "2023-06-07 08:24:32",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-06-07 08:24:32",
       "album": {
+        "name": "ARANCIATA",
+        "url": "https://open.spotify.com/album/0I9Kc8iR7JAf52TITuMyhK"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "ARANCIATA",
+      "url": "https://open.spotify.com/track/4X24I8ugXKgRgdtC9LzmlP"
+    },
+    {
+      "added_at": "2023-06-07 08:24:32",
+      "album": {
         "name": "Elettraton",
         "url": "https://open.spotify.com/album/3xgNcrfisBV7GOMmJlIbNn"
       },
@@ -55,6 +71,22 @@
       "duration_ms": 201250,
       "name": "Mani In Alto",
       "url": "https://open.spotify.com/track/42xSbzzR04sGyodWG0fCTU"
+    },
+    {
+      "added_at": "2023-06-07 08:24:32",
+      "album": {
+        "name": "Fulmini Addosso (from the Prime Video Original Movie L'ESTATE PI\u00d9 CALDA)",
+        "url": "https://open.spotify.com/album/1hp1u1x3mD355oPyZwHqqj"
+      },
+      "artists": [
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        }
+      ],
+      "duration_ms": 221434,
+      "name": "Fulmini Addosso - from the Prime Video Original Movie L'ESTATE PI\u00d9 CALDA",
+      "url": "https://open.spotify.com/track/2tsd2ufK2aASL0hKifMxmR"
     },
     {
       "added_at": "2023-06-07 08:24:32",
@@ -311,6 +343,22 @@
       "duration_ms": 171178,
       "name": "Mi sanguina il cuore",
       "url": "https://open.spotify.com/track/7IL5GwomDPMUYv6sp3Op00"
+    },
+    {
+      "added_at": "2023-06-07 08:24:32",
+      "album": {
+        "name": "Tutto Ok",
+        "url": "https://open.spotify.com/album/6oKvDx8fawkHIZSfA7aJXB"
+      },
+      "artists": [
+        {
+          "name": "NARA",
+          "url": "https://open.spotify.com/artist/2QwnSHVij7aOFnIb1UVAF6"
+        }
+      ],
+      "duration_ms": 160496,
+      "name": "Tutto Ok",
+      "url": "https://open.spotify.com/track/5DG0NOLgGIVzYTeljm0AKw"
     },
     {
       "added_at": "2023-06-07 08:24:32",

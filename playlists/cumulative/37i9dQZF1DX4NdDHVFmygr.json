@@ -3422,7 +3422,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 190380,
       "name": "Mrta7",
       "url": "https://open.spotify.com/track/0bxd1G6TBQaxnKptoRw4OX"
@@ -3878,10 +3878,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 172000,
       "name": "Rah Ditou",
       "url": "https://open.spotify.com/track/2DSbRIizPDDoexJgSbxQzo"
+    },
+    {
+      "album": {
+        "name": "LAYALI",
+        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181507,
+      "name": "Reg Deg",
+      "url": "https://open.spotify.com/track/0nDv1POQ4pYeqjwmBT5LFC"
     },
     {
       "album": {
@@ -4290,7 +4308,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 235139,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT"
@@ -4427,6 +4445,24 @@
     },
     {
       "album": {
+        "name": "LAYALI",
+        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156552,
+      "name": "Tititi",
+      "url": "https://open.spotify.com/track/1vGLrMcU3xPaaBQ204fAHX"
+    },
+    {
+      "album": {
         "name": "Vangogh",
         "url": "https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j"
       },
@@ -4482,6 +4518,24 @@
       "duration_ms": 142857,
       "name": "WAHYA",
       "url": "https://open.spotify.com/track/1pJD9zWCzBBVZsGlv9UGo8"
+    },
+    {
+      "album": {
+        "name": "WAJAHNI",
+        "url": "https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV"
+      },
+      "artists": [
+        {
+          "name": "Hind Ziadi",
+          "url": "https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206315,
+      "name": "WAJAHNI",
+      "url": "https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J"
     },
     {
       "album": {

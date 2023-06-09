@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 19612,
+  "num_followers": 19652,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzA5MmZhOTE4NmMwN2Y1ZTY3NzViNDgyYjFjZGJiYTllYmVmMjVj",
+  "snapshot_id": "MCw1MzNhN2EyMjEwOWVjM2I0OWFhNmEzZDBmZjgyY2M0NjcxMWViMTI5",
   "tracks": [
     {
       "added_at": "2023-06-05 11:41:50",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-06-05 11:41:50",
       "album": {
+        "name": "nwayi",
+        "url": "https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 184942,
+      "name": "nwayi",
+      "url": "https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL"
+    },
+    {
+      "added_at": "2023-06-05 11:41:50",
+      "album": {
         "name": "Waiting In Vain (Feat. Tiwa Savage)",
         "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2023-06-05 11:41:50",
       "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
-    },
-    {
-      "added_at": "2023-06-05 11:41:50",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/4G6vqNIAXxDABfUqwHkOu6"
       },
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-06-05 11:41:50",
       "album": {
-        "name": "nwayi",
-        "url": "https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ"
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 184942,
-      "name": "nwayi",
-      "url": "https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL"
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2023-06-05 11:41:50",
@@ -435,90 +435,6 @@
     {
       "added_at": "2023-06-05 11:41:50",
       "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
-    },
-    {
-      "added_at": "2023-06-05 11:41:50",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
-    },
-    {
-      "added_at": "2023-06-05 11:41:50",
-      "album": {
-        "name": "Pheelz Good EP",
-        "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 170097,
-      "name": "Pheelz Like Summer",
-      "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
-    },
-    {
-      "added_at": "2023-06-05 11:41:50",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
-    },
-    {
-      "added_at": "2023-06-05 11:41:50",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/6ApVH27GE5u86dQs11WiuB"
-      },
-      "artists": [
-        {
-          "name": "UAX",
-          "url": "https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT"
-        }
-      ],
-      "duration_ms": 164075,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/5h9qLZBQSuSrpNlOQldU86"
-    },
-    {
-      "added_at": "2023-06-05 11:41:50",
-      "album": {
         "name": "Peace of Mind (Remix)",
         "url": "https://open.spotify.com/album/2ubg4txvVWg2ExroKariVk"
       },
@@ -543,22 +459,86 @@
     {
       "added_at": "2023-06-05 11:41:50",
       "album": {
-        "name": "Line Of Fire",
-        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+      "duration_ms": 186382,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+    },
+    {
+      "added_at": "2023-06-05 11:41:50",
+      "album": {
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "added_at": "2023-06-05 11:41:50",
+      "album": {
+        "name": "Pheelz Good EP",
+        "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 170097,
+      "name": "Pheelz Like Summer",
+      "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
+    },
+    {
+      "added_at": "2023-06-05 11:41:50",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/6ApVH27GE5u86dQs11WiuB"
+      },
+      "artists": [
+        {
+          "name": "UAX",
+          "url": "https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT"
+        }
+      ],
+      "duration_ms": 164075,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5h9qLZBQSuSrpNlOQldU86"
+    },
+    {
+      "added_at": "2023-06-05 11:41:50",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
     },
     {
       "added_at": "2023-06-05 11:41:50",
@@ -579,6 +559,26 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
+    },
+    {
+      "added_at": "2023-06-05 11:41:50",
+      "album": {
+        "name": "Line Of Fire",
+        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
     },
     {
       "added_at": "2023-06-05 11:41:50",
@@ -871,30 +871,26 @@
     {
       "added_at": "2023-06-05 11:41:50",
       "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
+        "name": "Soak Garri",
+        "url": "https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 305941,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+      "duration_ms": 211807,
+      "name": "Soak Garri",
+      "url": "https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ"
     }
   ],
   "unique_name": "Sound Semester ",

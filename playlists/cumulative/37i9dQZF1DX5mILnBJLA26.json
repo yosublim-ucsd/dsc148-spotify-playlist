@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66?si=TgXhOz4JQsSkJKckxtJQ3Q\">Nkosazana Daughter</a>.",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc?si=5rnfu-y5T56pdvnbhmVpDA\">Khanyisa</a>.",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -1145,6 +1145,36 @@
     },
     {
       "album": {
+        "name": "Amachukuku (feat. TXPMD, Tweestgottahalla & Wonder Flawz)",
+        "url": "https://open.spotify.com/album/6q9sARc8Lpukm5lcbg97Yk"
+      },
+      "artists": [
+        {
+          "name": "Mbali The Real",
+          "url": "https://open.spotify.com/artist/040t3dBfLI6NdVLMILt3PX"
+        },
+        {
+          "name": "TxPMD",
+          "url": "https://open.spotify.com/artist/7iGq0d5jwi8g95wjIEaF0V"
+        },
+        {
+          "name": "Tweestgottahalla",
+          "url": "https://open.spotify.com/artist/1izvDG3QsPtUD33fS7XzZ0"
+        },
+        {
+          "name": "Wonder Flawz",
+          "url": "https://open.spotify.com/artist/4MD1QDssyQYOuz7oGuQ702"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402857,
+      "name": "Amachukuku (feat. TXPMD, Tweestgottahalla & Wonder Flawz)",
+      "url": "https://open.spotify.com/track/4MqkT3t0tmSHXdsRCBNPuS"
+    },
+    {
+      "album": {
         "name": "AmaGupta",
         "url": "https://open.spotify.com/album/1jtVN6DpDiGov9lR5ibBZT"
       },
@@ -1204,6 +1234,28 @@
       "duration_ms": 270194,
       "name": "Amakhamandela - Radio-Edit",
       "url": "https://open.spotify.com/track/6HnjB2NnimZnQRumWzLd2Y"
+    },
+    {
+      "album": {
+        "name": "Amandla",
+        "url": "https://open.spotify.com/album/3fh7tkzhRqBPn2i27WpEJ0"
+      },
+      "artists": [
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "Jessica LM",
+          "url": "https://open.spotify.com/artist/5WZdBHpyO28vPlpOV1izX0"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271875,
+      "name": "Amandla",
+      "url": "https://open.spotify.com/track/4SHBNhM1S8QZgsx8pCdthw"
     },
     {
       "album": {
@@ -10061,6 +10113,40 @@
     },
     {
       "album": {
+        "name": "IspharaPhara (feat. Sizwe Alakine, Kid X & M.J)",
+        "url": "https://open.spotify.com/album/5AefATHwcpTp2e2qw6iQ2i"
+      },
+      "artists": [
+        {
+          "name": "S'tukzin Da Djay",
+          "url": "https://open.spotify.com/artist/54idyljO7YbKjUSr2kosRf"
+        },
+        {
+          "name": "Dj 787",
+          "url": "https://open.spotify.com/artist/15IwCeZrdNxjSlaGHkyVwz"
+        },
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        },
+        {
+          "name": "Kid X",
+          "url": "https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369503,
+      "name": "IspharaPhara (feat. Sizwe Alakine, Kid X & M.J)",
+      "url": "https://open.spotify.com/track/0qByvsfeboLgIZFuwfjf8A"
+    },
+    {
+      "album": {
         "name": "Isphithiphithi",
         "url": "https://open.spotify.com/album/0ZTUOYTfG0BFiDH85T3vKD"
       },
@@ -10224,7 +10310,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 274308,
       "name": "iThuba (feat. Zee_Nhle)",
       "url": "https://open.spotify.com/track/1mnjcl2dY0jaDJmmc6KCa0"
@@ -10512,7 +10598,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 348351,
       "name": "Izinto Zimane Zijike",
       "url": "https://open.spotify.com/track/6xdadJ5JXky9q5bsBGqT1V"
@@ -10580,7 +10666,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 560784,
       "name": "Izono",
       "url": "https://open.spotify.com/track/4BIGl9cDzyw1znsjRytGLd"
@@ -10793,6 +10879,24 @@
     },
     {
       "album": {
+        "name": "Jig Saw",
+        "url": "https://open.spotify.com/album/2wnPj5uF9EqngzDnQfghD4"
+      },
+      "artists": [
+        {
+          "name": "MDU aka TRP",
+          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397223,
+      "name": "Jig Saw",
+      "url": "https://open.spotify.com/track/4kBwDtpW533iBUlhZxd0Jn"
+    },
+    {
+      "album": {
         "name": "Jikelele",
         "url": "https://open.spotify.com/album/3ofioz8MXtxJ9B0K5SmWCV"
       },
@@ -10950,6 +11054,28 @@
       "duration_ms": 186428,
       "name": "Julio Cesar - Amapiano",
       "url": "https://open.spotify.com/track/3RDFbEo7EZado9KJVtLFc5"
+    },
+    {
+      "album": {
+        "name": "Juluke",
+        "url": "https://open.spotify.com/album/2iiqobamcMVPEkfCOnxnss"
+      },
+      "artists": [
+        {
+          "name": "DJ THE MXO",
+          "url": "https://open.spotify.com/artist/3PE9L43fjymtOSiKNe7zJw"
+        },
+        {
+          "name": "Tj Mengus",
+          "url": "https://open.spotify.com/artist/3H9bXuntn41sNyZkXaot4N"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317159,
+      "name": "Juluke",
+      "url": "https://open.spotify.com/track/1UKfMxbMRW7d71eoJqYLyT"
     },
     {
       "album": {
@@ -13389,6 +13515,36 @@
     },
     {
       "album": {
+        "name": "Mamazala",
+        "url": "https://open.spotify.com/album/3PVf7zPLrHsJmTkr7I1LCI"
+      },
+      "artists": [
+        {
+          "name": "Baby S.O.N",
+          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
+        },
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3bKZO7O4T6fTjz4UCwrXEt"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285546,
+      "name": "Mamazala",
+      "url": "https://open.spotify.com/track/25X6CfWnRVGNsrWPm4FbB0"
+    },
+    {
+      "album": {
         "name": "Mamgobhozi",
         "url": "https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598"
       },
@@ -15390,7 +15546,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 416327,
       "name": "Nduma Ndumane",
       "url": "https://open.spotify.com/track/4QgyThcnKndiqqB5n6zx9d"
@@ -15564,7 +15720,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 367567,
       "name": "Ngenza ngama bomu (feat. Mr JazziQ, Umthakathi Kush & Sizwe Alakine)",
       "url": "https://open.spotify.com/track/3RKYDNNXnrgW73Ivu0cJdB"
@@ -20711,6 +20867,36 @@
     },
     {
       "album": {
+        "name": "SUKA",
+        "url": "https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp"
+      },
+      "artists": [
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390033,
+      "name": "SUKA",
+      "url": "https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD"
+    },
+    {
+      "album": {
         "name": "Suka Wena",
         "url": "https://open.spotify.com/album/4CqT5PMeGs4pw4nGuRUSLv"
       },
@@ -20910,6 +21096,28 @@
       "duration_ms": 450063,
       "name": "Switch",
       "url": "https://open.spotify.com/track/5c4OXG8iQiRMfHaWzhGPCt"
+    },
+    {
+      "album": {
+        "name": "Ta'Biza (feat. Welz)",
+        "url": "https://open.spotify.com/album/7gPoE8r8vxtoNbUYFlQhYE"
+      },
+      "artists": [
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        },
+        {
+          "name": "Welz",
+          "url": "https://open.spotify.com/artist/3AZ8JGvK7Ir43Sm83trGTo"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "Ta'Biza (feat. Welz)",
+      "url": "https://open.spotify.com/track/16pHBPmQBlidC3SRpprwS9"
     },
     {
       "album": {
@@ -21352,7 +21560,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 397897,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/19r84EGcFUyTmw7ghVapGT"
@@ -21956,7 +22164,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 480351,
       "name": "Thesha (feat. LeeMckrazy, TyroneDee & TitoM)",
       "url": "https://open.spotify.com/track/2iVtgTMwkEGe4kBP39F9Tu"
@@ -25608,7 +25816,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 429871,
       "name": "Yah Yah Yah",
       "url": "https://open.spotify.com/track/3urA5lEgMH3LjMp6L9recf"

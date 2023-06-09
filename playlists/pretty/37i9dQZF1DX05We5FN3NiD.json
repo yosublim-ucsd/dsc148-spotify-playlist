@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 38504,
+  "num_followers": 38544,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjZhZTg0MzY1NmMwYzJkNzFmODdkZWE2NmE0ZmY2OTkwYjgxNjYz",
+  "snapshot_id": "MCwxYWQ1OWYwOGM3Njg0YTIzNWI2NWI3MTgxOWQ1MGI0NTJmMzg0YzI4",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 216933,
       "name": "Hair Down (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4sFzG7iUlyPmuyASCkre9A"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "MAGDALENE",
-        "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
+        "name": "Violet Street",
+        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
         }
       ],
-      "duration_ms": 204066,
-      "name": "cellophane",
-      "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
+      "duration_ms": 264213,
+      "name": "When Am I Gonna Lose You",
+      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Violet Street",
-        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
+        "name": "MAGDALENE",
+        "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         }
       ],
-      "duration_ms": 264213,
-      "name": "When Am I Gonna Lose You",
-      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
+      "duration_ms": 204066,
+      "name": "cellophane",
+      "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
     },
     {
       "added_at": "2022-09-16 04:53:36",

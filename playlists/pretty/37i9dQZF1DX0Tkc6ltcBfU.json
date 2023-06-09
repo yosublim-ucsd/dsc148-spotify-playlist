@@ -1,12 +1,12 @@
 {
   "description": "The hottest out the south. Cover: Moneybagg Yo",
-  "num_followers": 1164615,
+  "num_followers": 1164866,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWUwMDlmYzJiNTAxNjFkYTJmNmZkZDRkYzE0ZjAxZjA4MmM3YWJm",
+  "snapshot_id": "MCxhZmVlMzc1M2YwNWUwNTBjYTkwMjY2NzUyNTExMjY5NGIwNzg1MmJk",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -686,6 +686,10 @@
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
       "duration_ms": 178189,

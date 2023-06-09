@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-95 songs - 6 hr 0 min
+96 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Benderang!](https://open.spotify.com/track/7MMFSId5CetQIUqgdPXL6u) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [Benderang!](https://open.spotify.com/album/6wbdYt8vMTWRpa5VVWevGM) | 4:48 | 2022-12-13 |  |
 | [Berdua Bersama](https://open.spotify.com/track/37uQDKOul7QOmRFB6kiYyO) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Berdua Bersama](https://open.spotify.com/album/4WQIR3oZmS5ubTvFAqZiiV) | 3:38 | 2022-12-13 |  |
 | [Bersamamu](https://open.spotify.com/track/1FVZrAZ6kLrgnaRB9pzYMD) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [Vorfreude](https://open.spotify.com/album/754tHb1pF9v02tc8MQZRzU) | 4:05 | 2022-12-13 | 2023-03-31 |
+| [best](https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [best](https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9) | 3:35 | 2023-06-08 |  |
 | [Better On My Own](https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 2:59 | 2023-05-18 |  |
 | [Breakfast in Bed](https://open.spotify.com/track/3c5sWNPKG69X0JcGUgbBOj) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Breakfast in Bed](https://open.spotify.com/album/24aSDb1blluKkN02Wy4Tl4) | 2:43 | 2022-12-13 |  |
 | [Buktikan](https://open.spotify.com/track/7JZof89ypHY0VybfJHAzOY) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Vidi Aldiano](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Buktikan](https://open.spotify.com/album/0yPE4iWQMwcE9RvY3umkLM) | 3:59 | 2023-03-30 |  |

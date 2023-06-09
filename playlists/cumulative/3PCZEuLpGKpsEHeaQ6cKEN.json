@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: Nick Schilder",
+  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: Eelke Kleijn &amp; Lee Cabrera",
   "name": "Armada Today",
   "tracks": [
     {
@@ -690,6 +690,28 @@
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
+    },
+    {
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/5bluYOQ6ASt8vaB1LSA1TI"
+      },
+      "artists": [
+        {
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
+        },
+        {
+          "name": "Navvy",
+          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153790,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/0TLHzVO3fyM2pTg9XQWutm"
     },
     {
       "album": {
@@ -1862,7 +1884,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 271475,
       "name": "Dancing Alone",
       "url": "https://open.spotify.com/track/4RsXxQpRzQbipfx4d4bjKd"
@@ -2046,7 +2068,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 238095,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/2szyuDcMf7zyNIeu6M5alL"
@@ -2726,6 +2748,24 @@
       "duration_ms": 159857,
       "name": "Every Step",
       "url": "https://open.spotify.com/track/7me5d5XmtCCfbDk3SsyXqM"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/5on1sPRggVbWYuJfB8lqxV"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0jmTMsQ3sA2VI2uRQ6ELt4"
     },
     {
       "album": {
@@ -4858,7 +4898,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 163333,
       "name": "I Need This Love",
       "url": "https://open.spotify.com/track/2YTgSgub84UqcGbOxYBkfp"
@@ -6265,6 +6305,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Music",
+        "url": "https://open.spotify.com/album/3hrvh0yxmskCOvAnYATz1H"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214078,
+      "name": "Lost In The Music",
+      "url": "https://open.spotify.com/track/0w9cuzYWnR5eSyCZPHTxkK"
+    },
+    {
+      "album": {
         "name": "Far From The Maddening Crowds (Evolution Mixes)",
         "url": "https://open.spotify.com/album/5CR6luLHeshWtx2pgH7tAn"
       },
@@ -7124,6 +7182,32 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+    },
+    {
+      "album": {
+        "name": "No Fun (Remixes)",
+        "url": "https://open.spotify.com/album/0NSjpR0YWtDeV15yXxMWEw"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147697,
+      "name": "No Fun - \u00d6wnboss Remix",
+      "url": "https://open.spotify.com/track/29TTa7UtQrdHI25hXkIC00"
     },
     {
       "album": {
@@ -8463,6 +8547,28 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/1iZUbdfSbIgfTXamBgZ8Q8"
+      },
+      "artists": [
+        {
+          "name": "Supermassive",
+          "url": "https://open.spotify.com/artist/7FDiLldYsjt7Y3rwNQkIIQ"
+        },
+        {
+          "name": "Ben Boas",
+          "url": "https://open.spotify.com/artist/7BtYYvgHW1nRpoohmxKp3N"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159024,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3c4Z9DLI0lOpoUuUJI6Nx4"
+    },
+    {
+      "album": {
         "name": "Feel Again, Pt. 2",
         "url": "https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q"
       },
@@ -8522,7 +8628,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/3RyqsBL06WNHlYqcscwaC9"
@@ -8548,6 +8654,28 @@
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/6BYR6xAb0QtPEexBJkNKsx"
+    },
+    {
+      "album": {
+        "name": "Rule The World",
+        "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
+      },
+      "artists": [
+        {
+          "name": "ricky retro",
+          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
+        },
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176341,
+      "name": "Rule The World",
+      "url": "https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t"
     },
     {
       "album": {
@@ -9270,7 +9398,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 173527,
       "name": "Silence - Andrew Rayel & Achilles Remix",
       "url": "https://open.spotify.com/track/4d5tAMeWSY0kHNREsP1LiF"
@@ -9596,7 +9724,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 185125,
       "name": "Some Chants",
       "url": "https://open.spotify.com/track/1RHX7Wh9E1u0AzPRorMWoP"
@@ -9672,7 +9800,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 221703,
       "name": "Soul Seekers",
       "url": "https://open.spotify.com/track/0kZ1G32XbJQy5TU6Oh38M1"
@@ -9936,6 +10064,24 @@
       "duration_ms": 231638,
       "name": "Stronger Together",
       "url": "https://open.spotify.com/track/0AhdUagK3BNSGq6szAiOtD"
+    },
+    {
+      "album": {
+        "name": "Stuck In Melodies",
+        "url": "https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D"
+      },
+      "artists": [
+        {
+          "name": "Joris Delacroix",
+          "url": "https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211904,
+      "name": "Stuck In Melodies",
+      "url": "https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37"
     },
     {
       "album": {

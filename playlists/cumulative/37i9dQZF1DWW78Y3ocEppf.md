@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Fridayy
 
-500 songs - 1 day 2 hr 28 min
+501 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Dirty Nikes](https://open.spotify.com/track/5CmCpfXJW8JS8erTQu50nk) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Dirty Nikes](https://open.spotify.com/album/5YdFoNEcjwj1srs1l6nlmh) | 3:18 | 2021-12-15 | 2022-04-14 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-12-15 | 2023-02-18 |
 | [Distant Lover](https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:56 | 2023-04-14 |  |
-| [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 | 2022-10-28 |  |
+| [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 | 2022-10-28 | 2023-06-09 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-09-09 | 2023-05-13 |
 | [Do No More](https://open.spotify.com/track/1lm4Rt80cpRYDICBHAQSgi) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Do No More](https://open.spotify.com/album/4sKW3qIsWqvCiL8KKApLph) | 2:24 | 2021-12-15 | 2022-02-02 |
 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 | 2023-01-06 |  |
@@ -372,6 +372,7 @@
 | [ROLE MODEL](https://open.spotify.com/track/1wGpEisE7VmhhSazD8hZ5l) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:14 | 2022-07-08 | 2022-08-06 |
 | [ROLLING STONE](https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:42 | 2022-08-05 |  |
 | [Runaway](https://open.spotify.com/track/4IQqF0UvqlzWaLcG22sOBG) | [Cheyenne Lavene](https://open.spotify.com/artist/6QTh5CJex4f7euCPUavWg0) | [Runaway](https://open.spotify.com/album/4kBzRDlKvKYD7zsWr9MVIR) | 2:25 | 2021-12-15 | 2022-07-20 |
+| [Runner Up](https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62) | [Tejy](https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk) | [Runner Up](https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg) | 2:52 | 2023-06-02 |  |
 | [Résumé](https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Résumé](https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n) | 3:00 | 2021-12-15 | 2022-07-29 |
 | [Résumé](https://open.spotify.com/track/2K2kujL7erU8ItCd2Tv5lh) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 3:00 | 2022-07-15 | 2022-09-24 |
 | [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 | 2023-02-10 |  |

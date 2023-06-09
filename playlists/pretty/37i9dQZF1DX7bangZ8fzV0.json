@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=rM4aHZlVSCqvSG7VVjWJbg\">Appel</a> ",
-  "num_followers": 72080,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=cxy2BT0aTNKiKZHRPtNMLw\">Barto</a> ",
+  "num_followers": 72152,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDdmYjQyNGM0MDEyODA2YTE1OGRlMmE2NjM5NzI3MzJkM2EzMjQ2",
+  "snapshot_id": "MCxmZDMxZjY3YzEzMDhmODI4YmE4MWQ5YjFlZjAyMmE1NjU4NzM4MGQ0",
   "tracks": [
+    {
+      "added_at": "2023-06-08 21:59:00",
+      "album": {
+        "name": "Vlam In Die Wind",
+        "url": "https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 205237,
+      "name": "Vlam In Die Wind",
+      "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
+    },
     {
       "added_at": "2023-06-03 08:30:14",
       "album": {
@@ -297,6 +313,22 @@
       "url": "https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD"
     },
     {
+      "added_at": "2023-06-08 21:59:00",
+      "album": {
+        "name": "John Deere Hoed",
+        "url": "https://open.spotify.com/album/6ClZGnn2DfZ4clTakd59Bl"
+      },
+      "artists": [
+        {
+          "name": "Fanus Pienaar",
+          "url": "https://open.spotify.com/artist/3L3YdChQhiqC36EgmDuUge"
+        }
+      ],
+      "duration_ms": 212909,
+      "name": "John Deere Hoed",
+      "url": "https://open.spotify.com/track/0Dt6zGwAJJLnAgRkVmvSiu"
+    },
+    {
       "added_at": "2022-07-21 21:59:00",
       "album": {
         "name": "Insomnia",
@@ -347,22 +379,6 @@
       "duration_ms": 187894,
       "name": "Nora Vlok",
       "url": "https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "Mal Maandagaande",
-        "url": "https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 133246,
-      "name": "Mal Maandagaande",
-      "url": "https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA"
     },
     {
       "added_at": "2022-06-30 22:21:09",
@@ -465,6 +481,22 @@
       "url": "https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq"
     },
     {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Mal Maandagaande",
+        "url": "https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 133246,
+      "name": "Mal Maandagaande",
+      "url": "https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA"
+    },
+    {
       "added_at": "2023-04-20 21:59:00",
       "album": {
         "name": "Brand Die Skepe",
@@ -495,22 +527,6 @@
       "duration_ms": 243541,
       "name": "Ontlaai",
       "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
-    },
-    {
-      "added_at": "2023-04-20 21:59:00",
-      "album": {
-        "name": "Fairway Lyf",
-        "url": "https://open.spotify.com/album/4gIcGlEcuNiBtT7IcB56DV"
-      },
-      "artists": [
-        {
-          "name": "Arno Jordaan",
-          "url": "https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE"
-        }
-      ],
-      "duration_ms": 189803,
-      "name": "Fairway Lyf",
-      "url": "https://open.spotify.com/track/3DLeotilho45LEdwKPYb49"
     },
     {
       "added_at": "2022-10-13 21:59:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 196223,
       "name": "Dina",
       "url": "https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV"
-    },
-    {
-      "added_at": "2023-03-09 21:59:00",
-      "album": {
-        "name": "Swaartekrag",
-        "url": "https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 178021,
-      "name": "Lenie Blou",
-      "url": "https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV"
     },
     {
       "added_at": "2023-03-14 11:53:33",

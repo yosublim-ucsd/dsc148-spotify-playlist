@@ -4,7 +4,7 @@
 
 > Al cien en la mamalona!
 
-224 songs - 11 hr 26 min
+225 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2022-08-26 |  |
 | [Buena Vibra](https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy) | [Jose Villarreal](https://open.spotify.com/artist/02qtde8veYObRnk68N35sP) | [Buena Vibra](https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1) | 3:13 | 2022-05-13 |  |
 | [Buenas Vibras](https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:03 | 2022-05-13 |  |
-| [Bélico Fue Desde Que Nació \(El Nini\)](https://open.spotify.com/track/3VPAD6zV19DMpdlTjDux7U) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Bélico Fue Desde Que Nació \(El Nini\)](https://open.spotify.com/album/5wlxFipCuwsdvnppmRMm5d) | 2:35 | 2022-05-13 |  |
+| [Bélico Fue Desde Que Nació \(El Nini\)](https://open.spotify.com/track/3VPAD6zV19DMpdlTjDux7U) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Bélico Fue Desde Que Nació \(El Nini\)](https://open.spotify.com/album/5wlxFipCuwsdvnppmRMm5d) | 2:35 | 2022-05-13 | 2023-06-09 |
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 | 2022-05-13 |  |
 | [Calles de Houston](https://open.spotify.com/track/5IF4qgcAd8WeL9YWxP89jY) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Otro Pedo, Otro Mundo](https://open.spotify.com/album/5qRP84o6qlXu1M4K6zSWib) | 2:34 | 2022-05-13 | 2022-07-29 |
 | [Cargando Piedras](https://open.spotify.com/track/2UjPnCrGVhtnLGVfZ27jgc) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Cargando Piedras](https://open.spotify.com/album/2Z7e1CJ88hnq2tu47vK207) | 2:55 | 2022-12-08 | 2023-05-24 |
@@ -120,6 +120,7 @@
 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 | 2022-05-13 |  |
 | [Hay Les Encargo](https://open.spotify.com/track/7c5TvrRGKpFlXCyDAiy2WV) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Hay Les Encargo](https://open.spotify.com/album/2pth52UsiIBDwqhuP9UHNS) | 2:42 | 2022-12-22 | 2023-01-23 |
 | [Hay Les Encargo](https://open.spotify.com/track/2oU624ui3RVaSNpMqA4Gd3) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Hay Les Encargo](https://open.spotify.com/album/6rAmk14u7dDPQ0W10ogTwa) | 2:42 | 2023-01-26 | 2023-05-23 |
+| [Hay Les Encargo](https://open.spotify.com/track/1gzdMA1R9iyYCHnv3Leo8E) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Me Aventé Con Ganas](https://open.spotify.com/album/0OO2WTaZIB8T2BhS0lZXqK) | 2:44 | 2023-05-24 |  |
 | [Hay Niveles](https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Hay Niveles](https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL) | 2:02 | 2022-05-13 |  |
 | [Hierba de Receta](https://open.spotify.com/track/3ohXKHyHxxuXo8UsRL3h17) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp) | [Hierba de Receta](https://open.spotify.com/album/7glBSqst3BW6aFpUgwlr9g) | 3:13 | 2022-05-13 |  |
 | [Hoy Brilla el Sol](https://open.spotify.com/track/4Q3oAoP1TFJ8hncwGTePRQ) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Hoy Brilla el Sol](https://open.spotify.com/album/29KLxUVAAot5lQTEzaGtLI) | 3:53 | 2022-07-01 | 2022-12-08 |

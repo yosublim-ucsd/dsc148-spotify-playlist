@@ -2,9 +2,9 @@
 
 ### [Naya Indiestan](https://open.spotify.com/playlist/37i9dQZF1DX8j8N3CkBtqv)
 
-> Naye Indie gaano ka khazana! Cover\- Himonshu Parikh
+> Naye Indie gaano ka khazana! Cover\- Anumita Nadesan
 
-68 songs - 3 hr 46 min
+69 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Khamakha](https://open.spotify.com/track/26DJYPe9JOHmRMBFtmTTxH) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Akshayraje Shinde](https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc) | [Khamakha](https://open.spotify.com/album/0QTTNX9Ltv63Sm7uf5UGJa) | 2:49 | 2023-04-14 |  |
 | [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-04-14 | 2023-05-20 |
 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 | 2023-05-19 |  |
+| [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 | 2023-06-09 |  |
 | [Khud Se Mohabbat](https://open.spotify.com/track/30dqoVyhA6BMfIkq8LM7Ig) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khud Se Mohabbat](https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O) | 3:23 | 2023-04-14 |  |
 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 | 2023-04-14 | 2023-05-20 |
 | [Khwabon Ke Rang](https://open.spotify.com/track/56QZnxULNrDzV7ueQLqlXo) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Prim4l](https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Khwabon Ke Rang](https://open.spotify.com/album/2Cx031mb2M1RtJ2QPm19Qi) | 3:36 | 2023-04-14 | 2023-05-20 |
@@ -72,7 +73,7 @@
 | [Tu Jo Nahi Hai Yaha](https://open.spotify.com/track/79ImlhdjzPSbXdESIw138Z) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tu Jo Nahi Hai Yaha](https://open.spotify.com/album/7pH6621CQVeD3vEpgtSF98) | 4:55 | 2023-04-14 | 2023-05-27 |
 | [Tuta Ghar](https://open.spotify.com/track/18PhievyCcXWhRpSBIZEpc) | [Kumar Aryan](https://open.spotify.com/artist/5UyrJLIDHKLNu4mQdU5sgR) | [Tuta Ghar](https://open.spotify.com/album/4EjAqyJjOg6C0eH4GAXuUT) | 2:42 | 2023-05-05 |  |
 | [Ud Chala](https://open.spotify.com/track/73jcoLvB2tUA8R2fOB8skM) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Ud Chala](https://open.spotify.com/album/01cnDRpYwguQFYD17oM37A) | 4:27 | 2023-04-14 | 2023-05-20 |
-| [Umeed](https://open.spotify.com/track/7bB5bp6jqWUNgaOEMCvIMa) | [Chapati](https://open.spotify.com/artist/1RaIosj4dit2OLWs19hTVW), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Umeed](https://open.spotify.com/album/21OQ7LcUgwPWGOjGUmlpwJ) | 3:54 | 2023-04-14 |  |
+| [Umeed](https://open.spotify.com/track/7bB5bp6jqWUNgaOEMCvIMa) | [Chapati](https://open.spotify.com/artist/1RaIosj4dit2OLWs19hTVW), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Umeed](https://open.spotify.com/album/21OQ7LcUgwPWGOjGUmlpwJ) | 3:54 | 2023-04-14 | 2023-06-09 |
 | [We Made Us](https://open.spotify.com/track/7v8E0RGHpZlhgDQuQEyKe2) | [Vaani Bhasin](https://open.spotify.com/artist/7cyFNq6i4cJ66n45MMI0WS) | [We Made Us](https://open.spotify.com/album/5xc7upsqYIw2yjyJ03h1ka) | 3:36 | 2023-04-14 | 2023-05-20 |
 | [wine & chill](https://open.spotify.com/track/7s3XwJTLkIdX7XsLjbttzq) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [wine & chill](https://open.spotify.com/album/1zefQRMCMUfhzc1amKryYw) | 3:59 | 2023-05-26 |  |
 | [Yaad](https://open.spotify.com/track/4P0LkIqpdn3v9udP5yWRl9) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Rajat Arora](https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7) | [Yaad](https://open.spotify.com/album/0AvvCzztJAisAUEbkHz6Cx) | 2:36 | 2023-05-26 |  |

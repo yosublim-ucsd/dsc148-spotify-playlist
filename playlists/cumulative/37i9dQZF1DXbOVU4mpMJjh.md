@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-715 songs - 2 day 3 hr 41 min
+716 songs - 2 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [New Orleans](https://open.spotify.com/track/2z6D5bIA9Wprdqi1B8nnVh) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Marsalis Standard Time \- Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) | 5:40 | 2022-04-14 | 2022-10-03 |
 | [New Shoes](https://open.spotify.com/track/1CsB9h88MSlYaQGzDTX9Al) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 3:56 | 2022-09-29 | 2023-04-25 |
 | [New York, New York](https://open.spotify.com/track/5sn5E8HsUitOsC70O26l4i) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [New York New York 1970\-72](https://open.spotify.com/album/6MxJ8JBBE3cf8W3IVoP6mq) | 2:48 | 2022-04-14 | 2022-05-03 |
+| [Newspapers Heads](https://open.spotify.com/track/5Zthx9hZRFSJRhO0UEi8Ox) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Newspapers Heads](https://open.spotify.com/album/7tuJ3IScGPnWvBio5JV98x) | 4:02 | 2023-06-08 |  |
 | [Nico's Dream](https://open.spotify.com/track/3WpC7BGVmokob8XLVLudsb) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Sophia Tomelleri](https://open.spotify.com/artist/0t6QqAU5H72iR1XyOEAPbM), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [On the Trail](https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8) | 4:21 | 2022-06-23 | 2023-03-25 |
 | [Night And Day](https://open.spotify.com/track/7elvLJgwfx0XhmPv1A6VX6) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Night And Day](https://open.spotify.com/album/5yglxByn88hqATkjlMeAUL) | 4:38 | 2022-04-14 | 2022-05-25 |
 | [Nightfall](https://open.spotify.com/track/0pUJIrhpnvI1wneFmal7oG) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Nightfall](https://open.spotify.com/album/1NKqdrY5COQ2fE54U1Mxbh) | 3:12 | 2023-04-14 |  |
@@ -636,7 +637,7 @@
 | [Then you appeared](https://open.spotify.com/track/33bQpN9jengdybIZ0ecfON) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Then you appeared](https://open.spotify.com/album/2LmLv8j1qX07BGUgSDsFdy) | 3:27 | 2023-03-09 | 2023-05-30 |
 | [There Will Never Be Another You](https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:25 | 2022-06-30 | 2023-03-03 |
 | [There Will Never Be Another You](https://open.spotify.com/track/38III1nu5BFSJsffk7bcWm) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Young With The Oscar Peterson Trio](https://open.spotify.com/album/5srtpTZOrLpGJ0QDRhnl0x) | 3:28 | 2022-04-14 | 2022-07-29 |
-| [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2022-04-14 |  |
+| [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2022-04-14 | 2023-06-09 |
 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 4:41 | 2022-06-30 |  |
 | [These Foolish Things Remind Me Of You \- Instrumental](https://open.spotify.com/track/40JmQVnCA43uV4htsa4G4t) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris Vol 2](https://open.spotify.com/album/4u8oRupYDjQ8kCMaWiYa11) | 4:41 | 2022-04-14 | 2022-07-29 |
 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-02-16 |  |

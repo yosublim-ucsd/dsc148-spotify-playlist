@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,012 likes - 51 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,020 likes - 51 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 19 | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ) | [Rich Mullins](https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ) | 2:37 |
 | 20 | [Leaning \- Live](https://open.spotify.com/track/3ftY8vtaNvwIDBwbFDDFVH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Leaning \(Live\)](https://open.spotify.com/album/6UGWowK96hTdQJyZadFfyJ) | 7:56 |
 | 21 | [Inheritance](https://open.spotify.com/track/6MyskHQ8Aa8W62Cmi3y9oz) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Grace Upon Grace](https://open.spotify.com/album/6gFtUZRZF30vtAMKk4f0Mc) | 8:01 |
-| 22 | [How Great \(Single Mix\)](https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Worship EP](https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ) | 3:41 |
-| 23 | [Alive Again](https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:59 |
+| 22 | [Alive Again](https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:59 |
+| 23 | [How Great \(Single Mix\)](https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Worship EP](https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ) | 3:41 |
 | 24 | [Unconditional \- Live](https://open.spotify.com/track/2oj68EY5FBOuXHjvauvKik) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Lamb of God \(Live\)](https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1) | 6:15 |
 | 25 | [Just as I Am](https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 4:11 |
 | 26 | [Baptized](https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [New Creation](https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX) | 3:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 50 | [Adoration \(Live\)](https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 5:59 |
 | 51 | [Remembrance \(Communion Song\)](https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:18 |
 
-Snapshot ID: `MjgxMDIzMzUsMDAwMDAwMDA1ZDk4YjA2NjMzZWU0Njc0ODkyOWQ5YjZhM2RhZjVkMA==`
+Snapshot ID: `MjgxMDM3NzksMDAwMDAwMDBhNjk0OTQ2N2EzZWRkOTk5MDg3MTRmNjlkMjkyZjBjYw==`

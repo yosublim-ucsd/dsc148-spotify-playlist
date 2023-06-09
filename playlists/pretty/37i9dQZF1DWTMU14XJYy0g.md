@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Fito Paez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,787 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,901 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Inventario](https://open.spotify.com/track/5b4nQSv5xOqdkpt1e3N0sq) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Inventario](https://open.spotify.com/album/5V8oEK9q3A3xVVy2zZS2QU) | 2:42 |
 | 100 | [Otra Ruta Desierta](https://open.spotify.com/track/5KNp5cdwR9buN93aPQMjcD) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Otra Ruta Desierta](https://open.spotify.com/album/3Hf6g8dV0gq91YHfYaly9G) | 3:15 |
 
-Snapshot ID: `MCw3YTJmOTBhNjY5NzY5YjU0OTJlZGM3ZTdiMTJiZmVhYmE4NzI5ZjQ3`
+Snapshot ID: `MCxhNWMyMjZlYzMxNzczY2M2YWM0NDAwN2VkNDA4ZTIzZDdkNDdmODUx`

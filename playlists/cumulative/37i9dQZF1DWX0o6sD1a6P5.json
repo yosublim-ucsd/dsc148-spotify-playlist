@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Asake",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: DYSTINCT x Naza",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -104,6 +104,24 @@
       "duration_ms": 180485,
       "name": "A.T.B #Oshey2",
       "url": "https://open.spotify.com/track/3PipixuHQ5zVlgmHC4pURa"
+    },
+    {
+      "album": {
+        "name": "A1 (Feeling Disorder)",
+        "url": "https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125137,
+      "name": "A1 (Feeling Disorder)",
+      "url": "https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu"
     },
     {
       "album": {
@@ -274,7 +292,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 157226,
       "name": "Ambianc\u00e9",
       "url": "https://open.spotify.com/track/38U5wAGxyiX1j0hxoRjd2n"
@@ -2542,7 +2560,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 200816,
       "name": "DIS-MOI OUI",
       "url": "https://open.spotify.com/track/7HS3aGgUkTzXRLBTt6aE5m"
@@ -2662,7 +2680,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 174968,
       "name": "Dolce & Gabbana",
       "url": "https://open.spotify.com/track/6qFbHaZFzOrX5wKSbu1vvx"
@@ -3766,7 +3784,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 157541,
       "name": "I Lied",
       "url": "https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo"
@@ -6137,6 +6155,24 @@
     },
     {
       "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156550,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
+    },
+    {
+      "album": {
         "name": "Hackc\u0153ur",
         "url": "https://open.spotify.com/album/31VIis4tdT8O44y88gN4H4"
       },
@@ -7725,6 +7761,24 @@
     },
     {
       "album": {
+        "name": "Trop intense",
+        "url": "https://open.spotify.com/album/5pK1UjbKezgFzawUAFACEI"
+      },
+      "artists": [
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130673,
+      "name": "Trop intense",
+      "url": "https://open.spotify.com/track/16AMJ7tU9TXfiSKepxpCJR"
+    },
+    {
+      "album": {
         "name": "F\u00e9eries",
         "url": "https://open.spotify.com/album/2W94yzXafkE28LcyiQD4YH"
       },
@@ -8025,6 +8079,24 @@
     },
     {
       "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148573,
+      "name": "Wasted Eyes",
+      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
+    },
+    {
+      "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza) [Edit]",
         "url": "https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg"
       },
@@ -8102,7 +8174,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 160407,
       "name": "Who Is Your Guy?",
       "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"

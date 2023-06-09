@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Kareen Guiock Thuram
 
-293 songs - 21 hr 24 min
+294 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/track/3cWCTxaFlebwEnQXibNwAu) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/album/7L63PL897aTm0Xu1pt8Fbo) | 5:19 | 2023-04-27 | 2023-06-02 |
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2022-04-14 | 2022-05-27 |
 | [Blossom's Blues](https://open.spotify.com/track/7mwxIlsW86NrePRjW19PZx) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Blossom's Blues](https://open.spotify.com/album/0G07A2zQJ41n8kRJdMw24w) | 3:27 | 2022-04-28 | 2022-09-23 |
+| [Bonaventura](https://open.spotify.com/track/6GMqhc3dcBUExHWViNubtM) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Bonaventura](https://open.spotify.com/album/15HRPbNuHuuTmMkWHM9nKD) | 2:25 | 2023-06-08 |  |
 | [Boomer Beach Club](https://open.spotify.com/track/7jODp4rN9m84yYx16dUcwm) | [Pierre de Frebourg](https://open.spotify.com/artist/6oGqggYYWcMdy5iq5coDiU) | [Boomer Beach Club](https://open.spotify.com/album/6V1YvUQGfSBi2FWzYxsGZL) | 5:27 | 2022-09-22 | 2022-10-05 |
 | [Brand New Life \(feat\. Mumu Fresh\)](https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB), [Mumu Fresh](https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD) | [Brand New Life](https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE) | 4:32 | 2023-03-23 | 2023-06-02 |
 | [But Not for Me](https://open.spotify.com/track/1RFcW32md4A4JxrSLzSBjK) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I), [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH) | [But Not for Me](https://open.spotify.com/album/2vkGc6locFx5ukMogc8u5r) | 2:57 | 2023-05-04 | 2023-06-02 |
@@ -288,7 +289,7 @@
 | [What Of Your Eyes](https://open.spotify.com/track/3hX0T0Z16mRfHAzd1sHluC) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux](https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7) | 4:30 | 2022-05-19 | 2022-10-14 |
 | [When I First Saw Your Face](https://open.spotify.com/track/78EF8TCHy2rDm19i7SXqhq) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [When I First Saw Your Face](https://open.spotify.com/album/5i418SDGYSxHe7EzabsK9F) | 4:01 | 2022-04-14 | 2022-05-06 |
 | [When You Wish Upon a Star](https://open.spotify.com/track/6EhFiHD4n3JIfrLzS11dn6) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Composure](https://open.spotify.com/album/5XuYdAL3b6oZIkDUiyciiu) | 4:45 | 2023-05-11 |  |
-| [Where Will I Be?](https://open.spotify.com/track/66xrFr0ap2a807yw6qqmAD) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Where Will I Be?](https://open.spotify.com/album/5UKySePl9G3Dq910vjPO3r) | 4:29 | 2023-03-16 |  |
+| [Where Will I Be?](https://open.spotify.com/track/66xrFr0ap2a807yw6qqmAD) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Where Will I Be?](https://open.spotify.com/album/5UKySePl9G3Dq910vjPO3r) | 4:29 | 2023-03-16 | 2023-06-09 |
 | [Why Don't You Do Right?](https://open.spotify.com/track/1MuNDJJgqWFAGBBdvsagWR) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Why Don't You Do Right?](https://open.spotify.com/album/6BR0ildLfAFBgM0Drasj12) | 3:28 | 2023-01-26 | 2023-04-07 |
 | [Why Not?](https://open.spotify.com/track/0mhDVzQgnwtrY1JnDqz7KQ) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Pera Krstajic](https://open.spotify.com/artist/3kNkllh7QAhy7282M8f1mW) | [Why Not? / Montara](https://open.spotify.com/album/7DKRJTdgGHoTedH7F9z50G) | 5:30 | 2022-06-02 | 2022-10-21 |
 | [Why Should We Care](https://open.spotify.com/track/1N5P9bFKXgUiwRzNrI7Enb) | [Gauthier Toux](https://open.spotify.com/artist/7IDfdcPGVTXSWIG5ZtQmVW), [Maxence Sibille](https://open.spotify.com/artist/2qniG8aGnYc6CQJ59CsKlP), [Simon Tailleu](https://open.spotify.com/artist/1NYeTK44a3YpVx5MGHv78d) | [Why Should We Care](https://open.spotify.com/album/4ofn3FiF0xyUOT96Kgrp8E) | 5:39 | 2023-01-19 | 2023-04-14 |

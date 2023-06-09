@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring emei
 
-621 songs - 1 day 11 hr 30 min
+623 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [notice](https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [notice](https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7) | 2:35 | 2023-06-02 |  |
 | [Notoriously Fast](https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Circulus Vitiosus](https://open.spotify.com/album/5xFPu0JBe4Wxh7gcu9Idmd) | 1:52 | 2022-09-16 | 2022-12-03 |
 | [ode to girlhood](https://open.spotify.com/track/1L5Za6GWzAqJTlTC2wYf9N) | [klurax](https://open.spotify.com/artist/74CONfALMyKd8tbE0yiMT8) | [ode to girlhood](https://open.spotify.com/album/1BY16stCGBI3NSVivqRiXX) | 3:18 | 2021-08-25 | 2022-02-24 |
+| [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-08 |  |
 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 | 2022-07-29 | 2023-05-26 |
 | [On Your Mind](https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6) | 4:06 | 2021-07-23 | 2022-02-19 |
 | [On Your Side \- Stud1nt Remix](https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [stud1nt](https://open.spotify.com/artist/2A9AahMwOwxbQSeKfyplrX) | [On Your Side \(Stud1nt Remix\)](https://open.spotify.com/album/6vFMDi2N6jrb0HzzgCEiky) | 3:24 | 2021-07-30 | 2022-02-26 |
@@ -629,5 +630,6 @@
 | [теряю](https://open.spotify.com/track/5QuD7ZrP38cZZwelNKYG4o) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [теряю](https://open.spotify.com/album/21lKKYs9spOzIFXYmKMuNb) | 4:15 | 2022-05-20 | 2022-09-03 |
 | [Через сотни лет](https://open.spotify.com/track/6s4ZXqeIieDmX5ZR46rzNE) | [Bmb Spacekid](https://open.spotify.com/artist/6ZlLGjV1Ml9JfAtesdWKxu) | [Через сотни лет](https://open.spotify.com/album/0U3fg06WJUr5P2TRn6KT7O) | 4:46 | 2021-12-17 | 2022-04-16 |
 | [☆ \(feat\. Oklou\)](https://open.spotify.com/track/2RKVFFH9h2vglxvqpN9Xre) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Unlimited Ammo](https://open.spotify.com/album/5itcmCB2iv31ZAlmxpv1Gj) | 3:07 | 2022-05-13 | 2022-08-27 |
+| [♥one love♥](https://open.spotify.com/track/2zFcvXGPhkbOiNYZekEoYK) | [dracodraco](https://open.spotify.com/artist/3GooQnFk2ozVG59lQXIdiH), [LYFE4M](https://open.spotify.com/artist/0BShgKKWNc6kEyR5LXWnzL) | [♥one love♥](https://open.spotify.com/album/4TP5cGeoTSOWYC20fRFYtL) | 2:30 | 2023-06-08 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

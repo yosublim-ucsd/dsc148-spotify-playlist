@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-217 songs - 9 hr 2 min
+219 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All Is Calm](https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [All Is Calm](https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO) | 1:15 | 2022-07-01 | 2023-01-20 |
 | [AM](https://open.spotify.com/track/3LeQBzk5JpoUJbQ6p2WQEJ) | [Daniela Rusinda](https://open.spotify.com/artist/1OAU4WkqW7J1JtssReHRd0) | [AM](https://open.spotify.com/album/6f5nSiGBUmjnFs12rMVbCy) | 1:49 | 2022-12-09 | 2023-03-18 |
 | [Amalie](https://open.spotify.com/track/4tBduWZZ2toaLm1rfJ4Ju0) | [Lane Westland](https://open.spotify.com/artist/2SQWcfUh4dpLWj5J72YdAH) | [Amalie](https://open.spotify.com/album/0uK2lE2FMY1FK0nTHXoLXe) | 3:13 | 2021-12-09 |  |
-| [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 | 2023-04-28 |  |
+| [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 | 2023-04-28 | 2023-06-09 |
 | [Arrow Point Port](https://open.spotify.com/track/06RkpwK6SqE0CWNM3lOvmZ) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Arrow Point Port](https://open.spotify.com/album/69rrbdsxBJmEegJZLc63Zz) | 1:53 | 2022-08-19 |  |
 | [Arroyos Y Valles](https://open.spotify.com/track/3deEZxzspdmQ8HmcGLhhOK) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Arroyos Y Valles](https://open.spotify.com/album/7mMinee1Kiy1lxSjs1beRc) | 2:38 | 2022-10-07 |  |
 | [Au Revoir](https://open.spotify.com/track/205qtb3ouMjfPrvxiqBG5v) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Au revoir](https://open.spotify.com/album/3cMpbmbHDRFojvimdEOIlV) | 1:44 | 2022-07-08 |  |
@@ -63,6 +63,7 @@
 | [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 | 2022-06-17 |  |
 | [Fields of nothing](https://open.spotify.com/track/2ITekY6iizrWwOa0mlP8nZ) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Fields of nothing](https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz) | 2:25 | 2021-12-09 |  |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-05-27 | 2023-06-03 |
+| [Five Cornered Room](https://open.spotify.com/track/41iPgjTzfG65v54L3pwst9) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Five Cornered Room](https://open.spotify.com/album/04AbFpNCNq5Az76OyS0MR1) | 2:46 | 2023-06-08 |  |
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 | 2023-03-18 |
 | [Foggy Morning](https://open.spotify.com/track/2ADsX9J1hQBryNwDWZqEsf) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Foggy Morning](https://open.spotify.com/album/1jU1CLNqseQ1mT8UFUdbfj) | 3:05 | 2021-12-09 | 2022-05-27 |
 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 | 2023-02-24 |  |
@@ -173,7 +174,7 @@
 | [Slaap Niet Meer](https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Slaap Niet Meer](https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4) | 2:27 | 2022-09-02 |  |
 | [Sleepover](https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Sleepover](https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1) | 1:38 | 2022-07-01 | 2022-08-19 |
 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 | 2023-02-24 |  |
-| [Softly Falling \- Guitar Version](https://open.spotify.com/track/0SvvodEiTxOor9LbluX31v) | [Brie Michelle](https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz) | [Softly Falling \- Guitar Version](https://open.spotify.com/album/4YsBZRtkKjwetx2CJtrnAr) | 2:17 | 2022-07-01 |  |
+| [Softly Falling \- Guitar Version](https://open.spotify.com/track/0SvvodEiTxOor9LbluX31v) | [Brie Michelle](https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz) | [Softly Falling \- Guitar Version](https://open.spotify.com/album/4YsBZRtkKjwetx2CJtrnAr) | 2:17 | 2022-07-01 | 2023-06-09 |
 | [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2022-06-17 |  |
 | [Sol está se pondo](https://open.spotify.com/track/4svcQB6U0H6ECujHIafvwV) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Sol está se pondo](https://open.spotify.com/album/7yE3u8mjqgn2Qt6azXlnyU) | 2:43 | 2021-12-09 |  |
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 |  |
@@ -199,6 +200,7 @@
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-04-28 |  |
 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 | 2021-12-09 | 2022-04-22 |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-28 |  |
+| [To The Train](https://open.spotify.com/track/1f8zxyXpm6WkSA0az7Wjry) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Shining in the Shade](https://open.spotify.com/album/02DUOVZpVb47edaTaNTBPT) | 3:20 | 2023-06-08 |  |
 | [Tomorrow's Song \- Solo Guitar Version](https://open.spotify.com/track/7hR0O2SKyTl1Y6F244Miz7) | [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [Miniatures](https://open.spotify.com/album/5yS0hPvv2i4bVS5H6x0eNR) | 2:32 | 2021-12-09 | 2022-05-27 |
 | [Toucher mon coeur](https://open.spotify.com/track/3hl7B9bDfLmDd32hh3pD4Y) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Brouillard épais](https://open.spotify.com/album/1hkUIy6TCA1stwWpOvIB1A) | 2:23 | 2022-12-09 |  |
 | [Toutes Les Couleurs](https://open.spotify.com/track/3ELOuPzdNVstZgLwX3yxPN) | [Paris Pompey](https://open.spotify.com/artist/2Kt6borByO4ARxCSf9hOfq) | [Toutes Les Couleurs](https://open.spotify.com/album/1k8SOrB5BaoQbOrEh8xzvb) | 2:19 | 2021-12-09 |  |

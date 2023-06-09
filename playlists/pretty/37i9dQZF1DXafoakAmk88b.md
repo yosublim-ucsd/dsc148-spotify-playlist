@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,492 likes - 130 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,510 likes - 130 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 129 | [In\-between and Overseas](https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:25 |
 | 130 | [Already free](https://open.spotify.com/track/45nFXvQK9RIi8zMip6ogzh) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 2:18 |
 
-Snapshot ID: `MCwyODlkMzc5MzM5Njc3ODFjODJmYjI1MmZhZjNkMjM1ODczMTk0ZTEx`
+Snapshot ID: `MCxmY2YxMDg0OTdjZWRiMGYzYmJiNGVmYzg4MTBiOThiYmVmYjg2NjU1`

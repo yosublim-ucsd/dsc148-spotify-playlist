@@ -2507,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/6OcS9PBcKQtBpiubt9w2zf"
+      },
+      "artists": [
+        {
+          "name": "FOMARE",
+          "url": "https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187425,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/4gApHF6PIQByk71asnPt2L"
+    },
+    {
+      "album": {
         "name": "HEY DUDE",
         "url": "https://open.spotify.com/album/0PPU4QuBERLv3aJlcJFu9y"
       },
@@ -5292,7 +5310,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 155408,
       "name": "seisyunhamada",
       "url": "https://open.spotify.com/track/4x8dUbBZSfR6mGyoZAe4F8"
@@ -5494,7 +5512,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 268826,
       "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
       "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"
@@ -7556,6 +7574,24 @@
       "duration_ms": 165800,
       "name": "\u304a\u5148\u660e\u308b\u3059\u304e\u3066\u4f55\u3082\u898b\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/6Ce1HBP51AdZB3RRzKzJTG"
+    },
+    {
+      "album": {
+        "name": "\u304a\u524d\u306e\u8a71\u306f\u805e\u3044\u3066\u3044\u306a\u3044",
+        "url": "https://open.spotify.com/album/1f2hVzPb2h5NfkvGXY9DHR"
+      },
+      "artists": [
+        {
+          "name": "Wasureranneyo",
+          "url": "https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214100,
+      "name": "\u304a\u524d\u306e\u8a71\u306f\u805e\u3044\u3066\u3044\u306a\u3044",
+      "url": "https://open.spotify.com/track/57eiMqz3NKsE9wrQxQuBke"
     },
     {
       "album": {

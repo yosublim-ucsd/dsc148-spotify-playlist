@@ -3933,6 +3933,28 @@
     },
     {
       "album": {
+        "name": "Orphic Night",
+        "url": "https://open.spotify.com/album/4rrzK0Cbp95qcjH0p9oPsc"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Orphic Night",
+      "url": "https://open.spotify.com/track/2pHUAHfX7hSoLdBZ8wALnP"
+    },
+    {
+      "album": {
         "name": "Out Of Here",
         "url": "https://open.spotify.com/album/6WL6RJfNBi89mntTBIvKua"
       },

@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-157 songs - 13 hr 0 min
+159 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 | 2022-06-30 |  |
 | [Adura](https://open.spotify.com/track/3mpeIYgtnY2QrjJp0s3G4D) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Adura](https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B) | 8:01 | 2023-04-07 |  |
 | [Afurum Gi Nanya](https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Tryphena](https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub) | [Afurum Gi Nanya](https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae) | 2:19 | 2023-03-03 |  |
+| [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-06-09 |  |
 | [All That I Need](https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG) | [Manuel The Creator](https://open.spotify.com/artist/2T0gntIOQfKGq0t0xyMNkZ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [All That I Need](https://open.spotify.com/album/6alYBAfGKfBay4xZaRi97O) | 3:03 | 2022-06-30 |  |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-05-05 |  |
 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 | 2023-05-26 |  |
@@ -37,6 +38,7 @@
 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 | 2022-07-22 |  |
 | [Dominus Omnium](https://open.spotify.com/track/2kdo5mGHAYdg0slwaabLV0) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Dominus Omnium](https://open.spotify.com/album/4Y7FbmpRm5boVCtwHq4Erl) | 4:15 | 2023-04-13 | 2023-06-08 |
 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 | 2023-04-21 |  |
+| [Ebenezeri](https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE), [APEX CHOIR](https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Ebenezeri](https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03) | 4:53 | 2023-06-09 |  |
 | [Ese \(Thank You\)](https://open.spotify.com/track/1vS7QapA3eXAVkhjbnYKpX) | [Becky Larry\-Izamoje](https://open.spotify.com/artist/0AGAoKVTIRwtQll1aMeoiv) | [Ese \(Thank You\)](https://open.spotify.com/album/3js7Nt0bKja4ZG0PkS1Vpw) | 4:59 | 2022-06-30 | 2023-02-16 |
 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 |  |
 | [Ewe Praise Medley 2 \(Teteyi\)](https://open.spotify.com/track/5UMQ4CuTzvyupxPjp17vlj) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Chief Prosper](https://open.spotify.com/artist/21s3rUeDcsqL8i1n8legaP) | [Ewe Praise Medley 2 \(Teteyi\)](https://open.spotify.com/album/0oTTtDuXyZhRn9zEdQj0Zv) | 9:34 | 2022-06-30 | 2022-11-14 |
@@ -91,7 +93,7 @@
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-02-03 |  |
 | [Mo Ne Yo](https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Mo Ne Yo](https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit) | 4:29 | 2022-06-30 | 2023-02-21 |
 | [Morning Devotion](https://open.spotify.com/track/5AZ8G1XQM0I20LS61y44Qs) | [Street Church Music](https://open.spotify.com/artist/0IepUFTdh1Oc3P2VgShszv), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Morning Devotion](https://open.spotify.com/album/05u6kpaR8cFKzktUJxk3ds) | 2:07 | 2023-02-03 |  |
-| [My Altar \(Cover\)](https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [My Altar \(Cover\)](https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P) | 6:57 | 2023-04-28 |  |
+| [My Altar \(Cover\)](https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [My Altar \(Cover\)](https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P) | 6:57 | 2023-04-28 | 2023-06-09 |
 | [My Everything](https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Wind of Revival](https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY) | 4:41 | 2022-06-30 |  |
 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 | 2022-06-30 |  |
 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 | 2022-09-01 | 2023-01-20 |
@@ -163,7 +165,7 @@
 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 | 2022-06-30 |  |
 | [Yes, Lord!](https://open.spotify.com/track/6qBObB4fdVeswPpu1tJFGg) | [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Yes, Lord!](https://open.spotify.com/album/5cSDcoxm30scAAdvCTUaPn) | 5:09 | 2022-06-30 | 2023-01-28 |
 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 | 2022-06-30 | 2023-06-08 |
-| [You Called Me Out](https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Aware](https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9) | 2:45 | 2022-09-30 |  |
+| [You Called Me Out](https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Aware](https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9) | 2:45 | 2022-09-30 | 2023-06-09 |
 | [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 | 2023-05-05 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

@@ -936,7 +936,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 276777,
       "name": "G\u1eb7p Nh\u01b0ng Kh\u00f4ng \u1ede L\u1ea1i",
       "url": "https://open.spotify.com/track/6jvCnAiPiiy5OORy8x4hRI"
@@ -1092,10 +1092,28 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 195750,
       "name": "H\u1ea1 Ph\u1ecfm",
       "url": "https://open.spotify.com/track/2lGGlexu72TnPQPUHd8NWt"
+    },
+    {
+      "album": {
+        "name": "H\u1eb9n G\u1eb7p Anh",
+        "url": "https://open.spotify.com/album/1KcIB1cShYTGzjmChD6noF"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng Y\u1ebfn Chibi",
+          "url": "https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "H\u1eb9n G\u1eb7p Anh",
+      "url": "https://open.spotify.com/track/64f07abwvPcAe6zzpHYeKy"
     },
     {
       "album": {
@@ -2516,6 +2534,28 @@
       "duration_ms": 222079,
       "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh",
       "url": "https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH"
+    },
+    {
+      "album": {
+        "name": "V\u01b0\u1eddn Hoa Con C\u00e1 (feat. Ng\u1eafn)",
+        "url": "https://open.spotify.com/album/5c2sPcxLeCUn0kbwhg0A0U"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1eafn",
+          "url": "https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P"
+        },
+        {
+          "name": "O.lew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234947,
+      "name": "V\u01b0\u1eddn Hoa Con C\u00e1 (feat. Ng\u1eafn)",
+      "url": "https://open.spotify.com/track/1YbrWGgFMzIoO6FP1vN975"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 渡辺翔太, 若井俊也, 石若駿
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,172 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,188 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 21 | [Stella's Cough](https://open.spotify.com/track/7c6RAOcYgwDFf0R6gusrbr) | [Senri Oe](https://open.spotify.com/artist/41DTvjqwAz1jgZCAZ6KTJG) | [Stella's Cough](https://open.spotify.com/album/3hX312ymuWRcEqmb4GNhWc) | 3:42 |
 | 22 | [Today Is Another Day](https://open.spotify.com/track/26rrOxH88bdp9Eq3nw5A8O) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Today Is Another Day](https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf) | 5:21 |
 | 23 | [Give Me Your Love](https://open.spotify.com/track/0mtHN0H06S4Iefm43Kzlq2) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love](https://open.spotify.com/album/3AZpaJgFQ7iPTMmpVnPhif) | 4:11 |
-| 24 | [Sky](https://open.spotify.com/track/4A1h2n04lHikwFW2y6wQBS) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Sky](https://open.spotify.com/album/6p8sF3aFRqLzasMfcMpjoz) | 3:40 |
+| 24 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
 | 25 | [Tutumikomuyouni](https://open.spotify.com/track/3HoWRTwLaGRCnHS9hvRoOz) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh) | [Tutumikomuyouni](https://open.spotify.com/album/1vnxF4VENfoLws4brG1GD1) | 5:10 |
 | 26 | [Light](https://open.spotify.com/track/03kj4nn1CBAlGLwfQAnb6f) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2), [Yu\-ri Tanaka](https://open.spotify.com/artist/4ncMVbzL2pGrGtcejiUk0r) | [Light](https://open.spotify.com/album/130u0oM6Q8NiuF69xB20Bj) | 3:58 |
-| 27 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
+| 27 | [Sky](https://open.spotify.com/track/4A1h2n04lHikwFW2y6wQBS) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Sky](https://open.spotify.com/album/6p8sF3aFRqLzasMfcMpjoz) | 3:40 |
 | 28 | [24/7](https://open.spotify.com/track/1dbKUjODEfs0srsw3KgFD9) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/7MJG1uYr3RqRqucOIvWrBr) | 6:07 |
 | 29 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
 | 30 | [500 Miles High](https://open.spotify.com/track/1l5B1beJKVDv39E828gCTF) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:55 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 45 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
 | 46 | [Looking Back](https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Looking Back / Paint It Black](https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH) | 3:41 |
 | 47 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 |
-| 48 | [東京ブギウギ \- JUNK BOOGIE](https://open.spotify.com/track/78EdyJD8l2uwT3Kw0ppViW) | [Mari Natsuki](https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay) | [TOKYO JUNK BOOGIE](https://open.spotify.com/album/3LIgXpMVtzTywubYgtUgdM) | 3:20 |
-| 49 | [White Runway](https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [White Runway](https://open.spotify.com/album/2P0laiKlcFWjr8WUIbiXCe) | 4:42 |
+| 48 | [White Runway](https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [White Runway](https://open.spotify.com/album/2P0laiKlcFWjr8WUIbiXCe) | 4:42 |
+| 49 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
 | 50 | [Happy Valley](https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 3:40 |
 
-Snapshot ID: `MCxmZmE4ZTM1MjgzNWEwNWJlYzAxMGU0Zjc0N2VjMDE2MDdjZGUyNTU3`
+Snapshot ID: `MCw0OWYyNmMxYTFlYzM5NTg3Yzc1NWNkY2ZiMDhiMWU4MDlmOTI3YjVm`

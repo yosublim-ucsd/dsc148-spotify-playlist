@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-207 songs - 10 hr 37 min
+208 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Smooth Kill](https://open.spotify.com/track/4PbGMvLsMEWidmmbIfUqI3) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Bitter Sweet](https://open.spotify.com/album/6ya5x6gzZDVwVD0rxh8DZO) | 1:52 | 2023-02-24 | 2023-03-25 |
 | [Smooth Rhythm](https://open.spotify.com/track/0TpvKEqeldr2H3UsPZvfb2) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [Smooth Rhythm](https://open.spotify.com/album/5JtxZuVdWx7C7zsE7aXxb5) | 3:27 | 2022-07-14 | 2022-07-22 |
 | [So Bad](https://open.spotify.com/track/0ed1N5H2xW64WEmRjF2ONv) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [So Bad](https://open.spotify.com/album/5RWXh09si3FvJUE5RSH87k) | 3:17 | 2022-06-09 | 2022-07-29 |
+| [Soak Garri](https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Soak Garri](https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK) | 3:31 | 2023-06-05 |  |
 | [Sober](https://open.spotify.com/track/2HhiRTcthQdlrKvYBcnVQ0) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Sober](https://open.spotify.com/album/4G6vqNIAXxDABfUqwHkOu6) | 3:05 | 2023-05-26 |  |
 | [Solace](https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Kpos Lifestyle, Vol\. 1](https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E) | 2:00 | 2022-06-09 | 2022-07-29 |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-06-09 |  |
@@ -200,7 +201,7 @@
 | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN) | 4:03 | 2023-05-11 |  |
 | [Wake Up](https://open.spotify.com/track/6lymDMoeOs8GHutXElZTSn) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Wake Up](https://open.spotify.com/album/6tThUvsa9NTLfdkFV2S7I3) | 1:26 | 2022-09-09 | 2022-10-14 |
 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 | 2022-06-09 |  |
-| [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 | 2022-06-16 |  |
+| [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 | 2022-06-16 | 2023-06-09 |
 | [Wena](https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Wena](https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw) | 3:14 | 2023-04-27 |  |
 | [What To Expect When Expecting](https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [What To Expect When Expecting](https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf) | 2:48 | 2022-09-09 | 2022-10-01 |
 | [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2023-02-16 | 2023-03-25 |

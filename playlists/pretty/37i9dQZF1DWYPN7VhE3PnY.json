@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: V\u00c9RIT\u00c9\n",
-  "num_followers": 13518,
+  "num_followers": 13597,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjFjN2FkN2VkZWE1YmExNzQ3NzY3ZTZmNmNjMjE2ZGJjMjY2OGM0",
+  "snapshot_id": "MCwxZjcxNjAxNTNiMjA2NWI4ZDYyYmRmNzVlNjhjZGEzZmJiNWY3ZmI2",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Bop City",
-        "url": "https://open.spotify.com/album/5hejwRvyklqZbpNfkAMjff"
-      },
-      "artists": [
-        {
-          "name": "Terror Jr",
-          "url": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "3 Strikes",
-      "url": "https://open.spotify.com/track/1mZF9TEc7gpw7by7NCZSKr"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Nothing's Real",
         "url": "https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 214555,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2ylVfK4pVfeSV4zxieyT2B"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Bop City",
+        "url": "https://open.spotify.com/album/5hejwRvyklqZbpNfkAMjff"
+      },
+      "artists": [
+        {
+          "name": "Terror Jr",
+          "url": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "3 Strikes",
+      "url": "https://open.spotify.com/track/1mZF9TEc7gpw7by7NCZSKr"
     },
     {
       "added_at": "2023-05-19 04:00:00",

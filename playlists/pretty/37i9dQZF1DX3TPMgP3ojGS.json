@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 355473,
+  "num_followers": 355607,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjUyMmU4ZjgyOWRmYmVkZDI3ZmFlMmU1N2VlODMyYzU2Yjk3NTA4",
+  "snapshot_id": "MCxmMzI1NWY5NmE0YjVjYTI2YmE0ZTNjYmFmNjIyODEwNGViZTVkZWQy",
   "tracks": [
     {
       "added_at": "2023-05-30 05:41:43",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "p\u00e6oner",
-        "url": "https://open.spotify.com/album/1S6MFC3YC69IHDOOktMFTk"
+        "name": "This Tender Appeal",
+        "url": "https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH"
       },
       "artists": [
         {
-          "name": "Jonas Hoffmann",
-          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
         }
       ],
-      "duration_ms": 112884,
-      "name": "p\u00e6oner",
-      "url": "https://open.spotify.com/track/4516jKqIrGNIShWH3WBqmd"
+      "duration_ms": 168498,
+      "name": "This Tender Appeal",
+      "url": "https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "p\u00e6oner",
+        "url": "https://open.spotify.com/album/1S6MFC3YC69IHDOOktMFTk"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "duration_ms": 112884,
+      "name": "p\u00e6oner",
+      "url": "https://open.spotify.com/track/4516jKqIrGNIShWH3WBqmd"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "Emerald Enlightenment",
         "url": "https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 99567,
       "name": "Emerald Enlightenment",
       "url": "https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "This Tender Appeal",
-        "url": "https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH"
-      },
-      "artists": [
-        {
-          "name": "Allysium",
-          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
-        }
-      ],
-      "duration_ms": 168498,
-      "name": "This Tender Appeal",
-      "url": "https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Petites danses et r\u00eaveries",
-        "url": "https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB"
-      },
-      "artists": [
-        {
-          "name": "Tom Kristiaan",
-          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Un sourire et une larme (valse)",
-      "url": "https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "A Time Long Ago",
         "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 135105,
       "name": "A Time Long Ago",
       "url": "https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Petites danses et r\u00eaveries",
+        "url": "https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB"
+      },
+      "artists": [
+        {
+          "name": "Tom Kristiaan",
+          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Un sourire et une larme (valse)",
+      "url": "https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB"
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
       },
       "artists": [
         {
-          "name": "Claire Lerdier",
-          "url": "https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k"
+          "name": "Ivan Malik",
+          "url": "https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm"
         }
       ],
-      "duration_ms": 151764,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
+      "duration_ms": 180874,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB"
       },
       "artists": [
         {
-          "name": "Ivan Malik",
-          "url": "https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm"
+          "name": "Claire Lerdier",
+          "url": "https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k"
         }
       ],
-      "duration_ms": 180874,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
+      "duration_ms": 151764,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "M\u00e1 sestra",
-        "url": "https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe"
-      },
-      "artists": [
-        {
-          "name": "Jani Lechleiter",
-          "url": "https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU"
-        }
-      ],
-      "duration_ms": 125055,
-      "name": "M\u00e1 sestra",
-      "url": "https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "The Meadows \u8349\u5730",
         "url": "https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 170737,
       "name": "The Meadows \u8349\u5730",
       "url": "https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "M\u00e1 sestra",
+        "url": "https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe"
+      },
+      "artists": [
+        {
+          "name": "Jani Lechleiter",
+          "url": "https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU"
+        }
+      ],
+      "duration_ms": 125055,
+      "name": "M\u00e1 sestra",
+      "url": "https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Lydian Fairytale",
-        "url": "https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4"
-      },
-      "artists": [
-        {
-          "name": "Nascondiglio",
-          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
-        }
-      ],
-      "duration_ms": 105786,
-      "name": "Lydian Fairytale",
-      "url": "https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Moondust",
         "url": "https://open.spotify.com/album/1h6Hl1CTey15D2ENsbW71t"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Shizukana",
-        "url": "https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep"
+        "name": "Lydian Fairytale",
+        "url": "https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4"
       },
       "artists": [
         {
-          "name": "Isshi Matsuriza",
-          "url": "https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi"
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
         }
       ],
-      "duration_ms": 131786,
-      "name": "Shizukana",
-      "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
+      "duration_ms": 105786,
+      "name": "Lydian Fairytale",
+      "url": "https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -699,6 +683,22 @@
       "duration_ms": 143400,
       "name": "Act Of Reconciling",
       "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Shizukana",
+        "url": "https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep"
+      },
+      "artists": [
+        {
+          "name": "Isshi Matsuriza",
+          "url": "https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Shizukana",
+      "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
+        "name": "Lofoten",
+        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "duration_ms": 161913,
+      "name": "Lofoten",
+      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
         "name": "Me Time",
         "url": "https://open.spotify.com/album/5XOxeo91vjLNW9Oh91A49o"
       },
@@ -795,6 +811,22 @@
       "duration_ms": 116206,
       "name": "Me Time",
       "url": "https://open.spotify.com/track/15ErabbOFwo4gEknWytsAG"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Printemps",
+        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "duration_ms": 137424,
+      "name": "Printemps",
+      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -827,38 +859,6 @@
       "duration_ms": 153306,
       "name": "Sun sinking at dusk",
       "url": "https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Lofoten",
-        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
-      },
-      "artists": [
-        {
-          "name": "Otto Noir",
-          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
-        }
-      ],
-      "duration_ms": 161913,
-      "name": "Lofoten",
-      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Printemps",
-        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
-      },
-      "artists": [
-        {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
-        }
-      ],
-      "duration_ms": 137424,
-      "name": "Printemps",
-      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "to god knows where",
-        "url": "https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1"
-      },
-      "artists": [
-        {
-          "name": "BigRicePiano",
-          "url": "https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "to god knows where - silence",
-      "url": "https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s"
       },
@@ -987,22 +971,6 @@
       "duration_ms": 113986,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu"
-      },
-      "artists": [
-        {
-          "name": "Elisa Avaria",
-          "url": "https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp"
-        }
-      ],
-      "duration_ms": 155174,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1035,6 +1003,38 @@
       "duration_ms": 180371,
       "name": "Spring Thaw",
       "url": "https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "to god knows where",
+        "url": "https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1"
+      },
+      "artists": [
+        {
+          "name": "BigRicePiano",
+          "url": "https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "to god knows where - silence",
+      "url": "https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu"
+      },
+      "artists": [
+        {
+          "name": "Elisa Avaria",
+          "url": "https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp"
+        }
+      ],
+      "duration_ms": 155174,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Hand in Hand",
-        "url": "https://open.spotify.com/album/7fccaa63EUMUZtrhXENmbT"
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
       },
       "artists": [
         {
-          "name": "Kylian Rebour",
-          "url": "https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX"
+          "name": "Armando Bauer",
+          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
         }
       ],
-      "duration_ms": 108022,
-      "name": "Hand in Hand",
-      "url": "https://open.spotify.com/track/23yqVbpiJoMHTs0RX4aPE7"
+      "duration_ms": 117271,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1279,34 +1279,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
+        "name": "Hand in Hand",
+        "url": "https://open.spotify.com/album/7fccaa63EUMUZtrhXENmbT"
       },
       "artists": [
         {
-          "name": "Armando Bauer",
-          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
+          "name": "Kylian Rebour",
+          "url": "https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX"
         }
       ],
-      "duration_ms": 117271,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy"
-      },
-      "artists": [
-        {
-          "name": "Nate LaFleur",
-          "url": "https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c"
-        }
-      ],
-      "duration_ms": 154874,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp"
+      "duration_ms": 108022,
+      "name": "Hand in Hand",
+      "url": "https://open.spotify.com/track/23yqVbpiJoMHTs0RX4aPE7"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1323,6 +1307,22 @@
       "duration_ms": 143000,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy"
+      },
+      "artists": [
+        {
+          "name": "Nate LaFleur",
+          "url": "https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c"
+        }
+      ],
+      "duration_ms": 154874,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK"
-      },
-      "artists": [
-        {
-          "name": "G\u00c5EL",
-          "url": "https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5"
-        }
-      ],
-      "duration_ms": 147936,
-      "name": "Mid Air",
-      "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
-    },
-    {
-      "added_at": "2023-05-30 05:41:43",
-      "album": {
         "name": "L\u00e9opoldine",
         "url": "https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 165293,
       "name": "L\u00e9opoldine",
       "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
+    },
+    {
+      "added_at": "2023-05-30 05:41:43",
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK"
+      },
+      "artists": [
+        {
+          "name": "G\u00c5EL",
+          "url": "https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5"
+        }
+      ],
+      "duration_ms": 147936,
+      "name": "Mid Air",
+      "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Berceuse",
-        "url": "https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg"
+        "name": "Matterello",
+        "url": "https://open.spotify.com/album/4j3SmMhdfe5CqfCqsOeJkl"
       },
       "artists": [
         {
-          "name": "Sounds from a Box",
-          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
+          "name": "Valeria Pintile",
+          "url": "https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj"
         }
       ],
-      "duration_ms": 151750,
-      "name": "Berceuse",
-      "url": "https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn"
+      "duration_ms": 170122,
+      "name": "Matterello",
+      "url": "https://open.spotify.com/track/1fBfm3eA3qgQvJlT4VPwjC"
     },
     {
       "added_at": "2023-05-30 05:41:43",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-05-30 05:41:43",
       "album": {
-        "name": "Matterello",
-        "url": "https://open.spotify.com/album/4j3SmMhdfe5CqfCqsOeJkl"
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg"
       },
       "artists": [
         {
-          "name": "Valeria Pintile",
-          "url": "https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj"
+          "name": "Sounds from a Box",
+          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
         }
       ],
-      "duration_ms": 170122,
-      "name": "Matterello",
-      "url": "https://open.spotify.com/track/1fBfm3eA3qgQvJlT4VPwjC"
+      "duration_ms": 151750,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn"
     },
     {
       "added_at": "2023-05-30 05:41:43",

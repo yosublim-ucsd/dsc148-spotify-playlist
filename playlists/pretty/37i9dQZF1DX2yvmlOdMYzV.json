@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 899122,
+  "num_followers": 899316,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDRiYjE0NDAyZWE3YjNlYjA3ZjhhMDJmYjQ4ZjRmYzRiOTFlNmY4",
+  "snapshot_id": "MCw4ZDA2YTU4YzE2ZjMzMjc2NGZmZTkzMzQwNTcyMzRmMDc5Yjk0ZDM5",
   "tracks": [
     {
       "added_at": "2023-03-31 04:02:35",
@@ -401,20 +401,20 @@
       "url": "https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Masego",
-        "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 260669,
-      "name": "Black Anime",
-      "url": "https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL"
+      "duration_ms": 226118,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -433,20 +433,20 @@
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         }
       ],
-      "duration_ms": 226118,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
+      "duration_ms": 260669,
+      "name": "Black Anime",
+      "url": "https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
+        "name": "Choose Your Weapon",
+        "url": "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 256920,
+      "name": "Fingerprints",
+      "url": "https://open.spotify.com/track/3c7N2fCFB4JVKGF8cWfteh"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
         "name": "SATIN",
         "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Choose Your Weapon",
-        "url": "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 256920,
-      "name": "Fingerprints",
-      "url": "https://open.spotify.com/track/3c7N2fCFB4JVKGF8cWfteh"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "AVAILABLE FOR ME",
         "url": "https://open.spotify.com/album/6VoIESYZJxUS1cMUL5CuSw"
       },
@@ -651,6 +651,26 @@
       "duration_ms": 141732,
       "name": "AVAILABLE FOR ME",
       "url": "https://open.spotify.com/track/287fJ5M4YHE9JtVzKrrm5M"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
+      },
+      "artists": [
+        {
+          "name": "Chelan",
+          "url": "https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH"
+        },
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 224050,
+      "name": "PATTERNS",
+      "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -675,42 +695,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
-      },
-      "artists": [
-        {
-          "name": "Chelan",
-          "url": "https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH"
-        },
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        }
-      ],
-      "duration_ms": 224050,
-      "name": "PATTERNS",
-      "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Princess Forever",
-        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Gimme A Chance",
-      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 183354,
       "name": "All For You",
       "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Princess Forever",
+        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Gimme A Chance",
+      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -817,26 +817,6 @@
       "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
     },
     {
-      "added_at": "2023-03-31 04:02:35",
-      "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "QUIN",
-          "url": "https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA"
-        }
-      ],
-      "duration_ms": 111306,
-      "name": "wunna dem (with QUIN)",
-      "url": "https://open.spotify.com/track/1w62bHcCzysJLbKEGuXykx"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Motions",
@@ -857,20 +837,24 @@
       "url": "https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
+      "added_at": "2023-03-31 04:02:35",
       "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
       },
       "artists": [
         {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "QUIN",
+          "url": "https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA"
         }
       ],
-      "duration_ms": 207200,
-      "name": "I Got It",
-      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
+      "duration_ms": 111306,
+      "name": "wunna dem (with QUIN)",
+      "url": "https://open.spotify.com/track/1w62bHcCzysJLbKEGuXykx"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -887,6 +871,22 @@
       "duration_ms": 160487,
       "name": "D4U - Spotify Singles",
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Monologues",
+        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/02adJbZO7bHXJjboTwph45"
     },
     {
-      "added_at": "2023-05-05 06:06:11",
-      "album": {
-        "name": "ME YOU & GOD",
-        "url": "https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4"
-      },
-      "artists": [
-        {
-          "name": "Jidenna",
-          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "MAYBE SWANKAFORNiA",
-      "url": "https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Raven",
@@ -1153,6 +1137,26 @@
       "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 205601,
+      "name": "Love Me or Leave Me",
+      "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Tam Tam",
@@ -1189,46 +1193,6 @@
       "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
-      },
-      "artists": [
-        {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 205601,
-      "name": "Love Me or Leave Me",
-      "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
-    },
-    {
       "added_at": "2023-05-05 06:06:11",
       "album": {
         "name": "Falling",
@@ -1261,6 +1225,42 @@
       "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "As Days Go By",
+        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
+      },
+      "artists": [
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+        }
+      ],
+      "duration_ms": 222654,
+      "name": "As Days Go By",
+      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "UNDERSTAND",
@@ -1281,36 +1281,20 @@
       "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "As Days Go By",
-        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA"
       },
       "artists": [
         {
-          "name": "Paulade",
-          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
         }
       ],
-      "duration_ms": 222654,
-      "name": "As Days Go By",
-      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
-    },
-    {
-      "added_at": "2023-05-05 16:02:28",
-      "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 131173,
-      "name": "THINK TWICE",
-      "url": "https://open.spotify.com/track/0SjibUhSN9ozHhwAVpHMAg"
+      "duration_ms": 200640,
+      "name": "Always Love",
+      "url": "https://open.spotify.com/track/0Yt6dZi9jhnaCmzoJddPnt"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1329,20 +1313,20 @@
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-05-05 16:02:28",
       "album": {
-        "name": "In Between",
-        "url": "https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA"
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
       },
       "artists": [
         {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
         }
       ],
-      "duration_ms": 200640,
-      "name": "Always Love",
-      "url": "https://open.spotify.com/track/0Yt6dZi9jhnaCmzoJddPnt"
+      "duration_ms": 131173,
+      "name": "THINK TWICE",
+      "url": "https://open.spotify.com/track/0SjibUhSN9ozHhwAVpHMAg"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 155813,
+      "name": "Colour Blind",
+      "url": "https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 238571,
       "name": "Lying To You",
       "url": "https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Untitled (God)",
-        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 155813,
-      "name": "Colour Blind",
-      "url": "https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1565,6 +1549,26 @@
       "url": "https://open.spotify.com/track/7CFxO2nX0rV1L94i55PNRO"
     },
     {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX"
+      },
+      "artists": [
+        {
+          "name": "Ni'jah",
+          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
+        },
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 113706,
+      "name": "Hahaha (feat. KIRBY)",
+      "url": "https://open.spotify.com/track/0fDAR8dn2U6a4TXxS1NuKJ"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Palace",
@@ -1595,26 +1599,6 @@
       "duration_ms": 229341,
       "name": "You're The One - Spotify Singles",
       "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Swarm",
-        "url": "https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX"
-      },
-      "artists": [
-        {
-          "name": "Ni'jah",
-          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 113706,
-      "name": "Hahaha (feat. KIRBY)",
-      "url": "https://open.spotify.com/track/0fDAR8dn2U6a4TXxS1NuKJ"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1653,38 +1637,6 @@
       "url": "https://open.spotify.com/track/0NfxQ1dLKqwT40AhR6zqAY"
     },
     {
-      "added_at": "2023-05-05 06:06:11",
-      "album": {
-        "name": "Smear Campaign",
-        "url": "https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW"
-      },
-      "artists": [
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        }
-      ],
-      "duration_ms": 208962,
-      "name": "Smear Campaign",
-      "url": "https://open.spotify.com/track/02f4QgR69r033tjAy6hyit"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "I Love Being Invisible",
-        "url": "https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI"
-      },
-      "artists": [
-        {
-          "name": "Rowena Fysx",
-          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
-        }
-      ],
-      "duration_ms": 181227,
-      "name": "I Love Being Invisible",
-      "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Sweet Nothing",
@@ -1705,6 +1657,22 @@
       "url": "https://open.spotify.com/track/2tF7vtDQKT8SW1E0oxQn2U"
     },
     {
+      "added_at": "2023-05-05 06:06:11",
+      "album": {
+        "name": "Smear Campaign",
+        "url": "https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "duration_ms": 208962,
+      "name": "Smear Campaign",
+      "url": "https://open.spotify.com/track/02f4QgR69r033tjAy6hyit"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Like Neptune",
@@ -1719,6 +1687,22 @@
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "I Love Being Invisible",
+        "url": "https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "duration_ms": 181227,
+      "name": "I Love Being Invisible",
+      "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1741,20 +1725,40 @@
       "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-05-05 06:06:11",
       "album": {
-        "name": "Endless No Mores - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk"
+        "name": "lost a friend",
+        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "duration_ms": 179238,
-      "name": "Endless No Mores - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
+      "duration_ms": 165177,
+      "name": "lost a friend",
+      "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Closure Tapes",
+        "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        },
+        {
+          "name": "Jayla Darden",
+          "url": "https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU"
+        }
+      ],
+      "duration_ms": 209385,
+      "name": "Lalala (feat. Jayla Darden)",
+      "url": "https://open.spotify.com/track/60H353jZUXCNj1ySTEDPdC"
     }
   ],
   "unique_name": "Lowkey",

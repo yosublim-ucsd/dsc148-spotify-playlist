@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 257159,
+  "num_followers": 257394,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGY5Mjg1OTk1ZTI3MDdjNjNhYjBiNTAyZDYxZDZkOTY4NThlOTVh",
+  "snapshot_id": "MCw1NzQwNTM2MjFlODliYjc4Y2U0ZjBmODAxZGIwZjc3MjhlZDJiNzM5",
   "tracks": [
     {
       "added_at": "2023-05-15 18:59:47",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 181922,
-      "name": "Dragonball Durag",
-      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
+      "duration_ms": 209449,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 209449,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
+      "duration_ms": 181922,
+      "name": "Dragonball Durag",
+      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Free Yourself",
-        "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Free Yourself",
-      "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Ungodly Hour",
         "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 255893,
       "name": "Ungodly Hour",
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Free Yourself",
+        "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Foreign Language",
         "url": "https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 244080,
       "name": "Foreign Language",
       "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Is It Magic?",
+        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 188727,
+      "name": "Is It Magic?",
+      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Turn Up The Sunshine (From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 229610,
       "name": "Turn Up The Sunshine - From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Is It Magic?",
-        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 188727,
-      "name": "Is It Magic?",
-      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1347,26 +1347,6 @@
       "duration_ms": 213622,
       "name": "I Know There's Gonna Be (Good Times)",
       "url": "https://open.spotify.com/track/06UOL50QYtDR5l06ohu88m"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Can\u2019t Let You Go",
-        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Little Jet",
-          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Can\u2019t Let You Go",
-      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1399,6 +1379,26 @@
       "duration_ms": 132903,
       "name": "Moment",
       "url": "https://open.spotify.com/track/3RZwiJMiAeiSObHO25qGK1"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Can\u2019t Let You Go",
+        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Little Jet",
+          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Can\u2019t Let You Go",
+      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Cutie",
-        "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 184315,
-      "name": "Cutie",
-      "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 208946,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Cutie",
+        "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 184315,
+      "name": "Cutie",
+      "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 220550,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Someone's EP II",
         "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 235369,
       "name": "Simmer",
       "url": "https://open.spotify.com/track/2RqdwP5GhU18FTHbL1Bxfe"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 220550,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Peur des filles (Montmartre Remix)",
+        "url": "https://open.spotify.com/album/1vzib5ra2r5t2laFnvgJfO"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Peur des filles - Montmartre Remix",
+      "url": "https://open.spotify.com/track/6xRK103p6gJYRMf1knKanW"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Too Much (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
       },
@@ -1701,24 +1721,20 @@
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
-      "added_at": "2023-05-04 21:27:18",
+      "added_at": "2023-05-19 18:50:51",
       "album": {
-        "name": "Peur des filles (Montmartre Remix)",
-        "url": "https://open.spotify.com/album/1vzib5ra2r5t2laFnvgJfO"
+        "name": "1986",
+        "url": "https://open.spotify.com/album/6AZgntJAhycfjeNgteCECK"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
         }
       ],
-      "duration_ms": 166106,
-      "name": "Peur des filles - Montmartre Remix",
-      "url": "https://open.spotify.com/track/6xRK103p6gJYRMf1knKanW"
+      "duration_ms": 212626,
+      "name": "1986",
+      "url": "https://open.spotify.com/track/3FzVfeJyQ4AiN6EuYZ7toQ"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1735,22 +1751,6 @@
       "duration_ms": 139613,
       "name": "Wildin'",
       "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
-    },
-    {
-      "added_at": "2023-05-19 18:50:51",
-      "album": {
-        "name": "1986",
-        "url": "https://open.spotify.com/album/6AZgntJAhycfjeNgteCECK"
-      },
-      "artists": [
-        {
-          "name": "Kid Francescoli",
-          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "1986",
-      "url": "https://open.spotify.com/track/3FzVfeJyQ4AiN6EuYZ7toQ"
     },
     {
       "added_at": "2023-05-04 21:27:18",

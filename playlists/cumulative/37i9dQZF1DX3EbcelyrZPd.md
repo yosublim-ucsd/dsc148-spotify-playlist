@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Barnaba & Otile Brown
 
-240 songs - 13 hr 37 min
+242 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Fall](https://open.spotify.com/track/0FIWGHovemqfGGQFu2z8Ed) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Fall](https://open.spotify.com/album/4lbAWl5b6osztxkmzLeCCb) | 3:26 | 2021-09-02 | 2022-09-09 |
 | [Fall](https://open.spotify.com/track/2Nj3AvhTidY0PJhyYL8YSe) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Fall](https://open.spotify.com/album/1lWUiNiSLTAm8VPTR13YL4) | 3:26 | 2021-09-02 | 2022-07-29 |
 | [Fall](https://open.spotify.com/track/6JZemVPI8dX5M6is4gayPK) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Fall](https://open.spotify.com/album/6BnPu8dEH5XY5DJY1B0xef) | 3:33 | 2022-08-18 |  |
+| [Falling](https://open.spotify.com/track/4OjohSrMjXzPwH64ICPsiB) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Falling](https://open.spotify.com/album/7uk0eVcrenwRaNqeT6Rf7p) | 2:59 | 2023-06-08 |  |
 | [Final](https://open.spotify.com/track/5mFGSbg87MiGcbyvJ1CyZU) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Final](https://open.spotify.com/album/1tIams5EiCYLSlutOW04rU) | 3:00 | 2021-10-29 | 2022-03-04 |
 | [Finesse \(East African Mix\) \- feat\. Rayvanny & Theecember](https://open.spotify.com/track/1mKt6MgYyZv6h8aTxX4ng8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [Finesse \(East African Mix\) \[feat\. Rayvanny & Theecember\]](https://open.spotify.com/album/1eo8bkskV4VPzTLvKidTbE) | 2:35 | 2022-06-30 | 2023-01-13 |
 | [Fofofo \(feat\. Young Lunya\)](https://open.spotify.com/track/4kvGwxShHMb2sslstdMcau) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Fofofo \(feat\. Young Lunya\)](https://open.spotify.com/album/2T9whvgRUn0rG84dz9h5CU) | 3:50 | 2022-08-18 | 2022-09-24 |
@@ -102,7 +103,7 @@
 | [Maan Meri Jaan \(African Version\)](https://open.spotify.com/track/709Eo5HgTz3di5xVkTWr4b) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Maan Meri Jaan \(African Version\)](https://open.spotify.com/album/0qyUqa11Zf6m5hXjogpSo9) | 3:22 | 2023-02-23 |  |
 | [Madanga Ya Mke Wangu](https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Madanga Ya Mke Wangu](https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD) | 5:37 | 2021-10-14 | 2022-02-25 |
 | [Madness](https://open.spotify.com/track/3yCiJlTtHFEnAknMyBsFCi) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Most People Want This](https://open.spotify.com/album/1lc1Yrp51pUXHlO95vArpx) | 2:35 | 2023-03-10 |  |
-| [Magical](https://open.spotify.com/track/48vs5A0PgEI38s6r92lwsC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Romantic](https://open.spotify.com/album/2zeZk35J1bMoXDhpsxrSxq) | 3:04 | 2022-09-23 |  |
+| [Magical](https://open.spotify.com/track/48vs5A0PgEI38s6r92lwsC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Romantic](https://open.spotify.com/album/2zeZk35J1bMoXDhpsxrSxq) | 3:04 | 2022-09-23 | 2023-06-09 |
 | [Mahaba](https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mahaba](https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x) | 3:16 | 2023-02-16 |  |
 | [Make it bounce \(Katika\)](https://open.spotify.com/track/6t6MpkK03yHwcK6S4L1pMR) | [iiCons](https://open.spotify.com/artist/4NcqeUfjUFtjSdpjd14gbQ) | [Make it bounce \(Katika\)](https://open.spotify.com/album/3VFFXWgQS7LHWvIkxBKGo5) | 2:57 | 2022-05-12 | 2022-07-15 |
 | [Mama](https://open.spotify.com/track/4dHZ8yHndXrUt6Kh2OQx41) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mama](https://open.spotify.com/album/54kmZYE3OieaMSlLkMh1qj) | 2:54 | 2022-05-05 | 2022-09-24 |
@@ -204,6 +205,7 @@
 | [Single](https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Single](https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb) | 2:16 | 2023-01-19 |  |
 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 | 2023-04-06 |  |
 | [Sipendi Dharau](https://open.spotify.com/track/2CHHDg6NHTUtfIfDqMy10g) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Sipendi Dharau](https://open.spotify.com/album/6TIn5Inx2WQPQqQd0Ekafr) | 3:42 | 2022-10-21 | 2023-04-07 |
+| [Sitaki](https://open.spotify.com/track/3VciOIAAH9bqNPmsqOhVod) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Sitaki](https://open.spotify.com/album/0Yz6waiDwKXzskayIAFtnM) | 3:36 | 2023-06-08 |  |
 | [Sound](https://open.spotify.com/track/48vHI0EsMshwdDoKDux4nu) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Sound](https://open.spotify.com/album/3zNEpOsqOGYGCYserRZRZn) | 3:33 | 2021-06-25 | 2022-01-07 |
 | [Soyo](https://open.spotify.com/track/4N71F66XSVP9vwWzoUpKAl) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm) | [Soyo](https://open.spotify.com/album/3BwwEwhCb7mOkNLQ8qe5xK) | 3:11 | 2022-09-23 | 2022-10-28 |
 | [Sugar](https://open.spotify.com/track/2lhslrjGZOgYfZI0OI4kT2) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Sugar](https://open.spotify.com/album/0tQvHv3J5vXMHBMa42vj9u) | 3:20 | 2022-03-17 | 2023-02-10 |
@@ -231,7 +233,7 @@
 | [Upo Nyonyo](https://open.spotify.com/track/2WNRS21MvaSOX9PBTIRn8Y) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Upo Nyonyo](https://open.spotify.com/album/4JILnHDsmvGkrgyJaH8rIv) | 3:50 | 2022-11-10 |  |
 | [Usijichukulie Star](https://open.spotify.com/track/6hisHwCinS4fPRNAzYmrVk) | [B Gway](https://open.spotify.com/artist/2McpxRWbFB0yp0zsh38XOZ), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Usijichukulie Star](https://open.spotify.com/album/0Bp8t9wTlO14CgYfmXJsZY) | 3:07 | 2022-08-18 | 2022-10-28 |
 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 | 2023-02-09 |  |
-| [Utaonaje](https://open.spotify.com/track/7imIaiILBsQDjBjs9RB9rb) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Utaonaje](https://open.spotify.com/album/10vwqg8nJonBXhv0jF9zZv) | 3:35 | 2022-08-18 |  |
+| [Utaonaje](https://open.spotify.com/track/7imIaiILBsQDjBjs9RB9rb) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Utaonaje](https://open.spotify.com/album/10vwqg8nJonBXhv0jF9zZv) | 3:35 | 2022-08-18 | 2023-06-09 |
 | [Utu](https://open.spotify.com/track/6mzsCUtAl9yXzRQTbToJ57) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 4:04 | 2022-01-13 | 2023-01-27 |
 | [Vacation](https://open.spotify.com/track/6gODHGgWyNxfg4oiHf3zDw) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6) | [Vacation](https://open.spotify.com/album/3BhNvnIYdTtYBfTQsxBb7F) | 3:02 | 2022-09-22 | 2023-01-13 |
 | [Vamonos](https://open.spotify.com/track/6BypdbiJye7MsQOa8kUheD) | [Juan Daniél](https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh), [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4) | [Vamonos](https://open.spotify.com/album/35Yss18s0YFfMg8lHoX2JY) | 2:32 | 2022-05-26 | 2022-09-30 |

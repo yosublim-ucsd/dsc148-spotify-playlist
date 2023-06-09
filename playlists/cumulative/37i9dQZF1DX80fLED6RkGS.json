@@ -391,6 +391,36 @@
     },
     {
       "album": {
+        "name": "BALANCE",
+        "url": "https://open.spotify.com/album/45D7o9gIyZKTPlSuXc4yS1"
+      },
+      "artists": [
+        {
+          "name": "VIKINGS KENYA",
+          "url": "https://open.spotify.com/artist/1JQvWI9tPtiuOcTb5jYhHB"
+        },
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "V6MUZIKI",
+          "url": "https://open.spotify.com/artist/6UpnTDYMRuKx49FyWH6mxU"
+        },
+        {
+          "name": "Parroty",
+          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219663,
+      "name": "BALANCE",
+      "url": "https://open.spotify.com/track/75WXBBxPMgXxcgMIQ04gF1"
+    },
+    {
+      "album": {
         "name": "Balance the Ball",
         "url": "https://open.spotify.com/album/5be5hv6hWXosW0MC25JGNZ"
       },
@@ -3036,7 +3066,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 214529,
       "name": "Mapigo",
       "url": "https://open.spotify.com/track/7zE5SOZkynJGwOTWQhk0st"
@@ -5244,7 +5274,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 191020,
       "name": "Tamu",
       "url": "https://open.spotify.com/track/0m36dDMgvDCeTpM7y3GkkO"
@@ -5442,6 +5472,28 @@
       "duration_ms": 176842,
       "name": "Tupewe Pombe",
       "url": "https://open.spotify.com/track/7JpBD6OU5gJklnGdGgNIY3"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/1QM9WYNc2z9fjTDty5iYCQ"
+      },
+      "artists": [
+        {
+          "name": "Genes1s",
+          "url": "https://open.spotify.com/artist/2bHzI3U1oGyLK5OvIFdq2e"
+        },
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182308,
+      "name": "Tupo site",
+      "url": "https://open.spotify.com/track/7lZ68c0bZQtMT92PhvdV2X"
     },
     {
       "album": {

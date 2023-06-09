@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 128278,
+  "num_followers": 128354,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2Y3ODJjZTIxZDY5OTE2OTRlY2Y5OGVhNDRhYzkyMDlmNjNiN2I2",
+  "snapshot_id": "MCxhYjY1YzMyOTBiYWFhNjBmNTE3YzAwMDBlZGQ1OWI1OWVhNzllYTIy",
   "tracks": [
     {
       "added_at": "2023-01-02 17:54:36",
@@ -187,22 +187,18 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Showcase",
-        "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
+        "name": "Hits'n'Flips",
+        "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        },
-        {
-          "name": "The Jordanaires",
-          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+          "name": "Procol Harum",
+          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
         }
       ],
-      "duration_ms": 164573,
-      "name": "Crazy - Single Version",
-      "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
+      "duration_ms": 248946,
+      "name": "A Whiter Shade of Pale - Original Single Version",
+      "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -223,18 +219,22 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Hits'n'Flips",
-        "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
+        "name": "Showcase",
+        "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
       "artists": [
         {
-          "name": "Procol Harum",
-          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
         }
       ],
-      "duration_ms": 248946,
-      "name": "A Whiter Shade of Pale - Original Single Version",
-      "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
+      "duration_ms": 164573,
+      "name": "Crazy - Single Version",
+      "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "It's A Man's Man's Man's World",
         "url": "https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 167373,
       "name": "It's A Man's, Man's, Man's World",
       "url": "https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Yes I'm Ready",
         "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 184333,
       "name": "Yes. I'm Ready",
       "url": "https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X"
     },
     {
       "added_at": "2023-01-02 17:54:36",

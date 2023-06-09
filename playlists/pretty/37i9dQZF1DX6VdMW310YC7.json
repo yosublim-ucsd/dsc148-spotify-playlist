@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3621175,
+  "num_followers": 3619951,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzZiZDY4NDA0OTk2NzY0YjJjYTU4NjRiYmVjNWJlY2RiMGVmNWM0",
+  "snapshot_id": "MCw1MDY5ZGU2MmI0OTNhZDNjMTkwNTczMzA4ODY4N2E5MTc0ZDdkM2Nj",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -379,22 +379,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Blood Remixed",
-        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
+        "name": "Allein Allein",
+        "url": "https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "INNERVERSE",
+          "url": "https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf"
         },
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 310133,
-      "name": "Feel Your Weight - Poolside Remix",
-      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
+      "duration_ms": 221128,
+      "name": "Allein Allein",
+      "url": "https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -475,26 +479,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Allein Allein",
-        "url": "https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2"
+        "name": "Blood Remixed",
+        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
       "artists": [
         {
-          "name": "INNERVERSE",
-          "url": "https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         },
         {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         }
       ],
-      "duration_ms": 221128,
-      "name": "Allein Allein",
-      "url": "https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj"
+      "duration_ms": 310133,
+      "name": "Feel Your Weight - Poolside Remix",
+      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Spring Embers",
-        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Spring Embers",
-      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Ghostkeeper",
         "url": "https://open.spotify.com/album/0ZoNlJeutDZYpf1rSzGInO"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 331381,
       "name": "Ghostkeeper",
       "url": "https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Spring Embers",
+        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Spring Embers",
+      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Life on Hold",
+        "url": "https://open.spotify.com/album/030x3uRQYYEtkFwpIj60ci"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 207540,
+      "name": "Life on Hold",
+      "url": "https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 241804,
       "name": "Feels Just Like it",
       "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Life on Hold",
-        "url": "https://open.spotify.com/album/030x3uRQYYEtkFwpIj60ci"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 207540,
-      "name": "Life on Hold",
-      "url": "https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1159,22 +1159,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Breaking Apart",
-        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu"
       },
       "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
         {
           "name": "Jerro",
           "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
         },
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
         }
       ],
-      "duration_ms": 275958,
-      "name": "Breaking Apart",
-      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
+      "duration_ms": 287812,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1215,26 +1219,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu"
+        "name": "Breaking Apart",
+        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
       },
       "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
         {
           "name": "Jerro",
           "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
         },
         {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 287812,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg"
+      "duration_ms": 275958,
+      "name": "Breaking Apart",
+      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1259,22 +1259,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sweet Nothings (feat. Minke)",
-        "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
+        "name": "Turning Away (Parra for Cuva Remix)",
+        "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
       },
       "artists": [
         {
-          "name": "Holiday87",
-          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
         },
         {
-          "name": "Minke",
-          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
         }
       ],
-      "duration_ms": 228845,
-      "name": "Sweet Nothings (feat. Minke)",
-      "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
+      "duration_ms": 261538,
+      "name": "Turning Away - Parra for Cuva Remix",
+      "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1299,22 +1299,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Turning Away (Parra for Cuva Remix)",
-        "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
+        "name": "Sweet Nothings (feat. Minke)",
+        "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
         },
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Minke",
+          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
         }
       ],
-      "duration_ms": 261538,
-      "name": "Turning Away - Parra for Cuva Remix",
-      "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
+      "duration_ms": 228845,
+      "name": "Sweet Nothings (feat. Minke)",
+      "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Tal",
-        "url": "https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I"
-      },
-      "artists": [
-        {
-          "name": "p\u00f8laroit",
-          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
-        }
-      ],
-      "duration_ms": 291125,
-      "name": "Tal",
-      "url": "https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Lost In Space",
         "url": "https://open.spotify.com/album/7EmlgPald7UuGDXgDXBYek"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 222813,
       "name": "Lost In Space",
       "url": "https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Tal",
+        "url": "https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I"
+      },
+      "artists": [
+        {
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+        }
+      ],
+      "duration_ms": 291125,
+      "name": "Tal",
+      "url": "https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Light Of Day",
         "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 400130,
       "name": "Light Of Day",
       "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "All My Friends",
         "url": "https://open.spotify.com/album/1LclfXDVjTM6b39cCVlLgG"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 172331,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/1Foh6n4d1Vs8oWw9PNYye8"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Teenage Heart",
+        "url": "https://open.spotify.com/album/4zSoenkUTcAtDPKSyyb6op"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Teenage Heart",
+      "url": "https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Wholehearted EP",
         "url": "https://open.spotify.com/album/3hedoXpz4aesaAesnYWALr"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 372000,
       "name": "Just",
       "url": "https://open.spotify.com/track/2u9o4jlbtzqdy2bsBX9FYK"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Teenage Heart",
-        "url": "https://open.spotify.com/album/4zSoenkUTcAtDPKSyyb6op"
-      },
-      "artists": [
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
-        },
-        {
-          "name": "Nina Carr",
-          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Teenage Heart",
-      "url": "https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
+        "name": "Catch",
+        "url": "https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa"
       },
       "artists": [
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
         }
       ],
-      "duration_ms": 273679,
-      "name": "Manila Palm",
-      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
+      "duration_ms": 243750,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/0avqD9l3aBJnuMDZMyFPwl"
     },
     {
       "added_at": "2023-05-26 04:00:00",

@@ -4,7 +4,7 @@
 
 > Let these songs soundtrack your busy wedding season.
 
-55 songs - 3 hr 15 min
+56 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [](https://open.spotify.com/track/6JNluWWlzWmrW1LKR5X2SN) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5Mpodk3gBVn1eSAVlfbci4) | 0:00 | 2021-10-29 | 2023-04-22 |
 | [](https://open.spotify.com/track/6qrb4ganbSTzcDDOo1pzMT) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7lF34sP6HtRAL7VEMvYHff) | 0:00 | 2021-10-29 | 2023-04-22 |
 | [](https://open.spotify.com/track/7IC7D8HIUgBqPiKDpOFBQt) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0RdCVt41cIwQe5pVPH2Z8B) | 0:00 | 2021-10-29 | 2023-04-22 |
+| [Baari Barsi](https://open.spotify.com/track/3LmGW8kkDav3YgKi7ZLRXj) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Harsimran Singh](https://open.spotify.com/artist/7xoMHS2ot8ojHrd7xdWRNe) | [Bloody Daddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pmBPVa6MtjFYVBTeODYBl) | 3:05 | 2023-06-08 |  |
 | [Bahara](https://open.spotify.com/track/1gwO79MdYdumgIjxq8eCxB) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 5:25 | 2021-10-29 | 2023-01-25 |
 | [Banno \(From "Tannu Weds Manu Returns"\)](https://open.spotify.com/track/78LZUVqzZzsuNfT6G782pP) | [Brijesh Shandilya](https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q), [Swati Sharma](https://open.spotify.com/artist/6nvNh0jV10gc2aYFALNahg) | [Tanu Weds Manu Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66GxOwfWVlbVRPwoi5dbhd) | 3:16 | 2021-10-29 |  |
 | [Bhankas \(From "Baaghi 3"\)](https://open.spotify.com/track/4qhGDmLQ7Rbyqkm7cwjLps) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Bhankas \(From "Baaghi 3"\)](https://open.spotify.com/album/3COyCRn7YNvOKxh3QJEHt0) | 2:38 | 2021-10-29 |  |

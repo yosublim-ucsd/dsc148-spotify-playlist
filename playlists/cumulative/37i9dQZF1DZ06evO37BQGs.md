@@ -4,7 +4,7 @@
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 59 min
+69 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,14 +33,15 @@
 | [If I Could](https://open.spotify.com/track/37mcskMYPUoi0ZlqAPBByr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:31 | 2022-11-17 |  |
 | [Insultiment](https://open.spotify.com/track/6wqT66Ny7Xch74zYgRnTHC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 3:46 | 2023-02-25 | 2023-03-13 |
 | [Introduction to Pop \(Live\)](https://open.spotify.com/track/6nH9suYXFEaXE8sFyCW6Yy) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Live at the Lemon Grove](https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2) | 2:57 | 2022-11-18 | 2023-04-14 |
-| [It Suits You](https://open.spotify.com/track/3aehHnqlvoi05DxnDR4qmE) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 3:16 | 2023-02-25 | 2023-06-01 |
+| [It Suits You](https://open.spotify.com/track/3aehHnqlvoi05DxnDR4qmE) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 3:16 | 2023-02-25 |  |
 | [Kill Your Own](https://open.spotify.com/track/1L9xMwmX3OAb8mLv2x37e6) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:45 | 2022-11-17 |  |
 | [Live Fast, Die Ugly](https://open.spotify.com/track/6r7ReUGIIAW0F2KPI39ktr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 2:32 | 2022-11-17 |  |
 | [Lullaby](https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:39 | 2022-11-17 | 2023-05-13 |
 | [Makeshift](https://open.spotify.com/track/3SWn0ZgWROzFaP98QcPZyl) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:10 | 2023-05-12 |  |
-| [New Glasses](https://open.spotify.com/track/2NZxVsOV6pE6xxqRKvUQlM) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 3:49 | 2023-05-31 |  |
+| [New Glasses](https://open.spotify.com/track/2NZxVsOV6pE6xxqRKvUQlM) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 3:49 | 2023-05-31 | 2023-06-09 |
 | [New Glasses](https://open.spotify.com/track/3N8PrkWhSMtzQrlslY6EQg) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 3:49 | 2023-03-03 | 2023-05-27 |
 | [New Glasses](https://open.spotify.com/track/49D5HZJybTYkuVRSDQyQCF) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [New Glasses](https://open.spotify.com/album/2w7XYqojw19SoiPqNZYka8) | 3:49 | 2022-12-01 | 2022-12-04 |
+| [New Glasses](https://open.spotify.com/track/4eKEWL2F6SWN7GLH2oE9Am) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:49 | 2023-06-08 |  |
 | [New Glasses](https://open.spotify.com/track/4miicEbDryBAnFO0c2xODc) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [New Glasses](https://open.spotify.com/album/0RlbSe60TYD2V8zx8C7mny) | 3:49 | 2022-12-03 | 2023-03-04 |
 | [No Pretending](https://open.spotify.com/track/59EnX4BXWB1mSe2pz4K2g3) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 4:33 | 2022-11-17 |  |
 | [No Way Back](https://open.spotify.com/track/5Hc3D67M6rCgDt5dPNaSiI) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:35 | 2022-11-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,836 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,856 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 40 | [Man up Anthem](https://open.spotify.com/track/4HSyxvkoA2MKKVh13ruWLI) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Man Up](https://open.spotify.com/album/6fSKi6TfeqQazb9QlpfRUy) | 3:27 |
 | 41 | [Lincoln](https://open.spotify.com/track/7KsSc1CI3GAbcsqv2t0G6K) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Lincoln](https://open.spotify.com/album/1BgrsZr2sx0dEiK18sZGd9) | 4:27 |
 | 42 | [Sideways](https://open.spotify.com/track/7qzqx1R7HHWKcwioMAqX2M) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 4:14 |
-| 43 | [Back Soon](https://open.spotify.com/track/4H20Cd4jvIZsdOKnFuCGAM) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [What's Understood](https://open.spotify.com/album/5yjpMVAQ1f4DurUP67RcKR) | 4:07 |
-| 44 | [I Am Not the One](https://open.spotify.com/track/5PRBy8y79B3xM2Kx3tJbmb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:29 |
+| 43 | [I Am Not the One](https://open.spotify.com/track/5PRBy8y79B3xM2Kx3tJbmb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:29 |
+| 44 | [Back Soon](https://open.spotify.com/track/4H20Cd4jvIZsdOKnFuCGAM) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [What's Understood](https://open.spotify.com/album/5yjpMVAQ1f4DurUP67RcKR) | 4:07 |
 | 45 | [DNOU2](https://open.spotify.com/track/5E1Np2je3NS2ucYjgoZwrM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [DNOU2](https://open.spotify.com/album/3cCoAz0jHGTo5SQXBi2w69) | 3:44 |
 | 46 | [Lights Go Out](https://open.spotify.com/track/5TYKPiZtHh02L0Xx8Prkiv) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Justin Ebach](https://open.spotify.com/artist/7lAEeQHAtYITsUktcK80m9) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 4:19 |
-| 47 | [Pieces](https://open.spotify.com/track/2S9t3jIPnEs7zlTzZHPbEQ) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 4:17 |
-| 48 | [Dnou](https://open.spotify.com/track/2fBhHFsXlV23ENM4nEBsVT) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:00 |
+| 47 | [Dnou](https://open.spotify.com/track/2fBhHFsXlV23ENM4nEBsVT) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:00 |
+| 48 | [Pieces](https://open.spotify.com/track/2S9t3jIPnEs7zlTzZHPbEQ) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 4:17 |
 | 49 | [On 10](https://open.spotify.com/track/2KR3XkJdsVJrF1ISG1QbLy) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [On 10](https://open.spotify.com/album/1o2f9ssb08V2XSRichmBT1) | 3:07 |
 | 50 | [Tempo](https://open.spotify.com/track/2qFykEZQhO43nt6Kbg0IFk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Tempo](https://open.spotify.com/album/7CHHpR5lbHnnNdY2blhDhi) | 4:00 |
 
-Snapshot ID: `MjgxMDIzMzUsMDAwMDAwMDAyN2IzYzExOGVmYmNhZWFkZTE4ZGYxM2NhZTIwMDAyMA==`
+Snapshot ID: `MjgxMDM3NzksMDAwMDAwMDBmM2Y1MDZjYWFmNGExM2I1NThiNGVmNTA1OWVhYWJiOQ==`

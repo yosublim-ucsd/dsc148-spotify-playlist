@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-290 songs - 12 hr 24 min
+291 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Weary Traveler](https://open.spotify.com/track/7gLCSVhUt9CNBoCqNRas4R) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Weary Traveler](https://open.spotify.com/album/0uP3ptU1wLEBiIH6qpWoP9) | 3:10 | 2023-01-06 |  |
 | [Weekend Blues](https://open.spotify.com/track/0l7mN70fiUJ0Q3HacqvKEU) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Weekend Blues](https://open.spotify.com/album/6oZvFXORprCDaGJ1t0Gmde) | 3:05 | 2022-10-28 | 2023-03-10 |
 | [Wees Hier](https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq) | [Adrianne Mercier](https://open.spotify.com/artist/06urGGaPJJnDlxhUHO0TCn) | [Wees Hier](https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q) | 1:54 | 2023-02-24 |  |
+| [Welcome Another Morning](https://open.spotify.com/track/5sGlEWMqEvNwKQZWUbsGDc) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Welcome Another Morning](https://open.spotify.com/album/60wQBZH2QIzedGgphfwBTj) | 3:04 | 2023-06-08 |  |
 | [When I'm With You](https://open.spotify.com/track/2owyKJv6AXPVSnHIPmOLsp) | [Benjamin Waverly](https://open.spotify.com/artist/4IXlJyOpO3xS2Sl7GZMUu7) | [When I'm With You](https://open.spotify.com/album/4jMcDv3EarnmcXRRTmHW3a) | 2:41 | 2022-03-04 | 2022-07-22 |
 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 | 2023-03-24 |  |
 | [When You Hold Me](https://open.spotify.com/track/4mDch7mKVDPFcF8TD5v6p6) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Everythings Better With You](https://open.spotify.com/album/15PxMtybhysgz6fQRK6PRf) | 2:10 | 2022-03-04 |  |

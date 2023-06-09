@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Tones & I x Sam Feldt
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,719 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,817 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 79 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 |
 | 80 | [No Sleep](https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [No Sleep](https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p) | 2:50 |
 
-Snapshot ID: `MCxmYTdjZDZmYzdlYjkwYjAyMTAzMTA2NjllMjE3YjczMmU5OTFkYjRk`
+Snapshot ID: `MCwxNDQ0NGYyNTlkMmY3YTRlNGMxZGVhZTViNzg2MjVjNWNkYTU4Y2Qx`

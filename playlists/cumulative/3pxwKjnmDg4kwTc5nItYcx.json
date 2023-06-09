@@ -191,6 +191,24 @@
     },
     {
       "album": {
+        "name": "7 Minutes In Heaven",
+        "url": "https://open.spotify.com/album/5OBjaJBkBiB2lte0yM6BUa"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216572,
+      "name": "7 Minutes In Heaven",
+      "url": "https://open.spotify.com/track/1BiZ9r6J68KPZiwO9aYHfj"
+    },
+    {
+      "album": {
         "name": "Cobalt",
         "url": "https://open.spotify.com/album/6u71sqyPz80VM8K8CCOgZf"
       },

@@ -242,10 +242,32 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 189493,
       "name": "Blindado El Carro",
       "url": "https://open.spotify.com/track/5f3GDXYaa2pLYqm2vKqoLY"
+    },
+    {
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189506,
+      "name": "Blindado El Carro",
+      "url": "https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm"
     },
     {
       "album": {
@@ -864,10 +886,28 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 181733,
       "name": "En Una De Pista",
       "url": "https://open.spotify.com/track/2OTGlJ4IK34BghD0aa9Q6i"
+    },
+    {
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181746,
+      "name": "En Una De Pista",
+      "url": "https://open.spotify.com/track/0e2sClDxK89Jsomfg1FQNZ"
     },
     {
       "album": {

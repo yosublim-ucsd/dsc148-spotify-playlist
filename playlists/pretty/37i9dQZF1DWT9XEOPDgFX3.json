@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Maple Glider",
-  "num_followers": 67349,
+  "num_followers": 67409,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTI1NTFhZDM1ODUyYWYxNzY0NzBkNmM0NzUwYTlhYzAxNjBiZWM0",
+  "snapshot_id": "MCwyZWM4NDllZWQ1MmFhNTBhZWU2Y2U0OGY5ZTIxMjE4NTdkODA4YjFj",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Spring Bug",
+        "url": "https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 207928,
+      "name": "Spring Bug",
+      "url": "https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6"
+    },
+    {
       "added_at": "2023-05-26 04:01:00",
       "album": {
         "name": "Ants From Up There",
@@ -1025,22 +1041,6 @@
       "url": "https://open.spotify.com/track/0fsjdInurbnZ0cptodXvFW"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Spring Bug",
-        "url": "https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 207928,
-      "name": "Spring Bug",
-      "url": "https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6"
-    },
-    {
       "added_at": "2023-05-26 04:01:00",
       "album": {
         "name": "Planet Song",
@@ -1055,22 +1055,6 @@
       "duration_ms": 210281,
       "name": "Planet Song",
       "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1095,22 +1079,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
       },
       "artists": [
         {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
         }
       ],
-      "duration_ms": 197624,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+      "duration_ms": 190466,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1127,6 +1107,26 @@
       "duration_ms": 155520,
       "name": "bluejay",
       "url": "https://open.spotify.com/track/2iew4KgPein9RqH5tUA95K"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "duration_ms": 197624,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1401,6 +1401,26 @@
       "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "More Better",
+        "url": "https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA"
+      },
+      "artists": [
+        {
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
+        },
+        {
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
+        }
+      ],
+      "duration_ms": 240124,
+      "name": "Changes (feat. Laura Elliott)",
+      "url": "https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ"
+    },
+    {
       "added_at": "2023-05-26 04:01:00",
       "album": {
         "name": "Waysides",
@@ -1467,22 +1487,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Sundowner",
-        "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Campfire",
-      "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Let It Be",
         "url": "https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9"
       },
@@ -1495,6 +1499,22 @@
       "duration_ms": 222333,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Sundowner",
+        "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Campfire",
+      "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1513,26 +1533,6 @@
       "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "More Better",
-        "url": "https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA"
-      },
-      "artists": [
-        {
-          "name": "Cisco Swank",
-          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
-        },
-        {
-          "name": "Laura Elliott",
-          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
-        }
-      ],
-      "duration_ms": 240124,
-      "name": "Changes (feat. Laura Elliott)",
-      "url": "https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ"
-    },
-    {
       "added_at": "2023-05-26 04:01:00",
       "album": {
         "name": "gr\u00e6",
@@ -1547,6 +1547,22 @@
       "duration_ms": 218413,
       "name": "Polly",
       "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Bad girl",
+      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Bad girl",
-      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 186509,
       "name": "Wind On Tin",
       "url": "https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "A Little Older",
+        "url": "https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 182452,
+      "name": "A Little Older",
+      "url": "https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1661,6 +1677,22 @@
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Life Go Low",
+        "url": "https://open.spotify.com/album/29dTkvqNj8HX2WZu7ougio"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 196103,
+      "name": "Life Go Low",
+      "url": "https://open.spotify.com/track/4g2NlUx01aHSJRHfl8YgPI"
+    },
+    {
       "added_at": "2023-05-26 04:01:00",
       "album": {
         "name": "Nobody Lives Here Anymore",
@@ -1691,22 +1723,6 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "A Little Older",
-        "url": "https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR"
-      },
-      "artists": [
-        {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
-        }
-      ],
-      "duration_ms": 182452,
-      "name": "A Little Older",
-      "url": "https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1741,22 +1757,6 @@
       "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Life Go Low",
-        "url": "https://open.spotify.com/album/29dTkvqNj8HX2WZu7ougio"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 196103,
-      "name": "Life Go Low",
-      "url": "https://open.spotify.com/track/4g2NlUx01aHSJRHfl8YgPI"
-    },
-    {
       "added_at": "2023-05-26 04:01:00",
       "album": {
         "name": "bc i love you",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "I'm Not There",
-        "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
+        "name": "Bury Your Horses",
+        "url": "https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS"
       },
       "artists": [
         {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+          "name": "Daneshevskaya",
+          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
         }
       ],
-      "duration_ms": 243706,
-      "name": "I'm Not There",
-      "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
+      "duration_ms": 233984,
+      "name": "Dr. Johann Averies",
+      "url": "https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Bury Your Horses",
-        "url": "https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS"
+        "name": "Time Ain't Accidental",
+        "url": "https://open.spotify.com/album/3T3RUDuZbP288R9a92JVFB"
       },
       "artists": [
         {
-          "name": "Daneshevskaya",
-          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
         }
       ],
-      "duration_ms": 233984,
-      "name": "Dr. Johann Averies",
-      "url": "https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg"
+      "duration_ms": 207468,
+      "name": "Time Ain't Accidental",
+      "url": "https://open.spotify.com/track/2UOah6lDYg5ilSrVec8Gkz"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "I'm Not There",
+        "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
+      },
+      "artists": [
+        {
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "I'm Not There",
+      "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Dibujos De Mi Alma",
         "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 252574,
       "name": "Dibujos De Mi Alma",
       "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Time Ain't Accidental",
-        "url": "https://open.spotify.com/album/3T3RUDuZbP288R9a92JVFB"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 207468,
-      "name": "Time Ain't Accidental",
-      "url": "https://open.spotify.com/track/2UOah6lDYg5ilSrVec8Gkz"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -2063,18 +2063,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD"
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
       },
       "artists": [
         {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+          "name": "j solomon",
+          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
         }
       ],
-      "duration_ms": 242186,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
+      "duration_ms": 235587,
+      "name": "Gossamer",
+      "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
     }
   ],
   "unique_name": "Folk Arc",

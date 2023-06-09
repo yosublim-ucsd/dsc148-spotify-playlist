@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. Just the very best new alternative tracks\. Cover: Bully
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,746 likes - 126 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,222 likes - 126 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Perspective](https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Perspective](https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4) | 2:43 |
 | 126 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 |
 
-Snapshot ID: `MCw1MjMwNWI4ZTcxZjYyYWM4OWEzNjljZDk2NTFmNzRhNDljNjM4OTNm`
+Snapshot ID: `MCxkZGY3ZWMxNWRkZWI0MTMwYzVhNzQ0OTQxZGE1NGUzNTBhNzQ1NTRm`

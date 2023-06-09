@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,853 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,863 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 | 5 | [Northern Winds \- Live at the Elmwood Hall](https://open.spotify.com/track/6GRPP8gcoTqfbWIGhPLJ0t) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Live at the Elmwood Hall](https://open.spotify.com/album/7cbC5xWYR3RyiBwy6VORlZ) | 5:09 |
 | 6 | [Golden Embers](https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:45 |
 | 7 | [Forest Green](https://open.spotify.com/track/2cdkkKVkY8bqi6VS8r8gxp) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 3:39 |
-| 8 | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/track/68DJwUeMyM2ac4Kahfzzy8) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/album/5Lmem0h0uYNzJA6qep0sf2) | 3:34 |
+| 8 | [This Must Be the Place \(Naïve Melody\)](https://open.spotify.com/track/3AzxRasq4dOQEVWoLqqdH5) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [This Must Be the Place \(Naïve Melody\)](https://open.spotify.com/album/7IdQctbEeHZnOXtuXNhU3J) | 3:34 |
 | 9 | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U) | 3:56 |
 | 10 | [Love Like This](https://open.spotify.com/track/24Axpf2jGwlzCrddAEiLgl) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Like This](https://open.spotify.com/album/1wykiv2riNxF4i3gfrz3qI) | 4:10 |
 | 11 | [Siren Song](https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Siren Song](https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 | 49 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
 | 50 | [Lovers Who Make Love \- Live at the Mac](https://open.spotify.com/track/36VE1ZN6UFtVpAH1HJELA6) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Live at the Mac](https://open.spotify.com/album/7IfKkyytqHkjdH2uRTXEIX) | 3:43 |
 
-Snapshot ID: `MCwyYTMwZGNiZmRiYjM0YWIzMDFiYjQ5ZTYwYjI4MWJlNzY1NjUyZDA3`
+Snapshot ID: `MCwxMGI3YWVkNTJjYTlmYjk2MjFhMGZlNmRjZDgyODE4ZjM5MGQwNWE1`

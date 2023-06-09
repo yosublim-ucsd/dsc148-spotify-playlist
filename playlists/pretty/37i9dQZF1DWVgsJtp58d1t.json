@@ -1,12 +1,12 @@
 {
   "description": "New music each and every Friday.",
-  "num_followers": 1004470,
+  "num_followers": 1004544,
   "original_name": "This is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTg4MTkzZDYyOGNiMjExNDk3MmYzMjc2NThiY2ZmMDEwYmI2MGJi",
+  "snapshot_id": "MCxiYjM2MWNmOGU2ZWE4NThkNzk4YWFlZWViMTBlZWIxYmQ5YTg2YTBm",
   "tracks": [
     {
       "added_at": "2023-06-02 04:04:19",
@@ -306,6 +306,10 @@
         {
           "name": "Jimin",
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         },
         {
           "name": "JVKE",
@@ -1142,6 +1146,10 @@
         {
           "name": "Dermot Kennedy",
           "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
       "duration_ms": 163257,

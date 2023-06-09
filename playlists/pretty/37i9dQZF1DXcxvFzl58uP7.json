@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: Joji",
-  "num_followers": 1078745,
+  "num_followers": 1078864,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGYwMDdlYmI5MzQ5NmZkNTRmOTkwZTBhZmI1MWMxMjM2ZGQzZjVl",
+  "snapshot_id": "MCxmZGVmOTVjY2QxNzAxODdmZjc5ZDNhNzU1OTBjMjQyZGIzYjE3MWE2",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 204014,
+      "name": "Hot Rod",
+      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "Falling for U",
         "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 204014,
-      "name": "Hot Rod",
-      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Shawcross",
-        "url": "https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs"
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
       "artists": [
         {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 136032,
-      "name": "Warned You",
-      "url": "https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF"
+      "duration_ms": 188301,
+      "name": "Tree Among Shrubs",
+      "url": "https://open.spotify.com/track/4JYJU761kWJEK91hyug33F"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 188301,
-      "name": "Tree Among Shrubs",
-      "url": "https://open.spotify.com/track/4JYJU761kWJEK91hyug33F"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "I Don't Know You",
         "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
       },
@@ -531,6 +515,38 @@
       "duration_ms": 209449,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Shawcross",
+        "url": "https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 136032,
+      "name": "Warned You",
+      "url": "https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF"
+    },
+    {
+      "added_at": "2023-05-22 22:49:24",
+      "album": {
+        "name": "apart of me",
+        "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
+      },
+      "artists": [
+        {
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+        }
+      ],
+      "duration_ms": 76285,
+      "name": "apart of me",
+      "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -563,22 +579,6 @@
       "duration_ms": 172941,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
-    },
-    {
-      "added_at": "2023-05-22 22:49:24",
-      "album": {
-        "name": "apart of me",
-        "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 76285,
-      "name": "apart of me",
-      "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 156381,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "4 Track EP",
         "url": "https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 186781,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 156381,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "You Say I'm in Love",
         "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 176760,
       "name": "You Say I'm in Love",
       "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "ABSOLUTE HEARTBREAK",
-        "url": "https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 154115,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "The Outsider",
         "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 180604,
       "name": "The Outsider",
       "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "ABSOLUTE HEARTBREAK",
+        "url": "https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 154115,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "SUMMER GIRL",
-        "url": "https://open.spotify.com/album/6qGinm5pwGdYnvcR4e2SUC"
-      },
-      "artists": [
-        {
-          "name": "Ian Hugel",
-          "url": "https://open.spotify.com/artist/24uWm1jxjtBwiVnEGT0pjC"
-        }
-      ],
-      "duration_ms": 168384,
-      "name": "SUMMER GIRL",
-      "url": "https://open.spotify.com/track/7Ivlg6WEcmRLCqO32ZhfGd"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "5K",
         "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 133493,
       "name": "Races",
       "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "SUMMER GIRL",
+        "url": "https://open.spotify.com/album/6qGinm5pwGdYnvcR4e2SUC"
+      },
+      "artists": [
+        {
+          "name": "Ian Hugel",
+          "url": "https://open.spotify.com/artist/24uWm1jxjtBwiVnEGT0pjC"
+        }
+      ],
+      "duration_ms": 168384,
+      "name": "SUMMER GIRL",
+      "url": "https://open.spotify.com/track/7Ivlg6WEcmRLCqO32ZhfGd"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Clueless",
-        "url": "https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Manic Pixie Dream Girl",
         "url": "https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 160870,
       "name": "Manic Pixie Dream Girl",
       "url": "https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Forevermore",
-        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Forevermore",
-      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "VROOM VROOM",
         "url": "https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 186500,
       "name": "VROOM VROOM",
       "url": "https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Emotionless",
-        "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
       "artists": [
         {
-          "name": "Crisaunt",
-          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 148401,
-      "name": "Emotionless",
-      "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
+      "duration_ms": 194011,
+      "name": "Always Lone",
+      "url": "https://open.spotify.com/track/5zYDxzEPmchIgpULm0QgJA"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
+        "name": "Emotionless",
+        "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Crisaunt",
+          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
         }
       ],
-      "duration_ms": 194011,
-      "name": "Always Lone",
-      "url": "https://open.spotify.com/track/5zYDxzEPmchIgpULm0QgJA"
+      "duration_ms": 148401,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
     },
     {
       "added_at": "2023-04-17 19:26:13",

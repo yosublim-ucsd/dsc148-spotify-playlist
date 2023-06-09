@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1487826,
+  "num_followers": 1488194,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2QwYzRiMmM1YWY5YWViMGFhNjFiMDRkMjY3MTAxMDRiYWFjMzNh",
+  "snapshot_id": "MCxhOTI0YTlmMjljMzc1ZDAwM2FkOTE1MmU5MGQ1MTllZWUwYWZiODky",
   "tracks": [
     {
       "added_at": "2023-06-02 13:30:00",
@@ -495,30 +495,6 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Fire With Fire",
-        "url": "https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "HRRTZ",
-          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 188799,
-      "name": "Fire With Fire",
-      "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
       },
@@ -539,6 +515,30 @@
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
+        "name": "Fire With Fire",
+        "url": "https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "HRRTZ",
+          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 188799,
+      "name": "Fire With Fire",
+      "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Apnea",
-        "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 332146,
-      "name": "Beyond Control",
-      "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
         "name": "Not Over Yet (feat. Grace Grundy)",
         "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 161904,
       "name": "Not Over Yet (feat. Grace Grundy)",
       "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
+        "name": "Apnea",
+        "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 332146,
+      "name": "Beyond Control",
+      "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/0ZGfflZX2H16q4Omg1kraL"
       },
@@ -875,18 +891,22 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+        "name": "Say Hello EP",
+        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        },
+        {
+          "name": "Meliha",
+          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
         }
       ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+      "duration_ms": 207111,
+      "name": "Say Hello",
+      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -907,26 +927,6 @@
       "duration_ms": 207360,
       "name": "I Want You - Edit",
       "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
-        "name": "Say Hello EP",
-        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
-      },
-      "artists": [
-        {
-          "name": "Enamour",
-          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
-        },
-        {
-          "name": "Meliha",
-          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
-        }
-      ],
-      "duration_ms": 207111,
-      "name": "Say Hello",
-      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
+        "name": "Hypnotised / I Can Feel",
+        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        }
+      ],
+      "duration_ms": 340114,
+      "name": "Hypnotised",
+      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
         "name": "Fibonacci",
         "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 286520,
       "name": "About Us (feat. EMME)",
       "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
-        "name": "Hypnotised / I Can Feel",
-        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Dosem",
-          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
-        }
-      ],
-      "duration_ms": 340114,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Greece 2000",
-        "url": "https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Three Drives",
-          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
-        },
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        }
-      ],
-      "duration_ms": 207334,
-      "name": "Greece 2000",
-      "url": "https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
         "name": "Anjunabeats Volume 14",
         "url": "https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 244543,
       "name": "Turning Away",
       "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        },
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        }
+      ],
+      "duration_ms": 207334,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1323,30 +1323,6 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
-      },
-      "artists": [
-        {
-          "name": "Ytram",
-          "url": "https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ"
-        },
-        {
-          "name": "Citadelle",
-          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 168319,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
         "name": "I / Y",
         "url": "https://open.spotify.com/album/0g0YKewBtW9livkmiAnCOH"
       },
@@ -1367,26 +1343,26 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Out Of Reach",
-        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+          "name": "Ytram",
+          "url": "https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Citadelle",
+          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
         },
         {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         }
       ],
-      "duration_ms": 255991,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+      "duration_ms": 168319,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1427,6 +1403,30 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
+        "name": "Out Of Reach",
+        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+        }
+      ],
+      "duration_ms": 255991,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
         "name": "Love Run Out",
         "url": "https://open.spotify.com/album/1mFUcbjiAdsL62jdyMkEeV"
       },
@@ -1439,22 +1439,6 @@
       "duration_ms": 158192,
       "name": "Love Run Out",
       "url": "https://open.spotify.com/track/1w7YDOf9iWyupxYPWtaXSw"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 200952,
       "name": "Little Darling - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
+        "name": "Should Have Seen It Coming",
+        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "AETHO",
+          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
+        }
+      ],
+      "duration_ms": 238072,
+      "name": "Should Have Seen It Coming",
+      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
         "name": "Hypercolour",
         "url": "https://open.spotify.com/album/2EFTTJUDOQhbJ6c9kc0Vgu"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 209081,
       "name": "Hypercolour",
       "url": "https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
-        "name": "Should Have Seen It Coming",
-        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "AETHO",
-          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
-        }
-      ],
-      "duration_ms": 238072,
-      "name": "Should Have Seen It Coming",
-      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
     },
     {
       "added_at": "2023-06-02 13:30:00",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2023-06-02 13:30:00",
       "album": {
-        "name": "Too Little Too Late (Little Late Edit)",
-        "url": "https://open.spotify.com/album/0fQxyWVWryDvVmuYcFVuCy"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 258984,
-      "name": "Too Little Too Late - Little Late Edit",
-      "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
-    },
-    {
-      "added_at": "2023-06-02 13:30:00",
-      "album": {
         "name": "Born Digital",
         "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 182400,
       "name": "Discopolis 2.0 - MEDUZA Remix",
       "url": "https://open.spotify.com/track/1zu8sQCLjW5jtzf7JVpGop"
+    },
+    {
+      "added_at": "2023-06-02 13:30:00",
+      "album": {
+        "name": "Too Little Too Late (Little Late Edit)",
+        "url": "https://open.spotify.com/album/0fQxyWVWryDvVmuYcFVuCy"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 258984,
+      "name": "Too Little Too Late - Little Late Edit",
+      "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
     },
     {
       "added_at": "2023-06-02 13:30:00",

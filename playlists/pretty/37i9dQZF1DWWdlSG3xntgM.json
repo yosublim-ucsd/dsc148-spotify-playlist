@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 34454,
+  "num_followers": 34469,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTZjY2E1NzJjNTY0OTI0OWZmOGI4YmQyYWZiYmUxM2U2OTY0NjQy",
+  "snapshot_id": "MCxkZGJhN2FmYWFlNDk0MTU0NDEwNDU0YWRiNDA5YmIxZDlkODM5ZGFk",
   "tracks": [
     {
       "added_at": "2023-05-24 10:14:28",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-24 10:14:28",
       "album": {
-        "name": "Xu\u00e2n H\u1ecdp M\u1eb7t",
-        "url": "https://open.spotify.com/album/0vvX45UhPyiuF8hjA60UGL"
-      },
-      "artists": [
-        {
-          "name": "The Son",
-          "url": "https://open.spotify.com/artist/4hmo0RtMEIDYCsEj26S1xH"
-        }
-      ],
-      "duration_ms": 277680,
-      "name": "Phi\u00ean G\u00e1c \u0110\u00eam Xu\u00e2n",
-      "url": "https://open.spotify.com/track/4up4Ge1CRSzarSpTKFf7XI"
-    },
-    {
-      "added_at": "2023-05-24 10:14:28",
-      "album": {
         "name": "Song Ca Nh\u1ea1c V\u00e0ng Bolero V\u00e0 Remix Ph\u1ea7n 1",
         "url": "https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-05-24 10:14:28",
       "album": {
-        "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd (Version Lofi)",
-        "url": "https://open.spotify.com/album/5RiWfZNluUklLApntD9oRG"
+        "name": "Xu\u00e2n H\u1ecdp M\u1eb7t",
+        "url": "https://open.spotify.com/album/0vvX45UhPyiuF8hjA60UGL"
       },
       "artists": [
         {
-          "name": "Phuong My Chi",
-          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+          "name": "The Son",
+          "url": "https://open.spotify.com/artist/4hmo0RtMEIDYCsEj26S1xH"
         }
       ],
-      "duration_ms": 173684,
-      "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd (Version Lofi)",
-      "url": "https://open.spotify.com/track/0dnXeBSlnqLpHkJ5g5o2eY"
+      "duration_ms": 277680,
+      "name": "Phi\u00ean G\u00e1c \u0110\u00eam Xu\u00e2n",
+      "url": "https://open.spotify.com/track/4up4Ge1CRSzarSpTKFf7XI"
     },
     {
       "added_at": "2023-05-24 10:14:28",
@@ -759,6 +743,22 @@
       "duration_ms": 363912,
       "name": "Nhung Doi Hoa Sim",
       "url": "https://open.spotify.com/track/0BQRouDnpSqugi3WUbJ4Nl"
+    },
+    {
+      "added_at": "2023-05-24 10:14:28",
+      "album": {
+        "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd (Version Lofi)",
+        "url": "https://open.spotify.com/album/5RiWfZNluUklLApntD9oRG"
+      },
+      "artists": [
+        {
+          "name": "Phuong My Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+        }
+      ],
+      "duration_ms": 173684,
+      "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd (Version Lofi)",
+      "url": "https://open.spotify.com/track/0dnXeBSlnqLpHkJ5g5o2eY"
     },
     {
       "added_at": "2023-05-24 10:14:28",

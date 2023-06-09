@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 88230,
+  "num_followers": 88264,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTAyMzZlZTJmNjAzYWJhNzQ0NWZlNmEyMDE2N2UxZWIxZTZkOTg0",
+  "snapshot_id": "MCw2MWQ2ZGQ5YmZkYzExNDZlNWU4YWY5NDI2NzMzM2Q0OThhOGQ5NTJk",
   "tracks": [
     {
       "added_at": "2023-05-05 08:06:40",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 203269,
+      "name": "SUNSET WITH YOU",
+      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
+    },
+    {
+      "added_at": "2023-05-05 08:06:40",
+      "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 153686,
       "name": "nvrmnd",
       "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
-    },
-    {
-      "added_at": "2023-05-05 08:06:40",
-      "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 203269,
-      "name": "SUNSET WITH YOU",
-      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
     },
     {
       "added_at": "2023-05-05 08:06:40",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
-        "name": "Track 03",
-        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
-      },
-      "artists": [
-        {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
-    },
-    {
-      "added_at": "2023-05-05 08:06:40",
-      "album": {
         "name": "11:59 (feat. Goopy)",
         "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 177680,
       "name": "11:59 (feat. Goopy)",
       "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
+    },
+    {
+      "added_at": "2023-05-05 08:06:40",
+      "album": {
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
     },
     {
       "added_at": "2023-05-05 08:06:40",
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 233958,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
+      "duration_ms": 370659,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc"
     },
     {
       "added_at": "2023-05-05 08:06:40",

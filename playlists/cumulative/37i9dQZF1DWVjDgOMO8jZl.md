@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:2vDluwryVXelZfng6DxjnC">Assurditè</a>
+> Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:5Sae4YeLcFZ1P75vhzUDrp">piazzabologna</a>
 
-117 songs - 5 hr 41 min
+118 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Carta Stagnola](https://open.spotify.com/track/4AtrGRtFW1EBlarvKAHC7v) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/5w1x81v8JwYQ3dxsDwyaFT) | 2:55 | 2022-08-31 | 2023-02-25 |
 | [Carta Stagnola](https://open.spotify.com/track/61Dg2SAvlHQbdDJmPs1VQk) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/2kYztqurm6GZd0VAQL7LkR) | 2:55 | 2023-01-24 | 2023-04-12 |
 | [Cattiva](https://open.spotify.com/track/0Pb8FIL8fecpxJCVgSxdWL) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Cattiva](https://open.spotify.com/album/4PWXnJIUU11RbIHnDIv9LL) | 3:18 | 2023-04-11 |  |
+| [CITYCAR \(Abbronzatissima\) \[feat\. Edoardo Vianello\]](https://open.spotify.com/track/00H5jLi7wHrDLyHDpZKvtY) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Mr Pallotta](https://open.spotify.com/artist/4tEI46zAJnSywDwnTFFCAJ), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF), [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [CITYCAR \(Abbronzatissima\) \[feat\. Edoardo Vianello\]](https://open.spotify.com/album/1alfnxle69VfWlGBm9POGf) | 2:36 | 2023-06-08 |  |
 | [Cliché](https://open.spotify.com/track/7feAP0q0KS4DW0blbHK7Pn) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Cliché](https://open.spotify.com/album/6bYA5jFVkSwtq3cFpGCvOz) | 3:12 | 2022-08-31 | 2023-04-12 |
 | [Come i Grandi](https://open.spotify.com/track/1DOajHZ9LD7MlNVHz8NMup) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Come i Grandi](https://open.spotify.com/album/61zWMNozdieRSJKQw1nzyR) | 3:07 | 2022-08-31 | 2023-04-12 |
 | [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 3:17 | 2022-08-31 | 2023-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H?si=4f21d1419eed49e3">TuKool Tiff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,477 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,593 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Live Up To Your Name \- Live](https://open.spotify.com/track/54AXvQkn2hfJuYmfFPhTSD) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Mariah Bernard](https://open.spotify.com/artist/6D0WktW7tmmY9L5EoNMZDR), [Legacy Worship](https://open.spotify.com/artist/6ihwUDKKZIHy8jxd9COmPx) | [Live Up To Your Name](https://open.spotify.com/album/63l5v5rdrfz6SjSQLhQdOx) | 4:47 |
 | 100 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5FAu0KGhpZkr6P1OgwJ2mW) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Karlee Lloyd](https://open.spotify.com/artist/7s9G3GrP5esjiwJjBh7xvi) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/3gK6mFQOVjU5gu4JNw8CWp) | 4:40 |
 
-Snapshot ID: `MCwyZGJiOTc3OTk5YmU0OTg3YjA4NTJkNGU4ZjU4NDE1MzhkM2E4Y2Nh`
+Snapshot ID: `MCwyMmE4Mzk2NjQ3YWI1ZGU0N2E5MmRiMDgwNzA1OWViYjFiYTliODJh`

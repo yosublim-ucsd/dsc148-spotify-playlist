@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Sunny War",
-  "num_followers": 275740,
+  "num_followers": 275771,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjViNTNlOTkyOWVmY2M0NzkyYjc1OWI0ZTZhY2MxMDI3N2M0NTBh",
+  "snapshot_id": "MCxmMTM2MjhmZTA2NzZkNzc2YzlkZTA2MjA0ZDI3OTljOTk5MDlhNTUy",
   "tracks": [
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "If I Told",
-      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Cusp",
         "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 191813,
       "name": "\u00c9migr\u00e9",
       "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "If I Told",
+      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Saturn Return",
         "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 174540,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Bloomsday",
-      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Canary",
-      "url": "https://open.spotify.com/track/0CTwMHxWBYOcuA2K02qcOf"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Queen of the Minor Key",
         "url": "https://open.spotify.com/album/0zgwXcmqZV91rLsGgkwtuF"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 231000,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/6U7ZRYMJ2zIO1oe4YoK6pU"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 209173,
+      "name": "Canary",
+      "url": "https://open.spotify.com/track/0CTwMHxWBYOcuA2K02qcOf"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Urban Driftwood",
+        "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Juvenescence",
+      "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 198186,
       "name": "Wreck You",
       "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "no fun/party",
         "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 356474,
       "name": "no fun/party",
       "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2067,22 +2067,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Not Dark Yet",
-        "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
+        "name": "On the Line",
+        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
       },
       "artists": [
         {
-          "name": "Shelby Lynne",
-          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
-        },
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
         }
       ],
-      "duration_ms": 259917,
-      "name": "Not Dark Yet",
-      "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
+      "duration_ms": 313405,
+      "name": "Heads Gonna Roll",
+      "url": "https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2123,18 +2119,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "On the Line",
-        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
+        "name": "Not Dark Yet",
+        "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        },
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
         }
       ],
-      "duration_ms": 313405,
-      "name": "Heads Gonna Roll",
-      "url": "https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII"
+      "duration_ms": 259917,
+      "name": "Not Dark Yet",
+      "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Banjo Haiku",
-        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
-      },
-      "artists": [
-        {
-          "name": "Cathy Fink",
-          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
-        }
-      ],
-      "duration_ms": 110693,
-      "name": "Julie Ann Johnson",
-      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Deer Creek Canyon",
         "url": "https://open.spotify.com/album/0BwzPjT3gChyxVmQYzGvzK"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 198893,
       "name": "Deer Creek Canyon",
       "url": "https://open.spotify.com/track/4bjK4okiLjAPmGjvxEjEBY"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Banjo Haiku",
+        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+      },
+      "artists": [
+        {
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Julie Ann Johnson",
+      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 317466,
+      "name": "Boots of Spanish Leather",
+      "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "B\u00e9la Fleck & Abigail Washburn",
         "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 216306,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 317466,
-      "name": "Boots of Spanish Leather",
-      "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Wax & Wane",
         "url": "https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 271333,
       "name": "Wax & Wane",
       "url": "https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2531,54 +2531,30 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Our Problem",
-        "url": "https://open.spotify.com/album/4PgHxgeoL6DcrCEXPKiw2P"
+        "name": "See You Around",
+        "url": "https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh"
       },
       "artists": [
         {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
         },
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
         },
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         },
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        },
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        },
-        {
-          "name": "Linda Perry",
-          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
-        },
-        {
-          "name": "Morgane Stapleton",
-          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
-        },
-        {
-          "name": "Nona Hendryx",
-          "url": "https://open.spotify.com/artist/5pTDagkiVMJC5DJtSAdbXg"
-        },
-        {
-          "name": "Peaches",
-          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 225186,
-      "name": "Our Problem",
-      "url": "https://open.spotify.com/track/3ftHWoelVf9VdGx0xYpu1e"
+      "duration_ms": 225893,
+      "name": "Game To Lose",
+      "url": "https://open.spotify.com/track/6hRmSHcTdXbIp66h9Aj8Mc"
     }
   ],
   "unique_name": "Women of Folk",

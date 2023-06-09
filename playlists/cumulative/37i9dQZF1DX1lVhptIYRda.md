@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> In Nashville for CMA Fest? Check out Spotify House at Ole Red! Cover: Jelly Roll
+> In Nashville for CMA Fest? Check out Spotify House at Ole Red! Cover: Kelsea Ballerini 😉
 
 641 songs - 1 day 10 hr 34 min
 

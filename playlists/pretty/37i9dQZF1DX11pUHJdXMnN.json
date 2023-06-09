@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 58610,
+  "num_followers": 58622,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjdhNGIzYzhmMmYxMmEyZDg4YTM5NDdmMTMwNTYzOWY2ZjdhN2Q0",
+  "snapshot_id": "MCwyZWMxOTY4ZWM5OGIyNzY2MDQ4OWJmMmNhZDM2NTYyMjMzMTQ0ZGUz",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "ANIITIME003",
-        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
-      },
-      "artists": [
-        {
-          "name": "ANII",
-          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
-        }
-      ],
-      "duration_ms": 444150,
-      "name": "Silver Machine",
-      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Polydans Remixes",
         "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 239788,
       "name": "Feels Right - Gerd Janson Remix - Radio Edit",
       "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "ANIITIME003",
+        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
+      },
+      "artists": [
+        {
+          "name": "ANII",
+          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
+        }
+      ],
+      "duration_ms": 444150,
+      "name": "Silver Machine",
+      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -503,22 +503,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
-      },
-      "artists": [
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Enter Castillo",
         "url": "https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 316097,
       "name": "Curb Dog '88",
       "url": "https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -643,6 +643,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Queen of Hearts",
+        "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
+      },
+      "artists": [
+        {
+          "name": "Monki",
+          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Eyes Wide Strut (feat. Wooze) [Tunnelvisions Remix]",
         "url": "https://open.spotify.com/album/2B9sn1QAF4AZ6h9N0cBFAG"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 350000,
       "name": "Eyes Wide Strut (feat. Wooze) - Tunnelvisions Remix",
       "url": "https://open.spotify.com/track/1bAop39IxOjIyYXSL0jENv"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Queen of Hearts",
-        "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
-      },
-      "artists": [
-        {
-          "name": "Monki",
-          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Queen of Hearts",
-      "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 393973,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Inglorious Express EP",
         "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 400259,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 393973,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
     },
     {
       "added_at": "2021-08-27 15:45:01",

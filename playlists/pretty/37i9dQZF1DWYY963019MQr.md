@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,207 likes - 78 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,262 likes - 78 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 2 | [After The Rain](https://open.spotify.com/track/5VLNiOFRm9ZtMojrjS5faz) | [Edgar Finnegan](https://open.spotify.com/artist/15iw6gErDKXlPsa961xmHK) | [After The Rain](https://open.spotify.com/album/5IJekJTt2i6tL1BQDO3odQ) | 2:47 |
 | 3 | [In A Sentimental Mood](https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [In A Sentimental Mood](https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y) | 2:42 |
 | 4 | [Etude](https://open.spotify.com/track/4qIluUXW2uoi0tafnAtQUb) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 2:27 |
-| 5 | [Night And Day](https://open.spotify.com/track/39ZjNUQtrNnAFImdzxfwNa) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 2:56 |
-| 6 | [Backstage](https://open.spotify.com/track/5fkhwXNw3xWy7IrGDhBDB6) | [Daniel Monza](https://open.spotify.com/artist/4cM9QbsCEUCRRm7RocSczP) | [Backstage](https://open.spotify.com/album/6FIJRZtL0Sca4b93q4RJXv) | 2:27 |
-| 7 | [Embrace](https://open.spotify.com/track/1gfNQ4y447h6OM7yIJWOd3) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Embrace](https://open.spotify.com/album/0gRl4YwIyEXtG8wo40Fm7G) | 2:30 |
-| 8 | [Peace Please](https://open.spotify.com/track/3p4dTdErlsSky6T1pBPOnU) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/20SPYDVOBZtlUWqzKXUUuv) | 1:28 |
-| 9 | [My Heart Stood Still](https://open.spotify.com/track/23xrHsJ6yEz1WJuBBqX2wt) | [Cole Laurence](https://open.spotify.com/artist/1iw5lLOqWw7LhoKzm9G6dw) | [My Heart Stood Still](https://open.spotify.com/album/1TNCzrqc6KnESILZX2knda) | 2:20 |
-| 10 | [Where or When](https://open.spotify.com/track/1VuheeJ6lNwZ9nO5FB4aqM) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [World's Fair](https://open.spotify.com/album/1YlIUjf2RiZfLzvK7Db7mi) | 2:21 |
+| 5 | [Backstage](https://open.spotify.com/track/5fkhwXNw3xWy7IrGDhBDB6) | [Daniel Monza](https://open.spotify.com/artist/4cM9QbsCEUCRRm7RocSczP) | [Backstage](https://open.spotify.com/album/6FIJRZtL0Sca4b93q4RJXv) | 2:27 |
+| 6 | [Embrace](https://open.spotify.com/track/1gfNQ4y447h6OM7yIJWOd3) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Embrace](https://open.spotify.com/album/0gRl4YwIyEXtG8wo40Fm7G) | 2:30 |
+| 7 | [Peace Please](https://open.spotify.com/track/3p4dTdErlsSky6T1pBPOnU) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/20SPYDVOBZtlUWqzKXUUuv) | 1:28 |
+| 8 | [My Heart Stood Still](https://open.spotify.com/track/23xrHsJ6yEz1WJuBBqX2wt) | [Cole Laurence](https://open.spotify.com/artist/1iw5lLOqWw7LhoKzm9G6dw) | [My Heart Stood Still](https://open.spotify.com/album/1TNCzrqc6KnESILZX2knda) | 2:20 |
+| 9 | [Where or When](https://open.spotify.com/track/1VuheeJ6lNwZ9nO5FB4aqM) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [World's Fair](https://open.spotify.com/album/1YlIUjf2RiZfLzvK7Db7mi) | 2:21 |
+| 10 | [Night And Day](https://open.spotify.com/track/39ZjNUQtrNnAFImdzxfwNa) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 2:56 |
 | 11 | [Late Mood](https://open.spotify.com/track/4F5frv4DMz1X4sXRSdmCtX) | [Elliot Smythe](https://open.spotify.com/artist/5dGebAKGhbbbPCAZKxpoFc) | [Late Mood](https://open.spotify.com/album/3zFeTY3jdzKcVkYEE6E2fK) | 2:06 |
 | 12 | [Autumn Skies](https://open.spotify.com/track/1xHI2bJ5Lb9zjA2uNvVndM) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 2:49 |
 | 13 | [You Are Too Beautiful](https://open.spotify.com/track/4Z21YnfFOk7DCoRmSDsbDE) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [You Are Too Beautiful](https://open.spotify.com/album/321bjucXAq72mVgASyC5eT) | 2:07 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 77 | [My Favorite Things](https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [My Favorite Things](https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt) | 3:26 |
 | 78 | [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 |
 
-Snapshot ID: `MCw0ZGU5ZjdiMTIzZTgzZDUxNzhjNGFjZGIyOGRiNDkwZjNmOTcwZTMz`
+Snapshot ID: `MCwzMWM1ZWYwMjc4N2JmN2NmYjk2Yzc2ZjAwNjBlMDU4NzU4MTc4NTYw`

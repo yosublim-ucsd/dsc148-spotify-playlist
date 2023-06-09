@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 
 > Feed your focus with restaurant ambience from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,805 likes - 76 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,829 likes - 76 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 | 75 | [Coffeehouse Vibes](https://open.spotify.com/track/2bAaZdyBMXMQajkjdQQtAA) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Coffeehouse Ambience for Focused Minds](https://open.spotify.com/album/5KVtzJsH2QBcqs2laYG0cY) | 2:40 |
 | 76 | [De Tamarindo](https://open.spotify.com/track/6SkGKLhfOQ4tTwYQc2geoV) | [Comer Para Vivir](https://open.spotify.com/artist/4ZSY2phizCjuJH6jwz2wJ7) | [Tacos Playa Del Carmen](https://open.spotify.com/album/5rYIusX5CIIYAnAUbkjQKQ) | 3:23 |
 
-Snapshot ID: `MCw0NDc5OTU1NWQxNDdlNzQ0NzEwYzM1YWQ2NzExNGVmYjhhZDU4NmE5`
+Snapshot ID: `MCw4NGJlZTI3NTViOGI1MDRlYzQ4MWQ5NGI1NDFhMDNjNTE2ODliYWVk`

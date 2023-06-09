@@ -1,15 +1,15 @@
 {
   "description": "Rap napoletano e il meglio della scena campana. Luch\u00e8 in cover.",
-  "num_followers": 165360,
+  "num_followers": 165448,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWY5MWM0NzQ0NDdhMjc3OWVjNDMyOGQ0ZGJmMzg3N2FiNDIxZTBk",
+  "snapshot_id": "MCxiMzBkNDAxZWVjZmNlYmMzM2E2YTE4NjNlZTg0MWViOGE3YTIzYzY3",
   "tracks": [
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Dove Volano Le Aquile Vol. 2",
         "url": "https://open.spotify.com/album/5533SD7HXknP7vKdshypG1"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -49,7 +49,27 @@
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Shawty (feat. ANNA)",
+        "url": "https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 184931,
+      "name": "Shawty (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -93,103 +113,31 @@
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "MAI (feat. Heartman)",
-        "url": "https://open.spotify.com/album/0ZHgq8xFskTc9IDlAtRS6J"
+        "name": "Sul'A Mia (feat. Enzo Dong)",
+        "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
       },
       "artists": [
         {
-          "name": "O'Tsunami",
-          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
         },
         {
-          "name": "Ayden Lau",
-          "url": "https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X"
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
         },
         {
-          "name": "Heartman",
-          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
         }
       ],
-      "duration_ms": 156000,
-      "name": "MAI (feat. Heartman)",
-      "url": "https://open.spotify.com/track/4y691hBtDqVPn8MApK43kS"
+      "duration_ms": 177600,
+      "name": "Sul'A Mia (feat. Enzo Dong)",
+      "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
-      "album": {
-        "name": "FEDE",
-        "url": "https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT"
-      },
-      "artists": [
-        {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "ROOFTOP (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ"
-    },
-    {
-      "added_at": "2023-06-06 13:29:08",
-      "album": {
-        "name": "Shawty (feat. ANNA)",
-        "url": "https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy"
-      },
-      "artists": [
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 184931,
-      "name": "Shawty (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH"
-    },
-    {
-      "added_at": "2023-06-06 13:29:08",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
-        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "HERMES",
-      "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
-    },
-    {
-      "added_at": "2023-06-06 13:29:08",
-      "album": {
-        "name": "Dove Volano Le Aquile",
-        "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "La Notte di San Lorenzo",
-      "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
-    },
-    {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -205,7 +153,23 @@
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "La Notte di San Lorenzo",
+      "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
@@ -237,7 +201,23 @@
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "HERMES",
+      "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -253,7 +233,27 @@
       "url": "https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "FEDE",
+        "url": "https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "ROOFTOP (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "A' vita senz' e te (Me fa paura)",
         "url": "https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI"
@@ -269,31 +269,7 @@
       "url": "https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
-      "album": {
-        "name": "Sul'A Mia (feat. Enzo Dong)",
-        "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
-      },
-      "artists": [
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        },
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        },
-        {
-          "name": "Enzo Dong",
-          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Sul'A Mia (feat. Enzo Dong)",
-      "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
-    },
-    {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Sincer (feat. Lele Blade & Icy Subzero)",
         "url": "https://open.spotify.com/album/7BBkLJQiEzHkFDbHy48rjd"
@@ -317,7 +293,7 @@
       "url": "https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/2jAiCu51wRIF6CcQqgTpkK"
@@ -333,7 +309,7 @@
       "url": "https://open.spotify.com/track/4lgfhjnm922y6kGBAqKhaU"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "ME VOGL BENE (feat. Geolier)",
         "url": "https://open.spotify.com/album/5zRsIaSAVqjaskO9aH851E"
@@ -353,7 +329,7 @@
       "url": "https://open.spotify.com/track/6fJBFIo43hyaij2dWl7L6f"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "0 In Tasca",
         "url": "https://open.spotify.com/album/6tZ1DGxKbvpbshXOredaKu"
@@ -373,7 +349,7 @@
       "url": "https://open.spotify.com/track/6TTX5dhUU8hyyrOADiy1KZ"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Cuore Rotto",
         "url": "https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY"
@@ -389,7 +365,27 @@
       "url": "https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Peccati (feat. J Lord)",
+        "url": "https://open.spotify.com/album/4YDkA7KQEWgRFBqt7uFDDb"
+      },
+      "artists": [
+        {
+          "name": "Moderup",
+          "url": "https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ"
+        },
+        {
+          "name": "J Lord",
+          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
+        }
+      ],
+      "duration_ms": 151235,
+      "name": "Peccati (feat. J Lord)",
+      "url": "https://open.spotify.com/track/5jmRPnT5jyMHDfhLsHzSrV"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
@@ -405,7 +401,7 @@
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "LIBERATO II",
         "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
@@ -421,7 +417,7 @@
       "url": "https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1L3BundfZgLB9db5496I4y"
@@ -437,7 +433,7 @@
       "url": "https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -453,7 +449,7 @@
       "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X"
@@ -477,23 +473,7 @@
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
-      "album": {
-        "name": "Dove Volano Le Aquile Vol. 2",
-        "url": "https://open.spotify.com/album/5533SD7HXknP7vKdshypG1"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 168310,
-      "name": "Niente",
-      "url": "https://open.spotify.com/track/1BN4YTnHEAFAg5HRxIC1af"
-    },
-    {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "MILLIONAIRE (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/0AFuYaehOV5NKGPvmxc4t2"
@@ -525,7 +505,7 @@
       "url": "https://open.spotify.com/track/3EWOOws0Ssrzo3vVFKn5M2"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "MIRANAPOLI !",
         "url": "https://open.spotify.com/album/7Lpk370d7OaHa0L3SluvvS"
@@ -549,7 +529,7 @@
       "url": "https://open.spotify.com/track/0uguXoThv1UhkGHHZAsNcq"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt"
@@ -569,7 +549,7 @@
       "url": "https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
         "url": "https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr"
@@ -593,7 +573,7 @@
       "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "999",
         "url": "https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz"
@@ -609,27 +589,43 @@
       "url": "https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "FEDE",
-        "url": "https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT"
+        "name": "Malalengua",
+        "url": "https://open.spotify.com/album/4Vy5cYYQABxe0zZaCgU2bC"
       },
       "artists": [
         {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+          "name": "Mooncler",
+          "url": "https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7"
         },
         {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+          "name": "Rafil\u00f9",
+          "url": "https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ"
         }
       ],
-      "duration_ms": 201760,
-      "name": "VAC PAZZ (feat. Yung Snapp)",
-      "url": "https://open.spotify.com/track/4r3HT3yoRVtkqWPTbNDlG3"
+      "duration_ms": 153253,
+      "name": "Manteng A Calm",
+      "url": "https://open.spotify.com/track/3HclkcB9MLNng9O5OrHbsW"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Dove Volano Le Aquile Vol. 2",
+        "url": "https://open.spotify.com/album/5533SD7HXknP7vKdshypG1"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 168310,
+      "name": "Niente",
+      "url": "https://open.spotify.com/track/1BN4YTnHEAFAg5HRxIC1af"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU"
@@ -645,7 +641,7 @@
       "url": "https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Popp ice",
         "url": "https://open.spotify.com/album/56vxL1JVFKyqGybNEmQgdV"
@@ -669,7 +665,7 @@
       "url": "https://open.spotify.com/track/2S0vyxbeTnlEvCWRsLVfI2"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Tredici",
         "url": "https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O"
@@ -689,7 +685,27 @@
       "url": "https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "FEDE",
+        "url": "https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "VAC PAZZ (feat. Yung Snapp)",
+      "url": "https://open.spotify.com/track/4r3HT3yoRVtkqWPTbNDlG3"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "DJUNGLE UNCHAINED",
         "url": "https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/1ibVG0eXe9WlEPPLiwDD2B"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "mille femmine",
         "url": "https://open.spotify.com/album/2wMEdGTZPhqtiOrEEeZ9rh"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/7HLwgSyMRG6zyILMyjptNk"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Hablan De Mi (Italian Remix)",
         "url": "https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "LIBERATO II",
         "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/2zS0OYlDeXF6iNLougbIFL"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Rivoluzione",
         "url": "https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/3ULxZjqSg06WTPjhurRA1G"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "HOLLYWOOD",
         "url": "https://open.spotify.com/album/32Nb9JBPqfQthAwwBRjizS"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/3mwYpTNy6uYkyIakEvMcDW"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "U&Me",
         "url": "https://open.spotify.com/album/1puWVzOemxlp8c2QQGaar9"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/6jueM7b7fc7eWQcgnTu9Rr"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "SUL IJ E TE (con O'Tsunami)",
         "url": "https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS"
@@ -837,7 +853,7 @@
       "url": "https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Pane e miseria",
         "url": "https://open.spotify.com/album/2QGUAAI0ygmYQ6nBjqlydS"
@@ -857,7 +873,23 @@
       "url": "https://open.spotify.com/track/73zmaeL2sXpoc9gsWQ38Fx"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "BLUE MONDAY",
+        "url": "https://open.spotify.com/album/02Lf7gnhP4dGUjDS19pScl"
+      },
+      "artists": [
+        {
+          "name": "Kunta",
+          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "BLUE MONDAY",
+      "url": "https://open.spotify.com/track/4jmZLQ7K0JVlekpbCriGt7"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "VANITAS",
         "url": "https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT"
@@ -873,7 +905,7 @@
       "url": "https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "FUEGO",
         "url": "https://open.spotify.com/album/6LhpKWPTsU2ymlFVAHPhdA"
@@ -893,27 +925,7 @@
       "url": "https://open.spotify.com/track/2k0lyGHBhhH0oqlQO89jpZ"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
-      "album": {
-        "name": "Piazza Affari",
-        "url": "https://open.spotify.com/album/1ZToE2WrAGtomIllERroNM"
-      },
-      "artists": [
-        {
-          "name": "Mooncler",
-          "url": "https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7"
-        },
-        {
-          "name": "Rafil\u00f9",
-          "url": "https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "Piazza Affari",
-      "url": "https://open.spotify.com/track/0irM9vSb4u8dUWMgAbANrJ"
-    },
-    {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "MNFO",
         "url": "https://open.spotify.com/album/5GKm05yclaqmR6CbmYTEVt"
@@ -933,23 +945,7 @@
       "url": "https://open.spotify.com/track/4GVwc1LNeRCN1GgZ0ddQGt"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
-      "album": {
-        "name": "BLUE MONDAY",
-        "url": "https://open.spotify.com/album/02Lf7gnhP4dGUjDS19pScl"
-      },
-      "artists": [
-        {
-          "name": "Kunta",
-          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "BLUE MONDAY",
-      "url": "https://open.spotify.com/track/4jmZLQ7K0JVlekpbCriGt7"
-    },
-    {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "Genny e Mattia",
         "url": "https://open.spotify.com/album/2VB3t5nVljtzj0qJwePSIj"
@@ -973,7 +969,7 @@
       "url": "https://open.spotify.com/track/0Ok5OqNJtBwU6iROg4M5cA"
     },
     {
-      "added_at": "2023-06-06 13:29:08",
+      "added_at": "2023-06-08 22:01:00",
       "album": {
         "name": "CREATUR",
         "url": "https://open.spotify.com/album/3HPRHm1cSto7dT0mhzFEB4"

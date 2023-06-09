@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 668519,
+  "num_followers": 668661,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDRmOWVkNjA3ZjUyNDdkY2RjYmVhMGY3ZDdiMTZmYWM5NDY0OGQ0",
+  "snapshot_id": "MCwyOTFkMTA5YzQ1OTg3OTQ1YWE0Zjg2OTRhN2MzNzI1NmIyZGI4NTQ2",
   "tracks": [
     {
       "added_at": "2023-06-05 16:15:05",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 210726,
-      "name": "If Not for You - 2014 Remaster",
-      "url": "https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 173000,
       "name": "Summer's Over",
       "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 210726,
+      "name": "If Not for You - 2014 Remaster",
+      "url": "https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Talk It Out",
-        "url": "https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5"
+        "name": "Coney Island Baby",
+        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
       },
       "artists": [
         {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        },
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 190726,
-      "name": "Talk It Out",
-      "url": "https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z"
+      "duration_ms": 159093,
+      "name": "Charley's Girl",
+      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Coney Island Baby",
-        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+        "name": "Talk It Out",
+        "url": "https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5"
       },
       "artists": [
         {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        },
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 159093,
-      "name": "Charley's Girl",
-      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+      "duration_ms": 190726,
+      "name": "Talk It Out",
+      "url": "https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Rhymes & Reasons",
-        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "Bitter with the Sweet",
-      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 195080,
       "name": "Something New",
       "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
-      },
-      "artists": [
-        {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
-        }
-      ],
-      "duration_ms": 390200,
-      "name": "Changes, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "You Don't Want Me",
         "url": "https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 265546,
       "name": "You Don\u2019t Want Me",
       "url": "https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 390200,
+      "name": "Changes, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 218408,
-      "name": "Come On In",
-      "url": "https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "You and Me and Everything",
         "url": "https://open.spotify.com/album/0lRuRo9qWAokYKUW6PeJiY"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 216901,
       "name": "I Might Be",
       "url": "https://open.spotify.com/track/5Xn7YNELSHUulgaumQZqyV"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 218408,
+      "name": "Come On In",
+      "url": "https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1259,6 +1259,38 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "The Dip",
+        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "O.P. Jebediah",
+      "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
         "name": "Didn't I",
         "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
       },
@@ -1279,22 +1311,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "If You Don't Want My Love",
-        "url": "https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 238669,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
-        "name": "The Dip",
-        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "O.P. Jebediah",
-      "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Rock Your Baby",
-        "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "You Can Have It All",
-      "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 219967,
       "name": "Corners",
       "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "Rock Your Baby",
+        "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "You Can Have It All",
+      "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "Happiness in Liquid Form",
         "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 201988,
       "name": "Obvious Guy",
       "url": "https://open.spotify.com/track/0LZbOlYdwrFbe0unSOBkVX"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1555,6 +1555,22 @@
       "duration_ms": 132750,
       "name": "This Is My Story",
       "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "Wiggle Room",
         "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Talk About It (B-Side)",
-        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 209533,
       "name": "Gold Past Life",
       "url": "https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "Talk About It (B-Side)",
+        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 232760,
       "name": "Ride with Me",
       "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
     },
     {
       "added_at": "2023-06-05 16:15:05",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-06-05 16:15:05",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Just Go",
-      "url": "https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc"
-    },
-    {
-      "added_at": "2023-06-05 16:15:05",
-      "album": {
         "name": "The Way That I Do",
         "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 210329,
       "name": "The Way That I Do",
       "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
+    },
+    {
+      "added_at": "2023-06-05 16:15:05",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Just Go",
+      "url": "https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc"
     },
     {
       "added_at": "2023-06-05 16:15:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 
 > Meditate to the sound of soothing voices and flutes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,365 likes - 106 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,398 likes - 106 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 | 105 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 |
 | 106 | [Dreaming Of Pine Trees](https://open.spotify.com/track/3YSkrDZCRG0bcZ4AZw5rIj) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Gentle Breeze](https://open.spotify.com/album/33KDHAdMUVYaeDxgPuYxka) | 2:53 |
 
-Snapshot ID: `MCwzYmE5MTI0ZjU3OGVjZmNhNDAwYjEwMTE4MmY3ZjdjNDE2MGU4OGVj`
+Snapshot ID: `MCwzM2NmYTdjYzUyMWM3NzE4ZTZlNjc1ODFjN2FjODdiZmM2ZTE0ODg1`

@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Tz da Coronel",
-  "num_followers": 106959,
+  "num_followers": 107276,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDA1OWNkNjI2YTc3MzAzMDZlY2JlYTYwN2MyYWVhYTJiYTY1MjM3",
+  "snapshot_id": "MCw2NzI3MDU3MTA1MWUxZmE0MDk5NDk0NjNkYWYwMmVlZjYwZmRjMjYy",
   "tracks": [
     {
       "added_at": "2023-06-02 03:01:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2023-06-02 03:01:00",
       "album": {
+        "name": "Dama de Vermelho",
+        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Dama de Vermelho",
+      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
+    },
+    {
+      "added_at": "2023-06-02 03:01:00",
+      "album": {
         "name": "Dolce & Gabbana",
         "url": "https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 145307,
       "name": "Dolce & Gabbana",
       "url": "https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY"
-    },
-    {
-      "added_at": "2023-06-02 03:01:00",
-      "album": {
-        "name": "Dama de Vermelho",
-        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Dama de Vermelho",
-      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
     },
     {
       "added_at": "2023-06-02 03:01:00",
@@ -1195,6 +1195,50 @@
     {
       "added_at": "2023-06-02 03:01:00",
       "album": {
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 136072,
+      "name": "Sereno",
+      "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
+    },
+    {
+      "added_at": "2023-06-02 03:01:00",
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB"
+    },
+    {
+      "added_at": "2023-06-02 03:01:00",
+      "album": {
         "name": "Grana",
         "url": "https://open.spotify.com/album/7BSkB9a1lAbPRNp3bXAutT"
       },
@@ -1223,50 +1267,6 @@
       "duration_ms": 133500,
       "name": "Grana",
       "url": "https://open.spotify.com/track/4D3fTJXYQ0rle71uLKAOvI"
-    },
-    {
-      "added_at": "2023-06-02 03:01:00",
-      "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB"
-    },
-    {
-      "added_at": "2023-06-02 03:01:00",
-      "album": {
-        "name": "Sereno",
-        "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Did Brock",
-          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 136072,
-      "name": "Sereno",
-      "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
     },
     {
       "added_at": "2023-06-02 03:01:00",

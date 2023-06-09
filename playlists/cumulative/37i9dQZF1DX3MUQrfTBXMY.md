@@ -2,7 +2,7 @@
 
 ### [Bangla Rock](https://open.spotify.com/playlist/37i9dQZF1DX3MUQrfTBXMY)
 
-> Headbangers of Bangladesh\. Cover \- Warfaze
+> Headbangers of Bangladesh\. Cover \- AvoidRafa
 
 221 songs - 19 hr 10 min
 
@@ -21,7 +21,7 @@
 | [Amar Shotto](https://open.spotify.com/track/35Uzp2ni2zVTRYE2qeNMH9) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Indraloy](https://open.spotify.com/album/6HONfCDzDp54ebDcmea0fM) | 3:54 | 2023-01-20 |  |
 | [Amar Shurjo](https://open.spotify.com/track/5ZfsbR7btiWtDoQfGhpyiC) | [Shayan](https://open.spotify.com/artist/2aNKHDOr5ESFtFvrLMARPP) | [Amar Shurjo](https://open.spotify.com/album/5NBnpyrP8V3MZHTABxsEaj) | 4:53 | 2022-06-16 | 2022-07-16 |
 | [Amay Kadao](https://open.spotify.com/track/5oIn4icAlq5mAy1fuK91tM) | [Ariyan Chowdhury](https://open.spotify.com/artist/5FSxHgK27xpXm0IzRQ5DxL) | [Amay Kadao](https://open.spotify.com/album/4e4VZyzdXcpg6IJbDfRm0q) | 5:05 | 2023-01-20 | 2023-02-18 |
-| [Ami Akash Pathabo](https://open.spotify.com/track/62NkP9pkOw6y2B25pokMMQ) | [AvoidRafa](https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB) | [Bhaar](https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8) | 4:03 | 2022-06-16 | 2023-03-08 |
+| [Ami Akash Pathabo](https://open.spotify.com/track/62NkP9pkOw6y2B25pokMMQ) | [AvoidRafa](https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB) | [Bhaar](https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8) | 4:03 | 2022-06-16 |  |
 | [Ami Bodle Jabo](https://open.spotify.com/track/5CoY9a0vqIaMLkCEZeA9de) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7699oOVPVjXj5FnYoDwfbg) | 5:20 | 2023-02-17 | 2023-02-28 |
 | [Ami Bodle Jabo](https://open.spotify.com/track/70I6M0XVW11XCLh4UR0jMY) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7JdEnsEJrrrtGLbL2N4n6B) | 5:20 | 2023-02-17 |  |
 | [Ami Jai Hariye](https://open.spotify.com/track/5BdvUQme9AJ6A40Q8eNhsO) | [The Trap](https://open.spotify.com/artist/0y8uYaLotbpQi2MJW79mck) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:45 | 2022-06-16 | 2022-08-30 |
@@ -59,7 +59,7 @@
 | [Boka pakhi](https://open.spotify.com/track/5QFHN5g6tUuQGIsGFQyMjF) | [Shohojia](https://open.spotify.com/artist/7ImlbtGXKIeyQWQWOZuDtx) | [Rongmistree](https://open.spotify.com/album/6EBc74qFiapuYasuHvIL7k) | 5:51 | 2023-02-28 | 2023-05-23 |
 | [Bondho Janala](https://open.spotify.com/track/5BJBaI4bpWHmiXqFadEpkM) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Bondho Janala](https://open.spotify.com/album/0ajkgxObOuVNXMzVEcvinC) | 4:03 | 2023-02-17 |  |
 | [Bonobibi](https://open.spotify.com/track/46pfDFfuuRkeSKsNMKtZO9) | [Meghdol](https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC), [Jahura Baul](https://open.spotify.com/artist/39od5TdWqtNPjiBaafbo00) | [Bonobibi](https://open.spotify.com/album/7CEYIYT7y1CaqMlPABZ2Be) | 7:08 | 2023-03-07 |  |
-| [Bose Aachhi \(Bose Aachhi Eka\)](https://open.spotify.com/track/4PIrHcNo9aVhKrlk9hPOLG) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 6:39 | 2022-06-16 | 2023-05-23 |
+| [Bose Aachhi \(Bose Aachhi Eka\)](https://open.spotify.com/track/4PIrHcNo9aVhKrlk9hPOLG) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 6:39 | 2022-06-16 |  |
 | [Brishtir Opare](https://open.spotify.com/track/5rGFMRxRt68bguL3gxSnZC) | [The Attempted Band](https://open.spotify.com/artist/1yCW8tZOgAjAHBJYt5COWt) | [Agoon O Moushumi](https://open.spotify.com/album/5KPR9AgO2hMyEfGYWPbrao) | 3:51 | 2022-06-16 | 2023-01-21 |
 | [Bujhe Na Bujhe](https://open.spotify.com/track/0FWmRjraRmR6KiERSM2780) | [AvoidRafa](https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB) | [Bujhe Na Bujhe](https://open.spotify.com/album/2HycxvT9WPAV2xuKdnbcc9) | 4:31 | 2023-02-17 |  |
 | [Chaap](https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Chaap](https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g) | 4:36 | 2022-06-16 |  |
@@ -193,7 +193,7 @@
 | [School](https://open.spotify.com/track/63gXEUNweGMKkvhfkSPMzL) | [Arbovirus](https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle) | [Bishesh Droshtobyo](https://open.spotify.com/album/42zNimPtaGN07Axu6kXFfG) | 4:19 | 2023-04-03 |  |
 | [Shaada Kaalo \- Duet](https://open.spotify.com/track/7vpct6bZGjlaEOfoj2i2s2) | [Upol](https://open.spotify.com/artist/5a64bWvgCyw1UErGhgGpQi), [Maher](https://open.spotify.com/artist/2rSCSZO0sjo7yLYKKNHcAr) | [Deep Nevar Age](https://open.spotify.com/album/4rVYJbmLaUSnoz8CnZUhyq) | 5:00 | 2023-02-17 | 2023-04-04 |
 | [Shada Golap](https://open.spotify.com/track/056R8hTzXwi1GNzORWm9Rz) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Shada Golap](https://open.spotify.com/album/6uZ4fMxLBklu5QyQRYmq9G) | 4:38 | 2022-06-16 | 2023-03-16 |
-| [Shei Tumi](https://open.spotify.com/track/3DFJLv9Jx9iANGv97FMHjb) | [Ayub Bachchu](https://open.spotify.com/artist/5Cf3pKBbgPxeAuhl93xAdx) | [Shei Tumi](https://open.spotify.com/album/3jRFM4Rki2uxc4sYdeK12z) | 6:17 | 2023-05-21 |  |
+| [Shei Tumi](https://open.spotify.com/track/3DFJLv9Jx9iANGv97FMHjb) | [Ayub Bachchu](https://open.spotify.com/artist/5Cf3pKBbgPxeAuhl93xAdx) | [Shei Tumi](https://open.spotify.com/album/3jRFM4Rki2uxc4sYdeK12z) | 6:17 | 2023-05-21 | 2023-06-09 |
 | [Sheishob Din Raatri](https://open.spotify.com/track/0lrXNv7c4pZ44KJjtyXlDb) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 5:30 | 2023-02-28 |  |
 | [Shey Amare](https://open.spotify.com/track/0nkJfYDa3wb28oWuR29Qi3) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/3iFjGwNdRHb4xv8Pz0Wx9s) | 6:02 | 2023-02-17 |  |
 | [Shey Amare](https://open.spotify.com/track/5Wf3eV9Y0WI8kBRR6RgJcD) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/4zdE65VrMlQnCHEyDqRQnX) | 6:02 | 2023-02-17 | 2023-02-28 |

@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Alan Gomez & Luck Ra.
 
-330 songs - 21 hr 26 min
+331 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Miel](https://open.spotify.com/track/7AZ7RDXiwt3TaNyNf54txQ) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Miel](https://open.spotify.com/album/1obdLtb9OxXlu5hZoruFJh) | 2:37 | 2022-04-29 | 2022-07-15 |
 | [Miel](https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Miel](https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f) | 2:48 | 2022-06-17 |  |
 | [Mientes / Un Dia Sin Ti](https://open.spotify.com/track/3dPreolNY6PUrSrOiWPhpg) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Karavana Quartetera](https://open.spotify.com/artist/6fJEIea2BOriiJ2G6W0rAB) | [Mientes / Un Dia Sin Ti](https://open.spotify.com/album/1QnUdLsiso5W7sl1Wo9hoO) | 4:14 | 2022-04-15 | 2022-06-18 |
-| [Mientras yo viva](https://open.spotify.com/track/5Cio5a1Ys6agUmWEYdzNgN) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Sergio Arguello](https://open.spotify.com/artist/3XVEHVYVgo45WtDtFF7cLq) | [Mientras yo viva](https://open.spotify.com/album/5KNkfu2wy3AcyrKFq8ORoe) | 3:56 | 2023-05-12 |  |
+| [Mientras yo viva](https://open.spotify.com/track/5Cio5a1Ys6agUmWEYdzNgN) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Sergio Arguello](https://open.spotify.com/artist/3XVEHVYVgo45WtDtFF7cLq) | [Mientras yo viva](https://open.spotify.com/album/5KNkfu2wy3AcyrKFq8ORoe) | 3:56 | 2023-05-12 | 2023-06-09 |
 | [Mil Demonios \- En Vivo](https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Hoy Y Siempre \(En Vivo\)](https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI) | 3:29 | 2022-01-07 | 2022-12-20 |
 | [Mira](https://open.spotify.com/track/3w292R2aL3DCGnyeOiaLed) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Mira](https://open.spotify.com/album/5mwAE79BFC6eTViMVWW60k) | 3:48 | 2022-05-20 | 2022-07-29 |
 | [Monotonia](https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Monotonia](https://open.spotify.com/album/5jiTvWYPYaqRd2UnrkhSNR) | 2:22 | 2022-10-28 |  |
@@ -219,6 +219,7 @@
 | [Olvídate \(Remix\)](https://open.spotify.com/track/13MMOQ8Z8nAasSKchrfVJA) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Olvídate \(Remix\)](https://open.spotify.com/album/3I41vJoi2TDLxfGFfHLmFJ) | 3:19 | 2022-09-09 | 2022-12-08 |
 | [Olvídate \- Cuarteto](https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Olvídate \(Cuarteto\)](https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt) | 4:26 | 2022-12-02 | 2023-01-28 |
 | [Otra Noche en LA](https://open.spotify.com/track/5qKJOAB9DEq4GrdFjyi4Cq) | [La Groza](https://open.spotify.com/artist/54yxNOqC1kt6hM34wpNKtL) | [Otra Noche en LA](https://open.spotify.com/album/2MzORjyPqWHy5jjNcepwsv) | 4:09 | 2022-02-18 | 2022-07-12 |
+| [Otro Día Más](https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Otro Día Más](https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye) | 3:22 | 2023-06-08 |  |
 | [Pa Tipos Como Tú](https://open.spotify.com/track/7MKGuyRMZMakvnH5r5zfR1) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Pa Tipos Como Tu \(KzRP Cuarteto\)](https://open.spotify.com/album/0vyO1w9K073y0gMGQ8zQGM) | 3:24 | 2023-04-24 | 2023-05-06 |
 | [Paloma loca](https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 3:13 | 2021-12-24 |  |
 | [Payaso \- En Vivo](https://open.spotify.com/track/6Fr3387z9p0IP08Fw1yxtV) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Payaso \(En Vivo\)](https://open.spotify.com/album/2oMloTN3HaUffg1o2VzyyV) | 3:29 | 2022-04-29 | 2022-07-11 |

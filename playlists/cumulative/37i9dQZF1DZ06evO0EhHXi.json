@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 224560,
       "name": "Baby, I Love You",
       "url": "https://open.spotify.com/track/29imR7dda5XqwPRFmby7HS"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 132520,
       "name": "Blitzkrieg Bop - 40th Anniversary Mono Mix",
       "url": "https://open.spotify.com/track/5u8JQ4bEIV7vJt5ngcIVXv"
@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95213,
+      "name": "Now I Wanna Sniff Some Glue - 40th Anniversary Mono Mix",
+      "url": "https://open.spotify.com/track/6HxJ1s6LaWVzSlmFwiAeeT"
+    },
+    {
+      "album": {
         "name": "Leave Home (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
       },
@@ -884,6 +902,24 @@
       "duration_ms": 209106,
       "name": "Pet Sematary",
       "url": "https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei"
+    },
+    {
+      "album": {
+        "name": "Loco Live",
+        "url": "https://open.spotify.com/album/2UtkFWfDSxyoyGBZ1FsVYC"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156373,
+      "name": "Pinhead - Live in Spain",
+      "url": "https://open.spotify.com/track/6C5AS2l70UgvSMhl02z3Pk"
     },
     {
       "album": {

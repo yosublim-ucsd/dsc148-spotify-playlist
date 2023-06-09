@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Niko Rubio",
-  "num_followers": 747773,
+  "num_followers": 747764,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWZiOWVjZDMwN2M1MTViMzk3MGIzMjMyOGMzNmU0ZDk0NmQxYmVi",
+  "snapshot_id": "MCw3Y2Q3Yzc5NzRjOWUzYTc3ZjQ1YjcyYmFkOGM4OTI3NzNhZmEwMDc5",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -431,6 +431,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Rakata",
+        "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 182384,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Hoy es siempre (feat. Nicole Zignago)",
-        "url": "https://open.spotify.com/album/3PJhuL6uxw9HQUTYRu2Ecx"
-      },
-      "artists": [
-        {
-          "name": "Juancho Marqu\u00e9s",
-          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
-        },
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Hoy es siempre (feat. Nicole Zignago)",
-      "url": "https://open.spotify.com/track/0oCQAJMx0PbuDYxBIaDN2z"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -483,22 +483,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Rakata",
-        "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
+        "name": "Hoy es siempre (feat. Nicole Zignago)",
+        "url": "https://open.spotify.com/album/3PJhuL6uxw9HQUTYRu2Ecx"
       },
       "artists": [
         {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+          "name": "Juancho Marqu\u00e9s",
+          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
         },
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
         }
       ],
-      "duration_ms": 182384,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
+      "duration_ms": 196666,
+      "name": "Hoy es siempre (feat. Nicole Zignago)",
+      "url": "https://open.spotify.com/track/0oCQAJMx0PbuDYxBIaDN2z"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Sensei",
-        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Sensei",
-      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "No Es Lo Mismo",
         "url": "https://open.spotify.com/album/4in1TBcB8CIQwiOEImHrB2"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 165581,
       "name": "No Es Lo Mismo",
       "url": "https://open.spotify.com/track/2VZQb01aXXgefwC8YMdYQe"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "What U Want",
+        "url": "https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "What U Want",
+      "url": "https://open.spotify.com/track/165EgmoM47fAorPRNPijBu"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "What U Want",
-        "url": "https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "What U Want",
-      "url": "https://open.spotify.com/track/165EgmoM47fAorPRNPijBu"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 180885,
-      "name": "t\u00fa\u00fa\u00fa",
-      "url": "https://open.spotify.com/track/1hiUCESJkxPvAdnql5KKE2"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Softy",
         "url": "https://open.spotify.com/album/3s9R0yhIMRjegsIJahxPZL"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 358217,
       "name": "Softy",
       "url": "https://open.spotify.com/track/6p23mXE5kvaF2fMBdjvcQz"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 180885,
+      "name": "t\u00fa\u00fa\u00fa",
+      "url": "https://open.spotify.com/track/1hiUCESJkxPvAdnql5KKE2"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Luna Villera",
         "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 237524,
       "name": "Luna Villera",
       "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "me perdono",
-        "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
-      },
-      "artists": [
-        {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
-        }
-      ],
-      "duration_ms": 212685,
-      "name": "me perdono",
-      "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Eterno Verano",
         "url": "https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI"
       },
@@ -991,18 +971,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "OJALA",
-        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
+        "name": "me perdono",
+        "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
       },
       "artists": [
         {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
         }
       ],
-      "duration_ms": 218800,
-      "name": "OJALA",
-      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
+      "duration_ms": 212685,
+      "name": "me perdono",
+      "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1027,6 +1011,38 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Wandering Rebel",
+        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "OJALA",
+        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "OJALA",
+      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Last Spa on Earth",
         "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 185350,
       "name": "XO",
       "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
-      },
-      "artists": [
-        {
-          "name": "Abrina",
-          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
-        }
-      ],
-      "duration_ms": 164770,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
     },
     {
       "added_at": "2023-06-02 04:00:00",

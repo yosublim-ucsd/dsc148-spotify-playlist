@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 20642,
+  "num_followers": 20690,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjk1Yzg3NjliNTlkMzE1Y2NhYzM5ZGQ3MzRjMGRlNzI5MTczOGQ3",
+  "snapshot_id": "MCxiOGQ5NGY2NTE3NTE5NjNkY2VkODA0YzA2MGUyMDg2NjhkMTBhOWQ0",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "XVII",
+        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
+      },
+      "artists": [
+        {
+          "name": "Amotik",
+          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
+        }
+      ],
+      "duration_ms": 394565,
+      "name": "Narangi",
+      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "NYWTF",
         "url": "https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 184761,
       "name": "NYWTF feat. Mikhail Beltran - Edit",
       "url": "https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "XVII",
-        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
-      },
-      "artists": [
-        {
-          "name": "Amotik",
-          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
-        }
-      ],
-      "duration_ms": 394565,
-      "name": "Narangi",
-      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Gozar",
         "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+        "name": "Alley Rave",
+        "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
       },
       "artists": [
         {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
         }
       ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
+      "duration_ms": 364099,
+      "name": "Alley Rave",
+      "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -707,22 +723,6 @@
       "duration_ms": 154550,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Alley Rave",
-        "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 364099,
-      "name": "Alley Rave",
-      "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Strung Up",
-        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
-      },
-      "artists": [
-        {
-          "name": "Sorley",
-          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Strung Up",
-      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "spring '23",
         "url": "https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 364916,
       "name": "can't stop the swing.",
       "url": "https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Strung Up",
+        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
+      },
+      "artists": [
+        {
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Really Really Hot",
-        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
-      },
-      "artists": [
-        {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Really Really Hot",
-      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Stutter EP",
         "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Really Really Hot",
+        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Really Really Hot",
+      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Eso",
-        "url": "https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE"
-      },
-      "artists": [
-        {
-          "name": "Heider",
-          "url": "https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti"
-        }
-      ],
-      "duration_ms": 226976,
-      "name": "Eso",
-      "url": "https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "LOL",
         "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 321818,
       "name": "LOL",
       "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Eso",
+        "url": "https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE"
+      },
+      "artists": [
+        {
+          "name": "Heider",
+          "url": "https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti"
+        }
+      ],
+      "duration_ms": 226976,
+      "name": "Eso",
+      "url": "https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Hush Hush EP",
-        "url": "https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ"
+        "name": "Z Pack",
+        "url": "https://open.spotify.com/album/1gdxFwUOKNIGfEXZZ00Ood"
       },
       "artists": [
         {
-          "name": "Serge Devant",
-          "url": "https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP"
-        },
-        {
-          "name": "Forrest",
-          "url": "https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3"
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
         }
       ],
-      "duration_ms": 243809,
-      "name": "Flashback feat. Forrest",
-      "url": "https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q"
+      "duration_ms": 187529,
+      "name": "Z Pack",
+      "url": "https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh"
     }
   ],
   "unique_name": "Minimal Tech",

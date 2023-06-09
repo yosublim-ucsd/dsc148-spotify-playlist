@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 126882,
+  "num_followers": 127206,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGQyYjg2MTY2MmY5MjE5YTc2Yzc2YTFmMjJhODVkMWM1ODU5MGM4",
+  "snapshot_id": "MCxiOWNkZDlhMWI1MDBkZDM0ODgzZWVkYWE3Zjc3YWI0OGRlMGUyN2U0",
   "tracks": [
     {
       "added_at": "2023-04-19 09:49:41",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Io Fuori",
-        "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        }
-      ],
-      "duration_ms": 349462,
-      "name": "Ti voglio",
-      "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
         "name": "Vado al massimo (Remastered)",
         "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 279213,
       "name": "Splendida giornata",
       "url": "https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
+        "name": "Io Fuori",
+        "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "duration_ms": 349462,
+      "name": "Ti voglio",
+      "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Greatest Hits &amp; Remixes",
-        "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
-      },
-      "artists": [
-        {
-          "name": "Koto",
-          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Visitors",
-      "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
         "name": "I Need You Tonight / Tonight",
         "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 390127,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
+        "name": "Greatest Hits &amp; Remixes",
+        "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
+      },
+      "artists": [
+        {
+          "name": "Koto",
+          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Visitors",
+      "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Sciura Milanese",
-        "url": "https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2"
+        "name": "Baby I Love You (Original) - Single",
+        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
       },
       "artists": [
         {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+          "name": "Easy Going",
+          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
         }
       ],
-      "duration_ms": 190698,
-      "name": "Sciura Milanese",
-      "url": "https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY"
+      "duration_ms": 503920,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Baby I Love You (Original) - Single",
-        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
+        "name": "Sciura Milanese",
+        "url": "https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2"
       },
       "artists": [
         {
-          "name": "Easy Going",
-          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
         }
       ],
-      "duration_ms": 503920,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
+      "duration_ms": 190698,
+      "name": "Sciura Milanese",
+      "url": "https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY"
     },
     {
       "added_at": "2023-04-19 09:49:41",

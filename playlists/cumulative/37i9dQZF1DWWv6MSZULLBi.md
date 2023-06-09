@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Half Moon Run
 
-471 songs - 1 day 4 hr 30 min
+473 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Problem Child](https://open.spotify.com/track/6EFCZDhBYd12DBzvrJZXMl) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Problem Child](https://open.spotify.com/album/7LNrFvPGv94exp02DZ14kC) | 3:42 | 2022-10-07 | 2022-12-03 |
 | [Provincetown](https://open.spotify.com/track/5i9Ir9R83xVrIh5PNYmDl8) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:10 | 2022-05-13 | 2022-09-10 |
 | [Rabbit Hole](https://open.spotify.com/track/36MNQV3Kw7wL3VKZIPsaVl) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Rabbit Hole](https://open.spotify.com/album/0vki8QdI8o4MSUN0arMXfV) | 2:22 | 2022-07-29 | 2022-09-24 |
-| [Rainbow](https://open.spotify.com/track/6cglXxd6F4eWXr6nVXE2Ac) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Rainbow](https://open.spotify.com/album/5kcZWZvnwksb7zBUD7H53P) | 3:45 | 2023-05-05 |  |
+| [Rainbow](https://open.spotify.com/track/6cglXxd6F4eWXr6nVXE2Ac) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Rainbow](https://open.spotify.com/album/5kcZWZvnwksb7zBUD7H53P) | 3:45 | 2023-05-05 | 2023-06-09 |
 | [Remember Me For Me](https://open.spotify.com/track/144sfZcukffgbgyIWvSnV8) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Remember Me For Me](https://open.spotify.com/album/0iMAEuqBVOORBmW4CVSeF6) | 3:41 | 2022-08-19 | 2022-12-03 |
 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 | 2023-03-18 |
 | [River of Tears](https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [River of Tears](https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx) | 3:03 | 2022-11-11 | 2023-04-22 |
@@ -409,6 +409,7 @@
 | [The Mess](https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Rivals EP](https://open.spotify.com/album/6swJmmREo7UyeIMuELVzr0) | 1:08 | 2023-03-10 |  |
 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 | 2022-06-24 | 2023-02-18 |
 | [The Redwing](https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:18 | 2023-04-14 |  |
+| [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 | 2023-06-09 |  |
 | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75) | 3:00 | 2022-05-20 | 2022-11-26 |
 | [The Sweetest Lie](https://open.spotify.com/track/3M0hEMN4OZSet5nnh1PKGZ) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Sweetest Lie](https://open.spotify.com/album/6tGjHzgMwiHP7oVKzFofVF) | 2:33 | 2022-08-05 | 2023-03-18 |
 | [The Well Has Run Dry](https://open.spotify.com/track/4bdBLdV7zfd29ZdDvbUfkC) | [The Wilderness of Manitoba](https://open.spotify.com/artist/5iiDMOV4u4LhRMqbCAepUM) | [The Well Has Run Dry](https://open.spotify.com/album/5Op8BG0Ex8C3BHvRQvKE6H) | 5:17 | 2022-05-13 | 2022-11-12 |
@@ -466,11 +467,12 @@
 | [Whiskey & Cigarettes](https://open.spotify.com/track/0KTXcuyKvMkRQSOy1M4OcI) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Whiskey & Cigarettes](https://open.spotify.com/album/4Caa4NGOiaczGbgRUak4QL) | 1:47 | 2022-11-11 | 2023-01-21 |
 | [Willow](https://open.spotify.com/track/1wJdEsTX2x1uzIfDdkuVdJ) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/2awMslAt7eh8sTwTs8kqWr) | 4:29 | 2023-04-21 | 2023-04-30 |
 | [Willow](https://open.spotify.com/track/4ERM0QdLgq9HvZ7zUsiimB) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds) | 4:29 | 2023-04-28 | 2023-06-03 |
+| [Wise Old Owl](https://open.spotify.com/track/7pvGhGX3wmSGpmEhMxKSse) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Wise Old Owl](https://open.spotify.com/album/5Y5LTUkigNOMdVm7Ep7CSW) | 1:31 | 2023-06-09 |  |
 | [Wishbone](https://open.spotify.com/track/1JFz7nBOYZkC1lu9JLapvJ) | [Phöenix Lazare](https://open.spotify.com/artist/35tv3JaOeSZMF1ScsWmlVy) | [Wishbone](https://open.spotify.com/album/52s1OjYNTVAh86m6HXqipg) | 4:10 | 2022-06-24 | 2023-02-04 |
 | [With You](https://open.spotify.com/track/3s9hD6HdtpeaIbr2gxgGJr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 2:51 | 2022-06-17 | 2023-01-28 |
 | [With You](https://open.spotify.com/track/56sDeGLrCYgn6ErQt9XWfr) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [With You](https://open.spotify.com/album/75yM5cCqKUclZgoZ6qkNMT) | 3:51 | 2022-05-13 | 2023-01-14 |
 | [would you call me up?](https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [would you call me up?](https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs) | 4:11 | 2022-05-13 | 2022-07-09 |
-| [Yarrow Lover](https://open.spotify.com/track/0FNI6gZgDg0kxF5ukzbvCh) | [FONTINE](https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy) | [Yarrow Lover](https://open.spotify.com/album/3ayNhLRIDKjMADyYTPqgSz) | 4:21 | 2023-02-10 |  |
+| [Yarrow Lover](https://open.spotify.com/track/0FNI6gZgDg0kxF5ukzbvCh) | [FONTINE](https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy) | [Yarrow Lover](https://open.spotify.com/album/3ayNhLRIDKjMADyYTPqgSz) | 4:21 | 2023-02-10 | 2023-06-09 |
 | [You](https://open.spotify.com/track/1eB1b1MGiCrFWn8JFkL0ZC) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [You](https://open.spotify.com/album/6NSPHXtgNOP1nUiSP5d9NS) | 4:03 | 2022-05-13 | 2022-06-11 |
 | [You and Me](https://open.spotify.com/track/5HlcRE58RugnXWoWxzJFu2) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [You and Me](https://open.spotify.com/album/5Lz2AHmIfli0x9B9FATg6a) | 3:14 | 2023-03-10 | 2023-04-09 |
 | [You Could Be Free](https://open.spotify.com/track/2bnia5glTFaCJMbRenC0U3) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Could Be Free](https://open.spotify.com/album/4Bog6J0ArjOtPH9mPAqHnl) | 3:07 | 2022-09-23 | 2023-04-15 |

@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-217 songs - 15 hr 46 min
+219 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1ZOphuWVwSQcsLs7k6iRmp) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Nanami](https://open.spotify.com/artist/1B0hK1UH1rFBFhjjdCXjYB) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 4:04 | 2022-07-27 | 2022-11-13 |
 | [Next 2 U \-eUC\-](https://open.spotify.com/track/4Jhe1n8G2obpW4NWMifSrB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Nanami](https://open.spotify.com/artist/1B0hK1UH1rFBFhjjdCXjYB) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:04 | 2022-10-01 |  |
 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1auy1PkfwF6yCplcdhd8NK) | [SawanoHiroyuki\[nZk\]:naNami](https://open.spotify.com/artist/2EAfowJhmEii7OUOa44fAk) | [Into the Sky EP](https://open.spotify.com/album/6OThyKSLIsY2fVSBjQfSZU) | 4:04 | 2022-07-27 | 2022-07-29 |
-| [NO LIMITS ∞](https://open.spotify.com/track/35iykIkD4aX3MpYPpZ0MAm) | [Taja](https://open.spotify.com/artist/5PFmo5RBNN2sekKu6velaE) | [NO LIMITS ∞](https://open.spotify.com/album/0fxlluOSZtzjNUo7EcUtyF) | 4:33 | 2022-07-27 |  |
+| [NO LIMITS ∞](https://open.spotify.com/track/35iykIkD4aX3MpYPpZ0MAm) | [Taja](https://open.spotify.com/artist/5PFmo5RBNN2sekKu6velaE) | [NO LIMITS ∞](https://open.spotify.com/album/0fxlluOSZtzjNUo7EcUtyF) | 4:33 | 2022-07-27 | 2023-06-09 |
+| [NO LIMITS ∞](https://open.spotify.com/track/5iukXVcXeOBDFYska0fmSw) | [Taja](https://open.spotify.com/artist/5PFmo5RBNN2sekKu6velaE) | [NO LIMITS ∞](https://open.spotify.com/album/26ZLH7uvfw1Cs8sHtfdsoD) | 4:33 | 2023-04-21 |  |
 | [Overture](https://open.spotify.com/track/6lO0AqVVEssuoRioBi4dYt) | [Ryota Nozaki](https://open.spotify.com/artist/4dFNO8mIQosWKc3W8Ntme6) | [Mobile Suit Gundam U.C\. Engage Original Motion Picture Soundtrack 2](https://open.spotify.com/album/00pVzhIlsu7gs6ZvtVhyFv) | 3:14 | 2023-03-21 |  |
 | [Planet Zone](https://open.spotify.com/track/1AzDqUGSBTzexgNzzZjg0t) | [結城梨沙](https://open.spotify.com/artist/4dE7mnDgdYAsXY4X9jfoPA) | [Planet Zone](https://open.spotify.com/album/3Km6CvcGjkq6BybVypKQGB) | 4:04 | 2022-07-27 |  |
 | [Prototype](https://open.spotify.com/track/6cyvDIi8JNadYK9RDeHK6O) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [Prototype](https://open.spotify.com/album/4ddgTus7mYgqCchdjmgNPo) | 5:44 | 2022-07-27 |  |
@@ -197,7 +198,8 @@
 | [君よ 気高くあれ](https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [君よ 気高くあれ](https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc) | 3:36 | 2022-10-15 |  |
 | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/track/3MPsfnHkXQTXCjTlJdpzhk) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/album/0BYCNGZdxWGcZj88wNsnxN) | 4:36 | 2022-07-27 |  |
 | [哀 戦士](https://open.spotify.com/track/2qHFdjgqzmd8Bw4J4CImaY) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [哀 戦士](https://open.spotify.com/album/1JLAdPPA3zVr6nXpgPocgc) | 3:51 | 2022-07-27 |  |
-| [夜明けのShooting Star](https://open.spotify.com/track/458T6LRHbdUHSPuXa6ybTT) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [夜明けのShooting Star](https://open.spotify.com/album/53UbmHb5nkkpVkKjzkhO07) | 4:51 | 2022-07-27 |  |
+| [夜明けのShooting Star](https://open.spotify.com/track/458T6LRHbdUHSPuXa6ybTT) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [夜明けのShooting Star](https://open.spotify.com/album/53UbmHb5nkkpVkKjzkhO07) | 4:51 | 2022-07-27 | 2023-06-09 |
+| [夜明けのShooting Star](https://open.spotify.com/track/14M2PHwzDaKocGozilYUKI) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [WHATEVER](https://open.spotify.com/album/3sRJVKtEFdGWQtagF9FFq0) | 4:52 | 2023-04-21 |  |
 | [宇宙の彼方で](https://open.spotify.com/track/6x1bX99bVUhBbhzH3gLO8Z) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [宇宙の彼方で](https://open.spotify.com/album/4lv8NOmvqjKAfF1lEDxrCf) | 5:35 | 2022-07-27 |  |
 | [宇宙の詩 〜Higher and Higher 〜](https://open.spotify.com/track/7Frp5P5UEOtDssUfVFWvuM) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [CROSS](https://open.spotify.com/album/0yGVq0iZ0Ej7OWcYxQzydi) | 5:06 | 2022-07-27 |  |
 | [宇宙の詩 〜Higher and Higher 〜](https://open.spotify.com/track/6tFTPkPy5K0uKlhEbG9mmO) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [宇宙の詩 〜Higher and Higher〜 / 悲壮美](https://open.spotify.com/album/6eZM44E65EIWF2DQsUJT8w) | 5:07 | 2022-10-17 | 2022-11-13 |

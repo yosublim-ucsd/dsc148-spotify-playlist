@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Raffaella Carrà
 
-639 songs - 1 day 8 hr 16 min
+642 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Apnea](https://open.spotify.com/track/5GQfK2d2kE6O6Xj1x5CKYX) | [Limo](https://open.spotify.com/artist/0jF3fDGxLXAQtrSDwzqdsa) | [Apnea](https://open.spotify.com/album/5K2ZKb8prieUrfTF48kfrZ) | 2:51 | 2022-11-01 | 2022-12-01 |
 | [Aposto](https://open.spotify.com/track/3KA9IQQuAumlMXg0GxWdKg) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Aposto](https://open.spotify.com/album/1hHnzj2rQ4boFeXBLROIXO) | 2:31 | 2022-04-05 | 2022-06-03 |
 | [Appartamento](https://open.spotify.com/track/6brtEOxKUH2NoxcPnDNI7I) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz), [B\-CROMA](https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS) | [Appartamento](https://open.spotify.com/album/3rPaQlQ7jxnu1HlPbkvjKg) | 2:51 | 2023-02-28 | 2023-04-05 |
+| [ARANCIATA](https://open.spotify.com/track/4X24I8ugXKgRgdtC9LzmlP) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [ARANCIATA](https://open.spotify.com/album/0I9Kc8iR7JAf52TITuMyhK) | 3:14 | 2023-06-07 |  |
 | [Aria](https://open.spotify.com/track/0BjZnI20OPKVoefzL1Hejj) | [Elex](https://open.spotify.com/artist/4j4Lzob5lrhowmGN5HKZWe) | [Aria](https://open.spotify.com/album/2uPxrfkZ9Rnd7gkt8pWTs9) | 3:36 | 2022-11-01 | 2023-03-01 |
 | [Armatura](https://open.spotify.com/track/5o727apbXnlO00hSzqOZ7U) | [Verano](https://open.spotify.com/artist/36Dv8rurwsJU0mpf9fpoUc) | [Supra \(prima parte\)](https://open.spotify.com/album/3qrRltXaqXwzfDp825oYNW) | 5:29 | 2022-05-03 | 2022-06-03 |
 | [Arrivederci](https://open.spotify.com/track/107abW6uOuMYJI8mI3yjaQ) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Arrivederci](https://open.spotify.com/album/7jm8bJjhobRnP8EMVZgxco) | 3:00 | 2023-02-09 | 2023-03-01 |
@@ -244,6 +245,7 @@
 | [Freud](https://open.spotify.com/track/2lmidH0jGieELqtpCTyUhU) | [CARRESE](https://open.spotify.com/artist/0o03kaFDzK8R1hSe3mRepL) | [Valvola](https://open.spotify.com/album/3Ro6IGvyKJdA3wDxTdNHVd) | 2:39 | 2022-10-06 | 2022-11-02 |
 | [Fru Fru \- Edit](https://open.spotify.com/track/42sdndodh2mFKl8s69PGW1) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Fru Fru \(Edit\)](https://open.spotify.com/album/5zRSa3FPgtmKO7srRJoDmn) | 4:51 | 2022-04-05 | 2022-05-04 |
 | [FUCKBOY](https://open.spotify.com/track/4yZ5MdzVJGG2W1EmOQQvaa) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Per te](https://open.spotify.com/album/3Gk7tnA6FkViwwgjMTBhJW) | 2:50 | 2023-01-03 | 2023-02-09 |
+| [Fulmini Addosso \- from the Prime Video Original Movie L'ESTATE PIÙ CALDA](https://open.spotify.com/track/2tsd2ufK2aASL0hKifMxmR) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Fulmini Addosso \(from the Prime Video Original Movie L'ESTATE PIÙ CALDA\)](https://open.spotify.com/album/1hp1u1x3mD355oPyZwHqqj) | 3:41 | 2023-06-07 |  |
 | [funerale](https://open.spotify.com/track/28UumwxkxTXaLyRvzKkMrh) | [MVR](https://open.spotify.com/artist/76UyJVzkGi3b124vOPrD0u) | [funerale](https://open.spotify.com/album/7ymG4hAhzTfc2RV866KuCP) | 2:22 | 2023-02-09 | 2023-03-01 |
 | [fuoco & fiamme](https://open.spotify.com/track/14Z7Nuo9LNT6u1nGVb3s8O) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A) | [ciò che cerco di nascondere](https://open.spotify.com/album/6iBxZgIpHNrWTrU4kgw974) | 2:58 | 2023-04-04 | 2023-05-03 |
 | [Furore](https://open.spotify.com/track/2x9GwGubDShXuI7aWGX03J) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Furore](https://open.spotify.com/album/3aPQI4O4pG5anpWcsmMuTS) | 2:56 | 2023-02-09 | 2023-04-05 |
@@ -613,6 +615,7 @@
 | [Tutt\* stran\*](https://open.spotify.com/track/4sg1ORbMIL2t8afAHsG7xw) | [Chadia Rodriguez](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Tutt\* stran\*](https://open.spotify.com/album/04ubGS2v1n2zI8E91p24Yt) | 2:55 | 2022-01-04 | 2022-02-03 |
 | [TUTTO \(con te\)](https://open.spotify.com/track/08Hacl2rWl6GD6TKUyaKIy) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TUTTO \(con te\)](https://open.spotify.com/album/0w7mfTvGuKCG7XQvLuyCda) | 2:58 | 2022-07-05 | 2022-10-07 |
 | [Tutto cambia](https://open.spotify.com/track/12MsDKDc6ENRKFl5k2VM4I) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Cinetica](https://open.spotify.com/album/1Zu8B8E3OypRTNnLlzXNE1) | 3:26 | 2023-01-03 | 2023-02-09 |
+| [Tutto Ok](https://open.spotify.com/track/5DG0NOLgGIVzYTeljm0AKw) | [NARA](https://open.spotify.com/artist/2QwnSHVij7aOFnIb1UVAF6) | [Tutto Ok](https://open.spotify.com/album/6oKvDx8fawkHIZSfA7aJXB) | 2:40 | 2023-06-07 |  |
 | [Ubriaca](https://open.spotify.com/track/4QmdX30DPcnVPnN2mJxxNz) | [Kahlo](https://open.spotify.com/artist/7pR2B1Mq25ns1ZTfFND45F) | [Ubriaca](https://open.spotify.com/album/4xWzCOWzO1QYLZHiUoidpS) | 2:45 | 2022-06-02 | 2022-07-06 |
 | [UH NA NA EH](https://open.spotify.com/track/58doxdbTp9Q47wdyz24Ebq) | [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC) | [UH NA NA EH](https://open.spotify.com/album/3vmJCJOlL3DEcnfNUxg8ps) | 2:28 | 2022-05-03 | 2022-06-03 |
 | [Un altro giro](https://open.spotify.com/track/17MzhNVbLCBY0G19GjBV79) | [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [Un altro giro](https://open.spotify.com/album/3K90ZmP4xzMIddScM0GEhu) | 2:31 | 2022-02-02 | 2022-04-06 |

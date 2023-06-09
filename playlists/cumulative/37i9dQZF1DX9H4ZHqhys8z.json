@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 186947,
       "name": "Kane me na se Misiso",
       "url": "https://open.spotify.com/track/5d5IhsWtLAF3VqusKAnGFu"
@@ -2476,6 +2476,24 @@
       "duration_ms": 173671,
       "name": "Kathrefti Kathreftaki Mou",
       "url": "https://open.spotify.com/track/0Yw2Gb2YE1II5Ia3INx2mr"
+    },
+    {
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/4PYZNvvfwQPrmQvhezg5CD"
+      },
+      "artists": [
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186838,
+      "name": "Kati Eho Pathei Me Ta Matia Sou",
+      "url": "https://open.spotify.com/track/3g86J2SiQ7t6yFVtkSUpYJ"
     },
     {
       "album": {
@@ -6340,12 +6358,12 @@
       },
       "artists": [
         {
-          "name": "Ellize",
-          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
-        },
-        {
           "name": "DJ Tune",
           "url": "https://open.spotify.com/artist/5yD9OVO5dKEteEVps9qG3v"
+        },
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
         },
         {
           "name": "Jay Starr",

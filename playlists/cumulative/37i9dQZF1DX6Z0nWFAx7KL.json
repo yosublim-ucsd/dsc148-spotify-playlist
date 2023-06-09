@@ -163,6 +163,28 @@
     },
     {
       "album": {
+        "name": "All This Time Alone",
+        "url": "https://open.spotify.com/album/7zelNlPuN1e264IHe1d2p4"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "The Mannequin",
+          "url": "https://open.spotify.com/artist/6OEwfaPcnzqHoZ5HlWEtL6"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "All This Time Alone",
+      "url": "https://open.spotify.com/track/4gvhLNxyZbjDR9pUQVCc1Y"
+    },
+    {
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
       },
@@ -1222,7 +1244,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 184000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
@@ -1967,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Sky",
+        "url": "https://open.spotify.com/album/7dwJXlUeHtiGZZNiLi0O3g"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Lost In The Sky",
+      "url": "https://open.spotify.com/track/3tFNn8hGcISeYWLORFqncX"
+    },
+    {
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -2470,7 +2510,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 208548,
       "name": "Scent of Wood (Bound to Divide Remix)",
       "url": "https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA"
@@ -2693,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/286kpjUvHwKKK19JR7OggD"
+      },
+      "artists": [
+        {
+          "name": "Palm Trees",
+          "url": "https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156562,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1VEziHkHWy6sfVnEXq1j5q"
+    },
+    {
+      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
       },
@@ -2782,7 +2840,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 192928,
       "name": "Talk (with Royal & the Serpent)",
       "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"

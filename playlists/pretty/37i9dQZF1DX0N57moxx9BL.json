@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Skillet",
-  "num_followers": 122872,
+  "num_followers": 122978,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjFmM2UyMGJmNjM0ZTFjNGI2MTVlYTYyZmRjOWYwNjQxZTU4NmMz",
+  "snapshot_id": "MCw4NTQyNTVkNmYxZjJlYTM3OWExMjNjYTA2ZTVkMGNlZmM0N2MzYzRh",
   "tracks": [
     {
       "added_at": "2023-02-17 11:43:30",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "The Fear",
-        "url": "https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1"
+        "name": "The First & the Last",
+        "url": "https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m"
       },
       "artists": [
         {
-          "name": "Night Argent",
-          "url": "https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid"
+          "name": "Collision of Innocence",
+          "url": "https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc"
         }
       ],
-      "duration_ms": 203171,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX"
+      "duration_ms": 219151,
+      "name": "The First & the Last",
+      "url": "https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "The First & the Last",
-        "url": "https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m"
+        "name": "The Fear",
+        "url": "https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1"
       },
       "artists": [
         {
-          "name": "Collision of Innocence",
-          "url": "https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc"
+          "name": "Night Argent",
+          "url": "https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid"
         }
       ],
-      "duration_ms": 219151,
-      "name": "The First & the Last",
-      "url": "https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z"
+      "duration_ms": 203171,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Peace That Starts the War",
-        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
+        "name": "Surviving The Wasteland",
+        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
       },
       "artists": [
         {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
         }
       ],
-      "duration_ms": 168391,
-      "name": "Peace That Starts the War",
-      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
+      "duration_ms": 198500,
+      "name": "Surviving The Wasteland",
+      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Surviving The Wasteland",
-        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
+        "name": "Peace That Starts the War",
+        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
       },
       "artists": [
         {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
         }
       ],
-      "duration_ms": 198500,
-      "name": "Surviving The Wasteland",
-      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
+      "duration_ms": 168391,
+      "name": "Peace That Starts the War",
+      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
+        "name": "No Fear In Love",
+        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
+      },
+      "artists": [
+        {
+          "name": "WorshipMob",
+          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
+        },
+        {
+          "name": "White Flag",
+          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
+        }
+      ],
+      "duration_ms": 515318,
+      "name": "No Fear In Love",
+      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
         "name": "Acoustic - EP",
         "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 382125,
       "name": "Chariots - Live",
       "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
-        "name": "No Fear In Love",
-        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
-      },
-      "artists": [
-        {
-          "name": "WorshipMob",
-          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
-        },
-        {
-          "name": "White Flag",
-          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
-        }
-      ],
-      "duration_ms": 515318,
-      "name": "No Fear In Love",
-      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
-      },
-      "artists": [
-        {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "What Are You Waiting For",
         "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 199252,
       "name": "What Are You Waiting For",
       "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+      },
+      "artists": [
+        {
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Death Stare",
-        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
       "artists": [
         {
-          "name": "The Protest",
-          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
+          "name": "Glasslands",
+          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
+        },
+        {
+          "name": "Ryan Kirby",
+          "url": "https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h"
         }
       ],
-      "duration_ms": 248972,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
+      "duration_ms": 237522,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
     }
   ],
   "unique_name": "Top Christian Rock",

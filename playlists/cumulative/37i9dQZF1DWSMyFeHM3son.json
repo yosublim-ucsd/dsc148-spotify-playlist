@@ -896,7 +896,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 211226,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
@@ -2216,6 +2216,24 @@
       "duration_ms": 205280,
       "name": "R.I.P. 2 My Youth",
       "url": "https://open.spotify.com/track/07VBqWH6NG8L2ad3l84UKk"
+    },
+    {
+      "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214586,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/45dAw6GXEsogcDF3NUgj3O"
     },
     {
       "album": {

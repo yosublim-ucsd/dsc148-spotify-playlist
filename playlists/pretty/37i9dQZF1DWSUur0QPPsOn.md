@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/michaelraineyjr/">Michael Rainey Jr.</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,383 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,451 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [IYKYK](https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [IYKYK](https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14) | 2:14 |
-| 2 | [City of Gods](https://open.spotify.com/track/6hu4zxEVl8vhbZwDlqNqK6) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:16 |
-| 3 | [Invincible](https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:07 |
-| 4 | [Real Niggas Don't Rap](https://open.spotify.com/track/0r6uD6Ay1jonQHID1HVlyZ) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:53 |
+| 1 | [Many Men \(Wish Death\)](https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:16 |
+| 2 | [Invincible](https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:07 |
+| 3 | [Back Flippin](https://open.spotify.com/track/72UidoFGPPqJduJn9YAyYk) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [My Vision](https://open.spotify.com/album/5BhNoQhsPhUMwAmkCw7v8X) | 2:22 |
+| 4 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 |
 | 5 | [Motion \[feat\. Wizz Havinn & Loe Shimmy\] \- Remix](https://open.spotify.com/track/419P7pvcvRBkz94d2B0F0J) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Motion \[feat\. Wizz Havinn & Loe Shimmy\] \(Remix\)](https://open.spotify.com/album/65XJ1g5lSvHqQWisRVpRKh) | 3:08 |
-| 6 | [Many Men \(Wish Death\)](https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:16 |
-| 7 | [Back Flippin](https://open.spotify.com/track/72UidoFGPPqJduJn9YAyYk) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [My Vision](https://open.spotify.com/album/5BhNoQhsPhUMwAmkCw7v8X) | 2:22 |
-| 8 | [Federal Nightmares](https://open.spotify.com/track/4W730PJT4aw79pZ9D8BLhl) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:31 |
-| 9 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 |
-| 10 | [buku](https://open.spotify.com/track/7eOAf1CKZenIfLyaV01MgX) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [buku](https://open.spotify.com/album/6QUVQ5TjZippT8Nl0oEDog) | 2:17 |
+| 6 | [Federal Nightmares](https://open.spotify.com/track/4W730PJT4aw79pZ9D8BLhl) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:31 |
+| 7 | [IYKYK](https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [IYKYK](https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14) | 2:14 |
+| 8 | [Expensive](https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Expensive](https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR) | 3:55 |
+| 9 | [City of Gods](https://open.spotify.com/track/6hu4zxEVl8vhbZwDlqNqK6) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:16 |
+| 10 | [Real Niggas Don't Rap](https://open.spotify.com/track/0r6uD6Ay1jonQHID1HVlyZ) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:53 |
 | 11 | [Got It On Me](https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:44 |
-| 12 | [Mode](https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 1:47 |
-| 13 | [Expensive](https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Expensive](https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR) | 3:55 |
+| 12 | [buku](https://open.spotify.com/track/7eOAf1CKZenIfLyaV01MgX) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [buku](https://open.spotify.com/album/6QUVQ5TjZippT8Nl0oEDog) | 2:17 |
+| 13 | [Mode](https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 1:47 |
 | 14 | [Paperwork Party](https://open.spotify.com/track/6qqTJi869PVznfDEnsplMc) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [For You](https://open.spotify.com/album/5pMiGO7ETSDq0eiOLTKhRN) | 2:56 |
 | 15 | [Law & Order pt\. 2](https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [50jittsteppa](https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf) | [Law & Order pt\. 2](https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM) | 3:59 |
 | 16 | [When It Rains It Pours](https://open.spotify.com/track/1cA2LExLTdhHLL0FmXoc57) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack](https://open.spotify.com/album/5D2CHiTlb8MXWJsZWXjkZf) | 4:02 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 35 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
 | 36 | [One in the Head](https://open.spotify.com/track/2mwcLMBHCVKijk3UND3mI9) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 2:31 |
 
-Snapshot ID: `MCw4NmQzNDY0MjQ2NjE4ZjU0NTE2NDVhMzMxNGQwM2Q4NmY4YjEyZWJl`
+Snapshot ID: `MCwzMTRjNTI0MjJlNDFhZGZkMjFhNGMxMzQwNWI2NzQwYTdjMzcwNmEx`

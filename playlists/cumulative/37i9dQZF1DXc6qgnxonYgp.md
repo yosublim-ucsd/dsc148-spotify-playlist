@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Brodha V
 
-174 songs - 10 hr 7 min
+175 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [No More Cry](https://open.spotify.com/track/00p82zHEoSJefOTZn3xs80) | [Bala D Thala](https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [No More Cry](https://open.spotify.com/album/00N0sqJ3NeaVsh5WttIzrK) | 4:38 | 2022-03-10 |  |
 | [No More Cry](https://open.spotify.com/track/0nef6UGl4zBlGQnVWI1d2C) | [Bala D Thala](https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [KXNGXTA](https://open.spotify.com/artist/1AKpRxRICzv0suQr1e7R2u) | [No More Cry](https://open.spotify.com/album/77NuRMbU53XA2StYdGXyBW) | 4:38 | 2022-03-10 | 2022-07-29 |
 | [Onnu Illa Nooru](https://open.spotify.com/track/0o7aamlDHXOpOGXptI7201) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Stony Psyko](https://open.spotify.com/artist/39cUrSwXh9awPD0itfevhV) | [Onnu Illa Nooru](https://open.spotify.com/album/1DJ0iILjsBDhhWjwGPvAGI) | 3:37 | 2022-11-24 | 2023-01-14 |
-| [Oor Kelavi](https://open.spotify.com/track/7KHYxlYjBMTSvhbySy8drc) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [4AM](https://open.spotify.com/artist/1kxy6Aq2gkN6zJZvhVldk8), [RAM](https://open.spotify.com/artist/0m0GD5srjWW5q7Q64ysBwh) | [Oor Kelavi](https://open.spotify.com/album/5OXJa8reSznpqKfkSQEwSQ) | 3:18 | 2023-03-13 |  |
+| [Oor Kelavi](https://open.spotify.com/track/7KHYxlYjBMTSvhbySy8drc) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [4AM](https://open.spotify.com/artist/1kxy6Aq2gkN6zJZvhVldk8), [RAM](https://open.spotify.com/artist/0m0GD5srjWW5q7Q64ysBwh) | [Oor Kelavi](https://open.spotify.com/album/5OXJa8reSznpqKfkSQEwSQ) | 3:18 | 2023-03-13 | 2023-06-09 |
+| [OORKELAVI](https://open.spotify.com/track/6aeXEQqyiIhSGv5K6ZnLZ4) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl), [4AM](https://open.spotify.com/artist/5tFetUCC5jiDMwmytHVoy2) | [OORKELAVI](https://open.spotify.com/album/7ue7fFSTzVgp0LACG09aBy) | 3:18 | 2023-03-13 |  |
 | [Oorukaaran](https://open.spotify.com/track/72OE3wxjzKlgiqYyKxmJxo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [ERA](https://open.spotify.com/artist/2CRQKvuqKw8euASgmEJE6p), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Oorukaaran](https://open.spotify.com/album/46Mi0QEBqykFh6kwkZ6qxs) | 2:38 | 2022-06-09 |  |
 | [Otha Thamarai \- Original Soundtrack](https://open.spotify.com/track/7e97QgqoYTXOj1s7JI0dHR) | [Bala](https://open.spotify.com/artist/2KGwmllYQr2BgxTkdOH5wt), [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Sandy Sandellow](https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv) | [Otha Thamarai \(Original Soundtrack\)](https://open.spotify.com/album/6sdalaw3mTPzUomDNnWjeN) | 3:39 | 2022-05-30 | 2023-04-29 |
 | [Out Of Control](https://open.spotify.com/track/2ElFXmhQvdpLChh7uv3HgB) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Mj Suriya](https://open.spotify.com/artist/5QYPxGeVCe0pqa56U9M85n), [Lenix](https://open.spotify.com/artist/5xDbPSV29LbyKj4tgkWrZP) | [Out Of Control](https://open.spotify.com/album/1bDrpC71YeioIAVg7AWFIE) | 2:08 | 2021-12-01 | 2022-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Phabo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,966 likes - 150 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,158 likes - 150 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 87 | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 |
 | 88 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 |
 | 89 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 |
-| 90 | [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:51 |
+| 90 | [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0rjjTjhUsMy3Akhy3zduKK) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:51 |
 | 91 | [Eve Gene](https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Eve Gene](https://open.spotify.com/album/2hb1EQDUBqVOaKwJCwW44X) | 3:18 |
 | 92 | [The Energy](https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [The Energy](https://open.spotify.com/album/5swCVMFkOuL2gVurAan9ZD) | 3:39 |
 | 93 | [ego talkin'](https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:54 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 149 | [Worked Up](https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Forgotten Flowers](https://open.spotify.com/album/1fqJVOKRj2A4nBmVAoDFLK) | 3:10 |
 | 150 | [Before the World Ends](https://open.spotify.com/track/75PPriKhCpWpwxlT77byRK) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Before the World Ends](https://open.spotify.com/album/4j0ZjGoCDfC3SpTrOhZRbf) | 3:00 |
 
-Snapshot ID: `MCxjYmM5MWMyNjAyNTA0ZjM3NDQ4MTM4NTZiOTJlZjdlZDA3Mjc5OTEz`
+Snapshot ID: `MCwwYjg1ZGZiYzk1YWU2ZmY4Mjc3MmZmNmUzMzViZjMyZjQ1MDk5OGJh`

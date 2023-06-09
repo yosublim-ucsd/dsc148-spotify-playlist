@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-946 songs - 2 day 5 hr 31 min
+948 songs - 2 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Killing My Time](https://open.spotify.com/track/5FUlm1KaB15evWbYRYbZ05) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Killing My Time](https://open.spotify.com/album/4WAQV10m58oidO5yEaC5lO) | 3:37 | 2019-07-31 | 2022-04-17 |
 | [King](https://open.spotify.com/track/6pIZ0u32c2Lku8PmCWtnMy) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [King](https://open.spotify.com/album/0OPchq4bHgKDaJUBJFITgy) | 3:33 | 2019-11-08 | 2019-11-09 |
 | [King](https://open.spotify.com/track/0rTl9A6SQzwO4mVB3vUUlt) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion](https://open.spotify.com/album/7BZ81dThqcxbFTXKY36Oek) | 3:35 | 2019-07-29\* | 2019-07-30 |
+| [Kingdom Come](https://open.spotify.com/track/26Cl8twfEoP4sOKuI9InrK) | [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Kingdom Come](https://open.spotify.com/album/5AoL4qUp3V867ZazOWIOuN) | 3:19 | 2023-06-08 |  |
 | [Kings & Queens](https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Kings & Queens](https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO) | 2:42 | 2020-06-12 | 2022-04-17 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-25 |  |
 | [Kintsugi](https://open.spotify.com/track/2kWcW9mqoCQH9HK9o2K6rc) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Kintsugi](https://open.spotify.com/album/7gzTeasa0r3UacAMdCYOpW) | 2:55 | 2020-01-07 | 2022-04-21 |
@@ -701,7 +702,7 @@
 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2019-08-09 |  |
 | [Shake It Off](https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:39 | 2019-08-08 | 2021-10-11 |
 | [Shake It Off](https://open.spotify.com/track/5WfhXulggG0c6WoVeMPA8N) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/6w36pmMA5bxECalu5rxQAw) | 3:39 | 2021-02-27 | 2021-03-23 |
-| [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 | 2023-04-20 |  |
+| [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 | 2023-04-20 | 2023-06-09 |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2019-08-02 |  |
 | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/album/1zTCnLSvIx3DjsKDV1xcmO) | 2:52 | 2020-08-21 | 2022-07-21 |
 | [She Looks So Perfect](https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE) | 3:22 | 2019-08-01 | 2022-04-11 |
@@ -792,6 +793,7 @@
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/1A6OTy97kk0mMdm78rHsm8) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Sunflower \(Spider\-Man: Into the Spider\-Verse\)](https://open.spotify.com/album/47LpgGVshd0tbFSbm9tTLb) | 2:38 | 2019-08-27 | 2019-08-28 |
 | [Sunseeker](https://open.spotify.com/track/4oIyhU9ILYx7MraOM3Y3Jj) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Sunseeker](https://open.spotify.com/album/5TBVzI1Wv9Jz4Cb1mqUOaU) | 3:48 | 2021-03-09 | 2022-04-15 |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-01-07 |  |
+| [Sunshine Prescription](https://open.spotify.com/track/09W8xl18AjLeWcmPenmdcy) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 3](https://open.spotify.com/album/16EqCAIgtM8N2dekKlV0PE) | 2:41 | 2023-06-08 |  |
 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 | 2020-04-21 | 2022-04-13 |
 | [Super Bass](https://open.spotify.com/track/7gKIt3rDGIMJDFVSPBnGmj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/2RfF6dGpYIN5u1mNkfG8Pb) | 3:20 | 2019-08-01 | 2019-08-02 |
 | [Super Single](https://open.spotify.com/track/1HTLWNqhZndysILofdncG4) | [Genes](https://open.spotify.com/artist/5m34laExsWdTu2fYhRlRMG) | [Super Single](https://open.spotify.com/album/50ayw5O9ZhApcs8tiXLtTk) | 3:16 | 2020-10-09 | 2022-04-24 |
@@ -877,7 +879,7 @@
 | [Ur So Beautiful](https://open.spotify.com/track/3Ko3WvKcr01gHE9oYx9iAE) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Ur So Beautiful](https://open.spotify.com/album/2ImEZ4iQjdwpJzkJtNVNRq) | 3:12 | 2019-08-02 | 2022-04-15 |
 | [Valentine](https://open.spotify.com/track/19hh7DkfRBrpRGYfKlw7jb) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:16 | 2019-07-29\* | 2019-10-26 |
 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/4BfRDZLIiznSnwU7DdDL9N) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/0g8bYxIjEojf4hyQlVVn99) | 3:39 | 2019-07-30 | 2022-04-18 |
-| [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 | 2023-01-11 |  |
+| [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 | 2023-01-11 | 2023-06-09 |
 | [Vibes](https://open.spotify.com/track/6XjiFenta7IS1JbsFFH7Z0) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Vibes](https://open.spotify.com/album/1RcnGAe2eVFi3CdPl0NdRi) | 3:31 | 2019-08-02 | 2021-03-23 |
 | [Viva La Vida](https://open.spotify.com/track/1SLxVWqXo9zNrrDKRa3m1G) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/4Uo9tGSEkAUYHWfVGHhhZm) | 4:02 | 2019-07-29\* | 2022-04-19 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2022-07-25 |  |

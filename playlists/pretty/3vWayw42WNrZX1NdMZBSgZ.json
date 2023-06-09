@@ -1,28 +1,28 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist for hot new updates. Cover: Poloo",
-  "num_followers": 56395,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist for hot new updates. Cover: Maluma",
+  "num_followers": 56392,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDAxOSwwMmRhODY5NmIxMjM0YjBhMTcyNWM5YTFhNTgxNTViMjUwMDU0MzBl",
+  "snapshot_id": "NDAyNywwNjRkYjMxYjZkYzUzZWM5NTMzZTg0MGI4MDViNTNkODgxODMxNmQw",
   "tracks": [
     {
-      "added_at": "2023-06-07 04:51:32",
+      "added_at": "2023-06-09 00:12:51",
       "album": {
-        "name": "Pain Killer",
-        "url": "https://open.spotify.com/album/60S4LOa16FeOAJATl9tlTU"
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
       },
       "artists": [
         {
-          "name": "Poloo",
-          "url": "https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 170681,
-      "name": "Pain Killer",
-      "url": "https://open.spotify.com/track/3NNVwBkV8vxlKBAe2l8dJs"
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2023-06-07 04:51:32",
@@ -47,26 +47,6 @@
     {
       "added_at": "2023-06-07 04:51:32",
       "album": {
-        "name": "Tucu",
-        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        }
-      ],
-      "duration_ms": 186895,
-      "name": "Tucu",
-      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
-    },
-    {
-      "added_at": "2023-06-07 04:51:32",
-      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
       },
@@ -87,6 +67,46 @@
       "duration_ms": 191320,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
+    },
+    {
+      "added_at": "2023-06-09 00:16:23",
+      "album": {
+        "name": "NAGASAKI",
+        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 206098,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
+    },
+    {
+      "added_at": "2023-06-07 04:51:32",
+      "album": {
+        "name": "Tucu",
+        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        }
+      ],
+      "duration_ms": 186895,
+      "name": "Tucu",
+      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
     },
     {
       "added_at": "2023-06-07 04:51:32",
@@ -163,6 +183,22 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+    },
+    {
+      "added_at": "2023-06-07 04:51:32",
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/60S4LOa16FeOAJATl9tlTU"
+      },
+      "artists": [
+        {
+          "name": "Poloo",
+          "url": "https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7"
+        }
+      ],
+      "duration_ms": 170681,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/3NNVwBkV8vxlKBAe2l8dJs"
     },
     {
       "added_at": "2023-06-07 04:51:32",
@@ -355,6 +391,26 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": "2023-06-08 20:13:54",
+      "album": {
+        "name": "Tu Me Elevas",
+        "url": "https://open.spotify.com/album/2qyqD24Oa0BIvjkRcqoG9b"
+      },
+      "artists": [
+        {
+          "name": "Aron Luix",
+          "url": "https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv"
+        },
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 207103,
+      "name": "Tu Me Elevas",
+      "url": "https://open.spotify.com/track/4NmwhhvF4GMvLS1UzG8ydb"
     },
     {
       "added_at": "2023-06-07 04:51:32",

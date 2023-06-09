@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,703 likes - 125 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,825 likes - 125 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 69 | [Concrete Angel \- Radio Edit](https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Concrete Angel](https://open.spotify.com/album/4Jykpzu0mPClJY1eo77H5o) | 3:55 |
 | 70 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
 | 71 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
-| 72 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
-| 73 | [Mammoth](https://open.spotify.com/track/76fqWMe0buqQoaNTIbLWmr) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Mammoth](https://open.spotify.com/album/4H0bjkai5WPp6Y5oLpk2iv) | 5:32 |
+| 72 | [Mammoth](https://open.spotify.com/track/76fqWMe0buqQoaNTIbLWmr) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Mammoth](https://open.spotify.com/album/4H0bjkai5WPp6Y5oLpk2iv) | 5:32 |
+| 73 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
 | 74 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
 | 75 | [Till The Sky Falls Down](https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [The New Daylight \(Radio Versions\)](https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR) | 3:50 |
 | 76 | [Apollo](https://open.spotify.com/track/7EdxI2Yro4AW2HH3akwqms) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [I Am Hardwell \(Original Soundtrack\)](https://open.spotify.com/album/1c8VPF74qax6iaGsf74cQ8) | 3:29 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 104 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 |
 | 105 | [Go Bang](https://open.spotify.com/track/15Xt2CmLqrLJ0uBlDEEimX) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Go Bang](https://open.spotify.com/album/2Lo0bnJPGE0rS3vuq6PjSD) | 3:09 |
 | 106 | [Turbulence \- Radio Edit](https://open.spotify.com/track/1QHGUbaQ6nYmVom7Kykge3) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turbulence](https://open.spotify.com/album/3rdGp0Ba0xlLylMECnr4rS) | 3:48 |
-| 107 | [Liberate](https://open.spotify.com/track/6X0WsSsMMwam5AzVxlUUzo) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Liberate](https://open.spotify.com/album/2oSsWpEK9fWQ400fNDtf47) | 5:13 |
-| 108 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
+| 107 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
+| 108 | [Liberate](https://open.spotify.com/track/6X0WsSsMMwam5AzVxlUUzo) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Liberate](https://open.spotify.com/album/2oSsWpEK9fWQ400fNDtf47) | 5:13 |
 | 109 | [Years](https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Years](https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x) | 3:15 |
 | 110 | [Higher Ground](https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [TNGHT](https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A) | 3:19 |
 | 111 | [Resurrection \- Axwell Recut Radio Version](https://open.spotify.com/track/2DAxxGq7ozovsvgmccwHmC) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Electronic Music Anthology Vol.4 \(by FG\)](https://open.spotify.com/album/7L2ZHZ0BrbnZu3pe4CuisU) | 2:45 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Tell Me](https://open.spotify.com/track/3M4BopyY1lODi4uBpSoDSQ) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Tell Me](https://open.spotify.com/album/05E9e8OeLQJ5QCjGOyLvZL) | 4:41 |
 | 125 | [Million Voices \- Extended Original Mix](https://open.spotify.com/track/70R53Oq9IegG1kwhxo2Lxm) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 5:57 |
 
-Snapshot ID: `MCxmMTU2MjEzYTcxNDE5NDRlNjM1MmNjMjI4ZWE2Njg1YWJkNWFmMWNk`
+Snapshot ID: `MCxiODc3YzBjZTEzNTZlNmM0ZTA2NGE4ZDY1MTkxMjllYTRiZTkxMDc3`

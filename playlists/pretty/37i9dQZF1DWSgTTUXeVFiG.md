@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,913 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,940 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 10 | [He Tratado \- Live Version](https://open.spotify.com/track/1s6V4WG5Vmqm4Ryd8bV3vR) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Dos Soneros..\. Una Historia](https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU) | 8:01 |
 | 11 | [Clase Social \- En Vivo](https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y) | [Porfi Baloa](https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [20 Años \(La Historia\) \[En Vivo\]](https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx) | 4:32 |
 | 12 | [Haremos El Amor \- En Vivo](https://open.spotify.com/track/5T7BtRS2UUUHBS7IFwCWrC) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 5:47 |
-| 13 | [Casi Te Envidio \- Live Version](https://open.spotify.com/track/351z8ABoWoJliwcM87Ow15) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:37 |
-| 14 | [Bemba Colorá \- Live](https://open.spotify.com/track/1qROMoGOaag7LrXhukbDRZ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Live At Yankee Stadium Vol\. 2](https://open.spotify.com/album/0d6RjmRe2vGol76MdPtlLE) | 11:52 |
+| 13 | [Bemba Colorá \- Live](https://open.spotify.com/track/1qROMoGOaag7LrXhukbDRZ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Live At Yankee Stadium Vol\. 2](https://open.spotify.com/album/0d6RjmRe2vGol76MdPtlLE) | 11:52 |
+| 14 | [Casi Te Envidio \- Live Version](https://open.spotify.com/track/351z8ABoWoJliwcM87Ow15) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:37 |
 | 15 | [Salsa Caliente del Japón \- Live Version](https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r) | [Orquesta De La Luz](https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
 | 16 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
 | 17 | [Nuestro Sueño](https://open.spotify.com/track/7aXsYQkDCl9aWaTmwR5rrd) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Un Legado Musical \- Lo Nuevo y Lo Mejor](https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe) | 5:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 |
 | 50 | [Decisiones \- Live](https://open.spotify.com/track/0NZ5mg6DGJHdnQkQjtsGHb) | [Ruben Blades](https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195), [Seis del Solar](https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO) | [Todos Vuelven Live, Vol\. 1](https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS) | 6:00 |
 
-Snapshot ID: `MCw4NTBkYTY4NmMxMzliMDgyODlkMWNkMjFiOTk1MDYxNzFhOWMyNGIx`
+Snapshot ID: `MCxmYjI3ZWVlMGQ3MzUxZmIwMTBkOWI2ZjdlY2UzMzI2OGQyNWU3MWEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,119 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,155 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 36 | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Set Me Free \(feat\. MAX\)](https://open.spotify.com/album/7Ll6kSs703zrmm60mTvw7v) | 3:13 |
 | 37 | [Youngr](https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Youngr](https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz) | 2:55 |
 | 38 | [Moonwalk Away](https://open.spotify.com/track/7pcd9XP1fZsiFGFCOFhtY3) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [Three Second Memory \(Deluxe\)](https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc) | 5:59 |
-| 39 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
-| 40 | [Frequency](https://open.spotify.com/track/6aZzE6efPCZNzd6eusRFcr) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Frequency](https://open.spotify.com/album/5C7Ov0SDP6goKXrw3CySdQ) | 3:17 |
+| 39 | [Frequency](https://open.spotify.com/track/6aZzE6efPCZNzd6eusRFcr) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Frequency](https://open.spotify.com/album/5C7Ov0SDP6goKXrw3CySdQ) | 3:17 |
+| 40 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 41 | [Waves](https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Critical As Water](https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll) | 3:00 |
-| 42 | [I'm With You](https://open.spotify.com/track/5gXjp3ZnKx0UDaXvwXCOgS) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [I'm With You](https://open.spotify.com/album/1PHQokRN6Hrh10ZQNjZn6A) | 3:33 |
-| 43 | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/track/3ZznDRLojMv5oWkeuvGSFR) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/album/659fdu0EaiK5Ilsh3dBTQW) | 3:53 |
+| 42 | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/track/3ZznDRLojMv5oWkeuvGSFR) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/album/659fdu0EaiK5Ilsh3dBTQW) | 3:53 |
+| 43 | [I'm With You](https://open.spotify.com/track/5gXjp3ZnKx0UDaXvwXCOgS) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [I'm With You](https://open.spotify.com/album/1PHQokRN6Hrh10ZQNjZn6A) | 3:33 |
 | 44 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 | 45 | [My Tribe](https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0) | 3:03 |
 | 46 | [Ellie](https://open.spotify.com/track/5KNLAnH7BBtoRxDqYP58h6) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Vergeet De Tijd](https://open.spotify.com/album/7B8rmxIjhAODSsLOvcJtLM) | 2:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [The Moment \(feat\. Jimmy Nevis & Emtee\)](https://open.spotify.com/track/4dpNbUnGgP1f0C6B9XVXK8) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh), [Jimmy Nevis](https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [The Moment \(feat\. Jimmy Nevis & Emtee\)](https://open.spotify.com/album/78zdmPv8xePsLa2e6Z6agw) | 3:17 |
 | 60 | [Love Everlasting](https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [Love Everlasting](https://open.spotify.com/album/1jk13k67kk897HjHgIELRV) | 2:40 |
 
-Snapshot ID: `MCxkYzE5Zjk2YTg1ZGRiMGRkYTllNWUxOTQ3ZjNlN2UwMmU3NzMzYTU5`
+Snapshot ID: `MCw2ZDc4YzkzYTBiZGRhNmE1YTE5YWMxNTM0YjliZDkyMmZjODVmYzMy`

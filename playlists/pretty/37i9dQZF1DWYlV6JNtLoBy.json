@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 833,
+  "num_followers": 843,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzI3MWYwYmI4ZWViZTg0ZDU1NzhjODkxMjYzNmZlNjFmODNlZTJh",
+  "snapshot_id": "MCw2Yjc1YTdjYWM3MjY0YTk0MmQwYmRjYzNlMzE2NGU1MmNlMWVjNmE3",
   "tracks": [
     {
       "added_at": "2023-04-14 00:30:00",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Tulia",
+        "url": "https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE"
+      },
+      "artists": [
+        {
+          "name": "Benachi",
+          "url": "https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD"
+        },
+        {
+          "name": "kaberere",
+          "url": "https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7"
+        }
+      ],
+      "duration_ms": 216607,
+      "name": "Mwanake (feat. Kaberere)",
+      "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Nikumbushe Wema Wako",
         "url": "https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 472477,
       "name": "Mfalme Wa Amani",
       "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Tulia",
-        "url": "https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE"
-      },
-      "artists": [
-        {
-          "name": "Benachi",
-          "url": "https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD"
-        },
-        {
-          "name": "kaberere",
-          "url": "https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7"
-        }
-      ],
-      "duration_ms": 216607,
-      "name": "Mwanake (feat. Kaberere)",
-      "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO"
     },
     {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Uinuliwe Baba",
+        "url": "https://open.spotify.com/album/0Gv7L9BwjC0tmSKRYS3OpX"
+      },
+      "artists": [
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        }
+      ],
+      "duration_ms": 418560,
+      "name": "Yesu Nakupenda",
+      "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
+    },
+    {
       "added_at": "2023-04-21 00:01:00",
       "album": {
         "name": "Praise Him",
@@ -601,20 +617,36 @@
       "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
+      "added_at": "2023-06-02 00:01:00",
       "album": {
-        "name": "Uinuliwe Baba",
-        "url": "https://open.spotify.com/album/0Gv7L9BwjC0tmSKRYS3OpX"
+        "name": "Love Art Lust",
+        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
       },
       "artists": [
         {
-          "name": "Rose Muhando",
-          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
         }
       ],
-      "duration_ms": 418560,
-      "name": "Yesu Nakupenda",
-      "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
+      "duration_ms": 160458,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/7om99dwImelL6LSONuY6nW"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Nipe Macho",
+        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 315213,
+      "name": "Thamani Ya Wokovu",
+      "url": "https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -635,22 +667,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Nipe Macho",
-        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 315213,
-      "name": "Thamani Ya Wokovu",
-      "url": "https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "KELELE ZA USHINDI",
         "url": "https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 221936,
       "name": "KELELE ZA USHINDI",
       "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
-    },
-    {
-      "added_at": "2023-06-02 00:01:00",
-      "album": {
-        "name": "Love Art Lust",
-        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
-      },
-      "artists": [
-        {
-          "name": "Fena Gitu",
-          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
-        }
-      ],
-      "duration_ms": 160458,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/7om99dwImelL6LSONuY6nW"
     },
     {
       "added_at": "2023-04-21 00:01:00",

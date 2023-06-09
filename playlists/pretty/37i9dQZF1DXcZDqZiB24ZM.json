@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 7488,
+  "num_followers": 7503,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzBiYzYyYTc4NjQzNWIyNGI2ZTIxODljNjVkNzYxNzc0ZTg2YmI5",
+  "snapshot_id": "MCxjNjBiNjI5NDFiYWFhNzYzZjdmNDFjYzYwNWI1NWIxNGI4ZTBiMjQ1",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -215,8 +215,8 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "La Nuit des Longs Couteaux",
-        "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
+        "name": "Lendemain",
+        "url": "https://open.spotify.com/album/5VZkTNFDjgDkugh5hymj98"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
         }
       ],
-      "duration_ms": 208466,
-      "name": "Cinq \u00e0 sept",
-      "url": "https://open.spotify.com/track/6XS5Qi2wUMgj88QdBXx69B"
+      "duration_ms": 153840,
+      "name": "Lendemain",
+      "url": "https://open.spotify.com/track/1EQadWAm6D0QiYgT8bSLiQ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -339,8 +339,8 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Lendemain",
-        "url": "https://open.spotify.com/album/5VZkTNFDjgDkugh5hymj98"
+        "name": "La Nuit des Longs Couteaux",
+        "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
         }
       ],
-      "duration_ms": 153840,
-      "name": "Lendemain",
-      "url": "https://open.spotify.com/track/1EQadWAm6D0QiYgT8bSLiQ"
+      "duration_ms": 208466,
+      "name": "Cinq \u00e0 sept",
+      "url": "https://open.spotify.com/track/6XS5Qi2wUMgj88QdBXx69B"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "Fugueuse",
+      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/6uqW9dsiR5MDJcRTzhw3MD"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 215511,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/3alXnI2ImIwAUoTYMjm26H"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Mafia",
-        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Fugueuse",
-      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Gesamtkunstwerk",
-        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
-      },
-      "artists": [
-        {
-          "name": "Dead Obies",
-          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
-        }
-      ],
-      "duration_ms": 481800,
-      "name": "Explosif",
-      "url": "https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Encore Des Histoires De Trap",
         "url": "https://open.spotify.com/album/5f27f4CYjasBqMXVn6nbuw"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 219062,
       "name": "Dans L'trap",
       "url": "https://open.spotify.com/track/4ZaVq23ofISP4U9EChy7sN"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Gesamtkunstwerk",
+        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
+      },
+      "artists": [
+        {
+          "name": "Dead Obies",
+          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+        }
+      ],
+      "duration_ms": 481800,
+      "name": "Explosif",
+      "url": "https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK"
-      },
-      "artists": [
-        {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
-        }
-      ],
-      "duration_ms": 212579,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Oc\u00e9an",
         "url": "https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 305906,
       "name": "Peace and Love",
       "url": "https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "duration_ms": 212579,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Gucci",
+        "url": "https://open.spotify.com/album/3aSD0RiBSjaKUYcUR45zrs"
+      },
+      "artists": [
+        {
+          "name": "SB",
+          "url": "https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG"
+        }
+      ],
+      "duration_ms": 211696,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/2O0VHBHWmfpp5Qy8CguLQI"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "La Coupe",
         "url": "https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 172489,
       "name": "Findsemaine",
       "url": "https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Gucci",
-        "url": "https://open.spotify.com/album/3aSD0RiBSjaKUYcUR45zrs"
-      },
-      "artists": [
-        {
-          "name": "SB",
-          "url": "https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG"
-        }
-      ],
-      "duration_ms": 211696,
-      "name": "Gucci",
-      "url": "https://open.spotify.com/track/2O0VHBHWmfpp5Qy8CguLQI"
     },
     {
       "added_at": "2022-03-11 05:02:00",

@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Night Time, My Time",
+        "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279880,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/6Nc3KauZ5OOk7ogX7h5HhO"
+    },
+    {
+      "album": {
         "name": "Wasting Light",
         "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
@@ -1496,6 +1514,24 @@
       "duration_ms": 283752,
       "name": "Five Years - 2012 Remaster",
       "url": "https://open.spotify.com/track/1JIzFhI9Lt5FyslawmHCBi"
+    },
+    {
+      "album": {
+        "name": "My Maudlin Career",
+        "url": "https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "French Navy",
+      "url": "https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1"
     },
     {
       "album": {
@@ -3800,6 +3836,24 @@
       "duration_ms": 175893,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
+    },
+    {
+      "album": {
+        "name": "Underachievers Please Try Harder",
+        "url": "https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226226,
+      "name": "Suspended From Class",
+      "url": "https://open.spotify.com/track/2YDmCSVs46QrhD2sqYGGqx"
     },
     {
       "album": {

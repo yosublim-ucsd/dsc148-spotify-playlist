@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Diego Coss en portada.",
-  "num_followers": 54789,
+  "num_followers": 54810,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzg4MWE4MzNhNzg0Nzc1YTRhNTBkZmRjODU4NmIzYThkMDRkNWIz",
+  "snapshot_id": "MCw1OGE5NGQ4NjZkNzkzZmEyY2JlNDE3MjA2ZTdmOTE3OTBjZDFkMjky",
   "tracks": [
     {
       "added_at": "2023-06-07 17:30:27",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-06-07 17:30:27",
       "album": {
+        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
+        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Kenwood En Los Radios (En Vivo)",
+      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
+      "added_at": "2023-06-07 17:30:27",
+      "album": {
         "name": "El Rayo (En Vivo)",
         "url": "https://open.spotify.com/album/5UGAr42pCKgHawjD7ouV5y"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 226750,
       "name": "El Rayo - En Vivo",
       "url": "https://open.spotify.com/track/1dYqyMhfDHqM7bg86LaBuP"
-    },
-    {
-      "added_at": "2023-06-07 17:30:27",
-      "album": {
-        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
-        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Kenwood En Los Radios (En Vivo)",
-      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
     },
     {
       "added_at": "2023-06-07 17:30:27",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-06-07 17:30:27",
       "album": {
+        "name": "Sencillito Y Serenito",
+        "url": "https://open.spotify.com/album/5w5cmlbVxvcOCBXscLhX2l"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 177044,
+      "name": "Sencillito Y Serenito",
+      "url": "https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp"
+    },
+    {
+      "added_at": "2023-06-07 17:30:27",
+      "album": {
         "name": "El Sello Adixion",
         "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2023-06-07 17:30:27",
       "album": {
-        "name": "Sencillito Y Serenito",
-        "url": "https://open.spotify.com/album/5w5cmlbVxvcOCBXscLhX2l"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 177044,
-      "name": "Sencillito Y Serenito",
-      "url": "https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp"
-    },
-    {
-      "added_at": "2023-06-07 17:30:27",
-      "album": {
         "name": "Es Tan Bonita",
         "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-07 17:30:27",
       "album": {
-        "name": "En La Silverado",
-        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
-      },
-      "artists": [
-        {
-          "name": "Ruben Figueroa",
-          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
-        }
-      ],
-      "duration_ms": 170922,
-      "name": "En La Silverado",
-      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
-    },
-    {
-      "added_at": "2023-06-07 17:30:27",
-      "album": {
         "name": "El Que Le Gusta Ayudar",
         "url": "https://open.spotify.com/album/7oK6nN298LTRN7l1iOCfub"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 172026,
       "name": "El Que Le Gusta Ayudar",
       "url": "https://open.spotify.com/track/0y3pVKsIFlT32ztCkZg2KY"
+    },
+    {
+      "added_at": "2023-06-07 17:30:27",
+      "album": {
+        "name": "En La Silverado",
+        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
+      },
+      "artists": [
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+        }
+      ],
+      "duration_ms": 170922,
+      "name": "En La Silverado",
+      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
     },
     {
       "added_at": "2023-06-07 17:30:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-06-07 17:30:27",
       "album": {
-        "name": "Mi Dolor",
-        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "Mi Dolor",
-      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
-    },
-    {
-      "added_at": "2023-06-07 17:30:27",
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 162037,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
+    },
+    {
+      "added_at": "2023-06-07 17:30:27",
+      "album": {
+        "name": "Mi Dolor",
+        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Mi Dolor",
+      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
     },
     {
       "added_at": "2023-06-07 17:30:27",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-06-07 17:30:27",
       "album": {
-        "name": "Traigo Un Equip\u00f3n",
-        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 163824,
-      "name": "Traigo Un Equip\u00f3n",
-      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
-    },
-    {
-      "added_at": "2023-06-07 17:30:27",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/47I5OpIC5kzWFrEKXM3I2V"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 175588,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU"
+    },
+    {
+      "added_at": "2023-06-07 17:30:27",
+      "album": {
+        "name": "Traigo Un Equip\u00f3n",
+        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 163824,
+      "name": "Traigo Un Equip\u00f3n",
+      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
     },
     {
       "added_at": "2023-06-07 17:30:27",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-06-07 17:30:27",
       "album": {
-        "name": "Barba De Herencia",
-        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 204675,
-      "name": "Barba De Herencia",
-      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
-    },
-    {
-      "added_at": "2023-06-07 17:30:27",
-      "album": {
         "name": "No Llega El Olvido (En Vivo)",
         "url": "https://open.spotify.com/album/1LW3Trn9wtBrtMi4rveSVY"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 131351,
       "name": "Sigo Avanzando",
       "url": "https://open.spotify.com/track/5JKWwVkoGymp4clv8DsLZf"
+    },
+    {
+      "added_at": "2023-06-07 17:30:27",
+      "album": {
+        "name": "Barba De Herencia",
+        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 204675,
+      "name": "Barba De Herencia",
+      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
     },
     {
       "added_at": "2023-06-07 17:30:27",

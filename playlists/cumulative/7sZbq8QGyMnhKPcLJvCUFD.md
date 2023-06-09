@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-286 songs - 14 hr 24 min
+287 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [One Taste](https://open.spotify.com/track/0HwgZzRDcSC6dvDz7Eepsy) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [One Taste](https://open.spotify.com/album/7z5mJozS5AxvzQqcXTvvtR) | 3:12 | 2023-03-31 |  |
 | [ONI](https://open.spotify.com/track/23KhGOR08Q40MyuaP9qAtf) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [ONI](https://open.spotify.com/album/5pXmKXrvvPsRULRXDSt7Cr) | 4:00 | 2023-05-09 |  |
 | [Online](https://open.spotify.com/track/2PgivAhiFtODlcuSrC9QO4) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Online](https://open.spotify.com/album/6PRAD7CISUhkoXegWG9mCD) | 3:04 | 2022-11-16 | 2023-04-28 |
+| [Orphic Night](https://open.spotify.com/track/2pHUAHfX7hSoLdBZ8wALnP) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Orphic Night](https://open.spotify.com/album/4rrzK0Cbp95qcjH0p9oPsc) | 2:56 | 2023-06-08 |  |
 | [Out Of Here](https://open.spotify.com/track/1RpmCnc7AjpDYqacXYRLZY) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Out Of Here](https://open.spotify.com/album/6WL6RJfNBi89mntTBIvKua) | 2:14 | 2022-08-30 | 2023-04-28 |
 | [Overcome](https://open.spotify.com/track/0QTMzJWVw3RAEdgsdWbcTI) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Overcome](https://open.spotify.com/album/722r13TFSAi1uVzLeFcB9z) | 2:49 | 2023-04-19 |  |
 | [Overdrive](https://open.spotify.com/track/10okOJmLKcEysZuKFJ2lki) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Ellerslie](https://open.spotify.com/artist/6ouVw2vTrKmhK2XUsmUMHE) | [Overdrive](https://open.spotify.com/album/5Tp0z2WyBNhie2ryMj0q2A) | 3:13 | 2023-04-06 |  |

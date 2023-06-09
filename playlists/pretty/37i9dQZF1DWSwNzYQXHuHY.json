@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7604,
+  "num_followers": 7607,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWM3Y2JhNThiNzc0MWEzZDBhYzdjYmNjZDc1MDhhZThiMmUxYWFl",
+  "snapshot_id": "MCwxYjZlYTMxMzg0N2I4NjRjYTBhMGFiYTA0MjdhNDI2MTBlMjRjZjVm",
   "tracks": [
     {
       "added_at": "2023-05-31 15:48:13",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-05-31 15:48:13",
       "album": {
-        "name": "Let's Love",
-        "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
-      },
-      "artists": [
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        },
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Let's Love",
-      "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
-    },
-    {
-      "added_at": "2023-05-31 15:48:13",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 212386,
       "name": "Actor (Feat. pH-1)",
       "url": "https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5"
+    },
+    {
+      "added_at": "2023-05-31 15:48:13",
+      "album": {
+        "name": "Let's Love",
+        "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
+      },
+      "artists": [
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        },
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Let's Love",
+      "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
     },
     {
       "added_at": "2023-05-31 15:48:13",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-05-31 15:48:13",
       "album": {
-        "name": "A New Decade",
-        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
       },
       "artists": [
         {
-          "name": "DINDIN",
-          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 219813,
-      "name": "Should Not Love You",
-      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
     }
   ],
   "unique_name": "\uc378",

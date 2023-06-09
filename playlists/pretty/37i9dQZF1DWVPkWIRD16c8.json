@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 71139,
+  "num_followers": 71403,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjU4MTMzODNiYTViNTYyYTA3NjExNzgzYzlhOTYwNTdhNTUyNzVk",
+  "snapshot_id": "MCw0ODdhODRmNzY2Y2ZkYmRmMjE1MTQ1MzZlNTg2YmVkOGExY2U3ZmZj",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "This Is Not A Test",
+        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Love Broke Thru",
+      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "All Things Work Together",
         "url": "https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 217506,
       "name": "I'll Find You (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/6m60IwLIkZ2Fmz4J9FsQ1o"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "This Is Not A Test",
-        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Love Broke Thru",
-      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 175213,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "You Cannot Be Stopped",
         "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 261360,
       "name": "You Cannot Be Stopped",
       "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "New Today",
-        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 175213,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Saved",
+        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "Saved",
+      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Mmhmm",
         "url": "https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV"
       },
@@ -687,26 +703,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 264320,
-      "name": "Awake My Soul",
-      "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
       },
@@ -723,18 +719,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Saved",
-        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
       "artists": [
         {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 174285,
-      "name": "Saved",
-      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
+      "duration_ms": 264320,
+      "name": "Awake My Soul",
+      "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/5rm5yOWUoGv5GdUmuQ1yvC"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 208118,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/1Tli4ykzVexUn987y49vlj"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Hundred More Years",
         "url": "https://open.spotify.com/album/1s6NqofRkHJN1eThDu948E"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 183706,
       "name": "This Is the Stuff",
       "url": "https://open.spotify.com/track/3SkhhzEOzs8XR1Ta8jVNsO"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Dark Is The Way, Light Is A Place",
-        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
     }
   ],
   "unique_name": "Christian Road Trip",

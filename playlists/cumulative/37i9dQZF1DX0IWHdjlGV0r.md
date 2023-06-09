@@ -4,7 +4,7 @@
 
 > Certi amori bruciano di più\. Cover: Geolier
 
-128 songs - 6 hr 40 min
+130 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-05-03 | 2022-05-20 |
 | [Apnea](https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 3:31 | 2022-05-03 |  |
 | [Arai \(feat\. Capo Plaza\)](https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 3:01 | 2023-03-15 |  |
+| [Arsenico](https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:03 | 2023-06-08 |  |
 | [Baby Mama](https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Baby Mama](https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO) | 2:31 | 2022-11-23 |  |
 | [Bang Bang](https://open.spotify.com/track/7kktKNHgINrBczPUGoG38p) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 2:29 | 2022-05-03 |  |
 | [Barcellona](https://open.spotify.com/track/51zuoAf9f1DNTVmBJHVErg) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:56 | 2022-05-03 | 2023-02-02 |
@@ -126,10 +127,11 @@
 | [TI DIREI](https://open.spotify.com/track/0XEsB0Xcx87kvK4uuP2JNd) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [OUTSIDER](https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu) | 2:52 | 2023-04-06 |  |
 | [Topless](https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog) | [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Topless](https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X) | 3:00 | 2022-05-03 |  |
 | [Torna Da Me](https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:00 | 2022-05-03 |  |
+| [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 | 2023-06-08 |  |
 | [Un'Altra Notte \(feat\. Priestess\)](https://open.spotify.com/track/5IiE6zhjY9rsXRLhIOyX5h) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Scatola Nera](https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM) | 3:25 | 2022-05-03 | 2023-03-31 |
 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 | 2022-05-03 |  |
 | [Veleno](https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:14 | 2022-05-03 |  |
-| [Vida Mala \(feat\. Medy\)](https://open.spotify.com/track/0ejEtuL3QsV1xvnHysuoVp) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Vida Mala \(feat\. Medy\)](https://open.spotify.com/album/4UbeTkpOQKC95anCPKd7q0) | 2:34 | 2023-05-04 |  |
+| [Vida Mala \(feat\. Medy\)](https://open.spotify.com/track/0ejEtuL3QsV1xvnHysuoVp) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Vida Mala \(feat\. Medy\)](https://open.spotify.com/album/4UbeTkpOQKC95anCPKd7q0) | 2:34 | 2023-05-04 | 2023-06-09 |
 | [VISCERALE \- closer](https://open.spotify.com/track/7bgJm5Z7EpvXRMdysiUjCj) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:04 | 2023-05-18 |  |
 | [Vogl Sul A Te](https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Emanuele](https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl) | 3:05 | 2022-05-03 |  |
 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 | 2023-01-05 |  |

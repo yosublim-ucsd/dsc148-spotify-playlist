@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes! Cover: Chivv & DJ Wale",
+  "description": "Motion en good vibes! Cover: Yssine",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -421,6 +421,28 @@
     },
     {
       "album": {
+        "name": "Ajena",
+        "url": "https://open.spotify.com/album/07tCBCAEuWiPg3tNvtxhsQ"
+      },
+      "artists": [
+        {
+          "name": "JM Fuego",
+          "url": "https://open.spotify.com/artist/3NclztAZJKINqZ2m6anhQk"
+        },
+        {
+          "name": "JBigss",
+          "url": "https://open.spotify.com/artist/26wDc3VG393s6Ta4W88AGX"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162777,
+      "name": "Ajena",
+      "url": "https://open.spotify.com/track/4v7jRO3iw5Wcy8IVPF4JNy"
+    },
+    {
+      "album": {
         "name": "All Eyes On You",
         "url": "https://open.spotify.com/album/00PVcrGVColJqZdOohU0ZR"
       },
@@ -798,7 +820,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 162373,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
@@ -3396,7 +3418,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 111428,
       "name": "Drunk In Love (Henny) - Remix",
       "url": "https://open.spotify.com/track/61y39ZHY8LtubFtsHm7Ffj"
@@ -3608,6 +3630,24 @@
       "duration_ms": 125561,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5859tGjNNx7e8eJMRkOHcZ"
+    },
+    {
+      "album": {
+        "name": "Summerpack",
+        "url": "https://open.spotify.com/album/3TrJAgJbIerX8eIWUdtndB"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175556,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/19lK2hmq4p2KN617MGbId1"
     },
     {
       "album": {
@@ -4242,7 +4282,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 142857,
       "name": "Glaasje Leeg (Oya L\u00e9le)",
       "url": "https://open.spotify.com/track/7aMoZYnTJ3TqveVwmnw3gY"
@@ -5515,6 +5555,36 @@
     },
     {
       "album": {
+        "name": "LAYALI",
+        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Unleaded",
+          "url": "https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261578,
+      "name": "Kizomba (feat. Franglish, Jonna Fraser & Unleaded)",
+      "url": "https://open.spotify.com/track/2yo9dRhpHG7b5AYgTGWfh5"
+    },
+    {
+      "album": {
         "name": "Koffie Op De Maan",
         "url": "https://open.spotify.com/album/3FALwdm6Iy2xT2xkfOKc6v"
       },
@@ -5912,7 +5982,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 156774,
       "name": "Laten Gaan",
       "url": "https://open.spotify.com/track/6kuoNlnHACtdX4cJtB7bbv"
@@ -6500,7 +6570,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 185016,
       "name": "Makka Nakki",
       "url": "https://open.spotify.com/track/2saCQt4Ls4GzuEyNpRYjlF"
@@ -6602,6 +6672,28 @@
       "duration_ms": 153560,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX"
+    },
+    {
+      "album": {
+        "name": "Maybelline",
+        "url": "https://open.spotify.com/album/55wWOMOGEFWpuMlvjvr5Hd"
+      },
+      "artists": [
+        {
+          "name": "Badboygoodvibes",
+          "url": "https://open.spotify.com/artist/1HIMRZqxPjlZLjzuWt3lR3"
+        },
+        {
+          "name": "El Lider",
+          "url": "https://open.spotify.com/artist/4e2q8btT3KY7t4txFTgSTh"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Maybelline",
+      "url": "https://open.spotify.com/track/4Ip6V3aMPqE3MdyKdfJkWJ"
     },
     {
       "album": {
@@ -6862,7 +6954,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 145019,
       "name": "MIA",
       "url": "https://open.spotify.com/track/703ZRGW00Fra2Et6d0e4bK"
@@ -7963,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "Moscato",
+        "url": "https://open.spotify.com/album/5KAfXsur99a2zCDVublp40"
+      },
+      "artists": [
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165247,
+      "name": "Nooit Meer",
+      "url": "https://open.spotify.com/track/5KBwXLlUuNKPfQ9TpZrlar"
+    },
+    {
+      "album": {
         "name": "Offside",
         "url": "https://open.spotify.com/album/6RVtAsb3BS4hFagO0R4ZIn"
       },
@@ -8526,7 +8636,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 142288,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/0O2ESGdOZrLHxNGtQgOYjp"
@@ -8753,6 +8863,28 @@
     },
     {
       "album": {
+        "name": "Ping Pong",
+        "url": "https://open.spotify.com/album/7HfVLB0nKCC7HNVNGtbdSQ"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143529,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/42GlLOlvrkjaP3zLPfFJdH"
+    },
+    {
+      "album": {
         "name": "Pinot Grigio",
         "url": "https://open.spotify.com/album/795xCyBwqeCZGLecDg3Ign"
       },
@@ -8834,7 +8966,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 134173,
       "name": "Poco Loco",
       "url": "https://open.spotify.com/track/6s1JvqVk3yn7CKaUFhuvld"
@@ -10799,6 +10931,28 @@
     },
     {
       "album": {
+        "name": "Trainingspak",
+        "url": "https://open.spotify.com/album/67N1h7Y59KjDS3xafg7gLc"
+      },
+      "artists": [
+        {
+          "name": "WAVEY",
+          "url": "https://open.spotify.com/artist/508RuTQvww9wrlncZsd7Cd"
+        },
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145382,
+      "name": "Trainingspak",
+      "url": "https://open.spotify.com/track/30oluvvpUwQaMm56F9lHBz"
+    },
+    {
+      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/5fFvazdMPlXabKWDf4YH6L"
       },
@@ -10983,6 +11137,28 @@
     },
     {
       "album": {
+        "name": "Uit De Ghetto",
+        "url": "https://open.spotify.com/album/6zZdRNl00rDQLp2bpiFFi3"
+      },
+      "artists": [
+        {
+          "name": "2mochh",
+          "url": "https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk"
+        },
+        {
+          "name": "Andy VDM",
+          "url": "https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Uit De Ghetto",
+      "url": "https://open.spotify.com/track/6zRHFkWlvJWJL4xdtZtTmN"
+    },
+    {
+      "album": {
         "name": "Ulala",
         "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
@@ -11164,7 +11340,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 163447,
       "name": "Vatos Locos",
       "url": "https://open.spotify.com/track/6gF0SzgjzeYSriubXBGThr"
@@ -11779,6 +11955,28 @@
     },
     {
       "album": {
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+    },
+    {
+      "album": {
         "name": "Wij Zijn Anders",
         "url": "https://open.spotify.com/album/0r878fSzBv848oMlDk3Tvu"
       },
@@ -11794,10 +11992,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 157194,
       "name": "Wij Zijn Anders",
       "url": "https://open.spotify.com/track/1ZA9hG5QV3qiDwo0cFuORI"
+    },
+    {
+      "album": {
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
+      },
+      "artists": [
+        {
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161901,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
     },
     {
       "album": {
@@ -12048,7 +12264,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 135694,
       "name": "Zin In De Zomer Man",
       "url": "https://open.spotify.com/track/1ThDzyepNdDRIYhU295DNd"

@@ -1,12 +1,12 @@
 {
   "description": "Aperitivo, lounge, chill: musica da ascoltare con uno spritz in mano per questa estate 2023 \ud83c\udf79",
-  "num_followers": 232458,
+  "num_followers": 232511,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODM3MGNkOWY2OGJkNGU0YzcwNWFiNTRlNGQ4MGM4YzZjNmEwNjM1",
+  "snapshot_id": "MCw3NGYwNDIyMGQzYTM0NTcwZDcwMGI5ZTUxZjcyOWMyYjEyYWM2NDAw",
   "tracks": [
     {
       "added_at": "2023-06-05 08:03:05",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-06-05 08:03:05",
       "album": {
-        "name": "Ithaque",
-        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Ithaque",
-      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
-    },
-    {
-      "added_at": "2023-06-05 08:03:05",
-      "album": {
         "name": "V\u00e1rias Queixas (Radio Edit)",
         "url": "https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 183752,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+    },
+    {
+      "added_at": "2023-06-05 08:03:05",
+      "album": {
+        "name": "Ithaque",
+        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Ithaque",
+      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
     },
     {
       "added_at": "2023-06-05 08:03:05",
@@ -935,26 +935,18 @@
     {
       "added_at": "2023-06-05 08:03:05",
       "album": {
-        "name": "Sounds of My World",
-        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "George The Poet",
-          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 287037,
-      "name": "Summer In The Ends",
-      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2023-06-05 08:03:05",
@@ -975,18 +967,26 @@
     {
       "added_at": "2023-06-05 08:03:05",
       "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "George The Poet",
+          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
         }
       ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+      "duration_ms": 287037,
+      "name": "Summer In The Ends",
+      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
     },
     {
       "added_at": "2023-06-05 08:03:05",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-06-05 08:03:05",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 305480,
-      "name": "Never Come Back",
-      "url": "https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU"
-    },
-    {
-      "added_at": "2023-06-05 08:03:05",
-      "album": {
         "name": "Out Of Time (Remix Bundle)",
         "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2023-06-05 08:03:05",
       "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
       "artists": [
         {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
+      "duration_ms": 305480,
+      "name": "Never Come Back",
+      "url": "https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU"
     },
     {
       "added_at": "2023-06-05 08:03:05",
@@ -1143,6 +1127,22 @@
       "duration_ms": 224000,
       "name": "I Go - Edit",
       "url": "https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4"
+    },
+    {
+      "added_at": "2023-06-05 08:03:05",
+      "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2023-06-05 08:03:05",

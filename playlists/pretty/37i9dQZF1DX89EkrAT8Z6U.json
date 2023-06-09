@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 496049,
+  "num_followers": 496715,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOThlNDNjZWYwZmJjZTY3ZTk1MjE3NTZjYmQ2N2FmNTViZjczMzE3",
+  "snapshot_id": "MCw5ZWFkMjgxOWY1Y2U3ODlhZjg5NThlMTc1YzcwNjEzNmYyOTViNTUx",
   "tracks": [
     {
       "added_at": "2023-05-22 17:40:06",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-22 17:40:06",
       "album": {
-        "name": "S1KE",
-        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
-      },
-      "artists": [
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "S1KE",
-      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
-    },
-    {
-      "added_at": "2023-05-22 17:40:06",
-      "album": {
         "name": "Red Teenage Melody",
         "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 271413,
       "name": "Still Cold / Pathway Private",
       "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
+    },
+    {
+      "added_at": "2023-05-22 17:40:06",
+      "album": {
+        "name": "S1KE",
+        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "S1KE",
+      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
     },
     {
       "added_at": "2023-05-22 17:40:06",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-05-22 17:40:06",
       "album": {
+        "name": "Baby My Phone",
+        "url": "https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq"
+      },
+      "artists": [
+        {
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+        }
+      ],
+      "duration_ms": 215771,
+      "name": "Baby My Phone",
+      "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
+    },
+    {
+      "added_at": "2023-05-22 17:40:06",
+      "album": {
         "name": "DONNA",
         "url": "https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 158710,
       "name": "CHROME BERETTA",
       "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
-    },
-    {
-      "added_at": "2023-05-22 17:40:06",
-      "album": {
-        "name": "Go!",
-        "url": "https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
     }
   ],
   "unique_name": "sh\u014dnen",

@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-130 songs - 7 hr 32 min
+132 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Don't Worry Be Happy](https://open.spotify.com/track/53NooRcLJYR85eCatEWtVI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ) | 5:22 | 2023-03-16 |  |
 | [Dream a Little Dream](https://open.spotify.com/track/1LMOBk8uRCJm53pOPkYMsp) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:31 | 2022-05-20 |  |
 | [Driver's License](https://open.spotify.com/track/0Z4318tVXV1bUuf481yYb5) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Driver's License](https://open.spotify.com/album/5eK4J7fmTeXVuokj4GBFJl) | 3:52 | 2023-03-16 |  |
+| [Fast Car](https://open.spotify.com/track/2ZxxrbtKlESR3rvbbn44Ae) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [Fast Car](https://open.spotify.com/album/0bJ0Xr1AeueAvJCNDOcIRH) | 3:59 | 2023-06-08 |  |
 | [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 | 2022-05-20 | 2023-04-12 |
 | [Get Lucky](https://open.spotify.com/track/5qzgAtVIkJFpTV2KMUPzkR) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/5Svcuvif030EABjV9kM4RI) | 4:49 | 2023-03-16 |  |
 | [Glimpse of Us](https://open.spotify.com/track/3UCsK9DYrSd6Qn4oQ9cRq1) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [As It Was](https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI) | 3:32 | 2022-12-01 | 2023-04-28 |
@@ -122,7 +123,8 @@
 | [The Shade](https://open.spotify.com/track/3rZ00i6iUVn9AU9iCuxK8U) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Shivers](https://open.spotify.com/album/3FP08BXh4opzeqPPYPN7Tf) | 3:00 | 2022-12-01 | 2023-04-28 |
 | [Thinking out Loud \- Ukulele Version](https://open.spotify.com/track/5vGoHkL7i3BFor4BzkmgUf) | [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Thinking out Loud \(Ukulele Version\)](https://open.spotify.com/album/1tLqdPFJvI4GiAgAv1TQBh) | 4:35 | 2022-05-20 |  |
 | [This Is Home](https://open.spotify.com/track/3IMXuDKy3jPJoPmV8yWJY9) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [This Is Home](https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa) | 3:47 | 2022-08-03 | 2023-04-28 |
-| [Three Little Birds \- Ukulele Version](https://open.spotify.com/track/2kCMqR9YzN0WlPFqUdSkiC) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele Renditions of Summer Classic Hits! \(Ukulele Version\)](https://open.spotify.com/album/70F59XAmAhAwfdCn4usM0l) | 3:01 | 2022-05-20 |  |
+| [Three Little Birds](https://open.spotify.com/track/4aFgZ6NIHeHH353EwJJao2) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [Fast Car](https://open.spotify.com/album/0bJ0Xr1AeueAvJCNDOcIRH) | 2:54 | 2023-06-08 |  |
+| [Three Little Birds \- Ukulele Version](https://open.spotify.com/track/2kCMqR9YzN0WlPFqUdSkiC) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele Renditions of Summer Classic Hits! \(Ukulele Version\)](https://open.spotify.com/album/70F59XAmAhAwfdCn4usM0l) | 3:01 | 2022-05-20 | 2023-06-09 |
 | [Time After Time](https://open.spotify.com/track/1EBzaoMAUiuWmL0lxDfn5C) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Time After Time](https://open.spotify.com/album/6zh95laZ5y3hv6nwCTJF4r) | 4:15 | 2023-03-16 | 2023-04-28 |
 | [Time of the Season](https://open.spotify.com/track/1pQkECzXZXYef46QwzKU8z) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Stand By Me](https://open.spotify.com/album/0VFco39u9Q1HnS5adiknEP) | 3:22 | 2022-07-01 |  |
 | [True Colors](https://open.spotify.com/track/1ckI32DhLPvHnMNBihiLB4) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [True Colors](https://open.spotify.com/album/5C2bi9rLxNWpOI2Tv22GKt) | 3:38 | 2023-03-16 | 2023-04-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 131922,
+  "num_followers": 132058,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGUxNGU3YjkzZTY2MDc1MjJmMTlhNTdlODg4YjJiOWZkZGZhOWM0",
+  "snapshot_id": "MCxiYmQzM2U4MTM2M2ZmMDgyNzIyYTgzODNkNTQ5OTBiODkyMmUwZmVi",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -259,6 +259,30 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Liebe zu dritt",
+        "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Liebe zu dritt",
+      "url": "https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -291,30 +315,6 @@
       "duration_ms": 172596,
       "name": "Endorphine",
       "url": "https://open.spotify.com/track/7uuE9r7VhxFm4YuxAHlD4K"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Liebe zu dritt",
-        "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
-      },
-      "artists": [
-        {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        },
-        {
-          "name": "MAJAN",
-          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
-        },
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Liebe zu dritt",
-      "url": "https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
+        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
+      },
+      "artists": [
+        {
+          "name": "Die Toten Hosen",
+          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "Alles aus Liebe",
+      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Normal zu lieben",
         "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 213666,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
-        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
-      },
-      "artists": [
-        {
-          "name": "Die Toten Hosen",
-          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "Alles aus Liebe",
-      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -847,18 +847,26 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Sommerregen",
-        "url": "https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl"
+        "name": "Sommer",
+        "url": "https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW"
       },
       "artists": [
         {
-          "name": "RAUM27",
-          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+          "name": "Beatzarre & Djorkaeff",
+          "url": "https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD"
+        },
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
         }
       ],
-      "duration_ms": 225481,
-      "name": "Sommerregen",
-      "url": "https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi"
+      "duration_ms": 180146,
+      "name": "Sommer",
+      "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
     }
   ],
   "unique_name": "Liebeslieder",

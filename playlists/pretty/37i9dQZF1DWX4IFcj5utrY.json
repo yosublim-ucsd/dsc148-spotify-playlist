@@ -1,13 +1,33 @@
 {
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=Kjnu6Xy4SuqnEzK8bcP6BQ\">Prince Kaybee</a>",
-  "num_followers": 60680,
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105?si=pQwF9eo-RJ-hG10oCfR5Zg\">Darque</a>",
+  "num_followers": 60719,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWY2MmQ3NWY3M2Y2ZjU4MzdhY2M4ZTE0MjE1MDZhY2E5NGUyZjhm",
+  "snapshot_id": "MCw3MzgxZGRjYTEzNjczZWJkNzZmYzIxY2ZhZjA3NDBhOTc0NmMwODEy",
   "tracks": [
+    {
+      "added_at": "2023-06-09 00:00:00",
+      "album": {
+        "name": "The Rapture Pt.III",
+        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 417812,
+      "name": "The Rapture Pt.III",
+      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
+    },
     {
       "added_at": "2023-06-02 00:00:00",
       "album": {
@@ -29,10 +49,10 @@
       "url": "https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA"
     },
     {
-      "added_at": "2023-05-22 11:27:42",
+      "added_at": "2023-06-09 00:00:00",
       "album": {
-        "name": "Mngani",
-        "url": "https://open.spotify.com/album/64or43KyUgR5Wxymf9lSNx"
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/20NtnSIuyGh9W3ywaAWuyy"
       },
       "artists": [
         {
@@ -40,13 +60,33 @@
           "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
         },
         {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
         }
       ],
-      "duration_ms": 377503,
-      "name": "Mngani",
-      "url": "https://open.spotify.com/track/4HwbvqQZpVvaYJB7uGlcAe"
+      "duration_ms": 382776,
+      "name": "Moja",
+      "url": "https://open.spotify.com/track/1m7tl08WOnGcwEGKADBWu5"
+    },
+    {
+      "added_at": "2023-05-22 11:27:42",
+      "album": {
+        "name": "Abandonment Issues",
+        "url": "https://open.spotify.com/album/2wAQjMXgo3NKIEKZ0YnfCb"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Abandonment Issues",
+      "url": "https://open.spotify.com/track/5MSpeSGuvcxiQS7Bd8np3q"
     },
     {
       "added_at": "2023-06-02 00:00:00",
@@ -69,44 +109,60 @@
       "url": "https://open.spotify.com/track/1PFi8Yu9sE9Gm6I0PXW6XX"
     },
     {
-      "added_at": "2023-05-22 11:27:42",
+      "added_at": "2023-06-09 00:00:00",
       "album": {
-        "name": "Abandonment Issues",
-        "url": "https://open.spotify.com/album/2wAQjMXgo3NKIEKZ0YnfCb"
+        "name": "African Prayer (Radio Edit)",
+        "url": "https://open.spotify.com/album/7qTpMSJoBybyDga1uJ8Cuy"
       },
       "artists": [
         {
-          "name": "\u6c50",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Atmos Blaq",
-          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        },
+        {
+          "name": "OX Sounds",
+          "url": "https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Abandonment Issues",
-      "url": "https://open.spotify.com/track/5MSpeSGuvcxiQS7Bd8np3q"
+      "duration_ms": 231578,
+      "name": "African Prayer - Radio Edit",
+      "url": "https://open.spotify.com/track/3OC5eq62b3qYY64XxzYqAZ"
     },
     {
       "added_at": "2023-06-02 00:00:00",
       "album": {
-        "name": "Caution To The Wind (Fka Mash Remixes)",
-        "url": "https://open.spotify.com/album/4g2rVxcYBIKCRllmkDghVu"
+        "name": "Umhle (Lebzin & Dr Feel AfroSoul Remix)",
+        "url": "https://open.spotify.com/album/2KzQQVMOyvct2rpZIVDx4C"
       },
       "artists": [
         {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+          "name": "Semitone",
+          "url": "https://open.spotify.com/artist/4sNX911AuXLrqMUP1IpPtz"
         },
         {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        },
+        {
+          "name": "Lebzin",
+          "url": "https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
         }
       ],
-      "duration_ms": 390500,
-      "name": "Caution To The Wind - Fka Mash Remix",
-      "url": "https://open.spotify.com/track/3t9nMT0GuhQZSNSH7gXEfU"
+      "duration_ms": 269757,
+      "name": "Umhle (Lebzin & Dr Feel AfroSoul Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/5N0Uukn963YBASMXuCL26q"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -209,6 +265,46 @@
       "url": "https://open.spotify.com/track/5U6zQqXCVZokE7UH4kdAB1"
     },
     {
+      "added_at": "2023-06-09 00:00:00",
+      "album": {
+        "name": "Uthando",
+        "url": "https://open.spotify.com/album/5Tyfoak0jbNK8d5plROnxK"
+      },
+      "artists": [
+        {
+          "name": "Dino and Terry",
+          "url": "https://open.spotify.com/artist/4hqAO5iManFwimCILkz47U"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "duration_ms": 383114,
+      "name": "Uthando",
+      "url": "https://open.spotify.com/track/03NhrqePpSHqQEMbBOUHEi"
+    },
+    {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "UNDERRATED 2.0",
+        "url": "https://open.spotify.com/album/2ZNqWRe7AbH6HRiTwtFvkX"
+      },
+      "artists": [
+        {
+          "name": "Vico da sporo",
+          "url": "https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd"
+        },
+        {
+          "name": "Azana",
+          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
+        }
+      ],
+      "duration_ms": 418495,
+      "name": "Amaphupho",
+      "url": "https://open.spotify.com/track/45hTW7vepklO2ZNSEAoFYs"
+    },
+    {
       "added_at": "2023-05-22 11:27:42",
       "album": {
         "name": "Pussy Power (Desiree Remix)",
@@ -267,6 +363,26 @@
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
+        "name": "Mngani",
+        "url": "https://open.spotify.com/album/64or43KyUgR5Wxymf9lSNx"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "duration_ms": 377503,
+      "name": "Mngani",
+      "url": "https://open.spotify.com/track/4HwbvqQZpVvaYJB7uGlcAe"
+    },
+    {
+      "added_at": "2023-05-22 11:27:42",
+      "album": {
         "name": "The Hi",
         "url": "https://open.spotify.com/album/1fA4ZmGkYpPmsZpl4tUeAs"
       },
@@ -285,6 +401,26 @@
       "url": "https://open.spotify.com/track/3s4WU81N2Da2yMuafxSuPt"
     },
     {
+      "added_at": "2023-06-09 00:00:00",
+      "album": {
+        "name": "King Of My Castle (feat. Kali Mija)",
+        "url": "https://open.spotify.com/album/3U1C9xhqYC1UOJWfgI0zC9"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "duration_ms": 156639,
+      "name": "King Of My Castle (feat. Kali Mija)",
+      "url": "https://open.spotify.com/track/1djI1wvVtBVpUZeVPAyVZG"
+    },
+    {
       "added_at": "2023-05-22 11:27:42",
       "album": {
         "name": "That Organ Track",
@@ -299,6 +435,46 @@
       "duration_ms": 416787,
       "name": "That Organ Track",
       "url": "https://open.spotify.com/track/2b0Uxm2fJJSMKuSHnmlyBn"
+    },
+    {
+      "added_at": "2023-06-09 00:00:00",
+      "album": {
+        "name": "Parfaite",
+        "url": "https://open.spotify.com/album/5FP684jxUuq0q4luOBmN4L"
+      },
+      "artists": [
+        {
+          "name": "Thor Rixon",
+          "url": "https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX"
+        },
+        {
+          "name": "Elodie Gervaise",
+          "url": "https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB"
+        }
+      ],
+      "duration_ms": 258363,
+      "name": "Parfaite",
+      "url": "https://open.spotify.com/track/1fPvKAh8ZzVJ4yo25Wl1oi"
+    },
+    {
+      "added_at": "2023-06-09 00:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0n2KUCR5NNfKAHEx9jjA3h"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Evida",
+          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
+        }
+      ],
+      "duration_ms": 205511,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/0gwRJH8pKyrmmAVrKWAI5R"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -323,26 +499,6 @@
       "duration_ms": 212459,
       "name": "Dance for Me",
       "url": "https://open.spotify.com/track/24kUtFCxGKd6Rgti2G6YTI"
-    },
-    {
-      "added_at": "2023-06-02 00:00:00",
-      "album": {
-        "name": "UNDERRATED 2.0",
-        "url": "https://open.spotify.com/album/2ZNqWRe7AbH6HRiTwtFvkX"
-      },
-      "artists": [
-        {
-          "name": "Vico da sporo",
-          "url": "https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd"
-        },
-        {
-          "name": "Azana",
-          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
-        }
-      ],
-      "duration_ms": 418495,
-      "name": "Amaphupho",
-      "url": "https://open.spotify.com/track/45hTW7vepklO2ZNSEAoFYs"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -413,34 +569,6 @@
       "url": "https://open.spotify.com/track/1wJnVOfKk3GUMgj8THsFNP"
     },
     {
-      "added_at": "2023-06-02 00:00:00",
-      "album": {
-        "name": "Umhle (Lebzin & Dr Feel AfroSoul Remix)",
-        "url": "https://open.spotify.com/album/2KzQQVMOyvct2rpZIVDx4C"
-      },
-      "artists": [
-        {
-          "name": "Semitone",
-          "url": "https://open.spotify.com/artist/4sNX911AuXLrqMUP1IpPtz"
-        },
-        {
-          "name": "Nomvula SA",
-          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
-        },
-        {
-          "name": "Lebzin",
-          "url": "https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA"
-        },
-        {
-          "name": "Dr Feel",
-          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
-        }
-      ],
-      "duration_ms": 269757,
-      "name": "Umhle (Lebzin & Dr Feel AfroSoul Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/5N0Uukn963YBASMXuCL26q"
-    },
-    {
       "added_at": "2023-05-22 11:27:42",
       "album": {
         "name": "Your Love (Caiiro Remix)",
@@ -467,18 +595,26 @@
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+        "name": "The Underrated King",
+        "url": "https://open.spotify.com/album/54lSw5trXgoiCDLOAh8Wlk"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Heavy-K",
+          "url": "https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts"
+        },
+        {
+          "name": "Bailey",
+          "url": "https://open.spotify.com/artist/2m8moPO8g157pOZoojNZYX"
+        },
+        {
+          "name": "Jnr SA",
+          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
         }
       ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+      "duration_ms": 368577,
+      "name": "Dakiwe",
+      "url": "https://open.spotify.com/track/5goEUjSkFPIia3wGuRRugG"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -499,6 +635,114 @@
       "duration_ms": 440665,
       "name": "Lemon Faces",
       "url": "https://open.spotify.com/track/7of28alHeINPGFzuOHxwqa"
+    },
+    {
+      "added_at": "2023-05-22 11:27:42",
+      "album": {
+        "name": "Summer Breeze (Fka Mash Remixes)",
+        "url": "https://open.spotify.com/album/6K4SVK0akM39aICwype1wY"
+      },
+      "artists": [
+        {
+          "name": "N'Dinga Gaba",
+          "url": "https://open.spotify.com/artist/5BfkFx1yfPJprDZtQCIvfr"
+        },
+        {
+          "name": "Sahffi",
+          "url": "https://open.spotify.com/artist/3TyywXbTQ2lm4IMGrv6o1e"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "duration_ms": 209601,
+      "name": "Summer Breeze - Fka Mash Re-glitch Edit",
+      "url": "https://open.spotify.com/track/3vW0t4lGNMSt0WapWyuOvR"
+    },
+    {
+      "added_at": "2023-05-22 11:27:42",
+      "album": {
+        "name": "Asanda",
+        "url": "https://open.spotify.com/album/6vCt7Qg2q1ayRZd8vL1IOn"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Asanda",
+      "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
+    },
+    {
+      "added_at": "2023-05-22 11:27:42",
+      "album": {
+        "name": "It Is Well",
+        "url": "https://open.spotify.com/album/7nom4Vze0mmtc6e0HcKzYa"
+      },
+      "artists": [
+        {
+          "name": "Senior Oat",
+          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
+        },
+        {
+          "name": "Oliphant Gold",
+          "url": "https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV"
+        },
+        {
+          "name": "Romeo ThaGreatwhite",
+          "url": "https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew"
+        }
+      ],
+      "duration_ms": 430301,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/3SajhWMnXhX2RaLeEdqXHq"
+    },
+    {
+      "added_at": "2023-05-22 11:27:42",
+      "album": {
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+    },
+    {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "Caution To The Wind (Fka Mash Remixes)",
+        "url": "https://open.spotify.com/album/4g2rVxcYBIKCRllmkDghVu"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "duration_ms": 390500,
+      "name": "Caution To The Wind - Fka Mash Remix",
+      "url": "https://open.spotify.com/track/3t9nMT0GuhQZSNSH7gXEfU"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -531,58 +775,6 @@
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
-        "name": "The Underrated King",
-        "url": "https://open.spotify.com/album/54lSw5trXgoiCDLOAh8Wlk"
-      },
-      "artists": [
-        {
-          "name": "Heavy-K",
-          "url": "https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts"
-        },
-        {
-          "name": "Bailey",
-          "url": "https://open.spotify.com/artist/2m8moPO8g157pOZoojNZYX"
-        },
-        {
-          "name": "Jnr SA",
-          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
-        }
-      ],
-      "duration_ms": 368577,
-      "name": "Dakiwe",
-      "url": "https://open.spotify.com/track/5goEUjSkFPIia3wGuRRugG"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "Messiah (feat. Zipho Thusi)",
-        "url": "https://open.spotify.com/album/66WdOqFm2emHM0EVE3gd8H"
-      },
-      "artists": [
-        {
-          "name": "DJ Tomer",
-          "url": "https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj"
-        },
-        {
-          "name": "Ricardo",
-          "url": "https://open.spotify.com/artist/1QFkERAzKnyz7FUo6GmlYL"
-        },
-        {
-          "name": "Cisco De Sol",
-          "url": "https://open.spotify.com/artist/5hqEYWxLkwx6tFnsDcTGpQ"
-        },
-        {
-          "name": "Zipho Thusi",
-          "url": "https://open.spotify.com/artist/3EmyyIj985nwu1TCgVVC4W"
-        }
-      ],
-      "duration_ms": 243481,
-      "name": "Messiah (feat. Zipho Thusi)",
-      "url": "https://open.spotify.com/track/32s4M923qOhi5hWRbNqE80"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
         "name": "Through The Night (Re.You Remix)",
         "url": "https://open.spotify.com/album/3N2unk0BX87q27ZjLCz517"
       },
@@ -603,6 +795,30 @@
       "duration_ms": 316097,
       "name": "Through The Night - Re.You Remix",
       "url": "https://open.spotify.com/track/6X4wUoTKbLLfpF9yPqGTZh"
+    },
+    {
+      "added_at": "2023-05-22 11:27:42",
+      "album": {
+        "name": "AEDM: Interstellar",
+        "url": "https://open.spotify.com/album/7bNztZqGIRCaALpnDsDB4W"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 352093,
+      "name": "Makwande",
+      "url": "https://open.spotify.com/track/2MpkUFQpd7zYRGZt4BQ8bz"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -655,26 +871,30 @@
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
-        "name": "Asanda",
-        "url": "https://open.spotify.com/album/6vCt7Qg2q1ayRZd8vL1IOn"
+        "name": "Messiah (feat. Zipho Thusi)",
+        "url": "https://open.spotify.com/album/66WdOqFm2emHM0EVE3gd8H"
       },
       "artists": [
         {
-          "name": "Kususa",
-          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+          "name": "DJ Tomer",
+          "url": "https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj"
         },
         {
-          "name": "Argento Dust",
-          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+          "name": "Ricardo",
+          "url": "https://open.spotify.com/artist/1QFkERAzKnyz7FUo6GmlYL"
         },
         {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+          "name": "Cisco De Sol",
+          "url": "https://open.spotify.com/artist/5hqEYWxLkwx6tFnsDcTGpQ"
+        },
+        {
+          "name": "Zipho Thusi",
+          "url": "https://open.spotify.com/artist/3EmyyIj985nwu1TCgVVC4W"
         }
       ],
-      "duration_ms": 322400,
-      "name": "Asanda",
-      "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
+      "duration_ms": 243481,
+      "name": "Messiah (feat. Zipho Thusi)",
+      "url": "https://open.spotify.com/track/32s4M923qOhi5hWRbNqE80"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -713,30 +933,6 @@
       "url": "https://open.spotify.com/track/3tWIHTxK4cH0OUBlzcb97b"
     },
     {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "Maphuma (feat. Lizwi)",
-        "url": "https://open.spotify.com/album/5POx8s8nl1lOYcEDrgf0qH"
-      },
-      "artists": [
-        {
-          "name": "Obdurate",
-          "url": "https://open.spotify.com/artist/1ZA8wH5L88Frvfz0RL58Yb"
-        },
-        {
-          "name": "DarQknight",
-          "url": "https://open.spotify.com/artist/06ZoVzhjF2rUgcl0czXpOD"
-        },
-        {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
-        }
-      ],
-      "duration_ms": 222332,
-      "name": "Maphuma (feat. Lizwi)",
-      "url": "https://open.spotify.com/track/5ceRrauIyROtPwWyVTmGDs"
-    },
-    {
       "added_at": "2023-06-02 00:00:00",
       "album": {
         "name": "Don\u2019t Let Me See (Jimpster Remixes)",
@@ -763,30 +959,6 @@
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
-        "name": "Summer Breeze (Fka Mash Remixes)",
-        "url": "https://open.spotify.com/album/6K4SVK0akM39aICwype1wY"
-      },
-      "artists": [
-        {
-          "name": "N'Dinga Gaba",
-          "url": "https://open.spotify.com/artist/5BfkFx1yfPJprDZtQCIvfr"
-        },
-        {
-          "name": "Sahffi",
-          "url": "https://open.spotify.com/artist/3TyywXbTQ2lm4IMGrv6o1e"
-        },
-        {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        }
-      ],
-      "duration_ms": 209601,
-      "name": "Summer Breeze - Fka Mash Re-glitch Edit",
-      "url": "https://open.spotify.com/track/3vW0t4lGNMSt0WapWyuOvR"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
         "name": "Can You See Me",
         "url": "https://open.spotify.com/album/1pMViL7L8nQOIHkuBsLcuv"
       },
@@ -807,34 +979,6 @@
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
-        "name": "Shalimar",
-        "url": "https://open.spotify.com/album/0KEbXJXtwRVmX1ju4srqJd"
-      },
-      "artists": [
-        {
-          "name": "Animalic Drum",
-          "url": "https://open.spotify.com/artist/5S1tAIKalqheP3LE6hcJTw"
-        },
-        {
-          "name": "Kreative Nativez",
-          "url": "https://open.spotify.com/artist/4s2DjPiXzoh6KErcgfMl6G"
-        },
-        {
-          "name": "James Sakala",
-          "url": "https://open.spotify.com/artist/7j359uimKMUqPxQy3VHCRa"
-        },
-        {
-          "name": "Lu Lu (ZM)",
-          "url": "https://open.spotify.com/artist/0BuNvvRXG3eIt8ZjS3y3Fq"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Shalimar - Radio Edit",
-      "url": "https://open.spotify.com/track/5amzkj62Ava82GoKmsPyxN"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
         "name": "Masungulo",
         "url": "https://open.spotify.com/album/4yJRndmtIQfYzCTlMKg8GU"
       },
@@ -851,94 +995,6 @@
       "duration_ms": 287669,
       "name": "Masungulo",
       "url": "https://open.spotify.com/track/6QoWZJrELFnejwIV0c9OgM"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "AEDM: Interstellar",
-        "url": "https://open.spotify.com/album/7bNztZqGIRCaALpnDsDB4W"
-      },
-      "artists": [
-        {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
-        },
-        {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        },
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 352093,
-      "name": "Makwande",
-      "url": "https://open.spotify.com/track/2MpkUFQpd7zYRGZt4BQ8bz"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "It Is Well",
-        "url": "https://open.spotify.com/album/7nom4Vze0mmtc6e0HcKzYa"
-      },
-      "artists": [
-        {
-          "name": "Senior Oat",
-          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
-        },
-        {
-          "name": "Oliphant Gold",
-          "url": "https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV"
-        },
-        {
-          "name": "Romeo ThaGreatwhite",
-          "url": "https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew"
-        }
-      ],
-      "duration_ms": 430301,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/3SajhWMnXhX2RaLeEdqXHq"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "Saving Me",
-        "url": "https://open.spotify.com/album/7nR1IQ7y37DG4rVxVqN0Y1"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Saving Me",
-      "url": "https://open.spotify.com/track/35SNaNea9zk1oWk3IzrSKJ"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "Mend It / Your Eyes",
-        "url": "https://open.spotify.com/album/6IdfSqD7Abe9eHSzNT54x5"
-      },
-      "artists": [
-        {
-          "name": "Lazarusman",
-          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
-        },
-        {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        }
-      ],
-      "duration_ms": 389106,
-      "name": "Mend It",
-      "url": "https://open.spotify.com/track/50IH6OIRU7sKMwGIOex1xM"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -987,26 +1043,6 @@
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
-        "name": "Born To Dance",
-        "url": "https://open.spotify.com/album/4zNE450tlLh2mLMGTuLJNO"
-      },
-      "artists": [
-        {
-          "name": "Souxsoul",
-          "url": "https://open.spotify.com/artist/4MM8xNyHf1Rkm027UZzjij"
-        },
-        {
-          "name": "Venessa Jackson",
-          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Born To Dance",
-      "url": "https://open.spotify.com/track/6sR4cSr5hP7z96awJL0lVj"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
         "name": "House of Blessings",
         "url": "https://open.spotify.com/album/4H1TPi17rOWuI20AcQWqbg"
       },
@@ -1027,26 +1063,6 @@
       "duration_ms": 353305,
       "name": "House of Blessings",
       "url": "https://open.spotify.com/track/7u0aML7np1BV7x0SPtL0UI"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "Imikhuleko",
-        "url": "https://open.spotify.com/album/6OhN5UxVkr2nR24cUkRvex"
-      },
-      "artists": [
-        {
-          "name": "Leo Guardo",
-          "url": "https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD"
-        },
-        {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "Imikhuleko",
-      "url": "https://open.spotify.com/track/1dztH332bWfzJLWLtjseLy"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -1083,26 +1099,6 @@
       "duration_ms": 442079,
       "name": "Bayaphela",
       "url": "https://open.spotify.com/track/6SLsfjDebV22H8y0laYQhh"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "Lobela",
-        "url": "https://open.spotify.com/album/0CeY1p6mvixO7vDTeyIOWX"
-      },
-      "artists": [
-        {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
-        },
-        {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
-        }
-      ],
-      "duration_ms": 457774,
-      "name": "Lobela",
-      "url": "https://open.spotify.com/track/195c6cDeMpBqYxaSQ65cwZ"
     },
     {
       "added_at": "2023-06-02 00:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 43439,
+  "num_followers": 43470,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTE5MzQ1YThlZWZlOWNlOTRjYjQ5YjkwY2Y0YThkOTcyNzRkNTVj",
+  "snapshot_id": "MCxmMTMxMGZjYTNjZWNhZDJjMDgyNjljZmZhMjEyYjg1MDgyYzRiNjE0",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Languid Gongue",
-        "url": "https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s"
-      },
-      "artists": [
-        {
-          "name": "Luke Sanger",
-          "url": "https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Efflorescence",
-      "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Water Memory",
         "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 363120,
       "name": "Your Pond",
       "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Languid Gongue",
+        "url": "https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s"
+      },
+      "artists": [
+        {
+          "name": "Luke Sanger",
+          "url": "https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Efflorescence",
+      "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "North of Roswell",
-        "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
-        }
-      ],
-      "duration_ms": 154830,
-      "name": "North of Roswell",
-      "url": "https://open.spotify.com/track/0EQFIXppCNstgJ0P9PAPEt"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Elm",
         "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 158729,
       "name": "Sequoia Slumber",
       "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "North of Roswell",
+        "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+        }
+      ],
+      "duration_ms": 154830,
+      "name": "North of Roswell",
+      "url": "https://open.spotify.com/track/0EQFIXppCNstgJ0P9PAPEt"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "St / Fr / Sp",
-        "url": "https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 304093,
-      "name": "Starethrough - Transition Mix",
-      "url": "https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "My Birthday Suit",
         "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 225054,
       "name": "My Birthday Suit",
       "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "St / Fr / Sp",
+        "url": "https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Starethrough - Transition Mix",
+      "url": "https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
+        "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
+      },
+      "artists": [
+        {
+          "name": "Theo Alexander",
+          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
+        },
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 192019,
+      "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
+      "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Milan",
         "url": "https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo"
       },
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
-        "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
-      },
-      "artists": [
-        {
-          "name": "Theo Alexander",
-          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
-        },
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 192019,
-      "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
-      "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
         "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Orange Blue Green",
-        "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
-      },
-      "artists": [
-        {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "Orange Blue Green",
-      "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Interlude 03",
         "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 199680,
       "name": "Interlude 03",
       "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Orange Blue Green",
+        "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Orange Blue Green",
+      "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Geoglyph",
-        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Isles",
-          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
-        }
-      ],
-      "duration_ms": 364460,
-      "name": "A1. J-Math",
-      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Five Steps",
         "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
       },
@@ -1239,6 +1223,38 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Geoglyph",
+        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        }
+      ],
+      "duration_ms": 364460,
+      "name": "A1. J-Math",
+      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Raum (Single Edit)",
+        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 442500,
+      "name": "Raum - Single Edit",
+      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Good Sound",
         "url": "https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 511730,
       "name": "Wing Pinger 01",
       "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Raum (Single Edit)",
-        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 442500,
-      "name": "Raum - Single Edit",
-      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
     }
   ],
   "unique_name": "Modular Synths",

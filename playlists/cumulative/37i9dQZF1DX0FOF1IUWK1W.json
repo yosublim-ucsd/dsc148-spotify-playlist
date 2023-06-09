@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "DENNIS, MC Kevin o Chris e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Grupo Menos \u00c9 Mais, Matheus Fernandes e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 156330,
       "name": "Americana Na Vaquejada",
       "url": "https://open.spotify.com/track/1M6rclDhYmqRBMFGNJOFKB"
@@ -1117,6 +1117,28 @@
     },
     {
       "album": {
+        "name": "Cama Embrasa",
+        "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Cama Embrasa",
+      "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
+    },
+    {
+      "album": {
         "name": "Buteco Goi\u00e2nia (Ao Vivo)",
         "url": "https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT"
       },
@@ -1245,6 +1267,28 @@
     },
     {
       "album": {
+        "name": "Chorei na Vaquejada",
+        "url": "https://open.spotify.com/album/74uZDSboar6fdmC3PpI2F2"
+      },
+      "artists": [
+        {
+          "name": "Eric Land",
+          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
+        },
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157170,
+      "name": "Chorei na Vaquejada",
+      "url": "https://open.spotify.com/track/6iLVE0VWAaT9LcJQsyZ9JU"
+    },
+    {
+      "album": {
         "name": "Clickbait",
         "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
       },
@@ -1286,7 +1330,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 192240,
       "name": "Coisas Que Eu Sei",
       "url": "https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc"

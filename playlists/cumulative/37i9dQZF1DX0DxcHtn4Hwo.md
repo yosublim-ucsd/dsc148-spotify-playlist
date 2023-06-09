@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-668 songs - 19 hr 54 min
+672 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alexa and the Bee](https://open.spotify.com/track/5jrdixpYHox75QORpRK25n) | [Lila Turtle](https://open.spotify.com/artist/70G093WCu65ZwWD9Oq8OjN) | [Alexa and the Bee](https://open.spotify.com/album/3du3H69AV1B2DnjYRUzKda) | 1:56 | 2021-10-05 | 2022-10-29 |
 | [All is well](https://open.spotify.com/track/05M5kMUuKmhnezFLu2OTgj) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [Bonne Nuit](https://open.spotify.com/album/5untwVNVJ2USF8oE9jusQV) | 3:11 | 2021-10-05 | 2022-09-03 |
 | [All of my Stories](https://open.spotify.com/track/5AIYXd7vaQHtdwzXrj6Fzd) | [Jadyn Jared](https://open.spotify.com/artist/6KyfPsaygK9iNXQ5tGdHgO) | [All of my Stories](https://open.spotify.com/album/7cKTNYRiJ6ir0efkYOIrNT) | 1:57 | 2021-10-05 | 2022-10-29 |
+| [All Play Together](https://open.spotify.com/track/7qZuIl30PWANdOxm5N4RM6) | [Goldinia](https://open.spotify.com/artist/0xPgrNXfmXYmmXg9zKS1zT) | [Sweet Dreams](https://open.spotify.com/album/7q58dn3TLHvIabps0aCByV) | 1:40 | 2023-06-08 |  |
 | [All The Joy You Bring](https://open.spotify.com/track/7bkTcd4fUsUdPkmYacuknd) | [Timothy Lagarde](https://open.spotify.com/artist/2YC9D3mRFOIozOVYnAcB3e) | [All The Joy You Bring](https://open.spotify.com/album/0R13b9eCSz4j2znqTspjfI) | 1:49 | 2021-10-05 |  |
 | [All the Stones](https://open.spotify.com/track/0Yaq8YZ2XKMxhlsDfapY8G) | [Kris Sydney](https://open.spotify.com/artist/6noZ1TvkFPkxXiAsurtuSR) | [All the Stones](https://open.spotify.com/album/174eyIq51AGenN9fVcGcD3) | 1:29 | 2021-10-05 | 2023-02-18 |
 | [All Tucked In](https://open.spotify.com/track/7uLeBpnkz8lHR2gaCXy1lZ) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [The Stars Above](https://open.spotify.com/album/3j2XsBqtDg3ok1J0eaAMsD) | 2:15 | 2023-03-24 |  |
@@ -84,6 +85,7 @@
 | [Big Momma Bear](https://open.spotify.com/track/59D9llE0eKpUEe4VPQjcpa) | [Greydon Willis](https://open.spotify.com/artist/7ypVVw2OTCkzIIF69GE61i) | [Big Momma Bear](https://open.spotify.com/album/5gZJcHtJMSKZPsf0dfwIpe) | 1:27 | 2023-05-05 |  |
 | [Bill the Fox](https://open.spotify.com/track/7h78CM43KEjbHXU8uHXCjP) | [Wilford Ware](https://open.spotify.com/artist/5fWCtKlxGJegVWtTpHOgWv) | [Bill the Fox](https://open.spotify.com/album/0dbrJwbAwDpWyN9swRr51P) | 1:22 | 2021-10-05 |  |
 | [BINGO](https://open.spotify.com/track/3QkX1lLj7Rpyc4GorvNuni) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Nursery Rhymes \(Volume 1\)](https://open.spotify.com/album/5OMreBMNISCiQUOhPsB2c3) | 1:44 | 2022-11-18 |  |
+| [Birds Come Morning](https://open.spotify.com/track/1EKfN9J9WgAKLUmXFtUzXu) | [Aryan Armstrong](https://open.spotify.com/artist/5PDN3kzgUe0ns31NnvSfCp) | [Birds Come Morning](https://open.spotify.com/album/5yoXBNJxPNTRIWyqYROgO2) | 2:21 | 2023-06-08 |  |
 | [Bis Morgen](https://open.spotify.com/track/2B8GMj8HpYshErVfAxvfnv) | [Andrea Piazzo](https://open.spotify.com/artist/2Hh5OmjynnsLv3s4HUTAP3) | [Mon Coeur](https://open.spotify.com/album/5iEH16c6NqCdFLpErjumuF) | 3:11 | 2023-03-24 |  |
 | [Bitte Mama](https://open.spotify.com/track/1PNefrcvvs6O5KJR6QNSSK) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Das Freundliche Monster](https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8) | 1:04 | 2021-10-05 | 2022-11-19 |
 | [Björnen sover](https://open.spotify.com/track/2XYcp7kT5BxrhCEFykj3jA) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Björnen sover](https://open.spotify.com/album/3QRpb5nU9Y7EaMTWJlzCvz) | 1:28 | 2022-06-08 | 2023-06-03 |
@@ -378,6 +380,7 @@
 | [Moon And Stars](https://open.spotify.com/track/7yOZnPhmBWDmCUU4n068Th) | [Winnie Muller](https://open.spotify.com/artist/4GO1o00k2U510iiNja7SrR) | [Moon And Stars](https://open.spotify.com/album/1W7ITEUf0MaMmvk0sHvQB3) | 1:50 | 2022-09-22 |  |
 | [Moonbow](https://open.spotify.com/track/62VAuiIgII0GfFfY20aX38) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Moonbow](https://open.spotify.com/album/5y3ofx6Gc8nHKnMuJMZe3M) | 1:59 | 2023-03-10 |  |
 | [Mors lilla Olle](https://open.spotify.com/track/1i8LQzvz0N8hO55lVGgGdf) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [London Bridge](https://open.spotify.com/album/0reqTcURfy5hVfO0GlEJbH) | 1:10 | 2022-12-16 |  |
+| [Mother Goose](https://open.spotify.com/track/1ZOWHiKOpJoZZM5ccVYGjj) | [Myla Watson](https://open.spotify.com/artist/4UsO7PCgseF2b8wqm28l6Y) | [Mother Goose](https://open.spotify.com/album/4A1pcvNFojNbbThb5mNNq4) | 1:36 | 2023-06-08 |  |
 | [Mój Anioł](https://open.spotify.com/track/6vuyQpRo2hobQiVXfYrhBl) | [Jolanda Novak](https://open.spotify.com/artist/12Jx6Bt5MqHJS4AtWJl6JB) | [Mój Anioł](https://open.spotify.com/album/5DjpUSAvFfIwZcuNWNHwbf) | 1:37 | 2021-10-05 | 2022-11-19 |
 | [Mr\. Cat](https://open.spotify.com/track/4eIZdb7KkPKcXhmWimNTE1) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Mr\. Cat](https://open.spotify.com/album/2wzOOWuEcaYrpkLQWX3bMy) | 2:00 | 2021-10-05 | 2022-10-29 |
 | [Mulberry Bush](https://open.spotify.com/track/2RoP68As4FinolmU7t9dx4) | [Lily Hodges](https://open.spotify.com/artist/4NNYjQ7N1R7TTNtcfTq8MS) | [Mister Sun](https://open.spotify.com/album/5NMgj4HmX7cJ3JWa7IFnLp) | 1:07 | 2022-06-30 |  |
@@ -387,6 +390,7 @@
 | [My Best Friend](https://open.spotify.com/track/2qb4uWgdO6oGxGoPCXkzas) | [Denise Hill\-Williams](https://open.spotify.com/artist/7qpzJgi2rjgvb6vfzt5co2) | [My Best Friend](https://open.spotify.com/album/3jwAu8BwB69vDzDueHc5S3) | 1:33 | 2021-10-05 | 2023-02-18 |
 | [My Best Friend](https://open.spotify.com/track/7vkw15L4ChVPioiMxtitl3) | [Tracey McNamara](https://open.spotify.com/artist/0v1APFeqkWd1gvdqMcGr1d) | [My Best Friend](https://open.spotify.com/album/6Jhvim0y6UUGMCbZwNPeRu) | 1:49 | 2023-01-06 |  |
 | [My Dolly and Me](https://open.spotify.com/track/6OWya70yLaThea5fDuQINP) | [Amala Dalton](https://open.spotify.com/artist/1r7NEL763CcvXXJ1OXw5FJ) | [My Dolly and Me](https://open.spotify.com/album/7eL1oomj56CxC23VsjeYf4) | 1:43 | 2021-10-05 | 2022-12-16 |
+| [My Dream Castle](https://open.spotify.com/track/3yGLnfiBUXZFILOkgOdGxw) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Dream Castle](https://open.spotify.com/album/7tjCZosYj0BoToFKrGxv2h) | 1:44 | 2023-06-08 |  |
 | [My Dreamland](https://open.spotify.com/track/7pr6Gr8kWMdn0tnC32SN8U) | [One Man Quartet](https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8) | [My Dreamland](https://open.spotify.com/album/75tjsimnIEVn869NRRiFpa) | 1:35 | 2023-01-27 |  |
 | [My Everything](https://open.spotify.com/track/7IBl77fEZfAHl1X2JQ4JrC) | [Mio Niño](https://open.spotify.com/artist/6fQXNz8OKXCDBLdTepU6un) | [The Sun And The Moon](https://open.spotify.com/album/37WU53dkBC0QYdYNRb7FMU) | 2:20 | 2023-02-17 |  |
 | [My Father's Moustache](https://open.spotify.com/track/1S9rM3P1dS8MHoPqmjVFsa) | [Heidi Fannon](https://open.spotify.com/artist/0dRTdF3HiuvvgrqPkXuQLf) | [My Father's Moustache](https://open.spotify.com/album/4pCz6Um63HoCutljPnTMl0) | 1:27 | 2023-02-25 |  |

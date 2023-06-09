@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "best",
+        "url": "https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9"
+      },
+      "artists": [
+        {
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215803,
+      "name": "best",
+      "url": "https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H"
+    },
+    {
+      "album": {
         "name": "Levronka",
         "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
       },

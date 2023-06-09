@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 64098,
+  "num_followers": 64133,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Zjg4ZWE0NDQwNDc2NDhlZjcwNzg5M2E2ZTM3NTRkOTYzODkwNzI2",
+  "snapshot_id": "MCw3NzlmMzJhNjk0ZGUxOGRmMjEyZjRhODgwYzdhZjNhZGY0YTQ3ZDk0",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -211,26 +211,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 219332,
-      "name": "Make It Better (feat. Smokey Robinson)",
-      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 219332,
+      "name": "Make It Better (feat. Smokey Robinson)",
+      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Leftovers",
-        "url": "https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 192628,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 249773,
       "name": "Scenic Drive (feat. Ari Lennox & Smino)",
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Leftovers",
+        "url": "https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 192628,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Dancing Shadows",
-        "url": "https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 212687,
-      "name": "Care for You",
-      "url": "https://open.spotify.com/track/3cW7ETAXGDAM2aNN45DuNq"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "People Come And Go",
         "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 154076,
       "name": "People Come And Go",
       "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Dancing Shadows",
+        "url": "https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 212687,
+      "name": "Care for You",
+      "url": "https://open.spotify.com/track/3cW7ETAXGDAM2aNN45DuNq"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "New Spring",
+        "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
+      },
+      "artists": [
+        {
+          "name": "KAPPEKOFF",
+          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
+        },
+        {
+          "name": "Stefanos Yowhannes",
+          "url": "https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG"
+        }
+      ],
+      "duration_ms": 197099,
+      "name": "New Spring",
+      "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Sweet Insomnia",
         "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
       },
@@ -1547,6 +1567,22 @@
       "duration_ms": 172320,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1583,42 +1619,6 @@
       "duration_ms": 377852,
       "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
       "url": "https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Sweet Insomnia",
-        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 185371,
-      "name": "Compromise (feat. Sabrina Claudio)",
-      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Sweet Insomnia",
+        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 185371,
+      "name": "Compromise (feat. Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "And Then Life Was Beautiful",
         "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 199773,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "New Spring",
-        "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
-      },
-      "artists": [
-        {
-          "name": "KAPPEKOFF",
-          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
-        },
-        {
-          "name": "Stefanos Yowhannes",
-          "url": "https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG"
-        }
-      ],
-      "duration_ms": 197099,
-      "name": "New Spring",
-      "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
     },
     {
       "added_at": "2023-06-01 22:00:00",

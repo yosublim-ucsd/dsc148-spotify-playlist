@@ -1,12 +1,12 @@
 {
   "description": "Novedades poderosas, perronas y llegadoras de la M\u00fasica Mexicana. \u00c1ngela Aguilar en portada.",
-  "num_followers": 60595,
+  "num_followers": 14943,
   "original_name": "Novedades M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzkwMzQzMDY5NDkwNzIxYTAzYjg0NGY1OTVjYjQxYWQ3ODAyM2Vj",
+  "snapshot_id": "MCxmYzlmYThlNGEzOWFjNzNhODE3M2NjMmMzMzA1OTI4NWQ0NjE4Mzg3",
   "tracks": [
     {
       "added_at": "2023-06-02 06:00:00",
@@ -259,6 +259,26 @@
       "duration_ms": 177306,
       "name": "Ya Me Cans\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/4RSZl2hj8EVHWh2BhnVedI"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Desde Morrillo",
+        "url": "https://open.spotify.com/album/0ExDv9olnV0v01RaoIxBbf"
+      },
+      "artists": [
+        {
+          "name": "Jesus Mendez",
+          "url": "https://open.spotify.com/artist/1OdQP5euABtleqAhtMyQPe"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 191808,
+      "name": "Desde Morrillo",
+      "url": "https://open.spotify.com/track/4wuMvaiGvcrqf7PdsvmKcC"
     },
     {
       "added_at": "2023-06-02 06:00:00",

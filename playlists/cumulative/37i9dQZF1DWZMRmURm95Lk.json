@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 280346,
       "name": "La Forma Dell'Acqua",
       "url": "https://open.spotify.com/track/6RgA5HE1zt1NUWXXMuF7Nn"
@@ -5364,6 +5364,28 @@
       "duration_ms": 237965,
       "name": "Smackdown",
       "url": "https://open.spotify.com/track/5yLmfZy36qHMJMyuuiSCiJ"
+    },
+    {
+      "album": {
+        "name": "OVERT",
+        "url": "https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214914,
+      "name": "SOLIPS\u00ccA (feat. Silent Bob)",
+      "url": "https://open.spotify.com/track/10brFkH6YLGZnhj0qHpFzm"
     },
     {
       "album": {

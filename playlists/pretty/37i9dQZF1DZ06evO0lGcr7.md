@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 
 > This is mxmtoon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,706 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,703 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 43 | [don't play your card](https://open.spotify.com/track/7LUwvejZpmqTUEQ3sRc8Oe) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [don't play your card](https://open.spotify.com/album/5ZeeomGIek0Bzi8p664jrU) | 3:41 |
 | 44 | [asking for a friend](https://open.spotify.com/track/40z4JrjH1eR4ALR90tnZv1) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:18 |
 | 45 | [my way](https://open.spotify.com/track/3ATpkhQnCnkauIjm7WL9Fe) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [my way](https://open.spotify.com/album/19K2ObfI1CbyBijFzB3Ybe) | 3:28 |
-| 46 | [stuck](https://open.spotify.com/track/6ge4qsUuMkcMVTSjToFTxJ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [stuck](https://open.spotify.com/album/1HwNpS0NEep33gE2QFHmXk) | 4:09 |
-| 47 | [1\-800\-DATEME](https://open.spotify.com/track/1E4x23BZdBNTM7Cb3yA8KE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [1\-800\-DATEME](https://open.spotify.com/album/4Zkrf273rO4KBIm16zPKQ3) | 1:54 |
+| 46 | [1\-800\-DATEME](https://open.spotify.com/track/1E4x23BZdBNTM7Cb3yA8KE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [1\-800\-DATEME](https://open.spotify.com/album/4Zkrf273rO4KBIm16zPKQ3) | 1:54 |
+| 47 | [stuck](https://open.spotify.com/track/6ge4qsUuMkcMVTSjToFTxJ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [stuck](https://open.spotify.com/album/1HwNpS0NEep33gE2QFHmXk) | 4:09 |
 | 48 | [first](https://open.spotify.com/track/26evQTTVOSgM8yuPm3clND) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 2:26 |
 | 49 | [the sideline](https://open.spotify.com/track/5oQBnTLk0hQBVtLBFv5Dyf) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the sideline](https://open.spotify.com/album/2GFlkUBkZUZNLGpWLUUXx1) | 3:32 |
 | 50 | [The Wrong Song](https://open.spotify.com/track/3FMi0yjrnBlYvH6GvJxHfv) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Mixtape \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4S4r4E0FPuftWGX1CWc0sU) | 3:41 |
 | 51 | [wallflower](https://open.spotify.com/track/4xBk6wacj9UR6uaXIWZnHr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:20 |
 
-Snapshot ID: `MjgxMDIzMzUsMDAwMDAwMDA1YzQ2MGNhOWNjYjdiZjhkZTJkM2IxMDc2NjNiOTM2Yw==`
+Snapshot ID: `MjgxMDM3NzgsMDAwMDAwMDA0ZGRiNmExMmM5YTYzZjQ1OWFiNTlmYWJhZmRlZGQ4OQ==`

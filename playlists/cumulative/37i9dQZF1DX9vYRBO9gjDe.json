@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u30026\u67085\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u30026\u67086\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
+    {
+      "album": {
+        "name": "Unlock My World",
+        "url": "https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169906,
+      "name": "#menow",
+      "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
+    },
     {
       "album": {
         "name": "First Sight",
@@ -4762,7 +4780,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 179240,
       "name": "ICKY",
       "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
@@ -6261,6 +6279,24 @@
     },
     {
       "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5ZbWHSBmK2s9fMc4LGFfW7"
+      },
+      "artists": [
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145533,
+      "name": "Money in the Bag",
+      "url": "https://open.spotify.com/track/643IlbTQDcBYaSaElkDwbb"
+    },
+    {
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/4sP4Oykn1I3hUVNI4WDacz"
       },
@@ -6446,6 +6482,32 @@
       "duration_ms": 280000,
       "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
       "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
+    },
+    {
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7gdAMtRYRjZsylJXBaH6Xf"
+      },
+      "artists": [
+        {
+          "name": "Mall Boyz",
+          "url": "https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp"
+        },
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        },
+        {
+          "name": "gummyboy",
+          "url": "https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191334,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5Qvh1GFlIL2qSmZ7Yj4br6"
     },
     {
       "album": {
@@ -6957,6 +7019,24 @@
     },
     {
       "album": {
+        "name": "WHO!",
+        "url": "https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167986,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d"
+    },
+    {
+      "album": {
         "name": "ONGAESHI",
         "url": "https://open.spotify.com/album/1JnQ0b8ptCPu101N11lC9N"
       },
@@ -6972,6 +7052,24 @@
       "duration_ms": 234705,
       "name": "ONGAESHI",
       "url": "https://open.spotify.com/track/3VZ3paolrdVDA639zjuDGh"
+    },
+    {
+      "album": {
+        "name": "Only Girl",
+        "url": "https://open.spotify.com/album/6Z6ZoTDxOrOak14NkUwBhj"
+      },
+      "artists": [
+        {
+          "name": "tabehiro",
+          "url": "https://open.spotify.com/artist/6cpY1gxeuged4kIxdA9KYH"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190342,
+      "name": "Only Girl",
+      "url": "https://open.spotify.com/track/5lj9Q84FMZ4bgUgsGXPFsK"
     },
     {
       "album": {
@@ -8414,7 +8512,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
@@ -8660,7 +8758,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
@@ -9038,6 +9136,28 @@
       "duration_ms": 198616,
       "name": "Spring at the Bottom of the Dam feat.Sobs",
       "url": "https://open.spotify.com/track/3YxxvRxUolgQP4HDZPAxI7"
+    },
+    {
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
       "album": {
@@ -10546,7 +10666,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 199733,
       "name": "Us, again",
       "url": "https://open.spotify.com/track/6MLjClUSZWUNDJrqVdIi3o"
@@ -11878,7 +11998,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 198971,
       "name": "\u305f\u3060\u541b\u306b\u6674\u308c",
       "url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz"
@@ -12518,7 +12638,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 319066,
       "name": "\u30a6\u30a8\u30c7\u30a3\u30f3\u30b0 - Piano & Strings Ver.",
       "url": "https://open.spotify.com/track/5V19FgUIsXNWlyTMXUF7wD"
@@ -12536,7 +12656,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 250666,
       "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb\u306f\u60b2\u3057\u304f\u306a\u3044",
       "url": "https://open.spotify.com/track/5t5P8hrL6svTFKfzgMsLZK"
@@ -13480,7 +13600,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 188300,
       "name": "\u30d5\u30a9\u30fc\u30de\u30f3\u30bb\u30eb",
       "url": "https://open.spotify.com/track/6SjSRBoboojIaJaxw20YEh"
@@ -14300,7 +14420,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 322100,
       "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
       "url": "https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh"
@@ -14740,6 +14860,24 @@
       "duration_ms": 228452,
       "name": "\u5e30\u308d\u3046",
       "url": "https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306e\u82b1",
+        "url": "https://open.spotify.com/album/2NmG6Y6VLcADLZ9msKxcve"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215328,
+      "name": "\u5f7c\u6c0f\u6709\u7121",
+      "url": "https://open.spotify.com/track/4vNSATS2LiCbgglkCicAuW"
     },
     {
       "album": {
@@ -15458,7 +15596,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 198426,
       "name": "\u6b7b\u3093\u3058\u3083\u3044\u305f\u3044\u306e\u3055",
       "url": "https://open.spotify.com/track/7zUFXa54oTk4tOsXuosyRH"
@@ -16484,6 +16622,24 @@
       "duration_ms": 206310,
       "name": "\u8749",
       "url": "https://open.spotify.com/track/5BHOmxEO36Z6S70NFFersv"
+    },
+    {
+      "album": {
+        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234283,
+      "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 147202,
+  "num_followers": 147212,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjdlOTM4MzRkNzAzZTkxZDQ2YzJkMGVmMzM5ZjgwNGIxODE1NjVj",
+  "snapshot_id": "MCxjOWJiYTE5ZTAzYTJlYjRhNzI4ZDAwN2M0NDZlMmZjMDI3MzIzZmMx",
   "tracks": [
     {
       "added_at": "2023-05-03 09:50:55",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "if we never met",
         "url": "https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 144426,
       "name": "if we never met",
       "url": "https://open.spotify.com/track/5HBDBBr5OV90lubqW8ctJF"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 217161,
-      "name": "6 months",
-      "url": "https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Earthtones",
         "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
       },
@@ -819,22 +803,18 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Unbreakable Smile",
-        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
         }
       ],
-      "duration_ms": 188946,
-      "name": "I Was Made For Loving You",
-      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
+      "duration_ms": 217161,
+      "name": "6 months",
+      "url": "https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -855,6 +835,26 @@
       "duration_ms": 211567,
       "name": "The Few Things (With Charlotte Lawrence)",
       "url": "https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Unbreakable Smile",
+        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "I Was Made For Loving You",
+      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Better Luck Next Time",
-        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 172371,
-      "name": "Better Luck Next Time",
-      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 219300,
       "name": "golden thing",
       "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 172371,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Det\u00b4 kun vigtigt, hvad det er",
-        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 199930,
-      "name": "Det\u00b4 kun vigtigt, hvad det er",
-      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Wild Enough",
         "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 186658,
       "name": "Wild Enough",
       "url": "https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Det\u00b4 kun vigtigt, hvad det er",
+        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 199930,
+      "name": "Det\u00b4 kun vigtigt, hvad det er",
+      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Maybe I'll Find You Again",
         "url": "https://open.spotify.com/album/6wdgz4OVySP3D64Jf4u0cK"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 211600,
       "name": "Slow Fade",
       "url": "https://open.spotify.com/track/2G3BKCeB6EewCUpWm7M6pu"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "If That's Alright",
-        "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
-      },
-      "artists": [
-        {
-          "name": "Dylan Dunlap",
-          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
-        }
-      ],
-      "duration_ms": 235393,
-      "name": "If That's Alright",
-      "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Be Kind (with Halsey) [Stripped]",
         "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+        "name": "If That's Alright",
+        "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "Dylan Dunlap",
+          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
         }
       ],
-      "duration_ms": 283696,
-      "name": "What Am I Here For",
-      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
+      "duration_ms": 235393,
+      "name": "If That's Alright",
+      "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1459,6 +1443,22 @@
       "duration_ms": 219967,
       "name": "Corners",
       "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 283696,
+      "name": "What Am I Here For",
+      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 180402,
       "name": "hungover sunday",
       "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
         "name": "Still the Same (feat. Boy In Space)",
         "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 178139,
       "name": "Still the Same (feat. Boy In Space)",
       "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
     },
     {
       "added_at": "2023-05-03 09:50:55",

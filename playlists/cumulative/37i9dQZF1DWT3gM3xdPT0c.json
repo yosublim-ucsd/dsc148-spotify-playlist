@@ -4967,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "Welcome Another Morning",
+        "url": "https://open.spotify.com/album/60wQBZH2QIzedGgphfwBTj"
+      },
+      "artists": [
+        {
+          "name": "R.B James",
+          "url": "https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184809,
+      "name": "Welcome Another Morning",
+      "url": "https://open.spotify.com/track/5sGlEWMqEvNwKQZWUbsGDc"
+    },
+    {
+      "album": {
         "name": "When I'm With You",
         "url": "https://open.spotify.com/album/4jMcDv3EarnmcXRRTmHW3a"
       },

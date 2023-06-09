@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-734 songs - 1 day 14 hr 52 min
+735 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-09 |  |
 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 | 2021-07-24 | 2023-01-18 |
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2020-01-04 |
-| [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-04-30 |  |
+| [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-04-30 | 2023-06-09 |
 | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ) | 2:36 | 2020-06-12 | 2022-04-19 |
 | [In Betweenin'](https://open.spotify.com/track/1UotQ5kMAEiCJVisAVkxOh) | [AUSTN](https://open.spotify.com/artist/6deoGjNPov9XZSS8A2PCST) | [In Betweenin'](https://open.spotify.com/album/5dQ8bWBsJ7nk6UR5Vw0N2w) | 3:12 | 2019-05-26\* | 2022-04-21 |
 | [In My Head](https://open.spotify.com/track/0TyOpxlWwDx98bjkIVHUgY) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Jason Derulo \(Deluxe Audio\)](https://open.spotify.com/album/773TVtjVxXvD6DFHsWFJGN) | 3:18 | 2019-10-22 | 2019-10-24 |
@@ -693,6 +693,7 @@
 | [Walking in the Sun](https://open.spotify.com/track/7GGguiA9LkgFT3BZbzHjwQ) | [PANG!](https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3) | [Walking in the Sun](https://open.spotify.com/album/2e3omo3BZINdmAM1QBZSI7) | 3:33 | 2019-07-06 | 2019-08-13 |
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2019-07-08 | 2019-08-13 |
 | [Wanted](https://open.spotify.com/track/1lGVyEkGHUz7Pg78QGaS4a) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Wanted](https://open.spotify.com/album/5sPC6RYCERdNCzHLRf9zHb) | 2:40 | 2019-10-23 | 2020-10-21 |
+| [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k) | 2:46 | 2023-06-01 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Watermelon Sugar](https://open.spotify.com/album/659e2eKbsMH0vYCs5qgFmy) | 2:54 | 2019-12-23 | 2022-07-29 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-07-21 |  |
 | [Wave of You](https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Wave of You](https://open.spotify.com/album/0ghwCnjmc0QPPccZfYQuXc) | 3:33 | 2021-04-24 | 2022-07-29 |

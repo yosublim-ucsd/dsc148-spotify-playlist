@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206437,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/2VeLdiYiILcCOEV0izfzEW"
+    },
+    {
+      "album": {
+        "name": "Peppa's Club: The Album",
+        "url": "https://open.spotify.com/album/3D7OGf4T8gY6AsEzUL3AKp"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199201,
+      "name": "Bestest Daddy In The World",
+      "url": "https://open.spotify.com/track/3XLp0dtA6z9RN4tNZIKfrz"
+    },
+    {
+      "album": {
         "name": "I Love My Daddy",
         "url": "https://open.spotify.com/album/3Nj7a1Yx8VTrUZMQ3z2xEN"
       },
@@ -153,6 +189,28 @@
     },
     {
       "album": {
+        "name": "D.A.D",
+        "url": "https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N"
+      },
+      "artists": [
+        {
+          "name": "Pierce Freelon",
+          "url": "https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG"
+        },
+        {
+          "name": "J Gunn",
+          "url": "https://open.spotify.com/artist/4YlGNqY6XyHNkQEMLlYBG9"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195962,
+      "name": "Daddy Daughter Day",
+      "url": "https://open.spotify.com/track/0SPiUBGdCz37xKl3CzCwei"
+    },
+    {
+      "album": {
         "name": "Daddy Daughter Day",
         "url": "https://open.spotify.com/album/0YGPSOEewQPtVhygfvLCkv"
       },
@@ -168,7 +226,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 195962,
       "name": "Daddy Daughter Day",
       "url": "https://open.spotify.com/track/2VilbTTWiFGgLFStz1n1kg"
@@ -373,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Originals",
+        "url": "https://open.spotify.com/album/6wU5aC9FHxuftURCLJusVs"
+      },
+      "artists": [
+        {
+          "name": "Mike and Mia",
+          "url": "https://open.spotify.com/artist/2DZ4jijSQzeeYyvfvnPFbw"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Father's Day Song",
+      "url": "https://open.spotify.com/track/54QZioj9q4I1C7UYkUlK7B"
+    },
+    {
+      "album": {
         "name": "Kids Pop Songs for Father's Day",
         "url": "https://open.spotify.com/album/4pOfhxZCAqDEiRTpgJEG4O"
       },
@@ -536,6 +612,24 @@
       "duration_ms": 87466,
       "name": "I Picked Some Flowers for My Dad",
       "url": "https://open.spotify.com/track/5JrBUBvYLEwC3U4N43lxs1"
+    },
+    {
+      "album": {
+        "name": "It's Father's Day",
+        "url": "https://open.spotify.com/album/17sb4h83okdd2tyuObqoH5"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86309,
+      "name": "It's Father's Day",
+      "url": "https://open.spotify.com/track/5aRxeQJtWNY37IPehQMnbc"
     },
     {
       "album": {

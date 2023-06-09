@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 645309,
+  "num_followers": 645640,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDU4M2VjOTY1ZTFiZDY5ODg3YTA5YWY5MTVhZWFiMTVlODc4NGU3",
+  "snapshot_id": "MCxlMTA4OGE4ZmIyZTgzNTk5MTE2YTFmODIzNTQ5M2YxMDlhNzVjMTFi",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
-      },
-      "artists": [
-        {
-          "name": "DLG",
-          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
-        }
-      ],
-      "duration_ms": 281013,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/03T7M7m00T0WMGdS3z3WWn"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Uno Mismo",
         "url": "https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 316226,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
+      },
+      "artists": [
+        {
+          "name": "DLG",
+          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
+        }
+      ],
+      "duration_ms": 281013,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/03T7M7m00T0WMGdS3z3WWn"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
-      },
-      "artists": [
-        {
-          "name": "DLG",
-          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
-        }
-      ],
-      "duration_ms": 271053,
-      "name": "No Morir\u00e1 - No Matter What",
-      "url": "https://open.spotify.com/track/2PsTyxNYFJ5AnjpYOUo3VN"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Con La Musica Por Dentro",
         "url": "https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 306826,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
+      },
+      "artists": [
+        {
+          "name": "DLG",
+          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "No Morir\u00e1 - No Matter What",
+      "url": "https://open.spotify.com/track/2PsTyxNYFJ5AnjpYOUo3VN"
     },
     {
       "added_at": "2023-03-17 00:48:14",

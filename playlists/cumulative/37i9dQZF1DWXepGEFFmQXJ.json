@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Boy That's Into Trucks",
+        "url": "https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar"
+      },
+      "artists": [
+        {
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205592,
+      "name": "A Boy That's Into Trucks",
+      "url": "https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb"
+    },
+    {
+      "album": {
         "name": "A Heart Don't Break Like That",
         "url": "https://open.spotify.com/album/0DCDKUtWSJc3KgIG0JjcwT"
       },
@@ -348,7 +366,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 200426,
       "name": "Angels (Don\u2019t Always Have Wings)",
       "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
@@ -1203,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Bloom & Surrender",
+        "url": "https://open.spotify.com/album/5FW3FwReSPdFC5fVANPqqe"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Shadbolt",
+          "url": "https://open.spotify.com/artist/4AnRUN3FJq0GZ0RCoRpgNC"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199928,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/54Zy7I0104rUDCOlVJVXaq"
+    },
+    {
+      "album": {
         "name": "Excuse The Mess",
         "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
       },
@@ -1892,7 +1928,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 196162,
       "name": "Feel Like This",
       "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
@@ -3007,6 +3043,28 @@
     },
     {
       "album": {
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219882,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
+    },
+    {
+      "album": {
         "name": "Same Truck",
         "url": "https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU"
       },
@@ -3018,7 +3076,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 171880,
       "name": "It Matters To Her",
       "url": "https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL"
@@ -4000,7 +4058,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 210499,
       "name": "Not In These Boots",
       "url": "https://open.spotify.com/track/7jImDCJbhVXW77Q43aY4je"
@@ -4972,7 +5030,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 253445,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/4otlvyelfJJxZlu63beJUN"
@@ -5116,7 +5174,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 183398,
       "name": "Small Town Friday Nights",
       "url": "https://open.spotify.com/track/4NkGmYoyhZ8qsJILRd5QSV"
@@ -5300,7 +5358,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 226090,
       "name": "Standing Room Only",
       "url": "https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ"
@@ -5710,7 +5768,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 183673,
       "name": "That Summer",
       "url": "https://open.spotify.com/track/21pFoQUP2Jl56aumhoMCbK"
@@ -5938,6 +5996,24 @@
       "duration_ms": 163613,
       "name": "This Summer's The One",
       "url": "https://open.spotify.com/track/7w2BUkoME2VxIZltz8zuqS"
+    },
+    {
+      "album": {
+        "name": "This Town's Been Too Good To Us",
+        "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "This Town's Been Too Good To Us",
+      "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
     },
     {
       "album": {

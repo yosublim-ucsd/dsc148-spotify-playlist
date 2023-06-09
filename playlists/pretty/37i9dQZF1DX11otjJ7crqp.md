@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Tove Lo
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,242 likes - 102 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,306 likes - 102 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 101 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 |
 | 102 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 |
 
-Snapshot ID: `MCxiZWRiOTIxNzQ4OTE1ZTg1ZGMxMWMyYjUwOGEwZWFmZDI4NGZjZWM5`
+Snapshot ID: `MCxjYTczZmRjYzk4MDZiY2E2OTFhYzU5MTE0NTNjOWVmYWIxNzdjMzE0`

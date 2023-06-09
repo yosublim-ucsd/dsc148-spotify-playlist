@@ -4,7 +4,7 @@
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Niko Rubio
 
-451 songs - 1 day 0 hr 21 min
+452 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2023-02-11 | 2023-03-09 |
 | [Hit 'Em Up \- Single Version](https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:12 | 2022-03-21 | 2022-04-09 |
 | [Home](https://open.spotify.com/track/1Mr9Uiv2AFiiqmKWOpzXjW) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Home](https://open.spotify.com/album/519wEU7Sp6ZoypwPArhgny) | 3:09 | 2021-12-02 | 2022-07-29 |
-| [Hostage](https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Hostage](https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6) | 2:44 | 2023-04-06 |  |
+| [Hostage](https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Hostage](https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6) | 2:44 | 2023-04-06 | 2023-06-09 |
 | [How Many Times \- Spanish Version](https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG) | 3:25 | 2021-12-02 | 2022-01-25 |
 | [Hoy es siempre \(feat\. Nicole Zignago\)](https://open.spotify.com/track/0oCQAJMx0PbuDYxBIaDN2z) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Hoy es siempre \(feat\. Nicole Zignago\)](https://open.spotify.com/album/3PJhuL6uxw9HQUTYRu2Ecx) | 3:16 | 2023-06-02 |  |
 | [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 | 2022-01-28 | 2022-04-21 |
@@ -264,6 +264,7 @@
 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 | 2023-02-17 | 2023-05-13 |
 | [Might Forgive You](https://open.spotify.com/track/3cqriOBTkCgxoNWmH8Eq4o) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Might Forgive You / Tkm](https://open.spotify.com/album/2AshOHb8iyEpEUNSlENZuj) | 4:09 | 2021-12-02 | 2022-07-29 |
 | [Migth Forgive You](https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Might Forgive You / Tkm](https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd) | 4:09 | 2022-09-06 | 2022-10-29 |
+| [Millionaire](https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Wandering Rebel](https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4) | 2:52 | 2023-06-02 |  |
 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 | 2022-01-28 | 2022-07-23 |
 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 | 2022-07-20 | 2022-07-29 |
 | [Minute In The Morning](https://open.spotify.com/track/1Epn4eSgWUPQ1gGM64jmGc) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 2:41 | 2022-07-20 | 2023-03-09 |

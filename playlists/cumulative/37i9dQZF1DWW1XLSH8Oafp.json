@@ -7641,6 +7641,24 @@
     },
     {
       "album": {
+        "name": "Off Wiv Ya Headz",
+        "url": "https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206694,
+      "name": "Off Wiv Ya Headz",
+      "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
+    },
+    {
+      "album": {
         "name": "on & on",
         "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
       },
@@ -11912,6 +11930,28 @@
       "duration_ms": 187106,
       "name": "\u2606 (feat. Oklou)",
       "url": "https://open.spotify.com/track/2RKVFFH9h2vglxvqpN9Xre"
+    },
+    {
+      "album": {
+        "name": "\u2665one love\u2665",
+        "url": "https://open.spotify.com/album/4TP5cGeoTSOWYC20fRFYtL"
+      },
+      "artists": [
+        {
+          "name": "dracodraco",
+          "url": "https://open.spotify.com/artist/3GooQnFk2ozVG59lQXIdiH"
+        },
+        {
+          "name": "LYFE4M",
+          "url": "https://open.spotify.com/artist/0BShgKKWNc6kEyR5LXWnzL"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150671,
+      "name": "\u2665one love\u2665",
+      "url": "https://open.spotify.com/track/2zFcvXGPhkbOiNYZekEoYK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp"

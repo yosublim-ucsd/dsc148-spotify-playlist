@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Purr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,144 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279,195 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [Guessing](https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Guessing](https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS) | 5:03 |
 | 150 | [Silica](https://open.spotify.com/track/224t4K2F8W2vrlLd5arMoU) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Silica](https://open.spotify.com/album/70tbQi3TMV1L0DJUcT8u18) | 3:31 |
 
-Snapshot ID: `MCxjZjg2NzM1NTFiOGM2MWM1ZTg2Mzg5ZDdmMGM1YmQ3ZDYxMDI5YTkx`
+Snapshot ID: `MCxlODBhZDA5MjA5YWRjMTQ3OTExODVmMjU1NmE4N2VmYzBiYWI4OTc0`

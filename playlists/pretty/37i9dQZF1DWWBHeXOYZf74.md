@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: ENNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,150 likes - 103 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,112 likes - 103 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 102 | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb) | 4:06 |
 | 103 | [VEHICLE](https://open.spotify.com/track/5jMUso85VnswHLihS6g6Pb) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [VEHICLE](https://open.spotify.com/album/1nYiFTWWqYA10ynJgbm7Rl) | 2:49 |
 
-Snapshot ID: `MCwyMTMxNGYwYmZmMzQ3MGMxOTY4MjJhNmViMjE0N2UwZWY0YTc4NWI5`
+Snapshot ID: `MCw3MjYxMTM2MmRlNTc1ZmMwMGE1YTMyMTdiMzM1MDcxM2UwOGQ1YWVi`

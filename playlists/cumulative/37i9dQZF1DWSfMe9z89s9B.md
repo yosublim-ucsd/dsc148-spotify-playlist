@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Chenayder
 
-863 songs - 1 day 22 hr 42 min
+864 songs - 1 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,7 @@
 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 | 2021-03-19 | 2022-04-26 |
 | [Gone Girl](https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:04 | 2022-12-09 | 2023-02-11 |
 | [Gonna Go](https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Gonna Go](https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv) | 2:57 | 2023-02-17 | 2023-04-15 |
-| [Good 2 Me](https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Good 2 Me](https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb) | 2:36 | 2023-01-13 |  |
+| [Good 2 Me](https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Good 2 Me](https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb) | 2:36 | 2023-01-13 | 2023-06-09 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-03-19 | 2022-07-16 |
 | [Good For Now \(feat\. Lucky Daye\)](https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Good For Now](https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt) | 4:01 | 2023-01-13 | 2023-03-25 |
 | [Good Life](https://open.spotify.com/track/0qllV0IlmVXSfyMYbw3f24) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm) | 3:35 | 2022-04-01 | 2022-07-29 |
@@ -345,6 +345,7 @@
 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 | 2022-07-15 |  |
 | [Her](https://open.spotify.com/track/1lvbDafT3jgfqrV7zJfVhT) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/0SgYriWkwz4xvXQEQhxVdA) | 4:21 | 2021-03-19 | 2022-04-15 |
 | [High & Dry](https://open.spotify.com/track/3euV86x39viux87PuKhgMq) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [High & Dry](https://open.spotify.com/album/4NZ8TvWas89czIE5aGxUGw) | 2:38 | 2022-04-01 | 2022-04-15 |
+| [Higher Self](https://open.spotify.com/track/6QZvO5OvBNZSqfLDkMsOFK) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Higher Self](https://open.spotify.com/album/7tQKPWJuOifYCvqhRf2bn0) | 3:11 | 2023-05-26 |  |
 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 | 2022-04-01 | 2022-08-09 |
 | [Hold Me](https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Hold Me](https://open.spotify.com/album/7JTfcLHEOyg7aQTF16PGyA) | 2:43 | 2022-10-28 | 2023-02-11 |
 | [HOLLOW.](https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:44 | 2022-02-25 | 2022-07-29 |

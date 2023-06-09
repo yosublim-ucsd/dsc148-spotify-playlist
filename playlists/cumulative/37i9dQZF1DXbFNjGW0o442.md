@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Ana Sanz
 
-242 songs - 14 hr 28 min
+243 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Perfume](https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K) | [Maria Gabriela Epumer](https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ) | [Perfume](https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC) | 4:51 | 2022-07-15 |  |
 | [Perfume](https://open.spotify.com/track/4gawpeejkzpK5i8yfqHtD2) | [Maria Gabriela Epumer](https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ) | [Perfume](https://open.spotify.com/album/2ScArsV4DA9vxTHKObJ3Ch) | 4:51 | 2022-01-20 | 2022-07-29 |
 | [Perfume](https://open.spotify.com/track/6SyvQX4wcOkCaCRhL90YVy) | [María Gabriela Epumer](https://open.spotify.com/artist/0VG0Lve504TVrZ9AAZxeY3) | [Rock en Ñ](https://open.spotify.com/album/2MWAusfjjMw9V5Tgcqs0Qh) | 4:54 | 2022-01-20 | 2022-07-28 |
+| [Perro](https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 3:02 | 2023-06-02 |  |
 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 | 2022-01-20 |  |
 | [Perverted Eyes](https://open.spotify.com/track/7ymBtDlDGJfxRsKvpFhzHQ) | [Sol Sanchez](https://open.spotify.com/artist/4m7LxlF11pT2qV6pmipYY2) | [Winona Forever](https://open.spotify.com/album/6e6m3DCK89dnqrukK6VybX) | 1:58 | 2022-01-20 | 2022-07-28 |
 | [Peter Pan y Yo](https://open.spotify.com/track/67hMMP41qKW0HsLFMnmUVb) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Peter Pan y Yo](https://open.spotify.com/album/1v9GpqTvCBsLtYmdcYmEoy) | 3:23 | 2022-01-20 | 2022-07-29 |
@@ -244,7 +245,7 @@
 | [Vente Conmigo](https://open.spotify.com/track/4yoj0Vo01nBLb4OI73p3Ba) | [Árida](https://open.spotify.com/artist/5bmRDivRMo2IWCgKn65cpY) | [Días Salvajes](https://open.spotify.com/album/10Sor0ABQEhyfGXNjyt6ex) | 3:16 | 2022-01-20 | 2022-07-29 |
 | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/track/0NWggrKGAMZvthO4SkCVky) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/album/5NHOtWzCEgxgdUZdsHtsz9) | 3:39 | 2022-01-20 | 2022-07-27 |
 | [Vocales](https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V) | [HTML](https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8) | [17](https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb) | 2:36 | 2022-01-20 | 2022-09-17 |
-| [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 | 2022-01-20 |  |
+| [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 | 2022-01-20 | 2023-06-09 |
 | [Voy a Dejar Esta Casa Papá](https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 4:53 | 2022-01-20 | 2022-09-26 |
 | [Voy a Ponerme Bien](https://open.spotify.com/track/2ygIcGSO2bkGxN6aFMhNaV) | [Luciana Segovia](https://open.spotify.com/artist/1h0VgUZrsCsorbQQ7k8EQ5) | [Voy a Ponerme Bien](https://open.spotify.com/album/0lPUCCUNW4FXNSjkFWAxMH) | 2:56 | 2022-01-20 | 2022-07-29 |
 | [Vómito](https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Primera Temporada](https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk) | 2:17 | 2022-01-20 | 2023-05-21 |

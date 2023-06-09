@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/1xkMMcFFh8gy6uWyQ5TkOT"
+      },
+      "artists": [
+        {
+          "name": "NLC",
+          "url": "https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211103,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0JgQ9e26nCa3hIElMqHcok"
+    },
+    {
+      "album": {
         "name": "The House That Bradley Built (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg"
       },

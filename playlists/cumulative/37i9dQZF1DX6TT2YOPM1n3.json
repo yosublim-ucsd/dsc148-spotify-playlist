@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Trending Pakistani tracks under one roof. Cover: Ali Sethi",
+  "description": "Trending Pakistani tracks under one roof. Cover: Asim Azhar, Shae Gill",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 131641,
       "name": "Darkest Hour - Asim Azhar Version",
       "url": "https://open.spotify.com/track/6W8UyjragKGJ40siaZ2oKN"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 195000,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/5M0pviz4op3uvRnKTnPoce"
@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Mansoob",
+        "url": "https://open.spotify.com/album/0ru0ZZ8qTufVPvEIB7GbFd"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Mansoob",
+      "url": "https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb"
+    },
+    {
+      "album": {
         "name": "Mere Humsafar (Original Score) [Female Version]",
         "url": "https://open.spotify.com/album/1xT6hChxAkSLclY5Jvl65M"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 157048,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg"

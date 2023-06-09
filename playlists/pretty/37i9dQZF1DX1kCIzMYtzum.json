@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 159019,
+  "num_followers": 159274,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWVjYWI3YjQ0NGM3Y2FmYzcxMzJiYTkzZjg5MDU1NGNjMjcwY2Q3",
+  "snapshot_id": "MCxjOTllYzZkMmJlMTY2ZTYxMjJjZWU3YjEyNTNiNDFkMGUzODQ5MDRh",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 132954,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 139927,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 132954,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 189287,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Left & Right",
         "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 178294,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -987,26 +987,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Right Before Our Eyes",
-        "url": "https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
       },
       "artists": [
         {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 184335,
-      "name": "Right Before Our Eyes",
-      "url": "https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT"
+      "duration_ms": 155409,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1047,22 +1039,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "This Feeling",
-        "url": "https://open.spotify.com/album/1sumCybVSXAHHhMtfW3iFB"
+        "name": "Right Before Our Eyes",
+        "url": "https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
         }
       ],
-      "duration_ms": 196440,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/79SrdoXn93tgSzksq73X2y"
+      "duration_ms": 184335,
+      "name": "Right Before Our Eyes",
+      "url": "https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1087,6 +1083,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/1sumCybVSXAHHhMtfW3iFB"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/79SrdoXn93tgSzksq73X2y"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 195262,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "REBELS NEVER DIE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
       },
@@ -1343,22 +1363,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
+        "name": "Drop That Low (When I Dip)",
+        "url": "https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "HOSANNA",
-          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
         }
       ],
-      "duration_ms": 145920,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+      "duration_ms": 153809,
+      "name": "Drop That Low (When I Dip)",
+      "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1387,26 +1407,6 @@
       "duration_ms": 203255,
       "name": "Bright Lights (feat. AR/CO)",
       "url": "https://open.spotify.com/track/7hz4FnANJOY7tR8eutPxIP"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Drop That Low (When I Dip)",
-        "url": "https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        }
-      ],
-      "duration_ms": 153809,
-      "name": "Drop That Low (When I Dip)",
-      "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1459,50 +1459,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Renaissance (The White Lotus) [Ti\u00ebsto Remix]",
-        "url": "https://open.spotify.com/album/4KD4RrqwmuQJWPxBk62Owe"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Cristobal Tapia De Veer",
-          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
-        }
-      ],
-      "duration_ms": 170156,
-      "name": "Renaissance (The White Lotus) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/6CgnHnR0C1qsAiq4UAVO8B"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "I'm Good (Blue) [Remixes]",
         "url": "https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd"
       },
@@ -1551,6 +1507,30 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ"
       },
@@ -1571,6 +1551,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Renaissance (The White Lotus) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/4KD4RrqwmuQJWPxBk62Owe"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Cristobal Tapia De Veer",
+          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
+        }
+      ],
+      "duration_ms": 170156,
+      "name": "Renaissance (The White Lotus) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/6CgnHnR0C1qsAiq4UAVO8B"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Anti-Hero (ILLENIUM Remix)",
         "url": "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6"
       },
@@ -1587,30 +1587,6 @@
       "duration_ms": 267960,
       "name": "Anti-Hero - ILLENIUM Remix",
       "url": "https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1655,6 +1631,50 @@
       "duration_ms": 201259,
       "name": "Move It",
       "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Gangster",
+        "url": "https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Gangster",
+      "url": "https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1711,26 +1731,6 @@
       "duration_ms": 261290,
       "name": "Golden",
       "url": "https://open.spotify.com/track/3dIGoaCRQ7eRvnDLWe8nT3"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Gangster",
-        "url": "https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Gangster",
-      "url": "https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Save Me (From Myself) (feat. Kyle Hume)",
-        "url": "https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Save Me (From Myself) (feat. Kyle Hume)",
-      "url": "https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -2031,6 +2011,26 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Save Me (From Myself) (feat. Kyle Hume)",
+        "url": "https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Save Me (From Myself) (feat. Kyle Hume)",
+      "url": "https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -4,7 +4,7 @@
 
 > Lo mejor y lo último del pop en español\. Foto: Aitana
 
-170 songs - 8 hr 32 min
+171 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Tu Nombre](https://open.spotify.com/track/0Mb1fm62mIKntgbZFFYpRF) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Tu Nombre](https://open.spotify.com/album/6pKnIlwJfXJxqHjDmpvABs) | 3:00 | 2023-03-13 |  |
 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 | 2023-03-13 | 2023-03-29 |
 | [Tus Besos](https://open.spotify.com/track/4dOoEYZjHIiCQbt7u4lJ9h) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Tus Besos](https://open.spotify.com/album/7rZsZIUluSXmxqFcKyGvy6) | 2:18 | 2023-03-13 | 2023-03-25 |
+| [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 | 2023-06-08 |  |
 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 | 2023-04-13 | 2023-04-26 |
 | [Un Beso a Mi Crush](https://open.spotify.com/track/2VdPyembKc89MgImIVcQyl) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [Un Beso a Mi Crush](https://open.spotify.com/album/2qSa8URXgIcrt3AeDnB7eO) | 3:31 | 2023-03-21 | 2023-04-04 |
 | [Un Clásico](https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Un Clásico](https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0) | 2:52 | 2023-03-13 |  |
@@ -174,7 +175,7 @@
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-16 |  |
 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 | 2023-03-28 | 2023-04-11 |
 | [VUELA](https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [VUELA](https://open.spotify.com/album/3Ln9Xe2JfSl8kvh9MeABgq) | 3:13 | 2023-05-30 |  |
-| [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k) | 2:46 | 2023-06-01 |  |
+| [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k) | 2:46 | 2023-06-01 | 2023-06-09 |
 | [Whiskey y Coco](https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Whiskey y Coco](https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP) | 3:06 | 2023-03-21 | 2023-03-29 |
 | [Último Baile](https://open.spotify.com/track/1ApFykPxKmhP4iNbFmgXw9) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Último Baile](https://open.spotify.com/album/17DfT2KcMr4WSeXp2e6egd) | 2:59 | 2023-05-30 |  |
 | [ÚLTIMO BESO](https://open.spotify.com/track/7ntgFD12mCXEkrH93HHete) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [ÚLTIMO BESO](https://open.spotify.com/album/47E82wCsxHPZkPyvCiokG1) | 2:29 | 2023-05-03 | 2023-05-20 |

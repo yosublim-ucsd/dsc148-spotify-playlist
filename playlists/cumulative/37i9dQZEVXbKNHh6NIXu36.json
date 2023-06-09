@@ -4616,7 +4616,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 150857,
       "name": "Bumsbar",
       "url": "https://open.spotify.com/track/62NrIrsxxNXJVvtRivWYjM"
@@ -7978,7 +7978,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 174045,
       "name": "D\u017eanum",
       "url": "https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz"
@@ -14096,6 +14096,24 @@
       "duration_ms": 141971,
       "name": "Karneval",
       "url": "https://open.spotify.com/track/3nANSPdGPDTIHwsjUEGLQt"
+    },
+    {
+      "album": {
+        "name": "Karneval II",
+        "url": "https://open.spotify.com/album/7BkYamsmM9rWWSKAVA4LAL"
+      },
+      "artists": [
+        {
+          "name": "Sajfer",
+          "url": "https://open.spotify.com/artist/5ft3IHiUHeGIvsxTdBSKtN"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142127,
+      "name": "Karneval II",
+      "url": "https://open.spotify.com/track/5ujllgmrssanhprcU50yFk"
     },
     {
       "album": {
@@ -23710,7 +23728,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
@@ -25702,7 +25720,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
@@ -30360,7 +30378,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 231546,
       "name": "Zukunft Pink (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/1uUgy87UHT9rlbxHirty3g"

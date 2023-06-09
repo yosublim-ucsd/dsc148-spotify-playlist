@@ -2,7 +2,7 @@
 
 ### [Norske viser](https://open.spotify.com/playlist/37i9dQZF1DWXBG5kM768S1)
 
-> 
+> Fantastiske viser fra noen av våre aller beste artister.
 
 214 songs - 13 hr 37 min
 

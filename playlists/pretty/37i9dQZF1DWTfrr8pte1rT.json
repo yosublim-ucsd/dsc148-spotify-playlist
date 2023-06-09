@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop Cover: SLANDER, blackbear & Bring Me The Horizon \\m/",
-  "num_followers": 307519,
+  "num_followers": 307627,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDExNmU2Y2E4OTFhYTE0NmI2ZTk0MThhMmI1Y2FmYmE2ZGYyMDBl",
+  "snapshot_id": "MCxhN2M3Y2FlNzBjN2U3MTI0NmJjMjc2YmIyNmI0NDAzODQ1ODM4MTc1",
   "tracks": [
     {
       "added_at": "2023-06-02 17:17:16",
@@ -471,22 +471,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Crusade",
-        "url": "https://open.spotify.com/album/5jlfz88EPcULVoVMxD171B"
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         },
         {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Crusade",
-      "url": "https://open.spotify.com/track/29Dvkvp7Wgd1VJdDvVJlvf"
+      "duration_ms": 151232,
+      "name": "It's A Dream (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -551,22 +551,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "April Mixtape 3",
-        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/5jlfz88EPcULVoVMxD171B"
       },
       "artists": [
         {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
         }
       ],
-      "duration_ms": 151232,
-      "name": "It's A Dream (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi"
+      "duration_ms": 171428,
+      "name": "Crusade",
+      "url": "https://open.spotify.com/track/29Dvkvp7Wgd1VJdDvVJlvf"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Werewolf: Synthwave Edition",
-        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Saxl Rose",
-          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
-        }
-      ],
-      "duration_ms": 211387,
-      "name": "Werewolf: Synthwave Edition",
-      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
         "name": "Timebomb (feat. MOD SUN)",
         "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 182040,
       "name": "Timebomb (feat. MOD SUN)",
       "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
+        "name": "Werewolf: Synthwave Edition",
+        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Saxl Rose",
+          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
+        }
+      ],
+      "duration_ms": 211387,
+      "name": "Werewolf: Synthwave Edition",
+      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 259401,
+      "name": "Our Fire",
+      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
         "name": "Kill Or Be Killed (Felsmann + Tiley Reinterpretation)",
         "url": "https://open.spotify.com/album/2KS2e5L7diPrmbjOeL58qv"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 180618,
       "name": "This Will Be My Year",
       "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 259401,
-      "name": "Our Fire",
-      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 182875,
+      "name": "Nothing For Free",
+      "url": "https://open.spotify.com/track/16akrYX3LKYx7b9aPGDiMd"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
         "name": "Liar (with OST)",
         "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Elemental",
-        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 182875,
-      "name": "Nothing For Free",
-      "url": "https://open.spotify.com/track/16akrYX3LKYx7b9aPGDiMd"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -1367,26 +1367,18 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
       },
       "artists": [
         {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
+      "duration_ms": 233092,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5VNd1hDPumxU02ckWEPguk"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1407,6 +1399,30 @@
       "duration_ms": 220000,
       "name": "Throne",
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1495,22 +1511,6 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
-        "name": "Elemental",
-        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 233092,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/5VNd1hDPumxU02ckWEPguk"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Hearteater",
-        "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
-        }
-      ],
-      "duration_ms": 217394,
-      "name": "Hearteater",
-      "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
         "name": "Baptize (Sullivan King Remix)",
         "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 250241,
       "name": "Baptize - Sullivan King Remix",
       "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
+        "name": "Hearteater",
+        "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "duration_ms": 217394,
+      "name": "Hearteater",
+      "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -2051,18 +2051,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
       },
       "artists": [
         {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 292173,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
+      "duration_ms": 129408,
+      "name": "Hurting on Purpose (feat. K.Flay)",
+      "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -2087,22 +2091,18 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
       },
       "artists": [
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
         }
       ],
-      "duration_ms": 129408,
-      "name": "Hurting on Purpose (feat. K.Flay)",
-      "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
+      "duration_ms": 292173,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -2247,6 +2247,26 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
+        "name": "Superhuman (with K.Flay)",
+        "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 240044,
+      "name": "Superhuman (with K.Flay)",
+      "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
         "name": "Cute Without The E (Ziri)",
         "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
       },
@@ -2267,22 +2287,22 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Superhuman (with K.Flay)",
-        "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
+        "name": "self:antiself",
+        "url": "https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p"
       },
       "artists": [
         {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
         },
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "Crywolf",
+          "url": "https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z"
         }
       ],
-      "duration_ms": 240044,
-      "name": "Superhuman (with K.Flay)",
-      "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
+      "duration_ms": 290454,
+      "name": "Ghostbox",
+      "url": "https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -2307,26 +2327,6 @@
       "duration_ms": 169285,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
-        "name": "self:antiself",
-        "url": "https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p"
-      },
-      "artists": [
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        },
-        {
-          "name": "Crywolf",
-          "url": "https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z"
-        }
-      ],
-      "duration_ms": 290454,
-      "name": "Ghostbox",
-      "url": "https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI"
     },
     {
       "added_at": "2023-06-02 17:17:16",
@@ -2411,26 +2411,6 @@
     {
       "added_at": "2023-06-02 17:17:16",
       "album": {
-        "name": "Ohio is for Lovers",
-        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 232123,
-      "name": "Ohio is for Lovers",
-      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
-    },
-    {
-      "added_at": "2023-06-02 17:17:16",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
       },
@@ -2447,6 +2427,26 @@
       "duration_ms": 196500,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
+    },
+    {
+      "added_at": "2023-06-02 17:17:16",
+      "album": {
+        "name": "Ohio is for Lovers",
+        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 232123,
+      "name": "Ohio is for Lovers",
+      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
     },
     {
       "added_at": "2023-06-02 17:17:16",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Phoenix",
+  "description": "The best French indie tracks right now. Cover: Christine and the Queens",
   "name": "Made in France",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 141206,
       "name": "4D",
       "url": "https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V"
+    },
+    {
+      "album": {
+        "name": "A day in the water",
+        "url": "https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241661,
+      "name": "A day in the water",
+      "url": "https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o"
     },
     {
       "album": {
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 151500,
       "name": "Enfant star",
       "url": "https://open.spotify.com/track/5q33mH9sEEdZJyK51d66tu"
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 204826,
       "name": "Home",
       "url": "https://open.spotify.com/track/1D6fumCcnKImzoePwxyPFT"
@@ -3803,6 +3821,24 @@
     },
     {
       "album": {
+        "name": "Let's Talk",
+        "url": "https://open.spotify.com/album/2NNK0NFzBMSEsGrYpJDZwZ"
+      },
+      "artists": [
+        {
+          "name": "Colours in the Street",
+          "url": "https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163480,
+      "name": "Morning Routine",
+      "url": "https://open.spotify.com/track/2DJbBZTiqzwVcGbCgsdJEU"
+    },
+    {
+      "album": {
         "name": "PHANTASIA",
         "url": "https://open.spotify.com/album/2EVQB27DWqa2tnMhM16zPg"
       },
@@ -4186,7 +4222,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 167773,
       "name": "Nu.e",
       "url": "https://open.spotify.com/track/1Q8zfQSuxdnCay1qjkPuMA"
@@ -4616,6 +4652,24 @@
       "duration_ms": 176821,
       "name": "Photographies",
       "url": "https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F"
+    },
+    {
+      "album": {
+        "name": "Plage convexe",
+        "url": "https://open.spotify.com/album/4tiFbhW4nW2pSWBOuOQgie"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Fever",
+          "url": "https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171290,
+      "name": "Plage convexe",
+      "url": "https://open.spotify.com/track/7z9j6bH7EO9iH5SR11etkq"
     },
     {
       "album": {
@@ -5112,7 +5166,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 231666,
       "name": "SHINE A LIGHT. N3.23",
       "url": "https://open.spotify.com/track/0L6WSxCbHWYha6d4ktyjN4"
@@ -5152,6 +5206,24 @@
       "duration_ms": 238500,
       "name": "Sign Out",
       "url": "https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9"
+    },
+    {
+      "album": {
+        "name": "SMILE",
+        "url": "https://open.spotify.com/album/4eCVIY1Y7nwewuyb4f0Phx"
+      },
+      "artists": [
+        {
+          "name": "Fantomes",
+          "url": "https://open.spotify.com/artist/7HKyji7RprYFvPw3EaARgS"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162109,
+      "name": "SMILE",
+      "url": "https://open.spotify.com/track/6EQCByvO8WXdHYw6QLLXNI"
     },
     {
       "album": {

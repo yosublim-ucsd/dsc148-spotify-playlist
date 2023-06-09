@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from The Weeknd, Metro Boomin, Toosii, Bizarrap & Peso Pluma, Karol G, Foo Fighters, Gunna and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,120,629 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,119,090 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 |
 | 100 | [Burn](https://open.spotify.com/track/4s4n72tnhMoGkx7G6ebpO4) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Burn](https://open.spotify.com/album/49NEXSdCRyD2sTcOeLeHIH) | 2:38 |
 
-Snapshot ID: `MCxkYTAwYmJiZThjYzc4NzIzOWNlZGRjYTNlODE2NjYyODk1NGYxOGY1`
+Snapshot ID: `MCwzNDc0ZWM1ZWM5YTMxNWNiNWVlNzM2ZDQ4ODQwZGJiYzRlNzMzYTY0`

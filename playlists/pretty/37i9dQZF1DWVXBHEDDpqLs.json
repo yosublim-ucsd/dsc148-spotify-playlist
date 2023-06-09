@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 28426,
+  "num_followers": 28448,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTQ1NjdkNjMxOGRjNzUzZDkxMzBkOWNjZmZhYWI0YmVlZTg2ZDcy",
+  "snapshot_id": "MCwzYzc4NzE0OGMyYjMyMGZiZjI2MDA1MDg5MGZiZTc0NWYyMjZiZTlm",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Second Line",
+        "url": "https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 273386,
+      "name": "Bussifame",
+      "url": "https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
         "url": "https://open.spotify.com/album/6ewbAPvSTZ7a9LGa9yQw6K"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 176346,
       "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
       "url": "https://open.spotify.com/track/0x754YEyX1foz1WkbRF4uY"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Second Line",
-        "url": "https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv"
-      },
-      "artists": [
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        }
-      ],
-      "duration_ms": 273386,
-      "name": "Bussifame",
-      "url": "https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
-        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
-      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Jaiye (Aluna and Sigag Lauren Remix)",
         "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 221032,
       "name": "Jaiye (Aluna and Sigag Lauren Remix)",
       "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
+        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
+      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "WORK",
+        "url": "https://open.spotify.com/album/6jhqBMKKpjSUNGaUv3Ar6Y"
+      },
+      "artists": [
+        {
+          "name": "INVT",
+          "url": "https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D"
+        },
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "WORK",
+      "url": "https://open.spotify.com/track/3f6cQPVTkf8KuEni7b8bS6"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Period",
         "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 113493,
       "name": "Period",
       "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "WORK",
-        "url": "https://open.spotify.com/album/6jhqBMKKpjSUNGaUv3Ar6Y"
-      },
-      "artists": [
-        {
-          "name": "INVT",
-          "url": "https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D"
-        },
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "WORK",
-      "url": "https://open.spotify.com/track/3f6cQPVTkf8KuEni7b8bS6"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "BADBOI",
-        "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
+        "name": "Baukey Beats, Vol.1",
+        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
       },
       "artists": [
         {
-          "name": "BRUX",
-          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
-        },
-        {
-          "name": "Pat Lok",
-          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+          "name": "Ben Hauke",
+          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
         }
       ],
-      "duration_ms": 196535,
-      "name": "BADBOI",
-      "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
+      "duration_ms": 556363,
+      "name": "Dep First Draft - Extended Mix",
+      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1747,18 +1743,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Baukey Beats, Vol.1",
-        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
+        "name": "BADBOI",
+        "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
       },
       "artists": [
         {
-          "name": "Ben Hauke",
-          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        },
+        {
+          "name": "Pat Lok",
+          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
         }
       ],
-      "duration_ms": 556363,
-      "name": "Dep First Draft - Extended Mix",
-      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
+      "duration_ms": 196535,
+      "name": "BADBOI",
+      "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Dapper Dan Midas",
-          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
-        }
-      ],
-      "duration_ms": 189518,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Gbadolite B-Sides",
         "url": "https://open.spotify.com/album/3M5kKxofLNMyTLvUkJnmP7"
       },
@@ -1995,22 +1975,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/7umROuCtAPm20KzC8PW6m5"
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
       },
       "artists": [
         {
-          "name": "Petty Penguin",
-          "url": "https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0"
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
         },
         {
-          "name": "DJ Beast Baltimore",
-          "url": "https://open.spotify.com/artist/4IXgBHhKrwz40lIHFNSGzS"
+          "name": "Dapper Dan Midas",
+          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
         }
       ],
-      "duration_ms": 146311,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/3fgbDLcBPZlpvpuQh3RqCL"
+      "duration_ms": 189518,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2031,6 +2011,26 @@
       "duration_ms": 202439,
       "name": "Ga$ton Rasta",
       "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/7umROuCtAPm20KzC8PW6m5"
+      },
+      "artists": [
+        {
+          "name": "Petty Penguin",
+          "url": "https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0"
+        },
+        {
+          "name": "DJ Beast Baltimore",
+          "url": "https://open.spotify.com/artist/4IXgBHhKrwz40lIHFNSGzS"
+        }
+      ],
+      "duration_ms": 146311,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/3fgbDLcBPZlpvpuQh3RqCL"
     }
   ],
   "unique_name": "Global Club Music",

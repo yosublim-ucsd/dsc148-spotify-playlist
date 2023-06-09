@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-149 songs - 11 hr 25 min
+150 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Singel](https://open.spotify.com/track/29PgnhJusz4Ou5zArjPghh) | [Niklas Lind](https://open.spotify.com/artist/5QTnzfBSxTHso17Gtfauqt) | [Singel](https://open.spotify.com/album/61Gmop5nZOlXu37SlKixHw) | 3:27 | 2021-11-08 | 2022-07-29 |
 | [Skyll på mig](https://open.spotify.com/track/4l5ntF7CMqvsUgx3EXvtkR) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Skyll på mig](https://open.spotify.com/album/4dcTuLm9mLynDNpTnUzUtz) | 3:16 | 2021-11-08 |  |
 | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/track/3x8s8D4wGbF8aaU3qhQkiy) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712), [Christina von Bülow](https://open.spotify.com/artist/5VvYrVSilKVNlE4N6Fvsjd) | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/album/6m9VEymNTYIa22jhmMAv1m) | 4:40 | 2022-10-20 |  |
+| [SOL](https://open.spotify.com/track/4nFNfCSmsGGEE3pNfClo9c) | [Axel Mårdsjö](https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD) | [Ett göteborgsporträtt](https://open.spotify.com/album/5gTDcU2wzbBthQRng50CbV) | 6:03 | 2023-06-08 |  |
 | [Som vanligt](https://open.spotify.com/track/2x8BetKgW0IRTnlbKxwTiZ) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Det kanske händer](https://open.spotify.com/album/1HqtUBTmtekqIZzptARlO5) | 2:54 | 2021-11-08 |  |
 | [Sov På Min Arm \(Nocturne\)](https://open.spotify.com/track/3h4sjDpktTHGhAWGwLmBq6) | [Anna Sandström](https://open.spotify.com/artist/65Hb9fw3WwtPZskZZ3jaY8), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [ASK](https://open.spotify.com/album/2HqI79UD7f1YPwEyHXJTto) | 5:51 | 2023-02-16 |  |
 | [Stablemates](https://open.spotify.com/track/0e2qoYX2fvzOKw1WztN0Il) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Stablemates](https://open.spotify.com/album/3lqaHDcGbtoXOJOf4OCv4K) | 5:03 | 2022-05-26 |  |

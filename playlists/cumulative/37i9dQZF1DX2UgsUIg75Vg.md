@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Full Crate
 
-668 songs - 1 day 13 hr 48 min
+669 songs - 1 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,8 @@
 | [Make You Mine](https://open.spotify.com/track/7r1MqPAD09w24mCUUbxiCI) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:20 | 2022-07-08 | 2023-02-25 |
 | [Marvin Gaye](https://open.spotify.com/track/4aZPzveVY9PjYAbifcal0v) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer](https://open.spotify.com/album/5qvBGoEtTh1P8abEJ99D91) | 4:18 | 2022-05-06 | 2023-02-15 |
 | [Maybe](https://open.spotify.com/track/5ScaS6Mo99bBAwmdiwXuXf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/6ysPJXcTmoFKU3SUmbghZE) | 3:28 | 2022-09-30 | 2022-12-10 |
-| [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:51 | 2023-05-05 |  |
+| [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:51 | 2023-05-05 | 2023-06-09 |
+| [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0rjjTjhUsMy3Akhy3zduKK) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:51 | 2023-05-05 |  |
 | [Mean Mug](https://open.spotify.com/track/4a125pvXw0CxxpN7yHDgUY) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 4:03 | 2022-09-09 | 2023-06-03 |
 | [Meu Amor](https://open.spotify.com/track/5RkrgkGhcjxvK5zLypLsDB) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Meu Amor](https://open.spotify.com/album/3V0PZAGyWeByeF4rVPP8L1) | 4:10 | 2021-10-23 | 2022-05-20 |
 | [Mirage](https://open.spotify.com/track/4nVqAzqBNNTA28majHbIqZ) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Mirage](https://open.spotify.com/album/03GVz1bOYQQbQI9pCLXbU3) | 3:51 | 2022-04-08 | 2022-10-15 |

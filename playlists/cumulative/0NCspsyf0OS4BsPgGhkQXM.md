@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-753 songs - 1 day 17 hr 1 min
+754 songs - 1 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [La Roja](https://open.spotify.com/track/5Z4AwksmCkLy1lXvImsrD6) | [Bermejo](https://open.spotify.com/artist/77EeJ27sPERKmROTxvllYo) | [La Roja](https://open.spotify.com/album/2Sb7mfJqe90ThixT2XXTpm) | 2:22 | 2022-03-04 | 2022-04-02 |
 | [last breath](https://open.spotify.com/track/7iJKUX0fbC5pxobb2xnzRQ) | [mark veins](https://open.spotify.com/artist/5Rt7OtfJpjne2jW8qy9Kcz), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [last breath](https://open.spotify.com/album/2lVM7gDVXcG2l5LOB1hyob) | 2:44 | 2022-01-17 | 2022-02-10 |
 | [Last Dance](https://open.spotify.com/track/3uTs2w0H7LK1CbhR0ER9j6) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Last Dance](https://open.spotify.com/album/1kvkEKe70kiaMAXuJY8UmY) | 3:52 | 2022-10-29 | 2023-02-22 |
+| [Last Forever](https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Last Forever](https://open.spotify.com/album/4e2QxrBv9chCtzQRIWCzN8) | 3:22 | 2023-06-09 |  |
 | [Latch](https://open.spotify.com/track/1Vdr2iJBEcfmAKa8RXEFux) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ), [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Latch](https://open.spotify.com/album/5xBztmX0iNuO0hIzvMMUkR) | 3:06 | 2022-10-04 | 2022-11-05 |
 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 | 2023-02-21 |  |
 | [Legacy](https://open.spotify.com/track/2b6AXid4XwQYI8019Rk5je) | [LBLVNC](https://open.spotify.com/artist/7vAi1lm9yxFrqh15TrhxcH), [Trias](https://open.spotify.com/artist/1N21tqenVOnzbRhdvw5bGH), [Rachel Leycroft](https://open.spotify.com/artist/6C6qqlV7VNMEN2jIwYJcNM) | [Legacy](https://open.spotify.com/album/27077ta44Jm7MkvWoWeHYo) | 3:05 | 2022-06-24 | 2022-07-29 |

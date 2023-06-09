@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 1547,
+  "num_followers": 1554,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDc3MzQxNGI1MDllMzg5YzNmZDM2NTk0ZmI4MDdkZDhhNzMzNjM2",
+  "snapshot_id": "MCwyOTI4NzM1NTFiNzUxMTFmZDkxNjdjZjEzN2QwMWZhZDc4NmRmOTM2",
   "tracks": [
     {
       "added_at": "2023-06-01 21:59:00",
@@ -395,22 +395,18 @@
     {
       "added_at": "2023-06-01 21:59:00",
       "album": {
-        "name": "Cheusi Cheupe (feat. Meja Kunta)",
-        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
+        "name": "Hujanikomoa",
+        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
       },
       "artists": [
         {
-          "name": "Ommy Dimpoz",
-          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Cheusi Cheupe (feat. Meja Kunta)",
-      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
+      "duration_ms": 359026,
+      "name": "Hujanikomoa",
+      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
     },
     {
       "added_at": "2023-06-01 21:59:00",
@@ -431,18 +427,22 @@
     {
       "added_at": "2023-06-01 21:59:00",
       "album": {
-        "name": "Hujanikomoa",
-        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
+        "name": "Cheusi Cheupe (feat. Meja Kunta)",
+        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "Ommy Dimpoz",
+          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         }
       ],
-      "duration_ms": 359026,
-      "name": "Hujanikomoa",
-      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
+      "duration_ms": 279000,
+      "name": "Cheusi Cheupe (feat. Meja Kunta)",
+      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
     },
     {
       "added_at": "2023-06-01 21:59:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-06-01 21:59:00",
       "album": {
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
+      },
+      "artists": [
+        {
+          "name": "Snura",
+          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Chura",
+      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
+    },
+    {
+      "added_at": "2023-06-01 21:59:00",
+      "album": {
         "name": "Kua Uone",
         "url": "https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2023-06-01 21:59:00",
       "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
-      },
-      "artists": [
-        {
-          "name": "Snura",
-          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Chura",
-      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
         "name": "Uongo",
         "url": "https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi"
       },
@@ -703,8 +703,8 @@
     {
       "added_at": "2023-06-01 21:59:00",
       "album": {
-        "name": "Mamu Remix",
-        "url": "https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK"
+        "name": "Wanga",
+        "url": "https://open.spotify.com/album/4J7iQKFw84STrI3YKSTTpx"
       },
       "artists": [
         {
@@ -712,13 +712,13 @@
           "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         },
         {
-          "name": "Mr Blue",
-          "url": "https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9"
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
         }
       ],
-      "duration_ms": 371880,
-      "name": "Mamu Remix - Remix",
-      "url": "https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O"
+      "duration_ms": 244767,
+      "name": "Wanga",
+      "url": "https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk"
     },
     {
       "added_at": "2023-06-01 21:59:00",

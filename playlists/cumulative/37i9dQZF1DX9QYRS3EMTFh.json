@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
+  "description": "Les hits dancehall du moment. Photo : Shenseea",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 208445,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/4ggPheLG888XYYFbm53DYz"
@@ -5045,6 +5045,24 @@
     },
     {
       "album": {
+        "name": "Baby project",
+        "url": "https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155064,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq"
+    },
+    {
+      "album": {
         "name": "Tremor",
         "url": "https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU"
       },
@@ -5438,7 +5456,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 138756,
       "name": "Whine it up",
       "url": "https://open.spotify.com/track/0r6CB4zVdoH4ejbtRV61yS"

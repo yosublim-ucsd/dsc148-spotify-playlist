@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Taygeta Code",
+        "url": "https://open.spotify.com/album/0cdNUFprRI0ke2uzOL7uqJ"
+      },
+      "artists": [
+        {
+          "name": "J:Kenzo",
+          "url": "https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/3GakeyWQJbWZc0s0PMGght"
+    },
+    {
+      "album": {
         "name": "The Orange Tree",
         "url": "https://open.spotify.com/album/774FnnGNgn7cC9eweO8oLw"
       },
@@ -114,6 +132,68 @@
       "duration_ms": 206357,
       "name": "Clear Your Head",
       "url": "https://open.spotify.com/track/1naTCLL7Zo2SyqqvR53l4B"
+    },
+    {
+      "album": {
+        "name": "Competition",
+        "url": "https://open.spotify.com/album/6ETGOvIFKT7MQw8hiZyRmZ"
+      },
+      "artists": [
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
+        },
+        {
+          "name": "J:Kenzo",
+          "url": "https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360002,
+      "name": "Competition",
+      "url": "https://open.spotify.com/track/3LWEhJL5SNZG0Qur9VRd9V"
+    },
+    {
+      "album": {
+        "name": "Congi Selection",
+        "url": "https://open.spotify.com/album/0S3IJ7jEufwjkMYfFuuu0n"
+      },
+      "artists": [
+        {
+          "name": "Congi",
+          "url": "https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352653,
+      "name": "Cryptic",
+      "url": "https://open.spotify.com/track/0EiQqkpqOxGJOEZ1ynRcoi"
+    },
+    {
+      "album": {
+        "name": "Fade Into Dust / Departure",
+        "url": "https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8"
+      },
+      "artists": [
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
+        },
+        {
+          "name": "Captivate",
+          "url": "https://open.spotify.com/artist/6ULclooHG0oQ6TOPq8Ytuo"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276705,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/5XeFM8x0mi2ftMvIdUDWto"
     },
     {
       "album": {
@@ -619,6 +699,32 @@
     },
     {
       "album": {
+        "name": "Skankers Chant Ep",
+        "url": "https://open.spotify.com/album/4ygHPcN9QPc0Lru9rqaWfZ"
+      },
+      "artists": [
+        {
+          "name": "Numa Crew",
+          "url": "https://open.spotify.com/artist/1tov99lRWyoWgwcnrBFADL"
+        },
+        {
+          "name": "Lapo",
+          "url": "https://open.spotify.com/artist/1rtJkutyjtQ7yqtqc0aHPd"
+        },
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/5tGHJC8P1yydPdtYx1tgQ2"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282571,
+      "name": "Skankers Chant",
+      "url": "https://open.spotify.com/track/19vA1y6D7Te1UdMaIUayQI"
+    },
+    {
+      "album": {
         "name": "Slow Waves",
         "url": "https://open.spotify.com/album/04y570E9mDBEKHOMHvMSx6"
       },
@@ -706,6 +812,24 @@
       "duration_ms": 253062,
       "name": "Tales from the Crypt",
       "url": "https://open.spotify.com/track/5UzDfhUtdORIjbIYvL0dxs"
+    },
+    {
+      "album": {
+        "name": "Rising High LP",
+        "url": "https://open.spotify.com/album/0vPyyzADg89DBctsSGHh09"
+      },
+      "artists": [
+        {
+          "name": "Tubby Isiah",
+          "url": "https://open.spotify.com/artist/26Tc8d2xASJ8okDwxRFNzu"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250579,
+      "name": "Tellaman",
+      "url": "https://open.spotify.com/track/0lZORz16mfVk3NW58tguYS"
     },
     {
       "album": {

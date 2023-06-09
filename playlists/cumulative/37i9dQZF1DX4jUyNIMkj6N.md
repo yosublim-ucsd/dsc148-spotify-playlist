@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-204 songs - 12 hr 43 min
+206 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Better Than Gold \- Live](https://open.spotify.com/track/75rKtYA2EhYSfVHty8C50Z) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Better Than Gold \(Live\)](https://open.spotify.com/album/65sHTY5qAGfbLLYQBZ9dep) | 4:00 | 2021-12-02 | 2022-07-29 |
 | [Big Bad Good](https://open.spotify.com/track/3KmLD1pdsVYGBO56FckkgJ) | [My Bubba](https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d) | [Big Bad Good](https://open.spotify.com/album/38N3wbSL5ERtnegxWGIzvu) | 3:41 | 2021-12-02 | 2022-07-27 |
 | [Birthday](https://open.spotify.com/track/2yhPIn9HwI88aw4H7ZFrw0) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Birthday](https://open.spotify.com/album/1Glahl7MCjz4HFgurt3GCP) | 4:07 | 2022-06-09 | 2022-07-29 |
-| [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 | 2022-07-14 |  |
+| [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 | 2022-07-14 | 2023-06-09 |
 | [Bluebelle mountain](https://open.spotify.com/track/7dCjkIv4HK8V8QxfTVQWCa) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right pt\. II](https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK) | 3:20 | 2021-12-02 | 2022-07-29 |
 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 | 2023-04-27 |  |
 | [Boy from the North](https://open.spotify.com/track/517ubeor9CZCN27nif3Bev) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 4:44 | 2021-12-02 | 2022-07-29 |
@@ -74,7 +74,7 @@
 | [Gardening](https://open.spotify.com/track/6FMCje8dWYwkFOc7Gvu3r0) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening](https://open.spotify.com/album/1C10FGeprVt3pDvCjYHfZW) | 4:43 | 2023-02-02 | 2023-04-15 |
 | [Ghost Mess](https://open.spotify.com/track/4CAHPzqVyOWgyd90sDP6l8) | [Kristofer Åström](https://open.spotify.com/artist/36bgHoykshtpmokPxiGfBA) | [The Story Of A Heart's Decay](https://open.spotify.com/album/0lEEu58Jb4KWB59ktpsija) | 4:26 | 2021-12-02 | 2022-07-29 |
 | [Ghosts in Our Hearts](https://open.spotify.com/track/0jMWzegQgiVuGrIJT6oh5a) | [Jacoo](https://open.spotify.com/artist/65NrBzD3Jnf1iqbDjuUYjD), [Franziskamaze](https://open.spotify.com/artist/78jrTPJmSEGjZrsMdCkkBs) | [Ghosts in Our Hearts](https://open.spotify.com/album/56mxck2QGvQf6MXcwQDgaE) | 3:39 | 2022-01-20 | 2022-07-28 |
-| [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 | 2022-03-24 |  |
+| [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 | 2022-03-24 | 2023-06-09 |
 | [Go Out Nowhere](https://open.spotify.com/track/22nH0JD1DcxEXHHOqCi0LH) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Go Out Nowhere](https://open.spotify.com/album/05nro1ny6WHg3lBY7uscLG) | 5:26 | 2021-12-02 | 2022-07-29 |
 | [Gold Laces](https://open.spotify.com/track/6Exl7gEv9PBSHl4hutQVf4) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/4IxrxrXQ9mSiHWXCRieOhD) | 3:40 | 2021-12-02 | 2022-07-29 |
 | [Gold Laces](https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 3:40 | 2022-07-14 |  |
@@ -99,6 +99,7 @@
 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 | 2022-07-14 |  |
 | [I'll Be Here for You](https://open.spotify.com/track/38FPp7vjhk1Z6YXiaxfBJr) | [Cocktail Slippers](https://open.spotify.com/artist/6vNj2NchLaDiqBH8nBAF2g) | [I'll Be Here for You](https://open.spotify.com/album/3PgiPyzy6glPCRBRsjhXpK) | 4:25 | 2021-12-02 | 2022-07-27 |
 | [Imposter](https://open.spotify.com/track/7aqZhafy8ORlgO7wHYixFO) | [Tommy Tokyo](https://open.spotify.com/artist/5s3vQbwoPdhIvMffVJbOya) | [Imposter](https://open.spotify.com/album/3cer7gQMvhKVZKcMc45sbA) | 3:57 | 2022-07-07 | 2022-12-24 |
+| [In The Silence](https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y) | [Everything We're Not](https://open.spotify.com/artist/55aF2K7WSCptXLM1vmObKz), [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [In The Silence](https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL) | 2:47 | 2023-06-08 |  |
 | [June](https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [June](https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM) | 3:38 | 2022-07-14 | 2022-10-25 |
 | [Kaleidoscope Dream](https://open.spotify.com/track/7AA7OKI46YdQ64gXSDBQv6) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS) | [Kaleidoscope Dream](https://open.spotify.com/album/09UeNYXrcwTA0CFIx2P6c3) | 3:39 | 2021-12-02 | 2022-07-29 |
 | [Kings and Aces](https://open.spotify.com/track/00FjPtTqy9JtPsjwVJMRxw) | [The White Album](https://open.spotify.com/artist/5JhaDdCfVwK1YJciYM7s6i) | [The Quiet Strum](https://open.spotify.com/album/4VHQklPYm6aSSbeRalAi62) | 2:49 | 2021-12-02 | 2022-07-19 |
@@ -113,6 +114,7 @@
 | [Love is All](https://open.spotify.com/track/3gVuz4Bhvxb2J0iGSH8bCZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2W2Na2SJuf7jqvjNuSjh5J) | 4:15 | 2021-12-02 | 2022-07-29 |
 | [Love is All](https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 4:15 | 2022-07-14 |  |
 | [Love Your Mother](https://open.spotify.com/track/3XKMY7tAFiepGRXI2PVAiA) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Love Your Mother](https://open.spotify.com/album/6MsMR1tPUtwUG3COCAKKZW) | 3:29 | 2022-12-01 | 2023-02-06 |
+| [Magic Stone](https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Magic Stone](https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS) | 3:33 | 2023-06-08 |  |
 | [Modern Drift](https://open.spotify.com/track/2BFL0kBinCKVMCwJolJnKj) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5rHl0fZhid0XgWWwS9amnO) | 4:53 | 2021-12-02 | 2022-07-17 |
 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 | 2022-07-14 |  |
 | [Moon](https://open.spotify.com/track/6YebT1WtZUxbF8gzbQULlC) | [Vilde Bye](https://open.spotify.com/artist/2Z3WutA2qjveq0AHqoJ6fC) | [Moon](https://open.spotify.com/album/6Ng5W9DCk4r5SesHpInNPN) | 3:16 | 2022-03-24 | 2022-07-29 |

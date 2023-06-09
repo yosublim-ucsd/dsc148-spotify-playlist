@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 170937,
       "name": "Divide",
       "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
@@ -6990,6 +6990,24 @@
       "duration_ms": 145454,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4IQqF0UvqlzWaLcG22sOBG"
+    },
+    {
+      "album": {
+        "name": "Runner Up",
+        "url": "https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg"
+      },
+      "artists": [
+        {
+          "name": "Tejy",
+          "url": "https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172275,
+      "name": "Runner Up",
+      "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
     },
     {
       "album": {

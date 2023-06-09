@@ -1,12 +1,12 @@
 {
   "description": "Jennie's tv idol era is about to begin!",
-  "num_followers": 2055321,
+  "num_followers": 2055511,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWJmMGQxOWE4OTU4NzJlOTkwYjNhMTY2MDQxMjJhYjFkM2MyNWQy",
+  "snapshot_id": "MCw0OGI0YzMwMTIyZmQ4YmFkODJjNDhiOGQzMDE3YzczZTkzYWI2NGMw",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -135,6 +135,26 @@
       "duration_ms": 180933,
       "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
       "url": "https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE"
+    },
+    {
+      "added_at": "2023-06-08 03:17:36",
+      "album": {
+        "name": "reputation Stadium Tour Surprise Song Playlist",
+        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
+      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -718,6 +738,10 @@
         {
           "name": "Jimin",
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         },
         {
           "name": "JVKE",

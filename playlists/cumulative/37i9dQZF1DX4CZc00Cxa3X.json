@@ -4070,7 +4070,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 468000,
       "name": "The Signals From the Abyss",
       "url": "https://open.spotify.com/track/6yJWaFqw7Umwe3LYpMjgyh"
@@ -4704,6 +4704,24 @@
       "duration_ms": 392090,
       "name": "winter fingertips",
       "url": "https://open.spotify.com/track/6gJAiEEQ21ayJHERPL0qYJ"
+    },
+    {
+      "album": {
+        "name": "Ben Bondy",
+        "url": "https://open.spotify.com/album/6Lnw0MWwRAmOQ0rbaF9npw"
+      },
+      "artists": [
+        {
+          "name": "Ben Bondy",
+          "url": "https://open.spotify.com/artist/7iWASaTHnteWNmrXH3IDCg"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259226,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3ONVbdiqc73LTVnLQhfQPj"
     },
     {
       "album": {

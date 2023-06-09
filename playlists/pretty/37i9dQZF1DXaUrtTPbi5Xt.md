@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUrtTPbi5Xt.md) - [plain]
 
 > ¡Y así suena..\. Julión Álvarez Y Su Norteño Banda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,451 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,929 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUrtTPbi5Xt.md) - [plain]
 | 59 | [Los Tocayos](https://open.spotify.com/track/1lXJivTnyE0SoqJKDsiuQW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC), [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 3:28 |
 | 60 | [Perro De Cadena](https://open.spotify.com/track/6roMf2I4QiIj6otqXP1SZi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corridos](https://open.spotify.com/album/0dAb8o8AA2xIaFrXJ0skzy) | 2:30 |
 
-Snapshot ID: `MCxlOGNkMzNlZjA4MWM3MTQ2ZTNmMjBkNTNlMTBjODc1YThlY2Q4YmZj`
+Snapshot ID: `MCw3NzYzYmFmMWZhOTVhYjY0OTEwZjcyODIwOTdmZWQ5Y2ExOThiMTAz`

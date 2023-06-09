@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Ski Aggu, Joost, Otto Waalkes\n",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: PinkPantheress\n",
   "name": "me right now",
   "tracks": [
     {
@@ -988,6 +988,24 @@
       "duration_ms": 158147,
       "name": "anders",
       "url": "https://open.spotify.com/track/3BOV00do1gP13wjcqsNDBg"
+    },
+    {
+      "album": {
+        "name": "Angel (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123820,
+      "name": "Angel (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
     },
     {
       "album": {
@@ -6594,7 +6612,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 102556,
       "name": "GOOD LOYAL THOTS",
       "url": "https://open.spotify.com/track/6PadQidABni2peo3kYKW0M"
@@ -6936,7 +6954,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 137851,
       "name": "HAUNTED",
       "url": "https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb"
@@ -8302,7 +8320,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 110347,
       "name": "Ipanema",
       "url": "https://open.spotify.com/track/1JCQBstFdEqihwKhh8QVUV"
@@ -9849,6 +9867,24 @@
     },
     {
       "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "album": {
         "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
         "url": "https://open.spotify.com/album/5HLuIoXA2NY0FRR033c3or"
       },
@@ -10285,6 +10321,28 @@
     },
     {
       "album": {
+        "name": "miami.mp3",
+        "url": "https://open.spotify.com/album/1Gmrl4Z2cEFCmHjTDbxAyw"
+      },
+      "artists": [
+        {
+          "name": "Monk",
+          "url": "https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170917,
+      "name": "miami.mp3",
+      "url": "https://open.spotify.com/track/6q7tGkXqGhLAv3NDT453wO"
+    },
+    {
+      "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
       },
@@ -10656,6 +10714,24 @@
       "duration_ms": 184137,
       "name": "MOODSWINGS",
       "url": "https://open.spotify.com/track/2J579Mufs2FmfvqbOmICLw"
+    },
+    {
+      "album": {
+        "name": "moodswings",
+        "url": "https://open.spotify.com/album/4CRjLDpMjTzPkUMhhXztPk"
+      },
+      "artists": [
+        {
+          "name": "TJARK",
+          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194057,
+      "name": "moodswings",
+      "url": "https://open.spotify.com/track/44jGwsGD56uNZQQqMPkPyB"
     },
     {
       "album": {
@@ -12380,7 +12456,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 110078,
       "name": "paranoid (ayo)",
       "url": "https://open.spotify.com/track/1U8nyNKqFMnR2GXWmwudM1"
@@ -13731,6 +13807,24 @@
     },
     {
       "album": {
+        "name": "SchwippSchwapp",
+        "url": "https://open.spotify.com/album/63vum5eeRhs9EDkyVEH9kg"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190250,
+      "name": "SchwippSchwapp",
+      "url": "https://open.spotify.com/track/2BfeKcPnZaqA1KRR0kgejS"
+    },
+    {
+      "album": {
         "name": "Odyssee",
         "url": "https://open.spotify.com/album/4WSk2tUkJ3neziQQgW1xBO"
       },
@@ -14482,6 +14576,28 @@
       "duration_ms": 138533,
       "name": "Sommergewitter",
       "url": "https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ"
+    },
+    {
+      "album": {
+        "name": "sommernacht",
+        "url": "https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135320,
+      "name": "sommernacht",
+      "url": "https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI"
     },
     {
       "album": {
@@ -16684,7 +16800,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 163447,
       "name": "Vatos Locos",
       "url": "https://open.spotify.com/track/6gF0SzgjzeYSriubXBGThr"
@@ -16866,7 +16982,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 189490,
       "name": "Veuve",
       "url": "https://open.spotify.com/track/6Rf0Rg1UgoBj0zoGyoAcSW"
@@ -16884,7 +17000,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 141176,
       "name": "vielleicht in einem jahr",
       "url": "https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5"
@@ -18450,6 +18566,32 @@
       "duration_ms": 137837,
       "name": "Zelten auf Kies",
       "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
+    },
+    {
+      "album": {
+        "name": "Zimmer",
+        "url": "https://open.spotify.com/album/30TnZSBX3cjY9FIWGPUYCX"
+      },
+      "artists": [
+        {
+          "name": "Akutkarl",
+          "url": "https://open.spotify.com/artist/2vPC9V7lUTVG0iGwztvWWz"
+        },
+        {
+          "name": "DJ Test\u00f6",
+          "url": "https://open.spotify.com/artist/5IDfYJZqdTt1pnOyol6JIJ"
+        },
+        {
+          "name": "boyscout xlr",
+          "url": "https://open.spotify.com/artist/5vuOY5kwQCOi3UNfo5mUYT"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174054,
+      "name": "Zimmer",
+      "url": "https://open.spotify.com/track/72KizwZEGRXuAl2heIp4NF"
     },
     {
       "album": {

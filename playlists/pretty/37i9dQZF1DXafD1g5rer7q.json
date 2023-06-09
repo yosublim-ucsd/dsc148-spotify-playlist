@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 352332,
+  "num_followers": 352475,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGEyYTA1YjZhZDNmZTBhZGFhY2YzMTQ1MTNkODk1MWI4ZGRkNWFk",
+  "snapshot_id": "MCw2Nzc1ZmFlMmI0MzkzYWUzODNmMzJlZDFlNjZjYjM0ZWI5NWIwMGVm",
   "tracks": [
     {
       "added_at": "2023-06-01 16:22:38",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Peanut Butter Jelly",
+      "url": "https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"
+    },
+    {
+      "added_at": "2023-06-01 16:22:38",
+      "album": {
         "name": "Not So Bad (feat. Emie)",
         "url": "https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 153696,
       "name": "Not So Bad (feat. Emie)",
       "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
-    },
-    {
-      "added_at": "2023-06-01 16:22:38",
-      "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Peanut Butter Jelly",
-      "url": "https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"
     },
     {
       "added_at": "2023-06-01 16:22:38",
@@ -707,6 +707,30 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
+        "name": "Party Shaker",
+        "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
+      },
+      "artists": [
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "Nicco",
+          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
+        }
+      ],
+      "duration_ms": 159052,
+      "name": "Party Shaker",
+      "url": "https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4"
+    },
+    {
+      "added_at": "2023-06-01 16:22:38",
+      "album": {
         "name": "You Don't Know Me",
         "url": "https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B"
       },
@@ -747,30 +771,6 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "Party Shaker",
-        "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
-      },
-      "artists": [
-        {
-          "name": "R.I.O.",
-          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        },
-        {
-          "name": "Nicco",
-          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
-        }
-      ],
-      "duration_ms": 159052,
-      "name": "Party Shaker",
-      "url": "https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4"
-    },
-    {
-      "added_at": "2023-06-01 16:22:38",
-      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 140698,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
-    },
-    {
-      "added_at": "2023-06-01 16:22:38",
-      "album": {
         "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 230400,
       "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
+    },
+    {
+      "added_at": "2023-06-01 16:22:38",
+      "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 140698,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
     },
     {
       "added_at": "2023-06-01 16:22:38",
@@ -943,30 +943,6 @@
     {
       "added_at": "2023-06-01 16:22:38",
       "album": {
-        "name": "Alone Again (feat. Afrojack & Mougleta)",
-        "url": "https://open.spotify.com/album/73fglkrm4TDlCAcIepuB8p"
-      },
-      "artists": [
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Mougleta",
-          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Alone Again (feat. Afrojack & Mougleta)",
-      "url": "https://open.spotify.com/track/1RwfArdUM01AISnxkpayMc"
-    },
-    {
-      "added_at": "2023-06-01 16:22:38",
-      "album": {
         "name": "The Mack",
         "url": "https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 167038,
       "name": "The Mack",
       "url": "https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ"
+    },
+    {
+      "added_at": "2023-06-01 16:22:38",
+      "album": {
+        "name": "Alone Again (feat. Afrojack & Mougleta)",
+        "url": "https://open.spotify.com/album/73fglkrm4TDlCAcIepuB8p"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Alone Again (feat. Afrojack & Mougleta)",
+      "url": "https://open.spotify.com/track/1RwfArdUM01AISnxkpayMc"
     },
     {
       "added_at": "2023-06-01 16:22:38",

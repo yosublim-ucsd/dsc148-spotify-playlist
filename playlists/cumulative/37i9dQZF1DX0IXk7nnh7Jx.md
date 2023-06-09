@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-334 songs - 20 hr 27 min
+335 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [I Want To Know](https://open.spotify.com/track/0FRQsErh58lld5YhZ9vcvA) | [The Eagle and Child](https://open.spotify.com/artist/4K8QJRq02NAwriaKMR0wIj) | [I Want To Know](https://open.spotify.com/album/1UbiBzeNPL2XVmYSDtaS38) | 3:31 | 2020-12-18 | 2022-07-27 |
 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2023-02-19 |  |
 | [I'm Healing](https://open.spotify.com/track/3ivIpARkgoFfCnxREhJRya) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Lex Buckley](https://open.spotify.com/artist/6KezKjrMeCCmU9U1T2lBON), [Jared Grant](https://open.spotify.com/artist/7ngm4D0XEn5TpywtBtkCWc) | [I'm Healing](https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0) | 5:17 | 2023-02-19 | 2023-04-22 |
-| [If It Comes From You](https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [If It Comes From You](https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA) | 4:54 | 2023-02-24 |  |
+| [If It Comes From You](https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [If It Comes From You](https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA) | 4:54 | 2023-02-24 | 2023-06-09 |
 | [In the Valley](https://open.spotify.com/track/1mEREMPGZy8BzbNr7FinQ4) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [In the Valley](https://open.spotify.com/album/5yTIiQdHlCogJhpPqfH5Sh) | 4:53 | 2020-12-18 | 2022-07-29 |
 | [Island](https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Island](https://open.spotify.com/album/6xYY34SDgAPg308e965q0H) | 4:34 | 2020-12-18 | 2023-02-19 |
 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 | 2020-12-18 | 2023-02-19 |
@@ -154,6 +154,7 @@
 | [It's a Yes](https://open.spotify.com/track/2mjjLHHQW55Y5kw6Ugfoc2) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [It's a Yes](https://open.spotify.com/album/0HEQDcYpmf87RJRAS19FFn) | 3:19 | 2023-02-21 | 2023-03-25 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/1MzsDT85FGT7NDwyc6EndI) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Wilder Years](https://open.spotify.com/album/6IljQe2zOTrM6NQpKfmrOb) | 3:24 | 2020-12-18 | 2022-07-26 |
 | [Jesus Always](https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Jesus Always](https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u) | 4:44 | 2023-02-19 |  |
+| [Jesus can Save them All](https://open.spotify.com/track/2ABZbbgUl8zchUpK6LO94R) | [Make a Joyful Noisee](https://open.spotify.com/artist/31gaGlNh5MtYSsgPTksOgM) | [Jesus can Save them All](https://open.spotify.com/album/6ZLwEJfvu1uNoxKmcCkswu) | 4:33 | 2023-04-21 |  |
 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 | 2023-04-07 |  |
 | [Just Like In Heaven](https://open.spotify.com/track/4tx2oRqJFOEuwye6C1FpgV) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Just Like In Heaven](https://open.spotify.com/album/3tmfiGss6xeKIiAmn4nJgW) | 4:56 | 2023-04-07 |  |
 | [Just Wondering](https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Wilder Wonderland](https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF) | 3:40 | 2023-02-19 |  |

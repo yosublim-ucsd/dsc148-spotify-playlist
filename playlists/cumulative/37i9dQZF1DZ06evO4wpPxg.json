@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 234293,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/646Yt78fgHq9FC6J9V57Ph"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 127338,
       "name": "Banjo Instrumental",
       "url": "https://open.spotify.com/track/3fMZpy5ChgQ0YxNMsjz0fp"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 281293,
       "name": "Cincinnati Flow Rag",
       "url": "https://open.spotify.com/track/2p8WdZPvblhbehUGrqnnVY"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 283106,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Demons & Angels: The Ultimate Collection, Pt. 2",
+        "url": "https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167508,
+      "name": "Georgia Camp Meeting",
+      "url": "https://open.spotify.com/track/2Ku1VrPknZg3eZcMdlLcSU"
+    },
+    {
+      "album": {
         "name": "Demons & Angels - the Music of Rev. Gary Davis",
         "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 243440,
       "name": "Great Change Since I Been Born",
       "url": "https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 289134,
       "name": "I Will Do My Last Singing In This Land Somewhere - Live",
       "url": "https://open.spotify.com/track/7BAQwosh8trsBlifQL83hk"
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 222200,
       "name": "I Won't Be Back No More - Live At The Newport Folk Festival 1959 - 1964",
       "url": "https://open.spotify.com/track/7j9BzjJNU1oMXlSnrYT1kQ"
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 286426,
       "name": "If I Had My Way",
       "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 170826,
       "name": "Marine Band",
       "url": "https://open.spotify.com/track/3PmkzxGGW4bJOhTyxyD3yY"
@@ -3148,7 +3166,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 243600,
       "name": "Samson And Delilah",
       "url": "https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV"
@@ -3238,7 +3256,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 180906,
       "name": "Seven Sisters",
       "url": "https://open.spotify.com/track/6jGGhFZ74CYhQ0DVGBWYMj"
@@ -3940,7 +3958,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"
@@ -3994,7 +4012,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Twelve Gates To The City",
       "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"

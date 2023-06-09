@@ -3701,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "MAMORU MIYANO presents M&M REMIX4",
+        "url": "https://open.spotify.com/album/36kgjVFuVHBa4PUuHZbNBx"
+      },
+      "artists": [
+        {
+          "name": "Mamoru Miyano",
+          "url": "https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254586,
+      "name": "LAST DANCE(Maozon REMIX)",
+      "url": "https://open.spotify.com/track/6lrsni226HYrxHHx3BuBje"
+    },
+    {
+      "album": {
         "name": "ENGING THEME SONG FROM TV SERIES \u201dPRINCESS OF THE BIBLIOPHILE\u201d",
         "url": "https://open.spotify.com/album/720ybDM2QcbIIgt5DyVJVg"
       },
@@ -6756,7 +6774,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 271622,
       "name": "Uni-Verse",
       "url": "https://open.spotify.com/track/0bJIoYV4eotOGrdKOgjeHj"
@@ -6922,7 +6940,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 297733,
       "name": "wana (Rearrange)",
       "url": "https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f"
@@ -7112,7 +7130,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 254838,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
@@ -8020,7 +8038,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 248738,
       "name": "\u3081\u3056\u305b\u30dd\u30b1\u30e2\u30f3\u30de\u30b9\u30bf\u30fc -with my friends - from THE FIRST TAKE",
       "url": "https://open.spotify.com/track/0iuwg67YGJihSZlqbUMG4L"
@@ -8726,6 +8744,24 @@
       "duration_ms": 218233,
       "name": "\u30b5\u30a4\u30ec\u30f3\u30c8\u30de\u30a4\u30ce\u30ea\u30c6\u30a3\u30fc",
       "url": "https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30e0\u30e9\u30a4\u30cf\u30fc\u30c8(Some Like It Hot!!) -New Version-",
+        "url": "https://open.spotify.com/album/64UfMDi2h1SPbZH0Btb857"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198836,
+      "name": "\u30b5\u30e0\u30e9\u30a4\u30cf\u30fc\u30c8(Some Like It Hot!!) - New Version -",
+      "url": "https://open.spotify.com/track/4kAAFbY5pyUCgRtxxjysPM"
     },
     {
       "album": {
@@ -9676,6 +9712,44 @@
       "duration_ms": 259200,
       "name": "\u30df\u30e2\u30b6",
       "url": "https://open.spotify.com/track/7oSvz1fNg3dcm5JVN4irN8"
+    },
+    {
+      "album": {
+        "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u4f1d\u8aac/\u6d41\u308c\u661f\u3078",
+        "url": "https://open.spotify.com/album/5MdWVbXeu39oHNRJAiINiv"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos",
+          "url": "https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3(CV:\u4e09\u77f3\u7434\u4e43)",
+          "url": "https://open.spotify.com/artist/0vayXkaNmY0ss9VG3NS9WS"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ad\u30e5\u30ea\u30fc(CV:\u91d1\u5143\u5bff\u5b50)",
+          "url": "https://open.spotify.com/artist/4NpZScinftidudpPSy6jNC"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ba(CV:\u4f50\u85e4\u5229\u5948)",
+          "url": "https://open.spotify.com/artist/3e71gWgrpcqofCufn94m8P"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30b8\u30e5\u30d4\u30bf\u30fc(CV:\u5c0f\u6e05\u6c34\u4e9c\u7f8e)",
+          "url": "https://open.spotify.com/artist/5gifeFylr4hLNLl9IclZCj"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30f4\u30a3\u30fc\u30ca\u30b9(CV:\u4f0a\u85e4 \u9759)",
+          "url": "https://open.spotify.com/artist/2oHHu9xblrnbBmRqEY1QDe"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185141,
+      "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u4f1d\u8aac",
+      "url": "https://open.spotify.com/track/64QWRvVuZet8Ov3mCNM7yR"
     },
     {
       "album": {
@@ -11658,6 +11732,40 @@
       "duration_ms": 275680,
       "name": "\u6c34\u93e1\u306e\u4e16\u754c",
       "url": "https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM"
+    },
+    {
+      "album": {
+        "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u4f1d\u8aac/\u6d41\u308c\u661f\u3078",
+        "url": "https://open.spotify.com/album/5MdWVbXeu39oHNRJAiINiv"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos",
+          "url": "https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe"
+        },
+        {
+          "name": "\u30b9\u30ea\u30fc\u30e9\u30a4\u30c4",
+          "url": "https://open.spotify.com/artist/6RMcwW6VGECjqfKTPTRZSn"
+        },
+        {
+          "name": "\u661f\u91ce\u5149(CV.\u4e95\u4e0a\u9ebb\u91cc\u5948)",
+          "url": "https://open.spotify.com/artist/2JQNwbQUfwlZ39EHAysZDD"
+        },
+        {
+          "name": "\u5927\u6c17\u5149(CV.\u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/0ceOybSIg6DzdoT4jnZ6Ml"
+        },
+        {
+          "name": "\u591c\u5929\u5149(CV.\u4f50\u5009\u7dbe\u97f3)",
+          "url": "https://open.spotify.com/artist/6sgYkuPgjdV9fTgE5kCevR"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235574,
+      "name": "\u6d41\u308c\u661f\u3078",
+      "url": "https://open.spotify.com/track/4H7BFIbTKW66WcCbZZU9Hd"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
   "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: O.lew",
-  "num_followers": 20756,
+  "num_followers": 20797,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzdlZjVkOTljZTNhN2UyNTkwYjQzNzYzNTkzYWE0MDY1ODkzZmM3",
+  "snapshot_id": "MCxiOGJhM2RmMjZiMDM2NzcwMjA4MGVkYjQ2ZGQ5YTMzNDliM2M3MjZj",
   "tracks": [
+    {
+      "added_at": "2023-06-08 12:00:00",
+      "album": {
+        "name": "V\u01b0\u1eddn Hoa Con C\u00e1 (feat. Ng\u1eafn)",
+        "url": "https://open.spotify.com/album/5c2sPcxLeCUn0kbwhg0A0U"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1eafn",
+          "url": "https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P"
+        },
+        {
+          "name": "O.lew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        }
+      ],
+      "duration_ms": 234947,
+      "name": "V\u01b0\u1eddn Hoa Con C\u00e1 (feat. Ng\u1eafn)",
+      "url": "https://open.spotify.com/track/1YbrWGgFMzIoO6FP1vN975"
+    },
     {
       "added_at": "2023-06-06 17:00:00",
       "album": {
@@ -231,6 +251,22 @@
       "duration_ms": 243934,
       "name": "Real Love - The Heroes Version",
       "url": "https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8"
+    },
+    {
+      "added_at": "2023-06-08 12:00:00",
+      "album": {
+        "name": "H\u1eb9n G\u1eb7p Anh",
+        "url": "https://open.spotify.com/album/1KcIB1cShYTGzjmChD6noF"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng Y\u1ebfn Chibi",
+          "url": "https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "H\u1eb9n G\u1eb7p Anh",
+      "url": "https://open.spotify.com/track/64f07abwvPcAe6zzpHYeKy"
     },
     {
       "added_at": "2023-06-06 17:00:00",
@@ -739,26 +775,6 @@
     {
       "added_at": "2023-06-06 17:00:00",
       "album": {
-        "name": "G\u1eb7p Nh\u01b0ng Kh\u00f4ng \u1ede L\u1ea1i",
-        "url": "https://open.spotify.com/album/2cCbF4TfEyyk4nldCGvXNR"
-      },
-      "artists": [
-        {
-          "name": "Hi\u1ec1n H\u1ed3",
-          "url": "https://open.spotify.com/artist/6ZmHJcmCcc9X2sAyz6cHng"
-        },
-        {
-          "name": "Vuong Anh Tu",
-          "url": "https://open.spotify.com/artist/3OeYidiG0MAcGmiSwTHZf6"
-        }
-      ],
-      "duration_ms": 276777,
-      "name": "G\u1eb7p Nh\u01b0ng Kh\u00f4ng \u1ede L\u1ea1i",
-      "url": "https://open.spotify.com/track/6jvCnAiPiiy5OORy8x4hRI"
-    },
-    {
-      "added_at": "2023-06-06 17:00:00",
-      "album": {
         "name": "CONG",
         "url": "https://open.spotify.com/album/72AOO32yF86LlSFWH1uquV"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 164266,
       "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
       "url": "https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY"
-    },
-    {
-      "added_at": "2023-06-06 17:00:00",
-      "album": {
-        "name": "LINK",
-        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
-      },
-      "artists": [
-        {
-          "name": "Ho\u00e0ng Th\u00f9y Linh",
-          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "H\u1ea1 Ph\u1ecfm",
-      "url": "https://open.spotify.com/track/2lGGlexu72TnPQPUHd8NWt"
     },
     {
       "added_at": "2023-06-06 17:00:00",

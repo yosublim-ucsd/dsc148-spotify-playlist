@@ -4575,6 +4575,28 @@
     },
     {
       "album": {
+        "name": "Kemba Walker",
+        "url": "https://open.spotify.com/album/0vHmXJNuSKs3Tbgt811AMe"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152960,
+      "name": "Kemba Walker",
+      "url": "https://open.spotify.com/track/38kLHBjtWJaPXcyFhwRVtI"
+    },
+    {
+      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -8558,7 +8580,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 147499,
       "name": "Quiz\u00e1s, Tal Vez",
       "url": "https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0"

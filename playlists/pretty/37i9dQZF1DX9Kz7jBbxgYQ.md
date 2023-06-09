@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Kaifi Khalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,622 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,844 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 79 | [Titli](https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Titli](https://open.spotify.com/album/5U88eg0vPC1N9GbdQ9MsUG) | 2:35 |
 | 80 | [Shola](https://open.spotify.com/track/2wMF8mtqMtQbROrsyCca7p) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Shola](https://open.spotify.com/album/4UA8orPLg78snykTx9Sn1N) | 2:33 |
 
-Snapshot ID: `MCxlYTg5YjY1NjRiYjIxZDZmOGQ4ZDg3ZDQ0MjUxZTYwNWJkYjEwZjhl`
+Snapshot ID: `MCwwYzkyOWU1MmJjMTg3MzIxZGJiYjljODM2NWNjZWI5YjBlNzU1Mjdl`

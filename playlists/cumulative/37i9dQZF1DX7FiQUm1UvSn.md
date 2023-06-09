@@ -4,13 +4,14 @@
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-117 songs - 6 hr 15 min
+119 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21 Guns](https://open.spotify.com/track/0lczO04vbk2ZiNvAqzUUQ0) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [21 Guns](https://open.spotify.com/album/2bhmc2HWr3SFTNKpGg9fxw) | 4:03 | 2023-01-13 | 2023-05-12 |
 | [A thousand Years \- Acoustic](https://open.spotify.com/track/57CxlA1lWjST9FEueqzvfT) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:18 | 2023-01-13 |  |
 | [All Falls Down](https://open.spotify.com/track/1hnSI4JaTQybQXqvzQX3nl) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [All Falls Down](https://open.spotify.com/album/2MnpnpFt5sqTHAQdWrK4V9) | 3:29 | 2023-01-13 |  |
+| [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 | 2023-06-08 |  |
 | [All Shook Up](https://open.spotify.com/track/5PYMu45h2MlZ3Pdqya8QGC) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [All Shook Up](https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR) | 1:44 | 2023-01-13 | 2023-05-12 |
 | [Angel](https://open.spotify.com/track/7lSdBy34Oxd06fK4KlaXVj) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Angel](https://open.spotify.com/album/6PzZNFS1QaobNN9MrnRDJh) | 3:15 | 2023-05-12 |  |
 | [Anyone](https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Anyone](https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8) | 2:52 | 2023-01-13 |  |
@@ -23,7 +24,8 @@
 | [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 | 2023-01-13 |  |
 | [Blanket On The Ground](https://open.spotify.com/track/1OisioJjA7Y2pM19yBf4jl) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Blanket On The Ground](https://open.spotify.com/album/373M8k23TiJ2QvysKoDuAo) | 3:33 | 2023-03-31 |  |
 | [Blinding Lights](https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Blinding Lights](https://open.spotify.com/album/7K77V3y6amFewbD01gZhby) | 3:37 | 2023-01-13 | 2023-05-12 |
-| [Blue Moon](https://open.spotify.com/track/2RwTeL5zb473lvRys6xtbZ) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Blue Moon](https://open.spotify.com/album/0luROvxmUzlDy7VwFRAw6D) | 2:04 | 2023-01-13 |  |
+| [Blue Moon](https://open.spotify.com/track/2RwTeL5zb473lvRys6xtbZ) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Blue Moon](https://open.spotify.com/album/0luROvxmUzlDy7VwFRAw6D) | 2:04 | 2023-01-13 | 2023-06-09 |
+| [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 | 2023-06-08 |  |
 | [Body like backroad](https://open.spotify.com/track/4ftzIVYZ1lhBiQO3vuUfq0) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Body like backroad](https://open.spotify.com/album/2Bg7RrVYb7rjo314fI5vkO) | 2:48 | 2023-01-13 |  |
 | [Breathe Me](https://open.spotify.com/track/14K7loEFfkISXmaIMeVTqL) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Breathe Me](https://open.spotify.com/album/3LKfvH0575rEfTQbhR0At8) | 3:14 | 2023-03-10 |  |
 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2023-01-13 |  |

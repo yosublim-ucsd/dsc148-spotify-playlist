@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-126 songs - 9 hr 4 min
+127 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Swan Lake \- Someone Rework](https://open.spotify.com/track/4PuyLqIsvrVA29KO3ktsvP) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE), [Darius Timmer](https://open.spotify.com/artist/450YE3kgC7YLb3hV7djIPk), [Dan Huijser](https://open.spotify.com/artist/6PymBeotbwOXRKsXjWRRah) | [Swan Lake \(Someone Rework\)](https://open.spotify.com/album/1CnLwouBrnGAqYbvaN8Q90) | 3:23 | 2022-09-15 | 2023-02-28 |
 | [Tell Me Who I Am](https://open.spotify.com/track/1OtO771VNXXuuijjFU0mbr) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Tell Me Who I Am](https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7) | 3:37 | 2022-10-13 | 2023-03-21 |
 | [Tempranillo](https://open.spotify.com/track/48KcLnGPfXDikD5Snv7q16) | [Corren Cavini](https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8) | [Tempranillo](https://open.spotify.com/album/2wJKMd7MSk2KB3JmlYfc4J) | 6:17 | 2022-09-15 | 2022-11-08 |
+| [The Sin and the Soul](https://open.spotify.com/track/42EGKEpKWWYpfaPVAwMmd9) | [Adani & Wolf](https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh) | [The Sin and the Soul](https://open.spotify.com/album/5gpNg3bQylhPG0za13Z7gz) | 6:38 | 2023-06-08 |  |
 | [The Whistle Song \- House Kitsuné America](https://open.spotify.com/track/7ENAbf0QGKnXWTy6gddq0G) | [Allen French](https://open.spotify.com/artist/7IMSmMHDPpZL0ZjOr8ssOj) | [Café del Mar Chillhouse Mix XI \(DJ Mix\)](https://open.spotify.com/album/3Xgc8kJPLq8Ck7a1BULNjf) | 4:06 | 2022-10-13 | 2022-11-13 |
 | [The Whistle Song \- House Kitsuné America](https://open.spotify.com/track/01HYlXXE8wpY22Za43ihzj) | [Allen French](https://open.spotify.com/artist/7IMSmMHDPpZL0ZjOr8ssOj) | [The Whistle Song \(House Kitsuné America\)](https://open.spotify.com/album/1X7DeddTvPUAbZqnbwTjFx) | 4:08 | 2022-09-15 | 2023-03-21 |
 | [Through The Night](https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 4:00 | 2022-09-15 |  |
@@ -125,7 +126,7 @@
 | [Tom's Bar](https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs) | 4:10 | 2022-09-15 |  |
 | [Too Hot, Too Cold](https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL) | [Frase](https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254), [SkiiTour](https://open.spotify.com/artist/5LVcxojBbX8xI4mGpQ5Zck) | [Too Hot, Too Cold](https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt) | 4:06 | 2022-09-15 |  |
 | [Too Many Questions \- Soble Remix](https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Humanice](https://open.spotify.com/artist/6FRbGY9J3Rz0lgIXD6xRAT), [Soble](https://open.spotify.com/artist/7fCe4NFHPsjmaW9qf4wvMR) | [Too Many Questions \(Remix\)](https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH) | 4:53 | 2022-09-15 |  |
-| [Torn Apart](https://open.spotify.com/track/7m9euwqyxRdTgPACE0E8T1) | [Fynn](https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m) | [Torn Apart](https://open.spotify.com/album/1pz8dFp7qIKS1yQKaFgGrG) | 3:27 | 2022-09-15 |  |
+| [Torn Apart](https://open.spotify.com/track/7m9euwqyxRdTgPACE0E8T1) | [Fynn](https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m) | [Torn Apart](https://open.spotify.com/album/1pz8dFp7qIKS1yQKaFgGrG) | 3:27 | 2022-09-15 | 2023-06-09 |
 | [twenty eight](https://open.spotify.com/track/2bBtXBTYsEkJnyNg8dtvrc) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 3:14 | 2022-09-15 | 2022-11-08 |
 | [Uncrazy](https://open.spotify.com/track/6IW8l6Uq0232scKqo1rLeR) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Uncrazy](https://open.spotify.com/album/1MbtuGudZpomEnpHJhbecV) | 3:51 | 2022-09-15 | 2022-11-08 |
 | [What Should I Do](https://open.spotify.com/track/5ottrg422qsSZyX7pVtuoL) | [Mike Rogers](https://open.spotify.com/artist/30iQozQQHxvlI4n6SoCs3c), [Abee](https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2) | [What Should I Do](https://open.spotify.com/album/4XGCfM4K2z1ksTnKj8vPhX) | 2:55 | 2022-09-15 | 2023-04-24 |

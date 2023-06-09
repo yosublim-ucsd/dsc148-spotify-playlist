@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe?si=6HholggeTlGOxkJ2lrHUEQ\">Tarryn Lamb</a>",
+  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs?si=uzV2N76IT_CvQADlCL8I7g\">Anz\u00e9lle</a>",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -374,6 +374,28 @@
       "duration_ms": 224524,
       "name": "Avontuur",
       "url": "https://open.spotify.com/track/4i8Ceyv4dclgqcdPExRQ4g"
+    },
+    {
+      "album": {
+        "name": "Awe",
+        "url": "https://open.spotify.com/album/0vor3nbu3il2HqFjQGujzi"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        },
+        {
+          "name": "Ou Diamond",
+          "url": "https://open.spotify.com/artist/2oOuI1GdXGYWiyhggP6Dlj"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206746,
+      "name": "Awe",
+      "url": "https://open.spotify.com/track/4w3TWQoTTonR74HwKMFHI5"
     },
     {
       "album": {
@@ -756,7 +778,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 192426,
       "name": "Braaf Soos 'n Boerboel",
       "url": "https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb"
@@ -963,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Skryf",
+        "url": "https://open.spotify.com/album/5RILCxoO757fglARK3Oe6c"
+      },
+      "artists": [
+        {
+          "name": "Thys Nortje",
+          "url": "https://open.spotify.com/artist/5YCtrXcG6TlraCCtWdksDA"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "Claudia",
+      "url": "https://open.spotify.com/track/4Vp6po6CiorPj3zcV28UCO"
+    },
+    {
+      "album": {
         "name": "Coco Pops en Kaas",
         "url": "https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1"
       },
@@ -974,7 +1014,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 242666,
       "name": "Coco Pops en Kaas",
       "url": "https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y"
@@ -2241,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "Hier Staan Ons Nou",
+        "url": "https://open.spotify.com/album/0Olcj5gwF5R1l6HxjJmN66"
+      },
+      "artists": [
+        {
+          "name": "Ruth",
+          "url": "https://open.spotify.com/artist/43Cmk2gCV7s1erB5VtXQbl"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "Hier Staan Ons Nou",
+      "url": "https://open.spotify.com/track/4i2py4zqO0pIYRFcQEcZy1"
+    },
+    {
+      "album": {
         "name": "Hierdie Is Nie Liefde Nie",
         "url": "https://open.spotify.com/album/2oqy6xdyCXRaiMiNqBKNdm"
       },
@@ -2418,7 +2476,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 196530,
       "name": "Hy's 'n Lekker Ou",
       "url": "https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO"
@@ -2436,7 +2494,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 244125,
       "name": "Iemand Anders",
       "url": "https://open.spotify.com/track/1vjDxCSoNL7D8Eq8qUCekg"
@@ -2620,7 +2678,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 175641,
       "name": "Johanna Van Saldanha",
       "url": "https://open.spotify.com/track/0JUVjsqRA2O0Ajy8Yb5x9A"
@@ -2902,6 +2960,24 @@
       "duration_ms": 209284,
       "name": "Klein Botteltjie Groot Gif",
       "url": "https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg"
+    },
+    {
+      "album": {
+        "name": "Klein W\u00eareld",
+        "url": "https://open.spotify.com/album/0ICYpf8GssQkw1ZjX0b10s"
+      },
+      "artists": [
+        {
+          "name": "Vrede",
+          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189759,
+      "name": "Klein W\u00eareld",
+      "url": "https://open.spotify.com/track/0JK74oz3Sn06CBG1vq3Ru8"
     },
     {
       "album": {
@@ -3351,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "Lawaaiwater",
+        "url": "https://open.spotify.com/album/2Cnck7kTfhwxttOIVDw71f"
+      },
+      "artists": [
+        {
+          "name": "Anz\u00e9lle",
+          "url": "https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198152,
+      "name": "Lawaaiwater",
+      "url": "https://open.spotify.com/track/71MTNDn8B3tBr0WVG0Jaj2"
+    },
+    {
+      "album": {
         "name": "LEKKER",
         "url": "https://open.spotify.com/album/6Zha4zIpiY2gg2yPsORPq1"
       },
@@ -3452,7 +3546,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 159798,
       "name": "Leuens Van Gisteraand",
       "url": "https://open.spotify.com/track/1XQmUXIsxslR9Rd8gK5SAt"
@@ -4371,6 +4465,28 @@
     },
     {
       "album": {
+        "name": "Loufi Flippen Loufi",
+        "url": "https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        },
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Oh La La",
+      "url": "https://open.spotify.com/track/25P45klCq8CfhgwnQ1i6ts"
+    },
+    {
+      "album": {
         "name": "Meet me in the middle",
         "url": "https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq"
       },
@@ -4473,6 +4589,24 @@
     },
     {
       "album": {
+        "name": "Ons Trein het vertrek",
+        "url": "https://open.spotify.com/album/77d9GpJr99fj5RNnu5mCyf"
+      },
+      "artists": [
+        {
+          "name": "Inspirasie Veelvoud",
+          "url": "https://open.spotify.com/artist/3r1BRjgeZHFN40DD6aWMMo"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201870,
+      "name": "Ons Trein het vertrek",
+      "url": "https://open.spotify.com/track/6zenfV5qEtnsGys6HaCkO8"
+    },
+    {
+      "album": {
         "name": "Ons Twee Genoeg (feat. Marissa)",
         "url": "https://open.spotify.com/album/6hInSb4NV8bhtdgblONeJG"
       },
@@ -4506,7 +4640,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 243541,
       "name": "Ontlaai",
       "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
@@ -4596,7 +4730,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 183000,
       "name": "Oud Geword",
       "url": "https://open.spotify.com/track/4uiF6f8SnK7Yxax8GNy6bz"
@@ -4820,7 +4954,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 251746,
       "name": "Rock 'n Roll Engel",
       "url": "https://open.spotify.com/track/3dBwHHI3ED1qDwU6lL9798"
@@ -5370,6 +5504,28 @@
       "duration_ms": 176860,
       "name": "Sonskyn",
       "url": "https://open.spotify.com/track/1qCuSf3gbjZ1A7msPrpcMx"
+    },
+    {
+      "album": {
+        "name": "Sonvanger",
+        "url": "https://open.spotify.com/album/1RS22lQ9GoL8xsZH47LkWM"
+      },
+      "artists": [
+        {
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+        },
+        {
+          "name": "Margot",
+          "url": "https://open.spotify.com/artist/30vK25jqn6NVBrXaju9tPo"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234070,
+      "name": "Sonvanger",
+      "url": "https://open.spotify.com/track/7LJR6hBvecUaoC0nzDk1WK"
     },
     {
       "album": {
@@ -6223,6 +6379,24 @@
     },
     {
       "album": {
+        "name": "Vlam In Die Wind",
+        "url": "https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205237,
+      "name": "Vlam In Die Wind",
+      "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
+    },
+    {
+      "album": {
         "name": "Vleisvreters",
         "url": "https://open.spotify.com/album/6wWrTYihuyhLCpz8C4OLxQ"
       },
@@ -6418,7 +6592,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 212196,
       "name": "Wanneer Jy Groet",
       "url": "https://open.spotify.com/track/4cdR3Tp17f18Z4CYUs7J5I"
@@ -6610,6 +6784,24 @@
       "duration_ms": 252551,
       "name": "Wikkel En Weeg",
       "url": "https://open.spotify.com/track/58sfTO42iIqP7wXczW5oIH"
+    },
+    {
+      "album": {
+        "name": "Wil Jy Bly",
+        "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187391,
+      "name": "Wil Jy Bly",
+      "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
     },
     {
       "album": {

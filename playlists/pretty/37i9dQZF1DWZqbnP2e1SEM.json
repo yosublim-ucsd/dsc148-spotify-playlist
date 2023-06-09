@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321200,
+  "num_followers": 321212,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTdiNzlhMmMzNmJmMWM1MDZkOGViYWUyMzRjZGNkNmI0OGJlYTdm",
+  "snapshot_id": "MCw5M2RiMDU2Y2I2ZTdhOTdmNDgzZmE3MTI5ODljYmYyZmEzNmI4MDBh",
   "tracks": [
     {
       "added_at": "2022-06-20 14:23:17",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 221220,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "It's A Killa",
         "url": "https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 200028,
       "name": "It's A Killa",
       "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 221220,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
+        "name": "Pump the Brakes",
+        "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 220581,
+      "name": "Pump the Brakes",
+      "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
         "name": "Body Groove (feat. Crystxl King)",
         "url": "https://open.spotify.com/album/1JYq2a06tP799ORo2YdBB6"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 165380,
       "name": "Body Groove (feat. Crystxl King)",
       "url": "https://open.spotify.com/track/2sW3snLTi77h0rm4g9tDuD"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
-        "name": "Pump the Brakes",
-        "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 220581,
-      "name": "Pump the Brakes",
-      "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Playing Games",
-        "url": "https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL"
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi"
       },
       "artists": [
         {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Playing Games",
-      "url": "https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6"
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/5O8uBUqc6rzlrS9YYCGeiX"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi"
+        "name": "Playing Games",
+        "url": "https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL"
       },
       "artists": [
         {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
         }
       ],
-      "duration_ms": 237458,
-      "name": "West Indies",
-      "url": "https://open.spotify.com/track/5O8uBUqc6rzlrS9YYCGeiX"
+      "duration_ms": 188160,
+      "name": "Playing Games",
+      "url": "https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Every Single Time (with Silky)",
-        "url": "https://open.spotify.com/album/7t7ONZWC56jEHLGBTKPZSX"
-      },
-      "artists": [
-        {
-          "name": "Bissett",
-          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
-        },
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 167102,
-      "name": "Every Single Time (with Silky)",
-      "url": "https://open.spotify.com/track/61drLfij7yoXMTYIY8088V"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Dance With Me (Edit)",
         "url": "https://open.spotify.com/album/4mvAV6SSMEmkZ3CZBaVF0u"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 186264,
       "name": "Dance With Me - Edit",
       "url": "https://open.spotify.com/track/7IPdXJf4DEisUUL0WqTcKL"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Every Single Time (with Silky)",
+        "url": "https://open.spotify.com/album/7t7ONZWC56jEHLGBTKPZSX"
+      },
+      "artists": [
+        {
+          "name": "Bissett",
+          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
+        },
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 167102,
+      "name": "Every Single Time (with Silky)",
+      "url": "https://open.spotify.com/track/61drLfij7yoXMTYIY8088V"
     },
     {
       "added_at": "2022-06-20 14:23:17",

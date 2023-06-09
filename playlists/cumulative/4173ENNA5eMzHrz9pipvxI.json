@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  EDX x Frey",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Vessbroz",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -94,6 +94,28 @@
       "duration_ms": 170317,
       "name": "2 Ph\u00fat H\u01a1n (KAIZ Remix) [Squid Kids Remix]",
       "url": "https://open.spotify.com/track/0pEiGqDCUmS10mH11wJuN3"
+    },
+    {
+      "album": {
+        "name": "2AM (feat. Brave Culture)",
+        "url": "https://open.spotify.com/album/0NKs73HOYT0oRPPGrSJwKF"
+      },
+      "artists": [
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        },
+        {
+          "name": "Brave Culture",
+          "url": "https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "2AM (feat. Brave Culture)",
+      "url": "https://open.spotify.com/track/1HAFEezS72pmxFPy2UqBAl"
     },
     {
       "album": {
@@ -824,7 +846,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 157454,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/0v2DHpz6Nkkd3G6CA8OnX2"
@@ -2387,6 +2409,28 @@
     },
     {
       "album": {
+        "name": "Careful What You Wish For (feat. Alida) [Club Mix]",
+        "url": "https://open.spotify.com/album/5d7j6vrBghNkNy6FiU7imF"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172545,
+      "name": "Careful What You Wish For (feat. Alida) [Club Mix]",
+      "url": "https://open.spotify.com/track/50uVUAAKVcn35SHQ1Dtjbd"
+    },
+    {
+      "album": {
         "name": "Carol Of The Bells",
         "url": "https://open.spotify.com/album/1y4jWk6gl9MVSusP2xpixy"
       },
@@ -3152,7 +3196,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 174999,
       "name": "Dancing All Alone (H\u00dcMAN Remix)",
       "url": "https://open.spotify.com/track/5CbUMP3F3I4m0wIoxZp00E"
@@ -3460,7 +3504,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 165468,
       "name": "Dimensions",
       "url": "https://open.spotify.com/track/3HeFUCxHhZwvT2XHuNSTAf"
@@ -3588,6 +3632,46 @@
       "duration_ms": 254091,
       "name": "DNA",
       "url": "https://open.spotify.com/track/1M1AmQMeDGcYJIYKYSaaDd"
+    },
+    {
+      "album": {
+        "name": "Do It to Me (feat. Alimish)",
+        "url": "https://open.spotify.com/album/7vctrH8V6yANXBip9TQu33"
+      },
+      "artists": [
+        {
+          "name": "MorganJ",
+          "url": "https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW"
+        },
+        {
+          "name": "Alimish",
+          "url": "https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "Do It to Me (feat. Alimish)",
+      "url": "https://open.spotify.com/track/0LXSMH60mxyzBz7uTbBTsr"
+    },
+    {
+      "album": {
+        "name": "Do My Thing",
+        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182109,
+      "name": "Do My Thing",
+      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
     },
     {
       "album": {
@@ -4002,7 +4086,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 168193,
       "name": "Drumz",
       "url": "https://open.spotify.com/track/6zn53vzo8Dz1zvoo2pRrbz"
@@ -4998,7 +5082,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 143333,
       "name": "Fendi Gucci Vuitton",
       "url": "https://open.spotify.com/track/4oNaxYqoPdm6EGrJFldOx1"
@@ -5328,7 +5412,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 149513,
       "name": "Forbidden Love (feat. Jessica Chertock)",
       "url": "https://open.spotify.com/track/7DJeOcXvGXbngyKrnBiI4r"
@@ -5398,7 +5482,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 171083,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/2kCEz5SnL22qQhJeOjgNQW"
@@ -5604,6 +5688,24 @@
       "duration_ms": 179939,
       "name": "Gam Gam (feat. SMACK) - Sped Up Nightcore",
       "url": "https://open.spotify.com/track/4hFfL76BI1rcRWNlHTBWzJ"
+    },
+    {
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "album": {
@@ -6060,7 +6162,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 179111,
       "name": "Head, Shoulders, Knees & Toes",
       "url": "https://open.spotify.com/track/1vMecECuGNLokzgc2yliP1"
@@ -6302,7 +6404,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 131249,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1Ox9ITclZVpZeN3KgDJkj5"
@@ -6578,7 +6680,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 152244,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/5C6PKaVGXnQc2YaS2BhXPF"
@@ -7152,10 +7254,36 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 165000,
       "name": "I Remember (DJ Press Play Remix)",
       "url": "https://open.spotify.com/track/28A4zDydd27jynmVSKLnIb"
+    },
+    {
+      "album": {
+        "name": "I Remember (Jakeshoredrive Remix)",
+        "url": "https://open.spotify.com/album/62e943dcAZDRyBIWGNyK10"
+      },
+      "artists": [
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        },
+        {
+          "name": "Taye",
+          "url": "https://open.spotify.com/artist/5KglBmg3ivkpxNMwDVTvXa"
+        },
+        {
+          "name": "Jakeshoredrive",
+          "url": "https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "I Remember (Jakeshoredrive Remix)",
+      "url": "https://open.spotify.com/track/2XBA8sN1LKBgLEOW2ZRiPo"
     },
     {
       "album": {
@@ -7550,7 +7678,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 148000,
       "name": "Irish Man",
       "url": "https://open.spotify.com/track/3MPMlVLLHgPPJJBDrX424v"
@@ -8372,7 +8500,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 205161,
       "name": "La Piedra (feat. Courage)",
       "url": "https://open.spotify.com/track/4n2CTCUbAO1GNyaoE5tjRu"
@@ -9165,6 +9293,28 @@
     },
     {
       "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/7IjAfvZpEb865xTsWmfvbo"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115403,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/0unJKMlGI2EwbpOcd3ZoRO"
+    },
+    {
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/37A0GOcoVgdqwdiBzWf0bf"
       },
@@ -9224,7 +9374,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 170880,
       "name": "Lost In The Rhythm",
       "url": "https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL"
@@ -10098,7 +10248,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 170476,
       "name": "Maracuya",
       "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
@@ -10776,6 +10926,28 @@
       "duration_ms": 155520,
       "name": "Move Your Body - SUBB & CAJUN Remix",
       "url": "https://open.spotify.com/track/6ARi6lMT8g9MCLfxonyiag"
+    },
+    {
+      "album": {
+        "name": "Moving To The Beat",
+        "url": "https://open.spotify.com/album/5NAhai4rAUQiO669naTtbS"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161359,
+      "name": "Moving To The Beat",
+      "url": "https://open.spotify.com/track/5fuMwp29NvRokSFVn7HatV"
     },
     {
       "album": {
@@ -12018,7 +12190,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 169218,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/2k1LZEZJNnRFG7nzg2hrx8"
@@ -12495,6 +12667,24 @@
     },
     {
       "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/3XbOHTxY5Q4YReX6q6trlj"
+      },
+      "artists": [
+        {
+          "name": "DEUX SAINTS",
+          "url": "https://open.spotify.com/artist/44iewsGL35Do6lH81Isndl"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170595,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/6zxHbSjyiKMmEuqP39FHd5"
+    },
+    {
+      "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/2krzzABTmI8n8GxdR4GZG4"
       },
@@ -12612,6 +12802,24 @@
       "duration_ms": 148412,
       "name": "Party PPL",
       "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
+    },
+    {
+      "album": {
+        "name": "Party Schedule",
+        "url": "https://open.spotify.com/album/48bSJq72U6fOdtVGuhcHUZ"
+      },
+      "artists": [
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Party Schedule",
+      "url": "https://open.spotify.com/track/5qanaqRzPEoioP5LMdCAba"
     },
     {
       "album": {
@@ -13158,7 +13366,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 131250,
       "name": "Radio Love",
       "url": "https://open.spotify.com/track/59iEaoAOSV9LQy4SaGy6rh"
@@ -13319,6 +13527,24 @@
     },
     {
       "album": {
+        "name": "Rave To The Grave",
+        "url": "https://open.spotify.com/album/6pK8ij9VluwiVJbJR48uE7"
+      },
+      "artists": [
+        {
+          "name": "Bonka",
+          "url": "https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141397,
+      "name": "Rave To The Grave",
+      "url": "https://open.spotify.com/track/3cTncddIg0cBjuwPRlew0r"
+    },
+    {
+      "album": {
         "name": "Ravers & Parties",
         "url": "https://open.spotify.com/album/0HUJlmVoC9mSrucvjWNY1X"
       },
@@ -13443,6 +13669,24 @@
     },
     {
       "album": {
+        "name": "Rindfleischetikettierungs\u00fcberwachungsaufgaben\u00fcbertragungsgesetz",
+        "url": "https://open.spotify.com/album/5Lr5BH4c3ilG5JJ562zsRW"
+      },
+      "artists": [
+        {
+          "name": "Vessbroz",
+          "url": "https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Rindfleischetikettierungs\u00fcberwachungsaufgaben\u00fcbertragungsgesetz",
+      "url": "https://open.spotify.com/track/6C8xhn5SiPe7kDBM3rjawX"
+    },
+    {
+      "album": {
         "name": "Rio Rio (feat. Martina Camargo)",
         "url": "https://open.spotify.com/album/2lLotYOtvUOqdVCzor6XNZ"
       },
@@ -13518,7 +13762,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
@@ -14109,6 +14353,28 @@
     },
     {
       "album": {
+        "name": "Sentir Saudade (feat. Bia Caboz)",
+        "url": "https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv"
+      },
+      "artists": [
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        },
+        {
+          "name": "Bia Caboz",
+          "url": "https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Sentir Saudade (feat. Bia Caboz)",
+      "url": "https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1"
+    },
+    {
+      "album": {
         "name": "Shadow (Phonk Remix)",
         "url": "https://open.spotify.com/album/3ytadXaSVsaDuTz6GVeQVm"
       },
@@ -14240,7 +14506,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 244616,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/3ozBO2VCTzeWaWHMF8Vko9"
@@ -16669,6 +16935,32 @@
     },
     {
       "album": {
+        "name": "Touch Ground",
+        "url": "https://open.spotify.com/album/0CZAGGza2R5mrJzBnZVWWx"
+      },
+      "artists": [
+        {
+          "name": "Viiq",
+          "url": "https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ"
+        },
+        {
+          "name": "Kiral",
+          "url": "https://open.spotify.com/artist/4OG7tTJTMgFkSIZBoRmQvQ"
+        },
+        {
+          "name": "Todd Stucky",
+          "url": "https://open.spotify.com/artist/2ESTFvdYPDHBC4cdf5CTl4"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Touch Ground",
+      "url": "https://open.spotify.com/track/4DWadTp7ItnelVsgmZcs41"
+    },
+    {
+      "album": {
         "name": "Touch Me",
         "url": "https://open.spotify.com/album/4wJfdOVIK5YnrSAWKw5TM4"
       },
@@ -16900,6 +17192,24 @@
       "duration_ms": 161997,
       "name": "Ultra Flava",
       "url": "https://open.spotify.com/track/79PxfW8gaw3Blr39KOps8k"
+    },
+    {
+      "album": {
+        "name": "UNDRGRND",
+        "url": "https://open.spotify.com/album/1IEotoJ1Z3lmWdzDoCIsRV"
+      },
+      "artists": [
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "UNDRGRND",
+      "url": "https://open.spotify.com/track/11OAHwNw3RtSEuWS5ez4ru"
     },
     {
       "album": {
@@ -17942,7 +18252,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 168095,
       "name": "Without You",
       "url": "https://open.spotify.com/track/3rvhqLBTn4OC50qevb5ii9"

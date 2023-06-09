@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Complete Collection](https://open.spotify.com/playlist/37i9dQZF1DWTUm9HjVUKnL)
 
-> Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
+> The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks's exclusive sound pack for <a href=“https://soundtrap.com”>Soundtrap, </a>  Spotify’s digital music studio for songwriters and beat makers.
 
-1,059 songs - 2 day 16 hr 56 min
+1,061 songs - 2 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -888,6 +888,7 @@
 | [Take Me Home, Country Road \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0iAJ5J7hGRnaY3zWXACbws) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Spotify Singles](https://open.spotify.com/album/3ZDrKkU07CxXL2WxxXyoxH) | 4:22 | 2022-01-19 |  |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-10-03 |  |
 | [Taste \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spotify Singles](https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg) | 7:43 | 2022-01-19 |  |
+| [Technicolor \- Spotify Singles](https://open.spotify.com/track/0RgltCLC6gLdDX6UR7Noei) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Spotify Singles](https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS) | 2:43 | 2023-06-08 |  |
 | [Teenage Dirtbag \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Spotify Singles](https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6) | 4:06 | 2022-01-19 |  |
 | [Teenage Dirtbag – Spotify Singles](https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Spotify Singles](https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU) | 3:06 | 2022-07-05 |  |
 | [Teenage Fantasy \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3gL9y6dT7xKRPL91gKGM9Y) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/7jrYTY6bfhAVzmHfNiQ9ko) | 4:23 | 2022-01-19 | 2022-07-29 |
@@ -1058,6 +1059,7 @@
 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 | 2022-01-19 |  |
 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/07Fxhwe3dsM2EkLAqTfrcF) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Spotify Singles](https://open.spotify.com/album/568wiTPWt5kE0Zk3joRigo) | 3:05 | 2022-01-19 |  |
 | [You Can Call Me Al \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Spotify Singles](https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9) | 3:08 | 2022-01-19 |  |
+| [You Get What You Give \- Spotify Singles](https://open.spotify.com/track/67Z8vS45C4PrIRrLWIkavo) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Spotify Singles](https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS) | 4:02 | 2023-06-08 |  |
 | [You Need To Calm Down \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:15 | 2022-01-19 |  |
 | [You Oughta Know](https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 4:41 | 2022-01-19 |  |
 | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \- Spotify Singles](https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa), [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \[Spotify Singles\]](https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n) | 4:16 | 2023-04-21 |  |

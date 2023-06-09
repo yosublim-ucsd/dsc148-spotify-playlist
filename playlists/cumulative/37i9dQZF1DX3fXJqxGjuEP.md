@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-477 songs - 1 day 4 hr 36 min
+478 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Pasión Tropical](https://open.spotify.com/track/1xKyAITK93J44Udn1AWdTe) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [Pasión Tropical](https://open.spotify.com/album/6I5UNdFGtD3UgghZizTK5G) | 4:40 | 2021-10-20 | 2022-04-21 |
 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/157GatsyJwcoaLGDD43duL) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl) | 3:27 | 2021-10-20 | 2023-04-30 |
 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX) | 3:27 | 2021-10-20 | 2022-10-13 |
+| [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/5cymR1aelP1UGn0wSsLLcq) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/05NsUQd42tUf0YWSuqZW8d) | 3:27 | 2021-10-20 |  |
 | [Passarinha](https://open.spotify.com/track/0cLilijUD3FgmzYzV7UAug) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW) | [SIM SIM SIM](https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx) | 3:55 | 2022-04-23 | 2023-05-20 |
 | [Passarinha](https://open.spotify.com/track/4QC1L4JgL4ZFwVFd3AcdSw) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW) | [SIM SIM SIM \(Lado B\)](https://open.spotify.com/album/6WTjmXtBWugdzpB193yvdE) | 3:55 | 2022-04-23 | 2022-07-31 |
 | [Pa´lante](https://open.spotify.com/track/2eIz0KUjTWALHdndVtROKp) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Pa'lante](https://open.spotify.com/album/0VoVnn8HzawW4b9Viavikd) | 3:16 | 2023-05-25 |  |
@@ -468,7 +469,7 @@
 | [Wifi Beach](https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:12 | 2021-10-20 | 2022-08-05 |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-10-20 | 2022-04-17 |
 | [Window Seat](https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:22 | 2023-03-31 | 2023-05-18 |
-| [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-20 |  |
+| [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-20 | 2023-06-09 |
 | [X](https://open.spotify.com/track/6dJrnufNiYJxtd4ZX743bC) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [X](https://open.spotify.com/album/14Hh7K8YnTp9Pk1fvECEPL) | 2:47 | 2021-10-20 | 2022-06-23 |
 | [Xocolate](https://open.spotify.com/track/10asRCljWZ51jZ22RnbiKV) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Xocolate](https://open.spotify.com/album/5nBvx0AU9yBm7toxNo8aBN) | 3:56 | 2021-10-20 | 2022-07-28 |
 | [Y Ahora](https://open.spotify.com/track/15BhfwZAJVDPufb6O9lMxB) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Y Ahora](https://open.spotify.com/album/5uchDW3E2EugxwLK2Oh755) | 3:12 | 2021-10-20 | 2022-04-17 |

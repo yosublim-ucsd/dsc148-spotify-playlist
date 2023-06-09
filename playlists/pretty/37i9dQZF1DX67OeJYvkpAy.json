@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 86414,
+  "num_followers": 86442,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWIxNTBhNmJjYzQ4NzYxOTZkZTE4YWZjMmNmMzc4ZjM4M2E2NDQ4",
+  "snapshot_id": "MCw1ZGZlZTBmMzdjY2JiN2VkNGNkMjllMTA1MGMxNGVlNjA3MDExZjcy",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love Don't Change",
-        "url": "https://open.spotify.com/album/5pCvpUnLgq5etnBXOTzql8"
-      },
-      "artists": [
-        {
-          "name": "K5ive",
-          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Love Don't Change",
-      "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Pain Interlude",
         "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 68571,
       "name": "Pain Interlude",
       "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Love Don't Change",
+        "url": "https://open.spotify.com/album/5pCvpUnLgq5etnBXOTzql8"
+      },
+      "artists": [
+        {
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Love Don't Change",
+      "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "If I knew how to save us",
-        "url": "https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1"
-      },
-      "artists": [
-        {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
-        }
-      ],
-      "duration_ms": 157664,
-      "name": "If I knew how to save us",
-      "url": "https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Deeper Than Drill",
         "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 174545,
       "name": "Deeper Than Drill",
       "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "If I knew how to save us",
+        "url": "https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1"
+      },
+      "artists": [
+        {
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+        }
+      ],
+      "duration_ms": 157664,
+      "name": "If I knew how to save us",
+      "url": "https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "One Mic Freestyle (S3-EP1)",
-        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 121624,
-      "name": "One Mic Freestyle (S3-EP1)",
-      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
       },
@@ -943,22 +927,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
+        "name": "One Mic Freestyle (S3-EP1)",
+        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
       },
       "artists": [
         {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
+      "duration_ms": 121624,
+      "name": "One Mic Freestyle (S3-EP1)",
+      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1015,6 +995,26 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "My Girl (Gemini)",
         "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Never Been Ordinary",
         "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
       },
@@ -1059,6 +1043,38 @@
       "duration_ms": 194693,
       "name": "Window Blues",
       "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Derby To Moston",
+        "url": "https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 182648,
+      "name": "Derby To Moston",
+      "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1087,22 +1103,6 @@
       "duration_ms": 227727,
       "name": "Drunk and Confused 2.0",
       "url": "https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Derby To Moston",
-        "url": "https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 182648,
-      "name": "Derby To Moston",
-      "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
     },
     {
       "added_at": "2022-08-02 15:42:28",

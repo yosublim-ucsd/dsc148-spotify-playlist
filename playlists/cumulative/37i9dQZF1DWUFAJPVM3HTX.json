@@ -9128,6 +9128,10 @@
         {
           "name": "Tomike",
           "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        },
+        {
+          "name": "Chi-chi",
+          "url": "https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz"
         }
       ],
       "date_added": "2023-06-07",
@@ -25314,6 +25318,24 @@
       "duration_ms": 149007,
       "name": "Won't Cry",
       "url": "https://open.spotify.com/track/5jjmzCnRglEY9RXYgESA4v"
+    },
+    {
+      "album": {
+        "name": "Won't Go",
+        "url": "https://open.spotify.com/album/2aApeE8JQuKfTqliCTaNN1"
+      },
+      "artists": [
+        {
+          "name": "AP",
+          "url": "https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128315,
+      "name": "Won't Go",
+      "url": "https://open.spotify.com/track/4PCo4gpjSJxyYLTMCAgpJy"
     },
     {
       "album": {

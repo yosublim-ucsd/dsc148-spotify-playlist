@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1142664,
+  "num_followers": 1142765,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDg0NjVlNjRkOGM1YmZkYmU5OTM4ZjhmZTU0MDRkNDdlNWM2NTNi",
+  "snapshot_id": "MCw3MDYwNGMyY2IxNzgyODA3YmM4ZGRlNjE3M2EzOGQ4NzFkNTZhZDk0",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "curse,",
+        "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "duration_ms": 238734,
+      "name": "curse,",
+      "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Kenny",
         "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 120961,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "curse,",
-        "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
-      },
-      "artists": [
-        {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
-        }
-      ],
-      "duration_ms": 238734,
-      "name": "curse,",
-      "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "handgun",
         "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 173446,
       "name": "handgun",
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "crush (demos)",
+        "url": "https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 91206,
+      "name": "what does he have that i don't?",
+      "url": "https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "crush (demos)",
-        "url": "https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP"
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
       },
       "artists": [
         {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
         }
       ],
-      "duration_ms": 91206,
-      "name": "what does he have that i don't?",
-      "url": "https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx"
+      "duration_ms": 202346,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 193005,
       "name": "Mother",
       "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "If I Really Love You",
+        "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "If I Really Love You",
+      "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "are you sleeping alone again?",
         "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "If I Really Love You",
-        "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "If I Really Love You",
-      "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "VERY ALONE",
         "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 131146,
       "name": "VERY ALONE",
       "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Stoner",
-        "url": "https://open.spotify.com/album/6kkweQ6EwBhFCTbaFM9jgc"
-      },
-      "artists": [
-        {
-          "name": "Teddy Failure",
-          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
-        }
-      ],
-      "duration_ms": 160900,
-      "name": "Stoner",
-      "url": "https://open.spotify.com/track/50IJlcU371grV5aTy1BAQh"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 289058,
       "name": "just wanna forget you",
       "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Stoner",
+        "url": "https://open.spotify.com/album/6kkweQ6EwBhFCTbaFM9jgc"
+      },
+      "artists": [
+        {
+          "name": "Teddy Failure",
+          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
+        }
+      ],
+      "duration_ms": 160900,
+      "name": "Stoner",
+      "url": "https://open.spotify.com/track/50IJlcU371grV5aTy1BAQh"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "emma, u up?",
-        "url": "https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "emma, u up?",
-      "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "the way we used to love.",
         "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 225600,
       "name": "disappear",
       "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "emma, u up?",
+        "url": "https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76"
+      },
+      "artists": [
+        {
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "emma, u up?",
+      "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "howling",
-        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "howling",
-      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Wavvy",
         "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 187546,
       "name": "Wavvy",
       "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "howling",
+        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "howling",
+      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Trashfire",
-      "url": "https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Three Songs",
         "url": "https://open.spotify.com/album/61H9p7WayFFuWjIfb1dI3T"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 185041,
       "name": "Did I Get It Wrong",
       "url": "https://open.spotify.com/track/3uL7D152nfGyHMbJn5reCy"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Trashfire",
+      "url": "https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ"
     },
     {
       "added_at": "2023-06-02 04:00:00",

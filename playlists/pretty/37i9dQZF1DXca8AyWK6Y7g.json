@@ -1,12 +1,12 @@
 {
   "description": "livin' life in your 250 sq ft apt cover: Chappell Roan",
-  "num_followers": 1473512,
+  "num_followers": 1473570,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWZlN2Y3M2QwYWUxOTkxOTNmNmMyOWMxYWI1NTUyYjE3OGQ3MDE0",
+  "snapshot_id": "MCxkNWM3NzAyYTM3OGU5NzJmZjgyNjM1MDZiMWMwMGUxYmJjNzE5MDNk",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "american jesus",
-        "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 168899,
-      "name": "american jesus",
-      "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Fantasy (with GAYLE & Em Beihold)",
         "url": "https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 175090,
       "name": "Fantasy (with GAYLE & Em Beihold)",
       "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "american jesus",
+        "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 168899,
+      "name": "american jesus",
+      "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Lost The Breakup",
-        "url": "https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 189413,
-      "name": "Lost The Breakup",
-      "url": "https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "the rainbow cassette",
         "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 125256,
       "name": "dumb dumb",
       "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Lost The Breakup",
+        "url": "https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 189413,
+      "name": "Lost The Breakup",
+      "url": "https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Chasing Shadows",
-        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 164027,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Born To Be Alive",
@@ -799,6 +783,22 @@
       "duration_ms": 157068,
       "name": "Born To Be Alive",
       "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 164027,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 149324,
+      "name": "Don't Forget About Me",
+      "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "House On Fire",
@@ -991,22 +1007,6 @@
       "duration_ms": 140309,
       "name": "Pretty Boys",
       "url": "https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 149324,
-      "name": "Don't Forget About Me",
-      "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5M8iOqYh57aru97YQcqFSD"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "If I Weren't Me",
         "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 151631,
       "name": "If I Weren't Me",
       "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5M8iOqYh57aru97YQcqFSD"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1699,6 +1699,22 @@
       "duration_ms": 168240,
       "name": "Pyjamas (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Have A Good Summer (Without Me)",
+        "url": "https://open.spotify.com/album/6mYoXbJuW8w6wSQ5f6GMHs"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 210849,
+      "name": "Have A Good Summer (Without Me)",
+      "url": "https://open.spotify.com/track/4A1GjAsAWjxBV4rzgOAOxR"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1795,22 +1811,6 @@
       "duration_ms": 173808,
       "name": "GORGEOUS",
       "url": "https://open.spotify.com/track/4vowH3BCuj5NHsdU4YHeLh"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Have A Good Summer (Without Me)",
-        "url": "https://open.spotify.com/album/6mYoXbJuW8w6wSQ5f6GMHs"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 210849,
-      "name": "Have A Good Summer (Without Me)",
-      "url": "https://open.spotify.com/track/4A1GjAsAWjxBV4rzgOAOxR"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1957,22 +1957,6 @@
       "url": "https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq"
     },
     {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
-    },
-    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Roses",
@@ -1987,6 +1971,22 @@
       "duration_ms": 165900,
       "name": "Roses",
       "url": "https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -2019,6 +2019,22 @@
       "duration_ms": 145128,
       "name": "i loved a boy",
       "url": "https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "bring u down",
+        "url": "https://open.spotify.com/album/1m7H5WH3i9ovJFpxrX5uif"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 165148,
+      "name": "bring u down",
+      "url": "https://open.spotify.com/track/6ZavW4JaYViGktEQhCiiyQ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2101,22 +2117,6 @@
       "url": "https://open.spotify.com/track/0xwjCE5vxusQU55F96GXYa"
     },
     {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "I'm Not Crying",
-        "url": "https://open.spotify.com/album/2uUnItlwyHkVGL7INYvinp"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 149520,
-      "name": "I'm Not Crying",
-      "url": "https://open.spotify.com/track/1aHHY8YfeH2tepf185bzF7"
-    },
-    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "barcelona",
@@ -2133,20 +2133,20 @@
       "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "bring u down",
-        "url": "https://open.spotify.com/album/1m7H5WH3i9ovJFpxrX5uif"
+        "name": "I'm Not Crying",
+        "url": "https://open.spotify.com/album/2uUnItlwyHkVGL7INYvinp"
       },
       "artists": [
         {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
         }
       ],
-      "duration_ms": 165148,
-      "name": "bring u down",
-      "url": "https://open.spotify.com/track/6ZavW4JaYViGktEQhCiiyQ"
+      "duration_ms": 149520,
+      "name": "I'm Not Crying",
+      "url": "https://open.spotify.com/track/1aHHY8YfeH2tepf185bzF7"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "The Last Songs I'll Write About You",
-        "url": "https://open.spotify.com/album/1koaS0Hs1AGtDrGprHOqCf"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 249259,
-      "name": "The Last Song",
-      "url": "https://open.spotify.com/track/7KsgocRFvvODH3K0ZHLHL4"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "stupid i miss u",
         "url": "https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 140826,
       "name": "stupid i miss u",
       "url": "https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "The Last Songs I'll Write About You",
+        "url": "https://open.spotify.com/album/1koaS0Hs1AGtDrGprHOqCf"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 249259,
+      "name": "The Last Song",
+      "url": "https://open.spotify.com/track/7KsgocRFvvODH3K0ZHLHL4"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Big Dumb Heart, Chapter 1",
-        "url": "https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Crickets",
-      "url": "https://open.spotify.com/track/4tFRoxaAM7OQd2uRFNQP9P"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Girl Of Your Dreams",
         "url": "https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 163927,
       "name": "Girl Of Your Dreams",
       "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Big Dumb Heart, Chapter 1",
+        "url": "https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Crickets",
+      "url": "https://open.spotify.com/track/4tFRoxaAM7OQd2uRFNQP9P"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2341,22 +2341,6 @@
       "url": "https://open.spotify.com/track/16dPXAC2RS7aYRpbJ6AS7K"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Ruin My Life",
-        "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Ruin My Life",
-      "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Drink Me",
@@ -2371,6 +2355,22 @@
       "duration_ms": 201086,
       "name": "Blueberry Mojito",
       "url": "https://open.spotify.com/track/0ajLglsDN2MJlf4pX6EpaP"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Ruin My Life",
+        "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2455,18 +2455,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Fire Escape",
-        "url": "https://open.spotify.com/album/2VMM7Zc5cSMP6l02uUcBcE"
+        "name": "Hyperfixations",
+        "url": "https://open.spotify.com/album/6JmO57rWensoCLLngSqju1"
       },
       "artists": [
         {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
         }
       ],
-      "duration_ms": 181013,
-      "name": "Fire Escape",
-      "url": "https://open.spotify.com/track/6dLuZg4jYj6IhvxyypY1sc"
+      "duration_ms": 195221,
+      "name": "Hyperfixations",
+      "url": "https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR"
     }
   ],
   "unique_name": "young & free",

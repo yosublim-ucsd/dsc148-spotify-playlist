@@ -4,7 +4,7 @@
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: That Mexican OT
 
-781 songs - 1 day 10 hr 20 min
+782 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Do It Up](https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Do It Up](https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7) | 4:04 | 2022-03-09 | 2022-04-07 |
 | [DO NOT KNOW YOU](https://open.spotify.com/track/7uVNWO2CAqAnGWDm9ipczc) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [DO NOT KNOW YOU](https://open.spotify.com/album/5O4I4RUSGTurL6VKPCMeJJ) | 2:00 | 2022-07-20 | 2022-09-09 |
 | [Do Right For What?](https://open.spotify.com/track/18SVOF5s996wRAth2Pv5GW) | [Tayy Brown](https://open.spotify.com/artist/2r8X6T84SucAyX88QbvahO) | [Do Right For What?](https://open.spotify.com/album/3mnu0ZM5JjqsbmzGc1Rtne) | 2:58 | 2021-12-01 | 2022-01-14 |
-| [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H) | 4:00 | 2023-06-07 |  |
+| [DOG EAT DOG II](https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II](https://open.spotify.com/album/3teR99N0boYIvWfEm59CZB) | 4:00 | 2023-06-07 |  |
+| [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H) | 4:00 | 2023-06-07 | 2023-06-09 |
 | [Don Lemon](https://open.spotify.com/track/0CMynrZC5yzBNcx1yO2Whs) | [Yoza](https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT) | [Don Lemon](https://open.spotify.com/album/0xEgjYr2xDO6VYODAJkyfr) | 2:26 | 2023-03-01 | 2023-04-27 |
 | [Don Valley Freestyle](https://open.spotify.com/track/3kLEpBlZM7YlS4fJzwdxSS) | [MixTapper](https://open.spotify.com/artist/62htlKVPdhWyPnyNZlL0v4) | [Don Valley Freestyle](https://open.spotify.com/album/481o9sbkxYZUuCUUeLwuJg) | 3:26 | 2022-01-19 | 2022-02-24 |
 | [Don't Look At Numbers \- Remix](https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Remix\)](https://open.spotify.com/album/0mHLJmZeGCgDW4yh4M4MdO) | 3:37 | 2022-09-14 | 2022-10-27 |

@@ -913,6 +913,28 @@
     },
     {
       "album": {
+        "name": "Careful What You Wish For (feat. Alida) [Club Mix]",
+        "url": "https://open.spotify.com/album/5d7j6vrBghNkNy6FiU7imF"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172545,
+      "name": "Careful What You Wish For (feat. Alida) [Club Mix]",
+      "url": "https://open.spotify.com/track/50uVUAAKVcn35SHQ1Dtjbd"
+    },
+    {
+      "album": {
         "name": "Caution",
         "url": "https://open.spotify.com/album/41PHDKzQZhm5mi1yZXTLd3"
       },
@@ -1626,7 +1648,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 185600,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/4ywSs3wQa6U85OYS6qzX9A"
@@ -2986,6 +3008,36 @@
       "duration_ms": 166000,
       "name": "Knockout",
       "url": "https://open.spotify.com/track/1EEkaGXklrnHnF47Bu8jH0"
+    },
+    {
+      "album": {
+        "name": "Komtie (Kom Tie Dan He!)",
+        "url": "https://open.spotify.com/album/6YhNFiGoXIOlXy8q8g4feC"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        },
+        {
+          "name": "DJ Norman",
+          "url": "https://open.spotify.com/artist/4FDKMnyCDqoLQqmZOnNJH4"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142192,
+      "name": "Komtie (Kom Tie Dan He!)",
+      "url": "https://open.spotify.com/track/4eKzx7tcRxOLpa4QWmRHse"
     },
     {
       "album": {

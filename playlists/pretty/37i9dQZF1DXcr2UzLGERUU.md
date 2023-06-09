@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,295 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,502 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 49 | [Honey](https://open.spotify.com/track/5lLdRp4GpGKAvltZCZ7KRZ) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Honey](https://open.spotify.com/album/779oggvAt1GFSFJP3CYKMi) | 2:27 |
 | 50 | [Kindness Mantra](https://open.spotify.com/track/6BB7WGnYYH690VSE8EYxke) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Every Voice](https://open.spotify.com/album/6O2hzAFNinpSa2dlcx7DOz) | 2:49 |
 
-Snapshot ID: `MCwzY2Q4ZTUyZGJmYTc2ZDQyZDY2OWQxY2NjN2Q5NjYyMjQwMWZkOTZj`
+Snapshot ID: `MCw0OTU0YzA5MWU2ZDM2NjY5ZDA1Yzk1MGNiYTYxMjgwODRjM2QzNzZk`

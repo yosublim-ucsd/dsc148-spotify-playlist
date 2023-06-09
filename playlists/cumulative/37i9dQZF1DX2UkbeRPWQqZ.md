@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-238 songs - 8 hr 4 min
+240 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Sleep Birdie Sleep](https://open.spotify.com/track/42zVKfVVXZpW9cFkNUAsi1) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleep Birdie Sleep](https://open.spotify.com/album/2Pu9LPjvHdG5BxArbqZLNe) | 2:08 | 2022-09-02 |  |
 | [Sleep Hymn](https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Sleep Hymn](https://open.spotify.com/album/7KhhtHKQ8rjeDRWpBoA1z8) | 2:11 | 2021-11-11 |  |
 | [Sleep You Little Videyoung](https://open.spotify.com/track/6AmhUIvNyevwaoy2D73OxJ) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Musica Di Bambino](https://open.spotify.com/album/6sTdjqRsLtroU8vM8CswYg) | 2:57 | 2021-11-11 |  |
+| [Sleeping Bird](https://open.spotify.com/track/2Sb2fYbyyLWEGvh4xxfKvs) | [Hob Nob Guitars](https://open.spotify.com/artist/5Hi0d602CvheKefJyN6GLw) | [Sleeping Bird](https://open.spotify.com/album/0awPdWbbTRwALW4jVw41OO) | 1:32 | 2023-06-08 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/4cBQ6hpKobdxxyeJ8gu3cR) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleepy Eyes](https://open.spotify.com/album/20f2sObexRNK0NtpZ4jx9W) | 2:07 | 2023-04-25 |  |
 | [Sleepy times](https://open.spotify.com/track/4e1OHtiK4WiYF3P4yIqWye) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Sleepy times](https://open.spotify.com/album/3mk8LC5Nh8TicpfM5N69K0) | 1:13 | 2022-11-25 |  |
 | [Slumberous](https://open.spotify.com/track/6bcbwc33McfaGifGrjmtiD) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Slumberous](https://open.spotify.com/album/0ASiq73kjVAiRs930hldEA) | 1:20 | 2023-04-25 |  |
@@ -226,6 +227,7 @@
 | [Tryggare kan ingen vara](https://open.spotify.com/track/4TDyCo1Vx6pbN5BKvkmP6h) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 1](https://open.spotify.com/album/0BAIYSMDCppH6iFWzA0jEb) | 1:33 | 2021-11-11 |  |
 | [Twinkle](https://open.spotify.com/track/74GGiDx1ffmes4p506vhnT) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Twinkle](https://open.spotify.com/album/61cvN1S31Z3dxr01kzJQE0) | 1:20 | 2023-04-25 |  |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:37 | 2021-11-11 |  |
+| [Unicorns](https://open.spotify.com/track/5eUi6uioV6i7zSwhEhL4pf) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Unicorns](https://open.spotify.com/album/6K8LetL1T75t1ETwbPDAU7) | 2:15 | 2023-06-08 |  |
 | [Utflukt i skogen](https://open.spotify.com/track/0OkRmQwlzwVpWdp9T8epnu) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Utflukt i skogen](https://open.spotify.com/album/1LFvvBVjS76qINYCkf6ekY) | 2:03 | 2023-02-17 |  |
 | [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 | 2022-12-16 | 2023-03-18 |
 | [Wakey Wakey](https://open.spotify.com/track/0gRIc6oDEWkXsJhgrP0KLE) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Wakey Wakey](https://open.spotify.com/album/3stXNNp2Z8tG2xRB5EAhws) | 2:06 | 2023-04-25 |  |

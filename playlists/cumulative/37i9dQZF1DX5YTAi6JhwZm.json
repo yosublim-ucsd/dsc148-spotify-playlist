@@ -1601,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Lucky Spin",
+        "url": "https://open.spotify.com/album/1EHgihzyClIi521GIwcCb7"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224428,
+      "name": "Lucky Spin",
+      "url": "https://open.spotify.com/track/1IM53QBdtHo9fZxfsIg9dW"
+    },
+    {
+      "album": {
         "name": "Oscar Peterson Trio Plus One",
         "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
       },

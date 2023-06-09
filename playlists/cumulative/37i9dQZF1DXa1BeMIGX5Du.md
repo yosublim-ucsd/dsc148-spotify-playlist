@@ -4,10 +4,11 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-151 songs - 9 hr 16 min
+152 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Dangerous Thing](https://open.spotify.com/track/7xDDRoOWJ5sOsp2SDXdTrE) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [A Dangerous Thing](https://open.spotify.com/album/1L1XG9oKtjHkCB2LY6e1xX) | 3:03 | 2023-06-08 |  |
 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 | 2022-03-25 | 2022-12-25 |
 | [All Over Again](https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz) | 3:43 | 2022-10-10 |  |
 | [always, i'll care](https://open.spotify.com/track/1LdS1ULS9e18oW3M2C1MUj) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [always, i’ll care](https://open.spotify.com/album/1kfbFGL5zSzXv2p5usgNcs) | 2:26 | 2022-03-25 | 2022-07-29 |
@@ -135,7 +136,7 @@
 | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 3:28 | 2022-03-25 |  |
 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 | 2022-03-25 |  |
 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/12VVXFEYxro5C61KyWee9C) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/album/1NI7pFzmcyiQ9Nk8VDDvUS) | 3:26 | 2022-03-25 | 2022-07-29 |
-| [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:26 | 2022-06-17 |  |
+| [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:26 | 2022-06-17 | 2023-06-09 |
 | [Till the Flame Turns Blue](https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Till the Flame Turns Blue](https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM) | 4:05 | 2023-05-09 |  |
 | [Two Strong Hearts](https://open.spotify.com/track/1rMHsiaukDDW0mzwruHdQr) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Two Strong Hearts](https://open.spotify.com/album/1v1oL1axOTr3tE615BHuMy) | 3:06 | 2022-10-10 |  |
 | [Two Strong Hearts](https://open.spotify.com/track/31Y9yVkcT70JjKs3A2eR36) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Two Strong Hearts](https://open.spotify.com/album/70dKYiUjXSV6tSq9psDuDI) | 3:06 | 2022-03-25 | 2022-10-13 |

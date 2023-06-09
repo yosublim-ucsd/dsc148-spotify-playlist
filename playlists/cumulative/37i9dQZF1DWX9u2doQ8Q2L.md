@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-771 songs - 1 day 23 hr 45 min
+773 songs - 1 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Mistakes](https://open.spotify.com/track/0UojKdaPtcnw7DDh9R33tX) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [Mistakes](https://open.spotify.com/album/4hdRFduT29SvN8VGPhEzBM) | 3:01 | 2023-03-16 | 2023-03-29 |
 | [Mo ai ni](https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era), [石玺彤](https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd) | [Mo ai ni](https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7) | 2:58 | 2023-05-30 |  |
 | [Mocktails](https://open.spotify.com/track/2cUhZvGJpb3gUfH61am2OL) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [Mocktails](https://open.spotify.com/album/13LPbNHtgyYfvozXn7JYcA) | 2:44 | 2022-10-25 | 2022-11-02 |
+| [Moneyman](https://open.spotify.com/track/6lmKwrz40nAgOuouIe5RYU) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [Moneyman](https://open.spotify.com/album/6EcX8eymeDUyQyEPxI9hq5) | 5:15 | 2023-06-08 |  |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-17 | 2023-01-04 |
 | [Moon Prison](https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Moon Prison](https://open.spotify.com/album/2IntUMWxuhURmGokrZdtYE) | 2:45 | 2023-01-26 | 2023-04-05 |
 | [Mornin Dew](https://open.spotify.com/track/6IDZpk0zFGk5Gptc8WiaR4) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Marsh Willow](https://open.spotify.com/artist/0peX4zwJwmSYGbCp7xT0eA) | [Mornin Dew](https://open.spotify.com/album/28VeLIJUs9pwdiMeGpTvrZ) | 2:58 | 2022-11-29 | 2022-12-07 |
@@ -675,7 +676,7 @@
 | [リビド](https://open.spotify.com/track/0YxhIRKmlFq7MnXU8K5oA0) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [リビド](https://open.spotify.com/album/2yhMN24X0Jjz1DogK5eliH) | 2:37 | 2022-08-01 | 2022-09-09 |
 | [ルパン三世主題歌Ⅱ](https://open.spotify.com/track/6XEtXkDY8mIVFj6LgN4AOJ) | [山下穀雄](https://open.spotify.com/artist/2R2YOJvwaLrE32lLSkSqJI), [Otomo Yoshihide](https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [ルパン三世主題歌Ⅱ](https://open.spotify.com/album/2VrwFGVZVQ6K9qslrC8HLi) | 6:12 | 2023-01-31 | 2023-03-01 |
 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 | 2022-12-24 |  |
-| [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 | 2022-10-18 |  |
+| [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 | 2022-10-18 | 2023-06-09 |
 | [一筋差す](https://open.spotify.com/track/3nUxOIrdcQ63xKVg0PpXzn) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [一筋差す](https://open.spotify.com/album/1GxaPl9ZoBUyicgM43GUUm) | 3:05 | 2022-11-29 | 2023-04-29 |
 | [不思議な関係](https://open.spotify.com/track/00Nj6hCC9wNg86MO0sIGJf) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [不思議な関係](https://open.spotify.com/album/1W2FaF800M2nRqZlPFMhG9) | 4:32 | 2022-10-04 | 2022-11-09 |
 | [何年後も](https://open.spotify.com/track/4QzLOmfT6TzxAGAA7oCfCE) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [何年後も](https://open.spotify.com/album/1wwVLBXwlQ7SpR1ml1tTyt) | 3:23 | 2022-08-03 | 2022-09-28 |
@@ -738,7 +739,7 @@
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-02-28 |  |
 | [流星群](https://open.spotify.com/track/4G1Kk1S5y5SKFFJ9Bwn35U) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [流星群](https://open.spotify.com/album/1NVfNGKoeTlThe7SMCooXT) | 3:09 | 2022-05-26 | 2022-06-22 |
 | [涙](https://open.spotify.com/track/1HaBsSHSuY94emnUEuLDot) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [涙](https://open.spotify.com/album/1kzUbAwv2BjK5ucekGZqmZ) | 3:22 | 2023-05-04 | 2023-05-10 |
-| [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [Remi Matsuo](https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7) | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2) | 4:59 | 2023-04-11 |  |
+| [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [Remi Matsuo](https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7) | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2) | 4:59 | 2023-04-11 | 2023-06-09 |
 | [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-16 | 2023-05-26 |
 | [灯台](https://open.spotify.com/track/0rWizJ6KV5Wna8dPdXB5CU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [灯台](https://open.spotify.com/album/7HkIv5XkyvMwR3DXz5mmwk) | 2:57 | 2022-09-01 | 2022-09-03 |
 | [灯火 \(feat\. miida\)](https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [灯火 \(feat\. miida\)](https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq) | 3:04 | 2023-01-31 |  |
@@ -762,6 +763,7 @@
 | [舞台の上で](https://open.spotify.com/track/51SCBTWn7HbmBRPRHNB8Re) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA), [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [舞台の上で](https://open.spotify.com/album/4XYTZrIy61jFCIj0c4IoPB) | 3:38 | 2022-05-26 | 2022-08-12 |
 | [花一匁](https://open.spotify.com/track/6yS6Q8iSiXqvqfjfJ67RRg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [花一匁](https://open.spotify.com/album/5nDlxSLsbMzLKGScoh3Yc5) | 4:10 | 2023-06-06 |  |
 | [街は海](https://open.spotify.com/track/4wM3cV1wEu9NMqAcUGsooR) | [カワサキケイ](https://open.spotify.com/artist/0zTen6WNnlPtho3KUkwOTX) | [街は海](https://open.spotify.com/album/2dlNNMuoTZVqU5jeDtjhgR) | 4:15 | 2022-10-18 | 2022-10-21 |
+| [誰の声?](https://open.spotify.com/track/1ois44uc6QzRJVO5Q95W4n) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [誰の声?](https://open.spotify.com/album/5jSzzizVsJipiK7ButA5cu) | 3:05 | 2023-06-08 |  |
 | [赤と青](https://open.spotify.com/track/6AsQ1wqbmYSRmc3S9mxbaj) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [赤と青](https://open.spotify.com/album/46J15A4lTJm1BtYxgA9ZoQ) | 3:13 | 2022-09-27 | 2023-01-11 |
 | [超5次元](https://open.spotify.com/track/0msWrLwaWts7KAbBIrakHp) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [超5次元](https://open.spotify.com/album/7bkS1kTjGiqCMKtqtG4Zfp) | 2:54 | 2022-09-22 | 2022-09-24 |
 | [踊り子](https://open.spotify.com/track/7pn8sAIxVMDnAmgoy72jZt) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7) | [踊り子](https://open.spotify.com/album/1OXJFRvbiQz9mcgWtQguUK) | 4:09 | 2023-02-28 | 2023-03-02 |

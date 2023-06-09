@@ -1,12 +1,12 @@
 {
   "description": "The Midwest is always on time. Cover: Lil Durk",
-  "num_followers": 107850,
+  "num_followers": 107907,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWRjNjg3MDNjZDgyMjA3YjhhNDkwYjBiOGY2OWFmMzU0YzU3M2Nm",
+  "snapshot_id": "MCw0MTBiYzM4YmUwZmNiNTYwZTFhOGZmZTJjOWViYzNkNmZkZWZjYzIx",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -364,6 +364,10 @@
           "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
         },
         {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        },
+        {
           "name": "Babyface Ray",
           "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
         }
@@ -386,6 +390,10 @@
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
       "duration_ms": 167812,

@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 671965,
+  "num_followers": 672287,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2NiODM3MDE4OTBjZDczZjE5NjM2ZTUwMDhlODI2ODEyNWYzY2Ni",
+  "snapshot_id": "MCw2M2YwMzBlZjNhZTE3ZWRjMTMxN2MyMzU2MWMxMmRmMzQwMmEzMjk2",
   "tracks": [
     {
       "added_at": "2023-05-08 22:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-05-08 22:00:00",
       "album": {
-        "name": "Days Of The New",
-        "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
-      },
-      "artists": [
-        {
-          "name": "Days Of The New",
-          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
-        }
-      ],
-      "duration_ms": 283973,
-      "name": "Shelf In The Room",
-      "url": "https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt"
-    },
-    {
-      "added_at": "2023-05-08 22:00:00",
-      "album": {
         "name": "As You Were (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 251631,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX"
+    },
+    {
+      "added_at": "2023-05-08 22:00:00",
+      "album": {
+        "name": "Days Of The New",
+        "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
+      },
+      "artists": [
+        {
+          "name": "Days Of The New",
+          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "Shelf In The Room",
+      "url": "https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt"
     },
     {
       "added_at": "2023-05-08 22:00:00",

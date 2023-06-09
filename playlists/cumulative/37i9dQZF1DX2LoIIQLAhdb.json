@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9 x Tiakola",
   "name": "R&Bae",
   "tracks": [
     {
@@ -408,7 +408,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 176213,
       "name": "CHOUCHOU",
       "url": "https://open.spotify.com/track/1XzdJhNSc3GGvdQ6aBAi1V"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 142595,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/1y0U1pZhkayeBRViBcf5zu"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 178733,
       "name": "Joujou",
       "url": "https://open.spotify.com/track/6iT9J2d5vY4buhYcNgFUeT"
@@ -1314,6 +1314,24 @@
       "duration_ms": 180694,
       "name": "Karma",
       "url": "https://open.spotify.com/track/35N2xWSkn7wio2V7ti8Xse"
+    },
+    {
+      "album": {
+        "name": "Kass\u00efm",
+        "url": "https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93129,
+      "name": "Kass\u00efm",
+      "url": "https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm"
     },
     {
       "album": {
@@ -1523,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "Love Story III",
+        "url": "https://open.spotify.com/album/1pRv3dJ8Z46Rl5copApNpj"
+      },
+      "artists": [
+        {
+          "name": "Mkz03",
+          "url": "https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126981,
+      "name": "Love Story III",
+      "url": "https://open.spotify.com/track/40OWsWC7SqFIK5GtqswGsP"
+    },
+    {
+      "album": {
         "name": "Love Therapy",
         "url": "https://open.spotify.com/album/0q1VH4DQ3PV4M58b0jNTmM"
       },
@@ -1610,6 +1646,24 @@
       "duration_ms": 189660,
       "name": "Ma Reine",
       "url": "https://open.spotify.com/track/2yK1M21AlQ3RLalAmM59Oi"
+    },
+    {
+      "album": {
+        "name": "Ma ville",
+        "url": "https://open.spotify.com/album/2lCynzkp4TkRTzxXePjDD2"
+      },
+      "artists": [
+        {
+          "name": "KRN",
+          "url": "https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178946,
+      "name": "Ma ville",
+      "url": "https://open.spotify.com/track/6L4F0EkPQw2u4Z1U05LFVK"
     },
     {
       "album": {
@@ -1808,6 +1862,24 @@
       "duration_ms": 176808,
       "name": "NDENGE NINI",
       "url": "https://open.spotify.com/track/3gOZ4SiL6sfrdU2CDm7A74"
+    },
+    {
+      "album": {
+        "name": "Nefertiti",
+        "url": "https://open.spotify.com/album/09xs6YQteSjNMB3LLS5gbo"
+      },
+      "artists": [
+        {
+          "name": "iambillies",
+          "url": "https://open.spotify.com/artist/6mvtHZpx2xlegpmqCZ3UpG"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Nefertiti",
+      "url": "https://open.spotify.com/track/3Zf16Lx6ShUcUgw7X8HwBR"
     },
     {
       "album": {
@@ -2550,7 +2622,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 184000,
       "name": "VIBESTARS #6",
       "url": "https://open.spotify.com/track/3GHI1jhIgtflWj1zBcAKQw"

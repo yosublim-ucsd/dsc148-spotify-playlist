@@ -680,7 +680,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 212516,
       "name": "FMF - Friday Morning Freestyle",
       "url": "https://open.spotify.com/track/6U6hSadF0KeJz9MypZsdb6"
@@ -1384,6 +1384,28 @@
       "duration_ms": 233009,
       "name": "Mbona?",
       "url": "https://open.spotify.com/track/5hJ9UhvS0IFU2docn62NAq"
+    },
+    {
+      "album": {
+        "name": "Mbuzi",
+        "url": "https://open.spotify.com/album/4cRYF3YJufPwImOnX0lhSI"
+      },
+      "artists": [
+        {
+          "name": "Boeyylee",
+          "url": "https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN"
+        },
+        {
+          "name": "Drop Boy",
+          "url": "https://open.spotify.com/artist/2VhB8HqjzPSe2pxNPBrGpJ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76161,
+      "name": "Mbuzi",
+      "url": "https://open.spotify.com/track/0kPY62PUCJR2sbT0JTmKT1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-307 songs - 18 hr 35 min
+309 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 | 2022-11-08 | 2023-06-03 |
 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2023-03-07 | 2023-05-05 |
 | [Cast Iron Skillet](https://open.spotify.com/track/2VmvnRlD3SaKz5YxabzlZe) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Cast Iron Skillet](https://open.spotify.com/album/0SWyzfjH7D2mXqSr4nBfrQ) | 3:24 | 2023-04-25 | 2023-05-19 |
-| [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 | 2023-04-04 |  |
+| [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 | 2023-04-04 | 2023-06-09 |
 | [Centre of The Universe](https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:10 | 2023-01-19 | 2023-04-07 |
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2023-02-28 |  |
 | [Chasing Spirits](https://open.spotify.com/track/28nVbL3ylNUiGQkcNQpJb9) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Chasing Spirits](https://open.spotify.com/album/21yNwJisYA2B2jSqqte9H0) | 2:44 | 2023-04-25 | 2023-04-30 |
@@ -121,6 +121,7 @@
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-23 | 2023-03-19 |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 | 2023-03-01 |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-10-20 |  |
+| [Hollywood Bowl](https://open.spotify.com/track/1DAIGVQoOruWmlVYmpC0B7) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hollywood Bowl](https://open.spotify.com/album/7plBFX9EbmkHZnBbRtzKkA) | 4:13 | 2023-06-08 |  |
 | [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 | 2023-01-12 | 2023-01-18 |
 | [Hot Summer](https://open.spotify.com/track/0JFz7Zs2GwJitL4Ptr8bY5) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:22 | 2023-04-06 | 2023-04-21 |
 | [Hot Summer](https://open.spotify.com/track/3A8Xv7OLC1IvruefbgEPt2) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hot Summer](https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh) | 2:22 | 2023-03-09 | 2023-04-10 |
@@ -276,9 +277,10 @@
 | [You Don't Have To Cry](https://open.spotify.com/track/2fmsxiX567SCvCPfW0LLix) | [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd), [Hanah Spring](https://open.spotify.com/artist/4XFD2JYE1YxL1pmuigIb7s) | [You Don't Have To Cry](https://open.spotify.com/album/0Rkvjqjr9haCZ70w2uAQug) | 4:34 | 2023-02-28 | 2023-03-15 |
 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-05-25 |  |
 | [You Might Need Somebody](https://open.spotify.com/track/0ojCFgI78aJ33qskR7WpYx) | [Turley Richards](https://open.spotify.com/artist/7p1G13q6CeIPXLf7yhPN9e) | [Therfu](https://open.spotify.com/album/1ruMmXTfZ5PZjZdDy6GeUc) | 3:36 | 2022-12-06 | 2023-01-13 |
-| [You Might Not Like Her](https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF) | 3:22 | 2022-12-01 |  |
+| [You Might Not Like Her](https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF) | 3:22 | 2022-12-01 | 2023-06-09 |
 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 | 2023-04-20 | 2023-05-26 |
 | [You're Everything](https://open.spotify.com/track/676yPpKx9leVQWf5vFSvS7) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u) | [Love Will Find A Way](https://open.spotify.com/album/58ZQBOe0sMe9ZpPKgjDR9p) | 4:50 | 2022-12-06 | 2023-02-10 |
+| [Your Arms](https://open.spotify.com/track/4SuziSr3et9LjC6Iyls63s) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Your Arms](https://open.spotify.com/album/4R3wx6MiEomTXdy6gkskQN) | 3:51 | 2023-06-08 |  |
 | [Your Loving Soul](https://open.spotify.com/track/2LPExdbabatcLkOzJj3H24) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Meet Me On the Beach](https://open.spotify.com/album/0CU1h7qbcpXxLpJjUvIIWI) | 3:50 | 2023-04-20 | 2023-04-26 |
 | [あの場所へ](https://open.spotify.com/track/3mAUwCblGM1iXVEk7CDmeE) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [あの場所へ](https://open.spotify.com/album/6TTakltB6NsatZHEcFm5WM) | 4:59 | 2023-02-28 | 2023-04-21 |
 | [さいごは頬張ろう](https://open.spotify.com/track/0kr9VZT0MtuIfa38PF35ph) | [LEE HWANGDAE](https://open.spotify.com/artist/63RogPtcs8DxN7cdqRU9FV) | [さいごは頬張ろう](https://open.spotify.com/album/19I4cceUhfRCFu67xiGpfl) | 4:09 | 2022-11-22 | 2022-12-07 |

@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-492 songs - 1 day 3 hr 33 min
+494 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,12 +21,13 @@
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2020-10-16 | 2020-12-11 |
 | [All For You](https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML) | 3:39 | 2022-07-08 | 2023-02-20 |
 | [All For You](https://open.spotify.com/track/53QivzNjgJPblrcmDP0LLv) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [All For You](https://open.spotify.com/album/4Qz9R5WkVwQfAl1oq6ZSFn) | 3:33 | 2022-09-08 |  |
+| [All I See Is Him](https://open.spotify.com/track/53bNbChiuQHSUZJTfNvERf) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All I See Is Him](https://open.spotify.com/album/5eU9qQS8lKlTQNyLHaibsE) | 2:45 | 2023-06-08 |  |
 | [All the Lies About Me](https://open.spotify.com/track/6T22O43SIRQ6Kgu7NvcnTy) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [All the Lies About Me](https://open.spotify.com/album/0JQFRlBw5UdjbVcwgm9SCu) | 2:57 | 2020-12-11 | 2021-07-07 |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/2e9N4vHYVUwSwRorBzsZXE) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Almost \(Sweet Music\)](https://open.spotify.com/album/5kOg8fegfvEEb83tDy8gUH) | 3:37 | 2019-07-29\* | 2019-12-09 |
 | [Alone on the Moon](https://open.spotify.com/track/4bnJC64uvoZ598bqwZ6L9L) | [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [Alone on the Moon](https://open.spotify.com/album/1RlXHytHcfxZjLlnN4PC9W) | 3:11 | 2022-07-08 |  |
 | [always, i'll care](https://open.spotify.com/track/1LdS1ULS9e18oW3M2C1MUj) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [always, i’ll care](https://open.spotify.com/album/1kfbFGL5zSzXv2p5usgNcs) | 2:26 | 2020-02-11 | 2021-06-18 |
 | [Amy Shark](https://open.spotify.com/track/7tqxntC1aIERvpBdo4PU03) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Amy Shark](https://open.spotify.com/album/4VIz1hhfNr7d6zkSh31Zv7) | 3:07 | 2021-04-16 | 2022-12-16 |
-| [Another Falling Star](https://open.spotify.com/track/6ie3zhD4Yyrz35wCouSk8T) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:39 | 2022-07-08 |  |
+| [Another Falling Star](https://open.spotify.com/track/6ie3zhD4Yyrz35wCouSk8T) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:39 | 2022-07-08 | 2023-06-09 |
 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 | 2020-12-11 | 2021-06-18 |
 | [Anyone](https://open.spotify.com/track/18ssFhD04lWo1RzpcohnrG) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Anyone](https://open.spotify.com/album/4yP39SWfHBKh8J0HV3tCo1) | 3:47 | 2020-02-11 | 2020-03-14 |
 | [Anyone Who Loves Me](https://open.spotify.com/track/2AK96stPEvMLwVWrIo37zo) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/2jpQor1ZFocZF7Io0eI8mR) | 3:56 | 2021-04-24 | 2022-02-04 |
@@ -353,6 +354,7 @@
 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV), [Denzel](https://open.spotify.com/artist/4VTHOEi8xDzQe0vrfOA0cD) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 | 2022-07-08 |  |
 | [Pocket Full of Love](https://open.spotify.com/track/7ogbp3P4wRZdmlYa8yIVOk) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [Pocket Full of Love](https://open.spotify.com/album/2BoSMgxpHwhFZyJqFGUAhd) | 3:28 | 2019-08-02 | 2019-10-11 |
 | [Poser](https://open.spotify.com/track/4rsEOdoWVGGXTY50Pk0P5F) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [LETTERS: VOL\. 1](https://open.spotify.com/album/7M0VWIMZXsm2RKtHYHHkaQ) | 3:47 | 2019-11-22 | 2019-12-13 |
+| [Power In Us](https://open.spotify.com/track/5AMjoL36HPzwx9E0JUg05J) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Power In Us](https://open.spotify.com/album/1SlXfaCDOmYwsbIFr3dlP2) | 3:21 | 2023-06-08 |  |
 | [PRETEND RAINBOW](https://open.spotify.com/track/2ChYB5eaB0HxWvXxDqASvk) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PRETEND RAINBOW](https://open.spotify.com/album/1GEwRUCUUUJJahRF4Cxqfy) | 2:38 | 2022-09-08 | 2023-02-20 |
 | [PRETEND RAINBOW](https://open.spotify.com/track/3kescnpBiOqSSdNywgGHkB) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PRETEND RAINBOW](https://open.spotify.com/album/3iJxQdm6ZrjKuPrpeLJl2o) | 2:38 | 2022-05-12 | 2022-09-16 |
 | [Pretty Dumb](https://open.spotify.com/track/0mMrLI4ev6NZTGD6L39v39) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Pretty Dumb](https://open.spotify.com/album/04i6qyA1iv0Y80dR6DJmY9) | 3:03 | 2020-03-14 | 2020-05-08 |
@@ -389,7 +391,7 @@
 | [Selfish](https://open.spotify.com/track/625zvGkOpwTNi4tZ54bdZH) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4F1hweOR3EvXq0VxMm6bUF) | 2:08 | 2022-07-14 |  |
 | [Send Me on My Way](https://open.spotify.com/track/0Eko4AsGljvQQHb0T7cu1N) | [Guy Meets Girl](https://open.spotify.com/artist/5YqGCzRaUM6XZss3tWRNAY) | [Send Me on My Way](https://open.spotify.com/album/0Q9gYCnSArFUpFhCDXxRAD) | 3:44 | 2021-07-23 | 2022-01-28 |
 | [Sentimental](https://open.spotify.com/track/29ZBpjEMa3oUqkCgqH3qZA) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Sentimental](https://open.spotify.com/album/0ZJo2SFmj1t8mDhOg2Y7yi) | 3:11 | 2021-10-02 | 2022-07-29 |
-| [Sentimental](https://open.spotify.com/track/61VZLH1gv19xeKByFm8c0o) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Sentimental](https://open.spotify.com/album/3hIHz8gFHs3P1TTOE6WhAV) | 3:11 | 2022-07-14 |  |
+| [Sentimental](https://open.spotify.com/track/61VZLH1gv19xeKByFm8c0o) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Sentimental](https://open.spotify.com/album/3hIHz8gFHs3P1TTOE6WhAV) | 3:11 | 2022-07-14 | 2023-06-09 |
 | [Sentimental](https://open.spotify.com/track/6xO4jMsKnQgnbt7AMnsIh9) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4F1hweOR3EvXq0VxMm6bUF) | 3:11 | 2022-11-03 | 2022-11-14 |
 | [Seven](https://open.spotify.com/track/7FRICngbPiyTPEKF7wRC9G) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Seven](https://open.spotify.com/album/0h6H0mvA1LVBjamUATXOM3) | 3:43 | 2020-06-29 | 2020-07-18 |
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2019-07-29\* | 2019-08-02 |

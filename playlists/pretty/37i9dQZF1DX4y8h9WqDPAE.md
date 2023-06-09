@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where Hip\-Hop, Afro\-Fusion & Pop meet R&B !  Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,783,154 likes - 126 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,783,240 likes - 126 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 125 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
 | 126 | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/track/3K9IrLs25jHtvWjAAFAfav) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ) | 2:40 |
 
-Snapshot ID: `MCxiMTYwMTBkZGMyNTc5OTY4Y2U4ODc2MzYzNjM0ZjI1YzhkY2I2NmJh`
+Snapshot ID: `MCw4ZDUxZjZiZmQzMGM5ZTc1YWNkNDZmOWRmMDdiNGZkNGNlMjViNWY1`

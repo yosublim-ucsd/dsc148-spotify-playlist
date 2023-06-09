@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Anie Alerte
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,975 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,993 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 67 | [Fanm Chè](https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Trap King](https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK) | 3:06 |
 | 68 | [Ogou \(Pran Ka Mwen\)](https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Ogou \(Pran Ka Mwen\)](https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y) | 4:56 |
 | 69 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 |
-| 70 | [P's & Q's](https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx) | [Dyna Edyne](https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3), [Anonymuz](https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm) | [P's & Q's](https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m) | 3:16 |
-| 71 | [Sote](https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [Sote](https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx) | 2:28 |
-| 72 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
-| 73 | [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 |
+| 70 | [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 |
+| 71 | [P's & Q's](https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx) | [Dyna Edyne](https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3), [Anonymuz](https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm) | [P's & Q's](https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m) | 3:16 |
+| 72 | [Sote](https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [Sote](https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx) | 2:28 |
+| 73 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
 | 74 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
 | 75 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
 | 76 | [LAKAY](https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg) | [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt), [AlCol](https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR) | [LAKAY](https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM) | 2:51 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 81 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
 | 82 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
 | 83 | [Mercy](https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Mercy](https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK) | 2:33 |
-| 84 | [KASE](https://open.spotify.com/track/1sJPUmyBAzz2IMyeMG3HS0) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Donzo City](https://open.spotify.com/album/470RDnmQOE7co3AkwUa6Hx) | 2:27 |
-| 85 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 |
+| 84 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 |
+| 85 | [KASE](https://open.spotify.com/track/1sJPUmyBAzz2IMyeMG3HS0) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Donzo City](https://open.spotify.com/album/470RDnmQOE7co3AkwUa6Hx) | 2:27 |
 | 86 | [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 |
 | 87 | [Nan ou](https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH) | [Gessica Généus](https://open.spotify.com/artist/1GAw14vejnlO5eyny3lDHw) | [Nan ou](https://open.spotify.com/album/6hofahig2OrGv725bqsmo3) | 3:46 |
 | 88 | [Solèy Midi](https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW) | [Talie](https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6), [David Chavannes](https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc) | [Solèy Midi](https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Koupé](https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk) | [Bilix](https://open.spotify.com/artist/2t3MOHUqpgzXfxRugdaXSY), [Blackboy](https://open.spotify.com/artist/41rmcjpuoB63va3wJtJ5sV), [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [Koupé](https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI) | 2:35 |
 | 100 | [Nahilé](https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa) | [RockLee](https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM), [Wesli](https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [Nahilé](https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9) | 3:49 |
 
-Snapshot ID: `MCxiMzg1NzVlMDM5OGI0YTAyMDE2NTFhYzUxNGExMTNmYTY3NTllODg0`
+Snapshot ID: `MCxhNTlkMGVlMjBmNDNmODllMjBmZjE2NmM5ZDYwZTFiMjFlMTQzNmYw`

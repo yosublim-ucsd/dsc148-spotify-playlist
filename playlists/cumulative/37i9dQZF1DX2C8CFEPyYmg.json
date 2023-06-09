@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 90750,
       "name": "A Cradle Song",
       "url": "https://open.spotify.com/track/60E2u8QrNYRC81CCUTWtDe"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 130597,
       "name": "A Windmill in Old Amsterdam",
       "url": "https://open.spotify.com/track/5C0NAFoZc2SHT58zvJS86m"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 105124,
       "name": "Always There",
       "url": "https://open.spotify.com/track/0eQLfnF34T66phC2k436tR"
@@ -1244,6 +1244,24 @@
       "duration_ms": 110794,
       "name": "C is for Cookie",
       "url": "https://open.spotify.com/track/5TFGF1SttPMFcJfaHsg4AC"
+    },
+    {
+      "album": {
+        "name": "Calm Dreams",
+        "url": "https://open.spotify.com/album/1hKwkcZMb8NP9vzAaU0SvB"
+      },
+      "artists": [
+        {
+          "name": "Leon Arms",
+          "url": "https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101624,
+      "name": "Calm Dreams",
+      "url": "https://open.spotify.com/track/4WmcT9stH27GRJG2rmtfih"
     },
     {
       "album": {
@@ -2741,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "Heavenly Dreams",
+        "url": "https://open.spotify.com/album/4e7sRiWLqh41CMDhNlkzZa"
+      },
+      "artists": [
+        {
+          "name": "Victor Campbell",
+          "url": "https://open.spotify.com/artist/47EkMlUolyXWUVsn7EsiQO"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108770,
+      "name": "Heavenly Dreams",
+      "url": "https://open.spotify.com/track/2V1aDmJ0YBUGipLpHLzQvB"
+    },
+    {
+      "album": {
         "name": "Hide and Seek",
         "url": "https://open.spotify.com/album/0D1cjaMtCqVbypWM95idgN"
       },
@@ -3382,10 +3418,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 128346,
       "name": "Itsy Bitsy Spider",
       "url": "https://open.spotify.com/track/3Fh85qoGXUlWa64ZtfF68H"
+    },
+    {
+      "album": {
+        "name": "Itsy Bitsy Spider",
+        "url": "https://open.spotify.com/album/0iMZnJcE5H3cvOMoWkufRE"
+      },
+      "artists": [
+        {
+          "name": "Roly-Poly",
+          "url": "https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131990,
+      "name": "Itsy Bitsy Spider",
+      "url": "https://open.spotify.com/track/2kduXAqtBjAZJet0xcfjeO"
     },
     {
       "album": {
@@ -7184,6 +7238,24 @@
       "duration_ms": 95675,
       "name": "Underneath My Bed",
       "url": "https://open.spotify.com/track/4xGJ4hiEDE1q90BzKwiWSC"
+    },
+    {
+      "album": {
+        "name": "Unicorns",
+        "url": "https://open.spotify.com/album/6K8LetL1T75t1ETwbPDAU7"
+      },
+      "artists": [
+        {
+          "name": "Choo Choo Baby",
+          "url": "https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135208,
+      "name": "Unicorns",
+      "url": "https://open.spotify.com/track/5eUi6uioV6i7zSwhEhL4pf"
     },
     {
       "album": {

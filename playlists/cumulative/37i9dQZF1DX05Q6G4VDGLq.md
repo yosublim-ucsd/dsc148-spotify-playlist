@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-554 songs - 1 day 9 hr 49 min
+555 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [My first kiss](https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [My first kiss](https://open.spotify.com/album/1Qhe73UDyVrdfpi6j3Ymnw) | 3:24 | 2023-03-16 |  |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-10-07 |  |
 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-01 | 2023-04-22 |
+| [My Home](https://open.spotify.com/track/3KdDCxjdjKcGPkzWvRK6O4) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [My Home](https://open.spotify.com/album/0LOEMiRv333HtclEArNGjC) | 2:41 | 2023-06-08 |  |
 | [My Ideal](https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [My Ideal](https://open.spotify.com/album/1VPyA2gRCqIEGIXf2wtOQ9) | 3:27 | 2022-06-28 | 2022-11-11 |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2022-12-30 |  |
 | [My Little Brown Book](https://open.spotify.com/track/2txEKqhpnuwmHS7a0YBYHE) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [My Little Brown Book](https://open.spotify.com/album/1anaHcKFfGvPfqhfaAEnmy) | 3:57 | 2022-09-29 | 2023-01-13 |
@@ -372,7 +373,7 @@
 | [On The Street Where You Live](https://open.spotify.com/track/7xLNfcvvxHB3gjCeBdDD4n) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [On The Street Where You Live](https://open.spotify.com/album/09UH3htyiTiqxM0FnhqDsv) | 3:19 | 2022-08-30 | 2023-02-23 |
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/4X4PGg2TnRyXZS9lsY8Hl7) | [Syncopation Station](https://open.spotify.com/artist/7c5Bd1OW0AbwL2yqDpSecr) | [On The Sunny Side Of The Street](https://open.spotify.com/album/3qSthRLQuCOS3NB1sDPLEE) | 3:23 | 2023-04-27 |  |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2022-06-28 | 2022-12-08 |
-| [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-02-02 |  |
+| [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-02-02 | 2023-06-09 |
 | [Once In A While](https://open.spotify.com/track/12SBeS47Z8b1N6FqbfXhL7) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Once In A While](https://open.spotify.com/album/1cx3QPnfkgDUdr7SLyx4yg) | 3:53 | 2023-01-26 |  |
 | [Once Knowing](https://open.spotify.com/track/05yDpj1357DbqJsH2V4DL9) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 3:14 | 2023-03-02 |  |
 | [Only Way To Play Is All In](https://open.spotify.com/track/5nEXgS8wX0y4dVqe3GUPHI) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Only Way To Play Is All In](https://open.spotify.com/album/4PzO4qn8WkZtHL6Fx6z65h) | 3:18 | 2023-05-04 |  |

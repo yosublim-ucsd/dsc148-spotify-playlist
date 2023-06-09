@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,776 likes - 100 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,933 likes - 100 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 3 | [Dig Dis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:09 |
 | 4 | [Blue Train](https://open.spotify.com/track/3CABfEMOTXoF4HoBm4HsWH) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train: The Complete Masters](https://open.spotify.com/album/4bdyaPEbYeZtlCLfWzDpTI) | 10:43 |
 | 5 | [Song For My Father](https://open.spotify.com/track/1CDBaGlisZlOJzvx88lL8A) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:18 |
-| 6 | [The Sidewinder](https://open.spotify.com/track/3DeSfcOZOa7DUhLB4LVrpd) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:05 |
+| 6 | [Bow and Arrow](https://open.spotify.com/track/0sI3WcshNAV85OwSGIUv9O) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [In Real Time](https://open.spotify.com/album/2zkgkyuC0eyxS2d73xTc2o) | 6:17 |
 | 7 | [lamplight](https://open.spotify.com/track/0rRtkc4eUbH2v6qBtw00l4) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 3:37 |
 | 8 | [Castle Park](https://open.spotify.com/track/0jf293soDMku4J3lHZXUa3) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [View With A Room](https://open.spotify.com/album/0bxXAO9Vxpx20fidIJc4va) | 3:57 |
 | 9 | [Chitlins Con Carne](https://open.spotify.com/track/18A1V1vsy5YgHFqb4galTw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:30 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 16 | [Shadow](https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 4:44 |
 | 17 | [Search For Peace](https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 6:32 |
 | 18 | [Footprints \- Remastered](https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 7:29 |
-| 19 | [Gazelle Suite](https://open.spotify.com/track/6IYxQ0EqUnhEEsJuoWi0iv) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Dance Kobina](https://open.spotify.com/album/0AUn2s7xXGY4ZGWArU66QA) | 5:27 |
+| 19 | [Dance Kobina](https://open.spotify.com/track/0x1ouEGnLQh4Iyv3EpNSmV) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Dance Kobina](https://open.spotify.com/album/0AUn2s7xXGY4ZGWArU66QA) | 6:24 |
 | 20 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 |
 | 21 | [I'm All For You](https://open.spotify.com/track/7fLpfSVEJiYmPT7gx0UCAX) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I'm All For You \(Ballad Songbook\)](https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL) | 7:50 |
 | 22 | [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 99 | [Maiden Voyage](https://open.spotify.com/track/7r1EOboFCZVUCPB6Cz42q9) | [Bob Belden Project](https://open.spotify.com/artist/5L086bNiOHKUwE9efaBQ1N), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Shades Of Blue](https://open.spotify.com/album/2Z31ciU8s8Fxiuj5FCRdcS) | 6:58 |
 | 100 | [How Can I Tell You \- Live](https://open.spotify.com/track/4ZUlQw3KS7qiBrgJxSyel0) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Passin' Thru \(Live\)](https://open.spotify.com/album/2qiyL96vDeoFjWhRdJ4vL5) | 9:46 |
 
-Snapshot ID: `MCxmYWI2MTM1OTA5MDMxMDM1OTJlNGQ2NzY0YWQ0ZWE5MmVmYzczNDE2`
+Snapshot ID: `MCxiNTc5NTA5NjRiODllNTQxM2Q2YmIxZTI1MTAxYmVlZmMyNWU0YjI4`

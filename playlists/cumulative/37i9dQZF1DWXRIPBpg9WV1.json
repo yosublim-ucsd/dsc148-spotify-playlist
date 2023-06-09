@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Against All Odds",
+        "url": "https://open.spotify.com/album/5btDlYUcNUsNcrW8FnFqrm"
+      },
+      "artists": [
+        {
+          "name": "Larry Eagler",
+          "url": "https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177284,
+      "name": "Against All Odds",
+      "url": "https://open.spotify.com/track/3miBYmuGu0jr8RE6TDdHzU"
+    },
+    {
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/3coti4dPLbCMnZJJE2SrvV"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 209000,
       "name": "Come To My Window",
       "url": "https://open.spotify.com/track/2PbBN3RdEoS9EmNcmZzUHh"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 151387,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/7vdVksatKHCmcTVHaAwgBD"
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 193125,
       "name": "Goodbye Yellow Brick Road",
       "url": "https://open.spotify.com/track/4NyXOt1GM6PaSyg7kkPI9u"
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 116756,
       "name": "I Want to Break Free",
       "url": "https://open.spotify.com/track/6GmrAymqRZ6dNU3U6GhjTs"
@@ -4113,6 +4131,24 @@
     },
     {
       "album": {
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/4r0aHYYhUwlaZ2sthOuJ0s"
+      },
+      "artists": [
+        {
+          "name": "The Poet",
+          "url": "https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140838,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/6e5NXvhtb7cEaNWUXZvIWZ"
+    },
+    {
+      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6"
       },
@@ -4214,7 +4250,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 226252,
       "name": "You'll Be In My Heart",
       "url": "https://open.spotify.com/track/6rxxiq5RvmV3PASrUKwDCm"

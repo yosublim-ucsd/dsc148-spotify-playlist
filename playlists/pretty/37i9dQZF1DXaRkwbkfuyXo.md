@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Seguimos arremangados, pariente\. Voz de Mando en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,633 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,884 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 44 | [A La Moda](https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:06 |
 | 45 | [25 De Diciembre](https://open.spotify.com/track/2ZyPDr61OhPbnLp8L9rAjW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:54 |
 | 46 | [Leyenda Caro Quintero](https://open.spotify.com/track/6wUIrNOTjodEu5JqxSZy7F) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios Y El Diablo](https://open.spotify.com/album/5yhcHgchenU7HC1E8fhzbM) | 3:37 |
-| 47 | [El 24](https://open.spotify.com/track/5tMLBYW72NwEPEHS1M4FPJ) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [En Vivo](https://open.spotify.com/album/3OQyUgoSKy4anHKQqkswVy) | 2:17 |
+| 47 | [El 24](https://open.spotify.com/track/1W8rZxURkCD27SKRoslS4b) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [En Vivo](https://open.spotify.com/album/3m53TM7KpYw1Z99RTQFW2o) | 2:17 |
 | 48 | [Pedron Antraxx](https://open.spotify.com/track/2uy6QtsEoLpG1qxKfBWj8r) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Corridos \- Corridos Reales No Payasadas](https://open.spotify.com/album/6TRRZdFmspMalRvacjvGV0) | 2:53 |
 | 49 | [Demonios Empecherados](https://open.spotify.com/track/5dF8rsyF2E8Izms8qpx1mn) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Los Buitres Con Tololoche](https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E) | 2:27 |
 | 50 | [Estilo Especial](https://open.spotify.com/track/5gu86M6D80wPPDnnrxCQ79) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 74 | [25 de Diciembre](https://open.spotify.com/track/0vkWhjZgixnhhvMQjzLa9v) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 3:03 |
 | 75 | [J\. Walker](https://open.spotify.com/track/59sVHAfxiIX1uAKXjFksAI) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 2:25 |
 
-Snapshot ID: `MCwyNWI5NWI4ZDM1MmJkZmY4YTQwMGJkNzIyM2ViYjNlNjVlZTJhZjEy`
+Snapshot ID: `MCw5ZTE2ZWRlNjBmOTQ5MjczYTViYjA0MDViNzlhZmFmNjFkZTkwNmM3`

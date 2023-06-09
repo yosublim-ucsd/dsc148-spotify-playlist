@@ -1,12 +1,12 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 1015445,
+  "num_followers": 1015562,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmNjZWJjMGE2YjNkYTJlOGU3MTM5NGM0NGY5NDg4MDZjM2ViMmRm",
+  "snapshot_id": "MCw3YTVhODljMzM1MjIzNjMzMmJhNjQ0OWMzYmYxM2I1YzhjMWEwNWE0",
   "tracks": [
     {
       "added_at": "2023-06-05 16:56:30",
@@ -94,6 +94,10 @@
         {
           "name": "$NOT",
           "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
       "duration_ms": 99804,

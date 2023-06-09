@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of rock from the UK & Ireland. Cover: HotWax",
+  "description": "The new wave of rock from the UK & Ireland. Cover: Dead Pony",
   "name": "shockwave",
   "tracks": [
     {
@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Adore Adore Adore",
+        "url": "https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi"
+      },
+      "artists": [
+        {
+          "name": "Sprints",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157766,
+      "name": "Adore Adore Adore",
+      "url": "https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI"
+    },
+    {
+      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/0vC6K5RFvqdE2CSpYZQXIz"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 175491,
       "name": "AMERICA'S NEXT TOP MODEL",
       "url": "https://open.spotify.com/track/2bZeCw3SEcY0uMq2bdhFGc"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 190206,
       "name": "Bite",
       "url": "https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 196466,
       "name": "Candy",
       "url": "https://open.spotify.com/track/0p5xMjlOc6Rpm8Y974Kn6H"
@@ -812,7 +830,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 268650,
       "name": "For You",
       "url": "https://open.spotify.com/track/0yUymvlfxHWxE62ys8VtbM"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 166266,
       "name": "fuzz",
       "url": "https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG"
@@ -928,7 +946,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 180088,
       "name": "GO!",
       "url": "https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC"
@@ -1702,7 +1720,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 206360,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/46qYZOK1KrVxCNv3soNe1Z"
@@ -1828,10 +1846,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 157155,
       "name": "Micro Aggression",
       "url": "https://open.spotify.com/track/0AoVDlD4Da25HVGUpM0liK"
+    },
+    {
+      "album": {
+        "name": "MK Nothing",
+        "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204143,
+      "name": "MK Nothing",
+      "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
     },
     {
       "album": {
@@ -1846,7 +1882,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 172120,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3"
@@ -2019,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "follow:noise",
+        "url": "https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN"
+      },
+      "artists": [
+        {
+          "name": "Superlove",
+          "url": "https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx"
+    },
+    {
+      "album": {
         "name": "parasite",
         "url": "https://open.spotify.com/album/4EI3dIY1GHQ8gZrkfDO3fm"
       },
@@ -2052,6 +2106,24 @@
       "duration_ms": 156409,
       "name": "Past Vibration",
       "url": "https://open.spotify.com/track/2jLe4rXo1X8o529i7f4k7q"
+    },
+    {
+      "album": {
+        "name": "Piggie",
+        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178789,
+      "name": "Piggie",
+      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
     },
     {
       "album": {
@@ -2246,7 +2318,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 148557,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/1hiUjws67EtIOAIRVJgrlW"
@@ -2347,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Service Stationed",
+        "url": "https://open.spotify.com/album/2rGSlE6jVNffVrE1kof8Wa"
+      },
+      "artists": [
+        {
+          "name": "JOHN (TIMESTWO)",
+          "url": "https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Service Stationed",
+      "url": "https://open.spotify.com/track/6LSBwxOEfsL76TrQOelvpX"
+    },
+    {
+      "album": {
         "name": "She's So",
         "url": "https://open.spotify.com/album/5jOkQr3txEQKryTmroXOzy"
       },
@@ -2401,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "Fester",
+        "url": "https://open.spotify.com/album/75vIvXpWldf5ypHvHkjH0P"
+      },
+      "artists": [
+        {
+          "name": "Legss",
+          "url": "https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242110,
+      "name": "Sister, Brother",
+      "url": "https://open.spotify.com/track/11X5kvgN18tU3J4EuAkl7L"
+    },
+    {
+      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/1teDDY70sVGEWaipW00Tiq"
       },
@@ -2430,7 +2538,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 187689,
       "name": "Sleep Forever",
       "url": "https://open.spotify.com/track/4BKHayZJtmyfm0NP8erXiC"
@@ -2502,7 +2610,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 225624,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/5t1MLxm9vWYxK3m13QoHts"
@@ -2538,7 +2646,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 158750,
       "name": "stockholme syndrome",
       "url": "https://open.spotify.com/track/3vBgnkGxNvflZGsNSE2d57"
@@ -2610,7 +2718,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 133567,
       "name": "Sweet One",
       "url": "https://open.spotify.com/track/2keqxI0IrJUrdBbXpswQpI"
@@ -2794,7 +2902,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 196922,
       "name": "Tramlines",
       "url": "https://open.spotify.com/track/2TeHRE4Rl4YvuhlNuBXJVM"
@@ -2902,10 +3010,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 173419,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2KMefBHwUJBmP9w2XZKnoa"
+    },
+    {
+      "album": {
+        "name": "Way, No Way",
+        "url": "https://open.spotify.com/album/272UlvmzxL0Z6If8reDTrs"
+      },
+      "artists": [
+        {
+          "name": "Public Body",
+          "url": "https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159037,
+      "name": "Way, No Way",
+      "url": "https://open.spotify.com/track/6cYLLMcgoRzSKPLHRtbk6e"
     },
     {
       "album": {
@@ -3064,7 +3190,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 159111,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/2WtIhJpUy1p0t1dg6Tq8bZ"

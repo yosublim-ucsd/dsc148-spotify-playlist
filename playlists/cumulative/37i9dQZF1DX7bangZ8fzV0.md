@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=rM4aHZlVSCqvSG7VVjWJbg">Appel</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=cxy2BT0aTNKiKZHRPtNMLw">Barto</a>
 
-144 songs - 8 hr 2 min
+146 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Ek Sê So](https://open.spotify.com/track/2q8HCRTpxZrqErJ3RqOpRT) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Ek Sê So](https://open.spotify.com/album/1w40mnsJMQ65QLtsn5xZhB) | 3:01 | 2022-12-22 |  |
 | [Ek Wens](https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Ek Wens](https://open.spotify.com/album/7s1ETgKwUedSSPMIJTY6Hg) | 3:57 | 2022-11-10 | 2023-06-04 |
 | [Erika Way](https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn), [Jodi Jantjies](https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG) | [Dryf](https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt) | 4:33 | 2022-12-08 | 2022-12-30 |
-| [Fairway Lyf](https://open.spotify.com/track/3DLeotilho45LEdwKPYb49) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Fairway Lyf](https://open.spotify.com/album/4gIcGlEcuNiBtT7IcB56DV) | 3:09 | 2023-04-20 |  |
+| [Fairway Lyf](https://open.spotify.com/track/3DLeotilho45LEdwKPYb49) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Fairway Lyf](https://open.spotify.com/album/4gIcGlEcuNiBtT7IcB56DV) | 3:09 | 2023-04-20 | 2023-06-09 |
 | [Foto's](https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Foto's](https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU) | 3:14 | 2022-10-28 |  |
 | [Foute](https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Foute](https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l) | 3:22 | 2023-05-18 |  |
 | [Gee My ‘n Boerseun](https://open.spotify.com/track/2oBfcnyvgX6cajJgIFeqY2) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Gee My ‘n Boerseun](https://open.spotify.com/album/7x9ZKftmTxAmr4uto3piBr) | 3:24 | 2022-04-14 | 2022-11-11 |
@@ -66,6 +66,7 @@
 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 | 2022-07-21 |  |
 | [Jannie Bloemfontein](https://open.spotify.com/track/67H3zHKazVQaEbTPhxYO5Y) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Jannie Bloemfontein](https://open.spotify.com/album/25Ar72ANXBJmlwYqh56d8u) | 2:31 | 2023-04-06 | 2023-04-28 |
 | [Jinne Maar Dis Lekker](https://open.spotify.com/track/19NUbG17wydOXIC8e3dFma) | [Ché](https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90) | [Jinne Maar Dis Lekker](https://open.spotify.com/album/7oibnZJvOZJFWJ5pdNvZIJ) | 3:06 | 2023-02-02 | 2023-05-12 |
+| [John Deere Hoed](https://open.spotify.com/track/0Dt6zGwAJJLnAgRkVmvSiu) | [Fanus Pienaar](https://open.spotify.com/artist/3L3YdChQhiqC36EgmDuUge) | [John Deere Hoed](https://open.spotify.com/album/6ClZGnn2DfZ4clTakd59Bl) | 3:32 | 2023-06-08 |  |
 | [Johnnie Blou](https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Johnnie Blou](https://open.spotify.com/album/0D5L3scMWg5Y08JaqQi4ti) | 3:07 | 2021-11-18 |  |
 | [Jona](https://open.spotify.com/track/1ayD1GOwLOYuagWkMKMhnB) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/4csicD8Mqlrxx8vgvUnXGi) | 3:02 | 2022-04-14 | 2022-11-25 |
 | [Jou Lippe](https://open.spotify.com/track/7mvzTspWvSyGyOvH4Z5a0o) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Swaeltjies](https://open.spotify.com/album/4XDDLItIj4rCR8zDdou82V) | 3:35 | 2023-03-09 |  |
@@ -83,7 +84,7 @@
 | [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 | 2022-08-04 |  |
 | [Kyk Na My Hart](https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Die Onbekende](https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc) | 2:47 | 2023-03-09 |  |
 | [Lemoene](https://open.spotify.com/track/5J24BPmjKlr77KK4sQ5iuo) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:26 | 2023-03-09 |  |
-| [Lenie Blou](https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Swaartekrag](https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt) | 2:58 | 2023-03-09 |  |
+| [Lenie Blou](https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Swaartekrag](https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt) | 2:58 | 2023-03-09 | 2023-06-09 |
 | [Lentekind \- Dans Remix](https://open.spotify.com/track/3jp5MWHkhUMNKvTcKoEC21) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Lentekind \(Dans Remix\)](https://open.spotify.com/album/29N4DMheHAM04FlffYEAoq) | 2:37 | 2022-09-01 | 2022-10-29 |
 | [Lief](https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5), [Jacob Swann](https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe) | [Lief](https://open.spotify.com/album/2qlqp7lrg0ZJtPrcdilOt2) | 3:25 | 2022-07-07 | 2023-03-18 |
 | [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 | 2022-08-04 |  |
@@ -140,6 +141,7 @@
 | [Vat Die Cruiser](https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jacques Du Plessis](https://open.spotify.com/artist/1JACnZftdau4Kpt0I8kvTA) | [Vat Die Cruiser](https://open.spotify.com/album/1kfAKry5OJsrxRQsKBX5s1) | 3:00 | 2022-12-08 |  |
 | [Vegter](https://open.spotify.com/track/1KK0U3XmxHyj5WYjARSxkv) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Vegter](https://open.spotify.com/album/1c7lGU1cP8l04hmOSAbCOC) | 3:46 | 2022-06-09 | 2022-10-07 |
 | [Vir Jou Geval](https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Vir Jou Geval](https://open.spotify.com/album/3XWL5eNy3Q2bSOjk9Pwfwx) | 4:02 | 2022-12-29 |  |
+| [Vlam In Die Wind](https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Vlam In Die Wind](https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8) | 3:25 | 2023-06-08 |  |
 | [Vleisvreters](https://open.spotify.com/track/63RtO5V94GhSGYvZEucg4h) | [Neil Somers](https://open.spotify.com/artist/1jO22tNfag5lkLQboj0npK), [Adam Tas](https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r) | [Vleisvreters](https://open.spotify.com/album/6wWrTYihuyhLCpz8C4OLxQ) | 3:07 | 2023-03-03 |  |
 | [Vuil Coke](https://open.spotify.com/track/3tDxxrog40sqbYRN1xPTfx) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Vuil Coke](https://open.spotify.com/album/1Y12kOAc9lTcGHWYXIhceh) | 3:37 | 2023-03-09 |  |
 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 | 2023-01-05 |  |

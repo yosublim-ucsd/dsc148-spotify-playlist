@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-110 songs - 6 hr 39 min
+111 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 | 2021-08-24 |  |
 | [Corona and Lime](https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Corona and Lime](https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH) | 3:19 | 2021-08-24 |  |
 | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW) | 3:34 | 2021-08-24 |  |
+| [Dangerous](https://open.spotify.com/track/0JgQ9e26nCa3hIElMqHcok) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Dangerous](https://open.spotify.com/album/1xkMMcFFh8gy6uWyQ5TkOT) | 3:31 | 2023-06-08 |  |
 | [DJs](https://open.spotify.com/track/05u6c3jCVNewXt0rFUw7p4) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [The House That Bradley Built \(Deluxe Edition\)](https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg) | 3:24 | 2022-06-09 | 2022-08-07 |
 | [DJs](https://open.spotify.com/track/53jbCI3T7Enf0ts76ySNYn) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [DJs](https://open.spotify.com/album/7xMJkHig1DBtwA6um5ltM1) | 3:24 | 2021-08-24 | 2022-07-29 |
 | [Do Anything](https://open.spotify.com/track/0RPWvTmpHCKp46eyjVZCWm) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/7mOChcsSzAoc1TjQr6TRRt) | 2:57 | 2021-08-24 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Livrea",
+  "description": "Il meglio dell'R&B italiano. Cover: Josef, Evra, Kaput, MyDrama, BluePhelix",
   "name": "anima R&B",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 197066,
       "name": "Black Eagle",
       "url": "https://open.spotify.com/track/1RgTtE3B08KoJXq5brKcuW"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 165454,
       "name": "Capita",
       "url": "https://open.spotify.com/track/3Lve3UdDi0J2hdCVED05Rl"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 177945,
       "name": "ci sono anch'io",
       "url": "https://open.spotify.com/track/3vaJKoqZhrzXKakku9mLlG"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 178468,
       "name": "fuoco & fiamme",
       "url": "https://open.spotify.com/track/14Z7Nuo9LNT6u1nGVb3s8O"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 184000,
       "name": "GALATTICO",
       "url": "https://open.spotify.com/track/2ubrXzljPjsnbufW0uiwD5"
@@ -3046,7 +3046,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 159239,
       "name": "LA TIGRE (feat. GELO)",
       "url": "https://open.spotify.com/track/1WOcVg5uTpw0KdmY3yO2lI"
@@ -3206,6 +3206,28 @@
       "duration_ms": 233026,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/05kYCKcmfgsiEXAKR2ZwHW"
+    },
+    {
+      "album": {
+        "name": "Limite",
+        "url": "https://open.spotify.com/album/03InZ9HBmYZswI4ZAmaz4j"
+      },
+      "artists": [
+        {
+          "name": "VISCARDI",
+          "url": "https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX"
+        },
+        {
+          "name": "SVM",
+          "url": "https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178857,
+      "name": "Limite",
+      "url": "https://open.spotify.com/track/1HYwX6zxcel9LD2ej5QEGR"
     },
     {
       "album": {
@@ -3507,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "Mai",
+        "url": "https://open.spotify.com/album/15yYnAkNRCm31esmGNf6ew"
+      },
+      "artists": [
+        {
+          "name": "Sant\u00e9",
+          "url": "https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Mai",
+      "url": "https://open.spotify.com/track/49yoO2ALwofOHJnMO5ufUy"
+    },
+    {
+      "album": {
         "name": "MaiMai",
         "url": "https://open.spotify.com/album/0N0eyvXySVkHm43vO2vYS7"
       },
@@ -3638,6 +3678,24 @@
       "duration_ms": 155360,
       "name": "Mercurio",
       "url": "https://open.spotify.com/track/4V5DQ7DcZgmS5dW9bFCSac"
+    },
+    {
+      "album": {
+        "name": "Mi Gira La Testa",
+        "url": "https://open.spotify.com/album/5IH5AeO5aTumznJO9IL3vX"
+      },
+      "artists": [
+        {
+          "name": "Adriana",
+          "url": "https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Mi Gira La Testa",
+      "url": "https://open.spotify.com/track/114YeEt2XdzX57hb96uG7B"
     },
     {
       "album": {
@@ -3830,7 +3888,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 168791,
       "name": "Neutral",
       "url": "https://open.spotify.com/track/690oGzYVBsc4Wb28GuhWB9"
@@ -3848,7 +3906,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 174000,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/2lWNfdvULQlAg8abVzLRVi"
@@ -4034,6 +4092,28 @@
       "duration_ms": 181463,
       "name": "Non ti sento pi\u00f9",
       "url": "https://open.spotify.com/track/3hdAL9JFNGFRbO4MhzIaVR"
+    },
+    {
+      "album": {
+        "name": "Not Here to Please",
+        "url": "https://open.spotify.com/album/5fOLGwwkZ28LvPan6fXQGl"
+      },
+      "artists": [
+        {
+          "name": "SAMI",
+          "url": "https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726"
+        },
+        {
+          "name": "Ge Oh",
+          "url": "https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148050,
+      "name": "Not Here to Please",
+      "url": "https://open.spotify.com/track/7wYqphBeILgsLCS5pbX4sI"
     },
     {
       "album": {
@@ -4619,6 +4699,24 @@
     },
     {
       "album": {
+        "name": "GIOVANE CUORE",
+        "url": "https://open.spotify.com/album/1lF5COKED067Xj4KghvDtQ"
+      },
+      "artists": [
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "PUGNI",
+      "url": "https://open.spotify.com/track/7zaTBr6rFLeH9aYJx43DFJ"
+    },
+    {
+      "album": {
         "name": "Qualcosa di speciale",
         "url": "https://open.spotify.com/album/5nLD2f5T4GZ57wUwB9efde"
       },
@@ -4990,7 +5088,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 160000,
       "name": "Rolling Back",
       "url": "https://open.spotify.com/track/4EGBfa2ShqPAm6t4djglFj"
@@ -5266,6 +5364,28 @@
       "duration_ms": 202800,
       "name": "Sei Diventata",
       "url": "https://open.spotify.com/track/2tGfmcXRFhHnTM1rgDodWF"
+    },
+    {
+      "album": {
+        "name": "Semafori arancioni",
+        "url": "https://open.spotify.com/album/2NsuCCAAJEVjEeSOqtoE6R"
+      },
+      "artists": [
+        {
+          "name": "Luca Notaro",
+          "url": "https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p"
+        },
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154169,
+      "name": "Semafori arancioni",
+      "url": "https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB"
     },
     {
       "album": {
@@ -5572,7 +5692,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 184918,
       "name": "Sparring Partner",
       "url": "https://open.spotify.com/track/1cD0Yb3NyGkatnm6fVx9tQ"
@@ -6026,7 +6146,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 181621,
       "name": "Tessie",
       "url": "https://open.spotify.com/track/5OTrpx7SZy97ymkPE6fXPS"
@@ -6273,6 +6393,24 @@
     },
     {
       "album": {
+        "name": "Tutto Ok",
+        "url": "https://open.spotify.com/album/6oKvDx8fawkHIZSfA7aJXB"
+      },
+      "artists": [
+        {
+          "name": "NARA",
+          "url": "https://open.spotify.com/artist/2QwnSHVij7aOFnIb1UVAF6"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Tutto Ok",
+      "url": "https://open.spotify.com/track/5DG0NOLgGIVzYTeljm0AKw"
+    },
+    {
+      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/3GlEHam8rrkJhqitV5jw0a"
       },
@@ -6288,7 +6426,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 134000,
       "name": "U",
       "url": "https://open.spotify.com/track/6xDskSDQjJrP0H1lYWhvCj"

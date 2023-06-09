@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,911 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,917 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 18 | [Never Had A Girl](https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU) | [The Misunderstood](https://open.spotify.com/artist/4UuXO2W0oFIBZMArMPDXev) | [The Legendary Goldstar Album & Golden Glass](https://open.spotify.com/album/06mZtBRnJeufBaT0TFkqLf) | 4:31 |
 | 19 | [Crimson & Clover](https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 10:35 |
 | 20 | [Sometimes I Think About](https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Lollipop](https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX) | 4:10 |
-| 21 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
-| 22 | [A "B" Side](https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Ragamuffin Man / A ‘B’ Side](https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0) | 5:13 |
+| 21 | [A "B" Side](https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Ragamuffin Man / A ‘B’ Side](https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0) | 5:13 |
+| 22 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
 | 23 | [Inkpot](https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Inkpot & Attila](https://open.spotify.com/album/5liqryZxZvie3pfCR21liP) | 2:39 |
 | 24 | [Codine](https://open.spotify.com/track/77508QPMrHixHl0ORGZWTA) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/1jNPpX5H1F1xJNQR8Xe2CF) | 4:32 |
 | 25 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 35 | [Crystal Blues](https://open.spotify.com/track/3dHhbraAAG40gNtVUkn0uf) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Here We Are Again](https://open.spotify.com/album/0WXiQbXXPlYw5STWA7ucPH) | 6:23 |
 | 36 | [Mr\. Blues](https://open.spotify.com/track/2ENMAIS4aSOHzqaPIXCHiI) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Listen My Friends! The Best Of Moby Grape](https://open.spotify.com/album/5J7SaPEpEp91QraSb8WkRV) | 1:58 |
 | 37 | [Get Yourself Home \- Remastered](https://open.spotify.com/track/1I6z0Y0PBQvDPJUmsV8Uk4) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [The Pretty Things \(Remastered\)](https://open.spotify.com/album/2y4spnYViVnOtvdRLakH4q) | 2:15 |
-| 38 | [Miss Evil](https://open.spotify.com/track/0Ta7eXWE6geBJjuj9tAuzb) | [Frijid Pink](https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od) | [Hibernated \- Earth Omen](https://open.spotify.com/album/6BCvuOvXBZmM68vSgtRR2F) | 6:24 |
-| 39 | [Don't Call Us, We'll Call You \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC) | [Sugarloaf](https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH) | [Don't Call Us, We'll Call You \(Re\-Recorded\)](https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic) | 3:22 |
+| 38 | [Don't Call Us, We'll Call You \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC) | [Sugarloaf](https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH) | [Don't Call Us, We'll Call You \(Re\-Recorded\)](https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic) | 3:22 |
+| 39 | [Miss Evil](https://open.spotify.com/track/0Ta7eXWE6geBJjuj9tAuzb) | [Frijid Pink](https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od) | [Hibernated \- Earth Omen](https://open.spotify.com/album/6BCvuOvXBZmM68vSgtRR2F) | 6:24 |
 | 40 | [If Not This Time](https://open.spotify.com/track/6PKIEPXO7B1tIH1XMUy3fV) | [Fifty Foot Hose](https://open.spotify.com/artist/2sQPJFyaYBVSNB9NiEUnMM) | [Cauldron](https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz) | 3:38 |
 | 41 | [It's A Hard Life](https://open.spotify.com/track/3i9f1ZX8IbZVsZSoSuHO8D) | [The Seeds](https://open.spotify.com/artist/5mcarhiatlvfCghqcn73rC) | [The Seeds](https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N) | 2:40 |
 | 42 | [Lucille \(1970 BBC Top Gear Radio Broadcast\)](https://open.spotify.com/track/2oRsUm3jbPiZNp3cIs6cOP) | [The Pink Fairies](https://open.spotify.com/artist/45BIdHR6MPeNr1aNT10GJE) | [Fuzz Freakout 1970\-1971](https://open.spotify.com/album/2jUV53kqy8Y04JLKXNdZU5) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 49 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
 | 50 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
 
-Snapshot ID: `MCw3ZWM4NjIxZDk5MmQzZmNlZGE3ZGFhNzdiMzExYzM2NmUyZWE2OTQ1`
+Snapshot ID: `MCwyMDEyNTk1NTM3ZGIxYzVhMmEyYjE1ODVmZjIzNjFkNzY0MWQzYTFk`

@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 150992,
       "name": "Alles nur kein Star",
       "url": "https://open.spotify.com/track/2D0sOCo1zDMmt2dgFeqBs4"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 182493,
       "name": "AMBER",
       "url": "https://open.spotify.com/track/5Q967UCPfCsQeEgFhT1umT"
@@ -3623,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "SABLIER",
+        "url": "https://open.spotify.com/album/0iatgGWbJ72oW5WV0uMfA0"
+      },
+      "artists": [
+        {
+          "name": "Fetiche",
+          "url": "https://open.spotify.com/artist/7Lseixi3g0pLP7X0CwdGuX"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154917,
+      "name": "Bye bye",
+      "url": "https://open.spotify.com/track/45gxWKYfo1yI3C5oGCpX53"
+    },
+    {
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb"
       },
@@ -3964,7 +3982,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -5790,7 +5808,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 189064,
       "name": "Des Gat\u00e9s",
       "url": "https://open.spotify.com/track/09zGqQ1SxcVOYhIU6st444"
@@ -8138,7 +8156,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 98345,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/2t9Op7oNi6cQG00MRV7M5b"
@@ -10642,7 +10660,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 151216,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/28no7gwdF7PBCQQMuwHmXL"
@@ -11478,7 +11496,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -17580,7 +17598,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
@@ -18252,7 +18270,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 151457,
       "name": "Run It",
       "url": "https://open.spotify.com/track/7x9hIP4YZbQfPYj5zJVfqo"
@@ -19619,6 +19637,24 @@
     },
     {
       "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/4nNvlIVg2uNIXtl1WJzlH5"
+      },
+      "artists": [
+        {
+          "name": "Red-One",
+          "url": "https://open.spotify.com/artist/0se1T8xEciJgyT1OFkWhI2"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/7mqMOKEaXtKNWEbullLJIS"
+    },
+    {
+      "album": {
         "name": "AQUA",
         "url": "https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G"
       },
@@ -20330,6 +20366,24 @@
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "album": {
+        "name": "Succ\u00e8s",
+        "url": "https://open.spotify.com/album/26BuzlgD1vKIvObvro6a00"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Hauguel",
+          "url": "https://open.spotify.com/artist/1jkw8YCZEnB1oQtubs4Xqj"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161610,
+      "name": "Succ\u00e8s",
+      "url": "https://open.spotify.com/track/4r3ucmE4YOaNhc24zHCpT1"
     },
     {
       "album": {
@@ -21134,7 +21188,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 201424,
       "name": "The Ballet Girl",
       "url": "https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1"
@@ -23040,7 +23094,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

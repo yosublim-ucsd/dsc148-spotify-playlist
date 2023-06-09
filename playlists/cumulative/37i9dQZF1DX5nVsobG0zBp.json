@@ -823,6 +823,32 @@
     },
     {
       "album": {
+        "name": "Eurotape",
+        "url": "https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        },
+        {
+          "name": "tripsyhell",
+          "url": "https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB"
+        },
+        {
+          "name": "vano1337",
+          "url": "https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Fada",
+      "url": "https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0"
+    },
+    {
+      "album": {
         "name": "FALADUK\u00ca",
         "url": "https://open.spotify.com/album/4FnuMfnfppl7BA8IL16Iif"
       },
@@ -892,7 +918,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 225880,
       "name": "FEELING",
       "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
@@ -1972,7 +1998,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 304600,
       "name": "O Re$To",
       "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
@@ -2273,6 +2299,28 @@
     },
     {
       "album": {
+        "name": "ROSAS",
+        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "ROSAS",
+      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
+    },
+    {
+      "album": {
         "name": "Rubi",
         "url": "https://open.spotify.com/album/5GZRN9j6B5N7Gk5jtvaRtM"
       },
@@ -2288,7 +2336,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 223634,
       "name": "Rubi",
       "url": "https://open.spotify.com/track/4aStXzYiJWQvdspHEn6GJN"
@@ -2998,7 +3046,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 249078,
       "name": "\u00c9 ASSIM",
       "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"

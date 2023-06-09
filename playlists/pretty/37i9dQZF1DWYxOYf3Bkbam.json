@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 37263,
+  "num_followers": 37286,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmUzMGY3YjcwM2I4ODJiMjI3YjVmOWM1NTVjNThhODI3ZWE1MDQ4",
+  "snapshot_id": "MCwzYTJhMjQ1Nzc2Y2ZmYTU2NjRmZjJjMjQxYzQwMGE0MWJjOWY5ZGIz",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Taipero Poriahu",
-        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
-      },
-      "artists": [
-        {
-          "name": "Antonio Tarrag\u00f3 Ros",
-          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
-        }
-      ],
-      "duration_ms": 163986,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/61n7TIudKqHdaIZwCIS8IL"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Chamame",
         "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 171399,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Taipero Poriahu",
+        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Tarrag\u00f3 Ros",
+          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+        }
+      ],
+      "duration_ms": 163986,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/61n7TIudKqHdaIZwCIS8IL"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -175,6 +175,26 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 159363,
+      "name": "Puerto Tirol",
+      "url": "https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Correntinas II",
         "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 210453,
       "name": "Seleccion de temas enganchados",
       "url": "https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Chamame",
-        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
-      },
-      "artists": [
-        {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        },
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 159363,
-      "name": "Puerto Tirol",
-      "url": "https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
-        }
-      ],
-      "duration_ms": 162573,
-      "name": "Kilometro 11",
-      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Dos Orillas",
         "url": "https://open.spotify.com/album/0CsQeb1UcHckmnqmUB00Uz"
       },
@@ -615,22 +599,6 @@
       "duration_ms": 196733,
       "name": "La Calandria",
       "url": "https://open.spotify.com/track/1r5cTK6CzYEIhDS1p81OS2"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
-      },
-      "artists": [
-        {
-          "name": "Los Troperos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE"
-        }
-      ],
-      "duration_ms": 202786,
-      "name": "Km. 11",
-      "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -663,6 +631,38 @@
       "duration_ms": 288866,
       "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
       "url": "https://open.spotify.com/track/4A2Gnw92jmcEWpFba6i7x9"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "Kilometro 11",
+      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
+      },
+      "artists": [
+        {
+          "name": "Los Troperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Km. 11",
+      "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Nuestras Mejores 30 Canciones",
-        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 146600,
-      "name": "Mi \u00daltima Flor",
-      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Sobredosis De Chamame",
         "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 296653,
       "name": "La Fiesta Del Chamam\u00e9",
       "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Nuestras Mejores 30 Canciones",
+        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 146600,
+      "name": "Mi \u00daltima Flor",
+      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "10 A\u00f1os Unidos Por El Chamam\u00e9",
-        "url": "https://open.spotify.com/album/5BSGqrWI8EBtBiwHm87fyf"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Entre Amigos Y Chamam\u00e9",
-      "url": "https://open.spotify.com/track/68lfXFiREjevJ2Xm05cp0S"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Chamame - Los 100 mejores temas - Vol 4",
         "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 168666,
       "name": "Bien picadito",
       "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "10 A\u00f1os Unidos Por El Chamam\u00e9",
+        "url": "https://open.spotify.com/album/5BSGqrWI8EBtBiwHm87fyf"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Entre Amigos Y Chamam\u00e9",
+      "url": "https://open.spotify.com/track/68lfXFiREjevJ2Xm05cp0S"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 140040,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
+        "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 260410,
+      "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
+      "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Chamam\u00e9 para las Bailantas (En Vivo)",
         "url": "https://open.spotify.com/album/42K8yPrtPSTl0euZc5mSPV"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 445173,
       "name": "Estaci\u00f3n Solari / La Mal Peinada / El Curuzucuate\u00f1o - En Vivo",
       "url": "https://open.spotify.com/track/3Yc00UqGAZi5TipPSqHrxM"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Baile de Campo",
-        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
-      },
-      "artists": [
-        {
-          "name": "Los Taitas del Chamame",
-          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Baile de Campo",
-      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
-        "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
+        "name": "Baile de Campo",
+        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
       },
       "artists": [
         {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Los Taitas del Chamame",
+          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
         }
       ],
-      "duration_ms": 260410,
-      "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
-      "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
+      "duration_ms": 165120,
+      "name": "Baile de Campo",
+      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1175,6 +1175,22 @@
       "duration_ms": 248320,
       "name": "Mi Estrella Perdida",
       "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "duration_ms": 192042,
+      "name": "La Leyenda de la Brasita de Fuego",
+      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Noche de Tormenta",
-        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        }
-      ],
-      "duration_ms": 192042,
-      "name": "La Leyenda de la Brasita de Fuego",
-      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 185906,
       "name": "Malvita",
       "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
+      },
+      "artists": [
+        {
+          "name": "Mateo Villalba",
+          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Lluvia Correntina",
+      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
-      },
-      "artists": [
-        {
-          "name": "Mateo Villalba",
-          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Lluvia Correntina",
-      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Reyes de la Alegr\u00eda",
-        "url": "https://open.spotify.com/album/5CKefLt3bYXbScxQNXHWvQ"
-      },
-      "artists": [
-        {
-          "name": "Los Sena",
-          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
-        }
-      ],
-      "duration_ms": 130786,
-      "name": "Adi\u00f3s Ciudad de Mercedes",
-      "url": "https://open.spotify.com/track/3eQ8GfylQvontB06g9xn1Z"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Con Estilo Mbaret\u00e9",
         "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 474053,
       "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
       "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Reyes de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5CKefLt3bYXbScxQNXHWvQ"
+      },
+      "artists": [
+        {
+          "name": "Los Sena",
+          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
+        }
+      ],
+      "duration_ms": 130786,
+      "name": "Adi\u00f3s Ciudad de Mercedes",
+      "url": "https://open.spotify.com/track/3eQ8GfylQvontB06g9xn1Z"
     },
     {
       "added_at": "2023-05-05 03:00:00",

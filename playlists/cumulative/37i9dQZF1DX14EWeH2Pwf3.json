@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: AVA, ANNA, Capo Plaza",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Baby Gang",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 167771,
       "name": "100 OPPS",
       "url": "https://open.spotify.com/track/32VGaGAXpPFYh0XgmHp7lI"
@@ -362,6 +362,24 @@
       "duration_ms": 153520,
       "name": "ARMAGEDDON",
       "url": "https://open.spotify.com/track/3hCEneoWEdtkYfiWPgbhzr"
+    },
+    {
+      "album": {
+        "name": "Santana Season",
+        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183321,
+      "name": "Arsenico",
+      "url": "https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw"
     },
     {
       "album": {
@@ -2405,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "Giochi",
+        "url": "https://open.spotify.com/album/2FWsmgfAz7xTlCvFKLS61B"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174605,
+      "name": "Giochi",
+      "url": "https://open.spotify.com/track/2emdNGuqMyVK71elkXgwVp"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
@@ -2534,7 +2570,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 157714,
       "name": "GTA",
       "url": "https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O"
@@ -2912,7 +2948,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 161583,
       "name": "Intro La Divina Commedia",
       "url": "https://open.spotify.com/track/6zeHHYPL25pk7tySZa9yEp"
@@ -4655,6 +4691,32 @@
     },
     {
       "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162411,
+      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
+      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
+    },
+    {
+      "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0Zovm2YyZr0yUhiQAVuJAO"
       },
@@ -5288,7 +5350,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 179625,
       "name": "Profesora (feat. VillaBanks, Vegas Jones, Smeia)",
       "url": "https://open.spotify.com/track/3ljFwkTwDnXgDGr53FTSIV"
@@ -6271,6 +6333,32 @@
     },
     {
       "album": {
+        "name": "TAXI SULLA LUNA",
+        "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "TAXI SULLA LUNA",
+      "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
+    },
+    {
+      "album": {
         "name": "Tchikita",
         "url": "https://open.spotify.com/album/4bCnf6PzUd47Wrhfz3OrUE"
       },
@@ -6555,6 +6643,28 @@
     },
     {
       "album": {
+        "name": "Santana Season",
+        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Un milione di volte (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
+    },
+    {
+      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -6632,7 +6742,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 154778,
       "name": "Vida Mala (feat. Medy)",
       "url": "https://open.spotify.com/track/0ejEtuL3QsV1xvnHysuoVp"

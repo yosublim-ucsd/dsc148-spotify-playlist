@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 256059,
+  "num_followers": 256289,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzU3ZTYzYzgxMDM0N2JjNzMzODVlZGVhOTIzNGQ0N2UwOWNlYzU4",
+  "snapshot_id": "MCw3YTMxZmE1ZWIxMDJlNjI4NWI3MWUxZmI0NDUyZTM0ZDlkZWNhYmQ3",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Whiskey Bent And Hell Bound",
-        "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 188386,
-      "name": "Whiskey Bent And Hell Bound",
-      "url": "https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2"
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "(Ghost) Riders in the Sky",
-      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "A Decade Of Hits",
         "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 240106,
       "name": "Long Haired Country Boy",
       "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+        "name": "Whiskey Bent And Hell Bound",
+        "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 138600,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+      "duration_ms": 188386,
+      "name": "Whiskey Bent And Hell Bound",
+      "url": "https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2"
     },
     {
       "added_at": "2023-02-24 05:00:00",

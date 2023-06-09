@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 218759,
+  "num_followers": 219085,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzkyZjhkNzVmZTg5NjBkZDNlOWI0YzM4NGQ3YmMxMmU3OTM4YTVk",
+  "snapshot_id": "MCxhZmU2NjM3MWIyNjZjYTZhYmNiMzk1MmU1YTJiZjgxZjE2Y2FkOWZl",
   "tracks": [
     {
       "added_at": "2023-05-15 21:37:27",
@@ -2127,26 +2127,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Si Esta Botella Hablara",
-        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 188511,
-      "name": "Si Esta Botella Hablara",
-      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -2163,6 +2143,26 @@
       "duration_ms": 170672,
       "name": "En La Bola (feat. El De La Guitarra)",
       "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "Si Esta Botella Hablara",
+        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 188511,
+      "name": "Si Esta Botella Hablara",
+      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/4Txi7EuXuO1w8AnxRi6eZU"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/0zBXoD73b7ysX3nz9HbNAU"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
         "name": "Ya Valiste Madre (En Vivo)",
         "url": "https://open.spotify.com/album/6paAsiZAEqWpTR1EujPATt"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 187320,
       "name": "Ya Valiste Madre - En Vivo",
       "url": "https://open.spotify.com/track/3f615FYAufUocTYlEMh3Fv"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/4Txi7EuXuO1w8AnxRi6eZU"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/0zBXoD73b7ysX3nz9HbNAU"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -2523,6 +2523,22 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 169080,
+      "name": "Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
         "name": "Mi Estilo De Vida",
         "url": "https://open.spotify.com/album/50XBvxhw4rOjUlSETDuk2k"
       },
@@ -2539,22 +2555,6 @@
       "duration_ms": 135946,
       "name": "Mi Estilo De Vida",
       "url": "https://open.spotify.com/track/0pJ4tqxbke61RZeJZL6UKr"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
-        "name": "Cumbias Light, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 169080,
-      "name": "Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX"
     },
     {
       "added_at": "2023-05-15 21:37:27",

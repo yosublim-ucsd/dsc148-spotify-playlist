@@ -747,6 +747,44 @@
     },
     {
       "album": {
+        "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
+        "url": "https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175802,
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
+    },
+    {
+      "album": {
         "name": "FAST X (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s"
       },
@@ -778,40 +816,6 @@
       "duration_ms": 175802,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/1XUXrNFoi9ixlH3fn8MRXQ"
-    },
-    {
-      "album": {
-        "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
-        "url": "https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "date_added": "2023-05-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175802,
-      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-      "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
     },
     {
       "album": {
@@ -2356,7 +2360,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 209946,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
@@ -2538,6 +2542,24 @@
       "duration_ms": 211200,
       "name": "Ch\u00fang Ta Sau N\u00e0y",
       "url": "https://open.spotify.com/track/4Wdwvi2C5MD8zDi9Kg3x4X"
+    },
+    {
+      "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
     },
     {
       "album": {
@@ -7546,7 +7568,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
@@ -14662,6 +14684,28 @@
       "duration_ms": 266000,
       "name": "\u0110\u01b0\u1eddng T\u00f4i Ch\u1edf Em V\u1ec1",
       "url": "https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL"
+    },
+    {
+      "album": {
+        "name": "Rap Vi\u1ec7t M\u00f9a 3 (2023) - T\u1eadp 2",
+        "url": "https://open.spotify.com/album/2ObzJm6ITN6XQfZxkSGPkr"
+      },
+      "artists": [
+        {
+          "name": "RAP VI\u1ec6T",
+          "url": "https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL"
+        },
+        {
+          "name": "Quang Anh Rhyder",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u0110\u1ec3 Anh M\u1ed9t M\u00ecnh (feat. Quang Anh Rhyder)",
+      "url": "https://open.spotify.com/track/5Wgify5hhk544rP3bSp38q"
     },
     {
       "album": {

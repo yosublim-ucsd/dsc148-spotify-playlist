@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Sam Fender
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,087 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,163 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 36 | [Lovers Come and Lovers Go](https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Lovers Come and Lovers Go](https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS) | 2:39 |
 | 37 | [One More Night With No One](https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [One More Night With No One](https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7) | 3:20 |
 | 38 | [I Let Go](https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Let Go](https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N) | 2:21 |
-| 39 | [Wide Asleep](https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wide Asleep](https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64) | 4:12 |
-| 40 | [Good Luck Charm](https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [Good Luck Charm](https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf) | 3:07 |
+| 39 | [Good Luck Charm](https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [Good Luck Charm](https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf) | 3:07 |
+| 40 | [Wide Asleep](https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wide Asleep](https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64) | 4:12 |
 | 41 | [Hometown](https://open.spotify.com/track/2kRuduqaJfLIWGZy5EOBam) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/3pWXwphIVPJlFcvuxXvghu) | 4:52 |
 | 42 | [What a Shame](https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [What a Shame](https://open.spotify.com/album/6B45cam0D4Uw3NfleBOPrb) | 2:58 |
 | 43 | [Just Move](https://open.spotify.com/track/64fVObugIv5tiWtN6LhCRf) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/1g5uEvVcsGl0nMRjGRcGy6) | 3:06 |
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 45 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 |
 | 46 | [Real Life \- Edit](https://open.spotify.com/track/76S510QtyiUVw0GS7S8AoJ) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Real Life](https://open.spotify.com/album/0O7gTxkYxNjD3gw9WSGHhb) | 3:34 |
 | 47 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 |
-| 48 | [Wave](https://open.spotify.com/track/5uZrhapaUikHxUibhf5ELe) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4FGWWBhvlrqbqQj0Bszc33) | 3:08 |
-| 49 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
+| 48 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
+| 49 | [Wave](https://open.spotify.com/track/5uZrhapaUikHxUibhf5ELe) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4FGWWBhvlrqbqQj0Bszc33) | 3:08 |
 | 50 | [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 |
 | 51 | [Things Ain't Always What They Seem](https://open.spotify.com/track/3sUVfJ3HLD24ZluLjWnFJu) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Bilk](https://open.spotify.com/album/0FAWcffpYAfrKGmv9yxd2J) | 3:57 |
 | 52 | [Seven Bridge Road](https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Seven Bridge Road](https://open.spotify.com/album/2nZyKUC7zSptFMxwCXYK44) | 4:26 |
 | 53 | [little victories](https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [nothing's on but everyone's watching](https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd) | 2:54 |
 | 54 | [Skirts & Salads](https://open.spotify.com/track/1hU13my44YNmIVuNor31Te) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Skirts & Salads](https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go) | 2:24 |
-| 55 | [Lets Stay out Tonight](https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Emergency \(15 Year Anniversary Version\)](https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS) | 2:34 |
-| 56 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 |
+| 55 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 |
+| 56 | [Lets Stay out Tonight](https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Emergency \(15 Year Anniversary Version\)](https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS) | 2:34 |
 | 57 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 |
 | 58 | [Cherophobe](https://open.spotify.com/track/08VN91L0UaY6B2wcSd4ojR) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Deep End](https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8) | 4:16 |
 | 59 | [Isn't](https://open.spotify.com/track/5kD48GFbfBOUEXMXyfhnWr) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Isn't](https://open.spotify.com/album/6uIUWQiVY2uoHvXT779jdv) | 3:47 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 76 | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/album/53R61BIJ4taXnBztmuLVNH) | 2:18 |
 | 77 | [Kaizen](https://open.spotify.com/track/3uFjKZi6ksKM8AyUBxIeXo) | [Peaness](https://open.spotify.com/artist/0bHVjNgsMH7b4XxmWhR7Tl) | [World Full Of Worry](https://open.spotify.com/album/0PHGvVPQqVpEr8e6GsuOjl) | 3:53 |
 | 78 | [Ritual Of The Crocodile Men](https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Electric Kool\-Aid \(Pt\. 2\)](https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI) | 3:57 |
-| 79 | [Diet Punk](https://open.spotify.com/track/1rg7OEOIihiD8Z9axh67lc) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Diet Punk](https://open.spotify.com/album/5rqeXp9HmqVftmLLjqrWBR) | 3:04 |
-| 80 | [Empire](https://open.spotify.com/track/17NF7bFPjLTCyG7mdoU9RN) | [Martha Hill](https://open.spotify.com/artist/4Kc5DsSHbP83BQiY1btHjR) | [Empire](https://open.spotify.com/album/2zauc2kgGB5EB2CjsbPSyC) | 2:40 |
+| 79 | [Empire](https://open.spotify.com/track/17NF7bFPjLTCyG7mdoU9RN) | [Martha Hill](https://open.spotify.com/artist/4Kc5DsSHbP83BQiY1btHjR) | [Empire](https://open.spotify.com/album/2zauc2kgGB5EB2CjsbPSyC) | 2:40 |
+| 80 | [Time Comes Around](https://open.spotify.com/track/0c5RPTaGarzbe2aMltCHji) | [Liam Fender](https://open.spotify.com/artist/32F0MPkMvvQEeYt4IqFdW6) | [Time Comes Around](https://open.spotify.com/album/0mNncGLnd5QVfpRjrILdXC) | 4:32 |
 
-Snapshot ID: `MCwwN2Y3YzUwMjE3OTQyOWNlMTk3MTQ2OThlMjA5MjYyMDlkODYwYTY2`
+Snapshot ID: `MCwxNmY1YmZkZDA1YWYyYzk0ZGZiNDk1ZjhjNjlhNzQ5YTZlMGM2ZmY3`

@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Tejy\. Updates every Wednesday.
 
-1,360 songs - 2 day 22 hr 11 min
+1,361 songs - 2 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [Greedy](https://open.spotify.com/track/54wP5j8g1x1WUVpLKbxISY) | [Karah](https://open.spotify.com/artist/6InqGo2Lyjw5BjOo6LXgVR) | [Greedy](https://open.spotify.com/album/21EpVFXcB8eeSMm7EK81Nj) | 3:07 | 2022-10-14 | 2022-12-01 |
 | [Groove To, Pt\. 2](https://open.spotify.com/track/59fS4Nx95s7pYHKHeVdS7n) | [INQ.](https://open.spotify.com/artist/1c0sr0cvXzCt7Zmo70sZt8), [Rob Feher](https://open.spotify.com/artist/4R1wbJawZcV7JXJau3WDzx), [Gabby Nacua](https://open.spotify.com/artist/2qvbmHsVyNd9JzMWFe1jbK) | [2 Step](https://open.spotify.com/album/7vX9KUViMIpfLxDpMPyTr0) | 2:12 | 2023-05-19 |  |
 | [Grow \- A COLORS ENCORE](https://open.spotify.com/track/2ZeQp8pc5sKyjLPBhn3DZj) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [YSRA](https://open.spotify.com/album/17Cq84vHnwuiTdVUc5DBGg) | 3:27 | 2021-12-01 | 2022-01-13 |
-| [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 | 2023-06-07 |  |
+| [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Chi\-chi](https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 | 2023-06-07 |  |
 | [GULLIBLE](https://open.spotify.com/track/6I7irVYBFdlSaiouU0KZiM) | [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R) | [GULLIBLE](https://open.spotify.com/album/5rhgri1NFjnssCKcb7qzmZ) | 3:46 | 2022-06-16 | 2022-08-27 |
 | [H2O \(interlude\)](https://open.spotify.com/track/4ro4MdSpOToY9QipeppA1s) | [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [H2O \(interlude\)](https://open.spotify.com/album/7F7BtL68Fv5ZtIZ95V41v9) | 2:04 | 2022-09-21 | 2022-12-01 |
 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 | 2022-01-12 | 2022-01-27 |
@@ -1340,6 +1340,7 @@
 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 | 2022-09-01 | 2023-04-01 |
 | [Wolves](https://open.spotify.com/track/0ZQMCdRjNARo53RXcFa2r6) | [Cynáa\-Nicole](https://open.spotify.com/artist/2Z2jypOqQRJFfQDyABIO7c), [Buto](https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal) | [Wolves](https://open.spotify.com/album/2qxlrseOMntoycNLDcL5K1) | 3:50 | 2023-02-03 | 2023-04-13 |
 | [Won't Cry](https://open.spotify.com/track/5jjmzCnRglEY9RXYgESA4v) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [Won't Cry](https://open.spotify.com/album/4FJ18NpkM684zcTsSWe2wS) | 2:29 | 2023-04-26 |  |
+| [Won't Go](https://open.spotify.com/track/4PCo4gpjSJxyYLTMCAgpJy) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ) | [Won't Go](https://open.spotify.com/album/2aApeE8JQuKfTqliCTaNN1) | 2:08 | 2023-06-07 |  |
 | [Wonderful Day \(feat\. Savage The Girl\)](https://open.spotify.com/track/3wAgbgGu600ozgI1SqJK0E) | [Scruffs](https://open.spotify.com/artist/3JUDvBdW2BiLX7RT91hu3r), [Savage the Girl](https://open.spotify.com/artist/5BPqz5MFCyVf4XnC56Cyw7) | [Wonderful Day \(feat\. Savage The Girl\)](https://open.spotify.com/album/7Jl7JiRqFaqheMPWjxl3N9) | 4:10 | 2022-01-12 | 2022-02-10 |
 | [WORK 4 A SMILE \(DEMO\)](https://open.spotify.com/track/0pgR8YHXEZPOAo93QvWyhA) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8) | [DEPRESSED BUT MAKE IT COOL](https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0) | 1:50 | 2022-09-14 | 2022-10-15 |
 | [WORLD GON CRAZY](https://open.spotify.com/track/0htFzCuu7thu8yBBYKqTj9) | [Brandon Brown](https://open.spotify.com/artist/61qtzIUfDN2JyFFcQ6YDau) | [WORLD GON CRAZY](https://open.spotify.com/album/3Uuqjio27upK4oyACIGEIn) | 3:02 | 2023-04-12 |  |

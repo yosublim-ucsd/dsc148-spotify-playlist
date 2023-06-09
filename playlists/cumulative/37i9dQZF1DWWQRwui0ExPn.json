@@ -8320,7 +8320,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 134117,
       "name": "Barefoot in the Sand",
       "url": "https://open.spotify.com/track/7vH9JNHOk3ylJ23xPR5GXJ"
@@ -25215,6 +25215,24 @@
     },
     {
       "album": {
+        "name": "direct hit",
+        "url": "https://open.spotify.com/album/2YhCVr7bUPbTydkCIz4TmQ"
+      },
+      "artists": [
+        {
+          "name": "Bugaloop",
+          "url": "https://open.spotify.com/artist/2bbA8Hm3ivrkcT8ZQHNjA0"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157354,
+      "name": "direct hit",
+      "url": "https://open.spotify.com/track/7jsYnGQY9L9xyKWqK4mIga"
+    },
+    {
+      "album": {
         "name": "Dirt Roads",
         "url": "https://open.spotify.com/album/3q7gDgp6tgZbAZatZPlViJ"
       },
@@ -36506,6 +36524,24 @@
       "duration_ms": 93596,
       "name": "Friendzone",
       "url": "https://open.spotify.com/track/4LnW6PgihAXOB2oqTNypbU"
+    },
+    {
+      "album": {
+        "name": "Froget Yo' Probs",
+        "url": "https://open.spotify.com/album/3H4wE4vLhDBSXJacYQ7XZ9"
+      },
+      "artists": [
+        {
+          "name": "Lime Nyorobon",
+          "url": "https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101357,
+      "name": "Froget Yo' Probs",
+      "url": "https://open.spotify.com/track/2xCkOgIpXKSiUmjokvrmvD"
     },
     {
       "album": {
@@ -81818,7 +81854,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 160058,
       "name": "Salamander",
       "url": "https://open.spotify.com/track/7dUsHeAcBqjsMTi44q2mdL"
@@ -86208,7 +86244,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 106571,
       "name": "Sleepwalk Rework",
       "url": "https://open.spotify.com/track/6YfjhPykCedcc6KbRBNH2L"
@@ -107914,7 +107950,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 150338,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/2NXnbYBqmb401f5lSAVcwP"

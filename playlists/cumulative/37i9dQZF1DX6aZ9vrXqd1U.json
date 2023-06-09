@@ -1710,10 +1710,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 273173,
       "name": "NO LIMITS \u221e",
       "url": "https://open.spotify.com/track/35iykIkD4aX3MpYPpZ0MAm"
+    },
+    {
+      "album": {
+        "name": "NO LIMITS \u221e",
+        "url": "https://open.spotify.com/album/26ZLH7uvfw1Cs8sHtfdsoD"
+      },
+      "artists": [
+        {
+          "name": "Taja",
+          "url": "https://open.spotify.com/artist/5PFmo5RBNN2sekKu6velaE"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273173,
+      "name": "NO LIMITS \u221e",
+      "url": "https://open.spotify.com/track/5iukXVcXeOBDFYska0fmSw"
     },
     {
       "album": {
@@ -3530,10 +3548,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 291066,
       "name": "\u591c\u660e\u3051\u306eShooting Star",
       "url": "https://open.spotify.com/track/458T6LRHbdUHSPuXa6ybTT"
+    },
+    {
+      "album": {
+        "name": "WHATEVER",
+        "url": "https://open.spotify.com/album/3sRJVKtEFdGWQtagF9FFq0"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292266,
+      "name": "\u591c\u660e\u3051\u306eShooting Star",
+      "url": "https://open.spotify.com/track/14M2PHwzDaKocGozilYUKI"
     },
     {
       "album": {

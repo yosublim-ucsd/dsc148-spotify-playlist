@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-188 songs - 13 hr 27 min
+189 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Lost In A Blue Note](https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [My Dream is You](https://open.spotify.com/album/26ACa71xPjvov8cZ4Rai52) | 4:24 | 2021-12-02 |  |
 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 | 2021-12-02 |  |
 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 | 2021-12-02 |  |
+| [Midnight Sun Upon Saltværsøya](https://open.spotify.com/track/4LU1Nh6sh3c4vxQLr3Riu3) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [Beyond](https://open.spotify.com/album/7CtOqcN4ZlDrynEUrdVflA) | 7:22 | 2023-06-08 |  |
 | [Monday](https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 2:01 | 2021-12-02 |  |
 | [Moody's Mood For Love / Teo Licks](https://open.spotify.com/track/1ZIEoOizVtEzIry8GW8ciV) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:28 | 2021-12-02 | 2022-07-29 |
 | [Moody's Mood For Love / Teo Licks](https://open.spotify.com/track/2cwceznjAMWRRFc89F4KMe) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/664z6KAZKVhAY36vBCLmiN) | 3:28 | 2022-03-08 |  |

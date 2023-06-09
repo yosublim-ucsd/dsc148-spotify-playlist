@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Bruses en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,402 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,681 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 74 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 |
 | 75 | [Loco](https://open.spotify.com/track/0IXqjQvowN9xWG8TKLiLR3) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Loco](https://open.spotify.com/album/7hIQwYkwVkG0gGfi8g8WvF) | 3:01 |
 
-Snapshot ID: `MCxiYjIwMzcxYzg1MjNiNGM3YmYxYzA3ODJhOGEyOGQ3NjhhYTdhNzA3`
+Snapshot ID: `MCxhYmM2YjJjNTY5ZGY5MmE4MTU3MTY2YTdhMmRhODAxMGE1YTM4MTQw`

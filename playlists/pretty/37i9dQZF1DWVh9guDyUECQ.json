@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 167559,
+  "num_followers": 167608,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzNjNDg4ODgxYzU5ZDg2NzVkZTlmN2JhMDI0NTI4ZTA3YjdjNGYx",
+  "snapshot_id": "MCw4N2FmZmFmNmJhMzUzMWU5ZDQ1YWJkZWY1OWMwNzg5OGRiY2YzZDJh",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "La M\u00fasica",
-        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
-      },
-      "artists": [
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "La M\u00fasica",
-      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Color de Alegr\u00eda",
         "url": "https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9"
       },
@@ -859,22 +843,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
+        "name": "La M\u00fasica",
+        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
       },
       "artists": [
         {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
         }
       ],
-      "duration_ms": 160979,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
+      "duration_ms": 254000,
+      "name": "La M\u00fasica",
+      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -899,6 +879,26 @@
       "duration_ms": 236394,
       "name": "Palpitaciones (Remix)",
       "url": "https://open.spotify.com/track/5Lg5iLWcrkuL0EYwvroDqS"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "duration_ms": 160979,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Amor C\u00f3smico",
-        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 179965,
-      "name": "Amor C\u00f3smico",
-      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Si Tu No Estas",
         "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Amor C\u00f3smico",
+        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 179965,
+      "name": "Amor C\u00f3smico",
+      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Pura Alegr\u00eda",
         "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 186367,
       "name": "Pura Alegr\u00eda",
       "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "DTOX",
+        "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 168974,
+      "name": "Alante Alante",
+      "url": "https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1099,22 +1115,6 @@
       "duration_ms": 211050,
       "name": "Sin Escalas",
       "url": "https://open.spotify.com/track/6M6Wlo6TvOOTdv2NmCw0zB"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "DTOX",
-        "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 168974,
-      "name": "Alante Alante",
-      "url": "https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Noches Enteras",
+        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 231008,
+      "name": "Noches Enteras",
+      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Apocalipsis (Remix)",
         "url": "https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 179800,
       "name": "Bueno es Dios",
       "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Noches Enteras",
-        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 231008,
-      "name": "Noches Enteras",
-      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mi Cielo",
-        "url": "https://open.spotify.com/album/5D4GmyyaF6KhL0rjJWzuM6"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Mi Cielo",
-      "url": "https://open.spotify.com/track/53tX3nRjwvi8TvyEMW755d"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "El Hijo del Borracho",
         "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 200636,
       "name": "Ma' Na",
       "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Mi Cielo",
+        "url": "https://open.spotify.com/album/5D4GmyyaF6KhL0rjJWzuM6"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/53tX3nRjwvi8TvyEMW755d"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1367,26 +1367,6 @@
       "duration_ms": 241640,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Sigo Aqui",
-        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1435,6 +1415,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Sigo Aqui",
+        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Dios, Familia & Rap",
         "url": "https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 257506,
       "name": "Dios, Familia & Rap",
       "url": "https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "El Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 225930,
+      "name": "El Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1471,22 +1487,6 @@
       "duration_ms": 188800,
       "name": "Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "El Dise\u00f1ador",
-        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        }
-      ],
-      "duration_ms": 225930,
-      "name": "El Dise\u00f1ador",
-      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Veintiuno",
-        "url": "https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 144155,
-      "name": "Veintiuno",
-      "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Soy Tan Feliz",
         "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 266571,
       "name": "Soy Tan Feliz",
       "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Veintiuno",
+        "url": "https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 144155,
+      "name": "Veintiuno",
+      "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Inmenso",
+        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Inmenso",
+      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "TBT",
         "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 210266,
       "name": "TBT",
       "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Inmenso",
-        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Inmenso",
-      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Picheo",
+        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
+      },
+      "artists": [
+        {
+          "name": "Mireyli Rosa",
+          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Picheo",
+      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Mi Entrenador (Remix)",
         "url": "https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp"
       },
@@ -1819,26 +1839,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Picheo",
-        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
-      },
-      "artists": [
-        {
-          "name": "Mireyli Rosa",
-          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
-        },
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Picheo",
-      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Firme Y Enfocado",
         "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Flow Cristiano",
+        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "Flow Cristiano",
+      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "La Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
       },
@@ -1871,6 +1887,26 @@
       "duration_ms": 157100,
       "name": "Los Bendigo",
       "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "duration_ms": 206230,
+      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1895,22 +1931,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Flow Cristiano",
-        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Flow Cristiano",
-      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Latidos",
         "url": "https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 184138,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/6okYVMIELsaHstd49DaQME"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
-        }
-      ],
-      "duration_ms": 206230,
-      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
     }
   ],
   "unique_name": "Flow Cristiano",

@@ -2,7 +2,7 @@
 
 ### [Songs to Sing in the Shower](https://open.spotify.com/playlist/37i9dQZF1DWSqmBTGDYngZ)
 
-> 
+> Splash and sing\-along.
 
 1,050 songs - 2 day 18 hr 19 min
 

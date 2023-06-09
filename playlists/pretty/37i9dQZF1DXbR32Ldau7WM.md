@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: Cornelius
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,400 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,482 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 44 | [fuyu no milk \(Rearrange\)](https://open.spotify.com/track/5uj2fWrSqJIwpEnNEb3VQG) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [fuyu no milk \(Rearrange\)](https://open.spotify.com/album/7kRzhYr1CB6qP51y4P0sAI) | 4:42 |
 | 45 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
 | 46 | [アレキシサイミアスペア](https://open.spotify.com/track/1pQ9MUBDpe5AVnpxha0uso) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [last aurorally](https://open.spotify.com/album/5NxTmnfjzE2DpeUUWfsn0F) | 5:25 |
-| 47 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 |
+| 47 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
 | 48 | [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:23 |
 | 49 | [Boys Jump The Midnight](https://open.spotify.com/track/3N6gdBZfDk9KDJAbPCU4g9) | [The Cro\-magnons](https://open.spotify.com/artist/2zznlBwNMFL1nlABMoqq0b) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 3:55 |
 | 50 | [I'm ready to die for my friends](https://open.spotify.com/track/2CQVZQ31zugcnfaxCkuR2N) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [I'm ready to die for my friends](https://open.spotify.com/album/3iy3EnIGs1JF8diFJrBJCF) | 3:50 |
 
-Snapshot ID: `MCw4ZjM0NzE1NGE3NmYzYTY5NGQ2N2M1Mzk3YjFiZmM4OWJjZTgzNDUx`
+Snapshot ID: `MCxkZTU1MjA3YWM5YzNlYzIzNWM2M2FkYjhkYzE2OTJmOTI5MzFjNTMy`

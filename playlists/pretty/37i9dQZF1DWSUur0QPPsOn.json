@@ -1,52 +1,28 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/michaelraineyjr/\">Michael Rainey Jr.</a>. ",
-  "num_followers": 521383,
+  "num_followers": 521451,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmQzNDY0MjQ2NjE4ZjU0NTE2NDVhMzMxNGQwM2Q4NmY4YjEyZWJl",
+  "snapshot_id": "MCwzMTRjNTI0MjJlNDFhZGZkMjFhNGMxMzQwNWI2NzQwYTdjMzcwNmEx",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "B-Lovee",
-          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 134530,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "B.I.B.L.E.",
-        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "City of Gods",
-      "url": "https://open.spotify.com/track/6hu4zxEVl8vhbZwDlqNqK6"
+      "duration_ms": 256226,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -67,18 +43,38 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Unfuckwitable (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
+        "name": "My Vision",
+        "url": "https://open.spotify.com/album/5BhNoQhsPhUMwAmkCw7v8X"
       },
       "artists": [
         {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
         }
       ],
-      "duration_ms": 173236,
-      "name": "Real Niggas Don't Rap",
-      "url": "https://open.spotify.com/track/0r6uD6Ay1jonQHID1HVlyZ"
+      "duration_ms": 142628,
+      "name": "Back Flippin",
+      "url": "https://open.spotify.com/track/72UidoFGPPqJduJn9YAyYk"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Whap Whap (feat. F.S.)",
+        "url": "https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "F.S.",
+          "url": "https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN"
+        }
+      ],
+      "duration_ms": 181115,
+      "name": "Whap Whap (feat. F.S.)",
+      "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -107,38 +103,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Many Men (Wish Death)",
-      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "My Vision",
-        "url": "https://open.spotify.com/album/5BhNoQhsPhUMwAmkCw7v8X"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 142628,
-      "name": "Back Flippin",
-      "url": "https://open.spotify.com/track/72UidoFGPPqJduJn9YAyYk"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "7220",
         "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
@@ -155,38 +119,74 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Whap Whap (feat. F.S.)",
-        "url": "https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu"
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14"
       },
       "artists": [
         {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "F.S.",
-          "url": "https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN"
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
         }
       ],
-      "duration_ms": 181115,
-      "name": "Whap Whap (feat. F.S.)",
-      "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
+      "duration_ms": 134530,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II"
     },
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "buku",
-        "url": "https://open.spotify.com/album/6QUVQ5TjZippT8Nl0oEDog"
+        "name": "Expensive",
+        "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
       },
       "artists": [
         {
-          "name": "wolfacejoeyy",
-          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
         }
       ],
-      "duration_ms": 137691,
-      "name": "buku",
-      "url": "https://open.spotify.com/track/7eOAf1CKZenIfLyaV01MgX"
+      "duration_ms": 235128,
+      "name": "Expensive",
+      "url": "https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "B.I.B.L.E.",
+        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "City of Gods",
+      "url": "https://open.spotify.com/track/6hu4zxEVl8vhbZwDlqNqK6"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Unfuckwitable (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 173236,
+      "name": "Real Niggas Don't Rap",
+      "url": "https://open.spotify.com/track/0r6uD6Ay1jonQHID1HVlyZ"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "buku",
+        "url": "https://open.spotify.com/album/6QUVQ5TjZippT8Nl0oEDog"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "duration_ms": 137691,
+      "name": "buku",
+      "url": "https://open.spotify.com/track/7eOAf1CKZenIfLyaV01MgX"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "Mr. Too Sticky",
         "url": "https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 107329,
       "name": "Mode",
       "url": "https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Expensive",
-        "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 235128,
-      "name": "Expensive",
-      "url": "https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq"
     },
     {
       "added_at": "2023-06-01 04:00:00",

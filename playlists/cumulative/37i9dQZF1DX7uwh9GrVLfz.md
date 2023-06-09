@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 板歯目 \(BANSHIMOKU\)
 
-558 songs - 1 day 6 hr 20 min
+560 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Heavenly](https://open.spotify.com/track/7Ixg527eSGltkbEIGTN7qX) | [39degrees](https://open.spotify.com/artist/2sA5clRvdaIZg82RoKYJfy) | [Singles\(May,2022\)](https://open.spotify.com/album/7Jd2qtXu0drJFszYyu4aGq) | 2:49 | 2022-05-24 | 2022-07-20 |
 | [Hello Blue Days](https://open.spotify.com/track/1mtq1S2EZyjlLhhRUkDPGx) | [KEYTALK](https://open.spotify.com/artist/0nES8AwBZpeQ69oZZp47OL), [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [Hello Blue Days](https://open.spotify.com/album/4Ni0wTAllPGsBOGLbh2F56) | 3:58 | 2022-06-14 | 2022-06-23 |
 | [Helpless Romantic](https://open.spotify.com/track/3NCTdY91obERGJngTaW4yC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [4Wheels 9Lives](https://open.spotify.com/album/5YHNqtIpmeDxkMMPW3yoKQ) | 3:23 | 2022-05-12 | 2022-07-29 |
+| [Heroine](https://open.spotify.com/track/4gApHF6PIQByk71asnPt2L) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [Heroine](https://open.spotify.com/album/6OcS9PBcKQtBpiubt9w2zf) | 3:07 | 2023-06-08 |  |
 | [HEY DUDE](https://open.spotify.com/track/5R8lXeqwyncJRScMuVJpml) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [HEY DUDE](https://open.spotify.com/album/0PPU4QuBERLv3aJlcJFu9y) | 4:01 | 2022-05-12 | 2022-07-29 |
 | [Hey! Stay by my side!](https://open.spotify.com/track/5IDfSmahBmnRrbbEZiOjNF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Hey! Stay by my side!](https://open.spotify.com/album/64DJ8QPZHszlBdA0R9SeZz) | 2:27 | 2022-08-12 | 2022-12-20 |
 | [HOLYCALLING](https://open.spotify.com/track/0SlRTp6ykBPHjkB0HlZFiC) | [I LOVE CMF](https://open.spotify.com/artist/66tH1YT5eQsD7dcHWF4Jge) | [COMMO dos DRAGONS](https://open.spotify.com/album/4lVVrvpQtieYHulHWcCvaY) | 2:31 | 2022-05-12 | 2022-07-26 |
@@ -298,7 +299,7 @@
 | [SCAR](https://open.spotify.com/track/5OpXHN9hwW1V1YBiChGt7q) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [SCAR](https://open.spotify.com/album/5DvfInAZNzhoyxAOXV4OVT) | 2:45 | 2022-09-14 | 2022-11-02 |
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
-| [seisyunhamada](https://open.spotify.com/track/4x8dUbBZSfR6mGyoZAe4F8) | [EiHilE](https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED) | [seisyunhamada](https://open.spotify.com/album/5H6j3a87BUuNgjZQUD9sX5) | 2:35 | 2023-05-30 |  |
+| [seisyunhamada](https://open.spotify.com/track/4x8dUbBZSfR6mGyoZAe4F8) | [EiHilE](https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED) | [seisyunhamada](https://open.spotify.com/album/5H6j3a87BUuNgjZQUD9sX5) | 2:35 | 2023-05-30 | 2023-06-09 |
 | [set it off](https://open.spotify.com/track/2l3aBqXOsmgqEZN1DB0x9P) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:23 | 2022-08-19 | 2022-09-15 |
 | [shiboufuragu wo tatenaide](https://open.spotify.com/track/6jDtEDmFInvxR4Ga7vff7X) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [shiboufuragu wo tatenaide](https://open.spotify.com/album/76w257U3luBps7VnbQ2ozc) | 4:35 | 2022-08-23 | 2022-09-09 |
 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 | 2022-06-07 | 2022-08-26 |
@@ -309,7 +310,7 @@
 | [Silent spear](https://open.spotify.com/track/5l5O5zu4Vnmse6SHbxORDM) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/1mCJDxhi1kXBQcrz4wv18J) | 3:55 | 2022-07-21 |  |
 | [Simp](https://open.spotify.com/track/31vkkcXzYE3A7bSKfxemS6) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [Simp](https://open.spotify.com/album/31hzFNxPq3yCYKhIZTa4Pd) | 2:02 | 2022-05-17 | 2022-07-05 |
 | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/track/713QsTBsZ0YQbWrAbZ31Pq) | [For A Reason](https://open.spotify.com/artist/7xKhPv4ap1useGKUaLLh7q) | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/album/3GgSgMFsq1TUV0zYT9tcqo) | 2:50 | 2022-05-12 | 2022-07-23 |
-| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2022-05-12 |  |
+| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2022-05-12 | 2023-06-09 |
 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2022-12-13 |  |
 | [Sleep](https://open.spotify.com/track/6QeU2s3F49pefIGevH0Xcv) | [KICKASSRAY](https://open.spotify.com/artist/3kDn7aNNfO1sfrK5oCeI36) | [Hold Water EP](https://open.spotify.com/album/2tyiEdraFvdGSigC1dD0ZE) | 3:34 | 2022-06-07 | 2022-07-20 |
 | [Slow and steady](https://open.spotify.com/track/3eoivmlvkK9jtgnbAajU4B) | [39degrees](https://open.spotify.com/artist/2sA5clRvdaIZg82RoKYJfy) | [Singles\(June,2022\)](https://open.spotify.com/album/6jZML5zhuUhpybwu4ul8V7) | 3:01 | 2022-06-28 | 2022-07-29 |
@@ -423,6 +424,7 @@
 | [おしえて \(アルプスの少女ハイジ\)](https://open.spotify.com/track/4DcbMiZEb8UQsCe9FcI1qS) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [ライブキッズのための名曲集](https://open.spotify.com/album/3Pk3AfSjOstY45u7g3VEnO) | 3:04 | 2022-05-17 | 2022-07-27 |
 | [おどるポンポコリン](https://open.spotify.com/track/5iJCFGrAHTYQjUWIaIjjMd) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [TOON TUNES \-10 Favorite Japanese Anime Songs\-](https://open.spotify.com/album/3yeN8JjxqHtLhFMNwzgGMS) | 3:07 | 2022-06-02 | 2022-07-21 |
 | [お先明るすぎて何も見えない](https://open.spotify.com/track/6Ce1HBP51AdZB3RRzKzJTG) | [ド真ん中ズン](https://open.spotify.com/artist/1FUXGPuP9JUbQHC1CLX389) | [お先明るすぎて何も見えない](https://open.spotify.com/album/5aPkQLF2JqpO2qiB4p0sG0) | 2:45 | 2022-06-14 | 2022-07-18 |
+| [お前の話は聞いていない](https://open.spotify.com/track/57eiMqz3NKsE9wrQxQuBke) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [お前の話は聞いていない](https://open.spotify.com/album/1f2hVzPb2h5NfkvGXY9DHR) | 3:34 | 2023-06-08 |  |
 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 | 2023-02-14 |  |
 | [くそったれ人生最悪の](https://open.spotify.com/track/6io2UWI9uzsPdDK8FHtN6a) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/7nQ435Y6QnPyoigXh3CJx4) | 4:24 | 2023-02-14 | 2023-02-16 |
 | [こいのうた](https://open.spotify.com/track/2KPBIjQLE3tOGYQi6dyJEk) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 5:56 | 2022-05-19 |  |

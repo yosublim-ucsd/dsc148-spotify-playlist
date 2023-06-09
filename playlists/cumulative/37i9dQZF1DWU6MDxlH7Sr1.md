@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-259 songs - 17 hr 1 min
+265 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 |  |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-14 |  |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-02 |  |
+| [Behind The Counter](https://open.spotify.com/track/1OxWXhGSkz9VSGVhLXveg8) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Behind The Counter](https://open.spotify.com/album/6wSUxKY1QteYSmVIk0X9C6) | 3:22 | 2023-06-08 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-04-26 | 2022-11-25 |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 |  |
 | [Birth Of The Blues](https://open.spotify.com/track/1Eml72eKmu7dIa90d9IpQf) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Blows The Blues](https://open.spotify.com/album/4DMXKelmkZzhVs4hSJPdK5) | 5:57 | 2022-04-26 | 2022-12-09 |
@@ -63,9 +64,11 @@
 | [Dream A Little Dream](https://open.spotify.com/track/4WTZZfZC8DUontKybMe0ls) | [Tom Lewis Band](https://open.spotify.com/artist/2RJB1Zbmj9IK6f3OPHUBVx) | [Dream A Little Dream](https://open.spotify.com/album/4MU6tyhz6jdSLdR8wo4f9H) | 3:44 | 2022-04-26 | 2022-12-09 |
 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-05-11 |  |
 | [Early Mornings](https://open.spotify.com/track/4a0p3YclRTqjojqSG75XLK) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:35 | 2023-03-23 |  |
+| [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-08 |  |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-06 |  |
 | [Embraceable You](https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 3:56 | 2022-04-26 | 2022-12-24 |
 | [Endless Winter](https://open.spotify.com/track/3EkZ1haTIg5HuKPD3oTBsJ) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Longing](https://open.spotify.com/album/5rsGpNrx2eRG3Q4f6smqcC) | 3:56 | 2023-03-23 |  |
+| [English Rose](https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [English Rose](https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX) | 3:06 | 2023-06-08 |  |
 | [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-08 |  |
 | [Everytime We Fall](https://open.spotify.com/track/4ZGlMy7TmvZNYTacuIyqSo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Everytime We Fall](https://open.spotify.com/album/7DCCFRB1jWvUpP9lDZh03Y) | 3:43 | 2023-02-09 |  |
 | [Exactly Like You](https://open.spotify.com/track/4gogxeItIt50DZFZrzCqqt) | [Ray Brown Trio](https://open.spotify.com/artist/3kcjzDWaSVR3VqgEIBZIdo), [Gene Harris](https://open.spotify.com/artist/7HZokAjDop6Gjgtghfr8lp), [Phil Edwards](https://open.spotify.com/artist/1L6YiOqUa0q8GJmgF8xqUd) | [Soular Energy](https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8) | 5:45 | 2022-04-26 | 2022-11-18 |
@@ -82,6 +85,7 @@
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-17 |  |
 | [Freddie Freeloader](https://open.spotify.com/track/0k8yaziKe1VHprtyeYsR7H) | [Sixth Street Quartet](https://open.spotify.com/artist/3VNm5jxAuivvWsOLWcIiVt) | [Morning Heartache EP](https://open.spotify.com/album/1nFeazrI7NLYn7QNQakrM8) | 2:31 | 2022-04-26 | 2022-05-11 |
 | [Fridays](https://open.spotify.com/track/3Y23H0dJCyZ8Whxh59eJEB) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Fridays](https://open.spotify.com/album/5pvCfDy1k6koVQYUYSvEIb) | 3:05 | 2022-04-26 |  |
+| [Giving thrills](https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Giving thrills](https://open.spotify.com/album/4I4N89jyjhMfacIc2tU4uH) | 3:11 | 2023-06-08 |  |
 | [Have You Met Miss Jones](https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones](https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE) | 3:08 | 2022-05-17 |  |
 | [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 |  |
 | [Hills Are Green](https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Hills Are Green](https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B) | 4:09 | 2022-12-01 |  |
@@ -199,6 +203,7 @@
 | [Satin Doll](https://open.spotify.com/track/08KRFHK8w57Js5GZZjamll) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 5:39 | 2022-06-29 | 2023-03-09 |
 | [Satin Doll](https://open.spotify.com/track/2cpLY0UppiL9TyIlQKwgEu) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Jazz \- Best Hits \-](https://open.spotify.com/album/7bKJ04DIWcjPZ9aoyrvKGE) | 5:39 | 2022-11-10 | 2022-11-13 |
 | [Sea Smoke](https://open.spotify.com/track/0eZ6EQ8ekEGV8URaCmS7ah) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [For Celia](https://open.spotify.com/album/3rx1K0Or8xmmwwFBK4bhMT) | 4:42 | 2022-04-26 | 2022-09-30 |
+| [See my point?](https://open.spotify.com/track/54Uz34WkQEC6peSFGj6inG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [See my point?](https://open.spotify.com/album/6P5DXnehRkPNxSDgQetOvo) | 2:33 | 2023-06-08 |  |
 | [September Song](https://open.spotify.com/track/5mn5mx35dGRAQ6hF3I3kDD) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [September Song](https://open.spotify.com/album/0zsOMLv9GS8yPelwkfcvE9) | 3:29 | 2022-10-27 | 2023-03-02 |
 | [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 | 2023-04-13 |  |
 | [Shiny Stockings](https://open.spotify.com/track/069buST4Z84x0O5TOtW48H) | [Rachel Silver](https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a) | [Oh, What a Beautiful Mornin'](https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx) | 4:17 | 2022-04-26 | 2023-01-13 |
@@ -245,6 +250,7 @@
 | [There Will Never Be Another You](https://open.spotify.com/track/3Jj4zXCs23YMLcEFODQsfY) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [There Will Never Be Another You](https://open.spotify.com/album/7B3cO9ADwtUAV1vV3vCawT) | 3:55 | 2023-05-04 |  |
 | [These Foolish Things](https://open.spotify.com/track/2GkEZi94MfDIxjp36MAFuj) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [These Foolish Things](https://open.spotify.com/album/5a7xDAK31J6a7T6ExUTDYn) | 3:32 | 2022-04-26 | 2023-01-13 |
 | [They Didn't Believe Me](https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe) | [Bobby Timmons Trio](https://open.spotify.com/artist/47jpbb07933jSiHmir7yda) | [In Person](https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24) | 6:47 | 2022-04-26 | 2022-06-01 |
+| [This sweet pet](https://open.spotify.com/track/2Bv8LgnuZkVg6P6ZPsfuwB) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [This sweet pet](https://open.spotify.com/album/6VgGGR4IdKoHtxmuDRtTvK) | 3:38 | 2023-06-08 |  |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-04-26 | 2023-01-06 |
 | [Under A Bridge and Dreaming](https://open.spotify.com/track/1NVA4xLrwF20auhmMge7Sp) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Under A Bridge and Dreaming](https://open.spotify.com/album/0ak7vmwVnS5VKDUqLYtUWB) | 3:24 | 2022-10-27 | 2023-03-02 |
 | [Walk With Me](https://open.spotify.com/track/5Bta8U48xSE7r91zzuECxq) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [A Penny for Your Thoughts](https://open.spotify.com/album/2zHoGZXTMc6bdL5098LVSP) | 3:46 | 2023-04-13 |  |

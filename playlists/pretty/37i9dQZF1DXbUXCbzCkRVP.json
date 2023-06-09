@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 33347,
+  "num_followers": 33397,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDU4ZjBkNGYwZmZjZjAyZDhmYTRjMDAyNTgxNWI5ODNlNTc0NjAw",
+  "snapshot_id": "MCxiMzJmYmFhYmNlNjIwMDcxODNmMTBiMDdiMWYzYzU0ZDc2MjA4N2Q0",
   "tracks": [
     {
       "added_at": "2023-04-28 16:38:03",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "What's The Word?",
-        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Extra Jimmies",
-      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Chicago/The Blues/Today!",
         "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 141560,
       "name": "Spann's Stomp",
       "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "What's The Word?",
+        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Extra Jimmies",
+      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 267506,
+      "name": "End Of The Blues",
+      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "Sunfall",
         "url": "https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 240259,
       "name": "Sunfall Blues",
       "url": "https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 267506,
-      "name": "End Of The Blues",
-      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "The Grind",
+        "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
+      },
+      "artists": [
+        {
+          "name": "Gus Cleese",
+          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
+        }
+      ],
+      "duration_ms": 76339,
+      "name": "The Grind",
+      "url": "https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "Mercy Me",
         "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 463400,
       "name": "Blues For Duke Robillard",
       "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
-        "name": "The Grind",
-        "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
-      },
-      "artists": [
-        {
-          "name": "Gus Cleese",
-          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
-        }
-      ],
-      "duration_ms": 76339,
-      "name": "The Grind",
-      "url": "https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "I Feel Like Goin' On",
-        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        }
-      ],
-      "duration_ms": 509106,
-      "name": "Blues For Otis Rush",
-      "url": "https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Screamin' the Blues",
         "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 188800,
       "name": "Sweet Ginny",
       "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 509106,
+      "name": "Blues For Otis Rush",
+      "url": "https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Thank You Mr. Poobah",
-      "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "The Sulfur Blues",
         "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Thank You Mr. Poobah",
+      "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "Midnight In Memphis",
         "url": "https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 187582,
       "name": "Midnight In Memphis",
       "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
-        "name": "I Feel Like Goin' On",
-        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        }
-      ],
-      "duration_ms": 393666,
-      "name": "Little Johnny Lee",
-      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Little Johnny Lee",
+      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "The Peacock Recordings: 1949-1959",
         "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 173000,
       "name": "Ain't That Dandy",
       "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
-        "name": "Ain't That Lovin' You Baby",
-        "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Boogie in the Dark",
-      "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1287,26 +1271,34 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Stay High [Feat. Cory Henry]",
-        "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
+        "name": "Ain't That Lovin' You Baby",
+        "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
       },
       "artists": [
         {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        },
-        {
-          "name": "Stanton Moore",
-          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
         }
       ],
-      "duration_ms": 193551,
-      "name": "Stay High [Feat. Cory Henry]",
-      "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
+      "duration_ms": 153973,
+      "name": "Boogie in the Dark",
+      "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Broken Halo",
+        "url": "https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S"
+      },
+      "artists": [
+        {
+          "name": "Tim \"Too Slim\" Langford",
+          "url": "https://open.spotify.com/artist/2kx2O6JbEPkAS2bfaVXswy"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1327,18 +1319,26 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Broken Halo",
-        "url": "https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S"
+        "name": "Stay High [Feat. Cory Henry]",
+        "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
       },
       "artists": [
         {
-          "name": "Tim \"Too Slim\" Langford",
-          "url": "https://open.spotify.com/artist/2kx2O6JbEPkAS2bfaVXswy"
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        },
+        {
+          "name": "Stanton Moore",
+          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 178826,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn"
+      "duration_ms": 193551,
+      "name": "Stay High [Feat. Cory Henry]",
+      "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
     },
     {
       "added_at": "2023-04-28 16:38:03",

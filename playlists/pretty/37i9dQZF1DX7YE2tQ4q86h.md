@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Kim Petras & Paris Hilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,411 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,750 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 8 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 9 | [I'm Not High, I'm In Love](https://open.spotify.com/track/0fyYhe8tJKheY9XmhZlZSD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:04 |
 | 10 | [How Will I Know](https://open.spotify.com/track/2vVeBAHVpohT92j4mfz9C9) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [How Will I Know](https://open.spotify.com/album/7zuQgnQnVGNyz5Lndojf8V) | 3:39 |
-| 11 | [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 |
+| 11 | [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 |
 | 12 | [Big Boom](https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Big Boom](https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz) | 2:14 |
 | 13 | [BORED](https://open.spotify.com/track/7nx5ZrnZymCwKlWXYJr5SF) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BORED](https://open.spotify.com/album/5COrkoVFqqcOksKw9UTJkw) | 2:20 |
 | 14 | [Ozempic Wegovy Mounjaro](https://open.spotify.com/track/1UchiQD1aiASH7b5PymAM9) | [Ari Dayan](https://open.spotify.com/artist/7GaejO7nB6Tyt5S462Fn6o) | [Ozempic Wegovy Mounjaro](https://open.spotify.com/album/4chId4NVXnGG9YOFZVPJCh) | 1:51 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 62 | [Tastes Like You](https://open.spotify.com/track/4HLcj0MD2tg91flaBCIJHJ) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:12 |
 | 63 | [TIMEZONE](https://open.spotify.com/track/71N11HZCLEolNgAxvcj2cb) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [TIMEZONE](https://open.spotify.com/album/3t3Z3avQW3hVQbOw5aSj4R) | 3:08 |
 | 64 | [Substitution](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Substitution](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 |
-| 65 | [I Wrote A Song](https://open.spotify.com/track/3Us6ao4g3k4Kt4vvGJGCrR) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [I Wrote A Song](https://open.spotify.com/album/5qlydNF8Z6kousaKWE5jRB) | 2:45 |
+| 65 | [I Wrote A Song \(feat\. Vendredi sur Mer\)](https://open.spotify.com/track/3Us6ao4g3k4Kt4vvGJGCrR) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [I Wrote A Song](https://open.spotify.com/album/5qlydNF8Z6kousaKWE5jRB) | 2:45 |
 | 66 | [Itsy Bitsy](https://open.spotify.com/track/7LwZguzLTNzMgN3ffeDzIg) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Itsy Bitsy](https://open.spotify.com/album/16YsDQEJhHrIHXV8SB3zbj) | 2:42 |
 | 67 | [Violet Chemistry](https://open.spotify.com/track/00Ga884hbpVvCNyeQdle1U) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 4:06 |
 | 68 | [Watch Me](https://open.spotify.com/track/4diNbDaMzGvvuIKhZkfEEC) | [SASO](https://open.spotify.com/artist/1i1xNUxNNcy0pgHVHq5oF6) | [Watch Me](https://open.spotify.com/album/6PNrN7WaLYFXaayK6VB4vE) | 3:03 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 89 | [Why Is She Calling?](https://open.spotify.com/track/5Sb83ml5k9pdRIqIkWfWNv) | [Black Peppa](https://open.spotify.com/artist/07CsKr37FQnxbfQxokCBFs) | [Why Is She Calling?](https://open.spotify.com/album/4XhHHcPjfMsdvuVBGBtOi8) | 2:56 |
 | 90 | [Frankenstein](https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:12 |
 | 91 | [C’est l'amour](https://open.spotify.com/track/23pBiEPBdGrz5nb8IALTtT) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Coeur Encore](https://open.spotify.com/album/0eYbpLwV7r2HHooowI15s7) | 3:23 |
-| 92 | [Better off Alone](https://open.spotify.com/track/5oT0W6JKJo8or78vqzd5XX) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR: The Full Spectrum](https://open.spotify.com/album/5PxSXvwxo1pKKcEl0S6qY7) | 2:42 |
+| 92 | [Better Off Alone](https://open.spotify.com/track/5oT0W6JKJo8or78vqzd5XX) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR: The Full Spectrum](https://open.spotify.com/album/5PxSXvwxo1pKKcEl0S6qY7) | 2:42 |
 | 93 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 |
 | 94 | [Tongue](https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Tongue](https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN) | 2:13 |
 | 95 | [MADELINE](https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [lay all your love on me](https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [lay all your love on me](https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH) | 2:58 |
 | 100 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
 
-Snapshot ID: `MCxmYjIxODgzODdhZDEyZWI2YWFmMjdlMDc0ODhmOTliYWU5ZmMyMDM4`
+Snapshot ID: `MCwzNzJjZDk1YTRkYzM5YWZjM2MzNDQxZTU4ODlhZmE1ODc4YWQ0ZjYx`

@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-106 songs - 6 hr 23 min
+107 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [DEVOTION](https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DEVOTION](https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw) | 3:51 | 2022-12-01 |  |
 | [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 | 2023-01-26 |  |
 | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Pooks](https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Hayley Trinca](https://open.spotify.com/artist/5l3jgJIgcCwcD0eG6wm0QH) | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0) | 3:03 | 2022-12-15 |  |
+| [Don't Really Care](https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Don't Really Care](https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt) | 2:58 | 2023-06-08 |  |
 | [Don’t Give Up On Me](https://open.spotify.com/track/4ovQnG03lrudyY3IiZYiY2) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 2:45 | 2022-12-01 | 2023-01-13 |
 | [DOWN](https://open.spotify.com/track/09zhjKEQwsJnJul6yZefyM) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [DOWN](https://open.spotify.com/album/1y8E6aLMD5HA2XgyJVg9Fe) | 3:14 | 2022-12-01 | 2023-02-10 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-01 |  |
@@ -41,7 +42,7 @@
 | [Feel It](https://open.spotify.com/track/6zx3Fh4ycldi5XZHukp2jT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Lost Forever](https://open.spotify.com/album/3kwZmDvzfHAhkWdIUaku4J) | 5:09 | 2022-12-01 | 2023-01-13 |
 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 | 2022-12-01 | 2023-05-19 |
 | [Feelings](https://open.spotify.com/track/25FYMUzUb4f7juGbmfG6El) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Feelings](https://open.spotify.com/album/5OiqeHLzyFUUMjnDzMkfue) | 3:00 | 2023-01-26 | 2023-04-29 |
-| [Finish What You Started](https://open.spotify.com/track/00H3S427pckJf5DtsKCbeY) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Between The Head & The Heart](https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH) | 2:59 | 2023-01-26 |  |
+| [Finish What You Started](https://open.spotify.com/track/00H3S427pckJf5DtsKCbeY) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Between The Head & The Heart](https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH) | 2:59 | 2023-01-26 | 2023-06-09 |
 | [Fist Fight](https://open.spotify.com/track/49ukfaSyAB4sPWsstKQGBr) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Fist Fight](https://open.spotify.com/album/01Sa5u8UaJNjkvLQMjdiuh) | 3:06 | 2023-03-31 | 2023-04-07 |
 | [Foreign Language](https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s) | [Foreign Language](https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo) | 4:04 | 2022-12-01 | 2023-02-10 |
 | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1) | 3:36 | 2023-04-13 | 2023-04-21 |

@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Fior 2 Bior
+> African dance party music from Paris to Abidjan\. Photo : Elow'n
 
-132 songs - 7 hr 48 min
+133 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amour multiprise](https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz) | [Josée Delatour](https://open.spotify.com/artist/3o16PJgfLAo9FSDVyp1p0J) | [Amour multiprise](https://open.spotify.com/album/34l6OhPm91L7kZgJUql3d9) | 2:56 | 2023-05-18 |  |
 | [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 | 2022-06-17 |
 | [BINAKA](https://open.spotify.com/track/4G5lllH9iGUSyFkMDwabMU) | [Dj Moasco](https://open.spotify.com/artist/6AfzTdenXg9xaTui9NXoRa), [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [BINAKA](https://open.spotify.com/album/0zCYYMTHLUKVTeGJm1w8lh) | 3:56 | 2022-12-01 | 2023-04-07 |
+| [Blocage](https://open.spotify.com/track/1HliCFmp6TxhvMewIJlTs6) | [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Blocage](https://open.spotify.com/album/5Ka7VNTZwPq9OslyBiS3Fu) | 2:20 | 2023-06-08 |  |
 | [Blô blô](https://open.spotify.com/track/6ktw0PV1l5NMC4eBPlZCbA) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Blô blô](https://open.spotify.com/album/5yuQacRLQLbtFRlDhaJM0t) | 3:30 | 2021-12-20 | 2022-05-27 |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2021-12-20 | 2023-04-07 |
 | [C'est Dieu](https://open.spotify.com/track/0lzg8WWNBXrp6IAcMNGU54) | [Confirmé Manadja](https://open.spotify.com/artist/0Ay3wxcNxGlLwwZe6KOcpY), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [C'est Dieu](https://open.spotify.com/album/5pDcPJPOZzUkE4dPqoxHzV) | 3:22 | 2023-02-16 |  |
@@ -106,7 +107,7 @@
 | [O'cho](https://open.spotify.com/track/4VJhgXDBohg0UXEzTFM0NW) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [O'cho](https://open.spotify.com/album/3MmFDejF43RBq4ZepgixWM) | 3:15 | 2023-04-27 |  |
 | [Oko Lelela Nani](https://open.spotify.com/track/7kUUkcFtQGLB7STqDgMCvk) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Oko Lelela Nani](https://open.spotify.com/album/3Mclnp6RQ7HRHtUGpOt9Jz) | 3:41 | 2021-12-20 | 2022-05-27 |
 | [OLUWA OSHE](https://open.spotify.com/track/0ocKa3ZwyFVGfm2pb1xaUc) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM), [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [OLUWA OSHE](https://open.spotify.com/album/5sQZ8G7IXc9SkjdgOuAikB) | 3:41 | 2022-11-24 | 2023-03-10 |
-| [On a pris balle](https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [On a pris balle](https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo) | 3:47 | 2022-05-05 |  |
+| [On a pris balle](https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [On a pris balle](https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo) | 3:47 | 2022-05-05 | 2023-06-09 |
 | [On me guette](https://open.spotify.com/track/7bKZl8qe0BnKh7rchIRSgt) | [Anaconda 512](https://open.spotify.com/artist/26taS43MiYz1bsD7q1QKQ9) | [On me guette](https://open.spotify.com/album/3ZHGhTQS1hYrIYQTeyxDu1) | 3:58 | 2023-04-06 |  |
 | [Ouvrez](https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm) | [Landry Blessing](https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU), [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Ouvrez](https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9) | 3:21 | 2022-06-02 | 2022-12-09 |
 | [Piment](https://open.spotify.com/track/7gB92KifQkXumaRUvxMRNN) | [Agato](https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz) | [GRINTA](https://open.spotify.com/album/1vEPXP3H5oAg8OOYdKF3pX) | 2:44 | 2022-12-15 | 2023-01-27 |

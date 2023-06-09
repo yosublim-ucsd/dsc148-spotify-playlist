@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 
 > y solo mírame con esos ojito' lindo' ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,534 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,670 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 99 | [Otra Noche](https://open.spotify.com/track/3BOrjgHKYrSwbMKMQ2tqmU) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Otra Noche](https://open.spotify.com/album/2muEdNIk2Wos1EMLH4UQY5) | 4:03 |
 | 100 | [Mi Amor](https://open.spotify.com/track/5Vt0uiNvaZNPCqeoDSTavW) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:36 |
 
-Snapshot ID: `MCwzZGJmYzg3Y2YyN2Q4MWQyMTNhM2NkN2I2ZTJiZjYzZDVjNjhhZmNi`
+Snapshot ID: `MCwyZWU5YjUyN2ZiNjhiZWRmZTEyYTZmNTc0YmI4ZTcyMmJhM2NiNTU2`

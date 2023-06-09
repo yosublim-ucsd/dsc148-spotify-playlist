@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 229179,
+  "num_followers": 229216,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTIxYzY4YTUzMGZhOGQ2N2ZhZGVmY2Y1NDVlY2NmZGQ5Y2YwNDBk",
+  "snapshot_id": "MCxlYjBiNzA5NjkyYTg0ZDE3NjRlYjczZDVmZGI1MTRlMDk3ODhmMDZk",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Still Mighty",
-        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Still Mighty",
-      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 226295,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Still Mighty",
+        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Still Mighty",
+      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "HOPE OR NOSTALGIA LIVE",
+        "url": "https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 189795,
+      "name": "Old Dreams - Live from Kansas City",
+      "url": "https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Something to Say",
         "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 192562,
       "name": "Raise Up",
       "url": "https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "HOPE OR NOSTALGIA LIVE",
-        "url": "https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 189795,
-      "name": "Old Dreams - Live from Kansas City",
-      "url": "https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "BURNING IN THE RAIN",
-        "url": "https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I"
-      },
-      "artists": [
-        {
-          "name": "OLY",
-          "url": "https://open.spotify.com/artist/7g4y9yOwMFSp1qvlhboro8"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "BURNING IN THE RAIN",
-      "url": "https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 192933,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "BURNING IN THE RAIN",
+        "url": "https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I"
+      },
+      "artists": [
+        {
+          "name": "OLY",
+          "url": "https://open.spotify.com/artist/7g4y9yOwMFSp1qvlhboro8"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "BURNING IN THE RAIN",
+      "url": "https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Where The Winter Was",
+        "url": "https://open.spotify.com/album/5aHds2df6eKrOirRI9895D"
+      },
+      "artists": [
+        {
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "Not So Sure",
+      "url": "https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
       },
@@ -1355,38 +1371,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Angels vs Demons - Piano Version",
-      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Where The Winter Was",
-        "url": "https://open.spotify.com/album/5aHds2df6eKrOirRI9895D"
-      },
-      "artists": [
-        {
-          "name": "Skye Peterson",
-          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "Not So Sure",
-      "url": "https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Rapzilla.com Presents: Freshmen 2021",
         "url": "https://open.spotify.com/album/4HtfMKAYg8lbnR1HKFZ03h"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Give My All",
-        "url": "https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh"
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
       },
       "artists": [
         {
-          "name": "Audacious Worship",
-          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
         }
       ],
-      "duration_ms": 199005,
-      "name": "Give My All",
-      "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
+      "duration_ms": 200000,
+      "name": "Angels vs Demons - Piano Version",
+      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Give My All",
+        "url": "https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh"
+      },
+      "artists": [
+        {
+          "name": "Audacious Worship",
+          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+        }
+      ],
+      "duration_ms": 199005,
+      "name": "Give My All",
+      "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 217500,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Keep Hopin'",
-        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
-      },
-      "artists": [
-        {
-          "name": "The Scally Brothers",
-          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "Keep Hopin'",
-      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "War Going On",
-        "url": "https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ"
+        "name": "Keep Hopin'",
+        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
       },
       "artists": [
         {
-          "name": "Port Duo",
-          "url": "https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP"
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
         }
       ],
-      "duration_ms": 262000,
-      "name": "War Going On",
-      "url": "https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB"
+      "duration_ms": 167076,
+      "name": "Keep Hopin'",
+      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1515,6 +1499,22 @@
       "duration_ms": 228333,
       "name": "Crisis Of Faith",
       "url": "https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "War Going On",
+        "url": "https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ"
+      },
+      "artists": [
+        {
+          "name": "Port Duo",
+          "url": "https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "War Going On",
+      "url": "https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Against the Wall",
-        "url": "https://open.spotify.com/album/2dFlpNGCzodFPyn4X5mo0Q"
-      },
-      "artists": [
-        {
-          "name": "Collington",
-          "url": "https://open.spotify.com/artist/0gaq1utzcPeKnfv5paHyzS"
-        }
-      ],
-      "duration_ms": 205625,
-      "name": "Against the Wall",
-      "url": "https://open.spotify.com/track/5K1JLIgK0p1suxreWPoFc0"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Break Out (Live)",
         "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 222960,
       "name": "Break Out - Live",
       "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Against the Wall",
+        "url": "https://open.spotify.com/album/2dFlpNGCzodFPyn4X5mo0Q"
+      },
+      "artists": [
+        {
+          "name": "Collington",
+          "url": "https://open.spotify.com/artist/0gaq1utzcPeKnfv5paHyzS"
+        }
+      ],
+      "duration_ms": 205625,
+      "name": "Against the Wall",
+      "url": "https://open.spotify.com/track/5K1JLIgK0p1suxreWPoFc0"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Between The Joy And The Sorrow - Part 2",
+        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
+      },
+      "artists": [
+        {
+          "name": "Ian Yates",
+          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Between The Joy And The Sorrow",
+      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Father",
         "url": "https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 228000,
       "name": "Father",
       "url": "https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Between The Joy And The Sorrow - Part 2",
-        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
-      },
-      "artists": [
-        {
-          "name": "Ian Yates",
-          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Between The Joy And The Sorrow",
-      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
     },
     {
       "added_at": "2022-12-16 05:02:00",

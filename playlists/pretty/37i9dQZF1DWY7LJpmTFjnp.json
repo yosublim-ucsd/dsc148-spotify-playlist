@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Los Bunkers en portada. ",
-  "num_followers": 994272,
+  "num_followers": 994425,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGI0NzUyOWE2YzQxYTJiNDllN2Q4Mzc5NGViNzk5Y2Q0MzRjOGJi",
+  "snapshot_id": "MCw1MzcyNDRkNGQxZWNhYmM0YjhkODA0NjE3MjZkMzExOGNkNDdiMGNi",
   "tracks": [
     {
       "added_at": "2023-06-02 06:00:00",
@@ -27,18 +27,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 232026,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
+      "duration_ms": 232026,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Lamento Boliviano",
-        "url": "https://open.spotify.com/album/4832tSPhuJCtT46DCaGiGR"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        },
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 243338,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
         "name": "Dama De Los Callejones",
         "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 190093,
       "name": "Dama De Los Callejones",
       "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Lamento Boliviano",
+        "url": "https://open.spotify.com/album/4832tSPhuJCtT46DCaGiGR"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 243338,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Aeropuerto",
-        "url": "https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn"
-      },
-      "artists": [
-        {
-          "name": "2 minutos",
-          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
-        },
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 194769,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
         "name": "Fuera Del Cielo",
         "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 232880,
       "name": "16 De Febrero",
       "url": "https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Aeropuerto",
+        "url": "https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn"
+      },
+      "artists": [
+        {
+          "name": "2 minutos",
+          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+        },
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 194769,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Almas Rotas",
-        "url": "https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Almas Rotas",
-      "url": "https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
         "name": "Maria Barracuda",
         "url": "https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Botas Negras",
-        "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
+        "name": "Almas Rotas",
+        "url": "https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz"
       },
       "artists": [
         {
-          "name": "Radio Kaos",
-          "url": "https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc"
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
         }
       ],
-      "duration_ms": 343826,
-      "name": "Botas Negras",
-      "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
+      "duration_ms": 225000,
+      "name": "Almas Rotas",
+      "url": "https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 271733,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Botas Negras",
+        "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
+      },
+      "artists": [
+        {
+          "name": "Radio Kaos",
+          "url": "https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc"
+        }
+      ],
+      "duration_ms": 343826,
+      "name": "Botas Negras",
+      "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1579,22 +1579,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Santa Luc\u00eda (En directo 2023)",
-        "url": "https://open.spotify.com/album/7IEiiqwZJ0qZuXik2OXPrj"
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
       "artists": [
         {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
         },
         {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+          "name": "Luis Humberto Navejas",
+          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
         }
       ],
-      "duration_ms": 259573,
-      "name": "Santa Luc\u00eda - En directo 2023",
-      "url": "https://open.spotify.com/track/2dOaLeSHVbBJranHRO3b2g"
+      "duration_ms": 220826,
+      "name": "Cuando No Estoy Contigo",
+      "url": "https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1615,22 +1615,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Rebel Cats Y Sus Amigos",
-        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+        "name": "Santa Luc\u00eda (En directo 2023)",
+        "url": "https://open.spotify.com/album/7IEiiqwZJ0qZuXik2OXPrj"
       },
       "artists": [
         {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
         },
         {
-          "name": "Luis Humberto Navejas",
-          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Cuando No Estoy Contigo",
-      "url": "https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ"
+      "duration_ms": 259573,
+      "name": "Santa Luc\u00eda - En directo 2023",
+      "url": "https://open.spotify.com/track/2dOaLeSHVbBJranHRO3b2g"
     },
     {
       "added_at": "2023-06-02 06:00:00",

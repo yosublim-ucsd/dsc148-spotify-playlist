@@ -1737,6 +1737,28 @@
     },
     {
       "album": {
+        "name": "My Heart Will Go On (Titanic)",
+        "url": "https://open.spotify.com/album/6N1zvlTXbxnA80TzeuaSfb"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207217,
+      "name": "My Heart Will Go On (Titanic)",
+      "url": "https://open.spotify.com/track/6xW8JLQGyCIDUvQU6KplAQ"
+    },
+    {
+      "album": {
         "name": "Never Alone (Re-Style Remix)",
         "url": "https://open.spotify.com/album/60lF2PCjpf4rFnly1cJHrI"
       },
@@ -2772,7 +2794,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 202929,
       "name": "Your Love (Atmozfears & Sound Rush Remix)",
       "url": "https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT"

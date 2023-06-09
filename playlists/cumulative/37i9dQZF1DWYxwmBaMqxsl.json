@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/5zZQGomSy4wpZaWL34x6fK"
+      },
+      "artists": [
+        {
+          "name": "Ikigai",
+          "url": "https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173810,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X"
+    },
+    {
+      "album": {
         "name": "Stone In The Water",
         "url": "https://open.spotify.com/album/5iF4YLfNRevhsh7WMFuWrU"
       },
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 320859,
       "name": "Late Lament",
       "url": "https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q"

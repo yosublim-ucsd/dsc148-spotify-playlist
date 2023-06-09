@@ -446,6 +446,10 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         },
         {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        },
+        {
           "name": "JVKE",
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
@@ -3364,7 +3368,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 188106,
       "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
@@ -4618,8 +4622,8 @@
           "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
         },
         {
-          "name": "BNYX",
-          "url": "https://open.spotify.com/artist/4kuF7yS9DIeTXrnOvffJkV"
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
         },
         {
           "name": "Lawson",
@@ -8346,7 +8350,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"

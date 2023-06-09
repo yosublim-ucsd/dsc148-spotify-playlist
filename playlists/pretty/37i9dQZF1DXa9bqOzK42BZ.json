@@ -1,32 +1,48 @@
 {
   "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover <a href=\"https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw\">Mr Seed</a>",
-  "num_followers": 3061,
+  "num_followers": 3063,
   "original_name": "Swahili Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjRjYjgxZjFiNWNiMmU1YTFhOGQ4OWJkMGJhYzMxMmJmNzc2ZTcz",
+  "snapshot_id": "MCxmNGNiNDg1Y2NmZDA1MjJlNzkzMjJjNjg3YWMwMzYwMDI3Mzk5YWY2",
   "tracks": [
     {
-      "added_at": "2023-05-12 00:01:00",
+      "added_at": "2023-06-09 00:01:00",
       "album": {
-        "name": "Usiniache (Remix)",
-        "url": "https://open.spotify.com/album/2uzf8hKInIrYTMqqbLmez2"
+        "name": "Hymnos 2",
+        "url": "https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE"
       },
       "artists": [
         {
-          "name": "Mr Seed",
-          "url": "https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw"
+          "name": "Dedo Dieumerci",
+          "url": "https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR"
         },
         {
-          "name": "Wanavokali",
-          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+          "name": "Naomi Mugiraneza",
+          "url": "https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm"
         }
       ],
-      "duration_ms": 270198,
-      "name": "Usiniache - Remix",
-      "url": "https://open.spotify.com/track/44mdd5TPUmYqrir91xg9bX"
+      "duration_ms": 582000,
+      "name": "Majina Yote Jehovah",
+      "url": "https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Narudisha",
+        "url": "https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T"
+      },
+      "artists": [
+        {
+          "name": "Gloria Muliro",
+          "url": "https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV"
+        }
+      ],
+      "duration_ms": 269688,
+      "name": "Narudisha",
+      "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
     },
     {
       "added_at": "2023-05-05 00:01:00",
@@ -59,6 +75,94 @@
       "duration_ms": 309864,
       "name": "Moyo Wangu",
       "url": "https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Umejua Kunifurahisha",
+        "url": "https://open.spotify.com/album/0457zdsea1nLhcXW45GvLc"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        },
+        {
+          "name": "Chris Shalom",
+          "url": "https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU"
+        }
+      ],
+      "duration_ms": 312784,
+      "name": "Umejua Kunifurahisha",
+      "url": "https://open.spotify.com/track/2PydoapfePzFzBc6CoVcru"
+    },
+    {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Amua",
+        "url": "https://open.spotify.com/album/3r8SRWMxBde6awir8fXmca"
+      },
+      "artists": [
+        {
+          "name": "Alexis Zawadi",
+          "url": "https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3"
+        }
+      ],
+      "duration_ms": 389015,
+      "name": "Amua",
+      "url": "https://open.spotify.com/track/4MJ9npZ1snF0HaquPpjqZV"
+    },
+    {
+      "added_at": "2023-05-05 00:01:00",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/4Hl2UURqrZ88wlOolmc7Mv"
+      },
+      "artists": [
+        {
+          "name": "Nahash Mwathi",
+          "url": "https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1"
+        },
+        {
+          "name": "Jackson Saya",
+          "url": "https://open.spotify.com/artist/7EFTCBaclOkenIPumLmGyn"
+        }
+      ],
+      "duration_ms": 271949,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1cXe35isIgaErKaSyi1nP3"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/7GX4V7LPwYaDJ1XXTXL1e4"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "duration_ms": 253474,
+      "name": "Mifupani",
+      "url": "https://open.spotify.com/track/4Ls6DToql6xu7jkEnCnuod"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Nimekutana Na Yesu",
+        "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
+      },
+      "artists": [
+        {
+          "name": "Angela Chibalonza",
+          "url": "https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR"
+        }
+      ],
+      "duration_ms": 295920,
+      "name": "Ebenezer",
+      "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
     },
     {
       "added_at": "2023-05-26 00:01:00",
@@ -101,40 +205,20 @@
       "url": "https://open.spotify.com/track/1zGlgkEa3sONbUQISvtGtO"
     },
     {
-      "added_at": "2023-05-12 00:01:00",
+      "added_at": "2023-06-09 00:01:00",
       "album": {
-        "name": "Amua",
-        "url": "https://open.spotify.com/album/3r8SRWMxBde6awir8fXmca"
+        "name": "Action",
+        "url": "https://open.spotify.com/album/3di0qx12IxzIgc0uFuRSbI"
       },
       "artists": [
         {
-          "name": "Alexis Zawadi",
-          "url": "https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3"
+          "name": "BeeJay",
+          "url": "https://open.spotify.com/artist/0Cwe5u9RvI668c5MXkzqyQ"
         }
       ],
-      "duration_ms": 389015,
-      "name": "Amua",
-      "url": "https://open.spotify.com/track/4MJ9npZ1snF0HaquPpjqZV"
-    },
-    {
-      "added_at": "2023-05-05 00:01:00",
-      "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/4Hl2UURqrZ88wlOolmc7Mv"
-      },
-      "artists": [
-        {
-          "name": "Nahash Mwathi",
-          "url": "https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1"
-        },
-        {
-          "name": "Jackson Saya",
-          "url": "https://open.spotify.com/artist/7EFTCBaclOkenIPumLmGyn"
-        }
-      ],
-      "duration_ms": 271949,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/1cXe35isIgaErKaSyi1nP3"
+      "duration_ms": 330860,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/3Kw2ogHWEVOln1I0COwKpx"
     },
     {
       "added_at": "2023-04-14 00:30:00",
@@ -151,6 +235,22 @@
       "duration_ms": 200891,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS"
+    },
+    {
+      "added_at": "2023-04-07 00:30:00",
+      "album": {
+        "name": "Hararat",
+        "url": "https://open.spotify.com/album/3Le8OrIOMXZvK2JnNR21hS"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 225849,
+      "name": "Hararat",
+      "url": "https://open.spotify.com/track/6sNaQRTxAwmFzC0Pe3zyNF"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -227,6 +327,22 @@
       "duration_ms": 227791,
       "name": "Salama",
       "url": "https://open.spotify.com/track/0FD62g19MnyK9ZBXLOsogP"
+    },
+    {
+      "added_at": "2023-06-09 00:01:00",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6ViivhHL3tS4VQodPp4DQ9"
+      },
+      "artists": [
+        {
+          "name": "Ngalu P",
+          "url": "https://open.spotify.com/artist/0WSlmwtEKyf4RwcuULH3K4"
+        }
+      ],
+      "duration_ms": 218828,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/2CZNoaLPWNcIBjKkNlQ9GS"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -329,6 +445,26 @@
       "url": "https://open.spotify.com/track/2ZIO3PTsc9fPcReItUXTb3"
     },
     {
+      "added_at": "2023-05-12 00:01:00",
+      "album": {
+        "name": "Usiniache (Remix)",
+        "url": "https://open.spotify.com/album/2uzf8hKInIrYTMqqbLmez2"
+      },
+      "artists": [
+        {
+          "name": "Mr Seed",
+          "url": "https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw"
+        },
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "duration_ms": 270198,
+      "name": "Usiniache - Remix",
+      "url": "https://open.spotify.com/track/44mdd5TPUmYqrir91xg9bX"
+    },
+    {
       "added_at": "2022-06-24 17:41:13",
       "album": {
         "name": "Mtawala",
@@ -343,22 +479,6 @@
       "duration_ms": 294764,
       "name": "Mtawala",
       "url": "https://open.spotify.com/track/37MDQQIuuJ7PXp5WmxJ4Ud"
-    },
-    {
-      "added_at": "2023-04-07 00:30:00",
-      "album": {
-        "name": "Hararat",
-        "url": "https://open.spotify.com/album/3Le8OrIOMXZvK2JnNR21hS"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 225849,
-      "name": "Hararat",
-      "url": "https://open.spotify.com/track/6sNaQRTxAwmFzC0Pe3zyNF"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -495,22 +615,6 @@
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
-        "name": "Narudisha",
-        "url": "https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T"
-      },
-      "artists": [
-        {
-          "name": "Gloria Muliro",
-          "url": "https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV"
-        }
-      ],
-      "duration_ms": 269688,
-      "name": "Narudisha",
-      "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
         "name": "Yatupasa Kushukuru",
         "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
       },
@@ -523,22 +627,6 @@
       "duration_ms": 283469,
       "name": "Yatupasa Kushukuru",
       "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/7GX4V7LPwYaDJ1XXTXL1e4"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 253474,
-      "name": "Mifupani",
-      "url": "https://open.spotify.com/track/4Ls6DToql6xu7jkEnCnuod"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -571,22 +659,6 @@
       "duration_ms": 230218,
       "name": "Mimi Ni Wa Juu",
       "url": "https://open.spotify.com/track/13uQrjPPEOv9pVfTJm14LU"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Nimekutana Na Yesu",
-        "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
-      },
-      "artists": [
-        {
-          "name": "Angela Chibalonza",
-          "url": "https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR"
-        }
-      ],
-      "duration_ms": 295920,
-      "name": "Ebenezer",
-      "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -709,22 +781,6 @@
       "url": "https://open.spotify.com/track/3BlvopHOGCh134vhugmiyv"
     },
     {
-      "added_at": "2023-03-10 05:59:41",
-      "album": {
-        "name": "Niko Sawa",
-        "url": "https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB"
-      },
-      "artists": [
-        {
-          "name": "Zabron Singers",
-          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
-        }
-      ],
-      "duration_ms": 276279,
-      "name": "Naogopa",
-      "url": "https://open.spotify.com/track/5sJHsI693oMyfxWu4Uo2kN"
-    },
-    {
       "added_at": "2022-06-24 17:41:13",
       "album": {
         "name": "Wewe Ni Zaidi",
@@ -771,42 +827,6 @@
       "duration_ms": 344019,
       "name": "Victory Belongs To Jesus",
       "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Umejua Kunifurahisha",
-        "url": "https://open.spotify.com/album/0457zdsea1nLhcXW45GvLc"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        },
-        {
-          "name": "Chris Shalom",
-          "url": "https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU"
-        }
-      ],
-      "duration_ms": 312784,
-      "name": "Umejua Kunifurahisha",
-      "url": "https://open.spotify.com/track/2PydoapfePzFzBc6CoVcru"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Tangu Mwanzo",
-        "url": "https://open.spotify.com/album/70AH9ZkKrDBzoB8lRs6pL9"
-      },
-      "artists": [
-        {
-          "name": "Angaza Singers",
-          "url": "https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM"
-        }
-      ],
-      "duration_ms": 377875,
-      "name": "Umenitendea",
-      "url": "https://open.spotify.com/track/5WhazdGfAcEAsdkFlPDrDv"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -975,22 +995,6 @@
       "duration_ms": 554581,
       "name": "Nifundishe Kunyamaza",
       "url": "https://open.spotify.com/track/5ZbqY3dSaJu5WepPqGkxbS"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Katika Ibada",
-        "url": "https://open.spotify.com/album/0sprJAbkqVjUIwt0Bo8AFp"
-      },
-      "artists": [
-        {
-          "name": "Fanuel Sedekia",
-          "url": "https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG"
-        }
-      ],
-      "duration_ms": 295314,
-      "name": "Jina La Yesu",
-      "url": "https://open.spotify.com/track/2rv5OzGIcE3NPvSJiYswp4"
     },
     {
       "added_at": "2022-06-24 17:41:13",

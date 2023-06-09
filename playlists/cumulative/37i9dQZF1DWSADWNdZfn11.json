@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 255124,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/4WGOxsnOhhfVBnGW4HM5tM"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 455618,
       "name": "Enchanted",
       "url": "https://open.spotify.com/track/6UuehB9tnLtlSqpvNEpei6"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 215781,
       "name": "Hallelujah - Piano Version",
       "url": "https://open.spotify.com/track/7tW7bfj8kHzZREXxNXzCG5"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 213489,
       "name": "Here comes the sun",
       "url": "https://open.spotify.com/track/4pEQKbooMLwdyqQ13gTQfx"
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 132008,
       "name": "I Want It That Way - Piano",
       "url": "https://open.spotify.com/track/7t7sYrpWMKJgik6vTMOS14"
@@ -3239,6 +3239,24 @@
     },
     {
       "album": {
+        "name": "Love Is All Around",
+        "url": "https://open.spotify.com/album/07yQmykXzjBt0hghIZVPyF"
+      },
+      "artists": [
+        {
+          "name": "Diego Dumas",
+          "url": "https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203124,
+      "name": "Love Is All Around",
+      "url": "https://open.spotify.com/track/1wQ07OlblAtBNxWGNun2vw"
+    },
+    {
+      "album": {
         "name": "Love Me Like You Do",
         "url": "https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J"
       },
@@ -3412,7 +3430,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 202172,
       "name": "Memories",
       "url": "https://open.spotify.com/track/61oKiMsDlliDe6Io3nUccm"
@@ -3848,7 +3866,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 142000,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9"
@@ -4334,7 +4352,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 198000,
       "name": "Save Your Tears - Piano",
       "url": "https://open.spotify.com/track/78OHUgTkBHVGEclBhjBjkM"
@@ -4964,7 +4982,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 181000,
       "name": "Tears in Heaven",
       "url": "https://open.spotify.com/track/5mT6hAXbgcb3IGSy2gmHtD"
@@ -5494,6 +5512,24 @@
       "duration_ms": 198624,
       "name": "Versace on the Floor",
       "url": "https://open.spotify.com/track/1yGi29gqjufSYeNWY2wPca"
+    },
+    {
+      "album": {
+        "name": "Viva La Vida",
+        "url": "https://open.spotify.com/album/4ywHnvPY7ZAp3C3440TJIs"
+      },
+      "artists": [
+        {
+          "name": "Chris Island",
+          "url": "https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228450,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/7kxKactI72Fl5nZpTpLpJh"
     },
     {
       "album": {

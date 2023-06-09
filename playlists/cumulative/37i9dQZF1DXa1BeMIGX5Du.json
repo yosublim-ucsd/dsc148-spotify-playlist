@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Dangerous Thing",
+        "url": "https://open.spotify.com/album/1L1XG9oKtjHkCB2LY6e1xX"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/7xDDRoOWJ5sOsp2SDXdTrE"
+    },
+    {
+      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL"
       },
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 206440,
       "name": "Thousand (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Armani White \(pictured\), AKA, Drake, K.O and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,068 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,100 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 48 | [Tekky](https://open.spotify.com/track/56cBC4ufFxIxAWeGGoUznJ) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Krept](https://open.spotify.com/artist/59u6HvxEwrOg7jrPhqxFWF) | [Tekky](https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA) | 1:58 |
 | 49 | [MOP](https://open.spotify.com/track/6vKzxT4FXGHECZEw3tIIge) | [Squeeks](https://open.spotify.com/artist/52jwaLGrYTCFAEwDW0rI52), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [MOP](https://open.spotify.com/album/5KZLDvg135ffnDcl6IRaja) | 3:32 |
 
-Snapshot ID: `MCw4MDFhNTBhNWRhNjllODU0YjBiZWNhNjJiNzc5NTExNzM1ZWIxOTlk`
+Snapshot ID: `MCwzNTczMjkxZDY5NzIwMjQ5ZjBjZDg2MWQ1ZGY0MGRjMDI0ZTQ0NTdj`

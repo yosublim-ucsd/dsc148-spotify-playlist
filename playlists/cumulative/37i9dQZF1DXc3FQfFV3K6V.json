@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
+      },
+      "artists": [
+        {
+          "name": "Rosebud Nash",
+          "url": "https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
+    },
+    {
+      "album": {
         "name": "All of me - Acoustic",
         "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
       },
@@ -575,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hodge",
+          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192975,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
+    },
+    {
+      "album": {
         "name": "Born To Be Yours",
         "url": "https://open.spotify.com/album/7gAsbwcqVhQJSDk7uypt8x"
       },
@@ -676,7 +712,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 177187,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/4Jv3e4LxQQigDxvXb61Gb6"
@@ -827,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64"
+      },
+      "artists": [
+        {
+          "name": "Abbie Parker",
+          "url": "https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187830,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1OjnaY1fTZP2MiXzTnlLxL"
       },
@@ -842,6 +896,24 @@
       "duration_ms": 216276,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5q0SV5avxVZkET73G2Neq9"
+    },
+    {
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/6bKocfbVt1JCv4GNEQBGjG"
+      },
+      "artists": [
+        {
+          "name": "New Years Project",
+          "url": "https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184402,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/0SA2U0sQmB52EJpCCtFxGi"
     },
     {
       "album": {
@@ -2688,7 +2760,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 130455,
       "name": "Kiss the Girl",
       "url": "https://open.spotify.com/track/4wJcS2F4VoJM2DR8en4EaW"
@@ -2800,7 +2872,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 223437,
       "name": "Lavender Haze",
       "url": "https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1"
@@ -2854,7 +2926,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 191496,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx"
@@ -3024,6 +3096,24 @@
       "duration_ms": 182068,
       "name": "Little Bit More",
       "url": "https://open.spotify.com/track/2FT0891amRHkKxCy3BYrx6"
+    },
+    {
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197851,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
     },
     {
       "album": {
@@ -3980,7 +4070,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 222272,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/5nt4jj7r2dCnR9chlOaiur"

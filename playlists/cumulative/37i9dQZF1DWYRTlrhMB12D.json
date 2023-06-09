@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Waqt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/78PM5oV8DY3CG1MWwfF7Mi"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445027,
+      "name": "Aage Bhi Jane Na Tu",
+      "url": "https://open.spotify.com/track/6FQSbXPFzdiqgJZU75Hesq"
+    },
+    {
+      "album": {
         "name": "Howrah Bridge",
         "url": "https://open.spotify.com/album/46DJJ5dEmlWQIE39Zo8HZk"
       },
@@ -434,7 +452,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 200320,
       "name": "Aye Gulbadan",
       "url": "https://open.spotify.com/track/0riEPsBGr8VT98piKmm2l6"
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 259120,
       "name": "Jane Woh Kaise Log The",
       "url": "https://open.spotify.com/track/1raJfrE4ArlwIGgFGZ0LEw"
@@ -1594,6 +1612,46 @@
       "duration_ms": 269333,
       "name": "Kisi Ki Muskurahaton Se",
       "url": "https://open.spotify.com/track/20cqpJq6UspwjawaL6o1dF"
+    },
+    {
+      "album": {
+        "name": "Mere Humsafar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2J5eHuAWnicocDqHGsJ9nY"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344760,
+      "name": "Kisi Raah Men Kisi Mod Par",
+      "url": "https://open.spotify.com/track/5sUAUqMtpl1XzHObGRWhgw"
+    },
+    {
+      "album": {
+        "name": "Anupama (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28cq6XAL106QRqviTGLBsK"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Kuchh Dil Ne Kaha Kuchh Bhi Nahin",
+      "url": "https://open.spotify.com/track/06E1Edrnp0J9eu5wPSxA2d"
     },
     {
       "album": {
@@ -2038,7 +2096,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 329066,
       "name": "Pal Pal Dil Ke Paas - From \"Blackmail\"",
       "url": "https://open.spotify.com/track/0HI3O9uCBWtu7B3boRpCaL"
@@ -2430,7 +2488,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 209533,
       "name": "Suhani Raat Dhal Chuki",
       "url": "https://open.spotify.com/track/1OTHxO5AO0XohUfKRRK03X"
@@ -2863,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Jaal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5j5JVwPuM8uM1S7Sx0LVtE"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296240,
+      "name": "Yeh Raat Yeh Chandni",
+      "url": "https://open.spotify.com/track/0tbLiwkqvzQnDaRQUKBgrD"
+    },
+    {
+      "album": {
         "name": "The Golden Melodies, Vol. 1",
         "url": "https://open.spotify.com/album/2qrLaaJpaQKJQF0fUS0lBJ"
       },
@@ -2976,7 +3052,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 198906,
       "name": "Zindagi Bhar Nahin",
       "url": "https://open.spotify.com/track/7KljyPi5rUB3gyl9olwEpt"

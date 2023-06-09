@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-110 songs - 7 hr 39 min
+111 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [I'm Still...](https://open.spotify.com/track/6hoWEK3oAZGV66U5z1UVbP) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 4:06 | 2022-07-26 |  |
 | [Infinity!Our wings!!](https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:31 | 2022-06-25 |  |
 | [Just Believe!!!](https://open.spotify.com/track/0EIfyw7CQpOmIsV5CqnXLp) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:05 | 2022-06-25 | 2022-07-27 |
+| [KAGAYAKI Don't forget!](https://open.spotify.com/track/7xIM7lWmXPgRhPAGLAKxLv) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [KAGAYAKI Don't forget!](https://open.spotify.com/album/2WVIL84aMGYGuin5KWD2yE) | 4:16 | 2023-06-08 |  |
 | [Kiss the Sun](https://open.spotify.com/track/5tCIFJpunFfqaO0ePThVAB) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Shadow Effect](https://open.spotify.com/album/2YAcYDJt8KOSKbU4JoHBFJ) | 4:21 | 2022-10-04 | 2023-03-08 |
 | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/track/7H91X8TmZl9weVsHu15ya1) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:09 | 2022-06-25 | 2022-07-28 |
 | [La Bella Patria](https://open.spotify.com/track/69atMEFeZrTfe8WNSyLFFG) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [サイコーハート / La Bella Patria / ツナガルコネクト \(宮下 愛盤\)](https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn) | 4:46 | 2022-06-25 | 2022-07-27 |
@@ -113,7 +114,7 @@
 | [決意の光](https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:54 | 2022-06-25 |  |
 | [無敵級\*ビリーバー](https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:04 | 2022-06-25 |  |
 | [眠れる森に行きたいな](https://open.spotify.com/track/24CUT6eQMpK66kZexYJdhh) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:24 | 2022-06-25 | 2023-03-31 |
-| [繚乱!ビクトリーロード](https://open.spotify.com/track/2WdwcYfaJ73rGKWg4Jyr1j) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [夢が僕らの太陽さ](https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T) | 4:01 | 2022-06-25 |  |
+| [繚乱!ビクトリーロード](https://open.spotify.com/track/2WdwcYfaJ73rGKWg4Jyr1j) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [夢が僕らの太陽さ](https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T) | 4:01 | 2022-06-25 | 2023-06-09 |
 | [翠いカナリア](https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [MONSTER GIRLS](https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi) | 3:49 | 2022-06-25 | 2022-07-29 |
 | [翠いカナリア](https://open.spotify.com/track/3LDPZE2mrrsvHGJOTwm2i3) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:49 | 2022-07-26 |  |
 | [虹色Passions!](https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [虹色Passions!](https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl) | 4:15 | 2022-06-25 | 2022-09-03 |

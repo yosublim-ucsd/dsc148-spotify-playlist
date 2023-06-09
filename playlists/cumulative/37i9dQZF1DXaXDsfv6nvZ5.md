@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-278 songs - 16 hr 54 min
+279 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Mulholland Drive](https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [Snoop Dogg Presents Death Row Summer 2022](https://open.spotify.com/album/78R84o4n1a3LxcdzgGZKfC) | 3:41 | 2023-02-10 |  |
 | [Music](https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 6:10 | 2022-10-03 |  |
 | [My Baby Just Cares for Me](https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Ledisi Sings Nina](https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc) | 3:39 | 2021-12-03 | 2022-07-29 |
-| [My Love](https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a) | 4:10 | 2022-09-09 |  |
+| [My Love](https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a) | 4:10 | 2022-09-09 | 2023-06-09 |
 | [My Phone Can Die](https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [My Phone Can Die](https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa) | 2:59 | 2023-05-19 |  |
 | [My Way](https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 3:37 | 2022-10-21 | 2023-04-03 |
 | [N Side](https://open.spotify.com/track/18t9EUBOfOPRv4nrJUpRAq) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [N Side](https://open.spotify.com/album/0oBHAZtvWGE21oxQpq2laq) | 3:44 | 2022-03-11 | 2022-09-10 |
@@ -225,6 +225,7 @@
 | [Slow Down \- Acoustic](https://open.spotify.com/track/3ugCSRkkewHctDELil9Ixq) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Slow Down \(Acoustic\)](https://open.spotify.com/album/6oucPVEBijDE1a4Ef2vEU4) | 4:11 | 2021-12-03 | 2022-09-12 |
 | [So Much](https://open.spotify.com/track/0jEDSgowFfE5VG3OSgiNXO) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [No Promises](https://open.spotify.com/album/231tFVqfkebvdFqg1fjyB4) | 2:39 | 2023-05-26 |  |
 | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/track/2TuRqxy7EI8gMGDQFt3iTV) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Rob "Fonksta" Bacon](https://open.spotify.com/artist/0PBJAklxGVi4C4OOVPRmaO) | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/album/2bbtGylMVav9dn2QWNiGIw) | 4:44 | 2021-12-03 | 2021-12-31 |
+| [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 | 2023-06-02 |  |
 | [Soul Caliber](https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Quintin Gulledge](https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf) | [The Seed](https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE) | 5:12 | 2022-11-11 | 2023-01-01 |
 | [Speak To Me](https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 2:46 | 2022-03-11 | 2022-09-10 |
 | [Special Occasion](https://open.spotify.com/track/129zuMM1WITbYkbljPlxaJ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 4:31 | 2023-05-05 |  |

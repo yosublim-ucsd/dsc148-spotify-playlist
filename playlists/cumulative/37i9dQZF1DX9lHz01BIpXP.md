@@ -4,10 +4,11 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=Sonc\-mBXRpm5ut0itdUxVg">Loufi</a> & <a href="https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=21NaMlL9QGy6MUBpjSeKJg">Van Pletzen</a>
 
-90 songs - 4 hr 52 min
+91 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [7DeLaan](https://open.spotify.com/track/5k1dncVhfbWtifwXFGthh3) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [7DeLaan](https://open.spotify.com/album/0Uv1YoMhuM8kKIDlLfgnvJ) | 2:50 | 2023-06-08 |  |
 | [Asemrowers](https://open.spotify.com/track/5gpo2x24coDr17KWjuT6Le) | [Bittereinder](https://open.spotify.com/artist/5x7rnGctpbwn7srAYLDD0F) | [Asemrowers](https://open.spotify.com/album/1qkUI57JztayVSb6ReQkTv) | 3:37 | 2022-09-08 | 2022-10-28 |
 | [Awe](https://open.spotify.com/track/1rNWkKVhuRBqwJ6nsjQIgw) | [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B), [Cream Machine](https://open.spotify.com/artist/3ogDnSPAOIkeH3EJgkw6sd) | [Awe](https://open.spotify.com/album/0uikFOqO0GXZKxzs3Nab8Y) | 2:08 | 2022-09-08 | 2023-03-03 |
 | [Awe My Ma Se Kind](https://open.spotify.com/track/0Ht2LLaQovMRWaQSRdGD9t) | [Pret Kadet](https://open.spotify.com/artist/6HViHb4IhV0UAMVV1KMUIk), [Foksie Konyn](https://open.spotify.com/artist/12VZK2SvbJyoOw5OYKee5a) | [Awe My Ma Se Kind](https://open.spotify.com/album/40nAWEdpwiLQLdzqWTQB17) | 3:08 | 2022-09-08 | 2022-10-14 |
@@ -80,7 +81,7 @@
 | [Smooth](https://open.spotify.com/track/7oovNehysT0pyWphC78mnH) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Smooth](https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq) | 2:49 | 2022-12-01 |  |
 | [Soldaat](https://open.spotify.com/track/6fXD6fswA7gxaxwwxb7lsY) | [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Longjevity](https://open.spotify.com/album/7gOn06YJr6NTt5cwHmC2Y8) | 3:14 | 2022-09-08 | 2022-11-04 |
 | [Stap Soldaat](https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Stap Soldaat](https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ) | 3:10 | 2023-03-02 |  |
-| [Swaar Tye](https://open.spotify.com/track/07GWdeJWoSJmOtiogGNOxX) | [Lil Jady](https://open.spotify.com/artist/535YmzkwAuuy4jjVrhnzBZ) | [Swaar Tye](https://open.spotify.com/album/1wT5j2yXzesSWS3El9tnPS) | 2:07 | 2023-06-02 |  |
+| [Swaar Tye](https://open.spotify.com/track/07GWdeJWoSJmOtiogGNOxX) | [Lil Jady](https://open.spotify.com/artist/535YmzkwAuuy4jjVrhnzBZ) | [Swaar Tye](https://open.spotify.com/album/1wT5j2yXzesSWS3El9tnPS) | 2:07 | 2023-06-02 | 2023-06-09 |
 | [Syfers](https://open.spotify.com/track/0ZpttaASCFswJdD8sJprbJ) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Sien Jou Later](https://open.spotify.com/album/0AXcygm8jz0YWKvgZvVd0T) | 3:17 | 2022-09-08 | 2023-03-25 |
 | [Sê Net](https://open.spotify.com/track/5j6SZZCXd6h1N1bb00eaOu) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Bliksemstraal](https://open.spotify.com/artist/0tZgg5DzLolw3cT7We6RQ0) | [Funky\-Kaans](https://open.spotify.com/album/4dCrzyFLnOoCrMCEfLZ6qa) | 3:21 | 2022-09-08 | 2022-12-02 |
 | [T\. D\. K\. S](https://open.spotify.com/track/7qbLm0IBfu31Tpq6W45XfH) | [MJoyner](https://open.spotify.com/artist/5SvCMCMj7dkqVnylp7xEdv), [TY Mxjor](https://open.spotify.com/artist/6jRREpnzwzBkDjT6QPtlLv) | [T\. D\. K\. S](https://open.spotify.com/album/6fdkcLJyX2csmHE6byABjX) | 3:30 | 2022-09-08 |  |

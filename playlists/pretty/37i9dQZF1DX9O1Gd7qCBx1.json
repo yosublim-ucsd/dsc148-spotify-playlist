@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 186812,
+  "num_followers": 186819,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzBjNmZkZDcwNDFiNDQ2MGExMWVmM2NlY2M0YjQyZDQzYzU1N2Zj",
+  "snapshot_id": "MCw0ODYzMDQyOTAzNjYxMTkzYTg1ZTIyYjcxMjI3N2RjN2MwZjA0Y2I1",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
-        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
-      },
-      "artists": [
-        {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Canci\u00f3n de las Brujas - Remasterizado",
-      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Pel\u00edcula Muda (Primera Parte)",
         "url": "https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 235773,
       "name": "Vamos a Morir",
       "url": "https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Canci\u00f3n de las Brujas - Remasterizado",
+      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Cantando Con la Muerte",
+        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
+      },
+      "artists": [
+        {
+          "name": "Los Folkloristas",
+          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Coplas del Muerto (Coplas) [M\u00e9xico]",
+      "url": "https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Contestadas Y Rancheras",
         "url": "https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 138541,
       "name": "La Catr\u00edna Pobre",
       "url": "https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Cantando Con la Muerte",
-        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
-      },
-      "artists": [
-        {
-          "name": "Los Folkloristas",
-          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Coplas del Muerto (Coplas) [M\u00e9xico]",
-      "url": "https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Dulce Muerte",
-        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
-      },
-      "artists": [
-        {
-          "name": "BuenRostro",
-          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Dulce Muerte",
-      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/6z318RVGyQyRloFxI7o2nS"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 213509,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/4jk5x2HEwHyB7c03N3v4fo"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Dulce Muerte",
+        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
+      },
+      "artists": [
+        {
+          "name": "BuenRostro",
+          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Dulce Muerte",
+      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
     },
     {
       "added_at": "2021-11-01 17:39:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,114 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,130 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Fuck It Up \(feat\. City Girls & Tyga\)](https://open.spotify.com/track/1ri9bBxmv1CmAuA55g8Xvh) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Fuck It Up \(feat\. City Girls & Tyga\)](https://open.spotify.com/album/1V4dbLC7PqSzf0cXKWIwzk) | 2:54 |
 | 50 | [Supahood](https://open.spotify.com/track/0bhUCHVn9o7u6YZwYGLKwi) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [All Monsters Are Human](https://open.spotify.com/album/1Ds7Xoj5ihJkFvTKwXWaIA) | 3:32 |
 
-Snapshot ID: `MjgxMDIzMzUsMDAwMDAwMDA0MDQ5ZmU2MzJjMTIyOWU4MTdhMjc0NjRlMjAxNDExYg==`
+Snapshot ID: `MjgxMDM3NzksMDAwMDAwMDBiMTNjNDkyMGYyYWRjNjU3MjBmOTY0OWVmYzNjMTUzZg==`

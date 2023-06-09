@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-277 songs - 12 hr 13 min
+279 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-06-17 |  |
 | [First Light](https://open.spotify.com/track/5eIg1epMoq4ZRNPEy0W7wH) | [Bill Valentino](https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN) | [First Light](https://open.spotify.com/album/0S5xUJOjVtl6g3WXVGi5ED) | 1:42 | 2023-05-12 |  |
 | [Flamenkito](https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS) | [Flamenkito](https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh) | 1:46 | 2022-10-14 | 2023-03-03 |
-| [Flamenkito](https://open.spotify.com/track/2gZWsOLfX0W1Fu57qgFMQM) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Flamenkito](https://open.spotify.com/album/6JWc5p5djyJLBKz9hdZnvk) | 1:46 | 2023-02-24 |  |
+| [Flamenkito](https://open.spotify.com/track/2gZWsOLfX0W1Fu57qgFMQM) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Flamenkito](https://open.spotify.com/album/6JWc5p5djyJLBKz9hdZnvk) | 1:46 | 2023-02-24 | 2023-06-09 |
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-12 |  |
 | [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 | 2022-07-08 |  |
 | [Forever And Always](https://open.spotify.com/track/1ybsrtBpxxFJOG1VKG5wXE) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Forever And Always](https://open.spotify.com/album/5Gdti3kn7qfeuqm5mV4csY) | 2:23 | 2022-06-17 |  |
@@ -204,7 +204,7 @@
 | [Really Great To Be Here](https://open.spotify.com/track/1A4WdvncZhXXSYJooxgWYJ) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Really Great To Be Here](https://open.spotify.com/album/3manuOh0CJ7u1aMcEkovjI) | 3:10 | 2023-02-24 |  |
 | [Recuerdos de la Alhambra, ift 44](https://open.spotify.com/track/5uqj1uRgouBQqdHzMLo2ag) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Heike Matthiesen](https://open.spotify.com/artist/7EFCTBKgRURpMVhzE8p9a5) | [Recuerdos de la Alhambra, ift 44](https://open.spotify.com/album/6mm8TY4WNUUE61hQxWCh3o) | 6:22 | 2022-07-29 | 2023-05-13 |
 | [Red Maple Leaves](https://open.spotify.com/track/0I2PBwHOSV64TRDxqvdBIB) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [Red Maple Leaves](https://open.spotify.com/album/4o8yu9sJK3u53SGIZTduOW) | 3:22 | 2022-06-17 |  |
-| [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-03-31 |  |
+| [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-03-31 | 2023-06-09 |
 | [Retornar](https://open.spotify.com/track/2RyKPVRF7xEKgGPxHsmz3n) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Retornar](https://open.spotify.com/album/5sRaOWsuKC0rFsPeBzSAni) | 4:21 | 2022-06-17 |  |
 | [Romanza \- Epic Version](https://open.spotify.com/track/4gk0nGhe2DPrZI29mGIPt6) | [Beyond The Guitar](https://open.spotify.com/artist/4S5AtlCYMKonu1l2G9ZIFp) | [Romanza \(Epic Version\)](https://open.spotify.com/album/76IzJ3MEEyUp4CUCulN7rz) | 2:41 | 2022-06-17 | 2022-07-08 |
 | [Rêvant de qui nous étions](https://open.spotify.com/track/6eC8cmEgLmoNEL9MkLZYDr) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Rêvant de qui nous étions](https://open.spotify.com/album/6rCxZZio0rQLHSWoJ5NJp7) | 2:30 | 2022-06-17 |  |
@@ -214,6 +214,7 @@
 | [Saffron Hills](https://open.spotify.com/track/65334YdgENom7CuEpChTCJ) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Saffron Hills](https://open.spotify.com/album/6j9zshvn2NhNjUKGRP1NgM) | 2:25 | 2022-06-17 | 2022-08-18 |
 | [San Gervasi](https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [San Gervasi](https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8) | 2:30 | 2022-06-17 | 2023-01-20 |
 | [Santa Fiora](https://open.spotify.com/track/48j6ZrDM8WaO8plMxxc4CO) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Santa Fiora](https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF) | 2:01 | 2023-03-31 |  |
+| [Saudade](https://open.spotify.com/track/5ya9oJXawpEtTT64juebsM) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Saudade](https://open.spotify.com/album/5Zh8cgGWYAc5qRLwTvPXcF) | 2:42 | 2023-06-08 |  |
 | [Saudade](https://open.spotify.com/track/4UfLroIAb8MPuegv6iORJv) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Saudade](https://open.spotify.com/album/5By790hqqqzvik0TeG3ZIV) | 2:30 | 2023-03-10 |  |
 | [Se Ela Perguntar](https://open.spotify.com/track/1kvkbzzDc1YqgX8B1HSLdo) | [Dilermando Reis](https://open.spotify.com/artist/6jV11251JZCZ5BU1kTGCVH), [Panos Megarchiotis](https://open.spotify.com/artist/2KxHkdbc2w29KhuQyNVQ9i) | [Violão Brasileiro \(20th Century Brazilian Music for Guitar\)](https://open.spotify.com/album/0XE7HgG4OgGYUCqc6PLZPZ) | 3:18 | 2022-06-17 | 2022-06-25 |
 | [Secret Letters For You](https://open.spotify.com/track/1dLCaGhrgqqcX4m9g5P4EZ) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Secret Letters For You](https://open.spotify.com/album/0LwkZsEqjcn7LA6PxVF5nq) | 2:33 | 2023-03-31 |  |
@@ -231,10 +232,11 @@
 | [Sombra](https://open.spotify.com/track/7vpF6W64XotHKOESMN7eKp) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Sombra](https://open.spotify.com/album/2BKmkEhOxgCUInScgtmcG0) | 1:42 | 2022-06-17 | 2022-08-18 |
 | [Sonidos De La Tarde](https://open.spotify.com/track/3qNkQ9TgNVvHKwc55SFUYf) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Sonidos De La Tarde](https://open.spotify.com/album/0piCaKv5lgsUxhGI0wgK37) | 1:49 | 2022-10-07 |  |
 | [Soñando](https://open.spotify.com/track/70BMqswqh9Kjz6Sr6lQ47W) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Soñando](https://open.spotify.com/album/1jem5C7Z4jV2ZcpLDVwpt7) | 1:57 | 2022-06-17 |  |
-| [Spanish Ballad](https://open.spotify.com/track/0pdKzWmhMFWcC2UQiFz2gY) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC) | [Spanish Ballad](https://open.spotify.com/album/6KiDH7Wp4lrFqiY8nnWFSz) | 2:58 | 2022-07-15 |  |
+| [Spanish Ballad](https://open.spotify.com/track/0pdKzWmhMFWcC2UQiFz2gY) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC) | [Spanish Ballad](https://open.spotify.com/album/6KiDH7Wp4lrFqiY8nnWFSz) | 2:58 | 2022-07-15 | 2023-06-09 |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-07-01 |  |
 | [Spero Ancora In Un Tuo Ritorno](https://open.spotify.com/track/2rARKDKGUhZshI910DTnZJ) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Spero Ancora In Un Tuo Ritorno](https://open.spotify.com/album/2q5ZGA1ohBaWg4kNVbMAvt) | 3:58 | 2022-06-17 | 2023-04-22 |
 | [Stockholm Waltz](https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623) | 2:20 | 2022-09-16 |  |
+| [Storyteller](https://open.spotify.com/track/7d9uanPShS0NVsESqcArCa) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Storyteller](https://open.spotify.com/album/3Du4mTpGliNy0e7qAIdR3G) | 3:01 | 2023-06-08 |  |
 | [Strange Encounter](https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Strange Encounter](https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m) | 2:20 | 2023-03-31 |  |
 | [Sua Flor](https://open.spotify.com/track/0392xui5zL1nRux90JIPuv) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Sua Flor](https://open.spotify.com/album/0HYEHpNnG4gvnH7JchXalD) | 1:45 | 2022-07-08 | 2023-01-20 |
 | [Sunshine In Her Hair](https://open.spotify.com/track/6Ji4I94StmYhrkNrubHCeF) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Sunshine In Her Hair](https://open.spotify.com/album/6w6lRqVy3bx8ObKV5mJ11K) | 1:56 | 2022-06-17 |  |

@@ -167,6 +167,28 @@
     },
     {
       "album": {
+        "name": "Bloody Daddy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5pmBPVa6MtjFYVBTeODYBl"
+      },
+      "artists": [
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Harsimran Singh",
+          "url": "https://open.spotify.com/artist/7xoMHS2ot8ojHrd7xdWRNe"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185896,
+      "name": "Baari Barsi",
+      "url": "https://open.spotify.com/track/3LmGW8kkDav3YgKi7ZLRXj"
+    },
+    {
+      "album": {
         "name": "I Hate Luv Storys (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL"
       },

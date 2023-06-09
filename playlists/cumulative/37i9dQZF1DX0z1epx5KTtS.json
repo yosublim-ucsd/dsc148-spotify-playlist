@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Fior 2 Bior",
+  "description": "African dance party music from Paris to Abidjan. Photo : Elow'n",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 236417,
       "name": "BINAKA",
       "url": "https://open.spotify.com/track/4G5lllH9iGUSyFkMDwabMU"
+    },
+    {
+      "album": {
+        "name": "Blocage",
+        "url": "https://open.spotify.com/album/5Ka7VNTZwPq9OslyBiS3Fu"
+      },
+      "artists": [
+        {
+          "name": "Elow'n",
+          "url": "https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140751,
+      "name": "Blocage",
+      "url": "https://open.spotify.com/track/1HliCFmp6TxhvMewIJlTs6"
     },
     {
       "album": {
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 227294,
       "name": "On a pris balle",
       "url": "https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM"

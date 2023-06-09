@@ -1,28 +1,28 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW?si=4twYCzxJR8O5Ue4aF3qqnw\">BCUC</a> ",
-  "num_followers": 13210,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX?si=Z0xj63C2R_i51OZ3pDUs0w\">Vrede</a> ",
+  "num_followers": 13218,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWNlYWRkZWU1NGU4YjFiMzUyODgzZmRiN2M0Y2I5NDIxZjBjMzM2",
+  "snapshot_id": "MCw2NDA3ZTcwNzY4ZDdiODkxNzdmNzViYmFlYWQ2MDRiMjNiMmUyNWM2",
   "tracks": [
     {
-      "added_at": "2023-06-01 21:59:00",
+      "added_at": "2023-06-08 21:59:00",
       "album": {
-        "name": "Millions of Us",
-        "url": "https://open.spotify.com/album/0sUJTQiCZB1iu5NXenCyJA"
+        "name": "Klein W\u00eareld",
+        "url": "https://open.spotify.com/album/0ICYpf8GssQkw1ZjX0b10s"
       },
       "artists": [
         {
-          "name": "BCUC",
-          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+          "name": "Vrede",
+          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
         }
       ],
-      "duration_ms": 314679,
-      "name": "Millions of Us - Part 2",
-      "url": "https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS"
+      "duration_ms": 189759,
+      "name": "Klein W\u00eareld",
+      "url": "https://open.spotify.com/track/0JK74oz3Sn06CBG1vq3Ru8"
     },
     {
       "added_at": "2023-05-25 21:59:00",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/4uiF6f8SnK7Yxax8GNy6bz"
     },
     {
-      "added_at": "2023-03-30 21:59:00",
-      "album": {
-        "name": "Everything Is Black",
-        "url": "https://open.spotify.com/album/1sFLxuAtdcez5ozRb7anM5"
-      },
-      "artists": [
-        {
-          "name": "Ross Harding",
-          "url": "https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA"
-        }
-      ],
-      "duration_ms": 245880,
-      "name": "Everything Is Black",
-      "url": "https://open.spotify.com/track/3USvpF3X4zg3DUw8Ro6AIY"
-    },
-    {
       "added_at": "2023-04-14 03:54:26",
       "album": {
         "name": "#23",
@@ -145,22 +129,6 @@
       "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Caravan In The Mist",
-        "url": "https://open.spotify.com/album/63n0zHzpn8Ov5yNoSUoRnE"
-      },
-      "artists": [
-        {
-          "name": "Mann Friday",
-          "url": "https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8"
-        }
-      ],
-      "duration_ms": 206772,
-      "name": "Caravan In The Mist",
-      "url": "https://open.spotify.com/track/6raknpOUrMns81fs28m5xl"
-    },
-    {
       "added_at": "2023-04-20 21:59:00",
       "album": {
         "name": "Reincarnation",
@@ -191,6 +159,22 @@
       "duration_ms": 211227,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/5HODR0ePjRBr9eUFrL92MF"
+    },
+    {
+      "added_at": "2023-06-08 21:59:00",
+      "album": {
+        "name": "BEST DAYS",
+        "url": "https://open.spotify.com/album/6uLmU29FmTprDpB9hSfhoH"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 194830,
+      "name": "BEST DAYS",
+      "url": "https://open.spotify.com/track/0h946n13uGeFs6PaKFvuCx"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -361,6 +345,22 @@
       "url": "https://open.spotify.com/track/4krdsYOyRq3LLDW55H654R"
     },
     {
+      "added_at": "2023-06-01 21:59:00",
+      "album": {
+        "name": "Millions of Us",
+        "url": "https://open.spotify.com/album/0sUJTQiCZB1iu5NXenCyJA"
+      },
+      "artists": [
+        {
+          "name": "BCUC",
+          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+        }
+      ],
+      "duration_ms": 314679,
+      "name": "Millions of Us - Part 2",
+      "url": "https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS"
+    },
+    {
       "added_at": "2023-05-11 21:59:00",
       "album": {
         "name": "The Monday Song",
@@ -441,6 +441,26 @@
       "url": "https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y"
     },
     {
+      "added_at": "2023-06-08 21:59:00",
+      "album": {
+        "name": "Dead Weight",
+        "url": "https://open.spotify.com/album/2wmfuymectP3TLRP50kko3"
+      },
+      "artists": [
+        {
+          "name": "Acid Magus",
+          "url": "https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2"
+        },
+        {
+          "name": "Johni Holiday",
+          "url": "https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2"
+        }
+      ],
+      "duration_ms": 353025,
+      "name": "Dead Weight",
+      "url": "https://open.spotify.com/track/48bu0l37kTYnMBCzIGwXoU"
+    },
+    {
       "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Shopping Bags",
@@ -455,6 +475,22 @@
       "duration_ms": 155818,
       "name": "Shopping Bags",
       "url": "https://open.spotify.com/track/1LQlATnTQZvPyXwzjPb83e"
+    },
+    {
+      "added_at": "2023-06-08 21:59:00",
+      "album": {
+        "name": "Shipwrecked",
+        "url": "https://open.spotify.com/album/17jBmwRersKiMB1Ht8FG0S"
+      },
+      "artists": [
+        {
+          "name": "Jack Atlantic",
+          "url": "https://open.spotify.com/artist/3qoOXrkZpDUYj8uhVkaFFB"
+        }
+      ],
+      "duration_ms": 221781,
+      "name": "Shipwrecked",
+      "url": "https://open.spotify.com/track/68N6goF2s86H3yh3qn4bMb"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -537,6 +573,22 @@
       "url": "https://open.spotify.com/track/2AHhIcPVeEkjsZ5PWzRchd"
     },
     {
+      "added_at": "2023-06-08 21:59:00",
+      "album": {
+        "name": "Black Candy",
+        "url": "https://open.spotify.com/album/5JMwszlEhGEtI4NPdEjxeF"
+      },
+      "artists": [
+        {
+          "name": "The Cavalier",
+          "url": "https://open.spotify.com/artist/44WZe9x8mr93eF5jwHMkw1"
+        }
+      ],
+      "duration_ms": 228540,
+      "name": "Black Candy",
+      "url": "https://open.spotify.com/track/6qm6JkUaYNFBi9ewXTKHBj"
+    },
+    {
       "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Iemand Anders",
@@ -551,22 +603,6 @@
       "duration_ms": 244125,
       "name": "Iemand Anders",
       "url": "https://open.spotify.com/track/1vjDxCSoNL7D8Eq8qUCekg"
-    },
-    {
-      "added_at": "2023-04-14 03:54:26",
-      "album": {
-        "name": "Repine Forest",
-        "url": "https://open.spotify.com/album/1Vd2YgVrjDTfQ5IhJmMglP"
-      },
-      "artists": [
-        {
-          "name": "I Forget Myself",
-          "url": "https://open.spotify.com/artist/0THqV33GCcyFh9myv6qD1y"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/2rH0ehJmXiph2aMIaYcahL"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -619,6 +655,22 @@
       "duration_ms": 219640,
       "name": "Partners in Crime",
       "url": "https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs"
+    },
+    {
+      "added_at": "2023-06-08 21:59:00",
+      "album": {
+        "name": "In Stereo",
+        "url": "https://open.spotify.com/album/3676QgP6dh5qrUWUJ3yARp"
+      },
+      "artists": [
+        {
+          "name": "Liberty Down",
+          "url": "https://open.spotify.com/artist/5G3sIpOn5aW0SkDwTSupj9"
+        }
+      ],
+      "duration_ms": 241954,
+      "name": "In Stereo",
+      "url": "https://open.spotify.com/track/64ngTG7lCggnvgOk6ZpFXZ"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -685,22 +737,6 @@
       "url": "https://open.spotify.com/track/472uZf2otohSUoXG51wqwh"
     },
     {
-      "added_at": "2023-04-14 03:54:26",
-      "album": {
-        "name": "SKIN",
-        "url": "https://open.spotify.com/album/6yHbCQ1kMQd54FzDsV5UM0"
-      },
-      "artists": [
-        {
-          "name": "BRAINCHILD",
-          "url": "https://open.spotify.com/artist/0IKw7PVOOaFyDUTMcAYkCj"
-        }
-      ],
-      "duration_ms": 144751,
-      "name": "SKIN",
-      "url": "https://open.spotify.com/track/4KqrcWePnhNGWAyfa8UTO6"
-    },
-    {
       "added_at": "2023-04-20 21:59:00",
       "album": {
         "name": "Wat Is Daar ?",
@@ -715,22 +751,6 @@
       "duration_ms": 205608,
       "name": "Wat Is Daar ?",
       "url": "https://open.spotify.com/track/1lQDVdN8TfcJ6kolhTXFqB"
-    },
-    {
-      "added_at": "2023-04-14 03:54:26",
-      "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/4Ne7tTIbyzladfzbwO2y8x"
-      },
-      "artists": [
-        {
-          "name": "Wonderwolf",
-          "url": "https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Mud",
-      "url": "https://open.spotify.com/track/5byP45prtT0kxbXDWM4S0n"
     },
     {
       "added_at": "2023-05-18 21:59:00",
@@ -795,22 +815,6 @@
       "duration_ms": 286160,
       "name": "Howl",
       "url": "https://open.spotify.com/track/1eRAZZelizJPQkksU0oEux"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Carry The Sun",
-        "url": "https://open.spotify.com/album/12ipKJwW2eSQiYjmSpPUdS"
-      },
-      "artists": [
-        {
-          "name": "4am",
-          "url": "https://open.spotify.com/artist/6Et1m4ITGVs524OB1tBr7Z"
-        }
-      ],
-      "duration_ms": 184325,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/3VdOVX3NblTOCcm7FmoXZe"
     },
     {
       "added_at": "2023-02-16 21:59:00",

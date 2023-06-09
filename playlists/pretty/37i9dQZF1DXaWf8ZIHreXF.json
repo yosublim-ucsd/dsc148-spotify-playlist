@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 145218,
+  "num_followers": 145398,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjBlOTI2MDYyOTIwOTVmOWRkYmUyZjBiMWYzNDI5OWVkZjY2NGYy",
+  "snapshot_id": "MCwyNzZkYWQ0ZjdjM2Y3NDVkNDgzNWIyMTkzNDY1Njk0MzljMTQ3ZThm",
   "tracks": [
     {
       "added_at": "2022-11-14 09:15:10",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Alors on danse - Radio Edit",
+      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+    },
+    {
+      "added_at": "2022-11-14 09:15:10",
+      "album": {
         "name": "Waves (Robin Schulz Radio Edit)",
         "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
-    },
-    {
-      "added_at": "2022-11-14 09:15:10",
-      "album": {
-        "name": "Cheese",
-        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Alors on danse - Radio Edit",
-      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -463,18 +463,26 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+        "name": "Hear Me Now (feat. Zeeba)",
+        "url": "https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         }
       ],
-      "duration_ms": 160426,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk"
+      "duration_ms": 194840,
+      "name": "Hear Me Now",
+      "url": "https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -519,26 +527,18 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Hear Me Now (feat. Zeeba)",
-        "url": "https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o"
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 194840,
-      "name": "Hear Me Now",
-      "url": "https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa"
+      "duration_ms": 160426,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -687,38 +687,6 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
-    },
-    {
-      "added_at": "2022-11-14 09:15:10",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 219159,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
-    },
-    {
-      "added_at": "2022-11-14 09:15:10",
-      "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
       },
@@ -743,6 +711,38 @@
       "duration_ms": 250285,
       "name": "Where Are \u00dc Now (with Justin Bieber)",
       "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
+    },
+    {
+      "added_at": "2022-11-14 09:15:10",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 219159,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
+    },
+    {
+      "added_at": "2022-11-14 09:15:10",
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
-    },
-    {
-      "added_at": "2022-11-14 09:15:10",
-      "album": {
         "name": "Good Evening",
         "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 211975,
       "name": "Five More Hours",
       "url": "https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN"
+    },
+    {
+      "added_at": "2022-11-14 09:15:10",
+      "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1175,22 +1175,18 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
         }
       ],
-      "duration_ms": 218293,
-      "name": "Beautiful Now",
-      "url": "https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL"
+      "duration_ms": 161322,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1215,18 +1211,22 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
         }
       ],
-      "duration_ms": 161322,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
+      "duration_ms": 218293,
+      "name": "Beautiful Now",
+      "url": "https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Gecko (Overdrive) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "Gecko (Overdrive) - Radio Edit",
-      "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
-    },
-    {
-      "added_at": "2022-11-14 09:15:10",
-      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 254653,
       "name": "Sun Is Shining",
       "url": "https://open.spotify.com/track/4b2tcjrG1qUkSdsqEFP2dB"
+    },
+    {
+      "added_at": "2022-11-14 09:15:10",
+      "album": {
+        "name": "Gecko (Overdrive) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "Gecko (Overdrive) - Radio Edit",
+      "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1435,22 +1435,22 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH"
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
       },
       "artists": [
         {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Zac Samuel",
-          "url": "https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
         }
       ],
-      "duration_ms": 213135,
-      "name": "Say Something - Zac Samuel Remix",
-      "url": "https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU"
+      "duration_ms": 169160,
+      "name": "Freaks - Radio Edit",
+      "url": "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1471,22 +1471,22 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
         },
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+          "name": "Zac Samuel",
+          "url": "https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0"
         }
       ],
-      "duration_ms": 169160,
-      "name": "Freaks - Radio Edit",
-      "url": "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
+      "duration_ms": 213135,
+      "name": "Say Something - Zac Samuel Remix",
+      "url": "https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU"
     },
     {
       "added_at": "2022-11-14 09:15:10",

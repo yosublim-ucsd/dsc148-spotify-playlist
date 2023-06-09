@@ -4,7 +4,7 @@
 
 > Seguimos arremangados, pariente\. Voz de Mando en portada.
 
-115 songs - 5 hr 36 min
+116 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Demonios Empecherados](https://open.spotify.com/track/7JGr3zbN5voH7dDtO5CzPe) | [Los Buitres](https://open.spotify.com/artist/6652LtwYxWQCzFBvvBkTF9) | [Movimiento Alterado Vol\. 4](https://open.spotify.com/album/1ZzrY7hbIiDQlV5i5uqJJt) | 2:27 | 2022-03-07 | 2022-11-13 |
 | [Demonios Empecherados](https://open.spotify.com/track/5dF8rsyF2E8Izms8qpx1mn) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Los Buitres Con Tololoche](https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E) | 2:27 | 2022-03-07 |  |
 | [Desmadre en el Bano](https://open.spotify.com/track/639HHMIvPddNffAgYylJcL) | [Los Amos De Nuevo Leon](https://open.spotify.com/artist/2PpOrMC4P8PG2yi0S3ft0l) | [Desmadre en el Bano](https://open.spotify.com/album/7nvsqLAhYCFH1aroN9wDrP) | 2:31 | 2022-03-17 | 2022-11-08 |
-| [El 24](https://open.spotify.com/track/5tMLBYW72NwEPEHS1M4FPJ) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [En Vivo](https://open.spotify.com/album/3OQyUgoSKy4anHKQqkswVy) | 2:17 | 2022-03-17 |  |
+| [El 24](https://open.spotify.com/track/5tMLBYW72NwEPEHS1M4FPJ) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [En Vivo](https://open.spotify.com/album/3OQyUgoSKy4anHKQqkswVy) | 2:17 | 2022-03-17 | 2023-06-09 |
+| [El 24](https://open.spotify.com/track/1W8rZxURkCD27SKRoslS4b) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [En Vivo](https://open.spotify.com/album/3m53TM7KpYw1Z99RTQFW2o) | 2:17 | 2023-02-23 |  |
 | [El 701](https://open.spotify.com/track/4gK27JZrNyJ46T9iGXUXPF) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [La Amanecida](https://open.spotify.com/album/6I5tSkfY6TUJnjOMB0vsFb) | 3:01 | 2022-03-07 |  |
 | [El Americano](https://open.spotify.com/track/6mJogAj8P9NWNI145xHOEt) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [La Nueva Cara de Tijuana](https://open.spotify.com/album/7pxyaiajcjF6sFUDpNE68i) | 3:48 | 2022-03-17 |  |
 | [El Baleado](https://open.spotify.com/track/1OgvkOPty7une97pgsH1Dh) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [16 Narco Corridos](https://open.spotify.com/album/1I1rJdESjMaJgB2T1WD9a2) | 4:07 | 2022-03-07 |  |

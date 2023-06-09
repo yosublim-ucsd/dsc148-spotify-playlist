@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: Asiaboy\u7981\u85e5\u738b&Lizi\u6817\u5b50",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: KIRE ",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 267477,
       "name": "Paradise... How Far?",
       "url": "https://open.spotify.com/track/1gKnFeolxWkGBHDXk2XZLG"
@@ -1678,6 +1678,28 @@
       "duration_ms": 210750,
       "name": "Self Love",
       "url": "https://open.spotify.com/track/6txQK5I4ufgpnNbbqRSFvp"
+    },
+    {
+      "album": {
+        "name": "sharp knife",
+        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170204,
+      "name": "sharp knife",
+      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
     },
     {
       "album": {
@@ -2300,6 +2322,28 @@
       "duration_ms": 285946,
       "name": "\u4e00\u65e5",
       "url": "https://open.spotify.com/track/7w2w3bLo37unLedpgOTXyr"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u6b21\u6210\u50cf",
+        "url": "https://open.spotify.com/album/0iBL2C3gjVehNFdQ32JIXc"
+      },
+      "artists": [
+        {
+          "name": "Orange Ocean",
+          "url": "https://open.spotify.com/artist/3xcaXZYFSV0iRmgu9defBW"
+        },
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174912,
+      "name": "\u4e00\u6b21\u6210\u50cf",
+      "url": "https://open.spotify.com/track/4cctRd6UUBmw2KEWTOFydH"
     },
     {
       "album": {
@@ -3356,7 +3400,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 210418,
       "name": "\u56e0\u70ba\u6211\u9084\u5e74\u8f15",
       "url": "https://open.spotify.com/track/2rJZJT8waYGkWIDlP6OKVI"
@@ -3516,7 +3560,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 273000,
       "name": "\u591a\u4e45\u624d\u61c2\u59b3\u7684\u5fc3",
       "url": "https://open.spotify.com/track/3bKO2AM761yeB65LFdVcK4"
@@ -3832,7 +3876,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 243200,
       "name": "\u5bc2\u5bde\u7537\u5b69 (feat. TYSON YOSHI)",
       "url": "https://open.spotify.com/track/2nPOwaPw4wzXHJXzKCXJ7I"
@@ -4024,6 +4068,24 @@
       "duration_ms": 302029,
       "name": "\u5e78\u798f\u85cf\u5728\u54ea\u88e1 - \u5929\u5802\u7684\u5fae\u7b11\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/2BVe8mICFBg4OMJyBSgdq9"
+    },
+    {
+      "album": {
+        "name": "\u5e79\u6389\u4ed6",
+        "url": "https://open.spotify.com/album/68xBtSIA6BbKeAb20dgCi2"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220857,
+      "name": "\u5e79\u6389\u4ed6",
+      "url": "https://open.spotify.com/track/5FJtg2VtW8vI3mo8rxhAWW"
     },
     {
       "album": {
@@ -6428,7 +6490,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 172500,
       "name": "\u9189\u7d05\u984f",
       "url": "https://open.spotify.com/track/6GfW2R3qqPI6LN2nny5QeP"

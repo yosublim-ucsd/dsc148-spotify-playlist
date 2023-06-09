@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:2vDluwryVXelZfng6DxjnC\">Assurdit\u00e8</a>",
+  "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:5Sae4YeLcFZ1P75vhzUDrp\">piazzabologna</a>",
   "name": "RADAR Italia",
   "tracks": [
     {
@@ -476,6 +476,36 @@
       "duration_ms": 198711,
       "name": "Cattiva",
       "url": "https://open.spotify.com/track/0Pb8FIL8fecpxJCVgSxdWL"
+    },
+    {
+      "album": {
+        "name": "CITYCAR (Abbronzatissima) [feat. Edoardo Vianello]",
+        "url": "https://open.spotify.com/album/1alfnxle69VfWlGBm9POGf"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Mr Pallotta",
+          "url": "https://open.spotify.com/artist/4tEI46zAJnSywDwnTFFCAJ"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        },
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "CITYCAR (Abbronzatissima) [feat. Edoardo Vianello]",
+      "url": "https://open.spotify.com/track/00H5jLi7wHrDLyHDpZKvtY"
     },
     {
       "album": {

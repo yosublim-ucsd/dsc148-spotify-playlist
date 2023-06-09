@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,561 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,581 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 79 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
 | 80 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 |
 
-Snapshot ID: `MCxjZmM5ZTBkZmFhMGJhYmMwMThjYWY3ZWQxZTE1OGFlYjZlZjFiOGUw`
+Snapshot ID: `MCw2NTc2MTg4NWY0NGI0YTc0N2U3Y2ZkNzA1Nzg4NjcxZGU2NmQyZWU5`

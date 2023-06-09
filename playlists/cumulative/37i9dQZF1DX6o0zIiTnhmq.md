@@ -4,12 +4,12 @@
 
 > Mantras for meditation
 
-76 songs - 22 hr 17 min
+77 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aham Brahmasmi](https://open.spotify.com/track/3xVv0QfLmeJt8EkSCUim4M) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:41 | 2022-01-24 |  |
-| [Amitayus](https://open.spotify.com/track/57s4nYX7mglYseLG1RELMS) | [Buddhist Monks](https://open.spotify.com/artist/71M5KBWnBCoGYGJxudnGBW) | [Live Mantra](https://open.spotify.com/album/29QB7nHpA8SU435vVage0Y) | 2:51 | 2023-05-23 |  |
+| [Amitayus](https://open.spotify.com/track/57s4nYX7mglYseLG1RELMS) | [Buddhist Monks](https://open.spotify.com/artist/71M5KBWnBCoGYGJxudnGBW) | [Live Mantra](https://open.spotify.com/album/29QB7nHpA8SU435vVage0Y) | 2:51 | 2023-05-23 | 2023-06-09 |
 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 | 2022-01-24 |  |
 | [Bhairavi Vandana](https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Triveni: Durga, Lakshmi, Saraswati](https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv) | 5:15 | 2023-05-23 |  |
 | [Durga Mantra](https://open.spotify.com/track/0gJNEG3bWdslbqGOf8VOWj) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 43:59 | 2022-01-24 | 2023-05-05 |
@@ -64,6 +64,7 @@
 | [Pranayaam Mantra](https://open.spotify.com/track/5hOkUTeiG7SDMBWuTy58ez) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX) | [Mantras To Start the Day](https://open.spotify.com/album/6x7FhEL7eSa4Ld0kHu24oL) | 0:38 | 2022-01-24 |  |
 | [Radhe Shyam](https://open.spotify.com/track/3VU0WCmwe5HVVzPzzCvjHh) | [Dj Mausam](https://open.spotify.com/artist/11ikrZ9WL7bio1G7novcaW) | [Radhe Shyam](https://open.spotify.com/album/0iFm6TvOUhNVmhloTUn8dU) | 2:13 | 2023-04-10 | 2023-05-24 |
 | [Raghunandan](https://open.spotify.com/track/1QaAXfq7b3p7q8oNC1jtcT) | [Agam Aggarwal](https://open.spotify.com/artist/0ivZyfIHsCjQGS5OqHt3hA), [Siddharth Sharma](https://open.spotify.com/artist/4mzzax24RTTB4kUEHkgaDo), [Narci](https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ) | [Raghunandan](https://open.spotify.com/album/7mNbiAGZySBw1nFFe0bZAi) | 5:24 | 2023-05-23 |  |
+| [Ram Siya Ram](https://open.spotify.com/track/71hjdkWEDFxESRWPDvDMNb) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Adipurush](https://open.spotify.com/album/6E4a5L8GGEk560bbHlM2VP) | 3:50 | 2023-06-08 |  |
 | [Ramashtakam](https://open.spotify.com/track/0gk5kLComqP0mxgyk26OnL) | [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO) | [Ramashtakam](https://open.spotify.com/album/5eE84N4O5LRLy5su0R74Vp) | 6:02 | 2023-03-17 |  |
 | [Resonance Meditation with Omkaar \- at 432 Hz](https://open.spotify.com/track/0MuPr9td6KGDdOSK660vcM) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p), [Rupa Tiwary](https://open.spotify.com/artist/6dwI4WlkGItwJ7bwDNeLzm) | [Chants of Moksha \- Omkaar \- at 432 Hz](https://open.spotify.com/album/1qp14fQUPcdOoadYpYZ27s) | 9:57 | 2022-01-24 |  |
 | [Restorative Mantras](https://open.spotify.com/track/6Mp8hiNPzsvsCXxAmmUK2d) | [Morpheus Ascending](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0OZgLEU0uhjVxIPpNlrIfL) | 1:39 | 2022-08-05 |  |

@@ -928,10 +928,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 212571,
       "name": "Khoj (Passing By)",
       "url": "https://open.spotify.com/track/4QK1qv4mgsfdWmMzp1Z3fx"
+    },
+    {
+      "album": {
+        "name": "KHUD HAI FANAA",
+        "url": "https://open.spotify.com/album/63WdqfcOtJRipyygo2N8U5"
+      },
+      "artists": [
+        {
+          "name": "Aamir Mir",
+          "url": "https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267204,
+      "name": "KHUD HAI FANAA..",
+      "url": "https://open.spotify.com/track/6rsdxC2UGesM0NEj0cHi4s"
     },
     {
       "album": {
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 193801,
       "name": "Raat",
       "url": "https://open.spotify.com/track/4RtUdmzHtkdTYQ0Td5GGYc"
@@ -1784,6 +1802,24 @@
       "duration_ms": 147130,
       "name": "Tu Hi Bataa",
       "url": "https://open.spotify.com/track/4fYXlzFQbUQtztEKRhZVZB"
+    },
+    {
+      "album": {
+        "name": "TUM JO SAATH HO",
+        "url": "https://open.spotify.com/album/6lR4XHAh3vVFzkp9otcMBs"
+      },
+      "artists": [
+        {
+          "name": "Archit Tak",
+          "url": "https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241935,
+      "name": "TUM JO SAATH HO",
+      "url": "https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu"
     },
     {
       "album": {

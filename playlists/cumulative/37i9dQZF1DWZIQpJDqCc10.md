@@ -4,7 +4,7 @@
 
 > A selection of the greatest indie love songs of all time.
 
-243 songs - 15 hr 6 min
+244 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [From Eden](https://open.spotify.com/track/1yi8EOTpKeVK4cj5HS8DRp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:42 | 2022-02-10 | 2023-02-14 |
 | [From Eden](https://open.spotify.com/track/2tKOIBLJ2j384tnunmmKi7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/4xwoKbj6nNiytuTZqyBGJm) | 3:42 | 2022-02-10 | 2022-07-28 |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2023-02-02 | 2023-05-26 |
+| [girlfriend](https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd) | 2:13 | 2023-02-15 |  |
 | [girls](https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173) | 3:18 | 2023-02-02 |  |
 | [Heartbeats](https://open.spotify.com/track/5I5tUmYjJ1jdPkCIbw27hE) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/5HtPazJ5tS9VnzHf6RKDdp) | 3:51 | 2021-01-28 | 2022-02-11 |
 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 | 2022-02-10 |  |
@@ -167,7 +168,7 @@
 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 | 2022-02-10 |  |
 | [Robbers](https://open.spotify.com/track/73jVPicY2G9YHmzgjk69ae) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 4:14 | 2021-01-28 | 2022-07-29 |
 | [Rollerblades](https://open.spotify.com/track/7iSNEgSJYlc42H73xePMLh) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rollerblades](https://open.spotify.com/album/6pOBptbCkOMPilLRihX4tw) | 2:14 | 2023-02-02 |  |
-| [Sally Cinnamon \- Single Mix](https://open.spotify.com/track/7x9E5FckzFbSNX5pqKAVNS) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Sally Cinnamon](https://open.spotify.com/album/1I3RDBQbwiHq1GsWBhaINZ) | 2:53 | 2022-02-10 |  |
+| [Sally Cinnamon \- Single Mix](https://open.spotify.com/track/7x9E5FckzFbSNX5pqKAVNS) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Sally Cinnamon](https://open.spotify.com/album/1I3RDBQbwiHq1GsWBhaINZ) | 2:53 | 2022-02-10 | 2023-06-09 |
 | [Sally Cinnamon \- Single Mix](https://open.spotify.com/track/6sDSDCrz36fF78hfwvAEmq) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Sally Cinnamon](https://open.spotify.com/album/5GfD1Y1vWoRiAP1Ka5xJ9A) | 2:55 | 2022-02-10 | 2022-07-29 |
 | [Sally Cinnamon \- Single Mix](https://open.spotify.com/track/6yJu96TiBQGnk0EqMVPTyS) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Sally Cinnamon](https://open.spotify.com/album/5rJERhfN7F4k2QdVSATbyy) | 2:55 | 2022-02-10 | 2022-11-14 |
 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 | 2022-02-10 | 2023-02-14 |

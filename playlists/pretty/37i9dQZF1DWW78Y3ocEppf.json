@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Fridayy",
-  "num_followers": 41752,
+  "num_followers": 41751,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTkxY2Q4NDM3OGU0MzM4NDU0MmI2N2MzYzkzOTlmZDViOTgwYmJl",
+  "snapshot_id": "MCw1NjhmNGNlZWQ0N2ZjZTlhZjViOWZiZTU0M2I4MzFmNGRlMzc5YzVk",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -785,20 +785,24 @@
       "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
+      "added_at": "2023-03-03 05:16:10",
       "album": {
-        "name": "Ouu Ahh",
-        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
         }
       ],
-      "duration_ms": 165274,
-      "name": "Ouu Ahh",
-      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
+      "duration_ms": 134013,
+      "name": "SIDEKICK (with Joyce Wrice) - BONUS",
+      "url": "https://open.spotify.com/track/0h3BFerMyzUaYYh2nwGiX3"
     },
     {
       "added_at": "2022-09-30 04:04:59",
@@ -821,24 +825,20 @@
       "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
     },
     {
-      "added_at": "2023-03-03 05:16:10",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+        "name": "Ouu Ahh",
+        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         }
       ],
-      "duration_ms": 134013,
-      "name": "SIDEKICK (with Joyce Wrice) - BONUS",
-      "url": "https://open.spotify.com/track/0h3BFerMyzUaYYh2nwGiX3"
+      "duration_ms": 165274,
+      "name": "Ouu Ahh",
+      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -909,38 +909,6 @@
       "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
     },
     {
-      "added_at": "2022-09-09 04:09:30",
-      "album": {
-        "name": "C BOTH SIDES",
-        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "CYCLOPS",
-      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Outside Freestyle",
-        "url": "https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Outside Freestyle",
-      "url": "https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf"
-    },
-    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
@@ -959,6 +927,38 @@
       "duration_ms": 145609,
       "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Outside Freestyle",
+        "url": "https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Outside Freestyle",
+      "url": "https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf"
+    },
+    {
+      "added_at": "2022-09-09 04:09:30",
+      "album": {
+        "name": "C BOTH SIDES",
+        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "CYCLOPS",
+      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1033,6 +1033,26 @@
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 203136,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Archives & Lullabies",
@@ -1079,26 +1099,6 @@
       "duration_ms": 189200,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 203136,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1159,6 +1159,22 @@
       "duration_ms": 201869,
       "name": "Obsession (feat. Muni Long) - Remix",
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
+    },
+    {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL"
+      },
+      "artists": [
+        {
+          "name": "Kenya Vaun",
+          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
+        }
+      ],
+      "duration_ms": 187484,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1241,22 +1257,6 @@
       "url": "https://open.spotify.com/track/1BANaaZNg6PsCv5JpSuD3z"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
-      "album": {
-        "name": "Sadboy, Vol. 1",
-        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 130021,
-      "name": "Sadboy",
-      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Scorpio Moon",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
     },
     {
+      "added_at": "2023-05-05 04:18:58",
+      "album": {
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 130021,
+      "name": "Sadboy",
+      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
+    },
+    {
       "added_at": "2022-09-23 04:09:12",
       "album": {
         "name": "Public Displays Of Affection: The Album",
@@ -1287,22 +1303,6 @@
       "duration_ms": 152574,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Fuckin' Sound",
-      "url": "https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1325,20 +1325,20 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
-      "added_at": "2023-03-03 05:16:10",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL"
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
       "artists": [
         {
-          "name": "Kenya Vaun",
-          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 187484,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
+      "duration_ms": 164000,
+      "name": "Fuckin' Sound",
+      "url": "https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "S(EX)",
@@ -1423,6 +1407,22 @@
       "duration_ms": 225406,
       "name": "S(EX)",
       "url": "https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1459,6 +1459,26 @@
       "duration_ms": 214000,
       "name": "Insensitive",
       "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/1x9usTHpyE6vG4z9OlwuFk"
+      },
+      "artists": [
+        {
+          "name": "Jay Burna",
+          "url": "https://open.spotify.com/artist/6EAdSOUIcqfNLu6yXEdwqr"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 306149,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/5o8k3588i3ImSV6cCLfVHj"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1561,42 +1581,6 @@
       "url": "https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/1x9usTHpyE6vG4z9OlwuFk"
-      },
-      "artists": [
-        {
-          "name": "Jay Burna",
-          "url": "https://open.spotify.com/artist/6EAdSOUIcqfNLu6yXEdwqr"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 306149,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/5o8k3588i3ImSV6cCLfVHj"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Indifferent",
-        "url": "https://open.spotify.com/album/7kLfcydCvC99ExE7Sogptd"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 157976,
-      "name": "Indifferent",
-      "url": "https://open.spotify.com/track/2C0UG7bGDIRzatEp7OMqqm"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Glowin 4 Me",
@@ -1613,24 +1597,20 @@
       "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Maddest Hoes",
-        "url": "https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU"
+        "name": "Indifferent",
+        "url": "https://open.spotify.com/album/7kLfcydCvC99ExE7Sogptd"
       },
       "artists": [
         {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "SHOW N PROVE",
-          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 154105,
-      "name": "Maddest Hoes",
-      "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
+      "duration_ms": 157976,
+      "name": "Indifferent",
+      "url": "https://open.spotify.com/track/2C0UG7bGDIRzatEp7OMqqm"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1651,6 +1631,26 @@
       "duration_ms": 199563,
       "name": "Swerve",
       "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
+    },
+    {
+      "added_at": "2023-05-05 04:18:58",
+      "album": {
+        "name": "Maddest Hoes",
+        "url": "https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Maddest Hoes",
+      "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1701,22 +1701,6 @@
       "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 240048,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Sock It 2 Me",
@@ -1731,6 +1715,22 @@
       "duration_ms": 201802,
       "name": "Sock It 2 Me",
       "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 240048,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
     },
     {
       "added_at": "2022-11-04 06:34:53",
@@ -1749,20 +1749,20 @@
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
-      "added_at": "2022-10-28 04:22:42",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Dreams 2 Reality",
-        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+        "name": "Runner Up",
+        "url": "https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "Tejy",
+          "url": "https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk"
         }
       ],
-      "duration_ms": 170937,
-      "name": "Divide",
-      "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
+      "duration_ms": 172275,
+      "name": "Runner Up",
+      "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
     }
   ],
   "unique_name": "Some Kinda Way",

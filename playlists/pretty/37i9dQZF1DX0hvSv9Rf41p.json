@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Whyte Fang.",
-  "num_followers": 968756,
+  "num_followers": 968927,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTk3MGU5MTdlZjc3ZGViODUxNDQyZGJjNjBhMjEzMjJmZjE5OGMz",
+  "snapshot_id": "MCw2OWI3NDA5ZTVhYWU0OGI1ZWM0YjQ3N2QzMmY3MDk1OGJmYjc5MWQ0",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -815,30 +815,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "All Eyes On Me",
-        "url": "https://open.spotify.com/album/0wgepIc4n4gKNgccZk0b0i"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        },
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "All Eyes On Me",
-      "url": "https://open.spotify.com/track/7DRDufzLV8vbLRPdkJIqWq"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Escape (Subtronics Remix)",
         "url": "https://open.spotify.com/album/2aE5C3fUfSANxWHw2NXD2c"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 225103,
       "name": "Escape - Subtronics Remix",
       "url": "https://open.spotify.com/track/11IQ89bxoC3bklnfP5TZiM"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/0wgepIc4n4gKNgccZk0b0i"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        },
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/7DRDufzLV8vbLRPdkJIqWq"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "FUNKONAUT",
+        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "FUNKONAUT",
+      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Blue In The Face",
         "url": "https://open.spotify.com/album/6UqdnruIxTdntsqhL9bSfW"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 176761,
       "name": "Eden (feat. fussy)",
       "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "FUNKONAUT",
-        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "FUNKONAUT",
-      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Microworlds",
-        "url": "https://open.spotify.com/album/7mBang8rS6G8jlpvDWOM5X"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Microworlds",
-      "url": "https://open.spotify.com/track/5sDu7SdtfxXRcqWQd40eoi"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "KARMA (With Jazz Cartier)",
         "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 198400,
       "name": "KARMA (With Jazz Cartier)",
       "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Microworlds",
+        "url": "https://open.spotify.com/album/7mBang8rS6G8jlpvDWOM5X"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Microworlds",
+      "url": "https://open.spotify.com/track/5sDu7SdtfxXRcqWQd40eoi"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Wish He Knew",
-        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Wish He Knew",
-      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Think Of You",
         "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 185142,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Wish He Knew",
+        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Wish He Knew",
+      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 310607,
-      "name": "Skins",
-      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Trials (NGHTMRE & SPACE LACES Club Mix)",
         "url": "https://open.spotify.com/album/5BhTksD3LCLkchjrS2I5HZ"
       },
@@ -1839,6 +1819,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 310607,
+      "name": "Skins",
+      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie"
       },
@@ -1871,6 +1871,30 @@
       "duration_ms": 135529,
       "name": "Rude Boy 22 - Spotify Singles",
       "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "I Believe (Nemesy Remix)",
+        "url": "https://open.spotify.com/album/3uDwwQ3uieTjtJgpypL3Yn"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Asha",
+          "url": "https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D"
+        },
+        {
+          "name": "Nemesy",
+          "url": "https://open.spotify.com/artist/6Ha6XgaRrFiCKXLtRi2iwk"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "I Believe - Nemesy Remix",
+      "url": "https://open.spotify.com/track/0rSuUyfsBHm9x93QjK6dvI"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1955,26 +1979,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I Believe (Nemesy Remix)",
-        "url": "https://open.spotify.com/album/3uDwwQ3uieTjtJgpypL3Yn"
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR"
       },
       "artists": [
         {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
         },
         {
-          "name": "Asha",
-          "url": "https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D"
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
         },
         {
-          "name": "Nemesy",
-          "url": "https://open.spotify.com/artist/6Ha6XgaRrFiCKXLtRi2iwk"
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
         }
       ],
-      "duration_ms": 178285,
-      "name": "I Believe - Nemesy Remix",
-      "url": "https://open.spotify.com/track/0rSuUyfsBHm9x93QjK6dvI"
+      "duration_ms": 183200,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2003,6 +2027,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5S0RxgMhMxzza0aOQt8d70"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 143076,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5o0TzTBBSaouG2Yi58ZLON"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Space Candy",
         "url": "https://open.spotify.com/album/5jyYwSo8nUp0WaTZwOl69l"
       },
@@ -2023,22 +2063,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/5S0RxgMhMxzza0aOQt8d70"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 143076,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5o0TzTBBSaouG2Yi58ZLON"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "MIDHEAVEN: OPUS 01",
         "url": "https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt"
       },
@@ -2051,30 +2075,6 @@
       "duration_ms": 175135,
       "name": "ACHROMATIC (YOI)",
       "url": "https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR"
-      },
-      "artists": [
-        {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        },
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2323,18 +2323,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/15qh25JVc2UMCLjxwBL3Dz"
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
       },
       "artists": [
         {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
         }
       ],
-      "duration_ms": 147169,
-      "name": "333",
-      "url": "https://open.spotify.com/track/14R0uiyPwMZvLsnX0fAQRj"
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2359,18 +2359,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+        "name": "333",
+        "url": "https://open.spotify.com/album/15qh25JVc2UMCLjxwBL3Dz"
       },
       "artists": [
         {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
         }
       ],
-      "duration_ms": 140196,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+      "duration_ms": 147169,
+      "name": "333",
+      "url": "https://open.spotify.com/track/14R0uiyPwMZvLsnX0fAQRj"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2487,18 +2487,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "(Never Gonna) Be Alone",
-        "url": "https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba"
+        "name": "Blue Collar Bass",
+        "url": "https://open.spotify.com/album/45xubhaQ6khb4eTzQAimNt"
       },
       "artists": [
         {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+          "name": "TVBOO",
+          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 198399,
-      "name": "(Never Gonna) Be Alone",
-      "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
+      "duration_ms": 246394,
+      "name": "Bass Music",
+      "url": "https://open.spotify.com/track/3VAVQJDBGPDfseEJ1dqbVO"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2527,22 +2531,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Blue Collar Bass",
-        "url": "https://open.spotify.com/album/45xubhaQ6khb4eTzQAimNt"
+        "name": "(Never Gonna) Be Alone",
+        "url": "https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba"
       },
       "artists": [
         {
-          "name": "TVBOO",
-          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         }
       ],
-      "duration_ms": 246394,
-      "name": "Bass Music",
-      "url": "https://open.spotify.com/track/3VAVQJDBGPDfseEJ1dqbVO"
+      "duration_ms": 198399,
+      "name": "(Never Gonna) Be Alone",
+      "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2623,6 +2623,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf"
+      },
+      "artists": [
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "All Eyez On Me",
+      "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "CHOMP",
         "url": "https://open.spotify.com/album/0OyIHyWq8U0NEE4GwFlHJ5"
       },
@@ -2643,22 +2659,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf"
-      },
-      "artists": [
-        {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "All Eyez On Me",
-      "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Meditate",
         "url": "https://open.spotify.com/album/1PvajiEGruZOjkYlpDZlc1"
       },
@@ -2675,22 +2675,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF"
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
       },
       "artists": [
         {
-          "name": "KUURO",
-          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
-        },
-        {
-          "name": "SKUM",
-          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
         }
       ],
-      "duration_ms": 169180,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi"
+      "duration_ms": 247500,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2715,18 +2711,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF"
       },
       "artists": [
         {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+        },
+        {
+          "name": "SKUM",
+          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
+      "duration_ms": 169180,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2791,22 +2791,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "DAMAGE",
-        "url": "https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR"
-      },
-      "artists": [
-        {
-          "name": "KUURO",
-          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "DAMAGE",
-      "url": "https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "LEVIATHAN",
         "url": "https://open.spotify.com/album/2Hskj4JWDAV8T8NhnPQ43o"
       },
@@ -2823,22 +2807,6 @@
       "duration_ms": 163200,
       "name": "LEVIATHAN",
       "url": "https://open.spotify.com/track/1JHLFyGl62MDj5jDBJics2"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Hum",
-        "url": "https://open.spotify.com/album/2Ada1o4AzW1xxBaYniu6xi"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Hum",
-      "url": "https://open.spotify.com/track/2xUV9DYYeUDJ6qhTvMweUZ"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2863,6 +2831,38 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "DAMAGE",
+        "url": "https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR"
+      },
+      "artists": [
+        {
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+        }
+      ],
+      "duration_ms": 213722,
+      "name": "DAMAGE",
+      "url": "https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/2Ada1o4AzW1xxBaYniu6xi"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/2xUV9DYYeUDJ6qhTvMweUZ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "HEAVENS DOOR",
         "url": "https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX"
       },
@@ -2879,22 +2879,6 @@
       "duration_ms": 224000,
       "name": "HEAVENS DOOR",
       "url": "https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Profit",
-        "url": "https://open.spotify.com/album/2aFVyFx3Phgvkt6KhnGRuV"
-      },
-      "artists": [
-        {
-          "name": "Ivy Lab",
-          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
-        }
-      ],
-      "duration_ms": 155330,
-      "name": "Profit",
-      "url": "https://open.spotify.com/track/5qN1hpuWczrJHZmxHnZDFM"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2947,38 +2931,42 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH"
+        "name": "Profit",
+        "url": "https://open.spotify.com/album/2aFVyFx3Phgvkt6KhnGRuV"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+          "name": "Ivy Lab",
+          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
         }
       ],
-      "duration_ms": 175200,
-      "name": "King",
-      "url": "https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh"
+      "duration_ms": 155330,
+      "name": "Profit",
+      "url": "https://open.spotify.com/track/5qN1hpuWczrJHZmxHnZDFM"
     },
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Commencement (feat. Gracie Van Brunt)",
-        "url": "https://open.spotify.com/album/0haPvOsTwtQ0GB329u57d7"
+        "name": "La Puta Ama (EDDIE Remix)",
+        "url": "https://open.spotify.com/album/4keLA18A4X5cJ3wTbDC2kI"
       },
       "artists": [
         {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+          "name": "The Funk Hunters",
+          "url": "https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut"
         },
         {
-          "name": "Gracie Van Brunt",
-          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+        },
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Commencement (feat. Gracie Van Brunt)",
-      "url": "https://open.spotify.com/track/6rlEjVPAJkvFOG2lPHzxhL"
+      "duration_ms": 249677,
+      "name": "La Puta Ama (EDDIE Remix)",
+      "url": "https://open.spotify.com/track/5NQqC3ksi3gBo0s2G9qhIL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -3003,6 +2991,22 @@
       "duration_ms": 168275,
       "name": "Flying (Pegboard Nerds Remix)",
       "url": "https://open.spotify.com/track/70TjDtaV2yY4prx0gB35Bx"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "King",
+      "url": "https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh"
     }
   ],
   "unique_name": "Bass Arcade",

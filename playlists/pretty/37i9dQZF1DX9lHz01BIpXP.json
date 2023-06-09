@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=Sonc-mBXRpm5ut0itdUxVg\">Loufi</a> & <a href=\"https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=21NaMlL9QGy6MUBpjSeKJg\">Van Pletzen</a>\n\n",
-  "num_followers": 1023,
+  "num_followers": 1026,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGEzZjcwMGNiY2NmZjIzMmI1ZmExMzgwMjRjYzY1MWE1YTg0YzI1",
+  "snapshot_id": "MCxmOGI1MTBmN2JkMmE3NDU0MDI5OGNlZTgyYjBkNGVmZjU3NmMzNmY4",
   "tracks": [
     {
       "added_at": "2023-03-10 05:48:09",
@@ -59,6 +59,22 @@
       "duration_ms": 201023,
       "name": "Neus Breek",
       "url": "https://open.spotify.com/track/2JxD0YQCAaGMSTqR1ColGD"
+    },
+    {
+      "added_at": "2023-06-08 18:39:21",
+      "album": {
+        "name": "7DeLaan",
+        "url": "https://open.spotify.com/album/0Uv1YoMhuM8kKIDlLfgnvJ"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "duration_ms": 170579,
+      "name": "7DeLaan",
+      "url": "https://open.spotify.com/track/5k1dncVhfbWtifwXFGthh3"
     },
     {
       "added_at": "2023-05-05 04:30:19",
@@ -155,22 +171,6 @@
       "duration_ms": 252395,
       "name": "Sal Alright is",
       "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
-    },
-    {
-      "added_at": "2023-06-02 07:29:20",
-      "album": {
-        "name": "Swaar Tye",
-        "url": "https://open.spotify.com/album/1wT5j2yXzesSWS3El9tnPS"
-      },
-      "artists": [
-        {
-          "name": "Lil Jady",
-          "url": "https://open.spotify.com/artist/535YmzkwAuuy4jjVrhnzBZ"
-        }
-      ],
-      "duration_ms": 127712,
-      "name": "Swaar Tye",
-      "url": "https://open.spotify.com/track/07GWdeJWoSJmOtiogGNOxX"
     },
     {
       "added_at": "2022-09-08 21:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 510132,
+  "num_followers": 510362,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzdmYTUwYmRmZGU0NzRhZThjYjcwOGJiNmNkNjNjZjc3YjgyODg3",
+  "snapshot_id": "MCw4MzFmN2MzYjkyZjRjODcwMjM4NDY2NjU1ZjkxZjMxYzUyNDYwNThh",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
-      },
-      "artists": [
-        {
-          "name": "Graveyard",
-          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Please Don't",
-      "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Macho Libre",
         "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 230653,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
+      },
+      "artists": [
+        {
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Please Don't",
+      "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Gateway",
-        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
-      },
-      "artists": [
-        {
-          "name": "Bongzilla",
-          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Greenthumb",
-      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Burning Village",
         "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 282217,
       "name": "The Dead Won't Sleep",
       "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Gateway",
+        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
+      },
+      "artists": [
+        {
+          "name": "Bongzilla",
+          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Greenthumb",
+      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1067,18 +1067,34 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Dopethrone",
-        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
+        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
+        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
       },
       "artists": [
         {
-          "name": "Electric Wizard",
-          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
         }
       ],
-      "duration_ms": 389466,
-      "name": "Barbarian",
-      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
+      "duration_ms": 175580,
+      "name": "Boogeyman Blues",
+      "url": "https://open.spotify.com/track/2GC42YDOqiUF329fIVbUxW"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Warp Riders",
+        "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Tres Brujas",
+      "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Warp Riders",
-        "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
       },
       "artists": [
         {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
         }
       ],
-      "duration_ms": 249333,
-      "name": "Tres Brujas",
-      "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
+      "duration_ms": 389466,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 282160,
       "name": "The Bottle",
       "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
-        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 175580,
-      "name": "Boogeyman Blues",
-      "url": "https://open.spotify.com/track/2GC42YDOqiUF329fIVbUxW"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Damned by Fate",
-        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
-      },
-      "artists": [
-        {
-          "name": "Red Desert",
-          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
-        }
-      ],
-      "duration_ms": 312746,
-      "name": "Lust Queen",
-      "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Tales of the Wicked West",
         "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 318023,
       "name": "(If You Want the Smoke) Be the Fire",
       "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Damned by Fate",
+        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
+      },
+      "artists": [
+        {
+          "name": "Red Desert",
+          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
+        }
+      ],
+      "duration_ms": 312746,
+      "name": "Lust Queen",
+      "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
     },
     {
       "added_at": "2023-06-02 04:01:00",

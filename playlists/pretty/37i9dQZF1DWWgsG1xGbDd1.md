@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,772 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,850 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 11 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
 | 12 | [Declaration of Rights](https://open.spotify.com/track/3nZY7IAd5VJ9O2E5vHynx6) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/4I8Brkbsd0auuU1R3dsws7) | 3:19 |
 | 13 | [Mad World](https://open.spotify.com/track/6oZymvG8LsXxMzDFPwBqRf) | [Hugh Godfrey](https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r) | [This Girl Loves Reggae](https://open.spotify.com/album/1TuWq3VmQSEC18DBlED4BD) | 1:48 |
-| 14 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
-| 15 | [Poco Tempo \(aka Pocco Tempo\)](https://open.spotify.com/track/0yDFdIxaF1fRGrPMYyMRyP) | [Pablove Black and The New Establishment](https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq) | [Natural High: The Bongo Man Collection](https://open.spotify.com/album/0LgCSVBOq8Ztb2iganefyS) | 4:10 |
+| 14 | [Poco Tempo \(aka Pocco Tempo\)](https://open.spotify.com/track/0yDFdIxaF1fRGrPMYyMRyP) | [Pablove Black and The New Establishment](https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq) | [Natural High: The Bongo Man Collection](https://open.spotify.com/album/0LgCSVBOq8Ztb2iganefyS) | 4:10 |
+| 15 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
 | 16 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 |
 | 17 | [Call to Me \(aka Come to Me\)](https://open.spotify.com/track/5yMXY2QCnkeggMgLSOaqR0) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Dancing the Ska](https://open.spotify.com/album/6uoQ5sCHsjfbWIHYkojaPm) | 2:01 |
 | 18 | [Hang On Natty](https://open.spotify.com/track/1TKDhky8F2v7Dlz69mH8yq) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Soul Jazz Records presents Sugar Minott at Studio One](https://open.spotify.com/album/2S0HvAeuZShMBQpk982CGp) | 2:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [African Challenge](https://open.spotify.com/track/08g8gyOGAMuEbMQVizsWDg) | [Zoot Simms](https://open.spotify.com/artist/3dP5i6gdh5Wulg5Zs1gRPx) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:13 |
 | 60 | [The People Skanking](https://open.spotify.com/track/72IAXR6AyefztBCOaYaIIx) | [New Establishment](https://open.spotify.com/artist/4zV2neXlhnE7v964YxFgek) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:41 |
 
-Snapshot ID: `MCwwYzZjMDQzMzhjMDk1ZGM4ZmY3YWRkMDA4ZDZiN2IyMGRlMzI1MmNk`
+Snapshot ID: `MCw1ZDdiZGFiOGQwNzZkOGMwNmU2YzAwYjg0OWJmNTIxNDc4YmE1Y2I2`

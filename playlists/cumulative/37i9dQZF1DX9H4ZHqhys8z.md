@@ -4,7 +4,7 @@
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Ellize
 
-324 songs - 17 hr 52 min
+325 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Kala Xristougenna](https://open.spotify.com/track/6wZWrxiurnSoMuZRVDowtA) | [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [Kala Xristougenna](https://open.spotify.com/album/0iZL1szq9FfZPTaNw6jkQR) | 3:06 | 2023-01-03 | 2023-04-05 |
 | [Kalokairia](https://open.spotify.com/track/3Oezbp2vPLxpI36p9AlsO0) | [Katerina Papoutsaki](https://open.spotify.com/artist/4Mla1mIYdNJkAKTbsltORQ) | [Κalokairia](https://open.spotify.com/album/05UZrlbByI8VzH1SyNmkZl) | 2:48 | 2022-08-02 | 2022-11-02 |
 | [Kamia Epafi](https://open.spotify.com/track/2C3cn5Yy1Cyg9VH7EWrvcj) | [Kalena](https://open.spotify.com/artist/1HFAoOs44I8juK7QECNG1m) | [Kamia Epafi](https://open.spotify.com/album/10Zl3MdvFbuQJFR4pMUL29) | 3:20 | 2023-05-02 |  |
-| [Kane me na se Misiso](https://open.spotify.com/track/5d5IhsWtLAF3VqusKAnGFu) | [Yama](https://open.spotify.com/artist/5PmSkZlPqZxUzN0pdSnL5J) | [Kane me na se Misiso](https://open.spotify.com/album/7mBBSUsSgKuuEhHqIsKefJ) | 3:06 | 2023-06-06 |  |
+| [Kane me na se Misiso](https://open.spotify.com/track/5d5IhsWtLAF3VqusKAnGFu) | [Yama](https://open.spotify.com/artist/5PmSkZlPqZxUzN0pdSnL5J) | [Kane me na se Misiso](https://open.spotify.com/album/7mBBSUsSgKuuEhHqIsKefJ) | 3:06 | 2023-06-06 | 2023-06-09 |
 | [Kanenas Monos Kamia Moni](https://open.spotify.com/track/6Y43IQJy8kf2hnL5Y6nltL) | [Matoula Zamani](https://open.spotify.com/artist/7nnEkZXiwEpKY4VAoNmc2f) | [Kanenas Monos Kamia Moni](https://open.spotify.com/album/1owA3SIf20Xlm8nHByCDgv) | 3:51 | 2022-04-05 | 2022-07-01 |
 | [Kapies Vradies](https://open.spotify.com/track/5bJslD6O6vCjSyvhUo8ABG) | [Despina Lagonidou](https://open.spotify.com/artist/3A2il57Lr1ZSmzK048GeE2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn) | [Kapies Vradies](https://open.spotify.com/album/1746bVwH4FFE0DFSNfXl8b) | 3:36 | 2023-04-04 | 2023-06-07 |
 | [Kapote Isoun](https://open.spotify.com/track/5nSzaBRnvX3RzFoLIf0WK2) | [Maria Papageorgiou](https://open.spotify.com/artist/3WQuwa7Flok3CNsMTia7oK) | [Kapote Isoun](https://open.spotify.com/album/36ZIELgJ7ly9hHSBe2pr2i) | 3:43 | 2022-04-05 | 2022-07-01 |
@@ -135,6 +135,7 @@
 | [Kardia Mpoemissa](https://open.spotify.com/track/3BZAb3GDIkP4hJxE1UKvNc) | [Angela Dimitriou](https://open.spotify.com/artist/7xySz9OyEWxKC6RyDlo256) | [Kardia Mpoemissa](https://open.spotify.com/album/28xSwijMkWH7imtkXZdPcs) | 2:44 | 2022-06-30 | 2022-11-02 |
 | [Karxarias](https://open.spotify.com/track/0liLAjiNXBt5ryS6tsqbMq) | [Konnie Metaxa](https://open.spotify.com/artist/0GfvPNhmQLzmbqHYZfoyos) | [Karxarias](https://open.spotify.com/album/5QW4sjRJTH7mq2NpnodZ4R) | 3:27 | 2022-06-30 | 2022-11-02 |
 | [Kathrefti Kathreftaki Mou](https://open.spotify.com/track/0Yw2Gb2YE1II5Ia3INx2mr) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Kathrefti Kathreftaki Mou](https://open.spotify.com/album/7z0WXspEw4IzqWYYg0g2IE) | 2:53 | 2023-04-04 |  |
+| [Kati Eho Pathei Me Ta Matia Sou](https://open.spotify.com/track/3g86J2SiQ7t6yFVtkSUpYJ) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Unplugged](https://open.spotify.com/album/4PYZNvvfwQPrmQvhezg5CD) | 3:06 | 2023-06-08 |  |
 | [Katse Kala \- Arcade Remake](https://open.spotify.com/track/70OKlSJ9oRAZfdZ7vUJWho) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Katse Kala \(Arcade Remake\)](https://open.spotify.com/album/6EnfVqCZ9NMo5nVsKYTu2L) | 3:16 | 2022-10-04 | 2023-03-01 |
 | [Kefalodesi](https://open.spotify.com/track/1TMzVTea4vvNL1LwwxHQ5A) | [Valia Tsirgioti](https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki), [Panagiotis Papageorgiou](https://open.spotify.com/artist/3oM7HjF4rp7SIBycruq52R), [Yiannis Glezos](https://open.spotify.com/artist/2szZ9lN5nf7E2J6il4GaNK) | [Kefalodesi](https://open.spotify.com/album/0DGkaYufhncxMcPPJ9MDej) | 2:49 | 2023-05-02 |  |
 | [kenouria nisia](https://open.spotify.com/track/2ji5Ff76AxmJyBG0Z6XgYl) | [Nalyssa Green](https://open.spotify.com/artist/68PM4Vpd3dwIQfEd2z1mZY) | [kenouria nisia](https://open.spotify.com/album/5UVlRYFklDkElO1iz1pVFI) | 2:51 | 2022-11-30 | 2023-01-04 |
@@ -331,6 +332,6 @@
 | [Your Valeria](https://open.spotify.com/track/2gfjlDtmA6vYy7naYTfJ40) | [IRENE](https://open.spotify.com/artist/5ldn2v5RhcECmNidIbmsLH), [Rsn](https://open.spotify.com/artist/1QK6Nf6GwexYpCHj0JhK1r), [Mr\. Collage](https://open.spotify.com/artist/5pCM0yxnniFugXPsQIqofR) | [Time 2 Love](https://open.spotify.com/album/3AWcJig1yaACo1LHCqlnqK) | 2:50 | 2022-10-04 | 2022-12-01 |
 | [Zali](https://open.spotify.com/track/7aZp6LxyVKFjwiEna110ax) | [Barbara Argyrou](https://open.spotify.com/artist/4dKyyPIMmuepbWWTaOVRYK) | [Zali](https://open.spotify.com/album/7IMzN8FNlBo28mwu7QIgRu) | 2:46 | 2023-04-04 | 2023-06-07 |
 | [Zo Ti Zoi](https://open.spotify.com/track/0qwTFZQJ6W1V2PeUTcNVIY) | [Melina Aslanidou](https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Zo Ti Zoi](https://open.spotify.com/album/1irjXrOMLE9E7dlozwAq1K) | 3:22 | 2021-12-16 | 2022-06-01 |
-| [Θ\. CINEMA](https://open.spotify.com/track/1T4jPyEwa4XRnbPA2h8f8c) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH), [DJ Tune](https://open.spotify.com/artist/5yD9OVO5dKEteEVps9qG3v), [Jay Starr](https://open.spotify.com/artist/6URi35MZoSTimeBvixyJyE) | [The Bwoi with the plan](https://open.spotify.com/album/0b75UFaQJTJLIErjW9FjHh) | 3:21 | 2023-06-06 |  |
+| [Θ\. CINEMA](https://open.spotify.com/track/1T4jPyEwa4XRnbPA2h8f8c) | [DJ Tune](https://open.spotify.com/artist/5yD9OVO5dKEteEVps9qG3v), [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH), [Jay Starr](https://open.spotify.com/artist/6URi35MZoSTimeBvixyJyE) | [The Bwoi with the plan](https://open.spotify.com/album/0b75UFaQJTJLIErjW9FjHh) | 3:21 | 2023-06-06 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

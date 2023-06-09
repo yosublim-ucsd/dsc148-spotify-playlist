@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-250 songs - 15 hr 52 min
+253 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Body](https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:07 | 2023-04-30 |  |
 | [Bonito Intro](https://open.spotify.com/track/5b1S06C3AuUOelyne3OJEw) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 0:50 | 2023-05-18 |  |
 | [Born](https://open.spotify.com/track/0BiEG7SI1LyBjwKJIjew4q) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Reptilians](https://open.spotify.com/album/5pfqk4oFycMVynOD8S2Cqs) | 3:23 | 2022-12-18 |  |
+| [Boys](https://open.spotify.com/track/6Nc3KauZ5OOk7ogX7h5HhO) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 4:39 | 2023-06-08 |  |
 | [Bridge Burning](https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:46 | 2023-06-07 |  |
 | [BUSY / SIRENS](https://open.spotify.com/track/4YdRnTnXYwgI48kkzWy6uk) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [CARE FOR ME](https://open.spotify.com/album/6Te111t5gDZ7W94myHRqUt) | 5:29 | 2023-01-13 |  |
 | [Can't Get Enough \- 2015 Remaster](https://open.spotify.com/track/51pAliCZ3Mm7jiqgk12O5R) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Remastered\)](https://open.spotify.com/album/5VknaZWiywvQJMpPOfB6tA) | 4:16 | 2022-05-18 |  |
@@ -89,6 +90,7 @@
 | [Fake Empire](https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX) | 3:25 | 2023-01-17 |  |
 | [Family Tree \(Intro\)](https://open.spotify.com/track/4fjSiuY9b3uBeGd1KBUNZE) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 3:41 | 2023-01-08 |  |
 | [Five Years \- 2012 Remaster](https://open.spotify.com/track/1JIzFhI9Lt5FyslawmHCBi) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:43 | 2023-05-19 |  |
+| [French Navy](https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 3:18 | 2023-06-08 |  |
 | [Future Nostalgia](https://open.spotify.com/track/3mC8VlVBwdVxCTq4cYZr64) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:04 | 2023-01-29 |  |
 | [Gelid Ascent](https://open.spotify.com/track/1be49tNalB6UhKCfhpCV0B) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Paralytic Stalks](https://open.spotify.com/album/6nWmjBhBCijSziLSz10FyL) | 4:09 | 2023-06-03 |  |
 | [Get Old Forever](https://open.spotify.com/track/4jCOQPjIYVMmT06kDWoJoj) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [We Cool?](https://open.spotify.com/album/50bg2f6DaWI3gmsMzZ30mV) | 3:19 | 2023-01-03 |  |
@@ -211,6 +213,7 @@
 | [Summer Knights](https://open.spotify.com/track/2NDXdxZjbm5EbbEEDSKXQV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 1:56 | 2022-05-13 |  |
 | [Sunday Morning](https://open.spotify.com/track/2SKWqNWAi5n4ed9C6z3jCU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Golden Age](https://open.spotify.com/album/1wvJf32qDHmwku12nfzVGN) | 4:39 | 2023-04-24 |  |
 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 | 2022-10-22 | 2023-04-03 |
+| [Suspended From Class](https://open.spotify.com/track/2YDmCSVs46QrhD2sqYGGqx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 3:46 | 2023-06-08 |  |
 | [Sweet Mickey](https://open.spotify.com/track/7LYPaZ2vyJBN6i99MJLqOS) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Paraffin](https://open.spotify.com/album/1LkgalktPs3mJMbcD9dhY8) | 2:29 | 2021-08-26 |  |
 | [Teeth Like God's Shoeshine](https://open.spotify.com/track/5aUn8l6MaYrh9yNBzrLEBF) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 6:53 | 2022-09-20 |  |
 | [Tekka](https://open.spotify.com/track/4JDdbnKobkyn7j2o76D1mV) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:08 | 2023-01-07 |  |

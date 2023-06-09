@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,147 likes - 32 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,185 likes - 32 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 31 | [The World Will Sing Our Song](https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:04 |
 | 32 | [Breaking and Entering \- 12" Version](https://open.spotify.com/track/7EeTRmNCoGhvN1CM3qbMOu) | [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK), [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [David Todd](https://open.spotify.com/artist/5OYReAyrBw6qS3vOtMCaZA) | [The Women of Philadelphia International Records \- The Remixes](https://open.spotify.com/album/0Zhm6kMdeBa2iv48QhnYSu) | 7:00 |
 
-Snapshot ID: `MCw0ZTQyNjAyOTRlZDA4NTFiNTE3NmI5NDI4YWJhZWZkYzY2NTMyODVl`
+Snapshot ID: `MCwxOTEzNDZjZTE5YjMyN2NmOGMwNTA3MjZkYWJhNTE5NWI2YjhmMTNi`

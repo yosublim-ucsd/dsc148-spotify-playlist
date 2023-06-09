@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. ANNA on cover.",
-  "num_followers": 153256,
+  "num_followers": 153347,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjFiMWI5NDRkMDRmODU4MGFjMWM1MDMwMDk0Yjc5NjUxZDE4YmMz",
+  "snapshot_id": "MCxkNWQzYTY1MDQ0NDY2NGNlNDRlNTJhYWRkMjgzZGQzZDEzMDhlMzQ3",
   "tracks": [
     {
       "added_at": "2023-05-19 00:01:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
+        "name": "Wolf Moon",
+        "url": "https://open.spotify.com/album/5MOqmNcrFSxoNZA9HgZIcw"
+      },
+      "artists": [
+        {
+          "name": "Highland Park Sleep Collective",
+          "url": "https://open.spotify.com/artist/52tBivESnfK4iqF7gYhn7T"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Jupiter 285",
+      "url": "https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Wolf Moon",
-        "url": "https://open.spotify.com/album/5MOqmNcrFSxoNZA9HgZIcw"
-      },
-      "artists": [
-        {
-          "name": "Highland Park Sleep Collective",
-          "url": "https://open.spotify.com/artist/52tBivESnfK4iqF7gYhn7T"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Jupiter 285",
-      "url": "https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -219,6 +219,26 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 143133,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
         "name": "Seconds / H\u00f3lar",
         "url": "https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 179439,
       "name": "After the Rain - Piano Solo",
       "url": "https://open.spotify.com/track/0z7IeekUiNaQvmGQhsfJdl"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 143133,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Spirit Loop",
-        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Spirit Loop",
-      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "everybody's gone home (florence slowed version)",
         "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 171072,
       "name": "everybody's gone home (florence slowed version)",
       "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Spirit Loop",
+        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Spirit Loop",
+      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
-      },
-      "artists": [
-        {
-          "name": "Grandbrothers",
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
-        }
-      ],
-      "duration_ms": 116875,
-      "name": "Golden Dust",
-      "url": "https://open.spotify.com/track/4hUaTmX1C1TsbjGvcL6vRP"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "Space 1.8",
         "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "duration_ms": 116875,
+      "name": "Golden Dust",
+      "url": "https://open.spotify.com/track/4hUaTmX1C1TsbjGvcL6vRP"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
         "name": "Epilogue",
         "url": "https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 249081,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Empire of Light (Original Score)",
+        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 107626,
+      "name": "Washed Out",
+      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -927,22 +943,6 @@
       "duration_ms": 138818,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/4PJ6Zk5sxmk2oO3Yo0zS6V"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Empire of Light (Original Score)",
-        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 107626,
-      "name": "Washed Out",
-      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "The Long Night in Winter Light",
-        "url": "https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3"
-      },
-      "artists": [
-        {
-          "name": "Tomo-Nakaguchi",
-          "url": "https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ"
-        }
-      ],
-      "duration_ms": 235063,
-      "name": "Twilight Glow Of The Sky",
-      "url": "https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "Our True Nature",
         "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 343666,
       "name": "Abandoned Places",
       "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "The Long Night in Winter Light",
+        "url": "https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3"
+      },
+      "artists": [
+        {
+          "name": "Tomo-Nakaguchi",
+          "url": "https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ"
+        }
+      ],
+      "duration_ms": 235063,
+      "name": "Twilight Glow Of The Sky",
+      "url": "https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Woodland Encounter",
+      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
         "name": "Prologue for Seasons",
         "url": "https://open.spotify.com/album/39ov9C53QwlB6SE7yhPv57"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 217911,
       "name": "Tungsten - Science Of Sleeping Rework",
       "url": "https://open.spotify.com/track/5hraqI2YZBaRCljleFC3d4"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Woodland Encounter",
-      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "The Notional Pastures Of Imaginary Softwoods",
-        "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
-        }
-      ],
-      "duration_ms": 118260,
-      "name": "Chalked Outlines Of A Polybius Square",
-      "url": "https://open.spotify.com/track/2rA03vls6ZXmEfPPj1Qjml"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "!",
         "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 198901,
       "name": "acceptances",
       "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "The Notional Pastures Of Imaginary Softwoods",
+        "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+        }
+      ],
+      "duration_ms": 118260,
+      "name": "Chalked Outlines Of A Polybius Square",
+      "url": "https://open.spotify.com/track/2rA03vls6ZXmEfPPj1Qjml"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1235,6 +1235,42 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Music For Growing Flowers - Pt. 7",
+      "url": "https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Starlit Lake",
+        "url": "https://open.spotify.com/album/0o3BzLWKCPllbznVgozHzg"
+      },
+      "artists": [
+        {
+          "name": "Applefish",
+          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
+        },
+        {
+          "name": "Spacecraft",
+          "url": "https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C"
+        }
+      ],
+      "duration_ms": 297874,
+      "name": "Interstellar Clouds",
+      "url": "https://open.spotify.com/track/0cK11RP6yVl1OM6oIpUZre"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
         "name": "I See Miracles Everywhere",
         "url": "https://open.spotify.com/album/01VIAuGGEFKMakwuTyNOoQ"
       },
@@ -1263,42 +1299,6 @@
       "duration_ms": 406773,
       "name": "Living Spa Water",
       "url": "https://open.spotify.com/track/4lDdauIRHCb6Q0xp1cpOkH"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Starlit Lake",
-        "url": "https://open.spotify.com/album/0o3BzLWKCPllbznVgozHzg"
-      },
-      "artists": [
-        {
-          "name": "Applefish",
-          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
-        },
-        {
-          "name": "Spacecraft",
-          "url": "https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C"
-        }
-      ],
-      "duration_ms": 297874,
-      "name": "Interstellar Clouds",
-      "url": "https://open.spotify.com/track/0cK11RP6yVl1OM6oIpUZre"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Music For Growing Flowers - Pt. 7",
-      "url": "https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Afterpoem",
-        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
       "artists": [
         {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 118897,
-      "name": "Fin ao\u00fbt, d\u00e9but septembre",
-      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
+        "name": "Afterpoem",
+        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
       },
       "artists": [
         {
-          "name": "Grandbrothers",
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
         }
       ],
-      "duration_ms": 104583,
-      "name": "Yokohama Rascals",
-      "url": "https://open.spotify.com/track/4QL6I4F5FbHcKG0eROfAwa"
+      "duration_ms": 118897,
+      "name": "Fin ao\u00fbt, d\u00e9but septembre",
+      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "Long Cool World",
         "url": "https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 316565,
       "name": "The Nighthawks Are Out",
       "url": "https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "duration_ms": 104583,
+      "name": "Yokohama Rascals",
+      "url": "https://open.spotify.com/track/4QL6I4F5FbHcKG0eROfAwa"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "The See Within",
         "url": "https://open.spotify.com/album/6PrE3djsB6qncqSHPX8BDW"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 173456,
       "name": "The See Within",
       "url": "https://open.spotify.com/track/1LV5enjdiftT01ts1r6Ue0"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
+        "name": "Mysterious Shapes and Remembered Rhythms",
+        "url": "https://open.spotify.com/album/0Hq25reNy7WC2ubWOoKwjP"
+      },
+      "artists": [
+        {
+          "name": "Ian Hawgood",
+          "url": "https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Life Lived in the Echoes of Emptiness",
+      "url": "https://open.spotify.com/track/4lx6thZ1sT0Nrv6XopvpyY"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
         "name": "Garden Heart: Reworks",
         "url": "https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 400846,
       "name": "Nocturne 4 - Alva Noto Remodel",
       "url": "https://open.spotify.com/track/6FaTmzirRRd7OAJ6RyZeeK"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Mysterious Shapes and Remembered Rhythms",
-        "url": "https://open.spotify.com/album/0Hq25reNy7WC2ubWOoKwjP"
-      },
-      "artists": [
-        {
-          "name": "Ian Hawgood",
-          "url": "https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Life Lived in the Echoes of Emptiness",
-      "url": "https://open.spotify.com/track/4lx6thZ1sT0Nrv6XopvpyY"
     }
   ],
   "unique_name": "Ambiente",

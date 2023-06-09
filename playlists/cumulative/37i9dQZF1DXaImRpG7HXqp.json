@@ -3017,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "Fields of rice",
+        "url": "https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w"
+      },
+      "artists": [
+        {
+          "name": "Jim Nash",
+          "url": "https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107572,
+      "name": "Fields of rice",
+      "url": "https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV"
+    },
+    {
+      "album": {
         "name": "Filtered Memories",
         "url": "https://open.spotify.com/album/5KHso3zphlK86NbZR3E0cK"
       },
@@ -4202,7 +4220,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 180564,
       "name": "in the barrel",
       "url": "https://open.spotify.com/track/08t0y9ckkd4D3INWzucet3"
@@ -7367,6 +7385,24 @@
     },
     {
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/5Zh8cgGWYAc5qRLwTvPXcF"
+      },
+      "artists": [
+        {
+          "name": "Duncan Bowie",
+          "url": "https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162715,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/5ya9oJXawpEtTT64juebsM"
+    },
+    {
+      "album": {
         "name": "Savage Silhouettes",
         "url": "https://open.spotify.com/album/2eYTNL3P3wVZA8kdHgnWxa"
       },
@@ -8051,6 +8087,24 @@
     },
     {
       "album": {
+        "name": "Sound Of Serenity",
+        "url": "https://open.spotify.com/album/7mpN7Yxh7nS71Nd1YVvzRz"
+      },
+      "artists": [
+        {
+          "name": "Manuel Boltano",
+          "url": "https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183109,
+      "name": "Sounds Of Serenity",
+      "url": "https://open.spotify.com/track/5B0UFZVEyMx0no2huGzZcH"
+    },
+    {
+      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF"
       },
@@ -8228,6 +8282,24 @@
       "duration_ms": 130686,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/2p3iq2SPXRJRX1U4xqfE0P"
+    },
+    {
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/3Du4mTpGliNy0e7qAIdR3G"
+      },
+      "artists": [
+        {
+          "name": "Kaspar Mann",
+          "url": "https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181088,
+      "name": "Storyteller",
+      "url": "https://open.spotify.com/track/7d9uanPShS0NVsESqcArCa"
     },
     {
       "album": {
@@ -8807,6 +8879,24 @@
     },
     {
       "album": {
+        "name": "The Stillness Within",
+        "url": "https://open.spotify.com/album/7pfveCDNbixSABr4bVIfJZ"
+      },
+      "artists": [
+        {
+          "name": "Vadim Cervenka",
+          "url": "https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179677,
+      "name": "The Stillness Within",
+      "url": "https://open.spotify.com/track/2zSvZfdq6ZJpxmH2RbpoQ8"
+    },
+    {
+      "album": {
         "name": "The Summer House",
         "url": "https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH"
       },
@@ -8858,6 +8948,24 @@
       "duration_ms": 139691,
       "name": "Thousand Years Ago",
       "url": "https://open.spotify.com/track/03ii6bJVPO1xJNNsG9QvIB"
+    },
+    {
+      "album": {
+        "name": "Through Wildflowers",
+        "url": "https://open.spotify.com/album/74Y1eBKeQVPlr0RxbeMORi"
+      },
+      "artists": [
+        {
+          "name": "Ivan Bielsa",
+          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120337,
+      "name": "Through Wildflowers",
+      "url": "https://open.spotify.com/track/1iZz8nbflA5fifQldcXwb3"
     },
     {
       "album": {
@@ -9618,6 +9726,24 @@
       "duration_ms": 114400,
       "name": "Wees Hier",
       "url": "https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq"
+    },
+    {
+      "album": {
+        "name": "Welcome Another Morning",
+        "url": "https://open.spotify.com/album/60wQBZH2QIzedGgphfwBTj"
+      },
+      "artists": [
+        {
+          "name": "R.B James",
+          "url": "https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184809,
+      "name": "Welcome Another Morning",
+      "url": "https://open.spotify.com/track/5sGlEWMqEvNwKQZWUbsGDc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-126 songs - 6 hr 22 min
+127 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Mirrors \(Hardstyle\)](https://open.spotify.com/track/512iVeSpSMzPWsorQgYopk) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Mirrors \(Hardstyle\)](https://open.spotify.com/album/0f7JldDsTZugn7KtXJ4VEe) | 1:56 | 2023-05-31 |  |
 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 | 2022-12-22 |  |
 | [Mr Brightside](https://open.spotify.com/track/72Tlquzl5q2vsqArGnRQEp) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:50 | 2022-12-05 | 2023-02-07 |
+| [My Heart Will Go On \(Titanic\)](https://open.spotify.com/track/6xW8JLQGyCIDUvQU6KplAQ) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [My Heart Will Go On \(Titanic\)](https://open.spotify.com/album/6N1zvlTXbxnA80TzeuaSfb) | 3:27 | 2023-06-08 |  |
 | [Never Alone \- Re\-Style Remix](https://open.spotify.com/track/06uht1keHAWyzBtdDIOgoe) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [Never Alone \(Re\-Style Remix\)](https://open.spotify.com/album/60lF2PCjpf4rFnly1cJHrI) | 3:50 | 2022-12-05 | 2023-02-10 |
 | [Never See Me Again](https://open.spotify.com/track/7KQchwvb5bBeGbkQ8E0A1N) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Never See Me Again](https://open.spotify.com/album/1EsUu6pZ6I0NsITBN1Ua9y) | 2:40 | 2023-02-23 | 2023-06-02 |
 | [Nobody Said It Was Easy \- Sefa Remix](https://open.spotify.com/track/2DbYleH8IowzkPVlcHnmN6) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Klaagzang](https://open.spotify.com/album/0ep74B5082yRdihkXVB4kx) | 4:29 | 2023-01-31 | 2023-04-28 |
@@ -132,7 +133,7 @@
 | [Wake Me Up \- Hardstyle Remix](https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Patrick Lentz](https://open.spotify.com/artist/21uICil8mM128FNvcYJDv0) | [Wake Me Up \(Hardstyle Remix\)](https://open.spotify.com/album/0KWzjPlv7fx0JOuKrNledF) | 3:06 | 2022-12-28 | 2023-04-12 |
 | [What's Up?](https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [What's Up?](https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z) | 3:12 | 2023-04-13 |  |
 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 | 2022-12-22 | 2022-12-29 |
-| [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 | 2022-12-05 |  |
+| [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 | 2022-12-05 | 2023-06-09 |
 | [Zombie](https://open.spotify.com/track/1TwbzKMxFBExaDEUWqQ832) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Zombie](https://open.spotify.com/album/2QIID9JrUSTyJpaMFaZYuH) | 4:49 | 2022-12-05 |  |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

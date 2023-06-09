@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 214582,
       "name": "Hurt No More",
       "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
@@ -4010,6 +4010,24 @@
       "duration_ms": 337239,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"
+    },
+    {
+      "album": {
+        "name": "South of Somewhere",
+        "url": "https://open.spotify.com/album/0XxAkm4enVQrzVIvkEGPly"
+      },
+      "artists": [
+        {
+          "name": "Dusty Black",
+          "url": "https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155348,
+      "name": "Them Boots",
+      "url": "https://open.spotify.com/track/1inAmPzZBNjKr7nU8cGbjT"
     },
     {
       "album": {

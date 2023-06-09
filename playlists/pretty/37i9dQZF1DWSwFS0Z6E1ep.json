@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 208526,
+  "num_followers": 208752,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWQxZTAwNGYwNWZkZmIwZTQ3MGI3MDIwYmI1NmNkODBlM2VjYjE4",
+  "snapshot_id": "MCwyYzk4Y2Q5ZGI1MGFlMDAxYWRmYTNmYWEzYWJjM2U5N2ZmZDdhNTNm",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "20 Best of Doo Wop",
-        "url": "https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Frogman\" Henry",
-          "url": "https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf"
-        }
-      ],
-      "duration_ms": 138776,
-      "name": "Ain't Got No Home - Rerecorded",
-      "url": "https://open.spotify.com/track/635WSqOORhDgO8sWWEoGen"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Bear Cat / Walkin' in the Rain",
         "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 170057,
       "name": "Bear Cat",
       "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "20 Best of Doo Wop",
+        "url": "https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Frogman\" Henry",
+          "url": "https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf"
+        }
+      ],
+      "duration_ms": 138776,
+      "name": "Ain't Got No Home - Rerecorded",
+      "url": "https://open.spotify.com/track/635WSqOORhDgO8sWWEoGen"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - The Rhythm and The Blues",
-        "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 188673,
-      "name": "The Hucklebuck",
-      "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Ain't That Right / Bring Your Love Back Home",
         "url": "https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 194000,
       "name": "Bring Your Love Back Home",
       "url": "https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records - The Rhythm and The Blues",
+        "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 188673,
+      "name": "The Hucklebuck",
+      "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
     },
     {
       "added_at": "2022-06-07 05:25:13",

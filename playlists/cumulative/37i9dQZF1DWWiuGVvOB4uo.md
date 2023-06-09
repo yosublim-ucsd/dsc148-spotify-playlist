@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-271 songs - 14 hr 51 min
+276 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@
 | [A Hazy Shade Of Winter](https://open.spotify.com/track/07UJwROZlxGkoq0dlv4FvQ) | [Javier Barrera](https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8) | [A Hazy Shade Of Winter](https://open.spotify.com/album/35NxsFHdWTSkPnMOpgYld3) | 3:18 | 2022-10-28 | 2023-02-03 |
 | [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 | 2022-08-26 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [A Sky Full of Stars](https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ) | 2:45 | 2022-08-26 | 2023-01-05 |
-| [A Thousand Miles](https://open.spotify.com/track/3Pi5zbgCtaUN2uFCS8toqo) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [A Thousand Miles](https://open.spotify.com/album/1bde2esHMYQPdFAngKDrDz) | 3:51 | 2023-03-16 |  |
+| [A Thousand Miles](https://open.spotify.com/track/3Pi5zbgCtaUN2uFCS8toqo) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [A Thousand Miles](https://open.spotify.com/album/1bde2esHMYQPdFAngKDrDz) | 3:51 | 2023-03-16 | 2023-06-09 |
 | [A thousand Years \- Acoustic](https://open.spotify.com/track/57CxlA1lWjST9FEueqzvfT) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:18 | 2022-10-14 | 2023-05-12 |
 | [Accidentally In Love](https://open.spotify.com/track/30vbL0UiPR2NeiiKKk9L9E) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Accidentally In Love](https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ) | 2:48 | 2023-05-12 |  |
+| [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 | 2023-06-08 |  |
 | [All Shook Up](https://open.spotify.com/track/5PYMu45h2MlZ3Pdqya8QGC) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [All Shook Up](https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR) | 1:44 | 2022-08-26 | 2023-02-18 |
 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 | 2022-12-02 |  |
 | [Always Be My Baby](https://open.spotify.com/track/7tvUpiHnjjkBA8BbMwCwTs) | [Luke Antony](https://open.spotify.com/artist/6W6FBsdtIeUFTHE3e9ZsHI) | [Always Be My Baby](https://open.spotify.com/album/6qGIYcVJnlz3D32wqAJ6Qz) | 4:00 | 2022-09-29 |  |
@@ -43,6 +44,7 @@
 | [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 | 2022-10-14 |  |
 | [Blanket On The Ground](https://open.spotify.com/track/1OisioJjA7Y2pM19yBf4jl) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Blanket On The Ground](https://open.spotify.com/album/373M8k23TiJ2QvysKoDuAo) | 3:33 | 2023-03-31 |  |
 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 | 2022-10-14 |  |
+| [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 | 2023-06-08 |  |
 | [Body like backroad](https://open.spotify.com/track/4ftzIVYZ1lhBiQO3vuUfq0) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Body like backroad](https://open.spotify.com/album/2Bg7RrVYb7rjo314fI5vkO) | 2:48 | 2022-12-02 |  |
 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 | 2022-08-26 |  |
 | [breakeven](https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [breakeven](https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO) | 3:30 | 2022-12-23 |  |
@@ -56,6 +58,7 @@
 | [Capital Letters](https://open.spotify.com/track/7gIbckZg2u07UCx5GH1cyX) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [Kaitie Forbes](https://open.spotify.com/artist/0oT12Br0BVmBsLXE0Xg9Aa) | [Capital Letters](https://open.spotify.com/album/0XESanWE2FhR61CX3wBAWQ) | 3:42 | 2022-08-26 | 2023-05-12 |
 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/0aIcKuGEu9NrI4r07KyJRc) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Castle on the Hill](https://open.spotify.com/album/4Veg0fmvBzK3aCZV8hzWUE) | 4:03 | 2022-08-26 | 2023-01-05 |
 | [Change The World \- Acoustic](https://open.spotify.com/track/0JoIuY82vgBX5JylD4GqfV) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Change The World \(Acoustic\)](https://open.spotify.com/album/4YMJqOrbqok6cjYjnNInZw) | 4:57 | 2022-08-26 | 2022-12-02 |
+| [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 | 2023-06-08 |  |
 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 | 2022-12-02 |  |
 | [Constant Craving](https://open.spotify.com/track/3uSmwh3Dp1bBIrYPylNnWt) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Constant Craving](https://open.spotify.com/album/5i547fQ91ASnxLdTixmhyY) | 2:51 | 2022-08-26 | 2023-01-20 |
 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 | 2023-02-17 |  |
@@ -167,6 +170,7 @@
 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 | 2022-08-26 | 2023-01-20 |
 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 | 2022-08-26 | 2023-05-12 |
 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 | 2022-08-26 |  |
+| [Little Lies](https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Little Lies](https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV) | 3:17 | 2023-06-08 |  |
 | [Lose You To Love Me](https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv) | [Jessie Blue and Zach Solomon](https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx) | [Beautiful People](https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG) | 4:13 | 2022-08-26 | 2023-01-20 |
 | [Lose You To Love Me \- Acoustic](https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Lose You To Love Me \(Acoustic\)](https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd) | 4:14 | 2022-08-26 | 2023-02-03 |
 | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/track/4mzSkWDdDDrd1i3wg1FfpC) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng) | 2:36 | 2022-08-26 |  |
@@ -207,6 +211,7 @@
 | [Promise Me](https://open.spotify.com/track/2MsN67ggzmrJFxZ7xMO0Im) | [Beven Fonseca](https://open.spotify.com/artist/6TrUanZBSzLJ7uFGNdGL4Q), [Sonia Saigal](https://open.spotify.com/artist/19qjec4tsQpCrg4DLFb3oq) | [Promise Me](https://open.spotify.com/album/5BgPTsK8FenE6ioKuuciCL) | 3:09 | 2022-08-26 | 2022-12-10 |
 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 | 2022-08-26 |  |
 | [Ransom](https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Ransom](https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb) | 2:46 | 2022-08-26 | 2023-01-20 |
+| [Redbone](https://open.spotify.com/track/1AMaBApVmeyBWai8k0QAMQ) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Redbone](https://open.spotify.com/album/5iBdBYWTKoreXGuKlxBznd) | 2:51 | 2023-06-08 |  |
 | [Ridin' Solo](https://open.spotify.com/track/6VtXVWUzeJ4BtW08ppm9CH) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Ridin' Solo](https://open.spotify.com/album/7w5z58RtTGZn5JRUMlV0Tk) | 4:07 | 2022-08-26 | 2022-12-24 |
 | [Right Here Right Now](https://open.spotify.com/track/0d4V5zGWtZzsuWdr0cDPty) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Right Here Right Now](https://open.spotify.com/album/6KGK5IwZeEqf50uS3SOkXS) | 3:29 | 2022-08-26 | 2022-12-24 |
 | [Ruin My Life](https://open.spotify.com/track/1qKOzZcVNDnmU0xiLJbORz) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Ruin My Life](https://open.spotify.com/album/5WyfkXyOVdQNtKcj0eF19w) | 3:28 | 2023-02-03 |  |

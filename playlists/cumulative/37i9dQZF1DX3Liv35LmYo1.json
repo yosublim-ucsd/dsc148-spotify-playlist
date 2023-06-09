@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Moody electronica for the night time hours",
+  "description": "Moody electronica for the night shift",
   "name": "Night Shift",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 311827,
       "name": "Affirmation Practice",
       "url": "https://open.spotify.com/track/2nArEaoCGtb6ws4wO4cI9a"
@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Ante",
+        "url": "https://open.spotify.com/album/0luWrdUTM961z0xjXPgJm7"
+      },
+      "artists": [
+        {
+          "name": "Cousin",
+          "url": "https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260168,
+      "name": "Ante",
+      "url": "https://open.spotify.com/track/6zcnsH77evVFfbfCkdpgMT"
+    },
+    {
+      "album": {
         "name": "A Part of You in Everything",
         "url": "https://open.spotify.com/album/2dYQk5VDGP3ej703JnIaIp"
       },
@@ -144,6 +162,24 @@
       "duration_ms": 352329,
       "name": "Any Path to Touch the Stars",
       "url": "https://open.spotify.com/track/7M0LkuHgD4gxyJRq3vr7Ma"
+    },
+    {
+      "album": {
+        "name": "Asterisms",
+        "url": "https://open.spotify.com/album/6zUFswV0IH03dppHSDTWMP"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257068,
+      "name": "Asterisms",
+      "url": "https://open.spotify.com/track/4NibZrr4VDvu9N7MyYOqRc"
     },
     {
       "album": {
@@ -198,7 +234,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 237027,
       "name": "Beautiful Strangers",
       "url": "https://open.spotify.com/track/5Un6I8vHv1x0HdWEXjOgwc"
@@ -726,7 +762,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 420923,
       "name": "Deep In The Glowing Heart - Night Version",
       "url": "https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m"
@@ -838,7 +874,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 350737,
       "name": "Dreamscape",
       "url": "https://open.spotify.com/track/3Vj2GECLhHkxtEl86kzjlK"
@@ -896,7 +932,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 322499,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
@@ -1518,6 +1554,24 @@
       "duration_ms": 256000,
       "name": "Is It Me",
       "url": "https://open.spotify.com/track/1rgievgwEh6siXmnPp5V93"
+    },
+    {
+      "album": {
+        "name": "Jesper",
+        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Jesper",
+      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
     },
     {
       "album": {
@@ -2494,7 +2548,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 211428,
       "name": "Sweet Memory",
       "url": "https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD"
@@ -2820,7 +2874,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 242661,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og"

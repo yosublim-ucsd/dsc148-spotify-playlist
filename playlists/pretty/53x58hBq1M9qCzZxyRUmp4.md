@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 
 > 50 of each week's best new rock and metal tracks\. New updates every Friday!  🔊 🤘🏿🤘🤘🏽
 
-[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 13,024 likes - 50 songs - 3 hr 9 min
+[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 13,031 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 | 33 | [The Snake](https://open.spotify.com/track/03NyWg4jPCJ15oxWTXt31P) | [Ok Goodnight](https://open.spotify.com/artist/0aYVGmEupopeFTcX7aFMIc) | [The Fox and the Bird](https://open.spotify.com/album/4LmZVN6IeL6m3pFYGDDt70) | 3:42 |
 | 34 | [Escape Our Fate](https://open.spotify.com/track/2Mtcoey07sDBLOXDTG3rat) | [Victory Kid](https://open.spotify.com/artist/0zzNvTHhmUTirwRcW8TBpz) | [Escape Our Fate](https://open.spotify.com/album/6W1KChB5fbXC2gaCsyiRwi) | 3:10 |
 | 35 | [Lord of Ruins](https://open.spotify.com/track/4lfftoC6dY7tba01rNx6hO) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [Lord of Ruins](https://open.spotify.com/album/02gKvANAOKzUvhicE1nP1p) | 5:14 |
-| 36 | [You Mean To Tell Me a Head of Lettuce Sunk This Ship?](https://open.spotify.com/track/4Fj6iZz35vFAmdtHrSThMi) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [You Mean To Tell Me Me a Head of Lettuce Sunk This Ship?](https://open.spotify.com/album/59dm3UbGxdkzLDe6AY3Ujp) | 3:42 |
+| 36 | [You Mean To Tell Me a Head of Lettuce Sunk This Ship?](https://open.spotify.com/track/4Fj6iZz35vFAmdtHrSThMi) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [You Mean To Tell Me a Head of Lettuce Sunk This Ship?](https://open.spotify.com/album/59dm3UbGxdkzLDe6AY3Ujp) | 3:42 |
 | 37 | [Levitate](https://open.spotify.com/track/20DYbJ3UyYhPr6GTRKxcPw) | [FELICITY](https://open.spotify.com/artist/2aqSgJBj7gtdClLx6SQ1mK) | [Levitate](https://open.spotify.com/album/6nPOwnqCBUmWiYqPCabz8c) | 2:41 |
 | 38 | [Baseball Bat](https://open.spotify.com/track/0s1kKe3w4d8lVsbczCB4Pl) | [Strike Twelve](https://open.spotify.com/artist/5qxcrGGTqFbcRoRQRu6IhY) | [Baseball Bat](https://open.spotify.com/album/35vuNn0Qn5YOMjNYF1NNvy) | 2:07 |
 | 39 | [Be With You Again](https://open.spotify.com/track/46NIaxoq4AwqIwRcJyf5lB) | [ERASE THEORY](https://open.spotify.com/artist/0BklWaMxYE43FqSGJs2nSA), [The Color Fred](https://open.spotify.com/artist/6EHCYv0H2JurdIE42TmYZb) | [Be With You Again](https://open.spotify.com/album/0rcoFZmKOzDixydavkQ4Hf) | 4:24 |

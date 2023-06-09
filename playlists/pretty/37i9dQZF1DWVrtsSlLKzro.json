@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
-  "num_followers": 597989,
+  "num_followers": 596424,
   "original_name": "Sad Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjQxZmI3ZDk2ZjNiNmYzOTVmMzg1NDA4ZGZiMzU0MTMxODgxNDJh",
+  "snapshot_id": "MCxhZjc0OGFiZGE1YTE1NzFmNjE5MTI3MmY5ZjU0ZGNiODQ5ZDJjY2U0",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -167,26 +167,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Lost Without You (with Dean Lewis)",
-        "url": "https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 203609,
-      "name": "Lost Without You (with Dean Lewis)",
-      "url": "https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 194107,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Lost Without You (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 203609,
+      "name": "Lost Without You (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -635,22 +635,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Someone To Forget",
-        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
+        "name": "nice 2 me",
+        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
       },
       "artists": [
         {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         },
         {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
         }
       ],
-      "duration_ms": 241714,
-      "name": "Someone To Forget",
-      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
+      "duration_ms": 171622,
+      "name": "nice 2 me",
+      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Someone To Forget",
+        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Someone To Forget",
+      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "My Mistake",
         "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 195757,
       "name": "My Mistake",
       "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "nice 2 me",
-        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        }
-      ],
-      "duration_ms": 171622,
-      "name": "nice 2 me",
-      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -841,7 +841,7 @@
         },
         {
           "name": "Tudor",
-          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+          "url": "https://open.spotify.com/artist/4E19QTnC6R4tEtVUzam9ju"
         }
       ],
       "duration_ms": 255172,
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Strawtown",
-        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "HOLT",
-          "url": "https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis"
-        }
-      ],
-      "duration_ms": 194195,
-      "name": "4AM (feat. HOLT.)",
-      "url": "https://open.spotify.com/track/5Wg6cZxFJ1xkaWGNUUuIOc"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -1215,18 +1195,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/77m2CAzG88DkuYbXZD6VM6"
+        "name": "Strawtown",
+        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "HOLT",
+          "url": "https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis"
         }
       ],
-      "duration_ms": 213600,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4QOb9hRufjPp9TDdph7Wzh"
+      "duration_ms": 194195,
+      "name": "4AM (feat. HOLT.)",
+      "url": "https://open.spotify.com/track/5Wg6cZxFJ1xkaWGNUUuIOc"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 178048,
       "name": "Worst Case",
       "url": "https://open.spotify.com/track/3zbbRebB1rzlXJgq7Ufn8V"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/77m2CAzG88DkuYbXZD6VM6"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4QOb9hRufjPp9TDdph7Wzh"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Innerlight EP",
-        "url": "https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7"
+        "name": "Treading Water",
+        "url": "https://open.spotify.com/album/20ZPAqgm26vHBDt3S6oRLu"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 188052,
-      "name": "Broken Mirror",
-      "url": "https://open.spotify.com/track/44oPs8vjsT9v6Hjt50TvVh"
+      "duration_ms": 217016,
+      "name": "Treading Water",
+      "url": "https://open.spotify.com/track/4b7pT27gKEESHwnffFMDUp"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Treading Water",
-        "url": "https://open.spotify.com/album/20ZPAqgm26vHBDt3S6oRLu"
+        "name": "Innerlight EP",
+        "url": "https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7"
       },
       "artists": [
         {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 217016,
-      "name": "Treading Water",
-      "url": "https://open.spotify.com/track/4b7pT27gKEESHwnffFMDUp"
+      "duration_ms": 188052,
+      "name": "Broken Mirror",
+      "url": "https://open.spotify.com/track/44oPs8vjsT9v6Hjt50TvVh"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/3MUSaPmwfJ2ourwzUwcuDA"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 224865,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/0KMLrTIhAcMfd8qsCbPXrM"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/0FwOjWiSfr5pQ9sAVrSLdq"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 213036,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/52OBoIBBYB9R9UiIbWHKgF"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Where Did You Go",
-        "url": "https://open.spotify.com/album/3MUSaPmwfJ2ourwzUwcuDA"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 224865,
-      "name": "Where Did You Go",
-      "url": "https://open.spotify.com/track/0KMLrTIhAcMfd8qsCbPXrM"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Can\u2019t Do Both (with Clara Mae)",
-        "url": "https://open.spotify.com/album/3eLwA43vI5bh00YocrNWPU"
-      },
-      "artists": [
-        {
-          "name": "Jonasu",
-          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 177345,
-      "name": "Can\u2019t Do Both (with Clara Mae)",
-      "url": "https://open.spotify.com/track/51Msclnf6boUX26DmZvViX"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Homesick (feat. SOUNDR)",
         "url": "https://open.spotify.com/album/14bud7QbOvXC0FhVBarz1y"
       },
@@ -2031,6 +2011,26 @@
       "duration_ms": 328275,
       "name": "Homesick (feat. SOUNDR)",
       "url": "https://open.spotify.com/track/1lypBFGiKyft1PVgNp358Y"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Can\u2019t Do Both (with Clara Mae)",
+        "url": "https://open.spotify.com/album/3eLwA43vI5bh00YocrNWPU"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 177345,
+      "name": "Can\u2019t Do Both (with Clara Mae)",
+      "url": "https://open.spotify.com/track/51Msclnf6boUX26DmZvViX"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2463,6 +2463,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "All Your Days",
+        "url": "https://open.spotify.com/album/7yAkNeDpEitPPfVMQ0bIxt"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 275013,
+      "name": "All Your Days",
+      "url": "https://open.spotify.com/track/2QEBXYzURjg7nY8FjbBcUt"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Shipwreck",
         "url": "https://open.spotify.com/album/7snKIaGE7juwYtQjIQQe87"
       },
@@ -2483,22 +2503,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "All Your Days",
-        "url": "https://open.spotify.com/album/7yAkNeDpEitPPfVMQ0bIxt"
+        "name": "Avoiding Pain",
+        "url": "https://open.spotify.com/album/4H57gAzcBcaUAb4ua9H3zD"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
         }
       ],
-      "duration_ms": 275013,
-      "name": "All Your Days",
-      "url": "https://open.spotify.com/track/2QEBXYzURjg7nY8FjbBcUt"
+      "duration_ms": 247435,
+      "name": "Avoiding Pain",
+      "url": "https://open.spotify.com/track/5bJjMsfoU0EWtXcg03eY6u"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2543,22 +2559,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Avoiding Pain",
-        "url": "https://open.spotify.com/album/4H57gAzcBcaUAb4ua9H3zD"
-      },
-      "artists": [
-        {
-          "name": "Slow Magic",
-          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
-        }
-      ],
-      "duration_ms": 247435,
-      "name": "Avoiding Pain",
-      "url": "https://open.spotify.com/track/5bJjMsfoU0EWtXcg03eY6u"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Heartache",
         "url": "https://open.spotify.com/album/7qwkSgCKUHrWatb4fJufv2"
       },
@@ -2583,6 +2583,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/3bZwlowzh4YGLX6LfrYdSk"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 305051,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/4ULqmjj1Rt1IzbTCAYSzOt"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Afraid of Love",
         "url": "https://open.spotify.com/album/26rQDtJrRtWzA5L0dg0sJF"
       },
@@ -2599,22 +2615,6 @@
       "duration_ms": 151515,
       "name": "Afraid of Love",
       "url": "https://open.spotify.com/track/36bE2OPOL9wwxAuFEjigbZ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Other Side of Love",
-        "url": "https://open.spotify.com/album/6Qqp6dppcuLr0DTmKqDkPU"
-      },
-      "artists": [
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 222425,
-      "name": "Other Side of Love",
-      "url": "https://open.spotify.com/track/1TXQh7R4ZaozkuFTRVZlYm"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2643,6 +2643,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Other Side of Love",
+        "url": "https://open.spotify.com/album/6Qqp6dppcuLr0DTmKqDkPU"
+      },
+      "artists": [
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 222425,
+      "name": "Other Side of Love",
+      "url": "https://open.spotify.com/track/1TXQh7R4ZaozkuFTRVZlYm"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Half Way Home",
         "url": "https://open.spotify.com/album/6VR6YeXIXAXxdcOTrd6zeh"
       },
@@ -2659,22 +2675,6 @@
       "duration_ms": 177718,
       "name": "Half Way Home",
       "url": "https://open.spotify.com/track/7pWtm7wDWIoT0TWoqySBy5"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "The Long Way Home",
-        "url": "https://open.spotify.com/album/3bZwlowzh4YGLX6LfrYdSk"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 305051,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/4ULqmjj1Rt1IzbTCAYSzOt"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2935,26 +2935,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "I Think I\u2019m Over You",
-        "url": "https://open.spotify.com/album/0oVKDSQOr4dBRkCurmPmAA"
-      },
-      "artists": [
-        {
-          "name": "Win and Woo",
-          "url": "https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC"
-        },
-        {
-          "name": "PENNYWILD",
-          "url": "https://open.spotify.com/artist/3QpgroEPepqsrcv3KWOtI8"
-        }
-      ],
-      "duration_ms": 193658,
-      "name": "I Think I\u2019m Over You",
-      "url": "https://open.spotify.com/track/189f0Iy7MlhflRfDi82QP0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Never Easy",
         "url": "https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo"
       },
@@ -2971,6 +2951,26 @@
       "duration_ms": 224391,
       "name": "Never Easy",
       "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "I Think I\u2019m Over You",
+        "url": "https://open.spotify.com/album/0oVKDSQOr4dBRkCurmPmAA"
+      },
+      "artists": [
+        {
+          "name": "Win and Woo",
+          "url": "https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC"
+        },
+        {
+          "name": "PENNYWILD",
+          "url": "https://open.spotify.com/artist/3QpgroEPepqsrcv3KWOtI8"
+        }
+      ],
+      "duration_ms": 193658,
+      "name": "I Think I\u2019m Over You",
+      "url": "https://open.spotify.com/track/189f0Iy7MlhflRfDi82QP0"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2995,6 +2995,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Break The Same",
+        "url": "https://open.spotify.com/album/5H5YKFjy1FRbo5TCN1MDvZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "Break The Same",
+      "url": "https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Somehow We Lost It All",
         "url": "https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4"
       },
@@ -3015,26 +3035,6 @@
       "duration_ms": 179500,
       "name": "Somehow We Lost It All",
       "url": "https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Break The Same",
-        "url": "https://open.spotify.com/album/5H5YKFjy1FRbo5TCN1MDvZ"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "MATTN",
-          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Break The Same",
-      "url": "https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ"
     },
     {
       "added_at": "2023-05-26 04:00:00",

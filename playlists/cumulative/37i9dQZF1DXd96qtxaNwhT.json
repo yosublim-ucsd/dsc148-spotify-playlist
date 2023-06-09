@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "All I See Is Him",
+        "url": "https://open.spotify.com/album/5eU9qQS8lKlTQNyLHaibsE"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165883,
+      "name": "All I See Is Him",
+      "url": "https://open.spotify.com/track/53bNbChiuQHSUZJTfNvERf"
+    },
+    {
+      "album": {
         "name": "All the Lies About Me",
         "url": "https://open.spotify.com/album/0JQFRlBw5UdjbVcwgm9SCu"
       },
@@ -348,7 +366,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 219631,
       "name": "Another Falling Star",
       "url": "https://open.spotify.com/track/6ie3zhD4Yyrz35wCouSk8T"
@@ -6383,6 +6401,24 @@
     },
     {
       "album": {
+        "name": "Power In Us",
+        "url": "https://open.spotify.com/album/1SlXfaCDOmYwsbIFr3dlP2"
+      },
+      "artists": [
+        {
+          "name": "Anderson Rocio",
+          "url": "https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201719,
+      "name": "Power In Us",
+      "url": "https://open.spotify.com/track/5AMjoL36HPzwx9E0JUg05J"
+    },
+    {
+      "album": {
         "name": "PRETEND RAINBOW",
         "url": "https://open.spotify.com/album/1GEwRUCUUUJJahRF4Cxqfy"
       },
@@ -7058,7 +7094,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 191265,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/61VZLH1gv19xeKByFm8c0o"

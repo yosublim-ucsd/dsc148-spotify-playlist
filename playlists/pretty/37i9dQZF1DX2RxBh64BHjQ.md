@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1YRqgFNXqRyMDRr8ClS1NL">Kali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,766,451 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,764,834 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 32 | [Wicked Inna RaQ 2 \(with G Herbo\)](https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Wicked Inna RaQ 2](https://open.spotify.com/album/5sDveIPYQRR3qMI6KNV54x) | 2:31 |
 | 33 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 | 34 | [Slangn KK](https://open.spotify.com/track/59W0iGCityApGKS1DlWcxo) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Slangn KK](https://open.spotify.com/album/5oK5N32z1FiNDucFj0C32t) | 3:13 |
-| 35 | [Supafly \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0lkZ62PtOr82RFbVJVk8Yn) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Supafly \(feat\. BigXthaPlug / FAST X Soundtrack\)](https://open.spotify.com/album/2fIo1CPdRHVae7GbQdpi3b) | 2:58 |
+| 35 | [Supafly \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0lkZ62PtOr82RFbVJVk8Yn) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Supafly \(feat\. BigXthaPlug / FAST X Soundtrack\)](https://open.spotify.com/album/2fIo1CPdRHVae7GbQdpi3b) | 2:58 |
 | 36 | [Sad & Alone](https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sad & Alone](https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q) | 2:45 |
 | 37 | [House Call](https://open.spotify.com/track/3vXeEuBfgF26n6W1l8ujac) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [House Call](https://open.spotify.com/album/4UTojRG6aHmoZoXvH3C4aV) | 3:58 |
 | 38 | [FreakyT \(feat\. Latto\) \- Remix](https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [FreakyT \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx) | 2:29 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 54 | [Keep Dat Nigga](https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN) | [Keep Dat Nigga](https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng) | 2:18 |
 | 55 | [Keep It Cute](https://open.spotify.com/track/4wEI2bW0thTqJFukEaeXJs) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Keep It Cute](https://open.spotify.com/album/0SUZ6sHqYkNLI7C4Js5LwW) | 2:51 |
 | 56 | [Whole Nother League](https://open.spotify.com/track/42aR8AeISrUmz2g3uISrvb) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Whole Nother League](https://open.spotify.com/album/247OXdx4UMTpuL2gi5hulJ) | 2:34 |
-| 57 | [Get It](https://open.spotify.com/track/0iZ3KsUpgL2Y1IXxUgMZS8) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Get It \(FAST X Soundtrack\)](https://open.spotify.com/album/6tXd6xOBJdrBB61Y3RvOCI) | 1:43 |
+| 57 | [Get It](https://open.spotify.com/track/0iZ3KsUpgL2Y1IXxUgMZS8) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Get It \(FAST X Soundtrack\)](https://open.spotify.com/album/6tXd6xOBJdrBB61Y3RvOCI) | 1:43 |
 | 58 | [WHITE CAPRICE](https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [REAL B\*TCHES DON'T DIE!](https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX) | 3:16 |
 | 59 | [Payroll \(feat\. Mike Dimes\)](https://open.spotify.com/track/01ma2sJKGaq8JA4KEwtFkh) | [Metro Marrs](https://open.spotify.com/artist/4mnXd7tspPHEPPJij1swWX), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Payroll \(feat\. Mike Dimes\)](https://open.spotify.com/album/0eUNLpn5N8G0e29kpUdo5X) | 3:28 |
 | 60 | [Who I Am](https://open.spotify.com/track/7vq5N3HREotT71RnQoFTB8) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Who I Am](https://open.spotify.com/album/2OlZc3EjX8Yg3G2voQc6nd) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [High Price \(with Lil Tjay\)](https://open.spotify.com/track/2OvqbosjvY48JgqmySJ2l2) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [High Price \(with Lil Tjay\)](https://open.spotify.com/album/0e72MQklCxJo0IJXGmbz8Y) | 3:12 |
 | 100 | [How High](https://open.spotify.com/track/2JmEudsTs2PrGS7R7tWs8g) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [How High](https://open.spotify.com/album/5O5i4hqy4iJpSlzm5WGGIM) | 2:18 |
 
-Snapshot ID: `MCw4ZGExOTFiMmMyNThhNmNhNTQ3NDhjOGM1OWZhZWViZDUzZGJjMjcy`
+Snapshot ID: `MCwwNzljYWM5MjAxMDZhMGE1M2VjMTBiZTIzMjY3Y2UwNTEwZTQyNWEx`

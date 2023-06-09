@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kali\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045 likes - 32 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059 likes - 32 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 6 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 |
 | 7 | [Track & Field \(feat\. Kali\)](https://open.spotify.com/track/1IgIR2FmHpfuR3MkGnGQUI) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Track & Field \(feat\. Kali\)](https://open.spotify.com/album/2c2pjLYQ3hd9UNoCPiNuwf) | 2:18 |
 | 8 | [Big Body](https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 1:46 |
-| 9 | [Blow It \(feat\. Kali\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kali\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 |
-| 10 | [Where She At \(feat\. Kali, KenTheMan\)](https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [MULTI](https://open.spotify.com/album/01Gyi3UvIcbXejlgpjAYyD) | 3:28 |
+| 9 | [Where She At \(feat\. Kali, KenTheMan\)](https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [MULTI](https://open.spotify.com/album/01Gyi3UvIcbXejlgpjAYyD) | 3:28 |
+| 10 | [Blow It \(feat\. Kali\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kali\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 |
 | 11 | [Standards](https://open.spotify.com/track/3aYpUar301x64WbolSxdwS) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:55 |
 | 12 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 |
 | 13 | [Ain't FWM \(feat\. Ken the Man\)](https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Ken The Man](https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 3:33 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 31 | [Pakkman](https://open.spotify.com/track/2bW876RUtpQOOwz3aocCRT) | [SbMigo](https://open.spotify.com/artist/5zUCkBQ1toNwvXlPSQpL2A), [Durt J](https://open.spotify.com/artist/3y4KE35PrBDq2isu5GHCxO), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [That Rabbit All Star Compilation, Vol\. 1](https://open.spotify.com/album/36qRi5qPrdRBeGQlg1oDIQ) | 3:56 |
 | 32 | [05\. Let 175](https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Jedna Ljubav A Kurva](https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t) | 3:26 |
 
-Snapshot ID: `MjgxMDIzMzUsMDAwMDAwMDA3M2FmZTEyZDhjN2NmOTdhNTk5MGUxYzhmOTI0MjNkMg==`
+Snapshot ID: `MjgxMDM3NzgsMDAwMDAwMDA3ZjU5ZGQ2NDU3NDJkNTZjNGMxMDMzNGIwMDEyZDM2Nw==`

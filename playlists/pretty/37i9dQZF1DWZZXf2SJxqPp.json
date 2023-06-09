@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 120341,
+  "num_followers": 120372,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjM4MGE5MGIwMDUwMzM2YWZjODUwZWZlYTk5MWZjMGE5NWRhZTQ0",
+  "snapshot_id": "MCw2OTkxY2I4YTNhMzU5Y2I5ZTAxZTNkYjdmYTM3ZTk2NDVlZTg0Y2I1",
   "tracks": [
     {
       "added_at": "2023-03-27 18:16:56",
@@ -291,6 +291,30 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Shika Shika / Botanas Series",
+        "url": "https://open.spotify.com/album/4B6o0gnr78p6pOuswmStUP"
+      },
+      "artists": [
+        {
+          "name": "Yeahman",
+          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
+        },
+        {
+          "name": "Hajna",
+          "url": "https://open.spotify.com/artist/1MnOJH0oJTVBlVn1sEycC7"
+        },
+        {
+          "name": "Mina Shankha",
+          "url": "https://open.spotify.com/artist/6FY4fjcnaBJccjv6HG2Ba6"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Miniyamba",
+      "url": "https://open.spotify.com/track/1h6i0ETE1wdClYTi8ppsu6"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "Sr. Tigre (French Braids Rework)",
         "url": "https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp"
       },
@@ -327,30 +351,6 @@
       "duration_ms": 194082,
       "name": "Hano\u00ef caf\u00e9",
       "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Shika Shika / Botanas Series",
-        "url": "https://open.spotify.com/album/4B6o0gnr78p6pOuswmStUP"
-      },
-      "artists": [
-        {
-          "name": "Yeahman",
-          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
-        },
-        {
-          "name": "Hajna",
-          "url": "https://open.spotify.com/artist/1MnOJH0oJTVBlVn1sEycC7"
-        },
-        {
-          "name": "Mina Shankha",
-          "url": "https://open.spotify.com/artist/6FY4fjcnaBJccjv6HG2Ba6"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Miniyamba",
-      "url": "https://open.spotify.com/track/1h6i0ETE1wdClYTi8ppsu6"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Dancy Party",
         "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "Marechi\u00e0",
         "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -883,22 +883,18 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "First Landing",
-        "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
+        "name": "Black Catbird",
+        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
       },
       "artists": [
         {
-          "name": "Moon Boots",
-          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
-        },
-        {
-          "name": "Fiora",
-          "url": "https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM"
+          "name": "the Garifuna Collective",
+          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
         }
       ],
-      "duration_ms": 286726,
-      "name": "I Want Your Attention",
-      "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
+      "duration_ms": 165593,
+      "name": "Black Catbird",
+      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -919,6 +915,26 @@
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "First Landing",
+        "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
+      },
+      "artists": [
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        },
+        {
+          "name": "Fiora",
+          "url": "https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM"
+        }
+      ],
+      "duration_ms": 286726,
+      "name": "I Want Your Attention",
+      "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -959,22 +975,6 @@
       "duration_ms": 317066,
       "name": "Heaven - Nicolas Jaar Remix",
       "url": "https://open.spotify.com/track/4WXIcBXdNAvsFKSMMqettI"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Black Catbird",
-        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
-      },
-      "artists": [
-        {
-          "name": "the Garifuna Collective",
-          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
-        }
-      ],
-      "duration_ms": 165593,
-      "name": "Black Catbird",
-      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Kitsun\u00e9 Parisien 4",
+        "url": "https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE"
+      },
+      "artists": [
+        {
+          "name": "MonteRosso",
+          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Huacachina",
+      "url": "https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "I Wanna Know What Love Is",
         "url": "https://open.spotify.com/album/4YMlkKFWml2zbGExGt7i5X"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 196676,
       "name": "It's alright",
       "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Kitsun\u00e9 Parisien 4",
-        "url": "https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE"
-      },
-      "artists": [
-        {
-          "name": "MonteRosso",
-          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
-        }
-      ],
-      "duration_ms": 213864,
-      "name": "Huacachina",
-      "url": "https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Moment EP",
+        "url": "https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 401695,
+      "name": "Han Pan - Original Mix",
+      "url": "https://open.spotify.com/track/6z7Y23tSMqnHVDU51I3VjT"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "I Won't Fade Away",
         "url": "https://open.spotify.com/album/0uhCqrWtrrLIVH7bz1I2R5"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 228234,
       "name": "I Won't Fade Away",
       "url": "https://open.spotify.com/track/6c2Sn6SZwKvFhJhsGnZPfD"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Moment EP",
-        "url": "https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 401695,
-      "name": "Han Pan - Original Mix",
-      "url": "https://open.spotify.com/track/6z7Y23tSMqnHVDU51I3VjT"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Du rivage",
         "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 214733,
       "name": "Descends",
       "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Hustler's Lullaby",
-        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
+        "name": "DJ-Kicks EP",
+        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
       },
       "artists": [
         {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 314181,
-      "name": "Shinjuku Strut",
-      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+      "duration_ms": 275533,
+      "name": "Hungboo - DJ-Kicks",
+      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "DJ-Kicks EP",
-        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
+        "name": "Hustler's Lullaby",
+        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
         }
       ],
-      "duration_ms": 275533,
-      "name": "Hungboo - DJ-Kicks",
-      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
+      "duration_ms": 314181,
+      "name": "Shinjuku Strut",
+      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1595,30 +1595,6 @@
       "duration_ms": 181106,
       "name": "\u00c7a fait du bien - Polo & Pan Remix",
       "url": "https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "El Sabor del Viejo Mar",
-        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 263265,
-      "name": "El Sabor del Viejo Mar",
-      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1651,6 +1627,30 @@
       "duration_ms": 279676,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "El Sabor del Viejo Mar",
+        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 263265,
+      "name": "El Sabor del Viejo Mar",
+      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "Lindstrom & Prins Thomas",
         "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
       },
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
       },
@@ -1759,30 +1759,6 @@
       "duration_ms": 240000,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Discoman",
-        "url": "https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 220420,
-      "name": "Discoman",
-      "url": "https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1819,6 +1795,22 @@
       "duration_ms": 172453,
       "name": "Juice - Breakbot Mix",
       "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Mopedbart",
+        "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
+      },
+      "artists": [
+        {
+          "name": "Hubbabubbaklubb",
+          "url": "https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq"
+        }
+      ],
+      "duration_ms": 312200,
+      "name": "Mopedbart",
+      "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

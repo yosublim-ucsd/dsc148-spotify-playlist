@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 57140,
+  "num_followers": 57171,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzQ5ZDIzMDhjMjkwNzY0ZDljZjc4MzM0MDliMmY0ZDFjN2ExZWRi",
+  "snapshot_id": "MCxiMjAwNGIyNTMwMWM5MTg0YmRhZGJhYjVmOTY0MjFhNmM4YjQ2ZjM1",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -239,6 +239,26 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 361160,
+      "name": "Blurred - Bonobo Remix",
+      "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Atlas (Remixes)",
         "url": "https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 377738,
       "name": "Atlas - Adriatique Remix",
       "url": "https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Blurred",
-        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 361160,
-      "name": "Blurred - Bonobo Remix",
-      "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Mellowdramatic",
-        "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
-      },
-      "artists": [
-        {
-          "name": "A Forest Mighty Black",
-          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
-        }
-      ],
-      "duration_ms": 439160,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4CMOzNttliw41slRLQY6kL"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Arterial",
         "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 254962,
       "name": "Arterial",
       "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Mellowdramatic",
+        "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
+      },
+      "artists": [
+        {
+          "name": "A Forest Mighty Black",
+          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
+        }
+      ],
+      "duration_ms": 439160,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4CMOzNttliw41slRLQY6kL"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Ibb & Obb (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
+      },
+      "artists": [
+        {
+          "name": "Kettel",
+          "url": "https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp"
+        }
+      ],
+      "duration_ms": 154781,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "A Magic World (Remixes)",
         "url": "https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 365971,
       "name": "Letters - NTO Remix",
       "url": "https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Ibb & Obb (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
-      },
-      "artists": [
-        {
-          "name": "Kettel",
-          "url": "https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp"
-        }
-      ],
-      "duration_ms": 154781,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Hold Me To The Light",
-        "url": "https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI"
-      },
-      "artists": [
-        {
-          "name": "KAS:ST",
-          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
-        }
-      ],
-      "duration_ms": 474142,
-      "name": "The Hymn Of Fallen Dreams",
-      "url": "https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Caturne V - EP",
         "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 314445,
       "name": "Harmony - Original Mix",
       "url": "https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Hold Me To The Light",
+        "url": "https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        }
+      ],
+      "duration_ms": 474142,
+      "name": "The Hymn Of Fallen Dreams",
+      "url": "https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "When the Rain",
-        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
-      },
-      "artists": [
-        {
-          "name": "Trudge",
-          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
-        }
-      ],
-      "duration_ms": 400327,
-      "name": "Deep Eyes Blue Skies",
-      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "After & Before EP",
         "url": "https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Foans",
-        "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
+        "name": "When the Rain",
+        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
       "artists": [
         {
-          "name": "Foans",
-          "url": "https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb"
+          "name": "Trudge",
+          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
         }
       ],
-      "duration_ms": 276115,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
+      "duration_ms": 400327,
+      "name": "Deep Eyes Blue Skies",
+      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -927,6 +911,22 @@
       "duration_ms": 420465,
       "name": "What I Saw That Night",
       "url": "https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Foans",
+        "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
+      },
+      "artists": [
+        {
+          "name": "Foans",
+          "url": "https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb"
+        }
+      ],
+      "duration_ms": 276115,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "WWDKF",
+        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
+      },
+      "artists": [
+        {
+          "name": "Pilotpriest",
+          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
+        }
+      ],
+      "duration_ms": 344470,
+      "name": "Archive Seven",
+      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Toxic Temptation",
         "url": "https://open.spotify.com/album/2bTmTP8aBsiwY9ibFFtq6e"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "WWDKF",
-        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
+        "name": "Miracle Of The Rose EP",
+        "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
       },
       "artists": [
         {
-          "name": "Pilotpriest",
-          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
+          "name": "Denis Horvat",
+          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
         }
       ],
-      "duration_ms": 344470,
-      "name": "Archive Seven",
-      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
+      "duration_ms": 331486,
+      "name": "Miracle Of The Rose",
+      "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1015,22 +1031,6 @@
       "duration_ms": 376720,
       "name": "Vasudeva",
       "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Miracle Of The Rose EP",
-        "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
-      },
-      "artists": [
-        {
-          "name": "Denis Horvat",
-          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
-        }
-      ],
-      "duration_ms": 331486,
-      "name": "Miracle Of The Rose",
-      "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Dazed & Confused",
-        "url": "https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2"
-      },
-      "artists": [
-        {
-          "name": "Supernaive",
-          "url": "https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Opal Waltz",
-      "url": "https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Syvsover",
         "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Backstabber EP",
-        "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
+        "name": "Dazed & Confused",
+        "url": "https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2"
       },
       "artists": [
         {
-          "name": "Nachtbraker",
-          "url": "https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw"
+          "name": "Supernaive",
+          "url": "https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq"
         }
       ],
-      "duration_ms": 407038,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
+      "duration_ms": 223060,
+      "name": "Opal Waltz",
+      "url": "https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1167,6 +1151,22 @@
       "duration_ms": 331203,
       "name": "Bonder",
       "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Backstabber EP",
+        "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
+      },
+      "artists": [
+        {
+          "name": "Nachtbraker",
+          "url": "https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw"
+        }
+      ],
+      "duration_ms": 407038,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Two of Us",
-        "url": "https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 344978,
-      "name": "Trivia",
-      "url": "https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Aerial",
         "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "The Two of Us",
+        "url": "https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 344978,
+      "name": "Trivia",
+      "url": "https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
         "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Shift I - II",
-        "url": "https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX"
-      },
-      "artists": [
-        {
-          "name": "Coss",
-          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
-        }
-      ],
-      "duration_ms": 356571,
-      "name": "Shift II - Original Mix",
-      "url": "https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Mellowdramatic",
         "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 478373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Shift I - II",
+        "url": "https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX"
+      },
+      "artists": [
+        {
+          "name": "Coss",
+          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
+        }
+      ],
+      "duration_ms": 356571,
+      "name": "Shift II - Original Mix",
+      "url": "https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd"
     },
     {
       "added_at": "2022-07-15 17:34:15",

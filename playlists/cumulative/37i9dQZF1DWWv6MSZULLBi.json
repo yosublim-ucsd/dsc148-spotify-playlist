@@ -6104,7 +6104,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 225691,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6cglXxd6F4eWXr6nVXE2Ac"
@@ -7447,6 +7447,24 @@
     },
     {
       "album": {
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+    },
+    {
+      "album": {
         "name": "THE SUN & THE SEA (feat. Donovan Woods)",
         "url": "https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75"
       },
@@ -8685,6 +8703,24 @@
     },
     {
       "album": {
+        "name": "Wise Old Owl",
+        "url": "https://open.spotify.com/album/5Y5LTUkigNOMdVm7Ep7CSW"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91682,
+      "name": "Wise Old Owl",
+      "url": "https://open.spotify.com/track/7pvGhGX3wmSGpmEhMxKSse"
+    },
+    {
+      "album": {
         "name": "Wishbone",
         "url": "https://open.spotify.com/album/52s1OjYNTVAh86m6HXqipg"
       },
@@ -8768,7 +8804,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 261058,
       "name": "Yarrow Lover",
       "url": "https://open.spotify.com/track/0FNI6gZgDg0kxF5ukzbvCh"

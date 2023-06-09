@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Dad\u2019Algorhythm",
+        "url": "https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158720,
+      "name": "Dad\u2019Algorhythm",
+      "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
+    },
+    {
+      "album": {
         "name": "Dude Ranch",
         "url": "https://open.spotify.com/album/2CoVyQi2zIifUNBcVR0gEH"
       },
@@ -2727,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "I'm Feelin Alive",
+        "url": "https://open.spotify.com/album/2O9h13JUQR9Rl9y3lSutU9"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129147,
+      "name": "I'm Feelin Alive",
+      "url": "https://open.spotify.com/track/0ZdHUrfHYZpkmztomaDnIn"
+    },
+    {
+      "album": {
         "name": "Queens of the Stone Age",
         "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
       },
@@ -3336,7 +3372,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 203026,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
@@ -4936,7 +4972,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 170453,
       "name": "She's Kerosene",
       "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
@@ -5278,7 +5314,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 256533,
       "name": "Song #3",
       "url": "https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B"
@@ -5498,6 +5534,24 @@
       "duration_ms": 218806,
       "name": "Sunday Driver",
       "url": "https://open.spotify.com/track/4sFqnKblhJ1Q78T5DpCVYD"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194010,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS"
     },
     {
       "album": {

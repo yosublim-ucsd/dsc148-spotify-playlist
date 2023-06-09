@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 2044,
+  "num_followers": 2073,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWIwYjM0NmY5NGFiZjM4NjRjMGIyYjhkMzZjYzI4NmY2MTgzOTNk",
+  "snapshot_id": "MCxiYzA5MTdmYWVjODhlMzA5ODdhOTkwODg3OTVjYzJhZWE4NzYwMWEx",
   "tracks": [
     {
       "added_at": "2023-04-14 16:41:04",
@@ -687,18 +687,26 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "This Far by Grace",
-        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
+        "name": "Omeriwo",
+        "url": "https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP"
       },
       "artists": [
         {
-          "name": "Pastor Edwin Dadson",
-          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
+          "name": "Sammie Okposo",
+          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
+        },
+        {
+          "name": "Henrisoul",
+          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 293500,
-      "name": "This Far by Grace",
-      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
+      "duration_ms": 218384,
+      "name": "Omeriwo",
+      "url": "https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -735,42 +743,18 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Omeriwo",
-        "url": "https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP"
+        "name": "This Far by Grace",
+        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
       },
       "artists": [
         {
-          "name": "Sammie Okposo",
-          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
-        },
-        {
-          "name": "Henrisoul",
-          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Pastor Edwin Dadson",
+          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
         }
       ],
-      "duration_ms": 218384,
-      "name": "Omeriwo",
-      "url": "https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "On Top of the World",
-        "url": "https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        }
-      ],
-      "duration_ms": 289008,
-      "name": "Turn Me Around",
-      "url": "https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu"
+      "duration_ms": 293500,
+      "name": "This Far by Grace",
+      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -791,6 +775,22 @@
       "duration_ms": 258893,
       "name": "Green Land",
       "url": "https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "On Top of the World",
+        "url": "https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        }
+      ],
+      "duration_ms": 289008,
+      "name": "Turn Me Around",
+      "url": "https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Colours of Africa: Live in London",
-        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
-      },
-      "artists": [
-        {
-          "name": "Sonnie Badu",
-          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
-        }
-      ],
-      "duration_ms": 279764,
-      "name": "Afro Praise 1",
-      "url": "https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
         "name": "Bianule",
         "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 284080,
       "name": "Bianule",
       "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "Colours of Africa: Live in London",
+        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "duration_ms": 279764,
+      "name": "Afro Praise 1",
+      "url": "https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c"
     },
     {
       "added_at": "2023-04-14 16:41:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Brytiago
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,123 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,121 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 67 | [7D](https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [7D](https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS) | 3:56 |
 | 68 | [Conexiones](https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Conexiones](https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz) | 3:21 |
 | 69 | [Tu Favorito](https://open.spotify.com/track/3eqxzZ4BIGeyvmqbg49LFe) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Tu Favorito](https://open.spotify.com/album/5VoWV7iYUp5SbfiELfpARp) | 3:06 |
-| 70 | [Problem Childs](https://open.spotify.com/track/23Fmq949U38V5WpSbNS1N7) | [Fresy Franklin](https://open.spotify.com/artist/0y5H4Nr7bNWfBINIh8671t), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Problem Childs](https://open.spotify.com/album/2eIy6Vxoqwv7cDZooUU65D) | 3:58 |
-| 71 | [Guarida](https://open.spotify.com/track/19FjaZwowlzROovPliZty2) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Guarida](https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K) | 3:32 |
+| 70 | [Guarida](https://open.spotify.com/track/19FjaZwowlzROovPliZty2) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Guarida](https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K) | 3:32 |
+| 71 | [Problem Childs](https://open.spotify.com/track/23Fmq949U38V5WpSbNS1N7) | [Fresy Franklin](https://open.spotify.com/artist/0y5H4Nr7bNWfBINIh8671t), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Problem Childs](https://open.spotify.com/album/2eIy6Vxoqwv7cDZooUU65D) | 3:58 |
 | 72 | [Billetes de 100](https://open.spotify.com/track/1yBg48PZwiER3mXSRJFEhe) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 2:57 |
 | 73 | [Big Booty, Pretty Face](https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Big Booty, Pretty Face](https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl) | 3:47 |
 | 74 | [X Ley \(feat\. Dei V\) \- Remix](https://open.spotify.com/track/2A6Rt8ePgLDKRZaIrQ2UVh) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [X Ley \(feat\. Dei V\) \[Remix\]](https://open.spotify.com/album/2Ck9KM9NeS7Qx8CpH9ryrt) | 5:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Par de Tenis](https://open.spotify.com/track/7iGX6Xdi2EnYqBqvzEVEVC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:01 |
 | 100 | [Hoodie](https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Hoodie](https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb) | 4:10 |
 
-Snapshot ID: `MCxiMjAyZGZiODZlOTYwYWI2NDZmOTM0NjM4MDg1ODg1NjNiMzM3ZDVk`
+Snapshot ID: `MCw5OWI3NjYyYjAyNzE5MmJkNjczYjc0MDQ0NmY2OTQzN2M0MTVkODVh`

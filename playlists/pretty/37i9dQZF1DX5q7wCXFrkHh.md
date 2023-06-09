@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,014 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,091 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 38 | [The Awakening](https://open.spotify.com/track/4QC4XLTPHiSdexDsKO5Vi7) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 6:21 |
 | 39 | [High Wire](https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Ready Take One](https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM) | 3:47 |
 | 40 | [Dinah \(Take 2\)](https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Solo Monk \(Expanded Edition\)](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) | 2:28 |
-| 41 | [Embraceable You](https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 3:56 |
-| 42 | [Moonglow](https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Art Tatum Solo Masterpieces, Vol\. 1 \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW) | 2:58 |
+| 41 | [Moonglow](https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Art Tatum Solo Masterpieces, Vol\. 1 \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW) | 2:58 |
+| 42 | [Embraceable You](https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 3:56 |
 | 43 | [Köln, January 24, 1975, Pt\. II A \- Live](https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 14:54 |
 | 44 | [Tenderly](https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 3:34 |
 | 45 | [Gee Baby, Ain't I Good To You](https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 4:01 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 50 | [How Deep Is The Ocean](https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 3:33 |
 | 51 | [On The Street Where You Live](https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [The Shearing Piano](https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4) | 2:52 |
 | 52 | [Patterns](https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 6:18 |
-| 53 | [52nd Street Theme](https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 3:24 |
-| 54 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 |
+| 53 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 |
+| 54 | [52nd Street Theme](https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 3:24 |
 | 55 | [Armando's Rhumba](https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [My Spanish Heart](https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV) | 5:19 |
 | 56 | [Sophisticated Lady](https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 3:15 |
 | 57 | [Swahililand](https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Crystal](https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA) | 4:08 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 85 | [A Blue Time](https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Eclypso](https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT) | 6:14 |
 | 86 | [Vallåt från Jämtland](https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 1:54 |
 | 87 | [The Rich \(And The Poor\)](https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Treasure Island](https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX) | 9:26 |
-| 88 | [Rhythm\-A\-Ning](https://open.spotify.com/track/0IbD8xojkJgwh9lLu8hoxg) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Criss\-Cross \(Expanded Edition\)](https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI) | 3:53 |
-| 89 | [Contemplation](https://open.spotify.com/track/55GY76amiMF9wjAeto5vco) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 9:12 |
+| 88 | [Contemplation](https://open.spotify.com/track/55GY76amiMF9wjAeto5vco) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 9:12 |
+| 89 | [Rhythm\-A\-Ning](https://open.spotify.com/track/0IbD8xojkJgwh9lLu8hoxg) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Criss\-Cross \(Expanded Edition\)](https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI) | 3:53 |
 | 90 | [How High The Moon](https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn) | [Hank Jones Trio](https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U) | [The Trio](https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx) | 6:03 |
 | 91 | [Someday My Prince Will Come \- Take 5](https://open.spotify.com/track/4he1BZuN1pDPDjPqyuNOoS) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Someday My Prince Will Come](https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA) | 3:03 |
 | 92 | [Rain](https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 4:14 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 96 | [The Lady's In Love With You](https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Vince Guaraldi Trio](https://open.spotify.com/album/2dER90qO41LJ9pqRh3YG87) | 3:53 |
 | 97 | [Dawn Mist](https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb) | [Freddie Redd](https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV) | [Fishin' In Stockholm](https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21) | 2:51 |
 | 98 | [I Didn't Know What Time It Was](https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 6:31 |
-| 99 | [Little Girl Blue](https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The John Lewis Piano](https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA) | 4:29 |
-| 100 | [I'm Glad There Is You](https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:52 |
+| 99 | [Blind Man, Blind Man \- Remastered](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
+| 100 | [Little Girl Blue](https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The John Lewis Piano](https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA) | 4:29 |
 
-Snapshot ID: `MCw3NDJhMTc4MTQyYWNhODVmNmQwOTc4MmQ5YmJmNGU0YTg5YmQwZjc3`
+Snapshot ID: `MCxmY2E5MjEwMzcxYjA0YTlmN2U5NWFiYzdiNjkwNDU2Nzc4MmU5ZjE5`

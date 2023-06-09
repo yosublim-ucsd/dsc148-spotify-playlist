@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from The Weeknd, KAROL G, Burna Boy, and Foo Fighters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,043 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,082 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Travolta](https://open.spotify.com/track/5RbvYsWQFawnCUBwGI3bAl) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Travolta](https://open.spotify.com/album/4oKV9FaZsAvn4QbpgNLXFF) | 2:49 |
 | 100 | [Ultra Ray](https://open.spotify.com/track/3Txv04F3jEYlXBu7wBJhxY) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Ultra Ray](https://open.spotify.com/album/6zCI5ymc5IlN6IkxtrsQzx) | 4:51 |
 
-Snapshot ID: `MCxjNzRiMDUyNDg3YjYxMDI0MjkxMjNmNjZiOWI5ODlhY2QxMTYyNjEx`
+Snapshot ID: `MCw2NTk1N2E4ZDliZmYwNmMzOGZlNzI4OTNiODY2MWNkZWZjZGQ0YjA3`

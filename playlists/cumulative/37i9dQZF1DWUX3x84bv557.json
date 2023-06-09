@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Zo\u00eb Tauran (Spotify <a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR-artiest</a>) op de cover van de vernieuwde Je Moerstaal! ",
+  "description": "Antoon & Ronnie Flex op de cover van de vernieuwde Je Moerstaal! ",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 158129,
       "name": "Aan",
       "url": "https://open.spotify.com/track/5Yoe79keJ0xoIeYC4I9HLK"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 262868,
       "name": "Beloof Je Dat (Live in de Ziggo Dome)",
       "url": "https://open.spotify.com/track/70kfXjOOXt41h6c2zSj051"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 239346,
       "name": "De Trein",
       "url": "https://open.spotify.com/track/1OidDNOocNtPsNubhPpNG6"
@@ -1450,6 +1450,24 @@
       "duration_ms": 147708,
       "name": "gewoon een dag",
       "url": "https://open.spotify.com/track/0aG1rzJY6vbJ12JFvNuOFp"
+    },
+    {
+      "album": {
+        "name": "Glaasje Of 2",
+        "url": "https://open.spotify.com/album/5fuPi9z1GQW2FpeR9ZV09j"
+      },
+      "artists": [
+        {
+          "name": "Nobu",
+          "url": "https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123281,
+      "name": "Glaasje Of 2",
+      "url": "https://open.spotify.com/track/608bP3vB7pwjatfREMItX6"
     },
     {
       "album": {
@@ -1993,6 +2011,28 @@
     },
     {
       "album": {
+        "name": "Ik Wacht Op Jou (Je T'attends)",
+        "url": "https://open.spotify.com/album/7zgdKK2FHqwiq1HmAT0KMb"
+      },
+      "artists": [
+        {
+          "name": "Suzet Lichel",
+          "url": "https://open.spotify.com/artist/5RFg8in8qWOJ0MpTxeG1hW"
+        },
+        {
+          "name": "Langesjaak",
+          "url": "https://open.spotify.com/artist/16GFcI0Sl34ETwdcVuM0Mj"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Ik Wacht Op Jou (Je T'attends)",
+      "url": "https://open.spotify.com/track/6UoS8duz559g2V25wHv9VO"
+    },
+    {
+      "album": {
         "name": "Je leeft maar 1 keer",
         "url": "https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz"
       },
@@ -2181,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Laat Die Hoodie Maar Hangen",
+        "url": "https://open.spotify.com/album/4YgN9rdbto5MEEphIvVvL5"
+      },
+      "artists": [
+        {
+          "name": "Marc Floor",
+          "url": "https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146742,
+      "name": "Laat Die Hoodie Maar Hangen",
+      "url": "https://open.spotify.com/track/6nZwVhVHVq6kSfEpDMDrfh"
+    },
+    {
+      "album": {
         "name": "Laat Het Effe",
         "url": "https://open.spotify.com/album/6YW7e4vC5ytXUDG2IDoWUt"
       },
@@ -2196,6 +2254,24 @@
       "duration_ms": 203522,
       "name": "Laat Het Effe",
       "url": "https://open.spotify.com/track/2TpYFSFsDLK0Sd0QwoV7zV"
+    },
+    {
+      "album": {
+        "name": "Laat Me Dansen",
+        "url": "https://open.spotify.com/album/5Psg8RGP7f8EsKBdTd9N4S"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160438,
+      "name": "Laat Me Dansen",
+      "url": "https://open.spotify.com/track/5hhsnHxxfhYLh21gOm8bDc"
     },
     {
       "album": {
@@ -2610,7 +2686,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 157237,
       "name": "Moeilijk",
       "url": "https://open.spotify.com/track/3t1kY2rVGBGxFjUw1kxIdD"
@@ -3215,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "Mooie Tijden",
+        "url": "https://open.spotify.com/album/3pITXsF4pz5nAVWQQSYHSg"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255093,
+      "name": "Simpel Geluk",
+      "url": "https://open.spotify.com/track/7673y4rykqgauB3fQ4uT3q"
+    },
+    {
+      "album": {
         "name": "Slaaptekort",
         "url": "https://open.spotify.com/album/1WtIoJqoq9zHEMyTijSAV3"
       },
@@ -3450,7 +3544,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 169282,
       "name": "Te Goed Om Waar Te Zijn",
       "url": "https://open.spotify.com/track/5xROc7yMnVnPBuGw9bTCTK"
@@ -3959,6 +4053,24 @@
     },
     {
       "album": {
+        "name": "Wat Ik Met Je Moet",
+        "url": "https://open.spotify.com/album/5BnmpGWzBTpSo27O8uQCqF"
+      },
+      "artists": [
+        {
+          "name": "AMBER",
+          "url": "https://open.spotify.com/artist/44pmqyq9sUSOoXo0gyrmXe"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Wat Ik Met Je Moet",
+      "url": "https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM"
+    },
+    {
+      "album": {
         "name": "Wat Is Er Gebeurd",
         "url": "https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7"
       },
@@ -4054,7 +4166,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 251140,
       "name": "Ze Is Pas Net Begonnen (Leerstage / Werkstage)",
       "url": "https://open.spotify.com/track/3oZYSdQ1tCqi8uoRqGAext"

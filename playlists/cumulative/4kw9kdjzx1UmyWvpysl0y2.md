@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-493 songs - 1 day 4 hr 44 min
+494 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Moment Apart](https://open.spotify.com/track/4GWnEGVm89z7WSQ3BEuAN0) | [Matrx](https://open.spotify.com/artist/3UWM8Rb3JjZegw71LpCT6M) | [A Moment Apart](https://open.spotify.com/album/6tRgBvbPBZXCOaTPtv1Juz) | 3:34 | 2021-11-19 | 2022-02-19 |
 | [A Través del Tiempo Naranja](https://open.spotify.com/track/1VsQs5sy7vkeixrRmEIN91) | [Airdraw](https://open.spotify.com/artist/5aBN1E7wd2mJU0Ug8fG60K), [Jo.E](https://open.spotify.com/artist/1huIFRAUYkJ5VQ9GcXcUax) | [Océano Naranja](https://open.spotify.com/album/3QVXhWXUHXsVretMx71lb4) | 3:11 | 2021-11-19 | 2022-02-10 |
 | [About U](https://open.spotify.com/track/6j0aEMAR0VppYk39s1hnw8) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About U](https://open.spotify.com/album/7DaTzlcbwZ1ulJT6bYJare) | 3:18 | 2023-05-15 |  |
+| [Accelerate](https://open.spotify.com/track/61kmDZXjXGBWh8YnWjFCQY) | [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Accelerate](https://open.spotify.com/album/789y4j9o32eMfjaWAPsqyF) | 4:10 | 2023-06-08 |  |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-10 | 2023-02-08 |
 | [Addiction](https://open.spotify.com/track/0XM2m2WD4G0mpQqf3LpBGK) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Addiction](https://open.spotify.com/album/4Jf40Z8SdqGDIjDarkfMDL) | 3:03 | 2022-03-25 | 2022-06-08 |
 | [Afraid of the Dark \- hayve Remix](https://open.spotify.com/track/6TGxVTSPgXV65MCYcaFf3P) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Afraid of the Dark \(hayve Remix\)](https://open.spotify.com/album/5FSRhgzGRiuilD0okKKDct) | 4:04 | 2022-12-12 | 2023-03-15 |
@@ -374,7 +375,7 @@
 | [Sapphire](https://open.spotify.com/track/5eit9qX0tK8uLfz3PtGV3l) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Sapphire](https://open.spotify.com/album/7yjFesZrS1IuDwEfs2qe56) | 3:13 | 2023-01-11 | 2023-03-25 |
 | [Save Me](https://open.spotify.com/track/57qREwXYYpVtANx4Vldnux) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Save Me](https://open.spotify.com/album/0BzcyBDEuFW1q3fR8gSf7G) | 3:24 | 2022-08-15 | 2022-10-28 |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-11-19 | 2022-02-25 |
-| [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-16 |  |
+| [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-16 | 2023-06-09 |
 | [scars](https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [scars](https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES) | 3:25 | 2022-10-25 | 2023-01-13 |
 | [SCREAM](https://open.spotify.com/track/3qq89osKsMStTQABp8AQMc) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [SCREAM](https://open.spotify.com/album/6JW07jsKeDGok4VWxIFGYb) | 3:47 | 2023-05-09 |  |
 | [SCUMBAG](https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/4zzDlOcgTKHR7QiA1I6VHv) | 3:06 | 2022-06-16 | 2022-08-27 |

@@ -4,12 +4,13 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-341 songs - 18 hr 22 min
+346 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Certain Smile](https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [A Certain Smile](https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm) | 2:06 | 2022-06-08 |  |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-01-04 |  |
+| [A Gold Mine](https://open.spotify.com/track/35fRFE9tuodu0faHKmMStZ) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [A Gold Mine](https://open.spotify.com/album/3bwxkMrG2hvk8b5FkXLQ02) | 2:39 | 2023-06-08 |  |
 | [A Lonely Night](https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [A Lonely Night](https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj) | 2:08 | 2022-11-17 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0fmlfBRcoK9vpKPxzcykWX) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/2OijUYhZR1MMnlH0gjAgeH) | 4:04 | 2023-01-12 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2021-12-07 | 2022-11-25 |
@@ -86,6 +87,7 @@
 | [Elise](https://open.spotify.com/track/696BDrz9nIEdXTmLxTjm6Q) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Elise](https://open.spotify.com/album/08S5BBeRD6SNzKATObz1Hm) | 2:49 | 2022-10-27 |  |
 | [Embraceable You](https://open.spotify.com/track/4M83WIzH5cqPFqjnYwcji9) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Embraceable You](https://open.spotify.com/album/0wnfgpSxtv8UzL4n1f055H) | 3:22 | 2022-06-14 |  |
 | [Emily](https://open.spotify.com/track/0VhprMWn19tc19W04Vz5Gc) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [Emily](https://open.spotify.com/album/33gP7iGrdPMvuZGkWeZPzR) | 3:46 | 2023-03-09 |  |
+| [Entitled to it](https://open.spotify.com/track/0bwStnI8IMa1wFwC7yvufp) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Entitled to it](https://open.spotify.com/album/1sOY5lgk4il7M6zCOK0Dit) | 3:27 | 2023-06-08 |  |
 | [estate](https://open.spotify.com/track/18NxSIKcBgidhFiY37s9tC) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 4:20 | 2021-12-07 | 2022-08-10 |
 | [Estrellita](https://open.spotify.com/track/6WTafHZBYg3EdnYUq4K8ob) | [Julia Quincy](https://open.spotify.com/artist/4wmfIOZiwqduNeeo9lv3AS) | [Estrellita](https://open.spotify.com/album/3xHGD5TzQHhL1VA0fMWGZs) | 3:19 | 2023-01-19 |  |
 | [Even the Stars Envy You](https://open.spotify.com/track/4qRUqGrjmfp0Ng8ZLfNND5) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Even The Stars Envy You](https://open.spotify.com/album/2pJ5LiCawikMBLwHRdL1N7) | 2:21 | 2023-03-30 |  |
@@ -235,6 +237,7 @@
 | [Please, Stay](https://open.spotify.com/track/3kQAAjIpIMUtjEYkTiAX32) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Please, Stay](https://open.spotify.com/album/0jqSdbaSayvCUnm8irFAtv) | 2:30 | 2023-06-01 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/6LP9BZW28pX0k7jimKZHwI) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Polka Dots And Moonbeams](https://open.spotify.com/album/40pHngJ4KeyHmdnvr7GV21) | 3:45 | 2021-12-07 | 2022-09-15 |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/57vftsu5BB8muXDvzrMi0X) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Polka Dots And Moonbeams](https://open.spotify.com/album/5Zx45mRq599ivk5YMI55Gx) | 3:49 | 2023-03-30 |  |
+| [Poor Butterfly](https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [My Blue Heaven](https://open.spotify.com/album/0gdVpIK1SWCHzpFSaO34Bf) | 2:21 | 2023-06-08 |  |
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2021-12-07 |  |
 | [Quiet Now](https://open.spotify.com/track/6JciTIbmeoooRXZz741E8S) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [Quiet Now](https://open.spotify.com/album/33NWbG7zQYR3Fle9hw4JO2) | 2:48 | 2023-03-30 |  |
 | [Raindrops Keep Fallin' on My Head](https://open.spotify.com/track/5moutRXGRI4DnhZ9UKtcnv) | [Playing To Pitch In](https://open.spotify.com/artist/6TRj5grL3SgjzITEJyMOx5), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Raindrops Keep Fallin' on My Head](https://open.spotify.com/album/4UO6tHf2JzGt9vUwWmfM5R) | 1:54 | 2022-08-09 |  |
@@ -267,9 +270,10 @@
 | [Sometime Ago](https://open.spotify.com/track/27tlCFs00O17IvQMpdyBRs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Sometime Ago](https://open.spotify.com/album/4fKCHxdIRftSRH8A4uauwW) | 3:29 | 2022-08-09 |  |
 | [Somewhere Between](https://open.spotify.com/track/1Qiks2nkAG5WCpXgqclQ1f) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Somewhere Between](https://open.spotify.com/album/2C7bCiH5a0n9uQmfntiAF8) | 3:18 | 2022-06-28 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/26o8OLSxA9CpGLXZEqwS0y) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Somewhere Over The Rainbow](https://open.spotify.com/album/27YuGP0WcZhOOkUchV5yaz) | 3:36 | 2021-12-07 |  |
+| [Soon](https://open.spotify.com/track/3luZtWjidc0Pt03uGMJM6E) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Yesterdays](https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr) | 2:08 | 2023-06-08 |  |
 | [sophisticated lady](https://open.spotify.com/track/1bABWbuu9Rr4QofMm2PO5d) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 4:15 | 2021-12-07 | 2022-08-17 |
 | [Sort Of Sentimental](https://open.spotify.com/track/56Wvp4BvcVgAosMtz1dkuV) | [Luke Dunn](https://open.spotify.com/artist/6YgUGLXjlKPOLwjAH7homB) | [Sort Of Sentimental](https://open.spotify.com/album/5sPc2pe8CqCNaZzdyJThXO) | 3:05 | 2023-02-02 |  |
-| [Stairway to the Stars](https://open.spotify.com/track/3g0fAajWquZEairKQoYZ2z) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Stairway to the Stars](https://open.spotify.com/album/0JdR6CSFmhJRWt5uR8Xe8w) | 4:39 | 2021-12-07 |  |
+| [Stairway to the Stars](https://open.spotify.com/track/3g0fAajWquZEairKQoYZ2z) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Stairway to the Stars](https://open.spotify.com/album/0JdR6CSFmhJRWt5uR8Xe8w) | 4:39 | 2021-12-07 | 2023-06-09 |
 | [Star Eyes](https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Star Eyes](https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I) | 3:40 | 2022-09-29 |  |
 | [Stardust](https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [Stardust](https://open.spotify.com/album/6gFHzsqCH6ZJvGxHHnFeRL) | 5:03 | 2022-01-18 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Stars Fell On Alabama](https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO) | 4:21 | 2022-06-28 |  |
@@ -340,6 +344,7 @@
 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 | 2021-12-07 |  |
 | [Witchcraft](https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Witchcraft](https://open.spotify.com/album/5TVrp07TaKr7yDNSHu1FHT) | 4:07 | 2022-08-09 |  |
 | [Without A Song](https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Without A Song](https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU) | 4:20 | 2022-06-14 |  |
+| [Yesterdays](https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Yesterdays](https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr) | 2:37 | 2023-06-08 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 | 2021-12-07 |  |
 | [You Could Stay If You Want To](https://open.spotify.com/track/7161s2i9EU8DN8U95qLl8q) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [You Could Stay If You Want To](https://open.spotify.com/album/028nyeG5bPwDuBA8apckk9) | 3:18 | 2023-02-16 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/0QX4Wc3m1WlNxwEQqFmagK) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [You Don't Know What Love Is](https://open.spotify.com/album/3KdujtfsTqGw9eLtUDGnnz) | 3:42 | 2021-12-07 |  |

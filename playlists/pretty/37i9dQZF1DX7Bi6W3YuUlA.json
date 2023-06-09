@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 18408,
+  "num_followers": 18500,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDIxZThkNTIzMmI0ZmVkZDdlYmNhNTllNDhkOGFlNWVhZGNiMDE2",
+  "snapshot_id": "MCwxYzEyMjk4MDA5MDk1NmZhYjg0MDgzODQ5NDJkYTNmNmIyODUxOGU4",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "burn for u",
+        "url": "https://open.spotify.com/album/0l6g4tJ50aQJhO680P8hQz"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "duration_ms": 125566,
+      "name": "burn for u",
+      "url": "https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Respect My Team",
         "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 227741,
       "name": "Respect My Team",
       "url": "https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "burn for u",
-        "url": "https://open.spotify.com/album/0l6g4tJ50aQJhO680P8hQz"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        }
-      ],
-      "duration_ms": 125566,
-      "name": "burn for u",
-      "url": "https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -999,26 +999,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Stuff Back",
-        "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
+        "name": "Nino Brown",
+        "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
       },
       "artists": [
         {
           "name": "Red Tips",
           "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "Heavenz",
-          "url": "https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo"
-        },
-        {
-          "name": "Church",
-          "url": "https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW"
         }
       ],
-      "duration_ms": 193648,
-      "name": "Stuff Back",
-      "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
+      "duration_ms": 144093,
+      "name": "Nino Brown",
+      "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1151,34 +1143,26 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Nino Brown",
-        "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
+        "name": "Stuff Back",
+        "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
       },
       "artists": [
         {
           "name": "Red Tips",
           "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 144093,
-      "name": "Nino Brown",
-      "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "It Could Be Worse",
-        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
-      },
-      "artists": [
+        },
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "Heavenz",
+          "url": "https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo"
+        },
+        {
+          "name": "Church",
+          "url": "https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW"
         }
       ],
-      "duration_ms": 144021,
-      "name": "It Could Be Worse",
-      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+      "duration_ms": 193648,
+      "name": "Stuff Back",
+      "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1195,6 +1179,22 @@
       "duration_ms": 193685,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "It Could Be Worse",
+      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "PEACE OF MIND",
+        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 207876,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT"
       },
@@ -1299,26 +1315,6 @@
       "duration_ms": 156749,
       "name": "Put In Work",
       "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        }
-      ],
-      "duration_ms": 229324,
-      "name": "Libre (feat. Tommy Royale)",
-      "url": "https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1339,18 +1335,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "PEACE OF MIND",
-        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
         }
       ],
-      "duration_ms": 207876,
-      "name": "PEACE OF MIND",
-      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
+      "duration_ms": 229324,
+      "name": "Libre (feat. Tommy Royale)",
+      "url": "https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "H O L O G R A P H I C",
         "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
       },
@@ -1511,18 +1491,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Club Eden",
-        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
       },
       "artists": [
         {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
         }
       ],
-      "duration_ms": 145116,
-      "name": "Club Eden",
-      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
+      "duration_ms": 123478,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1543,6 +1527,22 @@
       "duration_ms": 247539,
       "name": "HUMAN",
       "url": "https://open.spotify.com/track/0JYHhhrkbLDqqV6qZBMwjb"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Club Eden",
+        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Club Eden",
+      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1887,18 +1887,26 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "97",
-        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
+        "name": "His Side",
+        "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
       },
       "artists": [
         {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        },
+        {
+          "name": "Donovan S Davis",
+          "url": "https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG"
         }
       ],
-      "duration_ms": 175217,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
+      "duration_ms": 168003,
+      "name": "His Side",
+      "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
     }
   ],
   "unique_name": "Blessings",

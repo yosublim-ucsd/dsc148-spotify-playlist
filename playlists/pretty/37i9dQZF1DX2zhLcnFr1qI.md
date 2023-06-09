@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,812 likes - 37 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,804 likes - 37 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 19 | [Turn Up Ye Merry Gentlemen](https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe) | [Gent & Jawns](https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 3:36 |
 | 20 | [I Wish \(feat\. Mabel\) \- Christmas Version](https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\) \[Christmas Version\]](https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy) | 3:20 |
 | 21 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/21LeppXMaq97x4IBvoIhzA) | [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:33 |
-| 22 | [Battle \- Cause & Affect Jingle Bells Remix](https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO) | [Riddim Commission](https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Cause & Affect](https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ) | [Battle \(Cause & Affect Jingle Bells Remix\)](https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1) | 2:37 |
+| 22 | [Last Christmas](https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Last Christmas](https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu) | 3:53 |
 | 23 | [Christmas Time](https://open.spotify.com/track/6sj3z36Jiy7vc8NIVgZlIb) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jeremy Oceans](https://open.spotify.com/artist/68JQHAhLjcIjEpResOAVrf) | [Christmas Time](https://open.spotify.com/album/1y3cgKPsRSDiUkh5FwCa9Z) | 3:27 |
-| 24 | [Last Christmas](https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Last Christmas](https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu) | 3:53 |
+| 24 | [Battle \- Cause & Affect Jingle Bells Remix](https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO) | [Riddim Commission](https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Cause & Affect](https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ) | [Battle \(Cause & Affect Jingle Bells Remix\)](https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1) | 2:37 |
 | 25 | [Do They Know It's Christmas](https://open.spotify.com/track/4AFTW65X9He0p8NONkBPy8) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Polina Vita](https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:55 |
 | 26 | [Jingle Bells](https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs) | [Wubbaduck](https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT) | [Jingle Bells](https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz) | 2:30 |
 | 27 | [Christmas Bounce](https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [Christmas Bounce](https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw) | 2:53 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 36 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
 | 37 | [Frosty Bounce](https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 1:44 |
 
-Snapshot ID: `MCw1NzE1ZjM4MGU4NDVkMTE3NDJiNWUyMGFiZGIwYzQyZGYzM2I0YzBh`
+Snapshot ID: `MCwwNTQ4YjczMzRlNDNhOGMwN2I2YjU3MGU5NzhiNTAxMGIwMzQxYWVh`

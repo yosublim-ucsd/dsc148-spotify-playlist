@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-520 songs - 1 day 4 hr 13 min
+521 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,8 @@
 | [Stuck in Traffic](https://open.spotify.com/track/6RKVaQhPzmtlDdcysWIV67) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Fair Exchange No Robbery](https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj) | 3:11 | 2022-09-30 | 2022-11-26 |
 | [Summer Goodbye](https://open.spotify.com/track/5IMH03AnrfH2KUxPyrrrLR) | [Steelo](https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Summer Goodbye](https://open.spotify.com/album/5biF1S1UbF2RbseSGbuBCf) | 2:47 | 2022-09-30 | 2023-01-06 |
 | [Sunday](https://open.spotify.com/track/4pg7v1l4E54OSfojSVa6RL) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Sunday](https://open.spotify.com/album/2m7woQW8imyUenD0BQyoyn) | 2:36 | 2023-03-10 |  |
-| [SWEETBiTTERS](https://open.spotify.com/track/3EHAdQRIZVHXClghHCKQqr) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 3:01 | 2023-05-05 |  |
+| [SWEETBiTTERS](https://open.spotify.com/track/3EHAdQRIZVHXClghHCKQqr) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 3:01 | 2023-05-05 | 2023-06-09 |
+| [SWEETBiTTERS](https://open.spotify.com/track/4RHzPXwOXw4LhPrruo4qst) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 3:01 | 2023-06-02 |  |
 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 | 2023-03-03 |  |
 | [Switch Up](https://open.spotify.com/track/6qyg5FzGDrmlADB85bM3mm) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Switch Up](https://open.spotify.com/album/0XZORXXb5RM7aPAmIqdMOq) | 3:34 | 2022-09-30 | 2022-12-17 |
 | [Tables Turn](https://open.spotify.com/track/1jRA4kpssddqi0W6D6efva) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Tables Turn](https://open.spotify.com/album/7KABJMQEJ3zu9R31eMDPBC) | 3:03 | 2023-01-06 | 2023-04-29 |

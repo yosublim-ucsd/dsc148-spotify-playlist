@@ -1,13 +1,333 @@
 {
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Brodha V",
-  "num_followers": 21154,
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde",
+  "num_followers": 21185,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDhjODYxZWNiNGFkMzI3MmMwMWM0MjdmYmI5NTAxNzlkMDIwYjlj",
+  "snapshot_id": "MCw2NTkwMTEzMTI4Njc4NjMxZDFmMDE1NjhiMDEwN2U4YTliODZiNWJj",
   "tracks": [
+    {
+      "added_at": "2023-06-08 06:08:18",
+      "album": {
+        "name": "Geejaga Hakki",
+        "url": "https://open.spotify.com/album/330gRfCGukj4u4WpucNpP4"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Charanraj",
+          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
+        },
+        {
+          "name": "Prassanna Hegde",
+          "url": "https://open.spotify.com/artist/0GXTpJPW41OHk5rTZCRDDy"
+        }
+      ],
+      "duration_ms": 205609,
+      "name": "Geejaga Hakki",
+      "url": "https://open.spotify.com/track/1u6vTH5nUSKaSTPJZJC81s"
+    },
+    {
+      "added_at": "2023-01-04 09:54:49",
+      "album": {
+        "name": "Nannusire",
+        "url": "https://open.spotify.com/album/5qLcmfn6W54grQN9mSHOWT"
+      },
+      "artists": [
+        {
+          "name": "Subhash Aras",
+          "url": "https://open.spotify.com/artist/6jYzo3r1YFrtigzHUqwXQZ"
+        },
+        {
+          "name": "Sharath",
+          "url": "https://open.spotify.com/artist/6ZEokyhrLMceIJsQnmAYup"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Nannusire",
+      "url": "https://open.spotify.com/track/6ASWvRVb8O7hSV26VGbech"
+    },
+    {
+      "added_at": "2023-03-13 04:50:48",
+      "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/0VXE7EcubunGAzkMQVTAQy"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Gagan SD",
+          "url": "https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP"
+        }
+      ],
+      "duration_ms": 197143,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/0opL1zxD6848uM3p2FTE3r"
+    },
+    {
+      "added_at": "2023-03-06 09:23:00",
+      "album": {
+        "name": "Nangansiddu - 2 (All Not Ok)",
+        "url": "https://open.spotify.com/album/0AestYNNi1FbqW7HHCT1OR"
+      },
+      "artists": [
+        {
+          "name": "Rahul Dit-O",
+          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+        }
+      ],
+      "duration_ms": 251911,
+      "name": "Nangansiddu - 2 (All Not Ok)",
+      "url": "https://open.spotify.com/track/7zCNppxwVR06aQFTbfssOL"
+    },
+    {
+      "added_at": "2022-09-09 05:23:48",
+      "album": {
+        "name": "Mallige Hoova",
+        "url": "https://open.spotify.com/album/7kkpWO8QqNZw7IAmgQfxVt"
+      },
+      "artists": [
+        {
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
+        },
+        {
+          "name": "Ashika Ranganath",
+          "url": "https://open.spotify.com/artist/4wexsazM0emf4VDAxSwIdp"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Mallige Hoova",
+      "url": "https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS"
+    },
+    {
+      "added_at": "2023-03-13 04:57:52",
+      "album": {
+        "name": "Mouna",
+        "url": "https://open.spotify.com/album/1sJRxkAhSj7VhukFLbcvBU"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Purohit",
+          "url": "https://open.spotify.com/artist/2hT9BPXOfxIpkHvyQjro4i"
+        },
+        {
+          "name": "Samuel Narendra",
+          "url": "https://open.spotify.com/artist/0mlMH3WO33o79nD5Z1kHgh"
+        },
+        {
+          "name": "Riyaz MN",
+          "url": "https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw"
+        }
+      ],
+      "duration_ms": 211058,
+      "name": "Mouna",
+      "url": "https://open.spotify.com/track/6dG12cvw63gOIxoTFBpSQI"
+    },
+    {
+      "added_at": "2023-02-15 12:14:38",
+      "album": {
+        "name": "Saako Maani Odiddu",
+        "url": "https://open.spotify.com/album/73QiTb4EmS5ca6BlWWllAt"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Karthik N B",
+          "url": "https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC"
+        },
+        {
+          "name": "Navya H",
+          "url": "https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU"
+        }
+      ],
+      "duration_ms": 193874,
+      "name": "Saako Maani Odiddu",
+      "url": "https://open.spotify.com/track/0UayXJ56vraoYYvkgtOvcz"
+    },
+    {
+      "added_at": "2022-11-02 01:46:09",
+      "album": {
+        "name": "Ibbani",
+        "url": "https://open.spotify.com/album/5BObiTpBbLQlv6ydqZPIQ5"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Navya H",
+          "url": "https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU"
+        }
+      ],
+      "duration_ms": 218398,
+      "name": "Ibbani",
+      "url": "https://open.spotify.com/track/1DkBaJyOG4T8JjCTdKMSb8"
+    },
+    {
+      "added_at": "2023-03-13 04:57:52",
+      "album": {
+        "name": "Mosagara",
+        "url": "https://open.spotify.com/album/2W45YvnUI9AqxCPjjNVNV7"
+      },
+      "artists": [
+        {
+          "name": "Surabhi Bhardwaj",
+          "url": "https://open.spotify.com/artist/4XwJY1c7hsYqdPOlCekSg4"
+        },
+        {
+          "name": "Kishore Vishwakarma",
+          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
+        }
+      ],
+      "duration_ms": 129412,
+      "name": "Mosagara",
+      "url": "https://open.spotify.com/track/6YqzNUpuzBj5TZjCvg6mNT"
+    },
+    {
+      "added_at": "2023-02-08 11:23:00",
+      "album": {
+        "name": "Chitte",
+        "url": "https://open.spotify.com/album/1WcuUUmAg61253UiWMITVq"
+      },
+      "artists": [
+        {
+          "name": "John On The Beat",
+          "url": "https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS"
+        },
+        {
+          "name": "Shastra",
+          "url": "https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34"
+        }
+      ],
+      "duration_ms": 178635,
+      "name": "Chitte",
+      "url": "https://open.spotify.com/track/1iHkAPfRqSMDZsKfyYMWS2"
+    },
+    {
+      "added_at": "2023-02-13 11:05:49",
+      "album": {
+        "name": "Namma Rasthe",
+        "url": "https://open.spotify.com/album/0ry4M5m4x5IE4Ia1SVtgt7"
+      },
+      "artists": [
+        {
+          "name": "Sagar Shastri",
+          "url": "https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Namma Rasthe",
+      "url": "https://open.spotify.com/track/7pIhLBRlXFKn2hBSGub0iA"
+    },
+    {
+      "added_at": "2023-01-31 09:49:10",
+      "album": {
+        "name": "Chance eh illa",
+        "url": "https://open.spotify.com/album/3thZfo5zYTNdHrQ0NZHt7C"
+      },
+      "artists": [
+        {
+          "name": "Abhilash Gupta",
+          "url": "https://open.spotify.com/artist/1BoGQCuyexXTqacYNHCN3M"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "Chance eh illa",
+      "url": "https://open.spotify.com/track/6IrzJUmkdrKSHq7KwHqnEh"
+    },
+    {
+      "added_at": "2022-10-25 07:43:45",
+      "album": {
+        "name": "Yaake Ni Heege?",
+        "url": "https://open.spotify.com/album/55RCaTpiNeCcpcGk6CwQRG"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Asher Mendonca",
+          "url": "https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr"
+        }
+      ],
+      "duration_ms": 179258,
+      "name": "Yaake Ni Heege?",
+      "url": "https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX"
+    },
+    {
+      "added_at": "2022-09-16 05:18:51",
+      "album": {
+        "name": "Samaya",
+        "url": "https://open.spotify.com/album/1rS1YaKDlPKGJhWZZK7kv1"
+      },
+      "artists": [
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "duration_ms": 223781,
+      "name": "Samaya",
+      "url": "https://open.spotify.com/track/20BJuCXShibTVncYK69A65"
+    },
+    {
+      "added_at": "2023-01-12 05:18:15",
+      "album": {
+        "name": "Jagatthu",
+        "url": "https://open.spotify.com/album/31GY7jUvoTbSneAchHuuMR"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/54X5dZUsZQTj6bJxFs4lg1"
+        },
+        {
+          "name": "GRV",
+          "url": "https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Jagatthu",
+      "url": "https://open.spotify.com/track/5ubqj7xBDKK8J9uAr9bs30"
+    },
+    {
+      "added_at": "2023-06-08 06:08:18",
+      "album": {
+        "name": "O Priya",
+        "url": "https://open.spotify.com/album/1nZighCTs9RhIBA5gGlxsK"
+      },
+      "artists": [
+        {
+          "name": "Pushpa Aradhya",
+          "url": "https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i"
+        },
+        {
+          "name": "Ismail Attar",
+          "url": "https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "O Priya",
+      "url": "https://open.spotify.com/track/0zM0oVvm8YBCdirTyPMAx2"
+    },
     {
       "added_at": "2022-12-09 12:52:23",
       "album": {
@@ -301,26 +621,6 @@
       "url": "https://open.spotify.com/track/2J9fnmKHJcOKmIgt8IXqe5"
     },
     {
-      "added_at": "2022-09-09 05:23:48",
-      "album": {
-        "name": "Mallige Hoova",
-        "url": "https://open.spotify.com/album/7kkpWO8QqNZw7IAmgQfxVt"
-      },
-      "artists": [
-        {
-          "name": "All Ok",
-          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
-        },
-        {
-          "name": "Ashika Ranganath",
-          "url": "https://open.spotify.com/artist/4wexsazM0emf4VDAxSwIdp"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Mallige Hoova",
-      "url": "https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS"
-    },
-    {
       "added_at": "2023-04-28 12:48:21",
       "album": {
         "name": "Move Shawty",
@@ -489,22 +789,6 @@
       "url": "https://open.spotify.com/track/1hfUSMzucr5vntMJcuUeGm"
     },
     {
-      "added_at": "2023-03-06 09:23:00",
-      "album": {
-        "name": "Nangansiddu - 2 (All Not Ok)",
-        "url": "https://open.spotify.com/album/0AestYNNi1FbqW7HHCT1OR"
-      },
-      "artists": [
-        {
-          "name": "Rahul Dit-O",
-          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
-        }
-      ],
-      "duration_ms": 251911,
-      "name": "Nangansiddu - 2 (All Not Ok)",
-      "url": "https://open.spotify.com/track/7zCNppxwVR06aQFTbfssOL"
-    },
-    {
       "added_at": "2023-03-28 05:06:49",
       "album": {
         "name": "Top Dawg (Red Bull 64 Bars)",
@@ -559,42 +843,6 @@
       "duration_ms": 166744,
       "name": "Stacks",
       "url": "https://open.spotify.com/track/3j8Okv8qvgtNgTGQ7MGplv"
-    },
-    {
-      "added_at": "2023-04-12 12:03:27",
-      "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/53V4IN0tZJE74Cxt3CIsOv"
-      },
-      "artists": [
-        {
-          "name": "Sachin Suri",
-          "url": "https://open.spotify.com/artist/6YY1ho1om7CaoKvvYc9Sw5"
-        }
-      ],
-      "duration_ms": 159396,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/2lpDO8UTGW6CPEZE4y7vir"
-    },
-    {
-      "added_at": "2023-04-14 09:49:11",
-      "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/24iuXtQnq7fa6XV75ZkZxS"
-      },
-      "artists": [
-        {
-          "name": "Derrick You Kno Me",
-          "url": "https://open.spotify.com/artist/7FLBUmEZsWCSPMcHO8Xcm3"
-        },
-        {
-          "name": "MC Thrift",
-          "url": "https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC"
-        }
-      ],
-      "duration_ms": 180073,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/0d20BQIXw2xUKXQMRJoQRz"
     },
     {
       "added_at": "2023-02-13 11:05:49",
@@ -725,50 +973,6 @@
       "url": "https://open.spotify.com/track/2A8xmguW2nqhZqOxmSk4Nu"
     },
     {
-      "added_at": "2023-01-12 05:18:15",
-      "album": {
-        "name": "Jagatthu",
-        "url": "https://open.spotify.com/album/31GY7jUvoTbSneAchHuuMR"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Karna",
-          "url": "https://open.spotify.com/artist/54X5dZUsZQTj6bJxFs4lg1"
-        },
-        {
-          "name": "GRV",
-          "url": "https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Jagatthu",
-      "url": "https://open.spotify.com/track/5ubqj7xBDKK8J9uAr9bs30"
-    },
-    {
-      "added_at": "2023-03-13 04:50:48",
-      "album": {
-        "name": "Baby Girl",
-        "url": "https://open.spotify.com/album/0VXE7EcubunGAzkMQVTAQy"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Gagan SD",
-          "url": "https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP"
-        }
-      ],
-      "duration_ms": 197143,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/0opL1zxD6848uM3p2FTE3r"
-    },
-    {
       "added_at": "2023-03-08 07:58:25",
       "album": {
         "name": "Matthe Meravanige",
@@ -873,30 +1077,6 @@
       "url": "https://open.spotify.com/track/7HkGqzq6taygvr8nCO721g"
     },
     {
-      "added_at": "2023-03-13 04:57:52",
-      "album": {
-        "name": "Mouna",
-        "url": "https://open.spotify.com/album/1sJRxkAhSj7VhukFLbcvBU"
-      },
-      "artists": [
-        {
-          "name": "Sanjay Purohit",
-          "url": "https://open.spotify.com/artist/2hT9BPXOfxIpkHvyQjro4i"
-        },
-        {
-          "name": "Samuel Narendra",
-          "url": "https://open.spotify.com/artist/0mlMH3WO33o79nD5Z1kHgh"
-        },
-        {
-          "name": "Riyaz MN",
-          "url": "https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw"
-        }
-      ],
-      "duration_ms": 211058,
-      "name": "Mouna",
-      "url": "https://open.spotify.com/track/6dG12cvw63gOIxoTFBpSQI"
-    },
-    {
       "added_at": "2023-01-17 04:09:36",
       "album": {
         "name": "Test drive (featuring Swastik)",
@@ -937,26 +1117,6 @@
       "url": "https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN"
     },
     {
-      "added_at": "2023-03-13 04:57:52",
-      "album": {
-        "name": "Mosagara",
-        "url": "https://open.spotify.com/album/2W45YvnUI9AqxCPjjNVNV7"
-      },
-      "artists": [
-        {
-          "name": "Surabhi Bhardwaj",
-          "url": "https://open.spotify.com/artist/4XwJY1c7hsYqdPOlCekSg4"
-        },
-        {
-          "name": "Kishore Vishwakarma",
-          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
-        }
-      ],
-      "duration_ms": 129412,
-      "name": "Mosagara",
-      "url": "https://open.spotify.com/track/6YqzNUpuzBj5TZjCvg6mNT"
-    },
-    {
       "added_at": "2023-03-01 10:28:31",
       "album": {
         "name": "FALLIN DOWN",
@@ -995,30 +1155,6 @@
     {
       "added_at": "2023-02-15 12:14:38",
       "album": {
-        "name": "Saako Maani Odiddu",
-        "url": "https://open.spotify.com/album/73QiTb4EmS5ca6BlWWllAt"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Karthik N B",
-          "url": "https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC"
-        },
-        {
-          "name": "Navya H",
-          "url": "https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU"
-        }
-      ],
-      "duration_ms": 193874,
-      "name": "Saako Maani Odiddu",
-      "url": "https://open.spotify.com/track/0UayXJ56vraoYYvkgtOvcz"
-    },
-    {
-      "added_at": "2023-02-15 12:14:38",
-      "album": {
         "name": "Hrudhaya",
         "url": "https://open.spotify.com/album/17ipKkqA6aMzls60vOtOx0"
       },
@@ -1041,22 +1177,6 @@
       "url": "https://open.spotify.com/track/0BsTSbYtsd9heOm28EOb8G"
     },
     {
-      "added_at": "2023-02-13 11:05:49",
-      "album": {
-        "name": "Namma Rasthe",
-        "url": "https://open.spotify.com/album/0ry4M5m4x5IE4Ia1SVtgt7"
-      },
-      "artists": [
-        {
-          "name": "Sagar Shastri",
-          "url": "https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Namma Rasthe",
-      "url": "https://open.spotify.com/track/7pIhLBRlXFKn2hBSGub0iA"
-    },
-    {
       "added_at": "2023-01-18 14:02:38",
       "album": {
         "name": "Maha Ganapathim",
@@ -1073,42 +1193,6 @@
       "url": "https://open.spotify.com/track/0DY2HqSTGGBtTFKfsshNYd"
     },
     {
-      "added_at": "2023-01-31 09:49:10",
-      "album": {
-        "name": "Chance eh illa",
-        "url": "https://open.spotify.com/album/3thZfo5zYTNdHrQ0NZHt7C"
-      },
-      "artists": [
-        {
-          "name": "Abhilash Gupta",
-          "url": "https://open.spotify.com/artist/1BoGQCuyexXTqacYNHCN3M"
-        }
-      ],
-      "duration_ms": 186285,
-      "name": "Chance eh illa",
-      "url": "https://open.spotify.com/track/6IrzJUmkdrKSHq7KwHqnEh"
-    },
-    {
-      "added_at": "2023-02-08 11:23:00",
-      "album": {
-        "name": "Chitte",
-        "url": "https://open.spotify.com/album/1WcuUUmAg61253UiWMITVq"
-      },
-      "artists": [
-        {
-          "name": "John On The Beat",
-          "url": "https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS"
-        },
-        {
-          "name": "Shastra",
-          "url": "https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34"
-        }
-      ],
-      "duration_ms": 178635,
-      "name": "Chitte",
-      "url": "https://open.spotify.com/track/1iHkAPfRqSMDZsKfyYMWS2"
-    },
-    {
       "added_at": "2022-11-15 10:35:00",
       "album": {
         "name": "Neene Illade",
@@ -1123,26 +1207,6 @@
       "duration_ms": 203750,
       "name": "Neene Illade",
       "url": "https://open.spotify.com/track/6lo8HaKpbucdA2eGaHFSYs"
-    },
-    {
-      "added_at": "2023-01-04 09:54:49",
-      "album": {
-        "name": "Nannusire",
-        "url": "https://open.spotify.com/album/5qLcmfn6W54grQN9mSHOWT"
-      },
-      "artists": [
-        {
-          "name": "Subhash Aras",
-          "url": "https://open.spotify.com/artist/6jYzo3r1YFrtigzHUqwXQZ"
-        },
-        {
-          "name": "Sharath",
-          "url": "https://open.spotify.com/artist/6ZEokyhrLMceIJsQnmAYup"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Nannusire",
-      "url": "https://open.spotify.com/track/6ASWvRVb8O7hSV26VGbech"
     },
     {
       "added_at": "2022-12-15 18:38:04",
@@ -1221,46 +1285,6 @@
       "url": "https://open.spotify.com/track/5W1wfINyvzgflRPjbqDpA2"
     },
     {
-      "added_at": "2022-10-25 07:43:45",
-      "album": {
-        "name": "Yaake Ni Heege?",
-        "url": "https://open.spotify.com/album/55RCaTpiNeCcpcGk6CwQRG"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Asher Mendonca",
-          "url": "https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr"
-        }
-      ],
-      "duration_ms": 179258,
-      "name": "Yaake Ni Heege?",
-      "url": "https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX"
-    },
-    {
-      "added_at": "2022-11-02 01:46:09",
-      "album": {
-        "name": "Ibbani",
-        "url": "https://open.spotify.com/album/5BObiTpBbLQlv6ydqZPIQ5"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Navya H",
-          "url": "https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU"
-        }
-      ],
-      "duration_ms": 218398,
-      "name": "Ibbani",
-      "url": "https://open.spotify.com/track/1DkBaJyOG4T8JjCTdKMSb8"
-    },
-    {
       "added_at": "2022-10-14 12:39:44",
       "album": {
         "name": "Beesuva Gaali (SKODA Deccan Beats)",
@@ -1327,22 +1351,6 @@
       "duration_ms": 215998,
       "name": "Nina Myaale",
       "url": "https://open.spotify.com/track/1DeCiMxWuLboZByKwPgrvz"
-    },
-    {
-      "added_at": "2022-09-16 05:18:51",
-      "album": {
-        "name": "Samaya",
-        "url": "https://open.spotify.com/album/1rS1YaKDlPKGJhWZZK7kv1"
-      },
-      "artists": [
-        {
-          "name": "Karna",
-          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
-        }
-      ],
-      "duration_ms": 223781,
-      "name": "Samaya",
-      "url": "https://open.spotify.com/track/20BJuCXShibTVncYK69A65"
     },
     {
       "added_at": "2022-10-12 07:27:40",

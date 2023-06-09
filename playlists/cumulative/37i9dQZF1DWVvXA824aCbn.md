@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-414 songs - 1 day 3 hr 5 min
+415 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 |  |
 | [Never Let Me Go](https://open.spotify.com/track/3jBc8ArlFCzEKc7nATMJUO) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Setting Standards \- The New York Sessions](https://open.spotify.com/album/1C9O7ymr3OoPhu60riKr8m) | 7:49 | 2021-01-21 | 2021-06-18 |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2021-07-02 |  |
+| [Newspapers Heads](https://open.spotify.com/track/5Zthx9hZRFSJRhO0UEi8Ox) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Newspapers Heads](https://open.spotify.com/album/7tuJ3IScGPnWvBio5JV98x) | 4:02 | 2023-06-08 |  |
 | [Next to Nothing](https://open.spotify.com/track/3NSUJkVYfauEwgNlhJinXF) | [Jacob De La Rose](https://open.spotify.com/artist/4fe6kAGXzfd9qBI1z4cwjj) | [Next to Nothing](https://open.spotify.com/album/0aUgCD4UfCBXhuz0uBtT5z) | 3:27 | 2020-10-20\* | 2021-01-21 |
 | [Nightmood](https://open.spotify.com/track/4ditrMy34cshzgGWwTc7bH) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Nightmood](https://open.spotify.com/album/36gnW9zzfAOMX61z76ey9b) | 3:44 | 2020-10-20\* | 2020-11-18 |
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-02-02 |  |
@@ -364,7 +365,7 @@
 | [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/1Rab1YE126dcp1JpT7JRHm) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 5:59 | 2020-10-20\* | 2022-11-02 |
 | [The Way You Look Tonight](https://open.spotify.com/track/7l4tE0xjccA4ZLl8pDOJ83) | [The Blue Phone Trio](https://open.spotify.com/artist/1PVrO6XKRJbrZdtuxVk1E9) | [Tenor Madness](https://open.spotify.com/album/40vcqBldcf88vO77OOPgQC) | 5:35 | 2020-10-20\* | 2020-12-09 |
-| [The Wind](https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [The Wind](https://open.spotify.com/album/0Cy8DQQxtghkO1DrxydU4M) | 3:57 | 2022-04-01 |  |
+| [The Wind](https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [The Wind](https://open.spotify.com/album/0Cy8DQQxtghkO1DrxydU4M) | 3:57 | 2022-04-01 | 2023-06-09 |
 | [The Workers](https://open.spotify.com/track/1oXb2a7joQ4cre3t2W24hu) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [The Workers](https://open.spotify.com/album/3yW4cbRuICHZRsPCfHRSr0) | 3:26 | 2022-10-27 |  |
 | [Theme for Ernie](https://open.spotify.com/track/7BBjGMkN02GH8apJ7hobZp) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Manhattan](https://open.spotify.com/album/11M7ItdqUALh6mbcE8I2Rs) | 5:16 | 2021-02-03 | 2022-07-04 |
 | [There Will Never Be Another You](https://open.spotify.com/track/5mJK27i7xPE9Whf5WdXGOx) | [Gerald McCarthy](https://open.spotify.com/artist/3cw2WUJF88MB3xRS3VHU9a) | [There Will Never Be Another You](https://open.spotify.com/album/3qF2MbH2rh7QCMheIJXWk0) | 3:00 | 2020-12-02 | 2021-01-21 |

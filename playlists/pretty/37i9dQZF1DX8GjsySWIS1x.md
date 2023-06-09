@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gamer music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,445 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,562 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 2 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
 | 3 | [Out Of The Rain](https://open.spotify.com/track/27xLRjNOZM0vrLkiwMtAsA) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Out Of The Rain](https://open.spotify.com/album/2lz42JvrrwvTr4yKYpODLY) | 3:13 |
 | 4 | [The Bomb](https://open.spotify.com/track/4eYmH4Sh0ibdU9nmnbu7aM) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj) | [Dragon Slayer](https://open.spotify.com/album/00qOCzVYbnem6uVcHqVktz) | 3:23 |
-| 5 | [Demon \(featuring $NOT\)](https://open.spotify.com/track/4OGkTQRmsTjodBox6nMzFU) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/2zhQ0DnZfURZJpHv3HGgw7) | 1:39 |
+| 5 | [Demon \(featuring $NOT\)](https://open.spotify.com/track/4OGkTQRmsTjodBox6nMzFU) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/2zhQ0DnZfURZJpHv3HGgw7) | 1:39 |
 | 6 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 |
 | 7 | [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 |
 | 8 | [Party People](https://open.spotify.com/track/76PQc7doSlZ2ytD7M21Apo) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [The Vibe Trillionaires](https://open.spotify.com/artist/2ChPvjFuvqOs9ezyG24HEV) | [Party People](https://open.spotify.com/album/6xtnCpTxexx1KtyGDRl4j0) | 2:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 69 | [Tarantino](https://open.spotify.com/track/4JfaAGQUBwFU886lRnPQIQ) | [Teflon Sega](https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X), [OZZIE](https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p) | [Tarantino](https://open.spotify.com/album/4YFETS96ebbE1JzttOofco) | 3:41 |
 | 70 | [NO MIND](https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [NO MIND](https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b) | 2:52 |
 
-Snapshot ID: `MCw2YmNjZWJjMGE2YjNkYTJlOGU3MTM5NGM0NGY5NDg4MDZjM2ViMmRm`
+Snapshot ID: `MCw3YTVhODljMzM1MjIzNjMzMmJhNjQ0OWMzYmYxM2I1YzhjMWEwNWE0`

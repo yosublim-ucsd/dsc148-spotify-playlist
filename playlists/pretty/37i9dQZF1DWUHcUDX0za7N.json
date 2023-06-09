@@ -1,18 +1,18 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=mlZfmPywQpOC8XcCxcvRsw\"> Boj </a> ",
-  "num_followers": 20421,
+  "num_followers": 20465,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjc1Y2I2Y2M0MjQyOWY5NzZmZjE2ZGI3OGRmNzViMjE2YTU1NmQ2",
+  "snapshot_id": "MCw3OTAzNTU0ZmZjZDA2Y2QwMTZmNmIwYjNmZjc0ZTBlNmIxNGYxZjVi",
   "tracks": [
     {
       "added_at": "2023-06-02 10:47:16",
       "album": {
-        "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
-        "url": "https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H"
+        "name": "DOG EAT DOG II",
+        "url": "https://open.spotify.com/album/3teR99N0boYIvWfEm59CZB"
       },
       "artists": [
         {
@@ -29,8 +29,8 @@
         }
       ],
       "duration_ms": 240000,
-      "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
-      "url": "https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V"
+      "name": "DOG EAT DOG II",
+      "url": "https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm"
     },
     {
       "added_at": "2023-06-02 10:47:16",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-06-02 10:47:16",
       "album": {
-        "name": "PARA",
-        "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
-      },
-      "artists": [
-        {
-          "name": "Kid MARLEY",
-          "url": "https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "PARA",
-      "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
-    },
-    {
-      "added_at": "2023-06-02 10:47:16",
-      "album": {
         "name": "Shina Peters",
         "url": "https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 166000,
       "name": "Shina Peters",
       "url": "https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J"
+    },
+    {
+      "added_at": "2023-06-02 10:47:16",
+      "album": {
+        "name": "PARA",
+        "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
+      },
+      "artists": [
+        {
+          "name": "Kid MARLEY",
+          "url": "https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "PARA",
+      "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
     },
     {
       "added_at": "2023-06-02 10:47:16",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-06-02 10:47:16",
       "album": {
-        "name": "Pot Of Stew",
-        "url": "https://open.spotify.com/album/7wSOzsCfac5crudnU3ne8O"
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
       },
       "artists": [
         {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
         }
       ],
-      "duration_ms": 108066,
-      "name": "Pot Of Stew",
-      "url": "https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd"
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
     },
     {
       "added_at": "2023-06-02 10:47:16",
@@ -1111,6 +1111,22 @@
       "duration_ms": 189231,
       "name": "Yakubu",
       "url": "https://open.spotify.com/track/65CrCMwhTnHJiZ9TK1cFyV"
+    },
+    {
+      "added_at": "2023-06-02 10:47:16",
+      "album": {
+        "name": "Pot Of Stew",
+        "url": "https://open.spotify.com/album/7wSOzsCfac5crudnU3ne8O"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "duration_ms": 108066,
+      "name": "Pot Of Stew",
+      "url": "https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd"
     },
     {
       "added_at": "2023-06-02 10:47:16",
@@ -1139,42 +1155,6 @@
     {
       "added_at": "2023-06-02 10:47:16",
       "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
-    },
-    {
-      "added_at": "2023-06-02 10:47:16",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
-      },
-      "artists": [
-        {
-          "name": "A-Q",
-          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 201897,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
-    },
-    {
-      "added_at": "2023-06-02 10:47:16",
-      "album": {
         "name": "Go German",
         "url": "https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 178285,
       "name": "Go German",
       "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
+    },
+    {
+      "added_at": "2023-06-02 10:47:16",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
+      },
+      "artists": [
+        {
+          "name": "A-Q",
+          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 201897,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
     },
     {
       "added_at": "2023-06-02 10:47:16",
@@ -1395,22 +1395,22 @@
     {
       "added_at": "2023-06-02 10:47:16",
       "album": {
-        "name": "Omo X 100",
-        "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
+        "name": "234 (PRBLMS)",
+        "url": "https://open.spotify.com/album/5PYhGPNQLtnQSawhjaHzq3"
       },
       "artists": [
         {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+          "name": "2AAB",
+          "url": "https://open.spotify.com/artist/0INY0RufOyabGf8TT1hgRC"
         },
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         }
       ],
-      "duration_ms": 126750,
-      "name": "Omo X 100",
-      "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
+      "duration_ms": 179200,
+      "name": "234 (PRBLMS)",
+      "url": "https://open.spotify.com/track/1uXvDZoNNJmXPNt6dGJ9fV"
     }
   ],
   "unique_name": "Naija Bars ",

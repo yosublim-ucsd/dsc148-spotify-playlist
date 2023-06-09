@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Deepika Seth , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,261 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,278 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Banja Beimaan](https://open.spotify.com/track/4F6hIftaEtiZqX7O9qohUo) | [Siddharth Agarwal](https://open.spotify.com/artist/0khYzwgAKUdtcnxx3ETNRs) | [Banja Beimaan](https://open.spotify.com/album/5iiyu8Old8pPtzM0HULCVE) | 4:32 |
 | 100 | [Third Degree Burns](https://open.spotify.com/track/1mqnmmh46GYzTkJrKl4NJE) | [Palaq](https://open.spotify.com/artist/4iFnBgFGTFdnxiD73QqTxE), [ATHRV](https://open.spotify.com/artist/1Qdg9IrqdbU1J2TG7ORCHx) | [Third Degree Burns](https://open.spotify.com/album/61iUftkbcW3ybfMrU74ipo) | 2:43 |
 
-Snapshot ID: `MCwzNGE1ODkwZDhkZWI5YjdhMzljNTI2ODNjZGRiZjE5MmJjNzEwZGZj`
+Snapshot ID: `MCw1NWU1ODI1ODk4NTJkNDY4ZWYxMTM4NmE3MjQ1MjA2YzBjMjY1MDAx`

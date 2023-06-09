@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 43335,
+  "num_followers": 43369,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzA1NmJkNjIyMDdlNWY5YThmZDQxNDljYTU3ZjJhZDQ1MTA2ZjAz",
+  "snapshot_id": "MCxmZWYwMjUxMTQ0OGQ3N2M1ZjJmOGE0NDMzYmIyNmZmZjYzNGRiY2I1",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Pride Classics",
+        "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 326586,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Step II",
         "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 339946,
       "name": "Keep On Jumpin'",
       "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Pride Classics",
-        "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 326586,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 360506,
-      "name": "Touch Me In The Morning",
-      "url": "https://open.spotify.com/track/4RoYXfnJ0HHDPUDAlrXDPa"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "The Changing Of The Gard",
         "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 317933,
       "name": "Wear It Out",
       "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 360506,
+      "name": "Touch Me In The Morning",
+      "url": "https://open.spotify.com/track/4RoYXfnJ0HHDPUDAlrXDPa"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
-        "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
-      },
-      "artists": [
-        {
-          "name": "Elbow Bones And The Racketeers",
-          "url": "https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj"
-        }
-      ],
-      "duration_ms": 261293,
-      "name": "A Night in New York - Remastered",
-      "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
+        "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
+      },
+      "artists": [
+        {
+          "name": "Elbow Bones And The Racketeers",
+          "url": "https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "A Night in New York - Remastered",
+      "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
     },
     {
       "added_at": "2022-12-31 00:39:45",

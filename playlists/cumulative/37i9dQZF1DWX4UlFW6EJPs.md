@@ -2,7 +2,7 @@
 
 ### [The Last of Us Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWX4UlFW6EJPs)
 
-> Save who you can save\. Listen to music from and inspired by The Last of Us, new episodes streaming Sundays on HBO Max.
+> Save who you can save\. Listen to music from and inspired by The Last of Us, now streaming on Max.
 
 117 songs - 4 hr 14 min
 

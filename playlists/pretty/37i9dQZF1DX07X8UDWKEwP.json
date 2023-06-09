@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Natti Natasha",
-  "num_followers": 253110,
+  "num_followers": 253162,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2EyNjgzY2ViNWNhMzRkODdjN2U3M2ZmMWRlOWEwMjJlNDdlODIx",
+  "snapshot_id": "MCxkNTAwZGFkMGE0YzgzODVkMjZhMGRmZjk5ODIyYTBlODhhOTJkYjY3",
   "tracks": [
     {
       "added_at": "2023-06-08 02:01:02",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-06-08 02:01:02",
       "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "duration_ms": 165855,
+      "name": "La Noche Perfecta",
+      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
+    },
+    {
+      "added_at": "2023-06-08 02:01:02",
+      "album": {
         "name": "L\u00e1grimas pa otro d\u00eda",
         "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 136955,
       "name": "El camino",
       "url": "https://open.spotify.com/track/6x5gl9msgjsqub1hy7Iq3k"
-    },
-    {
-      "added_at": "2023-06-08 02:01:02",
-      "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        }
-      ],
-      "duration_ms": 165855,
-      "name": "La Noche Perfecta",
-      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
     },
     {
       "added_at": "2023-06-08 02:01:02",
@@ -671,22 +671,18 @@
     {
       "added_at": "2023-06-08 02:01:02",
       "album": {
-        "name": "Loter\u00eda",
-        "url": "https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4"
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM"
       },
       "artists": [
         {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 250480,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d"
+      "duration_ms": 254240,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG"
     },
     {
       "added_at": "2023-06-08 02:01:02",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-06-08 02:01:02",
       "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM"
+        "name": "Loter\u00eda",
+        "url": "https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4"
       },
       "artists": [
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
         }
       ],
-      "duration_ms": 254240,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG"
+      "duration_ms": 250480,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d"
     },
     {
       "added_at": "2023-06-08 02:01:02",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-06-08 02:01:02",
       "album": {
-        "name": "Consuelo",
-        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Consuelo",
-      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
-    },
-    {
-      "added_at": "2023-06-08 02:01:02",
-      "album": {
         "name": "Desde Otro Malec\u00f3n",
         "url": "https://open.spotify.com/album/7CHIw4LSHWgQbwWZC5rZpO"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-06-08 02:01:02",
       "album": {
-        "name": "Sin Tu Amor",
-        "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
+        "name": "Consuelo",
+        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
       },
       "artists": [
         {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
         }
       ],
-      "duration_ms": 161835,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
+      "duration_ms": 164093,
+      "name": "Consuelo",
+      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
     },
     {
       "added_at": "2023-06-08 02:01:02",
@@ -799,6 +783,22 @@
       "duration_ms": 189756,
       "name": "AWCH",
       "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
+    },
+    {
+      "added_at": "2023-06-08 02:01:02",
+      "album": {
+        "name": "Sin Tu Amor",
+        "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 161835,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
     },
     {
       "added_at": "2023-06-08 02:01:02",

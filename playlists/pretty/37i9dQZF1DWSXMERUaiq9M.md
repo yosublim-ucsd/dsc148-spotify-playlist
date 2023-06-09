@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,799 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,099 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 35 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 |
 | 36 | [Love Express](https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:41 |
 | 37 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
-| 38 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
-| 39 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 |
+| 38 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 |
+| 39 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
 | 40 | [The Speed](https://open.spotify.com/track/2VFTLSNaAm18ac2xYr5EQv) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [The Speed](https://open.spotify.com/album/4xXrdJVIQNMAStg7JN54TC) | 3:16 |
 | 41 | [Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Deine Angst](https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5) | 5:21 |
 | 42 | [Get Busy](https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Get Busy](https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob) | 3:20 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 47 | [Can't Stop The Night](https://open.spotify.com/track/7hPZUHWSGG5Kn9ZI50HvIx) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Can't Stop The Night](https://open.spotify.com/album/79YdrZXt6tBDj4i0Y4gCJS) | 5:33 |
 | 48 | [Keine Liebe, Kein Rave](https://open.spotify.com/track/0UkGdrKm6PaVCxTwPzP2xX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Kiki Solvej](https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW) | [Keine Liebe, Kein Rave](https://open.spotify.com/album/2iL5gzdjVQsTsUI7i8KxDq) | 4:20 |
 | 49 | [Nothing Is Easy](https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Nothing Is Easy EP](https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW) | 3:11 |
-| 50 | [Love & Peace](https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC), [3rd Dale Universe](https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N) | [Love & Peace](https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK) | 6:00 |
+| 50 | [All about you](https://open.spotify.com/track/1jRkIIqpKw9WGlxOExgL67) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA), [EntzugszKlinique](https://open.spotify.com/artist/2KfUKuzYq61DbEqQzGgHZN), [ScubaPro](https://open.spotify.com/artist/60pNbc1sAEJ8iNuArbgIFM) | [All about you](https://open.spotify.com/album/6b86qlj0FMqPaNZiwwc7Hu) | 2:34 |
 
-Snapshot ID: `MCwwZDhkZTFjMzdhNGZkODZiM2Y5NzE1MWZhOWEwYmY5OWYwOWY2ZjUx`
+Snapshot ID: `MCwxYjlmM2FhM2IyODc4ZWE3MjFhMTI4MjkyNDkxMmNlNDQ3MzkzZTBj`

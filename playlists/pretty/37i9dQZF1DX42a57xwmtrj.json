@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 139574,
+  "num_followers": 139665,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTEwZjVkMDM1ZDMyZThmZjA4YjJiZjI0NGM5YWIwYWIwYTg1MTZm",
+  "snapshot_id": "MCxmZGFkNGJjYjk5ZTM5ODMxMDg0NGNhZWQwZjk0YTg0MDA3MmI3OGIx",
   "tracks": [
     {
       "added_at": "2023-06-02 06:00:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb"
+        "name": "Anda Borracho Pancho",
+        "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
       },
       "artists": [
         {
-          "name": "Karatula",
-          "url": "https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH"
+          "name": "Sam Sam",
+          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
         }
       ],
-      "duration_ms": 267853,
-      "name": "Al Final Llor\u00e9",
-      "url": "https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj"
+      "duration_ms": 302091,
+      "name": "Anda Borracho Pancho",
+      "url": "https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Anda Borracho Pancho",
-        "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb"
       },
       "artists": [
         {
-          "name": "Sam Sam",
-          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
+          "name": "Karatula",
+          "url": "https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH"
         }
       ],
-      "duration_ms": 302091,
-      "name": "Anda Borracho Pancho",
-      "url": "https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw"
+      "duration_ms": 267853,
+      "name": "Al Final Llor\u00e9",
+      "url": "https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
+      },
+      "artists": [
+        {
+          "name": "California Blues",
+          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Y Como Es \u00c9l",
+      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Mun\u0303equita Sinte\u0301tica",
         "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 283488,
       "name": "Mun\u0303equita Sinte\u0301tica",
       "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
-      },
-      "artists": [
-        {
-          "name": "California Blues",
-          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Y Como Es \u00c9l",
-      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1175,22 +1175,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Tocada y Fuga",
-        "url": "https://open.spotify.com/album/07pqmLcUHgtnSdIi2aGDDS"
+        "name": "Los Versos de la Catrina",
+        "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
       },
       "artists": [
         {
-          "name": "Sergio Arau",
-          "url": "https://open.spotify.com/artist/0jhIKk9XnAbISKcMZX9pl6"
-        },
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
         }
       ],
-      "duration_ms": 220872,
-      "name": "Tocada y Fuga",
-      "url": "https://open.spotify.com/track/3ib6XT17WcsAJ2Qgp13wc0"
+      "duration_ms": 247453,
+      "name": "Los Versos de la Catrina",
+      "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1211,18 +1207,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Los Versos de la Catrina",
-        "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
+        "name": "Tocada y Fuga",
+        "url": "https://open.spotify.com/album/07pqmLcUHgtnSdIi2aGDDS"
       },
       "artists": [
         {
-          "name": "Armando Palomas",
-          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+          "name": "Sergio Arau",
+          "url": "https://open.spotify.com/artist/0jhIKk9XnAbISKcMZX9pl6"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
         }
       ],
-      "duration_ms": 247453,
-      "name": "Los Versos de la Catrina",
-      "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
+      "duration_ms": 220872,
+      "name": "Tocada y Fuga",
+      "url": "https://open.spotify.com/track/3ib6XT17WcsAJ2Qgp13wc0"
     }
   ],
   "unique_name": "Rock Urbano",

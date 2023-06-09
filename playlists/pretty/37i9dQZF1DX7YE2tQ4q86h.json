@@ -1,12 +1,12 @@
 {
   "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Kim Petras & Paris Hilton",
-  "num_followers": 92411,
+  "num_followers": 92750,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjIxODgzODdhZDEyZWI2YWFmMjdlMDc0ODhmOTliYWU5ZmMyMDM4",
+  "snapshot_id": "MCwzNzJjZDk1YTRkYzM5YWZjM2MzNDQxZTU4ODlhZmE1ODc4YWQ0ZjYx",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -194,6 +194,10 @@
         {
           "name": "Kelly Clarkson",
           "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
       "duration_ms": 175247,
@@ -1141,7 +1145,7 @@
         }
       ],
       "duration_ms": 165151,
-      "name": "I Wrote A Song",
+      "name": "I Wrote A Song (feat. Vendredi sur Mer)",
       "url": "https://open.spotify.com/track/3Us6ao4g3k4Kt4vvGJGCrR"
     },
     {
@@ -1585,7 +1589,7 @@
         }
       ],
       "duration_ms": 162500,
-      "name": "Better off Alone",
+      "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/5oT0W6JKJo8or78vqzd5XX"
     },
     {

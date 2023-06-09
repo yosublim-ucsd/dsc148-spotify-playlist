@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-249 songs - 16 hr 17 min
+250 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,13 +41,14 @@
 | [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-01-05 |  |
 | [Blue Romance](https://open.spotify.com/track/7AL3evf6T03lEluSTET854) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Blue Romance](https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH) | 4:02 | 2021-12-14 |  |
 | [Blueberry Street](https://open.spotify.com/track/6YeUTstb4pY8jUE3xWhX0d) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:15 | 2022-06-08 |  |
+| [Bridges](https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Bridges](https://open.spotify.com/album/5zZQGomSy4wpZaWL34x6fK) | 2:53 | 2023-06-08 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2021-12-14 |  |
 | [Café International](https://open.spotify.com/track/6mWHwX0VNVDyWVF0j6qQ56) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Café International](https://open.spotify.com/album/0bBBE6Q90Fvr4Ka2EO0ObZ) | 3:30 | 2023-03-23 |  |
 | [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 | 2022-12-09 |
 | [Changes](https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Changes](https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee) | 3:45 | 2023-04-27 |  |
 | [Chelsea Bridge](https://open.spotify.com/track/3adEZyI3YfyACGbH293KTG) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Chelsea Bridge](https://open.spotify.com/album/193K3cqXvobNyEPiuOmEVz) | 3:54 | 2022-12-23 | 2023-04-28 |
 | [Cherry Blossom Waltz](https://open.spotify.com/track/1wZsMtOeXbkUQiX6UKZGbY) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [Cherry Blossom Waltz](https://open.spotify.com/album/4iZYHdYDWekmsf5tCTfNYy) | 4:24 | 2023-04-13 |  |
-| [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2021-12-14 |  |
+| [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2021-12-14 | 2023-06-09 |
 | [Close Your Eyes](https://open.spotify.com/track/3VSMYAVSnUHMgNonipRcsQ) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Close Your Eyes](https://open.spotify.com/album/2AKnOIZeclPvfNySSo7ANk) | 3:46 | 2022-04-12 |  |
 | [Closing Doors](https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Closing Doors](https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM) | 3:00 | 2022-06-14 |  |
 | [Clover runs](https://open.spotify.com/track/106pfUb5fASv3yk2o4ft5g) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Clover runs](https://open.spotify.com/album/3a2deDvRsmV4PzpR6vqOpi) | 3:11 | 2023-04-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 606814,
+  "num_followers": 606927,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDljZmQ5NjE3NTU2YzQ5NzkzODNlOGMxYjhiNGQyYTgwMTgyNDRi",
+  "snapshot_id": "MCwwYmJkMjE3OWIyMTA1MmVjNmFkZTQ0ZDRkMTAzNWI4MzhkNDkyY2Iz",
   "tracks": [
     {
       "added_at": "2023-05-31 15:07:35",
@@ -595,18 +595,22 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+        "name": "Bitte ziehen sie durch",
+        "url": "https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW"
       },
       "artists": [
         {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+          "name": "Deichkind",
+          "url": "https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs"
+        },
+        {
+          "name": "Nina Tenge",
+          "url": "https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Cruisen",
-      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
+      "duration_ms": 204000,
+      "name": "Bon Voyage (feat. Nina)",
+      "url": "https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z"
     },
     {
       "added_at": "2023-05-31 15:07:35",
@@ -683,22 +687,18 @@
     {
       "added_at": "2023-05-31 15:07:35",
       "album": {
-        "name": "Bitte ziehen sie durch",
-        "url": "https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW"
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
       },
       "artists": [
         {
-          "name": "Deichkind",
-          "url": "https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs"
-        },
-        {
-          "name": "Nina Tenge",
-          "url": "https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p"
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Bon Voyage (feat. Nina)",
-      "url": "https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z"
+      "duration_ms": 235266,
+      "name": "Cruisen",
+      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
     },
     {
       "added_at": "2023-05-31 15:07:35",

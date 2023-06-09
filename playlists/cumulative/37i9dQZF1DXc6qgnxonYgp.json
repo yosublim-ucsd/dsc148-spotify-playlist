@@ -2270,10 +2270,36 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 198715,
       "name": "Oor Kelavi",
       "url": "https://open.spotify.com/track/7KHYxlYjBMTSvhbySy8drc"
+    },
+    {
+      "album": {
+        "name": "OORKELAVI",
+        "url": "https://open.spotify.com/album/7ue7fFSTzVgp0LACG09aBy"
+      },
+      "artists": [
+        {
+          "name": "ADK",
+          "url": "https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj"
+        },
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+        },
+        {
+          "name": "4AM",
+          "url": "https://open.spotify.com/artist/5tFetUCC5jiDMwmytHVoy2"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198715,
+      "name": "OORKELAVI",
+      "url": "https://open.spotify.com/track/6aeXEQqyiIhSGv5K6ZnLZ4"
     },
     {
       "album": {

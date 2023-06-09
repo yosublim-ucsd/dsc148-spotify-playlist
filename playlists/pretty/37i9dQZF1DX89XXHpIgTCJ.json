@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 225077,
+  "num_followers": 225618,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjY1NTE2MTcxMGVlM2YyNDFmZjIwY2QxZjIzNDk3ZWI1MjU3NzM4",
+  "snapshot_id": "MCxjMDk2NmZhNDc3ZDNkNTQ4OTY3MDBlMzA5YzJjNDYxMmVjNzQ1Y2Ew",
   "tracks": [
     {
       "added_at": "2023-05-25 08:07:45",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-05-25 08:07:45",
       "album": {
-        "name": "War & Peace Vol. 1 (The War Disc)",
-        "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Fuck Dying",
-      "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
-    },
-    {
-      "added_at": "2023-05-25 08:07:45",
-      "album": {
         "name": "Life Is Peachy",
         "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 240546,
       "name": "Wicked (feat. Chino Moreno)",
       "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
+    },
+    {
+      "added_at": "2023-05-25 08:07:45",
+      "album": {
+        "name": "War & Peace Vol. 1 (The War Disc)",
+        "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Fuck Dying",
+      "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
     },
     {
       "added_at": "2023-05-25 08:07:45",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-05-25 08:07:45",
       "album": {
+        "name": "Made An America",
+        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 173326,
+      "name": "Made An America",
+      "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
+    },
+    {
+      "added_at": "2023-05-25 08:07:45",
+      "album": {
         "name": "Pegasus: Neon Shark vs Pegasus Presented By Travis Barker (Deluxe)",
         "url": "https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 179201,
       "name": "GERONIMO (feat. Chino Moreno)",
       "url": "https://open.spotify.com/track/3VAwH0vRDwvKl8jRVnQU0w"
-    },
-    {
-      "added_at": "2023-05-25 08:07:45",
-      "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
     }
   ],
   "unique_name": "Rap 'n' Roll",

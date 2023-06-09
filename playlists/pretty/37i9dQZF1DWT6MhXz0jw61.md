@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,858 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,748 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 |
-| 2 | [SWEETBiTTERS](https://open.spotify.com/track/3EHAdQRIZVHXClghHCKQqr) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 3:01 |
+| 2 | [SWEETBiTTERS](https://open.spotify.com/track/4RHzPXwOXw4LhPrruo4qst) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 3:01 |
 | 3 | [Since Elementary](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Since Elementary](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
 | 4 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
 | 5 | [FLAWS](https://open.spotify.com/track/0EnlvUZO6N6TadHIwbRkRQ) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FLAWS](https://open.spotify.com/album/2HeQ8J78llo9ltuobnqS1F) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [I Still Don't Cry](https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [I Still Don't Cry](https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G) | 2:30 |
 | 100 | [Thinking to Myself](https://open.spotify.com/track/5QsN1W5nvBZcweBfRtaWFj) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Thinking to Myself](https://open.spotify.com/album/1ISHVzRrOrGH43v1oEerca) | 2:15 |
 
-Snapshot ID: `MCxhM2IzZjFlMWUzYzVjOTllYTUzMGY0NGEzZjUxNTg2NzM5MWZlOTU2`
+Snapshot ID: `MCw0ZGY2NDAzM2I5MDA5YWFiOTVjN2YxNmUxYThkMzEwNTEzOGJhMjgx`

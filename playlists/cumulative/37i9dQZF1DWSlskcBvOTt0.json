@@ -3654,7 +3654,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 252790,
       "name": "Intuici\u00f3n",
       "url": "https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny"
@@ -5122,7 +5122,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 218900,
       "name": "More Than I Should Know",
       "url": "https://open.spotify.com/track/33gTKCdlC5OTe156GIiYVo"
@@ -5834,12 +5834,12 @@
       },
       "artists": [
         {
-          "name": "Meloko",
-          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
-        },
-        {
           "name": "Mozambo",
           "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
+        },
+        {
+          "name": "Meloko",
+          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
         }
       ],
       "date_added": "2023-06-02",

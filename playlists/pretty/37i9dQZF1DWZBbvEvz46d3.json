@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 57594,
+  "num_followers": 57625,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzcxOTI5NzJlMjZhY2M2YjEyYTViMmE3YmI5NmEyYTAzNjZiYjM0",
+  "snapshot_id": "MCw1ODhhNDgxMTU1ODhiYzdhMGIzM2I5NzllM2E3MmMzMmM1ZDJmMGEw",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Paparanoja",
-        "url": "https://open.spotify.com/album/6qtt0FdpkEMbKO2ZpPs4Be"
-      },
-      "artists": [
-        {
-          "name": "Enej",
-          "url": "https://open.spotify.com/artist/5Dhx2Dt5jkQDTORznqwjo0"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Kamie\u0144 z Napisem Love",
-      "url": "https://open.spotify.com/track/23KqpM3GPAqiNvfZoyMvsU"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Sk\u0142adam si\u0119 z ci\u0105g\u0142ych powt\u00f3rze\u0144",
         "url": "https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 216440,
       "name": "Syreny",
       "url": "https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Paparanoja",
+        "url": "https://open.spotify.com/album/6qtt0FdpkEMbKO2ZpPs4Be"
+      },
+      "artists": [
+        {
+          "name": "Enej",
+          "url": "https://open.spotify.com/artist/5Dhx2Dt5jkQDTORznqwjo0"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Kamie\u0144 z Napisem Love",
+      "url": "https://open.spotify.com/track/23KqpM3GPAqiNvfZoyMvsU"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "1984",
-        "url": "https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga"
-      },
-      "artists": [
-        {
-          "name": "Pawe\u0142 Domaga\u0142a",
-          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
-        }
-      ],
-      "duration_ms": 205925,
-      "name": "Wystarcz\u0119 ja",
-      "url": "https://open.spotify.com/track/01kNniEBXuqdK4ADugK7ke"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Moje piosenki edycja zwykla",
         "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 222865,
       "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
       "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "1984",
+        "url": "https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga"
+      },
+      "artists": [
+        {
+          "name": "Pawe\u0142 Domaga\u0142a",
+          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
+        }
+      ],
+      "duration_ms": 205925,
+      "name": "Wystarcz\u0119 ja",
+      "url": "https://open.spotify.com/track/01kNniEBXuqdK4ADugK7ke"
     },
     {
       "added_at": "2023-04-03 09:53:55",

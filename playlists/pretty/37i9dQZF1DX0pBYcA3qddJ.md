@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,488 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,516 likes - 99 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 95 | [energy flow](https://open.spotify.com/track/3lam56BGPAHGpzKeOZwBW1) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [ウラBTTB](https://open.spotify.com/album/5uJn2krSFUsP5CrtP8ccFL) | 4:35 |
 | 96 | [Mother’s Broom \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Mother’s Broom \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5) | 3:49 |
 | 97 | [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 |
-| 98 | [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 |
-| 99 | [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 |
-| 100 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 |
+| 98 | [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 |
+| 99 | [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 |
 
-Snapshot ID: `MCw5ZDNkNzYwNmE1Y2I2MTM5ZDBjMTIxMjlhMjgyNDFkNzk0Y2ExNjMy`
+Snapshot ID: `MCxhMjRmODdmMTVlOGY2NTNkZWVhYjU0YWM3NzkwMjY5ZDYyNTAzN2Jl`

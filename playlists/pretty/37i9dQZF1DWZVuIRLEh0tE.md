@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Dilon Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,055 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,222 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 3 | [Se Comenta](https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Se Comenta](https://open.spotify.com/album/0AAlETTmKJAII1bFkJSlCQ) | 2:59 |
 | 4 | [No Es Lo Mismo](https://open.spotify.com/track/2VZQb01aXXgefwC8YMdYQe) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [No Es Lo Mismo](https://open.spotify.com/album/4in1TBcB8CIQwiOEImHrB2) | 2:45 |
 | 5 | [Me la Subió](https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z) | [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Me la Subió](https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq) | 1:40 |
-| 6 | [Tatanita](https://open.spotify.com/track/1YQ0FkvlPz8fDqC1xHxyyb) | [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt) | [Tatanita](https://open.spotify.com/album/38wNatyY6fjt2AgYMfMmtG) | 3:15 |
+| 6 | [Tatanita](https://open.spotify.com/track/1YQ0FkvlPz8fDqC1xHxyyb) | [Lito Kirino](https://open.spotify.com/artist/3ncPa7jYtkSXeyIDaK6YdA) | [Tatanita](https://open.spotify.com/album/38wNatyY6fjt2AgYMfMmtG) | 3:15 |
 | 7 | [Po Po Po](https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Po Po Po](https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1) | 2:50 |
 | 8 | [En Mi Coro](https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Eiden y Hacky](https://open.spotify.com/artist/2GZsR7HeNCAH0GeChpQto8) | [En Mi Coro](https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA) | 3:55 |
 | 9 | [Vivo Por Palomo](https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [Vivo Por Palomo](https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 74 | [To Frio](https://open.spotify.com/track/7Mf27anHXELVg2tve4IWEQ) | [El Shick](https://open.spotify.com/artist/2H2Xg5FjQEIeEEPh8lDRae) | [To Frio](https://open.spotify.com/album/0Z2eoDZTdBH3Ei9PYfU2Ho) | 2:47 |
 | 75 | [Location](https://open.spotify.com/track/7jD95NsllJj3qwyVfb58GV) | [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Uno x Ellas](https://open.spotify.com/album/0YtX3JIpS3TEu03xO8tix1) | 3:24 |
 
-Snapshot ID: `MCxiMjgxMzY3NzlhYjc4YzYxNmQ1OGJmNTUwMDI5Y2U0YTMzNWZhNGZi`
+Snapshot ID: `MCwzYzNjZjRiNGY3NDI3YzIwMDA3M2UxMDNiYzA1M2M3ZjIxYTdkZTRk`

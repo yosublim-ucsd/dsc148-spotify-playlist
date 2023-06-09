@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 171693,
+  "num_followers": 171831,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWRlYmY5YTg3ZGZkZjk1YTgwOWQ0MDM0ZmRmNDg3ZWM3YzJlZjBj",
+  "snapshot_id": "MCxiMTUyYTZiYzNjYTQ3YWRlYWY5MWU2NmFiMjMyYzAyMDhkZWY1MTVl",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "TEMPO",
+        "url": "https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu"
+      },
+      "artists": [
+        {
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 239274,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Lights Up (Myd Remix)",
         "url": "https://open.spotify.com/album/2OozzcdZGwkAaj8zrEQcLR"
       },
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "TEMPO",
-        "url": "https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu"
-      },
-      "artists": [
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 239274,
-      "name": "TEMPO",
-      "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Burnt Orange",
         "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
-      },
-      "artists": [
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 295230,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Both Of Us / Are U Down",
         "url": "https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 240004,
       "name": "Are U Down - Remix",
       "url": "https://open.spotify.com/track/0GyPmdjs3YBPCfWccCBxPD"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "duration_ms": 295230,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "The Reset",
         "url": "https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 340612,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/4MdbPf2h9dvCASJzPvwKQR"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Welcome To Dinna",
-        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Black Uhuru",
-          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Welcome To Dinna",
-      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/2kjZNNrlthQ6IYg7wTFwRJ"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 285853,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/4F37VC3DflPXQcwbrnoi0Y"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Welcome To Dinna",
+        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Black Uhuru",
+          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Welcome To Dinna",
+      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "IT WON\u2019T DO (MAFRO Remix)",
-        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 310153,
-      "name": "IT WON\u2019T DO - MAFRO Remix",
-      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Talisman",
         "url": "https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9"
       },
@@ -1735,22 +1715,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Light Places",
-        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+        "name": "IT WON\u2019T DO (MAFRO Remix)",
+        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         },
         {
-          "name": "Le Chev",
-          "url": "https://open.spotify.com/artist/1oEH4JTWyTSulZ2xqxLw4N"
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Follow the Loop",
-      "url": "https://open.spotify.com/track/1kU0GLegMoRFeDQQGHtKAY"
+      "duration_ms": 310153,
+      "name": "IT WON\u2019T DO - MAFRO Remix",
+      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1775,6 +1755,26 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Le Chev",
+          "url": "https://open.spotify.com/artist/1oEH4JTWyTSulZ2xqxLw4N"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Follow the Loop",
+      "url": "https://open.spotify.com/track/1kU0GLegMoRFeDQQGHtKAY"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Various Artists",
         "url": "https://open.spotify.com/album/6EZn2dAuXo3M6U99YvxSyW"
       },
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Jesus At The Gay Bar",
-        "url": "https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K"
-      },
-      "artists": [
-        {
-          "name": "Cub Sport",
-          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
-        }
-      ],
-      "duration_ms": 220971,
-      "name": "Songs About It",
-      "url": "https://open.spotify.com/track/43WIanLaoa2ek6Lh5crviQ"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "All Over My Body",
         "url": "https://open.spotify.com/album/2W2gJkyxsEOYbmaWXkucQx"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 396220,
       "name": "All Over My Body",
       "url": "https://open.spotify.com/track/5aDXYU6vSnULQ0D3WMaC6Z"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Jesus At The Gay Bar",
+        "url": "https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K"
+      },
+      "artists": [
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "duration_ms": 220971,
+      "name": "Songs About It",
+      "url": "https://open.spotify.com/track/43WIanLaoa2ek6Lh5crviQ"
     },
     {
       "added_at": "2023-06-01 22:00:00",

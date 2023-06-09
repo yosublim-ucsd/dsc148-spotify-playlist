@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-236 songs - 14 hr 13 min
+237 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [IRL](https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [IRL](https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ) | 3:30 | 2023-05-05 |  |
 | [Island Time](https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Island Time](https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh) | 4:18 | 2021-12-10 |  |
 | [Jump](https://open.spotify.com/track/4IIxGyabRyqXOnnBa99cKT) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 5:04 | 2021-12-10 | 2022-07-29 |
-| [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 | 2022-07-06 |  |
+| [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 | 2022-07-06 | 2023-06-09 |
 | [Kingdom \(with The Movement\)](https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ) | [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Kingdom \(with The Movement\)](https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL) | 4:42 | 2021-12-10 |  |
 | [Knocking at Your Door](https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:36 | 2021-12-10 |  |
 | [Lay Me Down \(feat\. Sublime With Rome\)](https://open.spotify.com/track/4L0nc0tHfDjr3HlAm1EFeu) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Rome](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Any Port in a Storm \(Special Edition\)](https://open.spotify.com/album/5EOxxqbniQ3CMCCoDfezWh) | 3:35 | 2022-02-04 |  |
@@ -161,6 +161,7 @@
 | [Paradise](https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Paradise](https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s) | 4:10 | 2021-12-10 |  |
 | [Press Remix](https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Press Remix](https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM) | 3:40 | 2023-06-07 |  |
 | [Press Rewind](https://open.spotify.com/track/2kudB8qSGMmUa5wjVZ7IeX) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Press Rewind](https://open.spotify.com/album/1MrH6gRBoOQ92EVboSgsiy) | 4:34 | 2021-12-10 | 2022-07-29 |
+| [Press Rewind](https://open.spotify.com/track/6dBaJ2qH6aPUpt3zMToSGq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 4:34 | 2023-05-19 |  |
 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 | 2022-07-06 |  |
 | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB) | 4:28 | 2021-12-10 |  |
 | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/track/7Eta7z7ofiykxOyk9HVWij) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/album/00HwTxnfnfF0OVuXeOhJCZ) | 3:14 | 2021-12-10 |  |

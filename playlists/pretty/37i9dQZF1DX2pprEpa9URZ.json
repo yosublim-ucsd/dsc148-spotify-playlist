@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 717539,
+  "num_followers": 717819,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmQ0NjhmNjMyZjJjNWJiZDQwYjgzYTBmOTk1ZGMyMGYxZGFlZmQ5",
+  "snapshot_id": "MCw1OTEwZjRhZGNkMGNkZDVhNmQzMzhiMzIxMzU5ZWY3OWZmNzFhNzJj",
   "tracks": [
     {
       "added_at": "2023-04-20 22:01:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Luv Machine",
-        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
-      },
-      "artists": [
-        {
-          "name": "Zoe Reijue",
-          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
-        }
-      ],
-      "duration_ms": 371814,
-      "name": "Luv Machine",
-      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Experiencing a Significant Gravitas Shortfall",
         "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 292000,
       "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Luv Machine",
+        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
+      },
+      "artists": [
+        {
+          "name": "Zoe Reijue",
+          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
+        }
+      ],
+      "duration_ms": 371814,
+      "name": "Luv Machine",
+      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Ma Gally",
-        "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
-      },
-      "artists": [
-        {
-          "name": "Hot Oasis",
-          "url": "https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii"
-        },
-        {
-          "name": "Weam Ismail",
-          "url": "https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko"
-        }
-      ],
-      "duration_ms": 433330,
-      "name": "Ya Nahar Ya Gamel",
-      "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Ancestry",
         "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 279000,
       "name": "Man Dies Alone - Short Version",
       "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Ma Gally",
+        "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
+      },
+      "artists": [
+        {
+          "name": "Hot Oasis",
+          "url": "https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii"
+        },
+        {
+          "name": "Weam Ismail",
+          "url": "https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko"
+        }
+      ],
+      "duration_ms": 433330,
+      "name": "Ya Nahar Ya Gamel",
+      "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -799,6 +799,38 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Ancestors",
+        "url": "https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 287518,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Bosque",
         "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
       },
@@ -831,38 +863,6 @@
       "duration_ms": 327750,
       "name": "Seymour",
       "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Ancestors",
-        "url": "https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 287518,
-      "name": "Ancestors",
-      "url": "https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -971,22 +971,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "The Landing",
-        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
+        "name": "Unsichtbar (Behrooz Zandi Remix)",
+        "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
       },
       "artists": [
         {
-          "name": "JPattersson",
-          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
+          "name": "Tiefe Wasser Berlin",
+          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
         },
         {
-          "name": "Nadav Dagon",
-          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
+          "name": "Behrooz Zandi",
+          "url": "https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0"
         }
       ],
-      "duration_ms": 435466,
-      "name": "The Landing - Nadav Dagon & JPattersson",
-      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+      "duration_ms": 370196,
+      "name": "Unsichtbar - Behrooz Zandi Remix",
+      "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Unsichtbar (Behrooz Zandi Remix)",
-        "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
+        "name": "The Landing",
+        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
       "artists": [
         {
-          "name": "Tiefe Wasser Berlin",
-          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
+          "name": "JPattersson",
+          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
         },
         {
-          "name": "Behrooz Zandi",
-          "url": "https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0"
+          "name": "Nadav Dagon",
+          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
         }
       ],
-      "duration_ms": 370196,
-      "name": "Unsichtbar - Behrooz Zandi Remix",
-      "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
+      "duration_ms": 435466,
+      "name": "The Landing - Nadav Dagon & JPattersson",
+      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Humanidad",
-        "url": "https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6"
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
       },
       "artists": [
         {
-          "name": "Pablo Fierro",
-          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
         }
       ],
-      "duration_ms": 521547,
-      "name": "Tembo",
-      "url": "https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC"
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+        "name": "Humanidad",
+        "url": "https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6"
       },
       "artists": [
         {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
         }
       ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+      "duration_ms": 521547,
+      "name": "Tembo",
+      "url": "https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1183,22 +1183,6 @@
       "duration_ms": 396960,
       "name": "Ciclos",
       "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
-      },
-      "artists": [
-        {
-          "name": "Till Von Sein",
-          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
-        }
-      ],
-      "duration_ms": 405213,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
+      },
+      "artists": [
+        {
+          "name": "Till Von Sein",
+          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
+        }
+      ],
+      "duration_ms": 405213,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Voodoo Guitar",
         "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
       },
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
       },
       "artists": [
         {
-          "name": "Marco Tegui",
-          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
-        },
-        {
-          "name": "Yusuf Lemone",
-          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
         }
       ],
-      "duration_ms": 381176,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
       "artists": [
         {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
+        },
+        {
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
         }
       ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
+      "duration_ms": 381176,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
-      },
-      "artists": [
-        {
-          "name": "Urban Village",
-          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
-        },
-        {
-          "name": "Chlo\u00e9 (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        }
-      ],
-      "duration_ms": 384330,
-      "name": "Izivunguvungu - Chlo\u00e9 Remix",
-      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
         "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 451375,
       "name": "Mona Ki Ngi Xica - Everything Counts Remix",
       "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
+      },
+      "artists": [
+        {
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
+        },
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 384330,
+      "name": "Izivunguvungu - Chlo\u00e9 Remix",
+      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
     },
     {
       "added_at": "2023-04-20 22:01:00",

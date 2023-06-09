@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,364 likes - 30 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,374 likes - 30 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 12 | [MONEY](https://open.spotify.com/track/05UmeMHqm9OzkxjQiLL4BX) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Parkside Angle](https://open.spotify.com/album/14jvG7xYUt7WDR7G0lQc01) | 1:23 |
 | 13 | [Cola](https://open.spotify.com/track/7D70PoGMH9pSfzgaFpZryQ) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Cola](https://open.spotify.com/album/4ZdpoOFdB3l1R06apBLXn8) | 3:08 |
 | 14 | [House Party](https://open.spotify.com/track/5dR46G1RjWElFDKTe9rGZA) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [House Party](https://open.spotify.com/album/6elxYTEQrV4oEQ1MinHSqv) | 3:52 |
-| 15 | [MISAWA \)](https://open.spotify.com/track/6tsdStu2dRwRTVIurMi3Nr) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL) | [MISAWA \)](https://open.spotify.com/album/6bbs4aTcWo5P5a4jvbAQZT) | 3:51 |
-| 16 | [Life's Short](https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Life's Short](https://open.spotify.com/album/4HIt7gmLxWtLDQEVpNRXCZ) | 2:54 |
+| 15 | [Life's Short](https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Life's Short](https://open.spotify.com/album/4HIt7gmLxWtLDQEVpNRXCZ) | 2:54 |
+| 16 | [MISAWA \)](https://open.spotify.com/track/6tsdStu2dRwRTVIurMi3Nr) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL) | [MISAWA \)](https://open.spotify.com/album/6bbs4aTcWo5P5a4jvbAQZT) | 3:51 |
 | 17 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
 | 18 | [Pozole](https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Brick Wolfpack](https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Pozole](https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3) | 2:28 |
 | 19 | [All I Need](https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [All I Need](https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi) | 2:36 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 29 | [What It Takes](https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Paul Wall](https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9) | [What It Takes](https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0) | 2:29 |
 | 30 | [Shadow Banned](https://open.spotify.com/track/2qkObeNbfhoiPjAI5iFCyj) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Shadow Banned](https://open.spotify.com/album/7rqLkVkk8JvoZMhmy9sKWD) | 2:54 |
 
-Snapshot ID: `MCxhNmE3ZmVmMTI5ODk4NjMyOGNmOWNiZjUxMTQxZThhOTgxYzc2NGU3`
+Snapshot ID: `MCw5NTJlODhlMmY0NTQ0MGNkYzEzMjNjNjE5MmUwMmUzMTMzOTY3Zjcx`

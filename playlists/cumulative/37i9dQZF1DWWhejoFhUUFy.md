@@ -4,7 +4,7 @@
 
 > Soft chill for the dreamy  ✨
 
-76 songs - 4 hr 24 min
+77 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Jhoom \- R&B Mix](https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Jhoom](https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM) | 4:58 | 2023-04-17 |  |
 | [Joy of Little Things](https://open.spotify.com/track/6osLH2yLhpwuESclKx84sg) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Joy of Little Things](https://open.spotify.com/album/0xCqFIlyDXXxganfCHM8yV) | 3:59 | 2023-04-17 |  |
 | [Kahaani](https://open.spotify.com/track/6gK2gR0uyFFYJ5sKH4zyjx) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kahaani](https://open.spotify.com/album/5DShAPJRVmP2Z0cmcjm1wW) | 3:35 | 2023-04-17 |  |
-| [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 | 2023-04-17 |  |
+| [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Brahmastra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79) | 4:28 | 2023-04-17 |  |
+| [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 | 2023-04-17 | 2023-06-09 |
 | [Khaabon Ke Parinday](https://open.spotify.com/track/14eotumM24MhIgzidgN3Jx) | [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 4:11 | 2023-04-17 |  |
 | [Khabar Nahi](https://open.spotify.com/track/7Esjmr77c4SU5IlMtym7Ho) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amanat Ali](https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:19 | 2023-04-17 |  |
 | [kho gaya](https://open.spotify.com/track/1DKfhVxj07r86PuIcLZNe0) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [AAKASH](https://open.spotify.com/artist/5pJz56mXmC3bb0cIG5Ghen) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:57 | 2023-04-17 |  |

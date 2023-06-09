@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=Kjnu6Xy4SuqnEzK8bcP6BQ\">Prince Kaybee</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105?si=pQwF9eo-RJ-hG10oCfR5Zg\">Darque</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -306,7 +306,7 @@
       },
       "artists": [
         {
-          "name": "\u6c50",
+          "name": "Sio",
           "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
         },
         {
@@ -564,6 +564,36 @@
       "duration_ms": 210874,
       "name": "African Day - Will Villa Remix",
       "url": "https://open.spotify.com/track/2U1lZDqwHXftQE2brq3avy"
+    },
+    {
+      "album": {
+        "name": "African Prayer (Radio Edit)",
+        "url": "https://open.spotify.com/album/7qTpMSJoBybyDga1uJ8Cuy"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        },
+        {
+          "name": "OX Sounds",
+          "url": "https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231578,
+      "name": "African Prayer - Radio Edit",
+      "url": "https://open.spotify.com/track/3OC5eq62b3qYY64XxzYqAZ"
     },
     {
       "album": {
@@ -2718,7 +2748,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 344000,
       "name": "Born To Dance",
       "url": "https://open.spotify.com/track/6sR4cSr5hP7z96awJL0lVj"
@@ -7216,7 +7246,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 404000,
       "name": "Imikhuleko",
       "url": "https://open.spotify.com/track/1dztH332bWfzJLWLtjseLy"
@@ -8471,6 +8501,28 @@
     },
     {
       "album": {
+        "name": "King Of My Castle (feat. Kali Mija)",
+        "url": "https://open.spotify.com/album/3U1C9xhqYC1UOJWfgI0zC9"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156639,
+      "name": "King Of My Castle (feat. Kali Mija)",
+      "url": "https://open.spotify.com/track/1djI1wvVtBVpUZeVPAyVZG"
+    },
+    {
+      "album": {
         "name": "Kivuna",
         "url": "https://open.spotify.com/album/7u1wlB6W9kjTdb64OsQAzI"
       },
@@ -9278,7 +9330,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 457774,
       "name": "Lobela",
       "url": "https://open.spotify.com/track/195c6cDeMpBqYxaSQ65cwZ"
@@ -9436,6 +9488,28 @@
       "duration_ms": 175065,
       "name": "Lose My Number - Curtiba Remix Radio Edit",
       "url": "https://open.spotify.com/track/1AwnzbnGVUGMTy72UVjj0n"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0n2KUCR5NNfKAHEx9jjA3h"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Evida",
+          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205511,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/0gwRJH8pKyrmmAVrKWAI5R"
     },
     {
       "album": {
@@ -9828,7 +9902,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 222332,
       "name": "Maphuma (feat. Lizwi)",
       "url": "https://open.spotify.com/track/5ceRrauIyROtPwWyVTmGDs"
@@ -10106,7 +10180,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 389106,
       "name": "Mend It",
       "url": "https://open.spotify.com/track/50IH6OIRU7sKMwGIOex1xM"
@@ -10494,6 +10568,28 @@
       "duration_ms": 427160,
       "name": "Mohigan Sun",
       "url": "https://open.spotify.com/track/5U6zQqXCVZokE7UH4kdAB1"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/20NtnSIuyGh9W3ywaAWuyy"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382776,
+      "name": "Moja",
+      "url": "https://open.spotify.com/track/1m7tl08WOnGcwEGKADBWu5"
     },
     {
       "album": {
@@ -12013,6 +12109,28 @@
     },
     {
       "album": {
+        "name": "Parfaite",
+        "url": "https://open.spotify.com/album/5FP684jxUuq0q4luOBmN4L"
+      },
+      "artists": [
+        {
+          "name": "Thor Rixon",
+          "url": "https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX"
+        },
+        {
+          "name": "Elodie Gervaise",
+          "url": "https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258363,
+      "name": "Parfaite",
+      "url": "https://open.spotify.com/track/1fPvKAh8ZzVJ4yo25Wl1oi"
+    },
+    {
+      "album": {
         "name": "Party with Who?",
         "url": "https://open.spotify.com/album/4YKxZ6eqvWzhX3bgmeoCoM"
       },
@@ -13060,7 +13178,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 215238,
       "name": "Saving Me",
       "url": "https://open.spotify.com/track/35SNaNea9zk1oWk3IzrSKJ"
@@ -13596,7 +13714,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 198688,
       "name": "Shalimar - Radio Edit",
       "url": "https://open.spotify.com/track/5amzkj62Ava82GoKmsPyxN"
@@ -15375,6 +15493,28 @@
     },
     {
       "album": {
+        "name": "The Rapture Pt.III",
+        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417812,
+      "name": "The Rapture Pt.III",
+      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
+    },
+    {
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4"
       },
@@ -16702,6 +16842,28 @@
       "duration_ms": 336842,
       "name": "uSipho",
       "url": "https://open.spotify.com/track/7B1Kij7knvV5Ph5zOJUDRI"
+    },
+    {
+      "album": {
+        "name": "Uthando",
+        "url": "https://open.spotify.com/album/5Tyfoak0jbNK8d5plROnxK"
+      },
+      "artists": [
+        {
+          "name": "Dino and Terry",
+          "url": "https://open.spotify.com/artist/4hqAO5iManFwimCILkz47U"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383114,
+      "name": "Uthando",
+      "url": "https://open.spotify.com/track/03NhrqePpSHqQEMbBOUHEi"
     },
     {
       "album": {

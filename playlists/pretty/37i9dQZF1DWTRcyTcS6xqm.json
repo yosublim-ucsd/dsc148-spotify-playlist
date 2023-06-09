@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 9554,
+  "num_followers": 9564,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjY3MjQ4YTMwODg3OTlkOWQ2ZjRhNGY5YjAwMDBhODE3MDg2ZGIy",
+  "snapshot_id": "MCwyNjFiYmVkOWI5ZGFjYjNiZWEyN2Q5MTdmZTU3MDc1MzY0NDIxMmI4",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Everything I Need",
-        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Soundman",
-      "url": "https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 243449,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/5RV340G9fvADcb7DGOK4ca"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Everything I Need",
+        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Soundman",
+      "url": "https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3"
     },
     {
       "added_at": "2020-12-01 05:01:00",

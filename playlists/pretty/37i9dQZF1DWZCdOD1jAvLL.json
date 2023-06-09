@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Nostalgix",
-  "num_followers": 213540,
+  "num_followers": 213728,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGNjZGY5OTI5YzcyNWM4YzljMTdiODQ0ODcxM2RmYmQ0M2QxOWZh",
+  "snapshot_id": "MCwxNDlkZDQ4NmExYTgyNTk0ZWM2MjQ1YjQ3MzhhYzVhMzQ1OTk3ZTNm",
   "tracks": [
     {
       "added_at": "2023-05-26 13:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-06-05 18:20:31",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
       "artists": [
         {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
         "name": "Good Love",
         "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
       },
@@ -479,22 +459,22 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Caught A Body (with Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 149110,
-      "name": "Caught A Body (with Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -511,6 +491,26 @@
       "duration_ms": 173437,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
+        "name": "Caught A Body (with Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 149110,
+      "name": "Caught A Body (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
     },
     {
+      "added_at": "2023-06-05 18:20:31",
+      "album": {
+        "name": "DJ Turn It Up",
+        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
+    },
+    {
       "added_at": "2023-05-26 13:00:00",
       "album": {
         "name": "New Bottega",
@@ -635,22 +651,6 @@
       "duration_ms": 181333,
       "name": "ACID",
       "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
-    },
-    {
-      "added_at": "2023-06-05 18:20:31",
-      "album": {
-        "name": "DJ Turn It Up",
-        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -977,6 +977,30 @@
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
     },
     {
+      "added_at": "2023-06-05 18:20:31",
+      "album": {
+        "name": "To Be Real",
+        "url": "https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "To Be Real",
+      "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
+    },
+    {
       "added_at": "2023-05-26 13:00:00",
       "album": {
         "name": "Aftertaste",
@@ -1015,30 +1039,6 @@
       "duration_ms": 156190,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2023-06-05 18:20:31",
-      "album": {
-        "name": "To Be Real",
-        "url": "https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        },
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "To Be Real",
-      "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -1097,26 +1097,6 @@
       "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
     },
     {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
-        "name": "Outer Space",
-        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
-        }
-      ],
-      "duration_ms": 192382,
-      "name": "Outer Space",
-      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
       "added_at": "2023-06-05 18:20:31",
       "album": {
         "name": "Banga",
@@ -1135,6 +1115,26 @@
       "duration_ms": 141897,
       "name": "Banga",
       "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "duration_ms": 192382,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
+        "name": "Counting",
+        "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 232468,
+      "name": "Counting",
+      "url": "https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
         "name": "Faster",
         "url": "https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU"
       },
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Counting",
-        "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        }
-      ],
-      "duration_ms": 232468,
-      "name": "Counting",
-      "url": "https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
         "name": "Bongoloco",
         "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
       },
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/1QXFEHH8wWGzKFAOcuWsbd"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "NERO",
-          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
-        }
-      ],
-      "duration_ms": 285616,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/0ciBdxlofdSf1AePCpXGVF"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
         "name": "You Found Me",
         "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/1QXFEHH8wWGzKFAOcuWsbd"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        }
+      ],
+      "duration_ms": 285616,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/0ciBdxlofdSf1AePCpXGVF"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -1429,26 +1429,6 @@
       "url": "https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"
     },
     {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
-        "name": "What You Got",
-        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
-      },
-      "artists": [
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Got",
-      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
-    },
-    {
       "added_at": "2023-06-05 18:20:31",
       "album": {
         "name": "Night In Milan",
@@ -1467,6 +1447,26 @@
       "duration_ms": 154081,
       "name": "Night In Milan",
       "url": "https://open.spotify.com/track/5WZp98NX90Oqy2mAQcwleA"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
+        "name": "What You Got",
+        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
+        "name": "Loca People",
+        "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 158437,
+      "name": "Loca People",
+      "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
         "name": "Empress (Zeds Dead Remix)",
         "url": "https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 134148,
       "name": "Empress - Zeds Dead Remix",
       "url": "https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
-        "name": "Loca People",
-        "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 158437,
-      "name": "Loca People",
-      "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
     },
     {
       "added_at": "2023-05-26 13:00:00",

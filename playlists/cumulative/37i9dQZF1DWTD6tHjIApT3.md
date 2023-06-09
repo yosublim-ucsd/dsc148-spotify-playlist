@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Chara
 
-1,420 songs - 3 day 20 hr 27 min
+1,421 songs - 3 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,7 +874,7 @@
 | [ずっとシットコム](https://open.spotify.com/track/52o3Pq2P93wXRVHmKNV7Bk) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [ヒトリヨブランコ](https://open.spotify.com/artist/0geEo5KES7ro49w3WTNjxW) | [ずっとシットコム](https://open.spotify.com/album/2qHY9HwuFzcAW2Q3Af02Dd) | 3:37 | 2022-09-27 | 2022-10-05 |
 | [ずるいね。](https://open.spotify.com/track/7FvwQpJiZHPfcFf8qUdnZF) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [ずるいね。](https://open.spotify.com/album/1A9Vx4V3CEmSWZDdwTZflI) | 3:20 | 2022-11-29 | 2022-12-14 |
 | [せまいまち](https://open.spotify.com/track/0GsTJVzM3lwS1CLwM0ad23) | [suya suya junction](https://open.spotify.com/artist/1yXOe73eSiTukW4jCKpgMh) | [hometown](https://open.spotify.com/album/69WUWZ6LknFCDrP1HM9zuB) | 4:11 | 2022-07-14 | 2022-07-20 |
-| [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 | 2023-03-07 |  |
+| [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 | 2023-03-07 | 2023-06-09 |
 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 | 2022-11-03 |  |
 | [それでも明日は](https://open.spotify.com/track/0joCT7IWQ6EnApIQAZaLDt) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [それでも明日は](https://open.spotify.com/album/7gI4sTv01zQvKaJ8R48LPz) | 4:05 | 2022-12-13 | 2022-12-15 |
 | [それを愛と呼ぶなら](https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [それを愛と呼ぶなら](https://open.spotify.com/album/5gdO6MiTK1Df7SGctJWtUs) | 4:54 | 2022-05-29 | 2023-05-03 |
@@ -1316,6 +1316,7 @@
 | [猫の夢](https://open.spotify.com/track/1WA2bjmq4mIoCE3Bwj5JCb) | [きばやし](https://open.spotify.com/artist/4UybWqTGbkpD8ypqu7DN7e) | [生活](https://open.spotify.com/album/03KHIxSUNxT660ByeQGsOo) | 3:35 | 2022-11-15 | 2022-11-17 |
 | [瑠璃色の地球](https://open.spotify.com/track/3HxL8rEkqUB4dh0IHew5NT) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [瑠璃色の地球](https://open.spotify.com/album/3netpX4fgcw75E9r1L1nK6) | 4:22 | 2022-09-06 | 2022-09-15 |
 | [瑠璃色の地球\(「未来への航海」バージョン\)](https://open.spotify.com/track/6besLSekgpJjbFYBP99zb8) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [瑠璃色の地球\(「未来への航海」バージョン\)](https://open.spotify.com/album/7C8hveWFd2ojcKcbdqmWro) | 4:41 | 2022-05-29 | 2022-07-29 |
+| [甘い予感](https://open.spotify.com/track/090nQzKbu8Xtr1YdAcEvw4) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C) | [甘い予感](https://open.spotify.com/album/4y1MUkrYhtbbGgvpx4YHfD) | 3:34 | 2023-06-08 |  |
 | [甘い夢](https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [甘い夢](https://open.spotify.com/album/61TOe4TZqMjJA8m5QavXii) | 4:30 | 2023-01-19 | 2023-01-21 |
 | [生きてしぬ](https://open.spotify.com/track/2wjakZC9Np8hdcgqNKc1Vp) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [最終兵器は自由](https://open.spotify.com/album/539F5Y2n3e7QsdQtQM6BOp) | 3:11 | 2022-09-13 | 2022-09-21 |
 | [生きなくちゃ](https://open.spotify.com/track/0wcuZ6ELy4cUZ6Fg3aAa2Q) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [magic! / 生きなくちゃ](https://open.spotify.com/album/0p0NDpQsQVZqmGX82GdUUC) | 4:02 | 2022-06-07 | 2022-06-15 |

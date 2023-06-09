@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,088 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,121 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 19 | [Loading](https://open.spotify.com/track/4D0GT8zWuA7Z2em6dpajAn) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Loading](https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q) | 2:53 |
 | 20 | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5) | 3:12 |
 | 21 | [Can't Be Us](https://open.spotify.com/track/2hZ17zF5a03Ly4by80wI2M) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Can't Be Us](https://open.spotify.com/album/2dDf3sv8pGnm8Oa9eC86IM) | 3:21 |
-| 22 | [AirForce](https://open.spotify.com/track/3DLRRpaDETZYltj3KZ7kxo) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ) | [AirForce](https://open.spotify.com/album/3ADX90oQVwuiHPT5ki5426) | 3:41 |
-| 23 | [Versus](https://open.spotify.com/track/6NTxrKuDVmqb1Yr86cR5MD) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Versus](https://open.spotify.com/album/5W0gx431L1lzVXXXpH385f) | 2:54 |
+| 22 | [Versus](https://open.spotify.com/track/6NTxrKuDVmqb1Yr86cR5MD) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Versus](https://open.spotify.com/album/5W0gx431L1lzVXXXpH385f) | 2:54 |
+| 23 | [AirForce](https://open.spotify.com/track/3DLRRpaDETZYltj3KZ7kxo) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ) | [AirForce](https://open.spotify.com/album/3ADX90oQVwuiHPT5ki5426) | 3:41 |
 | 24 | [Fizzler x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/track/0Nc02dTQgwGy1cRVHE2OnH) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Fizzler x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/album/4shsbqOhs4QcFDNj1EM8aW) | 2:39 |
 | 25 | [No Diet](https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Double Tap Diaries](https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ) | 3:12 |
 | 26 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Spoilt](https://open.spotify.com/track/6uPzjHmUcrErMjg4McdTnh) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Spoilt](https://open.spotify.com/album/0dqONCbDsca2ZgZ4daM8CJ) | 3:00 |
 | 50 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
 
-Snapshot ID: `MCwxNTQwMjI1ODA5YTdkODI1NzQ4YWMwNTdkY2U0YWZiNmI2NDM0Y2U0`
+Snapshot ID: `MCw2N2ViMTlhMjYyZjcxNmUwNGI5NTdlNDJjZjQzNzM4MzBhZGU0NWM0`

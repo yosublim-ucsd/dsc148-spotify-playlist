@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Full Crate
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,334,370 likes - 150 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,334,546 likes - 150 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 12 | [Right My Wrongs](https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Right My Wrongs](https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2) | 2:20 |
 | 13 | [Palace](https://open.spotify.com/track/1L9rSYIRZzzwqHNlpSdW6V) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 2:32 |
 | 14 | [Undercover Lover](https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Undercover Lover](https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP) | 2:32 |
-| 15 | [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:51 |
+| 15 | [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0rjjTjhUsMy3Akhy3zduKK) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:51 |
 | 16 | [BS](https://open.spotify.com/track/4c5VzowOXBYPveZPa51eRw) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Rileyy Lanez](https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr) | [Full Circle : Sonic Book 1](https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7) | 3:25 |
 | 17 | [Stay](https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Stay](https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo) | 3:23 |
 | 18 | [Don’t Mind Me](https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Don't Mind Me](https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo) | 3:09 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 149 | [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 |
 | 150 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 |
 
-Snapshot ID: `MCw1MTcyMWJjMjg0ZTQxYzQ0MWEzNWJlOTBiZmUzZGI1Yjg0M2Q2OWQy`
+Snapshot ID: `MCxjMTE1YmVlZGUyYTM4MzBkMmY3NjM2OGY2MjViMzVlZDA5Y2RhNjkx`

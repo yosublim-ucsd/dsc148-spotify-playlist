@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,873 likes - 124 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,086 likes - 124 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 11 | [Thula](https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Khonaye](https://open.spotify.com/artist/05QAPP670eYB6veuT6aSzO) | [Thula EP](https://open.spotify.com/album/2QyWyvrhEVnBaLG4loqEi1) | 7:21 |
 | 12 | [The World Goes Round](https://open.spotify.com/track/6ZBZxzeRZLTSI7IBbp1CJN) | [West & Hill](https://open.spotify.com/artist/4rReYiWIwC0po3ogLLUVn6), [Soulroots](https://open.spotify.com/artist/2SLXgpwOTRFI0lVQQ5rTwe), [Soul Star](https://open.spotify.com/artist/3hOsGdLoINDweQrMm2tjZy) | [The World Goes Round](https://open.spotify.com/album/2ZLOpIWW5UvK6N3HzxnJyc) | 6:16 |
 | 13 | [Samaritan](https://open.spotify.com/track/37KGiv7fXcXu1c0Bp3rhcN) | [Anorre](https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh) | [Samaritan](https://open.spotify.com/album/5wPFohzrd2a5YPtjqcKeQE) | 3:18 |
-| 14 | [Abandonment Issues](https://open.spotify.com/track/5MSpeSGuvcxiQS7Bd8np3q) | [汐](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Abandonment Issues](https://open.spotify.com/album/2wAQjMXgo3NKIEKZ0YnfCb) | 3:12 |
+| 14 | [Abandonment Issues](https://open.spotify.com/track/5MSpeSGuvcxiQS7Bd8np3q) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Abandonment Issues](https://open.spotify.com/album/2wAQjMXgo3NKIEKZ0YnfCb) | 3:12 |
 | 15 | [Ntumba Chushi](https://open.spotify.com/track/6qHM3pKhe6s04OC0CVqnVT) | [Sebastien Dutch](https://open.spotify.com/artist/3DhrN38YbHljOGNxVfWNLI), [Mumba Yachi](https://open.spotify.com/artist/3kn4gPzyX5oJWXUjbnJ1GT) | [Sebastien Dutch Presents Smoke & Thunder](https://open.spotify.com/album/79d9PMhDStqT2fxMXqfW1I) | 7:17 |
 | 16 | [Nguewe \- Da Africa Deep Remix](https://open.spotify.com/track/5WWQYdyqkmV2CE5k2BxXdo) | [Valexx](https://open.spotify.com/artist/4wA2CLt9Kxkh5440U9ol2K), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8), [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b) | [Nguewe \(Da Africa Deep Remix\)](https://open.spotify.com/album/710MkOOEAqhflwsuHo0zmc) | 7:44 |
 | 17 | [Sizophumelela](https://open.spotify.com/track/1rp9eI9GljiQkh0FYNvCz4) | [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV), [Mpho Wav](https://open.spotify.com/artist/3WZVMjhcy65rUHh5bDNhkN) | [Sizophumelela](https://open.spotify.com/album/69chQMwqV3HO6vgmslcILA) | 4:42 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 123 | [Flava \(feat\. Una Rams & Tellaman\)](https://open.spotify.com/track/2mhkxRse3yU8bx6zJuiNI7) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 4:29 |
 | 124 | [I'm Fallin \(feat\. RY X\)](https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 7:42 |
 
-Snapshot ID: `MCxmNTk2YjRmODM5YWMyOGUwOTRlNjdjMGM0NjBhOTg4MTFjNjU5OWM2`
+Snapshot ID: `MCw0ODk0YTZlMDliNDEyZDUyYTAyMzdhN2IwNjhhNjJkMzA5MzMwYmIz`

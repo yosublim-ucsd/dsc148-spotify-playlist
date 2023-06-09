@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25539,
+  "num_followers": 25545,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWY2OWI4OGM4YzUwYWQwZGM5YTU5MThjNzhkNjRiY2QyMGEyMGQ5",
+  "snapshot_id": "MCxjNzM2NmU1MTA4OTM5ZTUxMGVmYWQ1YjcwOWViMmMyNTE1MTUzMTY2",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "You Still Do",
+        "url": "https://open.spotify.com/album/5ohqgYhe54iCx2e9VG0VDc"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 231641,
+      "name": "You Still Do",
+      "url": "https://open.spotify.com/track/0MxfrTKkWB8JDW2qASFUDY"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "RICHLIN",
         "url": "https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 232400,
       "name": "Love Like Thunder",
       "url": "https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "You Still Do",
-        "url": "https://open.spotify.com/album/5ohqgYhe54iCx2e9VG0VDc"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 231641,
-      "name": "You Still Do",
-      "url": "https://open.spotify.com/track/0MxfrTKkWB8JDW2qASFUDY"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "One More Day",
         "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Faultlines Vol. I",
-        "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
       },
       "artists": [
         {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo"
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -639,6 +623,22 @@
       "duration_ms": 227142,
       "name": "Don't Wanna Wake Up",
       "url": "https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Faultlines Vol. I",
+        "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
+      },
+      "artists": [
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Love / Home",
-        "url": "https://open.spotify.com/album/6FN2OXacVXH97RLonyWVrl"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 177319,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2peHyuWwcc2Jtg6h9Xomu1"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Till I Found You",
         "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 240280,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Love / Home",
+        "url": "https://open.spotify.com/album/6FN2OXacVXH97RLonyWVrl"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 177319,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2peHyuWwcc2Jtg6h9Xomu1"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Love (Remix)",
-        "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 210084,
-      "name": "Love (Remix)",
-      "url": "https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "The Second City",
         "url": "https://open.spotify.com/album/5PQtB12QQQmkTOTxBcaVtR"
       },
@@ -1051,18 +1031,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/5arHoem6Gn0ZZEckShyhP6"
+        "name": "Love (Remix)",
+        "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
       },
       "artists": [
         {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/2qoac9iEajoV0V6eJcCvkJ"
+      "duration_ms": 210084,
+      "name": "Love (Remix)",
+      "url": "https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1079,6 +1063,22 @@
       "duration_ms": 228564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/5arHoem6Gn0ZZEckShyhP6"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/2qoac9iEajoV0V6eJcCvkJ"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Fountain (I Am Good) [Live]",
-        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 318874,
-      "name": "Fountain (I Am Good) - Live",
-      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Let It Be Love",
         "url": "https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 177566,
       "name": "Let It Be Love",
       "url": "https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Fountain (I Am Good) [Live]",
+        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 318874,
+      "name": "Fountain (I Am Good) - Live",
+      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "City Lights (feat. Mitch Wong)",
-        "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
-      },
-      "artists": [
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "City Lights (feat. Mitch Wong)",
-      "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "The Divine Storm",
         "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 181446,
       "name": "Paid For It",
       "url": "https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "City Lights (feat. Mitch Wong)",
+        "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
+      },
+      "artists": [
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "City Lights (feat. Mitch Wong)",
+      "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
     },
     {
       "added_at": "2020-08-13 14:39:00",

@@ -4,7 +4,7 @@
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Ángela Aguilar en portada.
 
-1,939 songs - 4 day 7 hr 43 min
+1,940 songs - 4 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Derechos Reservados](https://open.spotify.com/track/6iSD0JlASJVrEheran4szl) | [Saul Rodriguez](https://open.spotify.com/artist/4jNj4Vx5PPS5qukI3yKOeJ) | [Derechos Reservados](https://open.spotify.com/album/11WLymnCAZa93HSy7640qt) | 2:00 | 2023-04-07 | 2023-04-15 |
 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 | 2023-02-17 | 2023-02-25 |
 | [Desde los 13](https://open.spotify.com/track/6vrJt8JpLTN8QMvbzJKVif) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Destino Final](https://open.spotify.com/artist/2HkbKpMpQjlLtsLph1GrKa) | [Desde los 13](https://open.spotify.com/album/6HTPToyn8gJTM62XL4cuQ5) | 2:33 | 2023-03-03 | 2023-03-11 |
+| [Desde Morrillo](https://open.spotify.com/track/4wuMvaiGvcrqf7PdsvmKcC) | [Jesus Mendez](https://open.spotify.com/artist/1OdQP5euABtleqAhtMyQPe), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Desde Morrillo](https://open.spotify.com/album/0ExDv9olnV0v01RaoIxBbf) | 3:11 | 2023-06-02 |  |
 | [Desde Que Llegaste](https://open.spotify.com/track/07N9a6rth25YQJYGZs3AZ2) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [Desde Que Llegaste](https://open.spotify.com/album/5TOdVFq7ornxXpqZnJjzpx) | 2:36 | 2023-02-03 | 2023-02-11 |
 | [Después De Ella](https://open.spotify.com/track/7Hj5ZFc2W1AVfyN4FNW7Tt) | [Michael Salgado](https://open.spotify.com/artist/3KIX7sAMvFDFFPYubKRZ5w) | [2023](https://open.spotify.com/album/15IMqHJ9SDCObrchMwqUPY) | 2:58 | 2023-04-28 | 2023-05-06 |
 | [Después de las 12 \- Remix](https://open.spotify.com/track/5OrjaJWlswDGCqxWj9lxj0) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Después de las 12 \(Remix\)](https://open.spotify.com/album/2alK8h5rD3pUuGksZJpYpo) | 4:47 | 2022-09-23 | 2022-10-01 |

@@ -104,7 +104,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 257975,
       "name": "A Che Ora l'Amore",
       "url": "https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184389,
       "name": "Altrove - feat. BigMama",
       "url": "https://open.spotify.com/track/0s9EKoTRcWx9cIZmPXKqoW"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 354000,
       "name": "Blush Beat (Jerry Bouthier Remix)",
       "url": "https://open.spotify.com/track/2RPnepLVtZ7UxvQu5oF68e"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 192866,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 431776,
       "name": "Build a House feat. Hard Ton - Prins Thomas Edit",
       "url": "https://open.spotify.com/track/5iX0WM4HW74LC98Ak5AfBD"
@@ -720,6 +720,32 @@
       "duration_ms": 260958,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/6QBtvCoOGTtm2PHkjRsdYb"
+    },
+    {
+      "album": {
+        "name": "Caramella Caramella",
+        "url": "https://open.spotify.com/album/4sQpOAMLAL5gTiZqEuvnrb"
+      },
+      "artists": [
+        {
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        },
+        {
+          "name": "Dumar",
+          "url": "https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba"
+        },
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165431,
+      "name": "Caramella Caramella",
+      "url": "https://open.spotify.com/track/0RtxITcYXbdcoDXhwAgNWd"
     },
     {
       "album": {
@@ -904,7 +930,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 184311,
       "name": "Ciao Ciao",
       "url": "https://open.spotify.com/track/0jLeyuu6mtsD384054xLah"
@@ -922,7 +948,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 234066,
       "name": "Cicale",
       "url": "https://open.spotify.com/track/4c2ypSbxlEtTNcyJ6uZcdn"
@@ -994,7 +1020,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 210046,
       "name": "Classic",
       "url": "https://open.spotify.com/track/1UdcmVABuyQ4ZHiXpzoUZt"
@@ -1110,7 +1136,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 258821,
       "name": "Consense",
       "url": "https://open.spotify.com/track/6EZoj6tAYQqQ90EJf1e8ec"
@@ -1284,6 +1310,24 @@
       "duration_ms": 328199,
       "name": "Deputy Of Love feat. Fonda Rae",
       "url": "https://open.spotify.com/track/1XH8Tk9F84g0x1XDsqwKWt"
+    },
+    {
+      "album": {
+        "name": "Dimmelo Dammelo",
+        "url": "https://open.spotify.com/album/7aO82oyLa5OSlRdt4ZAmiT"
+      },
+      "artists": [
+        {
+          "name": "Croce Atroce",
+          "url": "https://open.spotify.com/artist/2Wfgoshd9oeqYwdQHk2Wdm"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196781,
+      "name": "Dimmelo Dammelo",
+      "url": "https://open.spotify.com/track/7vv2QjWfknI0YaWYA4tqyD"
     },
     {
       "album": {
@@ -1587,6 +1631,28 @@
     },
     {
       "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/7CRqVxuiqfIOQCPyChjQax"
+      },
+      "artists": [
+        {
+          "name": "David Blank",
+          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
+        },
+        {
+          "name": "ilromantico",
+          "url": "https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199242,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6szPjq9dpg5aBat1EwpLmq"
+    },
+    {
+      "album": {
         "name": "UV",
         "url": "https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY"
       },
@@ -1606,7 +1672,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "F.O.M.O. (feat. SPLENDORE & Marta Tenaglia)",
       "url": "https://open.spotify.com/track/0D8SHMmNwJcrMPZoByOmMc"
@@ -1864,7 +1930,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 299258,
       "name": "Fucked Up System",
       "url": "https://open.spotify.com/track/7kUkeMlQGGWIHgLgJpSRfn"
@@ -1886,7 +1952,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 140500,
       "name": "FUORI!!!",
       "url": "https://open.spotify.com/track/3ujQOSC1tMc3sQUMppJQkK"
@@ -2148,7 +2214,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171527,
       "name": "Ho pianto in discoteca",
       "url": "https://open.spotify.com/track/5wvVbN2nYosTemhRiIlJ1K"
@@ -2333,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Inverno dei fiori",
+        "url": "https://open.spotify.com/album/58iVNviD3PagSUWM2kkcFr"
+      },
+      "artists": [
+        {
+          "name": "Michele Bravi",
+          "url": "https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176251,
+      "name": "Inverno dei fiori",
+      "url": "https://open.spotify.com/track/29z1JCsMAx5ahaP3HV6Ful"
+    },
+    {
+      "album": {
         "name": "io in te (feat. EGEENO)",
         "url": "https://open.spotify.com/album/5qo3JH1urOOQw93glEUYik"
       },
@@ -2348,7 +2432,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 188800,
       "name": "io in te - feat. EGEENO",
       "url": "https://open.spotify.com/track/2q6FTdo92t92Pj7tWjMTQY"
@@ -2406,7 +2490,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 319458,
       "name": "Italove",
       "url": "https://open.spotify.com/track/4ll1UfyVm9we6xoTNGnMYO"
@@ -2473,6 +2557,24 @@
     },
     {
       "album": {
+        "name": "l'alba che tornerai",
+        "url": "https://open.spotify.com/album/4xQYDLZ35IlVXDjRikQer8"
+      },
+      "artists": [
+        {
+          "name": "Evra",
+          "url": "https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "l'alba che tornerai",
+      "url": "https://open.spotify.com/track/3RYvA40J85jtXgQOs7yYcN"
+    },
+    {
+      "album": {
         "name": "La terza estate dell'amore",
         "url": "https://open.spotify.com/album/7ePIYYUhWiw1bPKPj31DCa"
       },
@@ -2484,7 +2586,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 224013,
       "name": "La musica illegale",
       "url": "https://open.spotify.com/track/1NWBuL5RKNJpsdN56inHKr"
@@ -2546,7 +2648,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 183311,
       "name": "La Suora",
       "url": "https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq"
@@ -2612,7 +2714,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 231774,
       "name": "LANCIA DELTA INTEGRALE",
       "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
@@ -2648,7 +2750,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 195790,
       "name": "lasciami andare!",
       "url": "https://open.spotify.com/track/5R0GzrFBKM4U0HSGgQSrPC"
@@ -2896,11 +2998,15 @@
         {
           "name": "ASOKO",
           "url": "https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y"
+        },
+        {
+          "name": "Yumeaki",
+          "url": "https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN"
         }
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 105235,
       "name": "LURIDONA",
       "url": "https://open.spotify.com/track/5jk0Jko1G8b9ZtiN7rOBhM"
@@ -2972,7 +3078,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 169753,
       "name": "Magari Vivi",
       "url": "https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2"
@@ -2994,7 +3100,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 150834,
       "name": "Mami Daddy",
       "url": "https://open.spotify.com/track/5VHcNSkMpkjiw245BovVm2"
@@ -3092,7 +3198,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 248901,
       "name": "Merchants",
       "url": "https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd"
@@ -3208,7 +3314,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 320971,
       "name": "Moisture - Headman Club Version [Bonus Track]",
       "url": "https://open.spotify.com/track/7MQISmF9JZI49VOodLfTi7"
@@ -3274,7 +3380,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160105,
       "name": "Nei",
       "url": "https://open.spotify.com/track/1TeDjzY6QWMS6kYw0gE9dz"
@@ -3720,7 +3826,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 147750,
       "name": "Penz a te",
       "url": "https://open.spotify.com/track/4S9OgKUA1qiloXuYJ7XwTr"
@@ -3796,7 +3902,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 349133,
       "name": "Perch\u00e9 piangi Palermo",
       "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
@@ -3818,7 +3924,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 234349,
       "name": "Play With Myself",
       "url": "https://open.spotify.com/track/2oSAdln9nEAmkeXyKZuHBu"
@@ -3884,6 +3990,24 @@
       "duration_ms": 203170,
       "name": "PROFUMO",
       "url": "https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz"
+    },
+    {
+      "album": {
+        "name": "GIOVANE CUORE",
+        "url": "https://open.spotify.com/album/1lF5COKED067Xj4KghvDtQ"
+      },
+      "artists": [
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "PUGNI",
+      "url": "https://open.spotify.com/track/7zaTBr6rFLeH9aYJx43DFJ"
     },
     {
       "album": {
@@ -4062,7 +4186,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 202792,
       "name": "REGNO DEI CUORI",
       "url": "https://open.spotify.com/track/6ccU7LnsRFPt1Y6fUCcHHl"
@@ -4084,7 +4208,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 178000,
       "name": "Repito - Populous Remix",
       "url": "https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw"
@@ -4178,7 +4302,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 218709,
       "name": "S.T.A.R.",
       "url": "https://open.spotify.com/track/4eH6eFLynzhPTxC52cAFV2"
@@ -4360,7 +4484,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 233051,
       "name": "Senticomespinge",
       "url": "https://open.spotify.com/track/47PZZhIc1rQd4CyZ9U0XXX"
@@ -4404,6 +4528,24 @@
       "duration_ms": 210698,
       "name": "Se\u00f1oras Bien",
       "url": "https://open.spotify.com/track/0C60TsFeKSPCyTHolDUN0n"
+    },
+    {
+      "album": {
+        "name": "Spiritual Psychosis",
+        "url": "https://open.spotify.com/album/1sEw2iRX7wrnKxHUvJGxfC"
+      },
+      "artists": [
+        {
+          "name": "Lady Maru",
+          "url": "https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320400,
+      "name": "Shaked Psychosis",
+      "url": "https://open.spotify.com/track/1BcfA6i31Rf9EsCeM78jWx"
     },
     {
       "album": {
@@ -4524,7 +4666,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 385153,
       "name": "Snap Out",
       "url": "https://open.spotify.com/track/1NSL9l3FVezZcX6fp0cuMC"
@@ -4774,7 +4916,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 161302,
       "name": "Superomantico",
       "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
@@ -4898,7 +5040,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 227613,
       "name": "Tanti auguri",
       "url": "https://open.spotify.com/track/46vuDoOH9wmr0CDpomHdR4"
@@ -4916,7 +5058,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 245000,
       "name": "Tell Me What You See",
       "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
@@ -5032,7 +5174,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 349462,
       "name": "Ti voglio",
       "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
@@ -5162,7 +5304,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 260472,
       "name": "Tropicanal",
       "url": "https://open.spotify.com/track/3dLlb5I6vH8flft1ga6YSu"
@@ -5206,6 +5348,24 @@
       "duration_ms": 205592,
       "name": "Tutto va bene quando facciamo l'amore",
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+    },
+    {
+      "album": {
+        "name": "UN'ALTRA ORA",
+        "url": "https://open.spotify.com/album/3iT5RWQ1wA7nQEDtD3kILJ"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "UN'ALTRA ORA",
+      "url": "https://open.spotify.com/track/6mikeU6YbM7bmvxtICEcrM"
     },
     {
       "album": {
@@ -5281,6 +5441,42 @@
     },
     {
       "album": {
+        "name": "Verticale (tempo)",
+        "url": "https://open.spotify.com/album/5g8vlKQpbdrA7LzNASbhCX"
+      },
+      "artists": [
+        {
+          "name": "KAPUT",
+          "url": "https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Verticale (tempo)",
+      "url": "https://open.spotify.com/track/12jJb4Ga68kxx2jBDJW9qC"
+    },
+    {
+      "album": {
+        "name": "Vieni con me - prod. thasup",
+        "url": "https://open.spotify.com/album/6t1txT9S9zDbkRmdJm9e55"
+      },
+      "artists": [
+        {
+          "name": "MYDRAMA",
+          "url": "https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156932,
+      "name": "Vieni con me - prod. thasup",
+      "url": "https://open.spotify.com/track/4glIqTMUpxDxiXbUdLNido"
+    },
+    {
+      "album": {
         "name": "Vroom Vroom EP",
         "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
       },
@@ -5332,7 +5528,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 254186,
       "name": "We're So Lovely - Hard Ton Remix",
       "url": "https://open.spotify.com/track/6qxn9Wge4mHwcDhr8R6R0p"
@@ -5504,7 +5700,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 339509,
       "name": "You Be",
       "url": "https://open.spotify.com/track/79cBivPnoqZt3w7peRRyNl"

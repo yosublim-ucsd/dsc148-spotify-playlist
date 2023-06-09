@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 212839,
+  "num_followers": 212858,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWU2YjY2NDk0YTU1OTI5NjQ1MGMxZGI2MzNmNTdmZmJjZGY0OGY4",
+  "snapshot_id": "MCwxZmExYzE0YTdjMDg1MzNhZWVlMGQxYWU0NWQ3NTdhMTJjMTZiOWU0",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Echoes Of The Heart",
+        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Caught Me By Surprise",
+      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Soul City",
@@ -595,22 +611,6 @@
       "duration_ms": 230696,
       "name": "Soul City",
       "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Echoes Of The Heart",
-        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Caught Me By Surprise",
-      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -683,6 +683,26 @@
       "duration_ms": 316377,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        },
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 242413,
+      "name": "Groovin' U (f",
+      "url": "https://open.spotify.com/track/63XAVsskaasvNFwuX9bDrB"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -771,26 +791,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        },
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 242413,
-      "name": "Groovin' U (f",
-      "url": "https://open.spotify.com/track/63XAVsskaasvNFwuX9bDrB"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Tender (Remix)",
         "url": "https://open.spotify.com/album/3Hu6rLwI8Cqh4NciEwpfmX"
       },
@@ -843,6 +843,26 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Backyard Brew",
+        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
+      },
+      "artists": [
+        {
+          "name": "The JT Project",
+          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
+        },
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 254376,
+      "name": "Backyard Brew",
+      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Poetry In Motion",
         "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 212325,
       "name": "Espresso Shot",
       "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Backyard Brew",
-        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
-      },
-      "artists": [
-        {
-          "name": "The JT Project",
-          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
-        },
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 254376,
-      "name": "Backyard Brew",
-      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lamb",
-          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
-        }
-      ],
-      "duration_ms": 233920,
-      "name": "Limitless - Radio Edit",
-      "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Undeniable",
         "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 258275,
       "name": "Issa Party",
       "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lamb",
+          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Limitless - Radio Edit",
+      "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "M.P.3",
-        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Gonna' Miss You",
-      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "James Vargas",
         "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "M.P.3",
+        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Gonna' Miss You",
+      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "G (Bonus Version)",
         "url": "https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 244600,
       "name": "Taking Control",
       "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Say What",
-        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 227077,
-      "name": "Say What",
-      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1139,6 +1123,22 @@
       "duration_ms": 261401,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Say What",
+        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 227077,
+      "name": "Say What",
+      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "City Beat",
+        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
+      },
+      "artists": [
+        {
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "City Beat",
+      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "City Beat",
-        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
       },
       "artists": [
         {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
         }
       ],
-      "duration_ms": 242933,
-      "name": "City Beat",
-      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
+      "duration_ms": 248071,
+      "name": "Kiss and Tell",
+      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1249,22 +1265,6 @@
       "url": "https://open.spotify.com/track/4vMb0VIg2w6qcrfaqRjcYB"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Church Boy",
-        "url": "https://open.spotify.com/album/2PIgTemiHmAhSigq3FxWKM"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "I Smile",
-      "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "On The Move",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
+        "name": "Church Boy",
+        "url": "https://open.spotify.com/album/2PIgTemiHmAhSigq3FxWKM"
       },
       "artists": [
         {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
         }
       ],
-      "duration_ms": 248071,
-      "name": "Kiss and Tell",
-      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
+      "duration_ms": 324453,
+      "name": "I Smile",
+      "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Moment of Truth",
-        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
       },
       "artists": [
         {
-          "name": "Neamen Lyles",
-          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
+          "name": "The Groove Project",
+          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
+        },
+        {
+          "name": "Adam Holzman",
+          "url": "https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO"
         }
       ],
-      "duration_ms": 263106,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
+      "duration_ms": 256652,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1367,22 +1371,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
       },
       "artists": [
         {
-          "name": "The Groove Project",
-          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
-        },
-        {
-          "name": "Adam Holzman",
-          "url": "https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO"
+          "name": "Neamen Lyles",
+          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
         }
       ],
-      "duration_ms": 256652,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
+      "duration_ms": 263106,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1489,28 +1489,24 @@
       "url": "https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2021-07-12 18:23:33",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/50h9oPdFPFkcbCDrS6b4XS"
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
       },
       "artists": [
         {
-          "name": "Jazmin Ghent",
-          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
         },
         {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Philippe Saisse",
-          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
         }
       ],
-      "duration_ms": 264151,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
+      "duration_ms": 238529,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1535,6 +1531,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "Side by Side",
+      "url": "https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh"
       },
@@ -1551,18 +1563,26 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv"
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/50h9oPdFPFkcbCDrS6b4XS"
       },
       "artists": [
         {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+          "name": "Jazmin Ghent",
+          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
+        },
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Philippe Saisse",
+          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
         }
       ],
-      "duration_ms": 304600,
-      "name": "Side by Side",
-      "url": "https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP"
+      "duration_ms": 264151,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -1579,26 +1599,6 @@
       "duration_ms": 248472,
       "name": "No Shade",
       "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "In the Moment",
-        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
-      },
-      "artists": [
-        {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
-        },
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        }
-      ],
-      "duration_ms": 238529,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1697,20 +1697,20 @@
       "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2021-10-01 04:02:00",
       "album": {
-        "name": "Steppin' Up",
-        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
+        "name": "Straight to the Point",
+        "url": "https://open.spotify.com/album/2xgDe9WhVacLda2qrFB511"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Ward",
-          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 284093,
-      "name": "City Vibe",
-      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
+      "duration_ms": 242379,
+      "name": "Straight to the Point",
+      "url": "https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA"
     }
   ],
   "unique_name": "Sax and the City",

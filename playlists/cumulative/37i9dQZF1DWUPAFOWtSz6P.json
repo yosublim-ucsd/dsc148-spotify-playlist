@@ -1274,10 +1274,28 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 214142,
       "name": "This Must Be the Place (Naive Melody)",
       "url": "https://open.spotify.com/track/68DJwUeMyM2ac4Kahfzzy8"
+    },
+    {
+      "album": {
+        "name": "This Must Be the Place (Na\u00efve Melody)",
+        "url": "https://open.spotify.com/album/7IdQctbEeHZnOXtuXNhU3J"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214142,
+      "name": "This Must Be the Place (Na\u00efve Melody)",
+      "url": "https://open.spotify.com/track/3AzxRasq4dOQEVWoLqqdH5"
     },
     {
       "album": {

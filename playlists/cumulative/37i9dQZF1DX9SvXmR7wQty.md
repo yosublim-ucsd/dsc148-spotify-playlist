@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo:  GreenWoodz
 
-1,883 songs - 4 day 4 hr 49 min
+1,884 songs - 4 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Coke Cowboys](https://open.spotify.com/track/4XNqghsgYsDRdODWHE7CBB) | [Dolfa](https://open.spotify.com/artist/4tYq6yvHUighhKUCd2WyUw), [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE), [Marlon](https://open.spotify.com/artist/7aG0VPVMhKj73bFRjNgAWr) | [Coke Cowboys](https://open.spotify.com/album/1eDel5luSCKr12uxQ2On2N) | 3:39 | 2022-01-28 | 2022-02-05 |
 | [Colibri](https://open.spotify.com/track/00HHatXoRa0KSgjUwu6Q4B) | [Country Club Pool Boy](https://open.spotify.com/artist/1gfU9wDNngW3xiJOAZalop), [Sophie D'Orléans](https://open.spotify.com/artist/4ne3AsAwTNAoQ74s5d0DGg) | [Colibri](https://open.spotify.com/album/1PYyoo19y5VwTx7xW7rU1A) | 2:35 | 2022-07-01 | 2022-07-16 |
 | [COLOC RECHERCHER](https://open.spotify.com/track/4ULP5zQWdUGKLVtBtU3Wrv) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [COLOC RECHERCHER](https://open.spotify.com/album/1YoeZQtUZOIaIatVrcQuGx) | 1:37 | 2022-08-19 | 2022-09-03 |
+| [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 | 2023-06-02 |  |
 | [Combien de fois](https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [CHROME](https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V) | 2:34 | 2023-03-31 | 2023-04-24 |
 | [Come and go](https://open.spotify.com/track/1I2veivnqzi9M0VPpZOPj3) | [Jacopo Planet](https://open.spotify.com/artist/4poKX0fRYCGvuffNIj2f5f), [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [Come and go](https://open.spotify.com/album/6Xy7zPLdpCdZ1GIOxxojNU) | 3:14 | 2022-11-11 | 2022-11-26 |
 | [Come To Daddy](https://open.spotify.com/track/0ANCfH6hKlqHqAdDczc7Qd) | [JACO](https://open.spotify.com/artist/4xPAHa1oTYyvzfNlCO5YGp) | [Come To Daddy](https://open.spotify.com/album/09u8dCwj2GDRuKsjJVRbqI) | 3:06 | 2023-03-31 | 2023-04-09 |
@@ -348,7 +349,7 @@
 | [Comment tu vas finir](https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Comment tu vas finir](https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz) | 2:29 | 2021-12-31 | 2022-01-15 |
 | [Comment tu vas?](https://open.spotify.com/track/3KsUnYbPcOMHetYdc3ftlZ) | [King Maliba](https://open.spotify.com/artist/5qdNvzjfLvWUkcbWVjuu08) | [Comment tu vas?](https://open.spotify.com/album/7GdSUvEjuoeKPF03foQpeD) | 3:02 | 2022-04-15 | 2022-04-23 |
 | [Commun maintenant \- Session live H2T](https://open.spotify.com/track/5cqlX4QK1VnaK0cT0d8vSL) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Commun maintenant \(Session Live H2T\)](https://open.spotify.com/album/7wgAYh8mujlxEtD8wtpQFQ) | 3:24 | 2022-05-27 | 2022-06-04 |
-| [Confetti \(VF\)](https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti \(VF\)](https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI) | 3:04 | 2023-05-05 |  |
+| [Confetti \(VF\)](https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti \(VF\)](https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI) | 3:04 | 2023-05-05 | 2023-06-09 |
 | [Contentement](https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39) | [Julie Aubé](https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM) | [Contentement](https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M) | 3:25 | 2022-09-09 | 2022-09-24 |
 | [Contvct \(feat\. Aya Nakamura\)](https://open.spotify.com/track/7BIPJBIGoxQTn3i748Wk0j) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [LMDB](https://open.spotify.com/album/18xrakiypJXRVWnCD30zjD) | 2:56 | 2022-10-07 | 2022-10-22 |
 | [Copy Paste](https://open.spotify.com/track/4JXpQGb6CUa9rf3Ywq3nFs) | [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD) | [Copy Paste](https://open.spotify.com/album/4mkIAFrgUCFLCFGGdDNS8z) | 2:48 | 2023-01-13 | 2023-01-21 |

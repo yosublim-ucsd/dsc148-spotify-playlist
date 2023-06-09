@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: CMAT",
+  "description": "The home of the best new alternative music. Cover: Christine & The Queens",
   "name": "The Other List",
   "tracks": [
     {
@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "451",
+        "url": "https://open.spotify.com/album/4YH2TfFleoOkOT5XwQRRsh"
+      },
+      "artists": [
+        {
+          "name": "Arliston",
+          "url": "https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281993,
+      "name": "451",
+      "url": "https://open.spotify.com/track/2HwF4B41ftwnEnmoPAS5ID"
+    },
+    {
+      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/5KtRQ7foThUhGLBdHgEJkU"
       },
@@ -600,6 +618,24 @@
       "duration_ms": 170321,
       "name": "A Crime (By Big Red Machine)",
       "url": "https://open.spotify.com/track/0HgktrvMz1dhVxLGJ1gvpu"
+    },
+    {
+      "album": {
+        "name": "A day in the water",
+        "url": "https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241661,
+      "name": "A day in the water",
+      "url": "https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o"
     },
     {
       "album": {
@@ -943,6 +979,24 @@
     },
     {
       "album": {
+        "name": "O Monolith",
+        "url": "https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334321,
+      "name": "After The Flash",
+      "url": "https://open.spotify.com/track/4eJ8NYk3p9lx5I0q9xt3rI"
+    },
+    {
+      "album": {
         "name": "You Of Now, Pt. 2",
         "url": "https://open.spotify.com/album/4MjtzAz6GFILAVpfPMXvBQ"
       },
@@ -1118,6 +1172,24 @@
       "duration_ms": 216777,
       "name": "All About You (feat. Foster The People)",
       "url": "https://open.spotify.com/track/5ug2bpyUHVOR7Y3TUPH3J7"
+    },
+    {
+      "album": {
+        "name": "all i do is try my best",
+        "url": "https://open.spotify.com/album/64hMpVUUfv4De0CK76WQYr"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169267,
+      "name": "all i do is try my best",
+      "url": "https://open.spotify.com/track/2u0jaGY3UtmxaNXzACnxPO"
     },
     {
       "album": {
@@ -1402,7 +1474,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 232212,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/5O4dlgfCLqkyrHWghRfIrT"
@@ -1624,7 +1696,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 198546,
       "name": "Anti-Curse",
       "url": "https://open.spotify.com/track/4LOg3dKvCAJiF9NYC7YqzG"
@@ -6666,7 +6738,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 200506,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/5V50egGmw0ZjASATtfBaHm"
@@ -6710,7 +6782,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 297529,
       "name": "Do Whatever Makes You Happy",
       "url": "https://open.spotify.com/track/3Y9n6XbVFOzx2scoU2PjGj"
@@ -7284,7 +7356,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 233600,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
@@ -7414,7 +7486,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 240737,
       "name": "DYWTYLM",
       "url": "https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI"
@@ -7754,7 +7826,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 176976,
       "name": "Everything I Ever Wanted",
       "url": "https://open.spotify.com/track/3fmDWcbvrOZkl4DdU7efWY"
@@ -8547,6 +8619,24 @@
     },
     {
       "album": {
+        "name": "Flimsier",
+        "url": "https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239910,
+      "name": "Flimsier",
+      "url": "https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI"
+    },
+    {
+      "album": {
         "name": "Float",
         "url": "https://open.spotify.com/album/75Rj4tJgL2wKuMxG6ULNHp"
       },
@@ -9258,7 +9348,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 175173,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/1ud2UCQ3mDIKYxOTWvcZpM"
@@ -12087,6 +12177,24 @@
     },
     {
       "album": {
+        "name": "I Inside the Old I Dying",
+        "url": "https://open.spotify.com/album/46ItYQNVmibRsjkzXIDKFs"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "I Inside the Old I Dying",
+      "url": "https://open.spotify.com/track/5l1fhxvwZBIlMqY1ZsbnNd"
+    },
+    {
+      "album": {
         "name": "i just want to hide my face",
         "url": "https://open.spotify.com/album/0mPO0i23qRLIkp5DgmpFkB"
       },
@@ -14704,7 +14812,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 197253,
       "name": "Little Sister",
       "url": "https://open.spotify.com/track/5TIlS6x3OKQnQh3rIoKDqu"
@@ -15930,7 +16038,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 155121,
       "name": "Mary",
       "url": "https://open.spotify.com/track/2JCzzT5ituksCzs3ICDLdR"
@@ -17823,6 +17931,24 @@
     },
     {
       "album": {
+        "name": "Nothing Clever, Just Feelings",
+        "url": "https://open.spotify.com/album/7Ga90eVTkfDeuF3IuIaZ96"
+      },
+      "artists": [
+        {
+          "name": "CLT DRP",
+          "url": "https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Nothing Clever, Just Feelings",
+      "url": "https://open.spotify.com/track/7CqO0bA88qDratba4TDrU0"
+    },
+    {
+      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
       },
@@ -18196,7 +18322,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 203876,
       "name": "Oh No Darling!",
       "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
@@ -22201,6 +22327,24 @@
     },
     {
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4m9DcoBe4Y0IVCZqIGww7v"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181403,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/6kU3y1scDotMEOKPvxzfYp"
+    },
+    {
+      "album": {
         "name": "Skinny Ape",
         "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
       },
@@ -23980,6 +24124,24 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"
+    },
+    {
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/77Ob5Q6w1Pgcsnzwz7qs2h"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285586,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG"
     },
     {
       "album": {
@@ -28644,6 +28806,24 @@
       "duration_ms": 204000,
       "name": "You Can Bet Your Hat on It",
       "url": "https://open.spotify.com/track/1h5vm1Dz3z7KBqh7cSw9p1"
+    },
+    {
+      "album": {
+        "name": "You don't even know who I am",
+        "url": "https://open.spotify.com/album/119JYB6WfmQedqfjFBwgnl"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244022,
+      "name": "You don't even know who I am",
+      "url": "https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG"
     },
     {
       "album": {

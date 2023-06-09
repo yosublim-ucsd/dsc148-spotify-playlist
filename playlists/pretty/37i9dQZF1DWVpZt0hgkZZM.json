@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 19503,
+  "num_followers": 19536,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDU0NmIyYjdiYmVkMzllMjQ4OWZiZGM0YmFiODA5NmZjOTBmNGI5",
+  "snapshot_id": "MCwwZGFkZGM1ZDJhMmNkMTBhNTg5OTE5MTA4MTk3YWFjMzhmMDk1OGNj",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
-      },
-      "artists": [
-        {
-          "name": "La Familia Andr\u00e9",
-          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "De Oro",
-      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "35 A\u00f1os de Exitos",
         "url": "https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 263201,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
+      },
+      "artists": [
+        {
+          "name": "La Familia Andr\u00e9",
+          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "De Oro",
+      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -943,18 +943,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Exito",
-        "url": "https://open.spotify.com/album/47KNauaaXrTkZ6GcR1ggRF"
+        "name": "35 A\u00f1os de Exitos",
+        "url": "https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja"
       },
       "artists": [
         {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+          "name": "El Sonero de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ"
         }
       ],
-      "duration_ms": 213865,
-      "name": "Golpe Con Golpe",
-      "url": "https://open.spotify.com/track/0uy25GJVvIL2qhCYoR676k"
+      "duration_ms": 376706,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/6kYrJTVOGyQGJM7u8xkikc"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -991,18 +991,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "35 A\u00f1os de Exitos",
-        "url": "https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja"
+        "name": "Exito",
+        "url": "https://open.spotify.com/album/47KNauaaXrTkZ6GcR1ggRF"
       },
       "artists": [
         {
-          "name": "El Sonero de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ"
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 376706,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/6kYrJTVOGyQGJM7u8xkikc"
+      "duration_ms": 213865,
+      "name": "Golpe Con Golpe",
+      "url": "https://open.spotify.com/track/0uy25GJVvIL2qhCYoR676k"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Latin Vallenatos",
-        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
-      },
-      "artists": [
-        {
-          "name": "Vallenatos Nativos",
-          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
-        }
-      ],
-      "duration_ms": 214840,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Y Como Se Mata El Gusano?",
         "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 196040,
       "name": "Junto A Tu Corazon",
       "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Latin Vallenatos",
+        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
+      },
+      "artists": [
+        {
+          "name": "Vallenatos Nativos",
+          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
+        }
+      ],
+      "duration_ms": 214840,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 220451,
       "name": "Ojitos Hechiceros",
       "url": "https://open.spotify.com/track/0ksLUL7VoeNwHJsmO9ldnR"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Por una L\u00e1grima",
+      "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
       },
       "artists": [
         {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ"
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 249746,
-      "name": "Por una L\u00e1grima",
-      "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ"
+        }
+      ],
+      "duration_ms": 247059,
+      "name": "Ag\u00fcita 'e Coco",
+      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Los Dos Inseparables",
         "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 226086,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/705gb4qpSn1fYD0Qlz46z6"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ"
-        }
-      ],
-      "duration_ms": 247059,
-      "name": "Ag\u00fcita 'e Coco",
-      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Un Mundo De Colores",
-        "url": "https://open.spotify.com/album/3bdBFy3ys7ZNU6DybFRLff"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bananas",
-          "url": "https://open.spotify.com/artist/0kFlXH8kEcLpAVjDQbPCM8"
-        }
-      ],
-      "duration_ms": 254902,
-      "name": "Mas Que Amiga",
-      "url": "https://open.spotify.com/track/7rqKqtWF99DvueyNdRImXf"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 269191,
       "name": "El Santo Cachon",
       "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Un Mundo De Colores",
+        "url": "https://open.spotify.com/album/3bdBFy3ys7ZNU6DybFRLff"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bananas",
+          "url": "https://open.spotify.com/artist/0kFlXH8kEcLpAVjDQbPCM8"
+        }
+      ],
+      "duration_ms": 254902,
+      "name": "Mas Que Amiga",
+      "url": "https://open.spotify.com/track/7rqKqtWF99DvueyNdRImXf"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Cumbias, Cumbias",
-        "url": "https://open.spotify.com/album/4IGwcswnHXPJ3b85cYEYhA"
+        "name": "50 A\u00f1os",
+        "url": "https://open.spotify.com/album/03P9nkgd358tP9XIPxzKHM"
       },
       "artists": [
         {
-          "name": "Los Warahuaco",
-          "url": "https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ"
+          "name": "Gabino Pampini",
+          "url": "https://open.spotify.com/artist/6ATSWHl0DG8Qdy3YwbisJs"
         }
       ],
-      "duration_ms": 174733,
-      "name": "El Pescador de Bar\u00fa",
-      "url": "https://open.spotify.com/track/7pjSbRfTwv6sk8lHCWquZI"
+      "duration_ms": 248778,
+      "name": "Me Recordaras",
+      "url": "https://open.spotify.com/track/0w5lgtOu6MFQQsnNQeuuld"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

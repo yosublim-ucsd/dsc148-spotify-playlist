@@ -536,6 +536,10 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         },
         {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        },
+        {
           "name": "JVKE",
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
@@ -4908,6 +4912,24 @@
       "duration_ms": 184117,
       "name": "JIKJIN - KR ver.-",
       "url": "https://open.spotify.com/track/33vvHZp8OV6uDHImLtcwy1"
+    },
+    {
+      "album": {
+        "name": "HARMONY : ALL IN",
+        "url": "https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163280,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2"
     },
     {
       "album": {

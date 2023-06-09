@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 224 songs - 14 hr 26 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 227 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,6 +231,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 221 | [Gelid Ascent](https://open.spotify.com/track/1be49tNalB6UhKCfhpCV0B) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Paralytic Stalks](https://open.spotify.com/album/6nWmjBhBCijSziLSz10FyL) | 4:09 |
 | 222 | [My, What A Strange Day With A Swede](https://open.spotify.com/track/11R34yTJbfLMltkkDxYzsH) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [If He Is Protecting Our Nation, Then Who Will Protect Big Oil, Our Children?](https://open.spotify.com/album/2Yi1vhHk6Fe52XLRUuw5b6) | 4:11 |
 | 223 | [Everyone I Went to High School with Is Dead](https://open.spotify.com/track/2apsFfsxR5nkYkHaDMOs74) | [Mr\. Bungle](https://open.spotify.com/artist/2zq0uqN9Wq12tqrQQt1ozw) | [Disco Volante](https://open.spotify.com/album/0DK10k39r9LAZ7HgP1EPuB) | 2:45 |
-| 224 | [Sleep to Dream](https://open.spotify.com/track/51HiIbv8gO0HvwpmAxXAFe) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:08 |
+| 224 | [Boys](https://open.spotify.com/track/6Nc3KauZ5OOk7ogX7h5HhO) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 4:39 |
+| 225 | [Sleep to Dream](https://open.spotify.com/track/51HiIbv8gO0HvwpmAxXAFe) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:08 |
+| 226 | [French Navy](https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 3:18 |
+| 227 | [Suspended From Class](https://open.spotify.com/track/2YDmCSVs46QrhD2sqYGGqx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 3:46 |
 
-Snapshot ID: `ODk1LGQxODhkNjA4MjVmNTAzODhkMzc2ZTdhNzAzMDYzMzIwMmNmNDU3NDI=`
+Snapshot ID: `ODk5LDQyYjY0ODlhMjdmNjAyMGU3MGNlZGUxNWFjNzI0NjM3YzZkZGQwYzE=`

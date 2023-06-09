@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,084 songs - 2 day 11 hr 53 min
+1,085 songs - 2 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Hchouma](https://open.spotify.com/track/6N4T2Ta0KoaisECYl4tkMu) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 1:51 | 2023-01-08 | 2023-01-10 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-10-19 | 2022-05-25 |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-08-31 | 2021-09-02 |
-| [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 | 2023-05-14 |  |
+| [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 | 2023-05-14 | 2023-06-09 |
 | [Here We Go… Again \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-12 |
 | [Hickey](https://open.spotify.com/track/3B67oAJr4acToGpR1S33g5) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Hickey](https://open.spotify.com/album/6l0VWNBC0Oppta7L3WkWnj) | 3:05 | 2022-03-15 | 2023-01-07 |
 | [Hickey](https://open.spotify.com/track/6Nomw2IB68ynim4gkwapFM) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [AUBE](https://open.spotify.com/album/6AVj98SypznZT2Lwe2r6HC) | 3:05 | 2023-01-07 | 2023-01-10 |
@@ -451,7 +451,7 @@
 | [Intro: Singularity](https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 3:16 | 2021-12-28 | 2022-12-12 |
 | [Introduction](https://open.spotify.com/track/5w3GRfKybnACxA4vTuIDAi) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Introduction](https://open.spotify.com/album/5eSCDUqENVNgdu6BbEtNzZ) | 1:34 | 2023-02-18 | 2023-02-20 |
 | [Iori 4](https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 4](https://open.spotify.com/album/4ptNJwxaU4mzYHjzOtdjV0) | 4:14 | 2022-01-08 | 2022-03-18 |
-| [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 | 2022-12-24 |  |
+| [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 | 2022-12-24 | 2023-06-09 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [It's on you](https://open.spotify.com/track/5oFiR2mnkw77K9Nugz9IrR) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [Lo\-Fights](https://open.spotify.com/album/3CvCF4jbyPsewmZYhZbRva) | 2:38 | 2022-06-19 | 2022-06-21 |
 | [IVERSON](https://open.spotify.com/track/5ZjEm81TYFPfE6Ddc0memq) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 2:45 | 2021-07-18 | 2021-07-19 |
@@ -696,7 +696,7 @@
 | [Namasté](https://open.spotify.com/track/1375s9UvwpHaB9MH8tLlXc) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [XXXRAYS](https://open.spotify.com/artist/71S3b5lQHZQgtsQHGyoj52), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 3:48 | 2021-06-24 | 2021-06-25 |
 | [Napoli](https://open.spotify.com/track/3RgA5F34sshv7YfdAvRtne) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 3:54 | 2021-09-15 | 2021-11-05 |
 | [Nar](https://open.spotify.com/track/3PUmhHpH9x9hHtQqOMZ953) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:23 | 2023-04-30 | 2023-05-02 |
-| [Nari](https://open.spotify.com/track/1uApa4g1Fr87F4IAC2Xgc2) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Nari](https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5) | 2:40 | 2023-06-05 | 2023-06-08 |
+| [Nari](https://open.spotify.com/track/1uApa4g1Fr87F4IAC2Xgc2) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Nari](https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5) | 2:40 | 2023-06-05 |  |
 | [Nari](https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Nari](https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q) | 3:57 | 2021-09-27 | 2021-12-01 |
 | [Nasa](https://open.spotify.com/track/2OZVq7Q1zcI1RDhy5ORf4m) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Nasa](https://open.spotify.com/album/3H0ogPMW8dHDncnryhcfbY) | 2:41 | 2021-07-17 | 2021-08-06 |
 | [Ndokk\-ha](https://open.spotify.com/track/3dovliAqBRD4CIhCD2uYyH) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:04 | 2022-11-04 | 2022-11-20 |
@@ -860,6 +860,7 @@
 | [Safe safe](https://open.spotify.com/track/5LyViLHbmjbJgQwwNgKEEH) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:40 | 2021-10-10 | 2022-07-10 |
 | [Safety Zone](https://open.spotify.com/track/00I41xsW6SunZDJ5fB8KAd) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:45 | 2022-07-16 | 2022-07-18 |
 | [Salade Coco](https://open.spotify.com/track/2BJh2IoGeq0UQVsLHUcbrK) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/4WMyOG6VuYgUJABGPES4iA) | 2:47 | 2021-12-18 | 2023-06-06 |
+| [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2023-06-08 |  |
 | [Salade Coco](https://open.spotify.com/track/1z4OvCAAA37bY2FZOa2Ili) | [Hits Bank](https://open.spotify.com/artist/6YnyH2nNtyxMlhNOS6pi4e) | [Salade Coco](https://open.spotify.com/album/0d2prazWEW4CfIocjd2RRy) | 2:58 | 2021-12-18 | 2021-12-19 |
 | [Salat La Fête](https://open.spotify.com/track/2C6EKSJ9CJMhaf61UDTqAm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:05 | 2021-10-03 | 2021-10-18 |
 | [Sanae \(Skit\)](https://open.spotify.com/track/3MRdoQYIdAgWV4y0InHrws) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 1:53 | 2022-11-04 | 2022-11-10 |

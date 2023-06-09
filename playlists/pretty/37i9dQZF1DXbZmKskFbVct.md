@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,692 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,690 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 31 | [ROLEPLAY VENDEUSE DE CHAUSSURES, Pt\. 1](https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd) | [Dolce Romy ASMR](https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n) | [ROLEPLAY VENDEUSE DE CHAUSSURES](https://open.spotify.com/album/3Ur9ZcrfbUP9eBXfNvXkVm) | 5:02 |
 | 32 | [The Invisible Man \- Unintelligible Inaudible Whispered Reading, Pt\. 6](https://open.spotify.com/track/3FNsE3UYSS8IApdW75p3rq) | [WhisperAudios ASMR](https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G) | [ASMR \- The Invisible Man \- Unintelligible/Inaudible Whispered Reading \(WITHOUT ambient sounds\)](https://open.spotify.com/album/23ZSJ73eskvUgV5tqOlWIV) | 5:59 |
 | 33 | [Anticipatory Ear to Ear Whispers Pt.1](https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT) | [Slight Sounds ASMR](https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts) | [Anticipatory Ear to Ear Whisepers](https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL) | 5:22 |
-| 34 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
-| 35 | [Relax and Close Your Eyes](https://open.spotify.com/track/3ejyzJpCraPR613IbUrnaL) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Step\-Sis Takes Care Of You](https://open.spotify.com/album/0Bfxpvxe19ojYWQ8ZgCF8A) | 7:00 |
-| 36 | [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ) | 5:16 |
-| 37 | [Violet is BACK to help you fall sleep Pt.1](https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg) | [RoseASMR](https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS) | [Violet is BACK to help you fall sleep](https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw) | 4:37 |
+| 34 | [Relax and Close Your Eyes](https://open.spotify.com/track/3ejyzJpCraPR613IbUrnaL) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Step\-Sis Takes Care Of You](https://open.spotify.com/album/0Bfxpvxe19ojYWQ8ZgCF8A) | 7:00 |
+| 35 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
+| 36 | [Violet is BACK to help you fall sleep Pt.1](https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg) | [RoseASMR](https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS) | [Violet is BACK to help you fall sleep](https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw) | 4:37 |
+| 37 | [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ) | 5:16 |
 | 38 | [Santorini Sunbath](https://open.spotify.com/track/4tl4BYdRlBuY6LvDJcIECm) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 4:31 |
 | 39 | [DEEP SLEEP in 45 Minutes Pt.3](https://open.spotify.com/track/0vDgu0Eyll8tdk1ai6J94q) | [Alana ASMR](https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM) | [DEEP SLEEP in 45 Minutes](https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u) | 4:58 |
 | 40 | [Uplifting Mantra Pt One](https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l) | [Asmr Brain Tingle](https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m) | [Uplifting Mantras](https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g) | 4:53 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 46 | [7 Terrific Triggers, Pt\. 1](https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [7 Terrific Triggers](https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3) | 3:36 |
 | 47 | [8D Mic Scratching with Spoolie and Slow Whispering, Pt\. 4](https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [ASMR 8D Mic Scratching w/Spoolie and Slow Whispering](https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc) | 3:26 |
 | 48 | [Red Candle Whisper Description](https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Binaural ASMR Descriptions](https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0) | 2:46 |
-| 49 | [Cozy Low\-Light Pt.4](https://open.spotify.com/track/16hoz3j0hMPDMJYv659kPq) | [Goodnight Moon ASMR](https://open.spotify.com/artist/2suw8cZRpUiapwhFP8tASj) | [Cozy Low\-Light](https://open.spotify.com/album/4ycfXJlHSIT4JeosgjGcMb) | 7:50 |
-| 50 | [Breathing in and out](https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 4:04 |
+| 49 | [Breathing in and out](https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 4:04 |
+| 50 | [Cozy Low\-Light Pt.4](https://open.spotify.com/track/16hoz3j0hMPDMJYv659kPq) | [Goodnight Moon ASMR](https://open.spotify.com/artist/2suw8cZRpUiapwhFP8tASj) | [Cozy Low\-Light](https://open.spotify.com/album/4ycfXJlHSIT4JeosgjGcMb) | 7:50 |
 
-Snapshot ID: `MCwxNTQ2NjgzNmM2ZGVmZTYxODExY2RkYzQ5MTNkMWJjYjMxMzMzMDM4`
+Snapshot ID: `MCw4NTUzODg2Yjg1YTllMTQ3ZTAwYTFhYmYxNjE2MWQ3ZWZkOTI3MzAz`

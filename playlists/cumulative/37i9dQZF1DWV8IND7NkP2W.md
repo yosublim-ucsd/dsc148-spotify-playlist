@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-603 songs - 1 day 3 hr 4 min
+604 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [caravan](https://open.spotify.com/track/66j0QbHI6VRrDyIBKpj8cx) | [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [caravan](https://open.spotify.com/album/7J8kEw1gStQfSksAACR8qq) | 2:47 | 2022-01-13 | 2022-07-25 |
 | [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 | 2022-12-16 |  |
 | [Cat Alley](https://open.spotify.com/track/4y9mOkYt3R1VN4kIDbJyz0) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Cat Alley](https://open.spotify.com/album/5cAV9PNJYbpYFAst4vVUsy) | 1:29 | 2021-12-23 | 2022-07-21 |
-| [CDEFGAB](https://open.spotify.com/track/2ufuWLWpdo8C0zZlETgvxR) | [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [CDEFGAB](https://open.spotify.com/album/16Jd8mOc6Fn2JxXqyOCrD3) | 2:36 | 2023-03-23 |  |
+| [CDEFGAB](https://open.spotify.com/track/2ufuWLWpdo8C0zZlETgvxR) | [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [CDEFGAB](https://open.spotify.com/album/16Jd8mOc6Fn2JxXqyOCrD3) | 2:36 | 2023-03-23 | 2023-06-09 |
 | [Charlie](https://open.spotify.com/track/3S34zryr8HZBiG6WglMjLU) | [MIKISARA](https://open.spotify.com/artist/03y7qdJe0fDUfULcg162jZ) | [Charlie](https://open.spotify.com/album/1lDSDQQgtARrpPYjYwblyo) | 5:01 | 2021-12-23 | 2022-02-10 |
 | [Cheongshin](https://open.spotify.com/track/2NyFugrzJAyMDLJ2TDDYAx) | [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Cheongshin](https://open.spotify.com/album/5764vWIW5PEoi0IA81Lz6n) | 1:16 | 2021-12-23 | 2022-07-10 |
 | [chidori](https://open.spotify.com/track/3riZQ5Vi2XUbWrCSE4YRYQ) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [UNITED EAST ASIA](https://open.spotify.com/album/1bak3p7f7K3RTcqHZXnvzH) | 1:56 | 2022-01-13 | 2022-06-06 |
@@ -314,6 +314,7 @@
 | [mement](https://open.spotify.com/track/36umuAOjXpoxzYXmkTbxv7) | [loner](https://open.spotify.com/artist/0cg7k8SzwAc1aXnLd2iTwH) | [mement](https://open.spotify.com/album/61gSzaqoUlGG6TfhzZAZK5) | 3:12 | 2022-12-01 | 2023-04-24 |
 | [Memories of Furniture](https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Memories of Furniture](https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv) | 3:33 | 2021-12-23 | 2023-05-05 |
 | [meraki](https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [meraki / cosmogyral](https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6) | 2:28 | 2021-12-23 |  |
+| [michi](https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [michi](https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP) | 2:38 | 2023-06-08 |  |
 | [Midnight Peeps, Pt.2](https://open.spotify.com/track/2WSgwK0GqTZK8yTioy0Cd8) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Midnight Peeps, Pt.2](https://open.spotify.com/album/0yMnyXQqxoFviK7NLjfWPL) | 3:34 | 2022-01-06 | 2022-07-11 |
 | [midnightblue](https://open.spotify.com/track/68vICURdbP4DrFdumsxddr) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [midnightblue](https://open.spotify.com/album/5hWozsqDLkH1M9llIOVqP8) | 2:50 | 2021-12-23 | 2022-07-27 |
 | [MidnightBlue](https://open.spotify.com/track/4BeIZYbemmAQ8azx7Y9Vvr) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Opal](https://open.spotify.com/album/1ltmHOkm08hEvcsoLq4S3Q) | 3:03 | 2022-07-28 | 2022-07-30 |
@@ -425,8 +426,8 @@
 | [re: Belief](https://open.spotify.com/track/0g1Pc2u4bltu3qWzidT1Yk) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [re: Belief](https://open.spotify.com/album/0QWsMY7mIJFA7Rj4gDiHIN) | 2:03 | 2022-07-28 | 2022-08-01 |
 | [re: Belief](https://open.spotify.com/track/1zJGVQOqRG5n3Tkdg56ZbM) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [re: Belief](https://open.spotify.com/album/7scWksNtviv53vicGDfGQr) | 2:03 | 2022-07-07 | 2022-07-29 |
 | [re: Day Trip](https://open.spotify.com/track/3fZdrOHUqRASVTOBc4hhyK) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [re: Day Trip](https://open.spotify.com/album/6LQKkD2sgGfkMbXvpXevNV) | 2:17 | 2022-06-02 | 2022-07-29 |
-| [re: Labyrinth](https://open.spotify.com/track/5Bis2FY538rXD9tHWdmitY) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [re: Labyrinth](https://open.spotify.com/album/0gVIBAXQA6SOSMW46veT0b) | 3:05 | 2022-11-10 | 2023-06-08 |
-| [re: Nobody Else](https://open.spotify.com/track/53dsepx7bFpx2OEfhAo21t) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr) | [re: Nobody Else](https://open.spotify.com/album/0GLWTNcU2G3OVQL87ztyVv) | 2:07 | 2023-04-13 |  |
+| [re: Labyrinth](https://open.spotify.com/track/5Bis2FY538rXD9tHWdmitY) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [re: Labyrinth](https://open.spotify.com/album/0gVIBAXQA6SOSMW46veT0b) | 3:05 | 2022-11-10 |  |
+| [re: Nobody Else](https://open.spotify.com/track/53dsepx7bFpx2OEfhAo21t) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr) | [re: Nobody Else](https://open.spotify.com/album/0GLWTNcU2G3OVQL87ztyVv) | 2:07 | 2023-04-13 | 2023-06-09 |
 | [re: Nobody Else](https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr) | [re: Nobody Else](https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD) | 2:07 | 2023-04-13 | 2023-04-15 |
 | [Reassurance Cycle](https://open.spotify.com/track/6d0Oh1pTBk1u9znCipA9zv) | [Burgundy Groove](https://open.spotify.com/artist/5KV5ps8Us33zxiMIED2dtt) | [Reassurance Cycle](https://open.spotify.com/album/4yPO42Uaw3NS9pqdsScnLT) | 2:05 | 2021-12-23 | 2022-07-26 |
 | [Recollection](https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Recollection](https://open.spotify.com/album/5hPbTTsCGBDi5XVUUBYqge) | 2:41 | 2021-12-23 | 2023-04-14 |

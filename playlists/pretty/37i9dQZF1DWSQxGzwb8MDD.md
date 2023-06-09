@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,818 likes - 98 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,835 likes - 98 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 17 | [B MY H8R \- Original Mix](https://open.spotify.com/track/4oZpmsthYEExPP5pYVsK5e) | [zpectrum](https://open.spotify.com/artist/0sZKl4bfwAsv7l0zcuqWnp) | [NOS](https://open.spotify.com/album/25kbQFxbKFIwnBeBvRQTEW) | 5:23 |
 | 18 | [Mr Pothead](https://open.spotify.com/track/5r3DJAojXxibEP8hOivc0n) | [NPLNSSS](https://open.spotify.com/artist/6NAcyiEM7RfTcxpfCFkO9U) | [The Gomboc Stone](https://open.spotify.com/album/01QJogXBejPUvm2RDZQBUG) | 6:01 |
 | 19 | [Got'Got](https://open.spotify.com/track/1grvBKI0WCEmOoOa6pIeXD) | [Julian Muller](https://open.spotify.com/artist/5UWmNXxqHIUcpHEJCxDojK) | [Got'got](https://open.spotify.com/album/5qhl3ZHnxeYHMqQ3EzcNEo) | 4:34 |
-| 20 | [Glory 2 Ukraine](https://open.spotify.com/track/1eBgnELawTqgIyRV0hIYO9) | [Badwor7h](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD) | [Glory 2 Ukraine](https://open.spotify.com/album/6toHhiWbxawOsyClpxJ0TE) | 3:39 |
+| 20 | [Glory 2 Ukraine](https://open.spotify.com/track/1eBgnELawTqgIyRV0hIYO9) | [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD) | [Glory 2 Ukraine](https://open.spotify.com/album/6toHhiWbxawOsyClpxJ0TE) | 3:39 |
 | 21 | [No Space For Bombs](https://open.spotify.com/track/17WNa4XKeTcXG8Y50Xzi2b) | [OTON](https://open.spotify.com/artist/5tzXN2Oc7dTscn9Y3hs911) | [No Space for Bombs](https://open.spotify.com/album/2Lusimus1bR9MK28KNbEiU) | 6:13 |
 | 22 | [F33L IT](https://open.spotify.com/track/1odmyEaQdgHTSMY5048oxP) | [zpectrum](https://open.spotify.com/artist/0sZKl4bfwAsv7l0zcuqWnp) | [F33L IT](https://open.spotify.com/album/0NETtSIgMW9qDqpvyv8KcN) | 6:04 |
 | 23 | [Eternal Fountain](https://open.spotify.com/track/32gQybFSMrzhqUYKD5kW5a) | [Violet](https://open.spotify.com/artist/2fR1B3hosOQAbnNlqodeF0) | [Genesis, Vol\. 1](https://open.spotify.com/album/4OhXkX4Sw8bGsadXA0mJcb) | 5:09 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 97 | [Larme De Fond](https://open.spotify.com/track/4ooL57idmtn9s4oFo90FT7) | [Seul Ensemble](https://open.spotify.com/artist/3ZygKshkxks8NKLDR2yMa3) | [127VA001](https://open.spotify.com/album/3IdDojGeH3Mzy2YNxUceH1) | 6:55 |
 | 98 | [To the vibe \(rework\)](https://open.spotify.com/track/51Kc6kYlpkoPAGj91BEcx2) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 7:36 |
 
-Snapshot ID: `MCw4MjY2NDQ0MGMzYWEwZTg1OGJjNzE4ZjUzOWQ3MWIxMjVlYmIyYjZi`
+Snapshot ID: `MCxiMGE4YWM1NjI2ZmU1ZjcxNjkxZWZlZDFlNWVkY2UzOTMxMTZlNjlh`

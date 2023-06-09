@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 433353,
+  "num_followers": 433555,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDMwZmYzYTI0OGMyMzFhODIyN2UyOWQ4OGRhODE5NDRmYzUxYjJh",
+  "snapshot_id": "MCw5NGE5ZTMwYzc1ZGFlNGM1YmFiYjBhNGU0OTE0ZmE2OGMzN2EwN2Vk",
   "tracks": [
     {
       "added_at": "2023-05-18 14:29:48",
@@ -579,38 +579,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
-        "name": "mr. rager",
-        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 220109,
-      "name": "mr. rager",
-      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Car Crash in G Major",
         "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
       },
@@ -627,6 +595,22 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
         "name": "Fake It Flowers",
         "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 260024,
       "name": "How Was Your Day?",
       "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "mr. rager",
+        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 220109,
+      "name": "mr. rager",
+      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Double Superfine",
-        "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
-      },
-      "artists": [
-        {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Darcy",
-      "url": "https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Blue Suicide",
         "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 153234,
       "name": "Her Sinking Sun",
       "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Double Superfine",
+        "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Darcy",
+      "url": "https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "home:so long",
-        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 85956,
-      "name": "home:so long",
-      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Afternoon Bike Ride",
         "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 137400,
       "name": "Mystery Key - Eyedress Remix",
       "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "home:so long",
+        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 85956,
+      "name": "home:so long",
+      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
+        "name": "I'll be your star",
+        "url": "https://open.spotify.com/album/4335JjYuXsLQiD08cLhRKJ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Burkhart",
+          "url": "https://open.spotify.com/artist/6hNArc2Vya9KBBDhvIj1BM"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "I'll be your star",
+      "url": "https://open.spotify.com/track/0qokAYYFmEC3VwV4vrj5wc"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 219205,
       "name": "Reality",
       "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
-        "name": "I'll be your star",
-        "url": "https://open.spotify.com/album/4335JjYuXsLQiD08cLhRKJ"
-      },
-      "artists": [
-        {
-          "name": "Tyler Burkhart",
-          "url": "https://open.spotify.com/artist/6hNArc2Vya9KBBDhvIj1BM"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "I'll be your star",
-      "url": "https://open.spotify.com/track/0qokAYYFmEC3VwV4vrj5wc"
     },
     {
       "added_at": "2023-05-18 14:29:48",

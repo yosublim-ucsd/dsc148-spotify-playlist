@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=Sonc\-mBXRpm5ut0itdUxVg">Loufi</a> & <a href="https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=21NaMlL9QGy6MUBpjSeKJg">Van Pletzen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
 | 2 | [Stap Soldaat](https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Stap Soldaat](https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ) | 3:10 |
 | 3 | [Neus Breek](https://open.spotify.com/track/2JxD0YQCAaGMSTqR1ColGD) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Die Evangelie Van Goeie Tye](https://open.spotify.com/album/1vKQJRx5BOWeiFZ1zXVp13) | 3:21 |
-| 4 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
-| 5 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 |
-| 6 | [Trap In Die Hood](https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym) | [Cee Jay Zondagh](https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM) | [Big Cee](https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz) | 3:25 |
-| 7 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
-| 8 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
-| 9 | [Swaar Tye](https://open.spotify.com/track/07GWdeJWoSJmOtiogGNOxX) | [Lil Jady](https://open.spotify.com/artist/535YmzkwAuuy4jjVrhnzBZ) | [Swaar Tye](https://open.spotify.com/album/1wT5j2yXzesSWS3El9tnPS) | 2:07 |
+| 4 | [7DeLaan](https://open.spotify.com/track/5k1dncVhfbWtifwXFGthh3) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [7DeLaan](https://open.spotify.com/album/0Uv1YoMhuM8kKIDlLfgnvJ) | 2:50 |
+| 5 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
+| 6 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 |
+| 7 | [Trap In Die Hood](https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym) | [Cee Jay Zondagh](https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM) | [Big Cee](https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz) | 3:25 |
+| 8 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
+| 9 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
 | 10 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 |
 | 11 | [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 |
 | 12 | [Benni McCarthy](https://open.spotify.com/track/3Lyk4X2mZp1BbmzTG9sqmg) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Shaney Jay](https://open.spotify.com/artist/1q95EBYcea3p624dJytDFh) | [Benni McCarthy](https://open.spotify.com/album/70g8vpdQWQjAxPRfOpS8dY) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 49 | [Capeflets](https://open.spotify.com/track/1gcpYFHHLKDXefNHRqPOpg) | [Cream](https://open.spotify.com/artist/3juzOjpaVU73kK8WdtkGB4) | [Bruin Brood](https://open.spotify.com/album/3fFmIN3E1RFCel6vvmN2s5) | 2:11 |
 | 50 | [Ghetto Boi](https://open.spotify.com/track/68OnCNxAld3VHwCqdqhBRK) | [Kulturegng](https://open.spotify.com/artist/2TOxM93PxHUXxznzATXhqD) | [Ghetto Boi](https://open.spotify.com/album/0L8k4lMOBdc3DNusEDEXRw) | 2:03 |
 
-Snapshot ID: `MCxjOGEzZjcwMGNiY2NmZjIzMmI1ZmExMzgwMjRjYzY1MWE1YTg0YzI1`
+Snapshot ID: `MCxmOGI1MTBmN2JkMmE3NDU0MDI5OGNlZTgyYjBkNGVmZjU3NmMzNmY4`

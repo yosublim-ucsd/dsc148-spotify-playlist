@@ -4,7 +4,7 @@
 
 > cant wait till hyperpop2 drops \[Cover: Madge\]
 
-1,734 songs - 3 day 6 hr 47 min
+1,735 songs - 3 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 | 2022-10-28 | 2023-04-15 |
 | [Celebrity Crush](https://open.spotify.com/track/4RrpTNBLLu4vJwr9At7gkI) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [Celebrity Crush](https://open.spotify.com/album/47TruQ38kUlsqX692RAeYm) | 3:26 | 2020-10-13\* | 2020-12-11 |
 | [Cellophane](https://open.spotify.com/track/3Br1mqIU8pH1Accf1RlCbC) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE) | [Cellophane](https://open.spotify.com/album/4l0KIN7Ff9z7SHQBw0ilJ4) | 2:20 | 2021-04-19 | 2021-04-30 |
-| [Ceremony](https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 3:12 | 2023-02-21 |  |
+| [Ceremony](https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 3:12 | 2023-02-21 | 2023-06-09 |
 | [Chaeri \- Danny L Harle Remix](https://open.spotify.com/track/7J7RRxuYT8HYl41NqSO63P) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Chaeri \(Danny L Harle Remix\)](https://open.spotify.com/album/1p9eQZIVql8ZbVVVYay9HD) | 3:22 | 2022-07-22 | 2022-12-17 |
 | [Challenge](https://open.spotify.com/track/3XeCJ0LOqNHGV7VslAkmk0) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Challenge](https://open.spotify.com/album/0SwYSuY8HUZsc3n6lLbIWt) | 2:33 | 2021-10-21 | 2021-11-13 |
 | [Chandeliers, Bullets and Guns](https://open.spotify.com/track/6jX7oIyuu6wVT5nzdyeAra) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Chandeliers, Bullets and Guns](https://open.spotify.com/album/008Bi2In642wqnuTjEee7Y) | 2:48 | 2021-10-01 | 2022-02-24 |
@@ -1405,6 +1405,7 @@
 | [So Proud Of U](https://open.spotify.com/track/1fmfMsvJlWzeaYstJ1xpWa) | [2gether 4ever](https://open.spotify.com/artist/4xnMRkgK5LlAefZhpqxAzv) | [So Proud Of U](https://open.spotify.com/album/40pa9jVIaDVB6gLREeJEFZ) | 3:54 | 2021-08-14 | 2021-09-24 |
 | [So Sad](https://open.spotify.com/track/7btVxzWmEnBuxdunhWWhUI) | [Caleb Dusart](https://open.spotify.com/artist/4SixvIlbUqTp1t2rwu3LNq) | [So Sad](https://open.spotify.com/album/6wwYS0ioHc4aflATeHTaLG) | 1:39 | 2022-06-03 | 2022-08-27 |
 | [so young](https://open.spotify.com/track/6kpwyBch6Hbvoz0MP9HrCa) | [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [so young](https://open.spotify.com/album/7aVym7cPnM8Sk2QWbBJeHF) | 2:36 | 2022-02-18 | 2022-04-29 |
+| [Sodom & Gomorrah](https://open.spotify.com/track/0cgUUrFj9pOmSKzm4MyfIf) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Sodom & Gomorrah](https://open.spotify.com/album/6fGdCPc7IIJwoJM5wrWpFU) | 3:09 | 2023-06-08 |  |
 | [Softcorners](https://open.spotify.com/track/3GIoCg77Q9vvZUyPK46Eay) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Softcorners](https://open.spotify.com/album/0JCaD2WojF7P8pIoIHEzxC) | 5:17 | 2023-03-10 |  |
 | [Soldier, Like Me](https://open.spotify.com/track/108WfZxkd6nSVKJ3z3F8SR) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Soldier, Like Me](https://open.spotify.com/album/3hbHZNptje66rX1kWn3aeU) | 1:46 | 2021-12-17 | 2022-02-26 |
 | [Solilunita](https://open.spotify.com/track/5CSEgaTHEJqt4dHg8jjr6R) | [Elysia Crampton](https://open.spotify.com/artist/75v4Rn3SqXn6dmq2PFrRgN) | [Elysia Crampton](https://open.spotify.com/album/1HX8JaARhtmaRmYrnlJ3MF) | 2:16 | 2021-05-08 | 2021-05-15 |

@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: أميمة طالب
 
-232 songs - 15 hr 44 min
+233 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 | 2023-03-24 |  |
 | [Amam Mrayti](https://open.spotify.com/track/4d3Ek4ZbFFe9voy0cGKkP6) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Amam Mrayti](https://open.spotify.com/album/40IhIA2n0ms58X0MVpAfVB) | 4:29 | 2022-11-10 | 2023-05-23 |
 | [Amina Haf](https://open.spotify.com/track/0Vj0ZTyPQIlRwOcbHZW6A4) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Amina Haf](https://open.spotify.com/album/4VvptRRpUeGbah9qSN06I0) | 3:04 | 2022-04-04 | 2022-09-29 |
+| [Ana A7tereg](https://open.spotify.com/track/3NzkzuF7YhWevZKf0rvwk8) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ana A7tereg](https://open.spotify.com/album/1J5aVon8xDBJyOHPZU3n13) | 4:31 | 2023-06-08 |  |
 | [Ana Al Sadeq](https://open.spotify.com/track/5oVHTvO2sQ2xPknS1umd0p) | [Moner Zayed](https://open.spotify.com/artist/5cEK4do8F3Ln4G7XOvcpXa) | [Ana Al Sadeq](https://open.spotify.com/album/73VepX2okJI7LPnJ43BHDN) | 3:20 | 2023-01-11 |  |
 | [Ana Lak](https://open.spotify.com/track/0Ko4fZhRKlgdbBrEx5tsqR) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Ana Lak](https://open.spotify.com/album/74HJ9ReJsCKeYEbc3Nl24b) | 3:35 | 2023-05-02 |  |
 | [Ana Wa Anti](https://open.spotify.com/track/5vIqr9irNBp6onPeXnc6pM) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Ana Wa Anti](https://open.spotify.com/album/5xSVWY9yibDP7ttHSZqet5) | 4:44 | 2022-08-20 | 2022-08-23 |
@@ -160,7 +161,7 @@
 | [Shoor Al Faqd](https://open.spotify.com/track/1iC7AOPexbawa8ihSwQMm7) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Shoor Al Faqd](https://open.spotify.com/album/6pcdhmvP3x2Obffu2899xu) | 4:52 | 2021-12-23 | 2022-03-18 |
 | [Sowalef Al Walah](https://open.spotify.com/track/09sztwL8KFbKZ1KSMp5278) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [Sowalef Al Walah](https://open.spotify.com/album/4qmCkDg6fUHS1LXrdw1ZBr) | 3:23 | 2023-05-25 | 2023-05-27 |
 | [Sowarna](https://open.spotify.com/track/5aMf5XddEvzeC1m88J6x4v) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Sowarna](https://open.spotify.com/album/3K3l4mS2yhPMaKkNbsAgpn) | 3:34 | 2022-01-20 | 2022-07-07 |
-| [Sowbna](https://open.spotify.com/track/1d1CzLZnMfRnCiNXSyslBz) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sowbna](https://open.spotify.com/album/7hP48MdXp4xUdsI201ZGiY) | 3:22 | 2023-03-08 |  |
+| [Sowbna](https://open.spotify.com/track/1d1CzLZnMfRnCiNXSyslBz) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sowbna](https://open.spotify.com/album/7hP48MdXp4xUdsI201ZGiY) | 3:22 | 2023-03-08 | 2023-06-09 |
 | [Sukar](https://open.spotify.com/track/64jmDPPjHxrv2uvT2Q8kZD) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Sukar](https://open.spotify.com/album/5WEQISx8MQ5sBgomay7bc1) | 3:09 | 2023-01-25 |  |
 | [Sukkar](https://open.spotify.com/track/4OcGPIHDcFZcGB5seRrfIm) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom), [Dyler](https://open.spotify.com/artist/6YczkNz5V8O3xnSrYbVEiU) | [Sukkar](https://open.spotify.com/album/6Tzgry4wnabAF4gpSff1uO) | 2:16 | 2022-02-11 | 2022-06-04 |
 | [Swalef Al Lel](https://open.spotify.com/track/02bhyQbENe0BxDAKsTUteA) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Swalef Al Lel](https://open.spotify.com/album/4iVcTtt2gMtG6V4PCk0mU1) | 8:51 | 2021-12-23 | 2022-02-05 |

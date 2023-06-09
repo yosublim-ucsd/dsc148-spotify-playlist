@@ -7698,7 +7698,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 163527,
       "name": "Helma",
       "url": "https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ"
@@ -8698,7 +8698,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 190737,
       "name": "Iori 5",
       "url": "https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a"
@@ -13572,7 +13572,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 160941,
       "name": "Nari",
       "url": "https://open.spotify.com/track/1uApa4g1Fr87F4IAC2Xgc2"
@@ -16802,6 +16802,24 @@
       "duration_ms": 167730,
       "name": "Salade Coco",
       "url": "https://open.spotify.com/track/2BJh2IoGeq0UQVsLHUcbrK"
+    },
+    {
+      "album": {
+        "name": "Salade Coco",
+        "url": "https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167730,
+      "name": "Salade Coco",
+      "url": "https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 13719,
+  "num_followers": 13734,
   "original_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzJlOTI1MWY0MDEzYjUxZTU3M2Q5N2E2ZTQ1ZjBjODdhNzBlM2M2",
+  "snapshot_id": "MCxjNThiNzM3NjNkMWQyZGMwMjFmYWU5MGQ5Mzc5ZWVlN2U0YjRkYmMw",
   "tracks": [
     {
       "added_at": "2023-05-09 15:57:56",
@@ -1027,26 +1027,30 @@
     {
       "added_at": "2023-05-09 15:57:56",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony",
-        "url": "https://open.spotify.com/album/5M22ADhFwe6Hhe5Xu0JGLi"
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
+        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
       },
       "artists": [
         {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
           "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
           "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
-        },
-        {
-          "name": "\u821e\u6d5c \u6b69 (CV.\u6238\u7530\u3081\u3050\u307f)",
-          "url": "https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF"
-        },
-        {
-          "name": "Mizuki Makabe (CV: Rika Abe)",
-          "url": "https://open.spotify.com/artist/3QaFwuflGw1JPBsKi5IYRE"
         }
       ],
-      "duration_ms": 210480,
-      "name": "Raise the FLAG",
-      "url": "https://open.spotify.com/track/4DiglNq5mWTAjbAvLqd0e6"
+      "duration_ms": 282280,
+      "name": "Blue Symphony",
+      "url": "https://open.spotify.com/track/61pUUUV0ng4YJIdK3DHnvQ"
     },
     {
       "added_at": "2023-05-09 15:57:56",
@@ -1075,30 +1079,26 @@
     {
       "added_at": "2023-05-09 15:57:56",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
-        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony",
+        "url": "https://open.spotify.com/album/5M22ADhFwe6Hhe5Xu0JGLi"
       },
       "artists": [
         {
-          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
-          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
-        },
-        {
-          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
-          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
-        },
-        {
-          "name": "Kotoha Tanaka (CV: Risa Taneda)",
-          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
-        },
-        {
           "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
           "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        },
+        {
+          "name": "\u821e\u6d5c \u6b69 (CV.\u6238\u7530\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF"
+        },
+        {
+          "name": "Mizuki Makabe (CV: Rika Abe)",
+          "url": "https://open.spotify.com/artist/3QaFwuflGw1JPBsKi5IYRE"
         }
       ],
-      "duration_ms": 282280,
-      "name": "Blue Symphony",
-      "url": "https://open.spotify.com/track/61pUUUV0ng4YJIdK3DHnvQ"
+      "duration_ms": 210480,
+      "name": "Raise the FLAG",
+      "url": "https://open.spotify.com/track/4DiglNq5mWTAjbAvLqd0e6"
     },
     {
       "added_at": "2023-05-09 15:57:56",
@@ -1511,22 +1511,34 @@
     {
       "added_at": "2023-05-09 15:57:56",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry",
-        "url": "https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w"
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 06",
+        "url": "https://open.spotify.com/album/5cr2RbD3UJgDlmD7XJmgRf"
       },
       "artists": [
         {
-          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
-          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
         },
         {
-          "name": "Rio Momose (CV: Rikako Yamaguchi)",
-          "url": "https://open.spotify.com/artist/7ujFiiJAe5rUjstTCOSBj4"
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        },
+        {
+          "name": "Umi Kousaka (CV: Reina Ueda)",
+          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
+        },
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
         }
       ],
-      "duration_ms": 240613,
-      "name": "Cherry Colored Love",
-      "url": "https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj"
+      "duration_ms": 290320,
+      "name": "\u30b8\u30ec\u308b\u30cf\u30fc\u30c8\u306b\u706b\u3092\u3064\u3051\u3066",
+      "url": "https://open.spotify.com/track/2WmhxxA2cnZdz74KGF1RBk"
     },
     {
       "added_at": "2023-05-09 15:57:56",
@@ -1587,6 +1599,26 @@
     {
       "added_at": "2023-05-09 15:57:56",
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry",
+        "url": "https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        },
+        {
+          "name": "Rio Momose (CV: Rikako Yamaguchi)",
+          "url": "https://open.spotify.com/artist/7ujFiiJAe5rUjstTCOSBj4"
+        }
+      ],
+      "duration_ms": 240613,
+      "name": "Cherry Colored Love",
+      "url": "https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj"
+    },
+    {
+      "added_at": "2023-05-09 15:57:56",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON",
         "url": "https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv"
       },
@@ -1611,38 +1643,6 @@
       "duration_ms": 240706,
       "name": "\u7523\u58f0\u3068\u30af\u30e9\u30d6",
       "url": "https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa"
-    },
-    {
-      "added_at": "2023-05-09 15:57:56",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 06",
-        "url": "https://open.spotify.com/album/5cr2RbD3UJgDlmD7XJmgRf"
-      },
-      "artists": [
-        {
-          "name": "Kotoha Tanaka (CV: Risa Taneda)",
-          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
-        },
-        {
-          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
-          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
-        },
-        {
-          "name": "Umi Kousaka (CV: Reina Ueda)",
-          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
-        },
-        {
-          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
-          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
-        },
-        {
-          "name": "Miya Miyao (CV: Choucho Kiritani)",
-          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
-        }
-      ],
-      "duration_ms": 290320,
-      "name": "\u30b8\u30ec\u308b\u30cf\u30fc\u30c8\u306b\u706b\u3092\u3064\u3051\u3066",
-      "url": "https://open.spotify.com/track/2WmhxxA2cnZdz74KGF1RBk"
     },
     {
       "added_at": "2023-05-09 15:57:56",

@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 397306,
+  "num_followers": 397420,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjBjMjJkZjAwZjU2ZThiZDRlMDZiM2NlOTk0YmEwZTNmZDNjNTZm",
+  "snapshot_id": "MCw4ZDNjNDMzODVmMGUwNzA0MTQzMWU5NGNkYjQwMDI4ZTYxZTcyNTlm",
   "tracks": [
     {
       "added_at": "2023-05-22 16:14:56",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "added_at": "2023-05-22 16:14:56",
+      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 358266,
       "name": "B.O.T.A. (Baddest Of Them All)",
       "url": "https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso"
-    },
-    {
-      "added_at": "2023-05-22 16:14:56",
-      "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2023-05-22 16:14:56",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
-        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
-        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
-      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
-    },
-    {
-      "added_at": "2023-05-22 16:14:56",
-      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 176548,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+    },
+    {
+      "added_at": "2023-05-22 16:14:56",
+      "album": {
+        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
+        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
+      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
     },
     {
       "added_at": "2023-05-22 16:14:56",

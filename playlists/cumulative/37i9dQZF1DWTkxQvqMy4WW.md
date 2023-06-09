@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-373 songs - 21 hr 27 min
+374 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Chills](https://open.spotify.com/track/4fT0lwTnwXN5Qg5vSPyq0u) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Game On](https://open.spotify.com/album/0r3XttYUiUSNey42sWLaVY) | 3:08 | 2019-05-25\* | 2022-04-15 |
 | [Come Over \- Acoustic Mixtape](https://open.spotify.com/track/5ZuDo4T5NU7jg5y0yV2Otk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Between The Pines \(Acoustic Mixtape\)](https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64) | 4:01 | 2020-02-23 | 2022-04-21 |
 | [Consider Me Gone](https://open.spotify.com/track/0fNCLvSVUEK7NTwhu5vk5B) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Keep On Loving You](https://open.spotify.com/album/7KXJTZvhkS0Cs7iY9B3E2q) | 3:38 | 2019-10-26 | 2021-01-15 |
-| [Crazy Girl](https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:20 | 2019-06-21 |  |
+| [Crazy Girl](https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:20 | 2019-06-21 | 2023-06-09 |
 | [Criminal](https://open.spotify.com/track/4dV6BP3spzbAMWlsb2adGG) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [The Project](https://open.spotify.com/album/1RiocrOIkYYPIHyUXhlk0M) | 3:22 | 2019-06-21 | 2022-04-21 |
 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2022-02-11 | 2022-09-03 |
 | [Dancin’ In The Country](https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 2:59 | 2023-05-18 |  |
@@ -97,6 +97,7 @@
 | [Everything's Gonna Be Alright](https://open.spotify.com/track/2NEBP8SXEqwZt2PRdPXXuy) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [No Zip Code](https://open.spotify.com/album/5XI9vNFt9hCV5pWSTvkmQv) | 3:49 | 2019-10-26 | 2022-04-17 |
 | [Eyes On You](https://open.spotify.com/track/2u7Nm46dAujcAi5Rw79CJL) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Eyes On You](https://open.spotify.com/album/3yYIlnqvZvOs6R0nyee7sg) | 3:02 | 2019-05-28 | 2022-07-29 |
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2019-05-27 | 2023-03-28 |
+| [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 | 2023-05-18 |  |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2023-03-10 | 2023-06-08 |
 | [Famous](https://open.spotify.com/track/2HGymMoOdB4ZYv0AAqYmgF) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Famous](https://open.spotify.com/album/7rxL9Pb48sXuFODVaL0RHA) | 3:12 | 2019-06-23 | 2019-08-10 |
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2022-03-04 | 2022-07-29 |

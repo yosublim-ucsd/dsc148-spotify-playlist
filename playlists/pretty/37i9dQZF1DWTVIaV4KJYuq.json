@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 679027,
+  "num_followers": 679127,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjk5MzY3ODcyMjMyZWUxYWIwYzgwYTQwOTJhN2ZjMzZlMzliYTE2",
+  "snapshot_id": "MCw3OGEwNDc1OTEzYzcwNmU0MTQ0NDllYjRiZTBjMjRmZDdhZGMxNzVj",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Origin of Symmetry",
         "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+      "duration_ms": 234600,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -755,6 +739,22 @@
       "duration_ms": 180468,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+      "duration_ms": 141653,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 141653,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7"
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Drain The Blood",
-        "url": "https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI"
-      },
-      "artists": [
-        {
-          "name": "The Rural Alberta Advantage",
-          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Eye Of The Tiger",
-      "url": "https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 182068,
       "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Drain The Blood",
+        "url": "https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI"
+      },
+      "artists": [
+        {
+          "name": "The Rural Alberta Advantage",
+          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Eye Of The Tiger",
+      "url": "https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "You Don't Know How It Feels",
-        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 222008,
-      "name": "You Don't Know How It Feels",
-      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
         "name": "Never Surrender",
         "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 228099,
       "name": "Never Surrender",
       "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "You Don't Know How It Feels",
+        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 222008,
+      "name": "You Don't Know How It Feels",
+      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1603,22 +1603,6 @@
       "duration_ms": 162907,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Right Down the Line",
-        "url": "https://open.spotify.com/album/6cHcoPe1ZExlEv2YppIT6Y"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 206508,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/1gD8qr4YKd16C2tV1bnXOc"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1791,6 +1775,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
         "name": "Mercy Mercy Me (The Ecology)",
         "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
       },
@@ -1839,18 +1839,22 @@
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "(500) Days of Summer (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        },
+        {
+          "name": "teddy<3",
+          "url": "https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW"
         }
       ],
-      "duration_ms": 132493,
-      "name": "Please, Please, Please, Let Me Get What I Want",
-      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+      "duration_ms": 241193,
+      "name": "Brass in Pocket",
+      "url": "https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t"
     }
   ],
   "unique_name": "Classic Covers",

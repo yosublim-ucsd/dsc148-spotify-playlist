@@ -4,7 +4,7 @@
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-42 songs - 1 hr 19 min
+43 songs - 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Paintra](https://open.spotify.com/track/3FbwHPeM5myHMTvOTi6ipl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Paintra \(From "Mukkabaaz"\) \- Single](https://open.spotify.com/album/5u6calkleLhJulsH9dEgZi) | 3:52 | 2023-02-15 |  |
 | [Paisa Hai Toh](https://open.spotify.com/track/5kwldaZvtbiTmRYsmlyxAN) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 3:08 | 2023-02-15 |  |
 | [Phire Faqeera](https://open.spotify.com/track/2CwpgIBBCxe4xkba5LhsYo) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Amrita Singh](https://open.spotify.com/artist/5ZVycSnntFQRyXFpO6TdsU), [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 5:41 | 2023-02-15 |  |
+| [Real Talk](https://open.spotify.com/track/1WPs49cOzviyirquav1Tua) | [GD47](https://open.spotify.com/artist/6GoLWfS71I2gXBtCiKCceD) | [Bloody Daddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Sd5XckyAsTOXGXwjQd8ED) | 3:49 | 2023-06-08 |  |
 | [Right Here Right Now](https://open.spotify.com/track/4pVnxSz312uhq2hM3b8CAO) | [Abhishek Bachchan](https://open.spotify.com/artist/7e6AfoPhtlBJGQ9iNMAckD), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Bluff Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5sASM5OybJgExUWUXLH2eQ) | 3:02 | 2023-02-15 |  |
 | [Saturday Saturday](https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Indeep Bakshi](https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ), [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW) | [Humpty Sharma Ki Dulhania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE) | 3:30 | 2023-02-15 |  |
 | [Sheher Ki Ladki \(From "Khandaani Shafakhana"\)](https://open.spotify.com/track/24d3IPklAxzBJB2nuWeSpg) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Chandra Dixit](https://open.spotify.com/artist/7yO17B2aZWbkuTh5kpgee4), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Anand\-Milind](https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk) | [Sheher Ki Ladki \(From "Khandaani Shafakhana"\)](https://open.spotify.com/album/4aroXseEbgMQBVvF0SfAHz) | 2:52 | 2023-02-15 |  |

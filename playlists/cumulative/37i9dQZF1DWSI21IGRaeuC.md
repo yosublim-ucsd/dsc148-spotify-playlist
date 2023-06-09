@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-173 songs - 14 hr 50 min
+174 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [euphoric.](https://open.spotify.com/track/3eZ4Nxq8E44AayXQ7Ph5t1) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '22](https://open.spotify.com/album/24QlYIbEIVo1lT93ethJ2q) | 6:37 | 2022-11-11 | 2022-12-14 |
 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 | 2022-07-08 | 2023-05-27 |
 | [Fia](https://open.spotify.com/track/5TREoPShL4tfACMEbHxuzL) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX), [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil) | [Fia](https://open.spotify.com/album/7DgEWcG8Ra9VtejKVfxw7t) | 8:03 | 2022-06-03 | 2022-07-29 |
-| [Flashback feat\. Forrest](https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q) | [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Hush Hush EP](https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ) | 4:03 | 2022-07-08 |  |
+| [Flashback feat\. Forrest](https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q) | [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Hush Hush EP](https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ) | 4:03 | 2022-07-08 | 2023-06-09 |
 | [Free](https://open.spotify.com/track/07JlZ8E9U8l1nH41vAIPSu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Free / Love Me](https://open.spotify.com/album/7tlGEEHcWktB2dgYH1CzEB) | 7:01 | 2022-06-03 | 2022-07-29 |
 | [Free \- Bruno Furlan Remix](https://open.spotify.com/track/668AmdAkV6kzQIGs1iMWxS) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Uncle Chucc](https://open.spotify.com/artist/0qmUElN0l9LfpXv3i4qIyR) | [Free \(Ferreck Dawn Remix\)](https://open.spotify.com/album/5trwxpbZkRZRB3t1q3ehZT) | 3:49 | 2023-03-17 | 2023-04-29 |
 | [Fuck The Regs](https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Fuck The Regs EP](https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy) | 3:24 | 2022-07-29 |  |
@@ -180,6 +180,7 @@
 | [Work Out](https://open.spotify.com/track/38d5OWdfoJGFXg9vpkctkj) | [DeMarzo](https://open.spotify.com/artist/690s28S2ybWXTI9IdX86mO) | [Work Out](https://open.spotify.com/album/4ksU29xJ4PKvzQhfiBOoYz) | 7:03 | 2022-06-03 | 2022-07-10 |
 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 | 2022-11-11 |  |
 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 | 2022-07-01 |  |
+| [Z Pack](https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Z Pack](https://open.spotify.com/album/1gdxFwUOKNIGfEXZZ00Ood) | 3:07 | 2023-05-26 |  |
 | [Zigazigahhhh](https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Zigazigahhhh](https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx) | 3:23 | 2023-03-03 |  |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

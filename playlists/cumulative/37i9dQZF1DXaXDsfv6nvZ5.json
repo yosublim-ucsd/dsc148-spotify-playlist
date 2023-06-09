@@ -3282,7 +3282,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 250506,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
@@ -4296,6 +4296,24 @@
       "duration_ms": 284573,
       "name": "Something Keeps Calling (feat. Rob Bacon)",
       "url": "https://open.spotify.com/track/2TuRqxy7EI8gMGDQFt3iTV"
+    },
+    {
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "West African love stories wrapped up in song",
-  "num_followers": 9748,
+  "num_followers": 9812,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjQ2YmY5Mjc1ODRhMzZjNmFiMDEwNTgzODQzMTljZGI0Y2U4OThh",
+  "snapshot_id": "MCw0YmRhMTEzN2I4ZmFhZDUyNzM0ZmQwYzQ1YzczY2U4YzEyNGMyODEw",
   "tracks": [
     {
       "added_at": "2023-05-26 09:44:38",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-05-26 09:44:38",
       "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Folel\u00e9",
+      "url": "https://open.spotify.com/track/7x011H8oZwGYBuXQQfGpu4"
+    },
+    {
+      "added_at": "2023-05-26 09:44:38",
+      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
@@ -607,22 +627,6 @@
       "duration_ms": 176293,
       "name": "Coming Back For You",
       "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
-    },
-    {
-      "added_at": "2023-05-26 09:44:38",
-      "album": {
-        "name": "Co-Star",
-        "url": "https://open.spotify.com/album/0FLajXxca41VLTunahQo9s"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Co-Star",
-      "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
     },
     {
       "added_at": "2023-05-26 09:44:38",
@@ -643,22 +647,18 @@
     {
       "added_at": "2023-05-26 09:44:38",
       "album": {
-        "name": "Me Muevo Con Dios",
-        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+        "name": "Co-Star",
+        "url": "https://open.spotify.com/album/0FLajXxca41VLTunahQo9s"
       },
       "artists": [
         {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Folel\u00e9",
-      "url": "https://open.spotify.com/track/7x011H8oZwGYBuXQQfGpu4"
+      "duration_ms": 166533,
+      "name": "Co-Star",
+      "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
     },
     {
       "added_at": "2023-05-26 09:44:38",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-05-26 09:44:38",
       "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
+    },
+    {
+      "added_at": "2023-05-26 09:44:38",
+      "album": {
         "name": "OVAMI",
         "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 204000,
       "name": "OVAMI",
       "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
-    },
-    {
-      "added_at": "2023-05-26 09:44:38",
-      "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
     },
     {
       "added_at": "2023-05-26 09:44:38",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-26 09:44:38",
       "album": {
-        "name": "Folake",
-        "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
-      },
-      "artists": [
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "Folake",
-      "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
-    },
-    {
-      "added_at": "2023-05-26 09:44:38",
-      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 177067,
       "name": "10 Toes (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+    },
+    {
+      "added_at": "2023-05-26 09:44:38",
+      "album": {
+        "name": "Folake",
+        "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Folake",
+      "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
     },
     {
       "added_at": "2023-05-26 09:44:38",
@@ -943,6 +943,30 @@
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
+      "added_at": "2023-05-26 09:44:38",
+      "album": {
+        "name": "Peace of Mind (Remix)",
+        "url": "https://open.spotify.com/album/2ubg4txvVWg2ExroKariVk"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        },
+        {
+          "name": "Mamba Sounds",
+          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Peace of Mind - Remix",
+      "url": "https://open.spotify.com/track/08raobDIp9txgKq6u9RbCV"
     },
     {
       "added_at": "2023-05-26 09:44:38",
@@ -999,30 +1023,6 @@
     {
       "added_at": "2023-05-26 09:44:38",
       "album": {
-        "name": "Peace of Mind (Remix)",
-        "url": "https://open.spotify.com/album/2ubg4txvVWg2ExroKariVk"
-      },
-      "artists": [
-        {
-          "name": "Toby Grey",
-          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
-        },
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        },
-        {
-          "name": "Mamba Sounds",
-          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Peace of Mind - Remix",
-      "url": "https://open.spotify.com/track/08raobDIp9txgKq6u9RbCV"
-    },
-    {
-      "added_at": "2023-05-26 09:44:38",
-      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-05-26 09:44:38",
       "album": {
-        "name": "Line Of Fire",
-        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
-    },
-    {
-      "added_at": "2023-05-26 09:44:38",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
       },
@@ -1127,6 +1107,26 @@
     {
       "added_at": "2023-05-26 09:44:38",
       "album": {
+        "name": "Line Of Fire",
+        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2023-05-26 09:44:38",
+      "album": {
         "name": "Currency",
         "url": "https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT"
       },
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-05-26 09:44:38",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD"
-      },
-      "artists": [
-        {
-          "name": "Iyanya",
-          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 180745,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/1J12nWQKjodPf436e61Orp"
-    },
-    {
-      "added_at": "2023-05-26 09:44:38",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 186382,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+    },
+    {
+      "added_at": "2023-05-26 09:44:38",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 180745,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/1J12nWQKjodPf436e61Orp"
     },
     {
       "added_at": "2023-05-26 09:44:38",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-05-26 09:44:38",
       "album": {
-        "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
-        "url": "https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 215217,
-      "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
-      "url": "https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy"
-    },
-    {
-      "added_at": "2023-05-26 09:44:38",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
+      "added_at": "2023-05-26 09:44:38",
+      "album": {
+        "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
+        "url": "https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 215217,
+      "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
+      "url": "https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy"
     },
     {
       "added_at": "2023-05-26 09:44:38",
@@ -1351,22 +1351,22 @@
     {
       "added_at": "2023-05-26 09:44:38",
       "album": {
-        "name": "Teslim: The Energy Still Lives in Me",
-        "url": "https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI"
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
       "artists": [
         {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         },
         {
-          "name": "GoodGirl LA",
-          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
-      "duration_ms": 194742,
-      "name": "Early Momo",
-      "url": "https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd"
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2023-05-26 09:44:38",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2023-05-26 09:44:38",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+        "name": "Teslim: The Energy Still Lives in Me",
+        "url": "https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
         },
         {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+          "name": "GoodGirl LA",
+          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
         }
       ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+      "duration_ms": 194742,
+      "name": "Early Momo",
+      "url": "https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd"
     },
     {
       "added_at": "2023-05-26 09:44:38",

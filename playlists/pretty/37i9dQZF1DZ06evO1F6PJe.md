@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,057 likes - 51 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,088 likes - 51 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 45 | [Tennessee Plates](https://open.spotify.com/track/7IqgzG3pELbSdoIAInTI19) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:18 |
 | 46 | [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 |
 | 47 | [Self\-Inflicted Wounds](https://open.spotify.com/track/0r61QhigETeOXpl03u1nSV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:35 |
-| 48 | [Cold](https://open.spotify.com/track/77UCjH91weMHQBTqeHV6Gs) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Black Country Communion 2](https://open.spotify.com/album/6F5WxD9Ld5ZgVA9JDQ4RAM) | 6:55 |
-| 49 | [Stronger Now In Broken Places \(Band Version\)](https://open.spotify.com/track/1PaRTBGZ8tfV1lO23kBskt) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 4:42 |
+| 48 | [Stronger Now In Broken Places \(Band Version\)](https://open.spotify.com/track/1PaRTBGZ8tfV1lO23kBskt) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 4:42 |
+| 49 | [Cold](https://open.spotify.com/track/77UCjH91weMHQBTqeHV6Gs) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Black Country Communion 2](https://open.spotify.com/album/6F5WxD9Ld5ZgVA9JDQ4RAM) | 6:55 |
 | 50 | [A Thousand Heartaches](https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj) | 5:00 |
 | 51 | [I'll Take Care Of You](https://open.spotify.com/track/4T7n1ZajPPQCuvX4yby9Pt) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Don't Explain](https://open.spotify.com/album/01wNKNEpY0svUkPYOlKmzs) | 5:13 |
 
-Snapshot ID: `MjgxMDIzMzUsMDAwMDAwMDBlMTE3NGFkYzE2NzQzMjM4YzNkYTk1ZmNiMjdmOTllYw==`
+Snapshot ID: `MjgxMDM3NzgsMDAwMDAwMDA1ODQ4MTU0YmY4M2RiMmMwYjE3ZDcxMGQ5ZTdmMDEzOA==`

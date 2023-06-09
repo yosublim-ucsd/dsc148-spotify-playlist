@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist for hot new updates\. Cover: Poloo
+> The perfect mix of the latest pop hits! Follow this playlist for hot new updates\. Cover: Maluma
 
-614 songs - 1 day 9 hr 13 min
+617 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Claramente](https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Claramente](https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH) | 3:02 | 2022-04-14 | 2023-05-26 |
 | [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 | 2023-04-27 | 2023-06-03 |
 | [COCO](https://open.spotify.com/track/79ZVMS5alD90Gn8IcqNqWJ) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [COCO](https://open.spotify.com/album/5xmtZjDddcyk18H2nJFXxL) | 2:37 | 2022-02-02 | 2023-05-26 |
+| [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-06-09 |  |
 | [Coincidir](https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Coincidencias](https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav) | 3:01 | 2023-05-12 | 2023-06-01 |
 | [Colocao \- Tiny Desk](https://open.spotify.com/track/1sdOQxBSDlGc922jSMhPVy) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole \(Live at NPR's Tiny Desk\)](https://open.spotify.com/album/56vHzz7py4Ki3p901P1Db5) | 3:17 | 2022-06-30 | 2023-05-26 |
 | [Como el Viento](https://open.spotify.com/track/5LyqFuRn4AaYlkpMFi1W0s) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Como el Viento](https://open.spotify.com/album/6UKDsAVlMkqKqWJgsnCYAK) | 3:18 | 2023-03-24 | 2023-06-01 |
@@ -379,6 +380,7 @@
 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 | 2022-02-17 | 2023-05-26 |
 | [Nada](https://open.spotify.com/track/4ruyGzUmYFy0tanBBLCxHW) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Nada](https://open.spotify.com/album/6W5khuVvk083kMoTxM7GGY) | 3:53 | 2022-03-10 | 2023-05-26 |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-03-04 | 2023-05-26 |
+| [NAGASAKI](https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NAGASAKI](https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm) | 3:26 | 2023-06-09 |  |
 | [NASA](https://open.spotify.com/track/7pt5VZBKEsd4JIQ67DZcnd) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [NASA](https://open.spotify.com/album/3mSoBmP83p0lgfWPB1MkEX) | 3:06 | 2022-06-16 | 2023-05-26 |
 | [Naturaleza](https://open.spotify.com/track/2OlxJKrbyLmzAO14EgV53K) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:42 | 2023-06-01 | 2023-06-03 |
 | [Naturaleza](https://open.spotify.com/track/4Au8XE7B4fdG5LieLLTdP4) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Naturaleza](https://open.spotify.com/album/11eLw82kDc6Id4iYk1jrIN) | 2:43 | 2022-07-21 | 2023-05-26 |
@@ -555,6 +557,7 @@
 | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/track/1XzihhvRzOHYmVImIZ9g8Q) | [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/album/1qrlFEQBcFkWfH0dxjkMDQ) | 2:41 | 2022-02-02 | 2023-05-26 |
 | [Tu Despertador](https://open.spotify.com/track/6fWNrtEd8z5ONHUCCiOuBS) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Tu Despertador](https://open.spotify.com/album/59YFx65z9ZB7oXbNdyzZDr) | 3:18 | 2022-07-28 | 2023-05-26 |
 | [Tu Gato](https://open.spotify.com/track/1IxQee6XfyqJA3uvl9c0Hz) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Tu Gato](https://open.spotify.com/album/1mTzM08AUOMmq4qABh1YjL) | 2:15 | 2023-02-24 | 2023-06-01 |
+| [Tu Me Elevas](https://open.spotify.com/track/4NmwhhvF4GMvLS1UzG8ydb) | [Aron Luix](https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Tu Me Elevas](https://open.spotify.com/album/2qyqD24Oa0BIvjkRcqoG9b) | 3:27 | 2023-06-08 |  |
 | [TU ME QUIERES?](https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [TU ME QUIERES?](https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB) | 2:45 | 2023-02-02 | 2023-06-01 |
 | [Tu Negro y Mi Algo](https://open.spotify.com/track/0bJgGAR17gjuYh3SqnXds7) | [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Tu Negro y Mi Algo](https://open.spotify.com/album/4Xn9KIV5EwrfRn61u930Aa) | 2:56 | 2022-08-19 | 2023-05-26 |
 | [Tu Perdón \(feat\. G.Zamora\)](https://open.spotify.com/track/1x5tWPIw2UvLXSsPLmxlRU) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [The Ware](https://open.spotify.com/artist/4R0ek5XCkASrjFf0Q89Q0A), [G.Zamora](https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F) | [Tu Perdón \(feat\. G.Zamora\)](https://open.spotify.com/album/5lptf4EbojA7LkA1YwTZh1) | 3:33 | 2022-03-25 | 2023-05-26 |

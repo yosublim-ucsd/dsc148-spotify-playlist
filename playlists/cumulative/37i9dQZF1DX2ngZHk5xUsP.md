@@ -2,9 +2,9 @@
 
 ### [Suara Dari Jawa Barat](https://open.spotify.com/playlist/37i9dQZF1DX2ngZHk5xUsP)
 
-> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Isyana Sarasvati
+> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Shakira Jasmine
 
-66 songs - 4 hr 12 min
+68 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Berdiri Teman](https://open.spotify.com/track/2wzLryGH80h3RkzuzVOriD) | [Closehead](https://open.spotify.com/artist/51kLNLcGpqb9eXGfCl0vrR) | [Discopunkhead](https://open.spotify.com/album/6sSnkZGa92joNiWAeFr44B) | 4:25 | 2023-03-16 |  |
 | [Berita Harian](https://open.spotify.com/track/69MOVP8IuQ2qOGhTO5H4UO) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Karet](https://open.spotify.com/album/51K8wlMSll4FQYNKWgk934) | 3:39 | 2023-03-16 |  |
 | [Bertaruh Pada Api](https://open.spotify.com/track/0TblrOwGd4j8YK0cdTRo5v) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Bertaruh Pada Api](https://open.spotify.com/album/2VOfBP9LA5KsNMFyM35iR1) | 4:30 | 2023-03-16 |  |
+| [best](https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [best](https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9) | 3:35 | 2023-06-08 |  |
 | [Cerita Cinta](https://open.spotify.com/track/5PccS3eocPF3x4dfayUU7A) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Be My Valentine](https://open.spotify.com/album/544XgrdVXO7eH0Jf1S3oNP) | 4:22 | 2023-03-16 |  |
 | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/track/3qmIfhZnHenyTcWzWu8IJP) | [The Panasdalam Bank](https://open.spotify.com/artist/0sfi4c54RwQVfvfq6yz8fc), [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/album/0wTyAlIVylu3Q88tWEUdeM) | 2:36 | 2023-03-16 |  |
 | [Desire](https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:23 | 2023-03-16 |  |
@@ -56,6 +57,7 @@
 | [Representasi](https://open.spotify.com/track/46QJytZHZONUQcqQVT3cMl) | [Topi Jerami](https://open.spotify.com/artist/6ZRpCV3WWjGXBhOgIvZqIA) | [Get In...](https://open.spotify.com/album/5odymU3r3v9fqnmrew7Leg) | 0:58 | 2023-03-16 |  |
 | [Romantic Purple](https://open.spotify.com/track/1jcAWxx7IYrKXvECW4MwXt) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Let Me Begin](https://open.spotify.com/album/0tqaPIvkArC3EZ8sYmkLAy) | 6:14 | 2023-03-16 |  |
 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 | 2023-05-02 |  |
+| [Segar](https://open.spotify.com/track/23SH0rxlb47odl9HHmufOr) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Jeruk Segar](https://open.spotify.com/album/2eyvObKjsKZx7Fe3VIPbxe) | 3:00 | 2023-06-08 |  |
 | [Sha La La](https://open.spotify.com/track/2oE4nQnV1D4PTZFoDw8JTF) | [Putih Abu\-Abu](https://open.spotify.com/artist/3yRNoZZuzU5TC7uwOxd7cL) | [Sha La La](https://open.spotify.com/album/15OsMcIup45YQk0TVp2AFn) | 3:31 | 2023-03-16 |  |
 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 | 2023-03-16 |  |
 | [Simpul](https://open.spotify.com/track/5kzE5sZTaK0hyCqYaLfN4t) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Simpul Tak Berdaya](https://open.spotify.com/album/4UlIKDydaQLNsJGRa5Dgqb) | 3:51 | 2023-03-16 |  |

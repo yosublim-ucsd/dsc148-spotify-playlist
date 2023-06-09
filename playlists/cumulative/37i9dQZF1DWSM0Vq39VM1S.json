@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236853,
+      "name": "Sublime & Silence",
+      "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
+    },
+    {
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 297720,
       "name": "The Sweet Sound of You",
       "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"

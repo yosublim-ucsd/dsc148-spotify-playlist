@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 208000,
       "name": "Africa",
       "url": "https://open.spotify.com/track/1ko7QoBfx4XmL3bUKd9XJo"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 211954,
       "name": "Arthur's Theme",
       "url": "https://open.spotify.com/track/2Ft1pxvNweDBKxbntC15jr"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 170432,
       "name": "At This Point",
       "url": "https://open.spotify.com/track/6ENVQhWISAF4em1AMU08Gm"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 228328,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/5BlwpCcj5AE8KVLgUM1SKl"
@@ -1352,6 +1352,24 @@
       "duration_ms": 181994,
       "name": "Can't Stop This Feeling",
       "url": "https://open.spotify.com/track/4GlJ1fHjO8ZChYRDcrwFr8"
+    },
+    {
+      "album": {
+        "name": "Acoustic Guitar Covers II",
+        "url": "https://open.spotify.com/album/5oIcVw7vCzKHtvxTIcLA7d"
+      },
+      "artists": [
+        {
+          "name": "Diego Bellucci",
+          "url": "https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192312,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/3WpgHSVHeSPJXRLSYDJ2kW"
     },
     {
       "album": {
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 210500,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/536KX7LmY2wEBY1XbWaTbR"
@@ -3598,7 +3616,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 162000,
       "name": "I Don't Want to Miss a Thing - Piano",
       "url": "https://open.spotify.com/track/0KnRpsavKnZhiuf4zlbekx"
@@ -3832,7 +3850,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 135201,
       "name": "If I Could Turn Back Time",
       "url": "https://open.spotify.com/track/6wAN3QGz77L0TBLCUJMmhB"
@@ -4055,6 +4073,24 @@
     },
     {
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/1OPomz33l5BKj8MS3DSbX7"
+      },
+      "artists": [
+        {
+          "name": "Ross Ware",
+          "url": "https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131727,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/1sQgx1rCbXCB2K40jT2Lex"
+    },
+    {
+      "album": {
         "name": "Ironic",
         "url": "https://open.spotify.com/album/1jpkk29vPtII4h64qz9WRR"
       },
@@ -4084,7 +4120,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 141035,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/7uDZCXwbT3t66G8D5g8aRG"
@@ -4120,7 +4156,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 255236,
       "name": "It Must Have Been Love - Piano version",
       "url": "https://open.spotify.com/track/4YACCGEjeX1LEpY5tIBb97"
@@ -4156,7 +4192,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 127800,
       "name": "Jealous Guy",
       "url": "https://open.spotify.com/track/3SBrKjO3J5hK33LkFUT5qu"
@@ -4174,7 +4210,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 191000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/3Qy8L9VXIGqV51ZMqgqy8y"
@@ -4426,7 +4462,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 172285,
       "name": "Leaving On A Jet Plane",
       "url": "https://open.spotify.com/track/2vt0uVbNi6ZVpTXIo1tISR"
@@ -4948,7 +4984,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 112173,
       "name": "Major Distribution",
       "url": "https://open.spotify.com/track/6F2c611HqwN7kUjZPQFt1j"
@@ -5758,7 +5794,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 164833,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/2j8l5R7SLINkv2BigX8aC8"
@@ -6208,7 +6244,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 269994,
       "name": "Shape Of You",
       "url": "https://open.spotify.com/track/4SXxhTeElT0VzF5ZCrc1Fj"
@@ -6316,7 +6352,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 153683,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5jzTlvI4E4CpuSSQI0dXlk"
@@ -7000,7 +7036,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 184268,
       "name": "That's What Friends Are For",
       "url": "https://open.spotify.com/track/33XiutcUojrArf3R2GWCfO"
@@ -7594,7 +7630,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 175256,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Lr1cw5eLWcX7pcVu0WUfR"
@@ -7796,6 +7832,24 @@
       "duration_ms": 218000,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/3hLwdzukhUxAB8epGFKIkf"
+    },
+    {
+      "album": {
+        "name": "Viva La Vida",
+        "url": "https://open.spotify.com/album/4ywHnvPY7ZAp3C3440TJIs"
+      },
+      "artists": [
+        {
+          "name": "Chris Island",
+          "url": "https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228450,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/7kxKactI72Fl5nZpTpLpJh"
     },
     {
       "album": {
@@ -8318,7 +8372,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 131134,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/2dx7u7nfi5Z5o8HqUbLtX9"
@@ -8394,6 +8448,24 @@
       "duration_ms": 151484,
       "name": "Words",
       "url": "https://open.spotify.com/track/6HWTR9SN6kjWSirXAq9tXI"
+    },
+    {
+      "album": {
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/4r0aHYYhUwlaZ2sthOuJ0s"
+      },
+      "artists": [
+        {
+          "name": "The Poet",
+          "url": "https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140838,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/6e5NXvhtb7cEaNWUXZvIWZ"
     },
     {
       "album": {

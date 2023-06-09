@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "ARANCIATA",
+        "url": "https://open.spotify.com/album/0I9Kc8iR7JAf52TITuMyhK"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194366,
+      "name": "ARANCIATA",
+      "url": "https://open.spotify.com/track/4X24I8ugXKgRgdtC9LzmlP"
+    },
+    {
+      "album": {
         "name": "Aria",
         "url": "https://open.spotify.com/album/2uPxrfkZ9Rnd7gkt8pWTs9"
       },
@@ -4334,6 +4352,24 @@
       "duration_ms": 170526,
       "name": "FUCKBOY",
       "url": "https://open.spotify.com/track/4yZ5MdzVJGG2W1EmOQQvaa"
+    },
+    {
+      "album": {
+        "name": "Fulmini Addosso (from the Prime Video Original Movie L'ESTATE PI\u00d9 CALDA)",
+        "url": "https://open.spotify.com/album/1hp1u1x3mD355oPyZwHqqj"
+      },
+      "artists": [
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221434,
+      "name": "Fulmini Addosso - from the Prime Video Original Movie L'ESTATE PI\u00d9 CALDA",
+      "url": "https://open.spotify.com/track/2tsd2ufK2aASL0hKifMxmR"
     },
     {
       "album": {
@@ -11152,6 +11188,24 @@
       "duration_ms": 206416,
       "name": "Tutto cambia",
       "url": "https://open.spotify.com/track/12MsDKDc6ENRKFl5k2VM4I"
+    },
+    {
+      "album": {
+        "name": "Tutto Ok",
+        "url": "https://open.spotify.com/album/6oKvDx8fawkHIZSfA7aJXB"
+      },
+      "artists": [
+        {
+          "name": "NARA",
+          "url": "https://open.spotify.com/artist/2QwnSHVij7aOFnIb1UVAF6"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Tutto Ok",
+      "url": "https://open.spotify.com/track/5DG0NOLgGIVzYTeljm0AKw"
     },
     {
       "album": {

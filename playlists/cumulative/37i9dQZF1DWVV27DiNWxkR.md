@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eilish.
 
-328 songs - 22 hr 13 min
+329 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Furious](https://open.spotify.com/track/78XTKnmE1zQSwvholRJb31) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Furious](https://open.spotify.com/album/3T9Bo1irL6Aye8vk1dZ1JY) | 3:39 | 2019-09-29\* | 2020-11-17 |
 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 | 2020-03-07 | 2020-10-15 |
 | [Ghost Town](https://open.spotify.com/track/0QDS8rTK1sxSIcfrQicppm) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ghost Town \- Single](https://open.spotify.com/album/4Cum5eDhnYUtXFC1EarXLx) | 4:47 | 2022-09-02 | 2022-11-13 |
-| [Ghost Town](https://open.spotify.com/track/0dXGcWTyxjkUhlWgegLmFW) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black and the Blue](https://open.spotify.com/album/1uckQCJ7h9TO1h5zrbnX26) | 4:47 | 2022-09-02 |  |
+| [Ghost Town](https://open.spotify.com/track/0dXGcWTyxjkUhlWgegLmFW) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black and the Blue](https://open.spotify.com/album/1uckQCJ7h9TO1h5zrbnX26) | 4:47 | 2022-09-02 | 2023-06-09 |
 | [Ghost Town](https://open.spotify.com/track/4GNcXcBJWF5oA89tB4PxOk) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black And The Blue](https://open.spotify.com/album/5XkXJAOxHjc9Eo3DYG5OR5) | 4:47 | 2019-09-29\* | 2022-07-29 |
 | [Ghost Town](https://open.spotify.com/track/7GoMuHEHsiCbe9IZSO6teX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black and the Blue](https://open.spotify.com/album/7gktUhPz1PrJIfoEgZxCeI) | 4:47 | 2022-07-15 | 2023-05-01 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-17 |  |
@@ -310,6 +310,7 @@
 | [Valentine](https://open.spotify.com/track/5XqmNCCleex8nzKmILOjTD) | [Luna Delirious](https://open.spotify.com/artist/3KBcvk50M8TwHU1ErIGrsC) | [Valentine](https://open.spotify.com/album/2rhevg2xWSNDclTKTyVmJn) | 2:10 | 2019-09-29\* | 2022-05-21 |
 | [Vanishing Twin](https://open.spotify.com/track/3cyJdcpXplwiAtvIvXssnE) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Vanishing Twin](https://open.spotify.com/album/79Ms7IYdwGn6chpieU9H7I) | 6:16 | 2020-03-21 | 2020-10-15 |
 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 | 2019-09-29\* |  |
+| [Waiting Room](https://open.spotify.com/track/04mAOoQNsXmDJlyupJwmkO) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Ark Studio Compilation, Vol\. 8](https://open.spotify.com/album/1SiSNGAf4CVJgF63NJyTw9) | 6:33 | 2023-06-09 |  |
 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 | 2022-08-26 | 2023-02-12 |
 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 | 2019-09-29\* |  |
 | [We Are Bleeding](https://open.spotify.com/track/6CvIbhqgEYxxAfVl7r2Frg) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [The Perfect Plan](https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW) | 4:59 | 2020-08-30 | 2020-09-11 |

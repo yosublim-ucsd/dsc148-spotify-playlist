@@ -4,10 +4,11 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-175 songs - 11 hr 33 min
+177 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Chalet For Two](https://open.spotify.com/track/6WpAVvDGnPZ0CEO7yAIoBM) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [A Chalet For Two](https://open.spotify.com/album/4roSmRerpqynrfRzoGo4S3) | 2:25 | 2023-06-08 |  |
 | [A Final Cocktail](https://open.spotify.com/track/5RXJOvp3KUaSZXUgCS0or0) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [A Final Cocktail](https://open.spotify.com/album/5l9CYHTsamZqUOPo9Rib1o) | 2:34 | 2023-05-04 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/68je1RygvBfwUcTZXU9toA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Jazz Moods \- 'Round Midnight](https://open.spotify.com/album/58vSENHhdZo1Tc9VGCV5pY) | 7:12 | 2022-08-18 | 2023-04-21 |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/4pIF1SiB1GMFOFfo6OhrOi) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Here, There And Everywhere](https://open.spotify.com/album/0YDrnRN4lgzFDIWLtNLz2F) | 3:05 | 2022-08-18 |  |
@@ -32,6 +33,7 @@
 | [Blue Mist](https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 3:24 | 2023-01-26 |  |
 | [Blue Sundays](https://open.spotify.com/track/2oSLSznCHtDk4JfKYNLkWd) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [Blue Sundays](https://open.spotify.com/album/5uOlGLzQ9dUViSfhuu4pxu) | 3:02 | 2022-08-18 |  |
 | [Body And Soul](https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Clef Records LPR\)](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:15 | 2022-08-18 |  |
+| [Bridges](https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Bridges](https://open.spotify.com/album/5zZQGomSy4wpZaWL34x6fK) | 2:53 | 2023-06-08 |  |
 | [Café International](https://open.spotify.com/track/6mWHwX0VNVDyWVF0j6qQ56) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Café International](https://open.spotify.com/album/0bBBE6Q90Fvr4Ka2EO0ObZ) | 3:30 | 2023-03-23 |  |
 | [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-08-18 |  |
 | [Cocktails For Two](https://open.spotify.com/track/50ijZUy4vc2q9Pm12q5F7K) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Verve Jazz Masters 34: Coleman Hawkins](https://open.spotify.com/album/068xxiiZI5PQYoYVQl2R7y) | 2:39 | 2022-08-18 | 2023-05-05 |

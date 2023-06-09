@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. New Franklin Jonas, plus the latest cuts from Aluna, Jam City, Abra and more.",
+  "description": "The latest tracks from Mad Decent and friends. New single from Aluna, plus the latest cuts from Jam City, MJ Nebreda and more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 170078,
       "name": "Bel Mercy (El Jefe)",
       "url": "https://open.spotify.com/track/1U5vRpy8n7K1rq2e3HOBA0"
@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Short Term Agreement",
+        "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
+      },
+      "artists": [
+        {
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "external meMories",
+      "url": "https://open.spotify.com/track/1H9WjQBIXGw05iJ5Ju3wPY"
+    },
+    {
+      "album": {
         "name": "Eyes On You",
         "url": "https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI"
       },
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 257055,
       "name": "Kiss It Better",
       "url": "https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK"
@@ -3904,6 +3922,24 @@
       "duration_ms": 256333,
       "name": "Life Of A Fly",
       "url": "https://open.spotify.com/track/6JdnWwouh7SpDmhpswPRKs"
+    },
+    {
+      "album": {
+        "name": "limewire",
+        "url": "https://open.spotify.com/album/5jCZgZD5ndkOHAJD3u3drI"
+      },
+      "artists": [
+        {
+          "name": "untitled halo",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148629,
+      "name": "limewire",
+      "url": "https://open.spotify.com/track/28HqSYL38aee5YEqh3zS9m"
     },
     {
       "album": {
@@ -4547,6 +4583,50 @@
     },
     {
       "album": {
+        "name": "Farm Fantasies",
+        "url": "https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo"
+      },
+      "artists": [
+        {
+          "name": "MCR-T",
+          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
+        },
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266344,
+      "name": "My Barn My Rules",
+      "url": "https://open.spotify.com/track/1yw28y3kv8uS7ENaZkbUFt"
+    },
+    {
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/3y49fRCCl1zRUq6ZRzsA9Z"
+      },
+      "artists": [
+        {
+          "name": "zesh",
+          "url": "https://open.spotify.com/artist/5DyKTvO5ecpEJy4SKddjJT"
+        },
+        {
+          "name": "Osyris Israel",
+          "url": "https://open.spotify.com/artist/483T53xQijXWWIX2lHVEmC"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116165,
+      "name": "my side",
+      "url": "https://open.spotify.com/track/3oIGdH77ll3NJsAcnMMFk5"
+    },
+    {
+      "album": {
         "name": "Self Oscillation",
         "url": "https://open.spotify.com/album/1IFsw8Gq05lBJQWAcSM3I5"
       },
@@ -4838,6 +4918,36 @@
       "duration_ms": 193267,
       "name": "Ocean Parkway",
       "url": "https://open.spotify.com/track/1uloqdf6spYzacVShYYsMU"
+    },
+    {
+      "album": {
+        "name": "Oh The Glamour",
+        "url": "https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        },
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201529,
+      "name": "Oh The Glamour",
+      "url": "https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt"
     },
     {
       "album": {
@@ -5242,6 +5352,24 @@
       "duration_ms": 141847,
       "name": "Promises - Paul Woolford & Diplo Remix",
       "url": "https://open.spotify.com/track/6TGDDa2EttWkbWbBD1oq9Z"
+    },
+    {
+      "album": {
+        "name": "Brudderman",
+        "url": "https://open.spotify.com/album/0gsCHI0tsxoEpE9KcEl1i6"
+      },
+      "artists": [
+        {
+          "name": "AyooLii",
+          "url": "https://open.spotify.com/artist/1GTIvySxCJ0Kq2ie1UuTB1"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71492,
+      "name": "Pronouns",
+      "url": "https://open.spotify.com/track/7nrI62uSeY5VSPHrDwhKEu"
     },
     {
       "album": {
@@ -5706,6 +5834,50 @@
       "duration_ms": 251217,
       "name": "Scripture",
       "url": "https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG"
+    },
+    {
+      "album": {
+        "name": "Amor En Los Tiempos de Odio (Deluxe)",
+        "url": "https://open.spotify.com/album/3SXpzwoqEhCfGG1Oug9FAY"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168262,
+      "name": "Se Siente Bien",
+      "url": "https://open.spotify.com/track/5zMEaRJk7o8SLyQzxOH12S"
+    },
+    {
+      "album": {
+        "name": "Set The Roof",
+        "url": "https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        },
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268779,
+      "name": "Set The Roof",
+      "url": "https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2"
     },
     {
       "album": {
@@ -6275,6 +6447,24 @@
     },
     {
       "album": {
+        "name": "COY004",
+        "url": "https://open.spotify.com/album/7whlRqvupJA3oPDqzU6j70"
+      },
+      "artists": [
+        {
+          "name": "Remotif",
+          "url": "https://open.spotify.com/artist/6h08EDBdqew8dZwrZFYRlQ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454579,
+      "name": "Telepathic Heights",
+      "url": "https://open.spotify.com/track/4OE3s6eD2tdBgUsFGlnZFI"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/4c9GghCh16EWM5xB9laTph"
       },
@@ -6428,7 +6618,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 175680,
       "name": "The Way You Say - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
@@ -6542,6 +6732,32 @@
       "duration_ms": 180480,
       "name": "To The Money (feat. Flo Milli & 8AE) - Aluna & Shadow Child Remix",
       "url": "https://open.spotify.com/track/3bnffTMh5MG0y8jhznpSEL"
+    },
+    {
+      "album": {
+        "name": "Jam City Presents EFM",
+        "url": "https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        },
+        {
+          "name": "Aidan",
+          "url": "https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224893,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/7qdETIUEvsFoIh8Ed3YDpk"
     },
     {
       "album": {
@@ -6799,6 +7015,24 @@
     },
     {
       "album": {
+        "name": "Walking On Water",
+        "url": "https://open.spotify.com/album/6zpWMyIlpCOWjSmN33rhBt"
+      },
+      "artists": [
+        {
+          "name": "Yawning Portal",
+          "url": "https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247304,
+      "name": "Walking On Water",
+      "url": "https://open.spotify.com/track/6fIWYdtL94tXKN9QKsag1X"
+    },
+    {
+      "album": {
         "name": "Wanna Play House?",
         "url": "https://open.spotify.com/album/3prtz2DOF45x0INlLIHx1d"
       },
@@ -6957,6 +7191,28 @@
     },
     {
       "album": {
+        "name": "Jam City Presents EFM",
+        "url": "https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206730,
+      "name": "Wild n Sweet",
+      "url": "https://open.spotify.com/track/2g1eL34ZVxifL8VYe1FsNK"
+    },
+    {
+      "album": {
         "name": "Woman Like You",
         "url": "https://open.spotify.com/album/3thcwDUKvwi5ghc2KZbkkv"
       },
@@ -7034,6 +7290,24 @@
       "duration_ms": 369502,
       "name": "XTC",
       "url": "https://open.spotify.com/track/6Uk2dbRVdVcpPbBDaZlNX5"
+    },
+    {
+      "album": {
+        "name": "Explorations and Improvisations From 2018-2021",
+        "url": "https://open.spotify.com/album/2iYj2AKGAygbac5Wnl2Vo1"
+      },
+      "artists": [
+        {
+          "name": "hameedullah",
+          "url": "https://open.spotify.com/artist/0vzouvABhRjC6Ss75C9ZJQ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142343,
+      "name": "Ya, So What",
+      "url": "https://open.spotify.com/track/69qvzWqTypV47Wj8xL4Np2"
     },
     {
       "album": {

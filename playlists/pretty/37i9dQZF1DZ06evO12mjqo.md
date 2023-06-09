@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,406 likes - 47 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,848 likes - 47 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 46 | [SECULAR HAZE](https://open.spotify.com/track/47Y1Jtxa3c8VCqLZm157IJ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Deluxe Version\)](https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr) | 5:11 |
 | 47 | [I Believe](https://open.spotify.com/track/5a6XgGtGrCjE7qJ5qPtFZd) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 4:06 |
 
-Snapshot ID: `MjgxMDIzMzUsMDAwMDAwMDBiYzg1MzVjZmE5YzRjYTE2MjdlZDIyNGMyNjg0MDI1NA==`
+Snapshot ID: `MjgxMDM3NzksMDAwMDAwMDBjNTFhZmIxZDBkZjc1NjdjOWEzNGE3MmM2YmUzZjE1OA==`

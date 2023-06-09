@@ -304,10 +304,28 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 131406,
       "name": "DRAMA QUEEN",
       "url": "https://open.spotify.com/track/51MaFLZUzEE2mU5F4pSIZh"
+    },
+    {
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/7EdonZTj4jX986R521QplF"
+      },
+      "artists": [
+        {
+          "name": "Lu+Fi",
+          "url": "https://open.spotify.com/artist/3xFvlpW2g6u4m9MEsGr5Hl"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165511,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0gS6EgvQ5YxVxiqAsWRnFw"
     },
     {
       "album": {
@@ -406,7 +424,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -605,6 +623,24 @@
     },
     {
       "album": {
+        "name": "I Don't Usually Fall, But When I Do...",
+        "url": "https://open.spotify.com/album/3QOb81DKEDB0HFPQR8tkwE"
+      },
+      "artists": [
+        {
+          "name": "Aidan Fraser",
+          "url": "https://open.spotify.com/artist/2SNp368DTWkgfo7sM1RqMx"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171083,
+      "name": "I Don't Usually Fall, But When I Do...",
+      "url": "https://open.spotify.com/track/3E0smb4bG5SKBiePR5tbQc"
+    },
+    {
+      "album": {
         "name": "i just want you",
         "url": "https://open.spotify.com/album/44Ut5MnUWlRUVt9J6Vbg00"
       },
@@ -663,6 +699,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/6ZfcCguyjUUnnGzndPgk8j"
+      },
+      "artists": [
+        {
+          "name": "Zaiigoh",
+          "url": "https://open.spotify.com/artist/2y1M4qSsjvWQ8FcqRoX2cr"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208301,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/4sBvb7ckoQyRw5PNIHZx7V"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5"
       },
@@ -696,7 +750,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 214960,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2i4RMLQIE3L7gklTquZvZx"
@@ -780,6 +834,24 @@
       "duration_ms": 120500,
       "name": "Lie/Idle",
       "url": "https://open.spotify.com/track/3RkdAeulXA3SWvX4yXwMrg"
+    },
+    {
+      "album": {
+        "name": "Like the Clouds",
+        "url": "https://open.spotify.com/album/17kpu9XPvVthKOTH8eunCt"
+      },
+      "artists": [
+        {
+          "name": "Tai Murape",
+          "url": "https://open.spotify.com/artist/0qCwWQGWUw3YyYPjaFCltG"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352444,
+      "name": "Like the Clouds",
+      "url": "https://open.spotify.com/track/4LUQ2UIIxSgq9tTcqu7q9e"
     },
     {
       "album": {
@@ -903,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Mixed Feelings(Sped Up)",
+        "url": "https://open.spotify.com/album/7H2ysjNHkcYNC8qcM06IIO"
+      },
+      "artists": [
+        {
+          "name": "KVSE",
+          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142299,
+      "name": "Mixed Feelings(Sped Up)",
+      "url": "https://open.spotify.com/track/5n9rG2h1q6jTRPVNlbDP4j"
+    },
+    {
+      "album": {
         "name": "my Intentions",
         "url": "https://open.spotify.com/album/3HKtKW3F060uEkTCxWnU8E"
       },
@@ -914,7 +1004,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 186734,
       "name": "my intentions",
       "url": "https://open.spotify.com/track/6xLC342gJAbWQYG3Td23cn"
@@ -1149,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "what's different. // radio silence.",
+        "url": "https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR"
+      },
+      "artists": [
+        {
+          "name": "Mom Tudie",
+          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130034,
+      "name": "radio silence.",
+      "url": "https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO"
+    },
+    {
+      "album": {
         "name": "Sanguine (Pastel Remix)",
         "url": "https://open.spotify.com/album/0DggHQp8mTvxxLBKy7pANP"
       },
@@ -1278,7 +1386,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 197333,
       "name": "Simple Things (feat. Theo Croker)",
       "url": "https://open.spotify.com/track/12aouEbQ2CAzBg7yc4IYVf"
@@ -1474,7 +1582,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 158365,
       "name": "Time In Our Lives",
       "url": "https://open.spotify.com/track/7Gbit25MiuKzmybIw1bDBr"

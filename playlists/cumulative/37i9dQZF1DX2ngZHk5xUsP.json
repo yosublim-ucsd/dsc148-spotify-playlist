@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Ragam musik IDentitasku dari berbagai penjuru Jawa Barat. Cover: Isyana Sarasvati",
+  "description": "Ragam musik IDentitasku dari berbagai penjuru Jawa Barat. Cover: Shakira Jasmine",
   "name": "Suara Dari Jawa Barat",
   "tracks": [
     {
@@ -168,6 +168,24 @@
       "duration_ms": 270927,
       "name": "Bertaruh Pada Api",
       "url": "https://open.spotify.com/track/0TblrOwGd4j8YK0cdTRo5v"
+    },
+    {
+      "album": {
+        "name": "best",
+        "url": "https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9"
+      },
+      "artists": [
+        {
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215803,
+      "name": "best",
+      "url": "https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H"
     },
     {
       "album": {
@@ -886,6 +904,24 @@
       "duration_ms": 189000,
       "name": "Secercah Asa",
       "url": "https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH"
+    },
+    {
+      "album": {
+        "name": "Jeruk Segar",
+        "url": "https://open.spotify.com/album/2eyvObKjsKZx7Fe3VIPbxe"
+      },
+      "artists": [
+        {
+          "name": "Swellow",
+          "url": "https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180860,
+      "name": "Segar",
+      "url": "https://open.spotify.com/track/23SH0rxlb47odl9HHmufOr"
     },
     {
       "album": {

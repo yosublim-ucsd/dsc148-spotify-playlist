@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Afro Damba",
+        "url": "https://open.spotify.com/album/3nwO2bf9tdn6fWqxNr3Age"
+      },
+      "artists": [
+        {
+          "name": "Peter Power",
+          "url": "https://open.spotify.com/artist/5l5RxxtywxwYKaKJrl5Vrh"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388719,
+      "name": "Dansakoni",
+      "url": "https://open.spotify.com/track/5OtZ6fidRTpFZu0IzI0RVw"
+    },
+    {
+      "album": {
         "name": "Toy Tonics Top Tracks Vol. 7",
         "url": "https://open.spotify.com/album/7jrWpxkaSYFBmMhmS3GS2D"
       },
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 410466,
       "name": "Love Love Love - Soft rocks remix",
       "url": "https://open.spotify.com/track/7LAbTarTvsS21Q0aKNchuq"
@@ -1262,6 +1280,24 @@
       "duration_ms": 372000,
       "name": "M\u00e1s Profundo",
       "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"
+    },
+    {
+      "album": {
+        "name": "Ember EP",
+        "url": "https://open.spotify.com/album/51pq1K9jNO2oymTOp5wHEI"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344539,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/5NwfT0n9gsv08ttQbRgyEs"
     },
     {
       "album": {
@@ -1646,6 +1682,28 @@
       "duration_ms": 305554,
       "name": "Revision A - Black Coco",
       "url": "https://open.spotify.com/track/5sNmRWmAjtswqY3QQvS8sP"
+    },
+    {
+      "album": {
+        "name": "Stations",
+        "url": "https://open.spotify.com/album/38RpNXqcG9cMtk6ISlrIxI"
+      },
+      "artists": [
+        {
+          "name": "Woolfy",
+          "url": "https://open.spotify.com/artist/115rMfffKYQgrhzmGT7fTw"
+        },
+        {
+          "name": "Projections",
+          "url": "https://open.spotify.com/artist/3W8dralHmc6PqvM9Ws9S83"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347573,
+      "name": "Set It Up",
+      "url": "https://open.spotify.com/track/6NyGHuviK1nQgd7BbfKEfW"
     },
     {
       "album": {

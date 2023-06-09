@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/3di0qx12IxzIgc0uFuRSbI"
+      },
+      "artists": [
+        {
+          "name": "BeeJay",
+          "url": "https://open.spotify.com/artist/0Cwe5u9RvI668c5MXkzqyQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330860,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/3Kw2ogHWEVOln1I0COwKpx"
+    },
+    {
+      "album": {
         "name": "Tulia",
         "url": "https://open.spotify.com/album/6xsRFuy3hZsnxqppb5e6mT"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 295314,
       "name": "Jina La Yesu",
       "url": "https://open.spotify.com/track/2rv5OzGIcE3NPvSJiYswp4"
@@ -534,6 +552,28 @@
       "duration_ms": 200891,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS"
+    },
+    {
+      "album": {
+        "name": "Hymnos 2",
+        "url": "https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE"
+      },
+      "artists": [
+        {
+          "name": "Dedo Dieumerci",
+          "url": "https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR"
+        },
+        {
+          "name": "Naomi Mugiraneza",
+          "url": "https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582000,
+      "name": "Majina Yote Jehovah",
+      "url": "https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn"
     },
     {
       "album": {
@@ -728,7 +768,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 276279,
       "name": "Naogopa",
       "url": "https://open.spotify.com/track/5sJHsI693oMyfxWu4Uo2kN"
@@ -1209,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6ViivhHL3tS4VQodPp4DQ9"
+      },
+      "artists": [
+        {
+          "name": "Ngalu P",
+          "url": "https://open.spotify.com/artist/0WSlmwtEKyf4RwcuULH3K4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218828,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/2CZNoaLPWNcIBjKkNlQ9GS"
+    },
+    {
+      "album": {
         "name": "Umejua Kunifurahisha",
         "url": "https://open.spotify.com/album/0457zdsea1nLhcXW45GvLc"
       },
@@ -1264,7 +1322,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 377875,
       "name": "Umenitendea",
       "url": "https://open.spotify.com/track/5WhazdGfAcEAsdkFlPDrDv"

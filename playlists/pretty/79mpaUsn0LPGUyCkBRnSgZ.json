@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "ODk1LGQxODhkNjA4MjVmNTAzODhkMzc2ZTdhNzAzMDYzMzIwMmNmNDU3NDI=",
+  "snapshot_id": "ODk5LDQyYjY0ODlhMjdmNjAyMGU3MGNlZGUxNWFjNzI0NjM3YzZkZGQwYzE=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -3733,6 +3733,22 @@
       "url": "https://open.spotify.com/track/2apsFfsxR5nkYkHaDMOs74"
     },
     {
+      "added_at": "2023-06-08 03:10:07",
+      "album": {
+        "name": "Night Time, My Time",
+        "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 279880,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/6Nc3KauZ5OOk7ogX7h5HhO"
+    },
+    {
       "added_at": "2023-06-08 02:24:37",
       "album": {
         "name": "Tidal",
@@ -3747,6 +3763,38 @@
       "duration_ms": 248560,
       "name": "Sleep to Dream",
       "url": "https://open.spotify.com/track/51HiIbv8gO0HvwpmAxXAFe"
+    },
+    {
+      "added_at": "2023-06-08 04:19:42",
+      "album": {
+        "name": "My Maudlin Career",
+        "url": "https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "French Navy",
+      "url": "https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1"
+    },
+    {
+      "added_at": "2023-06-08 04:20:20",
+      "album": {
+        "name": "Underachievers Please Try Harder",
+        "url": "https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "Suspended From Class",
+      "url": "https://open.spotify.com/track/2YDmCSVs46QrhD2sqYGGqx"
     }
   ],
   "unique_name": "Zacklog",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-25",
-  "description": "Dive into the full collection of Spotify Singles recordings. Cover: Cat Burns. ",
+  "description": "The full collection of Spotify Singles recordings. Cover: Bad Snacks.\nFeeling inspired? Check out Bad Snacks's exclusive sound pack for <a href=\u201chttps://soundtrap.com\u201d>Soundtrap, </a>  Spotify\u2019s digital music studio for songwriters and beat makers. \n",
   "name": "Spotify Singles: Complete Collection",
   "tracks": [
     {
@@ -16362,6 +16362,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS"
+      },
+      "artists": [
+        {
+          "name": "Bad Snacks",
+          "url": "https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163992,
+      "name": "Technicolor - Spotify Singles",
+      "url": "https://open.spotify.com/track/0RgltCLC6gLdDX6UR7Noei"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6"
       },
       "artists": [
@@ -19486,6 +19504,24 @@
       "duration_ms": 188528,
       "name": "You Can Call Me Al - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS"
+      },
+      "artists": [
+        {
+          "name": "Bad Snacks",
+          "url": "https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "You Get What You Give - Spotify Singles",
+      "url": "https://open.spotify.com/track/67Z8vS45C4PrIRrLWIkavo"
     },
     {
       "album": {

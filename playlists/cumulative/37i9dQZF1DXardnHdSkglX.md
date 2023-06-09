@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-224 songs - 13 hr 23 min
+226 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [China](https://open.spotify.com/track/3GDVAt1e7YXnjpLQLO3Uj6) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [China](https://open.spotify.com/album/0tzBJeeNocpK4aAJJ8PWu6) | 2:48 | 2021-12-09 |  |
 | [Closer](https://open.spotify.com/track/5q0SV5avxVZkET73G2Neq9) | [Bossa Players](https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm) | [Closer](https://open.spotify.com/album/1OjnaY1fTZP2MiXzTnlLxL) | 3:36 | 2022-11-24 |  |
 | [Cold Heart](https://open.spotify.com/track/2hcgHA5iPCBHlWZusjsr1w) | [The Bacalhau Quintet](https://open.spotify.com/artist/6tK6HFxCJ3PUpeYkgse2Ya) | [Bossa Vibes Vol\. 01](https://open.spotify.com/album/65KDUBMIG3sk3sa6lv4QnT) | 3:30 | 2023-04-20 |  |
+| [Collide](https://open.spotify.com/track/6eKyomPI3ztAYr1jh6BkwH) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [Collide](https://open.spotify.com/album/6qeWEQ0QZq3kotA1IQ8qpJ) | 2:40 | 2023-06-08 |  |
 | [Company](https://open.spotify.com/track/1waygSn0gHDRqvPjcm5oje) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Modern Jukebox](https://open.spotify.com/album/2i7MhuER8I9dk47TWkrT8t) | 2:59 | 2023-04-20 |  |
 | [Cool Kids](https://open.spotify.com/track/2jyfbS6X9OmOHFXYdowj2V) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Cool Kids](https://open.spotify.com/album/0sy65ji8nJDfZOAfBzluDE) | 3:06 | 2021-12-09 |  |
 | [Crazy in Love](https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Crazy in Love](https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd) | 3:38 | 2021-12-09 |  |
@@ -52,10 +53,10 @@
 | [Desaparecido](https://open.spotify.com/track/4vy4VpbZA0nPd6seQfADhI) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Desaparecido](https://open.spotify.com/album/06eINx79WI2dm9D78cyn04) | 3:00 | 2021-12-09 |  |
 | [Disturbia \(Bossa Version\)](https://open.spotify.com/track/2rc7wIxBvb3dx7CiUTdB2F) | [Tahta Menezes](https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 4:05 | 2021-12-09 | 2023-05-13 |
 | [Do You Know \(The Ping Pong Song\) \(Bossa Version\)](https://open.spotify.com/track/3KZN0tA4b4BdhiJYQYlprg) | [Billynho Blanco](https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf) | [Relaxing Bossa Lounge 3](https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o) | 3:48 | 2021-12-09 | 2023-05-13 |
-| [Do You Really Want To Hurt Me](https://open.spotify.com/track/0LPoUT1JqblTamBXpKXHtt) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:42 | 2022-05-18 |  |
+| [Do You Really Want To Hurt Me](https://open.spotify.com/track/0LPoUT1JqblTamBXpKXHtt) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:42 | 2022-05-18 | 2023-06-09 |
 | [Does your mother know](https://open.spotify.com/track/1bRflZJHVH5hj3UbLUNyBJ) | [Sonya](https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3) | [Bossanova Chill 1](https://open.spotify.com/album/3i1c4TS3vifZBHzCVF18i2) | 3:03 | 2023-02-20 | 2023-05-13 |
 | [Don't Be Cruel](https://open.spotify.com/track/59cT7sLcDp4hb7yAyRXK9T) | [Michelle Simonal](https://open.spotify.com/artist/6Q5cnVb5SfF6RWedEp57Al), [Nova Bossa Ltd.](https://open.spotify.com/artist/2jDHvU3y5xMaBc8u3O85nu) | [Don't Be Cruel](https://open.spotify.com/album/6Ud83VDDLhnMismOClsxZ1) | 2:51 | 2023-05-09 |  |
-| [Don't Know Why](https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Don't Know Why](https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8) | 2:59 | 2023-05-12 |  |
+| [Don't Know Why](https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Don't Know Why](https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8) | 2:59 | 2023-05-12 | 2023-06-09 |
 | [Don't Speak](https://open.spotify.com/track/16FVLMp4wNmVe471RB36He) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 4:13 | 2021-12-09 | 2023-04-21 |
 | [Don't Start Now \- Bossa Nova](https://open.spotify.com/track/7fKDV269Dp1y3zBNGtnLTo) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Don't Start Now \(Bossa Nova\)](https://open.spotify.com/album/02jsWzEDvRFwPNy8fvRg9t) | 3:18 | 2021-12-09 |  |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 | 2023-05-12 |  |
@@ -208,6 +209,7 @@
 | [The Look of Love](https://open.spotify.com/track/4QFWdoVXNASnP4bVOA3K5j) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [The Look of Love](https://open.spotify.com/album/30vVCXct2rsJHLGVVUW9pT) | 2:21 | 2021-12-09 |  |
 | [The Middle](https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [The Middle](https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix) | 3:48 | 2023-05-16 |  |
 | [The Rhythm of the Night \- Bossa Nova](https://open.spotify.com/track/7DozSLsVUbTWHupPiyYb3T) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [The Rhythm of the Night \(Bossa Nova\)](https://open.spotify.com/album/0w6iLHWXpRE3nDOUZOVzpF) | 3:12 | 2021-12-09 |  |
+| [Those Eyes](https://open.spotify.com/track/0WOmwVb006uBDBnUs7QkAH) | [Hot Spot Band](https://open.spotify.com/artist/280Ye8CB89v9PCZE1b2H8s), [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Those Eyes](https://open.spotify.com/album/3jkAaRwpTOhvNHWuQL5VV2) | 2:35 | 2023-06-08 |  |
 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 | 2021-12-09 |  |
 | [Umbrella \(Bossa Version\)](https://open.spotify.com/track/1RVjKn6pfJJGgVHx9I5sjw) | [Lua Blanco](https://open.spotify.com/artist/1shvlaBEDzIJGYhXbMxKJY) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 3:38 | 2021-12-09 | 2023-05-13 |
 | [Valerie](https://open.spotify.com/track/3FYkUS445ZbxKwe4wIWFkp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Velvet Vault](https://open.spotify.com/album/6UNWzTuMXf32wIZWtKiCvg) | 4:13 | 2021-12-09 | 2023-05-13 |

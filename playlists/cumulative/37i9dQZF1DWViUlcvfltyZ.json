@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Aggiornata ogni venerd\u00ec. MILANOSPORT in cover!",
+  "description": "La playlist che \u00e8 come andare ai concerti. Aggiornata ogni venerd\u00ec. OMINI in cover!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Acufeni",
+        "url": "https://open.spotify.com/album/7CxWEWxdO4P0Hxshmoqgdk"
+      },
+      "artists": [
+        {
+          "name": "Nobraino",
+          "url": "https://open.spotify.com/artist/0j8bZPtWT5Nf60PEarotFf"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209626,
+      "name": "Acufeni",
+      "url": "https://open.spotify.com/track/7gl0ggiK2seWoUZekpC994"
+    },
+    {
+      "album": {
         "name": "Aeroporto di citt\u00e0",
         "url": "https://open.spotify.com/album/5uu5BlWrM1msUIhiHlP04J"
       },
@@ -283,6 +301,24 @@
     },
     {
       "album": {
+        "name": "AIR 909",
+        "url": "https://open.spotify.com/album/52PialnUd1hFfa1DHIAiMG"
+      },
+      "artists": [
+        {
+          "name": "Human Colonies",
+          "url": "https://open.spotify.com/artist/0ovQRMWn970TPuWTw08lGk"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117090,
+      "name": "AIR 909",
+      "url": "https://open.spotify.com/track/4AVqvJLUnVuZlAVFUyxt7T"
+    },
+    {
+      "album": {
         "name": "CARNE OSSA",
         "url": "https://open.spotify.com/album/5iIkvPvQvxoYFSoaId1YCX"
       },
@@ -352,6 +388,24 @@
       "duration_ms": 187480,
       "name": "AMERICA",
       "url": "https://open.spotify.com/track/1KkPmyuTNbxjhylVrhoMKp"
+    },
+    {
+      "album": {
+        "name": "AMERICANIMA",
+        "url": "https://open.spotify.com/album/6qY9nHUtxEk1lQ9dpHfiHv"
+      },
+      "artists": [
+        {
+          "name": "Karakaz",
+          "url": "https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228961,
+      "name": "AMERICANIMA",
+      "url": "https://open.spotify.com/track/0m5cZKfVNulIf1YkrYtPoY"
     },
     {
       "album": {
@@ -636,7 +690,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 135017,
       "name": "BABY",
       "url": "https://open.spotify.com/track/7rat6YuFFrqCz7asAqQtMf"
@@ -935,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Broccoletti Goes Punk",
+        "url": "https://open.spotify.com/album/3NryFAzIjGgs8kWEdK06PR"
+      },
+      "artists": [
+        {
+          "name": "Marchiza",
+          "url": "https://open.spotify.com/artist/1dyLjZ261DhTy6Qq2EmNJJ"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159529,
+      "name": "Broccoletti Goes Punk",
+      "url": "https://open.spotify.com/track/1g8YIqdmnPl4B7YXtmWlKk"
+    },
+    {
+      "album": {
         "name": "BRUCIARE",
         "url": "https://open.spotify.com/album/4b5KqaR7e6S1q7OfTbZiXV"
       },
@@ -1156,7 +1228,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 151327,
       "name": "Candles",
       "url": "https://open.spotify.com/track/6ofXiQnzy0h8HvOs3P8zdy"
@@ -1751,6 +1823,28 @@
     },
     {
       "album": {
+        "name": "Cospiro (feat. Marta Del Grandi)",
+        "url": "https://open.spotify.com/album/4q2qVohJviUnFTj6flvcri"
+      },
+      "artists": [
+        {
+          "name": "Casino Royale",
+          "url": "https://open.spotify.com/artist/1OavCVgu5jGDNw4YVNkfgK"
+        },
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392195,
+      "name": "Cospiro (feat. Marta Del Grandi)",
+      "url": "https://open.spotify.com/track/0gWsnd9th1H2SBotR45tEp"
+    },
+    {
+      "album": {
         "name": "Cpr14",
         "url": "https://open.spotify.com/album/1TT1RZ8aAGVy04DVcv9oBt"
       },
@@ -1780,7 +1874,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 195986,
       "name": "Crepuscolo",
       "url": "https://open.spotify.com/track/2ynNY2fbbznv1JE5ePaNQ7"
@@ -3968,7 +4062,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 210754,
       "name": "L'ultimo Saluto (feat. DIVI)",
       "url": "https://open.spotify.com/track/2oyVIu3N49UpXTBHqZ2ddt"
@@ -4706,7 +4800,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 174063,
       "name": "Mille pare",
       "url": "https://open.spotify.com/track/2XzN0SolJ8TVddPRcfLeUN"
@@ -4778,7 +4872,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 172173,
       "name": "MON AMI",
       "url": "https://open.spotify.com/track/4yxhOocJntcw9cnksH7Zve"
@@ -4962,6 +5056,24 @@
       "duration_ms": 204610,
       "name": "Neanche un'ora sveglio",
       "url": "https://open.spotify.com/track/5uIlaWEQjpztXgax3dhUWs"
+    },
+    {
+      "album": {
+        "name": "Nebbia / Spirito Selvaggio",
+        "url": "https://open.spotify.com/album/1OybxCpUizA23WgF7Aytbi"
+      },
+      "artists": [
+        {
+          "name": "Spirito Di Lupo",
+          "url": "https://open.spotify.com/artist/0XSkDAZ3BpvIpAnFSEfxvC"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135356,
+      "name": "Nebbia",
+      "url": "https://open.spotify.com/track/2jfqipZueDmichQIwp1dG0"
     },
     {
       "album": {
@@ -5392,6 +5504,24 @@
       "duration_ms": 207533,
       "name": "Ok boomer (feat. Brunori Sas)",
       "url": "https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue"
+    },
+    {
+      "album": {
+        "name": "Una comune esperienza umana",
+        "url": "https://open.spotify.com/album/3WGZZVgobE2JFuASTZIZxp"
+      },
+      "artists": [
+        {
+          "name": "CALMI",
+          "url": "https://open.spotify.com/artist/1EMmg2PUpITYRwsGvpUWat"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Oki",
+      "url": "https://open.spotify.com/track/0tQyP1NLdenjVtxa2pLGw5"
     },
     {
       "album": {
@@ -5994,7 +6124,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 168775,
       "name": "Provare ancora",
       "url": "https://open.spotify.com/track/0iYojKItJ3j1RrKjcso0ia"
@@ -6248,7 +6378,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 250238,
       "name": "Russian roulette",
       "url": "https://open.spotify.com/track/78HTk9Utv4Kh5C0QIUv2q8"
@@ -6399,6 +6529,28 @@
     },
     {
       "album": {
+        "name": "SCEMO/ABBRACCIAMI",
+        "url": "https://open.spotify.com/album/20618vupO5mmUf4DoVYZAM"
+      },
+      "artists": [
+        {
+          "name": "GIUMO",
+          "url": "https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90"
+        },
+        {
+          "name": "Tanca",
+          "url": "https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168544,
+      "name": "SCEMO",
+      "url": "https://open.spotify.com/track/4rSrdsnhPhdQtTDfiX2rwA"
+    },
+    {
+      "album": {
         "name": "Schifo",
         "url": "https://open.spotify.com/album/30eeeEsrnWFz8wDaP5DRm1"
       },
@@ -6428,7 +6580,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 310624,
       "name": "Scogli",
       "url": "https://open.spotify.com/track/3FlpXM5vd7waXBXHoKs3qJ"
@@ -6468,6 +6620,24 @@
       "duration_ms": 197722,
       "name": "Seduci",
       "url": "https://open.spotify.com/track/4tDdBZoyhIgvyUueCEMxvG"
+    },
+    {
+      "album": {
+        "name": "Sei in un paese meraviglioso",
+        "url": "https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW"
+      },
+      "artists": [
+        {
+          "name": "Giancane",
+          "url": "https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200733,
+      "name": "Sei in un paese meraviglioso",
+      "url": "https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF"
     },
     {
       "album": {
@@ -7432,7 +7602,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 305893,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/6rZ9NSU1sZFY2SjCJ2Zjb2"
@@ -7818,6 +7988,24 @@
       "duration_ms": 165080,
       "name": "TUTTA FORTUNA",
       "url": "https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur"
+    },
+    {
+      "album": {
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/7iCLcQ9JCgxsQHOfjnBemZ"
+      },
+      "artists": [
+        {
+          "name": "Six Impossible Things",
+          "url": "https://open.spotify.com/artist/0pqpvyGrvayjTd66nAD3I7"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230093,
+      "name": "Twenty Something",
+      "url": "https://open.spotify.com/track/172v9IHQI0hCOjq8AI2cnC"
     },
     {
       "album": {

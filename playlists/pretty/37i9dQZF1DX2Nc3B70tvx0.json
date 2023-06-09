@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie of 2023. Arlo Parks drops her sophomore album. ",
-  "num_followers": 2228274,
+  "num_followers": 2226511,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTU3MmRjOTRlYzQ1NjBmMjNmM2ViYWUzY2M0NGQ0YzM5ZTQzNDc1",
+  "snapshot_id": "MCxiMThmZWUyOWMzNzIyNjQ3NzM5YmZjNzViOWI4NTNiNDg1MTAzOTRj",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -605,6 +605,22 @@
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
+      "added_at": "2023-05-11 23:52:26",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "First Two Pages of Frankenstein",
@@ -641,22 +657,6 @@
       "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
     },
     {
-      "added_at": "2023-05-11 23:52:26",
-      "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
       "added_at": "2023-04-21 01:46:20",
       "album": {
         "name": "Next Exit",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
+      "added_at": "2023-06-02 00:47:28",
+      "album": {
+        "name": "Lonerism (10 Year Anniversary Edition / Unreleased Demos)",
+        "url": "https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 322307,
+      "name": "Retina Show - Unreleased Demo",
+      "url": "https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3"
+    },
+    {
       "added_at": "2023-05-10 16:17:01",
       "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
@@ -709,22 +725,6 @@
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
     },
     {
-      "added_at": "2023-06-02 00:47:28",
-      "album": {
-        "name": "Lonerism (10 Year Anniversary Edition / Unreleased Demos)",
-        "url": "https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 322307,
-      "name": "Retina Show - Unreleased Demo",
-      "url": "https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3"
-    },
-    {
       "added_at": "2023-04-13 16:12:42",
       "album": {
         "name": "To Love",
@@ -739,26 +739,6 @@
       "duration_ms": 236838,
       "name": "To Love",
       "url": "https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT"
-    },
-    {
-      "added_at": "2023-06-02 00:47:28",
-      "album": {
-        "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
-        "url": "https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 159241,
-      "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
-      "url": "https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -807,6 +787,26 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "added_at": "2023-06-02 00:47:28",
+      "album": {
+        "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
+        "url": "https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 159241,
+      "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
+      "url": "https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Open My Door",
-        "url": "https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 153110,
-      "name": "Open My Door",
-      "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Walking Backwards",
@@ -955,6 +939,22 @@
       "duration_ms": 319986,
       "name": "Walking Backwards",
       "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Open My Door",
+        "url": "https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 153110,
+      "name": "Open My Door",
+      "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
     },
     {
       "added_at": "2023-04-21 01:46:20",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+        "name": "Cuts & Bruises",
+        "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
+      "duration_ms": 215906,
+      "name": "Just To Keep You Satisfied",
+      "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
     },
     {
       "added_at": "2023-05-19 03:05:34",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "Cuts & Bruises",
-        "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 215906,
-      "name": "Just To Keep You Satisfied",
-      "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq"
     },
     {
-      "added_at": "2023-04-21 01:46:20",
-      "album": {
-        "name": "Seaforth",
-        "url": "https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Seaforth",
-      "url": "https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j"
-    },
-    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "How Far We've Come",
@@ -1183,6 +1167,22 @@
       "duration_ms": 187860,
       "name": "How Far We've Come",
       "url": "https://open.spotify.com/track/53XX6aX3DurJGTYWtsu4VO"
+    },
+    {
+      "added_at": "2023-04-21 01:46:20",
+      "album": {
+        "name": "Seaforth",
+        "url": "https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Seaforth",
+      "url": "https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Is It Magic?",
@@ -1263,6 +1247,22 @@
       "duration_ms": 188727,
       "name": "Is It Magic?",
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2023-04-21 01:46:20",
@@ -1301,6 +1301,22 @@
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "The Ballad of Betty and Barney Hill",
+        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 196755,
+      "name": "The Ballad of Betty and Barney Hill",
+      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
+    },
+    {
       "added_at": "2023-04-13 16:12:42",
       "album": {
         "name": "Sofa Kings",
@@ -1331,22 +1347,6 @@
       "duration_ms": 190664,
       "name": "NYE",
       "url": "https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "The Ballad of Betty and Barney Hill",
-        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 196755,
-      "name": "The Ballad of Betty and Barney Hill",
-      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
     },
     {
       "added_at": "2023-04-14 01:22:02",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/46OscqytdMz8h0NtyntdWh"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "High Life",
-        "url": "https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 174663,
-      "name": "High Life",
-      "url": "https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH"
-    },
-    {
       "added_at": "2023-04-13 16:12:42",
       "album": {
         "name": "All We've Ever Wanted",
@@ -1481,20 +1465,20 @@
       "url": "https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Hooves",
-        "url": "https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz"
+        "name": "High Life",
+        "url": "https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS"
       },
       "artists": [
         {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
         }
       ],
-      "duration_ms": 163026,
-      "name": "Hooves",
-      "url": "https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg"
+      "duration_ms": 174663,
+      "name": "High Life",
+      "url": "https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH"
     },
     {
       "added_at": "2023-04-14 01:22:02",
@@ -1533,6 +1517,38 @@
       "url": "https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So"
     },
     {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Hooves",
+        "url": "https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "Hooves",
+      "url": "https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg"
+    },
+    {
+      "added_at": "2023-06-02 00:47:28",
+      "album": {
+        "name": "More Photographs (A Continuum)",
+        "url": "https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 253162,
+      "name": "Triumph",
+      "url": "https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg"
+    },
+    {
       "added_at": "2023-04-14 01:22:02",
       "album": {
         "name": "Slugs of Love",
@@ -1563,22 +1579,6 @@
       "duration_ms": 179360,
       "name": "Paper Houses",
       "url": "https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf"
-    },
-    {
-      "added_at": "2023-06-02 00:47:28",
-      "album": {
-        "name": "More Photographs (A Continuum)",
-        "url": "https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 253162,
-      "name": "Triumph",
-      "url": "https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg"
     },
     {
       "added_at": "2023-05-11 23:52:26",
@@ -1613,6 +1613,22 @@
       "url": "https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo"
     },
     {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+    },
+    {
       "added_at": "2023-05-19 03:05:34",
       "album": {
         "name": "Francine",
@@ -1643,38 +1659,6 @@
       "duration_ms": 163413,
       "name": "Action Figures Fighting",
       "url": "https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R"
-    },
-    {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
-    },
-    {
-      "added_at": "2023-04-21 01:46:20",
-      "album": {
-        "name": "Advantage",
-        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
-      },
-      "artists": [
-        {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Advantage",
-      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
     },
     {
       "added_at": "2023-05-19 03:05:34",
@@ -1715,6 +1699,22 @@
       "duration_ms": 220365,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
+    },
+    {
+      "added_at": "2023-04-21 01:46:20",
+      "album": {
+        "name": "Advantage",
+        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Advantage",
+      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
     }
   ],
   "unique_name": "Front Page Indie",

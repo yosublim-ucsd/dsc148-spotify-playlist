@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: NIKO NIKO TAN TAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,802 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,814 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 9 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 |
 | 10 | [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 |
 | 11 | [Yume wa Sametemo](https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yume wa Sametemo](https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP) | 3:41 |
-| 12 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 |
+| 12 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 |
 | 13 | [don't call me queen](https://open.spotify.com/track/6LEN840bmAq5qa1z9ZXVZr) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:14 |
 | 14 | [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 |
 | 15 | [SCENE!](https://open.spotify.com/track/56WASWOmOq6PGDA0NWuZOO) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [SCENE!](https://open.spotify.com/album/08O2jixS5hkpjsI0KZUzP2) | 2:26 |
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 19 | [lonely night](https://open.spotify.com/track/4AKKCEedcW2LbYOGy3MxAp) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [lonely night](https://open.spotify.com/album/0stQuNmMAxDmrffku01ZZ0) | 2:59 |
 | 20 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 |
 | 21 | [ハルケシ](https://open.spotify.com/track/35r5R6H2wyjkOsbvGh0YiX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハルケシ](https://open.spotify.com/album/5WLYwlMKYlv33hNEooeGy4) | 3:53 |
-| 22 | [EDEN](https://open.spotify.com/track/4jRREEnEK7gta1bdJsYyDD) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [EDEN](https://open.spotify.com/album/53wQpWZuveMWCC8woe9rmO) | 3:39 |
-| 23 | [遮二無二アイキャッチ](https://open.spotify.com/track/1Yq9CgUpZ4453lF89q4miA) | [Viewtrade](https://open.spotify.com/artist/5t0IQMpDwk0CQ0B1vmJxbi) | [遮二無二アイキャッチ](https://open.spotify.com/album/12diPhxY1KgE0NAxVP1a2W) | 3:40 |
-| 24 | [ハッピーエンドロール](https://open.spotify.com/track/5BH23jZbgBGKC05mST3uW8) | [Organic Call](https://open.spotify.com/artist/53YLHx1OfHgQ18JpRV5Bi5) | [夢泳ぐ鵠の行方](https://open.spotify.com/album/3uijqFclSCmAqYjB8df1rf) | 3:52 |
-| 25 | [Run](https://open.spotify.com/track/5o0vdr7UZ941BPZDwfZuaD) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season 1.5](https://open.spotify.com/album/3FM7BOJPcakm3tJr3UVTJs) | 3:20 |
-| 26 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 |
-| 27 | [UTOPIA](https://open.spotify.com/track/7sUomyof9ou8XfSi8irv2i) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [UTOPIA](https://open.spotify.com/album/58p4LspfYRwGqixVW1QhPf) | 2:45 |
-| 28 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
-| 29 | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/track/6LtMJVeESzRLu2qC7nvWSr) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/album/6sTC6wymaf3mxFRljQuFp9) | 3:47 |
-| 30 | [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 |
-| 31 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 |
+| 22 | [遮二無二アイキャッチ](https://open.spotify.com/track/1Yq9CgUpZ4453lF89q4miA) | [Viewtrade](https://open.spotify.com/artist/5t0IQMpDwk0CQ0B1vmJxbi) | [遮二無二アイキャッチ](https://open.spotify.com/album/12diPhxY1KgE0NAxVP1a2W) | 3:40 |
+| 23 | [ハッピーエンドロール](https://open.spotify.com/track/5BH23jZbgBGKC05mST3uW8) | [Organic Call](https://open.spotify.com/artist/53YLHx1OfHgQ18JpRV5Bi5) | [夢泳ぐ鵠の行方](https://open.spotify.com/album/3uijqFclSCmAqYjB8df1rf) | 3:52 |
+| 24 | [Run](https://open.spotify.com/track/5o0vdr7UZ941BPZDwfZuaD) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season 1.5](https://open.spotify.com/album/3FM7BOJPcakm3tJr3UVTJs) | 3:20 |
+| 25 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 |
+| 26 | [UTOPIA](https://open.spotify.com/track/7sUomyof9ou8XfSi8irv2i) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [UTOPIA](https://open.spotify.com/album/58p4LspfYRwGqixVW1QhPf) | 2:45 |
+| 27 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
+| 28 | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/track/6LtMJVeESzRLu2qC7nvWSr) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/album/6sTC6wymaf3mxFRljQuFp9) | 3:47 |
+| 29 | [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 |
+| 30 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 |
+| 31 | [七等星](https://open.spotify.com/track/6Hhm0xkX1GWjKOzsLoPoso) | [米澤森人](https://open.spotify.com/artist/1Qe02gmlgbCvJsKM1CRqLU) | [七等星](https://open.spotify.com/album/11xHFA2zWuSRbdsfnCspDH) | 3:32 |
 | 32 | [After All](https://open.spotify.com/track/2hsIDYYI4J7hdJeRsiSss0) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [After All](https://open.spotify.com/album/1DkbzERh9lwu0l4N5LYk2H) | 3:38 |
 | 33 | [shower room rendezvous](https://open.spotify.com/track/4656G8EnjFhXdKQDpTnUPg) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [shower room rendezvous](https://open.spotify.com/album/04nZ0av3cPzR8J32FSwjbw) | 3:24 |
 | 34 | [花も咲かない束の間に](https://open.spotify.com/track/4ddWp9Fwhl1lUpnjWF6e4f) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [花も咲かない束の間に](https://open.spotify.com/album/0WOkn4kM1h2Cc0o5EaulNa) | 5:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [とりとめもなく](https://open.spotify.com/track/3HlG8qaLe6CurV3AoFgzrs) | [SPRINGMAN](https://open.spotify.com/artist/4LZ9A4yEqrFENhEVdzyPi8) | [とりとめもなく](https://open.spotify.com/album/7ol3aw2wOOL9hAXbQVOcRc) | 3:58 |
 | 70 | [未明](https://open.spotify.com/track/1B4cltbGuv8o0Rq7PN5V6O) | [poor man's rose](https://open.spotify.com/artist/63OLmcaJaxBiEEq9JRl7E1) | [I'm Fine](https://open.spotify.com/album/7kp13qXZJCTqIizbBKwR2n) | 3:56 |
 
-Snapshot ID: `MCxjNjViNWYwZTBkNzhlM2MwNjlmZWY5NzExYzdlMjg5MzA5OTA0NmIx`
+Snapshot ID: `MCw4M2U3NTAxODc2ZDlhODJjZTEwYWE5YWJiMmZmM2ZjODJkMjYxYmNm`

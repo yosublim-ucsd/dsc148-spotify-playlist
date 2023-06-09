@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,198 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,246 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [A Cuca](https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [A Cuca](https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK) | 3:18 |
 | 50 | [Fiz Minha Unha](https://open.spotify.com/track/5IYtUJ9foHzJi2CzzARkIe) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Fiz Minha Unha](https://open.spotify.com/album/55IqlpNBxtJPpfGbWHOayn) | 2:26 |
 
-Snapshot ID: `MCwwMWQ3MjgwMDE4ZTVmNzk3ZDNiODM0OGE5NDUyM2ZkMTNjMmVjYjMy`
+Snapshot ID: `MCwxZTQzYjkyMDQyY2E4YTdlNjJkMTY4YTQ3MDk1ZWI3NTdjNWYxMDI2`

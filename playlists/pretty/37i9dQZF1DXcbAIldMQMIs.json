@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 492140,
+  "num_followers": 492238,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2NmOGQ5ZDYzMjQzMGU5MDgzYjFlODQyNWMwODA4NjdkYjM0YjY2",
+  "snapshot_id": "MCxlMzMyZGU1YjE5MjcwZWMzZTgzODRjMDY0MTRhNGZmMDczODUyYThm",
   "tracks": [
     {
       "added_at": "2023-02-21 22:48:01",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "I miss you, I\u2019m sorry",
-      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 210285,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "I miss you, I\u2019m sorry",
+      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Do You Love Me, or Are You Just Lonely?",
         "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 316556,
       "name": "A Soulmate Who Wasn\u2019t Meant to Be",
       "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "striptease",
-        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
-      },
-      "artists": [
-        {
-          "name": "carwash",
-          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "striptease",
-      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Historian",
         "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 391829,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
+      },
+      "artists": [
+        {
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+        }
+      ],
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "Dirty Secrets",
-        "url": "https://open.spotify.com/album/7J2iocHysqZJTCTUtrdTfa"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "Dirty Secrets",
-      "url": "https://open.spotify.com/track/0X0V9wIUr47ZqbFqLfZqX5"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Sunset Season",
         "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 204120,
       "name": "Crush Culture",
       "url": "https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "Dirty Secrets",
+        "url": "https://open.spotify.com/album/7J2iocHysqZJTCTUtrdTfa"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "Dirty Secrets",
+      "url": "https://open.spotify.com/track/0X0V9wIUr47ZqbFqLfZqX5"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Patched Up",
         "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 223638,
       "name": "If You Want To",
       "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
     },
     {
       "added_at": "2023-02-21 22:48:01",

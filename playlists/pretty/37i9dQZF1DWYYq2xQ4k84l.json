@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 26198,
+  "num_followers": 26267,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWExNzBkMDYwZDQ0M2YwODJiODJjNGYxMzIyYWRjNjczM2U2M2Yw",
+  "snapshot_id": "MCxlZTVjYzkxYTRlYTIwYjRkMjc1NjYxOTE2M2NjODBhNWQ0NjM2ZTZk",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -531,18 +531,18 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
+        "name": "Aerosoul",
+        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
         }
       ],
-      "duration_ms": 217146,
-      "name": "Todo se transforma",
-      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
+      "duration_ms": 246200,
+      "name": "Tocando Fondo",
+      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -563,18 +563,18 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Aerosoul",
-        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
       },
       "artists": [
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 246200,
-      "name": "Tocando Fondo",
-      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
+      "duration_ms": 217146,
+      "name": "Todo se transforma",
+      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Pafuera Telara\u00f1as",
-        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
-      },
-      "artists": [
-        {
-          "name": "Bebe",
-          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Siempre me quedar\u00e1",
-      "url": "https://open.spotify.com/track/3iHJm7dUroZYvbqrhobLZs"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Jardin",
         "url": "https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC"
       },
@@ -675,18 +659,34 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+        "name": "Pafuera Telara\u00f1as",
+        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
       },
       "artists": [
         {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+          "name": "Bebe",
+          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
         }
       ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
+      "duration_ms": 229373,
+      "name": "Siempre me quedar\u00e1",
+      "url": "https://open.spotify.com/track/3iHJm7dUroZYvbqrhobLZs"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Aerosoul",
+        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
         "name": "Coleccion Cristiana",
         "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 195653,
       "name": "Las Avispas",
       "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "Aerosoul",
-        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp"
     },
     {
       "added_at": "2021-12-22 23:41:59",

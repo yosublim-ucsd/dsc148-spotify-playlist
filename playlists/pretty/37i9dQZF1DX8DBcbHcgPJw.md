@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Migrantes & La Joaqui, bebee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,193 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,477 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 41 | [Tranquila](https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Tranquila](https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj) | 3:03 |
 | 42 | [Si Me Tomo una Cerveza \- Remix](https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Si Me Tomo una Cerveza \(Remix\)](https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks) | 3:57 |
 | 43 | [Aunque Te Enamores](https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Aunque Te Enamores](https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA) | 2:10 |
-| 44 | [No Te Contaron Mal](https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [No Te Contaron Mal](https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl) | 2:56 |
-| 45 | [Locuras contigo](https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:11 |
+| 44 | [Locuras contigo](https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:11 |
+| 45 | [No Te Contaron Mal](https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [No Te Contaron Mal](https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl) | 2:56 |
 | 46 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 |
 | 47 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 |
 | 48 | [Carnavalintro](https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Otro](https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 99 | [MAL AHÍ](https://open.spotify.com/track/76yC0nTceLTh1wW1NfxoJe) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [MAL AHÍ](https://open.spotify.com/album/5AhhiMMEQ3cRzhcrSxXel6) | 2:20 |
 | 100 | [Chica Brasileña](https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU) | 2:27 |
 
-Snapshot ID: `MCw1MmNmNzkzMGE0ODM2MmQ1MjY1NjIyZDQ3ZDY2YmY0NWFhZGExYTc4`
+Snapshot ID: `MCxhN2NlNjM5NjcyZmM1MzFiMmRlN2M4MGZiZGVmMDUxODYxZmJiYWE1`

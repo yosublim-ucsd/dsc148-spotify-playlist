@@ -4,7 +4,7 @@
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-150 songs - 12 hr 49 min
+151 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Love Is Here To Stay](https://open.spotify.com/track/418awaNpluyE2Lvoh6lD0p) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 4:22 | 2021-12-17 | 2022-03-05 |
 | [Lovely to Look At \- Remastered 2020](https://open.spotify.com/track/3QZUeCYGIMvoOohTDGaqSp) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Gershwin & Kern \(Octave Remastered Series\)](https://open.spotify.com/album/5vHF5rFsMMl3K0cdNTLQ9o) | 2:36 | 2022-06-29 |  |
 | [Lovely to Look At \- Remastered 2020](https://open.spotify.com/track/4GX1jcZDOdxKSEDfloNVqg) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Lovely to Look At \(Remastered 2020\)](https://open.spotify.com/album/7lRiAdH4AhVuUDlNStJTD4) | 2:36 | 2021-12-17 | 2022-07-29 |
+| [Lucky Spin](https://open.spotify.com/track/1IM53QBdtHo9fZxfsIg9dW) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lucky Spin](https://open.spotify.com/album/1EHgihzyClIi521GIwcCb7) | 3:44 | 2023-06-08 |  |
 | [Mack The Knife](https://open.spotify.com/track/4tJb85eDxIIm2frcwb8PAG) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson Trio Plus One](https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp) | 5:15 | 2022-03-04 |  |
 | [Metamorphosis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/6dNNF5G1fQOYbFlHXIqWtI) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 7:18 | 2022-02-24 |  |
 | [Mo' Better Blues](https://open.spotify.com/track/3CGqAtOKUe4pn3j9kOKp4J) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Mo' Better Blues](https://open.spotify.com/album/0hxR5dlIVm8EwblNwNGzM4) | 3:50 | 2021-12-17 | 2022-03-05 |

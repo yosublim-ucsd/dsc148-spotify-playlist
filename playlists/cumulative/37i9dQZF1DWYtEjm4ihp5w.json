@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Demon324",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Stormy",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -216,6 +216,24 @@
       "duration_ms": 206831,
       "name": "BEAST MODE",
       "url": "https://open.spotify.com/track/0SQPT4wCGUqS2xecqBSwjl"
+    },
+    {
+      "album": {
+        "name": "Before Iceberg",
+        "url": "https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155227,
+      "name": "Before Iceberg",
+      "url": "https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi"
     },
     {
       "album": {
@@ -458,7 +476,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 249183,
       "name": "DOUBLEZUKSH",
       "url": "https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir"

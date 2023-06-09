@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 176058,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04"
@@ -992,6 +992,24 @@
       "duration_ms": 111000,
       "name": "figurati",
       "url": "https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4"
+    },
+    {
+      "album": {
+        "name": "Five Cornered Room",
+        "url": "https://open.spotify.com/album/04AbFpNCNq5Az76OyS0MR1"
+      },
+      "artists": [
+        {
+          "name": "Golden Horses",
+          "url": "https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166257,
+      "name": "Five Cornered Room",
+      "url": "https://open.spotify.com/track/41iPgjTzfG65v54L3pwst9"
     },
     {
       "album": {
@@ -2994,7 +3012,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-09",
       "duration_ms": 137902,
       "name": "Softly Falling - Guitar Version",
       "url": "https://open.spotify.com/track/0SvvodEiTxOor9LbluX31v"
@@ -3448,6 +3466,24 @@
       "duration_ms": 149693,
       "name": "Tintern Abbey",
       "url": "https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1"
+    },
+    {
+      "album": {
+        "name": "Shining in the Shade",
+        "url": "https://open.spotify.com/album/02DUOVZpVb47edaTaNTBPT"
+      },
+      "artists": [
+        {
+          "name": "D\u00f6ssell",
+          "url": "https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200981,
+      "name": "To The Train",
+      "url": "https://open.spotify.com/track/1f8zxyXpm6WkSA0az7Wjry"
     },
     {
       "album": {
